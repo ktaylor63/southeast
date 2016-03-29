@@ -4,18 +4,24 @@
   "description": "Source code the the Southeast Region website of the U.S. Fish and Wildlife Service",
   "main": "index.js",
   "watch": {
-    "hugo": "site/**/*.{md,html,js,css}"
+    "hugo:dev": {
+      "patterns": [
+        "site/**/*"
+      ],
+      "extensions": "html,md,ace,css,js,jpg,png"
+    }
   },
   "scripts": {
     "watch": "npm-watch",
+    "hero": "node build/hero",
     "lastmod": "node build/last-mod",
     "mkdist": "node build/create-dist",
     "hugo:dev": "node build/hugo -- /",
     "hugo:stage": "node build/hugo -- https://intranet.fws.gov/region4/demo/",
     "hugo:pro": "node build/hugo -- http://www.fws.gov/southeast/",
-    "serve": "browser-sync start --server --files 'dist/*'",
+    "serve": "browser-sync start --server dist --files 'dist/**/*' --logLevel silent",
     "prestart": "npm run mkdist",
-    "start": "npm run serve & npm run lastmod"
+    "start": "npm run serve & npm run lastmod & npm run watch"
   },
   "keywords": [
     "Government",
@@ -28,10 +34,15 @@
     "browser-sync": "^2.11.1",
     "chokidar": "^1.4.3",
     "gray-matter": "^2.0.2",
+    "gulp-rename": "^1.2.2",
+    "imagemin": "^4.0.0",
+    "mkdirp": "^0.5.1",
     "moment": "^2.12.0",
     "npm-watch": "^0.1.1",
     "postcss-cli": "^2.5.1",
     "replace-in-file": "^1.0.2",
+    "rimraf": "^2.5.2",
+    "sharp": "^0.13.1",
     "yamljs": "^0.2.6"
   }
 }
