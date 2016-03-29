@@ -3,8 +3,8 @@ node_modules
 npm-debug.log
 
 # Generated
-static/css
-static/images/hero
+site/static/css
+site/static/images/hero
 dist
 
 # Mac stuff
