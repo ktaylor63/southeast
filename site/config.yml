@@ -1,14 +1,14 @@
 baseurl: "http://replace-this-with-your-hugo-site.com/"
-lang: "en-us"
 title: "Southeast Region | U.S. Fish and Wildlife Service"
 
 pluralizelisttitles: false
 canonifyurls: true
 
+googleAnalytics: UA-21323598-1
+
 # Custom Defined Site Wide Variables
 params:
   hero:
-  analytics: UA-21323598-1
   twitter: usfwssoutheast
   github:  usfws
   facebook: usfwssoutheast
