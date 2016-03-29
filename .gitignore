@@ -1,5 +1,9 @@
+# Third Party
 node_modules
+
+# Generated
 dist
+static/images/hero
 
 # Mac stuff
 .DS_Store
