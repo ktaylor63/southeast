@@ -1,5 +1,6 @@
 ---
 title: 'Recovering Endangered and Threatened Species'
+description: 'After a plant or animal is listed as protected under the Endangered Species Act, U.S. Fish and Wildlife Service biologists must determine what the species needs in order to achieve recovery, meaning it no longer requires federal protection.'
 tags:
     - 'endangered species'
     - 'threatened species'
