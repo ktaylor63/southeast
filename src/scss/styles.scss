@@ -1,2 +1,7 @@
-@import 'susy/language/susy';
-@import 'footer';
+@import 'variables';
+@import 'vendor/manifest';
+@import 'helpers/manifest';
+@import 'base/manifest';
+@import 'layout/manifest';
+@import 'components/manifest';
+@import 'pages/manifest';

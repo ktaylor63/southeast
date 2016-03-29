@@ -1,0 +1,15 @@
+a {
+  color: $color-accent;
+
+  &:hover {
+    color: $color-text;
+  }
+
+  &:active {
+    color: $color-primary;
+  }
+
+  &:visited {
+    color: $color-accent;
+  }
+}
