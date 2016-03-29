@@ -6,9 +6,7 @@ tags:
     - fire
     - 'land management'
     - 'national wildlife refuges'
-aliases:
-    - southeastfire
-lastUpdate: 'March 29th, 2016'
+updated: 'March 29th, 2016'
 ---
 
 # Keeping Fire on Our Side
