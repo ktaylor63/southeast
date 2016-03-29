@@ -23,7 +23,7 @@
     "watch:sass": "node-sass -w src/scss/styles.scss site/static/css/styles.css",
     "build:sass": "node-sass --output-style compressed src/scss/styles.scss | postcss -u autoprefixer -o site/static/css/styles.css",
     "prestart": "npm run mkdist",
-    "start": "npm run serve & npm run lastmod & npm run watch"
+    "start": "npm run hero & npm run watch:sass & npm run serve & npm run lastmod & npm run watch"
   },
   "keywords": [
     "Government",
