@@ -7,7 +7,6 @@ tags:
     - 'land management'
     - 'national wildlife refuges'
 aliases:
-    - fire
     - southeastfire
 lastUpdate: 'March 29th, 2016'
 ---
