@@ -20,6 +20,8 @@
     "hugo:stage": "node build/hugo -- https://intranet.fws.gov/region4/demo/",
     "hugo:pro": "node build/hugo -- http://www.fws.gov/southeast/",
     "serve": "browser-sync start --server dist --files 'dist/**/*' --logLevel silent",
+    "watch:sass": "node-sass -w src/scss/styles.scss site/static/css/styles.css",
+    "build:sass": "node-sass --output-style compressed src/scss/styles.scss | postcss -u autoprefixer -o site/static/css/styles.css",
     "prestart": "npm run mkdist",
     "start": "npm run serve & npm run lastmod & npm run watch"
   },
@@ -38,6 +40,7 @@
     "imagemin": "^4.0.0",
     "mkdirp": "^0.5.1",
     "moment": "^2.12.0",
+    "node-sass": "^3.4.2",
     "npm-watch": "^0.1.1",
     "postcss-cli": "^2.5.1",
     "replace-in-file": "^1.0.2",
