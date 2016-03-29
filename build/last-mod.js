@@ -8,7 +8,7 @@
   var yaml = require('yamljs');
 
   // If you want to use something other than lastUpdate change this var
-  var propertyName = 'lastUpdate';
+  var propertyName = 'updated';
   var contentDir = 'site/content/*.{md,html}';
   var dateFormat = 'MMMM Do, YYYY';
 
