@@ -10,6 +10,6 @@ html lang="en_US"
       .container#content
         = yield main
     // = include partials/glossary.html .
-    // = include partials/footer.html .
+    = include partials/footer.html .
     // = include partials/share.html .
     // = include partials/scripts.html .
