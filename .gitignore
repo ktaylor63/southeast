@@ -1,9 +1,11 @@
 # Third Party
 node_modules
+npm-debug.log
 
 # Generated
-dist
+static/css
 static/images/hero
+dist
 
 # Mac stuff
 .DS_Store
