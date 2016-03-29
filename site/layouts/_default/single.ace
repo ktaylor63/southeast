@@ -1,6 +1,5 @@
 = content main
   .side-nav
   .main role="main"
-    h1.page-title {{ .Title }}
     // = include partials/breadcrumbs.html .
     {{ .Content }}
