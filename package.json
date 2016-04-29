@@ -4,6 +4,7 @@
   "description": "Source code the the Southeast Region website of the U.S. Fish and Wildlife Service",
   "main": "index.js",
   "watch": {
+    "svgo": "src/images/svg/*.svg",
     "hugo:dev": {
       "patterns": [
         "site/**/*"
@@ -14,6 +15,7 @@
   "scripts": {
     "watch": "npm-watch",
     "hero": "node build/hero",
+    "svgo": "svgo -f src/images/svg -o site/static/images/svg",
     "lastmod": "node build/last-mod",
     "mkdist": "node build/create-dist",
     "hugo:dev": "node build/hugo -- /",
