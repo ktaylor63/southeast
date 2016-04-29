@@ -5,6 +5,7 @@ npm-debug.log
 # Generated
 site/static/css
 site/static/images/hero
+site/static/images/svg
 dist
 
 # Mac stuff
