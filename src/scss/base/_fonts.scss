@@ -35,6 +35,17 @@
 }
 
 @font-face {
+  font-family: 'Material Icons';
+  src: url('../fonts/MaterialIcons-Regular.eot');
+  src: url('../fonts/MaterialIcons-Regular.eot?#iefix') format('embedded-opentype'),
+     url('../fonts/MaterialIcons-Regular.woff2') format('woff2'),
+     url('../fonts/MaterialIcons-Regular.woff') format('woff'),
+     url('../fonts/MaterialIcons-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
     font-family: 'Source Sans';
     src: url('../fonts/sourcesanspro-regular-webfont.eot');
     src: url('../fonts/sourcesanspro-regular-webfont.eot?#iefix') format('embedded-opentype'),
@@ -44,5 +55,23 @@
          url('../fonts/sourcesanspro-regular-webfont.svg#source_sans_proregular') format('svg');
     font-weight: 400;
     font-style: normal;
+}
 
+.material-icons {
+  display: inline-block;
+  font-family: 'Material Icons';
+  font-size: 24px;
+  font-style: normal;
+  font-weight: normal;
+  width: 1em;
+  height: 1em;
+  line-height: 1;
+  text-transform: none;
+  letter-spacing: normal;
+  word-wrap: normal;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+  font-feature-settings: 'liga';
 }
