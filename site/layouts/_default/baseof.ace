@@ -4,7 +4,7 @@ html lang="en_US"
     = include partials/head.html .
   body
     a#skip-to-content href=#content skip to content
-    // = include partials/navigation.html .
+    = include partials/navigation.html .
     .wrapper
       // = include partials/hero.html .
       .container#content
