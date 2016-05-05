@@ -1,5 +1,6 @@
 li class="teaser teaser-{{ .Type }}"
-  a href={{ .Permalink }} {{ .Title }}
+  h3
+    a href={{ .Permalink }} {{ .Title }}
   p {{ .Date.Format "January 2, 2006" }}
   p {{ .Summary }}
   p
