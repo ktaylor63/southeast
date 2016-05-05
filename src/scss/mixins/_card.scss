@@ -1,0 +1,13 @@
+@mixin card($level: 1) {
+  @include shadow(1);
+  background: $color-muted;
+  display: block;
+  margin: $leading 0;
+  padding: $leading;
+  transition: all $transition-duration;
+
+  &:hover {
+    @include shadow(3);
+    transform: translateY(-5px);
+  }
+}
