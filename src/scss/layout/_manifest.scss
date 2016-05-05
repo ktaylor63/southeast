@@ -1,0 +1,8 @@
+.wrapper {
+  padding: 3%;
+
+  // Account for the docked navbar
+  @media (min-width: $break-md) {
+    margin-right: $nav-width;
+  }
+}
