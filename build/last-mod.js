@@ -9,7 +9,7 @@
 
   // If you want to use something other than lastUpdate change this var
   var propertyName = 'updated';
-  var contentDir = 'site/content/*.{md,html}';
+  var contentDir = 'site/content/**/*.{md,html}';
   var dateFormat = 'MMMM Do, YYYY';
 
   chokidar.watch(contentDir).on('change', updateFrontMatter);
