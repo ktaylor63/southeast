@@ -1,0 +1,136 @@
+.breadcrumbs {
+  list-style: none;
+  display: inline-block;
+  padding: 0;
+  position: relative;
+
+  li {
+    float: left;
+
+    &:first-child::after {
+      content: '';
+    }
+
+    a {
+      &:first-child {
+        text-decoration: none;
+      }
+    }
+
+    &::after {
+      content: ' / ';
+      margin-right: 5px;
+    }
+
+    &:last-child::after {
+      content: '';
+      margin-right: 0;
+    }
+  }
+
+  @media (min-width: $break-md) {
+    margin: $leading 0 0;
+
+    li {
+      float: left;
+
+      &::after {
+        content: '';
+      }
+
+      a {
+        background: $color-accent;
+        color: $color-white;
+        display: block;
+        height: 40px;
+        line-height: 40px;
+        margin-right: 23px;
+        padding: 0 10px 0 5px;
+        position: relative;
+        text-align: center;
+        text-decoration: none;
+
+        &:before,
+        &:after {
+          border: 0 solid $color-accent;
+          border-width: 20px 10px;
+          content: '';
+          height: 0;
+          position: absolute;
+          top: 0;
+          width: 0;
+        }
+
+        &:before {
+          border-left-color: transparent;
+          left: -20px;
+        }
+
+        &:after {
+          border-color: transparent;
+          border-left-color: $color-accent;
+          left:100%;
+        }
+
+        &:hover {
+          background-color: darken($color-accent, 5);
+
+          &:before {
+            border-color: darken($color-accent, 5);
+            border-left-color: transparent;
+           }
+
+          &:after {
+            border-left-color: darken($color-accent, 5);
+            content: '';
+          }
+        }
+
+        &:active {
+          background-color: darken($color-accent, 5);
+
+          &:before {
+            border-color: darken($color-accent, 5);
+            border-left-color: transparent;
+           }
+
+          &:after {
+            border-left-color: darken($color-accent, 5);
+            content: '';
+          }
+        }
+      }
+
+      &:first-child {
+
+        a {
+          border-bottom-left-radius: $border-radius;
+          border-top-left-radius: $border-radius;
+          padding-left: 15px;
+          width: 45px;
+
+          &:before {
+            border: 0;
+          }
+        }
+      }
+
+      &:last-child {
+
+        a {
+          border-bottom-right-radius: $border-radius;
+          border-top-right-radius: $border-radius;
+          padding-right: 15px;
+
+          &:after {
+            border: 0;
+           }
+        }
+      }
+    }
+  }
+}
+
+.breadcrumbs a::after {
+  content: '';
+}
