@@ -1,0 +1,7 @@
+= content main
+  h1 Southeastern States
+  ul.state-list
+    {{ range .Data.Pages }}
+      li
+        a href={{ .Permalink}} {{ .Title }}
+    {{ end }}
