@@ -1,0 +1,9 @@
+= content main
+  {{ $paginator := .Paginate .Data.Pages }}
+  h1 Tag: {{ .Title }}
+  p The content below has been tagged with the term &ldquo;{{ .Title }}.&rdquo;
+  ul.teaser-list
+  {{ range  $paginator.Pages }}
+    {{ .Render "teaser" }}
+  {{ end }}
+  {{ template "_internal/pagination.html" . }}
