@@ -1,8 +1,10 @@
 .wrapper {
+  @include container($container-width);
+  margin: auto;
   padding: 3%;
 
   // Account for the docked navbar
   @media (min-width: $break-md) {
-    margin-right: $nav-width;
+    padding-right: $nav-width + 15px;
   }
 }
