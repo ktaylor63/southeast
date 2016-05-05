@@ -1,0 +1,39 @@
+---
+title: Service Releases 2014 List of Candidates for Endangered Species Act Protection
+date: 2014-12-05
+tags:
+ - At-Risk species
+---
+
+The U.S. Fish and Wildlife Service has released the Candidate Notice of Review, a yearly status appraisal of plants and animals that are candidates for Endangered Species Act (ESA) protection. Twenty-two species from Hawaii and one from Independent Samoa and American Samoa were added to the candidate list, one species was removed, and one has changed in priority from the last review conducted in November 2013\. There are now [146 species recognized by the Service as candidates for ESA protection](http://ecos.fws.gov/tess_public/pub/SpeciesReport.do?listingType=C&mapstatus=1).
+
+The Service is now soliciting additional information on these species and others that may warrant ESA protection to assist in preparing listing documents and future revisions or supplements to the Candidate Notice of Review.
+
+Candidate species are plants and animals for which the Service has enough information on their status and the threats they face to propose as threatened or endangered, but for which a proposed listing rule is precluded by other, higher priority listing actions. The annual review and identification of candidate species helps landowners and natural resource managers understand which species need conservation action, allowing them to address threats and work to preclude ESA listing.
+
+In fiscal year 2015, which began October 1, the Service expects to propose or finalize listing decisions on 18 southeastern candidate species. A chart listing those species, their historical ranges and targeted _Federal Register_ publication dates is available at [http://www.fws.gov/southeast/candidateconservation/pdf/Southeast-Listing-Actions.pdf](http://www.fws.gov/southeast/candidateconservation/pdf/Southeast-Listing-Actions.pdf)
+
+In the Southeast, the Service is aggressively pursuing opportunities to collaborate with individuals, organizations and local, state, and federal agencies interested in undertaking proactive conservation efforts for candidate species. This effort, known as “at-risk” species conservation, seeks to get good conservation work done and preclude the need to list species under the ESA.  So far, the effort is responsible for successfully removing more than 40 at-risk species found in the Southeast, including several species from the candidate list. The [Yadkin River goldenrod](http://www.fws.gov/asheville/htmls/conservation_issues/YadkinRiverGoldenrod.html) and the [Georgia aster](http://www.fws.gov/asheville/htmls/conservation_issues/GAAster.html) are two examples of candidate species that have been precluded from listing thanks to proactive conservation efforts.
+
+Although candidate species do not receive ESA protection, the Service works to conserve them and their habitats using several tools: a [grants program](http://www.fws.gov/endangered/grants/index.html) funds conservation projects by private landowners, states and territories; and two voluntary programs ­– [Candidate Conservation Agreements](http://www.fws.gov/endangered/what-we-do/cca.html) (CCAs) and Candidate Conservation Agreements with Assurances (CCAAs) ­– engage participants to implement specific actions that remove or reduce the threats to candidate species, which helps stabilize or restore the species and can preclude ESA listing.
+
+All candidate species are assigned a listing priority number based on the magnitude and imminence of the threats they face. When adding species to the list of threatened or endangered species, the Service addresses species with the highest listing priority first. Today’s notice announces changes in priority for one species – Sprague’s pipit – based on a reduction in the imminence of the threat from conversion of habitat on the bird’s breeding grounds.
+
+The complete notice and list of proposed and candidate species is published in the _Federal Register_ and can be found online at [http://www.fws.gov/endangered/what-we-do/cnor.html](http://www.fws.gov/endangered/what-we-do/cnor.html).
+
+**Contact(s):**  
+
+Christina Meister, USFWS Headquarters  
+703-358-2284  
+[christina_meister@fws.gov](mailto:christina_meister@fws.gov)
+
+Tom MacKenzie, USFWS Southeast Region  
+404-679-7291  
+[Tom_MacKenzie@fws.gov](mailto:Tom_MacKenzie@fws.gov)
+
+* * *
+
+![Clumps of purple daisy-like flowers.](images/newsUploads/newsThumbs/newsImageThumb1ADF85A3-D50B-BB75-48BE56D62F1C02CF.jpg)
+
+Georgia aster. Credit: Michele Elmore / The Nature Conservancy  
+[Higher Quality Version of Image](http://www.fws.gov/asheville/photos/Georgia%20aster%20flowers%20for%20distribution%20Credit%20Michele%20Elmore%20TNC-GA.jpg)
