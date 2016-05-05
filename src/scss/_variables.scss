@@ -8,14 +8,17 @@ $color-primary: $light-green;
 $color-accent: $dark-green;
 $color-text: $dark-gray;
 $color-white: $white;
+$color-muted: lighten($color-text, 70);
 
 // Fonts
 $serif: Merriweather, Georgia, Verdana, serif;
 $sans-serif: 'Source Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 
 // Breakpoints
-$break-lg: 900px;
+$break-xs: 400px;
+$break-sm: 500px;
 $break-md: 600px;
+$break-lg: 900px;
 
 // Transitions
 $transition-duration: .3s;
