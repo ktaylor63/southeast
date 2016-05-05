@@ -1,0 +1,11 @@
+li class="teaser teaser-{{ .Type }}"
+  a href={{ .Permalink }} {{ .Title }}
+  p {{ .Date.Format "January 2, 2006" }}
+  p {{ .Summary }}
+  p
+    a href={{ .Permalink }} Read the full release
+  ul.tag-list
+    {{ range .Params.tags }}
+    li.tag
+      a href=/tags/{{ . | urlize }} {{ . }}
+    {{ end }}

@@ -1,0 +1,8 @@
+= content main
+  h1.page-title {{ .Title }}
+  ul.tag-list
+    {{ range .Params.tags }}
+    li.tag
+      a href=/tags/{{ . | urlize }} {{ . }}
+    {{ end }}
+  {{ .Content }}
