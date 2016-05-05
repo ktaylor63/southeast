@@ -1,12 +1,10 @@
 @mixin button($color: $color-accent, $bg: $color-white) {
   background: $bg;
-  border: 3px solid $color;
+  border: 3px solid darken($color, 5);
   color: $color;
   transition: background $transition-duration ease-out, color $transition-duration ease-out;
 
   &:hover {
-    background: $color;
-    border: 3px solid $bg;
-    color: $bg;
+    background: darken($bg, 5);
   }
 }
