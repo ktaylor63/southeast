@@ -1,0 +1,39 @@
+.pagination {
+  list-style: none;
+  padding: 0;
+  text-align: center;
+
+  li {
+    @include button($color-white, $color-accent);
+    display: inline-block;
+    padding: 0;
+
+    a {
+      color: $color-white;
+      display: block;
+      padding: .5em 1em;
+      text-decoration: none;
+    }
+
+    &.disabled {
+      @include button($color-white, $color-text);
+      cursor: default;
+      padding: 0;
+
+      a {
+        cursor: default;
+        padding: .5em 1em;
+      }
+    }
+
+    &.active {
+      @include button($color-white, darken($color-accent, 10));
+      padding: 0;
+
+      a {
+        cursor: default;
+        padding: .5em 1em;
+      }
+    }
+  }
+}
