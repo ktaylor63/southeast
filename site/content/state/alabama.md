@@ -1,7 +1,9 @@
 ---
 title: Alabama
 tags:
-  - Alabama
+    - Alabama
+updated: 'May 5th, 2016'
 ---
 
-## News
+## Recent News
+{{< news state="Alabama">}}

@@ -1,7 +1,9 @@
 ---
 title: Mississippi
 tags:
-  - Mississippi
+    - Mississippi
+updated: 'May 5th, 2016'
 ---
 
-## News
+## Recent News
+{{< news state="Mississippi">}}

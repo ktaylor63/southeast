@@ -1,7 +1,9 @@
 ---
-title: North Carolina
+title: 'North Carolina'
 tags:
-  - North Carolina
+    - 'North Carolina'
+updated: 'May 5th, 2016'
 ---
 
-## News
+## Recent News
+{{< news state="North Carolina">}}

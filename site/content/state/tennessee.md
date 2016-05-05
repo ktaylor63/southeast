@@ -1,7 +1,9 @@
 ---
 title: Tennessee
 tags:
-  - Tennessee
+    - Tennessee
+updated: 'May 5th, 2016'
 ---
 
-## News
+## Recent News
+{{< news state="Tennessee">}}

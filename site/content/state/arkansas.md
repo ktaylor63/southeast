@@ -1,14 +1,15 @@
 ---
-title: Arkansas, The Natural State
+title: Arkansas
 tags:
- - Arkansas
+    - Arkansas
+updated: 'May 5th, 2016'
 ---
 
+## The Natural State
 
 ## National Wildlife Refuges
 
 [insert interactive state map]
 
-## News
-
-<span class="state-name">Arkansas</span>
+## Recent News
+{{< news state="Arkansas">}}

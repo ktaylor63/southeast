@@ -1,7 +1,8 @@
 ---
 title: Louisiana
 tags:
-  - Louisiana
+    - Louisiana
+updated: 'May 5th, 2016'
 ---
 
 ## Did You Know?
@@ -12,4 +13,5 @@ tags:
 
 ## National Wildlife Refuges
 
-## News
+## Recent News
+{{< news state="Louisiana">}}

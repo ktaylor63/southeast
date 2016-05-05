@@ -1,7 +1,9 @@
 ---
-title: Puerto Rico
+title: 'Puerto Rico'
 tags:
-  - Puerto Rico
+    - 'Puerto Rico'
+updated: 'May 5th, 2016'
 ---
 
-## News
+## Recent News
+{{< news state="Puerto Rico">}}
