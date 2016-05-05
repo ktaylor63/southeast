@@ -1,7 +1,17 @@
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
 @import 'variables';
 @import 'vendor/manifest';
 @import 'helpers/manifest';
+@import 'mixins/manifest';
 @import 'base/manifest';
-@import 'layout/manifest';
+@import 'elements/manifest';
 @import 'components/manifest';
+@import 'layout/manifest';
 @import 'pages/manifest';
