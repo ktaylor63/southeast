@@ -1,0 +1,28 @@
+input[type=submit],
+button {
+  @include button;
+}
+
+input[type=text],
+input[type=search],
+textarea {
+  border: 3px solid $color-accent;
+
+  &::-webkit-input-placeholder { /* WebKit, Blink, Edge */
+    color: $color-accent;
+  }
+
+  &:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+     color: $color-accent;
+     opacity: 1;
+  }
+
+  &::-moz-placeholder { /* Mozilla Firefox 19+ */
+     color: $color-accent;
+     opacity: 1;
+  }
+
+  &:-ms-input-placeholder { /* Internet Explorer 10-11 */
+     color: $color-accent;
+  }
+}
