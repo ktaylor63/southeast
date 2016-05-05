@@ -12,4 +12,4 @@ html lang="en_US"
     // = include partials/glossary.html .
     = include partials/footer.html .
     // = include partials/share.html .
-    // = include partials/scripts.html .
+    = include partials/scripts.html .
