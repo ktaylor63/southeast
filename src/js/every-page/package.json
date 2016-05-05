@@ -18,7 +18,7 @@
   "license": "SAX-PD",
   "dependencies": {
     "fws-glossary": "^1.1.1",
-    "fws-highlighter": "^1.1.0",
+    "fws-highlighter": "^1.2.0",
     "fws-navigation": "https://github.com/USFWS/navigation/archive/v0.1.tar.gz"
   },
   "devDependencies": {

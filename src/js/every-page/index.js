@@ -21,6 +21,7 @@
     words: terms.map(function (term) {
       return term.name;
     }),
+    wordsOnly: true,
     content: document.querySelector('#content')
   });
 
