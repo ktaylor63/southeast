@@ -1,0 +1,33 @@
+{
+  "name": "every-page",
+  "version": "1.0.0",
+  "description": "Javascript used on every page",
+  "main": "index.js",
+  "browserify": {
+    "transform": [
+      "jadeify",
+      "brfs"
+    ]
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "browserify": "browserify index.js | uglifyjs -mc > ../../../site/static/js/every-page.js",
+    "watchify": "watchify index.js -o ../../../site/static/js/every-page.js -dv"
+  },
+  "author": "Roy Hewitt <royhewitt07@gmail.com>",
+  "license": "SAX-PD",
+  "dependencies": {
+    "fws-glossary": "^1.1.1",
+    "fws-highlighter": "^1.1.0",
+    "fws-navigation": "https://github.com/USFWS/navigation/archive/v0.1.tar.gz"
+  },
+  "devDependencies": {
+    "brfs": "^1.4.3",
+    "browserify": "^13.0.0",
+    "disc": "^1.3.2",
+    "jade": "^1.11.0",
+    "jadeify": "^4.6.0",
+    "uglifyjs": "^2.4.10",
+    "watchify": "^3.7.0"
+  }
+}
