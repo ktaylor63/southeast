@@ -3,10 +3,10 @@ title: 'Prescribed Fire'
 description: 'For thousands of years, fire has influenced the southeastern landscape, and today a broad range of plants, animals and their habitats have become dependent on fire. Learn about the fire management expertise the U.S. Fish and Wildlife Service provides to support healthy wildlife and habitats.'
 tags:
     - 'prescribed fire'
-    - 'fire'
+    - fire
     - 'land management'
     - 'national wildlife refuges'
-updated: 'March 29th, 2016'
+updated: 'May 4th, 2016'
 ---
 
 # Keeping Fire on Our Side
