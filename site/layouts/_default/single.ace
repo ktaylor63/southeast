@@ -1,5 +1,5 @@
 = content main
   .side-nav
   .main role="main"
-    // = include partials/breadcrumbs.html .
+    = include partials/breadcrumbs.html .
     {{ .Content }}
