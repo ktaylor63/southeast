@@ -11,3 +11,5 @@
     li.tag
       a href=/tags/{{ . | urlize }} {{ . }}
     {{ end }}
+
+  span.state-name {{ .Title }}
