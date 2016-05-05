@@ -13,7 +13,8 @@
     var link;
     if (src) {
       link = document.createElement('a');
-      link.setAttribute('src', src);
+      link.setAttribute('href', src);
+      link.setAttribute('target', '_blank');
       link.textContent = text;
       li.appendChild(link);
     } else {
