@@ -1,5 +1,24 @@
-@import 'variables';
 @import 'position';
+
+.site-search {
+  text-align: center;
+}
+
+#site-search {
+  box-sizing: border-box;
+  color: $color-accent;
+  margin: 0;
+  padding: 7px 10px;
+  width: 70%;
+}
+
+.site-search-button {
+  height: 38px;
+}
+
+.site-search-label {
+  @extend %sr-only;
+}
 
 .fws-menu {
   backface-visibility: hidden;
@@ -62,6 +81,7 @@
     text-decoration: none;
     text-overflow: ellipsis;
     white-space: nowrap;
+    transition: background $transition-duration;
 
     &:hover {
       background: lighten($color-accent, 10);
@@ -132,6 +152,7 @@ ul .back-block {
 }
 
 .menu-back {
+  background: $color-accent;
 
   &::before {
     content: '\E5CB'; // Left Chevron
@@ -168,8 +189,6 @@ ul .back-block {
   color: white;
   cursor: pointer;
   font-size: 35px;
-  height: 40px;
-  line-height: 30px;
   padding: 0;
   position: absolute;
   top: 3px;
@@ -178,5 +197,6 @@ ul .back-block {
 
   &:hover {
     background: darken($color-accent, 5);
+    border: none;
   }
 }
