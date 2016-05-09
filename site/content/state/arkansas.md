@@ -1,15 +1,16 @@
 ---
 title: Arkansas
+abbreviation: AR
+url: /arkansas
 tags:
     - Arkansas
-updated: 'May 5th, 2016'
+updated: 'May 9th, 2016'
 ---
 
 ## The Natural State
 
 ## National Wildlife Refuges
-
-[insert interactive state map]
+<section id="map" class="state-refuges-map"></section>
 
 ## Recent News
 {{< news state="Arkansas">}}

@@ -1,9 +1,14 @@
 ---
 title: Mississippi
+abbreviation: MS
+url: /mississippi
 tags:
     - Mississippi
-updated: 'May 5th, 2016'
+updated: 'May 9th, 2016'
 ---
+
+## National Wildlife Refuges
+<section id="map" class="state-refuges-map"></section>
 
 ## Recent News
 {{< news state="Mississippi">}}
