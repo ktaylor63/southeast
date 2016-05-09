@@ -2,11 +2,20 @@
   'use strict';
 
   var xhr = require('xhr');
+  var nav = require('fws-scrollnav');
+  var map = require('./map');
 
+  var abbreviation = document.querySelector('.state-abbreviation').textContent;
   var state = document.querySelector('.state-name').textContent;
   var list = document.querySelector('.fast-facts');
-  var listedUrl = 'http://arsf.us-east-1.elasticbeanstalk.com/listed?state=' + state;
+  var listedUrl = 'http://arsf.us-east-1.elasticbeanstalk.com/listed?state=' + abbreviation;
   var atRiskUrl = 'http://arsf.us-east-1.elasticbeanstalk.com/species?range[]=' + state;
+
+  map.init(abbreviation);
+
+  nav.init({
+    content: document.getElementById('content')
+  });
 
   function createListItem(text, src) {
     var li = document.createElement('li');
@@ -26,9 +35,8 @@
 
   xhr.get(listedUrl, function (err, response, body) {
     if (err) console.error(err);
-    console.log(response);
     var listed = JSON.parse(body);
-    var src = 'http://ecos.fws.gov/tess_public/reports/species-listed-by-state-report?status=listed&state=' + state;
+    var src = 'http://ecos.fws.gov/tess_public/reports/species-listed-by-state-report?status=listed&state=' + abbreviation;
     createListItem(listed.threatened + ' Threatened Species', src);
     createListItem(listed.endangered + ' Endangered Species', src);
   });
