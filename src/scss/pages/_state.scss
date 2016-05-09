@@ -1,3 +1,11 @@
-.state-name {
+.state-name,
+.state-abbreviation {
   display: none;
+}
+
+.state-refuges-map {
+  height: 50vh;
+  margin-top: $leading;
+  min-height: 300px;
+  width: 100%;
 }
