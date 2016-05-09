@@ -13,3 +13,4 @@
     {{ end }}
 
   span.state-name {{ .Title }}
+  span.state-abbreviation {{ .Params.abbreviation }}
