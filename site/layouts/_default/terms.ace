@@ -1,0 +1,10 @@
+= content main
+  .main role="main"
+    h1  {{ .Title }}
+    ul
+    {{ $data := .Data }}
+    {{ range $key, $value := .Data.Terms.ByCount }}
+      {{ $name := title $value.Name }}
+      li
+        a href="{{ $value.Name }}" {{ replace $name "-" " " }} ({{ $value.Count }})
+    {{ end }}
