@@ -1,9 +1,40 @@
 footer {
+  background: $color-accent;
+  color: $color-white;
+  text-align: center;
+
+  a {
+    color: $color-white;
+
+    &:visited {
+      color: $color-white;
+    }
+
+    &:hover {
+      color: $color-white;
+      text-shadow: 1px 1px 2px #000;
+    }
+  }
+
   @media (min-width: $break-md) {
     padding-right: $nav-width;
   }
 }
 
-.last-update {
-  text-align: center;
+.footer-links {
+  list-style: none;
+  margin: 0;
+  padding: 2em;
+
+  li {
+    display: inline-block;
+
+    &::after {
+      content: ' | '
+    }
+
+    &:last-child::after {
+      content: '';
+    }
+  }
 }
