@@ -1,7 +1,9 @@
 li class="teaser teaser-{{ .Type }}"
   h3
     a href={{ .Permalink }} {{ .Title }}
+  {{ if .Data.Format }}
   p {{ .Date.Format "January 2, 2006" }}
+  {{ end }}
   p {{ .Summary }}
   p
     a href={{ .Permalink }} Read the full release
