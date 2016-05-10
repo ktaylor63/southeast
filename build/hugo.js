@@ -5,9 +5,10 @@
 
   rimraf('dist', function (err) {
     if (err) console.error(err);
-    
+
     var spawn = require('child_process').spawn;
     var hugo = spawn('hugo', [
+      '--canonifyURLs=true',
       '--config=site/config.yml',
       '--destination=../dist/',
       '--source=site/',
