@@ -1,4 +1,19 @@
 = content main
   h1 Welcome to the Southeast Region
 
-  p Here is some text to try the new highlighter module on.  Adaptation is awesome.  We always use the best available science.  habitat fragmentation.
+  p This site is a work in progress.  Not all of the content that will be included in the initial launch is available.
+
+  h2 Example Pages
+  ul
+    li
+      a href="/landscape-conservation" Conservation Across Large Landscapes
+    li
+      a href="/our-changing-climate" Wildlife, Habitats and Our Changing Climate
+    li Example of a State Page:
+      a href="/alabama" Alabama
+    li
+      a href="/endangered-species-act/90-day-finding" 90-day Finding 101
+    li
+      a href="/fire" Keeping Fire on Our Side
+    li
+      a href="/bird-treaty-centennial" Migratory Bird Treaty Centennial 
