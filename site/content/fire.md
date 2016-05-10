@@ -91,6 +91,9 @@ Wooden decks, fences, and trellises can act as ignition points and lead fire to 
 Make sure your driveway is well marked and wide enough for fire equipment to enter.
 
 ## Fire News
+
+[Check out a complete list of content tagged with prescribed fire](/tags/prescribed-fire)
+
 For the latest news in fire, follow us on Twitter [@USFWSFireSE](http://www.twitter.com/USFWSFireSE/)
 
 {{< twitter-timeline >}}
