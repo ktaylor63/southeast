@@ -2,4 +2,5 @@
   .side-nav
   .main role="main"
     = include partials/breadcrumbs.html .
+    h1 {{ .Title }}
     {{ .Content }}
