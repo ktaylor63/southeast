@@ -1,0 +1,10 @@
+= content main
+  h1 {{ .Title }}
+
+  ul.news-teaser-list
+  {{ $paginator := .Paginate (where .Data.Pages "Type" "article") }}
+  {{ range $paginator.Pages }}
+    {{ .Render "teaser" }}
+  {{ end }}
+
+  {{ template "_internal/pagination.html" . }}
