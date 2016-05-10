@@ -4,7 +4,7 @@ abbreviation: AR
 url: /arkansas
 tags:
     - Arkansas
-updated: 'May 9th, 2016'
+updated: 'May 10th, 2016'
 ---
 
 ## The Natural State
@@ -13,4 +13,4 @@ updated: 'May 9th, 2016'
 <section id="map" class="state-refuges-map"></section>
 
 ## Recent News
-{{< news state="Arkansas">}}
+{{< news tag="Arkansas">}}

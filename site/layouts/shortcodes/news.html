@@ -1,6 +1,6 @@
-{{ $state := .Get "state" }}
+{{ $tag := .Get "tag" }}
 {{ range ( where .Page.Site.Pages "Type" "news") }}
-  {{ if in .Params.tags $state }}
+  {{ if in .Params.tags $tag }}
     {{ .Render "teaser" }}
   {{ end }}
 {{ end }}

@@ -4,7 +4,7 @@ abbreviation: LA
 url: /louisiana
 tags:
     - Louisiana
-updated: 'May 9th, 2016'
+updated: 'May 10th, 2016'
 ---
 
 ## Did You Know?
@@ -17,4 +17,4 @@ updated: 'May 9th, 2016'
  <section id="map" class="state-refuges-map"></section>
 
 ## Recent News
-{{< news state="Louisiana">}}
+{{< news tag="Louisiana">}}
