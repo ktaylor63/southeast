@@ -7,9 +7,9 @@ hero:
     alt: 'Beautiful fall colors in the Ozark mountains'
     caption: 'The Ozark Mountains in autumn. <a href="https://creativecommons.org/licenses/by/2.0/legalcode">Creative Commons</a> photo by Oakley Originals.'
 tags:
-    - 'landscape conservation cooperatives'
-    - partnership
-updated: 'May 9th, 2016'
+    - 'Landscape Conservation Cooperatives'
+    - Partnership
+updated: 'May 10th, 2016'
 ---
 What do you do when you realize that you face a problem too big to tackle alone? What did Wonder Woman, Aquaman, Martian Manhunter, Green Lantern and Flash do when they faced their first super villain, [Starro the Conqueror](https://en.wikipedia.org/wiki/Starro)?
 
