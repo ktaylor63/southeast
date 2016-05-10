@@ -1,0 +1,7 @@
+{{ $tag := .Get "tag" }}
+{{ $title := .Page.Title }}
+{{ range .Page.Site.Pages }}
+  {{ if and (in .Params.tags $tag) (ne .Title $title) }}
+    {{ .Render "teaser" }}
+  {{ end }}
+{{ end }}
