@@ -6,6 +6,10 @@ canonifyurls: true
 
 googleAnalytics: UA-21323598-1
 
+taxonomies:
+  tag: "tags"
+  category: "categories"
+
 # Custom Defined Site Wide Variables
 params:
   hero:
