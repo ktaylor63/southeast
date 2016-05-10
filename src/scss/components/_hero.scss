@@ -1,0 +1,21 @@
+.hero {
+  height: 50vh;
+  background: no-repeat center center;
+  background-size: cover;
+
+  @media (min-width: $break-md) {
+    margin-right: $nav-width;
+  }
+}
+
+.hero-caption {
+  color: $color-accent;
+  font-size: 75%;
+  margin: 0;
+  padding-right: 5px;
+  text-align: right;
+
+  @media (min-width: $break-md) {
+    margin-right: $nav-width;
+  }
+}

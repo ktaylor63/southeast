@@ -1,0 +1,28 @@
+figure {
+  display: table;
+
+  img {
+    display: block;
+  }
+}
+
+figcaption {
+  caption-side: bottom;
+  color: $color-accent;
+  display: table-caption;
+  font-size: 85%;
+
+  p {
+    margin-top: 5px;
+  }
+}
+
+.photo {
+  margin: 3em auto;
+  text-align: center;
+
+  @media (min-width: $break-lg) {
+    float: right;
+    margin: 2em 0 2em 2em;
+  }
+}
