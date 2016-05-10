@@ -1,16 +1,15 @@
 (function () {
   'use strict';
   var sharp = require('sharp');
-  var mkdirp = require('mkdirp');
   var Imagemin = require('imagemin');
-  var rename = require('gulp-rename');
   var rimraf = require('rimraf');
+  var rename = require('gulp-rename');
   var fs = require('fs');
 
   var input = 'src/images/hero/';
   var output = 'site/static/images/hero/';
   var images = fs.readdirSync(input);
-  var sizes = [1100, 800, 400];
+  var outSize = 1400;
 
   rimraf(output, function () {
     // If there's a DS Store item, remove it
@@ -19,30 +18,22 @@
 
     // Ensure the output dir exists
     images.forEach(function (name) {
-      var dist = output + name.replace('.jpg', '/');
-
-      mkdirp(dist, function (err) {
-        if (err) console.error(err);
-
-        sizes.forEach(function(imgSize) {
-          var img = sharp(input + name);
-          img
-            .resize(imgSize)
-            .toBuffer(function (err, buffer, info) {
-              if (err) console.error(err);
-              imagemin(buffer, dist, imgSize);
-            });
+      var img = sharp(input + name);
+      img
+        .resize(outSize)
+        .toBuffer(function (err, buffer, info) {
+          if (err) console.error(err);
+          imagemin(buffer, output, name);
         });
-      });
     });
   });
 
-  function imagemin (buffer, dist, size) {
+  function imagemin (buffer, dist, name) {
     new Imagemin()
       .src(buffer)
-      .dest(dist)
+      .dest(output)
       .use(Imagemin.jpegtran({progressive: true}))
-      .use(rename(size + '.jpg'))
+      .use(rename(name))
       .run(function (err, files) {
         if (err) console.error(err);
       });
