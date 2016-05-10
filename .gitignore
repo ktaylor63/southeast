@@ -6,6 +6,7 @@ npm-debug.log
 site/static/css
 site/static/images/hero
 site/static/images/svg
+site/static/images/pages
 dist
 
 # Mac stuff
