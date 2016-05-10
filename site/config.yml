@@ -1,4 +1,3 @@
-baseurl: "http://fws.gov/southeast/"
 title: "Southeast Region | U.S. Fish and Wildlife Service"
 
 pluralizelisttitles: false
@@ -24,4 +23,5 @@ params:
 
 permalinks:
   news: /:section/:year/:month/:filename/
+  article: /:section/:year/:month/:filename/
 ...
