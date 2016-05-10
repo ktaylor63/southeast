@@ -1,21 +1,24 @@
 ---
-title: 'Prescribed Fire'
+title: 'Keeping Fire on Our Side'
 description: 'For thousands of years, fire has influenced the southeastern landscape, and today a broad range of plants, animals and their habitats have become dependent on fire. Learn about the fire management expertise the U.S. Fish and Wildlife Service provides to support healthy wildlife and habitats.'
+hero:
+    name: prescribed-fire.jpg
+    alt: 'A USFWS firefighter keeps a close eye on a brescribed fire'
+    caption: 'USFWS firefigher Brian Pippin watches over a prescribed fire at St. Marks National Wildlife Refuge. Photo by Jennifer Hinckley, USFWS.'
 tags:
     - 'prescribed fire'
-    - fire
     - 'land management'
     - 'national wildlife refuges'
-updated: 'May 4th, 2016'
+updated: 'May 10th, 2016'
 ---
-
-# Keeping Fire on Our Side
 
 For thousands of years, fire has influenced the southeastern landscape. Today, a broad range of plants, animals and their habitats have developed a harmonious relationship with fire.
 
 The U.S. Fish and Wildlife Service uses fire as land management tool. We recognize that when respected and managed with care, fire can be a beneficial ally rather than an awesome opponent. Thoughtful preparation and action by public managers and private property owners can help keep fire's effects positive and together, we can keep fire on our side.
 
 ## Benefits of Fire in Southeastern Ecosystems
+
+{{< figure class="photo" src="/images/pages/longleaf-fire.jpg" alt="Fire climbs up a small longleaf pine seedling" link="https://flic.kr/p/9R2LgB" caption="A fire tickles longleaf pine needles. Photo by John Maxwell for USFWS." >}}
 
 Across the Southeast there are many examples of nature’s adaptations to fire. In fact, the continued survival of many plant and animal species is dependent upon fire!
 
@@ -29,7 +32,6 @@ Across the Southeast there are many examples of nature’s adaptations to fire. 
 
 These fire-adapted ecosystems and the threatened and endangered species that call them home are the reason we use fire as a land management tool.
 
-
 ## What Is "Prescribed Fire?"
 
 “Prescribed fire” or “prescribed burning” describes a carefully planned activities designed to ignite a fire in a specific location.
@@ -39,6 +41,8 @@ Communities and landowners near national wildlife refuges benefit from the Servi
 Recognizing that neither ecosystems nor wildfires stop at refuge boundaries, Service staff also work beyond refuges to help communities manage fire. Refuge firefighters may respond to off-site wildfires to protect people and property and often work collaboratively with other federal agencies, states, and landowners to conduct prescribed burns off refuges. Ready Reserve Program provides funding to local fire departments which may assist with fighting wildfires on or near refuge lands.
 
 ### Planning and Safety
+
+{{< figure class="photo" src="/images/pages/st-vincent-prescribed-fire.jpg" alt="Smoke billows in a grassy field" caption="Prescribed fire also involves smoke management, as depicted here at St. Vincent National Wildlife Refuge. Photo by Jennifer Hinckley, USFWS." >}}
 
 Safety is always the highest priority, and specialists take into account a variety of conditions, including weather, wind speed, nearby roads and communities, time of the year, and more when determining the right time and place for a prescribed burn.
 
@@ -61,6 +65,8 @@ On the day of the burn, equipment and trained personnel are assembled at the sit
  - Monitor until fire is completely out
 
 ## Tips for Living with Fire
+
+{{< figure class="photo" src="/images/pages/florida-panther-wildfire.jpg" link="https://flic.kr/p/8zkWGd" alt="A firefighter's silhouette with a fire background " caption="A wildfire blazes at Florida Panther National Wildlife Refuge. Photo by Josh O’Connor, USFWS." >}}
 
 The relationship of fire and people in the Southeast has a long history. As populations continue to expand into wildland areas, this relationship cannot be lost. Along with the pleasure of living among the wildlands comes the responsibility of preparing home and property for a wildfire. From construction to maintenance, there are things you can do to make your home more fire-resistant and increase the odds that it will still be standing once a fire has passed.
 
@@ -87,35 +93,38 @@ Make sure your driveway is well marked and wide enough for fire equipment to ent
 ## Fire News
 For the latest news in fire, follow us on Twitter [@USFWSFireSE](http://www.twitter.com/USFWSFireSE/)
 
-<a class="twitter-timeline" href="https://twitter.com/USFWSFireSE" data-widget-id="712746287825874944">Tweets by @USFWSFireSE</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+{{< twitter-timeline >}}
+
+{{< content-by-tag tag="prescribed fire" >}}
 
 ## Jobs in Fire
 
 We employ a team of experts across 10 southeastern states and Puerto Rico that provide fire management oversight for southeastern national wildlife refuges. These men and women also provide support to conservation partners in the southeast, and respond to national emergencies such as wildfires in the west.
 
  - Learn more about the duties of employees working in prescribed fire.
- - Discover how to get a job in prescribed fire with the U.S. Fish and Wildlife Service.
+ - [Discover how to get a job in prescribed fire with the U.S. Fish and Wildlife Service.](https://www.fws.gov/fire/employment/)
 
 ## Guides, Training and Resources
 
 ### Fire Management Guides by Species
 
+{{< figure class="photo" src="/images/pages/lower-suwanee-fire-group.jpg" alt="Firefighters gather for a picture in front of a fire" link="https://flic.kr/p/mGD8qb" caption="USFWS firefighters working with firefighters from the Prescribed Fire Training Center to conduct a burn at Lower Suwannee National Wildlife Refuge. Photo by Vic Doig, USFWS." >}}
+
 Includes desired vegetation structure and fire components, desired habitat conditions, mobility, area sensitivity, and insularity-connectivity consideration.
 
- - Bachman’s sparrow
- - Brownheaded nuthatch
- - Henslow’s sparrow
- - Little bluestem
- - Painted bunting
- - Pine snake
- - Wiregrass
+ - [Bachman’s sparrow](/pdf/bachmans-sparrow-fire-management.pdf)
+ - [Brownheaded nuthatch](/pdf/brownheaded-nuthatch-fire-management.pdf)
+ - [Henslow’s sparrow](/pdf/henslows-sparrow-fire-management.pdf)
+ - [Little bluestem](/pdf/little-bluestem-fire-management.pdf)
+ - [Painted bunting](/pdf/painted-bunting-fire-management.pdf)
+ - [Pine snake](/pdf/pine-snake-fire-management.pdf)
+ - [Wiregrass](/pdf/wiregrass-fire-management.pdf)
 
 ### Training and Education
- - Prescribed Fire Training Center in Tallahassee, Florida
- - Firescience.gov, science provided by the Joint Fire Science Program
- - Goodfires.org, provided by the Southern Group of State Foresters
- - Wildland Fire in the South, provided by the Southern Regional Strategy Committee
+ - [Prescribed Fire Training Center](https://www.fws.gov/fire/pftc/) in Tallahassee, Florida
+ - [Firescience.gov](http://www.firescience.gov/), science provided by the Joint Fire Science Program
+ - [Goodfires.org](http://goodfires.org/), provided by the Southern Group of State Foresters
+ - [Wildland Fire in the South](http://www.southernwildfire.net/), provided by the Southern Regional Strategy Committee
 
 ## Contact Us
 
