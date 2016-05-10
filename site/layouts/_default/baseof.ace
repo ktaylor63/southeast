@@ -5,11 +5,10 @@ html lang="en_US"
   body
     a#skip-to-content href=#content skip to content
     = include partials/navigation.html .
+    = include partials/hero.html .
     .wrapper
-      // = include partials/hero.html .
       .container#content
         = yield main
-    // = include partials/glossary.html .
     = include partials/footer.html .
     // = include partials/share.html .
     = include partials/scripts.html .
