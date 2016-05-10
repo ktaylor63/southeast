@@ -4,8 +4,14 @@
   "description": "Source code the the Southeast Region website of the U.S. Fish and Wildlife Service",
   "main": "index.js",
   "watch": {
-    "hero": "src/images/hero/*{.jpg,.png}",
-    "pages": "src/images/pages/*{.jpg,.png}",
+    "hero": {
+      "patterns": ["src/images/hero/*"],
+      "extensions": "jpg,png"
+    },
+    "pages": {
+      "patterns": ["src/images/pages/*"],
+      "extensions": "jpg,png"
+    },
     "svgo": "src/images/svg/*.svg",
     "hugo:dev": {
       "patterns": [
@@ -28,7 +34,7 @@
     "watch:sass": "node-sass -w src/scss/styles.scss site/static/css/styles.css",
     "build:sass": "node-sass --output-style compressed src/scss/styles.scss | postcss -u autoprefixer -o site/static/css/styles.css",
     "prestart": "npm run mkdist && npm run hugo:dev & npm run build:sass",
-    "start": "npm run hero & npm run watch:sass & npm run serve & npm run lastmod & npm run watch"
+    "start": "npm run watch & npm run hero & npm run watch:sass & npm run serve & npm run lastmod"
   },
   "keywords": [
     "Government",
