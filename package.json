@@ -27,7 +27,7 @@
     "svgo": "svgo -f src/images/svg -o site/static/images/svg",
     "lastmod": "node build/last-mod",
     "mkdist": "node build/create-dist",
-    "hugo:dev": "node build/hugo -- /",
+    "hugo:dev": "node build/hugo -- http://localhost:3000/",
     "hugo:stage": "node build/hugo -- https://intranet.fws.gov/region4/demo/",
     "hugo:pro": "node build/hugo -- http://www.fws.gov/southeast/",
     "serve": "browser-sync start --server dist --files 'dist/**/*' --logLevel silent",
