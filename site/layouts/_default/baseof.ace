@@ -7,8 +7,10 @@ html lang="en_US"
     = include partials/navigation.html .
     = include partials/hero.html .
     .wrapper
-      .container#content
-        = yield main
+      .container
+        .side-nav
+        #content
+          = yield main
     = include partials/footer.html .
     // = include partials/share.html .
     = include partials/scripts.html .
