@@ -5,26 +5,34 @@
   var rimraf = require('rimraf');
   var rename = require('gulp-rename');
   var fs = require('fs');
+  var path = require('path');
 
   var input = 'src/images/pages/';
   var output = 'site/static/images/pages/';
-  var images = fs.readdirSync(input);
-  var outSize = 450;
+  var directories = getDirectories(input);
+  var images;
 
-  rimraf(output, function () {
-    // If there's a DS Store item, remove it
-    var i = images.indexOf('.DS_Store');
-    if (i > -1) images.splice(i,1);
+  rimraf(output + '/*', function (err) {
+    if (err) console.error(err);
 
-    // Ensure the output dir exists
-    images.forEach(function (name) {
-      var img = sharp(input + name);
-      img
-        .resize(outSize)
-        .toBuffer(function (err, buffer, info) {
-          if (err) console.error(err);
-          imagemin(buffer, output, name);
-        });
+    directories.forEach(function (size) {
+      var currentDir = input + size + '/';
+      images = fs.readdirSync(currentDir);
+
+      // If there's a DS Store item, remove it
+      var i = images.indexOf('.DS_Store');
+      if (i > -1) images.splice(i,1);
+
+      images.forEach(function (name) {
+        var sizeInt = parseInt(size);
+        var img = sharp(currentDir + name);
+        img
+          .resize(sizeInt)
+          .toBuffer(function (err, buffer, info) {
+            if (err) console.error(err);
+            imagemin(buffer, output, name);
+          });
+      });
     });
   });
 
@@ -37,6 +45,12 @@
       .run(function (err, files) {
         if (err) console.error(err);
       });
+  }
+
+  function getDirectories(srcPath) {
+    return fs.readdirSync(srcPath).filter(function(file) {
+      return fs.statSync(path.join(srcPath, file)).isDirectory();
+    });
   }
 
 })();
