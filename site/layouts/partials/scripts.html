@@ -2,3 +2,6 @@
 {{ if eq .Section "state" }}
 <script src="/js/state.js"></script>
 {{ end }}
+{{ if .Params.js }}
+<script src="{{ .Params.js }}"></script>
+{{ end }}
