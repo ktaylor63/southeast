@@ -1,0 +1,2 @@
+li
+  a href={{ .Permalink }} {{ if .Date }}{{ .Date.Format "1/2/2006" }}:{{ end }} {{ .Title }}
