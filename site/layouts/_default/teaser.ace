@@ -6,7 +6,11 @@ li class="teaser teaser-{{ .Type }}"
   {{ end }}
   p {{ .Summary }}
   p
+    {{ if eq .Type "news" }}
     a href={{ .Permalink }} Read the full release
+    {{ else }}
+    a href={{ .Permalink }} Read the full story
+    {{ end }}
   ul.tag-list
     {{ range .Params.tags }}
     li.tag
