@@ -11,7 +11,7 @@
   "author": "Roy Hewitt <royhewitt07@gmail.com>",
   "license": "SAX-PD",
   "dependencies": {
-    "fws-scrollnav": "^1.0.0",
+    "fws-scrollnav": "^1.3.0",
     "leaflet": "^0.7.7",
     "xhr": "^2.2.0"
   },

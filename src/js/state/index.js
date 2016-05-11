@@ -2,7 +2,6 @@
   'use strict';
 
   var xhr = require('xhr');
-  var nav = require('fws-scrollnav');
   var map = require('./map');
 
   var abbreviation = document.querySelector('.state-abbreviation').textContent;
@@ -12,10 +11,6 @@
   var atRiskUrl = 'http://arsf.us-east-1.elasticbeanstalk.com/species?range[]=' + state;
 
   map.init(abbreviation);
-
-  nav.init({
-    content: document.getElementById('content')
-  });
 
   function createListItem(text, src) {
     var li = document.createElement('li');
