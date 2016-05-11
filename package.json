@@ -34,7 +34,9 @@
     "watch:sass": "node-sass -w src/scss/styles.scss site/static/css/styles.css",
     "build:sass": "node-sass --output-style compressed src/scss/styles.scss | postcss -u autoprefixer -o site/static/css/styles.css",
     "prestart": "npm run mkdist && npm run hugo:dev & npm run build:sass",
-    "start": "npm run watch & npm run hero & npm run watch:sass & npm run serve & npm run lastmod"
+    "start": "npm run watch & npm run hero & npm run watch:sass & npm run serve & npm run lastmod",
+    "build": "npm run hero & npm run pages & npm run svgo && npm run hugo:pro && npm run build:sass",
+    "stage": "npm run hero & npm run pages & npm run svgo && npm run hugo:stage && npm run build:sass"
   },
   "keywords": [
     "Government",
