@@ -17,6 +17,16 @@ figcaption {
   }
 }
 
+img {
+  height: auto;
+  max-width: 100%;
+}
+
+.photo-center {
+  margin: 3em auto;
+  text-align: center;
+}
+
 .photo {
   margin: 3em auto;
   text-align: center;
