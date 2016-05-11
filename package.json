@@ -9,7 +9,7 @@
       "extensions": "jpg,png"
     },
     "pages": {
-      "patterns": ["src/images/pages/*"],
+      "patterns": ["src/images/pages/**/*"],
       "extensions": "jpg,png"
     },
     "svgo": "src/images/svg/*.svg",
