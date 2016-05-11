@@ -1,0 +1,8 @@
+= content main
+  .main role="main"
+    h1.page-title {{ .Title }}
+    h2.scientific-name ({{ .Params.scientific }})
+    = include partials/breadcrumbs.html .
+    {{ .Content }}
+    ul.register-list
+      li.federal-register-item We're sorry but an error occurred.  Visit the Federal Register to conduct your own search.
