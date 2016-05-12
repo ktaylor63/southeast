@@ -9,13 +9,23 @@
       a href="/landscape-conservation" Conservation Across Large Landscapes
     li
       a href="/our-changing-climate" Wildlife, Habitats and Our Changing Climate
-    li Example of a State Page:
-      a href="/alabama" Alabama
     li
       a href="/endangered-species-act/90-day-finding" 90-day Finding 101
     li
       a href="/fire" Keeping Fire on Our Side
     li
       a href="/bird-treaty-centennial" Migratory Bird Treaty Centennial
+
+  h2 Example Species Profiles
+  ul
+  {{ range where .Site.Pages "Section" "wildlife"}}
     li
-      a href="/wildlife/mammal/louisiana-black-bear" Species Profile: Louisiana black bear
+      a href="{{ .Permalink }}" {{ .Title }}
+  {{ end }}
+
+  h2 Example Articles
+  ul
+  {{ range where .Site.Pages "Section" "article"}}
+    li
+      a href="{{ .Permalink }}" {{ .Title }}
+  {{ end }}
