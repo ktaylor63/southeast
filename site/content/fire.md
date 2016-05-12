@@ -9,7 +9,7 @@ tags:
     - 'prescribed fire'
     - 'land management'
     - 'national wildlife refuges'
-updated: 'May 11th, 2016'
+updated: 'May 12th, 2016'
 ---
 
 For thousands of years, fire has influenced the southeastern landscape. Today, a broad range of plants, animals and their habitats have developed a harmonious relationship with fire.
@@ -134,25 +134,19 @@ Includes desired vegetation structure and fire components, desired habitat condi
 Want to know more about fire management in the southeast? Contact a member of our staff.
 
 **Vince Carver**, Chief, Division of Fire Management <br>
-(404) 679-7244, [Pete_Kubiak@fws.gov](mailto:Pete_Kubiak@fws.gov)
+(404) 679-7225, [Vince_Carver@fws.gov](mailto:Vince_Carver@fws.gov)
 
-**Josh O'Connor**, Fire Management Specialist <br>
+**Jon Wallace**, Deputy Chief, Division of Fire Management <br>
+(404) 679-7244, [Jon_Wallace@fws.gov](mailto:Jon_Wallace@fws.gov)
+
+**Josh O'Connor**, Fire Management Specialist (Fuels) <br>
 (404) 679-4192, [Josh_OConnor@fws.gov](mailto:Josh_OConnor@fws.gov)
 
 **Rick Struhar**, Fire Management Specialist (Operations) <br>
-(404) 679-7061, [Rick_Struhar@fws.gov](mailto:Rick_Struhar@fws.gov)
+(404) 353-2004, [Rick_Struhar@fws.gov](mailto:Rick_Struhar@fws.gov)
 
 **Sue Wilder**, Southeast Regional Fire Ecologist <br>
 (958) 882-2008, [Sue_Wilder@fws.gov](mailto:Sue_Wilder@fws.gov)
 
-**Phil Weston**, Southeast Regional Fire Planner <br>
-(850) 443-4279, [Phil_Weston@fws.gov](mailto:Phil_Weston@fws.gov)
-
 **Mike Duiett**, Director, Prescribed Fire Training Center <br>
 (850) 523-8633, [Michael_Dueitt@fws.gov](mailto:Michael_Dueitt@fws.gov)
-
-**Patricia Boucher**, Assistant Coordinator, Southern Area Coordination Center <br>
-(678) 320-3003, [Pat_Boucher@fws.gov](mailto:Pat_Boucher@fws.gov)
-
-**Kevin Scasny**, Meteorologist, Southern Area Coordination Center <br>
-(678) 320-3009, [Kevin_Scasny@fws.gov](mailto:Kevin_Scasny@fws.gov)
