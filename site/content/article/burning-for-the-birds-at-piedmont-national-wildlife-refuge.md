@@ -7,14 +7,14 @@ hero:
     name: red-cockaded-woodpecker-dinner.jpg
     alt: 'A woodpecker perched on a tree with a bug in its mouth'
 tags:
-    - 'prescribed fire'
-    - piedmont
-    - 'national wildlife refuge'
-    - georgia
-    - 'red-cockaded woodpecker'
+    - 'Prescribed Fire'
+    - Piedmont
+    - 'National Wildlife Refuges'
+    - Georgia
+    - 'Red-cockaded woodpecker'
 date: '2014-03-21'
 author: 'Josh O''Connor, Regional Fuels Specialist'
-updated: 'May 10th, 2016'
+updated: 'May 12th, 2016'
 ---
 
 ## Over a decade of prescribed fire management yields big benefits for the red-cockaded woodpecker
