@@ -23,5 +23,4 @@ params:
 
 permalinks:
   news: /:section/:year/:month/:filename/
-  article: /:section/:year/:month/:filename/
 ...
