@@ -5,11 +5,15 @@
   "main": "index.js",
   "watch": {
     "hero": {
-      "patterns": ["src/images/hero/*"],
+      "patterns": [
+        "src/images/hero/*"
+      ],
       "extensions": "jpg,png"
     },
     "pages": {
-      "patterns": ["src/images/pages/**/*"],
+      "patterns": [
+        "src/images/pages/**/*"
+      ],
       "extensions": "jpg,png"
     },
     "svgo": "src/images/svg/*.svg",
@@ -49,9 +53,11 @@
     "autoprefixer": "^6.3.3",
     "browser-sync": "^2.11.1",
     "chokidar": "^1.4.3",
+    "glob": "^7.0.3",
     "gray-matter": "^2.0.2",
     "gulp-rename": "^1.2.2",
     "imagemin": "^4.0.0",
+    "jsonminify": "^0.4.1",
     "mkdirp": "^0.5.1",
     "moment": "^2.12.0",
     "node-sass": "^3.4.2",
