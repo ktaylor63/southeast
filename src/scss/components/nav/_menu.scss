@@ -29,7 +29,7 @@
   transition: all $transition-duration;
   visibility: hidden;
   width: 100%;
-  z-index: 1;
+  z-index: 5001;
 
   a,
   li {
@@ -189,14 +189,16 @@ ul .back-block {
   color: white;
   cursor: pointer;
   font-size: 35px;
+  line-height: 50px;
   padding: 0;
   position: absolute;
-  top: 3px;
+  top: 5px;
   width: 40px;
   z-index: 1000;
 
   &:hover {
     background: darken($color-accent, 5);
     border: none;
+    cursor: pointer;
   }
 }

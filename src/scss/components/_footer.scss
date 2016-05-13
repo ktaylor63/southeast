@@ -19,6 +19,10 @@ footer {
   @media (min-width: $break-md) {
     padding-right: $nav-width;
   }
+
+  @media (min-width: $break-scrollnav) {
+    padding-left: $sidenav-width;
+  }
 }
 
 .footer-links {

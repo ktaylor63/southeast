@@ -14,27 +14,28 @@ $color-muted: lighten($color-text, 70);
 $serif: Merriweather, Georgia, Verdana, serif;
 $sans-serif: 'Source Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 
+// Navigation Menu
+$docked-width: 400px;
+$nav-width: 85px;
+
+// Scroll Nav
+$sidenav-width: 300px;
+
+// Glossary
+$glossary-max-width: 850px;
+
+// Max width for Content
+$container-width: 900px;
+
 // Breakpoints
 $break-xs: 400px;
 $break-sm: 500px;
 $break-md: 600px;
 $break-lg: 900px;
-
-// Max width for Content
-$container-width: 900px;
+$break-scrollnav: $nav-width + $container-width + $sidenav-width + 125;
 
 // Transitions
 $transition-duration: .3s;
 
 // Borders
 $border-radius: 5px;
-
-// Navigation Menu
-$docked-width: 400px;
-$nav-width: 85px;
-
-// Scroll Nav
-$sidenav-min-width: 300px;
-
-// Glossary
-$glossary-max-width: 850px;
