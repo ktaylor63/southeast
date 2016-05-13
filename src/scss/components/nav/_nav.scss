@@ -1,6 +1,11 @@
 .main-nav {
   transition: all $transition-duration;
 
+  svg {
+    fill: white;
+    width: 60px;
+  }
+
   ul {
     list-style: none;
     padding-left: 0;
