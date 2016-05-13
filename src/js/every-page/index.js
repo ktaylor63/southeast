@@ -21,6 +21,13 @@
     this.ref('id');
   };
 
+  document.querySelector('.toggle-contact').addEventListener('click', iDontWorkYet);
+  document.querySelector('.toggle-share').addEventListener('click', iDontWorkYet);
+
+  function iDontWorkYet () {
+    alert('This functionality is on the way, but I don\'t do anything just yet.');
+  }
+
   xhr.get('../data/terms.json', function (err, res, body) {
     terms = JSON.parse(body);
 
