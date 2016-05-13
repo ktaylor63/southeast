@@ -20,7 +20,7 @@
     "fws-glossary": "^1.1.1",
     "fws-highlighter": "^1.2.0",
     "fws-navigation": "https://github.com/USFWS/navigation/archive/v0.1.tar.gz",
-    "fws-scrollnav": "^1.3.0",
+    "fws-scrollnav": "^1.4.0",
     "has-class": "^1.0.6",
     "remove-class": "^1.0.0",
     "xhr": "^2.2.0"
