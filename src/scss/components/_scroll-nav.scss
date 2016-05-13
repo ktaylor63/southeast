@@ -53,6 +53,10 @@
     max-height: 1500px;
     overflow-y: scroll;
     transition: all $transition-duration;
+
+    &:not(.fixed) {
+      height: 0;
+    }
   }
 
   &__list {
