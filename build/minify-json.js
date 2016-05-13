@@ -13,7 +13,7 @@
     if (err) console.error(err);
 
     files.forEach(function (file) {
-      var basename = path.basename(file);
+      var basename = path.basename(file).replace('json', 'js');
       var compressed = jsonminify( fs.readFileSync(file, 'utf8') );
       fs.writeFileSync(dist + basename, compressed);
     });

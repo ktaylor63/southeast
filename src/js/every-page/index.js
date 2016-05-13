@@ -11,6 +11,8 @@
   var glossary = require('fws-glossary');
   var highlighter = require('fws-highlighter');
 
+  var baseUrl = document.body.getAttribute('data-root');
+
   var terms;
 
   var lunrIndex = function () {
@@ -28,7 +30,7 @@
     alert('This functionality is on the way, but I don\'t do anything just yet.');
   }
 
-  xhr.get('../data/terms.json', function (err, res, body) {
+  xhr.get(baseUrl + 'data/terms.js', function (err, res, body) {
     terms = JSON.parse(body);
 
     nav.init({
