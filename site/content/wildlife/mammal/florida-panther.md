@@ -13,7 +13,7 @@ hero:
     caption: 'A Florida panther. Photo by Larry W. Richardson, USFWS.'
     alt: 'A Florida panther walking on a gravel road with a slash pine forest in the background'
     name: florida-panther.jpg
-updated: 'May 12th, 2016'
+updated: 'May 24th, 2016'
 ---
 
 - **Taxon:** Mammal
@@ -71,6 +71,12 @@ A genetic restoration plan was implemented in 1995 with the release of eight fem
 The breeding range of the Florida panther population is currently restricted to habitat south of the Caloosahatchee River in southern Florida. Recovery efforts to-date have successfully contributed to a significant increase in the panther population, which now occupies most available habitat south of Caloosahatchee River. Although there have been no female panthers or kittens documented north of the Caloosahatchee River since 1973, male panthers continue to periodically disperse out of the breeding range and have been confirmed as far north as Georgia.
 
 [View panther telemetry map data](http://atoll.floridamarine.org/Quickmaps/QM_wildlifehab.html).
+
+## Southeastern Wildlife Refuges that Provide Habitat
+
+- Current breeding range habitat: [Florida Panther National Wildlife Refuge](https://www.fws.gov/refuge/florida_panther/)
+- South-Central Florida habitat for population expansion: [Everglades Headwaters National Wildlife Refuge](http://www.fws.gov/southeast/evergladesheadwaters/)
+- Habitat within the Historic Range: [Okefenokee National Wildlife Refuge](http://www.fws.gov/refuge/okefenokee/) and [Felsenthal National Wildlife Refuge](http://www.fws.gov/refuge/felsenthal/)
 
 ## Living with Panthers
 
