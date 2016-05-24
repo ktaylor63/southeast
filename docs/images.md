@@ -1,6 +1,6 @@
 # Image Preprocessing
 
-All source images used on the website are stored in the `[src/images](https://github.com/USFWS/southeast/tree/master/src/images)` folder in the **highest resolution** available.  These images will be processed to reduce file size to improve website load times.
+All source images used on the website are stored in the [src/images](https://github.com/USFWS/southeast/tree/master/src/images) folder in the **highest resolution** available.  These images will be processed to reduce file size to improve website load times.
 
 ## Scripts for Preprocessing Images
 
@@ -26,7 +26,7 @@ For website content that has front matter, include all the necessary data under 
 - **link**: A link to the full resolution photo on flickr or elsewhere on the web
 
 The following should appear at the top of Markdown files:
-```
+```yml
 ---
 title: Article about roseate spoonbills
 hero:
@@ -39,7 +39,7 @@ hero:
 
 ## Images within a page's content
 
-All photos that will be peppered throughout the content of a page should go in the `[src/images/pages](https://github.com/USFWS/southeast/tree/master/src/images/pages)` directory.  Within this folder you'll find several subfolders each named with a number.  The number represents the width of the optimized output.  If you would like a photo to be 650px wide put it in the 650 folder.  If a size does not exist for the photo you're interested in resizing feel free to create one.
+All photos that will be peppered throughout the content of a page should go in the [src/images/pages](https://github.com/USFWS/southeast/tree/master/src/images/pages) directory.  Within this folder you'll find several subfolders each named with a number.  The number represents the width of the optimized output.  If you would like a photo to be 650px wide put it in the 650 folder.  If a size does not exist for the photo you're interested in resizing feel free to create one.
 
 After processing all images from the `src/images/pages` directory will be available to be included in the website at `/images/pages/file-name.jpg` (see below for a full example).
 
