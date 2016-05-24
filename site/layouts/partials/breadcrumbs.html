@@ -1,11 +1,18 @@
 {{ $permalink := replace .Permalink .Site.BaseURL "" }}
 <ol class="breadcrumbs">
-  <li><a href="/" class="material-icons">home</a></li>
+  <li>
+    <a href="/">
+      <svg>
+        <use xlink:href="#home"></use>
+      </svg>
+    </a>
+  </li>
+  <!-- {{ $permalink }} -->
   {{ range $index, $element := split $permalink "/" }}
     {{ $.Scratch.Add "path" $element }}
-      {{ if ne $element "" }}
-      <li><a href='{{ $.Scratch.Get "path" }}'>{{ replace . "-" " " }}</a></li>
+    {{ if ne $element "" }}
+      <li><a href='/{{ $.Scratch.Get "path" }}'>{{ replace . "-" " " }}</a></li>
       {{ $.Scratch.Add "path" "/" }}
-      {{ end }}
+    {{ end }}
   {{ end }}
 </ol>

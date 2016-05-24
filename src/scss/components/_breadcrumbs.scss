@@ -4,6 +4,14 @@
   padding: 0;
   position: relative;
 
+  svg {
+    fill: white;
+    margin-left: -5px;
+    margin-top: 5px;
+    height: 30px;
+    width: 30px;
+  }
+
   li {
     float: left;
 
