@@ -30,7 +30,7 @@
     "json": "node build/minify-json",
     "hero": "node build/hero",
     "pages": "node build/images",
-    "svg": "svg-sprite --symbol-dest '' --svg-xmldecl false --ss sprite.svg -sD site/layouts/partials/ src/images/svg/*.svg",
+    "svg": "svg-sprite --si true --symbol-dest '' --svg-xmldecl false --ss sprite.svg -sD site/layouts/partials/ src/images/svg/*.svg",
     "lastmod": "node build/last-mod",
     "mkdist": "node build/create-dist",
     "hugo:dev": "node build/hugo -- http://localhost:3000/",
