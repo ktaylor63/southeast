@@ -4,8 +4,6 @@
   var leaflet = require('leaflet');
   var xhr = require('xhr');
 
-  L.Icon.Default.imagePath = '/images/leaflet';
-
   var blueGoose = L.icon({
     iconUrl: '/images/leaflet/blue-goose.svg',
     iconSize: [70, 90],
@@ -14,7 +12,8 @@
 
   var map, refuges, url;
 
-  function init(abbreviation) {
+  function init(abbreviation, baseURL) {
+    L.Icon.Default.imagePath = baseURL + '/images/leaflet';
     url = "http://services.arcgis.com/QVENGdaPbd4LUkLV/ArcGIS/rest/services/FWSVisitorServices/FeatureServer/0/query?where=STATE='" + abbreviation + "'+AND+RSL_TYPE='NWR'&outFields=*&f=pgeojson";
     createMap();
     getRefuges();

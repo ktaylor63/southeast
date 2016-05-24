@@ -10,7 +10,9 @@
   var listedUrl = 'http://arsf.us-east-1.elasticbeanstalk.com/listed?state=' + abbreviation;
   var atRiskUrl = 'http://arsf.us-east-1.elasticbeanstalk.com/species?range[]=' + state;
 
-  map.init(abbreviation);
+  var baseURL = document.body.getAttribute('data-root');
+
+  map.init(abbreviation, baseURL);
 
   function createListItem(text, src) {
     var li = document.createElement('li');
@@ -31,7 +33,7 @@
   xhr.get(listedUrl, function (err, response, body) {
     if (err) console.error(err);
     var listed = JSON.parse(body);
-    var src = 'http://ecos.fws.gov/tess_public/reports/species-listed-by-state-report?status=listed&state=' + abbreviation;
+    var src = 'https://ecos.fws.gov/tess_public/reports/species-listed-by-state-report?status=listed&state=' + abbreviation;
     createListItem(listed.threatened + ' Threatened Species', src);
     createListItem(listed.endangered + ' Endangered Species', src);
   });
