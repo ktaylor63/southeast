@@ -144,9 +144,8 @@ ul .back-block {
 }
 
 .has-children > a::after {
-  content: '\E5CC'; // Right Chevron
-  font-family: 'Material Icons';
-  font-size: 1.4em;
+  content: '\203A'; // Right Chevron
+  font-size: 2.5em;
   position: absolute;
   right: 20px;
 }
@@ -155,9 +154,8 @@ ul .back-block {
   background: $color-accent;
 
   &::before {
-    content: '\E5CB'; // Left Chevron
-    font-family: 'Material Icons';
-    font-size: 1.4em;
+    content: '\2039'; // Left Chevron
+    font-size: 2.5em;
     left: 20px;
     position: absolute;
   }
@@ -189,11 +187,12 @@ ul .back-block {
   color: white;
   cursor: pointer;
   font-size: 35px;
-  line-height: 50px;
+  height: 35px;
+  line-height: 35px;
   padding: 0;
   position: absolute;
   top: 5px;
-  width: 40px;
+  width: 35px;
   z-index: 1000;
 
   &:hover {
