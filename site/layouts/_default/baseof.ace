@@ -4,6 +4,7 @@ html lang="en_US"
     = include partials/head.html .
   body data-root="{{ .Site.BaseURL }}"
     a#skip-to-content href=#content skip to content
+    = include partials/sprite.svg .
     = include partials/navigation.html .
     = include partials/hero.html .
     .wrapper
