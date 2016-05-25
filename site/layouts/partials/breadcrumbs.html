@@ -7,7 +7,6 @@
       </svg>
     </a>
   </li>
-  <!-- {{ $permalink }} -->
   {{ range $index, $element := split $permalink "/" }}
     {{ $.Scratch.Add "path" $element }}
     {{ if ne $element "" }}
