@@ -5,6 +5,6 @@
 
   // Account for the docked navbar
   @media (min-width: $break-md) {
-    padding-right: $nav-width + 15px;
+    padding-left: $nav-width + 15px;
   }
 }

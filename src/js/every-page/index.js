@@ -27,7 +27,7 @@
   document.querySelector('.toggle-share').addEventListener('click', iDontWorkYet);
 
   function iDontWorkYet () {
-    alert('This functionality is on the way, but I don\'t do anything just yet.');
+    alert('This functionality is on the way, but this button doesn\'t do anything just yet.');
   }
 
   xhr.get(baseUrl + 'data/terms.js', function (err, res, body) {
@@ -49,7 +49,8 @@
     });
 
     menu.init({
-      toggleClass: 'fws-menu-trigger'
+      toggleClass: 'fws-menu-trigger',
+      position: 'left'
     });
 
     glossary.init({

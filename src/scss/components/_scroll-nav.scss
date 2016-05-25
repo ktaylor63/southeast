@@ -26,15 +26,16 @@
     top: 0;
 
     @media (min-width: $break-md) {
-      right: $nav-width;
+      left: $nav-width;
     }
 
     @media (min-width: $break-scrollnav) {
       height: 100vh;
-      left: 0;
+      left: auto;
       max-height: 100vh;
       overflow-y: scroll;
       padding-bottom: 20px;
+      right: 0;
       text-align: left;
       width: $sidenav-width;
 

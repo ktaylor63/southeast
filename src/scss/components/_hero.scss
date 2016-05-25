@@ -4,7 +4,7 @@
   background-size: cover;
 
   @media (min-width: $break-md) {
-    margin-right: $nav-width;
+    margin-left: $nav-width;
   }
 }
 
@@ -16,6 +16,6 @@
   text-align: right;
 
   @media (min-width: $break-md) {
-    margin-right: $nav-width;
+    margin-left: $nav-width;
   }
 }

@@ -17,11 +17,11 @@ footer {
   }
 
   @media (min-width: $break-md) {
-    padding-right: $nav-width;
+    padding-left: $nav-width;
   }
 
   @media (min-width: $break-scrollnav) {
-    padding-left: $sidenav-width;
+    padding-right: $sidenav-width;
   }
 }
 
