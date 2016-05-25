@@ -1,13 +1,13 @@
 ---
 title: 'Tell Us Why You Hunt or Fish'
 hero:
-    name: young-boy-fishing.jpg
-    alt: 'A child with an American flag patch holds a rod on the bank of a pond'
-    link: 'https://flic.kr/p/9GEY9s'
-    caption: 'A young boy goes fishing by USFWS'
-vertical: 'https://flic.kr/p/bqYMAv'
+    name: recreational-boating-and-fishing-foundation-family-fishing.jpg
+    alt: 'A father and son sit on a dock with reels cast'
+    caption: 'Recreational Boating and Fishing Foundation. Used with permission.'
 updated: 'May 25th, 2016'
 ---
+
+{{< figure class="photo" src="/images/pages/i-fish-i-hunt-marielle.jpg" alt="A woman holding a fish she caught from a boat in the Everglades" caption="“#iFishBecause it takes me to beautiful places, and because I support conservation.” - Marielle Peschiera bass fishing in the Florida Everglades" >}}
 
 Americans who go hunting and fishing make vital economic contributions to the conservation of America’s wildlife resources. Through the [Pittman-Robertson Act](http://wsfrprograms.fws.gov/Subpages/GrantPrograms/WR/WR_Act.htm), American hunters and shooters contributed [over $800 million](http://wsfrprograms.fws.gov/Subpages/GrantPrograms/WR/WRFinalApportionment2015.pdf) to conservation projects nationwide last year!
 
@@ -21,27 +21,17 @@ As part of this movement, we adopted the #ihuntbecause #ifishbecause social medi
 
 The Wildlife and Sport Fish Restoration Program facilitates partnerships with state and non-governmental organizations to support the management of fish, wildlife and their habitats in the United States.
 
+{{< figure class="photo-center" src="/images/pages/i-fish-i-hunt-tu.jpg" alt="Three men posing for a photo on a fallen tree" caption="“#iFishBecause it lets me enjoy beautiful places outside with my friends.” - Mike Piccirilli (right)" >}}
+
 ## #iFishBecause
 
 Tell us why you fish to find your photo featured here. Post your photo and your reason using the #iFishBecause hashtag and tag us on [Twitter](https://twitter.com/usfwssoutheast), [Facebook](https://www.facebook.com/usfwssoutheast/) or [Instagram](https://www.instagram.com/usfws/).
 
-[insert carousel of photos and captions --
-
-https://drive.google.com/open?id=0B47JX4r1gw3fSE9IMTI3aGJJRmpzUXRfTWdmbjkzN0VWWjJN “#iFishBecause it takes me to beautiful places, and because I support conservation.” - Marielle Peschiera bass fishing in the Florida Everglades
-
-https://drive.google.com/open?id=0B47JX4r1gw3fc0dRM0Z1UkgySDF2ZTFtMUpfZE55TW5USDFF
-“#iFishBecause it lets me enjoy beautiful places outside with my friends.” - Mike Piccirilli (right)
-
-https://drive.google.com/open?id=0B47JX4r1gw3fS1dwQnNuU3hjLVJGV2JLckREMllMVE1IRXpV
-“#iFishBecause it’s entertaining!” - Caleb White fishing in the Nantahala River, NC.
-
-]
+{{< figure class="photo-center" src="/images/pages/i-fish-i-hunt-caleb-white.jpg" alt="Two men fishing next to a small waterfall" caption="“#iFishBecause it lets me enjoy beautiful places outside with my friends.” - Mike Piccirilli (right)" >}}
 
 ## #iHuntBecause
 
 Tell us why you hunt to find your photo featured here. Post your photo and your reason using the #iHuntBecause hashtag and tag us on [Twitter](https://twitter.com/usfwssoutheast), [Facebook](https://www.facebook.com/usfwssoutheast/) or [Instagram](https://www.instagram.com/usfws/).
-
-[placeholder carousel - we have no materials]
 
 ## Did You Know?
 
