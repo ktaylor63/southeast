@@ -41,7 +41,7 @@
     "build:sass": "node-sass --output-style compressed src/scss/styles.scss | postcss -u autoprefixer -o site/static/css/styles.css",
     "prestart": "npm run mkdist && npm run hugo:dev && npm run build:sass && npm run json",
     "start": "npm run watch & npm run hero & npm run watch:sass & npm run serve & npm run lastmod",
-    "build": "npm run json && npm run hero && npm run pages && npm run svgo && npm run build:sass",
+    "build": "npm run json && npm run hero && npm run pages && npm run svg && npm run build:sass",
     "deploy": "npm run build && npm run hugo:pro",
     "stage": "npm run build && npm run hugo:stage"
   },
