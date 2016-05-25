@@ -1,46 +1,85 @@
 ---
 title: 'Recovering Endangered and Threatened Species'
+description: 'After a plant or animal is listed as protected under the Endangered Species Act, U.S. Fish and Wildlife Service biologists must determine what the species needs in order to achieve recovery, meaning it no longer requires federal protection.'
+hero:
+    name: bald-eagle.jpg
+    alt: 'An adult bald eagle soars in front of a bright blue sky'
+    caption: 'A bald eagle in flight at Seedskadee National Wildlife Refuge. Photo by Tom Koerner, USFWS.'
+    link: 'https://flic.kr/p/CBbDh7'
 tags:
     - 'Endangered Species Act'
     - Recovery
-updated: 'May 5th, 2016'
+    - 'threatened species'
+    - delisting
+    - downlisting
+updated: 'May 25th, 2016'
 ---
 
-We seek to not only prevent plants and animals from going extinct, we want to return them to a level of health where protection under the Endangered Species Act is no longer necessary. This process is called **recovery**.
+Our goal under the Endangered Species Act is to conserve plants and animals listed as endangered or threatened, as well as the ecosystems upon which depend. We also work to improve the status of those species to the point that protection under the Act is no longer necessary. This process is what we call **recovery**.
 
-Bringing a species back from the brink of extinction is a challenge that takes time. In some cases, we are attempting to combat population declines more than 200 years in the making.
+Recovering any species is a challenge that takes time. In some cases we are attempting to combat population declines more than 200 years in the making.
 
-Achieving recovery for threatened and endangered species requires cooperative conservation efforts. The collaborative efforts of the U.S. Fish and Wildlife Service and its many partners (Federal, State, and local agencies, tribes, conservation organizations, private landowners, concerned citizens, and the business community) are critical to the recovery of listed species.
+Achieving recovery for threatened and endangered species requires cooperative conservation efforts. The collaborative efforts of the U.S. Fish and Wildlife Service and our many partners, including States, not-for-profit organizations, universities, researchers, private individuals, and other Federal agencies, are critical to the recovery of listed species.
 
-### Successfully Recovered Species
- - Bald eagle
+{{< figure class="photo-center" src="/images/pages/wood-stork-chicks.jpg" alt="Two fluffy wood stork chicks in a nest at the top of a tree" caption="Two wood stork chicks at Harris Neck National Wildlife Refuge in Georgia. Photo by Mary Ellen Urbanski" link="https://flic.kr/p/nCBbeJ" >}}
+
+## How We Recover Species
+
+In order to have a transparent path to achieve recovery, we develop **recovery plans** for listed species that outline the actions that need to be taken in order to move the species towards no longer requiring federal protection.
+
+Many factors go into development of a recovery plan, and the process is unique for each species. When developing plans, we take many things into consideration, and major factors include:
+
+- the types of factors that threaten the species,
+- the magnitude of those threats, and
+- the degree to which the threats can reversed.
+
+The biology of the species, the current number of individuals of the species, and their distributions, as well as many other factors, are critically important.
+
+These plans outline the benchmarks we need to reach in order stabilize and improve  the species’ status, ultimately allowing for removal of the species for the list of endangered and threatened species. Often recovery teams composed of species experts, both internal and external to the Service, work together to develop and implement  recovery plans.
+
+You can find the recovery plan for any protected species using our [Environmental Conservation Online System](http://ecos.fws.gov/tess_public/pub/speciesRecovery.jsp?sort=1) (ECOS).
+
+{{< figure class="photo" src="/images/pages/brown-pelican-pair.jpg" alt="Two brown pelicans on a ground nest with their mouths slightly open" caption="Pair of brown pelicans. Photo by Jackie Orsulak, USFWS." link="https://flic.kr/p/oc1Epf" >}}
+
+## Successfully Recovered Species
  - American alligator
+ - American peregrine falcon
+ - Bald eagle
  - Brown pelican (on the Atlantic Coast)
  - Eggert’s sunflower
- - Tennessee purple coneflower
- - Magazine mountain shagreen
- - American peregrine falcon
-
-### Proposed Delistings Due to Recovery
- - White haired goldenrod
  - Louisiana black bear
- - Interior least tern
+ - Magazine mountain shagreen
+ - Tennessee purple coneflower
 
-### Downlistings
- - Snail darter
- - Louisiana pearlshell
- - Large-flowered skullcap
+## Proposed Delistings Due to Recovery
+ - Interior least tern
+ - White haired goldenrod
+
+## Downlistings
  - American crocodile
+ - Large-flowered skullcap
+ - Louisiana pearlshell
  - Okaloosa darter
+ - Snail darter
  - Tulotoma snail
  - Wood stork
 
-### Plans for Recovering Species
+{{< figure class="photo" src="/images/pages/puerto-rican-parrot-banded.jpg" alt="A bright green parrot with a green band on it's right foot" caption="The endangered Puerto Rican parrot. Photo by Tom MacKenzie, USFWS. " link="https://flic.kr/p/9D3HVd" >}}
 
-We outline the actions that need to be taken in order to bring a species back from the brink of extinction in documents called **recovery plans**. You can find the recovery plan for any protected species using our [Environmental Conservation Online System (ECOS)](http://ecos.fws.gov/tess_public/pub/speciesRecovery.jsp?sort=1).
+## Recovery Teams
 
-### Recovery Programs
+Some species have entire teams of biologists dedicated to their recovery. Learn more about the species and their programs:
 
-Some species have entire teams of biologists dedicated to their recovery. Learn more about the species and their program below:
- - Puerto Rican parrot
- - Red wolf
+- [Puerto Rican parrot](http://www.fws.gov/caribbean/es/Parrot.html)
+- [Red wolf](http://www.fws.gov/redwolf/)
+- [Florida panther](http://www.fws.gov/verobeach/FloridaPantherRIT.html)
+
+## Contact Us
+
+For more information about species recovery, please contact us.
+
+[Aaron Valenta](mailto:aaron_valenta@fws.gov?subject=Recovery), Chief, Division of Restoration and Recovery
+
+[Lisa Ellis](mailto:lisa_ellis@fws.gov?subject=Recovery), Deputy Chief, Division of Restoration and Recovery
+
+[Kelly Bibb](mailto:kelly_bibb@fws.gov?subject=Recovery), Recovery Coordinator
