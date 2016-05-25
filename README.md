@@ -4,7 +4,7 @@ This is the source code repository for [fws.gov/southeast](http://www.fws.gov/so
 
 ## Development
 
-Run a development server: `npm start`
+Run a development server: `npm start`.  For more details, [go to the documentation](https://github.com/USFWS/southeast/tree/master/docs).
 
 ## License
 
