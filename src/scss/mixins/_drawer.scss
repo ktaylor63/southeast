@@ -1,0 +1,43 @@
+@mixin drawer($item) {
+  background: white;
+  border-bottom-right-radius: $border-radius;
+  border-top-right-radius: $border-radius;
+  padding: 2em 1em;
+  position: fixed;
+  transition: transform .3s;
+  z-index: 5000;
+
+  &.active {
+    @include shadow(3);
+  }
+
+  &.#{$item}-left {
+    bottom: 0;
+    left: 0;
+    top: 0;
+    transform: translateX(-100%);
+
+    &.active {
+      transform: translateX(0);
+
+      @media (min-width: $break-md) {
+        left: $nav-width;
+      }
+    }
+  }
+
+  &.#{$item}-right {
+    bottom: 0;
+    right: 0;
+    top: 0;
+    transform: translateX(100%);
+
+    &.active {
+      transform: translateX(0);
+
+      @media (min-width: $break-md) {
+        left: $nav-width;
+      }
+    }
+  }
+}
