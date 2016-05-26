@@ -1,6 +1,6 @@
 {{ if .Params.hero }}
 <a href="{{ .Params.hero.link }}">
-  <div class="hero" role="banner" style="background-image: url({{ .Site.BaseURL }}images/hero/{{ .Params.hero.name }});"></div>
+  <div class="hero" role="banner" style="background-image: url({{ .Site.BaseURL }}images/hero/{{ .Params.hero.name }});{{ if .Params.hero.position }} background-position: {{ .Params.hero.position }};{{ end }}"></div>
 </a>
 <p class="hero-caption">{{ .Params.hero.caption | safeHTML }}</p>
 {{ end }}
