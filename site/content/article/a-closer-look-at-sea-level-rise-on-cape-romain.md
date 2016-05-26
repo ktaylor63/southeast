@@ -13,7 +13,7 @@ hero:
     caption: 'An overwashed portion of Cape Island during an extreme tide event in 2007. Photo by Jennifer Koches, USFWS.'
 date: '2011-04-22'
 author: 'Stacy Shelton'
-updated: 'May 12th, 2016'
+updated: 'May 26th, 2016'
 ---
 
 Cape Romain National Wildlife Refuge near Charleston, South Carolina, is a living exhibit for anyone seeking to understand the impacts of rising sea levels in a changing climate.

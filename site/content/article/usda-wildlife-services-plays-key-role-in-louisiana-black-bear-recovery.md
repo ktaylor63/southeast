@@ -12,10 +12,11 @@ tags:
 hero:
     caption: 'Dwight LeBlanc with bear named “Liberty.”  The bear was eating watermelons and corn and overturning beehives near Woodville, Wilkinson County, MS. Photo courtesy of Dwight LeBlanc.'
     name: louisiana-black-bear-dwight-leblanc.jpg
-    alt: null
+    alt: 'A biologist taking a health assessment for a tranquilized bear'
+    position: 'top left'
 author: 'Tom MacKenzie, USFWS External Affairs'
 date: '2016-03-10'
-updated: 'May 12th, 2016'
+updated: 'May 26th, 2016'
 ---
 
 Back in the old days -- in the early 90’s -- when the Louisiana black bear was first listed under the Endangered Species Act, the Black Bear Conservation Committee (BBCC) was formed and USDA’s Wildlife Services was a key component.

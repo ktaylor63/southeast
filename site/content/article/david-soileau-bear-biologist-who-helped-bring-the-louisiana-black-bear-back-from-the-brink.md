@@ -13,9 +13,10 @@ hero:
     name: louisiana-black-bear-david-soileau.jpg
     alt: 'Two biologists check on the health of a sedated Louisiana black bear'
     caption: 'The Service’s David Soileau (right) examines a tranquilized Louisiana Black Bear as part of an effort to study the recovery of the species’ population. Photo by USFWS.'
+    position: 'top center'
 author: 'Nadine Siak, USFWS Gulf Restoration Program'
 date: '2016-03-10'
-updated: 'May 12th, 2016'
+updated: 'May 26th, 2016'
 ---
 
 David Soileau job title at the Service’s [Louisiana Ecological Services Office](http://www.fws.gov/lafayette/) is quite a mouthful: “Conservation Planning Assistance Coordinator.” What does it mean, exactly?

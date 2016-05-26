@@ -14,7 +14,8 @@ hero:
     alt: 'A biologist feeding a tiny squirrel wrapped in a white towel'
     caption: 'A Carolina northern flying squirrel in the hands of a biologist. Photo by Gary Peeples, USFWS.'
     link: 'https://flic.kr/p/cE8uD7'
-updated: 'May 25th, 2016'
+    position: 'top center'
+updated: 'May 26th, 2016'
 ---
 
 - Taxa: Mammal

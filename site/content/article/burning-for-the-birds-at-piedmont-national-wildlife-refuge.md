@@ -6,6 +6,7 @@ hero:
     caption: 'A red-cockaded woodpecker has dinner outside its nesting cavity. Photo by USFWS.'
     name: red-cockaded-woodpecker-dinner.jpg
     alt: 'A woodpecker perched on a tree with a bug in its mouth'
+    position: 'top center'
 tags:
     - 'Prescribed Fire'
     - Piedmont
@@ -14,7 +15,7 @@ tags:
     - 'Red-cockaded woodpecker'
 date: '2014-03-21'
 author: 'Josh O''Connor, Regional Fuels Specialist'
-updated: 'May 12th, 2016'
+updated: 'May 26th, 2016'
 ---
 
 ## Over a decade of prescribed fire management yields big benefits for the red-cockaded woodpecker

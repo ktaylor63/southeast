@@ -11,9 +11,10 @@ hero:
     name: louisiana-black-bear-maria-davidson.jpg
     caption: 'The Louisiana Department of Wildlife and Fisheries’ Maria Davidson enjoys some up-close-and-personal time with a Louisiana black bear cub.  Photo by USFWS.'
     alt: 'Biologist Maria Davidson wearing camoflage holding a Louisiana black bear cub'
+    position: 'top center'
 author: 'Nadine Siak, USFWS Gulf Restoration Program'
 date: '2016-03-10'
-updated: 'May 12th, 2016'
+updated: 'May 26th, 2016'
 ---
 
 If you Google the words “Maria Davidson” + “black bear,” you’ll get many news reports along the lines of “There’s a bear over there!” That’s because Louisiana black bears occasionally wander out of their normal backwoods habitat into those of humans. As the Large Carnivore Program Manager for the Louisiana Department of Wildlife and Fisheries (LDWF), Davidson and her staff are responsible for tracking, catching and sedating wayward bears in order to relocate them, unharmed, to uninhabited areas.
