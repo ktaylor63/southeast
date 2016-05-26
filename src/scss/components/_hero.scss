@@ -1,7 +1,8 @@
 .hero {
   height: 50vh;
-  background: no-repeat center center;
+  background-position: center center;
   background-size: cover;
+  background-repeat: no-repeat;
 
   @media (min-width: $break-md) {
     margin-left: $nav-width;
