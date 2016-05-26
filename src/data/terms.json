@@ -6,6 +6,12 @@
     "related": ["Adapt", "Adaptive Management"]
   },
   {
+    "name": "At-risk species",
+    "acronym": null,
+    "description": "At-risk species are proposed for listing, candidates for listing, and/or petitioned for listing. They are under the authority of state wildlife agencies, thus conservation of these species is led by the states.",
+    "related": ["Listed species", "Endangered species", "Threatened species", "Endangered Species Act"]
+  },
+  {
     "name": "Adaptive Management",
     "acronym": null,
     "description": "Adaptive Management involves exploring alternative ways to meet objectives such as population density; predicting the outcomes of alternatives based on the current state of scientific knowledge; implementing one or more of these alternatives; monitoring to learn about the impacts of management action; and then using the results to update knowledge and adjust management actions.",
@@ -14,7 +20,7 @@
   {
     "name": "Beneficial Use Group",
     "acronym": "BUG",
-    "description": "Hundreds of million cubic yards of material are dredged annually from American ports, harbors, and waterways to maintain and improve the nation's navigation system. A Beneficial Use Group is made up of federal, state and private partners who promote the use of this dredged material (e.g., sediment) in a beneficial manner rather than being disposed of as waste.<br>Dredged material can serve a wide variety of useful purposes, from restoring wetlands and replenishing beaches diminished by erosion, to being included as a component of construction materials",
+    "description": "Hundreds of million cubic yards of material are dredged annually from American ports, harbors, and waterways to maintain and improve the nation's navigation system. A Beneficial Use Group is made up of federal, state and private partners who promote the use of this dredged material (e.g., sand, soft clay) in a beneficial manner rather than being disposed of as waste.<br> Dredged material can serve a wide variety of useful purposes, from restoring wetlands and replenishing beaches diminished by erosion, to being included as a component of construction materials.",
     "related": []
   },
   {
@@ -26,7 +32,7 @@
   {
     "acronym": "BO",
     "name": "Biological Opinion",
-    "description": "A document produced for ____ purpose. It includes: The opinion of the Fish and Wildlife Service or the National Marine Fisheries Service as to whether or not a Federal action is likely to jeopardize the continued existence of listed species, or result in the destruction or adverse modification of designated critical habitat; A summary of the information on which the opinion is based; and A detailed discussion of the effects of the action on listed species or designated critical habitat.",
+    "description": "A document produced for a specific purpose. It includes: <ol><li>The opinion of the Fish and Wildlife Service or the National Marine Fisheries Service as to whether or not a Federal action is likely to jeopardize the continued existence of listed species, or result in the destruction or adverse modification of designated critical habitat;</li><li>A summary of the information on which the opinion is based; and</li><li>A detailed discussion of the effects of the action on listed species or designated critical habitat.</li></ol>",
     "related": []
   },
   {
@@ -50,10 +56,26 @@
   {
     "name": "Carnivore",
     "acronym": null,
-    "description": "An organism that only eats other organism.",
-    "related": [
-      "Omnivore"
-    ]
+    "description": "An organism that only eats other animals.",
+    "related": ["Omnivore", "Herbivore"]
+  },
+  {
+    "name": "Comprehensive Conservation Plan",
+    "acronym": "CCP",
+    "description": "An official document developed by experienced planners through a systematic decision making process that accomplishes the following for every national wildlife refuge: <ul><li>Describes the desired future conditions of the refuge,</li><li>Provides long-range guidance and management direction to achieve refuge purposes,</li><li>Helps fulfill the National Wildlife Refuge System mission,</li><li>Maintains and, where appropriate, restores the ecological integrity of each refuge and the Refuge System,</li><li>Helps achieve the goals of the National Wilderness Preservation System, and Meets other mandates.</li><li>It is the Service’s policy to manage all national wildlife refuges according to an approved CCP.</li></ul><br>To learn more, visit our page on land acquisition or read our agency policy on CCPs.",
+    "related": []
+  },
+  {
+    "name": "Compatible use",
+    "acronym": null,
+    "description": "Any proposed or existing wildlife-dependent recreational use or other use of a national wildlife refuge that, based on our sound professional judgment, will not materially interfere with or detract from fulfilling the mission of the Refuge System or the purposes of the refuge.",
+    "related": ["Compatibility determination"]
+  },
+  {
+    "name": "Compatability determination",
+    "acronym": null,
+    "description": "A document written, signed and dated by a national wildlife refuge manager and the Southeast Region chief of refuges that signifies whether proposed or existing uses of national wildlife refuges are compatible with their establishing purposes and the mission of the National Wildlife Refuge System. (See also: compatible use.)<br>All recreational and educational activities, including construction or expansion of facilities such as boardwalks and boat ramps, as well as economic or other uses of a refuge by the public or other non-Service entities, require compatibility determinations. Refuge managers will not permit a new use of a national wildlife refuge or expand, renew, or extend an existing use unless they have determined that it is compatible.<br>Compatibility determinations are not required for refuge management activities such as scientific studies or surveys, historic preservation, law enforcement, or the maintenance of refuge management facilities, structures, or improvements.<br>We reevaluate compatibility determinations for existing wildlife-dependent recreational uses when we prepare or revise a comprehensive conservation plan, or every 15 years, whichever is sooner. We reevaluate other uses every 10 years or sooner, if conditions change or significant new information about the use or its effects becomes available.",
+    "related": ["Compatible use"]
   },
   {
     "name": "Conservation",
@@ -63,6 +85,12 @@
       "conserve",
       "conserving"
     ]
+  },
+  {
+    "name": "Controlled burn",
+    "acronym": null,
+    "description": "See Prescribed fire",
+    "related": ["Prescribed fire"]
   },
   {
     "name": "Critical Habitat",
@@ -184,6 +212,12 @@
     ]
   },
   {
+    "name": "Indicator Species",
+    "acronym": null,
+    "description": "Indicator Species are species whose presence, absence or abundance reflect a specific environmental condition. An indicator species can signal a change in the biological condition of a particular ecosystem, and thus may be used as a proxy to diagnose the health of an ecosystem.",
+    "related": ["Keystone Species", "Surrogate Species"]
+  },
+  {
     "name": "Injurious Wildlife",
     "acronym": null,
     "description": "No definition, yet.",
@@ -191,6 +225,12 @@
       "Invasive Species",
       "Lacey Act"
     ]
+  },
+  {
+    "name": "Interjurisdictional fish",
+    "acronym": null,
+    "description": "Interjurisdictional fish are fish populations whose management and allocation of use are the collective responsibility of two or more states, tribes and/or other nations. The Gulf menhaden (Brevoortia patronus) is an example of an interjurisdictional fish species, as these fish range during their lifetimes from the Yucatan Peninsula in Mexico, across the western and northern Gulf to Tampa Bay, Florida.",
+    "related": []
   },
   {
     "name": "Invasive Species",
@@ -214,6 +254,18 @@
     "related": []
   },
   {
+    "name": "Join Venture",
+    "acronym": "JV",
+    "description": "See migratory bird joint venture",
+    "related": ["Migratory Bird Joint Venture"]
+  },
+  {
+    "name": "Keystone species",
+    "acronym": null,
+    "description": "Species that play unique and crucial roles in the way an ecosystem functions. Without this species, an ecosystem would be dramatically different.",
+    "related": ["Indicator species", "Surrogate species"]
+  },
+  {
     "name": "Lacey Act",
     "acronym": null,
     "description": "The Lacey Act makes it unlawful for any person to import, export, transport, sell, receive, acquire, or purchase any fish or wildlife or plant taken, possessed, transported, or sold in violation of any law, treaty, or regulation of the United States or in violation of any Indian tribal law. This federal law applies to interstate or foreign commerce.<br><br>Under the  &ldquo;injurious wildlife provision&rdquo; of the Lacey Act, a species of wildlife can be listed as injurious because it has been demonstrated to be harmful or have the potential to be harmful to either the health and welfare of humans, the interests of forestry, agriculture, or horticulture, or the welfare and survival of wildlife or the resources that wildlife depend upon. If a species is deemed to be &ldquo;injurious,&rdquo; it may not be transported into or through U.S. territories or states without a special permit from the U.S. Fish and Wildlife Service. This prohibition includes the importation or interstate transport of live animals, their sperm and eggs, and hybrids. Permits may be granted for the importation or transportation of live specimens of injurious wildlife for scientific, medical, educational, or zoological purposes.<br><br>The Lacey Act does not restrict intrastate (within state) transport.",
@@ -226,6 +278,12 @@
     "acronym": "LCCs",
     "name": "Landscape Conservation Cooperatives",
     "description": "Landscape Conservation Cooperatives (LCCs) are self-directed established partnerships between federal agencies, states, tribes, non-governmental organizations, universities and other entities that collaboratively define science needs and jointly address broad-scale conservation issues (e.g., sea-level rise) in a defined geographic area. There are currently 22 LCCs that span North America, the Pacific Islands and the Caribbean.",
+    "related": []
+  },
+  {
+    "name": "Land Protection Plan",
+    "acronym": "LPP",
+    "description": "A document that guide the establishment of new refuges or the expansion of existing refuges. It describes resource protection needs and a proposed refuge boundary, and identifies priority lands that may be acquired from willing sellers. It also describes other conservation opportunities including easements and cooperative management agreements with willing landowners.",
     "related": []
   },
   {
