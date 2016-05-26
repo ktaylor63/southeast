@@ -13,5 +13,6 @@ html lang="en_US"
         #content
           = yield main
     = include partials/footer.html .
-    // = include partials/share.html .
+    = include partials/contact.html .
+    = include partials/share.html .
     = include partials/scripts.html .
