@@ -23,13 +23,6 @@
     this.ref('id');
   };
 
-  document.querySelector('.toggle-contact').addEventListener('click', iDontWorkYet);
-  document.querySelector('.toggle-share').addEventListener('click', iDontWorkYet);
-
-  function iDontWorkYet () {
-    alert('This functionality is on the way, but this button doesn\'t do anything just yet.');
-  }
-
   xhr.get(baseUrl + 'data/terms.js', function (err, res, body) {
     terms = JSON.parse(body);
 
@@ -56,12 +49,31 @@
     glossary.init({
       terms: terms,
       lunrIndex: lunrIndex,
-      toggleClass: 'highlight'
+      toggleClass: 'highlight',
+      position: 'left'
     });
 
     document.querySelector('.glossary-trigger').addEventListener('click', glossary.toggle);
     document.querySelector('.fws-menu-trigger').addEventListener('click', menu.show);
     document.getElementById('search-trigger').addEventListener('click', menu.toggleSearch);
+    document.querySelector('.toggle-contact').addEventListener('click', function () {
+      toggleActiveClass(document.querySelector('.contact-drawer'));
+    });
+
+    document.querySelector('.toggle-share').addEventListener('click', function () {
+      toggleActiveClass(document.querySelector('.share-drawer'));
+    });
+
+    var drawerToggles = document.querySelectorAll('.close-drawer');
+
+    for (var i = 0; i < drawerToggles.length; i++) {
+      drawerToggles[i].addEventListener('click', removeActiveClassFromDrawer);
+    }
+
+    function removeActiveClassFromDrawer (e) {
+      var parent = e.target.parentNode;
+      if (parent) removeClass(parent, 'active');
+    }
 
     var scrollNav = document.querySelector('.scroll-nav');
     scrollNav.addEventListener('click', toggleScrollNav);
@@ -69,6 +81,12 @@
     function toggleScrollNav() {
       if ( hasClass(scrollNav, 'open') ) removeClass(scrollNav, 'open');
       else addClass(scrollNav, 'open');
+    }
+
+    function toggleActiveClass(el, theClass) {
+      var activeClass = theClass || 'active';
+      if ( hasClass(el, activeClass) ) removeClass(el, activeClass);
+      else addClass(el, activeClass);
     }
   });
 
