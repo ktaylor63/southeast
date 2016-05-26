@@ -14,8 +14,9 @@ hero:
     name: sicklefin-redhorse.jpg
     alt: 'A biologist holding a yellow/brown fish on a river bank in front of a dam'
     caption: 'North Carolina Biologist with Sicklefin redhorse. Photo: Mark Cantrell, USFWS.'
+    position: 'bottom right'
 description: 'The sicklefin redhorse, a freshwater fish, can grow to 25 inches long. It has a sickle-shaped back fin that is olive-colored, sometimes partly red. Its body is also olive, with a coppery or brassy sheen; its lower fins are primarily dusky to dark, often tinted yellow or orange and pale edged; the tail fin is mostly red.'
-updated: 'May 12th, 2016'
+updated: 'May 26th, 2016'
 ---
 
 - Taxa: Fish
@@ -104,7 +105,7 @@ The sicklefin redhorse is threatened by factors that commonly imperil river anim
 - N.C. Wildlife Resources Commission
 - Tennessee Valley Authority
 
-## Other Scientific Resource
+## Other Scientific Resources
 
 - Favrot, S.D. 2008. Sicklefin redhorse (Catostomidae) reproductive and habitat ecology in the upper Hiwassee River basin of the southern Appalachian Mountains. Master of Science Thesis, North Carolina State University, Raleigh.
 - Harris, P.M., R.L. Mayden, H.S. Espinosa Perez, and F. Garcia de Leon. 2002. Phylogenetic relationships of Moxostoma and Scartomyzon (Catostomidae) based on mitochrondrial cytochrome b sequence data. Journal of Fish Biology 61:1433 1452.
