@@ -93,3 +93,12 @@
 .nav-text {
   display: block;
 }
+
+// Show the contact button as soon as there is room
+.contact-icon {
+  display: none;
+
+  @media(min-width: 400px) {
+    display: inline-block;
+  }
+}
