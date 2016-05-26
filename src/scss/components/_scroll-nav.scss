@@ -17,7 +17,7 @@
   }
 
   &.fixed {
-    box-shadow: 0 5px 2px -2px $dark-gray;
+    @include shadow(2);
     left: 0;
     max-height: 45px;
     opacity: 1;
