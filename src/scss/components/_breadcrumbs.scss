@@ -1,15 +1,22 @@
 .breadcrumbs {
   list-style: none;
   display: inline-block;
+  margin: 0;
   padding: 0;
   position: relative;
 
   svg {
-    fill: white;
-    margin-left: -5px;
-    margin-top: 5px;
-    height: 30px;
-    width: 30px;
+    fill: $color-accent;
+    height: 20px;
+    width: 20px;
+
+    @media (min-width: $break-md) {
+      fill: white;
+      margin-left: -5px;
+      margin-top: 5px;
+      height: 30px;
+      width: 30px;
+    }
   }
 
   li {
