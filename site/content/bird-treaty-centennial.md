@@ -8,7 +8,8 @@ hero:
     link: 'https://flic.kr/p/cM3Jgu'
     alt: 'A bright white bird with long slender legs perched in a tree'
     caption: 'Years ago, great egrets were prized for their feathers. Photo by Mary Ellen Urbanski.'
-updated: 'May 10th, 2016'
+    position: 'top center'
+updated: 'May 26th, 2016'
 ---
 
 {{< figure class="photo" src="/images/pages/mbta-centennial-logo.jpg" alt="The USFWS logo next to the migratory bird treaty centennial logo" >}}
