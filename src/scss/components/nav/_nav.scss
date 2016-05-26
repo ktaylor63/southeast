@@ -23,6 +23,7 @@
 }
 
 .nav-list {
+  @include shadow(3);
   background: $dark-green;
   margin: 0;
   min-width: $nav-width;
@@ -39,7 +40,7 @@
     position: fixed;
     left: 0;
     top: 0;
-    z-index: 1002;
+    z-index: 5002;
   }
 }
 
