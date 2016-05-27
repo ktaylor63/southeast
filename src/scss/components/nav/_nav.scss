@@ -13,12 +13,8 @@
   }
 
   .logo {
-    transition: transform $transition-duration;
+    height: 50px;
     width: 50px;
-
-    &:hover {
-      transform: scale(1.2);
-    }
   }
 }
 
