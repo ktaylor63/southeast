@@ -5,6 +5,7 @@
   var hasClass = require('has-class');
   var addClass = require('add-class');
   var removeClass = require('remove-class');
+  var Parallax = require('parallax-scroll');
 
   var menu = require('fws-navigation/src/js/menu');
   var nav = require('fws-scrollnav');
@@ -12,6 +13,12 @@
   var highlighter = require('fws-highlighter');
 
   var baseUrl = document.body.getAttribute('data-root');
+
+
+  var parallax = new Parallax('.parallax', {
+    speed: 0.5
+  });
+  parallax.animate();
 
   var terms;
 
