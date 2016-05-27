@@ -1,0 +1,34 @@
+{
+  "name": "jobs",
+  "version": "1.0.0",
+  "description": "Script to query the USA jobs API for USFWS listings in the Southeast",
+  "main": "index.js",
+  "browserify": {
+    "transform": [
+      "jadeify"
+    ]
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "browserify": "browserify index.js | uglifyjs -mc > ../../../site/static/js/jobs.js",
+    "watchify": "watchify index.js -o ../../../site/static/js/jobs.js -dv"
+  },
+  "keywords": [
+    "USAjobs"
+  ],
+  "author": "Roy Hewitt <royhewitt07@gmail.com>",
+  "license": "SAX-PD",
+  "dependencies": {
+    "currency-formatter": "^1.0.2",
+    "moment": "^2.13.0",
+    "query-string": "^4.1.0",
+    "request": "^2.72.0"
+  },
+  "devDependencies": {
+    "browserify": "^13.0.1",
+    "jade": "^1.11.0",
+    "jadeify": "^4.6.0",
+    "uglifyjs": "^2.4.10",
+    "watchify": "^3.7.0"
+  }
+}

@@ -1,0 +1,22 @@
+- var formatter = require('currency-formatter');
+- var moment = require('moment');
+each result in results
+  - result = result.MatchedObjectDescriptor;
+  - var closeDate = moment(result.ApplicationCloseDate).format('MMMM D, YYYY');
+  - var details = result.UserArea.Details;
+  - var grade = (details.LowGrade === details.HighGrade) ? details.LowGrade : details.LowGrade + '/' + details.HighGrade;
+  - var compensation = formatter.format(result.PositionRemuneration[0].MinimumRange, {code: 'USD'}) + ' - ' + formatter.format(result.PositionRemuneration[0].MaximumRange, {code: 'USD'});
+  li.job-item
+    h3 #[a(target="_blank", href=result.PositionURI)= result.PositionTitle] (#{result.JobGrade[0].Code} #{grade})
+    p #[strong Key Details:]
+    ul
+      li| Application Close Date: #{closeDate}
+      li| Compensation: #{compensation}
+      li| Position Type: #{result.PositionSchedule[0].Name} #{result.PositionOfferingType[0].Name}
+      for series in result.JobCategory
+        li| Job Series: #{series.Name} (#{series.Code})
+      for location in result.PositionLocation
+        li| Location: #{location.LocationName}
+    p= details.JobSummary
+    p| #[a(target="_blank", href=result.ApplyURI[0]) Apply online]
+    p Who may apply #{details.WhoMayApply.Name}
