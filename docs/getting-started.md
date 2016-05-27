@@ -2,13 +2,20 @@
 
 This website is the amalgamation of many free and open source tools.  Before you get started you'll need to make sure you have a few things installed.
 
+## Requirements
+
 - [NodeJS](https://nodejs.org/en/) version 4.x (Roy is currently on 4.2.4)
 - [Hugo](https://gohugo.io/overview/installing/) (Roy is currently using v0.15)
 - [Git](https://git-scm.com/downloads) (Roy is currently using 2.6.4 [Apple Git-63])
+- [Sharp/libvips](http://sharp.dimens.io/en/stable/install/#installation)
+
+`libvips` is a utility required by [Sharp](http://sharp.dimens.io/en/).  On a mac with [homebrew](http://brew.sh/) installed run `brew install homebrew/science/vips` in your terminal. **We should look at another photo re-sizing utility if we can avoid this extra install/dependency.**
 
 **Keep in mind this site was developed using a Mac.  There are often *gotchas* associated with Windows machines that I have not run into.**
 
 Once you have node, hugo and git installed you'll need to clone a copy of this repository to your development machine.  After everything has downloaded you'll need to run `npm install` to install all of the project's dependencies (different programs that optimize images, inject the current date into your page, etc.).
+
+![Location on website where the clone repository button is located](./images/clone-repository.jpg)
 
 ## Static Site Generator
 
