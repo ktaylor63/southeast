@@ -5,7 +5,6 @@
 
 .glossary-list {
   list-style: none;
-  overflow-y: scroll;
   padding-left: 0;
 }
 
@@ -21,7 +20,5 @@
 
 .glossary-container {
   @include drawer('glossary');
-  max-width: $drawer-width;
   overflow-y: scroll;
-  width: calc(100% - $nav-width);
 }
