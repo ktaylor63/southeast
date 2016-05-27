@@ -1,0 +1,6 @@
+.job-list {
+  padding: 0;
+}
+.job-item {
+  @include card;
+}
