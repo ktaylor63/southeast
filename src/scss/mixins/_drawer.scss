@@ -1,10 +1,12 @@
-@mixin drawer($item) {
+@mixin drawer($item, $max-width: $drawer-width) {
   background: white;
   border-bottom-right-radius: $border-radius;
   border-top-right-radius: $border-radius;
+  max-width: $max-width;
   padding: 2em 1em;
   position: fixed;
   transition: transform .3s;
+  width: calc(100% - $nav-width);
   z-index: 5000;
 
   &.active {
