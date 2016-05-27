@@ -39,8 +39,8 @@
     "serve": "browser-sync start --server dist --files 'dist/**/*' --logLevel silent",
     "watch:sass": "node-sass -w src/scss/styles.scss site/static/css/styles.css",
     "build:sass": "node-sass --output-style compressed src/scss/styles.scss | postcss -u autoprefixer -o site/static/css/styles.css",
-    "prestart": "npm run mkdist && npm run hugo:dev && npm run build:sass && npm run json",
-    "start": "npm run watch & npm run hero & npm run watch:sass & npm run serve & npm run lastmod",
+    "prestart": "npm run mkdist && npm run build:sass && npm run json && npm run hero",
+    "start": "npm run watch & npm run watch:sass & npm run lastmod & npm run hugo:dev & npm run serve",
     "build": "npm run json && npm run hero && npm run pages && npm run svg && npm run build:sass",
     "deploy": "npm run build && npm run hugo:pro",
     "stage": "npm run build && npm run hugo:stage"
