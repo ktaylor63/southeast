@@ -2,7 +2,7 @@
   'use strict';
 
   var qs = require('query-string');
-  var request = require('request');
+  var xhr = require('xhr');
   var template = require('./results.jade');
 
   var output  = document.querySelector('.job-list');
@@ -22,13 +22,11 @@
   var options = {
     url: url,
     headers: {
-      'Host': HOST,
-      'User-Agent': EMAIL,
       'Authorization-Key': API_KEY
     }
   };
 
-  request(options, function(err, res, body) {
+  xhr(options, function(err, res, body) {
     if (err) console.error(err);
     if (!err && res.statusCode == 200) {
       var data = JSON.parse(body);

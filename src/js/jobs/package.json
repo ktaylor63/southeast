@@ -11,7 +11,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "browserify": "browserify index.js | uglifyjs -mc > ../../../site/static/js/jobs.js",
-    "watchify": "watchify index.js -o ../../../site/static/js/jobs.js -dv"
+    "watchify": "watchify index.js -o ../../../site/static/js/jobs.js -dv",
+    "inspect": "browserify --full-paths index.js | uglifyjs -mc | Discify --open"
   },
   "keywords": [
     "USAjobs"
@@ -19,13 +20,13 @@
   "author": "Roy Hewitt <royhewitt07@gmail.com>",
   "license": "SAX-PD",
   "dependencies": {
-    "currency-formatter": "^1.0.2",
-    "moment": "^2.13.0",
+    "date-and-time": "^0.3.0",
     "query-string": "^4.1.0",
-    "request": "^2.72.0"
+    "xhr": "^2.2.0"
   },
   "devDependencies": {
     "browserify": "^13.0.1",
+    "disc": "^1.3.2",
     "jade": "^1.11.0",
     "jadeify": "^4.6.0",
     "uglifyjs": "^2.4.10",

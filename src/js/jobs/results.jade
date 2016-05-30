@@ -1,11 +1,10 @@
-- var formatter = require('currency-formatter');
-- var moment = require('moment');
+- var date = require('date-and-time');
 each result in results
   - result = result.MatchedObjectDescriptor;
-  - var closeDate = moment(result.ApplicationCloseDate).format('MMMM D, YYYY');
+  - var closeDate = date.format(new Date(result.ApplicationCloseDate), 'MMMM D, YYYY');
   - var details = result.UserArea.Details;
   - var grade = (details.LowGrade === details.HighGrade) ? details.LowGrade : details.LowGrade + '/' + details.HighGrade;
-  - var compensation = formatter.format(result.PositionRemuneration[0].MinimumRange, {code: 'USD'}) + ' - ' + formatter.format(result.PositionRemuneration[0].MaximumRange, {code: 'USD'});
+  - var compensation = Number(result.PositionRemuneration[0].MinimumRange).toLocaleString() + ' - ' + Number(result.PositionRemuneration[0].MaximumRange).toLocaleString();
   li.job-item
     h3 #[a(target="_blank", href=result.PositionURI)= result.PositionTitle] (#{result.JobGrade[0].Code} #{grade})
     p #[strong Key Details:]
