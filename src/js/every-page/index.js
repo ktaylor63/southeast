@@ -7,7 +7,7 @@
   var removeClass = require('remove-class');
   var Parallax = require('parallax-scroll');
 
-  var menu = require('fws-navigation/src/js/menu');
+  var menu = require('fws-navigation');
   var nav = require('fws-scrollnav');
   var glossary = require('fws-glossary');
   var highlighter = require('fws-highlighter');
