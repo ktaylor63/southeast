@@ -3,4 +3,8 @@
   .main role="main"
     = include partials/breadcrumbs.html .
     h1 {{ .Title }}
+    {{ if .Params.subtitle }}
+    h2
+      em {{ .Params.subtitle }}
+    {{ end }}
     {{ .Content }}
