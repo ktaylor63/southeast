@@ -1,6 +1,17 @@
 .register-list {
   padding: 0;
 }
+
 .federal-register-item {
   @include card;
+}
+
+#load-more-fr-docs {
+  display: block;
+  width: 100%;
+
+  @media (min-width: $break-md) {
+    margin: auto;
+    width: 250px;
+  }
 }
