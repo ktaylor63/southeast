@@ -13,7 +13,11 @@ This website is the amalgamation of many free and open source tools.  Before you
 `libvips` is a utility required by [Sharp](http://sharp.dimens.io/en/).  On a mac with [homebrew](http://brew.sh/) installed run `brew install homebrew/science/vips` in your terminal. **We should look at another photo re-sizing utility if we can avoid this extra install/dependency.**
 
 ### Windows
-`libvips` is included with the installation of [Sharp](http://sharp.dimens.io/en/) on Windows.  I ran into issues installing Sharp due to errors from [node-gyp](https://github.com/nodejs/node-gyp).  Installing Visual Studio Community **with C++ tools, which are not installed by default** solved the issue.  For more information check out the tread on [GitHub](https://github.com/nodejs/node-gyp/issues/629#issuecomment-153196245).
+`libvips` is included with the installation of [Sharp](http://sharp.dimens.io/en/) on Windows.  I ran into issues installing Sharp due to errors from [node-gyp](https://github.com/nodejs/node-gyp).  Installing [Visual Studio Community](https://www.visualstudio.com/en-us/products/visual-studio-community-vs.aspx) **with C++ tools, which are not installed by default** solved the issue.  
+
+![Visual Studio Community Installer](https://cloud.githubusercontent.com/assets/94334/9250024/a3ca627a-41d2-11e5-8efb-1417d686eaa4.png)
+
+For more information check out the tread on [GitHub](https://github.com/nodejs/node-gyp/issues/629#issuecomment-153196245).
 
 **Keep in mind this site was developed using a Mac.  There are often *gotchas* associated with Windows machines that I have not run into.**
 
