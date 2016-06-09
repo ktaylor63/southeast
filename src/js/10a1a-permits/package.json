@@ -1,0 +1,35 @@
+{
+  "name": "10a1a-permits",
+  "version": "1.0.0",
+  "description": "A script that searches through JSON data of permits and returns the current permit status.",
+  "main": "index.js",
+  "browserify": {
+    "transform": [
+      "brfs"
+    ]
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "csv2json": "csv2json ./permits.csv - | json-minify > ./permits.js",
+    "browserify": "browserify index.js | uglifyjs -mc > ../../../site/static/js/10a1a-permits.js",
+    "watchify": "watchify index.js -o ../../../site/static/js/10a1a-permits.js -dv",
+    "start": "npm run csv2json && npm run watchify"
+  },
+  "keywords": [],
+  "author": "Roy Hewitt <roy_hewitt@fws.gov>",
+  "license": "ISC",
+  "dependencies": {
+    "csvjson": "^1.0.5",
+    "lodash.filter": "^4.4.0",
+    "moment": "^2.13.0"
+  },
+  "devDependencies": {
+    "brfs": "^1.4.3",
+    "browserify": "^13.0.1",
+    "csv2json": "^1.1.0",
+    "disc": "^1.3.2",
+    "json-minify": "^1.0.0",
+    "uglifyjs": "^2.4.10",
+    "watchify": "^3.7.0"
+  }
+}
