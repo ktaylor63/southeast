@@ -1,0 +1,16 @@
+= doctype html
+html lang="en_US"
+  head
+    = include partials/head.html .
+  body data-root="{{ .Site.BaseURL }}"
+    a#skip-to-content href=#content skip to content
+    = include partials/sprite.svg .
+    = include partials/navigation.html .
+    = include partials/hero.html .
+    .priorities-page
+      #content.container
+        = yield main
+    = include partials/footer.html .
+    = include partials/contact.html .
+    = include partials/share.html .
+    = include partials/scripts.html .
