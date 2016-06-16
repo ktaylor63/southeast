@@ -1,0 +1,438 @@
+= content main
+  div.priorities-page
+    a href="http://fws.gov/southeast" title="Go to the Southast Region Homepage"
+      figure.js-Parallaxify style="background-image: url('/images/hero/hero-intro.jpg');"
+        img.logo src="/images/svg/logo.svg" alt="The official logo of the U.S. Fish and Wildlife Service"
+
+    h1.title Southeast Region <br> Fiscal Years <br> 2016 - 2018 <br> Regional Priorities
+
+    .mini-nav
+
+    iframe width="500" height="400" style="display:block;margin:auto;" src="https://www.youtube.com/embed/nNuVeEcuvRY" frameborder="0" allowfullscreen="true"
+
+    div.document-download
+      p
+        a.download-link href="/pdf/usfws-southeast-2016-2018-priorities.pdf" download="USFWS-Southeast-Priorities-2016-2018.pdf" Download this as a printable PDF
+      p
+        a.download-link href="/pdf/usfws-southeast-2016-2018-priorities.pdf" download="USFWS-Southeast-Priorities-2016-2018.pdf"
+          img.icon src="/images/svg/pdf.svg" alt="PDF Icon"
+
+
+    h2.section-heading Our Story
+
+    figure.js-Parallaxify.hero-our-story style="background-image: url('/images/hero/hero-story.jpg');"
+
+    .layout
+      p We live and work in an amazing part of the country. The Southeastern United States is among the most biologically diverse hotspots in the world. Our Region includes Caribbean and coastal islands, marshes, coral reefs, the Appalachian and Ozark Mountains, caves, and longleaf and shortleaf pine and bottomland hardwood forests. Our work ensures that fish and wildlife populations continue in those places for the benefit of the American people.
+
+      .species-chart
+        img.reveal.icon src="/images/svg/southeastern-species-chart.svg"
+
+      p.caption.reveal Sources: NatureServe, &nbsp;
+        a href="http://srs.fs.usda.gov/futures/technical-report/14.html#top" target="_blank" U.S. Forest Service&rsquo;s Southern Research Station in Asheville.
+
+      p In the Southeast, the Service is in the midst of a period where the magnitude of conservation challenges facing America’s fish and wildlife resources can be daunting.
+
+      .center
+
+        p.inline-image-caption Accelerating housing development,
+
+        figure.caption
+          img.reveal src="/images/pages/urban-development.jpg" alt="Forest cleared to make way for a low-density housing development"
+          figcaption.reveal Housing development in Metro Atlanta
+
+        p.inline-image-caption sea-level rise,
+
+        figure.caption
+          img.reveal src="/images/pages/alligator-river-flood.jpg" alt="Dead tree trunks emerge from the shallow waters that border Alligator River National Wildlife Refuge"
+          figcaption.reveal Alligator River National Wildlife Refuge
+
+        p.inline-image-caption more intense storms,
+
+        figure.caption
+          img.reveal src="/images/pages/pea-island-breaches.jpg" alt="An aerial photograph showing four breaches with on inlet in NC 12 on Pea Island National Wildlife Refuge"
+          figcaption.reveal Pea Island National Wildlife Refuge
+
+        p.inline-image-caption increased land use changes,
+
+        .slide-wrapper.reveal
+          .image-comparison
+            img.comparison-image src="/images/pages/urban-sprawl-1.jpg" alt="Map of urban areas from 2009"
+            img.comparison-image src="/images/pages/urban-sprawl-2.jpg" alt="Map of projected urbanization by 2060"
+          p.caption
+            strong Use your mouse to drag the green divider left/right to see the projected change in urbanization.
+            br On left, the initial urban land cover in 2009. On right, projected urban land cover in 2060.&nbsp;
+            a href="#footer" (See source)
+
+        p.inline-image-caption habitat loss and fragmentation,
+
+        figure.caption
+          img.reveal src="/images/pages/monarch.jpg" alt="A monarch butterfly perched on the bright pink flowers of a swamp milkweed plant on Sand Lake National Wildlife Refuge"
+          figcaption.reveal A monarch butterfly on a swamp milkweed plant
+
+        p.inline-image-caption increased occurrence and abundance of invasive species,
+
+        figure.caption
+          img.reveal src="/images/pages/flathead-catfish.jpg" alt="Two biologists holding a massive catfish by the gills roughly half of their size"
+          figcaption.reveal An invasive flathead catfish
+
+        p.inline-image-caption poorer water quality,
+
+        figure.caption
+          img.reveal src="/images/pages/water-quality-lake-okeechobee.jpg" alt="Dark water discharge from Lake Okeechobee mixing with pristine blue water"
+          figcaption.reveal Poor water quality along Florida's coast
+
+        p.inline-image-caption a public largely disconnected from nature,
+
+        figure.caption
+          img.reveal src="/images/pages/times-square.jpg" alt="The crowded streets and sidewalks of New York City's Times Square"
+          figcaption.reveal Times Square, New York City
+
+        p and many other issues create noteworthy challenges for those of us charged with conserving and protecting these resources.
+
+      p About 92% of the land in the Southeast is in private ownership creating both opportunities and challenges. History shows that our Nation faced challenges before, e.g., the Dust Bowl era of the 1930s, and we have always risen up to meet those challenges.
+
+      p With a conservation goal of ensuring self-sustaining populations of native fish and wildlife across landscapes, the Service has a clear responsibility to provide leadership in addressing these challenges.
+
+      p Continual progress over the long term is crucial if we are to remain relevant to future generations as the world’s premier conservation agency. Our challenge as conservation leaders is to produce the best results with available resources, using principles of conservation science to guide our resource management actions and to ensure that landscapes can support healthy, sustainable fish and wildlife populations. How we do this, and the consequences of our actions, are hugely important to all Americans, including the next generation of conservation leaders who will come after us. Their future success is dependent upon us.
+
+
+    h2.section-heading Our Mission
+
+    figure.js-Parallaxify.hero-our-story style="background-image: url('/images/hero/hero-mission.jpg');"
+
+    .layout
+      blockquote The mission of the United States Fish and Wildlife Service is, "... working with others to conserve, protect, and enhance fish, wildlife, and plants and their habitats for the continuing benefit of the American people."
+
+      ul
+        li Connecting with partners at all levels across the landscape to affect fish and wildlife conservation;
+        li Connecting with the resource to conserve, protect and enhance (manage); and
+        li Connecting with people to inspire value, support, enjoy and benefit from the fish and wildlife resources and their habitats.
+
+      p As we move forward through a new century of conservation, the vision of the Southeast Region is to focus on the following as regional priorities. These three identified priorities flow directly from our mission and are intended to help us focus our efforts to meet the challenges of the 21st century.
+
+      h3 People
+      p Our people, our partners and our public empower our people to continue to foster a diverse workforce of hardworking, talented, and dedicated professionals and a culture of inspired and passionate conservationists; connect with all of our traditional and nontraditional partners; and engage the public to value and participate in stewardship of our shared resources.
+
+      h3 Lands and Waters
+      p Design and deliver science-driven conservation across all land and water scapes.
+
+      h3 Fish, Wildlife, and Plants
+      p Manage fish, wildlife, and plant populations whether declining and too few, overabundant, or stable.
+
+    h2.section-heading Our Conservation Principles
+
+    figure.js-Parallaxify.hero-our-story style="background-image: url('/images/hero/hero-principles.jpg');"
+
+    .layout
+      p For nearly a decade, our Region has followed the following guiding principles we all hold as professional resource managers and ethical public servants.
+
+      .center
+        h3 Communication
+        img.reveal.icon src="/images/svg/comment.svg"
+        p Our actions are based on open and honest dialogue.
+
+        h3 Science
+        img.reveal.icon src="/images/svg/flask.svg"
+        p Our work is grounded in credible, objective science.
+
+        h3 Stewardship
+        img.reveal.icon src="/images/svg/leaf.svg"
+        p Our commitment is to conserve natural resources for future generations.
+
+        h3 Service
+        img.reveal.icon src="/images/svg/flag.svg"
+        p It is our privilege to serve the American people.
+
+        h3 Professionalism
+        img.reveal.icon src="/images/svg/briefcase.svg"
+        p We hold ourselves to the highest ethical standards, strive for excellence, and respect others.
+
+        h3 Partnerships
+        img.reveal.icon src="/images/svg/user.svg"
+        p We emphasize partnerships using creative and innovative approaches, where needed.
+
+        h3 People
+        img.reveal.icon src="/images/svg/users.svg"
+        p We recognize our employees, volunteers, and partners as critical to our conservation success.
+
+        h3 Legacy
+        img.reveal.icon src="/images/svg/globe.svg"
+        p Our goal is to ensure the future of natural resource conservation by connecting people with nature.
+
+      blockquote Our reputation and credibility will be based on our vision, our conservation principles, our priorities and the discipline to make them real. These will be the foundation for shaping our future, and drive decisions about where we should allocate the majority of our people and resources.
+
+    h2.section-heading Our Business Approach to Conservation
+
+    figure.js-Parallaxify.hero-our-story style="background-image: url('/images/hero/usfws-firefighter.jpg');"
+
+    .layout
+      p Whether your position is in a biological, administrative or any other series, the adaptive management approach (also called lessons learned) applies to your position. The Service’s framework for adaptive management is called Strategic Habitat Conservation which helped put focus on our foundational business approach (plan, design, implement, and monitor) to achieve landscape and watershed scale conservation.
+
+      p This graphic is an illustration of how the Service achieves its priorities for landscape and watershed conservation through its operational paradigm.
+
+      img.reveal src="/images/pages/adaptive-process-graphic.jpg" alt="Diagram of the adaptive management process"
+
+      p To achieve true large scale conservation, the Service must establish measurable biological and habitat objectives for priority resources and species. Given the diverse land ownership and resource authorities, the Service best achieves its goals by establishing voluntary partnerships with the appropriate entities.
+
+      p The primary foundation for our success is the <strong>scientific expertise</strong> of the Service and our partners. We cannot establish achievable resource goals for fish and wildlife without foundational science to direct our efforts. The second foundational component is the <strong>involvement of the public</strong>. This involvement must go beyond passive support, and rely on an inspired, engaged and active public.
+
+      p The center of the triangle illustrates the central importance of the <strong>adaptive management framework</strong>. The Strategic Habitat Conservation framework is the science based process through which the Service works with our partners and our public to develop measurable objectives and to design, implement and evaluate landscape conservation delivery. Implementing Strategic Habitat Conservation is critical to the Service’s success in achieving conservation at a landscape scale by delivering the most effective conservation actions in the most efficient manner.
+
+      p By 2018, the Service will advance our effort to secure healthy, self-sustaining populations of the Region’s native fish and wildlife and save its wild places by working with all stakeholders within the landscape to influence decisions and shape conservation efforts of the future as we look forward to the year 2060.
+
+    h2.section-heading Our Conservation Goal
+
+    figure.js-Parallaxify style="background-image: url('/images/hero/hero-goal.jpg');"
+
+    .layout.center
+      p.inline-image-caption Time is urgent. We must act now.
+      img.reveal.icon src="/images/svg/clock.svg"
+
+      p.inline-image-caption Cities are getting bigger.
+      img.reveal.icon src="/images/svg/building.svg"
+
+      p.inline-image-caption Rural communities are getting smaller.
+      img.reveal.icon src="/images/svg/home.svg"
+
+      p.inline-image-caption Sea levels are rising.
+      img.reveal.icon src="/images/svg/anchor.svg"
+
+      p.inline-image-caption Storms are becoming shorter and more intense.
+      img.reveal.icon src="/images/svg/lightning.svg"
+
+      p.inline-image-caption Land use changes are occurring rapidly.
+      img.reveal.icon src="/images/svg/map.svg"
+
+      p.inline-image-caption The pace of habitat loss and fragmentation is increasing.
+      img.reveal.icon src="/images/svg/graph.svg"
+
+      p.inline-image-caption The increased occurrence and abundance of invasive species are consuming natural resources at an alarming rate.
+      img.reveal.icon src="/images/svg/paw.svg"
+
+      p.inline-image-caption Poor water quality and competing demands for water are a growing challenge for our Region's people and its fish and wildlife simultaneously.
+      img.reveal.icon src="/images/svg/warning.svg"
+
+      p.inline-image-caption And finally the pressures of society have disconnected large chunks of our region’s population from nature and the outdoors.
+      img.reveal.icon src="/images/svg/binoculars.svg"
+
+    .layout
+
+      p These and many other issues create noteworthy challenges for those of us charged with conserving and protecting these fish, wildlife and plants. Why 2060? Many researchers, scientists, and planners are using the year 2060 as a reference point for talking about the landscape changes like urbanization that are taking place at an extraordinary pace across the Southeast.
+
+      p It gives us a reference point to crystalize our desire to influence what the desired future landscape across the Southeast might look like and also a way to begin measuring the effectiveness of our efforts.
+
+    img.reveal src="/images/hero/emerging-megaregions-map-FHWA.jpg" alt="Map of emerging 'Megaregions' throughout the Nation" style="width:100%;"
+
+    .layout
+
+      ul
+        li Our Region’s population grew roughly <strong>40 percent faster</strong> than any other region over the past 60 years and gives us insight to future population trends.
+        li Between now and 2060, more than <strong>half the nation's population growth</strong> and an estimated <strong>65 percent of its economic growth</strong> will occur in 10 megaregions across the country.
+        li Under current trends, researchers have predicted a <strong>loss of forest land equal to the size of South Carolina</strong> (23 million acres of forestland) from development by 2060.
+        li The Southeast Region has <strong>four</strong> of the nation's ten predicted megaregions in part or whole.
+
+      p Therein lies the urgency of our work for our children and the next generation.
+
+      blockquote As a conservation agency, wild places and wild things are often the primary focus of what we do on a day-to-day basis, but we must often stop to remind ourselves that it is people who are essential to our success.
+
+      figure.caption
+        a href="https://flic.kr/p/n8MX1V" target="_blank"
+          img.reveal src="/images/pages/law-enforcement.jpg" alt="A law enforcement officer holding a seized baby alligator"
+        figcaption Baby alligator seized by Law Enforcement
+
+      blockquote Our mission begins and ends with people. It is our employees, partners, and volunteers who provide the skills, creativity, dedication, and innovation that allow us to accomplish all of the things that we do.
+
+    h2.section-heading Our Regional Priorities
+
+    figure.js-Parallaxify.hero-our-story style="background-image: url('/images/hero/southeast-satellite.jpg');"
+
+    .layout
+      p Building on more than a century of conservation, the Southeast Region continues to refine and adapt our complex and innovative portfolio of conservation tools to deal with the challenges of the 21st century. The following three broad priorities and components are intended to focus our efforts for furthering our mission and conservation goals. Programs will use these priorities to develop goals and activities.
+
+      p The challenges of today have outgrown any single agency approach. It will take a combined effort of many public and private organizations to deal with the landscape‐scale issues facing us all. Moreover, we must be ever vigilant to engage our communities and inspire our public to be natural resource stewards whose support is essential to long-term success.
+
+      figure.caption
+        img.reveal src="/images/pages/ding-darling-iNature-trail.jpg" alt="A USFWS employee shows a group of children the iNature app at a National Wildlife Refuge"
+        figcaption.reveal Ranger with children at Ding Darling National Wildlife Refuge
+
+      p We will promote <strong>hunting, fishing, wildlife observation, and nature photography</strong> as a means to connect people with nature and provide for sustainable resource utilization. Similarly, we will encourage <strong>environmental education programs and interpretive resources</strong> to raise awareness of our mission, how we implement it, and how it benefits the public. We must continue to expand on existing, and seek out new <strong>outreach efforts and recreational opportunities</strong> in order to remain relevant to the American people and generate the appreciation and enthusiasm that is needed to fuel the next generation of conservationists.
+
+      h3 Our People
+
+      ul
+        li Maintain and enhance safe and productive workplace.
+        li Support employee professional development.
+        li Recruit and retain a highly qualified, diverse and highly engaged workforce.
+
+      figure.caption
+        img.reveal src="/images/pages/student-conservation-association.jpg" alt="A group of students poses for a photo in front a a stream"
+        figcaption.reveal Student Conservation Association
+
+      p
+        em Examples
+
+      ul.fade-list
+        li Create opportunities for improved interaction, communication, and camaraderie between Regional and field staff to increase understanding and awareness.
+        li Promote a safe and productive workplace by emphasizing and supporting dynamic programs focused on safety, work‐life, health and wellness, Employee Assistance Programs, workplace flexibilities, and telework.
+        li Encourage continuing education to maintain a highly skilled workforce in support of scientific integrity.
+        li Encourage active participation in the Diversity and Inclusive Campaign and train employees as Diversity Change Agents.
+        li Continue the Southeast Region E4 Mentoring program in order to promote the development and retention of a diverse workforce.
+        li Expand and encourage collaboration across different programs and demographics and provide an opportunity for employees to share knowledge, experience, and expertise.
+        li Improve efforts to communicate with all employees.
+
+      h3 Our Partners
+
+      ul
+        li Maintain our collaboration with State Fish and Wildlife Agencies and other Federal Agencies.
+        li Increase our collaboration with international governments, non‐governmental conservation organizations and private landowners.
+
+      figure.caption
+        img.reveal src="/images/pages/priorities-partners.jpg" alt="A biologist wearing a yellow hard hat in a forest"
+        figcaption.reveal North Carolina Wildlife Resource Commission
+
+      p
+        em Examples
+
+      ul.fade-list
+        li Continue to work with the State wildlife resource agencies to enhance coordination and seek efficiencies through identification of mutual interests and cooperative approaches.
+        li Increase our collaboration with private landowner groups (e.g., Partners for Conservation).
+        li Continue to partner with Federal agencies to support Regional Climate Science Centers to deliver downscaled climate science to field managers, biologists and other users.
+        li Enhance collaboration by offering unused office space to State and Federal natural resource agencies, as appropriate.
+        li Maintain efforts to engage and consult with tribal nations.
+
+      h3 Our Public
+
+      ul
+        li Increase our efforts to connect people with nature.
+        li Increase our efforts in urban areas.
+        li Increase our support for volunteers and Friends Groups.
+
+      figure.caption
+        img.reveal src="/images/pages/priorities-public.jpg" alt="Elementary school students pose for a photo holding a sea turtle"
+        figcaption.reveal Elementary school students posing with a sea turtle
+
+      p
+        em Examples
+
+      ul.fade-list
+        li Encourage expansion of appropriate and compatible recreational activities on National Wildlife Refuges, particularly activities accommodating youth, visitors with disabilities, and non‐traditional users.
+        li Host events from long‐standing and successful outreach programs annually: Endangered Species Day, International Migratory Bird Day, National Fishing and Boating Week, National Wildlife Refuge Week, and the Jr. Duck Stamp Program.
+        li Maintain a sophisticated communications program where we use appropriate, progressive communication avenues to reach target audiences (emphasis on youth and young adults) for highlighting the contributions of our employees, volunteers, and the public to wildlife conservation.
+        li Support employees participating in the “I Gave 8” volunteer education/outreach program to help connect people with nature.
+        li Support school and educational activities.
+
+      h3 Lands and Water
+
+      p We work across broad Southeastern landscapes and watersheds to address complex conservation challenges. This effort is called <strong>“All Hands, All Lands*, All Wildlife,”</strong> which describes the collective work of all employees across our ten state and Caribbean islands region. We work with partners and the public on a landscape and watershed scale to protect, conserve, and enhance our unique land and water systems.
+
+      figure.caption
+        img.reveal src="/images/pages/canoeing-at-pea-island.jpg" alt="A group of canoers navigates a narrow stream"
+        figcaption.reveal Pea Island National Wildlife Refuge
+
+      p Using Strategic Habitat Conservation as the foundation to our business approach, we acquire, manage and restore aquatic, wetland, and terrestrial resources on our National Wildlife Refuges and National Fish Hatcheries and provide technical assistance on other public and private lands as the Southeast tackles the challenges of urbanization, habitat conversion, climate change, invasive species, etc. We will strive for excellence in our landscape and watershed scale initiatives and will be regarded as trusted conservation leaders.
+
+      ul
+        li Support and participate in the Southeastern Conservation Adaptation Strategy (SECAS).
+        li Lead the implementation of four Landscapes Conservation Cooperatives (South Atlantic, Peninsular Florida, Caribbean, and Gulf Coastal Plains and Ozarks) and support the implementation of two Landscapes Conservation Cooperatives (Gulf Coast Prairies, R2 Lead and Appalachian, R5 Lead).
+        li Support development of landscape and watershed plans for conservation efforts.
+        li Support conservation efforts on public conservation lands, including Service owned lands.
+        li Support conservation efforts on private lands through voluntary actions (e.g., Keep Working Lands Working).
+        li Minimize regulatory burden through regulatory predictability and streamlined programmatic approaches.
+
+      p
+        em Examples:
+
+      ul.fade-list
+        li Work as “One Service” to align station priorities and program activities to address landscape and watershed conservation, assisted by the LCCs, with a foremost focus on fish and wildlife priorities such as recovering At-Risk, threatened, and endangered species; protecting, restoring and managing migratory birds, and aquatic resources; and effectively managing our National Wildlife Refuges and National Fish Hatcheries.
+        li Implement LCC actions by assisting with communication, engagement, and facilitation between the States and the Service, especially to link population objectives to biological outcomes.
+        li Using a “One Service” approach, work with federal, state, and private partners, LCCs, SARP, and Joint Ventures to increase landscape conservation efforts which help bring large-scale perspectives to local scale actions.
+        li Address highest priority information needs related to water rights, water quality and quantity across Southeast Region watersheds, especially for units of the National Fish Hatchery System and the National Wildlife Refuge System.
+        li Support the aggressive plan to restore the Gulf Coast ecosystem, including natural resources, communities, economies, and culture.
+        li Implement restoration/management actions – through grants or staff efforts – in priority areas.
+        li Engage as “One Service” with partners to conduct science based habitat and population assessments and to collectively identify conservation priorities and deliver appropriate actions.
+        li Continue to grow our National Wildlife Refuges in keeping with the Strategic Growth Policy (602 FW 5) and in support of priority conservation targets and landscape plans.
+        li Use programmatic agreements when possible to help streamline time, provide regulatory oversight, and find efficiencies.
+
+      h3 Fish, Wildlife, and Plants
+
+      p As the world’s premier conservation agency we will manage fish, wildlife, and plant populations whether overabundant, declining, or stable. Our work controls exotic and invasive species, conserves At-Risk species, recovers ESA listed species, and restores fish and wildlife habitats. We provide science to help plan and design landscapes based on the best technology and information. We conduct and facilitate inventory, monitoring, and science to understand population status and how populations are responding to our actions. We communicate, coordinate, and collaborate with States and other partners to ensure our management efforts are additive. We seek new technologies to ensure our work is state‐of‐the art.
+
+      h4 Too Few
+
+      ul
+        li Increase efforts to conserve and protect <a href="http://www.fws.gov/southeast/candidateconservation/">At-Risk species</a>, including species petitioned for ESA protection and priority species in State Wildlife Action Plans.
+        li Continue to protect and recover threatened and endangered species, including federal, state, and CITES.
+        li Continue to protect, restore, and manage birds of conservation concern.
+
+      figure.caption
+        img.reveal src="/images/pages/barrens-darter.jpg" alt="A greyish brown fish in front of a rocky backdrop"
+        figcaption.reveal Barrens darter
+
+      p
+        em Examples
+
+      ul.fade-list
+        li Work with public and private partners to proactively conserve as many of these At‐Risk species as possible over the next three years.
+        li Formulate a better understanding of the status and habitat needs for species of special concern for the Service and public at large. This information will be key to habitat needs assessments and species listing decisions.
+        li Work with our partners to prioritize species in need of conservation by building and expanding partnerships and by making it easier for our partners to take voluntary conservation actions, by building better science to inform our conservation decisions, and by managing National Wildlife Refuges that host these species.
+        li Champion actions, through careful coordination with federal, State and private partners, that meet recovery objectives to improve the status of federally listed species.
+        li Work within multi-agency partnerships (e.g., Joint Ventures and SARP) of which FWS is one of many partners to conserve species and enhance habitat.
+
+      h4 Just Right
+      ul
+        li Continue to conserve common species includes migratory and interjurisdictional fish and wildlife
+
+      figure.caption
+        a href="https://flic.kr/p/bErwev" target="_blank"
+          img.reveal src="/images/pages/river-otter.jpg" alt="A North American river otter laying on it's back"
+        figcaption.reveal North American river otter
+
+      p
+        em Examples
+
+      ul.fade-list
+        li Work with partners to develop comprehensive conservation planning and implement actions for multiple species and habitats within a defined landscape or geographic area.
+        li Implement strategic conservation measures through support of State Wildlife Action Plans.
+        li Cooperate with States in conserving fish and wildlife populations.
+
+      h4 Too Many
+
+      ul
+        li Continue to reduce overabundant fish, wildlife, and plants - includes invasive species.
+
+      figure.caption
+        img.reveal src="/images/pages/priorities-too-many.jpg" alt="A wild hog with dark hair looks towards the photographer"
+        figcaption.reveal Wild hogs at Merrit Island National Wildlife Refuge
+
+      p
+        em Examples
+
+      ul.fade-list
+        li Use the best science to engage in actions designed to prevent, control, and eradicate invasive species, in careful coordination with federal, State and private partners.
+        li Implement depredation, control, and conservation orders.
+        li Reduce, with the goal of eliminating, populations of invasive fish, wildlife and plants
+        li Showcase National Wildlife Refuges as demonstration areas for using viable prevention and control techniques of problem species.
+        li Educate the public about the ecological and economic impacts of invasive species.
+        li Develop integrated pest management (IPM) tools and techniques.
+
+    h2.section-heading Conclusion
+
+    figure.js-Parallaxify.hero-our-story style="background-image: url('/images/hero/hero-conclusion.jpg');"
+
+    .layout
+      p The people who make up the Service's Southeast Region draw great strength and promise from a broad, partner-driven approach to conservation. From the Caribbean north to the Appalachians, west to the Ozarks, and then south to the bottomland hardwoods of the Lower Mississippi Valley and the Gulf Coast, we have the charge to work with our partners to conserve some of the world's richest and most diverse fish and wildlife habitat.
+
+      p Knitted together by some of the nation’s most beautiful rivers, we know our "all hands" approach to conservation is the only way to meet the challenges and opportunities the 21st century is presenting us with.
+
+      p
+        em We know the time for action is now. The conservation opportunities in front of us are great. And our creativity, innovative spirit and emphasis on partnership are what we need to make forward progress over the next three years with 2060 on the horizon.
+
+      blockquote "Greatness is not a function of circumstance. Greatness, it turns out, is largely a matter of conscious choice, and discipline." - Jim Collins, bestselling author
+
+      div.document-download
+        p
+          a.download-link href="/pdf/usfws-southeast-2016-2018-priorities.pdf" download="USFWS-Southeast-Priorities-2016-2018.pdf" Download this as a printable PDF
+        p
+          a.download-link href="/pdf/usfws-southeast-2016-2018-priorities.pdf" download="USFWS-Southeast-Priorities-2016-2018.pdf"
+            img.icon src="/images/svg/pdf.svg" alt="PDF Icon"
