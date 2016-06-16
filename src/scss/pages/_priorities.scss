@@ -1,5 +1,13 @@
 .priorities-page {
 
+  @media (min-width: $break-md) {
+    margin-left: $nav-width;
+  }
+
+  @media (min-width: $break-scrollnav) {
+    margin-right: $sidenav-width;
+  }
+
   figure.js-Parallaxify {
     background-size: cover;
     background-position: center center;
@@ -11,7 +19,7 @@
   .logo {
     max-height: 250px;
     position: relative;
-    top: 25%;
+    top: 10vh;
   }
 
   .document-download {
@@ -207,6 +215,41 @@
     left: -18px;
     background: #fff;
     opacity: 0;
+  }
+
+  .layout {
+    @include container($container-width);
+    padding: 0 40px;
+
+    p,
+    blockquote,
+    ul,
+    h3,
+    h4,
+    .caption {
+      margin: $leading auto;
+      max-width: 700px;
+    }
+
+    svg {
+      max-width: 125px;
+    }
+
+    @media (min-width: 1000px) {
+      padding: 0;
+    }
+  }
+
+  .document-download {
+    text-align: center;
+
+    img {
+      width: 35px;
+    }
+  }
+
+  .center {
+    text-align: center;
   }
 
 }
