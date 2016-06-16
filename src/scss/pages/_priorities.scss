@@ -1,0 +1,83 @@
+.priorities-page {
+
+  figure.js-Parallaxify {
+    background-size: cover;
+    background-position: center center;
+    height: 50vh;
+    margin: 0;
+    width: 100%;
+  }
+
+  .logo {
+    max-height: 250px;
+    position: relative;
+    top: 25%;
+  }
+
+  .document-download {
+    text-align: center;
+
+    img {
+      width: 35px;
+    }
+  }
+
+  .center {
+    text-align: center;
+  }
+
+  .icon {
+    max-height: 75px;
+    max-width: 75px;
+  }
+
+  .caption {
+    color: $color-primary;
+    font-size: .8em;
+    text-align: center;
+  }
+
+  .reveal {
+    display: block;
+    margin: auto;
+  }
+
+  .title {
+    font-size: 3em;
+    text-align: center;
+  }
+
+  .section-heading {
+    font-size: 5em;
+    line-height: 1em;
+    margin-bottom: 15px;
+    text-align: center;
+  }
+
+  .species-chart {
+    margin: auto;
+    max-width: 600px;
+  }
+
+  .inline-image-caption {
+    margin-bottom: 0 !important;
+    margin-top: 3em !important;
+  }
+
+  .caption {
+    display: table;
+    margin-top: 0 !important;
+
+    img {
+      display: block;
+    }
+
+    figcaption {
+      color: lighten($dark-gray, 10);
+      display: table-caption;
+      caption-side: bottom;
+      font-size: .8em;
+      text-align: right;
+    }
+  }
+}
