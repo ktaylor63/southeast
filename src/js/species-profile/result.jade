@@ -3,6 +3,11 @@ each result in results
  - var date = moment(result.publication_date).format('MMMM D, YYYY');
   li.federal-register-item
     span.card-ribbon
-      span= result.type
-      a(href=result.pdf_url target="_blank") PDF
-    p| #[strong= date]: #[a(href=result.html_url, target="_blank")= result.title]
+      span.card-type= result.type
+      a(href=result.pdf_url target="_blank")
+        svg.icon
+          title| Download #{result.type} as a PDF
+          use(xlink:href="#pdf")
+    span.card-date= date
+    p.card-text
+      a(href=result.html_url, target="_blank")= result.title
