@@ -275,4 +275,4 @@ In 2008, the Service was petitioned to revise critical habitat for this species.
 
 ## Federal Register Documents
 
-The following Federal Register documents were automatically gathered by searching the [Federal Register Official API](https://www.federalregister.gov/blog/learn/developers) with this species' scientific name. You can conduct your own search on the [Federal Register website](https://www.federalregister.gov/articles/search).
+The following Federal Register documents were automatically gathered by searching the [Federal Register Official API](https://www.federalregister.gov/blog/learn/developers) with this species' scientific name **ordered by relevance**. You can conduct your own search on the [Federal Register website](https://www.federalregister.gov/articles/search).

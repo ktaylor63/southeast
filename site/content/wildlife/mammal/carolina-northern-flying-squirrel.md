@@ -2,6 +2,8 @@
 title: 'The Carolina northern flying squirrel'
 scientific: 'Glaucomys sabrinus coloratus'
 description: 'The Carolina northern flying squirrel is an American endangered species found in North Carolina, Virginia and Tennessee. It is typically found at high elevations in mixed red spruce-northern hardwood and spruce-fir forests.'
+type: species-profile
+js: /js/species-profile.js
 tags:
     - 'endangered species'
     - 'north carolina'
@@ -15,7 +17,7 @@ hero:
     caption: 'A Carolina northern flying squirrel in the hands of a biologist. Photo by Gary Peeples, USFWS.'
     link: 'https://flic.kr/p/cE8uD7'
     position: 'top center'
-updated: 'May 26th, 2016'
+updated: 'June 17th, 2016'
 ---
 
 - Taxa: Mammal
@@ -90,3 +92,7 @@ Designation of critical habitat was determined not to be prudent for this specie
 ## Additional Resources
 
 - [Print our Carolina northern flying squirrel fact sheet](http://www.fws.gov/asheville/pdfs/CarolinaNorthernFlyingSquirrel_factsheet.pdf)
+
+## Federal Register Documents
+
+The following Federal Register documents were automatically gathered by searching the [Federal Register Official API](https://www.federalregister.gov/blog/learn/developers) with this species' scientific name **ordered by relevance**. You can conduct your own search on the [Federal Register website](https://www.federalregister.gov/articles/search).
