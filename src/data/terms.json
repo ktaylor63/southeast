@@ -476,7 +476,7 @@
     "name": "Trust resources",
     "acronym": null,
     "description": "Includes migratory birds, species listed as threatened and endangered under the Endangered Species Act, interjurisdictional fishes, marine mammals, wetlands, and lands managed by the U.S. Fish and Wildlife Service, such as national wildlife refuges.",
-    "related": ["Endangered Species Act"]
+    "related": []
   },
   {
     "name": "Threatened Species",
