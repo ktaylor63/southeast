@@ -4,10 +4,39 @@
   display: block;
   margin: $leading 0;
   padding: $leading;
+  position: relative;
   transition: all $transition-duration;
 
   &:hover {
     @include shadow(3);
     transform: translateY(-5px);
+  }
+}
+
+.card-ribbon {
+  background: $color-accent;
+  border-bottom-right-radius: $border-radius;
+  border-top-left-radius: $border-radius;
+  color: white;
+  font-family: $serif;
+  left: 0;
+  padding: 8px;
+  position: absolute;
+  top: 0;
+
+  a {
+    color: white;
+
+    &:hover {
+      color: $color-primary;
+    }
+  }
+
+  span {
+    margin-right: 15px;
+
+    &:last-child {
+      margin-right: 0;
+    }
   }
 }
