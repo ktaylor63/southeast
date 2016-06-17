@@ -2,7 +2,7 @@
   {
     "name": "Adaptation",
     "acronym": null,
-    "description": "To “adapt” means to change with changes in the environment. <br><br>In the context of wildlife and habitat conservation, adaptation techniques are scientifically sound methods used to deal with the effects of climate change. For example, parts of Alligator National Wildlife Refuge are being flooded due to the world’s rising sea levels. When a road or path that was once on the beach becomes swallowed by the sea, we must adapt and build a new road in a new location rather than attempting to repair the old road that will now be lost to the ocean.<br><br><a href='http://www.fws.gov/home/climatechange/adaptation.html'>Learn more about climate change adaptation</a>",
+    "description": "To &ldquo;adapt&rdquo; means to change with changes in the environment. <br><br>In the context of wildlife and habitat conservation, adaptation techniques are scientifically sound methods used to deal with the effects of climate change. For example, parts of Alligator National Wildlife Refuge are being flooded due to the world&rsquo;s rising sea levels. When a road or path that was once on the beach becomes swallowed by the sea, we must adapt and build a new road in a new location rather than attempting to repair the old road that will now be lost to the ocean.<br><br><a href='http://www.fws.gov/home/climatechange/adaptation.html'>Learn more about climate change adaptation</a>",
     "related": ["Adapt", "Adaptive Management"]
   },
   {
@@ -15,7 +15,7 @@
     "name": "At-risk species",
     "acronym": null,
     "description": "Species that are proposed for listing, candidates for listing, and/or petitioned for listing. They are under the authority of state wildlife agencies, thus conservation of these species is led by the states.",
-    "related": ["Listed species", "Endangered species", "Threatened species", "Endangered Species Act"]
+    "related": ["Listed species", "Endangered species", "Threatened species"]
   },
   {
     "name": "Adaptive Management",
@@ -43,10 +43,12 @@
   },
   {
     "acronym": "CCAA",
-    "name": "Candidate conservation agreement with assurances",
+    "name": "Candidate cCnservation Agreement with Assurances",
     "description": "Voluntary agreements between the U.S. Fish and Wildlife Service and non-Federal property owners. The property owner agrees to manage their lands or waters in ways that remove threats to candidate or proposed species assurances that their conservation efforts will not result in future regulatory obligations in excess of those they agree to at the time they enter into the agreement.",
     "related": [
-      "CCA"
+      "CCA",
+      "At-risk species",
+      "Candidate species"
     ]
   },
   {
@@ -54,9 +56,8 @@
     "acronym": null,
     "description": "A plant or animal considered for possible addition to the List of Endangered and Threatened Species. These are taxa for which the Fish and Wildlife Service has on file sufficient information on biological vulnerability and threat(s) to support issuance of a proposal to list, but issuance of a proposed rule is currently precluded by higher priority listing actions.",
     "related": [
-      "CCA",
-      "CCAA",
-      "Endangered Species Act"
+      "At-risk species",
+      "Candidate species"
     ]
   },
   {
@@ -74,7 +75,7 @@
   {
     "name": "Comprehensive Conservation Plan",
     "acronym": "CCP",
-    "description": "An official document developed by experienced planners through a systematic decision making process that accomplishes the following for every national wildlife refuge: <ul><li>Describes the desired future conditions of the refuge,</li><li>Provides long-range guidance and management direction to achieve refuge purposes,</li><li>Helps fulfill the National Wildlife Refuge System mission,</li><li>Maintains and, where appropriate, restores the ecological integrity of each refuge and the Refuge System,</li><li>Helps achieve the goals of the National Wilderness Preservation System, and Meets other mandates.</li><li>It is the Service’s policy to manage all national wildlife refuges according to an approved CCP.</li></ul><br>To learn more, visit our page on land acquisition or read our agency policy on CCPs.",
+    "description": "An official document developed by experienced planners through a systematic decision making process that accomplishes the following for every national wildlife refuge: <ul><li>Describes the desired future conditions of the refuge,</li><li>Provides long-range guidance and management direction to achieve refuge purposes,</li><li>Helps fulfill the National Wildlife Refuge System mission,</li><li>Maintains and, where appropriate, restores the ecological integrity of each refuge and the Refuge System,</li><li>Helps achieve the goals of the National Wilderness Preservation System, and Meets other mandates.</li><li>It is the Service&rsquo;s policy to manage all national wildlife refuges according to an approved CCP.</li></ul><br>To learn more, visit our page on land acquisition or read our agency policy on CCPs.",
     "related": []
   },
   {
@@ -108,7 +109,7 @@
     "name": "Critical Habitat",
     "acronym": "CH",
     "description": "Sections of land that scientists identify as having the specific features that a threatened or endangered species needs to survive. We are required to designate critical habitat when listing a species for protection under the Endangered Species Act.<ul><li>Designation of critical habitat primarily affects public lands and government agencies.<ul><li>Critical habitat requires the government agency that is responsible for managing the land to ensure that its actions do not make the land uninhabitable by threatened and endangered species.</li><li>It requires any project funded by federal dollars that would affect the land to consult with the USFWS in order to avoid, reduce or mitigate potential impacts.</li></ul></li><li>Designation does not affect land ownership. It does not establish a refuge, reserve, preserve, or other conservation area on private land. It does not grant access to private land.</li></ul>",
-    "related": ["Endangered", "Endangered Species Act", "Threatened"]
+    "related": ["Endangered Species Act", "Endangered", "Threatened"]
   },
   {
     "name": "Delist",
@@ -119,14 +120,14 @@
   {
     "name": "Downlist",
     "acronym": null,
-    "description": "To reduce a federally protected species’ status from endangered to threatened, or from threatened to recovered.",
+    "description": "To reduce a federally protected species&rsquo; status from endangered to threatened, or from threatened to recovered.",
     "related": ["Delist", "Endangered Species Act"]
   },
   {
     "name": "Easement",
     "acronym": null,
-    "description": "A legal right to use someone else’s land for a particular purpose. For example, the municipal water company may have an easement to run water pipes under your property. With respect to our work, an easement usually reserves private land for conservation purposes. For example, a grassland easement is a legal agreement signed with the United States of America, through the U.S. Fish and Wildlife Service, that pays you to permanently keep your land in grass. Land covered by a grassland easement may not be cultivated, and other actions (mowing, haying, and grass seed harvesting) must be delayed until after July 15 each year. This restriction is to help grassland nesting species, such as ducks and pheasants, complete their nesting before the grass is disturbed.",
-    "related": ["Conservation", "Restoration", "Critical Habitat"]
+    "description": "A legal right to use someone else&rsquo;s land for a particular purpose. For example, the municipal water company may have an easement to run water pipes under your property. With respect to our work, an easement usually reserves private land for conservation purposes. For example, a grassland easement is a legal agreement signed with the United States of America, through the U.S. Fish and Wildlife Service, that pays you to permanently keep your land in grass. Land covered by a grassland easement may not be cultivated, and other actions (mowing, haying, and grass seed harvesting) must be delayed until after July 15 each year. This restriction is to help grassland nesting species, such as ducks and pheasants, complete their nesting before the grass is disturbed.",
+    "related": ["Conservation", "Critical Habitat"]
   },
   {
     "name": "Ecosystem",
@@ -151,12 +152,12 @@
   },
   {
     "name": "Endangered Species Act",
-    "acronym": "ESA",
+    "acronym": "The Act, or ESA",
     "description": "No definition, yet.",
     "related": ["Section 7", "4(d) Rule", "Critical Habitat", "Recovery"]
   },
   {
-    "name": "Environmental Compliance",
+    "name": "Environmental compliance",
     "acronym": null,
     "description": "Conforming to laws, regulations, standards and other requirements that address environmental issues such as the discharge of pollutants into the environment; the protection of plants and animals; the handling, storage and disposal of solid and hazardous wastes; the application of pesticides; preventing air contamination; and protecting the quality and availability of clean water.",
     "related": []
@@ -176,7 +177,7 @@
   {
     "name": "Fish Habitat Partnerships",
     "acronym": null,
-    "description": "Collaborative, regional partnerships of government agencies, non-profit organizations, corporations, tribes and individuals that conserve habitat for the benefit of fish species, other wildlife and people. These diverse partners come together to design and implement landscape-scale conservation efforts in support of fish management plans. These groups are formed around important aquatic habitats and distinct geographic areas (e.g., Southeast Aquatic Resources Partnership) “keystone” fish species (e.g., eastern brook trout), or system types (e.g., large lakes). ",
+    "description": "Collaborative, regional partnerships of government agencies, non-profit organizations, corporations, tribes and individuals that conserve habitat for the benefit of fish species, other wildlife and people. These diverse partners come together to design and implement landscape-scale conservation efforts in support of fish management plans. These groups are formed around important aquatic habitats and distinct geographic areas (e.g., Southeast Aquatic Resources Partnership) &ldquo;keystone&rdquo; fish species (e.g., eastern brook trout), or system types (e.g., large lakes). ",
     "related": []
   },
   {
@@ -193,7 +194,7 @@
   {
     "name": "Habitat fragmentation",
     "acronym": null,
-    "description": "When an animal’s homeland or range is split up into smaller pieces. <br><br>For example, if we place a road in the middle of a large field, we have fragmented the field into two pieces. If any animal’s den is on one side of the road and its food is on the other, the animal must now take the risk of crossing the road in order to survive.",
+    "description": "When an animal&rsquo;s homeland or range is split up into smaller pieces. <br><br>For example, if we place a road in the middle of a large field, we have fragmented the field into two pieces. If any animal&rsquo;s den is on one side of the road and its food is on the other, the animal must now take the risk of crossing the road in order to survive.",
     "related": [
       "Habitat",
       "Critical Habitat",
@@ -236,13 +237,13 @@
     ]
   },
   {
-    "name": "Indicator Species",
+    "name": "Indicator species",
     "acronym": null,
     "description": "Species whose presence, absence or abundance reflect a specific environmental condition. An indicator species can signal a change in the biological condition of a particular ecosystem, and thus may be used as a proxy to diagnose the health of an ecosystem.",
     "related": ["Keystone Species", "Surrogate Species"]
   },
   {
-    "name": "Injurious Wildlife",
+    "name": "Injurious wildlife",
     "acronym": null,
     "description": "No definition, yet.",
     "related": [
@@ -257,10 +258,10 @@
     "related": []
   },
   {
-    "name": "Invasive Species",
+    "name": "Invasive species",
     "acronym": null,
     "description": "An organism (plant, animal, fungus, or bacterium) that is not native to a specific location and has negative effects on the economy, the environment and/or human health. Invasive species typically harm native species through predation, habitat degradation and competition for shared resources. Invasive species are a leading cause of population decline and extinction in animals. ",
-    "related": ["Injurious Wildlife"]
+    "related": ["Injurious wildlife"]
   },
   {
     "name": "Invertebrate",
@@ -274,7 +275,7 @@
   {
     "name": "Jeopardy",
     "acronym": null,
-    "description": "When our best science leads us to believe that an action will make it much more difficult for an already threatened or endangered plant or animal to survive.<br><br>As defined in the <a href='http://www.fws.gov/endangered/esa-library/pdf/ESAall.pdf'>Endangered Species Act</a>: when an action is reasonably expected, directly or indirectly, to diminish a species’ numbers, reproduction, or distribution so that the likelihood of survival and recovery in the wild is appreciably reduced.",
+    "description": "When our best science leads us to believe that an action will make it much more difficult for an already threatened or endangered plant or animal to survive.<br><br>As defined in the <a href='http://www.fws.gov/endangered/esa-library/pdf/ESAall.pdf'>Endangered Species Act</a>: when an action is reasonably expected, directly or indirectly, to diminish a species&rsquo; numbers, reproduction, or distribution so that the likelihood of survival and recovery in the wild is appreciably reduced.",
     "related": []
   },
   {
@@ -360,23 +361,17 @@
   {
     "name": "Natural Resource",
     "acronym": null,
-    "description": "Natural resources are useful raw materials that we get from the nature such as air, water, iron, coal, oil, wind energy, plants and animals. Humans cannot make natural resources, but we use and modify natural resources in ways that are beneficial to us.",
+    "description": "Natural resources are useful raw materials that we get from nature such as air, water, iron, coal, oil, wind energy, plants and animals. Humans cannot make natural resources, but we use and modify natural resources in ways that are beneficial to us.",
     "related": [
       "Conservation"
     ]
   },
   {
-    "name": "Natural resource services",
-    "acronym": null,
-    "description": "See “ecosystem services”.",
-    "related": ["Ecosystem Services"]
-  },
-  {
     "name": "North American Waterfowl Management Plan",
     "acronym": "NAWMP",
-    "description": "NAWMP was signed in May 1986 by the United States and Canada, and by Mexico in 1994. The plan recognized the continuing declines in waterfowl populations, and that a unified effort is required to combat the loss of this valuable natural resource. NAWMP is a broad policy framework to restore waterfowl populations on the continent through habitat protection, restoration and enhancement. The plan’s scope is international, but its implementation occurs at the regional level. Its success depends on regional partnerships called Migratory Bird Joint Ventures.",
+    "description": "NAWMP was signed in May 1986 by the United States and Canada, and by Mexico in 1994. The plan recognized the continuing declines in waterfowl populations, and that a unified effort is required to combat the loss of this valuable natural resource. NAWMP is a broad policy framework to restore waterfowl populations on the continent through habitat protection, restoration and enhancement. The plan&rsquo;s scope is international, but its implementation occurs at the regional level. Its success depends on regional partnerships called Migratory Bird Joint Ventures.",
     "related": [
-      "Conservation",
+      "conservation",
       "Migratory Bird Joint Venture"
     ]
   },
@@ -385,15 +380,15 @@
     "acronym": null,
     "description": "An animal that feeds on both plant sources, such as nuts, berries, seeds and leaves, as well as other animals.",
     "related": [
-      "Carnivore",
-      "Herbivore"
+      "carnivore",
+      "herbivore"
     ]
   },
   {
     "name": "Prescribed fire",
     "acronym": null,
     "description": "A fire that is intentionally set under controlled conditions to achieve specific management objectives such as the suppression of invasive plant species, or to reduce dangerously overgrown vegetation that could lead to a devastating wildfire that could threaten people, fish, wildlife and plants.",
-    "related": ["Controlled burn"]
+    "related": []
   },
   {
     "name": "Proposed Species",
@@ -433,16 +428,16 @@
     ]
   },
   {
-    "name": "Recovery Plan",
+    "name": "Recovery plan",
     "acronym": null,
-    "description": "A  \"road map\" drafted by the Service, NOAA Fisheries, or other knowledgeable individuals or groups that serve as a guide for activities to be undertaken to recover and conserve endangered or threatened species. A recovery plan includes a description of the needed management actions; objective, measurable criteria which when met would lead to the species being removed from Federal protection; and an estimate of the time required and cost to carry out those measures. Recovery plans may include brief discussions of the species’ biology, life history and threats to it.",
-    "related": ["Recovery", "Recovery Team", "Endangered Species Act"]
+    "description": "A  \"road map\" drafted by the Service, NOAA Fisheries, or other knowledgeable individuals or groups that serve as a guide for activities to be undertaken to recover and conserve endangered or threatened species. A recovery plan includes a description of the needed management actions; objective, measurable criteria which when met would lead to the species being removed from Federal protection; and an estimate of the time required and cost to carry out those measures. Recovery plans may include brief discussions of the species&rsquo; biology, life history and threats to it.",
+    "related": ["recovery", "recovery team", "Endangered Species Act"]
   },
   {
-    "name": "Recovery Team",
+    "name": "Recovery team",
     "acronym": null,
     "description": "A  group of people appointed by the lead Service Regional Director or NOAA Assistant Administrator to guide the recovery of a listed species through such actions as developing a recovery plan or providing guidance on recovery implementation. Members of the recovery team generally include species experts from the Service, NOAA, state governments, conservation organizations and the private sector, as well as stakeholders.",
-    "related": ["Recovery", "Recovery Plan", "Endangered Species Act"]
+    "related": ["recovery", "recovery plan", "Endangered Species Act"]
   },
   {
     "name": "Restoration",
@@ -476,6 +471,12 @@
       "Endangered Species Act",
       "Harass"
     ]
+  },
+  {
+    "name": "Trust resources",
+    "acronym": null,
+    "description": "Includes migratory birds, species listed as threatened and endangered under the Endangered Species Act, interjurisdictional fishes, marine mammals, wetlands, and lands managed by the U.S. Fish and Wildlife Service, such as national wildlife refuges.",
+    "related": ["Endangered Species Act"]
   },
   {
     "name": "Threatened Species",
