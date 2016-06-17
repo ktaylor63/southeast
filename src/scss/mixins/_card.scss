@@ -20,7 +20,7 @@
   color: white;
   font-family: $serif;
   left: 0;
-  padding: 8px;
+  padding: 5px 8px 8px;
   position: absolute;
   top: 0;
 
@@ -32,11 +32,36 @@
     }
   }
 
-  span {
-    margin-right: 15px;
+  .icon {
+    fill: white;
+    height: 25px;
+    position: relative;
+    top: 3px;
+    width: 25px;
+    transition: all $transition-duration;
 
-    &:last-child {
-      margin-right: 0;
+    &:hover {
+      cursor: pointer;
+      transform: scale(1.3);
     }
   }
+}
+
+.card-type {
+  margin-right: 15px;
+
+  &:last-child {
+    margin-right: 0;
+  }
+}
+
+.card-date {
+  color: $color-text;
+  position: absolute;
+  top: 8px;
+  right: 8px;
+}
+
+.card-text {
+  margin-top: 2rem;
 }
