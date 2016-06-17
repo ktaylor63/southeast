@@ -2,12 +2,7 @@
 each result in results
  - var date = moment(result.publication_date).format('MMMM D, YYYY');
   li.federal-register-item
-    h3= result.type
-    h3
-      a(href=result.html_url target="_blank")= result.title
-    p.publication-date= date
-    p= result.abstract
-    p
-      a(href=result.html_url target="_blank") Read Full #{result.type}...
-      br
-      a(href=result.pdf_url target="_blank") Download #{result.type}
+    span.card-ribbon
+      span= result.type
+      a(href=result.pdf_url target="_blank") PDF
+    p| #[strong= date]: #[a(href=result.html_url, target="_blank")= result.title]
