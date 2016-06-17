@@ -10,6 +10,7 @@ html lang="en_US"
     .wrapper
       .container
         #content
+          .side-nav
           = yield main
     = include partials/footer.html .
     = include partials/contact.html .
