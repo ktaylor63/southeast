@@ -9,7 +9,6 @@ html lang="en_US"
     = include partials/hero.html .
     .wrapper
       .container
-        .side-nav
         #content
           = yield main
     = include partials/footer.html .
