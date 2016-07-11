@@ -3,7 +3,10 @@
 
   var qs = require('query-string');
   var xhr = require('xhr');
-  var template = require('./results.jade');
+  var templates = {
+    results: require('./results.jade'),
+    error: require('./error.jade')
+  };
 
   var output  = document.querySelector('.job-list');
   var API_KEY = '84OIdzD2Zota1B7hzOQmuWydt/kh8k1z2bdCx6dHpBY=';
@@ -27,10 +30,23 @@
   };
 
   xhr(options, function(err, res, body) {
-    if (err) console.error(err);
+    if (err) {
+      output.innerHTML = templates.error({
+        error: 'Could not download jobs listings',
+        message: 'Visit <a href="https://usajobs.gov">USAjobs.gov</a> to create your own search.' 
+      });
+    }
+
     if (!err && res.statusCode == 200) {
       var data = JSON.parse(body);
-      output.innerHTML = template({ results: data.SearchResult.SearchResultItems });
+      if (data.SearchResult.SearchResultCount === 0) {
+        output.innerHTML = templates.error({
+          error: 'No U.S. Fish and Wildlife job openings found in the Southeast Region.',
+          message: 'Try <a href="https://usajobs.gov">USAjobs.gov</a> to expand your search criteria.'
+        });
+      } else {
+        output.innerHTML = templates.results({ results: data.SearchResult.SearchResultItems });
+      }
     }
   });
 
