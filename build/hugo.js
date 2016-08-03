@@ -3,7 +3,7 @@
 
   var rimraf = require('rimraf');
 
-  rimraf('dist', function (err) {
+  rimraf('dist/*', function (err) {
     if (err) console.error(err);
 
     var spawn = require('child_process').spawn;
