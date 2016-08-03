@@ -17,3 +17,10 @@ a {
 #skip-to-content {
   @extend %sr-only;
 }
+
+a[href$=".pdf"] {
+  &:after {
+    content: url('../images/pdf.png');
+    margin-left: 5px;
+  }
+}
