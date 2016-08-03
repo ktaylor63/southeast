@@ -2,45 +2,31 @@
   'use strict';
 
   var xhr = require('xhr');
-  var map = require('./map');
+
+  var template = {
+    atRisk: require('./at-risk.jade'),
+    listed: require('./listed.jade')
+  };
 
   var abbreviation = document.querySelector('.state-abbreviation').textContent;
   var state = document.querySelector('.state-name').textContent;
-  var list = document.querySelector('.fast-facts');
-  var listedUrl = 'http://arsf.us-east-1.elasticbeanstalk.com/listed?state=' + abbreviation;
-  var atRiskUrl = 'http://arsf.us-east-1.elasticbeanstalk.com/species?range[]=' + state;
-
-  var baseURL = document.body.getAttribute('data-root');
-
-  map.init(abbreviation, baseURL);
-
-  function createListItem(text, src) {
-    var li = document.createElement('li');
-    var link;
-    if (src) {
-      link = document.createElement('a');
-      link.setAttribute('href', src);
-      link.setAttribute('target', '_blank');
-      link.textContent = text;
-      li.appendChild(link);
-    } else {
-      li.textContent = text;
-    }
-
-    list.appendChild(li);
-  }
+  var threatenedList = document.querySelector('.threatened-species');
+  var endangeredList = document.querySelector('.endangered-species');
+  var atRiskList = document.querySelector('.at-risk-species');
+  var listedUrl = 'https://finder.royhewitt.com/listed?state=' + abbreviation;
+  var atRiskUrl = 'https://finder.royhewitt.com/species?range[]=' + state;
 
   xhr.get(listedUrl, function (err, response, body) {
     if (err) console.error(err);
     var listed = JSON.parse(body);
     var src = 'https://ecos.fws.gov/tess_public/reports/species-listed-by-state-report?status=listed&state=' + abbreviation;
-    createListItem(listed.threatened + ' Threatened Species', src);
-    createListItem(listed.endangered + ' Endangered Species', src);
+    endangeredList.innerHTML = template.listed({ species: listed.endangered, type: 'Endangered Species' });
+    threatenedList.innerHTML = template.listed({ species: listed.threatened, type: 'Threatened Species' });
   });
 
   xhr.get(atRiskUrl, function (err, response, body) {
     if (err) console.error(err);
     var species = JSON.parse(body);
-    createListItem(species.length + ' At-Risk Species');
+    atRiskList.innerHTML = template.atRisk({ species: species });
   });
 })();
