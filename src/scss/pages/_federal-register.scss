@@ -4,6 +4,10 @@
 
 .federal-register-item {
   @include card;
+
+  a[href$=".pdf"]::after {
+    content: '';
+  }
 }
 
 #load-more-fr-docs {
