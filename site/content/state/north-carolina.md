@@ -4,11 +4,11 @@ abbreviation: NC
 url: /north-carolina
 tags:
     - 'North Carolina'
-updated: 'May 25th, 2016'
+updated: 'August 3rd, 2016'
 ---
 
 ## National Wildlife Refuges
-<section id="map" class="state-refuges-map"></section>
+<iframe src="https://usfws.github.io/southeast-mega-map/?state=NC&layers=Refuges" class="state-map"></iframe>
 
 ## Recent News
 {{< news tag="North Carolina">}}

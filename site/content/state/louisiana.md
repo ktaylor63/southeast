@@ -4,7 +4,7 @@ abbreviation: LA
 url: /louisiana
 tags:
     - Louisiana
-updated: 'May 10th, 2016'
+updated: 'August 3rd, 2016'
 ---
 
 ## Did You Know?
@@ -14,7 +14,7 @@ updated: 'May 10th, 2016'
  - Trend data indicates that Louisiana is losing a football field’s worth of vital wetland habitat every hour to sea level rise. What does that mean for wildlife? Learn more.
 
 ## National Wildlife Refuges
- <section id="map" class="state-refuges-map"></section>
+ <iframe src="https://usfws.github.io/southeast-mega-map/?state=LA&layers=Refuges" class="state-map"></iframe>
 
 ## Recent News
 {{< news tag="Louisiana">}}
