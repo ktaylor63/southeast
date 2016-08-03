@@ -106,8 +106,12 @@ h2 {
 }
 h3 {
   font-size: 1 * $scale * 1rem;
+}
+
+.container h3 {
   font-style: italic;
 }
+
 h4 {
   font-size: $scale / 2 * 1rem;
 }
