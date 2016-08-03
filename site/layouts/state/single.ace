@@ -2,7 +2,9 @@
   h1.page-title {{ .Title }}
 
   h2 Fast Facts
-  ul.fast-facts
+  ul.threatened-species
+  ul.endangered-species
+  ul.at-risk-species
 
   {{ .Content }}
 
