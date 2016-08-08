@@ -1,12 +1,12 @@
 ---
 title: 'Recovery and Interstate Commerce Permits'
-url: /our-services/permits/recovery-and-interstate-commerce-permits
+url: /our-services/permits/recovery-and-interstate-commerce
 tags:
     - Permits
     - 'Endangered Species Act'
 description: 'A typical use of a recovery permit is to allow for scientific research on a listed species in order to understand better the species'' long-term survival needs. Interstate commerce permits also allow transport and sale of listed species across State lines (e.g., for purposes such as a breeding program).'
 js: /js/10a1a-permits.js
-updated: 'June 9th, 2016'
+updated: 'August 8th, 2016'
 ---
 
 ## What is the status of my permit?
@@ -64,7 +64,7 @@ For general information about these permits and points of contact, see our fact 
 
 ## How do I apply for a 10(a)(1)(A) Recovery or Interstate Commerce Permit?
 
-One of the first things you need to do to apply for a permit is contact your nearest [USFWS Ecological Services Office](http://www.fws.gov/offices/). U.S. Fish and Wildlife Service staff can help you determine whether your proposed project or action is likely to result in "take," whether a permit is required, or if there are other options to consider. U.S. Fish and Wildlife Service personnel can also provide technical assistance to help you design your project to avoid take.
+One of the first things you need to do to apply for a permit is contact your nearest <a href="https://usfws.github.io/southeast-mega-map/?layers=ecological+services" target="_blank">USFWS Ecological Services Office</a>. U.S. Fish and Wildlife Service staff can help you determine whether your proposed project or action is likely to result in "take," whether a permit is required, or if there are other options to consider. U.S. Fish and Wildlife Service personnel can also provide technical assistance to help you design your project to avoid take.
 
 When and if you decide that a permit is needed, the next thing you will need to do is complete an [application for the permit](http://www.fws.gov/forms/3-200-55.pdf). Please read the instructions on how to fill out the online forms before accessing the forms.
 
@@ -97,3 +97,5 @@ Some species have minimum qualification requirements that must be met to obtain 
 - [Information to include in Applications for Federal Research Permit for Endangered and Threatened Bats](/pdf/southeast-bat-permit-requirements.pdf) (PDF)
 - [American Burying Beetle Qualification Criteria](/pdf/american-burying-beetle-permit-qualifications.pdf) (PDF)
 - [Red cockaded woodpecker Training and Certification Requirements](/pdf/red-cockaded-woodpecker-permit-training-and-cert-requirements.pdf) (PDF)
+
+<div class="modal"></div>
