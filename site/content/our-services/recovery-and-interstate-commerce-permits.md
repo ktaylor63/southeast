@@ -13,8 +13,8 @@ updated: 'August 8th, 2016'
 
 Type in the 6-digit alpha-numeric code associated with your permit. For example, if your permit code is TE 12345B-6, you would enter the following into the query-field: 12345B-6.
 
-**Permit #:**
 
+<label for="permit-search">**Permit #:**</label>
 <input type="search" id="permit-search" placeholder="ex: 12345B-6"/>
 <div><strong class="output"></strong></div>
 
