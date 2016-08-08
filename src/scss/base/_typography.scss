@@ -91,7 +91,7 @@ h6 {
   color: $color-accent;
   font-family: $serif;
   margin-top: $leading;
-  margin-bottom: 0;
+  margin-bottom: $leading;
   line-height: $leading;
 }
 h1 {
