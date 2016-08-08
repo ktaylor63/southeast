@@ -1,0 +1,50 @@
+---
+title: 'Southeast Friends Groups'
+description: '“Friends” are private, independent, nonprofit organizations that build links between communities and support local national wildlife refuges and fish hatcheries across the southeast. Learn more about how you can participate!'
+tags:
+    - volunteer
+    - 'friends groups'
+hero:
+    name: blanket-flower-blossom.jpg
+    alt: 'A flower with pink petals with orange tips.'
+    link: 'https://flic.kr/p/fD9CBj'
+    caption: 'A blanket flower blossom at Lake Woodruff National Wildlife Refuge in Florida. Photo by Eileen Tramontana, USFWS.'
+updated: 'August 8th, 2016'
+---
+
+“Friends” are private, independent, nonprofit organizations that build links between communities and local national wildlife refuges and fish hatcheries. Friends Group members partner with refuges and hatcheries undertake a variety of activities that support the station, including:
+
+ - Organizing public events
+ - Educating the local community about conservation
+ - Photography
+ - Restoring habitat
+ - Maintaining trails
+ - Coordinating volunteers
+ - Operating nature stores
+ - Fundraising
+ - And more!
+
+## Groups in the Southeast
+There are 48 Friends Groups supporting 42 national wildlife refuges and 6 national fish hatcheries across the southeast. Search for a group near you.
+
+[insert table like social media tool - sort by city, state, name, and refuge vs hatchery
+https://docs.google.com/a/doi.gov/spreadsheets/d/1izDCTS8rfrqVB6ibYRGBJgUUWL2E5JxyNhuc8ua9rK8/edit?usp=sharing]
+
+## Grant Opportunities
+[National Fish and Wildlife Foundation (NFWF) Grants](http://www.nfwf.org/whatwedo/grants/Pages/home.aspx)
+NFWF provides funding on a competitive basis to projects that sustain, restore, and enhance our nation's fish, wildlife, and plants and their habitats.
+
+[Red Lodge Clearinghouse Funding Database](http://rlch.org/funding)
+Originally founded in 2001 by renowned fashion designer and philanthropist, the late Liz Claiborne and her husband, Art Ortenberg, Red Lodge Clearinghouse has served the needs of individuals and organizations engaged in collaborative natural resources management for nearly a decade.
+
+{{< figure class="photo-center" src="/images/pages/measuring-green-sea-turtle-during-night-patrol.jpg" alt="A kneeling biologist measures the back of a half-buried sea turtle" caption="A member of Ticatove, the Friends Group for Vieques National Wildlife Refuge, measures a sea turtle during night patrol. Photo by USFWS." >}}
+
+## Start a Friends Group
+There are many refuges and hatcheries in the southeast that do not have a Friends Group supporting their operations. Learn how to start a Friends Group in your community.
+
+## For More Information
+Visit our [national Friends Group website](http://www.fws.gov/refuges/friends/) to find additional resources and learn about the history of Friends Groups.
+
+General information about Friends Groups for fish hatcheries is available via our partners, the [National Fisheries Friends Partnership](http://www.fisheriesfriends.org/).
+
+If you have questions or are interested in joining a Friends Group in the southeast, contact **Sallie Gentry**, Friends Group Coordinator, at [sallie_gentry@fws.gov](mailto:sallie_gentry@fws.gov?subject=Friends+Groups).
