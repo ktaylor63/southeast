@@ -3,15 +3,19 @@
   var filter = require('lodash.filter');
   var fs = require('fs');
 
+  var templates = {
+    result: require('./result.jade'),
+    error: require('./error.jade')
+  };
+
   var permits = JSON.parse(fs.readFileSync(__dirname + '/permits.js', 'utf8')),
       output = document.querySelector('.output'),
-      search = document.getElementById('permit-search'),
-      html = '';
+      search = document.getElementById('permit-search');
 
+  // Turn into a function instead of anonymous callback
   search.addEventListener('keyup', function (e) {
     var query = e.target.value,
         match;
-    console.log(query);
 
     if (query.length < 6) {
       output.innerHTML = '';
@@ -22,13 +26,8 @@
       return permit.number === query;
     });
 
-    if (match.length === 1) {
-      html = 'Status: ' + match[0].status + '<br>';
-      html += 'Federal Register Status: ' + match[0].fed_register;
-      output.innerHTML = html;
-    } else if (query.length < 6 && match.length === 0) {
-      output.innerHTML = 'An error occurred. Could not find permit number.';
-    }
+    if (match.length === 1) output.innerHTML = templates.result({ data: match[0] });
+    else if (query.length < 6 && match.length === 0) output.innerHTML = templates.error();
   });
 
 }());

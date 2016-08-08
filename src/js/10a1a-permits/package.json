@@ -5,6 +5,7 @@
   "main": "index.js",
   "browserify": {
     "transform": [
+      "jadeify",
       "brfs"
     ]
   },
@@ -13,13 +14,13 @@
     "csv2json": "csv2json ./permits.csv - | json-minify > ./permits.js",
     "browserify": "browserify index.js | uglifyjs -mc > ../../../site/static/js/10a1a-permits.js",
     "watchify": "watchify index.js -o ../../../site/static/js/10a1a-permits.js -dv",
+    "inspect": "browserify --full-paths index.js | uglifyjs -mc | Discify --open",
     "start": "npm run csv2json && npm run watchify"
   },
   "keywords": [],
   "author": "Roy Hewitt <roy_hewitt@fws.gov>",
   "license": "ISC",
   "dependencies": {
-    "csvjson": "^1.0.5",
     "lodash.filter": "^4.4.0",
     "moment": "^2.13.0"
   },
@@ -28,6 +29,8 @@
     "browserify": "^13.0.1",
     "csv2json": "^1.1.0",
     "disc": "^1.3.2",
+    "jade": "^1.11.0",
+    "jadeify": "^4.6.0",
     "json-minify": "^1.0.0",
     "uglifyjs": "^2.4.10",
     "watchify": "^3.7.0"
