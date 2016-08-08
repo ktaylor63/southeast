@@ -17,6 +17,7 @@
   var content = document.querySelector('#content');
   var baseUrl = document.body.getAttribute('data-root');
   var anchors = document.querySelectorAll('a');
+  var contactLinks = document.querySelectorAll('.toggle-contact');
   var scrollNav,
       terms;
 
@@ -78,12 +79,14 @@
     if ( anchor.href.indexOf(baseUrl) === -1 ) anchor.setAttribute('target', '_blank');
   });
 
-  document.querySelector('.fws-menu-trigger').addEventListener('click', menu.show);
-  document.getElementById('search-trigger').addEventListener('click', menu.toggleSearch);
-  document.querySelector('.toggle-contact').addEventListener('click', function () {
-    toggleActiveClass(document.querySelector('.contact-drawer'));
+  Array.prototype.forEach.call(contactLinks, function (link) {
+    link.addEventListener('click', function() {
+      toggleActiveClass(document.querySelector('.contact-drawer'));
+    });
   });
 
+  document.querySelector('.fws-menu-trigger').addEventListener('click', menu.show);
+  document.getElementById('search-trigger').addEventListener('click', menu.toggleSearch);
   document.querySelector('.toggle-share').addEventListener('click', function () {
     toggleActiveClass(document.querySelector('.share-drawer'));
   });
