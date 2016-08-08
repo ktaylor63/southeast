@@ -1,5 +1,6 @@
 (function() {
   'use strict';
+  var moment = require('moment');
   var filter = require('lodash.filter');
   var fs = require('fs');
 
@@ -7,6 +8,11 @@
     result: require('./result.jade'),
     error: require('./error.jade')
   };
+
+  var dataUpdated = '2016-08-08';
+  var updatedNode = document.querySelector('.permits-last-updated');
+
+  updatedNode.innerHTML = moment(dataUpdated).format('MMMM Do YYYY');
 
   var permits = JSON.parse(fs.readFileSync(__dirname + '/permits.js', 'utf8')),
       output = document.querySelector('.output'),
