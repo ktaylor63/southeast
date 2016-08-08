@@ -18,7 +18,7 @@ updated: 'August 8th, 2016'
 ---
 
 - **Taxa: Crustacea**
-- **Range: Kentucky**
+- **Range: [Kentucky](/kentucky)**
 - **Status: Endangered**
 
 ## Appearance
