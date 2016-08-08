@@ -1,5 +1,5 @@
 = doctype html
-html lang="en_US"
+html lang="en-US"
   head
     = include partials/head.html .
   body data-root="{{ .Site.BaseURL }}"
