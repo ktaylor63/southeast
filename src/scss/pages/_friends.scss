@@ -1,0 +1,25 @@
+.social-icon {
+  max-width: 50px;
+}
+
+.friends-contact {
+  list-style: none;
+  margin-top: $leading;
+  padding: 0;
+  text-align: center;
+
+  li {
+    display: inline-block;
+    height: auto;
+    margin-right: $leading;
+    width: 50px;
+  }
+}
+
+.facebook {
+  fill: $color-facebook;
+}
+
+.twitter {
+  fill: $color-twitter;
+}
