@@ -1,6 +1,7 @@
 ---
 title: 'Southeast Friends Groups'
 description: '“Friends” are private, independent, nonprofit organizations that build links between communities and support local national wildlife refuges and fish hatcheries across the southeast. Learn more about how you can participate!'
+js: /js/friends.js
 tags:
     - volunteer
     - 'friends groups'
@@ -9,7 +10,7 @@ hero:
     alt: 'A flower with pink petals with orange tips.'
     link: 'https://flic.kr/p/fD9CBj'
     caption: 'A blanket flower blossom at Lake Woodruff National Wildlife Refuge in Florida. Photo by Eileen Tramontana, USFWS.'
-updated: 'August 8th, 2016'
+updated: 'August 9th, 2016'
 ---
 
 “Friends” are private, independent, nonprofit organizations that build links between communities and local national wildlife refuges and fish hatcheries. Friends Group members partner with refuges and hatcheries undertake a variety of activities that support the station, including:
@@ -25,10 +26,12 @@ updated: 'August 8th, 2016'
  - And more!
 
 ## Groups in the Southeast
-There are 48 Friends Groups supporting 42 national wildlife refuges and 6 national fish hatcheries across the southeast. Search for a group near you.
+There are <span class="total-groups">48</span> Friends Groups supporting <span class="total-refuges">42</span> national wildlife refuges and <span class="total-hatcheries">6</span> national fish hatcheries across the southeast. Search for a group near you.
 
-[insert table like social media tool - sort by city, state, name, and refuge vs hatchery
-https://docs.google.com/a/doi.gov/spreadsheets/d/1izDCTS8rfrqVB6ibYRGBJgUUWL2E5JxyNhuc8ua9rK8/edit?usp=sharing]
+<label>Search:
+  <input class="friends-search" type="search" placeholder="eg: Piedmont National Wildlife Refuge">
+</label>
+<ul class="friends-group-list card-list"></ul>
 
 ## Grant Opportunities
 [National Fish and Wildlife Foundation (NFWF) Grants](http://www.nfwf.org/whatwedo/grants/Pages/home.aspx)
