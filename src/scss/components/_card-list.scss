@@ -1,0 +1,14 @@
+.card-list {
+  padding: 0;
+}
+
+.card {
+  @include card;
+}
+
+.card-list-heading {
+  color: $color-accent;
+  font-family: $serif;
+  font-size: 1.2em;
+  margin-top:0;
+}
