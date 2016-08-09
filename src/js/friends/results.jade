@@ -1,0 +1,23 @@
+each friend in friends
+  li.card
+    p.card-list-heading| #{friend.name}
+    address| #{friend.city}, #{friend.state} #[br]
+    p| #[strong Stations Supported:] #{friend.stations_supported}
+    if friend.mission
+      div| !{friend.mission}
+    if friend.email
+      - var subject = friend.name.replace(/\s/g, '+');
+      p| #[a(href="mailto:#{friend.email}?subject=#{subject}") #{friend.email}] #[br]
+    ul.friends-contact
+      if friend.facebook
+        li
+          a(href=friend.facebook, title="Like us on Facebook")
+            svg(class="social-icon facebook", viewBox="0 0 100 100", xmlns="http://www.w3.org/2000/svg") #[use(xlink:href="#facebook")]
+      if friend.twitter
+        li
+          a(href=friend.twitter, title="Follow us on Twitter")
+            svg(class="social-icon twitter", viewBox="0 0 100 100", xmlns="http://www.w3.org/2000/svg") #[use(xlink:href="#twitter")]
+      if friend.website
+        li
+          a(href=friend.website, title="Visit our Website")
+            svg(class="social-icon website", viewBox="0 0 100 100", xmlns="http://www.w3.org/2000/svg") #[use(xlink:href="#link")]
