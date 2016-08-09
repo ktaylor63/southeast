@@ -9,7 +9,8 @@
     "browserify": "browserify index.js | uglifyjs -mc > ../../../site/static/js/friends.js",
     "watchify": "watchify index.js -o ../../../site/static/js/friends.js -dv",
     "inspect": "browserify --full-paths index.js | uglifyjs -mc | Discify --open",
-    "start": "npm run csv2json && npm run watchify"
+    "start": "npm run csv2json && npm run watchify",
+    "build": "npm run csv2json && npm run browserify"
   },
   "browserify": {
     "transform": [
