@@ -8,6 +8,8 @@ each friend in friends
     if friend.email
       - var subject = friend.name.replace(/\s/g, '+');
       p| #[a(href="mailto:#{friend.email}?subject=#{subject}") #{friend.email}] #[br]
+    if friend.phone
+      p= friend.phone
     ul.friends-contact
       if friend.facebook
         li
