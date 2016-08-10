@@ -1,0 +1,403 @@
+[
+{"state":"Arkansas","type":"Refuge","station":"Bald Knob National Wildlife Refuge","name":"Paul Provence","title":"Refuge Manager","email":"paul_provence@fws.gov","phone":"501-724-2458"}
+,
+{"state":"Arkansas","type":"Refuge","station":"Big Lake National Wildlife Refuge","name":"Steven Rimer","title":"Refuge Manager","email":"steven_rimer@fws.gov","phone":"870-564-2429"}
+,
+{"state":"Arkansas","type":"Refuge","station":"Cache River National Wildlife Refuge","name":"Jonathan Windley","title":"Deputy Project Leader","email":"jonathan_windley@fws.gov","phone":"870-347-2614"}
+,
+{"state":"Arkansas","type":"Refuge","station":"Cache River National Wildlife Refuge","name":"Keith Weaver","title":"Project Leader","email":"keith_weaver@fws.gov","phone":"870-347-2074 ext. 207"}
+,
+{"state":"Arkansas","type":"Refuge","station":"Cache River National Wildlife Refuge","name":"Jeremy Nguyen","title":"Federal Wildlife Officer","email":"jeremy_nguyen@fws.gov","phone":"870-347-2614"}
+,
+{"state":"Arkansas","type":"Refuge","station":"Felsenthal National Wildlife Refuge","name":"Amanda Wilkinson","title":"Park Ranger","email":"amanda_wilkinson@fws.gov","phone":"870-364-1170"}
+,
+{"state":"Arkansas","type":"Refuge","station":"Holla Bend National Wildlife Refuge","name":"Robert Alexander","title":"Refuge Manager","email":"robert_alexander@fws.gov","phone":"479-229-4300"}
+,
+{"state":"Arkansas","type":"Refuge","station":"Wapanocca National Wildlife Refuge","name":"Jared Nance","title":"Refuge Manager","email":"jared_nance@fws.gov","phone":"870-343-2595"}
+,
+{"state":"Arkansas","type":"Refuge","station":"Dale Bumpers White River National Wildlife Refuge","name":"Bo Sloan","title":"Refuge Manager","email":"charles_sloan@fws.gov","phone":"870-282-8205"}
+,
+{"state":"Arkansas","type":"Refuge","station":"Dale Bumpers White River National Wildlife Refuge","name":"Arthur Hitchcock","title":"Refuge Biologist","email":"arthur_hitchcock@fws.gov","phone":"870-282-8246"}
+,
+{"state":"Arkansas","type":"Refuge","station":"Dale Bumpers White River National Wildlife Refuge","name":"Jason Roesner","title":"Deputy Project Leader","email":"jason_roesner@fws.gov","phone":"870-282-8200"}
+,
+{"state":"Arkansas","type":"Field Office","station":"Arkansas Ecological Services Field Office","name":"Melvin Tobin","title":"Field Supervisor","email":"melvin_tobin@fws.gov","phone":"501-513-4475"}
+,
+{"state":"Arkansas","type":"Field Office","station":"Arkansas Ecological Services Field Office","name":"Chris Davidson","title":"Deputy Field Supervisor","email":"chris_davidson@fws.gov","phone":"501-513-4481"}
+,
+{"state":"Arkansas","type":"Field Office","station":"Arkansas Ecological Services Field Office","name":"Becky Hays","title":"Administrative Officer","email":"becky_hays@fws.gov","phone":"501-513-4478"}
+,
+{"state":"Arkansas","type":"Field Office","station":"Arkansas Ecological Services Field Office","name":"Peggy Shackleton","title":"Office Automation Clerk","email":"peggy_shackleton@fws.gov","phone":"501-513-4470"}
+,
+{"state":"Arkansas","type":"Field Office","station":"Arkansas Ecological Services Field Office","name":"Jim Besley","title":"GIS/IT Specialist","email":"jim_besley@fws.gov","phone":"501-513-4476"}
+,
+{"state":"Arkansas","type":"Field Office","station":"Arkansas Ecological Services Field Office","name":"Lindsey Lewis","title":"Highway Biologist","email":"lindsey_lewis@fws.gov","phone":"501-513-4489"}
+,
+{"state":"Arkansas","type":"Field Office","station":"Arkansas Ecological Services Field Office","name":"Jason Phillips","title":"Biologist","email":"jason_phillips@fws.gov","phone":"870-347-1617"}
+,
+{"state":"Arkansas","type":"Field Office","station":"Arkansas Ecological Services Field Office","name":"Melissa Lombardi","title":"Endangered Species Biologist","email":"melissa_lombardi@fws.gov","phone":"501-513-4488"}
+,
+{"state":"Arkansas","type":"Field Office","station":"Arkansas Ecological Services Field Office","name":"Tommy Inebnit","title":"Alternative Energy Biologist","email":"thomas_inebnit@fws.gov","phone":"501-513-4483"}
+,
+{"state":"Arkansas","type":"Field Office","station":"Arkansas Ecological Services Field Office","name":"Joe Krystofik","title":"Partners Coordinator","email":"joe_krystofik@fws.gov","phone":"501-513-4479"}
+,
+{"state":"Arkansas","type":"Field Office","station":"Arkansas Ecological Services Field Office","name":"Jonathan Baxter","title":"Partners Biologist","email":"jonathan_baxter@fws.gov","phone":"501-513-4477"}
+,
+{"state":"Arkansas","type":"Field Office","station":"Arkansas Ecological Services Field Office","name":"Mitch Wine","title":"Karst Biologist","email":"mitch_wine@fws.gov","phone":"870-269-3228"}
+,
+{"state":"Arkansas","type":"Field Office","station":"Arkansas Ecological Services Field Office","name":"Alyssa Bangs","title":"Biologist","email":"alyssa_bangs@fws.gov","phone":"501-513-4472"}
+,
+{"state":"Arkansas","type":"Hatchery","station":"Greers Ferry National Fish Hatchery","name":"Sherri Shoults","title":"Project Leader","email":"sherri_shoults@fws.gov","phone":"501-362-3615"}
+,
+{"state":"Arkansas","type":"Hatchery","station":"Greers Ferry National Fish Hatchery","name":"Eric Thompson","title":"Assistant Project Leader","email":"eric_thompson@fws.gov","phone":"501-362-3615"}
+,
+{"state":"Arkansas","type":"Hatchery","station":"Greers Ferry National Fish Hatchery","name":"Greg McCormick","title":"Fish Biologist","email":"","phone":""}
+,
+{"state":"Arkansas","type":"Hatchery","station":"Greers Ferry National Fish Hatchery","name":"Daniel Davis","title":"Animal Caretaker","email":"daniel_davis@fws.gov","phone":"501-362-3615"}
+,
+{"state":"Arkansas","type":"Hatchery","station":"Greers Ferry National Fish Hatchery","name":"James Pomraning","title":"Maintenance Worker","email":"james_pomraning@fws.gov","phone":"501-362-3615"}
+,
+{"state":"Arkansas","type":"Hatchery","station":"Mammoth Spring National Fish Hatchery","name":"Richard Shelton","title":"Hatchery Manager","email":"richard_shelton@fws.gov","phone":"870-625-3912"}
+,
+{"state":"Arkansas","type":"Hatchery","station":"Mammoth Spring National Fish Hatchery","name":"Sara Seagraves","title":"Education and Outreach Biologist","email":"sara_seagraves@fws.gov","phone":"870-625-3912"}
+,
+{"state":"Arkansas","type":"Hatchery","station":"Norfork National Fish Hatchery","name":"Jon Casey","title":"Project Leader","email":"jon_casey@fws.gov","phone":"870-499-5255"}
+,
+{"state":"Arkansas","type":"Hatchery","station":"Norfork National Fish Hatchery","name":"Thomas (Trey) Anderson","title":"Fish Biologist","email":"thomas_anderson@fws.gov","phone":"870-499-5255"}
+,
+{"state":"Arkansas","type":"Hatchery","station":"Norfork National Fish Hatchery","name":"John Lewis","title":"Fish Biologist","email":"john_lewis@fws.gov","phone":"870-499-5255"}
+,
+{"state":"Arkansas","type":"Hatchery","station":"Norfork National Fish Hatchery","name":"Mike Morris","title":"Animal Caretaker","email":"michael_morris@fws.gov","phone":"870-499-5255"}
+,
+{"state":"Arkansas","type":"Hatchery","station":"Norfork National Fish Hatchery","name":"Wanda Pohlman","title":"Administration Officer","email":"wanda_pohlman@fws.gov","phone":"870-499-5255"}
+,
+{"state":"Arkansas","type":"Hatchery","station":"Norfork National Fish Hatchery","name":"Donald Beard","title":"Maintenance Worker","email":"donald_beard@fws.gov","phone":"870-499-5255"}
+,
+{"state":"Arkansas","type":"Hatchery","station":"Norfork National Fish Hatchery","name":"Brad Marler","title":"Motor Vehicle Operator","email":"brad_marler@fws.gov","phone":"870-499-5255"}
+,
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Refuge","station":"Buck Island, Green Cay, Sandy Point National Wildlife Refuges","name":"Michael Evans","title":"Refuge Manager","email":"michael_evans@fws.gov","phone":"340-773-4554"}
+,
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Refuge","station":"Culebra National Wildlife Refuge","name":"Ricardo Colon-Merced","title":"Wildlife Biologist","email":"ricardo_colon-merced@fws.gov","phone":"787-742-0115"}
+,
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Refuge","station":"Culebra National Wildlife Refuge","name":"Elizabeth Arizmendi","title":"Maintenance Worker","email":"elizabeth_arizmendi@fws.gov","phone":"787-742-0115"}
+,
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Refuge","station":"Cabo Rojo National Wildlife Refuge","name":"Gisella Burgos","title":"Park Ranger","email":"gisella_burgos@fws.gov","phone":"787-851-7258 ext. 311"}
+,
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Refuge","station":"Caribbean Islands National Wildlife Refuge","name":"Susan Silander","title":"Project Leader","email":"susan_silander@fws.gov","phone":"787-851-7258"}
+,
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Refuge","station":"Caribbean Islands National Wildlife Refuge","name":"Ana Roman","title":"Deputy Project Leader","email":"ana_roman@fws.gov","phone":"787-851-7258 ext. 305"}
+,
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Refuge","station":"Caribbean Islands National Wildlife Refuge","name":"Hortencia Ruiz","title":"Administrative Officer","email":"hortencia_ruiz@fws.gov","phone":"787-851-7258 ext.301"}
+,
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Refuge","station":"Caribbean Islands National Wildlife Refuge","name":"Ricardo Antonetti","title":"Facilities Operation Specialist","email":"ricardo_antonetti@fws.gov","phone":"787-851-7258 ext 314"}
+,
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Refuge","station":"Caribbean Islands National Wildlife Refuge","name":"William Wolfrom","title":"Law Enforcement Officer","email":"william_wolfrom@fws.gov","phone":"787-851-7258 ext 317"}
+,
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Refuge","station":"Caribbean Islands National Wildlife Refuge","name":"Bryan Marcial","title":"Supervisory Law Enforcement Officer","email":"bryant_marcial@fws.gov","phone":"787-851-7258 ext. 319"}
+,
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Refuge","station":"Caribbean Islands National Wildlife Refuge","name":"Fernando Ramos","title":"Maintenance Mechanic","email":"fernando_ramos@fws.gov","phone":"787-851-7258 ext. 322"}
+,
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Refuge","station":"Caribbean Islands National Wildlife Refuge","name":"James Padilla","title":"Fire Operations Specialist","email":"james_padilla@fws.gov","phone":"787-851-7258-ext 321"}
+,
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Edwin E. Muñiz","title":"Field Supervisor","email":"edwin_muniz@fws.gov","phone":"787-851-7297 ext. 200"}
+,
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Marelisa Rivera","title":"Deputy Field Supervisor","email":"marelisa_rivera@fws.gov","phone":"787-851-7297 ext. 206"}
+,
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Marisel López-Flores","title":"Project Leader Supervisory Wildlife Biologist, Puerto Rican Parrot Recovery Program","email":"marisel_lopez@fws.gov","phone":"787-888-1810 ext. 5535"}
+,
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Carmen Matos","title":"Administrative Officer","email":"carmen_matos@fws.gov","phone":"787-851-7297 ext. 205"}
+,
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Sandra Perez","title":"Office Automation Assistant","email":"sandra_perez@fws.gov","phone":"787-851-7297 ext. 200"}
+,
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Raquel Reyes","title":"Office Automation Assistant, Puerto Rican Parrot Recovery Program","email":"raquel_reyes@fws.gov","phone":"787-888-1810 ext 5535"}
+,
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"José Cruz Burgos, PhD","title":"Fish and Wildlife Biologist, Endangered Species Program Coordinator","email":"jose_cruz-burgos@fws.gov","phone":"787-851-7297 ext. 218"}
+,
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Ángel G. Colón","title":"Biological Science Student Trainee","email":"angel_colon-santiago@fws.gov","phone":"787-851-7297 ext. 214"}
+,
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Xiomara Labiosa","title":" Fish and Wildlife Biologist, Partners and Coastal Program","email":"xiomara_labiosa@fws.gov","phone":"787-851-7297 ext. 222"}
+,
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Iván Llerandi Román","title":" Fish and Wildlife Biologist, Habitat Conservation Program Coordinator","email":"ivan_llerandi-roman@fws.gov","phone":"787-851-7297 ext. 224"}
+,
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Félix López","title":"Ecologist/Contaminants Specialist","email":"felix_lopez@fws.gov","phone":"787-851-7297 ext. 210"}
+,
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"José Gilberto Martínez","title":"Wildlife Biologist","email":"jose_martinez@fws.gov","phone":"787-851-7297 ext. 219"}
+,
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Omar Monsegur","title":"Fish and Wildlife Biologist","email":"omar_monsegur@fws.gov","phone":"787-851-7297 ext. 217"}
+,
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Carlos Pacheco","title":"Fish and Wildlife Biologist","email":"carlos_pachecho@fws.gov","phone":"787-851-7297 ext. 221"}
+,
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Karen Torres","title":"IT Specialist","email":"karen_torres@fws.gov","phone":"787-851-7297 ext. 203"}
+,
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Jennifer Valentín","title":"Biological Science Student Trainee","email":"jennifer_valentin-traverzo@fws.gov ","phone":"787-851-7297 ext. 225"}
+,
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Maritza Vargas","title":"Fish and Wildlife Biologist","email":"maritza_vargas@fws.gov","phone":"787-851-7297 ext. 215"}
+,
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Jan Paul Zegarra","title":"Fish and Wildlife Biologist","email":"jan_zegarra@fws.gov","phone":"787-851-7297 ext. 220"}
+,
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Wilfredo Abreu","title":"Biological Science Technician, Puerto Rican Parrot Recovery Program","email":"wilfredo_abreau@fws.gov","phone":"787-888-1810 ext 5535"}
+,
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Gabriel Benítez","title":"Biological Science Technician, Puerto Rican Parrot Recovery Program","email":"gabriel_benitez@fws.gov","phone":"787-888-1810 ext 5535"}
+,
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Israel Cruz","title":"Facility Operation Specialist,Puerto Rican Parrot Recovery Program","email":"israel_cruz@fws.gov","phone":"787-888-1810 ext 5535"}
+,
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Arely Jhonson-Camacho","title":"Biological Science Technician, Puerto Rican Parrot Recovery Program","email":"arely_jhonson-camacho@fws.gov","phone":"787-888-1810 ext 5535"}
+,
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Limary Ramírez-Esquilín","title":"Biological Science Technician, Puerto Rican Parrot Recovery Program","email":"limary_ramirez-esquilin@fws.gov","phone":"787-888-1810 ext 5535"}
+,
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Jesus Ríos-Cruz","title":"Biological Science Technician, Puerto Rican Parrot Recovery Program","email":"jesus_rios-cruz@fws.gov","phone":"787-888-1810 ext 5535"}
+,
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Iris Rodríguez","title":"Biological Science Technician, Puerto Rican Parrot Recovery Program","email":"iris_rodriguez@fws.gov","phone":"787-888-1810 ext 5535"}
+,
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Miguel Toledo","title":"Biological Science Technician, Puerto Rican Parrot Recovery Program","email":"miguel_toledo@fws.gov","phone":"787-888-1810 ext 5535"}
+,
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Pablo Torres-Baéz","title":"Wildlife Biologist, Puerto Rican Parrot Recovery Program","email":"pablo_torres@fws.gov","phone":"787-888-1810 ext 5535"}
+,
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Jafet Vélez","title":"Wildlife Biologist, Puerto Rican Parrot Recovery Program","email":"jafet_velez@fws.gov","phone":"787-888-1810 ext 5535"}
+,
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Thomas White, PhD","title":"Wildlife Biologist, Puerto Rican Parrot Recovery Program","email":"thomas_white@fws.gov","phone":"787-888-1810 ext 5535"}
+,
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Damaris Roman","title":"Biological Science Technician, Puerto Rican Parrot Recovery Program","email":"damaris_roman@fws.gov","phone":"787-888-1810 ext 5535"}
+,
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Joel Arroyo","title":"Office Support Student Trainee","email":"joel_arroyo@fws.gov","phone":"787-851-7297 ext 208"}
+,
+{"state":"Kentucky","type":"Refuge","station":"Clarks River National Wildlife Refuge","name":"Judy Miller","title":"Office Assistant","email":"judith_miller@fws.gov","phone":"270-527-5770 ext. 201"}
+,
+{"state":"Kentucky","type":"Refuge","station":"Clarks River National Wildlife Refuge","name":"Stacey Hayden","title":"Education Specialist","email":"stacey_hayden@fws.gov","phone":"270-527-5770 ext. 202"}
+,
+{"state":"Kentucky","type":"Refuge","station":"Clarks River National Wildlife Refuge","name":"Kimberly Sykes","title":"Assistant Refuge Manager","email":"kimberly_sykes@fws.gov","phone":"270-527-5770 ext. 203"}
+,
+{"state":"Kentucky","type":"Refuge","station":"Clarks River National Wildlife Refuge","name":"Andy Radomski","title":"Private Lands Biologist","email":"andrew_radomski@fws.gov","phone":"270-527-5770 ext. 204"}
+,
+{"state":"Kentucky","type":"Refuge","station":"Clarks River National Wildlife Refuge","name":"Michael Johnson","title":"Refuge Manager","email":"michael_johnson@fws.gov","phone":"270-527-5770 ext. 205"}
+,
+{"state":"Kentucky","type":"Refuge","station":"Clarks River National Wildlife Refuge","name":"Jason Bayer","title":"Law Enforcement Officer","email":"jason_bayer@fws.gov","phone":"270-527-5770 ext. 206"}
+,
+{"state":"Kentucky","type":"Field Office","station":"Kentucky Ecological Services Field Office","name":"Carrie Allison","title":"Wildlife Biologist (Consultation)","email":"carrie_allison@fws.gov","phone":"502-695-0468 ext. 103"}
+,
+{"state":"Kentucky","type":"Field Office","station":"Kentucky Ecological Services Field Office","name":"Lee Andrews","title":"Field Supervisor","email":"lee_andrews@fws.gov","phone":"502-695-0468 ext. 108"}
+,
+{"state":"Kentucky","type":"Field Office","station":"Kentucky Ecological Services Field Office","name":"Mike Armstrong","title":"Wildlife Biologist (Recovery)","email":"mike_armstrong@fws.gov","phone":"502-695-0468 ext. 101"}
+,
+{"state":"Kentucky","type":"Field Office","station":"Kentucky Ecological Services Field Office","name":"Diane Caudill","title":"Office Assistant/Budget Officer","email":"terry_caudill@fws.gov","phone":"502-695-0468 ext. 107"}
+,
+{"state":"Kentucky","type":"Field Office","station":"Kentucky Ecological Services Field Office","name":"Phil DeGarmo","title":"Wildlife Biologist (Transportation)","email":"phil_degarmo@fws.gov","phone":"502-695-0468 ext. 110"}
+,
+{"state":"Kentucky","type":"Field Office","station":"Kentucky Ecological Services Field Office","name":"Michael Floyd","title":"Wildlife Biologist (Recovery)","email":"mike_floyd@fws.gov","phone":"502-695-0468 ext. 102"}
+,
+{"state":"Kentucky","type":"Field Office","station":"Kentucky Ecological Services Field Office","name":"Jennifer Garland","title":"Deputy Field Supervisor","email":"jennifer_garland@fws.gov","phone":"502-695-0468 ext. 115"}
+,
+{"state":"Kentucky","type":"Field Office","station":"Kentucky Ecological Services Field Office","name":"Brent Harrel","title":"Private Lands Coordinator","email":"brent_harrel@fws.gov","phone":"502-229-4630"}
+,
+{"state":"Kentucky","type":"Field Office","station":"Kentucky Ecological Services Field Office","name":"Teresa Hyatt","title":"Administrative Assistant","email":"teresa_hyatt@fws.gov","phone":"502-695-0468 ext. 109"}
+,
+{"state":"Kentucky","type":"Field Office","station":"Kentucky Ecological Services Field Office","name":"Leroy Koch","title":"Senior Biologist (Ohio River Coordinator)","email":"leroy_koch@fws.gov","phone":"502-695-0468 ext. 106"}
+,
+{"state":"Kentucky","type":"Field Office","station":"Kentucky Ecological Services Field Office","name":"Santiago Martin","title":"Wildlife Biologist (Consultation)","email":"santiago_martin@fws.gov","phone":"502-695-0468 ext. 116"}
+,
+{"state":"Kentucky","type":"Field Office","station":"Kentucky Ecological Services Field Office","name":"Jessi Miller","title":"Wildlife Biologist (Pre-Development Consultation)","email":"jessica_miller@fws.gov","phone":"502-695-0468 ext. 104"}
+,
+{"state":"Kentucky","type":"Hatchery","station":"Wolf Creek National Fish Hatchery","name":"James H. Gray","title":"Project Leader","email":"james_gray@fws.gov","phone":"270-343-3797 ext. 21"}
+,
+{"state":"Kentucky","type":"Hatchery","station":"Wolf Creek National Fish Hatchery","name":"Shelia Kirk","title":"Deputy Project Leader","email":"shelia_kirk@fws.gov","phone":"270-343-3797 ext. 27"}
+,
+{"state":"Kentucky","type":"Hatchery","station":"Wolf Creek National Fish Hatchery","name":"Teresa DeVore","title":"Office Assistant","email":"teresa_devore@fws.gov","phone":"270-343-3797 ext. 34"}
+,
+{"state":"Kentucky","type":"Hatchery","station":"Wolf Creek National Fish Hatchery","name":"Bob Clark","title":"Fish Biologist","email":"bob_clark@fws.gov","phone":"270-343-3797 ext. 32"}
+,
+{"state":"Kentucky","type":"Hatchery","station":"Wolf Creek National Fish Hatchery","name":"Chris Murphy","title":"Biological Science Technician","email":"christopher_murphy@fws.gov","phone":"270-343-3797 ext. 32"}
+,
+{"state":"Kentucky","type":"Hatchery","station":"Wolf Creek National Fish Hatchery","name":"Alan Kimbler","title":"Biological Science Technician","email":"alan_kimbler@fws.gov","phone":"270-343-3797 ext. 32"}
+,
+{"state":"Kentucky","type":"Hatchery","station":"Wolf Creek National Fish Hatchery","name":"Todd McGowan","title":"Facility Operations Specialist","email":"eric_mcgowan@fws.gov","phone":"270-343-3797 ext. 32"}
+,
+{"state":"Kentucky","type":"Hatchery","station":"Wolf Creek National Fish Hatchery","name":"Moria Painter","title":"Environmental Education/Outreach Specialist","email":"moria_painter@fws.gov","phone":"270-343-3797 ext. 24"}
+,
+{"state":"Kentucky","type":"Hatchery","station":"Wolf Creek National Fish Hatchery","name":"Ashley Buffington","title":"Environmental Education/Outreach Specialist","email":"ashley_buffington@fws.gov","phone":"270-343-3797 ext. 25"}
+,
+{"state":"North Carolina","type":"Field Office","station":"Raleigh Ecological Services Field Office","name":"Pete Benjamin","title":"Field Supervisor","email":"pete_benjamin@fws.gov","phone":"919-856-4520 ext. 11"}
+,
+{"state":"North Carolina","type":"Field Office","station":"Raleigh Ecological Services Field Office","name":"Tom Augspurger","title":"Ecologist (Wildlife Toxicology, Contaminants)","email":"tom_augspurger@fws.gov","phone":"919-856-4520 ext. 21"}
+,
+{"state":"North Carolina","type":"Field Office","station":"Raleigh Ecological Services Field Office","name":"Matthew Butts","title":"Administrative Officer","email":"matthew_butts@fws.gov","phone":"919-856-4520, ext. 13"}
+,
+{"state":"North Carolina","type":"Field Office","station":"Raleigh Ecological Services Field Office","name":"John Ellis","title":"Fish and Wildlife Biologist (Habitat Conservation Planning, federal project review, hydroelectric project review)","email":"john_ellis@fws.gov","phone":"919-856-4520, ext. 26"}
+,
+{"state":"North Carolina","type":"Field Office","station":"Raleigh Ecological Services Field Office","name":"John Hammond","title":"Fish and Wildlife Biologist (red-cockaded woodpecker, military liasion, migratory birds, consultation)","email":"john_hammond@fws.gov","phone":"919-856-4520, ext. 28"}
+,
+{"state":"North Carolina","type":"Field Office","station":"Raleigh Ecological Services Field Office","name":"Emily Wells","title":"Fish and Wildlife Biologist (Habitat Conservation Planning, federal project review)","email":"emily_wells@fws.gov","phone":"919-856-4520, ext. 25"}
+,
+{"state":"North Carolina","type":"Field Office","station":"Raleigh Ecological Services Field Office","name":"Gary Jordan","title":"Fish and Wildlife Biologist (transportation, consultation)","email":"gary_jordan@fws.gov","phone":"919-856-4520, ext. 32"}
+,
+{"state":"North Carolina","type":"Field Office","station":"Raleigh Ecological Services Field Office","name":"Wilson Laney","title":"Fishery Biologist","email":"wilson_laney@fws.gov","phone":"919-515-5019"}
+,
+{"state":"North Carolina","type":"Field Office","station":"Raleigh Ecological Services Field Office","name":"Leigh Mann","title":"Office Automation Clerk","email":"leigh_mann@fws.gov","phone":"919-856-4520, ext. 10"}
+,
+{"state":"North Carolina","type":"Field Office","station":"Raleigh Ecological Services Field Office","name":"Kathy Matthews","title":"Fish and Wildlife Biologist (wind energy, clean water, federal project review)","email":"kathryn_matthews@fws.gov","phone":"919-856-4520, ext. 27"}
+,
+{"state":"North Carolina","type":"Field Office","station":"Raleigh Ecological Services Field Office","name":"Sarah McRae","title":"Fish and Wildlife Biologist (listing, recovery, endangered species)","email":"sarah_mcrae@fws.gov","phone":"919-856-4520, ext. 16"}
+,
+{"state":"North Carolina","type":"Field Office","station":"Raleigh Ecological Services Field Office","name":"Doug Newcomb","title":"Cartographer (GIS, network administration)","email":"doug_newcomb@fws.gov","phone":"919-856-4520, ext. 14"}
+,
+{"state":"North Carolina","type":"Field Office","station":"Raleigh Ecological Services Field Office","name":"John Ann Shearer","title":"State Coordinator, Partners for Fish and Wildlife","email":"johnann_shearer@fws.gov","phone":"919-856-4520, ext. 17"}
+,
+{"state":"North Carolina","type":"Field Office","station":"Raleigh Ecological Services Field Office","name":"Lilibeth Serrano","title":"Public Affairs Specialist","email":"lilibeth_serrano@fws.gov","phone":"252-933-2255"}
+,
+{"state":"North Carolina","type":"Field Office","station":"Raleigh Ecological Services Field Office","name":"Dale Suiter","title":"Fish and Wildlife Biologist (listing, recovery, invasive species)","email":"dale_suiter@fws.gov","phone":"919-856-4520, ext. 18"}
+,
+{"state":"North Carolina","type":"Field Office","station":"Raleigh Ecological Services Field Office","name":"Sara Ward","title":"Ecologist (Wildlife Toxicology, Contaminants, NRDAR)","email":"sara_ward@fws.gov","phone":"919-856-4520, ext. 30"}
+,
+{"state":"North Carolina","type":"Field Office","station":"Raleigh Ecological Services Field Office","name":"Mike Wicker","title":"Fish and Wildlife Biologist (Coastal Coordinator)","email":"mike_wicker@fws.gov","phone":"919-856-4520, ext. 22"}
+,
+{"state":"North Carolina","type":"Field Office","station":"Sandhills Field Office","name":"Laura Fogo","title":"Partners for Fish and Wildlife Biologist","email":"laura_fogo@fws.gov","phone":"910-695-3323"}
+,
+{"state":"North Carolina","type":"Field Office","station":"Sandhills Field Office","name":"Caroline Krom","title":"Biological Science Technician (red-cocakded woodpecker, safe harbor program)","email":"caroline_george@fws.gov","phone":"910-695-3323"}
+,
+{"state":"North Carolina","type":"Field Office","station":"Sandhills Field Office","name":"Susan Miller","title":"Fish and Wildlife Biologist (red-cockaded woodpecker, safe harbor program)","email":"susan_miller@fws.gov","phone":"910-695-3323"}
+,
+{"state":"North Carolina","type":"Field Office","station":"Manteo Field Office","name":"George \"Nate\" Colby","title":"Program Assistant (FOIA)","email":"george_colby@fws.gov","phone":"252-473-1132 ext. 243"}
+,
+{"state":"North Carolina","type":"Field Office","station":"Manteo Field Office","name":"Chris Lucash","title":"Wildlife Biologist (northern long-eared bat, red wolf)","email":"chris_lucash@fws.gov","phone":"252-475-8259"}
+,
+{"state":"North Carolina","type":"Field Office","station":"Manteo Field Office","name":"Michael Morse","title":"Wildlife Biologist (northern long-eared bat, red wolf)","email":"michael_l_morse@fws.gov","phone":"252-473-1132 ext. 242"}
+,
+{"state":"North Carolina","type":"Field Office","station":"Manteo Field Office","name":"Ryan Nordsven","title":"Wildlife Biologist (northern long-eared bat, red wolf)","email":"ryan_nordsven@fws.gov","phone":"252-473-1132 ext. 244"}
+,
+{"state":"North Carolina","type":"Field Office","station":"Manteo Field Office","name":"Shaun Olson","title":"Biological Science Technician (northern long-eared bat, red wolf, black rail)","email":"shaun_olson@fws.gov","phone":"252-473-1132 ext. 241"}
+,
+{"state":"North Carolina","type":"Field Office","station":"Asheville Ecological Services Field Office","name":"Janet Mizzi","title":"Field Supervisor","email":"janet_mizzi@fws.gov","phone":"828-258-3939 ext. 223"}
+,
+{"state":"North Carolina","type":"Field Office","station":"Asheville Ecological Services Field Office","name":"Mara Alexander","title":"Botanist","email":"mara_alexander@fws.gov","phone":"828-258-3939 ext. 238"}
+,
+{"state":"North Carolina","type":"Field Office","station":"Asheville Ecological Services Field Office","name":"Marella Buncick","title":"Transportation project review","email":"marella_buncick@fws.gov","phone":"828-258-3939 ext. 237"}
+,
+{"state":"North Carolina","type":"Field Office","station":"Asheville Ecological Services Field Office","name":"Bob Butler","title":"Aquatic animals","email":"bob_butler@fws.gov","phone":"828-258-3939 ext. 235"}
+,
+{"state":"North Carolina","type":"Field Office","station":"Asheville Ecological Services Field Office","name":"Sue Cameron","title":"Terrestrial animals, endangered species","email":"susan_cameron@fws.gov","phone":"828-258-3939 ext. 224"}
+,
+{"state":"North Carolina","type":"Field Office","station":"Asheville Ecological Services Field Office","name":"Byran Tompkins","title":"Project review, Habitat Conservation Plans","email":"bryan_tompkins@fws.gov","phone":"828-258-3939 ext. 240"}
+,
+{"state":"North Carolina","type":"Field Office","station":"Asheville Ecological Services Field Office","name":"Nancy Cole","title":"Office Automation Assistant","email":"nancy_cole@fws.gov","phone":"828-258-3939 ext. 232"}
+,
+{"state":"North Carolina","type":"Field Office","station":"Asheville Ecological Services Field Office","name":"Kara Dziwulski","title":"Pathways Intern","email":"kara_dziwulski@fws.gov","phone":"828-258-3939 ext. 221"}
+,
+{"state":"North Carolina","type":"Field Office","station":"Asheville Ecological Services Field Office","name":"Mark Endries","title":"GIS Analyst","email":"mark_endries@fws.gov","phone":"828-258-3939 ext. 231"}
+,
+{"state":"North Carolina","type":"Field Office","station":"Asheville Ecological Services Field Office","name":"Kirk Gardner","title":"Pathways Intern","email":"kirk_gardner@fws.gov","phone":"828-258-3939 ext. 221"}
+,
+{"state":"North Carolina","type":"Field Office","station":"Asheville Ecological Services Field Office","name":"Anita Goetz","title":"Partners for Fish and Wildlife Biologist","email":"anita_goetz@fws.gov","phone":"828-258-3939 ext. 228"}
+,
+{"state":"North Carolina","type":"Field Office","station":"Asheville Ecological Services Field Office","name":"Byron Hamstead","title":"U.S. Army Corps of Engineers project review","email":"byron_hamstead@fws.gov","phone":"828-258-3939 ext. 225"}
+,
+{"state":"North Carolina","type":"Field Office","station":"Asheville Ecological Services Field Office","name":"Andrew Henderson","title":"Tranportation project review","email":"andrew_henderson@fws.gov","phone":"828-258-3939 ext. 227"}
+,
+{"state":"North Carolina","type":"Field Office","station":"Asheville Ecological Services Field Office","name":"Amber Kivett","title":"Pathways Intern","email":"amber_kivett@fws.gov","phone":"828-258-3939 ext. 239"}
+,
+{"state":"North Carolina","type":"Field Office","station":"Asheville Ecological Services Field Office","name":"Jason Mays","title":"Aquatic animals","email":"jason_mays@fws.gov","phone":"828-258-3939 ext. 226"}
+,
+{"state":"North Carolina","type":"Field Office","station":"Asheville Ecological Services Field Office","name":"Gary Peeples","title":"Public Affairs Specialist","email":"gary_peeples@fws.gov","phone":"828-258-3939 ext. 234"}
+,
+{"state":"North Carolina","type":"Field Office","station":"Asheville Ecological Services Field Office","name":"Allen Ratzlaff","title":"Project review","email":"allen_ratzlaff@fws.gov","phone":"828-258-3939 ext. 229"}
+,
+{"state":"North Carolina","type":"Field Office","station":"Asheville Ecological Services Field Office","name":"Laura Rogers","title":"Administrative Officer","email":"laura_rogers@fws.gov","phone":"828-258-3939 ext. 222"}
+,
+{"state":"North Carolina","type":"Field Office","station":"North Carolina Migratory Bird Field Office","name":"John Stanton","title":"Project Leader","email":"john_stanton@fws.gov","phone":"252-796-2400"}
+,
+{"state":"North Carolina","type":"Field Office","station":"North Carolina Migratory Bird Field Office","name":"Kendall Smith","title":"Private Lands Biologist","email":"kendall_smith@fws.gov","phone":"252-796-2401"}
+,
+{"state":"North Carolina","type":"Hatchery","station":"Edenton National Fish Hatchery","name":"Stephen Jackson","title":"Hatchery Manager","email":"stephen_jackson@fws.gov","phone":"252-482-4118 ext. 24"}
+,
+{"state":"North Carolina","type":"Hatchery","station":"Edenton National Fish Hatchery","name":"Sam Pollock","title":"Deputy Hatchery Manager","email":"sam_pollock@fws.gov","phone":"252-482-4118 ext. 23"}
+,
+{"state":"North Carolina","type":"Hatchery","station":"Edenton National Fish Hatchery","name":"Marie Bullock","title":"Administrative Assistant","email":"edith_bullock@fws.gov","phone":"252-482-4118 ext. 21"}
+,
+{"state":"North Carolina","type":"Hatchery","station":"Edenton National Fish Hatchery","name":"Bud Clayton","title":"Engineering Equipment Operator","email":"bud_clayton@fws.gov","phone":"252-482-4118 ext. 22"}
+,
+{"state":"North Carolina","type":"Hatchery","station":"Edenton National Fish Hatchery","name":"Aubrey Onley","title":"Facility Operations Specialist","email":"aubrey_onley@fws.gov","phone":"252-482-4118 ext. 22"}
+,
+{"state":"North Carolina","type":"Hatchery","station":"Edenton National Fish Hatchery","name":"Brandi Potter","title":"Fisheries Technician","email":"brandi_potter@fws.gov","phone":"252-482-4118 ext. 22"}
+,
+{"state":"North Carolina","type":"Refuge","station":"Alligator River National Wildlife Refuge","name":"Mike Bryant","title":"Project Leader","email":"mike_bryant@fws.gov","phone":"252-473-1131 ext. 222"}
+,
+{"state":"North Carolina","type":"Refuge","station":"Alligator River National Wildlife Refuge","name":"Scott Lanier","title":"Deputy Project Leader","email":"scott_lanier@fws.gov","phone":"252-473-1131 ext. 223"}
+,
+{"state":"North Carolina","type":"Refuge","station":"Alligator River National Wildlife Refuge","name":"Art Beyer","title":"Assistant Refuge Manager","email":"arthur_beyer@fws.gov","phone":"252-473-1131 ext. 235"}
+,
+{"state":"North Carolina","type":"Refuge","station":"Alligator River National Wildlife Refuge","name":"Kelley Van Druten","title":"Assistant Refuge Manager","email":"kelley_vandruten@fws.gov","phone":"252-473-1131 ext. 239"}
+,
+{"state":"North Carolina","type":"Refuge","station":"Alligator River National Wildlife Refuge","name":"Bonnie Strawser","title":"Visitor Services Manager","email":"bonnie_strawser@fws.gov","phone":"252-473-1131 ext. 230"}
+,
+{"state":"North Carolina","type":"Refuge","station":"Alligator River National Wildlife Refuge","name":"Bert Plante","title":"Fire Management Officer","email":"bert_plante@fws.gov","phone":"252-473-1131 ext. 236"}
+,
+{"state":"North Carolina","type":"Refuge","station":"Alligator River National Wildlife Refuge","name":"Kathy McMahan","title":"Administrative Officer","email":"kathleen_mcmahan@fws.gov","phone":"252-473-1131 ext. 225"}
+,
+{"state":"North Carolina","type":"Refuge","station":"Alligator River National Wildlife Refuge","name":"Cindy Heffley","title":"Visitor Services Specialist (interpretation, education, volunteers)","email":"cindy_heffley@fws.gov","phone":"252-475-4180"}
+,
+{"state":"North Carolina","type":"Refuge","station":"Alligator River National Wildlife Refuge","name":"Tracey Rock","title":"Volunteer Coordinator","email":"tracey_rock@fws.gov","phone":"252-473-1131 ext. 227"}
+,
+{"state":"North Carolina","type":"Refuge","station":"Alligator River National Wildlife Refuge","name":"Mary Grindlay","title":"Gift Shop Manager","email":"mary_grindlay@fws.gov","phone":"252-473-1131 ext. 226"}
+,
+{"state":"North Carolina","type":"Refuge","station":"Alligator River National Wildlife Refuge","name":"Steve Brumfield","title":"Program Registration, Wings Over Water Coordinator","email":"steve_brumfield@fws.gov","phone":"252-473-1131 ext. 224"}
+,
+{"state":"North Carolina","type":"Refuge","station":"Cedar Island National Wildlife Refuge","name":"Pete Campbell","title":"Refuge Manager","email":"pete_campbell@fws.gov","phone":"252-926-4021 ext. 24"}
+,
+{"state":"North Carolina","type":"Refuge","station":"Cedar Island National Wildlife Refuge","name":"Keith Ramos","title":"Deputy Refuge Manager","email":"keith_ramos@fws.gov","phone":"252-926-4021 ext. 22"}
+,
+{"state":"North Carolina","type":"Refuge","station":"Cedar Island National Wildlife Refuge","name":"Debbie McGowan","title":"Administrative Officer","email":"debbie_mcgowan@fws.gov","phone":"252-926-4021 ext. 23"}
+,
+{"state":"North Carolina","type":"Refuge","station":"Mackay Island National Wildlife Refuge","name":"Mike Hoff","title":"Refuge Manager","email":"mike_hoff@fws.gov","phone":"252-429-3100"}
+,
+{"state":"North Carolina","type":"Refuge","station":"Mackay Island National Wildlife Refuge","name":"Susan Spry","title":"Administrative Support Assistant","email":"susan_spry@fws.gov","phone":"252-429-3100 ext. 21"}
+,
+{"state":"North Carolina","type":"Refuge","station":"Pee Dee National Wildlife Refuge","name":"J.D. Bricken","title":"Refuge Manager","email":"jeffrey_bricken@fws.gov","phone":"704-694-4424"}
+,
+{"state":"North Carolina","type":"Refuge","station":"Pee Dee National Wildlife Refuge","name":"Greg Walmsley","title":"Deputy Refuge Manager","email":"greg_walmsley@fws.gov","phone":"704-694-4424"}
+,
+{"state":"North Carolina","type":"Refuge","station":"Pocosin Lakes National Wildlife Refuge","name":"Refuge Manager","title":"Howard Phillips","email":"howard_phillips@fws.gov","phone":"252-796-3004"}
+,
+{"state":"North Carolina","type":"Refuge","station":"Roanoke River National Wildlife Refuge","name":"Refuge Manager","title":"Matt Connolly","email":"matt_connolly@fws.gov","phone":"252-794-3808 ext. 105"}
+,
+{"state":"North Carolina","type":"Refuge","station":"Roanoke River National Wildlife Refuge","name":"Biologist","title":"Jean Richter","email":"jean_richter@fws.gov","phone":"252-794-3808 ext. 101"}
+,
+{"state":"North Carolina","type":"Refuge","station":"Roanoke River National Wildlife Refuge","name":"Biological Technician","title":"Rose Railey","email":"rosetta_railey@fws.gov","phone":"252-794-3808 ext. 102"}
+,
+{"state":"North Carolina","type":"Refuge","station":"Roanoke River National Wildlife Refuge","name":"Office Administration, Junior Duck Stamp Coordinator","title":"Sherrie Jager","email":"sherrie_jager@fws.gov","phone":"252-794-3808 ext. 100"}
+,
+{"state":"North Carolina","type":"Refuge","station":"Pea Island National Wildlife Refuge","name":"Cindy Heffley","title":"Visitor Services Specialist (interpretation, education, volunteers)","email":"cindy_heffley@fws.gov","phone":"252-475-4180"}
+,
+{"state":"North Carolina","type":"Refuge","station":"Pea Island National Wildlife Refuge","name":"Tracey Rock","title":"Volunteer Coordinator","email":"tracey_rock@fws.gov","phone":"252-473-1131 ext. 227"}
+,
+{"state":"North Carolina","type":"Refuge","station":"Pea Island National Wildlife Refuge","name":"Mary Grindlay","title":"Gift Shop Manager","email":"mary_grindlay@fws.gov","phone":"252-473-1131 ext. 226"}
+,
+{"state":"North Carolina","type":"Refuge","station":"Pea Island National Wildlife Refuge","name":"Steve Brumfield","title":"Program Registration, Wings Over Water Coordinator","email":"steve_brumfield@fws.gov","phone":"252-473-1131 ext. 224"}
+,
+{"state":"Alabama","type":"Field Office","station":"Migratory Bird Program Field Office","name":"Karen Frizzel","title":"Office Assistant","email":"karen_frizzel@fws.gov","phone":"334-844-4796"}
+,
+{"state":"Alabama","type":"Refuge","station":"Bon Secour National Wildlife Refuge","name":"Denise Mcinturff","title":"Park Ranger","email":"denise_mcinturff@fws.gov","phone":"251-540-7720"}
+,
+{"state":"Alabama","type":"Refuge","station":"Bon Secour National Wildlife Refuge","name":"Brittany Petersen","title":"Assistant Refuge Manager","email":"brittany_petersen@fws.gov","phone":"251-540-8524"}
+,
+{"state":"Alabama","type":"Refuge","station":"Bon Secour National Wildlife Refuge","name":"Jackie Sablan","title":"Wildlife Biologist","email":"jacqueline_sablan@fws.gov","phone":"251-540-8523"}
+,
+{"state":"Alabama","type":"Refuge","station":"Bon Secour National Wildlife Refuge","name":"Alyssa Getz","title":"Intern","email":"alyssa_getz@fws.gov","phone":"251-540-7720"}
+,
+{"state":"Alabama","type":"Refuge","station":"Eufaula National Wildlife Refuge","name":"John Earle","title":"Refuge Manager","email":"john_earle@fws.gov","phone":"334-687-4065"}
+,
+{"state":"Alabama","type":"Refuge","station":"Eufaula National Wildlife Refuge","name":"Cyndi Hall","title":"Environmental Education Specialist","email":"cynthia_n_hall@fws.gov","phone":"334-845-0673"}
+,
+{"state":"Alabama","type":"Refuge","station":"Wheeler National Willdife Refuge","name":"Dwight Cooley","title":"Project Leader","email":"dwight_cooley@fws.gov","phone":"256-353-7243"}
+,
+{"state":"Alabama","type":"Refuge","station":"Wheeler National Willdife Refuge","name":"Teresa Adams","title":"Supervisory Park Ranger","email":"teresa_adams@fws.gov","phone":"256-350-6639"}
+,
+{"state":"Alabama","type":"Field Office","station":"Daphne Ecological Services Field Office","name":"Bill Pearson","title":"Field Supervisor","email":"bill_pearson@fws.gov","phone":"251-441-5181"}
+,
+{"state":"Alabama","type":"Field Office","station":"Daphne Ecological Services Field Office","name":"Jeff Powell","title":"Deputy Field Supervisor","email":"jeff_powell@fws.gov","phone":"251-441-5858"}
+,
+{"state":"Alabama","type":"Field Office","station":"Daphne Ecological Services Field Office","name":"Eric Spadgenske","title":"State Coordinator, Partners for Fish and Wildlife","email":"eric_spadgenske@fws.gov","phone":"251-441-5872"}
+,
+{"state":"Alabama","type":"Field Office","station":"Daphne Ecological Services Field Office","name":"Bill Lynn","title":"Fish and Wildlife Biologist (Endangered Species Act permitting, consultation)","email":"william_lynn@fws.gov","phone":"251-441-5868"}
+,
+{"state":"Alabama","type":"Field Office","station":"Daphne Ecological Services Field Office","name":"Shannon Holbrook","title":"Fish and Wildlife Biologist (grants, endangered plants)","email":"shannon_holbrook@fws.gov","phone":"251-441-5171"}
+,
+{"state":"Alabama","type":"Field Office","station":"Daphne Ecological Services Field Office","name":"Tim Mullet","title":"Wildlife Biologist (landscape ecologist)","email":"tim_mullet@fws.gov","phone":"251-441-5181"}
+]
