@@ -1,0 +1,36 @@
+{
+  "name": "five-year-reviews",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "browserify": {
+    "transform": [
+      "jadeify",
+      "brfs"
+    ]
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "csv2json": "csv2json documents.csv > documents.js",
+    "browserify": "browserify index.js | uglifyjs -mc > ../../../site/static/js/five-year-reviews.js",
+    "watchify": "watchify index.js -o ../../../site/static/js/five-year-reviews.js -dv",
+    "build": "npm run csv2json && npm run browserify",
+    "start": "npm run csv2json && npm run watchify"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "brfs": "^1.4.3",
+    "browserify": "^13.1.0",
+    "csv2json": "^1.1.0",
+    "jade": "^1.11.0",
+    "jadeify": "^4.6.0",
+    "uglifyjs": "^2.4.10",
+    "watchify": "^3.7.0"
+  },
+  "dependencies": {
+    "lodash.foreach": "^4.4.1",
+    "moment": "^2.14.1"
+  }
+}

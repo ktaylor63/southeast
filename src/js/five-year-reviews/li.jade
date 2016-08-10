@@ -1,0 +1,6 @@
+each animal in species
+  li
+    if animal.url
+      p| #[a(href=animal.url) #{animal.commonName}]
+    else
+      p= animal.commonName
