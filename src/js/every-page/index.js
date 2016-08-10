@@ -10,6 +10,8 @@
   var menu = require('fws-navigation');
   var nav = require('fws-scrollnav');
   var glossary = require('fws-glossary');
+  var contacts = require('./contacts');
+  var contactsDownloaded = false;
 
   var marker = new Marker(document.querySelector('#content'));
   var parallax = new Parallax('.parallax', { speed: 0.5 });
@@ -81,6 +83,10 @@
 
   Array.prototype.forEach.call(contactLinks, function (link) {
     link.addEventListener('click', function() {
+      if (!contactsDownloaded) {
+        contacts.init();
+        contactsDownloaded = true;
+      }
       toggleActiveClass(document.querySelector('.contact-drawer'));
     });
   });
