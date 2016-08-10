@@ -59,4 +59,6 @@ Instructions for submitting information are provided in the notices announcing t
 
 ## Index of Reviews of Southeastern Species
 
+<label for="review-search">Search:</label>
+<input type="search" class="five-year-review-search" placeholder="Filter documents eg: &ldquo;Fish,&rdquo; &ldquo;Endangered,&rdquo; etc." id="review-search">
 <ul class="five-year-review-list"></ul>
