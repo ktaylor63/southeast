@@ -11,7 +11,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "browserify": "browserify index.js | uglifyjs -mc > ../../../site/static/js/every-page.js",
-    "watchify": "watchify index.js -o ../../../site/static/js/every-page.js -dv"
+    "watchify": "watchify index.js -o ../../../site/static/js/every-page.js -dv",
+    "start": "npm run watchify",
+    "build": "npm run browserify"
   },
   "author": "Roy Hewitt <royhewitt07@gmail.com>",
   "license": "SAX-PD",
@@ -22,6 +24,7 @@
     "fws-navigation": "^1.1.0",
     "fws-scrollnav": "^1.4.0",
     "has-class": "^1.0.6",
+    "lodash.filter": "^4.5.1",
     "mark.js": "https://github.com/julmot/mark.js/archive/7.0.1.tar.gz",
     "parallax-scroll": "^0.3.0",
     "remove-class": "^1.0.0",
