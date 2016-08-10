@@ -1,0 +1,8 @@
+- var moment = require('moment');
+each animal in species
+  - var date = moment(animal.reviewDate).format('MM/DD/YYYY');
+  li
+    if animal.url
+      p| #{date}: #[a(href=animal.url) #{animal.commonName}] (#{animal.status})
+    else
+      p| #{date}: #{animal.commonName} (#{animal.status})

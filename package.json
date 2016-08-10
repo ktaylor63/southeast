@@ -27,6 +27,7 @@
   },
   "scripts": {
     "watch": "npm-watch",
+    "watchers": "npm run watch & npm run watch:sass & npm run lastmod",
     "json": "node build/minify-json",
     "hero": "node build/hero",
     "pages": "node build/images",
@@ -39,8 +40,8 @@
     "serve": "browser-sync start --server dist --files 'dist/**/*' --logLevel silent --reload-delay 1000",
     "watch:sass": "node-sass -w src/scss/styles.scss site/static/css/styles.css",
     "build:sass": "node-sass --output-style compressed src/scss/styles.scss | postcss -u autoprefixer -o site/static/css/styles.css",
-    "prestart": "npm run mkdist && npm run build:sass && npm run json && npm run hero",
-    "start": "npm run watch & npm run watch:sass & npm run lastmod & npm run hugo:dev & npm run serve",
+    "prestart": "npm run mkdist && npm run build:sass && npm run json && npm run hero && npm run hugo:dev",
+    "start": "npm run watchers & npm run serve",
     "build": "npm run json && npm run hero && npm run pages && npm run svg && npm run build:sass",
     "deploy": "npm run build && npm run hugo:pro",
     "stage": "npm run build && npm run hugo:stage"
@@ -64,7 +65,7 @@
     "mkdirp": "^0.5.1",
     "moment": "^2.12.0",
     "node-sass": "^3.7.0",
-    "npm-watch": "^0.1.1",
+    "npm-watch": "^0.1.6",
     "postcss-cli": "^2.5.1",
     "replace-in-file": "^1.0.2",
     "rimraf": "^2.5.2",
