@@ -23,8 +23,18 @@ img {
 }
 
 .photo-center {
+  display: block;
   margin: 3em auto;
   text-align: center;
+}
+
+.photo-right {
+  margin: 3em auto;
+
+  @media (min-width: $break-lg) {
+    float: right;
+    margin: 0 0 1em 1em;
+  }
 }
 
 .photo {
