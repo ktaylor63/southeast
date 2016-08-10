@@ -1,0 +1,3 @@
+each person in contacts
+  - var email = 'mailto:' + person.email;
+  li| #[a(href=email) #{person.name}], #{person.title}, #{person.phone}
