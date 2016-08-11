@@ -11,7 +11,7 @@ hero:
     alt: 'A white/gray butterfly with black spots blends into a flower bloom of similar color and markings.'
     link: 'https://flic.kr/p/bJQ2s4'
     caption: 'The endangered Miami blue butterfly feeds on a flower. © Holly Salvato. Used with permission.'
-updated: 'August 10th, 2016'
+updated: 'August 11th, 2016'
 ---
 
 To make sure that all species listed as threatened or endangered under the Endangered Species Act continue to have the appropriate level of protection, we conduct assessments of their status once every five years. We call these **five-year reviews**.
@@ -60,5 +60,10 @@ Instructions for submitting information are provided in the notices announcing t
 ## Index of Reviews of Southeastern Species
 
 <label for="review-search">Search:</label>
-<input type="search" class="five-year-review-search" placeholder="Filter documents eg: &ldquo;Fish,&rdquo; &ldquo;Endangered,&rdquo; etc." id="review-search">
+<div class="search-group">
+  <input type="search" class="five-year-review-search" placeholder="Filter documents eg: &ldquo;Fish,&rdquo; &ldquo;Endangered,&rdquo; etc." id="review-search">
+  <svg class="search-icon">
+    <use xlink:href="#search"></use>
+  </svg>
+</div>
 <ul class="five-year-review-list"></ul>
