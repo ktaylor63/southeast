@@ -3,7 +3,12 @@
   <h2>Contact Us:</h2>
 
   <label for="contact-list">Search:</label>
-  <input type="search" class="contact-list-search" id="contact-list">
+  <div class="search-group">
+    <input type="search" class="contact-list-search" id="contact-list" placeholder="Filter by name, title, duty station, or state">
+    <svg class="search-icon">
+      <use xlink:href="#search"></use>
+    </svg>
+  </div>
 
   <ul class="contact-list"></ul>
 </aside>
