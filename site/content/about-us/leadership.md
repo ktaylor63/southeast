@@ -28,7 +28,7 @@ Before becoming the Regional Director, Cindy served as Deputy Regional Director 
 
 ## Mike Oetker, Deputy Regional Director
 
-{{< figure class="photo-right" src="/images/pages/michael-oetker-bio.jpg" alt="Portrait shot of a man with a goatee wearing a suit and tie" caption="Cindy Dohner. Photo by Tom MacKenzie, USFWS." >}}
+{{< figure class="photo-right" src="/images/pages/michael-oetker-bio.jpg" alt="Portrait shot of a man with a goatee wearing a suit and tie" caption="Mike Oetker." >}}
 
 Mike Oetker is the Deputy Regional Director of the U.S. Fish and Wildlife Service’s Southeast Region where he oversees the agency’s operations involving more than 1,300 employees spread out over 10 states and the Caribbean islands.  He has been with the Service for 17 years.  
 
