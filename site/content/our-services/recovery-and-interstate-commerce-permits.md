@@ -15,7 +15,7 @@ Type in the 6-digit alpha-numeric code associated with your permit. For example,
 
 
 <label for="permit-search">**Permit #:**</label>
-<div class="search-input">
+<div class="search-group">
   <input type="search" id="permit-search" placeholder="ex: 12345B-6"/>
   <svg class="search-icon">
     <use xlink:href="#search"></use>
