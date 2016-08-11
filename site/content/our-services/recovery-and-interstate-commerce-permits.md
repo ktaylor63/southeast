@@ -6,7 +6,7 @@ tags:
     - 'Endangered Species Act'
 description: 'A typical use of a recovery permit is to allow for scientific research on a listed species in order to understand better the species'' long-term survival needs. Interstate commerce permits also allow transport and sale of listed species across State lines (e.g., for purposes such as a breeding program).'
 js: /js/10a1a-permits.js
-updated: 'August 8th, 2016'
+updated: 'August 11th, 2016'
 ---
 
 ## What is the status of my permit?
@@ -15,7 +15,12 @@ Type in the 6-digit alpha-numeric code associated with your permit. For example,
 
 
 <label for="permit-search">**Permit #:**</label>
-<input type="search" id="permit-search" placeholder="ex: 12345B-6"/>
+<div class="search-input">
+  <input type="search" id="permit-search" placeholder="ex: 12345B-6"/>
+  <svg class="search-icon">
+    <use xlink:href="#search"></use>
+  </svg>
+</div>
 <div><strong class="output"></strong></div>
 
 **Statuses Last Updated: <span class="permits-last-updated"></span>**
