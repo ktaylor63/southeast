@@ -571,7 +571,7 @@
 ,
 {"commonName":"White-Haired Goldenrod","taxon":"Plant","status":"Threatened","reviewDate":"2009-03-03","url":"/pdf/five-year-reviews/white-haired-goldenrod-2009.pdf"}
 ,
-{"commonName":"White-Haired Goldenrod","taxon":"Plant","status":"Threatened","reviewDate":"2015-09-01","url":""}
+{"commonName":"White-Haired Goldenrod","taxon":"Plant","status":"Threatened","reviewDate":"2015-09-01","url":"/pdf/five-year-reviews/white-haired-goldenrod-2015.pdf"}
 ,
 {"commonName":"White-Irisette","taxon":"Plant","status":"Endangered","reviewDate":"2013-05-03","url":"/pdf/five-year-reviews/white-irisette.pdf"}
 ,
@@ -593,7 +593,7 @@
 ,
 {"commonName":"Flattened musk turtle","taxon":"Reptile","status":"Threatened","reviewDate":"2014-07-17","url":"/pdf/five-year-reviews/flattened-musk-turtle.pdf"}
 ,
-{"commonName":"Gopher tortoise","taxon":"Reptile","status":"Threatened","reviewDate":"2011-07-27","url":""}
+{"commonName":"Gopher tortoise","taxon":"Reptile","status":"Threatened","reviewDate":"2011-07-27","url":"/pdf/five-year-reviews/gopher-tortoise.pdf"}
 ,
 {"commonName":"Mona boa","taxon":"Reptile","status":"Threatened","reviewDate":"2014-11-16","url":"/pdf/five-year-reviews/mona-boa.pdf"}
 ,
