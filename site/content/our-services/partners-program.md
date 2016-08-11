@@ -11,7 +11,7 @@ hero:
     alt: 'A hand holds a wooden walking stick with a persons blurred torso in the background'
     caption: 'A biologist in a bog. <a href="https://flic.kr/p/rpRgQq">Photo</a> by Gary Peeples, USFWS.'
     link: 'https://flic.kr/p/rpRgQq'
-updated: 'August 9th, 2016'
+updated: 'August 11th, 2016'
 ---
 
 The Southeast Region Partners for Fish and Wildlife Program provides technical and financial assistance to private landowners interested in improving habitat for migratory birds, endangered, threatened and at-risk species while maintaining the their primary land management goals. This is a voluntary program in which landowners continue to manage their land for their objectives as well as for wildlife, which most of the time go-hand-in-hand.
@@ -79,6 +79,109 @@ Project work may include:
 ## The Landowner’s Role
 
 All participation in the Partners Program is voluntary.  If a project proceeds, landowners sign an agreement anywhere from 10 to 30 years committing to maintaining the goals of the project.  Landowners also contribute to the cost of the project, which can be in the form of a financial commitment but can also come in the form of labor, use of equipment, or other services. We also strive to incorporate cost share from any number of other partners.
+
+## How to Get Started
+
+1. Contact your State Coordinator to initiate the process and set up a site visit.
+2. A biologist will set up an appointment to meet with you and determine what tools will best fit your needs. If a project proceeds, you will work one-on-one with a local Service biologist to develop a project plan that addresses your goals and objectives, and benefits the wildlife and plant species on your land.
+3. To implement a project, a cooperative agreement with a minimum duration of 10 years is signed. You will be reimbursed after project completion, based on the cost-sharing formula in your agreement.
+
+## State Coordinator Contacts
+
+### Alabama
+[Eric Spadgenske](mailto:Eric_Spadgenske@fws.gov?subject=Partners+for+Fish+and+Wildlife+Program) <br>
+1208-B Main St. <br>
+Daphne, AL 36526 <br>
+Phone: (251) 441-5872 <br>
+Fax: (251) 441-6222 <br>
+Website: [fws.gov/daphne/Partners/pfw.html](https://www.fws.gov/daphne/Partners/pfw.html)
+
+### Arkansas
+[Joe Krystofik](mailto:Joe_Krystofik@fws.gov?subject=Partners+for+Fish+and+Wildlife+Program) <br>
+110 South Amity, Suite 300 <br>
+Conway, AR 72032 <br>
+Phone: (501) 513-4479 <br>
+Fax: (501) 513-4480
+
+### Commonwealth of Puerto Rico and the U.S. Virgin Islands
+[Ivan Llerandi-Roman](mailto:Ivan_Llerandi-Roman@fws.gov?subject=Partners+for+Fish+and+Wildlife+Program) <br>
+P.O. Box 491 <br>
+Boqueron, PR 00622-0491 <br>
+Phone: (787) 851-7297, Ext. 224 <br>
+Fax: (787) 851-7440
+
+### Florida
+[Stan Simpkins](mailto:Stan_Simpkins@fws.gov?subject=Partners+for+Fish+and+Wildlife+Program) <br>
+7915 Baymeadows Way, Suite 200 <br>
+Jacksonville, FL 32256-7517 <br>
+Phone: (904) 731-3096 <br>
+Fax: (904) 731-3045
+
+### Georgia
+[Robert Brooks](mailto:Robert_Brooks@fws.gov?subject=Partners+for+Fish+and+Wildlife+Program) <br>
+4980 Wildlife Drive, NE <br>
+Townsend, GA 31331 <br>
+Phone: (912) 832-8739, ext 4 <br>
+Fax: (912) 832-8744 <br>
+Website: [fws.gov/athens/partners.html](https://www.fws.gov/athens/partners.html)
+
+### Kentucky
+[J. Brent Harrel](mailto:Brent_harrel@fws.gov?subject=Partners+for+Fish+and+Wildlife+Program) <br>
+330 West Broadway, J. C. Watts Federal Bldg., RM 265 <br>
+Frankfort, KY 40601 <br>
+Phone: (502) 695-0468, ext 104 <br>
+Fax: (502) 695-1024 <br>
+Website: [fws.gov/frankfort/partners.html](https://www.fws.gov/frankfort/partners.html)
+
+### Louisiana
+[Andrew Dolan](mailto:Andrew_Dolan@fws.gov?subject=Partners+for+Fish+and+Wildlife+Program) <br>
+646 Cajundome Blvd., Suite 400 <br>
+Lafayette, LA 70506 <br>
+Phone: (337) 291-3119 <br>
+Fax: (337) 291-3139 <br>
+Website: [fws.gov/lafayette/pfw_program.html](https://www.fws.gov/lafayette/pfw_program.html)
+
+### Mississippi
+[Jeffrey Lee](mailto:Jeffrey_Lee@fws.gov?subject=Partners+for+Fish+and+Wildlife+Program) <br>
+6578 Dogwood View Parkway, Suite A <br>
+Jackson, MS 39213 <br>
+Phone: (601) 321-1138 <br>
+Fax: (601) 965-4340 <br>
+Website: [fws.gov/mississippiES/partners3.html](https://www.fws.gov/mississippiES/partners3.html)
+
+### North Carolina
+[John Ann Shearer](mailto:JohnAnn_Shearer@fws.gov?subject=Partners+for+Fish+and+Wildlife+Program) <br>
+551-F Pylon Drive <br>
+P.O. Box 33726 <br>
+Raleigh, NC 27636-3726 <br>
+Phone: (919) 856-4520, ext 17 <br>
+Fax: (919) 856-4556 <br>
+Website: [fws.gov/raleigh/pfw.html](https://www.fws.gov/raleigh/pfw.html)
+
+### South Carolina
+[Joe Cockrell](mailto:Joe_Cockrell@fws.gov?subject=Partners+for+Fish+and+Wildlife+Program) <br>
+176 Croghan Spur Road, Suite 200 <br>
+Charleston, SC 29407 <br>
+Phone: (843) 300-0425 <br>
+Fax: (843) 727-4218 <br>
+Website: [fws.gov/charleston/partners.html](https://www.fws.gov/charleston/partners.html)
+
+### Tennessee
+[Timothy Watkins](mailto:Timothy_Watkins@fws.gov?subject=Partners+for+Fish+and+Wildlife+Program) <br>
+446 Neal Street <br>
+Cookeville, TN 38501 <br>
+Phone: (931) 528-6481 <br>
+Fax: (931) 528-7075 <br>
+
+### For Additional Information
+
+Contact our Regional Coordinator for the Partners Program:
+
+**[Sergio Pierluissi](mailto:Sergio_Pierluissi@fws.gov?subject=Partners+for+Fish+and+Wildlife+Program)** <br>
+U.S. Fish and Wildlife Service <br>
+1875 Century Blvd., Suite 200 <br>
+Atlanta, GA 30345 <br>
+Phone: (404) 679-7138
 
 ## Annual Accomplishments
 
@@ -206,106 +309,3 @@ All participation in the Partners Program is voluntary.  If a project proceeds, 
     <p>This project along Meadow Branch, a tributary to Hickory Fork Creek in Tennessee, was designed to enhance habitat and improve water quality for several listed and at-risk species, including the Cumberland pigtoe, barrens darter, and barrens topminnow. To do this, 18,500 feet of fencing was installed to exclude livestock from the stream, which allowed for a natural buffer to protect the stream. In addition, multiple watering facilities and pipeline were provided for livestock once they were removed from the stream. Partners for this project included the Coffee County SCD, Tennessee Department of Agriculture, Southern Middle Tennessee RC&amp;D and NRCS. </p>
   </section>
 </div>
-
-## How to Get Started
-
-1. Contact your State Coordinator to initiate the process and set up a site visit.
-2. A biologist will set up an appointment to meet with you and determine what tools will best fit your needs. If a project proceeds, you will work one-on-one with a local Service biologist to develop a project plan that addresses your goals and objectives, and benefits the wildlife and plant species on your land.
-3. To implement a project, a cooperative agreement with a minimum duration of 10 years is signed. You will be reimbursed after project completion, based on the cost-sharing formula in your agreement.
-
-## State Coordinator Contacts
-
-### Alabama
-[Eric Spadgenske](mailto:Eric_Spadgenske@fws.gov?subject=Partners+for+Fish+and+Wildlife+Program) <br>
-1208-B Main St. <br>
-Daphne, AL 36526 <br>
-Phone: (251) 441-5872 <br>
-Fax: (251) 441-6222 <br>
-Website: [fws.gov/daphne/Partners/pfw.html](https://www.fws.gov/daphne/Partners/pfw.html)
-
-### Arkansas
-[Joe Krystofik](mailto:Joe_Krystofik@fws.gov?subject=Partners+for+Fish+and+Wildlife+Program) <br>
-110 South Amity, Suite 300 <br>
-Conway, AR 72032 <br>
-Phone: (501) 513-4479 <br>
-Fax: (501) 513-4480
-
-### Commonwealth of Puerto Rico and the U.S. Virgin Islands
-[Ivan Llerandi-Roman](mailto:Ivan_Llerandi-Roman@fws.gov?subject=Partners+for+Fish+and+Wildlife+Program) <br>
-P.O. Box 491 <br>
-Boqueron, PR 00622-0491 <br>
-Phone: (787) 851-7297, Ext. 224 <br>
-Fax: (787) 851-7440
-
-### Florida
-[Stan Simpkins](mailto:Stan_Simpkins@fws.gov?subject=Partners+for+Fish+and+Wildlife+Program) <br>
-7915 Baymeadows Way, Suite 200 <br>
-Jacksonville, FL 32256-7517 <br>
-Phone: (904) 731-3096 <br>
-Fax: (904) 731-3045
-
-### Georgia
-[Robert Brooks](mailto:Robert_Brooks@fws.gov?subject=Partners+for+Fish+and+Wildlife+Program) <br>
-4980 Wildlife Drive, NE <br>
-Townsend, GA 31331 <br>
-Phone: (912) 832-8739, ext 4 <br>
-Fax: (912) 832-8744 <br>
-Website: [fws.gov/athens/partners.html](https://www.fws.gov/athens/partners.html)
-
-### Kentucky
-[J. Brent Harrel](mailto:Brent_harrel@fws.gov?subject=Partners+for+Fish+and+Wildlife+Program) <br>
-330 West Broadway, J. C. Watts Federal Bldg., RM 265 <br>
-Frankfort, KY 40601 <br>
-Phone: (502) 695-0468, ext 104 <br>
-Fax: (502) 695-1024 <br>
-Website: [fws.gov/frankfort/partners.html](https://www.fws.gov/frankfort/partners.html)
-
-### Louisiana
-[Andrew Dolan](mailto:Andrew_Dolan@fws.gov?subject=Partners+for+Fish+and+Wildlife+Program) <br>
-646 Cajundome Blvd., Suite 400 <br>
-Lafayette, LA 70506 <br>
-Phone: (337) 291-3119 <br>
-Fax: (337) 291-3139 <br>
-Website: [fws.gov/lafayette/pfw_program.html](https://www.fws.gov/lafayette/pfw_program.html)
-
-### Mississippi
-[Jeffrey Lee](mailto:Jeffrey_Lee@fws.gov?subject=Partners+for+Fish+and+Wildlife+Program) <br>
-6578 Dogwood View Parkway, Suite A <br>
-Jackson, MS 39213 <br>
-Phone: (601) 321-1138 <br>
-Fax: (601) 965-4340 <br>
-Website: [fws.gov/mississippiES/partners3.html](https://www.fws.gov/mississippiES/partners3.html)
-
-### North Carolina
-[John Ann Shearer](mailto:JohnAnn_Shearer@fws.gov?subject=Partners+for+Fish+and+Wildlife+Program) <br>
-551-F Pylon Drive <br>
-P.O. Box 33726 <br>
-Raleigh, NC 27636-3726 <br>
-Phone: (919) 856-4520, ext 17 <br>
-Fax: (919) 856-4556 <br>
-Website: [fws.gov/raleigh/pfw.html](https://www.fws.gov/raleigh/pfw.html)
-
-### South Carolina
-[Joe Cockrell](mailto:Joe_Cockrell@fws.gov?subject=Partners+for+Fish+and+Wildlife+Program) <br>
-176 Croghan Spur Road, Suite 200 <br>
-Charleston, SC 29407 <br>
-Phone: (843) 300-0425 <br>
-Fax: (843) 727-4218 <br>
-Website: [fws.gov/charleston/partners.html](https://www.fws.gov/charleston/partners.html)
-
-### Tennessee
-[Timothy Watkins](mailto:Timothy_Watkins@fws.gov?subject=Partners+for+Fish+and+Wildlife+Program) <br>
-446 Neal Street <br>
-Cookeville, TN 38501 <br>
-Phone: (931) 528-6481 <br>
-Fax: (931) 528-7075 <br>
-
-### For Additional Information
-
-Contact our Regional Coordinator for the Partners Program:
-
-**[Sergio Pierluissi](mailto:Sergio_Pierluissi@fws.gov?subject=Partners+for+Fish+and+Wildlife+Program)** <br>
-U.S. Fish and Wildlife Service <br>
-1875 Century Blvd., Suite 200 <br>
-Atlanta, GA 30345 <br>
-Phone: (404) 679-7138
