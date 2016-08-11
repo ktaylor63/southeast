@@ -204,7 +204,7 @@ Phone: (404) 679-7138
   </section>
 
   <section class="page" data-state="AL">
-    <h2>Alabama</h2>
+    <h3>Alabama</h3>
 
     <img src="/images/pages/slackwater-darter.jpg" alt="Two slackwater darters swimming in an aquarium" class="photo-center">
     <p style="text-align: center;">Slackwater darter. Photo: Patrick Rakes, Conservation Fisheries International</p>
@@ -221,7 +221,7 @@ Phone: (404) 679-7138
   </section>
 
   <section class="page" data-state="AR">
-    <h2>Arkansas</h2>
+    <h3>Arkansas</h3>
 
     <img src="/images/pages/fowlplay-june-2015.jpg" alt="An open grassland covered in native wildflowers" class="photo-center">
 
@@ -231,7 +231,7 @@ Phone: (404) 679-7138
   </section>
 
   <section class="page" data-state="FL">
-    <h2>Florida</h2>
+    <h3>Florida</h3>
 
     <img src="/images/pages/rcw-cavity.jpg" alt="Biologists gather in an open forest" class="photo-center">
 
@@ -239,7 +239,7 @@ Phone: (404) 679-7138
   </section>
 
   <section class="page" data-state="GA">
-    <h2>Georgia</h2>
+    <h3>Georgia</h3>
 
     <img src="/images/pages/monarchs-across-georgia.jpg" alt="Two monarch caterpillars climb on a flowering plant" class="photo-center">
 
@@ -247,7 +247,7 @@ Phone: (404) 679-7138
   </section>
 
   <section class="page" data-state="KY">
-    <h2>Kentucky</h2>
+    <h3>Kentucky</h3>
 
     <img src="/images/pages/prescribed-burn-pollinator.jpg" alt="A tractor tending to an open grassland" class="photo-center">
 
@@ -255,7 +255,7 @@ Phone: (404) 679-7138
   </section>
 
   <section class="page" data-state="LA">
-    <h2>Louisiana</h2>
+    <h3>Louisiana</h3>
 
     <img src="/images/pages/louisiana-restore-native-vegetation.jpg" alt="A former agricultural land as an empty dirt field" class="photo-center">
 
@@ -266,7 +266,7 @@ Phone: (404) 679-7138
   </section>
 
   <section class="page" data-state="MS">
-    <h2>Mississippi</h2>
+    <h3>Mississippi</h3>
 
     <img src="/images/pages/fire-on-forty.jpg" alt="Bright orange flames engulf low lying vegetation" class="photo-center">
 
@@ -280,7 +280,7 @@ Phone: (404) 679-7138
   </section>
 
   <section class="page" data-state="NC">
-    <h2>North Carolina</h2>
+    <h3>North Carolina</h3>
 
     <img src="/images/pages/grassland-restoration.jpg" alt="Biologists gather in front of an info kiosk with a Partners for Fish and Wildlife program sign" class="photo-center">
 
@@ -292,7 +292,7 @@ Phone: (404) 679-7138
   </section>
 
   <section class="page" data-state="PR">
-    <h2>Puerto Rico</h2>
+    <h3>Puerto Rico</h3>
 
     <img src="/images/pages/dredging-sediments.jpg" alt="Visitors gather on a boardwalk looking over two ponds" class="photo-center">
 
@@ -302,7 +302,7 @@ Phone: (404) 679-7138
   </section>
 
   <section class="page" data-state="TN">
-    <h2>Tennessee</h2>
+    <h3>Tennessee</h3>
 
     <img src="/images/pages/meadow-branch-habitat-and-water-quality.jpg" alt="Fencing and vegetation along stream channels help to improve water quality and provide habitat to many species" class="photo-center">
 
