@@ -2,19 +2,24 @@
 
   input {
     padding-right: 35px;
+    width: 90%;
   }
 
-  button {
+  button,
+  .search-icon {
     background: transparent;
     border: none;
+    display: inline-block;
     left: -35px;
     margin-right: -35px;
     padding: 0;
     position: relative;
-    top: 9px;
+    top: 7px;
+  }
 
-    svg {
-      fill: $color-accent;
-    }
+  svg {
+    fill: $color-accent;
+    height: 25px;
+    width: 25px;
   }
 }
