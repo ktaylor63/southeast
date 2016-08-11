@@ -1,13 +1,13 @@
 @mixin drawer($item, $max-width: $drawer-width) {
   background: white;
+  bottom: 0;
   border-bottom-right-radius: $border-radius;
-  border-top-right-radius: $border-radius;
-  max-width: $max-width;
+  border-bottom-left-radius: $border-radius;
   overflow-y: scroll;
   padding: 2em 1em;
   position: fixed;
-  transition: transform .3s;
-  width: calc(100% - $nav-width);
+  transition: transform $transition-duration;
+  width: 100%;
   z-index: 5000;
 
   &.active {
@@ -18,14 +18,21 @@
     bottom: 0;
     left: 0;
     top: 0;
-    transform: translateX(-100%);
+    transform: translateY(-100%);
 
     &.active {
-      transform: translateX(0);
+      top: 80px;
+      transform: translateY(0);
 
       @media (min-width: $break-md) {
         left: $nav-width;
+        top: 0;
+        transform: translateX(0);
       }
+    }
+
+    @media (min-width: $break-md) {
+      transform: translateX(-100%);
     }
   }
 
@@ -33,15 +40,29 @@
     bottom: 0;
     right: 0;
     top: 0;
-    transform: translateX(100%);
+    transform: translateY(100%);
 
     &.active {
-      transform: translateX(0);
+      top: 80px;
+      transform: translateY(0);
 
       @media (min-width: $break-md) {
         left: $nav-width;
+        top: 0;
+        transform: translateX(0);
       }
     }
+
+    @media (min-width: $break-md) {
+      transform: translateX(100%);
+    }
+  }
+
+  @media (min-width: $break-md) {
+    border-top-right-radius: $border-radius;
+    border-bottom-left-radius: 0;
+    max-width: $max-width;
+    width: calc(100% - $nav-width);
   }
 
   .close-drawer {
