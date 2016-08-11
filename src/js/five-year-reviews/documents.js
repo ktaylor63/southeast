@@ -625,7 +625,7 @@
 ,
 {"commonName":"Olive Ridley Sea Turtle","taxon":"Reptile","status":"Threatened","reviewDate":"2007-08-21","url":"/pdf/five-year-reviews/olive-ridley-sea-turtle-2007.pdf"}
 ,
-{"commonName":"Olive Ridley Sea Turtle","taxon":"Reptile","status":"Threatened","reviewDate":"2014-06-18","url":""}
+{"commonName":"Olive Ridley Sea Turtle","taxon":"Reptile","status":"Threatened","reviewDate":"2014-06-18","url":"/pdf/five-year-reviews/olive-ridley-sea-turtle-2014.pdf"}
 ,
 {"commonName":"Noonday Globe","taxon":"Snail","status":"Threatened","reviewDate":"2013-10-28","url":"/pdf/five-year-reviews/noonday-globe.pdf"}
 ,
