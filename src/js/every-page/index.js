@@ -11,6 +11,7 @@
   var nav = require('fws-scrollnav');
   var glossary = require('fws-glossary');
   var contacts = require('./contacts');
+  var shortList = require('./short-list');
   var contactsDownloaded = false;
 
   var marker = new Marker(document.querySelector('#content'));
@@ -24,6 +25,10 @@
       terms;
 
   parallax.animate();
+
+  shortList.init({
+    elements: document.querySelectorAll('.fade-list')
+  });
 
   var lunrIndex = function () {
     this.field('name', { boost: 10 });
