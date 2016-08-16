@@ -22,7 +22,7 @@ In the hardwood hammocks near Key West, you might see the endangered Stock Islan
 The U.S. Fish and Wildlife Service is responsible for managing America’s trust resources in Florida for the benefit of the American people.  Using the best available science, we work to conserve and connect Florida’s unique ecosystems and habitats so that wild animals and plants can thrive.
 
 ## Refuges and Offices
-<iframe src="https://usfws.github.io/southeast-mega-map/?state=FL" class="state-map"></iframe>
+<iframe src="https://usfws.github.io/southeast-mega-map/?state=FL&scroll=false" class="state-map"></iframe>
 
 ## Frequently Asked Questions
 
