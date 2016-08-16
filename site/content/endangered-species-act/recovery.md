@@ -43,26 +43,26 @@ You can find the recovery plan for any protected species using our [Environmenta
 
 ## Successfully Recovered Species
  - American alligator
- - American peregrine falcon
- - Bald eagle
- - Brown pelican (on the Atlantic Coast)
- - Eggert’s sunflower
- - Louisiana black bear
- - Magazine mountain shagreen
- - Tennessee purple coneflower
+ - [American peregrine falcon](https://www.federalregister.gov/articles/1999/08/25/99-21959/endangered-and-threatened-wildlife-and-plants-final-rule-to-remove-the-american-peregrine-falcon)
+ - [Bald eagle](https://www.federalregister.gov/articles/2007/07/09/07-4302/endangered-and-threatened-wildlife-and-plants-removing-the-bald-eagle-in-the-lower-48-states-from)
+ - [Brown pelican (on the Atlantic Coast)](https://www.federalregister.gov/articles/2009/11/17/E9-27402/endangered-and-threatened-wildlife-and-plants-removal-of-the-brown-pelican-pelecanus-occidentalis)
+ - [Eggert’s sunflower](https://www.federalregister.gov/articles/2005/08/18/05-16274/endangered-and-threatened-wildlife-and-plants-removal-of-helianthus-eggertii)
+ - [Louisiana black bear](https://www.federalregister.gov/articles/2016/03/11/2016-05206/endangered-and-threatened-wildlife-and-plants-removal-of-the-louisiana-black-bear-from-the-federal), ([Species Profile](/wildlife/mammal/louisiana-black-bear))
+ - [Magazine mountain shagreen](https://www.federalregister.gov/articles/2013/05/15/2013-11541/endangered-and-threatened-wildlife-and-plants-removal-of-the-magazine-mountain-shagreen-from-the)
+ - [Tennessee purple coneflower](https://www.federalregister.gov/articles/2011/08/03/2011-19674/endangered-and-threatened-wildlife-and-plants-removal-of-echinacea-tennesseensis-tennessee-purple)
 
 ## Proposed Delistings Due to Recovery
- - Interior least tern
- - White haired goldenrod
+ - [Interior least tern](/pdf/five-year-reviews/interior-least-tern.pdf)
+ - [White haired goldenrod](https://www.federalregister.gov/articles/2015/09/01/2015-21410/endangered-and-threatened-wildlife-and-plants-removal-of-solidago-albopilosa-white-haired-goldenrod)
 
 ## Downlistings
  - American crocodile
- - Large-flowered skullcap
- - Louisiana pearlshell
- - Okaloosa darter
- - Snail darter
- - Tulotoma snail
- - Wood stork
+ - [Large-flowered skullcap](https://www.federalregister.gov/articles/2002/01/14/02-665/endangered-and-threatened-wildlife-and-plants-reclassification-of-scutellaria-montana)
+ - [Louisiana pearlshell](https://ecos.fws.gov/docs/federal_register/fr2419.pdf)
+ - [Okaloosa darter](https://www.federalregister.gov/articles/2011/04/01/2011-7668/endangered-and-threatened-wildlife-and-plants-reclassification-of-the-okaloosa-darter-from)
+ - [Snail darter](https://ecos.fws.gov/docs/federal_register/fr854.pdf)
+ - [Tulotoma snail](https://www.federalregister.gov/articles/2011/06/02/2011-13687/endangered-and-threatened-wildlife-and-plants-reclassification-of-the-tulotoma-snail-from-endangered)
+ - [Wood stork](https://www.federalregister.gov/articles/2014/06/30/2014-14761/endangered-and-threatened-wildlife-and-plants-reclassification-of-the-us-breeding-population-of-the)
 
 {{< figure class="photo" src="/images/pages/puerto-rican-parrot-banded.jpg" alt="A bright green parrot with a green band on it's right foot" caption="The endangered Puerto Rican parrot. Photo by Tom MacKenzie, USFWS. " link="https://flic.kr/p/9D3HVd" >}}
 
