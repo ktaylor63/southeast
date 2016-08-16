@@ -1,5 +1,5 @@
 ---
-title: 'U.S. Fish and Wildlife Service in Florida'
+title: Florida
 url: /florida
 hero:
     name: sunrise-at-florida-panther.jpg
@@ -51,6 +51,8 @@ Please notify the Florida Fish and Wildlife Conservation Commission by calling t
 Report a suspected crime involving a federally listed species by emailing [fws_tips@fws.gov](mailto:fws_tips@fws.gov) or calling 1- 844-FWS-TIPS (397-8477).
 
 Don’t see your question answered here? Email us.
+
+{{< figure class="photo-center" src="/images/pages/florida-coastal-shore.jpg" alt="Waves crashing on a sandy beach" caption="Florida coastal shore. Photo: Paul Lang, USFWS." >}}
 
 ## Habitat Restoration Projects
 
