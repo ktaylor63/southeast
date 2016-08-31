@@ -441,11 +441,11 @@
 ,
 {"state":"Florida","type":"Field Office","station":"Panama City Ecological Services/Fish & Wildlife Conservation Office","name":"Chris Metcalf","title":"Fish Biologist, Stream restoration, Partners for Fish and Wildlife","email":"chris_metcalf@fws.gov","phone":"850-769-0552 ext. 224"}
 ,
-{"state":"Florida","type":"Field Office","station":"Panama City Ecological Services/Fish & Wildlife Conservation Office","name":"Danielle Bumgardner","title":"Biologist, Tyndall AFB, Sea turtles, Gopher Tortoise and Bald Eagle monitoring, habitat restoration","email":"danielle_bumgardner@fws.gov","phone":"Send email"}
+{"state":"Florida","type":"Field Office","station":"Panama City Ecological Services/Fish & Wildlife Conservation Office","name":"Danielle Bumgardner","title":"Biologist, Tyndall AFB, Sea turtles, Gopher Tortoise and Bald Eagle monitoring, habitat restoration","email":"danielle_bumgardner@fws.gov","phone":""}
 ,
 {"state":"Florida","type":"Field Office","station":"Panama City Ecological Services/Fish & Wildlife Conservation Office","name":"Melanie Kaeser","title":"Ecologist, Tyndall AFB, rare plant species, longleaf pine ecosystem restoration, ecological monitoring","email":"melanie_kaeser@fws.gov","phone":"850-381-7853"}
 ,
-{"state":"Florida","type":"Field Office","station":"Panama City Ecological Services/Fish & Wildlife Conservation Office","name":"Rain Ketzler","title":"Biologist, Eglin AFB, Biological Technician","email":"lorraine_p_ketzler@fws.gov","phone":"Send email"}
+{"state":"Florida","type":"Field Office","station":"Panama City Ecological Services/Fish & Wildlife Conservation Office","name":"Rain Ketzler","title":"Biologist, Eglin AFB, Biological Technician","email":"lorraine_p_ketzler@fws.gov","phone":""}
 ,
 {"state":"Florida","type":"Field Office","station":"Panama City Ecological Services/Fish & Wildlife Conservation Office","name":"Bill Tate","title":"Supervisory Fish Biologist, Eglin AFB, Aquatic ecosystem monitoring, Non-game fishes research and recovery","email":"bill_tate@fws.gov","phone":"850-883-1189"}
 ,
@@ -456,4 +456,22 @@
 {"state":"Florida","type":"Field Office","station":"Panama City Ecological Services/Fish & Wildlife Conservation Office","name":"Dr. Jessica Graham","title":"Contractor, Southeast Aquatic Resources Partnership Coordinator","email":"jessica_graham@fws.gov","phone":"850-769-0552 ext. 229"}
 ,
 {"state":"Florida","type":"Field Office","station":"Panama City Ecological Services/Fish & Wildlife Conservation Office","name":"Kirsten Luke","title":"Contractor, Atlantic Coast Joint Venture (Region 5)","email":"kirsten_luke@fws.gov","phone":"850-769-0552 ext. 253"}
+,
+{"state":"Georgia","type":"Regional Office","station":"Law Enforcement","name":"Luis J. Santiago","title":"Special Agent in Charge","email":"luis_santiago@fws.gov","phone":"404-679-7057"}
+,
+{"state":"Georgia","type":"Regional Office","station":"Law Enforcement","name":"Darwin Huggins","title":"Assistant Special Agent in Charge","email":"darwin_huggins@fws.gov","phone":"404-679-7040"}
+,
+{"state":"Georgia","type":"Regional Office","station":"Law Enforcement","name":"Sharon Turman","title":"Executive Assistant","email":"sharon_turman@fws.gov","phone":"404-679-7057"}
+,
+{"state":"Georgia","type":"Regional Office","station":"Law Enforcement","name":"Christine Lynch","title":"Supervisory Program Analyst","email":"christine_lynch@fws.gov","phone":"404-679-7045"}
+,
+{"state":"Georgia","type":"Regional Office","station":"Law Enforcement","name":"Tiaujanna Burnett","title":"Law Enforcement Case Management Assistant","email":"tiaujanna_burnett@fws.gov","phone":"404-679-7048"}
+,
+{"state":"Georgia","type":"Regional Office","station":"Law Enforcement","name":"Tonia Johnson","title":"Legal Instruments Examiner (Permits/Licenses)","email":"tonia_johnson@fws.gov","phone":"404-679-7195"}
+,
+{"state":"Georgia","type":"Regional Office","station":"Law Enforcement","name":"Darlene Addison","title":"Legal Instruments Examiner (Permits/Licenses)","email":"darlene_addison@fws.gov","phone":"404-679-7053"}
+,
+{"state":"Georgia","type":"Regional Office","station":"Law Enforcement","name":"Stacey Pieters","title":"Budget Analyst","email":"stacey_pieters@fws.gov","phone":"404-679-7314"}
+,
+{"state":"Georgia","type":"Regional Office","station":"Law Enforcement","name":"Theodore Skarvelis","title":"Information Technology Specialist","email":"theodore_skarvelis@fws.gov","phone":"404-679-7056"}
 ]
