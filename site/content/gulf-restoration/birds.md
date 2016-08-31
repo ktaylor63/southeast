@@ -1,6 +1,6 @@
 ---
 title: 'About Us: Migratory Birds'
-url: /gulf-restoration/about-us/migratory-birds
+url: /gulf-restoration/migratory-birds
 tags:
     - 'Gulf of Mexico'
     - 'Migratory Birds'
