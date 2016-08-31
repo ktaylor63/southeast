@@ -8,8 +8,7 @@ tags:
 hero:
     name: gulf-cordgrass-prairie-big-boggy-nwr.jpg
     alt: 'A lush green coastal landscape with colorful sky at dusk.  A barge is barely visible in the distance.'
-    link: null
-    caption: null
+    caption: 'LCC partners know that landscapes such as this Gulf cordgrass prairie require science-based conservation actions that take into account the effects of current and future environmental stresses. Photo by Woody Woodrow, USFWS.'
 updated: 'August 31st, 2016'
 ---
 
