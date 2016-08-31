@@ -1,5 +1,6 @@
 ---
 title: 'About Us: Migratory Birds'
+description: 'The USFWS works with partners to protect, restore and conserve bird populations and their habitats in the Gulf of Mexico watershed for the benefit of future generations.'
 url: /gulf-restoration/migratory-birds
 tags:
     - 'Gulf of Mexico'
