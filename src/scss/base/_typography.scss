@@ -68,6 +68,7 @@ ol {
   margin-bottom: $leading;
   li {
     line-height: $leading;
+    margin: $leading/2 0;
   }
   ul,
   ol {
