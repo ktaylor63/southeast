@@ -37,7 +37,7 @@
     "hugo:dev": "node build/hugo -- http://localhost:3000/",
     "hugo:stage": "node build/hugo -- https://intranet.fws.gov/region4/demo/",
     "hugo:pro": "node build/hugo -- http://www.fws.gov/southeast/",
-    "serve": "browser-sync start --server dist --files 'dist/**/*' --logLevel silent --reload-delay 1000",
+    "serve": "browser-sync start --server dist --files 'dist/**/*' --logLevel silent --reload-delay 1400",
     "watch:sass": "node-sass -w src/scss/styles.scss site/static/css/styles.css",
     "build:sass": "node-sass --output-style compressed src/scss/styles.scss | postcss -u autoprefixer -o site/static/css/styles.css",
     "prestart": "npm run mkdist && npm run build:sass && npm run json && npm run hero && npm run hugo:dev",

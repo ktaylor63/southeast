@@ -8,3 +8,9 @@
     padding-left: $nav-width + 15px;
   }
 }
+
+#content {
+  li {
+    margin: $leading/2 0;
+  }
+}
