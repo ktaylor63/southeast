@@ -6,6 +6,8 @@ hero:
     alt: 'An adult bald eagle soars in front of a bright blue sky'
     caption: 'A bald eagle in flight at Seedskadee National Wildlife Refuge. Photo by Tom Koerner, USFWS.'
     link: 'https://flic.kr/p/CBbDh7'
+aliases:
+  - /es/recovery.htm
 tags:
     - 'Endangered Species Act'
     - Recovery
