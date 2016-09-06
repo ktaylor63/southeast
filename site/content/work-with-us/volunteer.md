@@ -4,6 +4,13 @@ description: 'Volunteers help the U.S. Fish and Wildlife Service with almost eve
 tags:
     - 'work with us'
     - volunteer
+aliases:
+  - /volunteers
+  - /volunteers/distance.html
+  - /volunteers/genvol.html
+  - /volunteers/regvols.html
+  - /volunteers/resvols.html
+  - /volunteers/tips.html
 hero:
     name: volunteer.jpg
     link: 'https://flic.kr/p/aUmGo2'
