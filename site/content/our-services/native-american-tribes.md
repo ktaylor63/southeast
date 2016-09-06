@@ -4,6 +4,8 @@ description: 'Conserving this Nation’s fish and other aquatic resources cannot
 tags:
     - 'native american'
     - partnership
+aliases:
+  - /nativeamerican
 hero:
     name: native-american-clothing.jpg
     link: 'https://flic.kr/p/5PQ2bm'
