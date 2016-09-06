@@ -6,6 +6,9 @@ tags:
     - 'endangered species act'
     - science
     - monitoring
+aliases:
+  - /5yearreviews/5yearreviews
+  - /5yearreviews
 hero:
     name: miami-blue-butterfly.jpg
     alt: 'A white/gray butterfly with black spots blends into a flower bloom of similar color and markings.'
