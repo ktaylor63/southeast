@@ -5,6 +5,18 @@ js: /js/friends.js
 tags:
     - volunteer
     - 'friends groups'
+aliases:
+  - /friends
+  - /friends/ar-friends.html
+  - /friends/al-friends.html
+  - /friends/ga-friends.html
+  - /friends/fl-friends.html
+  - /friends/ky-friends.html
+  - /friends/tn-friends.html
+  - /friends/pr-friends.html
+  - /friends/la-friends.html
+  - /friends/nc-friends.html
+  - /friends/sc-friends.html
 hero:
     name: blanket-flower-blossom.jpg
     alt: 'A flower with pink petals with orange tips.'
