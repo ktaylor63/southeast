@@ -4,6 +4,9 @@ description: 'Our trained communications staff are available to respond to publi
 tags:
     - news
     - multimedia
+aliases:
+  - /news/subscribe.html
+  - /news/faq.html
 hero:
     name: sue-cameron-interview.jpg
     alt: 'Biologist Sue Cameron in front a natural background answers questions on camera'
