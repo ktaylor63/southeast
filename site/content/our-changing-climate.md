@@ -1,6 +1,8 @@
 ---
 title: 'Wildlife, Habitats and Our Changing Climate'
 description: 'Cape Romain National Wildlife Refuge in South Carolina serves as a living laboratory for the U.S. Fish and Wildlife Service to study the impacts of rising sea levels on coastal wildlife and habitats.'
+aliases:
+  - /climate
 hero:
     link: 'https://flic.kr/p/cAqMQL'
     name: blackbeard-island.jpg
