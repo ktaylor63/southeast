@@ -5,6 +5,8 @@ tags:
     - 'Endangered Species Act'
     - Petition
     - '90-day Finding'
+aliases:
+  - /candidateconservation/90-day-finding
 hero:
     link: 'https://flic.kr/p/bD2BVr'
     alt: 'A brown salamander with bright white spots walks across a lichen covered rock'
