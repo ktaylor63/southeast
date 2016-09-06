@@ -6,6 +6,17 @@ js: /js/partners.js
 tags:
     - 'voluntary conservation'
     - 'private landowners'
+aliases:
+  - /es/partners
+  - /es/partners/about
+  - /es/partners/accomplishments
+  - /es/partners/budd
+  - /es/partners/connecting-people
+  - /es/partners/contact
+  - /es/partners/faq
+  - /es/partners/history
+  - /es/partners/resources
+  - /es/partners/strategic-plan
 hero:
     name: walking-stick.jpg
     alt: 'A hand holds a wooden walking stick with a persons blurred torso in the background'
