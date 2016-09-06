@@ -1,6 +1,8 @@
 ---
 title: 'Conservation Across Large Landscapes'
 description: 'Today we face environmental challenges so large and complex, no single organization can handle them alone. Landscape-level challenges require landscape-level partnerships based on science.'
+aliases:
+  - /LCC
 hero:
     link: 'https://flic.kr/p/noq1xA'
     name: ozarks-in-autumn.jpg
