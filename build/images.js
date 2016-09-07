@@ -1,9 +1,9 @@
 (function () {
   'use strict';
   var sharp = require('sharp');
-  var Imagemin = require('imagemin');
+  var imagemin = require('imagemin');
+  var imageminMozjpeg = require('imagemin-mozjpeg');
   var rimraf = require('rimraf');
-  var rename = require('gulp-rename');
   var fs = require('fs');
   var path = require('path');
 
@@ -30,21 +30,23 @@
           .resize(sizeInt)
           .toBuffer(function (err, buffer, info) {
             if (err) console.error(err);
-            imagemin(buffer, output, name);
+            var filename = output + name;
+            minify(buffer, filename);
           });
       });
     });
   });
 
-  function imagemin (buffer, dist, name) {
-    new Imagemin()
-      .src(buffer)
-      .dest(output)
-      .use(Imagemin.jpegtran({progressive: true}))
-      .use(rename(name))
-      .run(function (err, files) {
+  function minify(buffer, filename) {
+    imagemin.buffer(buffer, filename, {
+      plugins: [
+        imageminMozjpeg()
+      ]
+    }).then(function(buffer) {
+      fs.writeFile(filename, buffer, 'utf8', function(err) {
         if (err) console.error(err);
       });
+    });
   }
 
   function getDirectories(srcPath) {
