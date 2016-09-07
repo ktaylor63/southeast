@@ -7,22 +7,22 @@ tags:
     - 'voluntary conservation'
     - 'private landowners'
 aliases:
-  - /es/partners
-  - /es/partners/about
-  - /es/partners/accomplishments
-  - /es/partners/budd
-  - /es/partners/connecting-people
-  - /es/partners/contact
-  - /es/partners/faq
-  - /es/partners/history
-  - /es/partners/resources
-  - /es/partners/strategic-plan
+    - /es/partners
+    - /es/partners/about
+    - /es/partners/accomplishments
+    - /es/partners/budd
+    - /es/partners/connecting-people
+    - /es/partners/contact
+    - /es/partners/faq
+    - /es/partners/history
+    - /es/partners/resources
+    - /es/partners/strategic-plan
 hero:
     name: walking-stick.jpg
     alt: 'A hand holds a wooden walking stick with a persons blurred torso in the background'
     caption: 'A biologist in a bog. <a href="https://flic.kr/p/rpRgQq">Photo</a> by Gary Peeples, USFWS.'
     link: 'https://flic.kr/p/rpRgQq'
-updated: 'August 11th, 2016'
+updated: 'September 7th, 2016'
 ---
 
 The Southeast Region Partners for Fish and Wildlife Program provides technical and financial assistance to private landowners interested in improving habitat for migratory birds, endangered, threatened and at-risk species while maintaining the their primary land management goals. This is a voluntary program in which landowners continue to manage their land for their objectives as well as for wildlife, which most of the time go-hand-in-hand.
@@ -61,14 +61,6 @@ All private landowners interested in restoring wildlife habitat on their land ar
 - Universities
 
 Although landowners are our most important “partners,” we also work with other federal agencies, state agencies, and NGOs to complete projects on private lands. None of our work happens without partnerships!
-
-<div class="image-comparison-container">
-  <div class="image-comparison">
-    <img src="/images/pages/hobe-prairie-before.jpg" alt="Before image of restoration project showing a mowed field." class="comparison-image">
-    <img src="/images/pages/hobe-prairie-after.jpg" alt="After image of restoration project showing a meadow with flowering milkweed plants" class="comparison-image">
-  </div>
-  <p class="comparison-caption">Swipe the white divider to the left/right to compare before and after images.</p>
-</div>
 
 ## Types of Projects
 
@@ -320,3 +312,17 @@ Phone: (404) 679-7138
     <p>This project along Meadow Branch, a tributary to Hickory Fork Creek in Tennessee, was designed to enhance habitat and improve water quality for several listed and at-risk species, including the Cumberland pigtoe, barrens darter, and barrens topminnow. To do this, 18,500 feet of fencing was installed to exclude livestock from the stream, which allowed for a natural buffer to protect the stream. In addition, multiple watering facilities and pipeline were provided for livestock once they were removed from the stream. Partners for this project included the Coffee County SCD, Tennessee Department of Agriculture, Southern Middle Tennessee RC&amp;D and NRCS. </p>
   </section>
 </div>
+
+## Restoration Work
+
+<div class="image-comparison-container">
+  <div class="image-comparison">
+    <img src="/images/pages/hobe-prairie-before.jpg" alt="Before image of restoration project showing a mowed field." class="comparison-image">
+    <img src="/images/pages/hobe-prairie-after.jpg" alt="After image of restoration project showing a meadow with flowering milkweed plants" class="comparison-image">
+  </div>
+  <p class="comparison-caption">Swipe the white divider to the left/right to compare before and after images.</p>
+</div>
+
+This 65-acre project is on private land outside of Hope, Arkansas and in the Partners for Fish & Wildlife Program's Blackland Prairie focus area.The landowner bought the land to enjoy the outdoors, and was referred to the Partners for Fish & Wildlife Program. A partnership then developed between PFW, which paid for the native seed mix, the Arkansas Game and Fish Commission, which donated herbicide, and the landowner, who hired a contractor to apply herbicide in the spring and fall.
+
+A site visit in May 2015, the first spring after removing the fescue, documented hundreds to thousands of milkweed plants of at least two species that were present in the seedbank. The PFW Biologist also transplanted butterfly milkweed to supplement the native seeds planted. This project will provide habitat for the monarch butterfly, northern bobwhite, indigo bunting, loggerhead shrike and several other songbird and small game species. The project also shares a border with a state wildlife area, providing one large contiguous block of habitat.
