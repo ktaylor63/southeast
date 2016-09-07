@@ -27,3 +27,11 @@ This script watches Markdown files in the `site/content` directory (and subdirec
 ## minify-json.js
 
 This script watches the `src/data` directory for changes and automatically minifies each of the `*.json` files and copies the output to `site/static/data`.  The output uses the same filename as the input except that the extension is changed from `.json` to `.js`.  This change is necessary due to issues with the web server that prevent the use of downloading `.json` files with AJAX.
+
+## watch-hero.js
+
+This script watches the `src/images/hero/` directory for changes.  When a change is detected we resize and optimize only the image that has changed.  This is a much more efficient method than resize and re-optimizing every hero image each time a single photo is changed.
+
+## watch-images.js
+
+This script watches `src/images/pages/**/*` for changes.  When a change is detected we resize and optimize only the images that have changed.  This is much more efficient than resizing and re-optimizing every single image on the site when a single photo is added/changed.
