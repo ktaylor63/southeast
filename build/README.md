@@ -8,7 +8,11 @@ This scripts checks that all of the necessary directories in the final `dist` fo
 
 ## hero.js
 
-This script takes all of the images from `src/images/hero`, resizes them to the same width using [sharp](https://www.npmjs.com/package/sharp) and optimizes them with [imagemin](https://www.npmjs.com/package/imagemin).  All files are written to `site/static/images/hero/` keeping the same filename as the original source photo.
+This script takes all of the images from `src/images/hero`, resizes them to the same width using [sharp](https://www.npmjs.com/package/sharp) and optimizes them with [imagemin](https://www.npmjs.com/package/imagemin).  All files are written to `site/static/images/hero/` keeping the same filename as the original source photo.  This script also includes a watcher; when an image is added, changed, or removed from `src/images/hero/`, it will automatically be resized, and optimized, or removed from the output directory.  The watcher is enabled by default.  To disable the watcher, during a production build for example, set the `PRODUCTION` environment variable:
+
+```
+PRODUCTION=true npm run hero
+```
 
 ## hugo.js
 
@@ -16,7 +20,11 @@ This script clears everything out of the `dist` folder before it creates a subpr
 
 ## images.js
 
-This script looks for folders in the `src/images/pages` directory.  The scripts infers the intended output width of each image based on the name of the containing directory.  For example, any images in `src/images/pages/400` will be resized to 400px wide using [sharp](https://www.npmjs.com/package/sharp) and copied to `site/static/images/pages/` with the original file name from the source directory.  If you need an image to be a different size you can create a new directory in `src/images/pages` with a number representing the desired output width.
+This script looks for folders in the `src/images/pages` directory.  The scripts infers the intended output width of each image based on the name of the containing directory.  For example, any images in `src/images/pages/400` will be resized to 400px wide using [sharp](https://www.npmjs.com/package/sharp) and copied to `site/static/images/pages/` with the original file name from the source directory.  If you need an image to be a different size you can create a new directory in `src/images/pages` with a number representing the desired output width.  This script includes a watcher by default.  Any image added, changed, or removed will be processed (or removed) automatically.  To disable the watcher during a production build set the `PRODUCTION` environment variable:
+
+```
+PRODUCTION=true npm run images
+```
 
 ## last-mod.js
 
@@ -27,11 +35,3 @@ This script watches Markdown files in the `site/content` directory (and subdirec
 ## minify-json.js
 
 This script watches the `src/data` directory for changes and automatically minifies each of the `*.json` files and copies the output to `site/static/data`.  The output uses the same filename as the input except that the extension is changed from `.json` to `.js`.  This change is necessary due to issues with the web server that prevent the use of downloading `.json` files with AJAX.
-
-## watch-hero.js
-
-This script watches the `src/images/hero/` directory for changes.  When a change is detected we resize and optimize only the image that has changed.  This is a much more efficient method than resize and re-optimizing every hero image each time a single photo is changed.
-
-## watch-images.js
-
-This script watches `src/images/pages/**/*` for changes.  When a change is detected we resize and optimize only the images that have changed.  This is much more efficient than resizing and re-optimizing every single image on the site when a single photo is added/changed.
