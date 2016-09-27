@@ -19,7 +19,7 @@ params:
   instagram: usfws
   webmaster:
     primary: roy_hewitt@fws.gov
-    backup: jennifer_strickland@fws.gov
+    backup: katherine_taylor@fws.gov
 
 permalinks:
   news: /:section/:year/:month/:filename/
