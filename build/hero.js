@@ -25,17 +25,20 @@
   //    5. Write file to output directory site/static/images/hero/
   // 6. If the PRODUCTION env variable is NOT set kick off watcher
 
-  rimraf(output + '*', init);
+  init();
 
   function init() {
-    if (process.env.PRODUCTION) {
-      console.log('Processing hero images...');
-      images.forEach(function(name) {
-        processHeroImage( path.join(input, name) );
-      });
-    } else {
-      console.log('Processing hero images and watching for changes...');
+    if (process.env.WATCH) {
+      console.log('Watching hero images for changes...');
       watcher();
+    } else {
+      console.log('Processing hero images...');
+      rimraf(output + '*', function(err) {
+        if (err) console.error(err);
+        images.forEach(function(name) {
+          processHeroImage( path.join(input, name) );
+        });
+      });
     }
   }
 
@@ -53,7 +56,9 @@
 
   function watcher() {
     var glob = input + '*';
-    chokidar.watch(glob)
+    chokidar.watch(glob, {
+      ignoreInitial: true
+    })
       .on('add', processHeroImage)
       .on('change', processHeroImage)
       .on('unlink', removeImage);
