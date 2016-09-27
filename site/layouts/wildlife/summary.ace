@@ -1,0 +1,8 @@
+section.species-profile-summary.card
+  img src="{{ .Site.BaseURL }}images/hero/{{ .Params.hero.name }}" alt="{{ .Params.hero.alt }}"
+  h3 {{ .Title }}
+  p {{ .Description }}
+    span &nbsp;
+      a href="{{ .Permalink }}" Visit the Species Profile.
+  p
+    small {{ .Params.hero.caption }}
