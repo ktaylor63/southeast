@@ -8,8 +8,8 @@
   var baseUrl = document.body.getAttribute('data-root');
   var url = baseUrl + '/data/contacts.js';
 
-  var list = document.querySelector('.contact-list');
   var input = document.querySelector('.contact-list-search');
+  var output = document.querySelector('.contact-list');
 
   var contacts;
 
@@ -45,7 +45,7 @@
   }
 
   function render(contacts) {
-    list.innerHTML = template({ contacts: contacts });
+    output.innerHTML = template({ contacts: contacts });
   }
 
   module.exports.init = init;
