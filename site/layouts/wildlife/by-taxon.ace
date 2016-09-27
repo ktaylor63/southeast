@@ -1,0 +1,16 @@
+= content main
+  .main role="main"
+
+    {{ $taxon:= .Params.taxon }}
+
+    h1 {{ .Title }}
+
+    p The species profiles below are a one-stop-shop for information about the {{ lower $taxon }} that the Southeast region of the U.S. Fish and Wildlife Service is responsible for protecting and/or recovering.
+
+    {{ .Content }}
+
+    {{ range (where .Site.Pages "Section" "wildlife") }}
+      {{ if in .Params.tags $taxon }}
+        {{ .Render "summary" }}
+      {{ end }}
+    {{ end }}
