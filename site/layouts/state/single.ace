@@ -8,11 +8,5 @@
 
   {{ .Content }}
 
-  ul.tag-list
-    {{ range .Params.tags }}
-    li.tag
-      a href=/tags/{{ . | urlize }} {{ . }}
-    {{ end }}
-
   span.state-name {{ .Title }}
   span.state-abbreviation {{ .Params.abbreviation }}
