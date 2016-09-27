@@ -27,7 +27,6 @@
       with: output
     }, function (err, files) {
       if (err) return console.error(err);
-      console.log('Modified files: ', files.join(', '));
     });
   }
 
