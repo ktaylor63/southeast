@@ -1,19 +1,20 @@
 ---
-title: 'Puerto Rican rock frog or coquí guajón '
+title: 'Puerto Rican rock frog or coquí guajón'
 scientific: 'Eleutherodactylus cooki'
 type: species-profile
 js: /js/species-profile.js
 tags:
-    - 'threatened species'
-    - amphibian
-    - 'puerto rico'
+    - 'Threatened Species'
+    - Amphibian
+    - 'Puerto Rico'
+    - Caribbean
 hero:
     link: 'https://en.wikipedia.org/wiki/Puerto_Rican_rock_frog#/media/File:Female_guajon_frog_on_tree.jpg'
     name: puerto-rican-rock-frog.jpg
     alt: 'A brownish peach colored frog with big round eyes'
     caption: 'A female frog on a tree branch. Photo by JP Zegarra, USFWS.'
 description: 'The Puerto Rican rock frog is known by several names: Puerto Rican cave frog, guajón, and the Puerto Rican demon. It is found exclusively in southeastern Puerto Rico.'
-updated: 'June 15th, 2016'
+updated: 'September 27th, 2016'
 ---
 
 - **Taxon: Amphibian**

@@ -5,19 +5,19 @@ description: 'The Carolina northern flying squirrel is an American endangered sp
 type: species-profile
 js: /js/species-profile.js
 tags:
-    - 'endangered species'
-    - 'north carolina'
-    - virginia
-    - tennessee
-    - mammal
-    - raleigh
+    - 'Endangered Species'
+    - 'North Carolina'
+    - Virginia
+    - Tennessee
+    - Mammal
+    - Raleigh
 hero:
     name: carolina-northern-flying-squirrel.jpg
     alt: 'A biologist feeding a tiny squirrel wrapped in a white towel'
     caption: 'A Carolina northern flying squirrel in the hands of a biologist. Photo by Gary Peeples, USFWS.'
     link: 'https://flic.kr/p/cE8uD7'
     position: 'top center'
-updated: 'June 17th, 2016'
+updated: 'September 27th, 2016'
 ---
 
 - Taxa: Mammal

@@ -4,12 +4,17 @@ type: species-profile
 url: /wildlife/mammal/manatee
 scientific: 'Trichechus manatus'
 js: /js/species-profile.js
+tags:
+    - Manatee
+    - Mammal
+    - Florida
+    - Caribbean
 hero:
     name: manatee-cow-and-calf.jpg
     alt: 'A Florida manatee calf sticks close to its mother in shallow water'
     caption: 'A Florida manatee calf sticks close to its mother in shallow water. Photo: Keith Ramos, USFWS'
 description: 'Manatees are large, elongated marine mammals with paired flippers and a large round or spoon-shaped tail.  They can reach lengths of over 14 feet and weights of over 3,000 pounds'
-updated: 'May 12th, 2016'
+updated: 'September 27th, 2016'
 ---
 - **Taxon**: Mammal
 - **Range**: Throughout the Caribbean basin, including the southeastern United States, eastern Mexico, eastern Central America, northeastern South America, and the Greater Antilles

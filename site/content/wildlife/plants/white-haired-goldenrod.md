@@ -6,6 +6,7 @@ js: /js/species-profile.js
 tags:
     - 'White-haired goldenrod'
     - Kentucky
+    - Plant
 hero:
     link: 'https://flic.kr/p/x7kHCR'
     name: white-haired-goldenrod.jpg

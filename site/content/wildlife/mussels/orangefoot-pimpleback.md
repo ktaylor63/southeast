@@ -5,12 +5,12 @@ scientific: 'Plethobasus cooperianus'
 type: species-profile
 js: /js/species-profile.js
 tags:
-    - mussel
-    - 'endangered species'
-    - alabama
-    - illinois
-    - kentucky
-    - tennessee
+    - Mussel
+    - 'Endangered Species'
+    - Alabama
+    - Illinois
+    - Kentucky
+    - Tennessee
 hero:
     name: orangefoot-pimpleback.jpg
     alt: 'A brown mussel with orangish brown striations'

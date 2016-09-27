@@ -8,13 +8,14 @@ tags:
     - Florida
     - 'Endangered Species'
     - 'Florida panther'
+    - Mammal
 hero:
     link: 'https://flic.kr/p/8So6zm'
     caption: 'A Florida panther. Photo by Larry W. Richardson, USFWS.'
     alt: 'A Florida panther walking on a gravel road with a slash pine forest in the background'
     name: florida-panther.jpg
     position: 'left center'
-updated: 'May 26th, 2016'
+updated: 'September 27th, 2016'
 ---
 
 - **Taxon:** Mammal

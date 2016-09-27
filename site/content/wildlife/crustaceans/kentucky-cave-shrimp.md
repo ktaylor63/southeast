@@ -5,10 +5,10 @@ scientific: 'Palaemonias ganteri'
 type: species-profile
 js: /js/species-profile.js
 tags:
-    - crustacean
-    - kentucky
-    - shrimp
-    - endangered
+    - Crustacean
+    - Kentucky
+    - Shrimp
+    - Endangered Species
 hero:
     name: kentucky-cave-shrimp.jpg
     alt: 'A translucent shrimp walking along a rocky surface under water'

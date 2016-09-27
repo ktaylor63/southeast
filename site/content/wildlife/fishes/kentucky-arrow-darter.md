@@ -5,9 +5,9 @@ scientific: 'Etheostoma spilotum'
 type: species-profile
 js: /js/species-profile.js
 tags:
-    - fish
-    - kentucky
-    - threatened
+    - Fish
+    - Kentucky
+    - Threatened Species
 hero:
     name: kentucky-arrow-darter.jpg
     caption: 'Photo by J.R. Shute, Conservation Fisheries, Inc.'
