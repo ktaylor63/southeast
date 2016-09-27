@@ -4,6 +4,8 @@ description: 'The orangefoot pimpleback is a mussel found in Alabama, Illinois, 
 type: species-profile
 scientific: 'Obovaria retusa'
 js: /js/species-profile.js
+aliases:
+    - /wildlife/mussel/ring-pink
 tags:
     - Mussel
     - 'Endangered Species'
@@ -14,7 +16,7 @@ hero:
     name: ring-pink.jpg
     alt: 'A photograph of the outside and inside of a ring pink shell next to a ruler for scale.  Shell is approximately 3 inches wide.'
     caption: 'Ring pink. Photo by Leroy Koch, USFWS.'
-updated: 'July 12th, 2016'
+updated: 'September 27th, 2016'
 ---
 
 - Taxon: Bivalve

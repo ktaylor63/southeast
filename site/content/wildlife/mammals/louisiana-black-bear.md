@@ -11,6 +11,8 @@ tags:
     - Delist
     - Recovery
     - Mammal
+aliases:
+    - /wildlife/mammal/louisiana-black-bear
 hero:
     name: louisiana-black-bear.jpg
     alt: 'A Louisiana black bear standing in a grassy clearing'

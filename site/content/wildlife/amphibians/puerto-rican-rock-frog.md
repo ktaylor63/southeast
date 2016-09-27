@@ -3,6 +3,10 @@ title: 'Puerto Rican rock frog or coquí guajón'
 scientific: 'Eleutherodactylus cooki'
 type: species-profile
 js: /js/species-profile.js
+aliases:
+    - /wildlife/amphibian/puerto-rican-rock-frog
+    - /wildlife/amphibians/coqui-guajon
+    - /wildlife/amphibian/coqui-guajon
 tags:
     - 'Threatened Species'
     - Amphibian

@@ -4,6 +4,8 @@ description: 'The Cumberland darter is a small, straw-yellow colored fish with b
 scientific: 'Etheostoma susanae'
 type: species-profile
 js: /js/species-profile.js
+aliases:
+    - /wildlife/fish/cumberland-darter
 tags:
     - Fish
     - 'Endangered species'
@@ -14,7 +16,7 @@ hero:
     alt: 'A small, straw-yellow colored fish with brown markings'
     caption: 'Photo by Jeremy Shute, Conservation Fisheries, Inc.'
     position: 'left bottom'
-updated: 'July 11th, 2016'
+updated: 'September 27th, 2016'
 ---
 
 - Taxon: Fish

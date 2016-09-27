@@ -4,6 +4,8 @@ description: 'The orangefoot pimpleback is a mussel found in Alabama, Illinois, 
 scientific: 'Plethobasus cooperianus'
 type: species-profile
 js: /js/species-profile.js
+aliases:
+    - /wildlife/mussel/orangefoot-pimpleback
 tags:
     - Mussel
     - 'Endangered Species'
@@ -15,7 +17,7 @@ hero:
     name: orangefoot-pimpleback.jpg
     alt: 'A brown mussel with orangish brown striations'
     caption: 'An orangefoot pimpleback mussel. Photo by Monte McGregor, Center Mollusk Conservation, Kentucky DFWR.'
-updated: 'July 11th, 2016'
+updated: 'September 27th, 2016'
 ---
 
 - Taxon: [Bivalve](/tag/bivalve)

@@ -4,6 +4,8 @@ scientific: 'Puma concolor coryi'
 type: species-profile
 js: /js/species-profile.js
 description: 'The Florida panther is a subspecies of Puma concolor (also known as mountain lion, cougar, or puma) and represents the only known breeding population of puma in the eastern United States. It is protected as endangered under the Endangered Species Act.'
+aliases:
+    - /wildlife/mammal/florida-panther
 tags:
     - Florida
     - 'Endangered Species'

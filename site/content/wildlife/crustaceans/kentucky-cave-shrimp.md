@@ -4,17 +4,19 @@ description: 'The Kentucky cave shrimp is an endangered species found only in un
 scientific: 'Palaemonias ganteri'
 type: species-profile
 js: /js/species-profile.js
+aliases:
+    - /wildlife/amphibian/kentucky-cave-shrimp
 tags:
     - Crustacean
     - Kentucky
     - Shrimp
-    - Endangered Species
+    - 'Endangered Species'
 hero:
     name: kentucky-cave-shrimp.jpg
     alt: 'A translucent shrimp walking along a rocky surface under water'
     caption: 'A Kentucky cave shrimp. Photo by John MacGregor, Kentucky Department of Fish and Wildlife Resources.'
     position: 'center bottom'
-updated: 'August 8th, 2016'
+updated: 'September 27th, 2016'
 ---
 
 - **Taxa: Crustacea**

@@ -4,6 +4,8 @@ type: species-profile
 url: /wildlife/mammal/manatee
 scientific: 'Trichechus manatus'
 js: /js/species-profile.js
+aliases:
+    - /wildlife/mammal/manatee
 tags:
     - Manatee
     - Mammal

@@ -4,6 +4,8 @@ description: 'The fanshell is a green and yellow, medium sized mussel found in v
 type: species-profile
 scientific: 'Cyprogenia Stegaria'
 js: /js/species-profile.js
+aliases:
+    - /wildlife/mussel/fanshell
 tags:
     - Mussel
     - 'Endangered Species'

@@ -4,6 +4,8 @@ description: 'The Cumberland bean is a small mussel found in Alabama, Kentucky, 
 scientific: 'Villosa trabalis'
 type: species-profile
 js: /js/species-profile.js
+aliases:
+    - /wildlife/mussel/cumberland-bean
 tags:
     - Mussel
     - 'Endangered species'
@@ -15,7 +17,7 @@ hero:
     name: cumberland-bean.jpg
     alt: 'A small black mussel with brownish yellow striations extends a small white appendage from its shell'
     caption: 'Cumberland bean juveniles reared at the Center for Mollusk Conservation in Frankfort, Kentucky. Photo by Monte McGregor, Center Mollusk Conservation, Kentucky DFWR.'
-updated: 'July 11th, 2016'
+updated: 'September 27th, 2016'
 ---
 
 - Taxon: Bivalve

@@ -4,16 +4,18 @@ description: 'The Kentucky arrow darter is a small fish found only in Kentucky. 
 scientific: 'Etheostoma spilotum'
 type: species-profile
 js: /js/species-profile.js
+aliases:
+    - /wildlife/fish/kentucky-arrow-darter
 tags:
     - Fish
     - Kentucky
-    - Threatened Species
+    - 'Threatened Species'
 hero:
     name: kentucky-arrow-darter.jpg
     caption: 'Photo by J.R. Shute, Conservation Fisheries, Inc.'
     alt: null
     position: 'left center'
-updated: 'August 8th, 2016'
+updated: 'September 27th, 2016'
 ---
 
 - **Taxon: Fish**

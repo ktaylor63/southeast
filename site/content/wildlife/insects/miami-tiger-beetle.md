@@ -3,6 +3,8 @@ title: 'Miami tiger beetle'
 type: species-profile
 js: /js/species-profile.js
 scientific: 'Cicindela floridana'
+aliases:
+    - /wildlife/insect/miami-tiger-beetle
 tags:
     - 'Miami tiger beetle'
     - Florida
@@ -16,7 +18,7 @@ hero:
     alt: 'An iridescent insect with many small hairs on its belly standing on leaf litter and sandy soil'
     caption: 'Miami tiger beetle. Photo: Jonathan Mays, Florida Fish and Wildlife Conservation Commission.'
 description: 'The Miami tiger beetle, found exclusively in pine rockland habitat in Miami-Dade County, Florida, has a shiny green exterior and is proposed for protection under the Endangered Species Act as endangered. Learn more about the beetle at fws.gov.'
-updated: 'May 12th, 2016'
+updated: 'September 27th, 2016'
 ---
 
 - Taxa: Arthropod (Ground Beetle)
