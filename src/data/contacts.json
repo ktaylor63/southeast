@@ -1,4 +1,34 @@
 [
+{"state":"Alabama","type":"Refuge","station":"Bon Secour National Wildlife Refuge","name":"Denise Mcinturff","title":"Park Ranger","email":"denise_mcinturff@fws.gov","phone":"251-540-7720"}
+,
+{"state":"Alabama","type":"Refuge","station":"Bon Secour National Wildlife Refuge","name":"Brittany Petersen","title":"Assistant Refuge Manager","email":"brittany_petersen@fws.gov","phone":"251-540-8524"}
+,
+{"state":"Alabama","type":"Refuge","station":"Bon Secour National Wildlife Refuge","name":"Jackie Sablan","title":"Wildlife Biologist","email":"jacqueline_sablan@fws.gov","phone":"251-540-8523"}
+,
+{"state":"Alabama","type":"Refuge","station":"Bon Secour National Wildlife Refuge","name":"Alyssa Getz","title":"Intern","email":"alyssa_getz@fws.gov","phone":"251-540-7720"}
+,
+{"state":"Alabama","type":"Refuge","station":"Eufaula National Wildlife Refuge","name":"John Earle","title":"Refuge Manager","email":"john_earle@fws.gov","phone":"334-687-4065"}
+,
+{"state":"Alabama","type":"Refuge","station":"Eufaula National Wildlife Refuge","name":"Cyndi Hall","title":"Environmental Education Specialist","email":"cynthia_n_hall@fws.gov","phone":"334-845-0673"}
+,
+{"state":"Alabama","type":"Refuge","station":"Wheeler National Willdife Refuge","name":"Dwight Cooley","title":"Project Leader","email":"dwight_cooley@fws.gov","phone":"256-353-7243"}
+,
+{"state":"Alabama","type":"Refuge","station":"Wheeler National Willdife Refuge","name":"Teresa Adams","title":"Supervisory Park Ranger","email":"teresa_adams@fws.gov","phone":"256-350-6639"}
+,
+{"state":"Alabama","type":"Field Office","station":"Daphne Ecological Services Field Office","name":"Bill Pearson","title":"Field Supervisor","email":"bill_pearson@fws.gov","phone":"251-441-5181"}
+,
+{"state":"Alabama","type":"Field Office","station":"Migratory Bird Program Field Office","name":"Karen Frizzel","title":"Office Assistant","email":"karen_frizzel@fws.gov","phone":"334-844-4796"}
+,
+{"state":"Alabama","type":"Field Office","station":"Daphne Ecological Services Field Office","name":"Jeff Powell","title":"Deputy Field Supervisor","email":"jeff_powell@fws.gov","phone":"251-441-5858"}
+,
+{"state":"Alabama","type":"Field Office","station":"Daphne Ecological Services Field Office","name":"Eric Spadgenske","title":"State Coordinator, Partners for Fish and Wildlife","email":"eric_spadgenske@fws.gov","phone":"251-441-5872"}
+,
+{"state":"Alabama","type":"Field Office","station":"Daphne Ecological Services Field Office","name":"Bill Lynn","title":"Fish and Wildlife Biologist (Endangered Species Act permitting, consultation)","email":"william_lynn@fws.gov","phone":"251-441-5868"}
+,
+{"state":"Alabama","type":"Field Office","station":"Daphne Ecological Services Field Office","name":"Shannon Holbrook","title":"Fish and Wildlife Biologist (grants, endangered plants)","email":"shannon_holbrook@fws.gov","phone":"251-441-5171"}
+,
+{"state":"Alabama","type":"Field Office","station":"Daphne Ecological Services Field Office","name":"Tim Mullet","title":"Wildlife Biologist (landscape ecologist)","email":"tim_mullet@fws.gov","phone":"251-441-5181"}
+,
 {"state":"Arkansas","type":"Refuge","station":"Bald Knob National Wildlife Refuge","name":"Paul Provence","title":"Refuge Manager","email":"paul_provence@fws.gov","phone":"501-724-2458"}
 ,
 {"state":"Arkansas","type":"Refuge","station":"Big Lake National Wildlife Refuge","name":"Steven Rimer","title":"Refuge Manager","email":"steven_rimer@fws.gov","phone":"870-564-2429"}
@@ -75,91 +105,99 @@
 ,
 {"state":"Arkansas","type":"Hatchery","station":"Norfork National Fish Hatchery","name":"Brad Marler","title":"Motor Vehicle Operator","email":"brad_marler@fws.gov","phone":"870-499-5255"}
 ,
-{"state":"Puerto Rico / U.S. Virgin Islands","type":"Refuge","station":"Buck Island, Green Cay, Sandy Point National Wildlife Refuges","name":"Michael Evans","title":"Refuge Manager","email":"michael_evans@fws.gov","phone":"340-773-4554"}
+{"state":"Florida","type":"Field Office","station":"Panama City Ecological Services/Fish & Wildlife Conservation Office","name":"Dr. Catherine Phillips","title":"Field Supervisor","email":"catherine_phillips@fws.gov","phone":"850-769-0552 ext. 242"}
 ,
-{"state":"Puerto Rico / U.S. Virgin Islands","type":"Refuge","station":"Culebra National Wildlife Refuge","name":"Ricardo Colon-Merced","title":"Wildlife Biologist","email":"ricardo_colon-merced@fws.gov","phone":"787-742-0115"}
+{"state":"Florida","type":"Field Office","station":"Panama City Ecological Services/Fish & Wildlife Conservation Office","name":"Mark Cantrell","title":"Deputy Field Supervisor/Field Supervisor FWCO","email":"mark_a_cantrell@fws.gov","phone":"850-769-0552 ext. 250"}
 ,
-{"state":"Puerto Rico / U.S. Virgin Islands","type":"Refuge","station":"Culebra National Wildlife Refuge","name":"Elizabeth Arizmendi","title":"Maintenance Worker","email":"elizabeth_arizmendi@fws.gov","phone":"787-742-0115"}
+{"state":"Florida","type":"Field Office","station":"Panama City Ecological Services/Fish & Wildlife Conservation Office","name":"Dr. Sean Blomquist","title":"Deputy Field Supervisor, Ecological Services","email":"sean_blomquist@fws.gov","phone":"850-769-0552 ext. 233"}
 ,
-{"state":"Puerto Rico / U.S. Virgin Islands","type":"Refuge","station":"Cabo Rojo National Wildlife Refuge","name":"Gisella Burgos","title":"Park Ranger","email":"gisella_burgos@fws.gov","phone":"787-851-7258 ext. 311"}
+{"state":"Florida","type":"Field Office","station":"Panama City Ecological Services/Fish & Wildlife Conservation Office","name":"Larry Tucker","title":"Administrative Staff, Correspondence, Mail, Building Manager, Equipment Custodian, Service Asset Maintenance Systems","email":"larry_tucker@fws.gov","phone":"850-769-0552 ext. 227"}
 ,
-{"state":"Puerto Rico / U.S. Virgin Islands","type":"Refuge","station":"Caribbean Islands National Wildlife Refuge","name":"Susan Silander","title":"Project Leader","email":"susan_silander@fws.gov","phone":"787-851-7258"}
+{"state":"Florida","type":"Field Office","station":"Panama City Ecological Services/Fish & Wildlife Conservation Office","name":"Lydia Ambrose","title":"Biologist, GIS Data Manager, CBRA Determinations, Manatee","email":"lydia_ambrose@fws.gov","phone":"850-769-0552 ext. 223"}
 ,
-{"state":"Puerto Rico / U.S. Virgin Islands","type":"Refuge","station":"Caribbean Islands National Wildlife Refuge","name":"Ana Roman","title":"Deputy Project Leader","email":"ana_roman@fws.gov","phone":"787-851-7258 ext. 305"}
+{"state":"Florida","type":"Field Office","station":"Panama City Ecological Services/Fish & Wildlife Conservation Office","name":"Patty Kelly","title":"Biologist, Candidate Conservation, Shorebirds, Panama City Crayfish, Red Knot, Migratory Birds, Red-cockaded Woodpecker, Forest Service lead, FEMA lead, Corps-coastal projects POC","email":"patricia_kelly@fws.gov","phone":"850-769-0552 ext. 228 "}
 ,
-{"state":"Puerto Rico / U.S. Virgin Islands","type":"Refuge","station":"Caribbean Islands National Wildlife Refuge","name":"Hortencia Ruiz","title":"Administrative Officer","email":"hortencia_ruiz@fws.gov","phone":"787-851-7258 ext.301"}
+{"state":"Florida","type":"Field Office","station":"Panama City Ecological Services/Fish & Wildlife Conservation Office","name":"Paul Lang","title":"Ecologist, GIS Coordinator, Landscape Ecology, Spatial Ecology, SHC, Wood Stork, Bald Eagles, SALT","email":"paul_lang@fws.gov","phone":"850-769-0552 ext. 230 "}
 ,
-{"state":"Puerto Rico / U.S. Virgin Islands","type":"Refuge","station":"Caribbean Islands National Wildlife Refuge","name":"Ricardo Antonetti","title":"Facilities Operation Specialist","email":"ricardo_antonetti@fws.gov","phone":"787-851-7258 ext 314"}
+{"state":"Florida","type":"Field Office","station":"Panama City Ecological Services/Fish & Wildlife Conservation Office","name":"Peter Maholland","title":"Biologist, FDOT Transportation Liaison, Wetlands, Section 7 Consultation ","email":"peter_maholland@fws.gov","phone":"850-769-0552 ext. 234"}
 ,
-{"state":"Puerto Rico / U.S. Virgin Islands","type":"Refuge","station":"Caribbean Islands National Wildlife Refuge","name":"William Wolfrom","title":"Law Enforcement Officer","email":"william_wolfrom@fws.gov","phone":"787-851-7258 ext 317"}
+{"state":"Florida","type":"Field Office","station":"Panama City Ecological Services/Fish & Wildlife Conservation Office","name":"Gayle Martin","title":"Ecologist, GIS, NWR Lead","email":"gayle_martin@fws.gov","phone":"850-867-6222"}
 ,
-{"state":"Puerto Rico / U.S. Virgin Islands","type":"Refuge","station":"Caribbean Islands National Wildlife Refuge","name":"Bryan Marcial","title":"Supervisory Law Enforcement Officer","email":"bryant_marcial@fws.gov","phone":"787-851-7258 ext. 319"}
+{"state":"Florida","type":"Field Office","station":"Panama City Ecological Services/Fish & Wildlife Conservation Office","name":"Harold Mitchell","title":"Ecologist, Flatwoods Salamander, Indigo Snake, Gopher Tortoise","email":"harold_mitchell@fws.gov","phone":"850-769-0552 ext. 246"}
 ,
-{"state":"Puerto Rico / U.S. Virgin Islands","type":"Refuge","station":"Caribbean Islands National Wildlife Refuge","name":"Fernando Ramos","title":"Maintenance Mechanic","email":"fernando_ramos@fws.gov","phone":"787-851-7258 ext. 322"}
+{"state":"Florida","type":"Field Office","station":"Panama City Ecological Services/Fish & Wildlife Conservation Office","name":"Mary Mittiga","title":"Fish and Wildlife Biologist, Transportation Planning, Green Infrastructure, Wetlands, Bats, FDOT and FHWA program lead, FDOT Programmatics","email":"mary_mittiga@fws.gov","phone":"850-769-0552 ext. 236 "}
 ,
-{"state":"Puerto Rico / U.S. Virgin Islands","type":"Refuge","station":"Caribbean Islands National Wildlife Refuge","name":"James Padilla","title":"Fire Operations Specialist","email":"james_padilla@fws.gov","phone":"787-851-7258-ext 321"}
+{"state":"Florida","type":"Field Office","station":"Panama City Ecological Services/Fish & Wildlife Conservation Office","name":"Dr. Vivian Negron-Ortiz","title":"Botanist, Florida Recovery Coordinator, Plant Recovery, Imperiled Plant Species, Lichen","email":"vivian_negronortiz@fws.gov","phone":"850-769-0552 ext. 231"}
 ,
-{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Edwin E. Muñiz","title":"Field Supervisor","email":"edwin_muniz@fws.gov","phone":"787-851-7297 ext. 200"}
+{"state":"Florida","type":"Field Office","station":"Panama City Ecological Services/Fish & Wildlife Conservation Office","name":"Sandra Pursifull","title":"Ecologist, Listing, Consultation, Freshwater Mussel Recovery","email":"sandra_pursifull@fws.gov","phone":"850-769-0552 ext. 240"}
 ,
-{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Marelisa Rivera","title":"Deputy Field Supervisor","email":"marelisa_rivera@fws.gov","phone":"787-851-7297 ext. 206"}
+{"state":"Florida","type":"Field Office","station":"Panama City Ecological Services/Fish & Wildlife Conservation Office","name":"Melody Ray-Culp","title":"Biologist, Coastal Program Coordinator, CBRA Consultation, Gulf Restoration Program","email":"melody_ray-culp@fws.gov","phone":"850-769-0552 ext. 232"}
 ,
-{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Marisel López-Flores","title":"Project Leader Supervisory Wildlife Biologist, Puerto Rican Parrot Recovery Program","email":"marisel_lopez@fws.gov","phone":"787-888-1810 ext. 5535"}
+{"state":"Florida","type":"Field Office","station":"Panama City Ecological Services/Fish & Wildlife Conservation Office","name":"Channing St. Aubin","title":"Biologist, Contaminant Issues, RESTORE Act, EPA","email":"channing_staubin@fws.gov","phone":"850-769-0552 ext. 248"}
 ,
-{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Carmen Matos","title":"Administrative Officer","email":"carmen_matos@fws.gov","phone":"787-851-7297 ext. 205"}
+{"state":"Florida","type":"Field Office","station":"Panama City Ecological Services/Fish & Wildlife Conservation Office","name":"Kristi Yanchis","title":"Ecologist, Consultation, HCPs, Beach Mice, Recovery, NPS Lead","email":"kristi_yanchis@fws.gov","phone":"850-769-0552 ext. 252"}
 ,
-{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Sandra Perez","title":"Office Automation Assistant","email":"sandra_perez@fws.gov","phone":"787-851-7297 ext. 200"}
+{"state":"Florida","type":"Field Office","station":"Panama City Ecological Services/Fish & Wildlife Conservation Office","name":"Lisa Yarbrough","title":"Biologist, Coastal Uplands, Recovery & Consultation, Sea Turtles, USAF Lead","email":"lisa_yarbrough@fws.gov","phone":"850-769-0552 ext. 225 "}
 ,
-{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Raquel Reyes","title":"Office Automation Assistant, Puerto Rican Parrot Recovery Program","email":"raquel_reyes@fws.gov","phone":"787-888-1810 ext 5535"}
+{"state":"Florida","type":"Field Office","station":"Panama City Ecological Services/Fish & Wildlife Conservation Office","name":"Andrew Hartzog","title":"Fish Biologist, Striped Bass restoration, Shoal Bass Coordinator, Stream restoration, Aquatic monitoring","email":"andrew_hartzog@fws.gov","phone":"850-769-0552 ext. 238"}
 ,
-{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"José Cruz Burgos, PhD","title":"Fish and Wildlife Biologist, Endangered Species Program Coordinator","email":"jose_cruz-burgos@fws.gov","phone":"787-851-7297 ext. 218"}
+{"state":"Florida","type":"Field Office","station":"Panama City Ecological Services/Fish & Wildlife Conservation Office","name":"Dr. Adam Kaeser","title":"Fish Biologist, Gulf Sturgeon Recovery Coordinator, Gulf sturgeon and Mussel research and recovery, Sonar habitat mapping and biological applications","email":"adam_kaeser@fws.gov","phone":"850-769-0552 ext. 244"}
 ,
-{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Ángel G. Colón","title":"Biological Science Student Trainee","email":"angel_colon-santiago@fws.gov","phone":"787-851-7297 ext. 214"}
+{"state":"Florida","type":"Field Office","station":"Panama City Ecological Services/Fish & Wildlife Conservation Office","name":"Chris Metcalf","title":"Fish Biologist, Stream restoration, Partners for Fish and Wildlife","email":"chris_metcalf@fws.gov","phone":"850-769-0552 ext. 224"}
 ,
-{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Xiomara Labiosa","title":" Fish and Wildlife Biologist, Partners and Coastal Program","email":"xiomara_labiosa@fws.gov","phone":"787-851-7297 ext. 222"}
+{"state":"Florida","type":"Field Office","station":"Panama City Ecological Services/Fish & Wildlife Conservation Office","name":"Danielle Bumgardner","title":"Biologist, Tyndall AFB, Sea turtles, Gopher Tortoise and Bald Eagle monitoring, habitat restoration","email":"danielle_bumgardner@fws.gov","phone":""}
 ,
-{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Iván Llerandi Román","title":" Fish and Wildlife Biologist, Habitat Conservation Program Coordinator","email":"ivan_llerandi-roman@fws.gov","phone":"787-851-7297 ext. 224"}
+{"state":"Florida","type":"Field Office","station":"Panama City Ecological Services/Fish & Wildlife Conservation Office","name":"Melanie Kaeser","title":"Ecologist, Tyndall AFB, rare plant species, longleaf pine ecosystem restoration, ecological monitoring","email":"melanie_kaeser@fws.gov","phone":"850-381-7853"}
 ,
-{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Félix López","title":"Ecologist/Contaminants Specialist","email":"felix_lopez@fws.gov","phone":"787-851-7297 ext. 210"}
+{"state":"Florida","type":"Field Office","station":"Panama City Ecological Services/Fish & Wildlife Conservation Office","name":"Rain Ketzler","title":"Biologist, Eglin AFB, Biological Technician","email":"lorraine_p_ketzler@fws.gov","phone":""}
 ,
-{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"José Gilberto Martínez","title":"Wildlife Biologist","email":"jose_martinez@fws.gov","phone":"787-851-7297 ext. 219"}
+{"state":"Florida","type":"Field Office","station":"Panama City Ecological Services/Fish & Wildlife Conservation Office","name":"Bill Tate","title":"Supervisory Fish Biologist, Eglin AFB, Aquatic ecosystem monitoring, Non-game fishes research and recovery","email":"bill_tate@fws.gov","phone":"850-883-1189"}
 ,
-{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Omar Monsegur","title":"Fish and Wildlife Biologist","email":"omar_monsegur@fws.gov","phone":"787-851-7297 ext. 217"}
+{"state":"Florida","type":"Field Office","station":"Panama City Ecological Services/Fish & Wildlife Conservation Office","name":"Jeffrey Van Vrancken","title":"Ecologist, Eglin AFB, Biological data management, Aquatic ecosystem monitoring, Invertebrate identification","email":"jeffrey_vanvrancken@fws.gov","phone":"850-883-1195"}
 ,
-{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Carlos Pacheco","title":"Fish and Wildlife Biologist","email":"carlos_pachecho@fws.gov","phone":"787-851-7297 ext. 221"}
+{"state":"Florida","type":"Field Office","station":"Panama City Ecological Services/Fish & Wildlife Conservation Office","name":"Constance Bowman","title":"Contractor, IT Specialist, Southeast Region","email":"constance_bowman@fws.gov","phone":"850-769-0552 ext. 245"}
 ,
-{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Karen Torres","title":"IT Specialist","email":"karen_torres@fws.gov","phone":"787-851-7297 ext. 203"}
+{"state":"Florida","type":"Field Office","station":"Panama City Ecological Services/Fish & Wildlife Conservation Office","name":"Dr. Jessica Graham","title":"Contractor, Southeast Aquatic Resources Partnership Coordinator","email":"jessica_graham@fws.gov","phone":"850-769-0552 ext. 229"}
 ,
-{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Jennifer Valentín","title":"Biological Science Student Trainee","email":"jennifer_valentin-traverzo@fws.gov ","phone":"787-851-7297 ext. 225"}
+{"state":"Florida","type":"Field Office","station":"Panama City Ecological Services/Fish & Wildlife Conservation Office","name":"Kirsten Luke","title":"Contractor, Atlantic Coast Joint Venture (Region 5)","email":"kirsten_luke@fws.gov","phone":"850-769-0552 ext. 253"}
 ,
-{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Maritza Vargas","title":"Fish and Wildlife Biologist","email":"maritza_vargas@fws.gov","phone":"787-851-7297 ext. 215"}
+{"state":"Georgia","type":"Regional Office","station":"Gulf Restoration Program","name":"Nadine Siak","title":"Public Affairs Specialist","email":"nadine_siak@fws.gov","phone":"404-679-7290"}
 ,
-{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Jan Paul Zegarra","title":"Fish and Wildlife Biologist","email":"jan_zegarra@fws.gov","phone":"787-851-7297 ext. 220"}
+{"state":"Georgia","type":"Regional Office","station":"Law Enforcement","name":"Luis J. Santiago","title":"Special Agent in Charge","email":"luis_santiago@fws.gov","phone":"404-679-7057"}
 ,
-{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Wilfredo Abreu","title":"Biological Science Technician, Puerto Rican Parrot Recovery Program","email":"wilfredo_abreau@fws.gov","phone":"787-888-1810 ext 5535"}
+{"state":"Georgia","type":"Regional Office","station":"Law Enforcement","name":"Darwin Huggins","title":"Assistant Special Agent in Charge","email":"darwin_huggins@fws.gov","phone":"404-679-7040"}
 ,
-{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Gabriel Benítez","title":"Biological Science Technician, Puerto Rican Parrot Recovery Program","email":"gabriel_benitez@fws.gov","phone":"787-888-1810 ext 5535"}
+{"state":"Georgia","type":"Regional Office","station":"Law Enforcement","name":"Sharon Turman","title":"Executive Assistant","email":"sharon_turman@fws.gov","phone":"404-679-7057"}
 ,
-{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Israel Cruz","title":"Facility Operation Specialist,Puerto Rican Parrot Recovery Program","email":"israel_cruz@fws.gov","phone":"787-888-1810 ext 5535"}
+{"state":"Georgia","type":"Regional Office","station":"Law Enforcement","name":"Christine Lynch","title":"Supervisory Program Analyst","email":"christine_lynch@fws.gov","phone":"404-679-7045"}
 ,
-{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Arely Jhonson-Camacho","title":"Biological Science Technician, Puerto Rican Parrot Recovery Program","email":"arely_jhonson-camacho@fws.gov","phone":"787-888-1810 ext 5535"}
+{"state":"Georgia","type":"Regional Office","station":"Law Enforcement","name":"Tiaujanna Burnett","title":"Law Enforcement Case Management Assistant","email":"tiaujanna_burnett@fws.gov","phone":"404-679-7048"}
 ,
-{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Limary Ramírez-Esquilín","title":"Biological Science Technician, Puerto Rican Parrot Recovery Program","email":"limary_ramirez-esquilin@fws.gov","phone":"787-888-1810 ext 5535"}
+{"state":"Georgia","type":"Regional Office","station":"Law Enforcement","name":"Tonia Johnson","title":"Legal Instruments Examiner (Permits/Licenses)","email":"tonia_johnson@fws.gov","phone":"404-679-7195"}
 ,
-{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Jesus Ríos-Cruz","title":"Biological Science Technician, Puerto Rican Parrot Recovery Program","email":"jesus_rios-cruz@fws.gov","phone":"787-888-1810 ext 5535"}
+{"state":"Georgia","type":"Regional Office","station":"Law Enforcement","name":"Darlene Addison","title":"Legal Instruments Examiner (Permits/Licenses)","email":"darlene_addison@fws.gov","phone":"404-679-7053"}
 ,
-{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Iris Rodríguez","title":"Biological Science Technician, Puerto Rican Parrot Recovery Program","email":"iris_rodriguez@fws.gov","phone":"787-888-1810 ext 5535"}
+{"state":"Georgia","type":"Regional Office","station":"Law Enforcement","name":"Stacey Pieters","title":"Budget Analyst","email":"stacey_pieters@fws.gov","phone":"404-679-7314"}
 ,
-{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Miguel Toledo","title":"Biological Science Technician, Puerto Rican Parrot Recovery Program","email":"miguel_toledo@fws.gov","phone":"787-888-1810 ext 5535"}
+{"state":"Georgia","type":"Regional Office","station":"Law Enforcement","name":"Theodore Skarvelis","title":"Information Technology Specialist","email":"theodore_skarvelis@fws.gov","phone":"404-679-7056"}
 ,
-{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Pablo Torres-Baéz","title":"Wildlife Biologist, Puerto Rican Parrot Recovery Program","email":"pablo_torres@fws.gov","phone":"787-888-1810 ext 5535"}
+{"state":"Georgia","type":"Regional Office","station":"External Affairs","name":"Tom MacKenzie","title":"Media Relations Specialist and Native American Liaison","email":"tom_mackenzie@fws.gov","phone":"404-679-7286"}
 ,
-{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Jafet Vélez","title":"Wildlife Biologist, Puerto Rican Parrot Recovery Program","email":"jafet_velez@fws.gov","phone":"787-888-1810 ext 5535"}
+{"state":"Georgia","type":"Regional Office","station":"External Affairs","name":"Jeffrey Fleming","title":"Assistant Regional Director","email":"jeffrey_m_flemming@fws.gov","phone":"404-679-7286"}
 ,
-{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Thomas White, PhD","title":"Wildlife Biologist, Puerto Rican Parrot Recovery Program","email":"thomas_white@fws.gov","phone":"787-888-1810 ext 5535"}
+{"state":"Georgia","type":"Regional Office","station":"External Affairs","name":"Katherine Taylor","title":"Digital Content Specialist","email":"katherine_taylor@fws.gov","phone":"404-679-7125"}
 ,
-{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Damaris Roman","title":"Biological Science Technician, Puerto Rican Parrot Recovery Program","email":"damaris_roman@fws.gov","phone":"787-888-1810 ext 5535"}
+{"state":"Georgia","type":"Regional Office","station":"External Affairs","name":"Elsie Davis","title":"Public Affairs Specialist","email":"elsie_davis@fws.gov","phone":"404-679-7107"}
 ,
-{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Joel Arroyo","title":"Office Support Student Trainee","email":"joel_arroyo@fws.gov","phone":"787-851-7297 ext 208"}
+{"state":"Georgia","type":"Regional Office","station":"External Affairs","name":"Ellen Marcus","title":"Regional Graphic Designer","email":"ellen_marcus@fws.gov","phone":"404-679-7179"}
+,
+{"state":"Georgia","type":"Regional Office","station":"External Affairs","name":"Liz Chebib","title":"Regional Graphic Designer","email":"liz_chebib@fws.gov","phone":"404-679-7181"}
+,
+{"state":"Georgia","type":"Regional Office","station":"External Affairs","name":"Kristen Peters","title":"Legislative Affairs Specialist","email":"kristen_peters@fws.gov","phone":"404-679-7172"}
+,
+{"state":"Georgia","type":"Regional Office","station":"External Affairs","name":"Debra Johnson","title":"Executive Assistant","email":"debra_johnson@fws.gov","phone":"404-679-7282"}
+,
+{"state":"Georgia","type":"Regional Office","station":"External Affairs","name":"Roy Hewitt","title":"Regional Web Developer","email":"roy_hewitt@fws.gov","phone":"404-679-7306"}
 ,
 {"state":"Kentucky","type":"Refuge","station":"Clarks River National Wildlife Refuge","name":"Judy Miller","title":"Office Assistant","email":"judith_miller@fws.gov","phone":"270-527-5770 ext. 201"}
 ,
@@ -371,109 +409,89 @@
 ,
 {"state":"North Carolina","type":"Refuge","station":"Pea Island National Wildlife Refuge","name":"Steve Brumfield","title":"Program Registration, Wings Over Water Coordinator","email":"steve_brumfield@fws.gov","phone":"252-473-1131 ext. 224"}
 ,
-{"state":"Alabama","type":"Refuge","station":"Bon Secour National Wildlife Refuge","name":"Denise Mcinturff","title":"Park Ranger","email":"denise_mcinturff@fws.gov","phone":"251-540-7720"}
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Refuge","station":"Buck Island, Green Cay, Sandy Point National Wildlife Refuges","name":"Michael Evans","title":"Refuge Manager","email":"michael_evans@fws.gov","phone":"340-773-4554"}
 ,
-{"state":"Alabama","type":"Refuge","station":"Bon Secour National Wildlife Refuge","name":"Brittany Petersen","title":"Assistant Refuge Manager","email":"brittany_petersen@fws.gov","phone":"251-540-8524"}
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Refuge","station":"Culebra National Wildlife Refuge","name":"Ricardo Colon-Merced","title":"Wildlife Biologist","email":"ricardo_colon-merced@fws.gov","phone":"787-742-0115"}
 ,
-{"state":"Alabama","type":"Refuge","station":"Bon Secour National Wildlife Refuge","name":"Jackie Sablan","title":"Wildlife Biologist","email":"jacqueline_sablan@fws.gov","phone":"251-540-8523"}
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Refuge","station":"Culebra National Wildlife Refuge","name":"Elizabeth Arizmendi","title":"Maintenance Worker","email":"elizabeth_arizmendi@fws.gov","phone":"787-742-0115"}
 ,
-{"state":"Alabama","type":"Refuge","station":"Bon Secour National Wildlife Refuge","name":"Alyssa Getz","title":"Intern","email":"alyssa_getz@fws.gov","phone":"251-540-7720"}
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Refuge","station":"Cabo Rojo National Wildlife Refuge","name":"Gisella Burgos","title":"Park Ranger","email":"gisella_burgos@fws.gov","phone":"787-851-7258 ext. 311"}
 ,
-{"state":"Alabama","type":"Refuge","station":"Eufaula National Wildlife Refuge","name":"John Earle","title":"Refuge Manager","email":"john_earle@fws.gov","phone":"334-687-4065"}
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Refuge","station":"Caribbean Islands National Wildlife Refuge","name":"Susan Silander","title":"Project Leader","email":"susan_silander@fws.gov","phone":"787-851-7258"}
 ,
-{"state":"Alabama","type":"Refuge","station":"Eufaula National Wildlife Refuge","name":"Cyndi Hall","title":"Environmental Education Specialist","email":"cynthia_n_hall@fws.gov","phone":"334-845-0673"}
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Refuge","station":"Caribbean Islands National Wildlife Refuge","name":"Ana Roman","title":"Deputy Project Leader","email":"ana_roman@fws.gov","phone":"787-851-7258 ext. 305"}
 ,
-{"state":"Alabama","type":"Refuge","station":"Wheeler National Willdife Refuge","name":"Dwight Cooley","title":"Project Leader","email":"dwight_cooley@fws.gov","phone":"256-353-7243"}
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Refuge","station":"Caribbean Islands National Wildlife Refuge","name":"Hortencia Ruiz","title":"Administrative Officer","email":"hortencia_ruiz@fws.gov","phone":"787-851-7258 ext.301"}
 ,
-{"state":"Alabama","type":"Refuge","station":"Wheeler National Willdife Refuge","name":"Teresa Adams","title":"Supervisory Park Ranger","email":"teresa_adams@fws.gov","phone":"256-350-6639"}
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Refuge","station":"Caribbean Islands National Wildlife Refuge","name":"Ricardo Antonetti","title":"Facilities Operation Specialist","email":"ricardo_antonetti@fws.gov","phone":"787-851-7258 ext 314"}
 ,
-{"state":"Alabama","type":"Field Office","station":"Daphne Ecological Services Field Office","name":"Bill Pearson","title":"Field Supervisor","email":"bill_pearson@fws.gov","phone":"251-441-5181"}
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Refuge","station":"Caribbean Islands National Wildlife Refuge","name":"William Wolfrom","title":"Law Enforcement Officer","email":"william_wolfrom@fws.gov","phone":"787-851-7258 ext 317"}
 ,
-{"state":"Alabama","type":"Field Office","station":"Migratory Bird Program Field Office","name":"Karen Frizzel","title":"Office Assistant","email":"karen_frizzel@fws.gov","phone":"334-844-4796"}
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Refuge","station":"Caribbean Islands National Wildlife Refuge","name":"Bryan Marcial","title":"Supervisory Law Enforcement Officer","email":"bryant_marcial@fws.gov","phone":"787-851-7258 ext. 319"}
 ,
-{"state":"Alabama","type":"Field Office","station":"Daphne Ecological Services Field Office","name":"Jeff Powell","title":"Deputy Field Supervisor","email":"jeff_powell@fws.gov","phone":"251-441-5858"}
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Refuge","station":"Caribbean Islands National Wildlife Refuge","name":"Fernando Ramos","title":"Maintenance Mechanic","email":"fernando_ramos@fws.gov","phone":"787-851-7258 ext. 322"}
 ,
-{"state":"Alabama","type":"Field Office","station":"Daphne Ecological Services Field Office","name":"Eric Spadgenske","title":"State Coordinator, Partners for Fish and Wildlife","email":"eric_spadgenske@fws.gov","phone":"251-441-5872"}
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Refuge","station":"Caribbean Islands National Wildlife Refuge","name":"James Padilla","title":"Fire Operations Specialist","email":"james_padilla@fws.gov","phone":"787-851-7258-ext 321"}
 ,
-{"state":"Alabama","type":"Field Office","station":"Daphne Ecological Services Field Office","name":"Bill Lynn","title":"Fish and Wildlife Biologist (Endangered Species Act permitting, consultation)","email":"william_lynn@fws.gov","phone":"251-441-5868"}
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Edwin E. Muñiz","title":"Field Supervisor","email":"edwin_muniz@fws.gov","phone":"787-851-7297 ext. 200"}
 ,
-{"state":"Alabama","type":"Field Office","station":"Daphne Ecological Services Field Office","name":"Shannon Holbrook","title":"Fish and Wildlife Biologist (grants, endangered plants)","email":"shannon_holbrook@fws.gov","phone":"251-441-5171"}
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Marelisa Rivera","title":"Deputy Field Supervisor","email":"marelisa_rivera@fws.gov","phone":"787-851-7297 ext. 206"}
 ,
-{"state":"Alabama","type":"Field Office","station":"Daphne Ecological Services Field Office","name":"Tim Mullet","title":"Wildlife Biologist (landscape ecologist)","email":"tim_mullet@fws.gov","phone":"251-441-5181"}
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Marisel López-Flores","title":"Project Leader Supervisory Wildlife Biologist, Puerto Rican Parrot Recovery Program","email":"marisel_lopez@fws.gov","phone":"787-888-1810 ext. 5535"}
 ,
-{"state":"Florida","type":"Field Office","station":"Panama City Ecological Services/Fish & Wildlife Conservation Office","name":"Dr. Catherine Phillips","title":"Field Supervisor","email":"catherine_phillips@fws.gov","phone":"850-769-0552 ext. 242"}
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Carmen Matos","title":"Administrative Officer","email":"carmen_matos@fws.gov","phone":"787-851-7297 ext. 205"}
 ,
-{"state":"Florida","type":"Field Office","station":"Panama City Ecological Services/Fish & Wildlife Conservation Office","name":"Mark Cantrell","title":"Deputy Field Supervisor/Field Supervisor FWCO","email":"mark_a_cantrell@fws.gov","phone":"850-769-0552 ext. 250"}
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Sandra Perez","title":"Office Automation Assistant","email":"sandra_perez@fws.gov","phone":"787-851-7297 ext. 200"}
 ,
-{"state":"Florida","type":"Field Office","station":"Panama City Ecological Services/Fish & Wildlife Conservation Office","name":"Dr. Sean Blomquist","title":"Deputy Field Supervisor, Ecological Services","email":"sean_blomquist@fws.gov","phone":"850-769-0552 ext. 233"}
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Raquel Reyes","title":"Office Automation Assistant, Puerto Rican Parrot Recovery Program","email":"raquel_reyes@fws.gov","phone":"787-888-1810 ext 5535"}
 ,
-{"state":"Florida","type":"Field Office","station":"Panama City Ecological Services/Fish & Wildlife Conservation Office","name":"Larry Tucker","title":"Administrative Staff, Correspondence, Mail, Building Manager, Equipment Custodian, Service Asset Maintenance Systems","email":"larry_tucker@fws.gov","phone":"850-769-0552 ext. 227"}
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"José Cruz Burgos, PhD","title":"Fish and Wildlife Biologist, Endangered Species Program Coordinator","email":"jose_cruz-burgos@fws.gov","phone":"787-851-7297 ext. 218"}
 ,
-{"state":"Florida","type":"Field Office","station":"Panama City Ecological Services/Fish & Wildlife Conservation Office","name":"Lydia Ambrose","title":"Biologist, GIS Data Manager, CBRA Determinations, Manatee","email":"lydia_ambrose@fws.gov","phone":"850-769-0552 ext. 223"}
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Ángel G. Colón","title":"Biological Science Student Trainee","email":"angel_colon-santiago@fws.gov","phone":"787-851-7297 ext. 214"}
 ,
-{"state":"Florida","type":"Field Office","station":"Panama City Ecological Services/Fish & Wildlife Conservation Office","name":"Patty Kelly","title":"Biologist, Candidate Conservation, Shorebirds, Panama City Crayfish, Red Knot, Migratory Birds, Red-cockaded Woodpecker, Forest Service lead, FEMA lead, Corps-coastal projects POC","email":"patricia_kelly@fws.gov","phone":"850-769-0552 ext. 228 "}
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Xiomara Labiosa","title":" Fish and Wildlife Biologist, Partners and Coastal Program","email":"xiomara_labiosa@fws.gov","phone":"787-851-7297 ext. 222"}
 ,
-{"state":"Florida","type":"Field Office","station":"Panama City Ecological Services/Fish & Wildlife Conservation Office","name":"Paul Lang","title":"Ecologist, GIS Coordinator, Landscape Ecology, Spatial Ecology, SHC, Wood Stork, Bald Eagles, SALT","email":"paul_lang@fws.gov","phone":"850-769-0552 ext. 230 "}
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Iván Llerandi Román","title":" Fish and Wildlife Biologist, Habitat Conservation Program Coordinator","email":"ivan_llerandi-roman@fws.gov","phone":"787-851-7297 ext. 224"}
 ,
-{"state":"Florida","type":"Field Office","station":"Panama City Ecological Services/Fish & Wildlife Conservation Office","name":"Peter Maholland","title":"Biologist, FDOT Transportation Liaison, Wetlands, Section 7 Consultation ","email":"peter_maholland@fws.gov","phone":"850-769-0552 ext. 234"}
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Félix López","title":"Ecologist/Contaminants Specialist","email":"felix_lopez@fws.gov","phone":"787-851-7297 ext. 210"}
 ,
-{"state":"Florida","type":"Field Office","station":"Panama City Ecological Services/Fish & Wildlife Conservation Office","name":"Gayle Martin","title":"Ecologist, GIS, NWR Lead","email":"gayle_martin@fws.gov","phone":"850-867-6222"}
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"José Gilberto Martínez","title":"Wildlife Biologist","email":"jose_martinez@fws.gov","phone":"787-851-7297 ext. 219"}
 ,
-{"state":"Florida","type":"Field Office","station":"Panama City Ecological Services/Fish & Wildlife Conservation Office","name":"Harold Mitchell","title":"Ecologist, Flatwoods Salamander, Indigo Snake, Gopher Tortoise","email":"harold_mitchell@fws.gov","phone":"850-769-0552 ext. 246"}
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Omar Monsegur","title":"Fish and Wildlife Biologist","email":"omar_monsegur@fws.gov","phone":"787-851-7297 ext. 217"}
 ,
-{"state":"Florida","type":"Field Office","station":"Panama City Ecological Services/Fish & Wildlife Conservation Office","name":"Mary Mittiga","title":"Fish and Wildlife Biologist, Transportation Planning, Green Infrastructure, Wetlands, Bats, FDOT and FHWA program lead, FDOT Programmatics","email":"mary_mittiga@fws.gov","phone":"850-769-0552 ext. 236 "}
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Carlos Pacheco","title":"Fish and Wildlife Biologist","email":"carlos_pachecho@fws.gov","phone":"787-851-7297 ext. 221"}
 ,
-{"state":"Florida","type":"Field Office","station":"Panama City Ecological Services/Fish & Wildlife Conservation Office","name":"Dr. Vivian Negron-Ortiz","title":"Botanist, Florida Recovery Coordinator, Plant Recovery, Imperiled Plant Species, Lichen","email":"vivian_negronortiz@fws.gov","phone":"850-769-0552 ext. 231"}
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Karen Torres","title":"IT Specialist","email":"karen_torres@fws.gov","phone":"787-851-7297 ext. 203"}
 ,
-{"state":"Florida","type":"Field Office","station":"Panama City Ecological Services/Fish & Wildlife Conservation Office","name":"Sandra Pursifull","title":"Ecologist, Listing, Consultation, Freshwater Mussel Recovery","email":"sandra_pursifull@fws.gov","phone":"850-769-0552 ext. 240"}
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Jennifer Valentín","title":"Biological Science Student Trainee","email":"jennifer_valentin-traverzo@fws.gov ","phone":"787-851-7297 ext. 225"}
 ,
-{"state":"Florida","type":"Field Office","station":"Panama City Ecological Services/Fish & Wildlife Conservation Office","name":"Melody Ray-Culp","title":"Biologist, Coastal Program Coordinator, CBRA Consultation, Gulf Restoration Program","email":"melody_ray-culp@fws.gov","phone":"850-769-0552 ext. 232"}
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Maritza Vargas","title":"Fish and Wildlife Biologist","email":"maritza_vargas@fws.gov","phone":"787-851-7297 ext. 215"}
 ,
-{"state":"Florida","type":"Field Office","station":"Panama City Ecological Services/Fish & Wildlife Conservation Office","name":"Channing St. Aubin","title":"Biologist, Contaminant Issues, RESTORE Act, EPA","email":"channing_staubin@fws.gov","phone":"850-769-0552 ext. 248"}
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Jan Paul Zegarra","title":"Fish and Wildlife Biologist","email":"jan_zegarra@fws.gov","phone":"787-851-7297 ext. 220"}
 ,
-{"state":"Florida","type":"Field Office","station":"Panama City Ecological Services/Fish & Wildlife Conservation Office","name":"Kristi Yanchis","title":"Ecologist, Consultation, HCPs, Beach Mice, Recovery, NPS Lead","email":"kristi_yanchis@fws.gov","phone":"850-769-0552 ext. 252"}
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Wilfredo Abreu","title":"Biological Science Technician, Puerto Rican Parrot Recovery Program","email":"wilfredo_abreau@fws.gov","phone":"787-888-1810 ext 5535"}
 ,
-{"state":"Florida","type":"Field Office","station":"Panama City Ecological Services/Fish & Wildlife Conservation Office","name":"Lisa Yarbrough","title":"Biologist, Coastal Uplands, Recovery & Consultation, Sea Turtles, USAF Lead","email":"lisa_yarbrough@fws.gov","phone":"850-769-0552 ext. 225 "}
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Gabriel Benítez","title":"Biological Science Technician, Puerto Rican Parrot Recovery Program","email":"gabriel_benitez@fws.gov","phone":"787-888-1810 ext 5535"}
 ,
-{"state":"Florida","type":"Field Office","station":"Panama City Ecological Services/Fish & Wildlife Conservation Office","name":"Andrew Hartzog","title":"Fish Biologist, Striped Bass restoration, Shoal Bass Coordinator, Stream restoration, Aquatic monitoring","email":"andrew_hartzog@fws.gov","phone":"850-769-0552 ext. 238"}
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Israel Cruz","title":"Facility Operation Specialist,Puerto Rican Parrot Recovery Program","email":"israel_cruz@fws.gov","phone":"787-888-1810 ext 5535"}
 ,
-{"state":"Florida","type":"Field Office","station":"Panama City Ecological Services/Fish & Wildlife Conservation Office","name":"Dr. Adam Kaeser","title":"Fish Biologist, Gulf Sturgeon Recovery Coordinator, Gulf sturgeon and Mussel research and recovery, Sonar habitat mapping and biological applications","email":"adam_kaeser@fws.gov","phone":"850-769-0552 ext. 244"}
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Arely Jhonson-Camacho","title":"Biological Science Technician, Puerto Rican Parrot Recovery Program","email":"arely_jhonson-camacho@fws.gov","phone":"787-888-1810 ext 5535"}
 ,
-{"state":"Florida","type":"Field Office","station":"Panama City Ecological Services/Fish & Wildlife Conservation Office","name":"Chris Metcalf","title":"Fish Biologist, Stream restoration, Partners for Fish and Wildlife","email":"chris_metcalf@fws.gov","phone":"850-769-0552 ext. 224"}
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Limary Ramírez-Esquilín","title":"Biological Science Technician, Puerto Rican Parrot Recovery Program","email":"limary_ramirez-esquilin@fws.gov","phone":"787-888-1810 ext 5535"}
 ,
-{"state":"Florida","type":"Field Office","station":"Panama City Ecological Services/Fish & Wildlife Conservation Office","name":"Danielle Bumgardner","title":"Biologist, Tyndall AFB, Sea turtles, Gopher Tortoise and Bald Eagle monitoring, habitat restoration","email":"danielle_bumgardner@fws.gov","phone":""}
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Jesus Ríos-Cruz","title":"Biological Science Technician, Puerto Rican Parrot Recovery Program","email":"jesus_rios-cruz@fws.gov","phone":"787-888-1810 ext 5535"}
 ,
-{"state":"Florida","type":"Field Office","station":"Panama City Ecological Services/Fish & Wildlife Conservation Office","name":"Melanie Kaeser","title":"Ecologist, Tyndall AFB, rare plant species, longleaf pine ecosystem restoration, ecological monitoring","email":"melanie_kaeser@fws.gov","phone":"850-381-7853"}
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Iris Rodríguez","title":"Biological Science Technician, Puerto Rican Parrot Recovery Program","email":"iris_rodriguez@fws.gov","phone":"787-888-1810 ext 5535"}
 ,
-{"state":"Florida","type":"Field Office","station":"Panama City Ecological Services/Fish & Wildlife Conservation Office","name":"Rain Ketzler","title":"Biologist, Eglin AFB, Biological Technician","email":"lorraine_p_ketzler@fws.gov","phone":""}
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Miguel Toledo","title":"Biological Science Technician, Puerto Rican Parrot Recovery Program","email":"miguel_toledo@fws.gov","phone":"787-888-1810 ext 5535"}
 ,
-{"state":"Florida","type":"Field Office","station":"Panama City Ecological Services/Fish & Wildlife Conservation Office","name":"Bill Tate","title":"Supervisory Fish Biologist, Eglin AFB, Aquatic ecosystem monitoring, Non-game fishes research and recovery","email":"bill_tate@fws.gov","phone":"850-883-1189"}
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Pablo Torres-Baéz","title":"Wildlife Biologist, Puerto Rican Parrot Recovery Program","email":"pablo_torres@fws.gov","phone":"787-888-1810 ext 5535"}
 ,
-{"state":"Florida","type":"Field Office","station":"Panama City Ecological Services/Fish & Wildlife Conservation Office","name":"Jeffrey Van Vrancken","title":"Ecologist, Eglin AFB, Biological data management, Aquatic ecosystem monitoring, Invertebrate identification","email":"jeffrey_vanvrancken@fws.gov","phone":"850-883-1195"}
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Jafet Vélez","title":"Wildlife Biologist, Puerto Rican Parrot Recovery Program","email":"jafet_velez@fws.gov","phone":"787-888-1810 ext 5535"}
 ,
-{"state":"Florida","type":"Field Office","station":"Panama City Ecological Services/Fish & Wildlife Conservation Office","name":"Constance Bowman","title":"Contractor, IT Specialist, Southeast Region","email":"constance_bowman@fws.gov","phone":"850-769-0552 ext. 245"}
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Thomas White, PhD","title":"Wildlife Biologist, Puerto Rican Parrot Recovery Program","email":"thomas_white@fws.gov","phone":"787-888-1810 ext 5535"}
 ,
-{"state":"Florida","type":"Field Office","station":"Panama City Ecological Services/Fish & Wildlife Conservation Office","name":"Dr. Jessica Graham","title":"Contractor, Southeast Aquatic Resources Partnership Coordinator","email":"jessica_graham@fws.gov","phone":"850-769-0552 ext. 229"}
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Damaris Roman","title":"Biological Science Technician, Puerto Rican Parrot Recovery Program","email":"damaris_roman@fws.gov","phone":"787-888-1810 ext 5535"}
 ,
-{"state":"Florida","type":"Field Office","station":"Panama City Ecological Services/Fish & Wildlife Conservation Office","name":"Kirsten Luke","title":"Contractor, Atlantic Coast Joint Venture (Region 5)","email":"kirsten_luke@fws.gov","phone":"850-769-0552 ext. 253"}
-,
-{"state":"Georgia","type":"Regional Office","station":"Gulf Restoration Program","name":"Nadine Siak","title":"Public Affairs Specialist","email":"nadine_siak@fws.gov","phone":"404-679-7290"}
-,
-{"state":"Georgia","type":"Regional Office","station":"Law Enforcement","name":"Luis J. Santiago","title":"Special Agent in Charge","email":"luis_santiago@fws.gov","phone":"404-679-7057"}
-,
-{"state":"Georgia","type":"Regional Office","station":"Law Enforcement","name":"Darwin Huggins","title":"Assistant Special Agent in Charge","email":"darwin_huggins@fws.gov","phone":"404-679-7040"}
-,
-{"state":"Georgia","type":"Regional Office","station":"Law Enforcement","name":"Sharon Turman","title":"Executive Assistant","email":"sharon_turman@fws.gov","phone":"404-679-7057"}
-,
-{"state":"Georgia","type":"Regional Office","station":"Law Enforcement","name":"Christine Lynch","title":"Supervisory Program Analyst","email":"christine_lynch@fws.gov","phone":"404-679-7045"}
-,
-{"state":"Georgia","type":"Regional Office","station":"Law Enforcement","name":"Tiaujanna Burnett","title":"Law Enforcement Case Management Assistant","email":"tiaujanna_burnett@fws.gov","phone":"404-679-7048"}
-,
-{"state":"Georgia","type":"Regional Office","station":"Law Enforcement","name":"Tonia Johnson","title":"Legal Instruments Examiner (Permits/Licenses)","email":"tonia_johnson@fws.gov","phone":"404-679-7195"}
-,
-{"state":"Georgia","type":"Regional Office","station":"Law Enforcement","name":"Darlene Addison","title":"Legal Instruments Examiner (Permits/Licenses)","email":"darlene_addison@fws.gov","phone":"404-679-7053"}
-,
-{"state":"Georgia","type":"Regional Office","station":"Law Enforcement","name":"Stacey Pieters","title":"Budget Analyst","email":"stacey_pieters@fws.gov","phone":"404-679-7314"}
-,
-{"state":"Georgia","type":"Regional Office","station":"Law Enforcement","name":"Theodore Skarvelis","title":"Information Technology Specialist","email":"theodore_skarvelis@fws.gov","phone":"404-679-7056"}
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Joel Arroyo","title":"Office Support Student Trainee","email":"joel_arroyo@fws.gov","phone":"787-851-7297 ext 208"}
 ]
