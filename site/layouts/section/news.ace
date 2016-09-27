@@ -1,5 +1,5 @@
 = content main
-  h1 {{ .Title }}
+  h1.page-title {{ .Title }}
 
   ul.news-teaser-list
   {{ $paginator := .Paginate (where .Data.Pages "Type" "news") }}

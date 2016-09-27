@@ -1,7 +1,7 @@
 = content main
   .side-nav
   .main role="main"
-    h1 {{ .Title }}
+    h1.page-title {{ .Title }}
     {{ if .Params.subtitle }}
     h2
       em {{ .Params.subtitle }}
