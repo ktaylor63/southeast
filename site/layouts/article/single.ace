@@ -1,0 +1,13 @@
+= content main
+  .side-nav
+  .main role="main"
+    h1 {{ .Title }}
+    {{ if .Params.subtitle }}
+    h2
+      em {{ .Params.subtitle }}
+    {{ end }}
+
+    p {{ if .Params.author }}By {{ .Params.author }}{{ end }}
+      span.article-date {{ if .Date }}{{ .Date.Format "January 2, 2006" }}{{ end }}
+
+    {{ .Content }}
