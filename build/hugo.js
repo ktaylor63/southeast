@@ -2,11 +2,25 @@
   'use strict';
 
   var rimraf = require('rimraf');
+  var spawn = require('child_process').spawn;
+  var chokidar = require('chokidar');
 
-  rimraf('dist/*', function (err) {
-    if (err) console.error(err);
 
-    var spawn = require('child_process').spawn;
+  if (process.env.WATCH) watcher();
+  else {
+    rimraf('dist/*', function (err) {
+      if (err) console.error(err);
+      hugo();
+    });
+  }
+
+  function watcher() {
+    chokidar.watch('site/**/*', {
+      ignoreInitial: true
+    }).on('all', hugo);
+  }
+
+  function hugo() {
     var hugo = spawn('hugo', [
       '--canonifyURLs=true',
       '--config=site/config.yml',
@@ -22,6 +36,5 @@
     hugo.stderr.on('data', function (data) {
       console.error(data.toString('utf8'));
     });
-
-  });
+  }
 })();
