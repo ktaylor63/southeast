@@ -9,7 +9,7 @@ tags:
     - 'prescribed fire'
     - 'land management'
     - 'national wildlife refuges'
-updated: 'May 26th, 2016'
+updated: 'September 27th, 2016'
 ---
 
 For thousands of years, fire has influenced the southeastern landscape. Today, a broad range of plants, animals and their habitats have developed a harmonious relationship with fire.
@@ -66,7 +66,7 @@ On the day of the burn, equipment and trained personnel are assembled at the sit
 
 ## Tips for Living with Fire
 
-{{< figure class="photo" src="/images/pages/florida-panther-wildfire.jpg" link="https://flic.kr/p/8zkWGd" alt="A firefighter's silhouette with a fire background " caption="A wildfire blazes at Florida Panther National Wildlife Refuge. Photo by Josh O’Connor, USFWS." >}}
+{{< figure class="photo-center" src="/images/pages/florida-panther-wildfire.jpg" link="https://flic.kr/p/8zkWGd" alt="A firefighter's silhouette with a fire background " caption="A wildfire blazes at Florida Panther National Wildlife Refuge. Photo by Josh O’Connor, USFWS." >}}
 
 The relationship of fire and people in the Southeast has a long history. As populations continue to expand into wildland areas, this relationship cannot be lost. Along with the pleasure of living among the wildlands comes the responsibility of preparing home and property for a wildfire. From construction to maintenance, there are things you can do to make your home more fire-resistant and increase the odds that it will still be standing once a fire has passed.
 
@@ -109,9 +109,9 @@ We employ a team of experts across 10 southeastern states and Puerto Rico that p
 
 ## Guides, Training and Resources
 
-### Fire Management Guides by Species
+{{< figure class="photo-center" src="/images/pages/lower-suwanee-fire-group.jpg" alt="Firefighters gather for a picture in front of a fire" link="https://flic.kr/p/mGD8qb" caption="USFWS firefighters working with firefighters from the Prescribed Fire Training Center to conduct a burn at Lower Suwannee National Wildlife Refuge. Photo by Vic Doig, USFWS." >}}
 
-{{< figure class="photo" src="/images/pages/lower-suwanee-fire-group.jpg" alt="Firefighters gather for a picture in front of a fire" link="https://flic.kr/p/mGD8qb" caption="USFWS firefighters working with firefighters from the Prescribed Fire Training Center to conduct a burn at Lower Suwannee National Wildlife Refuge. Photo by Vic Doig, USFWS." >}}
+### Fire Management Guides by Species
 
 Includes desired vegetation structure and fire components, desired habitat conditions, mobility, area sensitivity, and insularity-connectivity consideration.
 

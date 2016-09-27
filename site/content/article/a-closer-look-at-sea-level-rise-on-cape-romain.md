@@ -13,7 +13,7 @@ hero:
     caption: 'An overwashed portion of Cape Island during an extreme tide event in 2007. Photo by Jennifer Koches, USFWS.'
 date: '2011-04-22'
 author: 'Stacy Shelton'
-updated: 'May 26th, 2016'
+updated: 'September 27th, 2016'
 ---
 
 Cape Romain National Wildlife Refuge near Charleston, South Carolina, is a living exhibit for anyone seeking to understand the impacts of rising sea levels in a changing climate.
@@ -36,13 +36,13 @@ Across Bull Bay, there’s another sign of a rising sea, literally. A brown USFW
 The final feature in the living exhibit is on Cape Island, the northernmost barrier island on the refuge and one of the most important loggerhead sea turtle nesting areas on the Atlantic Coast. From 1999 to 2006, the beach receded 180 feet. Many of the loggerheads began nesting in areas that expose eggs to high tides and groundwater intrusion, resulting in mass mortality.  Because of these and other threats to the population, the Service is considering a proposal to up-list the loggerhead from threatened to endangered under the Endangered Species Act.
 In recent years, with help from sea turtle experts at the South Carolina Department of Natural Resources and the South Carolina Aquarium, along with dozens of volunteers, the refuge’s Turtle Recovery Team has been relocating an ever increasing number nests. The nests are dug up and moved to safe areas, away from wash-over areas and high enough to prevent groundwater intrusion. Hatchling success has dramatically improved, from 25 percent to 78 percent.
 
-{{< figure class="photo" src="/images/pages/cape-romain-sandy-point.jpg" alt="Aerial imagery of sandy point from 1949, 1973, 1994, 2006 showing various levels of erosion and sea level rise" caption="The disappearing island at Cape Romain. Photos by USFWS." >}}
+{{< figure class="photo-right" src="/images/pages/cape-romain-sandy-point.jpg" alt="Aerial imagery of sandy point from 1949, 1973, 1994, 2006 showing various levels of erosion and sea level rise" caption="The disappearing island at Cape Romain. Photos by USFWS." >}}
 
 But as the coastal refuge slowly erodes, Nilius is thinking about the future. Ninety-five percent of Cape Romain is less than 5 feet above sea level. The refuge’s habitat is expected to transition from island and salt marsh habitat to an increasing amount of open water and rapidly advancing tidal creeks throughout the marsh. As the refuge’s islands erode, suitable nesting beaches for sea turtles, shorebirds, and seabirds will become rare. Freshwater wetlands that nourish migratory waterfowl will be lost, making those that remain even more valuable. As sea level rises, the marsh may recede inland, where urban development continues to accelerate.
 
 “The ocean encroaches on one side, human population increases on the other and the islands are caught in the middle” Nilius said.
 
-{{< figure class="photo" src="/images/pages/cape-romain-raye-nilius.jpg" alt="Head shot of service employee" caption="Raye Nilius in South Carolina. Photo by Stacy Shelton, USFWS." link="https://flic.kr/p/8rg9tq" >}}
+{{< figure class="photo-center" src="/images/pages/cape-romain-raye-nilius.jpg" alt="Head shot of service employee" caption="Raye Nilius in South Carolina. Photo by Stacy Shelton, USFWS." link="https://flic.kr/p/8rg9tq" >}}
 
 Nilius questions whether in 50 years, Cape Romain will provide the habitat that species depend upon today. The refuge’s future existence may depend on conserving land on the mainland now, before spreading urban development takes away that option.
 

@@ -5,15 +5,15 @@ tags:
     - news
     - multimedia
 aliases:
-  - /news/subscribe.html
-  - /news/faq.html
+    - /news/subscribe.html
+    - /news/faq.html
 hero:
     name: sue-cameron-interview.jpg
     alt: 'Biologist Sue Cameron in front a natural background answers questions on camera'
     caption: 'Video interview with a biologist. Photo by Gary Peeples, USFWS.'
     link: 'https://flic.kr/p/rq46P8'
     position: 'top center'
-updated: 'May 26th, 2016'
+updated: 'September 27th, 2016'
 ---
 
 Our trained communications staff are available to respond to public and media inquiries. If you have a question about the work of the U.S. Fish and Wildlife Service, would like to obtain an official quote, would like to set up an interview, or are seeking photo and video material, please contact us.
@@ -87,9 +87,9 @@ See “General Media Inquiries”
 
 ## Subscribe to Southeast Region News
 
-{{< figure class="photo" src="/images/pages/stack-of-newspapers.jpg" alt="A messy stack of newspapers" link="https://flic.kr/p/bxUyuM" caption="Stack of newspapers. Photo by Faungg, used under the CC by ND 2.0 license." >}}
+{{< figure class="photo-center" src="/images/pages/stack-of-newspapers.jpg" alt="A messy stack of newspapers" link="https://flic.kr/p/bxUyuM" caption="Stack of newspapers. Photo by Faungg, used under the CC by ND 2.0 license." >}}
 
-Our **[fws-southeastnews]** listserv provides the latest news releases, bulletins, and other information about U.S. Fish & Wildlife Service activities in the Southeast Region. Regionally relevant national news releases will be distributed here as well. Questions or comments concerning a particular story should be directed to the person listed as the point of contact.
+Our **fws-southeastnews** listserv provides the latest news releases, bulletins, and other information about U.S. Fish & Wildlife Service activities in the Southeast Region. Regionally relevant national news releases will be distributed here as well. Questions or comments concerning a particular story should be directed to the person listed as the point of contact.
 
 To subscribe, send an email:
 
