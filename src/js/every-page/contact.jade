@@ -1,3 +1,13 @@
-each person in contacts
-  - var email = 'mailto:' + person.email;
-  li| #[a(href=email) #{person.name}], #{person.title}, #{person.phone}
+table.striped-table.contacts-table
+  thead
+    tr
+      th Name
+      th Title
+      th Phone
+  tbody
+    each person in contacts
+      - var email = 'mailto:' + person.email;
+      tr
+        td| #[a(href=email) #{person.name}]
+        td.title-field| #{person.title}
+        td= person.phone
