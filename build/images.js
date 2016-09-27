@@ -24,30 +24,34 @@
   //    7. Write file to disk
   // 8. If the PRODUCTION env variable is NOT set, kick off the watcher
 
-  rimraf(output + '*', init);
+  init();
 
   function init() {
-    if (process.env.PRODUCTION) {
+    if (process.env.WATCH) {
+      console.log('Watching images for changes...');
+      watcher();
+    } else {
+
       console.log('Processing images...');
 
-      directories.forEach(function (size) {
-        var currentDir = input + size + '/';
+      rimraf(output + '*', function(err) {
+        if (err) console.error(err);
+        directories.forEach(function (size) {
+          var currentDir = input + size + '/';
 
-        fs.readdir(currentDir, function(err, files) {
-          if (err) console.error(err);
-          // If there's a DS Store item, remove it
-          var i = files.indexOf('.DS_Store');
-          if (i > -1) files.splice(i,1);
+          fs.readdir(currentDir, function(err, files) {
+            if (err) console.error(err);
+            // If there's a DS Store item, remove it
+            var i = files.indexOf('.DS_Store');
+            if (i > -1) files.splice(i,1);
 
-          files.forEach(function (name) {
-            processImage( path.join(input, size, name), parseInt(size) );
+            files.forEach(function (name) {
+              processImage( path.join(input, size, name), parseInt(size) );
+            });
           });
-        });
 
+        });
       });
-    } else {
-      console.log('Processing hero images and watching for changes...');
-      watcher();
     }
   }
 
@@ -71,7 +75,9 @@
 
   function watcher() {
     var glob = input + '**/*';
-    chokidar.watch(glob)
+    chokidar.watch(glob, {
+      ignoreInitial: true
+    })
       .on('add', processImage)
       .on('change', processImage)
       .on('unlink', removeImage);
