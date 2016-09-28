@@ -19,10 +19,6 @@ footer {
   @media (min-width: $break-md) {
     padding-left: $nav-width;
   }
-
-  @media (min-width: $break-scrollnav) {
-    padding-right: $sidenav-width;
-  }
 }
 
 .footer-links {
@@ -32,6 +28,7 @@ footer {
 
   li {
     display: inline-block;
+    margin: 5px 0;
 
     &::after {
       content: ' | '
