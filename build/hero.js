@@ -56,9 +56,7 @@
 
   function watcher() {
     var glob = input + '*';
-    chokidar.watch(glob, {
-      ignoreInitial: true
-    })
+    chokidar.watch(glob)
       .on('add', processHeroImage)
       .on('change', processHeroImage)
       .on('unlink', removeImage);

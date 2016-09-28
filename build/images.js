@@ -75,9 +75,7 @@
 
   function watcher() {
     var glob = input + '**/*';
-    chokidar.watch(glob, {
-      ignoreInitial: true
-    })
+    chokidar.watch(glob)
       .on('add', processImage)
       .on('change', processImage)
       .on('unlink', removeImage);

@@ -4,18 +4,23 @@
   "description": "Source code the the Southeast Region website of the U.S. Fish and Wildlife Service",
   "main": "index.js",
   "watch": {
-    "svg": "src/images/svg/*.svg"
+    "svg": "src/images/svg/*.svg",
+    "hugo:dev": {
+      "patterns": [
+        "site/**/*"
+      ],
+      "extensions": "html,md,ace,css,js,jpg,png,json"
+    }
   },
   "scripts": {
     "watch": "npm-watch",
     "hero": "node build/hero",
     "images": "node build/images",
     "watch:hero": "cross-env WATCH=true node build/hero",
-    "watch:hugo": "cross-env WATCH=true npm run hugo:dev",
     "watch:images": "cross-env WATCH=true node build/images",
     "watch:json": "cross-env WATCH=true node build/minify-json",
     "watch:sass": "node-sass -w src/scss/styles.scss site/static/css/styles.css",
-    "watchers": "npm run watch:json & npm run watch:hero & npm run watch:images & npm run watch & npm run watch:sass & npm run lastmod & npm run watch:hugo",
+    "watchers": "npm run watch:json & npm run watch:hero & npm run watch:images & npm run watch & npm run watch:sass & npm run lastmod",
     "svg": "svg-sprite --si true --symbol-dest '' --svg-xmldecl false --ss sprite.svg -sD site/layouts/partials/ src/images/svg/*.svg",
     "build:sass": "node-sass --output-style compressed src/scss/styles.scss | postcss -u autoprefixer -o site/static/css/styles.css",
     "json": "node build/minify-json",
@@ -24,9 +29,9 @@
     "hugo:dev": "node build/hugo -- http://localhost:3000/",
     "hugo:stage": "node build/hugo -- https://intranet.fws.gov/region4/demo/",
     "hugo:pro": "node build/hugo -- https://www.fws.gov/southeast/",
-    "serve": "browser-sync start --server 'dist' --files 'dist/**/*' --logLevel 'silent' --reload-delay 1400",
+    "serve": "browser-sync start --server 'dist' --files 'dist/**/*' --log-level 'silent'",
     "prestart": "npm run mkdist && npm run hero & npm run images && npm run build:sass && npm run json",
-    "start": "npm run watchers & npm run serve",
+    "start": "npm run serve",
     "build": "npm run json && npm run hero && npm run images && npm run svg && npm run build:sass",
     "deploy": "npm run build && npm run hugo:pro",
     "stage": "npm run build && npm run hugo:stage"
