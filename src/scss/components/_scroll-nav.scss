@@ -29,15 +29,16 @@
       left: $nav-width;
     }
 
-    @media (min-width: $break-scrollnav) {
-      height: 100vh;
-      left: auto;
-      max-height: 100vh;
+    @media (min-width: 1200px) {
+      border-radius: $border-radius;
+      height: auto;
+      left: $nav-width + $container-width + 25px;
+      max-height: 90vh;
       overflow-y: scroll;
-      padding-bottom: 20px;
-      right: 0;
+      right: auto;
       text-align: left;
-      width: $sidenav-width;
+      top: $leading;
+      transition: all $transition-duration;
 
       li {
         &:hover,
@@ -49,15 +50,11 @@
   }
 
   &.open {
-    border-bottom-right-radius: $border-radius;
     border-bottom-left-radius: $border-radius;
+    border-bottom-right-radius: $border-radius;
     max-height: 1500px;
     overflow-y: scroll;
     transition: all $transition-duration;
-
-    &:not(.fixed) {
-      height: 0;
-    }
   }
 
   &__list {
