@@ -17,9 +17,7 @@
 
   function init() {
     if (process.env.WATCH) {
-      chokidar.watch(jsonSrc, {
-        ignoreInitial: true
-      })
+      chokidar.watch(jsonSrc)
         .on('add', minifyJson)
         .on('change', minifyJson)
         .on('unlink', removeJson)
