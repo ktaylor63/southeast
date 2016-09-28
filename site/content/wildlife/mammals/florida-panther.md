@@ -17,7 +17,7 @@ hero:
     alt: 'A Florida panther walking on a gravel road with a slash pine forest in the background'
     name: florida-panther.jpg
     position: 'left center'
-updated: 'September 27th, 2016'
+updated: 'September 28th, 2016'
 ---
 
 - **Taxon:** Mammal
