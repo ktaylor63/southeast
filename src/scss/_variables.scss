@@ -31,14 +31,14 @@ $sidenav-width: 300px;
 $glossary-max-width: 850px;
 
 // Max width for Content
-$container-width: 900px;
+$container-width: 825px;
 
 // Breakpoints
 $break-xs: 400px;
 $break-sm: 500px;
 $break-md: 600px;
 $break-lg: 900px;
-$break-scrollnav: $nav-width + $container-width + $sidenav-width + 125;
+$break-scrollnav: 1200px;
 
 // Transitions
 $transition-duration: .3s;
