@@ -1,0 +1,12 @@
+article.feature-article-summary
+  div.feature-article-summary__hero style="background-image: url({{ .Site.BaseURL }}/images/hero/{{ .Params.hero.name }})"
+    h2 {{ .Title }}
+
+  .feature-article-summary__teaser
+    {{ if .Params.subtitle }}
+    h3 {{ .Params.subtitle }}
+    {{ end }}
+    p {{ .Summary }}
+
+    div.feature-article-summary__button
+      a.button href="{{ .Permalink }}" Read Article
