@@ -7,9 +7,14 @@ tags:
     - Louisiana
     - 'Louisiana black bear'
     - Recovery
+hero:
+    name: louisiana-black-bear-cubs-three.jpg
+    alt: 'Three small black bear cubs yawning in unison.'
+    link: 'https://flic.kr/p/bECJNP'
+    caption: 'Louisiana black bear cubs. Photo by Brad Young, Mississippi Department of Wildlife, Fisheries and Parks.'
 author: 'Nadine Siak, USFWS Gulf Restoration Program'
 date: '2016-03-10'
-updated: 'September 27th, 2016'
+updated: 'September 30th, 2016'
 ---
 
 {{< figure class="photo" src="/images/pages/louisiana-black-bear-debbie-fuller.jpg" alt="Debbie fuller holding a Louisiana black bear cub" caption="The Service’s Debbie Fuller holding a Louisiana black bear cub and enjoying one of those moments that “makes all the paperwork worth it.” Photo by USFWS." >}}
