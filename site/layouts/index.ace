@@ -34,8 +34,7 @@ html lang="en-US"
           {{ end }}
         {{ end }}
 
-
-
+    span.hide-scrollnav
 
     = include partials/footer.html .
     = include partials/contact.html .
