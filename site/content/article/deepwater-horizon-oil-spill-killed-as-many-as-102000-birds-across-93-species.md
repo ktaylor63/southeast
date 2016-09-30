@@ -1,5 +1,6 @@
 ---
 title: 'Deepwater Horizon oil spill killed as many as 102,000 birds across 93 species'
+description: 'In order to hold those responsible for an oil spill accountable for injury and death of wildlife biologists estimate the total number of animals killed, which can be a difficult process.'
 tags:
     - 'Gulf of Mexico'
     - 'Deepwater Horizon Oil Spill'
@@ -9,7 +10,7 @@ hero:
     caption: 'A USFWS biologist documents the GPS coordinates for a dead gull found in Gulfport, Mississippi, during the Deepwater Horizon oil spill. Photo by Bonnie Strawser, USFWS.'
 author: 'Nancianne Regalado, NRDA'
 date: '2016-06-01'
-updated: 'September 27th, 2016'
+updated: 'September 30th, 2016'
 ---
 
 The Deepwater Horizon oil spill occurred more than six years ago, but for many of us the memories of the spill are still fresh in our minds. As the well continued to spew oil for weeks, and given the inevitability of widespread injury and death of wildlife, many people worried whether those responsible for the spill would be held accountable. As proved by the historic $20.8 billion settlement with BP reached in May 2016, responsible parties can be held accountable. The U.S Fish and Wildlife Service played a key role in that outcome.
