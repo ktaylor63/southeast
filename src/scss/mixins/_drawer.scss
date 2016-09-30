@@ -22,7 +22,7 @@
     transform: translateY(-100%);
 
     &.active {
-      top: 80px;
+      top: 62px;
       transform: translateY(0);
 
       @media (min-width: $break-md) {
@@ -44,7 +44,7 @@
     transform: translateY(100%);
 
     &.active {
-      top: 80px;
+      top: 62px;
       transform: translateY(0);
 
       @media (min-width: $break-md) {
