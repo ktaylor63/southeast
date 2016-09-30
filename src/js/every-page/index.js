@@ -21,6 +21,7 @@
   var baseUrl = document.body.getAttribute('data-root');
   var anchors = document.querySelectorAll('a');
   var contactLinks = document.querySelectorAll('.toggle-contact');
+  var hideScrollnav = document.querySelector('.hide-scrollnav');
   var scrollNav,
       terms;
 
@@ -38,7 +39,9 @@
     this.ref('id');
   };
 
-  if (content.querySelectorAll('h2').length > 0) {
+  // This is kinda confusing.  If the parameter "scrollnav" is set in the page's
+  // we don't want to initialize the scroll nav
+  if (content.querySelectorAll('h2').length > 0 && !hideScrollnav) {
     nav.init({
       content: document.getElementById('content'),
       insertTarget: document.querySelector('.side-nav'),
@@ -82,11 +85,11 @@
     document.querySelector('.glossary-trigger').addEventListener('click', glossary.toggle);
   });
 
-  Array.prototype.forEach.call(anchors, function(anchor) {
+  [].forEach.call(anchors, function(anchor) {
     if ( anchor.href.indexOf(baseUrl) === -1 ) anchor.setAttribute('target', '_blank');
   });
 
-  Array.prototype.forEach.call(contactLinks, function (link) {
+  [].forEach.call(contactLinks, function (link) {
     link.addEventListener('click', function() {
       if (!contactsDownloaded) {
         contacts.init();
