@@ -1,0 +1,57 @@
+.hero-homepage {
+  background-image: url(../images/hero/harris-neck-wildlife-drive.jpg);
+  background-position: center bottom;
+  background-size: cover;
+  min-height: 300px;
+  text-align: center;
+
+  @media (min-width: $break-md) {
+    margin-left: $nav-width;
+  }
+
+  @media (min-width: $break-lg) {
+    min-height: 400px;
+  }
+}
+
+.homepage-lead {
+  margin: auto;
+  max-width: 800px;
+  padding: 3%;
+  text-align: center;
+
+  a.button {
+    display: inline-block;
+    margin: 2em 0;
+    padding: 1em;
+    text-transform: uppercase;
+  }
+
+  @media (min-width: $break-md) {
+    padding: 3% 25px 3% $nav-width + 25px;
+  }
+}
+
+.site-title {
+  color: white;
+  display: inline-block;
+  margin: 0;
+  position: relative;
+  text-shadow: 1px 1px 2px #000;
+  top: 100px;
+
+  &::after {
+    border-top: 2px solid white;
+    content: 'Southeast Region';
+    display: block;
+    font-family: $sans-serif;
+    padding-top: .25em;
+    position: relative;
+    text-transform: uppercase;
+    top: .25em;
+  }
+
+  @media (min-width: $break-lg) {
+    top: 150px;
+  }
+}
