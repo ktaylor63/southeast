@@ -25,7 +25,7 @@
       transform: translateY(0);
 
       @media (min-width: $break-md) {
-        left: $nav-width;
+        padding-left: $nav-width + 18px;
         top: 0;
         transform: translateX(0);
       }
@@ -61,8 +61,6 @@
   @media (min-width: $break-md) {
     border-top-right-radius: $border-radius;
     border-bottom-left-radius: 0;
-    max-width: $max-width;
-    width: calc(100% - $nav-width);
   }
 
   .close-drawer {
