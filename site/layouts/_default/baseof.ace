@@ -15,4 +15,7 @@ html lang="en-US"
     = include partials/footer.html .
     = include partials/contact.html .
     = include partials/share.html .
+    {{ if isset .Params "scrollnav" }}
+    span.hide-scrollnav
+    {{ end }}
     = include partials/scripts.html .
