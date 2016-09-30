@@ -1,6 +1,7 @@
 // Colors
 $light-green: #a5d6a7;
 $dark-green: #00796b;
+$tennessee-orange: #F77F00;
 $dark-gray: #333;
 $white: #fff;
 
@@ -38,7 +39,8 @@ $break-xs: 400px;
 $break-sm: 500px;
 $break-md: 600px;
 $break-lg: 900px;
-$break-scrollnav: 1200px;
+$break-xl: 1200px;
+$break-scrollnav: $break-xl;
 
 // Transitions
 $transition-duration: .3s;
