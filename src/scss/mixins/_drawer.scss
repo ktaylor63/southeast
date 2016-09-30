@@ -12,6 +12,7 @@
 
   &.active {
     @include shadow(3);
+    max-width: $drawer-width;
   }
 
   &.#{$item}-left {
@@ -47,7 +48,7 @@
       transform: translateY(0);
 
       @media (min-width: $break-md) {
-        left: $nav-width;
+        padding-right: $nav-width + 18px;
         top: 0;
         transform: translateX(0);
       }
