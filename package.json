@@ -20,7 +20,7 @@
     "watch:images": "cross-env WATCH=true node build/images",
     "watch:json": "cross-env WATCH=true node build/minify-json",
     "watch:sass": "node-sass -w src/scss/styles.scss site/static/css/styles.css",
-    "watchers": "npm run watch:json & npm run watch:hero & npm run watch:images & npm run watch & npm run watch:sass & npm run lastmod",
+    "watchers": "npm run watch:json & npm run watch:hero & npm run watch:images & npm run watch:sass & npm run lastmod",
     "svg": "svg-sprite --si true --symbol-dest '' --svg-xmldecl false --ss sprite.svg -sD site/layouts/partials/ src/images/svg/*.svg",
     "build:sass": "node-sass --output-style compressed src/scss/styles.scss | postcss -u autoprefixer -o site/static/css/styles.css",
     "json": "node build/minify-json",
@@ -30,7 +30,8 @@
     "hugo:stage": "node build/hugo -- https://intranet.fws.gov/region4/demo/",
     "hugo:pro": "node build/hugo -- https://www.fws.gov/southeast/",
     "serve": "browser-sync start --server 'dist' --files 'dist/**/*' --log-level 'silent' --reload-delay '1100'",
-    "start": "npm run serve",
+    "prestart": "npm run hugo:dev",
+    "start": "npm run watch & npm run serve",
     "build": "npm run json && npm run hero && npm run images && npm run svg && npm run build:sass",
     "deploy": "npm run build && npm run hugo:pro",
     "stage": "npm run build && npm run hugo:stage"
