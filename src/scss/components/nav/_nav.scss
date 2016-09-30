@@ -9,7 +9,7 @@
 
   ul {
     list-style: none;
-    padding-left: 0;
+    padding: 0;
   }
 
   .logo {
@@ -20,7 +20,7 @@
 
 .nav-list {
   @include shadow(3);
-  background: $dark-green;
+  background: $color-accent;
   margin: 0;
   min-width: $nav-width;
   padding: 7px;
@@ -42,8 +42,7 @@
 
 .nav-item {
   display: inline-block;
-  margin-right: .2em;
-  padding: 5px;
+  margin: .25em .5em .25em 0;
   position: relative;
   text-align: center;
 
@@ -80,7 +79,6 @@
   text-decoration: none;
   transition: transform $transition-duration;
 
-
   &:hover,
   &:focus {
     transform: scale(1.3);
@@ -89,14 +87,26 @@
 
 .nav-text {
   display: block;
-  font-size: 16px;
+  font-size: 13px;
+
+  @media (min-width: $break-md) {
+    font-size: 15px;
+  }
 }
 
 // Show the contact button as soon as there is room
+.home-icon {
+  display: none;
+
+  @media (min-width: 356px) {
+    display: inline-block;
+  }
+}
+
 .contact-icon {
   display: none;
 
-  @media(min-width: 400px) {
+  @media(min-width: 415px) {
     display: inline-block;
   }
 }
