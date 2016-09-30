@@ -1,0 +1,86 @@
+.feature-article-summary {
+
+  &__hero {
+    background-size: cover;
+    background-position: center center;
+    min-height: 300px;
+    text-align: center;
+
+    h2 {
+      color: white;
+      display: inline-block;
+      margin: 0;
+      position: relative;
+      text-shadow: 1px 1px 2px #000;
+      top: 100px;
+
+      &::after {
+        border-top: 2px solid white;
+        content: 'Feature Story';
+        display: block;
+        font-family: $sans-serif;
+        padding-top: .25em;
+        position: relative;
+        text-transform: uppercase;
+        top: .25em;
+      }
+
+      @media (min-width: $break-lg) {
+        top: 150px;
+      }
+    }
+
+    @media (min-width: $break-lg) {
+      height: 400px;
+    }
+  }
+
+  &__teaser {
+    margin: auto;
+    max-width: $container-width;
+    padding: 5%;
+  }
+
+  &__button {
+    text-align: center;
+  }
+
+  a.button {
+    display: inline-block;
+    margin: 2em 0;
+    padding: 1em;
+    text-transform: uppercase;
+  }
+
+  @media (min-width: $break-md) {
+    margin-left: $nav-width;
+  }
+}
+
+.article-gallery {
+  @extend %clearfix;
+  list-style: none;
+  padding: 2%;
+
+  .gallery-hero {
+    background-size: cover;
+    height: 300px;
+
+    @media (min-width: $break-md) {
+      height: 400px;
+    }
+  }
+
+  li {
+    margin-bottom: 4em;
+
+    @media(min-width: $break-xl) {
+      @include gallery(6 of 12);
+      margin-bottom: 2em;
+    }
+  }
+
+  @media (min-width: $break-md) {
+    margin-left: $nav-width;
+  }
+}
