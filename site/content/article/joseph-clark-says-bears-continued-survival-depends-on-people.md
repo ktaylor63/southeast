@@ -8,9 +8,13 @@ tags:
     - 'Louisiana black bear'
     - Recovery
     - Research
+hero:
+    name: louisiana-black-bear-eating-grass-pam-mcilhenny.jpg
+    alt: 'A black bear in a field locks eyes with the camera as it eats grassy vegetation.'
+    caption: 'Louisiana black bear. Photo by Pam Mcilhenny, used with permission.'
 author: 'Nadine Siak, USFWS Gulf Restoration Program'
 date: '2016-03-10'
-updated: 'May 12th, 2016'
+updated: 'September 30th, 2016'
 ---
 
 {{< figure class="photo" src="/images/pages/louisiana-black-bear-joe-clark.jpg" alt="Joe Clark holding a bear skull in his office" caption="Joseph Clark shows off the skull of a black bear, an impressively resilient animal that he says can be considered more intelligent than even primates." >}}
