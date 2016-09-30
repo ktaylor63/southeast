@@ -1,10 +1,27 @@
 .wrapper {
-  @include container($container-width);
-  margin: auto;
   padding: 0 3%;
 
   // Account for the docked navbar
   @media (min-width: $break-md) {
-    padding-left: $nav-width + 15px;
+    margin-left: $nav-width + 25px;
+  }
+}
+
+#content {
+  @include container;
+
+  .main {
+    margin: auto;
+    max-width: $container-width;
+
+    @media (min-width: $break-xl) {
+      @include span(8 of 12);
+    }
+  }
+
+  .side-nav {
+    @media (min-width: $break-xl) {
+      @include span(4 of 12 at 9);
+    }
   }
 }
