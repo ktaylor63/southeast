@@ -1,10 +1,12 @@
 = content main
-  .side-nav
   .main role="main"
+    {{ if ne .Type "index" }}
     = include partials/breadcrumbs.html .
+
     h1.page-title {{ .Title }}
     {{ if .Params.subtitle }}
     h2
       em {{ .Params.subtitle }}
+    {{ end }}  
     {{ end }}
     {{ .Content }}
