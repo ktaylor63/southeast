@@ -1,5 +1,4 @@
 = content main
-  .side-nav
   .main role="main"
     h1.page-title {{ .Title }}
     {{ if .Params.subtitle }}
