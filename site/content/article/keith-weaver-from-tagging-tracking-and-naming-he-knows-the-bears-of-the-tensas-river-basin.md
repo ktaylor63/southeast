@@ -7,7 +7,7 @@ tags:
     - 'Tensas River'
     - 'National Wildlife Refuges'
     - 'Louisiana black bear'
-    - 'Arkansas,'
+    - 'Arkansas'
     - Louisiana
     - Recovery
 author: 'Nadine Siak, USFWS Gulf Restoration Program'
