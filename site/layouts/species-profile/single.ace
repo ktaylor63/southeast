@@ -1,6 +1,5 @@
 = content main
   .main role="main"
-    = include partials/breadcrumbs.html .
     h1.page-title {{ .Title }}
     h2.scientific-name {{ .Params.scientific }}
     {{ .Content }}
