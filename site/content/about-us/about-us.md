@@ -4,8 +4,10 @@ description: 'Facts and figures related to the Southeast Region of the USFWS, wh
 tags:
     - 'About Us'
     - Budget
+url: /about-us
 aliases:
     - /director
+    - /about
 hero:
     name: refuge-manager-takes-a-call.jpg
     alt: 'A refuge manager in a U.S. Fish and Wildlife Service uniform takes a phone call from a boat.'
