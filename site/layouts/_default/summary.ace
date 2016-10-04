@@ -1,0 +1,11 @@
+section class="card {{ if .Params.hero.name }}card-hero{{ end }}"
+  {{ if .Params.hero.name }}
+  img src="{{ .Site.BaseURL }}images/hero/{{ .Params.hero.name }}" alt="{{ .Params.hero.alt }}"
+  {{ end }}
+  div.card-text
+    h3 {{ .Title }}
+    p {{ if .Description }}{{ .Description }}{{ else }}{{ .Summary }}{{ end }}
+      span &nbsp;
+        a href="{{ .Permalink }}" {{ if eq .Section "news"}}Read the full story...{{ else if eq .Section "wildlife" }}Visit the species profile...{{ else if eq .Section "article" }}Read the full article...{{ else }}Learn more...{{ end }}
+    p
+      small {{ .Params.hero.caption }}
