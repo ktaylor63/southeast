@@ -12,11 +12,12 @@ tags:
     - Alabama
     - Kentucky
     - Tennessee
+    - Gulf
 hero:
     name: rough-pigtoe.jpg
     alt: 'A close up photo of a yellow mussel shell'
     caption: 'Adult rough pigtoe in the Green River in Kentucky. Photo by Monte McGregor, Center Mollusk Conservation, Kentucky DFWR.'
-updated: 'September 27th, 2016'
+updated: 'October 3rd, 2016'
 ---
 - Taxon: Bivalve
 - Range:  Alabama, Indiana, Kentucky and Virginia
