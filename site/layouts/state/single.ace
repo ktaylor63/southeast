@@ -1,12 +1,13 @@
 = content main
-  h1.page-title {{ .Title }}
+  .main role="main"
+    h1.page-title {{ .Title }}
 
-  h2 Fast Facts
-  ul.threatened-species.fade-list
-  ul.endangered-species.fade-list
-  ul.at-risk-species.fade-list
+    h2 Fast Facts
+    ul.threatened-species.fade-list
+    ul.endangered-species.fade-list
+    ul.at-risk-species.fade-list
 
-  {{ .Content }}
+    {{ .Content }}
 
-  span.state-name {{ .Title }}
-  span.state-abbreviation {{ .Params.abbreviation }}
+    span.state-name {{ .Title }}
+    span.state-abbreviation {{ .Params.abbreviation }}
