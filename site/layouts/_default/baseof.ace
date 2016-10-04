@@ -9,8 +9,11 @@ html lang="en-US"
     = include partials/hero.html .
     .wrapper
       .container
+        {{ if (eq .Section "wildlife") }}
+        = include partials/breadcrumbs.html .
+        {{ end }}
         #content
-          .side-nav
+          .side-nav role="complimentary"
           = yield main
     = include partials/footer.html .
     = include partials/contact.html .
