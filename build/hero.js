@@ -5,6 +5,7 @@
   var imageminMozjpeg = require('imagemin-mozjpeg');
   var rimraf = require('rimraf');
   var chokidar = require('chokidar');
+  var mkdirp = require('mkdirp');
 
   var fs = require('fs');
   var path = require('path');
@@ -12,7 +13,7 @@
   var input = 'src/images/hero/';
   var output = 'site/static/images/hero/';
   var images = fs.readdirSync(input);
-  var outSize = 1400;
+  var outSizes = [1400, 850];
 
   // If there's a DS Store item, remove it
   var i = images.indexOf('.DS_Store');
@@ -33,8 +34,9 @@
       watcher();
     } else {
       console.log('Processing hero images...');
-      rimraf(output + '*', function(err) {
+      rimraf(output + '**/*.jpg', function(err) {
         if (err) console.error(err);
+
         images.forEach(function(name) {
           processHeroImage( path.join(input, name) );
         });
@@ -46,10 +48,17 @@
     var img = sharp(filepath);
     var filename = path.basename(filepath);
     img
-      .resize(outSize)
+      .resize(outSizes[0])
       .toBuffer(function (err, buffer, info) {
         if (err) console.error(err);
         var outfile = output + filename;
+        minify(buffer, outfile);
+      });
+    img
+      .resize(outSizes[1])
+      .toBuffer(function (err, buffer, info) {
+        if (err) console.error(err);
+        var outfile = output + 'medium/' + filename;
         minify(buffer, outfile);
       });
   }
