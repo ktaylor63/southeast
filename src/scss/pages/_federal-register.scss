@@ -5,6 +5,10 @@
 .federal-register-item {
   @include card;
 
+  .card-text {
+    padding-top: 2 * $leading;
+  }
+
   a[href$=".pdf"]::after {
     content: '';
   }
