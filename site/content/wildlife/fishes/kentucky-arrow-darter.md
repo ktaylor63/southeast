@@ -1,6 +1,6 @@
 ---
 title: 'Kentucky Arrow Darter'
-description: 'The Kentucky arrow darter is a small fish found only in Kentucky. It is currently proposed to be protected as a threatened species under the Endangered Species Act.'
+description: 'The Kentucky arrow darter is a small fish found only in Kentucky. It is currently protected as a threatened species under the Endangered Species Act.'
 scientific: 'Etheostoma spilotum'
 type: species-profile
 js: /js/species-profile.js
@@ -9,21 +9,25 @@ aliases:
 tags:
     - Fish
     - Kentucky
-    - 'Threatened Species'
+    - Threatened
+    - 'Kentucky arrow darter'
 hero:
     name: kentucky-arrow-darter.jpg
     caption: 'Photo by J.R. Shute, Conservation Fisheries, Inc.'
-    alt: null
+    alt: 'A small, brightly colored orange and blue fish in an aquarium.'
     position: 'left center'
-updated: 'September 27th, 2016'
+updated: 'October 4th, 2016'
 ---
 
 - **Taxon: Fish**
 - **Range: [Kentucky](/kentucky)**
 - **Status: Proposed as Threatened**
+- [Download the Kentucky arrow darter fact sheet](/pdf/kentucky-arrow-darter-fact-sheet.pdf)
 
 ## News and Events
-The Kentucky arrow darter is currently [proposed to be protected as threatened](https://www.gpo.gov/fdsys/pkg/FR-2015-10-08/pdf/2015-25278.pdf) under the Endangered Species Act. The proposal was published in the *Federal Register* on October 8, 2015 and the public comment period closed on December 7, 2015. For the latest information on the proposal, please contact our Kentucky Field Office at (502) 695–0468.
+
+- **October 4, 2016**: The U.S. Fish and Wildlife Service is [finalizing the listing](https://www.fws.gov/news/ShowNews.cfm?ref=service-finalizes-listing-for-kentucky-arrow-darter-&_ID=35826) of the Kentucky arrow darter as threatened under the Endangered Species Act (ESA) with exemptions provided under Section 4(d) of the ESA. At the same time, the Service is finalizing the designation of critical habitat for the species and releasing a final economic analysis examining impacts of the critical habitat designation.
+- **October 8, 2015**: The Service [proposed the Kentucky arrow darter to be protected as threatened](https://www.gpo.gov/fdsys/pkg/FR-2015-10-08/pdf/2015-25278.pdf) under the Endangered Species Act. The public comment period closed on December 7, 2015. For the latest information on the proposal, please contact our Kentucky Field Office at (502) 695-0468.
 
 ## Appearance
 Kentucky arrow darters are small members of the perch family of fish, growing a little longer than 4.5 inches. They thrive in shallow water and spawn just 6 inches from the surface. Like most arrow darters, but unlike most other fish species, males defend their nests. They establish their territories and defend their eggs until they’ve hatched.
@@ -68,13 +72,10 @@ Habitat for the Kentucky arrow darter has been severely degraded by water pollut
 This species is not currently listed under the Endangered Species Act, therefore it does not have a recovery plan.
 
 ## Subject Matter Experts
-- Michael A. Floyd, PhD, Fish and Wildlife Biologist, Kentucky. mike_floyd@fws.gov
+- [Michael A. Floyd](mailto:mike_floyd@fws.gov?subject=Kentucky+arrow+darter), PhD, Fish and Wildlife Biologist, Kentucky.
 
 ## Designated Critical Habitat
 Critical habitat is only for federally protected species, therefore, critical habitat is not designated for this species.
-
-## Historical News
- - October 7, 2015: [Service Proposes Threatened Status for Kentucky Arrow Darter, Includes Proposed Critical Habitat and Draft Economic Analysis](https://www.fws.gov/news/ShowNews.cfm?ID=431655AD-A0F0-5922-EEEE9402462A349E)
 
 ## Federal Register Documents
 
