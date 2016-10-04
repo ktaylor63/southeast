@@ -1,9 +1,15 @@
 ---
-title: Snake Smuggler Busted in Orlando
-date: 2012-08-24
+title: 'Snake Smuggler Busted in Orlando'
+date: '2012-08-24'
+hero:
+    name: boa-constrictor.jpg
+    alt: 'The head of a large boa constrictor being handled by a biologist.'
+    link: 'https://flic.kr/p/fZ7SQM'
+    caption: 'Boa constrictor. Photo by FWC.'
 tags:
- - Wildlife Trafficking
- - Law Enforcement
+    - 'Wildlife Trafficking'
+    - 'Law Enforcement'
+updated: 'October 3rd, 2016'
 ---
 
 On August 23, 2012, Mateus Dal Maso, Jr. pled guilty to attempting to export 27 snakes from the Orlando International Airport, Florida.
@@ -24,7 +30,7 @@ Aloise went on to say the National Reptile Breeders Exposition in Daytona Beach 
 
 The snakes are being held by the U.S. Fish and Wildlife Service at an undisclosed care facility.
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

@@ -1,7 +1,12 @@
 ---
 title: Crayfish survey reports available for public review
 subtitle: Agency invites further public comment on proposed endangered protections
-date: 2015-12-14
+date: '2015-12-14'
+hero:
+  name: big-sandy-crayfish.jpg
+  alt: A lobster-shaped and colored crayfish with tinges of rust and blue.
+  link: https://flic.kr/p/qXGti8
+  caption: Big Sandy crayfish. Photo by Zachary Loughman, West Liberty University.
 tags:
  - Crayfish
  - Kentucky
@@ -26,15 +31,10 @@ For the past forty years, the ESA has been successful in preventing the extincti
 
 The Service invites public comment at [regulations.gov](http://regulations.gov/) under docket #FWS-R5-ES-2015-0015\. Maps, photos and more information are available at: [www.fws.gov/northeast/crayfish](http://www.fws.gov/northeast/crayfish).
 
-**Contact(s):**  
+## Contacts
 
 Meagan Racey (VA, WV), 413-253-8558  
 [meagan_racey@fws.gov](mailto:meagan_racey@fws.gov)
 
 Elsie Davis (KY) 404-679-7107  
 [elsie_davis@fws.gov](mailto:elsie_davis@fws.gov)
-
-![A dark grey and brown crayfish with a large claw standing on rocky substrate.](images/newsUploads/newsThumbs/newsImageThumbA1B4899C-AAA5-9727-5B6BF1B1D63C9764.jpg)
-
-Big Sandy crayfish Credit: Zachary Loughman, West Liberty University  
-[Higher Quality Version of Image](https://flic.kr/p/qXGti8)

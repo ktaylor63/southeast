@@ -1,6 +1,11 @@
 ---
 title: Dan River Natural Resource Trustees Seek Public Input on Draft Damage Assessment Plan for Dan River Coal Ash Spill
-date: 2015-06-16
+date: '2015-06-16'
+hero:
+  name: dan-river-coal-ash-spill.jpg
+  alt: A collapsed field of gray and black ash cut through by a stream.
+  link: https://flic.kr/p/jXsnfH
+  caption: Dan River coal ash spill. Photo by Rick Dove, <a href='https://www.flickr.com/photos/waterkeeperalliance/'>Waterkeeper Alliance Inc.</a> <a href='https://creativecommons.org/licenses/by-nc/2.0/legalcode'>CC BY-NC 2.0</a>.
 tags:
  - Coal Ash Spill
  - North Carolina
@@ -16,7 +21,7 @@ To obtain a copy of the draft assessment plan and learn more about the damage as
 
 Public participation is an important part of the natural resource damage assessment and restoration process. As outlined in the notice, people have 30 days, or until July 17, to comment on the draft assessment plan. Requests for paper copies and written comments regarding the plan should be addressed to: Sara Ward, U.S. Fish and Wildlife Service, P.O. Box 33726, Raleigh, NC  27636-3726, 919-856-4520 ext. 30, Sara_Ward@fws.gov or Susan Lingenfelser, U.S. Fish and Wildlife Service, 6669 Short Lane, Gloucester VA 23061, 804-824-2415, Susan_Lingenfelser@fws.gov.
 
-**Contact(s):**  
+## Contacts
 
 Tom MacKenzie, USFWS Southeast Region External Affairs  
 (m) 678-296-6400, [Tom_MacKenzie@fws.gov](mailto:Tom_MacKenzie@fws.gov)
@@ -30,10 +35,3 @@ Office of Environmental Education and Public Affairs,
 
 Bill Hayden, Virginia Department of Environmental Quality  
 804-698-4447,[William.Hayden@DEQ.Virginia.gov](mailto:William.Hayden@DEQ.Virginia.gov)
-
-* * *
-
-![Exposed grey soil in a dormant winter landscape.](images/newsUploads/newsThumbs/newsImageThumbFD3A433F-9FCF-9DE8-222D6C52E535BF91.jpg)
-
-The breached impoundment that released coal ash and coal ash wastewater. Credit: USFWS  
-[Higher Quality Version of Image](http://www.fws.gov/southeast/news/images/dan-river-coal-ash-breached-impoundment.png)

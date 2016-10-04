@@ -1,6 +1,6 @@
 ---
 title: Department of the Interior Honors Fish and Wildlife Service Employees at 66th Awards Convocation Ceremony Two Southeastern Employees Among Recipients
-date: 2009-05-13
+date: '2009-05-13'
 tags:
  - Awards
 ---
@@ -27,9 +27,7 @@ Other heavy equipment coordinators receiving the Organizational Achievement Awar
 
 Jim Chandler, the Service’s regional Safety Manger in Denver, Colorado, also received the Organization Achievement Award for his involvement in the development of a training course for the investigation of serious accidents he developed along with safety personnel from other governmental agencies.  
 
-The mission of the U.S. Fish and Wildlife Service is working with others to conserve, protect and enhance fish, wildlife, plants and their habitats for the continuing benefit of the American people. We are both a leader and trusted partner in fish and wildlife conservation, known for our scientific excellence, stewardship of lands and natural resources, dedicated professionals and commitment to public service. For more information on our work and the people who make it happen, visit [./southeast/www.fws.gov">.southeast](http://www.fws.gov) or [/www.fws.gov](http://www.fws.gov)
-
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

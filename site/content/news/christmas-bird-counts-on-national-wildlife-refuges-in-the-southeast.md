@@ -1,8 +1,14 @@
 ---
-title: Christmas Bird Counts on National Wildlife Refuges in the Southeast
-date: 2013-12-13
+title: 'Christmas Bird Counts on National Wildlife Refuges in the Southeast'
+date: '2013-12-13'
+hero:
+    name: great-horned-owl-close-up.jpg
+    alt: 'Two bright orange eyes dominate a close-up photograph of an owl.'
+    link: 'https://flic.kr/p/92wY8v'
+    caption: 'Close up of face of great horned owl. Photo by Susan Rachlin, USFWS.'
 tags:
- - NWRS
+    - NWRS
+updated: 'October 3rd, 2016'
 ---
 
 “On the first day of Christmas my true love gave to me a partridge in a pear tree.” If you are a bird lover, this holiday song may be especially near and dear to your heart. Of course no one in their right mind would turn down five golden rings, but to be presented with an opportunity to watch seven swans a swimming – as a birding enthusiast, that’s something you cannot put a price on. That priceless gift of enjoying birds in their natural habitat is one that is being protected by a time-honored tradition known as the Christmas Bird Count.
@@ -17,16 +23,9 @@ Another important scientific contribution the Christmas Bird Count has made is i
 
 National Wildlife Refuges provide habitat for over 700 species of birds. More than 200 refuges were created to specifically to protect, manage and restore habitat for migratory birds. Each year, millions of migrating birds use refuges as stepping-stones while they fly thousands of miles between their summer and winter homes. We are proud to provide havens for birds across the southeast, and [compiled the following information](http://www.fws.gov/southeast/news/2013/094.html#AL) of bird counts on refuges.
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  
 Telephone: 703-358-2220  
 Website: [https://www.fws.gov/external-affairs/public-affairs/](https://www.fws.gov/external-affairs/public-affairs/)
-
-* * *
-
-![Susan Rachlin - USFWS](images/newsUploads/newsThumbs/newsImageThumb8AD6CCF5-9A85-833E-810D270FE54CCBE9.jpg)
-
-Close up of face of great horned owl. Credit: Great Horned Owl at John Heinz National Wildlife Refuge, Pennsylvania  
-[Higher Quality Version of Image](http://www.flickr.com/photos/43322816@N08/5268212819/in/photolist-92wY8v-9J8EGf-9J5Qe6-9J8CC5-9J8DuS-dMWJFm-9J5PEZ-dMRbai-e7TYBe-e7ZE5b-9J5LTZ-9EnhDW-9Enihw-9Ejokv-9EnhxW-9EjoaD-8kSYiY-aA9unC-8kSYg3-8kSYdb-8kPM3M)

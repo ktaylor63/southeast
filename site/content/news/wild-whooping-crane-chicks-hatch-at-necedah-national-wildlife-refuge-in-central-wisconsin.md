@@ -1,9 +1,15 @@
 ---
-title: Wild Whooping Crane Chicks Hatch at Necedah National Wildlife Refuge in Central Wisconsin
-date: 2011-05-13
+title: 'Wild Whooping Crane Chicks Hatch at Necedah National Wildlife Refuge in Central Wisconsin'
+date: '2011-05-13'
+hero:
+    name: whooping-crane-chick.jpg
+    alt: 'A plush adult whooping crane with food attached to it''s plastic tongue feeds a small, beige chick.'
+    link: 'https://flic.kr/p/9r47zc'
+    caption: 'A whooping crane chick fed by a biologist in a rearing costume that mimics an adult crane.'
 tags:
- - Whooping crane
- - NWRS
+    - 'Whooping crane'
+    - NWRS
+updated: 'October 3rd, 2016'
 ---
 
 The U.S. Fish and Wildlife Service’s Necedah National Wildlife Refuge (NWR) and the Whooping Crane Eastern Partnership (WCEP) are celebrating another success in efforts to reintroduce a wild migratory whooping crane population in eastern North America.
@@ -30,7 +36,7 @@ Whooping Crane Eastern Partnership founding members are the International Crane 
 
 Many other flyway states, provinces, private individuals and conservation groups have joined forces with and support WCEP by donating resources, funding and personnel. More than 60 percent of the project’s budget comes from private sources in the form of grants, public donations and corporate sponsors.
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

@@ -1,8 +1,13 @@
 ---
-title: Tornado Strikes White River National Wildlife Refuge
-date: 2009-08-07
+title: 'Tornado Strikes White River National Wildlife Refuge'
+date: '2009-08-07'
+hero:
+    name: white-river-nwr-tornado-damage.jpg
+    alt: 'A forest of felled trees some snapped in half after a tornado.'
+    caption: 'Tornado damage on the refuge. Photo by USFWS.'
 tags:
- - NWRS
+    - NWRS
+updated: 'October 3rd, 2016'
 ---
 
 A tornado twisted through White River National Wildlife Refuge in St. Charles, Arkansas, on July 30, 2009, leaving an eight-mile path of destruction. The tornado felled bottomland hardwood trees on about 1,750 acres as it traveled through the refuge’s Jacks Bay area northeast through Big Island.
@@ -19,7 +24,7 @@ For up to five years, this tornado’s debris will give suitable nesting habitat
 
 However, Acadian flycatchers and other birds that depend on old-growth forests probably won’t be seen in the area affected by the tornado for more than 20 years.
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

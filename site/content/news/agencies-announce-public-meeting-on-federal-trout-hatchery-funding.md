@@ -1,10 +1,16 @@
 ---
-title: Agencies Announce Public Meeting on Federal Trout Hatchery Funding
-date: 2014-05-14
+title: 'Agencies Announce Public Meeting on Federal Trout Hatchery Funding'
+date: '2014-05-14'
+hero:
+    name: rainbow-trout-in-hand.jpg
+    alt: 'A colorful yellow and red trout covered in small black spots.'
+    link: 'http://digitalmedia.fws.gov/cdm/singleitem/collection/natdiglib/id/4507/rec/1'
+    caption: 'A wildlife biologist holds a rainbow trout. Photo by Mark Lisac, USFWS.'
 tags:
- - Tennessee
- - Georgia
- - Fisheries
+    - Tennessee
+    - Georgia
+    - Fisheries
+updated: 'October 3rd, 2016'
 ---
 
 KNOXVILLE, Tenn. – Representatives from the Tennessee Valley Authority, the U.S. Fish & Wildlife Service, Tennessee Wildlife Resources Agency and Georgia Department of Natural Resources (the Agencies) will host a public meeting on Tuesday, May 27, 2014, to receive input on long-term funding recommendations under consideration by the Agencies that will continue popular trout stocking programs in reservoirs and tailwaters of certain TVA dams across the region.
@@ -29,6 +35,8 @@ The short-term funding agreement allows for the continuation of trout stocking f
 
 The Tennessee Valley Authority is a corporate agency of the United States that provides electricity for business customers and local power distributors serving 9 million people in parts of seven southeastern states. TVA receives no taxpayer funding, deriving virtually all of its revenues from sales of electricity. In addition to operating and investing its revenues in its electric system, TVA provides flood control, navigation and land management for the Tennessee River system and assists local power companies and state and local governments with economic development and job creation.
 
+## Contacts
+
 Cathy Coffey, TVA Public Relations, Knoxville   
 865-632-6000,  
 [ccoffey@tva.gov](mailto:ccoffey@tva.gov) [www.tva.com/news](http://www.tva.com/news)
@@ -44,8 +52,3 @@ Don King, TWRA
 Melissa Cummings, GA DNR  
 770-918-678  
 [Melissa.Cummings@dnr.state.ga.us](mailto:Melissa.Cummings@dnr.state.ga.us)
-
-![A rainbow trout in the hands of a biologist.](http://www.fws.gov/news/images/newsUploads/newsThumbs/newsImageThumbFC644C4A-DDCA-6535-A915DB183A9E06A9.jpg)
-
-A wildlife biologist holds a rainbow trout. Credit: Mark Lisac / USFWS  
-[Higher Quality Version of Image](http://digitalmedia.fws.gov/cdm/singleitem/collection/natdiglib/id/4507/rec/1)

@@ -1,10 +1,17 @@
 ---
-title: "Conservation Success: Tennessee Purple Coneflower Delisted"
-date: 2011-08-04
+title: 'Conservation Success: Tennessee Purple Coneflower Delisted'
+date: '2011-08-04'
+hero:
+    name: tennessee-purple-coneflower.jpg
+    alt: 'A bumblebee feasting on flower nectar from a purple flower.'
+    link: 'https://flic.kr/p/dyqYNe'
+    caption: 'Bumblebee on a purple coneflower. Photo by <a href="https://www.flickr.com/photos/brent_nashville/">Brent Moore</a>, <a href="https://creativecommons.org/licenses/by-nc/2.0/legalcode">CC BY-NC 2.0</a>'
+    position: 'top right'
 tags:
- - Tennessee
- - Tennessee purple coneflower
- - Delist
+    - Tennessee
+    - 'Tennessee purple coneflower'
+    - Delist
+updated: 'October 3rd, 2016'
 ---
 
 Thanks to the efforts of many partners who have worked together for more than 30 years to expand and protect this sunflower’s colonies, the U.S. Fish and Wildlife Service is removing the Tennessee purple coneflower from the Federal List of Endangered and Threatened Wildlife and Plants in 30 days, by September 2, 2011.  This plant is found in the limestone barrens and cedar glades of Davidson, Rutherford, and Wilson Counties. 
@@ -21,20 +28,15 @@ Among the leaders responsible for the Tennessee coneflower’s recovery is TDEC.
 
 When Tennessee purple coneflower is removed from the List of Endangered and Threatened Wildlife and Plants, federal agencies will no longer need to consult with the U.S. Fish and Wildlife Service to ensure any action they authorize, fund, or carry out is not likely to jeopardize the continued existence of this species.  The Service will work with TDEC to implement a post-delisting monitoring plan for at least five years. 
 
-The final delisting rule is being published in the _Federal Register _today.  The rule and post delisting monitoring plan are on the Cookeville Ecological Services Field Office website at [http://www.fws.gov/cookeville/](http://www.fws.gov/cookeville/).  Copies of the rule and post-delisting monitoring plan also are available by contacting Geoff Call, recovery coordinator, U.S. Fish and Wildlife Service,  
-446 Neal Street, Cookeville, Tennessee 38501 (telephone 931/528-6481, extension 213; facsimile 931/528-7075). 
+The final delisting rule is being published in the _Federal Register_ today.  The rule and post delisting monitoring plan are on the Cookeville Ecological Services Field Office website at [http://www.fws.gov/cookeville/](http://www.fws.gov/cookeville/).  Copies of the rule and post-delisting monitoring plan also are available by contacting Geoff Call, recovery coordinator, U.S. Fish and Wildlife Service, 446 Neal Street, Cookeville, Tennessee 38501 (telephone 931/528-6481, extension 213; facsimile 931/528-7075). 
 
 Tennessee purple coneflower is in the genus _Echinacea_, which includes several purple coneflower species commercially marketed for ornamental and medicinal purposes.  The Tennessee purple coneflower can be found commercially for landscaping purposes, but most often these plants are hybrids.  The Tennessee purple coneflower is not among the primary species of _Echinacea_ that are used or studied for medicinal purposes.
 
-**Related Websites:**
+## Related Websites
 
-*   [USFWS Cookeville, Tennessee Field Office](http://www.fws.gov/cookeville/)
+ - [USFWS Cookeville, Tennessee Field Office](http://www.fws.gov/cookeville/)
 
-[![What looks like a bright purple-pink version of a black-eyed susan flower](http://www.fws.gov/southeast/news/2011/images/TNconeflowerNRCS150.jpg)](http://www.fws.gov/southeast/news/2011/images/TNconeflowerNRCSfull.jpg)
-
-Photo: USDA NRCS.
-
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

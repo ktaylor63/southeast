@@ -1,8 +1,9 @@
 ---
-title: 4-H National Headquarters and U.S. Fish and Wildlife Service Honor Louisiana Youth Wetlands Education and Outreach 4-H Program
-date: 2011-03-17
+title: '4-H National Headquarters and U.S. Fish and Wildlife Service Honor Louisiana Youth Wetlands Education and Outreach 4-H Program'
+date: '2011-03-17'
 tags:
- - Louisiana
+    - Louisiana
+updated: 'October 3rd, 2016'
 ---
 
 The 4-H National Headquarters and the U. S. Fish and Wildlife Service presented the 2011 Connecting Youth with Nature through Natural Resources Conservation Education Award to the Louisiana State University AgCenter’s 4-H Youth Wetlands Program at the 76th North American Wildlife and Natural Resources Conference being held in Missouri.  
@@ -15,7 +16,7 @@ The 4-H Youth Wetlands Program has approximately 85,000 students enrolled in the
 
 The award program was initiated in 1980 to recognize 4-H volunteer leaders from across the country who assist youth in learning about wildlife and fisheries conservation and management. The Wildlife Management Institute, the Association of Fish and Wildlife Agencies and the Boone and Crockett Club also support the award program.
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

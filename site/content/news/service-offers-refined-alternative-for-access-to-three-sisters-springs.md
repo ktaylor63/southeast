@@ -1,12 +1,19 @@
 ---
-title: Service Offers Refined Alternative for Access to Three Sisters Springs
-subtitle: Seeks 14-day Public Review as 2015-16 Manatee Season Nears
-date: 2015-11-10
+title: 'Service Offers Refined Alternative for Access to Three Sisters Springs'
+subtitle: 'Seeks 14-day Public Review as 2015-16 Manatee Season Nears'
+date: '2015-11-10'
+hero:
+    name: manatee-group-near-surface.jpg
+    alt: 'A group of manatees swims near the surface of clear blue water.'
+    link: 'https://flic.kr/p/7ZigE4'
+    caption: 'Manatees swim close to the surface and frequently come up for air. Credit: Jim Reid, USFWS.'
+    position: 'top center'
 tags:
- - Three Sisters Springs
- - NWRS
- - Manatee
- - Florida
+    - 'Three Sisters Springs'
+    - NWRS
+    - Manatee
+    - Florida
+updated: 'October 3rd, 2016'
 ---
 
 A [refined proposal](http://fws.gov/southeast/news/pdf/three-sister-springs-draft-environmental-assessment-in-water-crystal-river-nwr-november-2015.pdf) to provide access to Three Sisters Springs at Crystal River National Wildlife Refuge is being released today and it includes three noteworthy changes from an [August draft proposal](http://www.fws.gov/news/ShowNews.cfm?ID=FE2C63F6-5056-AF00-5B5A1B5A1D9B9D17) released by the U.S. Fish and Wildlife Service.
@@ -36,8 +43,3 @@ Ivan Vicente, 352-563-2088 x211
 
 Tom MacKenzie, 404-679-7291  
 [Tom_MacKenzie@fws.gov](mailto:Tom_MacKenzie@fws.gov)
-
-![A group of manatees swims just below the water's surface](images/newsUploads/newsThumbs/newsImageThumbF218A3EF-A529-EDC4-205C01CCE11C8135.jpg)
-
-Manatees swim close to the surface and frequently come up for air. Credit: Jim Reid, USFWS  
-[Higher Quality Version of Image](https://flic.kr/p/7ZigE4)

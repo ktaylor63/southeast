@@ -1,9 +1,15 @@
 ---
-title: TWRA Confirms First Cases of White Nose Syndrome in Tennessee Bats
-date: 2010-02-16
+title: 'TWRA Confirms First Cases of White Nose Syndrome in Tennessee Bats'
+date: '2010-02-16'
+hero:
+    name: little-brown-bat-wns.jpg
+    alt: 'A small bat with white powder around it''s nose covered in tiny water droplets.'
+    link: 'https://flic.kr/p/9LgAog'
+    caption: 'Little brown bat with white-nose syndrome. Photo by Jonathan Mays, ME Dept. of Inland Fisheries and Wildlife.'
 tags:
- - White-nose syndrome
- - Tennessee
+    - 'White-nose syndrome'
+    - Tennessee
+updated: 'October 3rd, 2016'
 ---
 
 NASHVILLE, TN - The Tennessee Wildlife Resources Agency (TWRA) has received confirmation that two bats have tested positive for White Nose Syndrome (WNS), a white fungus that is responsible for the deaths of thousands of bats in the Eastern United States.
@@ -34,7 +40,7 @@ Podcast available at [http://www.fws.gov/southeast/http://www.fws.gov/southwest/
 
 Photo available at [Newsroom">http://news.tennesseeanytime.org/node/4596](http://news.tennesseeanytime.org/node/4596&linkname=Tennessee.gov). This is one of two two-colored bats collected last week showing signs of White Nose Syndrome. Photo by Sterling Daniels, TWRA.
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

@@ -1,9 +1,15 @@
 ---
-title: Coqui Llanero May Warrant Protection Under Endangered Species Act
-date: 2009-07-08
+title: 'Coqui Llanero May Warrant Protection Under Endangered Species Act'
+date: '2009-07-08'
+hero:
+    name: coqui-llanero.jpg
+    alt: 'A tiny yellow/orange frog with big round eyes.'
+    link: 'https://flic.kr/p/dRd6aq'
+    caption: 'Coqui Llanero. Photo by <a href="https://www.flickr.com/photos/ljvillanueva/">Luis J. Villanueva</a> <a href="https://creativecommons.org/licenses/by-nc-sa/2.0/#">CC BY-NC-SA 2.0.</a>'
 tags:
- - Puerto Rico
- - Coqui llanero
+    - 'Puerto Rico'
+    - 'Coqui llanero'
+updated: 'October 3rd, 2016'
 ---
 
 The Caribbean tree frog, Coqui llanero, may warrant federal protection as a threatened or endangered species, the U.S. Fish and Wildlife Service announced today, following an initial review of a petition from the Caribbean Primate Research Center, seeking to protect the Coqui llanero under the Endangered Species Act (ESA).
@@ -18,8 +24,9 @@ To ensure a comprehensive status review, the Service is seeking information rega
 
 Based on the status review, the Service will make one of three possible determinations:
 
-*   (2) Listing as threatened or endangered is warranted. In this case, the Service will publish a proposal to list, solicit independent scientific peer review of the proposal, seek input from the public, and consider the input before a final decision about listing the species is made. In general, there is a one-year period between the time a species is proposed and the final decision.
-*   (3) Listing is warranted, but precluded by other, higher priority activities. This means the species is added to the federal list of candidate species, and the proposal to list is deferred while the Service works on listing proposals for other species that are at greater risk. A warranted but precluded finding requires subsequent annual reviews of the finding until a listing proposal is published, or a not warranted finding is made based on new information.
+  1. Listing is not warranted, in which case no further action will be taken.
+  2. Listing as threatened or endangered is warranted. In this case, the Service will publish a proposal to list, solicit independent scientific peer review of the proposal, seek input from the public, and consider the input before a final decision about listing the species is made. In general, there is a one-year period between the time a species is proposed and the final decision.
+  3. Listing is warranted, but precluded by other, higher priority activities. This means the species is added to the federal list of candidate species, and the proposal to list is deferred while the Service works on listing proposals for other species that are at greater risk. A warranted but precluded finding requires subsequent annual reviews of the finding until a listing proposal is published, or a not warranted finding is made based on new information.
 
 The Endangered Species Act makes it illegal to kill, harm, or otherwise "take" a listed species, or to possess, import, export or engage in interstate or international commerce of a listed species without authorization in the form of a permit from the Service. The Act also requires all federal agencies to minimize the impact of their activities on listed species, and directs the Service to work with federal agencies and other partners to develop and carry out recovery efforts for those species. Listing also focuses attention on the needs of the species, encouraging conservation efforts by other agencies (federal, state and local), conservation groups and other organizations and individuals.
 
@@ -27,15 +34,15 @@ The Coqui llanero is recently described as a new species and named after biologi
 
 Written comments on the 90-day finding will be accepted until September 8, 2009, and should be submitted by one of the following methods:
 
-[&linkname=Regulations.gov">http://www.regulations.gov](http://www.regulations.gov)
+[http://www.regulations.gov](https://www.regulations.gov)
 
-*   U.S. mail or hand-delivery: Public Comments Processing, Attn: FWS-R4-ES-2009-0022; Division of Policy and Directives Management; U.S. Fish and Wildlife Service; 4401 N. Fairfax Drive, Suite 222; Arlington, VA 22203.
+ - U.S. mail or hand-delivery: Public Comments Processing, Attn: FWS-R4-ES-2009-0022; Division of Policy and Directives Management; U.S. Fish and Wildlife Service; 4401 N. Fairfax Drive, Suite 222; Arlington, VA 22203.
 
-For pictures and more information about the coqui llanero and this finding, please visit the Service’s web site at. [www.fws.gov/caribbean/es/coquillanero.html](http://www.fws.gov/caribbean/es/coquillanero.html).
+For pictures and more information about the coqui llanero and this finding, please visit the Service’s web site at. [www.fws.gov/caribbean/es/coquillanero.html](https://www.fws.gov/caribbean/es/coquillanero.html).
 
-The mission of the U.S. Fish and Wildlife Service is working with others to conserve, protect and enhance fish, wildlife, plants and their habitats for the continuing benefit of the American people. For more information on our work and the people who make it happen, visit [/www.fws.gov](http://www.fws.gov) or [http://www.fws.gov/southeast](http://www.fws.gov/southeast).
+The mission of the U.S. Fish and Wildlife Service is working with others to conserve, protect and enhance fish, wildlife, plants and their habitats for the continuing benefit of the American people. For more information on our work and the people who make it happen, visit [www.fws.gov](https://www.fws.gov) or [http://www.fws.gov/southeast](https://www.fws.gov/southeast).
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

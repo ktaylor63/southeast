@@ -1,13 +1,19 @@
 ---
-title: Agencies Conserve Imperiled Species in Eastern Kentucky; Propose delisting for one plant, and positive steps for a darter
-date: 2015-08-31
+title: 'Agencies Conserve Imperiled Species in Eastern Kentucky; Propose delisting for one plant, and positive steps for a darter'
+date: '2015-08-31'
+hero:
+    name: white-haired-goldenrod.jpg
+    alt: 'Green leafy vegetation with bright yellow flowers climbs a rock face.'
+    link: 'https://flic.kr/p/x7kHCR'
+    caption: 'White-haired goldenrod. Photo by John MacGregor, KDFWR.'
 tags:
- - Kentucky
- - White-haired goldenrod
- - Kentucky arrow darter
+    - Kentucky
+    - 'White-haired goldenrod'
+    - 'Kentucky arrow darter'
+updated: 'October 3rd, 2016'
 ---
 
-Stanton, Ky. – State and Federal conservation agencies came together here today to celebrate partnerships that are delivering conservation successes in eastern Kentucky. 
+Stanton, KY – State and Federal conservation agencies came together here today to celebrate partnerships that are delivering conservation successes in eastern Kentucky. 
 
 After more than two decades of collaboration and conservation work in the Daniel Boone National Forest, the U.S. Fish and Wildlife Service is proposing to remove the [white-haired goldenrod](http://fws.gov/southeast/wildlife/plant/white-haired-goldenrod) – a plant unique to eastern Kentucky – from the list of threatened and endangered species under the Endangered Species Act (ESA).
 
@@ -39,7 +45,7 @@ Written comments concerning the proposed delisting of the white-haired goldenrod
 
 For more information about the proposed delisting of white-haired goldenrod, please visit [http://fws.gov/southeast/wildlife/plant/white-haired-goldenrod](http://fws.gov/southeast/wildlife/plant/white-haired-goldenrod) or the U.S. Fish and Wildlife Service’s Kentucky Ecological Services Field Office website at [http://www.fws.gov/frankfort/](http://www.fws.gov/frankfort/).
 
-**Contact(s):**  
+## Contacts
 
 Tom MacKenzie, U.S. Fish and Wildlife Service  
 tom_mackenzie@fws.gov, 404-679-7291
@@ -49,8 +55,3 @@ kristen_peters@fws.gov, 404-679-7172 
 
 Marie Walker, U.S. Forest Service  
 mwalker04@fs.fed.us, 859-745-3145
-
-![Green leafy vegetation with bright yellow flowers climbs a rock face.](images/newsUploads/newsThumbs/newsImageThumb853627B4-C10B-499F-DEBB15559ECD904A.jpg)
-
-White-haired goldenrod Credit: John MacGregor; KDFWR  
-[Higher Quality Version of Image](https://flic.kr/p/xLBLfE)

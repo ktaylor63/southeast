@@ -1,11 +1,17 @@
 ---
-title: Black Pinesnake Added to Threatened and Endangered Species List
-subtitle: Timber management activities exempted & decision on critical habitat delayed to 2016
-date: 2015-10-05
+title: 'Black Pinesnake Added to Threatened and Endangered Species List'
+subtitle: 'Timber management activities exempted & decision on critical habitat delayed to 2016'
+date: '2015-10-05'
+hero:
+    name: black-pinesnake.jpg
+    alt: 'A jet black snake with opaque white belly coiled up in the grass.'
+    link: 'https://flic.kr/p/pgE9ru'
+    caption: 'Black pinesnake. Photo by Jim Lee, The Nature Conservancy.'
 tags:
- - Black pinesnake
- - Mississippi
- - Alabama
+    - 'Black pinesnake'
+    - Mississippi
+    - Alabama
+updated: 'October 3rd, 2016'
 ---
 
 The black pinesnake, which can grow to six feet in length and is now only found in parts of Mississippi and Alabama, will be protected as a threatened species under the Endangered Species Act (ESA).
@@ -40,10 +46,9 @@ The black pinesnake final listing becomes effective on November 5, 2015 which is
 
 The complete final rule can be obtained by visiting the Federal eRulemaking Portal: [http://www.regulations.gov](http://www.regulations.gov) at Docket Number FWS–R4–ES–2014–0046.   A copy also can be obtained by contacting U.S. Fish and Wildlife Service, 6578 Dogwood View Parkway, Suite A, Jackson, Mississippi, 39213; phone: 601-321-1121. 
 
-[black-pinesnake-faq.pdf](Read the Questions and Answers)
+[Read the Questions and Answers](/pdf/black-pinesnake-final-listing-faq.pdf)
 
-
-**Contact(s):**  
+## Contacts
 
 Connie Dickard, 601-321-1121 (MS)  
 [Connie_Dickard@fws.gov](mailto:Connie_Dickard@fws.gov)
@@ -53,9 +58,3 @@ Denise Rowell, 251-441-6630 (AL) 
 
 Tom MacKenzie, 404-679-7291  
 [Tom_MacKenzie@fws.gov](mailto:Tom_MacKenzie@fws.gov)
-
-* * *
-
-![A dark black snake with translucent white belly coiled in the grass.](images/newsUploads/newsThumbs/newsImageThumb38E078BD-0535-7F47-AC7CF523EB0DC6AA.jpg)
-
-Black pinesnake Credit: Jim Lee, The Nature Conservancy [Higher Quality Version of Image](https://flic.kr/p/pgE9ru)

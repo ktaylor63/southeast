@@ -1,9 +1,15 @@
 ---
-title: Stimulus Funds Help Florida Scrub Jays at Merritt Refuge
-date: 2010-04-05
+title: 'Stimulus Funds Help Florida Scrub Jays at Merritt Refuge'
+date: '2010-04-05'
+hero:
+    name: florida-scrub-jay.jpg
+    alt: 'A bright blue bird with bands on it''s leg perched on a succulent shrub.'
+    link: 'https://flic.kr/p/B86Db3'
+    caption: 'Florida scrub jay. Photo by Gail Hendricks, USDA NRCS.'
 tags:
- - Florida scrub jay
- - NWRS
+    - 'Florida scrub jay'
+    - NWRS
+updated: 'October 3rd, 2016'
 ---
 
 Even a national wildlife refuge has to work hard to keep its habitat the Florida scrub jay needs it: low oak scrub, with no tall trees where predators like hawks can hide. So the U.S. Fish and Wildlife Service will spend $905,000 in American Recovery and Reinvestment Act funds – popularly known as stimulus funds – for habitat improvements at Merritt that will help the scrub jay to survive and thrive.
@@ -24,7 +30,7 @@ The Recovery Act provides $280 million for the U.S. Fish and Wildlife Service - 
 
 For a full list of funded projects nationwide, go to the Department’s Recovery web site at [http://recovery.doi.gov/](http://recovery.doi.gov). For a list of Service projects, click on the Service's logo at the bottom of the page or visit [http://recovery.doi.gov/press/bureaus/us-fish-and-wildlife-service](http://recovery.doi.gov/press/bureaus/us-fish-and-wildlife-service). The public will be able to follow the progress of each project on the recovery web site, which includes an interactive map that allows the public to track where and how the Department's recovery dollars are being spent. In addition, the public can submit questions, comments or concerns at [recoveryact@fws.gov](mailto:recoveryact@fws.gov).
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

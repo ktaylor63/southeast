@@ -1,10 +1,18 @@
 ---
-title: White River National Wildlife Refuge Renamed in Honor of Dale Bumpers
-date: 2014-04-18
+title: 'White River National Wildlife Refuge Renamed in Honor of Dale Bumpers'
+date: '2014-04-18'
+hero:
+    name: dale-bumpers-renaming-ceremony.jpg
+    alt: 'Members of the bumper family gather around the new entrance sign to the Refuge.'
+    link: 'https://flic.kr/p/nfEYYH'
+    caption: 'L to R: USFWS Director Dan Ashe, Bill Bumpers, Heidi Bumpers, Brent Bumpers, and Senator Pryor at the Dale Bumpers White River National Wildlife Refuge renaming event, April 18, 2014. Credit: John Stark, USFWS.'
 tags:
- - NWRS
- - Arkansas
+    - NWRS
+    - Arkansas
+updated: 'October 3rd, 2016'
 ---
+
+{{< figure class="photo-right" src="/images/pages/dale-bumpers-senator.jpg" alt="A black and white portrait of the sitting senator." caption="Senator Dale Bumpers.  Public domain license." link="https://flic.kr/p/ndx45a" >}}
 
 St. Charles, AR – At a ceremony this afternoon, the U.S. Fish and Wildlife Service will officially rename the White River National Wildlife Refuge to the [Dale Bumpers White River National Wildlife Refuge](http://www.fws.gov/refuge/white_river/)e in a ceremony honoring the former Arkansas Governor and four-term U.S. Senator.
 
@@ -18,14 +26,12 @@ As the 38th Governor of Arkansas, Bumpers helped stop the dredging and channeliz
 
 The White River National Wildlife Refuge was established in 1935 by President Franklin D. Roosevelt in east-central Arkansas to protect migratory birds. Today, the 160,756-acre Dale Bumpers White River National Wildlife Refuge is one of the most important areas for wintering waterfowl in North America. It is also home to the only population of native black bear in the State of Arkansas and is designated as a Wetland of International Importance. The Refuge annually attracts about 455,000 visits from hunters, anglers, bird watchers and others.
 
-**Additional Resources:**
+## Additional Resources
 
-*   [New Dale Bumpers White River National Wildlife Refuge website](http://www.fws.gov/refuge/white_river/)
-*   [Arkansas and National Leaders Honor Dale Bumpers (quote sheet, PDF)](http://www.fws.gov/southeast/news/2014/Quotes_About_Dale_Bumpers.pdf)
+ - [Dale Bumpers White River National Wildlife Refuge website](http://www.fws.gov/refuge/white_river/)
+ - [Arkansas and National Leaders Honor Dale Bumpers (quote sheet, PDF)](http://www.fws.gov/southeast/news/2014/Quotes_About_Dale_Bumpers.pdf)
 
-[Dale Bumpers White River National Wildlife Refuge](http://www.fws.gov/refuge/white_river/)
-
-**Contact(s):**  
+## Contact(s)
 
 Charles “Bo” Sloan, USFWS Refuge Manager  
 870-282-8200  
@@ -35,10 +41,3 @@ Stacy Shelton, USFWS Public Affairs Specialist
 404-679-7290  
 678-575-7796 (m)  
 [stacy_shelton@fws.gov](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=stacy_shelton@fws.gov)
-
-* * *
-
-![Senator Dale Bumpers smiles in a suit in a black-and-white portrait.](images/newsUploads/newsThumbs/newsImageThumbD3081649-9DBC-A283-43823A7C7C1F0E5C.jpg)
-
-Senator Dale Bumpers. Credit: Public domain image.  
-[Higher Quality Version of Image](https://flic.kr/p/ndx45a)

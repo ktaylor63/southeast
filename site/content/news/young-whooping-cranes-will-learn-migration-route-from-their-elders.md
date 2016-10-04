@@ -1,9 +1,15 @@
 ---
-title: Young Whooping Cranes Will Learn Migration Route from their Elders
-date: 2009-10-26
+title: 'Young Whooping Cranes Will Learn Migration Route from their Elders'
+date: '2009-10-26'
+hero:
+    name: whooping-crane-release.jpg
+    alt: 'Two large, white, Whooping cranes flying in for a landing on a small pond.'
+    link: 'https://flic.kr/p/bryvJt'
+    caption: 'Two juvenile Whooping cranes released from their holding pen fly around on Wheeler National Wildlife Refuge, Decatur, AL. Photo by Bill Gates, USFWS.'
 tags:
- - Whooping crane
- - NWRS
+    - 'Whooping crane'
+    - NWRS
+updated: 'October 3rd, 2016'
 ---
 
 Nine young whooping cranes were released October 24 on central Wisconsin’s Necedah National Wildlife Refuge. The cranes are part of the Direct Autumn Release (DAR) project conducted by the Whooping Crane Eastern Partnership (WCEP), an international coalition of public and private groups that is reintroducing this highly imperiled species in eastern North America, part of its historic range. There are approximately 77 whooping cranes in the wild in eastern North America thanks to WCEP’s efforts.
@@ -40,7 +46,7 @@ To report whooping crane sightings, visit the WCEP whooping crane observation we
 
 For more information on the project, its partners and how you can help, visit the WCEP website at: [http://www.bringbackthecranes.org](http://www.bringbackthecranes.org&linkname=Bring Back the Cranes).
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

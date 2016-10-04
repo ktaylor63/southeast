@@ -1,11 +1,17 @@
 ---
-title: Significant achievement in the transfer of Puerto Rican parrots to the Maricao Commonwealth Forest
-subtitle: DNER, USFWS and USFS move 30 parrots as a first step to establish the 3rd parrot population in the wild; another milestone for the recovery of the species
-date: 2015-08-13
+title: 'Significant achievement in the transfer of Puerto Rican parrots to the Maricao Commonwealth Forest'
+subtitle: 'DNER, USFWS and USFS move 30 parrots as a first step to establish the 3rd parrot population in the wild; another milestone for the recovery of the species'
+date: '2015-08-13'
+hero:
+    name: puerto-rican-parrot-iguaca-aviary.jpg
+    alt: 'A bright green parrot with red markings around it''s beak spreads it''s wings.'
+    link: 'https://flic.kr/p/9D3HG3'
+    caption: 'Endangered Puerto Rican parrot ceremonially released at the Iguaca Aviary. Photo by Tom MacKenzie, USFWS.'
 tags:
- - Puerto Rico
- - Puerto Rican parrot
- - Recovery
+    - 'Puerto Rico'
+    - 'Puerto Rican parrot'
+    - Recovery
+updated: 'October 3rd, 2016'
 ---
 
 Maricao, P.R. - Secretary of the Department of Natural and Environmental Resources (DNER), Carmen R. Guerrero Perez; the Regional Director of the Southeast Region of the US Fish and Wildlife Service (USFWS), Cynthia K. Dohner; and the Regional Forester of the Southeast Region of the US Forest Service (USFS), Tony Tooke, reported the transfer of 30 Puerto Rican parrots the Maricao Commonwealth Forest, a significant step to establish the third population of this endangered species.
@@ -44,11 +50,11 @@ In the 19th century, the population was estimated at more than a million Puerto 
 
 Last year, the program reported the birth of two Puerto Rican parrots in the wild in a natural nest in the Rio Abajo State Forest, an event that marked a milestone in 144 years of history. 
 
-<video width="640" height="352" controls="" style="display: block; margin: auto;"><source src="http://fws.gov/southeast/video/puerto-rican-parrot-release-08-13-2015.mp4" type="video/mp4"> Sorry, your browser does not support HTML5 video.</video> 
+<video width="640" height="352" controls="" style="display: block; margin: auto;"><source src="http://fws.gov/southeast/video/puerto-rican-parrot-release-08-13-2015.mp4" type="video/mp4"> Sorry, your browser does not support HTML5 video.</video>
 
 [Download the video](http://fws.gov/southeast/video/puerto-rican-parrot-release-08-13-2015.mp4)
 
-**Contact(s):**  
+## Contacts
 
 Carmen Milagros Díaz, DNER  
 787-344-4701  
@@ -62,10 +68,3 @@ Maricelis Rivera Santos
 Marisel Lopez, USFWS  
 787-887-8769  
 [marisel_lopez@fws.gov](mailto:marisel_lopez@fws.gov)
-
-* * *
-
-![A Puerto Rican parrot perched on a tree limb with one wing extended](images/newsUploads/newsThumbs/newsImageThumb26D2B5A7-5056-AF00-5BA3BAAD09E24C98.jpg)
-
-Puerto Rican parrot Credit: Tom MacKenzie, USFWS  
-[Higher Quality Version of Image](https://flic.kr/p/9D3HG3)

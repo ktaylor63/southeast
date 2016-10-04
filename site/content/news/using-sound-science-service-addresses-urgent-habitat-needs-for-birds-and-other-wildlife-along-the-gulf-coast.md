@@ -1,10 +1,16 @@
 ---
-title: Using Sound Science, the Service Addresses Urgent Habitat Needs for Birds and Other Wildlife Along the Gulf Coast
-date: 2010-07-08
+title: 'Using Sound Science, the Service Addresses Urgent Habitat Needs for Birds and Other Wildlife Along the Gulf Coast'
+date: '2010-07-08'
+hero:
+    name: brown-pelican-near-shore-after-dwh-oil-spill.jpg
+    alt: 'Two brown pelicans fly in for a landing on the rocky shoreline.'
+    link: 'https://flic.kr/p/8Dc2bJ'
+    caption: 'Brown pelicans flying near Queen Bess Island off Grand Isle, LA during BP oil spill response.  Photo by Tom MacKenzie USFWS.'
 tags:
- - Gulf of Mexico
- - Louisiana
- - Mississippi
+    - 'Gulf of Mexico'
+    - Louisiana
+    - Mississippi
+updated: 'October 3rd, 2016'
 ---
 
 The U.S. Fish and Wildlife Service is coordinating efforts along the Gulf Coast to safeguard wildlife such as shorebirds, waterfowl, marsh birds, sea birds, and sea turtles from the effects of oil. Working closely with state, federal and non-government partners, the Service is identifying the most pressing habitat needs of these at-risk species, recommending strategic habitat conservation activities to address those needs, and helping to implement projects along the coast from Florida to Texas.
@@ -25,7 +31,7 @@ Through two components – one available on private agricultural lands and the s
 
 More information about the NRCS Migratory Bird Habitat Initiative is at [http://www.nrcs.usda.gov/news/nrcs_migratory_birds.html](http://www.nrcs.usda.gov/news/nrcs_migratory_birds.html&linkname=NRCS Migratory Bird Habitat Initiative).
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

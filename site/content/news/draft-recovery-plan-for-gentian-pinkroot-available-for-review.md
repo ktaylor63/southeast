@@ -1,6 +1,6 @@
 ---
 title: Draft Recovery Plan for Gentian Pinkroot Available for Review
-date: 2011-03-23
+date: '2011-03-23'
 tags:
  - Gentian pinkroot
  - Florida
@@ -21,7 +21,7 @@ To view the draft recovery plan on the Internet, please visit the Service’s re
 
 A written copy of the draft plan can be obtained by calling (850) 769–0552, ext. 231, or by sending a request for a paper copy to the [Panama City Ecological Services Field Office](http://www.fws.gov/panamacity/).
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

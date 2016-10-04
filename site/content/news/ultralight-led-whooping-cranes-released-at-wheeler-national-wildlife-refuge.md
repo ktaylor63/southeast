@@ -1,10 +1,16 @@
 ---
-title: Ultralight-led Whooping Cranes Released at Wheeler National Wildlife Refuge
-date: 2012-02-10
+title: 'Ultralight-led Whooping Cranes Released at Wheeler National Wildlife Refuge'
+date: '2012-02-10'
+hero:
+    name: whooping-crane-release.jpg
+    alt: 'Two large, white, Whooping cranes flying in for a landing on a small pond.'
+    link: 'https://flic.kr/p/bryvJt'
+    caption: 'Two juvenile Whooping cranes released from their holding pen fly around on Wheeler National Wildlife Refuge, Decatur, AL. Photo by Bill Gates, USFWS.'
 tags:
- - Whooping crane
- - NWRS
- - Alabama
+    - 'Whooping crane'
+    - NWRS
+    - Alabama
+updated: 'October 3rd, 2016'
 ---
 
 The nine whooping cranes led by ultralight aircraft have been released from a holding pen at [Wheeler National Wildlife Refuge](http://www.fws.gov/wheeler/) after Whooping Crane Eastern Partnership biologists attached marking bands and transmitters to help track their movements.
@@ -29,7 +35,7 @@ Besides the ultralight-led migration, the partnership uses the “Direct Autumn 
 
 Now that these nine cranes have been released, the total eastern population is 112 whooping cranes. Estimated distribution as of Mid-January 2012 included 39 whooping cranes in Indiana, six in Illinois, seven in Georgia, seven in Alabama, two in South Carolina, two in North Carolina, six in Tennessee, one in Missouri, 12 in Florida, 14 at unknown locations, one with no recent report, and six long term missing. Florida has about 20 in a non-migratory flock. Louisiana has a project underway for a non-migratory flock of about 20 whooping cranes. The western flock has about 300 cranes, and about 130 are in captivity.
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

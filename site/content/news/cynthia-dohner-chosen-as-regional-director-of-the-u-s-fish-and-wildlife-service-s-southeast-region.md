@@ -1,11 +1,17 @@
 ---
 title: Cynthia Dohner Chosen as Regional Director of The U.S. Fish and Wildlife Service’s Southeast Region
-date: 2009-11-05
+date: '2009-11-05'
+hero:
+  name: cindy-dohner-dale-bumpers-renaming.jpg
+  alt: A woman standing behind a podium with the USFWS shield delivers a speech.
+  link: https://flic.kr/p/nhHAVt
+  caption: Cindy Dohner. Photo by John Stark, USFWS.
 tags:
  - Regional Office
+ - Director
 ---
 
-ATLANTA, Ga. –- U.S. Fish and Wildlife Service Director Sam Hamilton announced today the selection of Cynthia K. Dohner as regional director for the Southeast Region.  
+ATLANTA, GA –- U.S. Fish and Wildlife Service Director Sam Hamilton announced today the selection of Cynthia K. Dohner as regional director for the Southeast Region.  
 
 “Cindy is an outstanding choice with a proven track record when it comes to solution-oriented conservation in the Southeast region,” Hamilton said. “She has built a rich career in fish and wildlife conservation with experience that cuts across both the public and private sectors that will benefit us greatly.”  
 
@@ -19,9 +25,9 @@ In this role, she will directly oversee a $484 million budget and more than 1,50
 
 Prior to joining the Service, she worked a variety of environmental jobs within the private sector and environmental groups, as well as with a few states and other federal agencies.  
 
-Dohner earned her Bachelor of Science degree in marine biology from the University of Millersville in 1982, and a Masters of Science degree in fisheries and aquaculture from the University of Rhode in 1984\.
+Dohner earned her Bachelor of Science degree in marine biology from the University of Millersville in 1982, and a Masters of Science degree in fisheries and aquaculture from the University of Rhode in 1984.
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

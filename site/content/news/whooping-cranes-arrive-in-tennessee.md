@@ -1,10 +1,16 @@
 ---
-title: Whooping Cranes Arrive in Tennessee
-subtitle: 2014 Cohort Arrived by Truck Today
-date: 2014-11-14
+title: 'Whooping Cranes Arrive in Tennessee'
+subtitle: '2014 Cohort Arrived by Truck Today'
+date: '2014-11-14'
+hero:
+    name: whooping-cranes-in-pen.jpg
+    alt: 'Seven young white whooping cranes with beige heads and feathers rest in a protective net pen.'
+    link: 'https://flic.kr/p/q2btaQ'
+    caption: 'Whooping cranes in Tennessee. Credit: Operation Migration.'
 tags:
- - Whooping crane
- - Tennessee
+    - 'Whooping crane'
+    - Tennessee
+updated: 'October 3rd, 2016'
 ---
 
 Seven young whooping cranes are making their way south in their first migration from Wisconsin, being led by costumed pilots in ultralight aircraft.  But the weather isn’t cooperating, and after making only 52 miles in 34 days, the migration team decided to use ground transportation to move the cranes into Tennessee and more favorable migration conditions.
@@ -21,7 +27,7 @@ The effects of not flying such a large section of the migration route are unknow
 
 The group plans to resume the second half of the migration on Sunday morning or when weather permits.  The route from central Tennessee angles across Alabama and across southwest Georgia towards Tallahassee, Florida, before reaching the winter release site at  St. Marks National Wildlife Refuge, on the Gulf Coast of Florida south of Tallahassee. 
 
-The public can keep track of the migration at [http://operationmigration.org/InTheField/](http://operationmigration.org/InTheField/).  When coverage allows, a live videofeed from their temporary holding pen “cranecam” at: [http://operationmigration.org/cranecam.asp](http://operationmigration.org/cranecam.asp).  A live feed while they are in the air is also available most flight<a name="_GoBack"></a>s.
+The public can keep track of the migration at [http://operationmigration.org/InTheField/](http://operationmigration.org/InTheField/).  When coverage allows, a live videofeed from their temporary holding pen “cranecam” at: [http://operationmigration.org/cranecam.asp](http://operationmigration.org/cranecam.asp).  A live feed while they are in the air is also available most flights.
 
 Want to actually see them in a flyover this Sunday? 
 
@@ -35,7 +41,7 @@ Florida has about 15 in a non-migratory flock.  Louisiana has a project underwa
 
 The mission of the U.S. Fish and Wildlife Service is working with others to conserve, protect, and enhance fish, wildlife, plants, and their habitats for the continuing benefit of the American people.  For more information on our work and the people who make it happen, visit [www.fws.gov](http://www.fws.gov). Connect with our Facebook page at www.facebook.com/usfwssoutheast, follow our tweets at www.twitter.com/usfwssoutheast, watch our YouTube Channel at http://www.youtube.com/usfws and download photos from our Flickr page at http://www.flickr.com/photos/usfwssoutheast.
 
-**Contact(s):**  
+## Contacts 
 
 Tom MacKenzie, USFWS   
 404-679-7291   
@@ -44,10 +50,3 @@ Tom MacKenzie, USFWS 
 Heather Ray, Operation Migration  
 920-573-0905   
 [heather@operationmigration.org](mailto:heather@operationmigration.org)
-
-* * *
-
-![Whooping cranes inside a fence. They're tall white birds with brown feathers in their wings and a brown head. ](images/newsUploads/newsThumbs/newsImageThumbB0626FB2-CA0B-6D32-D0962D399CA8C143.jpg)
-
-Whooping cranes in Tennessee. Credit: Operation Migration.  
-[Higher Quality Version of Image](https://www.flickr.com/photos/usfwssoutheast/15765921446/ )

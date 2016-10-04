@@ -21,13 +21,13 @@ The goal for this recovery plan is to conserve and recover populations of laurel
 
 The Service will work with partners to inform the public about laurel dace and measures that can be taken to sustain adequate flows, protect water quality, and reduce fragmentation of suitable habitats within streams where the dace occurs.  Whenever possible, the Service and other partners will assist citizens and local governments in their efforts to reduce threats resulting from land use practices.  The Tennessee Wildlife Resources Agency and the Service will continue working on establishing contacts and partnerships with landowners in the Piney River and Sale and Soddy creek systems to implement priority recovery actions for this fish.
 
-Please send written comments about the Technical/Agency Draft Recovery Plan for the Laurel Dace to: Geoff Call, U.S. Fish and Wildlife Service, 446 Neal Street, Cookeville, Tennessee, 38501\.  Need a copy of the plan?  Call (931) 525–4983, to request a copy.  The draft recovery plan is available on the web at [http://www.fws.gov/southeast/news/2015/20150114_Laurel-Dace-Recovery-Plan.pdf](http://www.fws.gov/southeast/news/2015/20150114_Laurel-Dace-Recovery-Plan.pdf), on the Service’s recovery plan web site at [http://www.fws.gov/endangered/species/recovery-plans.html](http://www.fws.gov/endangered/species/recovery-plans.html), and at the Tennessee Field Office web site at [http://www.fws.gov/cookeville](http://www.fws.gov/cookeville).
+Please send written comments about the Technical/Agency Draft Recovery Plan for the Laurel Dace to: Geoff Call, U.S. Fish and Wildlife Service, 446 Neal Street, Cookeville, Tennessee, 38501.  Need a copy of the plan?  Call (931) 525–4983, to request a copy.
 
-_The mission of the U.S. Fish and Wildlife Service is working with others to conserve, protect, and enhance fish, wildlife, plants, and their habitats for the continuing benefit of the American people.  For more information on our work and the people who make it happen, visit [www.fws.gov](http://www.fws.gov).  Connect with our Facebook page at [www.facebook.com/usfwssoutheast](http://www.facebook.com/usfwssoutheast), follow [http://www.youtube.com/usfws](http://www.youtube.com/usfws) and download photos from our Flickr page at [http://www.flickr.com/photos/usfwssoutheast](http://www.flickr.com/photos/usfwssoutheast)._
+Visit the Service’s recovery plan web site at [http://www.fws.gov/endangered/species/recovery-plans.html](http://www.fws.gov/endangered/species/recovery-plans.html).
 
-[Laurel Dace Recovery Plan (PDF)](http://www.fws.gov/southeast/news/2015/20150114_Laurel-Dace-Recovery-Plan.pdf)
+[Laurel Dace Recovery Plan (PDF)](/pdf/laurel-dace-recovery-plan.pdf)
 
-**Contact(s):**  
+## Contacts
 
 Tom MacKenzie, USFWS Media Relations  
 [Tom_MacKenzie@fws.gov](mailto:Tom_MacKenzie@fws.gov)  
@@ -36,9 +36,3 @@ Tom MacKenzie, USFWS Media Relations
 Geoff Call, USFWS Cookeville  
 [Geoff_Call@fws.gov](mailto:Geoff_Call@fws.gov)  
 931-525-4983
-
-* * *
-
-![](images/newsUploads/newsThumbs/newsImageThumbE9F835D5-B472-B20B-A8625460C4D6A3EC.jpg)
-
-The endangered laurel dace. Credit: Conservation Fisheries International.  

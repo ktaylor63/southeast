@@ -1,8 +1,14 @@
 ---
-title: TVA, Partners To Fund Trout Stocking For Tennessee, Georgia Tailwaters
-date: 2015-05-11
+title: 'TVA, Partners To Fund Trout Stocking For Tennessee, Georgia Tailwaters'
+date: '2015-05-11'
+hero:
+    name: 2048
+    alt: 'Brown entrance sign to the Erwin National Fish Hatchery.'
+    link: 'https://flic.kr/p/ejHPWS'
+    caption: 'Erwin National Fish Hatchery entrance sign. Photo by USFWS.'
 tags:
- - Partnership
+    - Partnership
+updated: 'October 3rd, 2016'
 ---
 
 ERWIN, TN – The Tennessee Valley Authority, working with U.S. Sen. Lamar Alexander of Tennessee, has reached a multi-agency agreement to provide continued funding for three federal fish hatcheries that annually supply more than one million trout for TVA dam tailwaters and reservoirs in Tennessee and Georgia.
@@ -37,7 +43,7 @@ TVA is a corporate agency of the United States that provides electricity for bus
 
 [Multi-agency support for fisheries funding Fact Sheet](http://www.fws.gov/southeast/news/pdf/TVA-multi-agency-hatchery-announcement-05082015.pdf)
 
-**Contact(s):**  
+## Contacts
 
 Gail Rymer, Knoxville, 865-632-2911; 865-360-2800 (m)  
 gerymer@tva.gov  
@@ -61,10 +67,3 @@ Melissa Cummings
 Ga. Wildlife Resources Division  
 706-557-3326; 404-323-9724 (m)  
 Melissa.Cummings@dnr.state.ga.us
-
-* * *
-
-![Photo of Erwin National Fish Hatchery in fall with rolling hills covered in deciduous trees with leaves of changing colors](images/newsUploads/newsThumbs/newsImageThumb434A6F6C-A8E8-4013-FAC57B532B9DCF71.jpg)
-
-Erwin National Fish Hatchery, Erwin, Tennessee Credit: USFWS  
-[Higher Quality Version of Image](http://www.fws.gov/southeast/news/images/erwin-nfh.jpg)

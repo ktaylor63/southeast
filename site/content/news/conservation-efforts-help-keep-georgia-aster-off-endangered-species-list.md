@@ -1,12 +1,18 @@
 ---
-title: Conservation Efforts Help Keep Georgia Aster off Endangered Species List
-date: 2014-09-17
+title: 'Conservation Efforts Help Keep Georgia Aster off Endangered Species List'
+date: '2014-09-17'
+hero:
+    name: georgia-aster.jpg
+    alt: 'Ten to twenty bright purple flowers emerge from thick vegetation.'
+    link: 'https://flic.kr/p/mhjfW4'
+    caption: 'Georgia aster. Photo by Michele Elmore, The Nature Conservancy, Georgia.'
 tags:
- - North Carolina
- - Georgia aster
+    - 'North Carolina'
+    - 'Georgia aster'
+updated: 'October 3rd, 2016'
 ---
 
-Asheville, N.C. – The U.S. Fish and Wildlife Service today announced that Georgia aster does not require federal protection under the Endangered Species Act, a decision reflecting years of conservation work by myriad partners.
+Asheville, NC – The U.S. Fish and Wildlife Service today announced that Georgia aster does not require federal protection under the Endangered Species Act, a decision reflecting years of conservation work by myriad partners.
 
 Georgia aster is a wide-ranging, but rare, purple-flowering plant found in the upper Piedmont and lower mountain regions of Alabama, Georgia, North Carolina and South Carolina. The plant has been a candidate for the federal endangered species list since 1999.
 
@@ -31,7 +37,8 @@ Many of the known Georgia aster populations are on national forest land.
 The 12-month finding will publish in the Thursday, September 18, 2014 _Federal Register._ The public may view the finding at [http://www.regulations.gov](http://www.regulations.gov/), using the docket number FWS–R4–ES–2014–0027**.** The finding takes its name from the fact that it’s typically made 12 months after the receipt of a petition to list a plant or animal. This 12-month finding is part of the Service’s efforts to implement a court-approved work plan under a Multi-District Litigation Agreement aimed at addressing a series of lawsuits concerning the agency’s listing program under the Endangered Species Act.  The intent of the agreement is to significantly reduce a litigation-driven workload.  For more information, please see http://www.fws.gov/southeast/candidateconservation/.
 
 The U.S. Fish and Wildlife Service is the principal federal agency responsible for conserving, protecting, and enhancing fish, wildlife, and plants, and their habitats, for the continuing benefit of the American people. Visit the Service websites at [http://www.fws.gov](http://www.fws.gov) and in the Southeast at [http://www.fws.gov/southeast](http://www.fws.gov/southeast).
-**Contact(s):**  
+
+## Contacts
 
 Alabama: Denise Rowell, USFWS  
 251-441-6630  
@@ -48,9 +55,3 @@ North Carolina: Gary Peeples, USFWS
 South Carolina: Jennifer Koches  
 843-727-4707, ext. 214  
 [jennifer_koches@fws.gov](mailto:jennifer_koches@fws.gov )
-
-* * *
-
-![Map of counties where Georgia aster is found](images/newsUploads/newsThumbs/newsImageThumb84B290E3-CD7B-0D5B-81E7C30BA3356455.jpg)
-
-Georgia Aster Distribution Credit: Gary Peeples, USFWS

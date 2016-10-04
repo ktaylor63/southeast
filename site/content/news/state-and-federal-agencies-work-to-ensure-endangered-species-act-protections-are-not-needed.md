@@ -1,8 +1,14 @@
 ---
-title: State and Federal Agencies Work to Ensure Endangered Species Act Protections are Not Needed
-date: 2014-05-13
+title: 'State and Federal Agencies Work to Ensure Endangered Species Act Protections are Not Needed'
+date: '2014-05-13'
+hero:
+    name: langinappe-crayfish.jpg
+    alt: 'A close up photograph of a tiny lobster-like crayfish with dark claws and armor.'
+    link: 'https://flic.kr/p/nAwV9K'
+    caption: 'The Lagniappe crayfish occurs in parts of Alabama, Georgia and Mississippi. Photo by Susan Adams, US Forest Service.'
 tags:
- - Partnership
+    - Partnership
+updated: 'October 3rd, 2016'
 ---
 
 A collaborative effort with federal and state agencies in the Southeast, industry and private landowners to proactively conserve at-risk species is starting to pay dividends.
@@ -33,15 +39,8 @@ For more information about how the Service and other federal agencies and the st
 
 [Additional Photos of Burrowing Bog, Chatooga River, and Blackbarred Crayfish Available on Flickr](https://flic.kr/s/aHsjXtsaTR)
 
-**Contact(s):**  
+## Contacts
 
 Stacy Shelton, Public Affairs Specialist   
 404-679-7290  
 [stacy_shelton@fws.gov](mailto:stacy_shelton@fws.gov)
-
-* * *
-
-![A beautiful brown and white crayfish in a tank.](images/newsUploads/newsThumbs/newsImageThumbF60EC639-B763-3990-702D3868D8484C85.jpg)
-
-The Lagniappe crayfish occurs in parts of Alabama, Georgia and Mississippi. Credit: Susan Adams, U.S. Forest Service  
-[Higher Quality Version of Image](https://flic.kr/p/nAwV9K)

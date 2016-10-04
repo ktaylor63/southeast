@@ -1,12 +1,17 @@
 ---
-title: Brown Pelican Populations Recovered, Removed from Endangered Species List
-date: 2009-11-11
+title: 'Brown Pelican Populations Recovered, Removed from Endangered Species List'
+subtitle: 'Salazar: Brown Pelican Recovery is “an Amazing Success Story”'
+date: '2009-11-11'
+hero:
+    name: brown-pelicans-breton-island-nwr.jpg
+    alt: 'Hundreds of brown pelicans cover a vegetated beach.'
+    link: 'https://flic.kr/p/84HicP'
+    caption: 'Brown pelicans sitting on nests at Breton Island National Wildlife Refuge. Photo by Greg Thompson, USFWS.'
 tags:
- - Brown pelican
- - Delist
+    - 'Brown pelican'
+    - Delist
+updated: 'October 3rd, 2016'
 ---
-
-Salazar: Brown Pelican Recovery is “an Amazing Success Story”
 
 WASHINGTON, D.C. -- Secretary of the Interior Ken Salazar, Assistant Secretary for Fish and Wildlife and Parks Tom Strickland and U.S. Fish and Wildlife Service Director Sam Hamilton today announced that the brown pelican, a species once decimated by the pesticide DDT, has recovered and is being removed from the list of threatened and endangered species under the Endangered Species Act.
 
@@ -36,11 +41,9 @@ The monitoring will be done in cooperation with the State resource agencies, the
 
 The final rule removing the bird from the list of threatened and endangered species will be published in the Federal Register and will take effect 30 days after publication.
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  
 Telephone: 703-358-2220  
 Website: [https://www.fws.gov/external-affairs/public-affairs/](https://www.fws.gov/external-affairs/public-affairs/)
-
-* * *

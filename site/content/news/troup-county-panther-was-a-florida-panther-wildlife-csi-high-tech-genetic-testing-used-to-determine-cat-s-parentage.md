@@ -1,9 +1,15 @@
 ---
-title: "Troup County Panther was a Florida Panther -- Wildlife CSI: High-Tech Genetic Testing Used to Determine Cat’s Parentage"
-date: 2009-08-05
+title: 'Troup County Panther was a Florida Panther -- Wildlife CSI: High-Tech Genetic Testing Used to Determine Cat’s Parentage'
+date: '2009-08-05'
+hero:
+    name: florida-panther-shot-dead.jpg
+    alt: 'A dead florida panther laid out in the bed of a pickup truck.'
+    caption: 'Florida panther killed by David Adams in Troup County, GA on Nov. 16, 2008. Photo by Georgia DNR.'
+    position: 'bottom left'
 tags:
- - Georgia
- - Florida panther
+    - Georgia
+    - 'Florida panther'
+updated: 'October 3rd, 2016'
 ---
 
 SOCIAL CIRCLE, GA – Genetic testing by the National Cancer Institute, Laboratory of Genomic Diversity, has indicated that the panther shot by a hunter in Troup County last year came from the resident southern Florida panther population.
@@ -24,7 +30,7 @@ The Florida panther (_Puma concolor coryi_) is the last subspecies of Puma (also
 
 For more information on the Florida panther, visit: [http://www.fws.gov/verobeach/](http://www.fws.gov/verobeach)
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

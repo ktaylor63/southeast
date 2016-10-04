@@ -1,9 +1,16 @@
 ---
-title: 2015 Student Wildlife Art Contest Georgia Junior Duck Stamp Program Entries Due Postmarked by March 16th
-date: 2015-02-20
+title: '2015 Student Wildlife Art Contest Georgia Junior Duck Stamp Program Entries Due Postmarked by March 16th'
+date: '2015-02-20'
+hero:
+    name: green-winged-teal-ga-jr-duckstamp.jpg
+    alt: 'An acrylic painting of a duck with brown and green head on a bright green background.'
+    link: 'https://flic.kr/p/mW1hi2'
+    caption: '2014 Georgia Junior Duck Stamp winner of a green-winged teal. Artwork by Bethany Panhorst.'
+    position: 'center left'
 tags:
- - Junior Duck Stamp
- - Georgia
+    - 'Junior Duck Stamp'
+    - Georgia
+updated: 'October 3rd, 2016'
 ---
 
 The U.S. Fish and Wildlife Service is currently accepting student entries for the 2015 Georgia Junior Duck Stamp competition, a fun way to connect children with nature. All students from public and private schools, home-schools and art studios statewide are invited to compete for recognition, prizes and scholarships in this learning activity that promotes the conservation of America’s waterfowl, wetlands and waterfowl habitat. The deadline for all entries is to be postmarked by midnight Monday, March 16, 2015.
@@ -22,15 +29,10 @@ Georgia’s Junior Duck Stamp competition is part of the Federal Junior Duck Sta
 
 For further information about the Junior Duck Stamp contest or the Fish and Wildlife Service, please contact Carmen Simonton, the Georgia Junior Duck Stamp Program Coordinator at (404) 679-7049 or email [Resee_Collins@fws.gov](mailto:Resee_Collins@fws.gov).
 
-**Contact(s):**  
+## Contacts
 
 Ton MacKenzie, 404-679-7291  
 [Tom_MacKenzie@fws.gov](mailto:Tom_MacKenzie@fws.gov)
 
 Carmen Simonton, 404-679-7070  
 [Carmen_Simonton@fws.gov](http://Carmen_Simonton@fws.gov)
-
-![An acrylic painting of a green-winged teal](images/newsUploads/newsThumbs/newsImageThumb76C1C9F4-0233-94BF-AD89801E867EA0EF.jpg)
-
-2014 Georgia Junior Duck Stamp winner of a green-winged teal Credit: Artwork: Bethany Panhorst  
-[Higher Quality Version of Image](https://flic.kr/p/mW1hi2)

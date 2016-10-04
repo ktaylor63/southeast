@@ -1,9 +1,15 @@
 ---
-title: Ultralight Migration Leads 20 Endangered Whooping Cranes into Georgia
-date: 2010-01-07
+title: 'Ultralight Migration Leads 20 Endangered Whooping Cranes into Georgia'
+date: '2010-01-07'
+hero:
+    name: whooping-cranes-forage-at-wheeler-nwr.jpg
+    alt: 'Four young whooping cranes look for food on a muddy bank.'
+    link: 'https://flic.kr/p/bryw34'
+    caption: 'Juvenile Whooping Cranes Forage on Wheeler NWR. Photo by Bill Gates, USFWS.'
 tags:
- - Georgia
- - Whooping crane
+    - Georgia
+    - 'Whooping crane'
+updated: 'October 3rd, 2016'
 ---
 
 Twenty juvenile whooping cranes and several chilly pilots in ultralights reached Decatur County, Georgia, today on their ultralight-guided migration from Necedah National Wildlife Refuge (NWR) in central Wisconsin to Chassahowitzka and St. Marks National Wildlife Refuges along Floridas Gulf Coast.
@@ -46,11 +52,11 @@ Whooping Crane Eastern Partnership founding members are the International Crane 
 
 Many other flyway states, provinces, private individuals and conservation groups have joined forces with and support WCEP by donating resources, funding and personnel. More than 60 percent of the project’s estimated $1.6 million annual budget comes from private sources in the form of grants, public donations and corporate sponsorship.
 
-A Wisconsin Whooping Crane Management Plan that describes project goals and management and monitoring strategies shared and implemented by the partners is online at: [http://www.bringbackthecranes.org](http://dnr.wi.gov/org/land/er/birds/wcrane/wcraneplan.htm&linkname=http://dnr.wi.gov/org/land/er/birds/wcrane/wcraneplan.htm</a>.</p> <p>For more information on the project, its partners and how you can help,  visit the WCEP website at <a href=).
+A Wisconsin Whooping Crane Management Plan that describes project goals and management and monitoring strategies shared and implemented by the partners is online at: [http://www.bringbackthecranes.org](http://dnr.wi.gov/org/land/er/birds/wcrane/wcraneplan.htm).
 
 The U.S. Fish and Wildlife Service is the principal federal agency responsible for conserving, protecting and enhancing fish, wildlife and plants and their habitats for the continuing benefit of the American people. Visit the Service’s website at [http://www.fws.gov](http://www.fws.gov/) or [http://www.fws.gov/southeast](http://www.fws.gov/southeast).
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

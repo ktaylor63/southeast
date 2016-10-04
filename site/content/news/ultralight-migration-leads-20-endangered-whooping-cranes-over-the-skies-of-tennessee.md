@@ -1,9 +1,15 @@
 ---
-title: Ultralight Migration Leads 20 Endangered Whooping Cranes over the Skies of Tennessee
-date: 2009-12-08
+title: 'Ultralight Migration Leads 20 Endangered Whooping Cranes over the Skies of Tennessee'
+date: '2009-12-08'
+hero:
+    name: whooping-cranes-ultralight-in-flight.jpg
+    alt: 'Eight whooping cranes follow an ultralight fan powered glider in Kentucky.'
+    link: 'https://flic.kr/p/hGDVCp'
+    caption: 'Ultralight in flight. Photo by Heather Ray, Operation Migration.'
 tags:
- - Whooping crane
- - Tennessee
+    - 'Whooping crane'
+    - Tennessee
+updated: 'October 3rd, 2016'
 ---
 
 Twenty juvenile whooping cranes reached Carroll County, Tennessee on December 5, 2009, on their ultralight-guided migration from Necedah National Wildlife Refuge (NWR) in central Wisconsin to Chassahowitzka and St. Marks National Wildlife Refuges along Floridas Gulf Coast. To date, weather conditions have kept the migration from moving to the next stop in Hardin County.
@@ -46,7 +52,7 @@ Many other flyway states, provinces, private individuals and conservation groups
 
 A Wisconsin Whooping Crane Management Plan that describes project goals and management and monitoring strategies shared and implemented by the partners is online at: [http://www.bringbackthecranes.org](http://dnr.wi.gov/org/land/er/birds/wcrane/wcraneplan.htm&linkname=http://dnr.wi.gov/org/land/er/birds/wcrane/wcraneplan.htm</a>.</p> <p>For more information on the project, its partners and how you can help, visit the WCEP website at <a target_blank).
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

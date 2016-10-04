@@ -1,9 +1,15 @@
 ---
-title: Ultralight Migration Leads 20 Endangered Whooping Cranes over the Skies of Alabama
-date: 2010-12-17
+title: 'Ultralight Migration Leads 20 Endangered Whooping Cranes over the Skies of Alabama'
+date: '2010-12-17'
+hero:
+    name: whooping-cranes-in-net-enclosure.jpg
+    alt: 'Four young whooping cranes with bands on their legs rest in a net enclosure.'
+    link: 'https://flic.kr/p/bryypx'
+    caption: 'Juvenile Whooping Cranes in their holding pen at Wheeler National Wildlife Refuge, Decatur, AL. Photo by USFWS.'
 tags:
- - Whooping crane
- - Alabama
+    - 'Whooping crane'
+    - Alabama
+updated: 'October 3rd, 2016'
 ---
 
 Twenty juvenile whooping cranes reached Franklin County, Alabama, on December 17, 2009, on their ultralight-guided migration from Necedah National Wildlife Refuge (NWR) in central Wisconsin to Chassahowitzka and St. Marks National Wildlife Refuges along Floridas Gulf Coast.
@@ -32,7 +38,7 @@ Most of the reintroduced whooping cranes spend the summer in central Wisconsin, 
 
 In the spring and fall, project staff from ICF and the Service track and monitor the released cranes in an effort to learn as much as possible about their unassisted migrations and the habitat choices they make along the way. The birds are monitored during the winter in Florida by WCEP project staff. ICF and Service biologists continue to monitor the birds while they are in their summer locations.
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

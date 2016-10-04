@@ -1,9 +1,14 @@
 ---
-title: Student Wildlife Art Contest Entries for the Junior Duck Stamp Competition Due March 15, 2010
-date: 2010-01-15
+title: 'Student Wildlife Art Contest Entries for the Junior Duck Stamp Competition Due March 15, 2010'
+date: '2010-01-15'
+hero:
+    name: wood-ducks-ga-jr-duckstamp.jpg
+    alt: 'A bright green and brown duck in the foreground with it''s more muted female companion in the background.'
+    caption: 'Min Lee from Johns Creek, GA, won the 2009 Georgia Junior Duck Stamp Contest for her rendition of two wood ducks in color pencil.'
 tags:
- - Junior Duck Stamp
- - Georgia
+    - 'Junior Duck Stamp'
+    - Georgia
+updated: 'October 3rd, 2016'
 ---
 
 **Editor’s Note:** Downloadable photo at [http://www.fws.gov/southeast/news/2009/r09-015.html](http://www.fws.gov/southeast/news/2009/r09-015.html). Northview High School’s Min Lee from Johns’ Creek, Georgia, won the 2009 Georgia Junior Duck Stamp contest for his rendition of two wood ducks in color pencil. Photo credit: U.S. Fish and Wildlife Service.
@@ -28,7 +33,7 @@ For further information about the Junior Duck Stamp contest or the Fish and Wild
 
 The U.S. Fish and Wildlife Service is the principal federal agency responsible for conserving, protecting and enhancing fish, wildlife and plants and their habitats for the continuing benefit of the American people. Visit the Service’s website at [http://www.fws.gov](http://www.fws.gov/) or [http://www.fws.gov/southeast/](http://www.fws.gov/southeast/) . Please visit [http://www.fws.gov/southeastbirds/juniorduck_stamp.htm](http://www.fws.gov/southeastbirds/juniorduck_stamp.htm) for all 100 Junior Duck Stamp contest winning artwork images of 2009.
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

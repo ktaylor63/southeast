@@ -1,10 +1,17 @@
 ---
-title: Turtle-egg Thief Convicted a Second Time for Stealing Nested Sea Turtle Eggs from Coastal Georgia Island
-date: 2015-08-31
+title: 'Turtle-egg Thief Convicted a Second Time for Stealing Nested Sea Turtle Eggs from Coastal Georgia Island'
+date: '2015-08-31'
+hero:
+    name: loggerhead-hatchling-meets-ocean.jpg
+    alt: 'A tiny loggerhead hatchling hustles towards the ocean.'
+    link: 'https://flic.kr/p/cDw86S'
+    caption: 'Loggerhead hatchling meets ocean. Photo by Becky Skiba, USFWS.'
+    position: 'bottom center'
 tags:
- - Law Enforcement
- - Georgia
- - Loggerhead sea turtle
+    - 'Law Enforcement'
+    - Georgia
+    - 'Loggerhead sea turtle'
+updated: 'October 3rd, 2016'
 ---
 
 BRUNSWICK, GA - Lewis Jackson, 60, of Brunswick, Georgia pled guilty today before Chief United States District Court Judge Lisa Godbey Wood to stealing loggerhead sea turtle eggs in violation of the Lacey Act.  Among other things, the Lacey Act makes it unlawful for any person to acquire, receive and transport loggerhead sea turtle eggs, as loggerheads are endangered species under federal law.  Back in 2013, Jackson was convicted a first time for stealing turtle eggs, and was sentenced to serve 6 months in prison.  Jackson was on federal supervised release when he was caught stealing turtle eggs for the second time.  
@@ -19,14 +26,7 @@ Luis Santiago, Special Agent in Charge, Southeast Region, U.S. Fish & Wildlife S
 
 This case was investigated by the United States Fish and Wildlife Service, the Georgia Department of Natural Resources, and the United States Probation Office.  Assistant United States Attorney E. Greg Gilluly, Jr. is prosecuting the case for the United States.  Please direct any additional questions to First Assistant United States Attorney James D. Durham at (912) 201-2547.
 
-**Contact(s):**  
+## Contact
 
 James D. Durham; ?(912) 201-2547  
 First Assistant United States Attorney
-
-* * *
-
-![A sign describing protections afforded to Loggerhead nesting areas](images/newsUploads/newsThumbs/newsImageThumb83998328-FBF3-03EA-6FD68B104DDC4C32.jpg)
-
-Loggerhead pretections Credit: MWMS1916; CC BY-NC-ND 2.0  
-[Higher Quality Version of Image](https://flic.kr/p/ubEky)

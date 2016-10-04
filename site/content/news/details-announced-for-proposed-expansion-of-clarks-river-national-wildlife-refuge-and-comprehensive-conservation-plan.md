@@ -1,6 +1,11 @@
 ---
 title: Details Announced for Proposed Expansion of Clarks River National Wildlife Refuge and Comprehensive Conservation Plan
-date: 2012-02-16
+date: '2012-02-16'
+hero:
+  name: clarks-river-nwr-in-fall.jpg
+  alt: A river cuts through a colorful forest in fall.
+  link: https://flic.kr/p/buzGMg
+  caption: Clarks River National Wildlife Refuge in Fall. Photo by Andy Eller, USFWS.
 tags:
  - NWRS
 ---
@@ -15,7 +20,7 @@ During the four-week public review and comment period that ends March 15, the Se
 
 The schedule is:
 
-Where:
+Where
 
 **Gospel Mission Worship Center, 6905 Benton Road, Paducah, KY 42003**
 
@@ -36,11 +41,11 @@ Where:
 **Marshall County High School Cafeteria, 416 High School Road, Benton, KY 42025**
 
 Comments may also be submitted in writing to the U.S. Fish and Wildlife Service, Proposed Expansion of Clarks River NWR and CCP:  
-By email to [tina_chouinard@fws.gov](mailto:tina_chouinard@fws.gov)  
-By mail to 49 Plainsbrook Place, Jackson, TN 38305;  
-By fax to 731-664-1566.
+ - By email to [tina_chouinard@fws.gov](mailto:tina_chouinard@fws.gov)  
+ - By mail to 49 Plainsbrook Place, Jackson, TN 38305;  
+ - By fax to 731-664-1566.
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

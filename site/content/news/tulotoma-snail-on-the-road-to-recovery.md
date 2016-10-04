@@ -1,10 +1,16 @@
 ---
-title: Tulotoma Snail on the Road to Recovery
-date: 2010-06-22
+title: 'Tulotoma Snail on the Road to Recovery'
+date: '2010-06-22'
+hero:
+    name: tulotoma-snails.jpg
+    alt: 'Hundreds of partially submerged snails.'
+    link: 'https://flic.kr/p/a9Fuzx'
+    caption: 'Tulotoma snails. Photo by USFWS.'
 tags:
- - Tulotoma snail
- - Recovery
- - Alabama
+    - 'Tulotoma snail'
+    - Recovery
+    - Alabama
+updated: 'October 3rd, 2016'
 ---
 
 The U.S. Fish and Wildlife Service today proposed reclassifying the [tulotoma snail](http://www.fws.gov/ecos/ajax/speciesProfile/profile/speciesProfile.action?spcode=G04X) from endangered to threatened under the Endangered Species Act, declaring the snail is making major strides on the road to recovery. The rule was published in today’s Federal Register and the public is invited to comment on the proposal by August 23, 2010.
@@ -27,7 +33,7 @@ The Mobile River Basin Aquatic Ecosystem Recovery Plan published in 2000, outlin
 
 These actions have improved the species’ status so that it is no longer in danger of extinction in the foreseeable future. The known range of the tulotoma snail has increased from less than two percent to 10 percent of the species’ historical range since its listing in 1991\. There has been an increase in the extent and size of the tulotoma snail population in the Coosa River below Jordan Dam, due to the minimum flows released from the Jordan Dam by Alabama Power Company. Studies have also documented an increase in range of the Kelly, Hatchet, and Weogufka creek populations, and expansion of the Kelly Creek population into the Coosa River below Logan Martin Dam. Monitoring of the Yellowleaf, Choccolocco, and Weoka creek populations indicates they have remained stable since their discovery. Tulotoma colonies have also been discovered at three locations in the Alabama River.
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

@@ -1,8 +1,14 @@
 ---
-title: Stimulus Funds Help Determine Future of Endangered Key Deer at Florida Keys Refuge
-date: 2010-04-27
+title: 'Stimulus Funds Help Determine Future of Endangered Key Deer at Florida Keys Refuge'
+date: '2010-04-27'
+hero:
+    name: key-deer-after-prescribed-burn.jpg
+    alt: 'A small deer with velvet covered antlers in a recently burned forest.'
+    link: 'https://flic.kr/p/8znoym'
+    caption: 'A Key deer in velvet. Photo by USFWS.'
 tags:
- - NWRS
+    - NWRS
+updated: 'October 3rd, 2016'
 ---
 
 The petite Key deer is dependent on fresh water in a place where fresh water can sometimes be scarce – the Florida Keys, the only place where the Key deer lives. At Key Deer National Wildlife Refuge, fresh water collects in small ponds that form in the limestone, known as solution holes, providing life for the refuge’s federally listed Key deer population.
@@ -37,7 +43,7 @@ The U.S. Fish and Wildlife Service is the principal Federal agency responsible f
 
 [Video...](http://recovery.doi.gov/press/bureaus/us-fish-and-wildlife-service/national-key-deer-refuge&linkname=Recovery.doi.gov)
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

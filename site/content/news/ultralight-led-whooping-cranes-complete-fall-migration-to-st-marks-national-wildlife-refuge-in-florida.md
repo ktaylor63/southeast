@@ -1,10 +1,16 @@
 ---
-title: Ultralight-led Whooping Cranes Complete Fall Migration to St. Marks National Wildlife Refuge in Florida
-date: 2014-12-11
+title: 'Ultralight-led Whooping Cranes Complete Fall Migration to St. Marks National Wildlife Refuge in Florida'
+date: '2014-12-11'
+hero:
+    name: whooping-cranes-over-st-marks-nwr.jpg
+    alt: 'Two whooping cranes follow a large fan powered glider in front of a gray sky.'
+    link: 'https://flic.kr/p/q6kHxY'
+    caption: 'Two whooping cranes fly over St. Marks National Wildlife Refuge following the second ultralight aircraft. Photo by Terri Calleson, USFWS.'
 tags:
- - Whooping crane
- - NWRS
- - Florida
+    - 'Whooping crane'
+    - NWRS
+    - Florida
+updated: 'October 3rd, 2016'
 ---
 
 St Marks, FL - Early this morning, seven young whooping cranes following two ultralight aircraft during a two-month migration landed at St. Marks National Wildlife Refuge where they will spend the winter.  They traveled 63 days and 1,100 miles from Necedah National Wildlife Refuge in Wisconsin to St. Marks.
@@ -29,7 +35,7 @@ To report whooping crane sightings, visit the WCEP whooping crane observation we
 
 The mission of the U.S. Fish and Wildlife Service is working with others to conserve, protect, and enhance fish, wildlife, plants, and their habitats for the continuing benefit of the American people. For more information on our work and the people who make it happen, visit [www.fws.gov](http://www.fws.gov/)[/southeast](http://fws.gov/southeast). Connect with our [](http://www.facebook.com/usfwssoutheast) [Facebook](http://www.facebook.com/southeast), follow our [tweets](http://www.twitter.com/usfwssoutheast), watch our [YouTube Channel](http://www.youtube.com/usfws), and download photos from our [Flickr](http://www.flickr.com/photos/usfwssoutheast) page.
 
-**Contact(s):**  
+## Contacts
 
 Heather Ray, Operation Migration  
 920-573-0905   
@@ -38,10 +44,3 @@ Heather Ray, Operation Migration
 Elsie Davis, Fish and Wildlife Service   
 404-679-7107   
 [Elsie_Davis@fws.gov](mailto:Elsie_Davis@fws.gov)
-
-* * *
-
-![Whooping cranes flying behind an ultralight aircraft. ](images/newsUploads/newsThumbs/newsImageThumb3B65FEC1-F808-5A76-8A4477F35685191D.jpg)
-
-Two whooping cranes fly over St. Marks National Wildlife Refuge following the second ultralight aircraft. Credit: Terri Calleson, USFWS.  
-[Higher Quality Version of Image](https://www.flickr.com/photos/usfwssoutheast/15812991818/)
