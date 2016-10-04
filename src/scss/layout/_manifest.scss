@@ -7,6 +7,11 @@
   }
 }
 
+.content-centered {
+  margin: auto;
+  max-width: $container-width;
+}
+
 #content {
   @include container;
 
