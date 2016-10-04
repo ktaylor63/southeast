@@ -1,6 +1,6 @@
 .breadcrumbs {
   display: inline-block;
-  font-size: 16px;
+  font-size: 14px;
   list-style: none;
   margin: 0;
   padding: 0;
@@ -22,6 +22,7 @@
 
   li {
     float: left;
+    margin: 0;
 
     &:first-child::after {
       content: '';
