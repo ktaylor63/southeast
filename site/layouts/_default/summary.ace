@@ -1,6 +1,6 @@
 section class="card {{ if .Params.hero.name }}card-hero{{ end }}"
   {{ if .Params.hero.name }}
-  img src="{{ .Site.BaseURL }}images/hero/{{ .Params.hero.name }}" alt="{{ .Params.hero.alt }}"
+  img src="{{ .Site.BaseURL }}images/hero/medium/{{ .Params.hero.name }}" alt="{{ .Params.hero.alt }}"
   {{ end }}
   div.card-text
     h3
