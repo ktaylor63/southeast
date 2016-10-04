@@ -106,14 +106,29 @@
   });
 
   var drawerToggles = document.querySelectorAll('.close-drawer');
+  document.body.addEventListener('keyup', keyupHandler);
 
   for (var i = 0; i < drawerToggles.length; i++) {
     drawerToggles[i].addEventListener('click', removeActiveClassFromDrawer);
   }
 
   function removeActiveClassFromDrawer (e) {
-    var parent = e.target.parentNode;
+    var parent = (e.target) ? e.target.parentNode : e.parentNode;
     if (parent) removeClass(parent, 'active');
+  }
+
+  function keyupHandler(e) {
+    var key = e.which || e.keyCode || 0;
+    if (key !== 27) return;
+    var drawers = [
+      document.querySelector('.contact-drawer'),
+      document.querySelector('.share-drawer')
+    ];
+
+    [].forEach.call(drawers, function (drawer) {
+      var button = drawer.querySelector('.close-drawer');
+      if ( hasClass(drawer, 'active') ) removeActiveClassFromDrawer(button);
+    });
   }
 
   function toggleScrollNav() {
