@@ -1,0 +1,5 @@
+{{ range (where .Page.Site.Pages "Type" "species-profile") }}
+  {{ if (in .Params.tags "Gulf") }}
+    {{ .Render "summary" }}
+  {{ end }}
+{{ end }}
