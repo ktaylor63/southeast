@@ -8,31 +8,25 @@ aliases:
 tags:
     - 'Miami tiger beetle'
     - Florida
-    - Miami
     - Insect
-    - 'Petitioned species'
+    - Endangered
     - 'Pine rockland'
+    - Gulf
 hero:
     link: 'https://flic.kr/p/BEwwVZ'
     name: miami-tiger-beetle.jpg
     alt: 'An iridescent insect with many small hairs on its belly standing on leaf litter and sandy soil'
     caption: 'Miami tiger beetle. Photo: Jonathan Mays, Florida Fish and Wildlife Conservation Commission.'
-description: 'The Miami tiger beetle, found exclusively in pine rockland habitat in Miami-Dade County, Florida, has a shiny green exterior and is proposed for protection under the Endangered Species Act as endangered. Learn more about the beetle at fws.gov.'
-updated: 'September 27th, 2016'
+description: 'The Miami tiger beetle, found exclusively in pine rockland habitat in Miami-Dade County, Florida, has a shiny green exterior and protected under the Endangered Species Act as endangered.'
+updated: 'October 4th, 2016'
 ---
 
-- Taxa: Arthropod (Ground Beetle)
-- Range: Miami-Dade County in South [Florida](/florida)
-- Status:
-  - [Petitioned for listing](/pdf/petition-miami-tiger-beetle.pdf) in December 2014
-  - [Proposed for listing](http://www.fws.gov/news/ShowNews.cfm?ref=-------------------u.s.-fish-and-wildlife-service-proposes-to-list-miami-&_ID=35402) as Endangered December 2015
+- **Taxa**: Arthropod (Ground Beetle)
+- **Range**: Miami-Dade County in South [Florida](/florida)
+- **Status**: Listed as Endangered
 
 ## News
 {{< content-by-tag tag="Miami tiger beetle" view="li" number="3" >}}
-
-## Federal Register Documents
-
-The following Federal Register documents were automatically gathered by searching the [Federal Register Official API](https://www.federalregister.gov/blog/learn/developers) with this species' scientific name **ordered by relevance**. You can conduct your own search on the [Federal Register website](https://www.federalregister.gov/articles/search).
 
 ## Appearance
 
@@ -78,7 +72,7 @@ These threats are made more severe due to the species’ restricted range, the f
 
 Early in 2014, due to the species’ extreme vulnerability and threats, the Service considered adding it to the candidate list.
 
-On December 11, 2014, the Service received a [petition](/pdf/petition-miami-tiger-beetle.pdf)  from the Center for Biological Diversity, the Miami Blue Chapter of the North American Butterfly Association, South Florida Wildlands Association, Tropical Audubon Society and others requesting that the Miami tiger beetle be emergency listed as endangered and that critical habitat be designated under the Act.
+On December 11, 2014, the Service received a [petition](/pdf/petitions/petition-miami-tiger-beetle.pdf)  from the Center for Biological Diversity, the Miami Blue Chapter of the North American Butterfly Association, South Florida Wildlands Association, Tropical Audubon Society and others requesting that the Miami tiger beetle be emergency listed as endangered and that critical habitat be designated under the Act.
 
 In a February 13, 2015, letter to the petitioners, the Service stated that although we determined that emergency listing was not warranted, we would review the petitioned request for listing.
 
@@ -90,7 +84,7 @@ If you are a landowner with land on or near the Miami Rock Ridge in Miami-Dade C
 1339 20th Street, Vero Beach, FL 32960
 Phone:  772-469-4323
 Fax:  772-562-4288
-Web: [fws.gov/verobeach](http://www.fws.gov/verobeach/)
+Web: [fws.gov/verobeach](https://www.fws.gov/verobeach/)
 
 ## Federal Register Documents
 
