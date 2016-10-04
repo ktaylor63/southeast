@@ -1,11 +1,12 @@
 = content main
-  h1 Southeastern Wildlife
+  .content-centered role="main"
+    h1 Southeastern Wildlife
 
-  p The species profiles below are a one-stop-shop for information about the animals that the Southeast region of the U.S. Fish and Wildlife Service is responsible for protecting and/or recovering.
+    p The species profiles below are a one-stop-shop for information about the animals that the Southeast region of the U.S. Fish and Wildlife Service is responsible for protecting and/or recovering.
 
-  {{ $paginator := .Paginate (where .Data.Pages "Section" "wildlife") }}
-  {{ range $paginator.Pages }}
-    {{ .Render "summary" }}
-  {{ end }}
+    {{ $paginator := .Paginate (where .Data.Pages "Type" "species-profile") }}
+    {{ range $paginator.Pages }}
+      {{ .Render "summary" }}
+    {{ end }}
 
-  {{ partial "pagination.html" . }}
+    {{ partial "pagination.html" . }}
