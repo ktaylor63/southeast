@@ -67,5 +67,14 @@
 
   h3 {
     margin-top: 0;
+    font-style: normal;
+
+    a {
+      text-decoration: none;
+
+      &:hover {
+        text-decoration: underline;
+      }
+    }
   }
 }
