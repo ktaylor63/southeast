@@ -5,8 +5,12 @@ type: species-profile
 js: /js/species-profile.js
 aliases:
     - /wildlife/amphibian/puerto-rican-rock-frog
+    - /species/amphibians/puerto-rican-rock-frog
+    - /species/amphibian/puerto-rican-rock-frog
     - /wildlife/amphibians/coqui-guajon
     - /wildlife/amphibian/coqui-guajon
+    - /species/amphibian/coqui-guajon
+    - /species/amphibians/coqui-guajon
 tags:
     - 'Threatened Species'
     - Amphibian
@@ -18,12 +22,12 @@ hero:
     alt: 'A brownish peach colored frog with big round eyes'
     caption: 'A female frog on a tree branch. Photo by JP Zegarra, USFWS.'
 description: 'The Puerto Rican rock frog is known by several names: Puerto Rican cave frog, guajón, and the Puerto Rican demon. It is found exclusively in southeastern Puerto Rico.'
-updated: 'September 27th, 2016'
+updated: 'October 5th, 2016'
 ---
 
-- **Taxon: Amphibian**
-- **Range: Southeastern [Puerto Rico](/puerto-rico)**
-- **Status: Threatened**
+- **Taxon:** Amphibian
+- **Range:** Southeastern [Puerto Rico](/puerto-rico)
+- **Status:** Threatened
 
 The Puerto Rican rock frog is known by several names: Puerto Rican cave frog, guajón, and the Puerto Rican demon. It earned this name because many years ago, people thought its voice was that of an evil spirit in the forest.
 
