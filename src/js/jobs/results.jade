@@ -5,7 +5,7 @@ each result in results
   - var details = result.UserArea.Details;
   - var grade = (details.LowGrade === details.HighGrade) ? details.LowGrade : details.LowGrade + '/' + details.HighGrade;
   - var compensation = Number(result.PositionRemuneration[0].MinimumRange).toLocaleString() + ' - ' + Number(result.PositionRemuneration[0].MaximumRange).toLocaleString();
-  li.job-item
+  li.card.card-text
     h3 #[a(target="_blank", href=result.PositionURI)= result.PositionTitle] (#{result.JobGrade[0].Code} #{grade})
     p #[strong Key Details:]
     ul
@@ -18,4 +18,4 @@ each result in results
         li| Location: #{location.LocationName}
     p= details.JobSummary
     p| #[a(target="_blank", href=result.ApplyURI[0]) Apply online]
-    p Who may apply #{details.WhoMayApply.Name}
+    p Who may apply: #{details.WhoMayApply.Name}

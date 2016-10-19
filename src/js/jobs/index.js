@@ -8,7 +8,7 @@
     error: require('./error.jade')
   };
 
-  var output  = document.querySelector('.job-list');
+  var output  = document.querySelector('.card-list');
   var API_KEY = '84OIdzD2Zota1B7hzOQmuWydt/kh8k1z2bdCx6dHpBY=';
   var EMAIL   = 'roy_hewitt@fws.gov';
   var HOST    = 'data.usajobs.gov';
@@ -33,7 +33,7 @@
     if (err) {
       output.innerHTML = templates.error({
         error: 'Could not download jobs listings',
-        message: 'Visit <a href="https://usajobs.gov">USAjobs.gov</a> to create your own search.' 
+        message: 'Visit <a href="https://usajobs.gov">USAjobs.gov</a> to create your own search.'
       });
     }
 
