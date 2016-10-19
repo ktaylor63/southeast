@@ -1,4 +1,5 @@
 .hero {
+  background: $color-accent;
   height: 50vh;
   overflow: hidden;
   position: relative;
@@ -13,17 +14,4 @@
   background-size: cover;
   background-repeat: no-repeat;
   height: 100%;
-}
-
-.hero-caption {
-  color: $color-accent;
-  font-size: 12px;
-  line-height: 14px;
-  margin: 0 0 1em 10px;
-
-  @media (min-width: $break-md) {
-    font-size: 14px;
-    line-height: 16.5px;
-    margin-left: $nav-width + 10px;
-  }
 }
