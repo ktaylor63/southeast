@@ -1,0 +1,9 @@
+<nav class="section-nav">
+  <ul>
+    {{ range where .Site.Pages "Section" .Section }}
+      {{ if .Params.nav }}
+      <li><a href="{{ .Permalink }}">{{ .Params.nav }}</a></li>
+      {{ end }}
+    {{ end }}
+  </ul>
+</nav>

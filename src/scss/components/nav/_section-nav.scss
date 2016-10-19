@@ -1,0 +1,44 @@
+.section-nav {
+  background: $color-accent;
+  padding: .5em;
+  text-align: center;
+
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+
+    li {
+      display: inline-block;
+      margin: 0;
+
+      a {
+        color: white;
+        display: block;
+        margin-right: .5em;
+        padding: .5em .25em;
+        text-decoration: none;
+
+        &:last-child {
+          margin-right: 0;
+        }
+
+        &:visited,
+        &:active,
+        &:hover {
+          color: white;
+        }
+
+        &:hover {
+          background: darken($color-accent, 5);
+          border-radius: 5px;
+          text-shadow: 1px 1px 2px #000;
+        }
+      }
+    }
+  }
+
+  @media (min-width: $break-md) {
+    margin-left: $nav-width;
+  }
+}
