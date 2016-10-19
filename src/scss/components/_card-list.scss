@@ -65,7 +65,8 @@
 .card-text {
   padding: $leading;
 
-  h3 {
+  h3,
+  p:first-of-type {
     margin-top: 0;
     font-style: normal;
 
