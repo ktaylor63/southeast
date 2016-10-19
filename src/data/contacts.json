@@ -253,6 +253,60 @@
 ,
 {"state":"Kentucky","type":"Hatchery","station":"Wolf Creek National Fish Hatchery","name":"Ashley Buffington","title":"Environmental Education/Outreach Specialist","email":"ashley_buffington@fws.gov","phone":"270-343-3797 ext. 25"}
 ,
+{"state":"Louisiana","type":"Field Office","station":"Louisiana Ecological Services","name":"Joseph Ranson","title":"Field Supervisor","email":"joseph_ranson@fws.gov","phone":"337-291-3113"}
+,
+{"state":"Louisiana","type":"Field Office","station":"Louisiana Ecological Services","name":"Thomas Athens","title":"Wildlife Biologist - Fort Polk","email":"thomas_athens@fws.gov","phone":"337-531-6318"}
+,
+{"state":"Louisiana","type":"Field Office","station":"Louisiana Ecological Services","name":"Seth Bordelon","title":"Conservation Planning Assistance Biologist","email":"seth_bordelon@fws.gov","phone":"337-291-3138"}
+,
+{"state":"Louisiana","type":"Field Office","station":"Louisiana Ecological Services","name":"Cathy Breaux","title":"Civil Works and Coastal Restoration Biologist","email":"cathy_breaux@fws.gov","phone":"504-862-2689"}
+,
+{"state":"Louisiana","type":"Field Office","station":"Louisiana Ecological Services","name":"Kathryn Brenner","title":"Wildlife Biologist - Fort Polk","email":"kathryn_brenner@fws.gov","phone":"337-531-6318"}
+,
+{"state":"Louisiana","type":"Field Office","station":"Louisiana Ecological Services","name":"David Castellanos","title":"Threatened & Endangered Species Biologist","email":"david_Castellanos@fws.gov","phone":"337-291-3112"}
+,
+{"state":"Louisiana","type":"Field Office","station":"Louisiana Ecological Services","name":"Darryl Clark","title":"Senior Coastal Restoration Biologist, CWPPRA Technical Committee Representative","email":"darryl_clark@fws.gov","phone":"337-291-3111"}
+,
+{"state":"Louisiana","type":"Field Office","station":"Louisiana Ecological Services","name":"Andy Dolan","title":"Partners for Fish & Wildlife Coordinator and Private Lands Biologist","email":"andrew_dolan@fws.gov","phone":"337-291-3119"}
+,
+{"state":"Louisiana","type":"Field Office","station":"Louisiana Ecological Services","name":"Robert Dubois","title":"Coastal Restoration Biologist","email":"robert_dubois@fws.gov","phone":"337-291-3127"}
+,
+{"state":"Louisiana","type":"Field Office","station":"Louisiana Ecological Services","name":"Brigette Firmin","title":"Coastal Restoration & NRDAR Biologist","email":"brigette_firmin@fws.gov","phone":"337-291-3108"}
+,
+{"state":"Louisiana","type":"Field Office","station":"Louisiana Ecological Services","name":"Robert Greco","title":"GIS and Web Services","email":"robert_greco@fws.gov","phone":"337-291-3150"}
+,
+{"state":"Louisiana","type":"Field Office","station":"Louisiana Ecological Services","name":"Joshua Marceaux","title":"Conservation Planning Assistance Biologist","email":"joshua_marceaux@fws.gov","phone":"337-774-5923"}
+,
+{"state":"Louisiana","type":"Field Office","station":"Louisiana Ecological Services","name":"David Oster","title":"Conservation Planning Assistance Biologist","email":"david_oster@fws.gov","phone":"337-291-3100"}
+,
+{"state":"Louisiana","type":"Field Office","station":"Louisiana Ecological Services","name":"Ronnie Paille","title":"Civil Works and Coastal Restoration Biologist","email":"ronald_paille@fws.gov","phone":"337-291-3117"}
+,
+{"state":"Louisiana","type":"Field Office","station":"Louisiana Ecological Services","name":"Charlotte Ravain","title":"Administrative Officer","email":"charlotte_ravain@fws.gov","phone":"337-291-3130"}
+,
+{"state":"Louisiana","type":"Field Office","station":"Louisiana Ecological Services","name":"Brad Rieck","title":"Deputy Field Supervisor","email":"brad_rieck@fws.gov","phone":"337-291-3116"}
+,
+{"state":"Louisiana","type":"Field Office","station":"Louisiana Ecological Services","name":"Kathrin Romero","title":"Administrative Assistant","email":"kathrin_romero@fws.gov","phone":"337-291-3101"}
+,
+{"state":"Louisiana","type":"Field Office","station":"Louisiana Ecological Services","name":"Kevin Roy","title":"Coastal Restoration Biologist","email":"kevin_roy@fws.gov","phone":"337-291-3120"}
+,
+{"state":"Louisiana","type":"Field Office","station":"Louisiana Ecological Services","name":"John Savell","title":"Coastal Restoration Biologist","email":"john_savell@fws.gov","phone":"337-291-3144"}
+,
+{"state":"Louisiana","type":"Field Office","station":"Louisiana Ecological Services","name":"Monica Sikes","title":"Endangered Species Coordinator","email":"monica_sikes@fws.gov","phone":"337-291-3118"}
+,
+{"state":"Louisiana","type":"Field Office","station":"Louisiana Ecological Services","name":"Rob Smith","title":"Partners for Fish & Wildlife Biologist","email":"robert_v_smith@fws.gov","phone":"337-291-3134"}
+,
+{"state":"Louisiana","type":"Field Office","station":"Louisiana Ecological Services","name":"David Soileau","title":"Conservation Planning Assistance Coordinator","email":"david_soileau@fws.gov","phone":"337-291-3109"}
+,
+{"state":"Louisiana","type":"Field Office","station":"Louisiana Ecological Services","name":"Karen Soileau","title":"Threatened & Endangered Species Biologist","email":"karen_soileau@fws.gov","phone":"337-291-3132"}
+,
+{"state":"Louisiana","type":"Field Office","station":"Louisiana Ecological Services","name":"Mark Tharp","title":"Information Technology Specialist","email":"mark_tharp@fws.gov","phone":"337-291-3136"}
+,
+{"state":"Louisiana","type":"Field Office","station":"Louisiana Ecological Services","name":"Amy Trahan","title":"Conservation Planning Assistance, T&E Species and CBRA Biologist","email":"amy_trahan@fws.gov","phone":"337-291-3126"}
+,
+{"state":"Louisiana","type":"Field Office","station":"Louisiana Ecological Services","name":"Angela Trahan","title":"Coastal Restoration Biologist and Migratory Birds","email":"angela_trahan@fws.gov","phone":"337-291-3137"}
+,
+{"state":"Louisiana","type":"Field Office","station":"Louisiana Ecological Services","name":"David Walther","title":"Supervisory Biologist for Civil Works and Coastal Restoration Projects","email":"david_walther@fws.gov","phone":"337-291-3122"}
+,
 {"state":"North Carolina","type":"Field Office","station":"Raleigh Ecological Services Field Office","name":"Pete Benjamin","title":"Field Supervisor","email":"pete_benjamin@fws.gov","phone":"919-856-4520 ext. 11"}
 ,
 {"state":"North Carolina","type":"Field Office","station":"Raleigh Ecological Services Field Office","name":"Tom Augspurger","title":"Ecologist (Wildlife Toxicology, Contaminants)","email":"tom_augspurger@fws.gov","phone":"919-856-4520 ext. 21"}
@@ -494,4 +548,12 @@
 {"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Damaris Roman","title":"Biological Science Technician, Puerto Rican Parrot Recovery Program","email":"damaris_roman@fws.gov","phone":"787-888-1810 ext 5535"}
 ,
 {"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Joel Arroyo","title":"Office Support Student Trainee","email":"joel_arroyo@fws.gov","phone":"787-851-7297 ext 208"}
+,
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Field Office","station":"Caribbean Ecological Services Field Office","name":"Alexandra Galindo","title":"Fisheries Biologist","email":"alexandra_galindo@fws.gov","phone":"787-851-7297 ext 223"}
+,
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Refuge","station":"Buck Island, Green Cay, Sandy Point National Wildlife Refuges","name":"Claudia Lombard","title":"Law Enforcement/Biologist","email":"claudia_lombard@fws.gov","phone":"340-690-8325"}
+,
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Refuge","station":"Vieques National Wildlife Refuge","name":"Michael Barandiaran","title":"Refuge Manager","email":"mike_barandiaran@fws.gov","phone":"787-741-2138 "}
+,
+{"state":"Puerto Rico / U.S. Virgin Islands","type":"Refuge","station":"Vieques National Wildlife Refuge","name":"Sandra Ortiz","title":"Park Ranger","email":"sandra_ortiz@fws.gov","phone":"787-741-2138"}
 ]
