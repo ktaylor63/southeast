@@ -1,0 +1,12 @@
+@media print {
+  .hero,
+  .main-nav,
+  .side-nav,
+  footer {
+    display: none;
+  }
+
+  .highlight {
+    text-decoration: none;
+  }
+}
