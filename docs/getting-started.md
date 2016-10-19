@@ -5,7 +5,7 @@ This website is the amalgamation of many free and open source tools.  Before you
 ## Requirements
 
 - [NodeJS](https://nodejs.org/en/) version 4.x (Roy is currently on 4.2.4)
-- [Hugo](https://gohugo.io/overview/installing/) (Roy is currently using v0.15)
+- [Hugo](https://gohugo.io/overview/installing/) (Roy is currently using v0.17)
 - [Git](https://git-scm.com/downloads) (Roy is currently using 2.6.4 [Apple Git-63])
 - [Sharp/libvips](http://sharp.dimens.io/en/stable/install/#installation)
 
