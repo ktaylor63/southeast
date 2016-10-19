@@ -1,10 +1,16 @@
 ---
-title: Federal and State Officials Request Assistance in Investigation of Gunshot Red Wolf
-date: 2014-10-17
+title: 'Federal and State Officials Request Assistance in Investigation of Gunshot Red Wolf'
+description: 'The U.S. Fish and Wildlife Service and the N.C. Wildlife Resources Commission are requesting assistance with an investigation involving the suspected illegal take of a radio-collared red wolf that was recently found dead.'
+date: '2014-10-17'
+hero:
+    name: red-wolf-adult-brad-mcphee.jpg
+    alt: 'An adult red wolf walking stealthily in a caged enclosure at the zoo.'
+    caption: 'Adult Red wolf. Photo by Brad McPhee, Defiance Zoo and Aquarium.'
 tags:
- - Red wolf
- - North Carolina
- - Law Enforcement
+    - 'Red wolf'
+    - 'North Carolina'
+    - 'Law Enforcement'
+updated: 'October 6th, 2016'
 ---
 
 The U.S. Fish and Wildlife Service and the N.C. Wildlife Resources Commission are requesting assistance with an investigation involving the suspected illegal take of a radio-collared red wolf that was recently found dead.  The federally protected red wolf was found with an apparent gunshot wound on Tuesday, Sept. 30, 2014, east of Columbia, in Tyrrell County, North Carolina. Based on body condition and field sign, the actual date of death is estimated to be Sept. 26, 2014.
@@ -23,7 +29,7 @@ Anyone with information on the death of this red wolf or any others, past or fut
 
 To get up-to-date red wolf mortality information, visit [http://www.fws.gov/redwolf/Images/MortalityTable.pdf](http://www.fws.gov/redwolf/Images/MortalityTable.pdf).
 
-**BACKGROUND:**
+## Background
 
 The red wolf is one of the world’s most endangered wild canids.  Once widely-distributed throughout the southeastern United States, red wolf populations have been decimated due to intensive predator control programs, hybridization with coyotes and loss of habitat.  A remnant population of red wolves was found along the Gulf Coast of Texas and Louisiana.  After being declared an endangered species in 1967, efforts were initiated to locate and capture as many wild red wolves as possible.  Of the 17 remaining wolves captured by biologists, 14 became the founders of a successful zoo-based breeding program.  Consequently, the U.S. Fish and Wildlife Service declared red wolves extinct in the wild in 1980.
 
@@ -37,8 +43,7 @@ Red wolves are social animals that live in packs consisting of a breeding pair a
 
 To learn more about red wolves and the Service’s efforts to recover them, please visit [www.fws.gov/redwolf](http://www.fws.gov/redwolf).
 
-
-**Contact(s):**  
+## Contacts
 
 Art Beyer, USFWS  
 252-473-1132 x 241  

@@ -1,8 +1,15 @@
 ---
-title: Federal Agency Clarifies Request for Gopher Tortoise Information following its 90-Day Finding
-date: 2010-01-12
+title: 'Federal Agency Clarifies Request for Gopher Tortoise Information following its 90-Day Finding'
+description: 'The U.S. Fish and Wildlife Service (Service) announced a clarification of its public information request originally made in its September 9, 2009 Gopher tortoise 90-day finding notice, and its extension of the official public comment period.'
+date: '2010-01-12'
+hero:
+    name: gopher-tortoise-baby.jpg
+    alt: 'A small gopher tortoise with tan shell standing on sandy grass covered soil.'
+    link: 'https://flic.kr/p/a5Hrx2'
+    caption: 'Gopher tortoise. Photo by Randy Browning, USFWS.'
 tags:
- - Gopher tortoise
+    - 'Gopher tortoise'
+updated: 'October 6th, 2016'
 ---
 
 The U.S. Fish and Wildlife Service (Service) announced a clarification of its public information request originally made in its September 9, 2009 Gopher tortoise 90-day finding notice, and its extension of the official public comment period.
@@ -27,15 +34,15 @@ To ensure this status review is comprehensive, the Service is soliciting scienti
 
 Anyone wishing to submit information regarding the gopher tortoise throughout its entire range may do so via one of the following methods:
 
-*   mail or hand-delivery: Public Comments Processing, Attn: FWS-R4- ES-2009-0029; Division of Policy and Directives Management; U.S. Fish and Wildlife Service; 4401 N. Fairfax Drive, Suite 222 ; Arlington, VA 22203.
+- mail or hand-delivery: Public Comments Processing, Attn: FWS-R4- ES-2009-0029; Division of Policy and Directives Management; U.S. Fish and Wildlife Service; 4401 N. Fairfax Drive, Suite 222 ; Arlington, VA 22203.
 
-We will post all information received on [&linkname=Regulations.gov">http://www.regulations.gov](http://www.regulations.gov). This generally means that we will post any personal information you provide us.
+We will post all information received on [regulations.gov](http://www.regulations.gov). This generally means that we will post any personal information you provide us.
 
 Submissions merely stating support for or opposition to the action under consideration without providing supporting information, although noted, will not be considered in making a determination, as section 4(b)(1)(A) of the Act directs that determinations as to whether any species is a threatened or endangered species must be made “solely on the basis of the best scientific and commercial data available.”
 
-For more information about the gopher tortoise and this finding, please visit the Service’s web site at [http://www.fws.gov/northflorida](http://www.fws.gov/northflorida).
+For more information about the gopher tortoise and this finding, please visit the Service’s web site at [fws.gov/northflorida](http://www.fws.gov/northflorida).
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

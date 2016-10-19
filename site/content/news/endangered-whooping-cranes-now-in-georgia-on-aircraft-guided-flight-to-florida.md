@@ -1,10 +1,16 @@
 ---
-title: Endangered Whooping Cranes Now in Georgia on Aircraft-guided Flight to Florida
-date: 2013-12-30
+title: 'Endangered Whooping Cranes Now in Georgia on Aircraft-guided Flight to Florida'
+description: 'Eight young whooping cranes that began their aircraft-led migration on October 2, 2013, from the White River Marsh State Wildlife Area in Green Lake County, Wisconsin, today made it to Decatur County, Georgia.'
+date: '2013-12-30'
+hero:
+    name: whooping-cranes-operation-migration.jpg
+    alt: 'Airborne ultralight with whooping cranes following.'
+    caption: 'Class of 2013 by Operation Migration. Photo by Heather Ray, Operation Migration.'
 tags:
- - Georgia
- - Florida
- - Whooping crane
+    - Georgia
+    - Florida
+    - 'Whooping crane'
+updated: 'October 6th, 2016'
 ---
 
 Eight young whooping cranes that began their aircraft-led migration on October 2, 2013, from the White River Marsh State Wildlife Area in Green Lake County, Wisconsin, today made it to Decatur County, Georgia.
@@ -13,7 +19,7 @@ Eight young whooping cranes that began their aircraft-led migration on October 2
 
 They now have flown at total of about 1020 miles.
 
-This is the 13th group of birds to take part in a project led by the Whooping Crane Eastern Partnership (WCEP), an international coalition of public and private groups that is reintroducing this highly imperilled species in eastern North America, part of its historic range.
+This is the 13th group of birds to take part in a project led by the Whooping Crane Eastern Partnership (WCEP), an international coalition of public and private groups that is reintroducing this highly imperiled species in eastern North America, part of its historic range.
 
 WCEP partner Operation Migration is using two ultralight aircraft to lead the juvenile cranes through Wisconsin, Illinois, Kentucky, Tennessee, Alabama, and Georgia to reach the birds’ wintering habitat at St. Marks National Wildlife Refuge (NWR) along Florida's Gulf Coast.
 
@@ -31,30 +37,13 @@ To report whooping crane sightings, visit the WCEP whooping crane observation we
 
 The public is invited to follow the aircraft-guided Whooping cranes on Operation Migration’s live Crane Cam, which broadcasts daily during flights and while the cranes are at each stopover location along the route to Florida. Visit: [http://www.ustream.tv/migratingcranes](http://www.ustream.tv/migratingcranes) to watch the video stream or [http://operationmigration.org/InTheField](http://operationmigration.org/InTheField) for daily website postings.
 
-To report whooping crane sightings, visit the WCEP whooping crane observation webpage at: [http://www.fws.gov/midwest/whoopingcrane/sightings/sightingform.cfm](http://www.fws.gov/midwest/whoopingcrane/sightings/sightingform.cfm).
+## Additional Resources
 
-**Additional Resources:**
-
-*   For more information on the project and its partners visit: [Bring back the cranes](http://www.bringbackthecranes.org/) , and [Operation migration](http://operationmigration.org/InTheField/)
-
-**Flickr:**
-
-*   **[Whooping Crane, photo gallery](http://www.flickr.com/photos/usfwssoutheast/10961767675/)**
-
-**You Tube:**
-
-*   **Whooping Cranes - [Video I](http://www.youtube.com/watch?v=ZOIzeTaX9U8) ,      [Video II](http://www.youtube.com/watch?v=5F9j8i6PDFA)**
-
-**Contact:**
+- For more information on the project and its partners visit: [Bring back the cranes](http://www.bringbackthecranes.org/) , and [Operation migration](http://operationmigration.org/InTheField/)
+- [Whooping Crane, photo gallery](http://www.flickr.com/photos/usfwssoutheast/10961767675/)
+## Contact
 
 Division of Public Affairs  
 External Affairs  
 Telephone: 703-358-2220  
 Website: [https://www.fws.gov/external-affairs/public-affairs/](https://www.fws.gov/external-affairs/public-affairs/)
-
-* * *
-
-![Airborne ultralight leading young whooping cranes on their migration.](images/newsUploads/newsThumbs/newsImageThumb8B2BE2B4-BF3D-5125-BF17E0FB60B66F6C.jpg)
-
-Class of 2013 by Operation Migration Credit: Heather Ray - Operation Migration  
-[Higher Quality Version of Image](http://www.fws.gov/southeast/images/operationMigrationClass2013.jpg)

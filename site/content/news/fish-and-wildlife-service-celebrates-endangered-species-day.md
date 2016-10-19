@@ -1,8 +1,14 @@
 ---
-title: Fish and Wildlife Service Celebrates Endangered Species Day
-date: 2009-05-13
+title: 'Fish and Wildlife Service Celebrates Endangered Species Day'
+date: '2009-05-13'
+hero:
+    name: louisiana-black-bear-cubs-three.jpg
+    alt: 'Three small black bear cubs yawning in unison.'
+    link: 'https://flic.kr/p/bECJNP'
+    caption: 'Louisiana black bear cubs. Photo by Brad Young, Mississippi Department of Wildlife, Fisheries and Parks.'
 tags:
- - ESA
+    - 'Endangered Species Act'
+updated: 'October 6th, 2016'
 ---
 
 On May 15, 2009, the U.S. Fish and Wildlife Service will honor Endangered Species Day and the numerous nationwide conservation programs underway aimed at protecting America’s threatened and endangered species.
@@ -19,7 +25,9 @@ The Service works with other federal agencies, State and tribal governments, env
 
 The bald eagle, grizzly bear, American alligator and gray wolf are all species which once found themselves on the list, facing the brink of extinction but have successfully rebounded. The wood stork, Kirtland’s warbler, Louisiana black bear and Kemp’s Ridley sea turtle are listed species that are showing good progress towards achieving recovery – the ultimate goal of the ESA. These recovered and recovering species are just a few examples of those benefiting from the protections afforded by the ESA and the dedicated people who work to ensure their continued existence.
 
-There are currently 1,317 species listed in the United States: 746 plants and 571 animals. In the Southeast, there are over 320 endangered and threatened animals and plants. To find out what endangered species are near you, and how you can help, please visit [http://www.fws.gov/southeast/es/recovery.htm](http://www.fws.gov/endangeredwww.fws.gov/endangered</a>.</p> <p>The Southeast Region is proud to be holding its second annual region-wide celebration of Endangered Species Day.  A variety of events are being offered that include direct involvement in implementing recovery actions, fun interactive educational displays and presentations, media broadcasts, and working directly with students in creative ways to help them learn more about recovering listed species. </p> <p>“We are excited about educating our local communities about endangered species,” said . Sam D. Hamilton, Southeast Regional Director, U.S. Fish and Wildlife Service.  Endangered Species Day is dedicated to celebrating and showcasing past and present recovery successes under the Endangered Species Act.”</p> <p>During the month of May, and especially on May 15, the actual Endangered Species Day, several Endangered Species Day activities and events are scheduled across the Southeast. For a complete list of fun 2009 events, please visit this website: <a href=)
+There are currently 1,317 species listed in the United States: 746 plants and 571 animals. In the Southeast, there are over 320 endangered and threatened animals and plants. To find out what endangered species are near you, and how you can help, please visit [http://www.fws.gov/southeast/es/recovery.htm](http://www.fws.gov/endangeredwww.fws.gov/endangered).
+
+The Southeast Region is proud to be holding its second annual region-wide celebration of Endangered Species Day.  A variety of events are being offered that include direct involvement in implementing recovery actions, fun interactive educational displays and presentations, media broadcasts, and working directly with students in creative ways to help them learn more about recovering listed species. </p> <p>“We are excited about educating our local communities about endangered species,” said . Sam D. Hamilton, Southeast Regional Director, U.S. Fish and Wildlife Service.  Endangered Species Day is dedicated to celebrating and showcasing past and present recovery successes under the Endangered Species Act.”
 
 On May 15, in Puerto Rico, the Service is reintroducing a second population of a listed cactus, _Harrisia portoricensis_ or Higo chumbo back into its native habitat in the Cabo Rojo area. Partners and the public will be joining the Service, getting their hands in the dirt, and doing a good thing for the species.
 
@@ -27,7 +35,7 @@ Also on May 15, the Service celebrates at the Jacksonville Zoo in Florida. Along
 
 The mission of the U.S. Fish and Wildlife Service is working with others to conserve, protect and enhance fish, wildlife, plants and their habitats for the continuing benefit of the American people. For more information, please visit [http://www.fws.gov](http://www.fws.gov/) or [http://www.fws.gov/southeast](http://www.fws.gov/southeast).
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

@@ -1,9 +1,17 @@
 ---
-title: Federal Finding Means Florida Manatee Critical Habitat Designation Warrants Revision
-date: 2010-01-12
+title: 'Federal Finding Means Florida Manatee Critical Habitat Designation Warrants Revision'
+description: 'The Service announced today that revising critical habitat for the Florida manatee is needed, but the revision process is precluded by higher priority listing-related actions and funding constraints.'
+date: '2010-01-12'
+hero:
+    name: manatee-closeup-with-fish.jpg
+    alt: 'A manatee partially covered in algae looks directly into the camera surrounded by a school of fish.'
+    link: 'https://flic.kr/p/CmXCFB'
+    caption: 'Manatee. Photo by S. Whitecraft, USFWS.'
+    position: 'top center'
 tags:
- - Manatee
- - Critical Habitat
+    - Manatee
+    - 'Critical Habitat'
+updated: 'October 6th, 2016'
 ---
 
 The U.S. Fish and Wildlife Service announced today that revising critical habitat for the Florida manatee is needed, but the revision process is precluded by higher priority listing-related actions and funding constraints.
@@ -26,7 +34,7 @@ For more information about the Florida manatee and this finding, please visit th
 
 The U.S. Fish and Wildlife Service is the principal federal agency responsible for conserving, protecting, and enhancing fish and wildlife and their habitats for the continuing benefit of the American people. Visit the Service online at [http://www.fws.gov](http://www.fws.gov/) or [http://www.fws.gov/southeast/](http://www.fws.gov/southeast/).
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

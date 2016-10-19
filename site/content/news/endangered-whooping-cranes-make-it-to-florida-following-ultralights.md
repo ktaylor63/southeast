@@ -1,8 +1,16 @@
 ---
-title: Endangered Whooping Cranes Make it to Florida Following Ultralights
-subtitle: Good Chance for St. Marks Flyover on New Year’s Day
-date: 2013-12-31
+title: 'Endangered Whooping Cranes Make it to Florida Following Ultralights'
+subtitle: 'Good Chance for St. Marks Flyover on New Year’s Day'
+description: 'Eight young whooping cranes that began their aircraft-led migration on October 2, 2013, from the White River Marsh State Wildlife Area in Green Lake County, Wisconsin, today made it to Leon County, Florida.'
+date: '2013-12-31'
+hero:
+    name: whooping-crane-in-flight-ultralight.jpg
+    alt: 'Long white birds flying in formation behind a fan powered glider.'
+    caption: 'We hope for a tremendous viewing audience for this amazing spectacle! Photo by Nick Baldwin, a refuge volunteer from last year''s flyover.'
 tags:
+    - 'Whooping crane'
+    - Florida
+updated: 'October 6th, 2016'
 ---
 Eight young whooping cranes that began their aircraft-led migration on October 2, 2013, from the White River Marsh State Wildlife Area in Green Lake County, Wisconsin, today made it to Leon County, Florida, their last layover before reaching their new winter home at St. Marks National Wildlife Refuge.
 
@@ -38,29 +46,14 @@ Many other flyway states, provinces, private individuals and conservation groups
 
 To report whooping crane sightings, visit the WCEP whooping crane observation webpage at: [http://www.fws.gov/midwest/whoopingcrane/sightings/sightingform.cfm](http://www.fws.gov/midwest/whoopingcrane/sightings/sightingform.cfm).
 
-**Additional Resources:**
+## Additional Resources
 
-*   For more information on the project and its partners visit: [Bring back the cranes](http://www.bringbackthecranes.org/) , and [Operation migration](http://operationmigration.org/InTheField/)
+- For more information on the project and its partners visit: [Bring back the cranes](http://www.bringbackthecranes.org/) , and [Operation migration](http://operationmigration.org/InTheField/)
+- [Whooping Crane, photo gallery](http://www.flickr.com/photos/usfwssoutheast/10961767675/)**
 
-**Flickr:**
-
-*   **[Whooping Crane, photo gallery](http://www.flickr.com/photos/usfwssoutheast/10961767675/)**
-
-**You Tube:**
-
-*   **Whooping Cranes - [Video I](http://www.youtube.com/watch?v=ZOIzeTaX9U8) ,      [Video II](http://www.youtube.com/watch?v=5F9j8i6PDFA)**
-
-
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  
 Telephone: 703-358-2220  
 Website: [https://www.fws.gov/external-affairs/public-affairs/](https://www.fws.gov/external-affairs/public-affairs/)
-
-* * *
-
-![Airborne ultralight leading young whooping cranes on their migration.](images/newsUploads/newsThumbs/newsImageThumb8B2FAB6B-D89C-9DFE-FBCE3BC5FCBB04AB.jpg)
-
-We hope for a tremendous viewing audience for this amazing spectacle! Credit: Nick Baldwin, a refuge volunteer from last year's flyover.  
-[Higher Quality Version of Image](http://www.fws.gov/southeast/images/NickB-Flyover.jpg)

@@ -1,8 +1,14 @@
 ---
-title: Fish and Wildlife Service and the Wildlife Habitat Council partner to save Monarchs
-date: 2015-06-17
+title: 'Fish and Wildlife Service and the Wildlife Habitat Council partner to save Monarchs'
+date: '2015-06-17'
+hero:
+    name: monarch-fueling-up.jpg
+    alt: 'A monarch butterfly perched on a bushy plant with bright yellow flowers.'
+    link: 'https://flic.kr/p/HXUHaP'
+    caption: 'Monarch fueling up for migration. Photo by Lilibeth Serrano, USFWS.'
 tags:
- - Monarch
+    - Monarch
+updated: 'October 6th, 2016'
 ---
 
 Monarch populations have drastically declined over the past several years.  To advance efforts to save this beautiful orange and black butterfly and its habitat, the U.S. Fish and Wildlife Service and the Wildlife Habitat Council (WHC) are joining forces with a new cooperative agreement over the next two years to benefit the Monarch butterfly.
@@ -21,17 +27,10 @@ Efforts will take place throughout the Southeast, and will focus particularly on
 
 “The Wildlife Habitat Council is proud to partner with the Fish and Wildlife Service and utilize the almost 200 Council conservation programs located in the Southeast to increase the quality and quantity of Monarch habitat,” said Sara Barnas, WHC’s Southeastern biologist and project lead. “Our goal is to not only advance awareness of the Monarch population and habitat decline, but create credible, measurable conservation outcomes that can ultimately be reported as a global contribution from the private sector to aid in efforts to save the Monarch.”
 
-**Contact(s):**  
+## Contacts
 
 Elsie Davis, USFWS  
 [Elsie_Davis@fws.gov](mailto:Elsie_Davis@fws.gov), 404-679-7107
 
 Monica Keller, WHC  
 [MKeller@wildlifehc.org](mailto:MKeller@wildlifehc.org), 240-247-0930
-
-* * *
-
-![A monarch butterfly perched on a purple nectar plant](images/newsUploads/newsThumbs/newsImageThumb01E1ABA4-F0B8-F8F1-1285288B88ABED6D.jpg)
-
-Monarch Butterfly in North Carolina. Credit: Christine Lisiewski.  
-[Higher Quality Version of Image](https://www.flickr.com/photos/usfwsmidwest/18201947860/)

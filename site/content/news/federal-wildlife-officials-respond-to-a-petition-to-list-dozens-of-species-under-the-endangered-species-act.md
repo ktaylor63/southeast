@@ -1,9 +1,15 @@
 ---
-title: Federal Wildlife Officials Respond to a Petition to List Dozens of Species under the Endangered Species Act
-date: 2015-06-30
+title: 'Federal Wildlife Officials Respond to a Petition to List Dozens of Species under the Endangered Species Act'
+date: '2015-06-30'
+hero:
+    name: caddo-mountain-salamander.jpg
+    alt: 'A dark colored salamander with white spots on it''s stomach and sides.'
+    link: 'https://flic.kr/p/bD2BVr'
+    caption: 'Caddo Mountain salamander. Photo by <a href=\"https://www.flickr.com/photos/38984611@N03/\" target="_blank">Aposematic herpetologist</a>, <a href=\"https://creativecommons.org/licenses/by-nc/2.0/\" target="_blank">CC-BY-NC 2.0.</a>'
 tags:
- - ESA 
- - Petition
+    - ESA
+    - Petition
+updated: 'October 6th, 2016'
 ---
 
 In response to a [2012 petition](http://www.fws.gov/southeast/candidateconservation/june-2015-batch/) claiming 53 reptiles and amphibians require federal protection under the Endangered Species Act, the U.S. Fish and Wildlife Service (Service) today published a batch of 90-day findings affecting 15 species of frogs, salamanders, snakes, skinks and crayfish found in the Southeast. Five petitioned species will not be given further consideration for federal protection at this time, and 10 species have triggered a deeper scientific review.
@@ -41,14 +47,7 @@ To view the complete _Federal Register_ notice, visit [https://www.federalregist
 
 For more information on the 90-day finding process, visit [http://www.fws.gov/endangered/what-we-do/listing-petition-process.html](http://www.fws.gov/endangered/what-we-do/listing-petition-process.html)
 
-**Contact(s):**  
+## Contact
 
 Tom MacKenzie, 404-679-7291  
 tom_mackenzie@fws.gov
-
-* * *
-
-![A brown salamander standing on a rock covered in lichen.](images/newsUploads/newsThumbs/newsImageThumb452C5E2D-F92A-1FC8-168DA4A7E5000BC2.jpg)
-
-A Pigeon Mountain salamander. Credit: John Clare, CC BY-NC-ND 2.0  
-[Higher Quality Version of Image](https://flic.kr/p/eLEEwc)

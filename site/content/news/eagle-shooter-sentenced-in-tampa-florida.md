@@ -1,12 +1,19 @@
 ---
-title: Eagle Shooter Sentenced in Tampa, Florida
-date: 2009-06-08
+title: 'Eagle Shooter Sentenced in Tampa, Florida'
+description: 'Jesse Barresse of Hudson was sentenced in U.S. District Court in Tampa today for intentionally shooting and killing a bald eagle, while he was illegally duck hunting in Ruskin.'
+date: '2009-06-08'
+hero:
+    name: bald-eagle-perched-noxubee.jpg
+    alt: 'A mature bald eagle with white head and dark brown feathers perched on a dead tree limb just over a giant nest.'
+    link: 'https://flic.kr/p/ciG2ib'
+    caption: 'Bald eagle perched at Sam D. Hamilton Noxubee National Wildlife Refuge. Photo by USFWS.'
 tags:
- - Law Enforcement
- - Florida
+    - 'Law Enforcement'
+    - Florida
+updated: 'October 6th, 2016'
 ---
 
-Jesse Barresse of Hudson was sentenced in U.S. District Court in Tampa today for intentionally shooting and killing a bald eagle, while he was illegally duck hunting in Ruskin on January 13, 2008\. Barresse received six months in federal prison, followed by a year of supervised release. He also must pay $500 in restitution to the North American Wetlands Conservation Fund and $25 in court fees. Barresse was sentenced by U.S. District Court Judge Steven D. Merryday.
+Jesse Barresse of Hudson was sentenced in U.S. District Court in Tampa today for intentionally shooting and killing a bald eagle, while he was illegally duck hunting in Ruskin on January 13, 2008. Barresse received six months in federal prison, followed by a year of supervised release. He also must pay $500 in restitution to the North American Wetlands Conservation Fund and $25 in court fees. Barresse was sentenced by U.S. District Court Judge Steven D. Merryday.
 
 Barresse was charged with violating the Bald and Golden Eagle Protection Act, a federal law protecting eagles, their nests, and young. For the violation, Barresse could have received a maximum sentence of one year in prison and up to a $100,000 fine.
 
@@ -26,7 +33,7 @@ This case was investigated by the U.S. Fish and Wildlife Service with assistance
 
 The U.S. Fish and Wildlife Service is the principal federal agency responsible for conserving, protecting, and enhancing fish, wildlife, plants, and their habitats for the continuing benefit of the American people.
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

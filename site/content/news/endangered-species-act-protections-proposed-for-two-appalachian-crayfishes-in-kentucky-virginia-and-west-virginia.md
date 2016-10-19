@@ -1,10 +1,19 @@
 ---
-title: Endangered Species Act Protections Proposed for Two Appalachian Crayfishes in Kentucky, Virginia and West Virginia
-date: 2015-04-06
+title: 'Endangered Species Act Protections Proposed for Two Appalachian Crayfishes in Kentucky, Virginia and West Virginia'
+description: 'The U.S. Fish and Wildlife Service today proposed to list the Big Sandy crayfish and the Guyandotte River crayfish as endangered under the Endangered Species Act (ESA).'
+date: '2015-04-06'
+hero:
+    name: big-sandy-crayfish.jpg
+    alt: 'A lobster shaped and colored crayfish in an aquarium.'
+    link: 'https://flic.kr/p/qXGti8'
+    caption: 'Big Sandy crayfish. Photo by Zachary Loughman, West Liberty University'
 tags:
- - ALCC
- - Crayfish
- - Kentucky
+    - ALCC
+    - Crayfish
+    - Kentucky
+    - 'Big Sandy crayfish'
+    - 'Guyandotte River crayfish'
+updated: 'October 6th, 2016'
 ---
 
 Just as the central Appalachian landscape was beginning to undergo changes related to early 20th century mining, logging and population growth, researchers documented a number of crayfish species in the streams of this area known for its natural beauty and diverse wildlife. Two of these crayfishes, [the Big Sandy crayfish and the Guyandotte River crayfish](http://www.fws.gov/northeast/crayfish/pdf/Crayfish_4_6_15_FINAL.pdf), are now in danger of extinction.
@@ -29,19 +38,10 @@ The Service invites peer review and public comment for 60 days on the proposed r
 
 Following the comment period, the Service will make a final decision for each of these species to list as endangered, list as threatened, or withdraw the proposal. If either or both species are listed as endangered or threatened, the ESA requires the Service to review the species’ range to identify areas that are considered essential for its conservation as critical habitat.
 
-Maps, photos and more information available at: [www.fws.gov/northeast/crayfish](http://www.fws.gov/northeast/crayfish).
-
 [Photos, maps, factsheet and more information.](http://www.fws.gov/northeast/crayfish/index.html)
 
-**Contact(s):**  
+## Contacts
 
 Meagan Racey (VA, WV), 413-253-8558, meagan_racey@fws.gov
 
 Elsie Davis (KY) 404-679-7107 elsie_davis@fws.gov
-
-* * *
-
-![](images/newsUploads/newsThumbs/newsImageThumb8F29D5B7-C957-D6A1-CFBC11BB1CAE4EA3.jpg)
-
-Crayfishes, including the Big Sandy crayfish pictured here, play an important role in stream environments by recycling animal and plant matter and serving as food for other wildlife, including sport fish. Keeping streams healthy for crayfish also benefits people by ensuring clean water for drinking, wading and fishing. Credit: Zachary Loughman, West Liberty University  
-[Higher Quality Version of Image](https://flic.kr/p/qXGti8)

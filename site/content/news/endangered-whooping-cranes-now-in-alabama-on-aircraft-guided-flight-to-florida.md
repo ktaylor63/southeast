@@ -1,10 +1,16 @@
 ---
-title: Endangered Whooping Cranes Now in Alabama on Aircraft-guided Flight to Florida
-subtitle: "- some with a little help -"
-date: 2013-12-12
+title: 'Endangered Whooping Cranes Now in Alabama on Aircraft-guided Flight to Florida'
+subtitle: 'Some with a little help'
+description: 'Eight young whooping cranes that began their aircraft-led migration on October 2, 2013 from the White River Marsh State Wildlife Area in Green Lake County, Wisconsin, today made it to Winston County, Alabama.'
+date: '2013-12-12'
+hero:
+    name: whooping-cranes-operation-migration.jpg
+    alt: 'Airborne ultralight with whooping cranes following.'
+    caption: 'Class of 2013 by Operation Migration. Photo by Heather Ray, Operation Migration.'
 tags:
- - Alabama
- - Whooping crane
+    - Alabama
+    - 'Whooping crane'
+updated: 'October 6th, 2016'
 ---
 
 Eight young whooping cranes that began their aircraft-led migration on October 2, 2013 from the White River Marsh State Wildlife Area in Green Lake County, Wisconsin, today made it to Winston County, Alabama.
@@ -45,28 +51,14 @@ Many other flyway states, provinces, private individuals and conservation groups
 
 To report whooping crane sightings, visit the WCEP whooping crane observation webpage at: [http://www.fws.gov/midwest/whoopingcrane/sightings/sightingform.cfm](http://www.fws.gov/midwest/whoopingcrane/sightings/sightingform.cfm).
 
-**Additional Resources:**
+## Additional Resources
 
-*   For more information on the project and its partners visit: [Bring back the cranes](http://www.bringbackthecranes.org/) , and [Operation migration](http://operationmigration.org/InTheField/)
+- For more information on the project and its partners visit: [Bring back the cranes](http://www.bringbackthecranes.org/) , and [Operation migration](http://operationmigration.org/InTheField/)
+- [Whooping Crane, photo gallery](http://www.flickr.com/photos/usfwssoutheast/10961767675/)**
 
-**Flickr:**
-
-*   **[Whooping Crane, photo gallery](http://www.flickr.com/photos/usfwssoutheast/10961767675/)**
-
-**You Tube:**
-
-*   **Whooping Cranes - [Video I](http://www.youtube.com/watch?v=ZOIzeTaX9U8) ,      [Video II](http://www.youtube.com/watch?v=5F9j8i6PDFA)**
-
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  
 Telephone: 703-358-2220  
 Website: [https://www.fws.gov/external-affairs/public-affairs/](https://www.fws.gov/external-affairs/public-affairs/)
-
-* * *
-
-![Airborne ultralight with whooping cranes following.](images/newsUploads/newsThumbs/newsImageThumb8AD0736D-E6FC-FA8D-D2EAC333EF426C3F.jpg)
-
-Class of 2013 by Operation Migration Credit: Heather Ray - Operation Migration  
-[Higher Quality Version of Image](http://www.fws.gov/southeast/images/operationMigrationClass2013.jpg)

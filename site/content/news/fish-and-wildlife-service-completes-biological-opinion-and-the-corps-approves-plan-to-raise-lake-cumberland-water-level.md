@@ -1,8 +1,14 @@
 ---
-title: Fish and Wildlife Service completes Biological Opinion and the Corps approves plan to raise Lake Cumberland water level
-date: 2014-03-25
+title: 'Fish and Wildlife Service completes Biological Opinion and the Corps approves plan to raise Lake Cumberland water level'
+hero:
+    name: lake-cumberland.jpg
+    alt: 'Trees bank either side of a sandy shore on the flat water at Lake Cumberland in Kentucky.'
+    link: 'https://flic.kr/p/8uWFrh'
+    caption: 'Lake Cumberland. Photo by <a href=\"https://www.flickr.com/photos/joanieofarc/\" target=\"_blank\">Laurie</a>, <a href=\"https://creativecommons.org/licenses/by-nc-nd/2.0/\" target=\"_blank\">CC BY-NC-ND 2.0.</a>'
+date: '2014-03-25'
 tags:
- - Tennessee
+    - Kentucky
+updated: 'October 6th, 2016'
 ---
 
 NASHVILLE, TN – Working closely with the U.S. Army Corps of Engineers over the past few months, the U.S. Fish and Wildlife Service on Monday finalized the Biological Opinion that clears the way for the Corps to resume normal operations at Lake Cumberland immediately.
@@ -21,7 +27,7 @@ The Corps and the Service agreed to move forward with three primary conservation
 
 The darters will be maintained and propagated at Wolf Creek National Fish Hatchery in Russell County as part of the recovery effort and will, over time, be used in reintroduction or population augmentation efforts. Any reintroduction effort will require additional coordination with participating agencies.
 
-**Contact(s):**  
+## Contacts
 
 Bill Peoples, USACE, Nashville District  
 615-736-7161  

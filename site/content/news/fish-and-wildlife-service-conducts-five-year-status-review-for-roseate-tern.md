@@ -1,11 +1,19 @@
 ---
-title: Fish and Wildlife Service Conducts Five-year Status Review for Roseate Tern
-date: 2010-04-05
+title: 'Fish and Wildlife Service Conducts Five-year Status Review for Roseate Tern'
+hero:
+    name: roseate-tern.jpg
+    alt: 'A white bird with a black cap and forked tail flying in front of a blue sky.'
+    link: 'https://flic.kr/p/9U6XYj'
+    caption: 'Roseate tern in flight. Photo by Mike Morel, USFWS.'
+date: '2010-04-05'
 tags:
- - Roseate tern
+    - 'Roseate tern'
+updated: 'October 6th, 2016'
 ---
 
-The U.S. Fish and Wildlife Service announces it is conducting a five-year status review for the [http://www.fws.gov/policy/library/2010/2010-7709.html](http://ecos.fws.gov/speciesProfile/profile/speciesProfile.action'spcode=B07Oroseate tern</a> throughout the entire area where it is listed.</p> <p>A prior notice, issued in 2008, indicated that the Service was only conducting a status review of the roseate tern’s northeastern population. However, the Service is actually reviewing the species’ status throughout its entire range. The roseate tern is currently listed as endangered in the United States along the Atlantic Coast south to North Carolina, and includes Canada (in Newfoundland, Nova Scotia, and Quebec) and Bermuda, as well. The roseate tern is listed as threatened in Florida, Puerto Rico, the U.S. Virgin Islands and adjacent oceans.
+The U.S. Fish and Wildlife Service announces it is conducting a five-year status review for the [roseate tern](http://ecos.fws.gov/speciesProfile/profile/speciesProfile.action'spcode=B07O) throughout the entire area where it is listed.
+
+A prior notice, issued in 2008, indicated that the Service was only conducting a status review of the roseate tern’s northeastern population. However, the Service is actually reviewing the species’ status throughout its entire range. The roseate tern is currently listed as endangered in the United States along the Atlantic Coast south to North Carolina, and includes Canada (in Newfoundland, Nova Scotia, and Quebec) and Bermuda, as well. The roseate tern is listed as threatened in Florida, Puerto Rico, the U.S. Virgin Islands and adjacent oceans.
 
 Five-year reviews are conducted to ensure that listing classifications under the Endangered Species Act (ESA) are accurate. Any interested party is invited to provide information and comments pertaining to these populations. Written comments and information related to these five-year reviews must be received on or before June 4, 2010.
 
@@ -19,7 +27,7 @@ Written comments and information on the roseate tern where listed as endangered 
 
 The mission of the U.S. Fish and Wildlife Service is working with others to conserve, protect and enhance fish, wildlife, plants and their habitats for the continuing benefit of the American people. Please visit the Service’s websites at [http://www.fws.gov/">](http://www.fws.gov/), [http://www.fws.gov/southeast/](http://www.fws.gov/southeast/), or [http://www.fws.gov/northeast/ma/ro.html](http://www.fws.gov/northeast/ma/ro.html)
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

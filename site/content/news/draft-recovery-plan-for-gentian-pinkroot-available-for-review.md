@@ -1,10 +1,17 @@
 ---
-title: Draft Recovery Plan for Gentian Pinkroot Available for Review
+title: 'Draft Recovery Plan for Gentian Pinkroot Available for Review'
+description: 'The U.S. Fish and Wildlife Service seeks public comment on the draft recovery plan for Gentian Pinkroot, a federally listed, endangered herb.'
 date: '2011-03-23'
+hero:
+    name: longleaf-pine-ocala.jpg
+    alt: 'Tall, narrow, pine trees spaced about 25 feet apart with very sparse, dry grass in the understory.'
+    link: 'https://flic.kr/p/qGYCdR'
+    caption: 'Longleaf pine is a fire-dependent ecosystem that supports gentian pinkroot.'
 tags:
- - Gentian pinkroot
- - Florida
- - Alabama
+    - 'Gentian pinkroot'
+    - Florida
+    - Alabama
+updated: 'October 6th, 2016'
 ---
 
 The U.S. Fish and Wildlife Service seeks public comment on the draft recovery plan for Gentian Pinkroot, a federally listed, endangered herb. Public comments will be accepted until May 23, 2011.
@@ -15,7 +22,7 @@ Habitat loss and alteration are the primary reasons for the species’ decline. 
 
 The objective of this draft recovery plan is to provide a framework for the recovery of gentian pinkroot, so that protection under the Endangered Species Act is no longer necessary. Defining reasonable delisting criteria is not possible at this time given the current low number of populations and individuals, the lack of information about the species’ biology, and the magnitude of current threats from development. Therefore, this draft recovery plan establishes downlisting criteria for the gentian pinkroot so that it may be reclassified to threatened status.
 
-Please send written comments about the Technical/Agency Draft Recovery Plan for the Gentian Pinkroot to: U.S. Fish and Wildlife Service, Panama City Ecological Services Field Office, 1601 Balboa Ave, Panama City, Florida 32405\. Please note that your entire comment, including personal identifying information, may be made publicly available at any time. Please do not include any information you wish to remain private.
+Please send written comments about the Technical/Agency Draft Recovery Plan for the Gentian Pinkroot to: U.S. Fish and Wildlife Service, Panama City Ecological Services Field Office, 1601 Balboa Ave, Panama City, Florida 32405. Please note that your entire comment, including personal identifying information, may be made publicly available at any time. Please do not include any information you wish to remain private.
 
 To view the draft recovery plan on the Internet, please visit the Service’s recovery plan website at [http://ecos.fws.gov/speciesProfile/profile/speciesProfile.action?spcode=Q21W#recovery](http://ecos.fws.gov/speciesProfile/profile/speciesProfile.action?spcode=Q21W#recovery)
 

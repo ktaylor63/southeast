@@ -1,9 +1,16 @@
 ---
-title: Extinct eastern cougar subspecies proposed for removal from endangered species list
-subtitle: Cougars in the East are Florida panthers, released captives or dispersing from the West
-date: 2015-06-16
+title: 'Extinct eastern cougar subspecies proposed for removal from endangered species list'
+subtitle: 'Cougars in the East are Florida panthers, released captives or dispersing from the West'
+description: 'The eastern cougar has likely been extinct for at least 70 years; the U.S. Fish and Wildlife Service is proposing to remove the extinct subspecies from the endangered species list.'
+date: '2015-06-16'
+hero:
+    name: eastern-cougar.jpg
+    alt: 'black and white photograph of a man posing with a mounted eastern cougar.'
+    caption: 'Eastern cougar. Photo by Northeastern Wildlife Station.'
+    position: 'bottom right'
 tags:
- - Eastern cougar
+    - 'Eastern cougar'
+updated: 'October 6th, 2016'
 ---
 
 The eastern cougar (_Felis concolor couguar_) has likely been extinct for at least 70 years, according to a thorough review of data from researchers, states and Canadian provinces across the subspecies’ range. In response to the review, the U.S. Fish and Wildlife Service is proposing to remove the extinct subspecies from the endangered species list.
@@ -24,15 +31,8 @@ The Service's proposal to remove the eastern cougar from the endangered species 
 
 Additional information about eastern cougars, including frequently asked questions and cougar sightings, is at: [http://www.fws.gov/northeast/ecougar](http://www.fws.gov/northeast/ecougar). Find information about endangered species at [http://www.fws.gov/endangered](http://www.fws.gov/endangered).
 
-**Contact(s):**  
+## Contacts
 
 Meagan Racey (Northeast), 413-253-8558  
 Georgia Parham (Midwest), 812-334-4261 x 1203  
 Tom MacKenzie (Southeast), 404-679-7291
-
-* * *
-
-![Eastern cougar](images/newsUploads/newsThumbs/newsImageThumbFCA80842-063F-1657-BC5E7C57A4928F54.jpg)
-
-Bruce Wright, New Brunswick wildlife biologist and author, with what is believed to be the last eastern puma. The puma was trapped by Rosarie Morin of St. Zacharie, Quebec in Somerset County, Maine in 1938\. Mounted specimen resides in the New Brunswick Museum in St. John, New Brunswick. Credit: Courtesy of Northeastern Wildlife Station  
-[Higher Quality Version of Image](http://www.fws.gov/northeast/ecougar/images/cougarmelg.jpg)
