@@ -1,4 +1,5 @@
 <footer>
+  {{ if .Params.hero.caption }}<p class="hero-caption">Banner image: {{ .Params.hero.caption | safeHTML }}</p>{{ end}}
   <p class="last-update">{{ if .Params.updated }}Last updated: {{ .Params.updated }}{{ end }}</p>
 
   <ul class="footer-links">

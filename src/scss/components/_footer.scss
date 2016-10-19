@@ -3,6 +3,11 @@ footer {
   color: $color-white;
   text-align: center;
 
+  .hero-caption {
+    font-size: 75%;
+    padding: 0 1em;
+  }
+
   a {
     color: $color-white;
 
@@ -38,8 +43,4 @@ footer {
       content: '';
     }
   }
-}
-
-.last-update {
-  padding-top: 1em;
 }

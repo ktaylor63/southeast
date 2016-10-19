@@ -1,8 +1,7 @@
 {{ if .Params.hero }}
 <div class="hero">
-  {{ if .Params.hero.link }}<a href="{{ .Params.hero.link }}">{{ end }}
+  {{ if .Params.hero.link }}<a href="{{ .Params.hero.link }}" target="_blank">{{ end }}
     <div class="hero-parallax parallax" role="banner" style="background-image: url({{ .Site.BaseURL }}images/hero/{{ .Params.hero.name }});{{ if .Params.hero.position }} background-position: {{ .Params.hero.position }};{{ end }}"></div>
   {{ if .Params.hero.link }}</a>{{ end }}
 </div>
-<p class="hero-caption">{{ .Params.hero.caption | safeHTML }}</p>
 {{ end }}
