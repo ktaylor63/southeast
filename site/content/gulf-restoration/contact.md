@@ -1,8 +1,10 @@
 ---
 title: 'Contact Us'
 description: 'USFWS Gulf Restoration staff work across the Gulf of Mexico watershed in habitat conservation, restoration, science, environmental compliance and communications.'
+nav: Contact
+weight: 8
 tags:
-    - 'Gulf of Mexico'
+    - Gulf
     - Restoration
     - NRDA
     - 'Work With Us'
@@ -11,7 +13,8 @@ hero:
     alt: 'Service employee wearing a beige USFWS uniform shirt standing on a boat calling someone on his cell phone.'
     link: 'https://flic.kr/p/82XMYU'
     caption: 'U.S. Fish and Wildlife employee Drew Wirwa stays in touch via cellphone while out in the field. Photo by Tom MacKenzie, USFWS.'
-updated: 'August 31st, 2016'
+    position: 'top center'
+updated: 'October 19th, 2016'
 ---
 
 The Service’s Gulf Restoration team is an interdisciplinary one where each team member builds on the others’ expertise to achieve a shared goal. While members are physically located in offices as far apart as Rock Island, Illinois, and Panama City, Florida, the team is not focused geographically but is organized into functional areas including habitat conservation, restoration, environmental compliance, science and communications.
