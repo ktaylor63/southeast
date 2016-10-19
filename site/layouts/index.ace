@@ -28,12 +28,12 @@ html lang="en-US"
       {{ end }}
 
 
-      /ul.article-gallery
-      /  {{ range $index, $element := first 5 (where .Site.Pages "Section" "article") }}
-      /    {{ if (and (ne ($.Scratch.Get "feature") .Title) (lt $index 5)) }}
-      /      {{ .Render "gallery" }}
-      /    {{ end }}
-      /  {{ end }}
+      ul.article-gallery
+        {{ range $index, $element := first 5 (where .Site.Pages "Section" "article") }}
+          {{ if (and (ne ($.Scratch.Get "feature") .Title) (lt $index 4)) }}
+            {{ .Render "gallery" }}
+          {{ end }}
+        {{ end }}
 
     span.hide-scrollnav
 
