@@ -60,7 +60,13 @@
 .article-gallery {
   @extend %clearfix;
   list-style: none;
-  padding: 2%;
+  margin: auto;
+  max-width: 1200px;
+  padding: 0 2% 2%;
+
+  .card {
+    margin-top: 0;
+  }
 
   .gallery-hero {
     background-size: cover;
@@ -69,18 +75,28 @@
     @media (min-width: $break-md) {
       height: 400px;
     }
+
+    @media (min-width: $break-lg) {
+      height: 300px;
+    }
   }
 
   li {
-    margin-bottom: 4em;
+    margin-bottom: 2em;
 
-    @media(min-width: $break-xl) {
-      @include gallery(6 of 12);
-      margin-bottom: 2em;
+    @media (min-width: $break-lg) {
+      display: inline-block;
+      margin-right: 2%;
+      vertical-align: top;
+      width: 32%;
+
+      &:last-child {
+        margin-right: 0;
+      }
     }
   }
 
   @media (min-width: $break-md) {
-    margin-left: $nav-width;
+    padding-left: calc(#{$nav-width} + 2%);
   }
 }

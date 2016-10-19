@@ -1,7 +1,8 @@
-li
+li.card
   {{ if .Params.hero }}
-  div.gallery-hero style="background-image: url({{ .Site.BaseURL }}/images/hero/{{ .Params.hero.name }}); background-position: {{ if .Params.hero.position }}{{ .Params.hero.position }}{{ else }}center center{{ end }};"
+    a href="{{ .Permalink}}"
+      .gallery-hero.card-hero style="background-image: url({{ .Site.BaseURL }}/images/hero/medium/{{ .Params.hero.name }}); background-position: {{ if .Params.hero.position }}{{ .Params.hero.position }}{{ else }}center center{{ end }};"
   {{ end }}
-  h3 {{ .Title }}
-  p {{ .Summary }} &nbsp;
-    a href="{{ .Permalink }}" Continue reading...
+  .card-text
+    p
+      a href="{{ .Permalink }}" {{ .Title }}
