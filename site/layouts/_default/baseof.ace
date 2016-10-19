@@ -7,6 +7,9 @@ html lang="en-US"
     = include partials/sprite.svg .
     = include partials/navigation.html .
     = include partials/hero.html .
+    {{ if .Params.nav }}
+    = include partials/section-navigation.html .
+    {{ end }}
     .wrapper
       .container
         {{ if (eq .Section "wildlife") }}
