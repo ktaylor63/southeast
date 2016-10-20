@@ -5,7 +5,7 @@
     ul.news-teaser-list
     {{ $paginator := .Paginate (where .Data.Pages "Type" "article") }}
     {{ range $paginator.Pages }}
-      {{ .Render "teaser" }}
+      {{ .Render "summary" }}
     {{ end }}
 
     {{ partial "pagination.html" . }}
