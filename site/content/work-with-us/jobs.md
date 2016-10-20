@@ -1,7 +1,6 @@
 ---
 title: 'Jobs in the Southeast'
 description: 'Currently open job postings in the Southeast Region of the U.S. Fish and Wildlife Service from USAjobs.'
-url: /work-with-us/jobs
 js: /js/jobs.js
 hero:
     name: seigning-stream.jpg
