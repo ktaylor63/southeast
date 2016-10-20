@@ -1,7 +1,14 @@
 ---
-title: Kerr McGee Natural Resource Trustees Announce Extension of Comment Period for the Scoping Document for Restoration Planning
-date: 2015-09-03
+title: 'Kerr McGee Natural Resource Trustees Announce Extension of Comment Period for the Scoping Document for Restoration Planning'
+date: '2015-09-03'
+hero:
+    name: kerr-mcgee-site-map.jpg
+    alt: 'A map of the superfund site in southeastern North Carolina.'
+    caption: 'Map illustration shows the restoration site at the Kerr-McKee former wood-treatment processing plant in Navassa. Map by NOAA.'
 tags:
+    - 'North Carolina'
+    - NRDA
+updated: 'October 20th, 2016'
 ---
 
 In consideration of requests from the public for additional time to review and comment, the Natural Resources Trustees for the Kerr McGee Chemical Corporation Superfund Site in Navassa, N.C. have extended the comment period for the Scoping Document for Restoration Planning that was released to the public on August 4th 2015. 
@@ -14,7 +21,7 @@ The restoration scoping document, and information about the comment process, can
 
 For questions or comments regarding the scoping document, contact Howard Schnabolk, NOAA Habitat Restoration Specialist, at [843-740-1328](tel:843-740-1328) or [kerrmcgee.restoration@noaa.gov](mailto:kerrmcgee.restoration@noaa.gov).
 
-**Contact(s):**  
+## Contacts
 
 Tom MacKenzie, 404-679-7291  
 [tom_mackenzie@fws.gov](mailto:tom_mackenzie@fws.gov)
@@ -24,9 +31,3 @@ Kim Amendola, 727-551-5707
 
 Jamie Kritzer, 919-707-8602 or 919-218-5935  
 [Jamie.Kritzer@ncdenr.gov](mailto:Jamie.Kritzer@ncdenr.gov)
-
-* * *
-
-![A canal cuts through a dormant marsh.](images/newsUploads/newsThumbs/newsImageThumb94D46D02-DDE8-C050-BAA7F38E4A7DBD41.jpg)
-
-Photo of the affected site in Navassa, NC Credit: Sara Ward, USFWS  

@@ -1,9 +1,16 @@
 ---
-title: Florida Keys National Wildlife Refuges Complex to Hold Informational Meeting on November 10
-date: 2014-10-23
+title: 'Florida Keys National Wildlife Refuges Complex to Hold Informational Meeting on November 10'
+date: '2014-10-23'
+hero:
+    name: key-largo-woodrat.jpg
+    alt: 'A small mouse like mammal hangs on to a small tree branch.'
+    link: 'https://flic.kr/p/pMqucG'
+    caption: 'Key Largo woodrat. Photo by Clay DeGayner.'
+    position: 'top left'
 tags:
- - Florida
- - NWRS
+    - Florida
+    - NWRS
+updated: 'October 20th, 2016'
 ---
 
 The Florida Keys National Wildlife Refuges Complex will host a meeting on Monday, November 10, 2014, to provide information on efforts to conserve federally protected species through control of feral and free-roaming cats and to answer questions about the implementation of its Integrated Pest Management Plan as part of that recovery effort.  
@@ -14,11 +21,9 @@ In keeping with its mission to conserve, protect, and enhance fish, wildlife, pl
 
 Non-native species pose threats for many of the Complex’s threatened and endangered species by preying on them, competing for their food or habitat, or altering their habitats.   The endangered Key Largo woodrat and Lower Keys marsh rabbit are particularly susceptible to predation by feral and free-roaming cats.  The removal of cats and other non-native animals to protect native species and habitat is a widespread practice essential for wildlife in human-altered ecosystems. 
 
-For more information on the Florida Keys National Wildlife Refuges Complex, please visit [www.fws.gov/nationalkeydeer/](http://www.fws.gov/nationalkeydeer/).
+For more information on the Florida Keys National Wildlife Refuges Complex, please visit [fws.gov/nationalkeydeer/](http://www.fws.gov/nationalkeydeer/).
 
-_The mission of the U.S. Fish and Wildlife Service is working with others to conserve, protect, and enhance fish, wildlife, plants, and their habitats for the continuing benefit of the American people.  For more information on our work and the people who make it happen, visit_ [_www.fws.gov_](http://www.fws.gov)_. Connect with our Facebook page at_ _www.facebook.com/usfwssoutheast__, follow our tweets at_ _www.twitter.com/usfwssoutheast__, watch our YouTube Channel at_ [_http://www.youtube.com/usfws_](http://www.youtube.com/usfws) _and download photos from our Flickr page at  __http://www.flickr.com/photos/usfwssoutheast__. _
-
-**Contact(s):**  
+## Contacts
 
 Nancy Finley, Florida Keys Refuge Complex Project Leader, USFWS  
 305-304-4907  
@@ -27,10 +32,3 @@ Nancy Finley, Florida Keys Refuge Complex Project Leader, USFWS
 Jeremy Dixon, Crocodile Lake National Wildlife Refuge Manager, USFWS  
 305-451-4223  
 [jeremy_dixon@fws.gov](mailto:jeremy_dixon@fws.gov)
-
-* * *
-
-![Woodrat: looks like a mouse and is hanging on a tree limb. ](images/newsUploads/newsThumbs/newsImageThumb3DEECEBB-9666-9BA6-89D19A18334F7A3C.jpg)
-
-Key Largo woodrat. Credit: Clay DeGayner.  
-[Higher Quality Version of Image](https://www.flickr.com/photos/usfwssoutheast/15610225542/)

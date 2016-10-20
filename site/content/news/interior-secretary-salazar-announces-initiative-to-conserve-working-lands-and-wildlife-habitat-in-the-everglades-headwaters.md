@@ -1,13 +1,19 @@
 ---
-title: Interior Secretary Salazar Announces Initiative to Conserve Working Lands and Wildlife Habitat in the Everglades Headwaters
-subtitle: Process Marks New Approach to Land Conservation; Proposal Includes New Everglades Headwaters National Wildlife Refuge and Conservation Area
-date: 2011-01-07
+title: 'Interior Secretary Salazar Announces Initiative to Conserve Working Lands and Wildlife Habitat in the Everglades Headwaters'
+subtitle: 'Process Marks New Approach to Land Conservation; Proposal Includes New Everglades Headwaters National Wildlife Refuge and Conservation Area'
+hero:
+    name: everglades-headwaters-proposed-nwr.jpg
+    alt: 'A grassy low-lying area under a bright blue sky.'
+    link: 'https://flic.kr/p/aQXCVK'
+    caption: 'Everglades Headwater Proposed National Wildlife Refuge.  Photo by USFWS.'
+date: '2011-01-07'
 tags:
- - Florida
- - Everglades
+    - Florida
+    - Everglades
+updated: 'October 20th, 2016'
 ---
 
-FT. LAUDERDALE, FL - Secretary of the Interior Ken Salazar today announced that the U. S. Fish and Wildlife Service is working with private landowners, conservation groups and federal, tribal, state and local agencies to develop a new national wildlife refuge and conservation area to preserve the community" s ranching heritage and conserve the headwaters and fish and wildlife of the Everglades.  
+**FT. LAUDERDALE, FL** - Secretary of the Interior Ken Salazar today announced that the U. S. Fish and Wildlife Service is working with private landowners, conservation groups and federal, tribal, state and local agencies to develop a new national wildlife refuge and conservation area to preserve the community" s ranching heritage and conserve the headwaters and fish and wildlife of the Everglades.  
 
 "The Everglades' rural working ranch landscapes are an important piece of our nation's history and economy, and this initiative would work to ensure that they remain vital for our future," Secretary Salazar said." The partnerships being formed would protect and improve water quality north of Lake Okeechobee, restore wetlands, and connect existing conservation lands and important wildlife corridors to support the greater Everglades restoration effort."  
 
@@ -27,7 +33,7 @@ More than a dozen partners are working together through the Greater Everglades P
 
 A final plan for the Everglades Headwaters proposal is expected by the end of this year. Learn more by visiting www.fws.gov/southeast/greatereverglades.  
 
-WHAT OTHERS ARE SAYING  
+## What Others are Saying
 
 Florida Agriculture Commissioner Adam Putnam  
 
@@ -35,19 +41,19 @@ Florida Agriculture Commissioner Adam Putnam
 
 South Florida Water Management District Governing Board Vice Chairman Jerry Montgomery:  
 
-" The South Florida Water Management District applauds Secretary Salazar and his staff for putting together a proposal as bold as the Everglades Headwaters National Wildlife Refuge and Conservation Area. Combined with last year's federal investment to conserve 26,000 acres in the Northern Everglades, this effort builds on the momentum to deliver water quality improvements, water storage and environmental restoration benefiting all Floridians." The Nature Conservancy's Florida Director Jeff Danter:  
+"The South Florida Water Management District applauds Secretary Salazar and his staff for putting together a proposal as bold as the Everglades Headwaters National Wildlife Refuge and Conservation Area. Combined with last year's federal investment to conserve 26,000 acres in the Northern Everglades, this effort builds on the momentum to deliver water quality improvements, water storage and environmental restoration benefiting all Floridians." The Nature Conservancy's Florida Director Jeff Danter:  
 
-" The Nature Conservancy is honored to be a partner in this visionary endeavor and salutes the grand spirit of conservation embraced by the Obama administration today. The entire state and visitors from around the world will benefit from the foresight to keep these rare Florida habitats natural. We look forward to continuing our work in the Northern Everglades in support of the final protection of this new refuge."  
+"The Nature Conservancy is honored to be a partner in this visionary endeavor and salutes the grand spirit of conservation embraced by the Obama administration today. The entire state and visitors from around the world will benefit from the foresight to keep these rare Florida habitats natural. We look forward to continuing our work in the Northern Everglades in support of the final protection of this new refuge."  
 
 Florida Fish and Wildlife Conservation Commission Chairman FWC Chairman Rodney Barreto:  
 
-" We are pleased to be a partner in this extensive conservation project that will not only provide critical habitat for our state's fish and wildlife, but will open new areas to the public for their recreational use."  
+"We are pleased to be a partner in this extensive conservation project that will not only provide critical habitat for our state's fish and wildlife, but will open new areas to the public for their recreational use."  
 
 National Wildlife Refuge Association President Evan Hirsche:  
 
 "The Everglades Headwaters National Wildlife Refuge is an important initiative that will protect Florida's ranching way of life, help provide safe drinking water to millions of Floridians and conserve our nation's remarkable wildlife heritage. The National Wildlife Refuge Association is proud to have been a partner in this bold conservation plan, and applauds Secretary Interior Salazar and the Fish and Wildlife Service for taking this action to protect the Everglades. We look forward to working with many partners to help conserve this critical ecosystem for the people who depend on it and the wildlife that call the Everglades home."
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

@@ -1,9 +1,15 @@
 ---
-title: 2015 Georgia Junior Duck Stamp Student Art Competition Winners Chosen
-date: 2015-04-09
+title: '2015 Georgia Junior Duck Stamp Student Art Competition Winners Chosen'
+date: '2015-04-09'
+hero:
+    name: georgia-jr-duckstamp-winner-2015.jpg
+    alt: 'A colorful acrlyic painting of a bird with a blue head, brown breast and blue features.'
+    link: 'https://flic.kr/p/rZTg87'
+    caption: '“Wood Duck”, an acrylic rendition by 13 year-old Amber Dong, was chosen as the Best of Show in the 2015 Georgia Junior Duck Stamp Contest.'
 tags:
- - Junior Duck Stamp
- - Georgia
+    - 'Junior Duck Stamp'
+    - Georgia
+updated: 'October 20th, 2016'
 ---
 
 Amber Dong, 13, of Johns Creek, Georgia, is the winner of the annual 2015 Georgia Junior Duck Stamp Art Competition held Tuesday, April 7, 2015, at the Piedmont National Wildlife Refuge in Juliette, Georgia.  Five judges unanimously selected her acrylic rendition of a Wood Duck out of 532 total entries as the Georgia Best of Show. 
@@ -18,28 +24,30 @@ A panel of distinguished judges selected for their expertise in artistic design,
 
 The 2015 winning artwork will be made into a travelling exhibit and available for viewing throughout the next year at venues including Callaway Gardens, Macon Museum of Arts & Sciences, Chattahoochee Nature Center, Charlie Elliott Wildlife Center, Sandy Creek Nature Center and Elachee Nature Science Center.
 
+## About the Judges
+
 This year’s esteemed judges featured:  Greg Balkcom, expert waterfowl biologist with Georgia Department of Natural Resources; Jim Candler, environmental affairs supervisor, Georgia Power, long-time sponsors of the Georgia Junior Duck program; Susan Welsh, executive director Macon Museum of Arts and Sciences; Bob Stewart, natural resource manager, Robins Air Force Base; and Carolyn Johnson, assistant refuge manager, U.S. Fish and Wildlife Service, Piedmont National Wildlife Refuge.
 
-Please visit [http://www.fws.gov/southeast](http://www.fws.gov/southeast//news/pdf/georgia-junior-duck-stamp-winners-2015.pdf) for a complete list of the 100 winners for the 2015 Georgia Junior Duck Stamp Contest. 
+Please visit [fws.gov/southeast](http://www.fws.gov/southeast//news/pdf/georgia-junior-duck-stamp-winners-2015.pdf) for a complete list of the 100 winners for the 2015 Georgia Junior Duck Stamp Contest. 
+
+## Program Prizes
 
 Prizes and ribbons also were given for the best student conservation message that expresses the spirit of what they learned while researching and planning for their Duck Stamp Contest artwork entry. This year’s winning conservation message was submitted by 14 year-old Walter Ellard of Roswell: “When you go somewhere in the woods without phone signal, I promise you will get a better connection”.  
 
+## What is a Duck Stamp?
+
 Junior Duck Stamps are sold by the U.S. Postal Service and Amplex Corporation consignees for $5 per stamp.  Proceeds from the sale of Junior Duck Stamps support conservation education, and provide awards and scholarships for students, teachers, and schools that participate in the program.
 
-The Junior Duck Stamp Art Contest is open to all youth in kindergarten through twelfth grade.  All participants receive a certificate of appreciation. To learn more about the Junior Duck Stamp Art Contest including a new curriculum and study guide for students, teachers and parents, visit the Service website [http://www.fws.gov/juniorduck/](http://www.fws.gov/juniorduck/).
+## About the Contest
+
+The Junior Duck Stamp Art Contest is open to all youth in kindergarten through twelfth grade.  All participants receive a certificate of appreciation. To learn more about the Junior Duck Stamp Art Contest including a new curriculum and study guide for students, teachers and parents, visit the Service website [fws.gov/juniorduck/](http://www.fws.gov/juniorduck/).
 
 For further information about the Junior Duck Stamp contest, please contact Contest Coordinator Carmen Simonton in the Division of Migratory Birds, (404) 679-7070 or by e-mail at [Carmen_Simonton@fws.gov](mailto:Carmen_Simonton@fws.gov).
 
-**Contact(s):**  
+##Contacts
 
 Elsie Davis, 404-679-7107  
 [Elsie_Davis@fws.gov](mailto:Elsie_Davis@fws.gov)
 
 Carmen Simonton, 404-679-7070  
 [Carmen_Simonton@fws.gov](mailto:Carmen_Simonton@fws.gov)
-
-
-![](images/newsUploads/newsThumbs/newsImageThumb9F161F84-F6F2-BAA5-D805259D5A3E0BE5.jpg)
-
-“Wood Duck”, an acrylic rendition by 13 year-old Amber Dong, was chosen as the Best of Show in the 2015 Georgia Junior Duck Stamp Contest. Credit: Amber Dong  
-[Higher Quality Version of Image](https://flic.kr/p/rZTg87)

@@ -1,9 +1,15 @@
 ---
-title: Flooding Closes all Deer Hunting on White River National Wildlife Refuge
-date: 2009-11-03
+title: 'Flooding Closes all Deer Hunting on White River National Wildlife Refuge'
+date: '2009-11-03'
+hero:
+    name: white-river-nwr-flooding.jpg
+    alt: 'A boardwalk and surrounding forest submerged by flood waters.'
+    link: 'https://flic.kr/p/9NXdd5'
+    caption: 'White River National Wildlife Refuge boardwalk was built at 30 feet flood stage. Today, the flood stage is at 34 feet. Photo by USFWS.'
 tags:
- - NWRS
- - Arkansas
+    - NWRS
+    - Arkansas
+updated: 'October 20th, 2016'
 ---
 
 White River National Wildlife Refuge and all out-tracks are closed to deer hunting due to an unprecedented early flood season. All refuge lands are closed to deer hunting to ensure hunter safety and protect the deer resource for the future.
@@ -16,9 +22,9 @@ The North Unit of the refuge closed to deer hunting when the White River reached
 
 The South Unit closed to all deer hunting when the White River gauge at St. Charles reached 23 feet and the tailwater gauge reading at Norrel Lock and Dam #1 reached 145 feet simultaneously and will not reopen until the gauge reaches 21 and 143 feet.
 
-Up-to-date flood related deer season closure information is also available on the refuge’s automated phone message system at (870) 282-8200 ext 3\. All refuge roads and campgrounds are closed at this time.
+Up-to-date flood related deer season closure information is also available on the refuge’s automated phone message system at (870) 282-8200 ext 3. All refuge roads and campgrounds are closed at this time.
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

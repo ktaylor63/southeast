@@ -1,9 +1,15 @@
 ---
-title: Idaho Aquarium Sentenced for Illegal Trafficking of Marine Life
-date: 2014-04-15
+title: 'Idaho Aquarium Sentenced for Illegal Trafficking of Marine Life'
+date: '2014-04-15'
+hero:
+    name: wildlife-trafficking-confiscated-coral.jpg
+    alt: 'Brightly colored aquarium coral and decorations.'
+    link: 'https://flic.kr/p/n8PP6d'
+    caption: 'Combo rock containing product illegally collected or sold from the Florida Keys. Photo by USFWS.'
 tags:
- - Law Enforcement
- - Wildlife Trafficking
+    - 'Law Enforcement'
+    - 'Wildlife Trafficking'
+updated: 'October 20th, 2016'
 ---
 
 Wifredo A. Ferrer, United States Attorney for the Southern District of Florida, Tracy Dunn, Acting Special Agent in Charge, NOAA Fisheries Office of Law Enforcement, and Edward Grace, Deputy Assistant Director, U.S. Fish & Wildlife Service Office of Law Enforcement, announce that **Idaho Aquarium, Inc. (IAI)**, located in Boise, Idaho, was sentenced today in Key West for conspiring to harvest, transport, and sell spotted eagle rays and lemon sharks, knowing the marine life were taken, possessed, transported, sold, and intended to be sold in violation of the laws and regulations of the State of Florida, contrary to the federal Lacey Act,  Title 16, United States Code, Sections 3372(a)(2)(A), and 3373(d)(1) and (2), all in violation of Title 18, United States Code, Section 371.
@@ -14,17 +20,10 @@ According to the indictment, joint factual statements submitted to the Court, an
 
 Mr. Ferrer commended the investigative efforts of NOAA Office of Law Enforcement and the Fish & Wildlife Service Office of Law Enforcement. Mr. Ferrer also thanked the Idaho Department of Fish & Game. This case was prosecuted by Assistant U.S. Attorneys Thomas Watts-FitzGerald and Antonia Barnes, with assistance from the U.S. Attorney’s Office for the District of Idaho.
 
-A copy of this press release may be found on the website of the United States Attorney’s Office for the Southern District of Florida at [www.usdoj.gov/usao/fls](http://www.usdoj.gov/usao/fls). Related court documents and information may be found on the website of the District Court for the Southern District of Florida at [www.flsd.uscourts.gov](http://www.flsd.uscourts.gov/) or on[http://pacer.flsd.uscourts.gov](http://pacer.flsd.uscourts.gov/).
+A copy of this press release may be found on the website of the United States Attorney’s Office for the Southern District of Florida at [usdoj.gov/usao/fls](http://www.usdoj.gov/usao/fls). Related court documents and information may be found on the website of the District Court for the Southern District of Florida at [flsd.uscourts.gov](http://www.flsd.uscourts.gov/) or on[pacer.flsd.uscourts.gov](http://pacer.flsd.uscourts.gov/).
 
-**Contact(s):**  
+## Contact
 
 Annette Castillo, USDOJ  
 305-961-9174  
 [annette.castillo@usdoj.gov](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=annette.castillo@usdoj.gov)
-
-* * *
-
-![Brightly colored aquarium coral and decorations.](images/newsUploads/newsThumbs/newsImageThumbD33848D6-B7AA-66BE-2B6367966D99AB56.jpg)
-
-Combo rock containing product illegally collected or sold from the Florida Keys. Credit: USFWS  
-[Higher Quality Version of Image](https://flic.kr/p/n8PP6d)

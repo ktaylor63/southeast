@@ -1,8 +1,14 @@
 ---
-title: Interior Secretary Ken Salazar Announces More Than $19 Million in Grants to Protect Coastal Wetlands Across the Nation
-date: 2010-12-22
+title: 'Interior Secretary Ken Salazar Announces More Than $19 Million in Grants to Protect Coastal Wetlands Across the Nation'
+date: '2010-12-22'
+hero:
+    name: bog-nantahala-national-forest.jpg
+    alt: 'A biologist inspects vegetation on the edge of a marsh.'
+    link: 'https://flic.kr/p/tBc1h9'
+    caption: 'A bog on the Nantahala National Forest in North Carolina. Photo by Gary Peeples, USFWS.'
 tags:
- - Grants
+    - Grants
+updated: 'October 20th, 2016'
 ---
 
 Secretary of the Interior Ken Salazar announced today the award of more than $19 million to support 24 conservation projects benefiting fish and wildlife on more than 5,900 acres of coastal habitats in twelve states in the U.S. through the 2011 National Coastal Wetlands Conservation Grant Program. These federal grants will be matched by nearly $18.7 million in partner contributions from state and local governments, private landowners and conservation groups.  
@@ -17,7 +23,7 @@ Including the 2011 grants, the Service has awarded nearly $260 million to coasta
 
 Celebrating its 25th anniversary this year, the Service’s Coastal Program provides strategic conservation planning and assistance in coastal areas. It represents one of the Service’s most popular and effective programs for voluntary, locally-based habitat restoration and protection efforts. With climate change threatening to reduce coastal habitats, the public and private partnerships garnered by the Coastal Program are essential.  
 
-A complete list of projects funded by the 2011 grant program can be found online at: [http://www.fws.gov/coastal/CoastalGrants/index.html](http://www.fws.gov/coastal/CoastalGrants/index.html).  
+A complete list of projects funded by the 2011 grant program can be found online at: [fws.gov/coastal/CoastalGrants/index.html](http://www.fws.gov/coastal/CoastalGrants/index.html).  
 
 Several examples of projects include:  
 
@@ -29,7 +35,7 @@ Riverside Ranch Restoration Project - The California Coastal Conservancy was awa
 
 Coastal areas comprise less than 10 percent of the nation’s land area yet support the majority of wildlife species, including 75 percent of migratory birds, nearly 80 percent of fish and shellfish and about half of all threatened and endangered species. The Coastal Program is a vital tool in helping to recover listed species and maintaining populations of candidate species that depend on coastal habitats.
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

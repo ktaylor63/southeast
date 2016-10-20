@@ -1,13 +1,19 @@
 ---
-title: FWC, partners offer reward for information about suspicious panther death
-date: 2013-12-19
+title: 'FWC, partners offer reward for information about suspicious panther death'
+date: '2013-12-19'
+hero:
+    name: florida-panther-shot-dead.jpg
+    alt: 'A dead florida panther laid out in the bed of a pickup truck.'
+    caption: 'This Florida panther was killed in Troup County, GA on Nov. 16, 2008. Photo by Georgia DNR.'
+    position: 'bottom left'
 tags:
- - Florida
- - Florida panther
- - Law Enforcement
+    - Florida
+    - 'Florida panther'
+    - 'Law Enforcement'
+updated: 'October 20th, 2016'
 ---
 
-The Florida Fish and Wildlife Conservation Commission (FWC), National Park Service (NPS) and U.S. Fish and Wildlife Service (USFWS) are looking for help from the public with an investigation involving the suspected illegal take of a Florida panther that was recently found dead in the Turner River Unit of Big Cypress National Preserve in Collier County.
+The Florida Fish and Wildlife Conservation Commission (FWC), National Park Service (NPS) and U.S. Fish and Wildlife Service (USFWS) are looking for help from the public with an investigation involving the suspected illegal take of a [Florida panther](/wildlife/mammals/florida-panther) that was recently found dead in the Turner River Unit of Big Cypress National Preserve in Collier County.
 
 For information leading to the arrest and conviction of the person responsible for killing the panther, the FWC’s Wildlife Alert Reward Association and USFWS are offering a combined reward of up to $12,000.
 
@@ -27,15 +33,9 @@ The dead panther will eventually be transported to the USFWS forensics laborator
 
 Anyone who wants to support the Wildlife Alert Reward Program should visit [MyFWC.com/WildlifeAlert](http://myfwc.com/wildlifealert) or contact the FWC’s Investigations Section at 850-488-6253 to learn more.
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  
 Telephone: 703-358-2220  
 Website: [https://www.fws.gov/external-affairs/public-affairs/](https://www.fws.gov/external-affairs/public-affairs/)
-
-* * *
-
-![](images/newsUploads/newsThumbs/newsImageThumb8B1F70C5-BFA3-3F94-E70FE11EF9FFDF2A.jpg)
-
-An 18 month old panther shot and killed. Credit: NPS  

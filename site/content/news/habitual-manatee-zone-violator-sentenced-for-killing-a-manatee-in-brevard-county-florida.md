@@ -1,9 +1,17 @@
 ---
-title: Habitual Manatee Zone Violator Sentenced for Killing a Manatee in Brevard County, Florida
-date: 2011-04-02
+title: 'Habitual Manatee Zone Violator Sentenced for Killing a Manatee in Brevard County, Florida'
+date: '2011-04-02'
+hero:
+    name: manatee-group-near-surface.jpg
+    alt: 'A group of manatees swims near the surface of clear blue water.'
+    link: 'https://flic.kr/p/7ZigE4'
+    caption: 'Manatees swim close to the surface and frequently come up for air. Credit: Jim Reid, USFWS.'
+    position: 'top center'
 tags:
- - Manatee
- - Law Enforcement
+    - Manatee
+    - Florida
+    - 'Law Enforcement'
+updated: 'October 20th, 2016'
 ---
 
 A Merritt Island man, who has been repeatedly cited for violating Manatee Protection Speed Zones in Brevard and Volusia Counties, was sentenced in federal court today for killing a West Indian manatee while operating his boat in violation of a manatee protection zone.  
@@ -28,7 +36,7 @@ Miata had been previously cited by FWC Officer Morgan on May 31, 2010, less than
 
 To report illegal activities involving fish or wildlife in Florida call the FWC’s toll-free Wildlife Alert Hotline at 888-404-FWCC (3922). Tipsters may remain anonymous and are eligible for a reward if their information leads to arrest.
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

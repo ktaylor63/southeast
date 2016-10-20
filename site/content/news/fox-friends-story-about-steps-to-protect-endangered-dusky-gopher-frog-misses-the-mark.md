@@ -1,14 +1,20 @@
 ---
-title: Fox & Friends story about steps to protect endangered Dusky Gopher Frog misses the mark
-date: 2012-06-19
+title: 'Fox & Friends story about steps to protect endangered Dusky Gopher Frog misses the mark'
+date: '2012-06-19'
+hero:
+    name: mississippi-gopher-frog.jpg
+    alt: 'A white and black frog standing on dormant grass.'
+    link: 'https://flic.kr/p/ehrcz3'
+    caption: 'Mississippi gopher frog. Photo by John A. Tupy, Western Carolina University.'
 tags:
- - Critical Habitat
- - Dusky gopher frog
- - Mississippi
- - Louisiana
+    - 'Critical Habitat'
+    - 'Dusky gopher frog'
+    - Mississippi
+    - Louisiana
+updated: 'October 20th, 2016'
 ---
 
-On Monday, June 18th, Fox & Friends [broadcast a story](http://video.foxnews.com/v/1694640237001/frog-fight-landowner-disputes-frog-habitat-on-his-land/?playlist_id=87937 "Link to non-FWS site") about the U.S. Fish and Wildlife Service’s designation of critical habitat for the dusky gopher frog.  The gopher frog is protected under the Endangered Species Act and is listed as endangered.  The agency’s action designates 6,477 acres across four counties in Mississippi and one parish in Louisiana.
+On Monday, June 18th, Fox & Friends [broadcast a story](http://video.foxnews.com/v/1694640237001/frog-fight-landowner-disputes-frog-habitat-on-his-land/?playlist_id=87937) about the U.S. Fish and Wildlife Service’s designation of critical habitat for the dusky gopher frog.  The gopher frog is protected under the Endangered Species Act and is listed as endangered.  The agency’s action designates 6,477 acres across four counties in Mississippi and one parish in Louisiana.
 
 The story focused on one private landowner who owns 45,000 acres in St. Tammany Parrish. The proposed designation would include 1,544 acres the total acreage he owns.  It contained significant factual inaccuracies by the host and its guest related to the law and the designation’s impact.  
 
@@ -32,19 +38,19 @@ We don’t.  It remains his land to manage.  We’ve identified this land as c
 
 We have been talking with Mr. Poitevent.  We want to work with him and look forward to working through his concerns together.  We have designated this site as critical habitat because the frog historically occurred there and it is essential to the frog’s future conservation.  Again, the Service is currently working with other private landowners in Mississippi to protect habitat that can sustain these frogs, and we hope to do that in Louisiana as well, with willing landowners.
 
-**Edward Poitevent: “Also, here there is no habitat. The trees and other elements they (the frogs) require have long disappeared.…” **
+**Edward Poitevent: “Also, here there is no habitat. The trees and other elements they (the frogs) require have long disappeared...”**
 
 This is the last and best remaining habitat for this frog in Louisiana.  The kind of trees present is less important than the habitat they cover.  The areas in this designation include the kinds of habitat (temporary ponds) needed to recover the gopher frog.  If we cannot protect places like this, the gopher frog’s recovery is much less certain.
 
-**Edward Poitevent: “It would be a constant problem for us because if the frog is ever there we would have to burn the land annually.…” **
+**Edward Poitevent: “It would be a constant problem for us because if the frog is ever there we would have to burn the land annually...”**
 
 We cannot require a landowner take any steps to restore his or her land in any way whether burning, planting native vegetation, or anything else.  Nor can we ever reintroduce the frogs without a landowner’s permission.
 
-**Edward Poitevent: “It’s against the Endangered Species Act anyway. The law requires actual occupation before land can be designated as (critical) habitat.” **
+**Edward Poitevent: “It’s against the Endangered Species Act anyway. The law requires actual occupation before land can be designated as (critical) habitat.”**
 
 This is incorrect.  The Endangered Species Act requires critical habitat to be designated if it is essential for the conservation of the species, whether occupied or unoccupied.
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

@@ -1,7 +1,15 @@
 ---
-title: Jeff Weller to Lead U.S. Fish and Wildlife Service's Lafayette Office
-date: 2012-04-24
+title: 'Jeff Weller to Lead U.S. Fish and Wildlife Service''s Lafayette Office'
+date: '2012-04-24'
+hero:
+    name: upper-ouachita-nwr-december-2012.jpg
+    alt: 'Dormant vegetation in front of a lake banked by a small stand of pine trees.'
+    link: 'https://flic.kr/p/dB7hjJ'
+    caption: 'Upper Ouachita National Wildlife Refuge upper Louisiana Photo by Sean Gardner.'
 tags:
+    - Lafayette
+    - Louisiana
+updated: 'October 20th, 2016'
 ---
 
 Jeff Weller is the Fish and Wildlife Service’s new field supervisor for its [Louisiana Ecological Services office](http://www.fws.gov/lafayette/) in Lafayette, Louisiana.  He began his duties February 13.
@@ -16,7 +24,7 @@ For the last three years, Jeff served as the ecological service’s program supe
 
 “I’m honored to be here and appreciate the hospitality shown by the Lafayette staff and the community,” says Weller.  “I look forward to working collaboratively with our many partners and carrying on the excellent work of my predecessors in promoting habitat and species restoration throughout Louisiana.”   Jeff earned his bachelor's degree in terrestrial biology from the University of Charleston in West Virginia and his master’s degree in marine biology from Nova University in south Florida.  A native of Millbrook, New York, Jeff’s hobbies include fishing, golfing and discussing college football.
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

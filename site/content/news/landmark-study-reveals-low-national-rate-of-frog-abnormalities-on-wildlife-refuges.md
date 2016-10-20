@@ -1,9 +1,15 @@
 ---
-title: Landmark Study Reveals Low National Rate of Frog Abnormalities on Wildlife Refuges
-subtitle: Largest study of its kind advances knowledge of indicator species, identifies regional hotspot clusters
-date: 2013-11-19
+title: 'Landmark Study Reveals Low National Rate of Frog Abnormalities on Wildlife Refuges'
+subtitle: 'Largest study of its kind advances knowledge of indicator species, identifies regional hotspot clusters'
+date: '2013-11-19'
+hero:
+    name: oregon-spotted-frog.jpg
+    alt: 'A wet brown frog with bright green round eyes on fallen reeds.'
+    link: 'https://flic.kr/p/ajZhmE'
+    caption: 'Oregon spotted frog at Conboy National Wildlife Refuge. Photo by Teal Waterstrat, USFWS.'
 tags:
- - NWRS
+    - NWRS
+updated: 'October 20th, 2016'
 ---
 
 An unprecedented 10-year-study by the U.S. Fish and Wildlife Service (Service) shows encouraging results for frogs and toads on national wildlife refuges. The study, published today in the peer-reviewed online journal _PLOS ONE_, finds that on average, less than 2 percent of frogs and toads sampled on 152 refuges had physical abnormalities involving the skeleton and eyes – a lower rate than many experts feared based on earlier reports.  This indicates that the severe malformations such as missing or extra limbs repeatedly reported in the media during the mid-1990s were actually very rare on national wildlife refuges.
@@ -30,15 +36,9 @@ For more information on this study, including images for use by media, visit [ww
 
 The Service would like to thank our co-authors from the University of Colorado – Boulder, University of California – Davis, and Indiana University School of Medicine for their outstanding contributions to this study.
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  
 Telephone: 703-358-2220  
 Website: [https://www.fws.gov/external-affairs/public-affairs/](https://www.fws.gov/external-affairs/public-affairs/)
-
-* * *
-
-![Oregon spotted frog on Conboy Lake National Wildlife Refuge.](images/newsUploads/newsThumbs/newsImageThumb71A14915-BB49-B6C3-E61F697A1DA873AC.jpg)
-
-Oregon spotted frog on Conboy Lake NWR. Credit: USFWS  

@@ -1,14 +1,21 @@
 ---
-title: Georgia Aquarium and the U.S. Fish and Wildlife Service team up to save loggerheads
-date: 2010-04-20
+title: 'Georgia Aquarium and the U.S. Fish and Wildlife Service team up to save loggerheads'
+date: '2010-04-20'
+hero:
+    name: loggerhead-hatchling-meets-ocean.jpg
+    alt: 'A tiny loggerhead hatchling hustles towards the ocean.'
+    link: 'https://flic.kr/p/cDw86S'
+    caption: 'Loggerhead hatchling meets ocean. Photo by Becky Skiba, USFWS.'
+    position: 'bottom center'
 tags:
- - Loggerhead sea turtle
- - Georgia
+    - 'Loggerhead sea turtle'
+    - Georgia
+updated: 'October 20th, 2016'
 ---
 
 The Georgia Aquarium, internationally recognized for aquatic animal research and conservation, is lending a hand closer to home.
 
-The Aquarium has contributed $11,000 for sea turtle conservation on the Georgia coast as part of a fledgling alliance between the Aquarium and the U.S. Fish and Wildlife Service under the Coastal America Partnership. The money was granted to the Savannah-based Caretta Research Project, the nonprofit organization that protects federally threatened loggerhead sea turtles (Caretta caretta) on the Wassaw National Wildlife Refuge, one of Georgia’s coastal barrier islands.
+The Aquarium has contributed $11,000 for sea turtle conservation on the Georgia coast as part of a fledgling alliance between the Aquarium and the U.S. Fish and Wildlife Service under the Coastal America Partnership. The money was granted to the Savannah-based Caretta Research Project, the nonprofit organization that protects federally threatened loggerhead sea turtles (_Caretta caretta_) on the Wassaw National Wildlife Refuge, one of Georgia’s coastal barrier islands.
 
 Working with USFWS, the Caretta Research Project will use the donation during this year’s nesting season from mid-May to September for equipment and supplies used to monitor loggerhead sea turtles on the refuge. Volunteers work in all-night shifts to patrol the island’s7-mile beach, measure and tag loggerheads, protect their eggs from raccoons and feral hogs, and relocate nests laid too close to the ocean.
 
@@ -30,27 +37,25 @@ Wassaw NWR is one of only a few islands along the Georgia coast that have record
 
 In March, the U.S. Fish and Wildlife Service and the National Marine Fisheries Service announced the loggerhead sea turtle may be globally comprised of nine distinct population segments, based on genetics, migratory movements, and oceanographic and geographic barriers. Loggerheads that hatch on Georgia beaches are part of the Northwest Atlantic segment, which the agencies have proposed to reclassify from threatened to endangered.
 
-**About the Georgia Aquarium**  
+## About the Georgia Aquarium
 
 The Georgia Aquarium in Atlanta, Georgia, is the world’s largest with more than eight million gallons of water and the largest collection of aquatic animals. The mission of the Georgia Aquarium is to be an entertaining, educational and scientific institution featuring exhibits and programs of the highest standards; offering engaging and exciting guest experiences promoting the conservation of aquatic biodiversity throughout the world. The Georgia Aquarium is an accredited member of the Association of Zoos and Aquariums and the Alliance of Marine Mammal Parks and Aquariums. For additional information, visit the [Georgia Aquarium website](http://www.georgiaaquarium.org).
 
-**About the U.S. Fish and Wildlife Service**
+## About the U.S. Fish and Wildlife Service
 
 The mission of the U.S. Fish and Wildlife Service is working with others to conserve, protect and enhance fish, wildlife, plants and their habitats for the continuing benefit of the American people. Please visit the Service’s websites at [fws.gov/southeast](http://www.fws.gov/southeast/) or [fws.gov](http://fws.gov).
 
-**About the Caretta Research Project**
+## About the Caretta Research Project
 
 The Caretta Research Project (CRP) is a non-profit environmental organization located in Savannah, GA. The project was founded in 1972 by a family member of the Wassaw Trust, herpetologists at the Savannah Science Museum and staff of the USFWS Savannah Coastal Refuges. To learn more, go to [Caretta Reserach Project](http://www.carettaresearchproject.org).
 
-**About Coastal America**
+## About Coastal America
 
 Coastal America is a partnership among federal, state and local governments and private organizations to protect, preserve and restore our nation’s coasts.
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  
 Telephone: 703-358-2220  
 Website: [https://www.fws.gov/external-affairs/public-affairs/](https://www.fws.gov/external-affairs/public-affairs/)
-
-* * *

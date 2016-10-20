@@ -1,8 +1,14 @@
 ---
-title: Interior Secretary Salazar Announces Award of $9 million in Grants to States for Imperiled Species Conservation
-date: 2009-04-20
+title: 'Interior Secretary Salazar Announces Award of $9 million in Grants to States for Imperiled Species Conservation'
+date: '2009-04-20'
+hero:
+    name: maui-parrotbill.jpg
+    alt: 'A bright yellow bird with a downward curved beak perched on a tree branch.'
+    link: 'https://flic.kr/p/pcuxa8'
+    caption: 'Maui parrotbill. Photo by <a href=\"https://www.flickr.com/photos/98390437@N03/\" target=\"_blank\">Andrew Smith</a> <a href=\"https://creativecommons.org/licenses/by-nc-nd/2.0/\" target=\"_blank\">CC BY-NC-ND 2.0</a>.'
 tags:
- - Grants
+    - Grants
+updated: 'October 20th, 2016'
 ---
 
 Secretary of the Interior Ken Salazar announced today the award of more than $9 million to 12 state wildlife agencies to help conserve and recover imperiled fish and wildlife species through the State Wildlife Grants (SWG) Competitive Program. The federal funding will be matched by more than $7 million in non-Federal funds provided by states and their partners for projects helping imperiled fish, wildlife and plant species.
@@ -23,7 +29,7 @@ Federal funds awarded: $484,780; non-federal match: $217,800
 
 **Georgia**
 
-**Department of Natural Resources: Multistate Sandhills Ecological Restoration Project – Alabama, Florida, Georgia, and South Carolina –** 
+**Department of Natural Resources: Multistate Sandhills Ecological Restoration Project – Alabama, Florida, Georgia, and South Carolina –**
 
 Federal funds awarded: $1 million; non-federal match: $1,663,587
 
@@ -41,7 +47,7 @@ Federal funds awarded: $319,833; non-federal match: $145,585
 
 **Montana**
 
-**Fish, Wildlife & Parks: Clearwater Lands Project** 
+**Fish, Wildlife & Parks: Clearwater Lands Project**
 
 Federal funds awarded: $640,640; non-federal match: $524,160
 
@@ -49,34 +55,33 @@ Federal funds awarded: $640,640; non-federal match: $524,160
 
 Federal funds awarded: $1 million; non-federal match: $663,334
 
-**New Hampshire Fish and Game Department: Rangewide New England Cottontail Initiative** 
+**New Hampshire Fish and Game Department: Rangewide New England Cottontail Initiative**
 
 Federal funds awarded: $731,975; non-federal match: $315,299
 
-**New Hampshire Fish and Game Department: Staying Connected in the Northern Appalachians – Mitigating Fragmentation & Climate Change Impacts on Wildlife through Functional Habitat Linkages –** 
+**New Hampshire Fish and Game Department: Staying Connected in the Northern Appalachians – Mitigating Fragmentation & Climate Change Impacts on Wildlife through Functional Habitat Linkages –**
 
 Federal Funds Awarded: $992,592; Non-Federal Match: $719,519
 
 **Pennsylvania**
 
-**Game Commission: White Nose Syndrome – Multi-State Coordination, Investigation and Rapid Response to an Emerging Wildlife Health Threat –** 
+**Game Commission: White Nose Syndrome – Multi-State Coordination, Investigation and Rapid Response to an Emerging Wildlife Health Threat –**
 
 Federal funds awarded: $940,870; non-federal match: $431,940
 
-**Utah Department of Natural Resources: June Sucker Recovery and Ecosystem Restoration through Carp Removal at Utah Lake –** 
+**Utah Department of Natural Resources: June Sucker Recovery and Ecosystem Restoration through Carp Removal at Utah Lake –**
 
 Federal funds awarded: $1,000,000; non-federal match: $510,000
 
-**Washington Department of Fish and Wildlife: Multistate Recovery of the Oregon Spotted Frog and the Species Assemblage Associated with Warmwater Marshes –** 
+**Washington Department of Fish and Wildlife: Multistate Recovery of the Oregon Spotted Frog and the Species Assemblage Associated with Warmwater Marshes –**
 
-  
 Federal award: $841,872; non-federal match: $754,409
 
 **Wisconsin Department of Natural Resources: Restoration Incentives and Assessments for Private Lands in the Driftless Region**
 
 Federal funds awarded: $559,602: non-federal match: $397,486
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

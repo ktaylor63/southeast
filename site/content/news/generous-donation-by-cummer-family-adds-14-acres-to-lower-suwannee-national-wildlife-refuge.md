@@ -1,8 +1,15 @@
 ---
-title: Generous Donation by Cummer Family Adds 14 Acres to Lower Suwannee National Wildlife Refuge
-date: 2011-02-14
+title: 'Generous Donation by Cummer Family Adds 14 Acres to Lower Suwannee National Wildlife Refuge'
+date: '2011-02-14'
+hero:
+    name: lower-suwannee-nwr.jpg
+    alt: 'A single cabbage palm tree emerges from a vast grassland with a deciduous forest in the background.'
+    link: 'https://flic.kr/p/HjJkWf'
+    caption: 'Lower Suwannee National Wildlife Refuge. Photo by <a href=\"https://www.flickr.com/photos/82257969@N00/\" target=\"_blank\">C. Houder</a> <a href=\"https://creativecommons.org/licenses/by-nc-nd/2.0/\" target=\"_blank\">CC BY-NC-ND 2.0</a>.'
+    position: 'bottom center'
 tags:
- - NWRS
+    - NWRS
+updated: 'October 20th, 2016'
 ---
 
 Fourteen acres on the bank of the [Lower Suwannee National Wildlife Refuge](http://www.fws.gov/lowersuwannee/) now are within refuge boundaries, thanks to a generous donation by members of the Cummer Family.
@@ -19,7 +26,7 @@ As part of the donation agreement, the donors will retain the right to use the d
 
 The Lower Suwannee National Wildlife Refuge was established in 1979 to protect the last 20 miles of Stephen Foster’s famous Suwannee River and includes more than 20 miles of coastal marsh along Florida’s Gulf Coast. Refuge staff members manage these important lands to restore habitat for native wildlife through forestry practices, restoration of native species, and prescribed burning. Recreational opportunities from birding, hiking, paddling, hunting, fishing, and photography, abound.
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

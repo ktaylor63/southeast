@@ -1,10 +1,16 @@
 ---
-title: Lab Confirms Lead Poisoning Cause of Death of Bald Eagle Found at Norris Lake
-date: 2009-05-28
+title: 'Lab Confirms Lead Poisoning Cause of Death of Bald Eagle Found at Norris Lake'
+hero:
+    name: eagle-poisoning-mortality-norris-lake.jpg
+    alt: 'A deal bald eagle on it''s back in the lab.'
+    caption: 'Eagle carcass recovered at Norris Lake. Photo by Dr. Rhoda M. Ralston, DVM, Senior Veterinary Medical Examiner.'
+    position: 'center left'
+date: '2009-05-28'
 tags:
- - Bald eagle
- - Law Enforcement
- - Tennessee
+    - 'Bald eagle'
+    - 'Law Enforcement'
+    - Tennessee
+updated: 'October 20th, 2016'
 ---
 
 The U.S. Fish & Wildlife Service National Fish and Wildlife Forensics Laboratory has concluded analysis of the bald eagle carcass found on Norris Lake in late February of 2009.
@@ -23,7 +29,7 @@ The Service is requesting anyone with information about this incident to contact
 
 The U.S. Fish and Wildlife Service is the principal federal agency responsible for conserving, protecting and enhancing fish, wildlife and plants and their habitats for the continuing benefit of American people. For more information, visit [http://www.fws.gov/southeast](http://www.fws.gov/southeast).
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

@@ -1,12 +1,18 @@
 ---
-title: High Ouachita River Levels Postpones Floodplain Reconnection Project
-date: 2009-05-19
+title: 'High Ouachita River Levels Postpones Floodplain Reconnection Project'
+date: '2009-05-19'
+hero:
+    name: upper-ouachita-waterfowl.jpg
+    alt: 'Thousands of birds take flight over a green marsh.'
+    link: 'https://flic.kr/p/bAaxgL'
+    caption: 'Waterfowl in flight over Upper Ouachita National Wildlife Refuge lands in Louisiana. Photo by Joseph McGowan, USFWS.'
 tags:
- - Louisiana
- - NWRS
+    - Louisiana
+    - NWRS
+updated: 'October 20th, 2016'
 ---
 
-Monroe, LA - Due to high water on the Ouachita River and flooding of the 16,000-acre Mollicy Unit, the East Side of Upper Ouachita National Wildlife Refuge, near Bastrop, La., is closed to ensure public safety.  
+**MONROE, LA** - Due to high water on the Ouachita River and flooding of the 16,000-acre Mollicy Unit, the East Side of Upper Ouachita National Wildlife Refuge, near Bastrop, Louisiana, is closed to ensure public safety.  
 
 The unusually high river level is overtopping the obsolete 30-foot tall levee at the refuge that has been targeted for partial removal. Overtopping or even catastrophic failure of the levee does not pose any threat to surrounding communities, and has nothing to do with the flood control levee system protecting the area.  
 
@@ -30,7 +36,7 @@ Due to the flooding, high waters may partially fill the floodplain and potential
 
 "The Wildlife Refuge Project is an excellent example of a key environmental operating principle for the Corps," said Brig. Gen. Michael J. Walsh, Commander of the Mississippi Valley Division. "We always try to seek a balance between human development activities and natural systems by joining economic and environmental solutions that support and reinforce one another."  
 
-The levee last failed in 1991\. A 300-foot long hole in the levee allowed water to inundate the refuge’s 25-square mile floodplain, reducing flooding downstream in Monroe.
+The levee last failed in 1991. A 300-foot long hole in the levee allowed water to inundate the refuge’s 25-square mile floodplain, reducing flooding downstream in Monroe.
 
 The east part of the refuge will remain closed until further notice.  
 
@@ -40,10 +46,11 @@ White-tailed deer, bobcats, foxes, rabbits, grey and fox squirrels, wild turkeys
 
 The U.S. Fish and Wildlife Service is the principal federal agency responsible for conserving, protecting, and enhancing fish and wildlife and their habitats for the continuing benefit of the American people. Visit: [fws.gov](http://www.fws.gov/) and [fws.gov/southeast](http://www.fws.gov/southeast), [fws.gov/upperouachita](http://www.fws.gov/upperouachita/) and [fws.gov/southeast/news](http://www.fws.gov/southeast/news).  
 
-**The Nature Conservancy** is a leading conservation organization working around the world to protect ecologically important lands and waters for nature and people. The Conservancy and its more than 1 million members have protected nearly 120 million acres worldwide.[Visit The Nature Conservancy on the Web](http://www.nature.org).
+## The Nature Conservancy
 
+The Nature Conservancy is a leading conservation organization working around the world to protect ecologically important lands and waters for nature and people. The Conservancy and its more than 1 million members have protected nearly 120 million acres worldwide.[Visit The Nature Conservancy on the Web](http://www.nature.org).
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

@@ -1,9 +1,15 @@
 ---
-title: Friends of Chassahowitzka Wins National Award
-date: 2011-03-17
+title: 'Friends of Chassahowitzka Wins National Award'
+date: '2011-03-17'
+hero:
+    name: chassahowitzka-aerial.jpg
+    alt: 'Aerial photograph of the refuge where forested wetlands yield to open water.'
+    link: 'https://flic.kr/p/czmmcd'
+    caption: 'Aerial of Chassahowitzka National Wildlife Refuge. Photo by Joyce Kleen, USFWS.'
 tags:
- - NWRS
- - Friends group
+    - NWRS
+    - 'Friends group'
+updated: 'October 20th, 2016'
 ---
 
 Big accomplishments sometimes follow big disappointments.
@@ -26,7 +32,7 @@ Blue-McLean said the group's 200 members are excited about the national recognit
 
 For more information about the Friends group, please visit [http://friendsofchazz.org/](http://friendsofchazz.org/ "Link to non-FWS site").
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

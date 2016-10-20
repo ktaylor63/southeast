@@ -1,10 +1,16 @@
 ---
-title: Interior Clears the Way for Return of Whooping Cranes to Louisiana
-subtitle: Reintroduction of Cranes Expected Later this Month
-date: 2011-02-08
+title: 'Interior Clears the Way for Return of Whooping Cranes to Louisiana'
+subtitle: 'Reintroduction of Cranes Expected Later this Month'
+hero:
+    name: whooping-crane-release.jpg
+    alt: 'Two large, white, Whooping cranes flying in for a landing on a small pond.'
+    link: 'https://flic.kr/p/bryvJt'
+    caption: 'Two juvenile Whooping cranes released from their holding pen fly around on Wheeler National Wildlife Refuge, Decatur, AL. Photo by Bill Gates, USFWS.'
+date: '2011-02-08'
+updated: 'October 20th, 2016'
 ---
 
-WASHINGTON, D.C. — The U. S. Fish and Wildlife Service has cleared the way for the reintroduction of whooping cranes in Louisiana a half century after these endangered birds were last seen in the state, Secretary of the Interior Ken Salazar announced today.
+**WASHINGTON, D.C.** — The U. S. Fish and Wildlife Service has cleared the way for the reintroduction of whooping cranes in Louisiana a half century after these endangered birds were last seen in the state, Secretary of the Interior Ken Salazar announced today.
 
 The Interior Department’s U. S. Fish and Wildlife Service published a regulation designating a potential Louisiana’s population as a non-essential, experimental population under the Endangered Species Act. This designation would allow the Service to effectively manage a reintroduced population. The reintroduction of whooping cranes to Louisiana could begin later this month.  
 
@@ -32,9 +38,9 @@ Louisiana’s reintroduction is part of a larger ongoing recovery effort led by 
 
 The only self-sustaining wild population of whooping cranes migrates between Wood Buffalo National Park in the Northwest Territories of Canada and Aransas National Wildlife Refuge in Texas. Like those in the eastern migratory population, it remains vulnerable to extinction from continued loss of habitat or natural or man-made catastrophes. Multiple efforts are underway to reduce this risk and bring this magnificent bird further along its path to recovery. This includes increasing populations in the wild, ongoing efforts to establish a migratory population in the eastern United States, and establishing a resident population in Louisiana.  
 
-For more information on whooping cranes and the re-introduction of whooping cranes to Louisiana, please visit the LDWF’s website at [www.wlf.la.gov](http://www.wlf.la.gov) or the Service’s website at [http://www.fws.gov/southeast](http://www.fws.gov/southeast) and the International Crane Foundation at: [http://www.savingcranes.org/](http://www.savingcranes.org/)
+For more information on whooping cranes and the re-introduction of whooping cranes to Louisiana, please visit the LDWF’s website at [wlf.la.gov](http://www.wlf.la.gov) or the Service’s website at [fws.gov/southeast](http://www.fws.gov/southeast) and the International Crane Foundation at: [savingcranes.org/](http://www.savingcranes.org/)
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

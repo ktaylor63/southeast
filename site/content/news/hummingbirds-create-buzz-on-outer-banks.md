@@ -1,8 +1,15 @@
 ---
-title: Hummingbirds Create Buzz on Outer Banks
-date: 2009-09-14
+title: 'Hummingbirds Create Buzz on Outer Banks'
+date: '2009-09-14'
+hero:
+    name: annas-hummingbird.jpg
+    alt: 'A small bird with irodecent red/purple markings on its head.'
+    link: 'https://flic.kr/p/o9mvfP'
+    caption: 'Anna&rsquo; hummingbird. Photo by Robert McMorran, USFWS.'
+    position: 'top left'
 tags:
- - North Carolina
+    - 'North Carolina'
+updated: 'October 20th, 2016'
 ---
 
 Hummingbird researcher Susan Campbell will return to the Outer Banks of North Carolina during Wings Over Water Wildlife Festival in November 2009 to once again attempt to catch and band the smallest of birds.
@@ -19,15 +26,15 @@ Campbell said that one of the most common misconception about birders is that th
 
 The number of participants for Campbells programs is limited so early registration is suggested.
 
-But Wings Over Water Wildlife Festival isnt just for birding enthusiasts. The more than 80 scheduled programs include paddling, natural history, photography and even opportunities to learn more about the rich history of the area.
+But Wings Over Water Wildlife Festival isn't just for birding enthusiasts. The more than 80 scheduled programs include paddling, natural history, photography and even opportunities to learn more about the rich history of the area.
 
 This festival is traditionally set during the shoulder season when rates are lower for accommodations, traffic is light and the weather is mild.
 
 And due to popular demand, there are an increased number of photography programs to be taught by professionals. Classes have been designed for both the skilled and not-so-practiced, as well as some programs for children and/or families.
 
-To learn more about the Wings Over Water Wildlife Festival call 252-216-9464 or go to [/www.fws.gov/scripts/exit.cfm?link=http://www.wingsoverwater.org&linkname=Wings Over Waterwww.wingsoverwater.org](http://www.fws.gov).
+To learn more about the Wings Over Water Wildlife Festival call 252-216-9464 or go to [wingsoverwater.org](http://wingsoverwater.org).
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  
