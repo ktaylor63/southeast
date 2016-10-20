@@ -5,7 +5,6 @@
   var imageminMozjpeg = require('imagemin-mozjpeg');
   var rimraf = require('rimraf');
   var chokidar = require('chokidar');
-  var mkdirp = require('mkdirp');
 
   var fs = require('fs');
   var path = require('path');
@@ -13,7 +12,23 @@
   var input = 'src/images/hero/';
   var output = 'site/static/images/hero/';
   var images = fs.readdirSync(input);
-  var outSizes = [1400, 850];
+
+  var _ = { each: require('lodash.foreach') };
+
+  var outSizes = [
+    {
+      width: 1400,
+      path: '/'
+    },
+    {
+      width: 850,
+      path: 'medium/'
+    },
+    {
+      width: 450,
+      path: 'small/'
+    }
+  ];
 
   // If there's a DS Store item, remove it
   var i = images.indexOf('.DS_Store');
@@ -34,7 +49,7 @@
       watcher();
     } else {
       console.log('Processing hero images...');
-      rimraf(output + '**/*.jpg', function(err) {
+      rimraf(output + '/**/*.jpg', function(err) {
         if (err) console.error(err);
 
         images.forEach(function(name) {
@@ -47,20 +62,15 @@
   function processHeroImage(filepath) {
     var img = sharp(filepath);
     var filename = path.basename(filepath);
-    img
-      .resize(outSizes[0])
-      .toBuffer(function (err, buffer, info) {
-        if (err) console.error(err);
-        var outfile = output + filename;
-        minify(buffer, outfile);
-      });
-    img
-      .resize(outSizes[1])
-      .toBuffer(function (err, buffer, info) {
-        if (err) console.error(err);
-        var outfile = output + 'medium/' + filename;
-        minify(buffer, outfile);
-      });
+    _.each(outSizes, function(outsize) {
+      img
+        .resize(outsize.width)
+        .toBuffer(function (err, buffer, info) {
+          if (err) console.error(err);
+          var outfile = output + outsize.path + filename;
+          minify(buffer, outfile);
+        });
+    });
   }
 
   function watcher() {
