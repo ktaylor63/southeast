@@ -1,18 +1,19 @@
 li class="teaser teaser-{{ .Type }}"
-  h3
-    a href={{ .Permalink }} {{ .Title }}
-  {{ if .Data.Format }}
-  p {{ .Date.Format "January 2, 2006" }}
-  {{ end }}
-  p {{ .Summary }}
-  p
-    {{ if eq .Type "news" }}
-    a href={{ .Permalink }} Read the full release
-    {{ else }}
-    a href={{ .Permalink }} Read the full story
+  .card-text
+    h3
+      a href={{ .Permalink }} {{ .Title }}
+    {{ if .Data.Format }}
+    p {{ .Date.Format "January 2, 2006" }}
     {{ end }}
-  ul.tag-list
-    {{ range .Params.tags }}
-    li.tag
-      a href=/tags/{{ . | urlize }} {{ . }}
-    {{ end }}
+    p {{ .Summary }}
+    p
+      {{ if eq .Type "news" }}
+      a href={{ .Permalink }} Read the full release
+      {{ else }}
+      a href={{ .Permalink }} Read the full story
+      {{ end }}
+    ul.tag-list
+      {{ range .Params.tags }}
+      li.tag
+        a href=/tags/{{ . | urlize }} {{ . }}
+      {{ end }}
