@@ -17,6 +17,7 @@ html lang="en-US"
             use xlink:href="#logo"
 
         p We are the federal agency dedicated to conserving healthy wildlife, plants, and habitats for the American people.
+
         p The Southeast Region serves Alabama, Arkansas, Florida, Georgia, Kentucky, Louisiana, Mississippi, North Carolina, South Carolina, Tennessee, Puerto Rico and the U.S. Virgin Islands.
 
         div
@@ -24,14 +25,31 @@ html lang="en-US"
 
       {{ range first 1 (and (where .Site.Pages "Section" "article") (where .Site.Pages "Type" "feature" )) }}
         {{ $.Scratch.Add "feature" .Title }}
-        {{ .Render "summary" }}
+        {{ .Render "feature" }}
       {{ end }}
+
+      .centered-button
+        a.button href="{{ .Permalink }}" Read Article
 
 
       ul.article-gallery
         {{ range $index, $element := first 5 (where .Site.Pages "Section" "article") }}
           {{ if (and (ne ($.Scratch.Get "feature") .Title) (lt $index 4)) }}
             {{ .Render "gallery" }}
+          {{ end }}
+        {{ end }}
+
+      {{ range first 1 (where .Site.Pages "Section" "news") }}
+        {{ .Render "feature" }}
+      {{ end }}
+
+      .centered-button
+        a.button href="{{ .Permalink }}" Read Release
+
+      ul.article-gallery
+        {{ range $index, $element := after 1 (where .Site.Pages "Section" "news") }}
+          {{ if lt $index 3 }}
+          {{ .Render "gallery" }}
           {{ end }}
         {{ end }}
 
