@@ -2,15 +2,23 @@
   background-image: url(../images/hero/harris-neck-wildlife-drive.jpg);
   background-position: center bottom;
   background-size: cover;
-  min-height: 300px;
+  height: 50vh;
   text-align: center;
 
   @media (min-width: $break-md) {
     margin-left: $nav-width;
   }
+}
 
-  @media (min-width: $break-lg) {
-    min-height: 400px;
+.centered-button {
+  margin-left: $nav-width;
+  text-align: center;
+
+  a.button {
+    display: inline-block;
+    margin: 1em 0;
+    padding: 1em;
+    text-transform: uppercase;
   }
 }
 
