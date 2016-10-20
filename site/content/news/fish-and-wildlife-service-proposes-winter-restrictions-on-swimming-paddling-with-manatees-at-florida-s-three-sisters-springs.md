@@ -1,11 +1,18 @@
 ---
-title: Fish and Wildlife Service Proposes Winter Restrictions on Swimming, Paddling with Manatees at Florida’s Three Sisters Springs
-subtitle: Public Invited to Comment on Proposed changes to maintain safe environment for wintering manatees and people
-date: 2015-08-05
+title: 'Fish and Wildlife Service Proposes Winter Restrictions on Swimming, Paddling with Manatees at Florida’s Three Sisters Springs'
+subtitle: 'Public Invited to Comment on Proposed changes to maintain safe environment for wintering manatees and people'
+date: '2015-08-05'
+hero:
+    name: manatees-grazing.jpg
+    alt: 'Two florida manatees grazing on the rocky bottom of a lagoon.'
+    link: 'https://flic.kr/p/7ZmtnC'
+    caption: 'Florida manatees grazing. Photo by Jim Reid, USFWS.'
+    position: 'bottom center'
 tags:
- - Manatee
- - Three Sisters Springs
- - Florida
+    - Manatee
+    - 'Three Sisters Springs'
+    - Florida
+updated: 'October 20th, 2016'
 ---
 
 New long-term management steps are being proposed to address record numbers of manatees wintering in Three Sisters Springs and substantial increases in the number of people wanting to see these endangered animals in their natural habitat.
@@ -46,17 +53,10 @@ Please note that comments, including personal information, will become available
 
 The draft EA and related Appendices can be found at: [http://fws.gov/southeast/refuges/pdf/TSS-Draft-EA-InWater-Crystal-River-NWR-07312015.pdf](http://fws.gov/southeast/refuges/pdf/TSS-Draft-EA-InWater-Crystal-River-NWR-07312015.pdf).
 
-**Contact(s):**  
+## Contacts
 
 Ivan Vicente, 352-563-2088 x211  
 [Ivan_Vicente@fws.gov](mailto:Ivan_Vicente@fws.gov)
 
 Tom MacKenzie, 404-679-7291  
 [Tom_MacKenzie@fws.gov](mailto:Tom_MacKenzie@fws.gov)
-
-* * *
-
-![Two florida manatees grazing on the rocky bottom of a lagoon](images/newsUploads/newsThumbs/newsImageThumbFE2C63F6-5056-AF00-5B5A1B5A1D9B9D17.jpg)
-
-Florida manatees Credit: Jim Reid; USFWS  
-[Higher Quality Version of Image](https://flic.kr/p/7ZmtnC)

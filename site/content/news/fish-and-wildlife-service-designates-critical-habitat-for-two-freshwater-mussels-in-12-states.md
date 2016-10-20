@@ -1,14 +1,19 @@
 ---
-title: Fish and Wildlife Service Designates Critical Habitat for Two Freshwater Mussels in 12 States
-subtitle: Shrinks designation by nearly 30 percent in Arkansas & nearly 220 river miles overall
-date: 2015-04-29
+title: 'Fish and Wildlife Service Designates Critical Habitat for Two Freshwater Mussels in 12 States'
+subtitle: 'Shrinks designation by nearly 30 percent in Arkansas & nearly 220 river miles overall'
+date: '2015-04-29'
 tags:
- - Critical habitat
- - Neosho mucket
- - Rabbitsfoot
+    - 'Critical habitat'
+    - 'Neosho mucket'
+    - Rabbitsfoot
+hero:
+    name: rabbitsfoot.jpg
+    alt: 'A mussel with brownish outer shell and a glossy white inner shell that resembles a baked potato.'
+    caption: 'Threatened rabbitsfoot mussel. Photo by Bob Butler, USFWS.'
+updated: 'October 20th, 2016'
 ---
 
-The U.S. Fish and Wildlife Service has finalized critical habitat designations for the Neosho mucket and rabbitsfoot mussels in rivers of 12 states under the Endangered Species Act (ESA). 
+The U.S. Fish and Wildlife Service has finalized critical habitat designations for the Neosho mucket and rabbitsfoot mussels in rivers of 12 states under the Endangered Species Act (ESA).
 
 The final designations are smaller than those proposed nearly three years ago, and include a significant change to what the Service proposed in Arkansas for the rabbitsfoot, reducing the designation there by 27 percent.  The final critical habitat designations in Arkansas affect less than two percent of the state’s total perennial stream miles as defined by the Arkansas Department of Environmental Quality. 
 

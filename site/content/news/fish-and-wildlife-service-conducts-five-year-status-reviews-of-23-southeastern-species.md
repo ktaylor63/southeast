@@ -1,9 +1,19 @@
 ---
-title: Fish and Wildlife Service Conducts Five-year Status Reviews of 23 Southeastern Species
-date: 2009-06-06
+title: 'Fish and Wildlife Service Conducts Five-year Status Reviews of 23 Southeastern Species'
+date: '2009-06-06'
+tags:
+    - 'Five Year Review'
+    - 'Endangered Species'
+    - 'Threatened Species'
+hero:
+    name: etowah-darter.jpg
+    alt: 'A small brown fish caught in a stream sitting in a plastic bin for measurement.'
+    link: 'https://flic.kr/p/8SkfaF'
+    caption: 'Endangered Etowah darter. Photo by USFWS.'
+updated: 'October 20th, 2016'
 ---
 
-The [http://www.fws.gov/policy/library/E9-15918.html](http://www.fws.gov/U.S. Fish and Wildlife Service) plans to conduct five-year status reviews of 15 endangered and 8 threatened species occurring in one or more of 10 states.
+The Service [plans to conduct five-year status reviews](http://www.fws.gov/policy/library/E9-15918.html) of 15 endangered and 8 threatened species occurring in one or more of 10 states.
 
 These five-year reviews are conducted to ensure that listing classifications under the Endangered Species Act (ESA) are accurate. Any interested party is invited to provide information and comments pertaining to these species. Written comments and information related to these five-year reviews must be received on or before September 4, 2009.
 
@@ -39,11 +49,11 @@ Written comments and information on Cape Fear shiner and Waccamaw silverside may
 
 Written comments and information on the Saint Francis’ satyr butterfly may be e-mailed to [dale_suiter@fws.gov](mailto:dale_suiter@fws.gov), faxed to 919/856-4556, or sent via regular mail to Dale Suiter, Raleigh Field Office, U.S. Fish and Wildlife Service, PO Box 33726, Raleigh, North Carolina, 27636.
 
-The U.S. Fish and Wildlife Service is the principal federal agency responsible for conserving, protecting and enhancing fish, wildlife, plants, and their habitats for the continuing benefit of the American people. Visit the Service’s websites at [http://www.fws.gov](http://www.fws.gov/) or [http://www.fws.gov/southeast](http://www.fws.gov/southeast).
+The U.S. Fish and Wildlife Service is the principal federal agency responsible for conserving, protecting and enhancing fish, wildlife, plants, and their habitats for the continuing benefit of the American people. Visit the Service’s websites at [fws.gov](http://www.fws.gov/) or [fws.gov/southeast](http://www.fws.gov/southeast).
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  
 Telephone: 703-358-2220  
-Website: [https://www.fws.gov/external-affairs/public-affairs/](https://www.fws.gov/external-affairs/public-affairs/)
+Website: [fws.gov/external-affairs/public-affairs/](https://www.fws.gov/external-affairs/public-affairs/)

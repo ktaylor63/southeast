@@ -1,10 +1,18 @@
 ---
 title: '$7 Million in Federal Grants Awarded to Native American Tribes for Wildlife Conservation Work'
 date: '2009-04-20'
+hero:
+    name: walking-through-wetlands.jpg
+    alt: 'A biologist with a walking stick walks through dense wetland vegetation.'
+    link: 'https://flic.kr/p/bLxfHT'
+    caption: 'Due to dense vegetation and an often muddy ground, traipsing through bogs can often be a challenge. Photo by Gary Peeples, USFWS.'
+    position: 'top right'
 tags:
     - 'Native American'
     - Grants
-updated: 'October 3rd, 2016'
+    - Florida
+    - 'North Carolina'
+updated: 'October 20th, 2016'
 ---
 
 Secretary of the Interior Ken Salazar today announced that 41 Native American tribes in 16 states will receive $7 million in competitive federal grants to undertake a wide variety of conservation projects. Funding is provided through the U.S. Fish and Wildlife Service’s Tribal Wildlife Grants program (TWG), which helps tribes defray the cost of implementing programs on their lands benefiting fish, wildlife, and their habitat.
@@ -17,7 +25,7 @@ This year’s funded projects run the gamut of wildlife conservation activities,
 
 The Service received a total of 101 proposals and selected 41 with the highest scores in a uniform ranking process. The maximum award was $200,000.
 
-A state-by-state breakdown of the successful projects and associated tribes is attached. Additional information, including a more comprehensive description of the individual projects, is available on the web at [/www.fws.gov](http://www.fws.gov/nativeamerican).
+A state-by-state breakdown of the successful projects and associated tribes is attached. Additional information, including a more comprehensive description of the individual projects, is available on the web at [fws.gov](http://www.fws.gov/nativeamerican).
 
 ## Fiscal Year 2009 Listing of Tribal Wildlife Grant Recipients
 

@@ -1,9 +1,16 @@
 ---
 title: '4-H National Headquarters and U.S. Fish and Wildlife Service Honor Louisiana Youth Wetlands Education and Outreach 4-H Program'
 date: '2011-03-17'
+hero:
+    name: kids-learning-about-insects.jpg
+    alt: 'Three children and a US Fish and Wildlife Service biologist crouch over a net with used to collect insects from a nearby stream.'
+    link: 'https://flic.kr/p/efu27A'
+    caption: 'Dan Everson teaches children about the insects they collected in a stream. Photo by Gary Peeples, USFWS.'
+    position: 'top left'
 tags:
     - Louisiana
-updated: 'October 3rd, 2016'
+    - Education
+updated: 'October 20th, 2016'
 ---
 
 The 4-H National Headquarters and the U. S. Fish and Wildlife Service presented the 2011 Connecting Youth with Nature through Natural Resources Conservation Education Award to the Louisiana State University AgCenter’s 4-H Youth Wetlands Program at the 76th North American Wildlife and Natural Resources Conference being held in Missouri.  

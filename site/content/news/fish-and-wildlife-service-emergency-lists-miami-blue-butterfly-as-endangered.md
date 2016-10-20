@@ -1,9 +1,18 @@
 ---
-title: Fish and Wildlife Service Emergency Lists Miami Blue Butterfly as Endangered</div>
-date: 2011-08-09
+title: 'Fish and Wildlife Service Emergency Lists Miami Blue Butterfly as Endangered'
+tags:
+    - 'Miami Blue butterfly'
+    - 'Endangered Species'
+hero:
+    name: miami-blue-butterfly.jpg
+    alt: 'A white/gray butterfly with black spots blends into a flower bloom of similar color and markings.'
+    link: 'https://flic.kr/p/bJQ2s4'
+    caption: 'The endangered Miami blue butterfly feeds on a flower. © Holly Salvato. Used with permission.'
+date: '2011-08-09'
+updated: 'October 20th, 2016'
 ---
 
-Vero Beach, FL – The U.S. Fish and Wildlife Service (Service) announced today that it is taking emergency action to protect the Miami blue butterfly. Upon publication of the emergency rule on Aug. 10, 2011 in the _Federal Register_, the Miami blue becomes listed as endangered under the Endangered Species Act (ESA). The emergency listing immediately protects the butterfly for 240 days. Concurrently, the Service is issuing a proposed rule to permanently put into place the protections for the Miami blue beyond the 240-day emergency period.
+**VERO BEACH, FL** – The U.S. Fish and Wildlife Service (Service) announced today that it is taking emergency action to protect the Miami blue butterfly. Upon publication of the emergency rule on Aug. 10, 2011 in the _Federal Register_, the Miami blue becomes listed as endangered under the Endangered Species Act (ESA). The emergency listing immediately protects the butterfly for 240 days. Concurrently, the Service is issuing a proposed rule to permanently put into place the protections for the Miami blue beyond the 240-day emergency period.
 
 The Miami blue is a small, coastal, non-migratory butterfly endemic to south Florida. Its geographic range once extended from the Dry Tortugas north along the Florida coasts to about St. Petersburg and Daytona, but it is now restricted to a few, small, remote islands within the Florida Keys. In making this emergency listing determination, the Service has carefully assessed the best scientific and commercial information available regarding the past, present, and future threats faced by the Miami blue butterfly.
 
@@ -26,19 +35,15 @@ An animal or plant is designated as endangered if it is in danger of extinction 
 
 In May 2005, the Service recognized the Miami blue as a federal candidate species for listing in its annual Candidate Notice of Review. The Service is working with the State and many other partners on initiatives for the Miami blue, such as conducting additional surveys to search for other potential populations, assessing the extent of occupancy and size of the remaining population, and looking at options for controlling and reducing other threats, such as invasive iguanas.
 
-For more information about the Miami blue butterfly, the emergency listing and proposed rule, please visit [http://www.fws.gov/southeast/](http://www.fws.gov/southeast/) or [http://www.fws.gov/verobeach/](http://www.fws.gov/verobeach/).
+For more information about the Miami blue butterfly, the emergency listing and proposed rule, please visit [fws.gov/southeast/](http://www.fws.gov/southeast/) or [fws.gov/verobeach/](http://www.fws.gov/verobeach/).
 
-The ESA provides a critical safety net for America’s native fish, wildlife, and plants. The Service is working to actively engage conservation partners and the public in the search for improved and innovative ways to conserve and recover imperiled species. To learn more about the Endangered Species Program, visit [http://www.fws.gov/endangered/](http://www.fws.gov/endangered/)
+The ESA provides a critical safety net for America’s native fish, wildlife, and plants. The Service is working to actively engage conservation partners and the public in the search for improved and innovative ways to conserve and recover imperiled species. To learn more about the Endangered Species Program, visit [fws.gov/endangered/](http://www.fws.gov/endangered/)
 
-**Related Websites:**
+## Related Websites
 
-*   [USFWS Vero Beach Field Office](http://www.fws.gov/verobeach/)
+ - [USFWS Vero Beach Field Office](http://www.fws.gov/verobeach/)
 
-[![Two brightly-colored blue butterflies sit atop buttercup yellow flowers](http://www.fws.gov/southeast/news/2011/images/miamibluebutterfly_nps.jpg)](http://www.nature.nps.gov/yearinreview/yir2004/photos/04_I_01.jpg "Link to non-FWS site")
-
-Miami blue butterflies. Photo: National Park Service.
-
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

@@ -1,8 +1,15 @@
 ---
-title: Department of the Interior Honors Fish and Wildlife Service Employees at 66th Awards Convocation Ceremony Two Southeastern Employees Among Recipients
+title: 'Department of the Interior Honors Fish and Wildlife Service Employees at 66th Awards Convocation Ceremony Two Southeastern Employees Among Recipients'
 date: '2009-05-13'
+hero:
+    name: leadership-at-noxubee.jpg
+    alt: 'Three employees pose for a photo in front of a lake and Refuge sign at Sam D. Hamilton Noxubee National Wildlife Refuge'
+    link: 'https://flic.kr/p/cuCjds'
+    caption: 'Southeast Regional Director Cindy Dohner stands between Midwest Regional Director Tom Melius (left), and agency Director Dan Ashe (right). Photo by Tom MacKenzie, USFWS.'
+    position: 'top right'
 tags:
- - Awards
+    - Awards
+updated: 'October 20th, 2016'
 ---
 
 During a special awards ceremony this month in Washington, DC, Secretary of the Interior Ken Salazar cited the safety efforts of the Service’s heavy equipment operators and the career accomplishments of one member of senior management, Cynthia Dohner, Deputy Regional Director of the Southeast Region headquartered in Atlanta, Georgia.

@@ -1,10 +1,16 @@
 ---
-title: Final Recovery Plan for Endangered Pyne's Ground-Plum Available
-date: 2011-08-09
+title: 'Final Recovery Plan for Endangered Pyne''s Ground-Plum Available'
+date: '2011-08-09'
+hero:
+    name: pynes-ground-plum.jpg
+    alt: 'A low growing shrub with bright purple flowers.'
+    link: 'https://flic.kr/p/cxnX8s'
+    caption: 'Endangered Pyne&rsquo;s ground-plum. Photo by NPS.'
 tags:
- - Recovery
- - Pyne's ground-plum
- - Tennessee
+    - Recovery
+    - 'Pynes ground-plum'
+    - Tennessee
+updated: 'October 20th, 2016'
 ---
 
 The recovery plan for the for the Pyne’s ground-plum, a federally listed, endangered plant, is now available.  The plan describes actions considered necessary for the plant’s recovery, establishes criteria for downlisting and delisting the species, and estimates the time and cost for implementing the needed measures. 
@@ -15,22 +21,17 @@ There are eight known locations where the plant is found; all are within a short
 
 According to the recovery plan, Pyne’s ground-plum will be considered for delisting when there are 12 populations distributed throughout the cedar glades of the Stones River Basin of Davidson, Rutherford, and Wilson counties. Each population should have at least 100 plants, be maintained for at least 10 years, have a cooperative management agreement in place, and be located on lands owned and managed by a public agency or located on private lands protected by a permanent conservation easement.   
 
-All of the known Pyne’s ground-plumoccurrences are threatened by the encroachment of more competitive vegetation and/or trees, such as the eastern red cedar, that produce shade and compete for limited water and nutrients.  Active management to reduce or eliminate this encroachment is required to ensure that the species continues to survive at all the sites.
+All of the known Pyne’s ground-plum occurrences are threatened by the encroachment of more competitive vegetation and/or trees, such as the eastern red cedar, that produce shade and compete for limited water and nutrients.  Active management to reduce or eliminate this encroachment is required to ensure that the species continues to survive at all the sites.
 
-For a copy of the recovery plan, please contact the Tennessee Ecological Services Field Office, U.S. Fish and Wildlife Service, 446 Neal Street, Cookeville, Tennessee, 38501, or telephone   
-931-528-6481, ext. 211.
+For a copy of the recovery plan, please contact the Tennessee Ecological Services Field Office, U.S. Fish and Wildlife Service, 446 Neal Street, Cookeville, Tennessee, 38501, or telephone 931-528-6481, ext. 211.
 
-To view the plan on the web:  Visit [http://www.fws.gov/cookeville/](http://www.fws.gov/cookeville/) and click on the icon entitled Pyne’s Ground-plum Recovery Plan.  You can also go to [http://www.fws.gov/endangered/species/recovery-plans.html](http://www.fws.gov/endangered/species/recovery-plans.html) .
+To view the plan on the web:  Visit [fws.gov/cookeville/](http://www.fws.gov/cookeville/) and click on the icon entitled Pyne’s Ground-plum Recovery Plan.  You can also go to [fws.gov/endangered/species/recovery-plans.html](http://www.fws.gov/endangered/species/recovery-plans.html) .
 
-**Related Websites:**
+## Related Websites
 
-*   [USFWS Cookeville, Tennessee Field Office](http://www.fws.gov/cookeville/)
+- [USFWS Cookeville, Tennessee Field Office](http://www.fws.gov/cookeville/)
 
-[![A plant with green foliage and purple tube-like flower petals](http://www.fws.gov/southeast/news/2011/images/pynesgroundplum_kaldari.jpg)](http://en.wikipedia.org/wiki/File:Astragalus_bibullatus_Kaldari_05.jpg "Link to non-FWS site")
-
-Pyne's ground plum in Rutherfod County, Tennessee. Photo: Kaldari.
-
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

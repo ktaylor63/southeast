@@ -1,8 +1,14 @@
 ---
-title: Fish and Wildlife Service Seeks Comment on Protecting Darters in the Etowah River Basin
-date: 2009-07-07
+title: 'Fish and Wildlife Service Seeks Comment on Protecting Darters in the Etowah River Basin'
+date: '2009-07-07'
+hero:
+    name: etowah-darter.jpg
+    alt: 'A small brown fish caught in a stream sitting in a plastic bin for measurement.'
+    link: 'https://flic.kr/p/8SkfaF'
+    caption: 'Endangered Etowah darter. Photo by USFWS.'
 tags:
- - Georgia
+    - Georgia
+updated: 'October 20th, 2016'
 ---
 
 More than a dozen cities and counties surrounding Lake Allatoona in northwest Georgia, working with federal and state partners, have created a development plan to protect threatened and endangered darter fish in the Etowah River and its tributaries.
@@ -25,11 +31,13 @@ Thirteen local governments submitted the conservation plan to the FWS and are in
 
 For more information on the Etowah HCP, go to [http://www.fws.gov/policy/library/E9-15401.html](http://www.etowahhcp.org&linkname=Etowah HCPwww.etowahhcp.org</a>.</p> <p>Both the Etowah HCP proposal and the request for information on the darters’ status have been published in the Federal Register. For a copy of the notice, please see <a href=).
 
+## Submit your Comments
+
 Comments on the HCP may be mailed to the Fish and Wildlife Service’s Regional Office at 1875 Century Blvd., Atlanta, GA 30345, or e-mailed to [david_dell@fws.gov](mailto:david_dell@fws.gov).
 
 Written comments and information for the amber darter, Etowah darter and Cherokee darter five-year review may mailed to Robin Goodloe, Athens Field Office, U.S. Fish and Wildlife Service, West Park Center Suite D, 105 West Park Drive, Athens, GA 30606, e-mailed to [robin_goodloe@fws.gov](mailto:robin_goodloe@fws.gov), or faxed to her attention at 706-613-6059.
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

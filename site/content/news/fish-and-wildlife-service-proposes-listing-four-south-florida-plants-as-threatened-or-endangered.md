@@ -1,9 +1,20 @@
 ---
-title: Fish and Wildlife Service Proposes Listing Four South Florida Plants as Threatened or Endangered
-date: 2015-09-28
+title: 'Fish and Wildlife Service Proposes Listing Four South Florida Plants as Threatened or Endangered'
+date: '2015-09-28'
+tags:
+    - 'Threatened Species'
+    - 'Endangered Species'
+    - Florida
+    - 'Vero Beach'
+hero:
+    name: pine-rockland-habitat.jpg
+    alt: 'Very sandy soil with sparse grassy vegetation and short palms.'
+    link: 'https://flic.kr/p/Ce3mzn'
+    caption: 'Pine rockland habitat in Florida. Photo by Jonathon Mays, FWC.'
+updated: 'October 20th, 2016'
 ---
 
-VERO BEACH, FL -- Four plants only found in Miami-Dade and Monroe Counties are being proposed by the U.S. Fish and Wildlife Service for listing as endangered or threatened under the Endangered Species Act (ESA).  A shrub, Big Pine partridge pea, and two herbs, wedge spurge and sand flax, are being proposed for endangered status.   Another shrub, Blodgett’s silverbush, is being proposed for threatened status.
+**VERO BEACH, FL** &mdash; Four plants only found in Miami-Dade and Monroe Counties are being proposed by the U.S. Fish and Wildlife Service for listing as endangered or threatened under the Endangered Species Act (ESA).  A shrub, Big Pine partridge pea, and two herbs, wedge spurge and sand flax, are being proposed for endangered status.   Another shrub, Blodgett’s silverbush, is being proposed for threatened status.
 
 “The populations of these four plants have declined about 80 percent over the past two decades,” said Cindy Dohner, Southeast Region Director for the U.S. Fish and Wildlife Service.  “Habitat loss and habitat modification are the primary threats these plants face.”
 
@@ -15,9 +26,11 @@ Under the ESA, a plant or animal can be listed as endangered, meaning it’s in 
 
 These four plants are listed on the State of Florida’s Regulated Plant Index (Index) as endangered.  This listing provides little or no habitat protection beyond the state’s development of a regional impact process, which discloses impacts from projects but provides no regulatory protection for state-listed plants on private lands. 
 
-The proposed listing of these plants is part of the Service’s efforts to implement a court-approved work plan aimed at addressing a series of lawsuits concerning the agency’s ESA listing program. To learn more about the Service’s work plan for 2015, please visit [http://www.fws.gov/southeast/candidateconservation](http://www.fws.gov/southeast/candidateconservation).
+The proposed listing of these plants is part of the Service’s efforts to implement a court-approved work plan aimed at addressing a series of lawsuits concerning the agency’s ESA listing program. To learn more about the Service’s work plan for 2015, please visit [fws.gov/southeast/candidateconservation](http://www.fws.gov/southeast/candidateconservation).
 
-The Service is seeking new information from the public and the scientific community that will help in making a final determination about the proposed listing for the four plants.  If these plants are listed under the ESA, the Service will continue to work with partners such as the State of Florida, Miami-Dade and Monroe Counties, Fairchild Botanical Gardens, the Institute for Regional Conservation and Homestead Air Reserve Base to conserve their habitat.   
+The Service is seeking new information from the public and the scientific community that will help in making a final determination about the proposed listing for the four plants.  If these plants are listed under the ESA, the Service will continue to work with partners such as the State of Florida, Miami-Dade and Monroe Counties, Fairchild Botanical Gardens, the Institute for Regional Conservation and Homestead Air Reserve Base to conserve their habitat.
+
+## Conservation Actions  
 
 Some conservation actions for these plants are already ongoing.   In 1979, Miami-Dade County enacted the Environmentally Endangered Lands (EEL) Covenant Program, which reduces taxes for private landowners of natural forest communities (NFCs; pine rocklands and tropical hardwood hammocks) who agree not to develop their property and manage it for a period of 10 years, with the option to renew for additional 10-year periods.  Although these temporary conservation easements provide valuable protection for their duration, they are voluntary agreements and not regulatory in nature.
 
@@ -29,18 +42,20 @@ In Everglades National Park, the National Park Service manages Long Pine Key, la
 
 Critical habitat designations are being considered for each of these plants, and will be proposed later.  A draft economic analysis of the pending proposed critical habitat designations is being prepared.
 
+## Comments on the Proposal
+
 Public comments on the proposed listings of these plants can be submitted for the next 60 days through November 30, 2015\. Requests for a public hearing must be made in writing by November 13, 2015\. To request a public hearing, please contact Ken Warren, South Florida Ecological Services Field Office, at 1339 20th Street, Vero Beach, Florida, 32960-3559; phone at 772-469-4323, or e-mail at ken_warren@fws.gov.
 
 Comments on the proposed listing should be submitted by one of the following methods:
 
-*   Federal eRulemaking Portal: http://www.regulations.gov - Follow the instructions for submitting comments on Docket Number FWS-R4-ES-2015-0137.
-*   U.S. mail or hand-delivery: Public Comments Processing, Docket Number FWS-R4-ES-2015-0137, Division of Policy and Directives Management; U.S. Fish and Wildlife Service; 4401 North Fairfax Drive, Suite 222, Arlington, VA 22203\. All comments, including personal information, will made be available on [http://www.regulations.gov](http://www.regulations.gov).
+- Federal eRulemaking Portal: http://www.regulations.gov - Follow the instructions for submitting comments on Docket Number FWS-R4-ES-2015-0137.
+- U.S. mail or hand-delivery: Public Comments Processing, Docket Number FWS-R4-ES-2015-0137, Division of Policy and Directives Management; U.S. Fish and Wildlife Service; 4401 North Fairfax Drive, Suite 222, Arlington, VA 22203\. All comments, including personal information, will made be available on [regulations.gov](http://www.regulations.gov).
 
-[For more information take a look at the Questions and Answers.](http://www.fws.gov/southeast/news/pdf/four-south-florida-plants-QandA.pdf) 
+## Questions and Answers
 
-_The mission of the U.S. Fish and Wildlife Service is working with others to conserve, protect, and enhance fish, wildlife, plants, and their habitats for the continuing benefit of the American people. For more information on our work and the people who make it happen, visit www.fws.gov/southeast.  Connect with us on Facebook at www.facebook.com/usfwssoutheast, follow our tweets at www.twitter.com/usfwssoutheast, watch our YouTube Channel at http://www.youtube.com/usfws, and download photos from our Flickr page at http://www.flickr.com/photos/usfwssoutheast._
+- [Download the Four South Florida Plants Proposed Listing Questions and Answers](/pdf/questions-and-answers/four-south-florida-plants-proposed-listing.pdf) 
 
-**Contact(s):**  
+## Contacts
 
 Ken Warren, USFWS  
 (772) 469-4323  
@@ -49,9 +64,3 @@ Ken Warren, USFWS
 Tom MacKenzie, USFWS  
 (404) 679-7291  
 [tom_mackenzie@fws.gov](mailto:tom_mackenzie@fws.gov)
-
-* * *
-
-![Small yellow, flowering plant. ](images/newsUploads/newsThumbs/newsImageThumb1548B8FE-9BC5-6AC6-0F7F08A158C6D337.jpg)
-
-Big pine partridge pea. Credit: Keith Bradley.  

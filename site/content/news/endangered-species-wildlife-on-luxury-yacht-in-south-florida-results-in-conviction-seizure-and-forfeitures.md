@@ -1,5 +1,15 @@
 ---
-updated: 'October 6th, 2016'
+title: 'Endangered Species Wildlife on Luxury Yacht in South Florida Results in Conviction, Seizure and Forfeitures'
+date: '2009-05-13'
+hero:
+    name: ivory-crush.jpg
+    alt: 'A huge bin of crushed ivory pieces.'
+    link: 'https://flic.kr/p/hAZ1VY'
+    caption: 'Crushing our ivory sends a message to ivory traffickers and their customers that the United States will not tolerate this illegal trade. Photo by Kate Miyamoto, USFWS.'
+tags:
+    - Florida
+    - 'Law Enforcement'
+updated: 'October 20th, 2016'
 ---
 
 MIAMI, FL -- R. Alexander Acosta, United States Attorney for the Southern District of Florida; Anthony V. Mangione, Special Agent in Charge, U.S. Immigration & Customs Enforcement (ICE), Office of Investigations; James Gale, Special Agent in Charge, U.S. Fish & Wildlife Service (FWS), Southeast Region, and Harold Woodward, Director of Field Operations, U.S. Customs and Border Protection (CBP), announced that Ruzial, Ltd. (Ruzial), a Cayman Islands corporation, pled guilty on May 11, 2009 to felony charges of attempting to import and thereafter transport approximately twenty-nine (29) wildlife items that included specimens of various protected species, knowing that the wildlife was transported and possessed in violation of the laws, treaties, and regulations of the U.S., specifically, the Endangered Species Act, all in violation of the federal Lacey Act following an ICE and FWS investigation.

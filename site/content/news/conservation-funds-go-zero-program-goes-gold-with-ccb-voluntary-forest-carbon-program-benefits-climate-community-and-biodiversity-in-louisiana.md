@@ -1,10 +1,15 @@
 ---
 title: 'Conservation Funds GO ZERO® Program Goes Gold with CCB -- Voluntary Forest Carbon Program Benefits Climate, Community and Biodiversity in Louisiana'
 date: '2009-06-01'
+hero:
+    name: green-winged-teal-red-river-nwr.jpg
+    alt: 'Five birds with bright green markings on the side of their head on wing tips swimming.'
+    link: 'https://flic.kr/p/pu8Zja'
+    caption: 'Green-winged teal ducks at Red River National Wildlife Refuge. Photo by Ronnie Maum, USFWS volunteer.'
 tags:
     - Climate
     - Louisiana
-updated: 'October 3rd, 2016'
+updated: 'October 20th, 2016'
 ---
 
 The U.S. Fish & Wildlife Service and Environmental Synergy Inc. (ESI) announced today that a 1,182-acre forest carbon sequestration project along Louisiana’s Red River has received Gold Level Validation, the highest level available under the [Go Zero®](http://www.climate-standards.org) standards.
