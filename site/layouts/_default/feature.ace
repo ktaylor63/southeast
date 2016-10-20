@@ -1,4 +1,4 @@
-article.feature-article-summary
+article class="{{ if eq .Section "article" }}feature-article-summary{{ else if eq .Section "news"}}feature-news-summary{{ end }}"
   div.feature-article-summary__hero style="background-image: url({{ .Site.BaseURL }}/images/hero/{{ .Params.hero.name }})"
     h2 {{ .Title }}
 
@@ -7,6 +7,3 @@ article.feature-article-summary
     h3 {{ .Params.subtitle }}
     {{ end }}
     p {{ .Summary }}
-
-    div.feature-article-summary__button
-      a.button href="{{ .Permalink }}" Read Article
