@@ -1,8 +1,14 @@
 ---
-title: Public Meetings Scheduled for Expansion of the Acquisition Boundaries of Chickasaw and Lower Hatchie National Wildlife Refuges
-date: 2014-04-25
+title: 'Public Meetings Scheduled for Expansion of the Acquisition Boundaries of Chickasaw and Lower Hatchie National Wildlife Refuges'
+date: '2014-04-25'
+hero:
+    name: lower-hatchie-mississippi-river.jpg
+    alt: 'Banks of the Mississippi River.'
+    link: 'https://flic.kr/p/86Bxoj'
+    caption: 'Mississippi River at Lower Hatchie Wildlife Refuge. Photo by <a href=\"https://www.flickr.com/photos/rwklose/\" target=\"_blank\">Roland Klose</a> <a href=\"https://creativecommons.org/licenses/by-nd/2.0/\" target=\"_blank\">CC BY-ND 2.0</a>.'
 tags:
- - NWRS
+    - NWRS
+updated: 'October 20th, 2016'
 ---
 
 The U.S. Fish and Wildlife Service (Service) announces additional public meetings for the Draft Land Protection Plan and Environmental Assessment which describe a proposal to expand the acquisition boundaries of the Chickasaw and Lower Hatchie National Wildlife Refuges (NWRs) in western Tennessee.
@@ -11,7 +17,7 @@ At the request of elected officials, the Service has re-opened the public commen
 
 The public meetings will be held on Tuesday, April 29, 2014, from 5:30 p.m. to 7:30 p.m., at the Ripley Technology Center, 127 Industrial Drive, in Ripley, Tennessee, 38063; and on Wednesday, April 30, 2014, from 5:30 to 7:30 p.m. at the Brownsville Chamber of Commerce, 121 W Main Street, in Brownsville, Tennessee, 38012.
 
-After two public scoping meetings held in December 2012, the Service released a draft Land Protection Plan and accompanying Environmental Assessment and opened the first 45-day public comment period on February 11, 2013\. The Service held a public meeting on February 19, 2013 in Ripley, Tennessee, attended by about 86 people.
+After two public scoping meetings held in December 2012, the Service released a draft Land Protection Plan and accompanying Environmental Assessment and opened the first 45-day public comment period on February 11, 2013. The Service held a public meeting on February 19, 2013 in Ripley, Tennessee, attended by about 86 people.
 
 The Service received letters and written comments from more than a dozen individuals and organizations during and after the meeting. Comments on the proposal, both verbal and written, ranged from support to opposition. Concerns were expressed about the potential economic effects of refuge expansion, the question of fee-title purchases versus conservation easements, and the use of condemnation to acquire properties within the proposed boundary expansion.
 
@@ -31,7 +37,7 @@ To download a copy of the Draft Plan and Environmental Assessment, visit: [http
 
 Comments can be sent to: Tom Greene, Natural Resource Planner, U.S. Fish and Wildlife Service, 61389 Hwy. 434, Lacombe, LA, 70445, [chickasawlowerhatchieexpansion@fws.gov](mailto:chickasawlowerhatchieexpansion@fws.gov), 985-882-2020.
 
-**Contact(s):**  
+## Contacts
 
 Randy Cook, USFWS  
 731-287-0650  
@@ -40,9 +46,3 @@ Randy Cook, USFWS
 Tom MacKenzie, USFWS  
 404-679-7291  
 [tom_mackenzie@fws.gov](mailto:tom_mackenzie@fws.gov)
-
-* * *
-
-![A dozen or so mallards in flight over a field.](images/newsUploads/newsThumbs/newsImageThumb16837548-D0AB-8DB0-DA975305C210CD8D.jpg)
-
-Mallards in flight. Credit: USFWS  

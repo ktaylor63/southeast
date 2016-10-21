@@ -1,10 +1,16 @@
 ---
-title: Service Proposes to Protect the Fluted Kidneyshell and Slabside Pearlymussel under the Endangered Species Act
-subtitle: Agency Seeks Information from the Public, Scientific Community before Making Final Decision
-date: 2012-10-03
+title: 'Service Proposes to Protect the Fluted Kidneyshell and Slabside Pearlymussel under the Endangered Species Act'
+subtitle: 'Agency Seeks Information from the Public, Scientific Community before Making Final Decision'
+date: '2012-10-03'
+hero:
+    name: fluted-kidneyshell.jpg
+    alt: 'A brown and black striated mussel.'
+    link: 'https://flic.kr/p/kHD5q5'
+    caption: 'Fluted kidneyshell. Photo by <a href=\"https://www.flickr.com/photos/119210184@N05/\" target=\"_blank\">Tim Lane</a> <a href=\"https://creativecommons.org/licenses/by-nc-nd/2.0/\" target=\"_blank\">CC BY-NC-ND 2.0</a>.'
 tags:
- - Fluted kidneyshell
- - Slabside perlymussel
+    - 'Fluted kidneyshell'
+    - 'Slabside perlymussel'
+updated: 'October 21st, 2016'
 ---
 
 Current evidence suggests that the fluted kidneyshell and slabside pearlymussel are in danger of becoming extinct in the foreseeable future, the U.S. Fish and Wildlife Service announced today. As a result, the Service has proposed to protect the species under the Endangered Species Act (ESA), and is seeking new information from the public and the scientific community that will assist the agency in making a final determination.
@@ -17,7 +23,7 @@ The ESA requires the Service to identify the location of habitat essential for t
 
 Service biologists have identified 1,380 river miles in Alabama, Kentucky, Mississippi, Tennessee, and Virginia that may contain habitat essential to the conservation of the fluted kidneyshell and slabside pearlymussel.  Some of the units overlap and are critical habitat for both species.  These areas are already occupied by other listed aquatic species, and in many cases, critical habitat has previously been designated. 
 
-For the fluted kidneyshell, the Service is proposing 24 critical habitat units with 1,182 miles of stream channel in Kentucky, Tennessee, and Virginia.  For the slabside pearlymussel, the Service is proposing 13 critical habitat units with roughly 971 miles of stream channel in Alabama, Miss<a name="_GoBack" id="_GoBack"></a>issippi, Tennessee, and Virginia. 
+For the fluted kidneyshell, the Service is proposing 24 critical habitat units with 1,182 miles of stream channel in Kentucky, Tennessee, and Virginia.  For the slabside pearlymussel, the Service is proposing 13 critical habitat units with roughly 971 miles of stream channel in Alabama, Mississippi, Tennessee, and Virginia. 
 
 Although non-federal lands have initially been included in these areas, activities on these lands are not affected now, and will not necessarily be affected if the species is protected under the ESA in the future.  Only if an activity is authorized, funded or carried out by a federal agency will the agency need to work with the Service to help landowners avoid, reduce or mitigate potential impacts to listed species or to ensure actions do not adversely modify critical habitat. Because these rivers already contain other listed aquatic species and their critical habitat, this consultation requirement has been met.
 
@@ -27,13 +33,15 @@ Today’s proposal is part of the Service’s efforts to implement a court-appro
 
 The final decision to add the fluted kidneyshell and slabside pearlymussel to the Federal List of Endangered and Threatened Wildlife and Plants, as well as the final identification of areas containing habitat essential to these species, will be based on the best scientific information available.  In addition, the Service will utilize an economic analysis to inform and refine its identification of this habitat.  Only areas that contain habitat essential to the conservation of the species, and where the benefits of this habitat outweigh potential economic impacts, will be included in the final identification.
 
+## Submit Your Comments
+
 The Service will open a 60-day public comment period to allow the public to review and comment on the proposal and provide additional information.  All relevant information received from the public, government agencies, the scientific community, industry, or any other interested parties will be considered and addressed in the agency’s final listing determination for the species and identification of habitat essential to its conservation.
 
 Comments and information may be submitted by mail to Public Comments Processing, Attn: FWS–R4–ES–2012–0004); Division of Policy and Directives Management; U.S. Fish and Wildlife Service; 4401 N. Fairfax Drive, MS 2042–PDM; Arlington, VA 22203.  Comments also can be filed electronically at [regulations.gov](http://www.regulations.gov/), using the docket number listed above.
 
 Comments must be received or on or before December 3, 2012\.  Requests for a public hearing concerning the proposed critical habitat designations for these species must be made in writing by November 19, 2012 to the Arlington, VA, address shown above.
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

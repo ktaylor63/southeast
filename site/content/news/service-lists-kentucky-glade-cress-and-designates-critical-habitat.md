@@ -1,10 +1,16 @@
 ---
-title: Service Lists Kentucky Glade cress and Designates Critical Habitat
-date: 2014-05-05
+title: 'Service Lists Kentucky Glade cress and Designates Critical Habitat'
+date: '2014-05-05'
+hero:
+    name: kentucky-gladecress.jpg
+    alt: 'A low growing grass-like plant not currently in bloom.'
+    link: 'https://flic.kr/p/7TAYe8'
+    caption: 'Kentucky gladecress. Photo by <a href=\"https://www.flickr.com/photos/btsiders/\" target=\"_blank\">Bryan Siders</a> <a href=\"https://creativecommons.org/licenses/by/2.0/\" target=\"_blank\">CC BY 2.0</a>.'
 tags:
- - Kentucky gladecress
- - Kentucky
- - Critical Habitat
+    - 'Kentucky gladecress'
+    - Kentucky
+    - 'Critical Habitat'
+updated: 'October 21st, 2016'
 ---
 
 The U.S. Fish and Wildlife Service is listing Kentucky glade cress as threatened under the Endangered Species Act (ESA). The winter annual only exists in Jefferson and Bullitt Counties in Kentucky, where the Service also is designating critical habitat for the plant.
@@ -27,12 +33,12 @@ The Service published proposals in the Federal Register to list the glade cress 
 
 The Service offers willing landowners a number of voluntary and non-regulatory conservation programs to help the glade cress survive as they live and work on their lands.  Landowners interested in helping the Service recover the Kentucky glade cress, or seeking more information about the implications of the listing and critical habitat designation, please contact the Service’s Kentucky Field Office at 330 W. Broadway, Suite 265, Frankfort, Kentucky, 40601, or contact Jennifer Garland at 502/695-0468 ext. 115, or via e-mail at [Jennifer_garland@fws.gov](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=Jennifer_garland@fws.gov).
 
-**Additional Resources**
+## Additional Resources
 
-*   [Kentucky Glade cress FAQs](http://www.fws.gov/southeast/news/2014/KY_Glade_Cress_FAQ.pdf) (PDF)
-*   [Kentucky Glade cress fact sheet](http://www.fws.gov/southeast/news/2014/KentuckyGladeCress-052014.pdf) (PDF)
+- [Kentucky Glade cress FAQs](http://www.fws.gov/southeast/news/2014/KY_Glade_Cress_FAQ.pdf) (PDF)
+- [Kentucky Glade cress fact sheet](http://www.fws.gov/southeast/news/2014/KentuckyGladeCress-052014.pdf) (PDF)
 
-**Contact(s):**  
+## Contacts
 
 Tom MacKenzie, USFWS  
 (404) 679-7291  
@@ -42,9 +48,3 @@ cell: (678) 296-6400
 Lee Andrews, Jr., USFWS  
 (502) 695-0468, ext. 108  
 [Lee_Andrews@fws.gov](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=Lee_Andrews@fws.gov)
-
-* * *
-
-![A small plant with white flowers](images/newsUploads/newsThumbs/newsImageThumbD2DD4061-9C85-C0EB-2B7CD6D6E40295E8.jpg)
-
-A Kentucky Glade cress. Credit: James Gruhala / USFWS  

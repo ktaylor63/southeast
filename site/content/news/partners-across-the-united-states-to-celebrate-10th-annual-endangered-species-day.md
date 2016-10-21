@@ -1,9 +1,15 @@
 ---
-title: Partners Across the United States to Celebrate 10th Annual Endangered Species Day
-date: 2015-05-06
+title: 'Partners Across the United States to Celebrate 10th Annual Endangered Species Day'
+hero:
+    name: mountain-sweet-pitcher-plant-patch.jpg
+    link: 'https://flic.kr/p/H3SC2u'
+    caption: 'Endangered mountain sweet pitcher plants need specific conditions to survive. Photo by Gary Peeples, USFWS.'
+    position: 'center bottom'
+date: '2015-05-06'
 tags:
- - Partnership
- - ESA
+    - Partnership
+    - ESA
+updated: 'October 20th, 2016'
 ---
 
 The 10<sup>th</sup> annual national Endangered Species Day will be celebrated May 15, 2015, with special events and programs that recognize our nation’s efforts to conserve and protect America’s most imperiled species.
@@ -20,13 +26,6 @@ Started in 2006 by the U.S. Senate, Endangered Species Day is a celebration of o
 
 For more information about Endangered Species Day, including a list of events occurring throughout the country, visit [www.endangeredspeciesday.org](http://www.endangeredspeciesday.org). Learn more about the Service’s Endangered Species program, and explore what endangered species are near you at [www.fws.gov/endangered](http://www.fws.gov/endangered).
 
-**Contact(s):**  
+## Contact
 
 Christina Meister, [christina_meister@fws.gov](mailto:christina_meister@fws.gov), (703) 358-2284
-
-* * *
-
-![A beautiful white flower with purple splotches on it's pedals and yellow-purple stamen.](images/newsUploads/newsThumbs/newsImageThumb2A9E332E-01E2-E3AD-91377C8AD3FF46AF.jpg)
-
-Endangered Garrett's mint flower. Credit: Dave Bender, USFWS  
-[Higher Quality Version of Image](https://www.flickr.com/photos/usfwssoutheast/5794258452/)

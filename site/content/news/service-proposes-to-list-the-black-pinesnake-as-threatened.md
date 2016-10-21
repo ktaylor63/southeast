@@ -1,6 +1,11 @@
 ---
 title: Service Proposes to List the Black Pinesnake as Threatened
-date: 2014-10-06
+date: '2014-10-06'
+hero:
+  name: black-pinesnake.jpg
+  alt: Coiled up black pinesnake on grass.
+  link: https://flic.kr/p/pgE9ru
+  caption: Black pinesnake. Photo by Jim Lee, The Nature Conservancy.
 tags:
  - Black pinesnake
  - 4d rule
@@ -22,25 +27,22 @@ The black pinesnake has been a candidate for federal protection since 1999.  Th
 
 The final decision to add the black pinesnake to the Federal List of Endangered and Threatened Wildlife and Plants will be based on the best scientific information available.  All relevant information received during the open comment period from the public, government agencies, the scientific community, industry, or any other interested parties will be considered and addressed in the Service’s final listing determination for the species.
 
+## About the Black Pinesnake
+
 Black pinesnakes are non-venomous, egg-laying constrictors.  Adults range in size from 48 to 76 inches.  They are dark brown to black on both their upper and lower body surfaces, have small heads with pointed snouts, and are good burrowers.  Habitat for these snakes consists of sandy, well-drained soils with an open-canopied forest cover of longleaf pine, a reduced shrub layer, and a dense, vegetative ground cover.
 
 There are currently 11 populations of the black pinesnake known in 11 counties in Mississippi (Forrest, George, Greene, Harrison, Jackson, Jones, Lamar, Marion, Perry, Stone, and Wayne) and three counties in Alabama (Clarke, Mobile, and Washington).  Some populations span areas in multiple, nearby counties.  The black pinesnake has not been seen in Louisiana in more than 30 years and is considered eliminated from the state.
 
 This snake’s decline is attributed to the loss and degradation of the longleaf pine ecosystem.  Longleaf pine forests declined because of the increase in roads which caused habitat fragmentation, fire suppression, conversion of natural pine forests to pine plantations, and agricultural and urban development.  Other threats to the snake’s survival include road mortality and killing by humans.
 
+## Submit Your Comments
+
 Comments and information may be submitted by one of two ways: (1) online at [regulations.gov](http://www.regulations.gov) by entering FWS-R4-ES-2014-0046 in the search box and then clicking on “Comment Now”; or (2) mail or hand delivery to U.S. Fish and Wildlife Service, Public Comments Processing, Attn: FWS-R4-ES-2014-0046\.  You also can U.S. mail or hand-deliver comments to: Public Comments Processing, Attn: FWS-R4-ES-2014-0046, U.S. Fish and Wildlife Headquarters, MS: BPHC, 5275 Leesburg Pike, Falls Church, VA 22041-3803.  All comments received will be posted on [regulations.gov](http://regulations.gov). Request for a public hearing must be made in writing by November 21, 2014, to the Falls Church, VA, address.
 
 The complete proposal can be obtained by visiting the Federal eRulemaking Portal: [http://www.regulations.gov](http://www.regulations.gov) at Docket Number FWS-R4-ES-2014-0046.   A copy also can be obtained by contacting U.S. Fish and Wildlife Service, 6578 Dogwood View Parkway, Suite A, Jackson, Mississippi 39213; phone 601-321-1121.
 
-**Contact(s):**  
+## Contact
 
 Connie Dickard, USFWS  
 601-321-1121  
 [connie_dickard@fws.gov](mailto:connie_dickard@fws.gov)
-
-* * *
-
-![](images/newsUploads/newsThumbs/newsImageThumbE5FE3633-D5B5-10D9-D75DA2EDCFEBE8AC.jpg)
-
-Black pinesnake. Credit: Jim Lee, The Nature Conservancy.  
-[Higher Quality Version of Image](https://www.flickr.com/photos/usfwssoutheast/15273395750/)

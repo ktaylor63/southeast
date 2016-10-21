@@ -1,8 +1,13 @@
 ---
-title: Ninth Group of Endangered Whooping Cranes Depart on Ultralight-guided Flight to Florida
-date: 2009-10-22
+title: 'Ninth Group of Endangered Whooping Cranes Depart on Ultralight-guided Flight to Florida'
+date: '2009-10-22'
+hero:
+    name: whooping-crane-in-flight-ultralight.jpg
+    alt: 'Long white birds flying in formation behind a fan powered glider.'
+    caption: 'We hope for a tremendous viewing audience for this amazing spectacle! Photo by Nick Baldwin, a refuge volunteer from last year''s flyover.'
 tags:
- - Whooping crane
+    - 'Whooping crane'
+updated: 'October 20th, 2016'
 ---
 
 Twenty young whooping cranes have begun their ultralight-led migration from central Wisconsin’s Necedah National Wildlife Refuge (NWR). This is the ninth group of birds to take part in a landmark project led by the Whooping Crane Eastern Partnership (WCEP), an international coalition of public and private groups that is reintroducing this highly imperiled species in eastern North America, part of its historic range. There are now approximately 77 whooping cranes in the wild in eastern North America thanks to WCEP’s efforts.
@@ -37,7 +42,7 @@ To report whooping crane sightings, visit the WCEP whooping crane observation we
 
 For more information on the project, its partners and how you can help, visit the WCEP website at: [http://www.bringbackthecranes.org](http://www.bringbackthecranes.org&linkname=Bring Back the Cranes).
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

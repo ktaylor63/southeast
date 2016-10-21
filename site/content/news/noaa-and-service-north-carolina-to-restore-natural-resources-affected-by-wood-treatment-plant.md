@@ -1,8 +1,13 @@
 ---
-title: NOAA, U.S. Fish & Wildlife Service, North Carolina to Restore Natural Resources Affected by Wood Treatment Plant
-date: 2015-04-04
+title: 'NOAA, U.S. Fish & Wildlife Service, North Carolina to Restore Natural Resources Affected by Wood Treatment Plant'
+date: '2015-04-04'
+hero:
+    name: kerr-mcgee-site-map.jpg
+    alt: 'A map of the superfund site in southeastern North Carolina.'
+    caption: 'Map illustration shows the restoration site at the Kerr-McKee former wood-treatment processing plant in Navassa. Map by NOAA.'
 tags:
- - North Carolina
+    - 'North Carolina'
+updated: 'October 20th, 2016'
 ---
 
 A fund administered by NOAA, the U.S. Fish and Wildlife Service, and the North Carolina Department of Environment and Natural Resources, in their capacity as natural resource trustees, has received a disbursement of more than $13 million and anticipate receiving an additional estimated $9 million to restore natural resources harmed by the activities of Kerr-McGee Chemical Corp. as part of the largest environmental settlement in U.S. history.
@@ -21,11 +26,7 @@ Environmental damage in the Navassa region, which includes the Cape Fear River w
 
 Under the Comprehensive Environmental Response, Compensation, and Liability Act, the natural resource trustees are required to use these funds to restore natural resources and services that were lost as a result of the site contamination. Types of projects that may be selected by the trustees include restoring and protecting wetland, river and estuary habitats that benefit the natural resources of the Cape Fear River watershed. The trustees will develop these projects as part of a restoration plan that will incorporate input from the public.
 
-The mission of the U.S. Fish and Wildlife Service is working with others to conserve, protect, and enhance fish, wildlife, plants, and their habitats for the continuing benefit of the American people. We are both a leader and trusted partner in fish and wildlife conservation, known for our scientific excellence, stewardship of lands and natural resources, dedicated professionals, and commitment to public service. For more information on our work and the people who make it happen, visit [www.fws.gov](http://www.fws.gov/). For more information on our work and the people who make it happen, visit [http://www.fws.gov/](http://www.fws.gov/). Connect with our [Facebook page](https://www.facebook.com/usfws), follow our [tweets](https://twitter.com/usfwshq), watch our [YouTube Channel](https://www.youtube.com/usfws) and download photos from our [Flickr page](http://www.flickr.com/photos/usfwshq/).
-
-NOAA’s mission is to understand and predict changes in the Earth’s environment, from the depths of the ocean to the surface of the sun, and to conserve and manage our coastal and marine resources. Join us on [Twitter](http://www.noaanews.noaa.gov/exit.html?https%3A%2F%2Ftwitter.com%2FNOAA), [Facebook](http://www.noaanews.noaa.gov/exit.html?https%3A%2F%2Fwww.facebook.com%2FNOAA), [Instagram](http://www.noaanews.noaa.gov/exit.html?http%3A%2F%2Finstagram.com%2Fnoaa%3Fref%3Dbadge), and our other [social media channels](http://www.noaa.gov/socialmedia/).
-
-**Contact(s):**  
+## Contacts
 
 [Ben Sherman](mailto:ben.sherman@noaa.gov), NOAA  
 301-713-3066
@@ -35,10 +36,3 @@ NOAA’s mission is to understand and predict changes in the Earth’s environme
 
 [Jamie Kritzer](mailto:Jamie.Kritzer@ncdenr.gov), NCDENR  
 919-707-8602
-
-* * *
-
-![](images/newsUploads/newsThumbs/newsImageThumb5587360B-B76C-C03C-F1B224C4A6DD1CBE.jpg)
-
-Aerial Map illustration showing the restoration site at the Kerr-McKee former wood-treatment processing plant in Navassa, North Carolina. Credit: NOAA  
-[Higher Quality Version of Image](https://www.fws.gov/southeast/news/images/TronixKerrMcGee.jpg)

@@ -1,9 +1,15 @@
 ---
-title: Okaloosa Darter On the Road to Recovery
-date: 2011-03-28
+title: 'Okaloosa Darter On the Road to Recovery'
+date: '2011-03-28'
+hero:
+    name: okaloosa-darter.jpg
+    alt: 'Two small fish hiding in some thick submerged aquatic vegetation.'
+    link: 'https://flic.kr/p/8qQTR6'
+    caption: '<a href=\"https://www.flickr.com/photos/51614465@N08/\" target=\"_blank\">Noel Burkhead</a> <a href=\"https://creativecommons.org/licenses/by-nc-sa/2.0/\" target=\"_blank\">CC BY-NC-SA 2.0</a>.'
 tags:
- - Recovery
- - Okaloosa darter
+    - Recovery
+    - 'Okaloosa darter'
+updated: 'October 20th, 2016'
 ---
 
 The U.S. Fish and Wildlife Service is reclassifying the Okaloosa darter (Etheostoma okaloosae) from the status of endangered to threatened under the Endangered Species Act, saying that the population is being managed so well, the small fish is making major strides in its fight for recovery.  The announcement was made today by Acting Director Rowan Gould at a ceremony at Eglin Air Force Base to celebrate the accomplishment and honor those involved.
@@ -28,7 +34,7 @@ The Okaloosa darter does not meet the definition of an endangered species. An en
 
 Although the status of this species is changed from endangered to threatened, section 7 of the Endangered Species Act and regulations codified at 50 CFR 402 will still require federal agencies to ensure that activities they authorize, fund, or carry out are not likely to jeopardize the continued existence of this species.  In addition, the species remains fully protected under the Act as a threatened species.
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

@@ -1,18 +1,24 @@
 ---
-title: Service Protects Eight Gulf Coast Mussels under the Endangered Species Act
-subtitle: Information from the Public, Scientific Community Informs Final Decision
-date: 2012-10-09
+title: 'Service Protects Eight Gulf Coast Mussels under the Endangered Species Act'
+subtitle: 'Information from the Public, Scientific Community Informs Final Decision'
+date: '2012-10-09'
+hero:
+    name: alabama-mussels.jpg
+    alt: 'A large green table covered in different mussel species native to Alabama.'
+    link: 'https://flic.kr/p/p5ya5G'
+    caption: 'Some of the mussel species seen here include the Florida spike, Florida sandshell, southern fatmucket, Suwannee moccasinshell, Florida mapleleaf, iridescent liliput, southern rainbow and downy rainbow. Photo by FWC.'
 tags:
- - Florida
- - Alabama
- - Alabama pearlshell
- - Round ebonyshell
- - Southern kidneyshell
- - Choctaw bean
- - Tapered pigtoe
- - Narrow pigtoe
- - Southern sandshell
- - Fuzzy pigtoe
+    - Florida
+    - Alabama
+    - 'Alabama pearlshell'
+    - 'Round ebonyshell'
+    - 'Southern kidneyshell'
+    - 'Choctaw bean'
+    - 'Tapered pigtoe'
+    - 'Narrow pigtoe'
+    - 'Southern sandshell'
+    - 'Fuzzy pigtoe'
+updated: 'October 21st, 2016'
 ---
 
 Eight Gulf Coast mussels are in danger of becoming extinct or threatened with extinction in the foreseeable future, the U.S. Fish and Wildlife Service announced today.  As a result, the Service will protect the species under the Endangered Species Act (ESA) and will continue to work with conservation partners to aid the species’ recovery and address current and future threats.
@@ -21,7 +27,7 @@ The Alabama pearlshell, round ebonyshell, southern kidneyshell, Choctaw bean, ta
 
 The Service originally proposed these mussels for ESA protection last year.  They have disappeared from a large part of their natural range due to threats posed by habitat degradation, poor water quality, environmental contaminants, and other factors.
 
-At the same time, Service biologists, with input from the public and the scientific community, identified 1,494 stream miles in south Alabama and the Florida panhandle that contain critical habitat.  Of the total stream miles identified, 11 percent are located adjacent to governmental lands (state, federal, or county), six percent contain government land on one side of the stream and private land on the other, and 8<a name="_GoBack" id="_GoBack"></a>3 percent are adjacent to private lands.  Large portions of the designation (including sections of the Escambia, Conecuh, Sepulga, Yellow, Shoal, Pea, and Choctawhatchee Rivers) are already designated critical habitat for the Gulf sturgeon.  
+At the same time, Service biologists, with input from the public and the scientific community, identified 1,494 stream miles in south Alabama and the Florida panhandle that contain critical habitat.  Of the total stream miles identified, 11 percent are located adjacent to governmental lands (state, federal, or county), six percent contain government land on one side of the stream and private land on the other, and 8 3 percent are adjacent to private lands.  Large portions of the designation (including sections of the Escambia, Conecuh, Sepulga, Yellow, Shoal, Pea, and Choctawhatchee Rivers) are already designated critical habitat for the Gulf sturgeon.  
 
 The ESA requires the Service to identify the location of habitat essential for the conservation of the species, which the ESA terms “critical habitat.”  This identification helps federal agencies identify actions that may affect listed species or their habitat, and to work with the Service to avoid or minimize those impacts.  Identifying this habitat also helps raise awareness of the habitat needs of imperiled species and focus the conservation efforts of other partners such as state and local governments, non-governmental organizations, and individual landowners.
 
@@ -37,7 +43,7 @@ The critical habitat areas identified do not include Department of Defense lands
 
 The listing of these eight mussels under the Endangered Species Act becomes effective on November 9, 2012, 30 days following the October 10, 2012, publication in the_ Federal Register._
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

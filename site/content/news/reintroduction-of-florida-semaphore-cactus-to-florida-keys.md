@@ -1,9 +1,15 @@
 ---
-title: Reintroduction of Florida Semaphore Cactus to Florida Keys
-date: 2015-08-25
+title: 'Reintroduction of Florida Semaphore Cactus to Florida Keys'
+date: '2015-08-25'
+hero:
+    name: florida-semaphore-cactus.jpg
+    alt: 'Bright red and yellow flowers emerge from a spiky cactus.'
+    link: 'https://flic.kr/p/7HBz98'
+    caption: 'Blooming cactus.  Photo by <a href=\"https://www.flickr.com/photos/wiredwitch/\" target=\"_blank\">Ketzirah Lesser</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\" target=\"_blank\">CC BY-SA 2.0</a>.'
 tags:
- - Florida
- - Florida semaphore cactus
+    - Florida
+    - 'Florida semaphore cactus'
+updated: 'October 20th, 2016'
 ---
 
 David Bender is the type of guy who doesn’t mind getting his hands dirty, in fact, he wants to - - as long as plants are involved, particularly those that are threatened or endangered.
@@ -38,15 +44,8 @@ In the meantime, Bender hopes to do more work on imperiled South Florida plants 
 
 Dana Hartley, leader of the South Florida Ecological Services’Endangered Species Team, said, “This project is highly indicative of what a forward-thinker Dave is on the effects of climate change and sea level rise on these plants.  He’s leading the effort that’s buying this species some very valuable time.”
 
-**Contact(s):**  
+## Contact
 
 Ken Warren, USFWS  
 772-562-3909  
 [ken_warren@fws.gov](mailto:ken_warren@fws.gov)
-
-* * *
-
-![Green cactus. ](images/newsUploads/newsThumbs/newsImageThumb65ED6A70-5056-AF00-5B614F7198FCC17A.jpg)
-
-A newly-planted Florida semaphore cactus. Credit: Dave Bender, FWS.  
-[Higher Quality Version of Image](https://www.flickr.com/photos/usfwssoutheast/20884015871/in/dateposted/)

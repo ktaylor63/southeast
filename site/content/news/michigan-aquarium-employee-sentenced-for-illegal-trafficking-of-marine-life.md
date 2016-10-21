@@ -1,12 +1,18 @@
 ---
-title: Michigan Aquarium Employee Sentenced for Illegal Trafficking of Marine Life
-date: 2014-04-15
+title: 'Michigan Aquarium Employee Sentenced for Illegal Trafficking of Marine Life'
+date: '2014-04-15'
+hero:
+    name: alligator-baby-on-beach.jpg
+    alt: 'A small alligator standing on sandy soil.'
+    link: 'https://flic.kr/p/cAqQUA'
+    caption: 'Baby alligator relaxing on a beach. Photo by Molly Martin, USFWS.'
 tags:
- - Wildlife Trafficking
- - Law Enforcement
+    - 'Wildlife Trafficking'
+    - 'Law Enforcement'
+updated: 'October 20th, 2016'
 ---
 
-Wifredo A. Ferrer, United States Attorney for the Southern District of Florida, Tracy Dunn, Acting Special Agent in Charge, NOAA Fisheries Office of Law Enforcement, and Edward Grace, Deputy Assistant Director, U.S. Fish & Wildlife Service, Office of Law Enforcement, announce that **Joseph Franko**, 35, of Romulus, Michigan, was sentenced today in Key West for conspiring to purchase, transport, harvest and sell sea fans, ornamental tropical  fish and alligators,  knowing the wildlife was taken, possessed, transported, sold, and intended to be sold in violation of the laws and regulations of the State of Florida, in violation of Title 16, United States Code, Sections 3372(a)(2)(A), 3372(a)(4), and 3373(d)(1) and (2), all in violation of Title 18,United States Code, Section 371.
+Wifredo A. Ferrer, United States Attorney for the Southern District of Florida, Tracy Dunn, Acting Special Agent in Charge, NOAA Fisheries Office of Law Enforcement, and Edward Grace, Deputy Assistant Director, U.S. Fish & Wildlife Service, Office of Law Enforcement, announce that **Joseph Franko**, 35, of Romulus, Michigan, was sentenced today in Key West for conspiring to purchase, transport, harvest and sell sea fans, ornamental tropical fish and alligators,  knowing the wildlife was taken, possessed, transported, sold, and intended to be sold in violation of the laws and regulations of the State of Florida, in violation of Title 16, United States Code, Sections 3372(a)(2)(A), 3372(a)(4), and 3373(d)(1) and (2), all in violation of Title 18,United States Code, Section 371.
 
 United States District Judge Jose E. Martinez, who had previously accepted Franko’s guilty plea, imposed a sentence of five months in prison, followed by five months of home confinement with electronic monitoring, and a two year term of supervised release. The Court determined that he was unable to pay a criminal fine. At the conclusion of the hearing Franko was remanded into the custody of the U.S. Marshal’s Service. Franko’s co-defendant, **Richard Perrin**, 80, also of Romulus, was sentenced in April in the same case to a three year term of probation, a criminal fine of $15,000, and forfeiture of the vehicle used in the commission of the Lacey Act violations.
 
@@ -18,15 +24,8 @@ Mr. Ferrer commended the investigative efforts of NOAA Office of Law Enforcement
 
 A copy of this press release may be found on the website of the United States Attorney’s Office for the Southern District of Florida at [www.usdoj.gov/usao/fls](http://www.usdoj.gov/usao/fls). Related court documents and information may be found on the website of the District Court for the Southern District of Florida at [www.flsd.uscourts.gov](http://www.flsd.uscourts.gov/) or on [http://pacer.flsd.uscourts.gov](http://pacer.flsd.uscourts.gov/).
 
-**Contact(s):**  
+## Contact
 
 Annette Castillo, USDOJ  
 305-961-9174  
 [annette.castillo@usdoj.gov](mailto:annette.castillo@usdoj.gov)
-
-* * *
-
-![A baby alligator in the hands of a law enforcement officer.](images/newsUploads/newsThumbs/newsImageThumb166E8065-9188-196F-A87BA07E6C4CD98B.jpg)
-
-A seized baby alligator collected from Big Cypress Preserve. Credit: USFWS  
-[Higher Quality Version of Image](https://flic.kr/p/n8MX1V)

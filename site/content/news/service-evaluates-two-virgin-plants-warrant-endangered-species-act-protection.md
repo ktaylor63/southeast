@@ -1,10 +1,16 @@
 ---
-title: Service Evaluates Two Virgin Islands Plants warrant Endangered Species Act Protection
-date: 2010-01-20
+title: 'Service Evaluates Two Virgin Islands Plants warrant Endangered Species Act Protection'
+date: '2010-01-20'
+hero:
+    name: agave-eggersiana-flower.jpg
+    alt: 'Bright yellow flowers for an agave plant.'
+    link: 'https://flic.kr/p/9U7vzS'
+    caption: 'Agave eggersiana flower. Photo by Christian Torres, USFWS.'
 tags:
- - US Virgin Islands
- - Agave eggersiana
- - Solanum conocarpum
+    - 'US Virgin Islands'
+    - 'Agave eggersiana'
+    - 'Solanum conocarpum'
+updated: 'October 21st, 2016'
 ---
 
 The U.S. Fish and Wildlife Service today announced the initiation of a status review for two Virgin Islands plants, Agave eggersiana (no common name) and Solanum conocarpum (<em>marrón bacora</em>). With this notice, the Service is soliciting information regarding the status of, and any potential threats to these plant species.
@@ -17,20 +23,22 @@ The information the Service gathers and receives from the public and scientific 
 
 The Service is particularly looking for information on:
 
-**(1)** The species’ biology, range, and population trends, including:  
-(a) habitat requirements  
-(b) genetics and taxonomy  
-(c) historical and current range including distribution patterns  
-(d) historical and current population levels, and current and projected trends, and (e) past and ongoing conservation measures for the species and/or its habitat.
+## The species’ biology, range, and population trends
 
-**(2)** The factors that are the basis for making a listing determination for a species under section 4(a) of the Act, which are:  
-(a) The present or threatened destruction, modification, or curtailment of the species habitat or range;  
-(b) Overutilization for commercial, recreational, scientific, or educational purposes;  
-(c) Disease or predation;  
-(d) The inadequacy of existing regulatory mechanisms; or  
-(e) Other natural or manmade factors affecting its continued existence.
+1. habitat requirements  
+2. genetics and taxonomy  
+3. historical and current range including distribution patterns  
+4. historical and current population levels, and current and projected trends, and (e) past and ongoing conservation measures for the species and/or its habitat.
 
-**(3)** Propagation and planting efforts conducted for these species in the U.S. Virgin Islands.
+## The factors that are the basis for making a listing determination
+
+1. The present or threatened destruction, modification, or curtailment of the species habitat or range;  
+2. Overutilization for commercial, recreational, scientific, or educational purposes;  
+3. Disease or predation;  
+4. The inadequacy of existing regulatory mechanisms; or  
+5. Other natural or manmade factors affecting its continued existence.
+
+## Propagation and planting efforts conducted for these species in the U.S. Virgin Islands.
 
 Any new information and materials concerning these species may be submitted by one of the following methods:
 
@@ -44,7 +52,7 @@ Marrón bacora is a thornless flowering shrub which may reach more than 9 feet i
 
 The U.S. Fish and Wildlife Service is the principal federal agency responsible for conserving, protecting and enhancing fish, wildlife and plants and their habitats for the continuing benefit of the American people. Visit the Service’s web site at [http://www.fws.gov/southeast/](http://www.fws.gov/southeast/)
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

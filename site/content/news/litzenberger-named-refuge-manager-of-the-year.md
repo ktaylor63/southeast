@@ -1,8 +1,14 @@
 ---
-title: Litzenberger named Refuge Manager of the Year
-date: 2011-03-17
+title: 'Litzenberger named Refuge Manager of the Year'
+date: '2011-03-17'
+hero:
+    name: pelican-lands-breton-island-nwr.jpg
+    alt: 'A brown bird with large bill and wings lands amongst hundreds of smaller white birds with bright orange beaks.'
+    link: 'https://flic.kr/p/84LyAm'
+    caption: 'Pelican lands on nest at Breton Island National Wildlife Refuge. Photo by Greg Thompson, USFWS.'
 tags:
- - NWRS
+    - NWRS
+updated: 'October 20th, 2016'
 ---
 
 Ken Litzenberger has a pet name for the part of his job he likes least as a national wildlife refuge manager: the one-eyed monster. It's the computer, slowly eating his time as he inputs data, completes reports and documents administrative tasks.
@@ -37,9 +43,9 @@ Shortly before graduation, he finally got the job he was after. He finished his 
 
 "I was pretty lucky," Litzenberger said. "I thought if I could just get a job with the Service and make $15,000 a year, I'd be happy."
 
-For more information about the National Wildlife Refuge Association and the National Fish and Wildlife Foundation, please visit [www.refugeassociation.org](http://refugeassociation.org/ "Link to non-FWS site") and[www.nfwf.org](http://nfwf.org/ "Link to non-FWS site").
+For more information about the National Wildlife Refuge Association and the National Fish and Wildlife Foundation, please visit [refugeassociation.org](http://refugeassociation.org/) and [nfwf.org](http://nfwf.org/).
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

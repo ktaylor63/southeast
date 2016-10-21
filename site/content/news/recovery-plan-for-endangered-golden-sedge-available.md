@@ -1,9 +1,15 @@
 ---
-title: Recovery Plan for Endangered Golden Sedge Available
-date: 2014-05-21
+title: 'Recovery Plan for Endangered Golden Sedge Available'
+date: '2014-05-21'
+hero:
+    name: golden-sedge.jpg
+    alt: 'A grass like plant with a large geometric shaped bulb.'
+    link: 'https://flic.kr/p/ePDbFY'
+    caption: 'Golden sedge (<em>Carex lutea</em>) growing next to a pond cypress tree in Pender County, NC. Photo by Dale Suiter, USFWS.'
 tags:
- - Golden sedge
- - North Carolina
+    - 'Golden sedge'
+    - 'North Carolina'
+updated: 'October 20th, 2016'
 ---
 
 The U.S. Fish and Wildlife Service is announcing the availability of the final recovery plan for golden sedge, a perennial plant federally listed as endangered.
@@ -28,7 +34,7 @@ Other sites are protected as Dedicated Nature Preserves.  These agreements are 
 
 [More photos of the golden sedge are available here on the Southeast Region Flickr](https://www.flickr.com/photos/usfwssoutheast/sets/72157634185710902)
 
-**Contact(s):**  
+## Contacts
 
 Tom MacKenzie  
 404-679-7291  
@@ -37,10 +43,3 @@ Tom MacKenzie
 Dale Suiter  
 919-856-4520, ext. 18  
 [Dale_Suiter@fws.gov](mailto:Dale_Suiter@fws.gov)
-
-* * *
-
-![A yellow spiky flower](images/newsUploads/newsThumbs/newsImageThumb1F60ECA9-FECA-2940-2C33AB46D084908B.jpg)
-
-Golden sedge. Credit: Dale Suiter / USFWS  
-[Higher Quality Version of Image](https://flic.kr/p/ePDbFY)

@@ -1,9 +1,15 @@
 ---
-title: New Report Assesses the Impacts of Emerging Threats on Gulf Coast Species and Ecosystems
-date: 2015-11-13
+title: 'New Report Assesses the Impacts of Emerging Threats on Gulf Coast Species and Ecosystems'
+date: '2015-11-13'
+hero:
+    name: kemps-ridley-sea-turtle.jpg
+    alt: 'Kemps ridley sea turtle laying in the sand. Large with grey shell and yellow body with grey speckles.'
+    link: 'https://flic.kr/p/bnBsyZ'
+    caption: 'Kemp''s ridley sea turtle. Photo by NER Sea Turtle Stranding Network.'
 tags:
- - Gulf of Mexico
- - Kemp's ridley sea turtle
+    - Gulf
+    - 'Kemps ridley sea turtle'
+updated: 'October 20th, 2016'
 ---
 
 The U.S. Fish and Wildlife Service today released its Gulf Coast Vulnerability Assessment (GCVA), a comprehensive report that evaluates the effects of climate change, sea level rise and urbanization on four Gulf Coast ecosystems and 11 species that depend on them. The ecosystems are mangrove, oyster reef, tidal emergent marsh and barrier islands. The species are roseate spoonbill, blue crab, clapper rail, mottled duck, spotted seatrout, eastern oyster, American oystercatcher, red drum, black skimmer, Kemp’s ridley sea turtle and Wilson’s plover.
@@ -22,15 +28,8 @@ The GCVA will guide future conservation and restoration efforts by helping conse
 
 To learn more about the GCVA visit: [http://gulfcoastprairielcc.org/science/science-projects/gulf-coast-vulnerability-assessment/](http://gulfcoastprairielcc.org/science/science-projects/gulf-coast-vulnerability-assessment/). To learn more about the Landscape Conservation Cooperative Network visit: [http://lccnetwork.org/](http://lccnetwork.org/).
 
-**Contact(s):**  
+## Contact
 
 Christina Meister, USFWS  
 (703) 358-2284  
 [christina_meister@fws.gov](mailto:?christina_meister@fws.gov)
-
-* * *
-
-![Kemp's ridley sea turtle laying in the sand. Large with grey shell and yellow body with grey speckles. ](images/newsUploads/newsThumbs/newsImageThumb025A77FD-B0B2-E923-AFE1B43E4BAE1F20.jpg)
-
-Kemp's ridley sea turtle. Credit: NER Sea Turtle Stranding Network.  
-[Higher Quality Version of Image](https://www.flickr.com/photos/usfwsnortheast/6808132393/)

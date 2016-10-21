@@ -1,16 +1,20 @@
 ---
-title: Owners Of Safari Company Indicted For Illegal Rhino Hunts
-subtitle: Out of Africa Charged with Wildlife Crimes, Fraud and Money Laundering
-date: 2014-10-23
+title: 'Owners Of Safari Company Indicted For Illegal Rhino Hunts'
+subtitle: 'Out of Africa Charged with Wildlife Crimes, Fraud and Money Laundering'
+date: '2014-10-23'
+hero:
+    name: rhino-horns.jpg
+    alt: 'Four rhino horns on a desk next to a podium with the US Fish and Wildlife logo.'
+    link: 'https://flic.kr/p/pvwsL7'
+    caption: 'Rhino horns can sell for up to 35k per pound. These are about 3-5 pounds. Photo by USFWS.'
 tags:
- - International
- - Law Enforcement
- - Wildlife Trafficking
+    - International
+    - 'Law Enforcement'
+    - 'Wildlife Trafficking'
+updated: 'October 20th, 2016'
 ---
 
 The owners of Out of Africa Adventurous Safaris were charged with conspiracy to sell illegal rhinoceros hunts in South Africa in order to defraud American hunters, money laundering and secretly trafficking in rhino horns, announced Sam Hirsch Acting Assistant Attorney General for the Justice Department’s Environment and Natural Resources Division; George L. Beck, Jr., U.S. Attorney for the Middle District of Alabama; and Dan Ashe, Director of the U.S. Fish & Wildlife Service.  [The indictment](https://www.fws.gov/southeast/news/pdf/RhinoIndictment.pdf?) was unsealed today in Montgomery, Alabama following the federal indictment.
-
-([View photos from the event on Flickr](https://www.flickr.com/photos/usfwssoutheast/sets/72157648528417487/).)
 
 The indictment charges Dawie Groenewald,  46, and his brother, Janneman Groenewald, 44, both South African nationals, and their company Valinor Trading CC (d/b/a Out of Africa Adventurous Safaris) with conspiracy, Lacey Act violations, mail fraud, money laundering and structuring bank deposits to avoid reporting requirements.   The Lacey Act, the nation’s oldest criminal statute addressing illegal poaching and wildlife trafficking, makes it a crime to sell animal hunts conducted in violation of state, federal, tribal and foreign law. 
 
@@ -35,8 +39,3 @@ An indictment contains allegations that a defendant has committed a crime. Every
 The investigation of Out of Africa is part of [Operation Crash](https://www.fws.gov/southeast/news/pdf/OperationCrashSummaryOctober2014.pdf) (named for the term “crash” which describes a herd of rhinoceros), an ongoing nation-wide effort to detect, deter and prosecute those engaged in the illegal killing of rhinoceros and the unlawful trafficking of rhinoceros horns led by the Special Investigations Unit of the Fish and Wildlife Service Office of Law Enforcement in coordination with the U.S. Department of Justice.  Thus far there have been 26 arrests and 18 convictions with prison terms as high as 70 months. (See attached Crash Fact Sheet).  Throughout the course of the investigation on the current charges, U.S. authorities received substantial cooperation from South Africa’s National Prosecuting Authority and a specialized endangered species unit within the organized crime unit of the South African Police Service.  That unit is known as the Hawks.  Additional assistance has been provided in this case by the Bureau of Alcohol, Tobacco and Firearms, in Montgomery, Alabama and the Autauga County, Alabama Sheriff’s Office.  The Out of Africa case is being prosecuted in the Middle District of Alabama by Assistant U.S. Attorney Brandon K. Essig and by Richard A. Udell, Senior Litigation Counsel with the Environmental Crimes Section of the U.S. Department of Justice in Washington, D.C.  The Out of Africa investigation is continuing.     
 
 The Criminal Division’s Office of International Affairs provided assistance.
-
-![White rhino](images/newsUploads/newsThumbs/newsImageThumb3E32F374-C81D-BCDE-E95D9C7AD36D90A9.jpg)
-
-<div class="caption muted" style="padding-right:10px; padding-left:10px">White rhino. Credit: Karl Stromayer, USFWS.  
-[Higher Quality Version of Image](https://www.flickr.com/photos/usfwshq/6880954953)

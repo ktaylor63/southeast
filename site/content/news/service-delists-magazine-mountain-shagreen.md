@@ -1,11 +1,17 @@
 ---
-title: Service Delists Magazine Mountain Shagreen
-subtitle: First Invertebrate Recovered under the Endangered Species Act
-date: 2013-05-14
+title: 'Service Delists Magazine Mountain Shagreen'
+subtitle: 'First Invertebrate Recovered under the Endangered Species Act'
+date: '2013-05-14'
+hero:
+    name: ozark-mountains.jpg
+    alt: 'Panoramic view of a forested mountain range in Arkansas.'
+    link: 'https://flic.kr/p/9QKQYk'
+    caption: 'Ozark mountains. Photo by <a href=\"https://www.flickr.com/photos/gmeador/\" target=\"_blank\">Granger Meador</a> <a href=\"https://creativecommons.org/licenses/by-nc/2.0/\" target=\"_blank\">CC BY-NC 2.0</a>.'
 tags:
- - Recovery
- - Delist
- - Magazine mountain shagreen
+    - Recovery
+    - Delist
+    - 'Magazine mountain shagreen'
+updated: 'October 21st, 2016'
 ---
 
 In the highest parts of Arkansas’ Ozarks, the slow-moving Magazine Mountain shagreen snail won the race to become the first invertebrate to be delisted under the Endangered Species Act.
@@ -24,7 +30,7 @@ Since the Magazine Mountain shagreen is being removed from the Federal List of E
 
 Copies of the final rule and post-delisting monitoring plan are available on the Internet at the Federal eRulemaking Portal: [www.regulations.gov](http://www.regulations.gov/), or by contacting Chris Davidson, U.S. Fish and Wildlife Service, 110 South Amity Road, Suite 300, Conway, AR 72032 (phone: 501-513-4481; fax: 501-513-4480).
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

@@ -1,7 +1,12 @@
 ---
 title: Service Proposes Special Rule to Focus Protections for Northern Long-Eared Bat
 subtitle: Rule Would Apply if Species is Listed as Threatened under the Endangered Species Act
-date: 2015-01-15
+date: '2015-01-15'
+hero:
+  name: northern-log-eared-bat.jpg
+  alt: A small furry bat in a crevice of a cave with patches of white fungus on its face and shoulder.
+  link: https://flic.kr/p/re5BtW
+  caption: A northern-long-eared bat with suspected White Nose Syndrome. Photo by Steve Taylor, University of Illinois.
 tags:
  - Northern long-eared bat
  - 4d rule
@@ -31,6 +36,8 @@ Under the ESA, an endangered designation indicates a species is currently in dan
 
 For species listed as threatened, the Service may issue a 4(d) rule to provide protections that are deemed necessary and advisable for conservation of the species. Such a rule ensures private landowners and citizens are not unduly burdened by regulations that do not further the conservation of the species and are exempted from take prohibitions when conducting activities that actively benefit the species.
 
+## Submit Your Comments
+
 The Service is seeking public comment on the proposed 4(d) rule and is accepting comments on its October 2013 proposal to list the northern long-eared bat under the ESA. Comments are accepted through March 17, 2015.  Specifically, the Service is seeking comment on whether it may be appropriate to exempt incidental take as a result of other categories of activities beyond those covered in the proposed rule and if so, under what conditions and with what conservation measures. 
 
 You may submit comments by one of the following methods:
@@ -41,22 +48,11 @@ You may submit comments by one of the following methods:
 
 All comments will be posted on [_http://www.regulations.gov_](http://www.regulations.gov/). This generally means we will post any personal information you provide us. If you previously submitted comments or information on the October 2013 proposed rule to list the northern long-eared bat, please do not resubmit them. We have incorporated them into the public record, and we will consider them fully in our final determination.
 
-For more information about the northern long-eared bat, the proposal to list and the proposed 4(d) rule, go to [http://www.fws.gov/midwest/endangered/mammals/nlba/index.html](http://www.fws.gov/midwest/endangered/mammals/nlba/index.html)<u>.</u>
+For more information about the northern long-eared bat, the proposal to list and the proposed 4(d) rule, go to [http://www.fws.gov/midwest/endangered/mammals/nlba/index.html](http://www.fws.gov/midwest/endangered/mammals/nlba/index.html).
 
-**Contact(s):**  
+## Contact
 
 Georgia Parham, USFWS   
 812-334-4261 x 1203  
 812-593-8501 - mobile  
 [Georgia_Parham@fws.gov](mailto:Georgia_Parham@fws.gov)
-
-Jennifer Strickland, USFWS Southeast  
-404-679-7299  
-[J](mailto:Georgia_Parham@fws.gov)[ennifer_Strickland@fws.gov](mailto:Jennifer_Strickland@fws.gov?subject=Northern%20long-eared%20bat)
-
-* * *
-
-![](images/newsUploads/newsThumbs/newsImageThumbEE5B10EA-E897-240A-FB04B1DCEC512C96.jpg)
-
-Northern long-eared bat proposed 4(d) Rule. Credit: USFWS  
-[Higher Quality Version of Image](http://www.fws.gov/southeast/news/2015/nleb-map-300.gif)

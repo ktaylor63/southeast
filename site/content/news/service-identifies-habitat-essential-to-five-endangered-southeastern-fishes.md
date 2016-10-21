@@ -1,12 +1,18 @@
 ---
-title: Service Identifies Habitat Essential to Five Endangered Southeastern Fishes
-date: 2012-10-15
+title: 'Service Identifies Habitat Essential to Five Endangered Southeastern Fishes'
+date: '2012-10-15'
+hero:
+    name: chucky-madtom-search.jpg
+    alt: 'Biologists check a seine for chucky madtom fishes.'
+    link: 'https://flic.kr/p/8xjXgb'
+    caption: 'Search for chucky madtom in Little Chucky Creek, Tennessee. Photo by Gary Peeples, USFWS.'
 tags:
- - Cumberland darter
- - Rush darter
- - Yellowcheek darter
- - Chucky madtom
- - Laurel dace
+    - 'Cumberland darter'
+    - 'Rush darter'
+    - 'Yellowcheek darter'
+    - 'Chucky madtom'
+    - 'Laurel dace'
+updated: 'October 21st, 2016'
 ---
 
 After reviewing and incorporating information from the public and the scientific community, the U.S. Fish and Wildlife Service today identified approximately 228 river miles and 29 acres of critical habitat in, Kentucky, Tennessee, Alabama; and Arkansas, that contain aquatic habitat essential to the conservation of the Cumberland darter, rush darter, yellowcheek darter, Chucky madtom, and laurel dace, five species of fish protected by the Endangered Species Act (ESA).
@@ -21,7 +27,7 @@ Although non-federal lands are included in these areas, activities on these land
 
 The Service relies on a number of voluntary, non-regulatory, conservation programs to provide willing landowners with assurances to protect them for the work they do on their lands.  The Service’s identification of these areas is based on the best scientific information available, and considered all relevant information provided by the public, government agencies, the scientific community, industry and other interested parties during a 60-day comment period.  In addition, the Service utilized an economic analysis to inform and refine its identification of this habitat. Only areas that contain habitat essential to the conservation of the species, and where the benefits of this habitat outweigh potential economic impacts, have been included.
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

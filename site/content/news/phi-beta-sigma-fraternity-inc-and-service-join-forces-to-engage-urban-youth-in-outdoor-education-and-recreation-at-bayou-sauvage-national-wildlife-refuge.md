@@ -1,13 +1,19 @@
 ---
-title: Phi Beta Sigma Fraternity, Inc. and U.S. Fish and Wildlife Service Join Forces to Engage Urban Youth in Outdoor Education and Recreation at Bayou Sauvage National Wildlife Refuge
-date: 2015-05-19
+title: 'Phi Beta Sigma Fraternity, Inc. and U.S. Fish and Wildlife Service Join Forces to Engage Urban Youth in Outdoor Education and Recreation at Bayou Sauvage National Wildlife Refuge'
+date: '2015-05-19'
+hero:
+    name: phi-beta-sigma-planting-trees.jpg
+    alt: 'Phi beta sigma members plant trees with Fish and Wildlife Service employees.'
+    link: 'https://flic.kr/p/shztaK'
+    caption: 'Planting trees commemorates partnership Photo by Tom MacKenzie, USFWS.'
 tags:
- - Partnership
- - Urban Refuge
- - NWRS
+    - Partnership
+    - 'Urban Refuge'
+    - NWRS
+updated: 'October 20th, 2016'
 ---
 
-New Orleans, LA -  U.S. Fish and Wildlife Service and Phi Beta Sigma Fraternity, Inc. signed the first local agreement implementing a partnership to encourage urban youth to learn more about conservation, the natural world, and biological sciences. The certificate declares Bayou Sauvage National Wildlife Refuge, which lies within and on the boundary of New Orleans East, a model partner site for the efforts with Phi Beta Sigma Fraternity, Inc.
+**NEW ORLEANS, LA** -  U.S. Fish and Wildlife Service and Phi Beta Sigma Fraternity, Inc. signed the first local agreement implementing a partnership to encourage urban youth to learn more about conservation, the natural world, and biological sciences. The certificate declares Bayou Sauvage National Wildlife Refuge, which lies within and on the boundary of New Orleans East, a model partner site for the efforts with Phi Beta Sigma Fraternity, Inc.
 
 Signatories included: Steve Guertin, Deputy Director, U.S. Fish and Wildlife Service, Arthur Thomas, President of the National Sigma Beta Club Foundation, and Stacy Armitage, Project Leader, Southeast Louisiana National Wildlife Refuges. The leadership was joined by Sigma Beta members, who helped plant a grove of twenty cypress trees at the refuge to dedicate the blossoming partnership.  The trees were donated by Thom Pepper, Executive Director, Common Ground Relief, Inc. The trees that once grew there had been destroyed by the saltwater intrusion from Hurricane Katrina.  
 
@@ -41,17 +47,10 @@ The U.S. Fish and Wildlife Service works with others to conserve, protect, and e
 
 Phi Beta Sigma Fraternity, Inc. was founded on January 9, 1914, at Howard University, Washington, DC. As the organization celebrates 100 years of service, it has grown to amass over 150,000 members serving in nearly 700 chapters globally. As an international association of college-educated men, the organization’s programmatic areas include Bigger & Better Business, Education, Social Action, and the Sigma Beta Club, a male youth mentoring program. The organization has corporate service partnerships with the March of Dimes Foundation and St. Jude’s Children’s Research.
 
-**Contact(s):**  
+## Contacts
 
 Tom MacKenzie, tom_mackenzie@fws.gov  
 404-679-7291, M: 678-296-6400 
 
 Pon Dixson, pon_dixson@fws.gov  
 985-882-2014, M: 985-285-3613
-
-* * *
-
-![Phi beta sigma members plant trees with Fish and Wildlife Service employees.](images/newsUploads/newsThumbs/newsImageThumb6F632873-C6A3-DD9F-86C98B1EF84F4EC5.jpg)
-
-Planting trees commemorates partnership Credit: Tom MacKenzie, USFWS  
-[Higher Quality Version of Image](https://flic.kr/p/shztaK)

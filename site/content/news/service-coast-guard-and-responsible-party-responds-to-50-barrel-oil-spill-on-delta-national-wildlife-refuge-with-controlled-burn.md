@@ -1,10 +1,16 @@
 ---
-title: Service, Coast Guard, and Responsible Party Responds to 50-Barrel Oil Spill on Delta National Wildlife Refuge with Controlled Burn
-date: 2014-06-03
+title: 'Service, Coast Guard, and Responsible Party Responds to 50-Barrel Oil Spill on Delta National Wildlife Refuge with Controlled Burn'
+date: '2014-06-03'
+hero:
+    name: oil-boom.jpg
+    alt: 'A long brown floating oil boom with a fishing vessel in the background.'
+    link: 'https://flic.kr/p/85cQ9h'
+    caption: 'Oil boom near Breton Island National Wildlife Refuge. Photo by Greg Thompson, USFWS.'
 tags:
- - Controlled Burn
- - Oil Spill
- - NWRS
+    - 'Controlled Burn'
+    - 'Oil Spill'
+    - NWRS
+updated: 'October 21st, 2016'
 ---
 
 The U.S. Fish and Wildlife Service and the U.S. Coast Guard are working with the Louisiana Oil Spill Coordinator Office, Texas Petroleum Investment Company and Forefront Emergency Management to mitigate an estimated 50-barrel crude oil release on Delta National Wildlife Refuge.  
@@ -27,7 +33,7 @@ There will be additional clean-up operations after the burn to continue to remo
 
 For more information contact Refuge Manager Neil Lalonde at 985-882-2026 or [neil_lalonde@fws.gov](mailto:neil_lalonde@fws.gov).
 
-**Contact(s):**  
+## Contact
 
 Neil Lalonde, Refuge Manager  
 985-882-2026  

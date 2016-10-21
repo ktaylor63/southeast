@@ -1,7 +1,14 @@
 ---
 title: Service Presents First Annual Fire Safety Award
-date: 2014-04-16
+date: '2014-04-16'
+hero:
+  name: okefenokee-fire.jpg
+  alt: An aerial photograph of a forest with dark soil after a fire.
+  link: https://flic.kr/p/o56XC4
+  caption: A forest stand on Okefenokee National Wildlife Refuge after a wildfire. Photo by USFWS.
 tags:
+  - Fire
+  - Award
 ---
 
 In a formal ceremony on April 14, 2014, at its Southeast Region Office in Atlanta, Georgia, the U.S. Fish and Wildlife Service (FWS) presented its first annual National Fire Safety Award to Rocky Chesser, a long-time maintenance and equipment supervisor with fire qualifications at [Okefenokee National Wildlife Refuge](http://www.fws.gov/okefenokee/).
@@ -18,7 +25,7 @@ The Safety Award evaluation panel of local, regional and national experts in fir
 
 The Service wildland fire management program has maintained an exemplary safety record, with no deaths in the line of duty since 1981\.  For more information about the award, contact Ted Mason at 208-387-5831, [Theodore_Mason@fws.gov](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=Theodore_Mason@fws.gov).
 
-**Contact(s):**  
+## Contacts
 
 Karen Miranda, USFWS  
 208-387-5891  
@@ -27,10 +34,3 @@ Karen Miranda, USFWS
 Tom MacKenzie, USFWS Public Affairs Specialist  
 404-679-7291  
 [tom_mackenzie@fws.gov](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=tom_mackenzie@fws.gov)
-
-* * *
-
-![A man in a brown US Fish and Wildlife Service shirt stands smiling and holding a plaque in between a woman in a blue US Fish and Wildlife Service shirt and a man in a suit.](images/newsUploads/newsThumbs/newsImageThumbD331233C-0A2A-FA21-41B24E47F4001E6A.jpg)
-
-Maintenance/Equipment Supervisor Rocky Chesser from Okefenokee National Wildlife Refuge in Georgia accepts the first FWS National Fire Safety Award with Cindy Dohner, FWS Southeast Region Regional Director, and John Segar, FWS Fire Director at the National Interagency Fire Center at Boise, Idaho. Credit: Tom MacKenzie / USFWS  
-[Higher Quality Version of Image](https://flic.kr/p/nbep6E)

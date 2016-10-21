@@ -1,10 +1,16 @@
 ---
-title: Service Protects Coqui Llanero Under the Endangered Species Act
-subtitle: Information from the Public, Scientific Community Informs Final Decision
-date: 2012-10-03
+title: 'Service Protects Coqui Llanero Under the Endangered Species Act'
+subtitle: 'Information from the Public, Scientific Community Informs Final Decision'
+date: '2012-10-03'
+hero:
+    name: coqui-llanero.jpg
+    alt: 'A tiny yellow/orange frog with big round eyes.'
+    link: 'https://flic.kr/p/dRd6aq'
+    caption: 'Coqui Llanero. Photo by <a href="https://www.flickr.com/photos/ljvillanueva/">Luis J. Villanueva</a> <a href="https://creativecommons.org/licenses/by-nc-sa/2.0/#">CC BY-NC-SA 2.0.</a>'
 tags:
- - Coqui llanero
- - Puerto Rico
+    - 'Coqui llanero'
+    - 'Puerto Rico'
+updated: 'October 21st, 2016'
 ---
 
 The coquí llanero is in danger of becoming extinct in the foreseeable future, the U.S. Fish and Wildlife Service announced today.  As a result, the Service will protect the species under the Endangered Species Act, and will continue to work with conservation partners to aid the species’ recovery and address current and future threats.
@@ -29,7 +35,7 @@ The areas identified do not include an expansion of the proposed critical habita
 
 The listing of the coqui llanero as endangered becomes effective on November 5, 2012, 30 days following the  October 4, 2012, publication in the _Federal Register._
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

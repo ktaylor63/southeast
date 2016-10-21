@@ -1,9 +1,15 @@
 ---
-title: Service Completes Status Review of the Bay Skipper Butterfly
-date: 2012-08-27
+title: 'Service Completes Status Review of the Bay Skipper Butterfly'
+date: '2012-08-27'
+hero:
+    name: bay-skipper.jpg
+    alt: 'An orange and brown butterfly specimen.'
+    link: 'https://commons.wikimedia.org/wiki/File%3AEuphyes_bayensis_female.jpg'
+    caption: 'Female bay skipper. Photo by Charles T. and John R. Bryson <a href=\"http://creativecommons.org/licenses/by/3.0/us/deed.en\">CC BY 3.0 us</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AEuphyes_bayensis_female.jpg\">via Wikimedia Commons</a>.'
 tags:
- - Bay skipper
- - Louisiana
+    - 'Bay skipper'
+    - Louisiana
+updated: 'October 21st, 2016'
 ---
 
 The bay skipper butterfly does not warrant federal protection as an endangered or threatened species, the U.S. Fish and Wildlife Service concluded, following a status review initiated by a petition seeking to protect the species under the Endangered Species Act (ESA) and to designate critical habitat.
@@ -16,9 +22,9 @@ The Service also considered the large extent of coastal maritime habitats along 
 
 The bay skipper is a small, dusky-orange-and-brown butterfly found only in marshes along the Gulf Coastal Plain. When the Service initiated the status survey, only two populations were historically known, one in Hancock County, Mississippi, and one in Chambers and Jefferson counties, Texas. Threats identified in the petition included vulnerability to extreme weather events, potential sea-level rise, small population size and limited distribution, plus vulnerability of localized populations to pesticide use.
 
-Although the 12-month finding concludes that listing the bay skipper as endangered or threatened under the ESA is not warranted at this time, the Service requests that any new information concerning the status of, or threats to, the bay skipper be sent to the Mississippi Ecological Services Field Office, 6578 Dogwood View Parkway, Jackson, MS 39213\. New information will help monitor the bay skipper and encourage its conservation.
+Although the 12-month finding concludes that listing the bay skipper as endangered or threatened under the ESA is not warranted at this time, the Service requests that any new information concerning the status of, or threats to, the bay skipper be sent to the Mississippi Ecological Services Field Office, 6578 Dogwood View Parkway, Jackson, MS 39213. New information will help monitor the bay skipper and encourage its conservation.
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

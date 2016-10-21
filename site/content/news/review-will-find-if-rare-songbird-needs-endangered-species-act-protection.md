@@ -1,8 +1,15 @@
 ---
-title: Review will find if rare songbird needs Endangered Species Act protection
-date: 2012-08-14
+title: 'Review will find if rare songbird needs Endangered Species Act protection'
+hero:
+    name: bicknells-thrush.jpg
+    alt: 'A gray bird with brown spots on its white breast.'
+    link: 'https://flic.kr/p/ob8ZFL'
+    caption: 'Photo by <a href=\"https://www.flickr.com/photos/amaizlish/\" target=\"_blank\">Aaron Maizlish</a>, <a href=\"https://creativecommons.org/licenses/by-nc/2.0/\" target=\"_blank\">CC BY-NC 2.0</a>.'
+    position: 'top center'
+date: '2012-08-14'
 tags:
- - Bicknell's thrush
+    - 'Bicknell''s thrush'
+updated: 'October 20th, 2016'
 ---
 
 The Bicknell’s thrush, a songbird whose migration range stretches from the Caribbean to Canada, may need federal protection as a threatened or endangered species, the U.S. Fish and Wildlife Service announced today.
@@ -17,20 +24,20 @@ Like other migrating songbirds, the Bicknell’s thrush is further challenged by
 
 Today’s announcement begins a 60-day period during which the Service invites information on Bicknell’s thrush. In particular, the agency requests information about impacts to the species from climate change, operations of wind and telecommunication projects, and mercury accumulation. Following the review, the Service will issue a 12-month finding on the petition.
 
-The 90-day finding can be accessed [here](http://www.ofr.gov/inspection.aspx) on August 14, 2012, and at the [Federal eRulemaking Portal](http://www.regulations.gov) starting August 15\. Information may be submitted by one of the following methods:
+The 90-day finding can be accessed [here](http://www.ofr.gov/inspection.aspx) on August 14, 2012, and at the [Federal eRulemaking Portal](http://www.regulations.gov) starting August 15. Information may be submitted by one of the following methods:
 
-*   Federal eRulemaking Portal: [http://www.regulations.gov](http://www.regulations.gov). Follow the instructions for submitting comments to Docket No. FWS-R5-ES-2012-0056.
-*   U.S. mail or hand-delivery: Public Comments Processing, Attn: Docket No. FWS-R5-ES-2012-0056; Division of Policy and Directives Management; U.S. Fish and Wildlife Service; 4401 N. Fairfax Drive, MS 2042-PDM; Arlington, VA 22203.
+- Federal eRulemaking Portal: [http://www.regulations.gov](http://www.regulations.gov). Follow the instructions for submitting comments to Docket No. FWS-R5-ES-2012-0056.
+- U.S. mail or hand-delivery: Public Comments Processing, Attn: Docket No. FWS-R5-ES-2012-0056; Division of Policy and Directives Management; U.S. Fish and Wildlife Service; 4401 N. Fairfax Drive, MS 2042-PDM; Arlington, VA 22203.
 
 Information must be received on or before October 15, 2012\. The Service will post all comments on [http://www.regulations.gov.](http://www.regulations.gov) This generally means the agency will post any personal information provided through the process. The Service is not able to accept email or faxes.
 
 More resources:
 
-*   Bicknell's thrush fact sheet [(PDF)](http://www.fws.gov/northeast/PDF/Bicknells.pdf)
-*   Specific information needs on Bicknell's thrush [(PDF)](http://www.fws.gov/northeast/PDF/20120531_BThrush90d_InfoNeeds.pdf)
-*   Bicknell's thrush, climate change and range map [(web article)](http://www.fws.gov/northeast/climatechange/stories/bicknellsthrush.html)
+- Bicknell's thrush fact sheet [(PDF)](http://www.fws.gov/northeast/PDF/Bicknells.pdf)
+- Specific information needs on Bicknell's thrush [(PDF)](http://www.fws.gov/northeast/PDF/20120531_BThrush90d_InfoNeeds.pdf)
+- Bicknell's thrush, climate change and range map [(web article)](http://www.fws.gov/northeast/climatechange/stories/bicknellsthrush.html)
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

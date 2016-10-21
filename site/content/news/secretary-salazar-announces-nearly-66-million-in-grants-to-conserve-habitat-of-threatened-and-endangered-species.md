@@ -1,18 +1,25 @@
 ---
-title: Secretary Salazar Announces Nearly $66 Million in Grants to Conserve Habitat of Threatened and Endangered Species
-date: 2010-04-12
+title: 'Secretary Salazar Announces Nearly $66 Million in Grants to Conserve Habitat of Threatened and Endangered Species'
+date: '2010-04-12'
+hero:
+    name: golden-cheeked-warbler.jpg
+    alt: 'A white and black bird with a bright yellow face.'
+    link: 'https://flic.kr/p/egrMsQ'
+    caption: 'Golden-cheeked warbler. Photo by <a href=\"https://www.flickr.com/photos/46789814@N05/\" target=\"_blank\">Jason Crotty</a> <a href=\"https://creativecommons.org/licenses/by/2.0/\" target=\"_blank\">CC BY 2.0</a>.'
 tags:
- - Grants
+    - Grants
+updated: 'October 20th, 2016'
 ---
 
-WASHINGTON D.C. – Secretary of the Interior Ken Salazar today announced nearly $66 million in grants to enable 25 states to work with private landowners, conservation organizations and other partners to protect and conserve the habitat of threatened and endangered species.  
+**WASHINGTON D.C.** – Secretary of the Interior Ken Salazar today announced nearly $66 million in grants to enable 25 states to work with private landowners, conservation organizations and other partners to protect and conserve the habitat of threatened and endangered species.  
 
 The grants, awarded through the Cooperative Endangered Species Conservation Fund, will benefit numerous species ranging from the desert tortoise to the Indiana bat.  
+
 “These grants are part of our ongoing commitment to work with states and other partners to ensure America’s beautiful land and wildlife are conserved for future generations,” Salazar said. “They provide the means for states to develop the long-term partnerships with landowners and communities necessary to conserve habitat and foster stewardship that will bring species back from the threat of extinction.”  
 
 Authorized by Section 6 of the Endangered Species Act, the competitive grants enable states to work with private landowners, conservation groups and other agencies to initiate conservation planning efforts and acquire and protect habitat to support the conservation of threatened and endangered species.  
 
-This year, the Cooperative Endangered Species Fund provides approximately $10 million through the Habitat Conservation Planning Assistance Grants Program, $41 million through the Habitat Conservation Plan Land Acquisition Grants Program, and $15 million through the Recovery Land Acquisition Grants Program. The three programs were established to help avoid potential conflicts between the conservation of threatened and endangered species and land development and use.  
+This year, the Cooperative Endangered Species Fund provides approximately $10 million through the Habitat Conservation Planning Assistance Grants Program, $41 million through the Habitat Conservation Plan Land Acquisition Grants Program, and $15 million through the Recovery Land Acquisition Grants Program. The three programs were established to help avoid potential conflicts between the conservation of threatened and endangered species and land development and use. 
 
 Habitat Conservation Plans (HCPs) are agreements between a landowner and the Service. These agreements allow a landowner to undertake otherwise lawful activities on their property, even if they may result in the death, injury or harassment of a listed species, when that landowner agrees to conservation measures designed to minimize and mitigate the impact of those actions. HCPs may also be developed by a county or state to cover certain activities of all landowners within their jurisdiction and may address multiple species.  
 
@@ -22,11 +29,9 @@ The HCP Planning Assistance Grants Program provides grants to states and territo
 
 The Recovery Land Acquisition Grants Program provides funds to states and territories to acquire habitat for endangered and threatened species with approved recovery plans. Habitat acquisition to secure long term protection is often an essential element of a comprehensive recovery effort for a listed species. One of this year’s grants will provide $800,000 to enable the Texas Parks and Wildlife Department to acquire a 413-acre tract to protect nesting habitat of the golden-cheeked warbler and black-capped vireo. The property is also expected to benefit the endangered Tobusch fish-hook cactus.  
 
-For a complete list of the 2010 grant awards for these programs (Catalog of Federal Domestic Assistance Number 15.615), see the Service’s Endangered Species Grants home page at [http://www.fws.gov/endangered/grants/](http://www.fws.gov/endangered/grants/).  
+For a complete list of the 2010 grant awards for these programs (Catalog of Federal Domestic Assistance Number 15.615), see the Service’s Endangered Species Grants home page at [fws.gov/endangered/grants/](http://www.fws.gov/endangered/grants/).  
 
-Visit [http://www.fws.gov/home/feature/2010/pdf/Sect6FY2010CASFinal.pdf](http://www.fws.gov/home/feature/2010/pdf/Sect6FY2010CASFinal.pdf) to view list of grants awarded.
-
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

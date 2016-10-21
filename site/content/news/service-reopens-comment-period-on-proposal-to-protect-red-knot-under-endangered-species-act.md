@@ -1,11 +1,16 @@
 ---
-title: Service reopens comment period on proposal to protect red knot under Endangered Species Act
-subtitle: Shorebird flies up to 18,600 miles a year on 20-inch wingspan
-date: 2014-04-04
+title: 'Service reopens comment period on proposal to protect red knot under Endangered Species Act'
+subtitle: 'Shorebird flies up to 18,600 miles a year on 20-inch wingspan'
+date: '2014-04-04'
+hero:
+    name: red-knot.jpg
+    alt: 'A red breasted shorebird with black and white markings on its back.'
+    link: 'https://flic.kr/p/79wtdr'
+    caption: 'Tagged Red Knot Mispillion Harbor, Delaware. Photo by Gregory Breese, USFWS.'
 tags:
- - Red knot
+    - 'Red knot'
+updated: 'October 21st, 2016'
 ---
-
 
 The _rufa_ red knot (<em>Calidris canutus rufa</em>), a robin-sized shorebird that visits the U.S. on its annual journey between the tips of the Americas, is in trouble.
 
@@ -15,9 +20,11 @@ The U.S. Fish and Wildlife Service has reopened the comment period on [its prop
 
 During the [initial comment period](http://www.regulations.gov/#!docketBrowser;rpp=25;po=0;D=FWS-R5-ES-2013-0097;dct=PS), the Service received more than 560 individual comments and 19,000 form letters. Additionally, requests were made to hold public hearings specifically in North Carolina and Texas. A public hearing is offered upon request with every federal rulemaking to ensure maximum public participation and awareness of a proposed action. Public hearings, preceded by information sessions and opportunities to ask questions to Service biologists, will be held May 6, 2014, in Morehead City, N.C., and in Corpus Christi, Texas. More information is available at the Service’s [Raleigh, N.C.](http://www.fws.gov/raleigh/), and [Southwest Region](http://www.fws.gov/southwest/) websites.
 
-The Service expects to take final action on the listing rule by the end of September 2014\. As required by the ESA, the Service is also reviewing the U.S. range of the knot to identify areas that are essential for its conservation, called critical habitat. [Critical habitat](https://www.fws.gov/midwest/Endangered/saving/CriticalHabitatFactSheet.html) focuses the coordination of federal agencies, which are directed by the ESA to aid in the conservation of listed species. Examples of factors for determining species’ critical habitat include where it occurs and how often, and the most important defined areas that support its biological needs such as feeding or resting. For the knot, these elements may include sand dunes and wide, open beaches for roosting and habitat supporting prey like small clams. The Service expects to publish a separate rule proposing critical habitat in 2014.
+The Service expects to take final action on the listing rule by the end of September 2014. As required by the ESA, the Service is also reviewing the U.S. range of the knot to identify areas that are essential for its conservation, called critical habitat. [Critical habitat](https://www.fws.gov/midwest/Endangered/saving/CriticalHabitatFactSheet.html) focuses the coordination of federal agencies, which are directed by the ESA to aid in the conservation of listed species. Examples of factors for determining species’ critical habitat include where it occurs and how often, and the most important defined areas that support its biological needs such as feeding or resting. For the knot, these elements may include sand dunes and wide, open beaches for roosting and habitat supporting prey like small clams. The Service expects to publish a separate rule proposing critical habitat in 2014.
 
-Details on the kinds of information the Service is seeking are available in the comment period reopening notice published in the Federal Register on April 4, 2014\. Comments and information can be provided at the hearings or submitted through the following methods:
+## Submit Your Comments
+
+Details on the kinds of information the Service is seeking are available in the comment period reopening notice published in the Federal Register on April 4, 2014. Comments and information can be provided at the hearings or submitted through the following methods:
 
 *   Federal Rulemaking Portal: [http://www.regulations.gov](http://www.regulations.gov/). Follow the instructions for submitting information on docket number FWS–R5–ES–2013–0097.
 *   U.S. mail or hand-delivery: Public Comments Processing, Attn: FWS–R5–ES–2013–0097; Division of Policy and Directives Management; U.S. Fish and Wildlife Service; 4401 N. Fairfax Drive, Suite 222; Arlington, Virginia 22203.
@@ -30,7 +37,7 @@ International, state, and local governments, the conservation community, beachgo
 
 Learn more at: [http://www.fws.gov/northeast/redknot/](http://www.fws.gov/northeast/redknot/).
 
-**Contact(s):**  
+## Contacts
 
 Meagan Racey, USFWS Northeast  
 413-253-8558  
@@ -47,10 +54,3 @@ Tom MacKenzie, USFWS Southeast
 Lesli Gray, USFWS Southwest  
 972-569-8588  
 [Lesli_Gray@fws.gov](mailto:Lesli_Gray@fws.gov)
-
-* * *
-
-![A red knot with a tag on its leg stands in shallow water.](images/newsUploads/newsThumbs/newsImageThumb167B78C4-A17F-B35E-EE23927CF379E4E1.jpg)
-
-Tagged red knot in Mispillion Harbor, Delaware. Credit: Gregory Breese / USFWS  
-[Higher Quality Version of Image](https://flic.kr/p/79wtdr)

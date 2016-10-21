@@ -1,11 +1,17 @@
 ---
-title: National Wildlife Refuges Announce Fee-Free Days for 2014
-date: 2013-12-23
+title: 'National Wildlife Refuges Announce Fee-Free Days for 2014'
+hero:
+    name: whooping-cranes-forage-at-wheeler-nwr.jpg
+    alt: 'Four young whooping cranes look for food on a muddy bank.'
+    link: 'https://flic.kr/p/bryw34'
+    caption: 'Juvenile Whooping Cranes Forage on Wheeler NWR. Photo by Bill Gates, USFWS.'
+date: '2013-12-23'
 tags:
- - NWRS
+    - NWRS
+updated: 'October 20th, 2016'
 ---
 
-WASHINGTON, D.C. – Seeing wildlife conservation in action just gained even more appeal. America’s national wildlife refuges will offer free admission to visitors on these days in 2014:  
+**WASHINGTON, D.C.** – Seeing wildlife conservation in action just gained even more appeal. America’s national wildlife refuges will offer free admission to visitors on these days in 2014:  
 
  - January 20: Martin Luther King Jr. Day
  - February 15-17: Presidents’ Day weekend
@@ -36,11 +42,9 @@ Four passes are available:
 
 [Learn how you can buy a pass online](http://store.usgs.gov/pass/index.html).
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  
 Telephone: 703-358-2220  
 Website: [https://www.fws.gov/external-affairs/public-affairs/](https://www.fws.gov/external-affairs/public-affairs/)
-
-* * *

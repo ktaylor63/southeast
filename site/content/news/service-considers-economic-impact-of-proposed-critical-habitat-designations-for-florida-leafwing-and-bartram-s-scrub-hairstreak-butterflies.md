@@ -1,10 +1,16 @@
 ---
-title: Service Considers Economic Impact of Proposed Critical Habitat Designations for Florida leafwing and Bartram’s scrub-hairstreak butterflies
-date: 2014-05-07
+title: 'Service Considers Economic Impact of Proposed Critical Habitat Designations for Florida leafwing and Bartram’s scrub-hairstreak butterflies'
+date: '2014-05-07'
+hero:
+    name: bartrams-hairstreak.jpg
+    alt: 'A gray butterfly with black and white antenae and white/orange markings on its wings.'
+    link: 'https://flic.kr/p/oBeVjQ'
+    caption: 'Bartrams-scrub hairstreak. Photo by Holly Salvato.'
 tags:
- - Critical Habitat
- - Florida leafwing
- - Bartram's hairstreak
+    - 'Critical Habitat'
+    - 'Florida leafwing'
+    - 'Bartram''s hairstreak'
+updated: 'October 21st, 2016'
 ---
 
 The U.S. Fish and Wildlife Service is announcing the availability of the draft economic analysis for the proposed critical habitat designation for the Florida leafwing and Bartram’s scrub-hairstreak butterflies.  The Service also is re-opening the comment period for the proposed listing and associated proposed critical habitat designation for 30 days through June 9, 2014.  The public is invited to [submit comments](http://www.fws.gov/southeast/news/2014/Comment_Instructions_2_Fl_Butterflies.pdf) on both proposals, as well as the draft analysis.
@@ -31,15 +37,13 @@ Landowners interested in helping the Service recover the two butterflies, or see
 
 For more information on both butterflies visit: [http://www.fws.gov/southeast/news/](http://www.fws.gov/southeast/news/2013/027.html)[2013/027.html](http://www.fws.gov/southeast/news/2013/027.html); or for Florida leafwing visit: [h](ecos.fws.gov/speciesProfile/profile/speciesProfile.action?spcode=I087)[ttp://ecos.fws.gov/speciesProfile/profile/](http://ecos.fws.gov/speciesProfile/profile/speciesProfile.action?spcode=I087)[speciesProfile.action?spcode=I087](http://ecos.fws.gov/speciesProfile/profile/speciesProfile.action?spcode=I087) and for Bartram’s scrub-hairstreak visit: [http://ecos.fws.gov/](http://ecos.fws.gov/speciesProfile/profile/speciesProfile.action?spcode=I07G)[speciesProfile/profile/speciesProfile.action?spcode=I07G](http://ecos.fws.gov/speciesProfile/profile/speciesProfile.action?spcode=I07G).
 
-**Additional Resources:**
+## Additional Resources
 
-*   [Photo of a Bartram's hairstreak by Holly Salvato](http://www.fws.gov/southeast/images/Bartram'sScrubHairstreak(Holly%20Salvato)-.jpg)
-*   [How to Submit Comments on the Proposed Rule](http://www.fws.gov/southeast/news/2014/Comment_Instructions_2_Fl_Butterflies.pdf)
-*   [Questions and Answers for the Proposed Listing and Critical Habitat Designation and Draft Economic Analysis for the Florida Leafwing and Bartram’s Scrub-hairstreak Butterflies](http://www.fws.gov/southeast/news/2014/QandA_2_Fl_butterflies.pdf)
+- [Photo of a Bartram's hairstreak by Holly Salvato](http://www.fws.gov/southeast/images/Bartram'sScrubHairstreak(Holly%20Salvato)-.jpg)
+- [How to Submit Comments on the Proposed Rule](http://www.fws.gov/southeast/news/2014/Comment_Instructions_2_Fl_Butterflies.pdf)
+- [Questions and Answers for the Proposed Listing and Critical Habitat Designation and Draft Economic Analysis for the Florida Leafwing and Bartram’s Scrub-hairstreak Butterflies](http://www.fws.gov/southeast/news/2014/QandA_2_Fl_butterflies.pdf)
 
-[Questions and Answers for the Proposed Listing and Critical Habitat Designation and Draft Economic Analysis for the Florida Leafwing and Bartram’s Scrub-hairstreak Butterflies](http://www.fws.gov/southeast/news/2014/QandA_2_FL_Butterflies.pdf)
-
-**Contact(s):**  
+## Contacts
 
 Ken Warren, USFWS  
 772-469-4323  
@@ -48,10 +52,3 @@ Ken Warren, USFWS
 Tom MacKenzie, USFWS  
 404-679-7291  
 [tom_mackenzie@fws.gov](mailto:tom_mackenzie@fws.gov)
-
-* * *
-
-![A butterfly with gray on the bottom of its wings and bright orange and red on the top](images/newsUploads/newsThumbs/newsImageThumbD77E216D-90D3-86B9-6A9ECCDEC77D3266.jpg)
-
-A Florida leafwing. Credit: Holly Salvato  
-[Higher Quality Version of Image](http://www.fws.gov/southeast/images/FloridaLeafwing(Holly-Salvato)-.jpg)

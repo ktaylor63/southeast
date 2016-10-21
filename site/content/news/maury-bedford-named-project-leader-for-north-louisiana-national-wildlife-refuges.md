@@ -1,8 +1,14 @@
 ---
-title: Maury Bedford Named Project Leader for North Louisiana National Wildlife Refuges
-date: 2015-10-08
+title: 'Maury Bedford Named Project Leader for North Louisiana National Wildlife Refuges'
+date: '2015-10-08'
+hero:
+    name: maury-bedford.jpg
+    alt: 'New project leader Maury Bedford poses for a photo in front of a stand of pine trees.'
+    caption: 'Project leader Maury Bedford. Photo by USFWS.'
+    position: 'top center'
 tags:
- - NWRS
+    - NWRS
+updated: 'October 20th, 2016'
 ---
 
 The U.S. Fish and Wildlife Service has appointed Louisiana native Maury Bedford as the new leader for the five National Wildlife Refuges in North Louisiana.
@@ -29,18 +35,10 @@ Maury and his wife Melissa, who relocated to North Louisiana in September, enjoy
 
 A hundred years in the making, the National Wildlife Refuge system is a network of habitats that benefits wildlife, provides unparalleled outdoor experiences for all Americans, and protects a healthy environment.  Today, there are more than 560 national wildlife refuges and 38 wetland management districts, including one within an hour's drive of most major metropolitan areas.  The refuges provide habitat for more than 700 species of birds, 220 species of mammals, 250 reptile and amphibian species and more than 1,000 species of fish.  More than 380 threatened or endangered plants or animals are protected on wildlife refuges. Each year, millions of migrating birds use refuges as stepping stones while they fly thousands of miles between their summer and winter homes.
 
-
-**Contact(s):**  
+## Contacts
 
 Tom MacKenzie, 404-679-7291  
 tom_mackenzie@fws.gov
 
 Maury Bedford, 318-726-4222  
 maury_bedford@fws.gov 
-
-* * *
-
-![New project leader Maury Bedford poses for a photo in front of a stand of pine trees.](images/newsUploads/newsThumbs/newsImageThumb4793919B-0DB2-6DA7-3E8ACB4E7FA371EB.jpg)
-
-Maury Bedford Credit: USFWS  
-[Higher Quality Version of Image](http://fws.gov/southeast/news/images/maury-bedford-lg.jpg)

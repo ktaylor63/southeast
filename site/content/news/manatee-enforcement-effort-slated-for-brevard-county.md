@@ -1,18 +1,23 @@
 ---
-title: Manatee Enforcement Effort slated for Brevard County
-date: 2015-05-20
+title: 'Manatee Enforcement Effort slated for Brevard County'
+date: '2015-05-20'
+hero:
+    name: manatee-silhouettes.jpg
+    alt: 'Several manatee silhouettes from below with sun beams.'
+    link: 'https://flic.kr/p/bsT669'
+    caption: 'Manatees at Crystal River National Wildlife Refuge, FL. Photo by David Hinkel, USFWS.'
 tags:
- - Manatee
- - Law Enforcement
+    - Manatee
+    - 'Law Enforcement'
+updated: 'October 20th, 2016'
 ---
 
 The U.S. Fish and Wildlife Service (FWS) and the Florida Fish & Wildlife Conservation Commission (FWC) will initiate a joint enforcement effort over the weekend of May 22<sup>nd</sup> to enforce the federal and state Manatee zones in Brevard County.  The joint enforcement effort will run from Friday, May 22<sup>nd</sup> through Monday, May 25th.
 
 Along with USFWS and FWC agents and officers, numerous federal, state and local marine enforcement units from the area will be participating in the enforcement detail to enforce not only the manatee protection zones but other legal requirements on the water, as well.
 
-The federal manatee protection zones and regulations may be found online at: [http://www.fws.gov/northflorida/Manatee/Documents/MPARules/index-federal-mpa-maps.htm](http://www.fws.gov/northflorida/Manatee/Documents/MPARules/index-federal-mpa-maps.htm). 
-
-Those areas designated as protected pursuant to the Florida Manatee Sanctuary Act may be at: [http://myfwc.com/wildlifehabitats/managed/manatee/data-and-maps/](http://myfwc.com/wildlifehabitats/managed/manatee/data-and-maps/)
+The federal manatee protection zones and regulations may be found online at: [fws.gov/northflorida/Manatee/Documents/MPARules/index-federal-mpa-maps.htm](http://www.fws.gov/northflorida/Manatee/Documents/MPARules/index-federal-mpa-maps.htm). 
+Those areas designated as protected pursuant to the Florida Manatee Sanctuary Act may be at: [myfwc.com/wildlifehabitats/managed/manatee/data-and-maps/](http://myfwc.com/wildlifehabitats/managed/manatee/data-and-maps/)
 
 In those areas where the federal and state zones are not identical, the more restrictive zone takes precedence. The web page maps provide a general overview of the areas that have manatee speed zones but are not a substitute for on-the-water markings. When in doubt, follow the rules as posted on the signs and delineated by the buoys throughout the designated areas in Brevard County to mark the regulated zones. 
 
@@ -28,9 +33,10 @@ Law enforcement participants in this joint effort will be doing strict enforceme
 
 The table below shows the State data on manatee mortalities related to watercraft in Brevard County; in addition it shows the overall mortality rate in Brevard County.
 
-**Florida manatee Mortalities**
+## Florida Manatee Mortalities
 
-**Brevard**
+### Brevard County
+
  - 2013 Watercraft: 9
  - 2013 Overall: 244
  - 2014 Watercraft: 3
@@ -46,7 +52,7 @@ Enforcement questions regarding the various zones may be directed to the U.S. Fi
 
 The U.S. Fish and Wildlife Service is the principal federal agency responsible for conserving, protecting and enhancing fish, wildlife, plants, and their habitats for the continuing benefit of the American people. Visit the Service’s Web site at [http://www.fws.gov](http://www.fws.gov/).
 
-**Contact(s):**  
+## Contacts
 
 Brevard County Florida Fish & Wildlife Conservation Commission
 Lt. Robert Jefferson, (321) 403-5866
@@ -56,10 +62,3 @@ Karen Parker, (386) 758-0525
 
 U.S. Fish & Wildlife Service  
 Chuck Underwood, (904) 731-3332
-
-* * *
-
-![Several manatee silhouettes from below with sun beams.](images/newsUploads/newsThumbs/newsImageThumb76962D46-F45F-A792-7961BBFEAB7DB05E.jpg)
-
-Manatees at Crystal River National Wildlife Refuge, FL Credit: David Hinkel, USFWS  
-[Higher Quality Version of Image](https://flic.kr/p/bsT669)

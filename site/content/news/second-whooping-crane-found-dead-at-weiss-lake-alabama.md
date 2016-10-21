@@ -1,10 +1,16 @@
 ---
-title: Second Whooping Crane Found Dead at Weiss Lake, Alabama
-date: 2011-02-18
+title: 'Second Whooping Crane Found Dead at Weiss Lake, Alabama'
+date: '2011-02-18'
+hero:
+    name: whooping-cranes-forage-at-wheeler-nwr.jpg
+    alt: 'Four young whooping cranes look for food on a muddy bank.'
+    link: 'https://flic.kr/p/bryw34'
+    caption: 'Juvenile Whooping Cranes Forage on Wheeler NWR. Photo by Bill Gates, USFWS.'
 tags:
- - Whooping crane
- - Law Enforcement
- - Alabama
+    - 'Whooping crane'
+    - 'Law Enforcement'
+    - Alabama
+updated: 'October 20th, 2016'
 ---
 
 Federal investigators have discovered the remains of a second whooping crane at Weiss Lake on the Alabama-Georgia border.  
@@ -39,9 +45,9 @@ The cranes are part of the Whooping Crane Eastern Partnership effort to reintrod
 
 In addition to the Endangered Species Act, whooping cranes are protected by state laws and the federal Migratory Bird Treaty Act.
 
-For more information about the reintroduction effort, visit [http://www.bringbackthecranes.org.](http://www.bringbackthecranes.org/)
+For more information about the reintroduction effort, visit [bringbackthecranes.org.](http://www.bringbackthecranes.org/)
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

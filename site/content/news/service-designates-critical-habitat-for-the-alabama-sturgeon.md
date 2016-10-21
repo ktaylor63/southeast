@@ -1,10 +1,16 @@
 ---
-title: Service Designates Critical Habitat for the Alabama Sturgeon
-date: 2009-06-02
+title: 'Service Designates Critical Habitat for the Alabama Sturgeon'
+date: '2009-06-02'
+hero:
+    name: cahaba-river-lillies.jpg
+    alt: 'Bright white flowers with a river in the background.'
+    link: 'https://flic.kr/p/9EAgB1'
+    caption: 'Lilies at Cahaba River National Wildlife Refuge. Photo by Garry Tucker, USFWS.'
 tags:
- - Critical Habitat
- - Alabama sturgeon
- - Alabama
+    - 'Critical Habitat'
+    - 'Alabama sturgeon'
+    - Alabama
+updated: 'October 21st, 2016'
 ---
 
 The U.S. Fish and Wildlife Service today announced a final rule designating critical habitat for the Alabama sturgeon, a species listed as endangered under the Endangered Species Act.
@@ -27,7 +33,7 @@ When determining areas to designate as critical habitat, the Service considers p
 
 The mission of the U.S. Fish and Wildlife Service is working with others to conserve, protect and enhance fish, wildlife, plants and their habitats for the continuing benefit of the American people. For more information on our work and the people who make it happen, visit [http://www.fws.gov/southeast/](http://www.fws.gov/southeast/) or [http://www.fws.gov/">](http://www.fws.gov/)
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

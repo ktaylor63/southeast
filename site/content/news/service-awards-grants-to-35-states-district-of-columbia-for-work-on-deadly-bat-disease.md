@@ -1,6 +1,11 @@
 ---
 title: Service Awards Grants to 35 States, District of Columbia for Work on Deadly Bat Disease
-date: 2015-07-01
+date: '2015-07-01'
+hero:
+  name: white-nose-syndrome-tri-color.jpg
+  alt: A small brown bat on the roof of a cave with a fuzzy white fungus on its nose.
+  link: https://flic.kr/p/9gLJmB
+  caption: A tri-color bat in the Avery County with white-nose syndrome. Photo by Gabrielle Graeter, NCWRC.
 tags:
  - White-nose syndrome
  - Grants
@@ -16,9 +21,9 @@ First discovered in New York in the winter of 2006-2007, WNS spread through the 
 
 Funding for grants was provided through the Endangered Species Recovery and Science Applications programs. Thirty-five states and the District of Columbia submitted proposals requesting $1,589,789\. All requests were given partial awards, ranging from about $13,000 to $39,000, for a total of $998,767. 
 
-Additional information about WNS is available at [www.whitenosesyndrome.org/](http://www.whitenosesyndrome.org/). Connect with our white-nose syndrome Facebook page at [www.facebook.com/usfwswns](http://www.facebook.com/usfwswns), follow our tweets at [www.twitter.com/usfws_wns](http://www.twitter.com/usfws_wns) and download photos from our Flickr page at [www.flickr.com/photos/usfwshq/collections/72157626455036388/](http://www.flickr.com/photos/usfwshq/collections/72157626455036388/).
+Additional information about WNS is available at [www.whitenosesyndrome.org/](http://www.whitenosesyndrome.org/). Connect with our white-nose syndrome Facebook page at [www.facebook.com/usfwswns](http://www.facebook.com/usfwswns), follow our tweets at [www.twitter.com/usfws_wns](http://www.twitter.com/usfws_wns) and download photos from [our Flickr page](http://www.flickr.com/photos/usfwshq/collections/72157626455036388/).
 
-Grant ammount rounded to the nearest dollar:
+## Grants Awarded
 
  - Alabama: $24,375.00
  - Arkansas: $35,100.00
@@ -58,7 +63,7 @@ Grant ammount rounded to the nearest dollar:
  - Wisconsin: $39,000.00
  - Total: $998,767.00
 
-**Contact(s):**  
+## Contacts
 
 Catherine Hibbard, 413-253-8569
 

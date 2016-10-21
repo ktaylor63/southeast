@@ -1,9 +1,16 @@
 ---
-title: The Puerto Rican Harlequin Butterfly May Warrant Protection Under the Endangered Species Act
-date: 2010-04-29
+title: 'The Puerto Rican Harlequin Butterfly May Warrant Protection Under the Endangered Species Act'
+date: '2010-04-29'
+hero:
+    name: puerto-rican-harlequin-butterfly.jpg
+    alt: 'A bright orange butterfly perched on a yellow flower.'
+    link: 'https://flic.kr/p/9LBLnZ'
+    caption: 'Puerto Rican harlequin butterfly on a flower of sea grapes. Photo by USFWS.'
+    position: 'top right'
 tags:
- - Puerto Rican harlequin butterfly
- - Puerto Rico
+    - 'Puerto Rican harlequin butterfly'
+    - 'Puerto Rico'
+updated: 'October 20th, 2016'
 ---
 
 The Puerto Rican harlequin butterfly may warrant federal protection as a threatened or endangered species, so the U.S. Fish and Wildlife Service will initiate an in-depth, range-wide, scientific review of the species’ current status, known as a 12-month finding.
@@ -22,15 +29,10 @@ If listing the Puerto Rican harlequin butterfly is warranted, the Service may co
 
 Comments on the 90-day finding must be received by June 25, 2010, and can be submitted by one of the following methods:
 
-[&linkname=Regulations.gov">http://www.regulations.gov](http://www.regulations.gov)
+- [regulations.gov](http://www.regulations.gov)
+- U.S. Mail or hand-delivered to Public Comments Processing, Attn: FWS-R4-ES-2010-0026 Division of Policy and Directives Management; U.S. Fish and Wildlife Service, 4401 N. Fairfax Drive, Suite 222; Arlington, VA 22203.
 
-*   U.S. Mail or hand-delivered to Public Comments Processing, Attn: FWS-R4-ES-2010-0026 Division of Policy and Directives Management; U.S. Fish and Wildlife Service, 4401 N. Fairfax Drive, Suite 222; Arlington, VA 22203.
-
-Para ver un video y conseguir más información sobre la mariposa arlequín de Puerto Rico, visita: [http://www.fws.gov/southeast/http://www.fws.gov/southwest/video/](http://www.fws.gov/southeast/http://www.fws.gov/southwest/video/).
-
-La misión del Servicio Federal de Pesca y Vida Silvestre es trabajar con otros para conservar, proteger y mejorar los peces, la vida Silvestre, las plantas y su hábitat para el continuo beneficio de los ciudadanos. Somos líderes y aliados de la conservación, conocidos por nuestra excelencia científica, custodios de la tierra y los recursos naturales, profesionales dedicados y comprometidos con el servicio público. Para más información sobre el trabajo que hacemos y la gente que integra nuestro equipo, visite [/www.fws.gov](http://www.fws.gov).
-
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

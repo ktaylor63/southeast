@@ -1,6 +1,11 @@
 ---
 title: Service Announces the Availability of a Draft Economic Analysis for Proposed Designation of Critical Habitat for the Georgia Pigtoe Mussel, Interrupted Rocksnail, and Roughhorn
-date: 2010-02-10
+date: '2010-02-10'
+hero:
+    name: interrupted-rocksnail.jpg
+    alt: 'Snail with a large orange and black shell.'
+    link: 'https://flic.kr/p/pFiF8L'
+    caption: 'Interrupted rocksnail'
 tags:
  - Critical Habitat
  - Georgia Pigtoe
@@ -28,15 +33,14 @@ Public comments on the draft economic analysis or the proposed rule will be acce
 
 Written comments on the proposal should be submitted by one of the following methods:
 
-[&linkname=Regulations.gov">http://www.regulations.gov](http://www.regulations.gov)
-
-*   U.S. mail or hand-delivery: Public Comments Processing, Attn: FWS-R4-ES-2008-0104, Division of Policy and Directives Management; U.S. Fish and Wildlife Service; 4401 N. Fairfax Drive, Suite 222; Arlington, VA 22203.
+- [regulations.gov](https://www.regulations.gov)
+- U.S. mail or hand-delivery: Public Comments Processing, Attn: FWS-R4-ES-2008-0104, Division of Policy and Directives Management; U.S. Fish and Wildlife Service; 4401 N. Fairfax Drive, Suite 222; Arlington, VA 22203.
 
 A final decision on whether or not to list these three species and designate critical habitat will consider all comments and information received by the comment-period deadline.
 
-The U.S. Fish and Wildlife Service is the principal federal agency responsible for conserving, protecting and enhancing fish, wildlife and plants and their habitats for the continuing benefit of the American people. Visit the Service’s website at [http://www.fws.gov](http://www.fws.gov/) or [http://www.fws.gov/southeast](http://www.fws.gov/southeast).
+The U.S. Fish and Wildlife Service is the principal federal agency responsible for conserving, protecting and enhancing fish, wildlife and plants and their habitats for the continuing benefit of the American people. Visit the Service’s website at [fws.gov](https://www.fws.gov/) or [fws.gov/southeast](/wildlife/).
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

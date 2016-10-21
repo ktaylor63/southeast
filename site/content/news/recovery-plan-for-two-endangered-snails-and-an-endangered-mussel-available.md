@@ -1,15 +1,21 @@
 ---
-title: Recovery Plan for Two Endangered Snails and an Endangered Mussel Available
-subtitle: The U.S. Fish and Wildlife Service is announcing the availability of the final recovery plan for the Georgia pigtoe mussel, interrupted rocksnail, and rough hornsnail, all federally listed as endangered
-date: 2014-11-06
+title: 'Recovery Plan for Two Endangered Snails and an Endangered Mussel Available'
+subtitle: 'The U.S. Fish and Wildlife Service is announcing the availability of the final recovery plan for the Georgia pigtoe mussel, interrupted rocksnail, and rough hornsnail, all federally listed as endangered'
+date: '2014-11-06'
+hero:
+    name: interrupted-rocksnail.jpg
+    alt: 'Snail with a large orange and black shell.'
+    link: 'https://flic.kr/p/pFiF8L'
+    caption: 'Interrupted rocksnail. Photo by Tom Tarpley, Alabama Department of Conservation and Natural Resources.'
 tags:
- - Interrupted rocksnail
- - Rough hornsail
- - Georgia pigtoe
- - Alabama
- - Georgia
- - Tennessee
- - Recovery
+    - 'Interrupted rocksnail'
+    - 'Rough hornsail'
+    - 'Georgia pigtoe'
+    - Alabama
+    - Georgia
+    - Tennessee
+    - Recovery
+updated: 'October 20th, 2016'
 ---
 
 The interrupted rocksnail, rough hornsnail, and Georgia pigtoe mussel have disappeared from 90 percent or more of their historical ranges, primarily due to impoundment, or damming of riverine habitats.  All three species are endemic to the Coosa River drainage of the Mobile River Basin in Alabama and Georgia.  The Georgia pigtoe also occurs in a Coosa River tributary in Tennessee.
@@ -30,9 +36,7 @@ Over the last 75 years, the Coosa River Drainage has been converted from a free 
 
 Several organizations are working with the Service to help recover these three mollusks. Some examples of recovery activities discussed in the recovery plan include efforts by the Alabama Department of Conservation and Natural Resources (ADCNR), the Nature Conservancy, the Service and other partners to collect brood stock from several populations, initiate propagation and reintroduction protocols, and subsequent monitoring.  It also discusses the creation of ADCNR’s - Alabama Aquatic Biodiversity Center (AABC) and its efforts to elevate recovery of these mollusks. AABC-led reintroductions and augmentations have been a tremendous asset by successfully reintroducing several imperiled aquatic species over the last two years.
 
-The mission of the U.S. Fish and Wildlife Service is working with others to conserve, protect, and enhance fish, wildlife, plants, and their habitats for the continuing benefit of the American people. For more information on our work and the people who make it happen, visit [www.fws.gov](http://www.fws.gov/). Connect with our Facebook page at[www.facebook.com/usfwssoutheast](http://www.facebook.com/usfwssoutheast), follow our tweets at [www.twitter.com/usfwssoutheast](http://www.twitter.com/usfwssoutheast), watch our YouTube Channel at [http://www.youtube.com/usfws](http://www.youtube.com/usfws) and download photos from our Flickr page at [http://www.flickr.com/photos/usfwssoutheast](http://www.flickr.com/photos/usfwssoutheast).
-
-**Contact(s):**  
+## Contacts
 
 Denise Rowell, USFWS    
 251-441-6630   
@@ -45,11 +49,3 @@ Tom MacKenzie
 Jeff Powell, USFWS   
 251-441-5858   
 [Jeff_Powell@fws.gov](mailto:Jeff_Powell@fws.gov)
-
-* * *
-
-![Snail with a large shell.](images/newsUploads/newsThumbs/newsImageThumb868A844D-970A-21EF-9C0BD7F52DAB3113.jpg)
-
-Interrupted rocksnail. Credit: Tom Tarpley, Alabama Department of Conservation and Natural Resources.  
-
-[Higher Quality Version of Image](https://www.flickr.com/photos/usfwssoutheast/15540997558/)

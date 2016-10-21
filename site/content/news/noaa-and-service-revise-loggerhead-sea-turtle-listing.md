@@ -1,9 +1,16 @@
 ---
-title: NOAA, U.S. Fish and Wildlife Service Revise Loggerhead Sea Turtle Listing
-subtitle: Changes will help Guide Conservation Efforts
-date: 2011-09-16
+title: 'NOAA, U.S. Fish and Wildlife Service Revise Loggerhead Sea Turtle Listing'
+subtitle: 'Changes will help Guide Conservation Efforts'
+date: '2011-09-16'
+hero:
+    name: loggerhead-heads-toward-ocean.jpg
+    alt: 'A tiny sea turtle marches towards the ocean on a wet beach.'
+    link: 'https://flic.kr/p/xQKcvj'
+    caption: 'Baby loggerhead sea turtle. Photo by Orsulak, USFWS.'
+    position: 'bottom left'
 tags:
- - Loggerhead sea turtle
+    - 'Loggerhead sea turtle'
+updated: 'October 20th, 2016'
 ---
 
 NOAA and the U. S. Fish and Wildlife Service issued a final rule today changing the listing of loggerhead sea turtles under the Endangered Species Act from a single threatened species to nine distinct population segments listed as either threatened or endangered.  
@@ -44,7 +51,7 @@ NOAA’s mission is to understand and predict changes in the Earth's environment
 
 On the web: Final loggerhead DPS listings: [http://www.nmfs.noaa.gov/pr/species/turtles/loggerhead.htm](http://www.nmfs.noaa.gov/pr/species/turtles/loggerhead.htm)
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

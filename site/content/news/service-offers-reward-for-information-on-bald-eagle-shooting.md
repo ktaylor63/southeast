@@ -1,6 +1,11 @@
 ---
 title: Service Offers Reward for Information on Bald Eagle Shooting
-date: 2010-04-16
+date: '2010-04-16'
+hero:
+    name: bald-eagle.jpg
+    alt: 'An adult bald eagle soars in front of a bright blue sky'
+    caption: 'A bald eagle in flight at Seedskadee National Wildlife Refuge. Photo by Tom Koerner, USFWS.'
+    link: 'https://flic.kr/p/CBbDh7'
 tags:
  - Bald eagle
  - Law Enforcement
@@ -16,7 +21,7 @@ Any information on this incident should be provided to U.S. Fish and Wildlife Se
 
 The mission of the U.S. Fish and Wildlife Service is working with others to conserve, protect and enhance fish, wildlife, plants and their habitats for the continuing benefit of the American people. Please visit the Service’s websites at [http://www.fws.gov/"](http://www.fws.gov/) or [http://www.fws.gov/southeast/](http://www.fws.gov/southeast/).
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

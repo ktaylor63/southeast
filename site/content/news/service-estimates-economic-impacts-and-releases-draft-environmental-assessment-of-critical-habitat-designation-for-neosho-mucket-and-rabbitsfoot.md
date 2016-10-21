@@ -1,10 +1,15 @@
 ---
-title: Service Estimates Economic Impacts and Releases Draft Environmental Assessment of Critical Habitat Designation for Neosho Mucket and Rabbitsfoot
-date: 2013-05-08
+title: 'Service Estimates Economic Impacts and Releases Draft Environmental Assessment of Critical Habitat Designation for Neosho Mucket and Rabbitsfoot'
+hero:
+    name: rabbitsfoot.jpg
+    alt: 'A mussel with brownish outer shell and a glossy white inner shell that resembles a baked potato.'
+    caption: 'Threatened rabbitsfoot mussel. Photo by Bob Butler, USFWS.'
+date: '2013-05-08'
 tags:
- - Critical Habitat
- - Neosho mucket
- - Rabbitsfoot
+    - 'Critical Habitat'
+    - 'Neosho mucket'
+    - Rabbitsfoot
+updated: 'October 21st, 2016'
 ---
 
 The U.S. Fish and Wildlife Service is releasing the estimated cost and economic impacts and draft environmental assessment of the proposed critical habitat designation of two freshwater mussels, and is seeking public comment.
@@ -27,7 +32,7 @@ The Service is re-opening the public comment period for 30 days.  The public ma
 
 All comments must be received by June 10, 2013, and must include a first and last name, city, state, country and zip code.  Any comments and materials we receive, as well as supporting documentation used in preparing this proposed rule, will be available for public inspection on [http://www.regulations.gov](http://www.regulations.gov/), or by appointment during normal business hours, at the U.S. Fish and Wildlife Service Ecological Services, 110 South Amity Road, Suite 300, Conway, AR, 72032; by telephone 501-513-4475.
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

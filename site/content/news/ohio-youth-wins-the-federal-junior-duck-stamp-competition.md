@@ -1,9 +1,14 @@
 ---
-title: Ohio Youth Wins the Federal Junior Duck Stamp Competition
-date: 2012-04-20
+title: 'Ohio Youth Wins the Federal Junior Duck Stamp Competition'
+date: '2012-04-20'
+hero:
+    name: junior-duck-stamp-winner-2012.jpg
+    alt: 'A grey bird with a brown head flying across a bright blue sky.'
+    caption: 'A northern pintail by Christine Clayton of Ohio will be displayed on the 2012 Federal Junior Duck Stamp.'
 tags:
- - Ohio
- - Junior Duck Stamp
+    - Ohio
+    - 'Junior Duck Stamp'
+updated: 'October 20th, 2016'
 ---
 
 The U.S. Fish and Wildlife Service announced today a northern pintail was selected to appear on the 2012-2013 Federal Junior Duck Stamp. The design for the new stamp, painted by Christine Clayton, was chosen by a panel of judges at the national Junior Duck Stamp Art Contest, held at the Patuxent Research Refuge in Laurel, Md.
@@ -22,7 +27,7 @@ The First Day of Sale Ceremony for the 2012-2013 Federal and Junior Duck Stamps 
 
 For a complete list of contest results, go to the Junior Duck Stamp Program's home page at www.fws.gov/juniorduck.  A gallery of all state Best of Show entries can be found at [www.flickr.com/usfwshq ](http://www.flickr.com/usfwshq)/.
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

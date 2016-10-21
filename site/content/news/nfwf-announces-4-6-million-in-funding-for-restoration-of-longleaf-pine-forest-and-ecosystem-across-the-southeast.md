@@ -1,14 +1,20 @@
 ---
-title: NFWF Announces $4.6 Million in Funding for Restoration of Longleaf Pine Forest and Ecosystem Across the Southeast
-subtitle: Longleaf Stewardship Fund Will Support 22 Projects across Nine States
-date: 2015-06-30
+title: 'NFWF Announces $4.6 Million in Funding for Restoration of Longleaf Pine Forest and Ecosystem Across the Southeast'
+subtitle: 'Longleaf Stewardship Fund Will Support 22 Projects across Nine States'
+date: '2015-06-30'
+hero:
+    name: longleaf-pine-seedling.jpg
+    alt: 'A Longleaf pine seedling.'
+    link: 'https://flic.kr/p/rHP5jR'
+    caption: 'Longleaf pine seedling. Photo by USDA.'
 tags:
- - Grants
- - Partnership
- - Longleaf Pine
+    - Grants
+    - Partnership
+    - 'Longleaf Pine'
+updated: 'October 20th, 2016'
 ---
 
-Washington, D.C. — The National Fish and Wildlife Foundation (NFWF) today announced $4.6 million in grants to support the longleaf ecosystem and advance the objectives of the Range-Wide Conservation Plan for Longleaf Pine. Funding was awarded to [22 projects](http://www.nfwf.org/longleaf/Documents/lsf_2015_project-list.pdf) across the historic longleaf range that ultimately will restore more than 11,600 acres and enhance more than 163,000 additional acres of longleaf pine habitat, while leveraging over $6.4 million in additional funds from grant partners.
+**WASHINGTON, D.C.** — The National Fish and Wildlife Foundation (NFWF) today announced $4.6 million in grants to support the longleaf ecosystem and advance the objectives of the Range-Wide Conservation Plan for Longleaf Pine. Funding was awarded to [22 projects](http://www.nfwf.org/longleaf/Documents/lsf_2015_project-list.pdf) across the historic longleaf range that ultimately will restore more than 11,600 acres and enhance more than 163,000 additional acres of longleaf pine habitat, while leveraging over $6.4 million in additional funds from grant partners.
 
 The grants are administered by NFWF’s [Longleaf Stewardship Fund](http://www.nfwf.org/longleaf), a landmark public-private partnership that includes the U.S. Department of Agriculture’s (USDA) Forest Service and Natural Resources Conservation Service, the U.S. Department of Defense (DoD), the U.S. Fish and Wildlife Service (FWS), and private funding from Southern Company, International Paper’s Forestland Stewards Initiative and Altria Group. The fund, now in its fourth year, combines the financial and technical resources of the partnership to accelerate restoration of the longleaf pine ecosystem and implementation of the Range-Wide Conservation Plan for Longleaf Pine as part of America’s Longleaf Restoration Initiative.
 
@@ -32,14 +38,7 @@ The 22 projects selected to receive support include 11 Significant Geographic Ar
 
 Since 2012, the Longleaf Stewardship Fund has invested more than $14.1 million in projects that will restore more than 47,400 acres, improve more than 552,000 additional acres of longleaf pine forest, and benefit the native species that rely on those forests. The grants awarded by the Longleaf Stewardship Fund in 2015 continue to build on the success of this public-private partnership, further expanding the restoration of the longleaf pine ecosystem through collaborative and results-oriented actions.
 
-**Contact(s):**  
+## Contact
 
 Tom MacKenzie, 404-679-7291  
 tom_mackenzie@fws.gov
-
-* * *
-
-![A Longleaf pine seedling](images/newsUploads/newsThumbs/newsImageThumb4A36A307-92B9-FCE0-15FDF5EEA3CA30DA.jpg)
-
-Longleaf pine seedling. Credit: USDA  
-[Higher Quality Version of Image](https://flic.kr/p/rHP5jR)

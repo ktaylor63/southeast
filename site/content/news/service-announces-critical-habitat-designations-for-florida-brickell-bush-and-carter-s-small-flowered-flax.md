@@ -1,13 +1,19 @@
 ---
-title: Service Announces Critical Habitat Designations for Florida Brickell-Bush and Carter’s Small-Flowered Flax
-date: 2015-08-14
+title: 'Service Announces Critical Habitat Designations for Florida Brickell-Bush and Carter’s Small-Flowered Flax'
+date: '2015-08-14'
+hero:
+    name: pine-rockland-habitat.jpg
+    alt: 'Very sandy soil with sparse grassy vegetation and short palms.'
+    link: 'https://flic.kr/p/Ce3mzn'
+    caption: 'Pine rockland habitat in Florida. Photo by Jonathon Mays, FWC.'
 tags:
- - Critical Habitat
- - Florida brickell-bush
- - Carter's small-flowered flax
+    - 'Critical Habitat'
+    - 'Florida brickell-bush'
+    - 'Carter''s small-flowered flax'
+updated: 'October 20th, 2016'
 ---
 
-VERO BEACH, FL – The U.S. Fish and Wildlife Service is announcing critical habitat designations for two plants found only in South Florida: the Florida brickell-bush and Carter’s small-flowered flax.  Both were listed as endangered under the Endangered Species Act on October 4, 2014.   The critical habitat for both plants is located in Miami-Dade County, Florida.
+**VERO BEACH, FL** – The U.S. Fish and Wildlife Service is announcing critical habitat designations for two plants found only in South Florida: the Florida brickell-bush and Carter’s small-flowered flax.  Both were listed as endangered under the Endangered Species Act on October 4, 2014.   The critical habitat for both plants is located in Miami-Dade County, Florida.
 
 Both plants only are found on the Miami Rock Ridge in South Florida.  The critical habitat designations for these two plants largely overlap, for a combined total of about 2,706 acres.  The plants’ critical habitat designations include land in pine rockland habitat on the Miami Rock Ridge, outside of Everglades National Park, in Miami-Dade County, Florida.  Areas within the designations include occupied and unoccupied, but suitable, habitat within the plants’ historical ranges.
 
@@ -27,11 +33,11 @@ Under the ESA, critical habitat identifies geographic areas important to the spe
 
 Federal agencies must make a special effort at conservation when they work in an area designated as critical habitat for a listed species.  The economic analysis estimates the cost of consultations with the Service when a federal agency works in an area designated as critical habitat, or funds or permits work done by others.  Federal, state and local government agencies and some projects may incur costs for work involving federal funding or a federal permit.  The estimate does not include any costs incurred as a result of the listing of these plants because the ESA states that listing a species is to be based solely on the best available scientific information.
 
-_The mission of the U.S. Fish and Wildlife Service is working with others to conserve, protect, and enhance fish, wildlife, plants, and their habitats for the continuing benefit of the American people. For more information on our work and the people who make it happen, visit www.fws.gov. Connect with our Facebook page at [www.facebook.com/usfwssoutheast](http://www.facebook.com/usfwssoutheast), follow our tweets at [www.twitter.com/usfwssoutheast](http://www.twitter.com/usfwssoutheast), watch our YouTube Channel at [http://www.youtube.com/usfws](http://www.youtube.com/usfws) and download photos from our Flickr page at [http://www.flickr.com/photos/usfwssoutheast](http://www.flickr.com/photos/usfwssoutheast)._  
+## Questions and Answers
 
-[For more information visit the Questions and Answers](http://fws.gov/southeast/news/pdf/two-florida-plants-questions-and-answers-08142015.pdf)
+[Download the two Florida plants visit the Questions and Answers](/pdf/questions-and-answers/two-florida-plants-critical-habitat.pdf)
 
-**Contact(s):**  
+## Contacts
 
 Ken Warren, USFWS  
 772-469-4323  
@@ -40,9 +46,3 @@ Ken Warren, USFWS
 Tom MacKenzie, USFWS  
 404-679-7291  
 [Tom_MacKenzie@fws.gov](mailto:Tom_MacKenzie@fws.gov)
-
-* * *
-
-![Plant with small yellow petals. ](images/newsUploads/newsThumbs/newsImageThumb2D51AECC-5056-AF00-5B23850BD937CDDA.jpg)
-
-Carter's small flowered flax. Credit: Photo, Keith Bradley.  

@@ -1,10 +1,16 @@
 ---
-title: Reward Offered for Information about Bald Eagle Death on Lake Norris
-date: 2009-04-10
+title: 'Reward Offered for Information about Bald Eagle Death on Lake Norris'
+date: '2009-04-10'
+hero:
+    name: bald-eagle-ready-for-flight.jpg
+    alt: 'A bald eagle perched with its wings spread.'
+    link: 'https://flic.kr/p/8kSVSY'
+    caption: 'A bald eagle prepares for flight. Photo by Richard Keen / RMA.'
 tags:
- - Bald eagle
- - Tennessee
- - Law Enforcement
+    - 'Bald eagle'
+    - Tennessee
+    - 'Law Enforcement'
+updated: 'October 20th, 2016'
 ---
 
 The U.S. Fish and Wildlife Service and the Tennessee Wildlife Resources Agency are investigating the death of a bald eagle. The eagle was discovered along the shore of Lake Norris near Point 16 at the end of February, its carcass mutilated and parts removed. A reward of up to $2,500.00 is being offered for information which leads to a conviction of the person or persons responsible for the death of this eagle.
@@ -15,7 +21,7 @@ Anyone with information concerning this eagle is asked to call Special Agent Rya
 
 The U.S. Fish and Wildlife Service is the principal federal agency responsible for conserving, protecting and enhancing fish, wildlife and plants and their habitats for the continuing benefit of American people.
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

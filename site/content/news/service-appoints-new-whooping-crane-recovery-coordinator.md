@@ -1,6 +1,11 @@
 ---
 title: Service Appoints New Whooping Crane Recovery Coordinator
-date: 2012-09-14
+date: '2012-09-14'
+hero:
+  name: whooping-cranes-at-aransas-nwr.jpg
+  alt: 'Three bright white birds with red patches on their face and long slender legs standing in the mud.'
+  link: 'https://flic.kr/p/8Nw3HP'
+  caption: 'Whooping cranes at Aransas NWR. Photo by Klaus Nigge, USFWS.'
 tags:
  - Recovery
 ---
@@ -13,7 +18,7 @@ Wade has served with the U.S. Fish & Wildlife Service as the Partners for Fish a
 
 Prior to coming to work for the Service, Wade was employed by The Nature Conservancy of Texas, serving as the Coastal Prairies Project Director for 6 years. During his time with TNC, Wade provided science support and direction for the Gulf Coast Prairies and Marshes ecoregion, led diverse stakeholder groups in the development of landscape scale conservation plans, initiated and directed the successful Attwater’s prairie chicken reintroduction program on private lands, assisted private landowners with grassland habitat management and managed land acquisition and conservation easement programs along the Texas Gulf Coast.
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

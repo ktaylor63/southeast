@@ -1,8 +1,14 @@
 ---
-title: Refuge Therapy
-date: 2013-12-20
+title: 'Refuge Therapy'
+date: '2013-12-20'
+hero:
+    name: refuge-therapy.jpg
+    alt: 'Children play with an aquarium.'
+    link: 'https://flic.kr/p/itkuiy'
+    caption: 'Public Use Specialist Amanda Wilkinson and children at the Carousel School set up a critter tank. Photo by USFWS.'
 tags:
- - NWRS
+    - NWRS
+updated: 'October 20th, 2016'
 ---
 
 “A child’s world is fresh and new and beautiful, full of wonder and excitement. It is our misfortune that for most of us that clear-eyed vision, that true instinct for what is beautiful and awe-inspiring, is dimmed and even lost before we reach adulthood.”    Rachel Carson, The Sense of Wonder.
@@ -23,17 +29,9 @@ Perhaps one of the most noticeable developments has been in a little girl named 
 
 It’s not just the children who have been impacted by the program. “As a mother myself, to two small children, I find it fascinating that their minds are like little sponges, soaking in everything around them, just waiting for the opportunity to use their knowledge. For me it has been an awesome experience to not only introduce nature to these children, but to be there during such an instrumental time in their lives,” said Wilkinson.
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  
 Telephone: 703-358-2220  
 Website: [https://www.fws.gov/external-affairs/public-affairs/](https://www.fws.gov/external-affairs/public-affairs/)
-
-* * *
-
-![](images/newsUploads/newsThumbs/newsImageThumb8B2441B6-E70C-B630-A2C1ADE5BB4B1940.jpg)
-
-Public Use Specialist Amanda Wilkinson and children at the Carousel School set up a critter tank. Credit: USFWS  
-
-[Higher Quality Version of Image](http://www.flickr.com/photos/usfwssoutheast/11467412786/in/photostream/)

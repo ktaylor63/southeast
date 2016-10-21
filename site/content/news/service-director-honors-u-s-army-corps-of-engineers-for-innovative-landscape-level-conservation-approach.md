@@ -1,10 +1,8 @@
 ---
-title: Service Director Honors U.S. Army Corps of Engineers for Innovative Landscape-Level Conservation Approach
-date: 2014-04-30
-tags:
+updated: 'October 21st, 2016'
 ---
 
-Washington D.C. – U.S. Fish and Wildlife Service Director Dan Ashe yesterday praised a collaborative effort across the lower Mississippi River Basin with the U.S. Army Corps of Engineers (USACE) that has helped advance conservation for three endangered species.
+**WASHINGTON D.C.** – U.S. Fish and Wildlife Service Director Dan Ashe yesterday praised a collaborative effort across the lower Mississippi River Basin with the U.S. Army Corps of Engineers (USACE) that has helped advance conservation for three endangered species.
 
 The collaboration highlights the responsibility and opportunity for all federal agencies to conserve endangered and threatened species under the Endangered Species Act (ESA). This joint effort by the Corps and the Service proves that by working to incorporate the needs of threatened and endangered species in the work that they do, federal agencies can help species recover.
 
@@ -28,12 +26,12 @@ The approach has also been credited with expanding the fat pocketbook mussel pop
 
 The Service is using the success of the Corps’ Mississippi Valley Division conservation program to bolster efforts to expand this approach nationwide for both agencies and is looking at similar opportunities with other federal agencies.
 
-**Additional Photos:**
+## Photos
 
-*   [https://flic.kr/p/npDjgq](https://flic.kr/p/npDjgq)
-*   [https://flic.kr/p/naciCD](https://flic.kr/p/naciCD)
+ - [https://flic.kr/p/npDjgq](https://flic.kr/p/npDjgq)
+ - [https://flic.kr/p/naciCD](https://flic.kr/p/naciCD)
 
-**Contact(s):**  
+## Contacts
 
 Tom MacKenzie, USFWS  
 (404) 679-7291  
@@ -42,10 +40,3 @@ Tom MacKenzie, USFWS
 Gene Pawlik, USACE  
 202-761-7690  
 [Eugene.A.Pawlik@usace.army.mil](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=Eugene.A.Pawlik@usace.army.mil)
-
-* * *
-
-![Officials stand smiling and holding a framed photo of an Interior least tern.](images/newsUploads/newsThumbs/newsImageThumbD2F6F8A0-BE6A-1D86-A808F0C9C43675FF.jpg)
-
-Secretary of the Interior Sally Jewell, USFWS Director Dan Ashe recognize Assistant Secretary of the Army for Civil Works Jo-Ellen Darcy, and U.S. Army Corps of Engineers commanding general Lt. Gen. Thomas P. Bostick for an innovative landscape-level conservation approach. (Shown: Commemorative photo with plaque of Interior least tern with chick on nest.) Credit: Tami Heileman / DOI  
-[Higher Quality Version of Image](https://flic.kr/p/nrJdKm)

@@ -1,9 +1,15 @@
 ---
-title: Service Celebrates 25 Years of the Coastal Program
-subtitle: Projects in Great Lakes States Benefit Fish and Wildlife
-date: 2010-11-16
+title: 'Service Celebrates 25 Years of the Coastal Program'
+subtitle: 'Projects in Great Lakes States Benefit Fish and Wildlife'
+date: '2010-11-16'
+hero:
+    name: st-joseph-peninsula-state-park.jpg
+    alt: 'Grassy vegetation emerges from coastal beach dunes.'
+    link: 'https://flic.kr/p/6XFugq'
+    caption: 'Beach mouse habitat at St. Joseph Peninsula State Park. Photo by <a href=''https://www.flickr.com/photos/steverob50pics/''>Steve Robinson</a> <a href=''https://creativecommons.org/licenses/by-nc-nd/2.0/legalcode''>CC BY-NC-ND 2.0</a>.'
 tags:
- - Coastal Program
+    - 'Coastal Program'
+updated: 'October 21st, 2016'
 ---
 
 The U.S. Fish Wildlife Service’s Coastal Program is celebrating its 25th year of conserving coastal wetlands and habitats for fish and wildlife across the country.  This remarkable program received the Restoration Partnership Award at the Restore America’s Estuaries Conference, which recognizes an individual or group who has demonstrated their dedication, commitment and passion for estuary habitat restoration.
@@ -14,9 +20,9 @@ There are now 23 Coastal Program offices throughout the United States including 
 
 Despite the numerous gains made in conserving coastal habitat by the Coastal Program and other similar voluntary, incentive-based programs, threats to coastal ecosystems have become even more challenging.  Climate change poses numerous and complex threats to coastal wetlands and the fish and wildlife they support throughout the United States, including sea level rise, more invasive species, and increases in ocean temperatures and acidity.  In addition, scientists predict increased flooding of populated coastal areas and further decreases in water quality, changes that will severely impact not only fish and wildlife species, but humans as well.  Given the magnitude of these threats, there is now more than ever a strong need for public-private partnerships to protect and restore coastal wetland habitats.    
 
-To learn more about the Service’s Coastal Program and to find an office near you, please visit:  [http://www.fws.gov/coastal/contactUs.html](http://www.fws.gov/coastal/contactUs.html).  For Southeast Regional coastal contacts,  please see [http://www.fws.gov/coastal/contactInfo4.html](http://www.fws.gov/coastal/contactInfo4.html)
+To learn more about the Service’s Coastal Program and to find an office near you, please visit:  [fws.gov/coastal/contactUs.html](http://www.fws.gov/coastal/contactUs.html).  For Southeast Regional coastal contacts,  please see [fws.gov/coastal/contactInfo4.html](http://www.fws.gov/coastal/contactInfo4.html)
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

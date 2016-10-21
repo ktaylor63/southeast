@@ -1,10 +1,16 @@
 ---
-title: Service Awards More Than $16 Million to Support Clean Waters and Recreational Boating Through Clean Vessel Act Grants
-subtitle: Southeast Region Gets Nearly $3.7 Million
-date: 2015-05-13
+title: 'Service Awards More Than $16 Million to Support Clean Waters and Recreational Boating Through Clean Vessel Act Grants'
+subtitle: 'Southeast Region Gets Nearly $3.7 Million'
+date: '2015-05-13'
+hero:
+    name: boating.jpg
+    alt: 'Six people wearing life preservers on a boat.'
+    link: 'https://flic.kr/p/jzDUnp'
+    caption: 'People enjoying a boat. Photo by Greg Workman, FWC.'
 tags:
- - Grants
- - Wildlife and Sport Fish Restoration
+    - Grants
+    - 'Wildlife and Sport Fish Restoration'
+updated: 'October 21st, 2016'
 ---
 
 America’s waterways provide critical wildlife habitat, drinking water for Americans across the country, and recreational opportunities to millions. To advance both purposes, the U.S. Fish and Wildlife Service announced today more than $16.2 million in funding to 27 states under the Clean Vessel Act (CVA) grant program.
@@ -25,27 +31,43 @@ In addition to traditional on-dock pump outs, projects include pumpout boats tha
 
 “CVA provides environmental benefits, but the program also has a substantial positive economic impact on local communities through job creation,” said WSFR Assistant Director Hannibal Bolton. “This is a win-win situation for conservation and businesses across America.”
 
-For a detailed list of 2015 CVA project award summaries visit <u>[http://wsfrprograms.fws.gov/Subpages/GrantPrograms/CVA/CVA2015Funding.pdf](http://wsfrprograms.fws.gov/Subpages/GrantPrograms/CVA/CVA2015Funding.pdf)</u>.
+For a detailed list of 2015 CVA project award summaries visit [wsfrprograms.fws.gov/Subpages/GrantPrograms/CVA/CVA2015Funding.pdf](http://wsfrprograms.fws.gov/Subpages/GrantPrograms/CVA/CVA2015Funding.pdf).
 
-For more information on the CVA program visit [http://wsfrprograms.fws.gov/Subpages/GrantPrograms/CVA/CVA.htm](http://wsfrprograms.fws.gov/Subpages/GrantPrograms/CVA/CVA.htm).
+For more information on the CVA program visit [wsfrprograms.fws.gov/Subpages/GrantPrograms/CVA/CVA.htm](http://wsfrprograms.fws.gov/Subpages/GrantPrograms/CVA/CVA.htm).
 
-**Alabama – Coastal $159,304, Inland $57,186 - **The Alabama Department of Environmental Management plans to install six new coastal and four new inland pumpouts. They will continue their ongoing CVA information and education program through distribution of written and electronic materials as well as participation in workshops and boat shows.
+## Alabama
 
-**Arkansas – Inland $1,046,053 – **The Arkansas Department of Health plans to purchase nine pumpout boats, 20 fixed pumpout stations, and two multi-purpose marine sewage dump stations, which have port-a-potty dump facilities.  They will also continue their campaign to increase awareness, understanding, and compliance with the goals of the CVA program in their State.   
+Coastal $159,304, Inland $57,186 - The Alabama Department of Environmental Management plans to install six new coastal and four new inland pumpouts. They will continue their ongoing CVA information and education program through distribution of written and electronic materials as well as participation in workshops and boat shows.
 
- **Florida – Coastal $1,491,220, Inland $797,840 – **The Florida Department of Environmental Protection plans to construct/replace 32 coastal and 15 inland pumpout stations for Florida boaters.  They will continue to expand their ongoing CVA boater education program that includes internet postings, outreach events, brochures, radio and television public service announcements, and a database monitoring program.
+## Arkansas
 
-**Georgia – Inland $55,028 – **The Georgia Department of Natural Resources plans to fund three inland pumpout projects at Lake Allatoona and Clarks Hill Lake.  They will also continue their ongoing CVA boater education program.
+Inland $1,046,053 – The Arkansas Department of Health plans to purchase nine pumpout boats, 20 fixed pumpout stations, and two multi-purpose marine sewage dump stations, which have port-a-potty dump facilities.  They will also continue their campaign to increase awareness, understanding, and compliance with the goals of the CVA program in their State.
 
-**Kentucky – Inland $71,868 – **The Kentucky Department of Fish and Wildlife Resources plans to construct two new marine sewage pumpout stations at the Owensboro Transient Boat Dock and provide maintenance across Kentucky to existing pumpouts. 
+## Florida
 
-**North Carolina – Coastal $116,001, Inland $47,388 – **The North Carolina Department of Environment and Natural Resources Division of Coastal Management and the North Carolina Wildlife Resources Commission plans to maintain an established grant program for the installation and renovation of 11 pumpout/dump stations in the State’s inland and coastal waters.  In addition, they will update the geolocation of marinas with pumpouts, identify target areas for development, and refine the prioritization process for placing pumpout stations.  They will also continue to manage their marine sewage public education and information plan.
+Coastal $1,491,220, Inland $797,840 – The Florida Department of Environmental Protection plans to construct/replace 32 coastal and 15 inland pumpout stations for Florida boaters.  They will continue to expand their ongoing CVA boater education program that includes internet postings, outreach events, brochures, radio and television public service announcements, and a database monitoring program.
 
-**South Carolina – Coastal $948,671, Inland $360,361 – **The South Carolina Department of Natural Resources is planning on renovating 28 stationary units and 11 mobile units, purchasing 10 boat-mounted pumpout units, installing two floating restrooms, and providing operations and maintenance funding for 29 pumpout boats in both coastal and inland waters.  They will also continue to fund their education program that informs recreational boaters about the importance of using pumpout stations as well as their availability.
+## Georgia
 
-**Tennessee – Inland $760,179 – **The Tennessee Wildlife Resources Agency has plans to construct 20 stationary, portable, and multiple-station pumpout facilities, renovate three existing systems, and administer the pumpout grant program.  They will also continue to build on the existing education program by promoting positive and informative handouts and providing other programs to educate and motivate the public about the benefits of using pumpouts.
+Inland $55,028 – The Georgia Department of Natural Resources plans to fund three inland pumpout projects at Lake Allatoona and Clarks Hill Lake.  They will also continue their ongoing CVA boater education program.
 
-**Contact(s):**  
+## Kentucky
+
+Inland $71,868 – The Kentucky Department of Fish and Wildlife Resources plans to construct two new marine sewage pumpout stations at the Owensboro Transient Boat Dock and provide maintenance across Kentucky to existing pumpouts. 
+
+## North Carolina
+
+Coastal $116,001, Inland $47,388 – The North Carolina Department of Environment and Natural Resources Division of Coastal Management and the North Carolina Wildlife Resources Commission plans to maintain an established grant program for the installation and renovation of 11 pumpout/dump stations in the State’s inland and coastal waters.  In addition, they will update the geolocation of marinas with pumpouts, identify target areas for development, and refine the prioritization process for placing pumpout stations.  They will also continue to manage their marine sewage public education and information plan.
+
+## South Carolina
+
+Coastal $948,671, Inland $360,361 – The South Carolina Department of Natural Resources is planning on renovating 28 stationary units and 11 mobile units, purchasing 10 boat-mounted pumpout units, installing two floating restrooms, and providing operations and maintenance funding for 29 pumpout boats in both coastal and inland waters.  They will also continue to fund their education program that informs recreational boaters about the importance of using pumpout stations as well as their availability.
+
+## Tennessee
+
+Inland $760,179 – The Tennessee Wildlife Resources Agency has plans to construct 20 stationary, portable, and multiple-station pumpout facilities, renovate three existing systems, and administer the pumpout grant program.  They will also continue to build on the existing education program by promoting positive and informative handouts and providing other programs to educate and motivate the public about the benefits of using pumpouts.
+
+## Contacts
 
 Christina Meister, [christina_meister@fws.gov](mailto:christina_meister@fws.gov), (703) 358-2284
 

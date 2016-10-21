@@ -1,10 +1,16 @@
 ---
-title: Service Receives Red Wolf Program Evaluation from WMI
-subtitle: Expects a decision regarding the future of the Program in early 2015
-date: 2014-11-20
+title: 'Service Receives Red Wolf Program Evaluation from WMI'
+subtitle: 'Expects a decision regarding the future of the Program in early 2015'
+date: '2014-11-20'
+hero:
+    name: red-wolf-looking-on.jpg
+    alt: 'A reddish grey wolf with yellow eyes.'
+    link: 'https://flic.kr/p/hJ22JT'
+    caption: 'Captive red wolf at Species Survival Plan facility, Point Defiance Zoo and Aquarium. Photo by B. Bartel, USFWS.'
 tags:
- - Red wolf
- - Recovery
+    - 'Red wolf'
+    - Recovery
+updated: 'October 21st, 2016'
 ---
 
 The U.S. Fish and Wildlife Service today released a 171-page, peer-reviewed evaluation of its Red Wolf Recovery Program’s non-essential, experimental population in five Eastern North Carolina counties.
@@ -19,8 +25,7 @@ A broader announcement on that overall decision is expected in early 2015.
 
 The evaluation, the agreement with North Carolina, and the Service documents used for the evaluation are currently available at [fws.gov/redwolf/evaluation.html](http://fws.gov/redwolf/evaluation.html).  A recording of today’s press conference also will be posted there.
 
-**Steve Williams**  
-**Wildlife Management Institute**
+## Steve Williams, Wildlife Management Institute
 
 “Agencies interested in improving their conservation programs often reach out to independent reviewers to evaluate the success of their programs,” said Williams, the report’s chief author.  “In this case, the Fish and Wildlife Service asked the Institute to conduct just such a review.  The findings and conclusions contained in our report cover a wide range of issues grouped under the categories of science, program management, and human dimensions.  The Fish and Wildlife Service has a clear understanding of the science involved in the restoration of the most endangered canid in North America.  Its introduction of captive red wolves into the wild has proven successful. 
 
@@ -38,20 +43,12 @@ The evaluation, the agreement with North Carolina, and the Service documents use
 
 “We have a lot of work in front of us and I also want to note here that we appreciate all of the public engagement this process has generated,” Miranda said.
 
-**Gordon Myers**  
-**North Carolina Wildlife Resources Commission**
+## Gordon Myers, North Carolina Wildlife Resources Commission
 
 “We appreciate the focused and deliberative action the Service is directing to evaluate its Red Wolf Program,” Myers said.  “This report, which stems from collaboration between the Service and the Commission, is a high priority action item that will inform future decisions about that program.”
 
-**Contact(s):**  
+## Contact
 
 Tom MacKenzie, USFWS  
 404-679-7291  
 [Tom_MacKenzie@fws.gov](mailto:Tom_MacKenzie@fws.gov?subject=Red%20Wolf%20Program%20Evaluation)
-
-* * *
-
-![](images/newsUploads/newsThumbs/newsImageThumbCDEAB8E0-04AB-2206-8AC1EFC999B31916.jpg)
-
-A red wolf Credit: Becky Bartel / USFWS  
-[Higher Quality Version of Image](https://flic.kr/p/hJ22JT)

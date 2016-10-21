@@ -1,13 +1,8 @@
 ---
-title: $7,500 Reward Offered for Information on the Killing of Bald Eagle in Arkansas
-date: 2015-02-05
-tags:
- - Reward
- - Bald eagle
- - Arkansas
+updated: 'October 20th, 2016'
 ---
 
-LITTLE ROCK - The U.S. Fish and Wildlife Service and the Arkansas Game and Fish Commission are seeking information on the shooting of a bald eagle that was found on Arkansas Highway 10 in Pulaski County. The Humane Society of the United States, The Humane Society Wildlife Land Trust, the AGFC and the USFWS are offering a reward of up to $7,500 for information leading to a conviction of the person or persons responsible.
+**LITTLE ROCK, AR** - The U.S. Fish and Wildlife Service and the Arkansas Game and Fish Commission are seeking information on the shooting of a bald eagle that was found on Arkansas Highway 10 in Pulaski County. The Humane Society of the United States, The Humane Society Wildlife Land Trust, the AGFC and the USFWS are offering a reward of up to $7,500 for information leading to a conviction of the person or persons responsible.
 
 On Jan. 31, a bald eagle was found dead in the 36500 block of Highway 10\. The eagle had a large caliber bullet entrance and exit wound. Evidence recovered at the scene shows that a high caliber rifle was used and a vehicle had stopped on the shoulder of the highway near the eagle. Enforcement officers believe it is likely that the shooter was not alone and witnesses may have seen the vehicle stopped on the side of the road.
 
@@ -21,7 +16,7 @@ Although bald eagles are no longer listed under the Endangered Species Act, they
 
 Anyone with information should call Special Agent Glen Pye with the U.S. Fish and Wildlife Service at 501-772-8010 or the Arkansas Game and Fish Commission at 800-482-9262\. Persons providing information may remain anonymous.
 
-**Contact(s):**  
+## Contacts
 
 Special Agent Glen Pye
 U.S. Fish and Wildlife Service  
@@ -29,8 +24,3 @@ U.S. Fish and Wildlife Service
 
 Arkansas Game and Fish Commission
 800-482-9262
-
-![A bald eagle killed by high caliber weapon in Pulaski County, AR.](images/newsUploads/newsThumbs/newsImageThumb5B9FEAE9-E311-BAEC-BA671013AF5F9EE3.jpg)
-
-A bald eagle killed by high caliber weapon in Pulaski County, AR. Credit: Arkansas Game and Fish Commission: Officer Adam Baker  
-[Higher Quality Version of Image](http://www.fws.gov/southeast/news/images/bald-eagle-killed-in-arkansas.JPG)

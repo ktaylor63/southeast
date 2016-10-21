@@ -1,6 +1,11 @@
 ---
 title: Service Announces the Availability of the Draft Economic Analysis and a Public Hearing Associated with Critical Habitat Designation for the Alabama Sturgeon
-date: 2009-12-30
+date: '2009-12-30'
+hero:
+  name: cahaba-river-lillies.jpg
+  alt: Bright white flowers with a river in the background.
+  link: https://flic.kr/p/9EAgB1
+  caption: Lilies at Cahaba River National Wildlife Refuge. Photo by Garry Tucker, USFWS.
 tags:
  - Critical Habitat
  - Alabama Sturgeon
@@ -23,11 +28,9 @@ Incremental impacts attributed to the proposed critical habitat designation are 
 
 The Service has scheduled a public hearing on the proposed critical habitat designation and the draft economic analysis. The hearing will take place from 6:30 p.m. to 9:00 p.m. on January 28, 2009, at Alabama Southern Community College, Nettles Auditorium, 2800 South Alabama Avenue, Monroeville, Alabama. This will be preceded by a public information session from 5:30 p.m. to 6:30 p.m., at the same location. Maps of the proposal and other materials will be available for public review.
 
-The complete notice has been published in the Federal Register today. Please visit the website: [http://edocket.access.gpo.gov/2008/E8-30750.htm](http://edocket.access.gpo.gov/2008/E8-30750.htm) Copies of the draft economic analysis or a copy of the notice can also be obtained by e-mailing Jeff Powell, [jeff_powell@fws.gov](mailto:jeff_powell@fws.gov), or Bill Pearson, [Bill_Pearson@fws.gov](mailto:Bill_Pearson@fws.gov), or by mail at the U.S. Fish and Wildlife Service, Alabama Field Office, 1208-B Main Street, Daphne, Alabama 36526; phone 251-441-5181\.
+The complete notice has been published in the Federal Register today. Please visit the website: [http://edocket.access.gpo.gov/2008/E8-30750.htm](http://edocket.access.gpo.gov/2008/E8-30750.htm) Copies of the draft economic analysis or a copy of the notice can also be obtained by e-mailing Jeff Powell, [jeff_powell@fws.gov](mailto:jeff_powell@fws.gov), or Bill Pearson, [Bill_Pearson@fws.gov](mailto:Bill_Pearson@fws.gov), or by mail at the U.S. Fish and Wildlife Service, Alabama Field Office, 1208-B Main Street, Daphne, Alabama 36526; phone 251-441-5181.
 
-The U.S. Fish and Wildlife Service is the principal federal agency responsible for conserving, protecting and enhancing fish, wildlife and plants and their habitats for the continuing benefit of the American people. Visit he Service's website at [http://www.fws.gov/southeast](http://www.fws.gov/southeast) or [http://www.fws.gov](http://www.fws.gov).
-
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

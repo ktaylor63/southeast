@@ -1,12 +1,17 @@
 ---
 title: Service Proposes to List Florida Bristle Fern
-date: 2014-10-08
+date: '2014-10-08'
+hero:
+  name: florida-bristle-fern.jpg
+  alt: A leafy green vine like plant growing on a rock face.
+  link: https://flic.kr/p/pimjFR
+  caption: Florida bristle fern. Photo by Keith Bradley.
 tags:
  - Florida bristle fern
  - Florida
 ---
 
-VERO BEACH, FL - The U.S. Fish and Wildlife Service proposes to list the Florida bristle fern as endangered under the Endangered Species Act (ESA).  The public is invited to comment on this proposal for the next 60 days through December 8, 2014.
+**VERO BEACH, FL** - The U.S. Fish and Wildlife Service proposes to list the Florida bristle fern as endangered under the Endangered Species Act (ESA).  The public is invited to comment on this proposal for the next 60 days through December 8, 2014.
 
 Only found in Miami-Dade and Sumter Counties, the Florida bristle fern is a small, mat-forming fern with bristle-like outgrowths at its tips.  The fern doesn’t have roots, and it superficially resembles mosses and liverworts.  Currently, there are only two known groupings of populations of this plant.  In Miami-Dade County, the fern is found in limestone solution holes on the Miami Rock Ridge.  In Sumter County, the fern lives on limestone boulders under thick forest cover in moderately moist hammocks.  Only 12 subpopulations of the fern are known to remain –10 in Miami-Dade County and two in Sumter County.
 
@@ -18,10 +23,11 @@ The Service will decide whether to extend ESA protection for the Florida bristle
 
 The proposed listing of the Florida bristle fern is part of the Service’s efforts to implement a court-approved work plan under a Multi-District Listing Agreement aimed at addressing a series of lawsuits concerning the agency’s ESA listing program. The intent of the agreement is to significantly reduce a litigation-driven workload. For more information, please see [http://www.fws.gov/southeast/candidateconservation/](http://www.fws.gov/southeast/candidateconservation/)
 
+## Submit Your Comments
+
 The Service will accept comments concerning the proposed listing of the Florida bristle fern that are received or postmarked on or before December 8, 2014.  To submit comments electronically, please go to the [Federal eRulemaking Portal](http://www.regulations.gov).   In the Search box, enter FWS–R4–ES–2014–0044, which is the docket number for this rulemaking.  Then, in the Search panel on the left side of the screen, under the Document Type heading, click on the Proposed Rules link to locate this document.  You may submit a comment by clicking on “Comment Now!”  If you prefer, you can mail or hand-deliver comments to: Public Comments Processing, Attn:  FWS–R4–ES–2014–0044, U.S. Fish and Wildlife Headquarters, MS: BPHC, 5275 Leesburg Pike, Falls Church, VA 22041-3803.  Request for a public hearing must be made in writing by November 24, 2014, to the Falls Church, VA, address.
 
-
-**Contact(s):**  
+## Contacts
 
 Ken Warren, USFWS  
 [ken_warren@fws.gov](mailto:ken_warren@fws.gov)   
@@ -30,10 +36,3 @@ Ken Warren, USFWS
 Tom MacKenzie, USFWS  
 [tom_mackenzie@fws.gov](mailto:tom_mackenzie@fws.gov)   
 404-679-7291
-
-* * *
-
-![Leafy green plant. ](images/newsUploads/newsThumbs/newsImageThumbF087B06F-BDBC-8877-B9068FF93A64EFB5.jpg)
-
-The Florida bristle fern (Trichomanes punctatum floridanum). Credit: Keith Bradley.  
-[Higher Quality Version of Image](https://www.flickr.com/photos/usfwssoutheast/15292551199/)

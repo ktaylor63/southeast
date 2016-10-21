@@ -1,6 +1,12 @@
 ---
 title: Service Announces Multi-state, Multi-species Draft Habitat Conservation Plan and Draft Environmental Impact Statement
-date: 2011-07-12
+date: '2011-07-12'
+hero:
+    name: bog-turtle.jpg
+    alt: 'A tiny turtle with orange patches on the side of its throat crawls through the grass'
+    link: 'https://flic.kr/p/ugxqqh'
+    caption: 'A young bog turtle in an Appalachian bog. Photo by Gary Peeples, USFWS.'
+    position: 'left center'
 tags:
  - Habitat Conservation Plan
 ---
@@ -18,23 +24,18 @@ The Service is accepting comments on the draft EIS through October 11, 2011.  S
 Regional Director, Midwest Region, Attn:  Lisa Mandell,   
 U.S. Fish and Wildlife Service, Ecological Services,   
 5600 American Blvd. West, Suite 990,  
-Bloomington, MN  55437-1458
-
-or by electronic mail to _permitsR3ES@fws.gov._
+Bloomington, MN  55437-1458  
+or by electronic mail to [permitsR3ES@fws.gov](mailto:permitsR3ES@fws.gov).
 
 Public meetings will be held in Columbus, Ohio, Lexington, Kentucky, and Charleston, West Virginia during the summer 2011:
 
-*   August 16, 2011, 7:00 p.m., University Plaza Hotel and Conference Center, 3110 Olentangy River Road, Columbus, OH 43202.
-*   August 17, 2011, 7:00 p.m., Ramada Conference Center, 2143 N. Broadway, Lexington, KY 40505
-*   August 18, 2011, 7:00 pm, Charleston Ramada Plaza, 400 2nd Ave., S. Charleston, WV 25303.
+ - August 16, 2011, 7:00 p.m., University Plaza Hotel and Conference Center, 3110 Olentangy River Road, Columbus, OH 43202.
+ - August 17, 2011, 7:00 p.m., Ramada Conference Center, 2143 N. Broadway, Lexington, KY 40505
+ - August 18, 2011, 7:00 pm, Charleston Ramada Plaza, 400 2nd Ave., S. Charleston, WV 25303.
 
-More information about the EIS and HCP, along with locations, dates, and times of specific public meetings can be found at:  [www.fws.gov/midwest/Endangered/permits/hcp/nisource/index.html](http://www.fws.gov/midwest/Endangered/permits/hcp/nisource/index.html)
+More information about the EIS and HCP, along with locations, dates, and times of specific public meetings can be found at: [Endangered Species Permits NiSource Habitat Conservation Plan](http://www.fws.gov/midwest/Endangered/permits/hcp/nisource/index.html)
 
-**Related Websites:**
-
-*   [Endangered Species Permits NiSource Habitat Conservation Plan](http://www.fws.gov/midwest/Endangered/permits/hcp/nisource/index.html)
-
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

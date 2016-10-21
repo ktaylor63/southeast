@@ -1,6 +1,11 @@
 ---
 title: Service Authorizes a Private Landowner to Kill a Red Wolf
-date: 2015-06-25
+date: '2015-06-25'
+hero:
+    name: red-wolf-crouching.jpg
+    alt: 'A grey colored wolf with bright yellow eyes walking low to the ground.'
+    link: 'https://flic.kr/p/dPAq8s'
+    caption: 'Red wolf at Point Defiance Zoo and Aquarium. Photo by Seth Bynum, PDZA.'
 tags:
  - Red wolf
 ---
@@ -16,7 +21,7 @@ Where landowners want wolves removed, but do not want federal biologists on thei
 
 Designation as a NEP allows for reduced regulatory restrictions off of federal lands, which benefits private landowners, and increases management flexibility for the Service as it works to reintroduce a species into the wild.
 
-**Contact(s):**  
+## Contacts
 
 Tom MacKenzie, 404-679-7291  
 tom_mackenzie@fws.gov

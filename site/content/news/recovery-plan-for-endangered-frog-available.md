@@ -1,10 +1,16 @@
 ---
-title: Recovery Plan for Endangered Frog Available
-date: 2015-09-09
+title: 'Recovery Plan for Endangered Frog Available'
+date: '2015-09-09'
+hero:
+    name: mississippi-gopher-frog.jpg
+    alt: 'A white and black frog standing on dormant grass.'
+    link: 'https://flic.kr/p/ehrcz3'
+    caption: 'Mississippi gopher frog. Photo by John A. Tupy, Western Carolina University.'
 tags:
- - Recovery
- - Dusky gopher frog
- - Mississippi
+    - Recovery
+    - 'Dusky gopher frog'
+    - Mississippi
+updated: 'October 20th, 2016'
 ---
 
 The U.S. Fish and Wildlife Service is announcing the availability of the final recovery plan for the dusky gopher frog, federally listed as endangered.
@@ -27,13 +33,7 @@ The dusky gopher frog’s disappearance from much of its historical range was pr
 
 To view the recovery plan on the web, please visit_ [http://www.fws.gov/endangered/species/recovery-plans.html](http://www.fws.gov/endangered/species/recovery-plans.html).  Request a paper copy of the plan by contacting the Service’s Mississippi Ecological Services Field Office at 601-321-1126.
 
-**Contact(s):**  
+## Contact
 
 Connie Dickard, Public Affairs Specialist  
 601-321-1121, [connie_dickard@fws.gov](mailto:connie_dickard@fws.gov)
-
-* * *
-
-![A frog with dark splotches standing on yellow dried leaves.](images/newsUploads/newsThumbs/newsImageThumbB6ED9296-0E68-29C7-F705223F7BA550CD.jpg)
-
-Dusky gopher frog Credit: John Tupy

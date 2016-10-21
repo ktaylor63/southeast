@@ -1,18 +1,24 @@
 ---
-title: Service Considers Economic Impact of Critical Habitat Designation for Kentucky Gladecress
-subtitle: Reopens Proposed Listing Comment Period
-date: 2014-01-06
+title: 'Service Considers Economic Impact of Critical Habitat Designation for Kentucky Gladecress'
+subtitle: 'Reopens Proposed Listing Comment Period'
+date: '2014-01-06'
+hero:
+    name: kentucky-gladecress.jpg
+    alt: 'A low growing grass-like plant not currently in bloom.'
+    link: 'https://flic.kr/p/7TAYe8'
+    caption: 'Kentucky gladecress. Photo by <a href=\"https://www.flickr.com/photos/btsiders/\" target=\"_blank\">Bryan Siders</a> <a href=\"https://creativecommons.org/licenses/by/2.0/\" target=\"_blank\">CC BY 2.0</a>.'
 tags:
- - Critical Habitat
- - Kentucky
- - Kentucky gladecress
+    - 'Critical Habitat'
+    - Kentucky
+    - 'Kentucky gladecress'
+updated: 'October 21st, 2016'
 ---
 
 The U.S. Fish and Wildlife Service today announced the availability of the draft economic analysis for the proposed critical habitat designation for the Kentucky glade cress.
 
 The glade cress, a plant proposed for listing as threatened under the Endangered Species Act, is only found in Bullitt and Jefferson Counties, Kentucky, where the Service is proposing to designate about 2,053 acres as its critical habitat. At the same time, the Service is re-opening the comment period for the proposed listing of the glade cress with critical habitat for 30 days, also through February 6, 2014\. The public is invited to submit their comments to either or both issues.
 
-For more information on the glade cress visit: [http://ecos.fws.gov/speciesProfile/profile/speciesProfile.action?spcode=Q12F](http://ecos.fws.gov/speciesProfile/profile/speciesProfile.action?spcode=Q12F) and [http://www.fws.gov/southeast/news/2013/027.html](http://www.fws.gov/southeast/news/2013/027.html).
+For more information on the glade cress visit: [ecos.fws.gov/speciesProfile/profile/speciesProfile.action?spcode=Q12F](http://ecos.fws.gov/speciesProfile/profile/speciesProfile.action?spcode=Q12F) and [fws.gov/southeast/news/2013/027.html](http://www.fws.gov/southeast/news/2013/027.html).
 
 The Kentucky glade cress is a small, winter annual with a white to lilac colored flower which grows in areas with flat, thin soil, such as cedar glades. It needs sunny areas with green, leafy vegetation that are wet in late winter to early spring, but then dry quickly. Natural areas surrounding the glades that are protected from disturbance are crucial in maintaining the plant’s habitat.
 
@@ -36,18 +42,9 @@ The public may mail comments and materials concerning the draft economic analysi
 
 All comments must be received by February 6, 2014, and must include a first and last name, city, state, country and zip code. Any comments and materials the Service receives, as well as supporting documentation used in preparing this proposed rule, will be available for public inspection on http://www.regulations.gov, or by appointment during normal business hours at the U.S. Fish and Wildlife Service office in Frankfort, Kentucky, at 502-695-0468.
 
-[http://www.fws.gov/southeast/publications/KYGladeCressFacts.pdf](For Additional Resources: The Kentucky Glade Cress Fact Sheet)
-
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  
 Telephone: 703-358-2220  
 Website: [https://www.fws.gov/external-affairs/public-affairs/](https://www.fws.gov/external-affairs/public-affairs/)
-
-* * *
-
-![](images/newsUploads/newsThumbs/newsImageThumb8B333B2F-0ACF-F946-4E0FFBC699802AA7.jpg)
-
-Kentucky Glade Cress. Credit: James Gruhala - USFWS  
-[Higher Quality Version of Image](http://www.fws.gov/southeast/news/images/gladeCress_.jpg)

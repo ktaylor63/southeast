@@ -1,6 +1,11 @@
 ---
 title: Service Proposes to List the Elfin-woods Warbler
-date: 2015-09-29
+date: '2015-09-29'
+hero:
+  name: elfin-woods-warbler.jpg
+  alt: A white breasted bird with blueish grey feathers.
+  link: https://flic.kr/p/9U6RfW
+  caption: Elfin-woods warbler. Photo by Mike Morel, USFWS.
 tags:
  - Elfin-woods warbler
  - Puerto Rico
@@ -24,11 +29,17 @@ Last year, the Service, the Puerto Rico Department of Natural and Environmental 
 
 The agencies will reforest crucial areas and enhance habitat within degraded portions of their forests.  Outreach and education programs also will encourage warbler habitat conservation and restoration by private landowners near these forests.
 
+## Get Involved
+
 Landowners who are interested in helping the Service conserve the Elfin-woods warbler, or who are seeking more information about the potential implications of the proposed listing, may contact the Service’s Caribbean Ecological Field Office at Post Office Box 491, Boquerón, Puerto Rico, 00622, or contact Deputy Field Supervisor Marelisa Rivera at (787) 851-7297, or  [marelisa_rivera@fws.gov](mailto:marelisa_rivera@fws.gov).
 
 Shade-grown coffee plantations provide habitat for the warbler that is not available in sun-grown coffee plantations.  The rise in sun-grown coffee plantations, coupled with small residential  development and livestock-related activities, is a threat to the warbler.  Fires, hurricanes, and climate change also are affecting the warbler’s chances for survival.
 
+## About the Elfin-woods Warbler
+
 The Elfin-woods warbler is about 4.9 inches in length.  Adults have a thin, white eyebrow stripe, white patches on ear-covers and neck, incomplete eye ring, and black crown.  Immature Elfin-woods warblers are similar to adults, but their black is replaced by grayish-green on the back, and yellowish-green on the head and underparts.
+
+## Submit Your Comments
 
 Public comments on the proposed listing of the Elfin-woods warbler as threatened and the associated 4(d) exemptions will be accepted for 60 days through November 30, 2015. 
 
@@ -36,19 +47,10 @@ Written comments and information on this proposed rule may be submitted by one o
 
 Requests for a public hearing on the proposed rule must be made in writing by November 16,  2015, to the Service’s Caribbean Ecological Field Office at Post Office Box 491, Boquerón, Puerto Rico, 00622, or contact Deputy Field Supervisor Marelisa Rivera at (787) 851-7297, or [marelisa_rivera@fws.gov](mailto:marelisa_rivera@fws.gov).
 
-[Download the Elfin-woods warbler fact sheet](http://fws.gov/southeast/news/pdf/elfin-woods-warbler-fact-sheet.pdf)
-
-**Contact(s):**  
+## Contacts
 
 Marelisa Rivera, 787-851-7297  
 marelisa_rivera@fws.gov
 
 Tom MacKenzie, 404-679-7291  
 tom_mackenzie@fws.gov
-
-* * *
-
-![A small beige bird standing on a tree limb surrounded by green foliage](images/newsUploads/newsThumbs/newsImageThumb1A7EA4AE-0E22-1A0E-B0C8ED9B043701B3.jpg)
-
-Elfin-woods warbler Credit: Jan P. Zegarra, USFWS  
-[Higher Quality Version of Image](http://fws.gov/southeast/news/images/elfin-woods-warbler-lg-jp-zegarra.jpg)

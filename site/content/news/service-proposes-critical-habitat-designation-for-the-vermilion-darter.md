@@ -1,6 +1,11 @@
 ---
 title: Service Proposes Critical Habitat Designation for the Vermilion Darter
-date: 2009-12-03
+date: '2009-12-03'
+hero:
+  name: vermillion-darter.jpg
+  alt: An illustration of male and female fish.  The male is much more colorful with blues and oranges while the female is black and brown.
+  caption: Vermilion darter Illustrated by Joe Tomelleri.
+  position: top center
 tags:
  - Critical Habitat
  - Vermilion darter
@@ -18,6 +23,8 @@ Critical habitat is a tool within the Endangered Species Act which identifies ge
 
 A complete description of the proposed critical habitat designation for the vermilion darter published in the Federal Register today. Copies of the proposed rule and maps can be obtained by visiting [http://www.fws.gov/policy/library/2009/E9-28855.html](http://www.fws.gov/policy/library/2009/E9-28855.html) or by contacting the Jackson, Mississippi Field Office at 601/321-1121.
 
+## Submit Your Comments
+
 With this proposal, the Service is seeking comments, suggestions, and any additional information on biology, threats, range, distribution, population size, or current or planned activities and the activities’ possible impacts on this species or its proposed critical habitat.
 
 Public comments on the proposed rule will be accepted until February 1, 2010\. Written comments on the proposed rule should be submitted by one of the following methods:
@@ -28,9 +35,7 @@ Written requests for a public hearing will be accepted until January 19, 2010.
 
 A final decision on whether or not to designate critical habitat will consider all comments and information received by the comment-period deadline. All comments will be posted on http://www.regulations.gov"> which will include any personal information provided.
 
-The U.S. Fish and Wildlife Service is the principal federal agency responsible for conserving, protecting and enhancing fish, wildlife and plants and their habitats for the continuing benefit of the American people. For more information, visit the Service’s website at [http://www.fws.gov](http://www.fws.gov/) or [http://www.fws.gov/southeast/](http://www.fws.gov/southeast)
-
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

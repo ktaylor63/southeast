@@ -1,10 +1,16 @@
 ---
-title: Reward Offered for Information on Killing of a Bald Eagle in Lucedale, Mississippi - $2,500 to Help Identify the Shooter
-date: 2012-03-07
+title: 'Reward Offered for Information on Killing of a Bald Eagle in Lucedale, Mississippi - $2,500 to Help Identify the Shooter'
+date: '2012-03-07'
+hero:
+    name: bald-eagle-shot-lucedale.jpg
+    alt: 'Three men hold a bald eagles wings wide for measurement.'
+    caption: '(L) Timmy Murray, who found this dead bald eagle, helps measure it with Mississippi Wildlife Fisheries and parks Conservation Officers Ron McMillan and (R) Christopher Rounsville. Photo taken by Jan Hilbunn, George County Times (601) 947-2967. George County Times has given the Service verbal permission to use the photograph for a press release.'
+    position: 'bottom center'
 tags:
- - Bald eagle
- - Law Enfocement
- - Mississippi
+    - 'Bald eagle'
+    - 'Law Enfocement'
+    - Mississippi
+updated: 'October 20th, 2016'
 ---
 
 A bald eagle was shot on February 10, 2012, in Lucedale, Mississippi. The shooting took place near the George County Co-Op. Investigators are seeking information related to the shooting. A joint investigation is being conducted by Mississippi Department of Wildlife, Fisheries and Parks and the U.S. Fish and Wildlife Service.
@@ -31,7 +37,7 @@ Species information:  Bald eagles take four to five years to mature, but many d
 
 Please contact:  U.S. Fish and Wildlife Service Special Agent Ben Bryant at (985) 882-3756 or Mississippi Department of Wildlife, Fisheries and Parks at 1-800-Be-Smart with any information.
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

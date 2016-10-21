@@ -1,15 +1,21 @@
 ---
-title: Service Estimates Economic Impact of Critical Habitat Designations for Three Southern Plants
-date: 2014-05-28
+title: 'Service Estimates Economic Impact of Critical Habitat Designations for Three Southern Plants'
+date: '2014-05-28'
+hero:
+    name: shorts-bladderpod.jpg
+    alt: 'A long stemmed plant with bright yellow flowers.'
+    link: 'https://flic.kr/p/nLDRtK'
+    caption: 'Short''s bladderpod. Photo by John MacGregor, Kentucky Department of Fish and Wildlife Resources.'
 tags:
- - Critical Habitat
- - Fleshy-fruit gladecress
- - Whorled sunflower
- - Short's bladderpod
- - Alabama
- - Georgia
- - Tennessee
- - Kentucky
+    - 'Critical Habitat'
+    - 'Fleshy-fruit gladecress'
+    - 'Whorled sunflower'
+    - 'Short''s bladderpod'
+    - Alabama
+    - Georgia
+    - Tennessee
+    - Kentucky
+updated: 'October 21st, 2016'
 ---
 
 The U.S. Fish and Wildlife Service [seeks additional public comment](http://www.fws.gov/southeast/news/2014/Comment_Instructions_3_SE_Plants.pdf) on proposed critical habitat for three plants found in Alabama, Georgia, Indiana, Kentucky and Tennessee. About 2,488 acres on 30 parcels have been identified as habitat critical to the plants’ survival.
@@ -38,12 +44,12 @@ To submit written comments on the draft economic analysis and/or proposed critic
 
 Landowners interested in helping the Service recover the Short’s bladderpod and the whorled sunflower, or seeking more information about the potential implications of the listing and critical habitat designation, should contact Geoff Call in the Service’s Tennessee Field Office at 931-525-4983, or via e-mail at [Geoff_Call@fws.gov](mailto:Geoff_Call@fws.gov).  For fleshy fruit gladecress, please contact Shannon Holbrook in the Service’s Alabama Field Office at 251-441-5871, or via email at [Shannon_Holbrook@fws.gov](mailto:Shannon_Holbrook@fws.gov?subject=Three%20southern%20plants).
 
-**Additional Resources:**
+## Additional Resources
 
-*   [How to Submit Comments](http://www.fws.gov/southeast/news/2014/Comment_Instructions_3_SE_Plants.pdf) (PDF)
-*   [Frequently Asked Questions](http://www.fws.gov/southeast/news/2014/QandA_3_SE_Plants.pdf) (PDF)
+- [How to Submit Comments](http://www.fws.gov/southeast/news/2014/Comment_Instructions_3_SE_Plants.pdf) (PDF)
+- [Frequently Asked Questions](http://www.fws.gov/southeast/news/2014/QandA_3_SE_Plants.pdf) (PDF)
 
-**Contact(s):**  
+## Contacts
 
 Tom MacKenzie  
 404-679-7291  
@@ -52,10 +58,3 @@ Tom MacKenzie
 Geoff Call   
 931-525-4983  
 [Geoff_Call@fws.gov](mailto:Geoff_Call@fws.gov)
-
-* * *
-
-![A tall plant with multiple small yellow flowers.](images/newsUploads/newsThumbs/newsImageThumb43DFBC85-DDAA-48AF-E7A5829F4F29C9A6.jpg)
-
-Short's bladderpod. Credit: John MacGregor / Kentucky Department of Fish and Wildlife Resources  
-[Higher Quality Version of Image](https://flic.kr/p/nLDRtK)

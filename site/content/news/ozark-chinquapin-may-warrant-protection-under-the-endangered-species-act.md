@@ -1,8 +1,14 @@
 ---
-title: Ozark Chinquapin May warrant protection under the Endangered Species Act
-date: 2010-06-01
+title: 'Ozark Chinquapin May warrant protection under the Endangered Species Act'
+date: '2010-06-01'
+hero:
+    name: ozark-chinquapin.jpg
+    alt: 'A green leafy tree with fuzzy green buds.'
+    link: 'https://flic.kr/p/fZezJ9'
+    caption: 'Ozark chinquapin. Photo by <a href=\"https://www.flickr.com/photos/cafnr/\" target=\"_blank\">CAFNR</a> <a href=\"https://creativecommons.org/licenses/by-nc/2.0/\" target=\"_blank\">CC BY-NC 2.0</a>.'
 tags:
- - Ozark chinquapin
+    - 'Ozark chinquapin'
+updated: 'October 20th, 2016'
 ---
 
 The Ozark chinquapin may warrant federal protection as a threatened or endangered species, so the U.S. Fish and Wildlife Service will initiate an in-depth, range-wide, scientific review of the species’ current status, known as a 12-month finding.
@@ -19,11 +25,9 @@ Comments on the 90-day finding must be received by August 2, 2010, and can be su
 
 [http://www.regulations.gov](http://www.regulations.gov/)
 
-2.  U.S. Mail or hand-delivered to Public Comments Processing, Attn: FWS-R4-ES-2010-0026 Division of Policy and Directives Management; U.S. Fish and Wildlife Service, 4401 N. Fairfax Drive, Suite 222; Arlington, VA 22203.
+U.S. Mail or hand-delivered to Public Comments Processing, Attn: FWS-R4-ES-2010-0026 Division of Policy and Directives Management; U.S. Fish and Wildlife Service, 4401 N. Fairfax Drive, Suite 222; Arlington, VA 22203.
 
-The mission of the U.S. Fish and Wildlife Service is working with others to conserve, protect and enhance fish, wildlife, plants and their habitats for the continuing benefit of the American people. For more information, please visit or [http://www.fws.gov/">](http://www.fws.gov/) or [http://www.fws.gov/southeast/](http://www.fws.gov/southeast/).
-
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

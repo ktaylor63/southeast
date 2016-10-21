@@ -1,8 +1,14 @@
 ---
-title: Service Releases 2014 List of Candidates for Endangered Species Act Protection
-date: 2014-12-05
+title: 'Service Releases 2014 List of Candidates for Endangered Species Act Protection'
+date: '2014-12-05'
+hero:
+    name: georgia-aster.jpg
+    alt: 'Ten to twenty bright purple flowers emerge from thick vegetation.'
+    link: 'https://flic.kr/p/mhjfW4'
+    caption: 'Georgia aster. Photo by Michele Elmore, The Nature Conservancy, Georgia.'
 tags:
- - At-Risk species
+    - 'At-Risk species'
+updated: 'October 21st, 2016'
 ---
 
 The U.S. Fish and Wildlife Service has released the Candidate Notice of Review, a yearly status appraisal of plants and animals that are candidates for Endangered Species Act (ESA) protection. Twenty-two species from Hawaii and one from Independent Samoa and American Samoa were added to the candidate list, one species was removed, and one has changed in priority from the last review conducted in November 2013\. There are now [146 species recognized by the Service as candidates for ESA protection](http://ecos.fws.gov/tess_public/pub/SpeciesReport.do?listingType=C&mapstatus=1).
@@ -21,7 +27,7 @@ All candidate species are assigned a listing priority number based on the magnit
 
 The complete notice and list of proposed and candidate species is published in the _Federal Register_ and can be found online at [http://www.fws.gov/endangered/what-we-do/cnor.html](http://www.fws.gov/endangered/what-we-do/cnor.html).
 
-**Contact(s):**  
+## Contacts
 
 Christina Meister, USFWS Headquarters  
 703-358-2284  
@@ -30,10 +36,3 @@ Christina Meister, USFWS Headquarters
 Tom MacKenzie, USFWS Southeast Region  
 404-679-7291  
 [Tom_MacKenzie@fws.gov](mailto:Tom_MacKenzie@fws.gov)
-
-* * *
-
-![Clumps of purple daisy-like flowers.](images/newsUploads/newsThumbs/newsImageThumb1ADF85A3-D50B-BB75-48BE56D62F1C02CF.jpg)
-
-Georgia aster. Credit: Michele Elmore / The Nature Conservancy  
-[Higher Quality Version of Image](http://www.fws.gov/asheville/photos/Georgia%20aster%20flowers%20for%20distribution%20Credit%20Michele%20Elmore%20TNC-GA.jpg)

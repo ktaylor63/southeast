@@ -1,6 +1,11 @@
 ---
 title: Service Approves Incidental Take Permit for NiSource Multi-state Habitat Conservation Plan
-date: 2013-11-14
+date: '2013-11-14'
+hero:
+  name: kirtlands-warbler.jpg
+  alt: A small yellow breasted bird with grey feathers.
+  link: https://flic.kr/p/97xaNJ
+  caption: Kirtland&rsquo;s warblers nest exclusively in jack pine stands. Photo by Joel Trick, USFWS.
 tags:
  - Habitat Conservation Plan
 ---

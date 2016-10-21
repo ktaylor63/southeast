@@ -1,11 +1,17 @@
 ---
-title: Orangeburg National Fish Hatchery Celebrates a Century of Conservation
-date: 2011-09-19
+title: 'Orangeburg National Fish Hatchery Celebrates a Century of Conservation'
+date: '2011-09-19'
+hero:
+    name: orangeburg-hatchery-sign.jpg
+    alt: 'Sign at the entrance of the hatchery.'
+    link: 'https://flic.kr/p/dcwqi9'
+    caption: 'Orangeburg National Fish Hatchery. Photo by Robert Pos, USFWS.'
 tags:
- - NFH
+    - NFH
+updated: 'October 20th, 2016'
 ---
 
-ORANGEBURG, SC — Mules and pond scoops led the way with the first excavation work to build the Orangeburg National Fish Hatchery 100 years ago this month. Today the hatchery is an integral part of the community in Orangeburg, South Carolina, near Lakes Marion and Moultrie. The U. S. Fish and Wildlife Service will host a public celebration at the hatchery on Wednesday, September 28, 2011, at 10 a. m. to rededicate the century-old facility. “It’s an honor to witness a huge milestone of one of the real gems in the Service's National Fish Hatchery System, ” says Cindy Dohner, Southeast Regional Director of the U. S. Fish and Wildlife Service. “Orangeburg has served a critical role in fisheries conservation in our Region, and its good work will become even more critical in the century to come. ”  
+**ORANGEBURG, SC** — Mules and pond scoops led the way with the first excavation work to build the Orangeburg National Fish Hatchery 100 years ago this month. Today the hatchery is an integral part of the community in Orangeburg, South Carolina, near Lakes Marion and Moultrie. The U. S. Fish and Wildlife Service will host a public celebration at the hatchery on Wednesday, September 28, 2011, at 10 a. m. to rededicate the century-old facility. “It’s an honor to witness a huge milestone of one of the real gems in the Service's National Fish Hatchery System, ” says Cindy Dohner, Southeast Regional Director of the U. S. Fish and Wildlife Service. “Orangeburg has served a critical role in fisheries conservation in our Region, and its good work will become even more critical in the century to come. ”  
 
 Service representatives, other organizations and agencies, and the community are invited to attend the free event, followed by a luncheon and hatchery tours. Students from a local elementary school will plant a pollinator garden at the hatchery to commemorate the milestone.  
 
@@ -17,17 +23,17 @@ Orangeburg National Fish Hatchery is a popular destination for 20,000 visitors e
 
 More information on the Orangeburg National Fish Hatchery is available on its website at [www.fws.gov/orangeburg](http://www.fws.gov/orangeburg).
 
-**Additional Resources:**
+## Additional Resources
 
-*   Photo download: [historic 1920's photo of Orangeburg](http://www.fws.gov/southeast/news/2011/images/Orangeburg1920.bmp). Credit: USFWS.
-*   Photo download: [Willie Booker working with South Carolina DNR](http://www.fws.gov/southeast/news/2011/images/OrangeburgandSCDNR.jpg). Credit: USFWS.
-*   Photo download: [Orangeburg National Fish Hatchery Manager Willie Booker with a shortnose sturgeon](http://www.fws.gov/southeast/news/2011/images/Times%20and%20Democrat%20Sturgeon%20Photo.jpg). Photo reprinted with permission of The Times and Democrat, Orangeburg, South Carolina.
-*   Photo download: [Willie Booker on the grounds of Orangeburg National Fish Hatchery](http://www.fws.gov/southeast/news/2011/images/Willie%20Outside%20Times%20and%20Democrat.jpg). Photo reprinted with permission of The Times and Democrat, Orangeburg, South Carolina.
-*   Photo download: [A look inside Orangeburg National Fish Hatchery](http://www.fws.gov/southeast/news/2011/images/Orangeburg%20National%20Fish%20Hatchery%20Times%20and%20Democrat.jpg). Photo courtesy of The Times and Democrat, Orangeburg South Carolina.
-*   Photo download: [Holding tanks at Orangeburg](http://www.fws.gov/southeast/news/2011/images/Holding%20Tanks%20Times%20and%20Democrat.jpg). Photo courtesy of The Times and Democrat, Orangeburg South Carolina.
-*   Photo download: [A fish display for visitors](http://www.fws.gov/southeast/news/2011/images/Display%20Times%20and%20Democrat.jpg). Photo courtesy of The Times and Democrat, Orangeburg South Carolina.
+- Photo download: [historic 1920's photo of Orangeburg](http://www.fws.gov/southeast/news/2011/images/Orangeburg1920.bmp). Credit: USFWS.
+- Photo download: [Willie Booker working with South Carolina DNR](http://www.fws.gov/southeast/news/2011/images/OrangeburgandSCDNR.jpg). Credit: USFWS.
+- Photo download: [Orangeburg National Fish Hatchery Manager Willie Booker with a shortnose sturgeon](http://www.fws.gov/southeast/news/2011/images/Times%20and%20Democrat%20Sturgeon%20Photo.jpg). Photo reprinted with permission of The Times and Democrat, Orangeburg, South Carolina.
+- Photo download: [Willie Booker on the grounds of Orangeburg National Fish Hatchery](http://www.fws.gov/southeast/news/2011/images/Willie%20Outside%20Times%20and%20Democrat.jpg). Photo reprinted with permission of The Times and Democrat, Orangeburg, South Carolina.
+- Photo download: [A look inside Orangeburg National Fish Hatchery](http://www.fws.gov/southeast/news/2011/images/Orangeburg%20National%20Fish%20Hatchery%20Times%20and%20Democrat.jpg). Photo courtesy of The Times and Democrat, Orangeburg South Carolina.
+- Photo download: [Holding tanks at Orangeburg](http://www.fws.gov/southeast/news/2011/images/Holding%20Tanks%20Times%20and%20Democrat.jpg). Photo courtesy of The Times and Democrat, Orangeburg South Carolina.
+- Photo download: [A fish display for visitors](http://www.fws.gov/southeast/news/2011/images/Display%20Times%20and%20Democrat.jpg). Photo courtesy of The Times and Democrat, Orangeburg South Carolina.
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

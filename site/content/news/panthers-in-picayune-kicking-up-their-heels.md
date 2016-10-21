@@ -1,13 +1,17 @@
 ---
-title: Panthers in Picayune Kicking Up Their Heels
-date: 2010-03-31
+title: 'Panthers in Picayune Kicking Up Their Heels'
+date: '2010-03-31'
+hero:
+    name: florida-panthers-from-plane.jpg
+    alt: 'Photograph of female florida panther trailed by two cubs.'
+    caption: 'Panther #170 and kittens walking in the northeastern portion on Picayune Strand Restoration Project on March 1, 2010. By Darrell Land, Panther Team Leader, FWC.'
 tags:
- - Florida
- - Florida panther
+    - Florida
+    - 'Florida panther'
+updated: 'October 20th, 2016'
 ---
 
-
-A rare photograph taken earlier this month of a Florida panther and her two kittens is making the e-mail rounds among wildlife biologists and conservation partners who have toiled for decades to restore the big cat’s habitat.
+A rare photograph taken earlier this month of a [Florida panther](/wildlife/mammals/florida-panther) and her two kittens is making the e-mail rounds among wildlife biologists and conservation partners who have toiled for decades to restore the big cat’s habitat.
 
 The photo, taken from an airplane above Picayune Strand near Naples, captures the trailing kitten mid-leap, as if euphorically kicking up her heels in delight.
 
@@ -23,7 +27,7 @@ In addition to rehydrating the wetlands, the Corps and the South Florida Water M
 
 As Janet Starnes, project manager for the Water District told her colleagues, the panther photo “makes us smile and want to go to work the next day to finish the project.”
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

@@ -1,33 +1,12 @@
-<div class="NewsCategory">Press Release</div>
-
-<div class="NewsTitle">Norfork National Fish Hatchery begins project to replace raceway drain lines</div>
-
-#### March 4, 2015
-
-**Contact(s):**  
-
-Jon Casey, USFWS  
-870-499-5255  
-[Jon_Casey@fws.gov](mailto:Jon_Casey@fws.gov)
-
-Tom MacKenzie, USFWS  
-404-679-7291  
-[Tom_MacKenzie@fws.gov](mailto:Tom_MacKenzie@fws.gov)  
-
-* * *
-
-<div style="width:320px">
-
-<div class="img-thumbnail" style="float:left; margin-right:15px">
-
-![](images/newsUploads/newsThumbs/newsImageThumbEA6648E7-FE92-629D-CC0D1FEB168A0280.jpg)
-
-<div class="caption muted" style="padding-right:10px; padding-left:10px">Norfork National Fish Hatchery. Credit: Jon Casey.  
-[Higher Quality Version of Image](http://www.fws.gov/southeast/news/images/Norfork-National-Fish-Hatchery-by-Jon-Casey-USFWS.jpg)</div>
-
-</div>
-
-</div>
+---
+title: 'Norfork National Fish Hatchery begins project to replace raceway drain lines'
+hero:
+    name: norfork-national-fish-hatchery.jpg
+    alt: 'Entrance sign at the hatchery.'
+    caption: 'Norfork National Fish Hatchery. Photo by Jon Casey.'
+date: '2015-03-04'
+updated: 'October 20th, 2016'
+---
 
 Norfork National Fish Hatchery, near Mountain Home, Arkansas, will begin replacing the hatchery’s drain lines to reduce erosion, but will remain open to the public during that time.  The first phase of the project starts around March 18, and will take four or five months to complete
 
@@ -43,6 +22,12 @@ Norfork National Fish Hatchery will continue to raise fish while the drain lines
 
 Opened in 1957, Norfork National Fish Hatchery is a cold-water hatchery established to raise trout for restocking areas impacted by construction of dams, primarily in the tailwaters of Norfork and Bull Shoals.  Norfork National Fish Hatchery does not have any adult trout for breeding purposes. The hatchery receives fertilized eggs from federal broodstock hatcheries. When the eggs arrive at Norfork they are placed into large hatching jars. The eggs will begin to hatch in approximately two weeks after they are placed into the hatching jars. After the eggs hatch they are placed in aluminum troughs or tanks, where they will stay about three or four months until they are about two or three inches long.  They are then moved to the raceways outside where they continue to grow until they are large enough to stock at 11 inches, usually at 22 months of age.  Hatchery fish are raised, harvested, and stocked year-round.
 
-_The mission of the U.S. Fish and Wildlife Service is working with others to conserve, protect, and enhance fish, wildlife, plants, and their habitats for the continuing benefit of the American people. We are both a leader and trusted partner in fish and wildlife conservation, known for our scientific excellence, stewardship of lands and natural resources, dedicated professionals, and commitment to public service. For more information on our work and the people who make it happen, visit_ [_www.fws.gov_](http://www.fws.gov/).
+## Contacts
 
-_For more information on our work and the people who make it happen, visit_ [_http://www.fws.gov/_](http://www.fws.gov/)_. Connect with our_ [_Facebook page_](https://www.facebook.com/usfws)_, follow our_ [_tweets_](https://twitter.com/usfwshq)_, watch our_ [_YouTube Channel_](https://www.youtube.com/usfws) _and download photos from our_ [_Flickr page_](http://www.flickr.com/photos/usfwshq/).
+Jon Casey, USFWS  
+870-499-5255  
+[Jon_Casey@fws.gov](mailto:Jon_Casey@fws.gov)
+
+Tom MacKenzie, USFWS  
+404-679-7291  
+[Tom_MacKenzie@fws.gov](mailto:Tom_MacKenzie@fws.gov)  

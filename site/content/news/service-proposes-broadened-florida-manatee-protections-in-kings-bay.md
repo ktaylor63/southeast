@@ -1,13 +1,19 @@
 ---
 title: Service Proposes Broadened Florida Manatee Protections in Kings Bay
-date: 2011-06-21
+date: '2011-06-21'
+hero:
+    name: manatee-closeup-with-fish.jpg
+    alt: 'A manatee partially covered in algae looks directly into the camera surrounded by a school of fish.'
+    link: 'https://flic.kr/p/CmXCFB'
+    caption: 'Manatee. Photo by S. Whitecraft, USFWS.'
+    position: 'top center'
 tags:
  - Manatee
  - Law Enforcement
  - Florida
 ---
 
-The U. S. Fish and Wildlife Service (Service) announced today a proposal to expand federal protection areas for manatees in Citrus County, Florida, by creating a manatee refuge including all of Kings Bay in Crystal River. The proposed area of the Kings Bay manatee refuge has not changed from what was identified in the emergency designation.  
+The U. S. Fish and Wildlife Service (Service) announced today a proposal to expand federal protection areas for [manatees](/wildlife/mammals/manatee) in Citrus County, Florida, by creating a manatee refuge including all of Kings Bay in Crystal River. The proposed area of the Kings Bay manatee refuge has not changed from what was identified in the emergency designation.  
 
 The manatee refuge would include all waters of Kings Bay, its tributaries and adjoining water bodies upstream of the confluence of Kings Bay and Crystal River. In addition to the proposed rule, the Service is making available its related draft environmental assessment (EA) for comment.  
 
@@ -27,25 +33,25 @@ The new provisions include watercraft speed restrictions in Kings Bay to slow sp
 
 If made final, manatee viewing guidelines, many of which have been in place for several years, would be permanently incorporated into the rule as prohibited acts and would be legally enforceable by federal and state marine law enforcement officers. Activities identified in the proposed rule that would be specifically prohibited throughout the manatee refuge include:
 
-*   Chasing or pursuing manatee(s).
-*   Disturbing or touching resting or feeding manatee(s).
-*   Diving from the surface on to resting or feeding manatee(s).
-*   Cornering or surrounding or attempting to corner or surround manatee(s).
-*   Riding, holding, grabbing, or pinching or attempting to ride, hold, grab, or pinch manatee(s).
-*   Poking, prodding, or stabbing, or attempting to poke, prod, or stab manatee(s) with anything, including hands and feet.
-*   Standing on or attempting to stand on manatee(s).
-*   Separating a mother and calf or attempting to separate a mother and calf.
-*   Separating manatee(s) from a group or attempting to separate manatee(s) from a group.
-*   Giving manatee(s) anything to eat or drink or attempting to give manatee(s) anything to eat or drink.
-*   Actively initiating contact with belted and/or tagged manatee(s) and associated gear, including any belts, harnesses, tracking devices, and  antennae.
-*   Interfering with rescue and research activities.
-*   Using mooring and float lines that can entangle manatees.
+ - Chasing or pursuing manatee(s).
+ - Disturbing or touching resting or feeding manatee(s).
+ - Diving from the surface on to resting or feeding manatee(s).
+ - Cornering or surrounding or attempting to corner or surround manatee(s).
+ - Riding, holding, grabbing, or pinching or attempting to ride, hold, grab, or pinch manatee(s).
+ - Poking, prodding, or stabbing, or attempting to poke, prod, or stab manatee(s) with anything, including hands and feet.
+ - Standing on or attempting to stand on manatee(s).
+ - Separating a mother and calf or attempting to separate a mother and calf.
+ - Separating manatee(s) from a group or attempting to separate manatee(s) from a group.
+ - Giving manatee(s) anything to eat or drink or attempting to give manatee(s) anything to eat or drink.
+ - Actively initiating contact with belted and/or tagged manatee(s) and associated gear, including any belts, harnesses, tracking devices, and  antennae.
+ - Interfering with rescue and research activities.
+ - Using mooring and float lines that can entangle manatees.
 
 In addition to the above prohibited activities, the following waterborne activities would be prohibited within Three Sisters Springs from November 15 to March 31:  
 
-o       Entering Three Sisters Spring between 6:00 p.m. and 7:00 a.m.  
-o       Scuba diving  
-o       Fishing, including but not limited to fishing by hook and line, by cast net, or spear.  
+ - Entering Three Sisters Spring between 6:00 p.m. and 7:00 a.m.  
+ - Scuba diving  
+ - Fishing, including but not limited to fishing by hook and line, by cast net, or spear.  
 
 Manatee protection areas are designated in the water and do not include land acquisition or land parcels. Public and private waterfront property owners and their designees retain riparian access to their properties and can maintain property and waterways when their property adjoins or is located in a manatee refuge. Public and private waterfront property owners would be required to obtain a sticker and letter of authorization allowing them to operate their boats and conduct property and waterway maintenance activities in a manner consistent with the refuge or sanctuary measures that are in effect adjacent to their property.  
 
@@ -53,13 +59,15 @@ The Service encourages all stakeholders to comment on the proposed designation. 
 
 Please note that submissions merely stating support for or opposition to the proposed rule without providing supporting information, although noted, will not be considered in making a final decision, as the ESA and our implementing regulations direct decisions be made "solely on the basis of the best scientific and commercial data available."  
 
-You may submit comments on the proposed rule and EA by one of the following methods:
+## Submit Your Comments
 
-*   Federal eRulemaking Portal: http://www.regulations.gov. Follow the instructions for submitting comments to Docket No. [FWS'R4'ES'2010'0079].
-*   U. S. mail or hand-delivery: Public Comments Processing, Attn: Docket No. [FWS'R4'ES'2010'0079]; Division of Policy and Directives Management; U. S. Fish and Wildlife Service; 4401 N. Fairfax Drive, MS 2042? PDM; Arlington, VA 22203.
-*   Verbally by attending the formal public hearing. You may also submit written comments at the public hearing.
+ - Federal eRulemaking Portal: http://www.regulations.gov. Follow the instructions for submitting comments to Docket No. [FWS'R4'ES'2010'0079].
+ - U. S. mail or hand-delivery: Public Comments Processing, Attn: Docket No. [FWS'R4'ES'2010'0079]; Division of Policy and Directives Management; U. S. Fish and Wildlife Service; 4401 N. Fairfax Drive, MS 2042? PDM; Arlington, VA 22203.
+ - Verbally by attending the formal public hearing. You may also submit written comments at the public hearing.
 
 Comments must be received within 60 days, on or before August 22, 2011\. The Service will post all comments on http://www.regulations.gov. This generally means the agency will post any personal information provided through the process. The Service is not able to accept email or faxes.  
+
+## Open House
 
 The Service has scheduled an informational open house and formal public hearing on July 7, 2011, as follows:  
 
@@ -75,11 +83,11 @@ Formal Public Hearing: 7:00 p.m. to 9:00 p.m.
 
 The open house affords the interested parties an informal opportunity to hear information and ask questions about the proposed manatee refuge rule. The formal public hearing provides a formal, structured opportunity for interested parties to verbally express their comments on the proposed rule.  
 
-For more information about the manatee and this proposed rule, please visit the Service at http://www.fws.gov/southeast/ or http://www.fws.gov/northflorida/.  
+Learn more about the [manatee](/wildlife/mammals/manatee).
 
 Follow the regional office's Twitter feed: #floridamanatee, #crystalriver, #endangeredspecies
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

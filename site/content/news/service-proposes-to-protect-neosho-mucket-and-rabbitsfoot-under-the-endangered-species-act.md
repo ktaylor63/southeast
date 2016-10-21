@@ -1,9 +1,14 @@
 ---
-title: Service Proposes to Protect Neosho Mucket and Rabbitsfoot under the Endangered Species Act
-date: 2012-10-15
+title: 'Service Proposes to Protect Neosho Mucket and Rabbitsfoot under the Endangered Species Act'
+date: '2012-10-15'
+hero:
+    name: rabbitsfoot.jpg
+    alt: 'A mussel with brownish outer shell and a glossy white inner shell that resembles a baked potato.'
+    caption: 'Threatened rabbitsfoot mussel. Photo by Bob Butler, USFWS.'
 tags:
- - Neosho mucket
- - Rabbitsfoot
+    - 'Neosho mucket'
+    - Rabbitsfoot
+updated: 'October 21st, 2016'
 ---
 
 Current evidence suggests that the Neosho mucket mussel is in danger of becoming extinct and the rabbitsfoot mussel may become threatened with extinction in the foreseeable future, the U.S. Fish and Wildlife Service announced today.  As a result, the Service has proposed to protect the species under the Endangered Species Act, and is seeking new information from the public and the scientific community that will assist the agency in making a final determination.
@@ -42,18 +47,20 @@ Today’s proposal is part of the Service’s effort to implement a court-approv
 
 The final decision to add the Neosho mucket and rabbitsfoot to the Federal List of Endangered and Threatened Wildlife and Plants, as well as the final identification of areas containing habitat essential to the species, will be based on the best scientific information available.  In addition, the Service will utilize an economic analysis to inform and refine its identification of this habitat. Only areas that contain habitat essential to the conservation of the species, and where the benefits of this habitat outweigh potential economic impacts, will be included in the final identification.
 
+## Submit Your Comments
+
 The Service will open a 60-day public comment period on the proposal to list these two mussel species under the ESA with critical habitat.  This will allow the public to review and comment on the proposal and provide additional information.  All relevant information received from the public, government agencies, the scientific community, industry, or any other interested parties will be considered and addressed in the agency’s final listing determination for the species and identification of habitat essential to its conservation.
 
 Comments should be submitted by one of the following methods:
 
-*   **Federal eRulemaking Portal:**  [http://www.regulations.gov](http://www.regulations.gov/).  Follow the instructions for submitting comments on Attn: FWS–ES–R4–2012–0031
-*   **U.S. mail or hand-delivery: **  Public Comments Processing, Attn: Attn: FWS–R4–ES–2012–0031, Division of Policy and Directives Management; U.S. Fish and Wildlife Service; 4401 North Fairfax Drive, Suite 222, Arlington, VA 22203.  All comments, including personal information, will be available on [http://www.regulations.gov](http://www.regulations.gov/).
+- **Federal eRulemaking Portal:**  [http://www.regulations.gov](http://www.regulations.gov/).  Follow the instructions for submitting comments on Attn: FWS–ES–R4–2012–0031
+- **U.S. mail or hand-delivery:**  Public Comments Processing, Attn: Attn: FWS–R4–ES–2012–0031, Division of Policy and Directives Management; U.S. Fish and Wildlife Service; 4401 North Fairfax Drive, Suite 222, Arlington, VA 22203.  All comments, including personal information, will be available on [http://www.regulations.gov](http://www.regulations.gov/).
 
 Public hearings on this proposal must be requested by November 30, 2012, within 45 days of this announcement.   Please contact Mr. Chris Davidson, Arkansas Ecological Services Field Office, 110 South Amity Road, Suite 300, Conway, Arkansas 72032, telephone 501/513-4470.
 
 Comments must be received on or before December 17, 2012.
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

@@ -1,12 +1,18 @@
 ---
-title: Salazar Applauds Passage of Legislation Naming Mississippi Refuge After Sam Hamilton
-date: 2012-02-15
+title: 'Salazar Applauds Passage of Legislation Naming Mississippi Refuge After Sam Hamilton'
+date: '2012-02-15'
+hero:
+    name: null
+    alt: null
+    link: 'https://flic.kr/p/cuCjXh'
+    caption: 'Unveiling of the new entrance sign at Sam D. Hamilton Noxubee National Wildlife Refuge.  Photo by Tom MacKenzie, USFWS.'
 tags:
- - Mississippi
- - NWRS
+    - Mississippi
+    - NWRS
+updated: 'October 20th, 2016'
 ---
 
-WASHINGTON, D.C. — Secretary of the Interior Ken Salazar today praised President Obama for signing into law legislation to change the name of Noxubee National Wildlife Refuge in Mississippi to the Sam D. Hamilton Noxubee National Wildlife Refuge, in honor of the late director of the U.S. Fish and Wildlife Service.  
+**WASHINGTON, D.C.** — Secretary of the Interior Ken Salazar today praised President Obama for signing into law legislation to change the name of Noxubee National Wildlife Refuge in Mississippi to the Sam D. Hamilton Noxubee National Wildlife Refuge, in honor of the late director of the U.S. Fish and Wildlife Service.  
 
 “It is fitting that Sam’s distinguished career and extraordinary contributions to wildlife conservation – and especially the National Wildlife Refuge System – will be honored by this tribute,” Secretary Salazar said. “Sam Hamilton first fell in love with fish and wildlife at Noxubee National Wildlife Refuge where he started working at age 15 for the Youth Conservation Corps. It is fitting that now that same refuge will carry his name so that his great conservation legacy will live on.”  
 
@@ -19,7 +25,7 @@ A 30-year career employee of the Service, he previously had served in a variety 
 
 Established in 1940, the Noxubee National Wildlife Refuge is located within the three Mississippi counties of Noxubee, Oktibbeha and Winston, near Starkville, Mississippi. Its 42,500 acres of bottomland and upland woodlands provide essential habitat to the endangered red-cockaded woodpecker, the American alligator, bobcat, quail, white-tailed deer and wild turkeys. In addition 15,000 waterfowl, primarily American widgeons, gadwalls, mallards and wood ducks, winter on the Refuge.
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

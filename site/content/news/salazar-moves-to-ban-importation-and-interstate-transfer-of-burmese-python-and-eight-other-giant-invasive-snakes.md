@@ -1,13 +1,18 @@
 ---
-title: Salazar Moves to Ban Importation and Interstate Transfer of Burmese Python and Eight Other Giant Invasive Snakes
-date: 2010-01-20
+title: 'Salazar Moves to Ban Importation and Interstate Transfer of Burmese Python and Eight Other Giant Invasive Snakes'
+subtitle: 'Service to Propose Injurious Species Listing under Lacey Act'
+hero:
+    name: burmese-python.jpg
+    alt: 'A large snake with a black and brown pattern on its back moving through the grass.'
+    link: 'https://flic.kr/p/qSwB1w'
+    caption: 'Burmese python. Photo by Liz Barraco, FWC.'
+date: '2010-01-20'
 tags:
- - Lacey Act
+    - 'Lacey Act'
+updated: 'October 20th, 2016'
 ---
 
-**_FWS to Propose Injurious Species Listing under Lacey Act_**
-
-NEW YORK, NY – Secretary of the Interior Ken Salazar today announced the U.S. Fish and Wildlife Service will propose to list the Burmese python and eight other large constrictor snakes that threaten the Everglades and other sensitive ecosystems as “injurious wildlife” under the Lacey Act.
+**NEW YORK, NY** – Secretary of the Interior Ken Salazar today announced the U.S. Fish and Wildlife Service will propose to list the Burmese python and eight other large constrictor snakes that threaten the Everglades and other sensitive ecosystems as “injurious wildlife” under the Lacey Act.
 
 Salazar made the announcement at the Port of New York, which serves as the largest point of entry in the nation for imports of wildlife and wildlife products. Last year, U.S. Fish and Wildlife Service Inspectors at John F. Kennedy International Airport handled more than 27, 000 separate wildlife shipments valued at more than $1 billion, or 16 percent of all U.S. wildlife imports.
 
@@ -47,7 +52,7 @@ Salazar said he has directed the Fish and Wildlife Service to conduct a comprehe
 
 “I’ve asked the U.S. Fish and Wildlife Service to make recommendations regarding the potential tools we need to address the invasive species challenge – both to combat existing invasive species problems and act more effectively to prevent the introduction of new invasive threats into our country,” said Salazar.
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

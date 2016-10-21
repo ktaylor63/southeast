@@ -1,12 +1,17 @@
 ---
-title: Service Designates Critical Habitat for the Cape Sable Thoroughwort
-date: 2014-01-07
+title: 'Service Designates Critical Habitat for the Cape Sable Thoroughwort'
+date: '2014-01-07'
+hero:
+    name: cape-sable-thoroughwort.jpg
+    alt: 'A small leafy green plant with a white flower.'
+    caption: 'A small herb in the sunflower family with bluish-purple flowers. Photo by NPS.'
 tags:
- - Critical Habitat
- - Cape sable thoroughwort
+    - 'Critical Habitat'
+    - 'Cape sable thoroughwort'
+updated: 'October 21st, 2016'
 ---
 
-VERO BEACH, FL - The U.S. Fish and Wildlife Service is designating critical habitat for the endangered Cape Sable thoroughwort under the Endangered Species Act (ESA). The listing of the Cape Sable thoroughwort as endangered was announced in the October 24, 2013 _Federal Register_, and became effective on November 25, 2013.
+**VERO BEACH, FL** - The U.S. Fish and Wildlife Service is designating critical habitat for the endangered Cape Sable thoroughwort under the Endangered Species Act (ESA). The listing of the Cape Sable thoroughwort as endangered was announced in the October 24, 2013 _Federal Register_, and became effective on November 25, 2013.
 
 Cape Sable thoroughwort was historically known from Monroe County, both on the Florida mainland and the Florida Keys, and in Miami-Dade County along Florida Bay. The current range of Cape Sable thoroughwort includes areas in Everglades National Park and five islands in the Florida Keys. Cape Sable thoroughwort is a flowering perennial herb found in rockland hammocks, coastal hardwood hammocks, buttonwood forests, coastal rock barrens, and coastal berms. The decline of Cape Sable thoroughwort is primarily the result of habitat loss from commercial and residential development, sea level rise, storms, competition from non-native plants, predation by non-native herbivores, and wildfires.
 
@@ -24,15 +29,9 @@ The Service initially proposed to protect the Cape Sable thoroughwort, along wit
 
 For more information about these actions, please visit [www.fws.gov/verobeach](http://www.fws.gov/southeast/news/2014/www.fws.gov/verobeach) or the Federal Register at [http://www.regulations.gov](http://www.regulations.gov), Docket # FWS-R4-ES-2012-0076 and Docket # FWS-R4-ES-2013-0029.
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  
 Telephone: 703-358-2220  
 Website: [https://www.fws.gov/external-affairs/public-affairs/](https://www.fws.gov/external-affairs/public-affairs/)
-
-* * *
-
-![](images/newsUploads/newsThumbs/newsImageThumb8B3ACF7B-EAE6-2C97-76E763386B9D0506.jpg)
-
-Cape Sable Thoroughwort. Credit: Keith Bradley  

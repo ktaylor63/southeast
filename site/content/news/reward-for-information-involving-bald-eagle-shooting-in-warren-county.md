@@ -1,13 +1,19 @@
 ---
-title: $2,500 Reward for Information Involving Bald Eagle Shooting in Warren County
-date: 2011-03-31
+title: '$2,500 Reward for Information Involving Bald Eagle Shooting in Warren County'
+date: '2011-03-31'
+hero:
+    name: bald-eagle.jpg
+    alt: 'An adult bald eagle soars in front of a bright blue sky'
+    caption: 'A bald eagle in flight at Seedskadee National Wildlife Refuge. Photo by Tom Koerner, USFWS.'
+    link: 'https://flic.kr/p/CBbDh7'
 tags:
- - Reward
- - Bald eagle
- - North Carolina
+    - Reward
+    - 'Bald eagle'
+    - 'North Carolina'
+updated: 'October 20th, 2016'
 ---
 
-The U. S. Fish and Wildlife Service and the North Carolina Wildlife Resources Commission are investigating the shooting of a mature bald eagle on Faulkner Quarter Road near Wise, North Carolina, in Warren County.  A reward of up to $2,500 is being offered for information leading to a conviction of the person or persons responsible for killing the eagle.  
+The U.S. Fish and Wildlife Service and the North Carolina Wildlife Resources Commission are investigating the shooting of a mature bald eagle on Faulkner Quarter Road near Wise, North Carolina, in Warren County.  A reward of up to $2,500 is being offered for information leading to a conviction of the person or persons responsible for killing the eagle.  
 
 The eagle was discovered on March 20, 2011.  An examination by Dr. David Conde, West Hills Veterinary Clinic, in Henderson, North Carolina, determined that the eagle was shot, and had a broken wing. Despite being treated for its injuries, the eagle died on March 28, 2011.  
 
@@ -21,7 +27,7 @@ Bald eagles are protected by the Bald and Golden Eagle Protection Act and the Mi
 
 Bald eagles historically occurred throughout the United States, Canada, and Mexico.  It typically takes four or five years for bald eagles to mature, but many do not start breeding until they are much older.  They may live 15 to 25 years in the wild.  Bald eagles are large raptors with typical wingspans of about six to eight feet. Mature eagles have a dark brown body and wings, white head and tail, and a yellow beak.  A pair of bald eagles typically mates for life and builds a huge nest in the tops of trees near rivers, lakes, and marshes. Nests are often reused each year, and with the additions to the nests made annually, nests are often four to six feet wide and may weigh up to 1,000 pounds.
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

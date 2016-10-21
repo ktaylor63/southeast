@@ -1,17 +1,23 @@
 ---
-title: Salazar Announces Ban on Importation and Interstate Transportation of Four Giant Snakes that Threaten Everglades
-date: 2012-01-17
+title: 'Salazar Announces Ban on Importation and Interstate Transportation of Four Giant Snakes that Threaten Everglades'
+date: '2012-01-17'
+hero:
+    name: burmese-python.jpg
+    alt: 'A large snake with a black and brown pattern on its back moving through the grass.'
+    link: 'https://flic.kr/p/qSwB1w'
+    caption: 'Burmese python. Photo by Liz Barraco, FWC.'
 tags:
- - Lacey Act
- - Everglades
- - Florida
- - Burmese python
- - Yellow anaconda
- - Northern African python
- - Southern African python
+    - 'Lacey Act'
+    - Everglades
+    - Florida
+    - 'Burmese python'
+    - 'Yellow anaconda'
+    - 'Northern African python'
+    - 'Southern African python'
+updated: 'October 20th, 2016'
 ---
 
-WASHINGTON, D.C. – The U.S. Fish and Wildlife Service has finalized a rule that would ban the importation and interstate transportation of four nonnative constrictor snakes that threaten the Everglades and other sensitive ecosystems across the United States, Secretary of the Interior Ken Salazar announced today.  
+**WASHINGTON, D.C.** – The U.S. Fish and Wildlife Service has finalized a rule that would ban the importation and interstate transportation of four nonnative constrictor snakes that threaten the Everglades and other sensitive ecosystems across the United States, Secretary of the Interior Ken Salazar announced today.  
 
 The final rule – which incorporates public comments, economic analysis, and environmental assessment – lists the Burmese python, the yellow anaconda, and the northern and southern African pythons as injurious wildlife under the Lacey Act in order to restrict their spread in the wild in the United States. It is expected to publish in the Federal Register in the coming days.  
 
@@ -35,9 +41,9 @@ Interior and its partners, including the Florida Fish and Wildlife Conservation 
 
 Under the injurious wildlife provisions of the Lacey Act, the Department of the Interior is authorized to regulate the importation and interstate transport of wildlife species determined to be injurious to humans, the interests of agriculture, horticulture, forestry, or to wildlife or the wildlife resources of the United States.  
 
-For more information on injurious wildlife and efforts to list the four species of snakes as injurious under the Lacey Act, please visit: [http://www.fws.gov/invasives/news.html](http://www.fws.gov/invasives/news.html).
+For more information on injurious wildlife and efforts to list the four species of snakes as injurious under the Lacey Act, please visit: [fws.gov/invasives/news.html](http://www.fws.gov/invasives/news.html).
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

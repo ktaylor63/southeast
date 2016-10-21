@@ -1,11 +1,17 @@
 ---
-title: SeaWorld San Antonio Transports Rehabilitated Manatee via U.S. Coast Guard Plane to Sister Park in Orlando, FL
-date: 2015-02-18
+title: 'SeaWorld San Antonio Transports Rehabilitated Manatee via U.S. Coast Guard Plane to Sister Park in Orlando, FL'
+date: '2015-02-18'
+hero:
+    name: manatee-rescued.jpg
+    alt: 'Rescued manatee laying on a blue mat out of water.'
+    link: 'https://flic.kr/p/kx18SF'
+    caption: 'Manatee rescue Photo by FWC.'
 tags:
- - Manatee
+    - Manatee
+updated: 'October 20th, 2016'
 ---
 
-SAN ANTONIO, Texas – Earlier today, SeaWorld’s Animal Rescue Team and the U.S. Fish and Wildlife Service (USFWS) sent Trinidad, a male Florida manatee, to SeaWorld Orlando in a U.S. Coast Guard search and rescue plane.
+**SAN ANTONIO, TX** – Earlier today, SeaWorld’s Animal Rescue Team and the U.S. Fish and Wildlife Service (USFWS) sent Trinidad, a male Florida manatee, to SeaWorld Orlando in a U.S. Coast Guard search and rescue plane.
 
 After receiving care and rehabilitation at SeaWorld San Antonio for the past three months, Trinidad was healthy enough to make the trip, and is one step closer to being returned back to his natural environment.
 
@@ -36,7 +42,8 @@ The MRP is a cooperative group of non-profit, private, state, and federal entiti
 The HC-144A Ocean Sentry aircraft used for this transport is based out of Mobile, Alabama, and is part of the Coast Guard’s medium range surveillance aircraft fleet.
 
 All manatee rescue footage produced by SeaWorld under FWS Permit Number MA7701911.
-**Contact(s):**  
+
+## Contacts
 
 Susan Flower, swo.pr@seaworld.com, 321-689-9087
 
@@ -47,10 +54,3 @@ Ken Warren, ken_warren@fws.gov
 Lesli Gray, lesli_gray@fws.gov
 
 Brandon Basino, brandon_basino@MyFWC.com
-
-* * *
-
-![SeaWorld staff help to rescue a manatee with ](images/newsUploads/newsThumbs/newsImageThumb76C4ECA7-EF35-3CC5-A450A2490C635850.jpg)
-
-Manatee rescue Credit: MyFWC  
-[Higher Quality Version of Image](https://flic.kr/p/kx1PWg)</div>

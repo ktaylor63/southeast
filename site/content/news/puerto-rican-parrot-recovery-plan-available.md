@@ -1,10 +1,16 @@
 ---
-title: Puerto Rican Parrot Recovery Plan Available
-date: 2009-06-17
+title: 'Puerto Rican Parrot Recovery Plan Available'
+date: '2009-06-17'
+hero:
+    name: puerto-rican-parrot-iguaca-aviary.jpg
+    alt: 'A bright green parrot with red markings around it''s beak spreads it''s wings.'
+    link: 'https://flic.kr/p/9D3HG3'
+    caption: 'Endangered Puerto Rican parrot ceremonially released at the Iguaca Aviary. Photo by Tom MacKenzie, USFWS.'
 tags:
- - Recovery
- - Puerto Rico
- - Puerto Rican parrot
+    - Recovery
+    - 'Puerto Rico'
+    - 'Puerto Rican parrot'
+updated: 'October 20th, 2016'
 ---
 
 The Puerto Rican parrot recovery plan is updated and now available, the U.S. Fish and Wildlife Service announced today.
@@ -25,10 +31,9 @@ The original recovery plan was developed in 1982 and was first revised in 1987\.
 
 To obtain a copy of the second revision of the recovery plan, please contact the Rio Grande, Puerto Rico, Ecological Services Field Office at telephone 787-887-8769, or send a written request to U.S. Fish and Wildlife Service, P.O. Box 1600, Río Grande, Puerto Rico 00745.
 
-To view the plan on the web, please visit [http://www.fws.gov/endangered/recovery/index.html#plans](http://www.fws.gov/endangered/recovery/index.html#plans).  
-Search under “_[http://www.fws.gov/southeast/](http://ecos.fws.gov/tess_public/TESSWebpageRecovery'sort=1List of Recovery Plans, sorted by species</a></em>” and then under “Birds.”<br /> Look under “P” for Puerto Rican Parrot.</p> <p>The mission of the U.S. Fish and Wildlife Service is working with others to conserve, protect and enhance fish, wildlife, plants and their habitats for the continuing benefit of the American people. For more information, please visit <a href=) or [http://www.fws.gov/">](http://www.fws.gov/)_
+To view the plan on the web, please visit [fws.gov/endangered/recovery/index.html#plans](http://www.fws.gov/endangered/recovery/index.html#plans).  
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

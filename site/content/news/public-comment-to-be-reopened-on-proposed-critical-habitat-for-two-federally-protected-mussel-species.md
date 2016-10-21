@@ -1,14 +1,19 @@
 ---
-title: Public Comment to be Reopened on Proposed Critical Habitat for Two Federally Protected Mussel Species
-date: 2014-05-06
+title: 'Public Comment to be Reopened on Proposed Critical Habitat for Two Federally Protected Mussel Species'
+date: '2014-05-06'
+hero:
+    name: rabbitsfoot.jpg
+    alt: 'A mussel with brownish outer shell and a glossy white inner shell that resembles a baked potato.'
+    caption: 'Threatened rabbitsfoot mussel. Photo by Bob Butler, USFWS.'
 tags:
- - Critical Habitat
- - Rabbitsfoot
- - Neosho mucket
- - Arkansas
+    - 'Critical Habitat'
+    - Rabbitsfoot
+    - 'Neosho mucket'
+    - Arkansas
+updated: 'October 20th, 2016'
 ---
 
-Little Rock, AR – U.S. Fish and Wildlife Service Director Dan Ashe today announced the Service will reopen the public comment in the near future on the proposed critical habitat and draft economic analysis for two federally protected mussel species found in 13 states, including Arkansas.
+**LITTLE ROCK, AR** – U.S. Fish and Wildlife Service Director Dan Ashe today announced the Service will reopen the public comment in the near future on the proposed critical habitat and draft economic analysis for two federally protected mussel species found in 13 states, including Arkansas.
 
 Ashe made the announcement today in Little Rock at a roundtable discussion on the Service’s proposed critical habitat for the federally threatened rabbitsfoot mussel and the federally endangered Neosho mucket. More than 40 people attended the meeting, including representatives from the Agricultural Council of Arkansas, Arkansas Chamber of Commerce, Arkansas Cattlemen’s Association, Arkansas Farm Bureau, Arkansas Forestry Association, Arkansas Game and Fish Commission, Arkansas Secretary of Agriculture, Association of Arkansas Counties, and the oil and gas industry, as well as several county judges and state representatives. Also at the meeting were the Service’s Southeast Regional Director Cindy Dohner and Arkansas Ecological Services Field Office Supervisor Jim Boggs.
 
@@ -26,25 +31,18 @@ The designation of critical habitat helps ensure that federal agency actions do 
 
 To read the [proposed rule](https://www.federalregister.gov/articles/2013/08/27/2013-20671/endangered-and-threatened-wildlife-and-plants-designating-critical-habitat-for-the-neosho-mucket-and), [draft economic analysis](http://www.regulations.gov/#!documentDetail;D=FWS-R4-ES-2013-0007-0004) and [draft environmental assessment](http://www.regulations.gov/#!documentDetail;D=FWS-R4-ES-2013-0007-0003), and to [view a map of the proposed critical habitat in Arkansas](http://www.fws.gov/southeast/news/2014/Neosho_Rabbitsfoot_CHmap.pdf), go to [http://www.fws.gov/southeast/news/2014/033.html](http://www.fws.gov/southeast/news/2014/033.html)
 
-**Additional Resources:**
+## Additional Resources
 
-*   [Map of critical habitat (PDF)](http://www.fws.gov/southeast/news/2014/Neosho_Rabbitsfoot_CHmap.pdf)
-*   [Proposed Rule: Endangered and Threatened Wildlife and Plants; Designating Critical Habitat for the Neosho Mucket and Rabbitsfoot](https://www.federalregister.gov/articles/2013/08/27/2013-20671/endangered-and-threatened-wildlife-and-plants-designating-critical-habitat-for-the-neosho-mucket-and)
-*   [Draft Economic Analysis of Critical Habitat Designation](http://www.regulations.gov/#!documentDetail;D=FWS-R4-ES-2013-0007-0004)
-*   [Draft Environmental Assessment](http://www.regulations.gov/#!documentDetail;D=FWS-R4-ES-2013-0007-0003)
+- [Map of critical habitat (PDF)](http://www.fws.gov/southeast/news/2014/Neosho_Rabbitsfoot_CHmap.pdf)
+- [Proposed Rule: Endangered and Threatened Wildlife and Plants; Designating Critical Habitat for the Neosho Mucket and Rabbitsfoot](https://www.federalregister.gov/articles/2013/08/27/2013-20671/endangered-and-threatened-wildlife-and-plants-designating-critical-habitat-for-the-neosho-mucket-and)
+- [Draft Economic Analysis of Critical Habitat Designation](http://www.regulations.gov/#!documentDetail;D=FWS-R4-ES-2013-0007-0004)
+- [Draft Environmental Assessment](http://www.regulations.gov/#!documentDetail;D=FWS-R4-ES-2013-0007-0003)
 
 [Photo of A neosho mucket by Chris Barnhart, USFWS.](http://www.fws.gov/southeast/news/images/NeoshoMucketByChrisBarnhart.jpg)
 
-**Contact(s):**  
+## Contact
 
 Stacy Shelton  
 [stacy_shelton@fws.gov](mailto:stacy_shelton@fws.gov)  
 (404) 679-7290  
 cell: (678) 575-7796
-
-* * *
-
-![A black and pink colored mussel.](images/newsUploads/newsThumbs/newsImageThumbD31D5E73-DDCC-D0B8-4244179C937EC771.jpg)
-
-A rabbitsfoot mussel. Credit: Dick Biggins / USFWS  
-[Higher Quality Version of Image](http://www.fws.gov/southeast/news/images/rabitsfootUSFW_.jpg)

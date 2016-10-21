@@ -1,14 +1,20 @@
 ---
-title: Secretary Jewell, Governor Jindal Announce Proposal to Remove Louisiana Black Bear from Endangered Species List
-subtitle: Successful partnership among states, federal agencies, landowners and universities has recovered iconic species that inspired the ‘Teddy Bear’
-date: 2015-05-20
+title: 'Secretary Jewell, Governor Jindal Announce Proposal to Remove Louisiana Black Bear from Endangered Species List'
+subtitle: 'Successful partnership among states, federal agencies, landowners and universities has recovered iconic species that inspired the ‘Teddy Bear’'
+date: '2015-05-20'
+hero:
+    name: louisiana-black-bear-cubs-three.jpg
+    alt: 'Three small black bear cubs yawning in unison.'
+    link: 'https://flic.kr/p/bECJNP'
+    caption: 'Louisiana black bear cubs. Photo by Brad Young, Mississippi Department of Wildlife, Fisheries and Parks.'
 tags:
- - Recovery
- - Louisiana black bear
- - Louisiana
+    - Recovery
+    - 'Louisiana black bear'
+    - Louisiana
+updated: 'October 20th, 2016'
 ---
 
-BATON ROUGE, LA – Thanks to a highly successful public-private partnership spanning more than two decades, U.S. Secretary of the Interior Sally Jewell and Louisiana Governor Bobby Jindal announced today that the U.S. Fish and Wildlife Service is proposing to remove the [Louisiana black bear](http://www.fws.gov/southeast/wildlife/mammal/louisiana-black-bear/) – the inspiration for the “Teddy Bear” – from the list of threatened and endangered species under the Endangered Species Act (ESA).
+**BATON ROUGE, LA** – Thanks to a highly successful public-private partnership spanning more than two decades, U.S. Secretary of the Interior Sally Jewell and Louisiana Governor Bobby Jindal announced today that the U.S. Fish and Wildlife Service is proposing to remove the [Louisiana black bear](/wildlife/mammals/louisiana-black-bear/) – the inspiration for the “Teddy Bear” – from the list of threatened and endangered species under the Endangered Species Act (ESA).
 
 “The Louisiana black bear symbolizes how the Endangered Species Act can be a remarkably effective tool to protect and recover threatened and endangered species when we work in close partnership with states and other stakeholders,” Jewell said. “Across Texas, Louisiana and Mississippi, we have worked together with our partners to protect and restore habitat, reintroduce populations and reduce the threats to the bear. Today’s recovery of the bear is yet another success story of the Endangered Species Act.”
 
@@ -34,7 +40,7 @@ Through the public comment period, which ends on July 20, 2015, the Service is s
 
 The Service will hold public hearings on the proposed rule, and the public is encouraged to submit comments through [regulations.gov](http://www.regulations.gov/#!documentDetail;D=FWS-R4-ES-2015-0014-0001). For more information about the proposed delisting of the Louisiana black bear, please visit our [Louisiana black bear page](http://www.fws.gov/southeast/wildlife/mammal/louisiana-black-bear/), and the Service’s website at [http://www.fws.gov/lafayette](http://www.fws.gov/lafayette) or [http://www.fws.gov/southeast/](http://www.fws.gov/southeast/).  For additional photos from the Louisiana Department of Wildlife and Fisheries, visit [https://www.flickr.com/photos/louisianadepartmentofwildlifeandfisheries/sets/72157653207886631/](https://www.flickr.com/photos/louisianadepartmentofwildlifeandfisheries/sets/72157653207886631/).
 
-**Contact(s):**  
+## Contacts
 
 Jessica Kershaw, DOI  
 [Interior_Press@ios.doi.gov](mailto:?Interior_Press@ios.doi.gov)
@@ -50,9 +56,3 @@ Shannon Bates, Governor’s Office
 Bo Boehringer, LADWF  
 225-765-5115   
 [bboehringer@wlf.la.gov](mailto:bboehringer@wlf.la.gov)
-
-* * *
-
-![](images/newsUploads/newsThumbs/newsImageThumb728CE5D2-B249-2D2E-A56BB65BEC303A92.jpg)
-
-Louisiana black bear cub. Credit: USFWS.  

@@ -1,6 +1,11 @@
 ---
 title: Service Proposes Endangered Species Status and Critical Habitat Designations for the Georgia Pigtoe Mussel, Interrupted Rocksnail, and Rough Hornsnail
-date: 2009-06-29
+date: '2009-06-29'
+hero:
+    name: interrupted-rocksnail.jpg
+    alt: 'Snail with a large orange and black shell.'
+    link: 'https://flic.kr/p/pFiF8L'
+    caption: 'Interrupted rocksnail'
 tags:
  - Critical Habitat
  - Georgia pigtoe
@@ -30,9 +35,11 @@ Federal agencies that undertake, fund or permit activities that may affect criti
 
 The complete proposal has been published in the Federal Register today. A copy of the proposed rule can be obtained by visiting our [Federal eRulemaking Portal](http://www.regulations.gov)
 
+## Submit Your Comments
+
 Public comments on the proposed rule will be accepted until August 28, 2009\. Written comments on the proposal should be submitted by one of the following methods:
 
-*   U.S. mail or hand-delivery: Public Comments Processing, Attn:.RIN Number:1018-AU88; Document ID Number: FWS-R4-ES-2008-01, Division of Policy and Directives Management; U.S. Fish and Wildlife Service; 4401 N. Fairfax Drive, Suite 222; Arlington, VA 22203.
+ - U.S. mail or hand-delivery: Public Comments Processing, Attn:.RIN Number:1018-AU88; Document ID Number: FWS-R4-ES-2008-01, Division of Policy and Directives Management; U.S. Fish and Wildlife Service; 4401 N. Fairfax Drive, Suite 222; Arlington, VA 22203.
 
 Written requests for a public hearing will be accepted until August 13, 2009.
 
@@ -40,9 +47,7 @@ A final decision on whether or not to list these three species and designate cri
 
 A copy of the proposed rule and other information about the Georgia pigtoe, interrupted rocksnail, and rough hornsnail is available on the Internet at [http://www.fws.gov/policy/library/E9-15236.html](http://www.fws.gov/policy/library/E9-15236.html) or by contacting the Jackson, Mississippi Field Office at 601/321-1121.
 
-The U.S. Fish and Wildlife Service is the principal federal agency responsible for conserving, protecting and enhancing fish, wildlife and plants and their habitats for the continuing benefit of the American people. Visit the Service’s website at [http://www.fws.gov](http://www.fws.gov/) or [http://www.fws.gov/southeast/](http://www.fws.gov/southeast)
-
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

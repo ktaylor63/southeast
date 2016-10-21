@@ -1,6 +1,11 @@
 ---
 title: Service Announces More Than $33 Million in Grants to Support Land Acquisition and Conservation Planning for Endangered Species
-date: 2012-08-14
+date: '2012-08-14'
+hero:
+  name: kirtlands-warbler.jpg
+  alt: A small yellow breasted bird with grey feathers.
+  link: https://flic.kr/p/97xaNJ
+  caption: Kirtland&rsquo;s warblers nest exclusively in jack pine stands. Photo by Joel Trick, USFWS.
 tags:
  - Grants
 ---
@@ -35,7 +40,7 @@ One of this year’s grants will provide $1.2 million to enable the State of Haw
 
 The Endangered Species Act provides a critical safety net for America’s native fish, wildlife, and plants. The Service is working to actively engage conservation partners and the public in the search for improved and innovative ways to conserve and recover imperiled species. To learn more about the Endangered Species Program, visit http://www.fws.gov/endangered/.
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

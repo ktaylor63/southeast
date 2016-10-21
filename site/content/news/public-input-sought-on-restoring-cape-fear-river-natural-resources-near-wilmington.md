@@ -1,11 +1,16 @@
 ---
-title: Public input sought on restoring Cape Fear River natural resources near Wilmington
-date: 2015-08-05
+title: 'Public input sought on restoring Cape Fear River natural resources near Wilmington'
+date: '2015-08-05'
+hero:
+    name: kerr-mcgee-canal.jpg
+    alt: 'A canal cuts through a marsh with dormant vegetation.'
+    caption: 'Photo of the affected site in Navassa, NC. Photo by Sara Ward, USFWS.'
 tags:
- - North Carolina
+    - 'North Carolina'
+updated: 'October 20th, 2016'
 ---
 
-NAVASSA, N.C. – State and federal agencies are seeking public participation to identify opportunities to restore natural resources damaged due to decades of contamination from a former wood treatment operation near Wilmington.
+**NAVASSA, NC** – State and federal agencies are seeking public participation to identify opportunities to restore natural resources damaged due to decades of contamination from a former wood treatment operation near Wilmington.
 
 The agencies released a restoration scoping document today that details the environmental injuries from the wood treatment operation in Navassa, a small town in southeastern North Carolina. The scoping document describes concepts for restoring the resources, criteria for identifying suitable restoration projects, and an explanation of the restoration planning process.
 
@@ -23,7 +28,7 @@ The restoration scoping document, and information about the comment process, can
 
 For questions or comments regarding the scoping document, contact Howard Schnabolk, NOAA Habitat Restoration Specialist, at 843-740-1328 or kerrmcgee.restoration@noaa.gov.
 
-**Contact(s):**  
+## Contacts
 
 Kim Amendola, 707-551-5707  
 kim.amendola@noaa.gov
@@ -33,10 +38,3 @@ tom_mackenzie@fws.gov
 
 Jamie Kritzer, 919-707-8602 or 919-218-5935  
 Jamie.Kritzer@ncdenr.gov
-
-* * *
-
-![A canal cuts through a marsh with dormant vegetation.](images/newsUploads/newsThumbs/newsImageThumbFEE980F4-5056-AF00-5BE6708DEF414DED.jpg)
-
-Photo of the affected site in Navassa, NC. Credit: Sara Ward, USFWS  
-[Higher Quality Version of Image](http://fws.gov/southeast/news/images/kerr-mcgee-lg.jpg)

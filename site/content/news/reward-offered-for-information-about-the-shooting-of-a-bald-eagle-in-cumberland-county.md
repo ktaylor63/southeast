@@ -1,10 +1,16 @@
 ---
-title: Reward Offered for Information about the Shooting of a Bald Eagle in Cumberland County
-date: 2009-04-22
+title: 'Reward Offered for Information about the Shooting of a Bald Eagle in Cumberland County'
+date: '2009-04-22'
+hero:
+    name: bald-eagle-head-on.jpg
+    alt: 'A bald eagle flying straight at the camera in front of a bright blue sky.'
+    link: 'https://flic.kr/p/e74gAy'
+    caption: 'Bald eagle at Benton Lake National Wildlife Refuge. Photo by Neil Mishler, USFWS.'
 tags:
- - Bald eagle
- - Law Enforcement
- - Tennessee
+    - 'Bald eagle'
+    - 'Law Enforcement'
+    - Tennessee
+updated: 'October 20th, 2016'
 ---
 
 The U.S. Fish and Wildlife Service and the Tennessee Wildlife Resources Agency are investigating a shooting of a bald eagle in the Westel area of Cumberland County. A reward of up to $5,000.00 is being offered for information leading to a conviction of the person or persons responsible for shooting the eagle. In addition to the reward of $2,500, offered by the U. S. Fish and Wildlife Service, the Tennessee Wildlife Resources Agency has authorized up to $1,000, the Tennessee Wildlife Federation has added an additional $1,000, and the American Eagle Foundation has agreed to provide $500 to make the reward total up to $5,000.
@@ -21,7 +27,7 @@ The U.S. Fish and Wildlife Service is the principal federal agency responsible f
 
 The mission of the Tennessee Wildlife Resources Agency is to preserve, conserve, protect, and enhance the fish and wildlife of the state and their habitats for the use, benefit, and enjoyment of the citizens of Tennessee and its visitors. The Agency will foster the safe use of the states waters through a program of law enforcement, education, and access. [http://tnwildlife.org](tnwildlife.org).
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

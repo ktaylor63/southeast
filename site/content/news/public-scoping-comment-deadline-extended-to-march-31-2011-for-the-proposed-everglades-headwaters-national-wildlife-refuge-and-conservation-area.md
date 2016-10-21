@@ -1,8 +1,14 @@
 ---
-title: Public Scoping Comment Deadline Extended to March 31, 2011 for the Proposed Everglades Headwaters National Wildlife Refuge and Conservation Area
-date: 2011-02-17
+title: 'Public Scoping Comment Deadline Extended to March 31, 2011 for the Proposed Everglades Headwaters National Wildlife Refuge and Conservation Area'
+date: '2011-02-17'
+hero:
+    name: everglades-headwaters-proposed-nwr.jpg
+    alt: 'A grassy low-lying area under a bright blue sky.'
+    link: 'https://flic.kr/p/aQXCVK'
+    caption: 'Everglades Headwater Proposed National Wildlife Refuge.  Photo by USFWS.'
 tags:
- - NWRS
+    - NWRS
+updated: 'October 20th, 2016'
 ---
 
 The U.S. Fish and Wildlife Service will now accept public scoping comments through March 31, 2011, on the proposal to create a refuge and conservation area in south-central Florida. The period was extended by one month to give interested individuals and organizations more time to get involved.
@@ -18,13 +24,13 @@ Starting January 26, the Service held four public scoping meetings to gather inp
 
 Written comments may be submitted in a variety of ways:
 
-*   By mail, to Cheri Ehrhardt, AICP, Natural Resource Planner, Everglades Headwaters Proposal, PO Box 2683, Titusville, FL 32781-2683;
-*   By e-mail, to [EvergladesHeadwatersProposal@fws.gov](mailto:EvergladesHeadwatersProposal@fws.gov);  or
-*   By fax, to 321-861-1276.
+- By mail, to Cheri Ehrhardt, AICP, Natural Resource Planner, Everglades Headwaters Proposal, PO Box 2683, Titusville, FL 32781-2683;
+- By e-mail, to [EvergladesHeadwatersProposal@fws.gov](mailto:EvergladesHeadwatersProposal@fws.gov);  or
+- By fax, to 321-861-1276.
 
 For additional information, please visit [www.fws.gov/southeast/greatereverglades](http://www.fws.gov/southeast/greatereverglades).
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

@@ -1,11 +1,18 @@
 ---
-title: Service Announces Endangered Species Recovery Champion Awards
-date: 2012-03-20
+title: 'Service Announces Endangered Species Recovery Champion Awards'
+date: '2012-03-20'
+hero:
+    name: pigeon-river.jpg
+    alt: 'Two students wearing waders in a streem inspect a seine.'
+    link: 'https://flic.kr/p/g5pLcm'
+    caption: 'Western North Carolina’s Pigeon River is home to the endangered Appalachian elktoe mussel. Photo by Gary Peeples.'
 tags:
- - Recovery
+    - Recovery
+updated: 'October 20th, 2016'
 ---
 
-The U.S. Fish and Wildlife Service (Service) today announced recipients of the 2011 Recovery Champion award, which honors Service employees and partners for outstanding efforts to conserve and protect endangered and threatened species of fish, wildlife, and plants. A total of 56 teams and nine individuals were honored as Recovery Champions for work to conserve species ranging from the polar bear in Alaska to the Appalachian elktoe mussel and spotfin chub in North Carolina.  
+The U.S. Fish and Wildlife Service (Service) today announced recipients of the 2011 Recovery Champion award, which honors Service employees and partners for outstanding efforts to conserve and protect endangered and threatened species of fish, wildlife, and plants. A total of 56 teams and nine individuals were honored as Recovery Champions for work to conserve species ranging from the polar bear in Alaska to the Appalachian elktoe mussel and spotfin chub in North Carolina.
+
 “Recovery Champions are helping listed species get to the point at which they are secure in the wild and no longer need Endangered Species Act protection,” said Service Director Dan Ashe. “These groups and individuals have done amazing work in helping to bring dozens of species back from the brink of extinction, while improving habitat that benefits many other species and local communities.”  
 
 From the bull trout in Washington, Oregon, and Montana to the red-cockaded woodpecker in Florida, Alabama and Texas, Recovery Champions are taking action to benefit these species. Service employees and partners, including federal and state conservation agencies, tribes, universities, conservation organizations, private landowners, and zoos and botanic gardens, are making a difference through activities such as removing dams so that anadromous fish can reach their spawning grounds, restoring longleaf pine forests in the Southeast, and reintroducing an endangered bird species into its historical range.  
@@ -24,7 +31,7 @@ Restoring streams, releasing listed species into their historical ranges, and co
 
 For information about the 2011 Recovery Champions, please visit: [http://www.fws.gov/endangered/what-we-do/recovery-champions/index.html.](http://www.fws.gov/endangered/what-we-do/recovery-champions/index.html.)
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

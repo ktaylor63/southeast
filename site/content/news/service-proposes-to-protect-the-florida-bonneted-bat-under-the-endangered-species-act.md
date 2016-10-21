@@ -1,10 +1,16 @@
 ---
-title: Service Proposes to Protect the Florida Bonneted Bat Under the Endangered Species Act
-subtitle: Agency Seeks Information from the Public, Scientific Community before Making Final Decision
-date: 2012-10-03
-tags: 
- - Florida bonneted bat
- - Florida
+title: 'Service Proposes to Protect the Florida Bonneted Bat Under the Endangered Species Act'
+subtitle: 'Agency Seeks Information from the Public, Scientific Community before Making Final Decision'
+date: '2012-10-03'
+hero:
+    name: florida-bonneted-bat.jpg
+    alt: 'A short haired bat wrapped in a blue towel.'
+    link: 'https://flic.kr/p/pFB7cg'
+    caption: 'Florida bonneted bat. Photo by Gary Morse, FWC.'
+tags:
+    - 'Florida bonneted bat'
+    - Florida
+updated: 'October 21st, 2016'
 ---
 
 Current evidence suggests that the Florida bonneted bat is in danger of becoming extinct in the foreseeable future, the U.S. Fish and Wildlife Service announced today. As a result, the Service has proposed to protect the species under the Endangered Species Act (ESA), and is seeking new information from the public and the scientific community that will assist the agency in making a final determination.
@@ -17,14 +23,16 @@ The final decision to add the Florida bonneted bat to the Federal List of Endang
 
 Today’s decision is part of the Service’s efforts to implement a court-approved work plan that resolves a series of lawsuits concerning the agency’s ESA Listing Program.  The intent of the agreement is to significantly reduce litigation-driven workloads and allow the agency to focus its resources on the species most in need of the ESA’s protections over the next five years.
 
+## Submit Your Comments
+
 Comments should be submitted by one of the following methods:
 
-  1) Electronically:  Go to the [Federal eRulemaking Portal](http://www.regulations.gov).  In the Keyword box, enter Docket No. FWS–R4–ES-2012–0078, which is the docket number for this rulemaking. Then, in the Search panel on the left side of the screen, under the Document Type heading, click on the Proposed Rules link to locate this document.  You may submit a comment by clicking on “Send a Comment or Submission.” 
-  2)  By hard copy:  Submit by U.S. mail or hand–delivery to:  Public Comments Processing, Attn: FWS–R4–ES–2012–0078; Division of Policy and Directives Management; U.S. Fish and Wildlife Service; 4401 N. Fairfax Drive, MS 2042–PDM; Arlington, VA 22203.
+ - Electronically:  Go to the [Federal eRulemaking Portal](http://www.regulations.gov).  In the Keyword box, enter Docket No. FWS–R4–ES-2012–0078, which is the docket number for this rulemaking. Then, in the Search panel on the left side of the screen, under the Document Type heading, click on the Proposed Rules link to locate this document.  You may submit a comment by clicking on “Send a Comment or Submission.” 
+ - By hard copy:  Submit by U.S. mail or hand–delivery to:  Public Comments Processing, Attn: FWS–R4–ES–2012–0078; Division of Policy and Directives Management; U.S. Fish and Wildlife Service; 4401 N. Fairfax Drive, MS 2042–PDM; Arlington, VA 22203.
 
 Comments must be received on or before December 3, 2012.
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

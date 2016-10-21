@@ -1,9 +1,10 @@
 ---
-title: Service Re-opens Comment Period for the Georgia Rockcress Proposed Listing and Critical Habitat and Announces Economic Analysis
-date: 2014-05-08
+title: 'Service Re-opens Comment Period for the Georgia Rockcress Proposed Listing and Critical Habitat and Announces Economic Analysis'
+date: '2014-05-08'
 tags:
- - Georgia rockcress
- - Critical Habitat
+    - 'Georgia rockcress'
+    - 'Critical Habitat'
+updated: 'October 21st, 2016'
 ---
 
 The U.S. Fish and Wildlife Service is announcing the availability of the draft economic analysis for the proposed critical habitat designation for the Georgia rockcress.  At the same time, the Service is re-opening the comment period for the proposed listing and associated proposed critical habitat designation for 30 days through June 10, 2014.  The public is invited to [submit comments](http://www.fws.gov/southeast/news/2014/Comment_Instructions_GA_Rockcress.pdf) on either issue.
@@ -28,12 +29,12 @@ The Service first proposed listing the rockcress as threatened with critical hab
 
 Landowners interested in helping the Service recover the Georgia rockcress, or seeking more information about the potential implications of the listing and critical habitat designation should contact Jimmy Rickard at the Georgia Ecological Services Office in Athens, Georgia, 105 Westpark Drive, Suite D, Athens, Georgia 30606 (telephone 706-613-9493, extension 223; facsimile 706-613-6059).  The Service offers willing landowners a number of voluntary and non-regulatory conservation programs to help the rockcress survive as they live and work on their lands.
 
-**Additional Resources:**
+## Additional Resources
 
-*   [How to Submit Comments on the Georgia rockcress](http://www.fws.gov/southeast/news/2014/Comment_Instructions_GA_Rockcress.pdf) (PDF)
-*   [Georgia rockcress Frequently Asked Questions](http://www.fws.gov/southeast/news/2014/GA_Rockcress_FAQ.pdf) (PDF)
+- [How to Submit Comments on the Georgia rockcress](http://www.fws.gov/southeast/news/2014/Comment_Instructions_GA_Rockcress.pdf) (PDF)
+- [Georgia rockcress Frequently Asked Questions](http://www.fws.gov/southeast/news/2014/GA_Rockcress_FAQ.pdf) (PDF)
 
-**Contact(s):**  
+## Contacts
 
 Jimmy Rickard  
 706-613-9493, ext.223  
@@ -42,10 +43,3 @@ Jimmy Rickard
 Tom Mackenzie  
 404-679-7291  
 [Tom_MacKenzie@fws.gov](mailto:Tom_MacKenzie@fws.gov)
-
-* * *
-
-![A spindly green plant growing between rocks.](images/newsUploads/newsThumbs/newsImageThumbDCAF9B71-F101-7E0C-3B8CCA100B4866B8.jpg)
-
-The Georgia rockcress. Credit: Michelle Elmore / The Nature Conservancy  
-[Higher Quality Version of Image](http://www.fws.gov/southeast/images/arabisGeorgianaME-.jpg)

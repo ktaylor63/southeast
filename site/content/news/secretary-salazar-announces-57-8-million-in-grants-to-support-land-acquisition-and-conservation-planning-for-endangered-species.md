@@ -1,8 +1,14 @@
 ---
-title: Secretary Salazar Announces $57.8 Million in Grants to Support Land Acquisition and Conservation Planning for Endangered Species
-date: 2009-04-20
+title: 'Secretary Salazar Announces $57.8 Million in Grants to Support Land Acquisition and Conservation Planning for Endangered Species'
+date: '2009-04-21'
+hero:
+    name: karner-blue-butterfly.jpg
+    alt: 'A blue butterfly with orange spots perched on a blade of grass.'
+    link: 'https://flic.kr/p/Kvxiqs'
+    caption: 'Female Karner Blue Butterfly. Photo by Jill Utrup, USFWS.'
 tags:
- - Grants
+    - Grants
+updated: 'October 20th, 2016'
 ---
 
 Interior Secretary Ken Salazar today announced more than $57.8 million in grants to 27 states to support conservation planning and acquisition of vital habitat for threatened and endangered fish, wildlife and plants. The grants, awarded through the Cooperative Endangered Species Conservation Fund, will benefit numerous species ranging from the desert tortoise to the Indiana bat.
@@ -21,9 +27,9 @@ The HCP Planning Assistance Grants Program provides grants to states and territo
 
 The Recovery Land Acquisition Grants Program provides funds to states and territories to acquire habitat for endangered and threatened species with approved recovery plans. Habitat acquisition to secure long term protection is often an essential element of a comprehensive recovery effort for a listed species. One of this year’s grants will provide $840,593 to acquire a 1,242-acre tract that will protect the ocelot, jaguarundi, northern aplomado falcon, and several state-protected species in Cameron County, Texas. Protection of thornscrub woodlands and wooded waterways, such as resacas, is sorely needed to prevent ocelot and jaguarundi from declining even further and is imperative to both species’ long-term recovery. The tract contains a wooded riparian zone along a resaca that provides existing suitable habitat for a travel corridor, and is large enough to support three adult ocelots. The protection of this property will contribute to recovery plan criteria by protecting existing corridors and creating new dispersal corridors.
 
-For a complete list of the 2009 grant awards for these programs (Catalog of Federal Domestic Assistance Number 15.615), see the Service’s Endangered Species Grants home page at [http://www.fws.gov/endangered/grants/](http://www.fws.gov/endangered/grants/).
+For a complete list of the 2009 grant awards for these programs (Catalog of Federal Domestic Assistance Number 15.615), see the Service’s Endangered Species Grants home page at [fws.gov/endangered/grants/](http://www.fws.gov/endangered/grants/).
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

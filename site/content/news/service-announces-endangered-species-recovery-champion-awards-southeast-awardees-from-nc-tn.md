@@ -1,10 +1,15 @@
 ---
-title: "Service Announces Endangered Species Recovery Champion Awards: Southeast Awardees From NC, TN"
-date: 2011-03-18
+title: 'Service Announces Endangered Species Recovery Champion Awards: Southeast Awardees From NC, TN'
+date: '2011-03-18'
+hero:
+    name: rabbitsfoot.jpg
+    alt: 'A mussel with brownish outer shell and a glossy white inner shell that resembles a baked potato.'
+    caption: 'Threatened rabbitsfoot mussel. Photo by Bob Butler, USFWS.'
 tags:
- - Recovery
- - North Carolina
- - Tennessee
+    - Recovery
+    - 'North Carolina'
+    - Tennessee
+updated: 'October 20th, 2016'
 ---
 
 The U.S. Fish and Wildlife Service today announced 29 recipients of the 2010 Recovery Champion award honoring Service staff members and their partners-in-mission for conserving endangered and threatened species.
@@ -15,16 +20,15 @@ From the Mauna Loa silversword in Hawaii and Railroad Valley springfish in Nevad
 
 This year, for the first time, an international organization, Japan’s Yamashina Institute for Ornithology, has been selected as a Recovery Champion for achievements on behalf of the short-tailed albatross, a seabird that spends time in Alaska and migrates in the North Pacific.
 
-Restoring streams, breeding species in captivity and releasing them into their historic ranges, conducting field surveys and monitoring programs, and negotiating the complex world of Federal financial standards to administer a land acquisition grant for the Lake Erie watersnake in Ohio are just a few examples from the wide diversity of initiatives receiving   
-this year’s Recovery Champion awards.
+Restoring streams, breeding species in captivity and releasing them into their historic ranges, conducting field surveys and monitoring programs, and negotiating the complex world of Federal financial standards to administer a land acquisition grant for the Lake Erie watersnake in Ohio are just a few examples from the wide diversity of initiatives receiving this year’s Recovery Champion awards.
 
 For information about the 2010 recovery champions, please visit the U.S. Fish and Wildlife Service’s Recovery Champion website at[http://www.fws.gov/endangered/what-we-do/recovery-champions](http://www.fws.gov/endangered/what-we-do/recovery-champions)/.
 
 America’s fish, wildlife and plant resources belong to all of us, and ensuring the health of imperiled species is a shared responsibility. To learn more about the Service’s Endangered Species program, go to [http://www.fws.gov/endangered/](http://www.fws.gov/endangered/).
 
-**2010 Recovery Champions**
+## 2010 Recovery Champions
 
-**Region 1**  
+## Region 1
 
 Special Agent Keith Swindle  
 U.S. Fish and Wildlife Service  
@@ -36,7 +40,7 @@ Hawaiian Silversword Foundation
 Volcano, Hawaii  
 Mauna Loa silversword
 
-**Region 2**  
+## Region 2  
 
 Bill Radke  
 San Bernardino National Wildlife Refuge  
@@ -48,7 +52,7 @@ The Mexican Wolf Fund
 San Francisco, California  
 Mexican wolf
 
-**Region 3**  
+## Region 3
 
 Marian Smith, Ph.D.  
 Southern Illinois University, Retired  
@@ -65,7 +69,7 @@ U. S. Fish and Wildlife Service
 Ft. Snelling, Minnesota  
 Lake Erie watersnake
 
-**Region 4**  
+## Region 4
 
 Bob Butler  
 U. S. Fish and Wildlife Service  
@@ -83,7 +87,7 @@ U. S. Geological Survey, Retired
 Norris, Tennessee  
 Freshwater mussels
 
-**Region 5**  
+## Region 5
 
 Mark McCollough, Ph.D.  
 U. S. Fish and Wildlife Service  
@@ -105,7 +109,7 @@ Wildlife Management Institute
 Weare, New Hampshire  
 Karner blue butterfly
 
-**Region 6**
+## Region 6
 
 Group Award  
 Connie Mueller  
@@ -144,8 +148,8 @@ Blackfeet Fish and Wildlife
 Browning, Montana  
 Grizzly bear
 
-**Region 7  
-**  
+## Region 7
+
 Yamashina Institute for Ornithology  
 Chiba, Japan  
 Short-tailed albatross
@@ -155,7 +159,7 @@ U.S. Fish and Wildlife Service
 Fairbanks, Alaska  
 Steller’s eider, spectacled eider
 
-**Region 8**  
+## Region 8
 
 Sandy Vissman  
 U.S. Fish and Wildlife Service  
@@ -189,7 +193,7 @@ San Diego Zoo Safari Park
 Escondido, California  
 California condor and light-footed clapper rail
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

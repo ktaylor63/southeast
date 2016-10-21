@@ -1,8 +1,14 @@
 ---
-title: Ohio River Islands named 2009 environmental leadership refuge of the year
-date: 2009-08-24
+title: 'Ohio River Islands named 2009 environmental leadership refuge of the year'
+hero:
+    name: ohio-river-islands-nwr.jpg
+    alt: 'Sunset over the Ohio River.'
+    link: 'https://flic.kr/p/iYBQbk'
+    caption: 'Ohio River Islands National Wildlife Refuge, WV. Photo by USFWS.'
+date: '2009-08-24'
 tags:
- - NWRS
+    - NWRS
+updated: 'October 20th, 2016'
 ---
 
 The U.S. Fish and Wildlife Service has selected Ohio River Islands National Wildlife Refuge for the 2009 Refuge of the Year Environmental Leadership Award. The award annually recognizes Service facilities and individuals for their outstanding leadership and commitment to the environment.
@@ -23,7 +29,7 @@ Established in 1990, the Ohio River Islands refuge conserves habitat in one of o
 
 Visitors to the visitor center and administration building can learn about fish and wildlife of the Ohio River in exhibits and view a 1,200-gallon aquarium featuring live Ohio River fish. The refuge also offers hunting, fishing, bird watching, hiking and other recreational opportunities. Information about the refuge can be found at
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

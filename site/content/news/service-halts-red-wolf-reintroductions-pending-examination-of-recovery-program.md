@@ -1,10 +1,16 @@
 ---
-title: Service Halts Red Wolf Reintroductions Pending Examination of Recovery Program
-subtitle: Will manage animals already in the wild under existing rules for non-essential, experimental population
-date: 2015-06-30
+title: 'Service Halts Red Wolf Reintroductions Pending Examination of Recovery Program'
+subtitle: 'Will manage animals already in the wild under existing rules for non-essential, experimental population'
+date: '2015-06-30'
+hero:
+    name: red-wolf-crouching.jpg
+    alt: 'A grey colored wolf with bright yellow eyes walking low to the ground.'
+    link: 'https://flic.kr/p/dPAq8s'
+    caption: 'Red wolf at Point Defiance Zoo and Aquarium. Photo by Seth Bynum, PDZA.'
 tags:
- - Red wolf
- - Recovery
+    - 'Red wolf'
+    - Recovery
+updated: 'October 21st, 2016'
 ---
 
 The U.S. Fish and Wildlife Service announced today it will suspend its reintroductions of red wolf into the wild while it gathers additional science and research into the feasibility of recovery for the species under the Endangered Species Act (ESA). The Service intends to complete its review by the end of 2015\. Existing red wolves located in five eastern North Carolina counties will be managed in accordance with rules put in place in 1995 to govern this population, designated “non-essential, experimental” under the ESA.
@@ -29,15 +35,8 @@ Below is a recording from the news conference on June 30, 2015:
 
 <audio controls="" style="text-align:center;"><source src="http://www.fws.gov/southeast/audio/RedWolfNewsConference20150630.mp3" type="audio/mpeg"> Your browser does not support the audio element.</audio>
 
-**Contact(s):**  
+## Contacts
 
 Tom MacKenzie, USFWS  
 404-679-7291  
 [tom_macKenzie@fws.gov](mailto:tom_macKenzie@fws.gov)
-
-* * *
-
-![Crouching red wolf.](images/newsUploads/newsThumbs/newsImageThumb456CB36D-F587-7CD1-7021195729AF7928.jpg)
-
-Red wolf. Credit: Seth Bynum, PDZA.  
-[Higher Quality Version of Image](https://www.flickr.com/photos/usfwssoutheast/8414871504/)

@@ -1,13 +1,19 @@
 ---
-title: Reward offered for information about bald eagle shooting in Tennessee
-date: 2010-05-06
+title: 'Reward offered for information about bald eagle shooting in Tennessee'
+date: '2010-05-06'
+hero:
+    name: bald-eagle-head-on.jpg
+    alt: 'A bald eagle flying straight at the camera in front of a bright blue sky.'
+    link: 'https://flic.kr/p/e74gAy'
+    caption: 'Bald eagle at Benton Lake National Wildlife Refuge. Photo by Neil Mishler, USFWS.'
 tags:
- - Bald eagle
- - Law Enforcement
- - Tennessee
+    - 'Bald eagle'
+    - 'Law Enforcement'
+    - Tennessee
+updated: 'October 20th, 2016'
 ---
 
-TIPTONVILLE, TN - The U.S. Fish and Wildlife Service and the Tennessee Wildlife Resources Agency are investigating the shooting of a bald eagle in the Reelfoot area of Lake County.
+**TIPTONVILLE, TN** - The U.S. Fish and Wildlife Service and the Tennessee Wildlife Resources Agency are investigating the shooting of a bald eagle in the Reelfoot area of Lake County.
 
 A reward of up to $3,300 is offered to anyone for information leading to a conviction of the person or persons responsible for shooting the eagle. The reward is provided from contributions by the U.S. Fish and Wildlife Service, the Tennessee Wildlife Resources Agency and the Mid-South Raptor Center.
 
@@ -21,7 +27,7 @@ The U.S. Fish and Wildlife Service is the principal federal agency responsible f
 
 The mission of the TWRA is to preserve, conserve, protect, and enhance the fish and wildlife of the state and their habitats for the use, benefit, and enjoyment of the citizens of Tennessee and its visitors. The Agency will foster the safe use of the states waters through a program of law enforcement, education, and access. To learn more go to[tnwildlife.org](www.tnwildlife.org).
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  
