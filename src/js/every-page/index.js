@@ -17,7 +17,7 @@
   var marker = new Marker(document.querySelector('#content'));
   var parallax = new Parallax('.parallax', { speed: 0.5 });
 
-  var content = document.querySelector('#content');
+  var content = document.getElementById('content');
   var baseUrl = document.body.getAttribute('data-root');
   var anchors = document.querySelectorAll('a');
   var contactLinks = document.querySelectorAll('.toggle-contact');
@@ -41,9 +41,9 @@
 
   // This is kinda confusing.  If the parameter "scrollnav" is set in the page's
   // we don't want to initialize the scroll nav
-  if (content.querySelectorAll('h2').length > 0 && !hideScrollnav) {
+  if (content && content.querySelectorAll('h2').length > 0 && !hideScrollnav) {
     nav.init({
-      content: document.getElementById('content'),
+      content: content,
       insertTarget: document.querySelector('.side-nav'),
       showHeadline: false,
       scrollOffset: 55
@@ -122,7 +122,8 @@
     if (key !== 27) return;
     var drawers = [
       document.querySelector('.contact-drawer'),
-      document.querySelector('.share-drawer')
+      document.querySelector('.share-drawer'),
+      document.querySelector('.info-window')
     ];
 
     [].forEach.call(drawers, function (drawer) {
