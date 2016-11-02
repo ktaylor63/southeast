@@ -54,6 +54,7 @@
     "imagemin-mozjpeg": "^6.0.0",
     "jsonlint": "^1.6.2",
     "jsonminify": "^0.4.1",
+    "lodash.foreach": "^4.5.0",
     "mkdirp": "^0.5.1",
     "moment": "^2.12.0",
     "node-sass": "^3.7.0",
