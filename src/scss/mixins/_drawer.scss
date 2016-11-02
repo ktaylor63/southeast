@@ -22,12 +22,10 @@
     transform: translateY(-100%);
 
     &.active {
-      top: 62px;
       transform: translateY(0);
 
       @media (min-width: $break-md) {
         padding-left: $nav-width + 18px;
-        top: 0;
         transform: translateX(0);
       }
     }
@@ -44,12 +42,10 @@
     transform: translateY(100%);
 
     &.active {
-      top: 62px;
       transform: translateY(0);
 
       @media (min-width: $break-md) {
         padding-right: $nav-width + 18px;
-        top: 0;
         transform: translateX(0);
       }
     }
