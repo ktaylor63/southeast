@@ -11,7 +11,6 @@
 }
 
 .centered-button {
-  margin-left: $nav-width;
   text-align: center;
 
   a.button {
@@ -19,6 +18,10 @@
     margin: 1em 0;
     padding: 1em;
     text-transform: uppercase;
+  }
+
+  @media (min-width: $break-md) {
+    margin-left: $nav-width;
   }
 }
 
