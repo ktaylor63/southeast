@@ -12,6 +12,10 @@
   max-width: $container-width;
 }
 
+.layout {
+  @include container($container-width);  
+}
+
 #content {
   @include container;
 
