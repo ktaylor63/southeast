@@ -1,0 +1,8 @@
+#sciencebase-map {
+  height: 85vh;
+  margin: $leading 0;
+}
+
+.info-window {
+  @include drawer('info-window');
+}

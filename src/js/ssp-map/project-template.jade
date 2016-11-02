@@ -1,0 +1,6 @@
+- var props = project.properties;
+h2!= props.title
+if props.img
+  img(src=props.img, alt="A preview image of this project", class="photo-right")
+p!= props.description
+p #[a(href=props.url, target="_blank") More details on ScienceBase.gov]
