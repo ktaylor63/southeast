@@ -34,9 +34,12 @@ This script looks for folders in the `src/images/pages` directory.  The scripts 
 WATCH=true npm run images
 ```
 
-## last-mod.js
+## frontmatter.js
 
-This script watches Markdown files in the `site/content` directory (and subdirectories) for changes and automatically injects the current date into the page's [front matter](https://gohugo.io/content/front-matter/).  This date is then used by website templates to display a **Last Updated** date in the site footer.
+This script watches Markdown files in the `site/content` directory (and subdirectories) for changes and automatically injects the current date into the page's [front matter](https://gohugo.io/content/front-matter/).  This date is then used by website templates to display a **Last Updated** date in the site footer.  This script also implements tests for content metadata.  For example if no tags are provided a warning is logged to the console.  Tests include:
+
+  - Tags are required, the script automatically title-cases tags
+  - Hero image including `name`, `alt`, and `caption` are all required
 
 **We're currently working on a solution for injecting last updated dates into the homepage and other complicated HTML based pages like Mega Map.**
 
