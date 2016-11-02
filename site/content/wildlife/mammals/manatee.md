@@ -17,7 +17,7 @@ hero:
     alt: 'A Florida manatee calf sticks close to its mother in shallow water'
     caption: 'A Florida manatee calf sticks close to its mother in shallow water. Photo: Keith Ramos, USFWS'
 description: 'Manatees are large, elongated marine mammals with paired flippers and a large round or spoon-shaped tail.  They can reach lengths of over 14 feet and weights of over 3,000 pounds'
-updated: 'October 3rd, 2016'
+updated: 'October 28th, 2016'
 ---
 - **Taxon**: Mammal
 - **Range**: Throughout the Caribbean basin, including the southeastern United States, eastern Mexico, eastern Central America, northeastern South America, and the Greater Antilles
@@ -29,8 +29,8 @@ Manatees are protected under the Endangered Species Act and under the [Marine Ma
 Today, the rangewide population is estimated to be at least 13,000 manatees, with more than 6,500 in the southeastern United States and Puerto Rico. When aerial surveys began in 1991, there were an estimated 1,267 manatees in Florida. Today there are more than 6,300, representing a significant increase over the past 25 years. Learn more about the manatee’s road to recovery.
 
 ## News
+{{< news tag="Manatee" number="3" type="gallery" >}}
 
-{{< content-by-tag tag="Louisiana black bear" view="li" number="3" >}}
 
 ## Appearance
 

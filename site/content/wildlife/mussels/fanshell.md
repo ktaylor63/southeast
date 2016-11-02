@@ -21,12 +21,15 @@ hero:
     name: fanshell-mussel.jpg
     alt: 'Three brownish yellow mussels the smallest of which has a small white protrusion which the mussel uses to attach to a rock.'
     caption: 'Photo by Monte McGregor, Center Mollusk Conservation, Kentucky DFWR.'
-updated: 'September 27th, 2016'
+updated: 'October 28th, 2016'
 ---
 
 - **Taxon**: Bivalve
 - **Range**: [Alabama](/alabama), Illinois, Indiana, [Kentucky](/kentucky), Ohio, [Tennessee](/tennessee), Virginia and West Virginia.
 - **Status**: Endangered. Some populations in the French Broad and Holston Rivers are experimental.
+
+## News and Events
+{{< news tag="Fanshell" number="3" type="gallery" >}}
 
 ## Appearance
 

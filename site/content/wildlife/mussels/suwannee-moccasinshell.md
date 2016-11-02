@@ -18,7 +18,7 @@ hero:
     alt: 'Two dark gray mussels with striations on a red towel next to a ruler for scale.'
     caption: 'Suwannee moccasinshells. Photo by USFWS.'
     position: 'bottom center'
-updated: 'October 5th, 2016'
+updated: 'October 28th, 2016'
 ---
 
 - **Taxon:** Bivalve, Unionidae
@@ -26,9 +26,7 @@ updated: 'October 5th, 2016'
 - **Status:** Listed as Threatened
 
 ## News and Events
-
-- **October 5, 2016:** [U.S. Fish and Wildlife Service Extends Protections to Rare Mussel in Suwannee River Basin](https://www.fws.gov/news/ShowNews.cfm?ID=910AE574-EACD-CE7D-5DE50A7B8C67EF2D)
-- **October 5, 2015:** [Service Proposes to Protect Rare Mussel in Suwannee River Basin](https://www.fws.gov/news/ShowNews.cfm?ref=u.s.-fish-and-wildlife-service-proposes-to-protect-rare-mussel-in-s&_ID=35255)
+{{< news tag="Suwannee moccasinshell" number="3" type="gallery" >}}
 
 ## Appearance
 

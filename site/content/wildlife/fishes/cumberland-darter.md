@@ -16,12 +16,15 @@ hero:
     alt: 'A small, straw-yellow colored fish with brown markings'
     caption: 'Photo by Jeremy Shute, Conservation Fisheries, Inc.'
     position: 'left bottom'
-updated: 'September 27th, 2016'
+updated: 'October 28th, 2016'
 ---
 
 - Taxon: Fish
 - Range: [Kentucky](/kentucky) and [Tennessee](/tennessee)
 - Status: Endangered
+
+## News and Events
+{{< news tag="Cumberland darter" number="3" type="gallery" >}}
 
 ## Appearance
 

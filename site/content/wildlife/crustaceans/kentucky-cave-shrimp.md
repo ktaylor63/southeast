@@ -16,17 +16,22 @@ hero:
     alt: 'A translucent shrimp walking along a rocky surface under water'
     caption: 'A Kentucky cave shrimp. Photo by John MacGregor, Kentucky Department of Fish and Wildlife Resources.'
     position: 'center bottom'
-updated: 'September 27th, 2016'
+updated: 'October 28th, 2016'
 ---
 
 - **Taxa: Crustacea**
 - **Range: [Kentucky](/kentucky)**
 - **Status: Endangered**
 
+## News and Events
+{{< news tag="Kentucky cave shrimp" number="3" type="gallery" >}}
+
 ## Appearance
+
 The Kentucky cave shrimp is a small crustacean that grows to a length of 30mm (1.18 inches), lacks eyes, and has a translucent body. These features suggest the animal has long lived underground. It is one of only two known species of the genus *Palaemonias* and is one of only three existing species of its family found in North America and Mexico.
 
 ## Habitat
+
 The Kentucky cave shrimp only lives in underground streams. They typically inhabit large, base-level cave streams characterized by slow flow, abundant organic material, coarse to fine grain sand, and coarse silt sediments.
 
 {{< figure class="photo-center" src="/images/pages/ky-cave-shrimp_survey.jpg" alt="A small peach-white frog" caption="Carrie Allison, a USFWS biologist in Kentucky, surveys for the Kentucky cave shrimp at Hades Passage in Mammoth Cave, Kentucky." >}}

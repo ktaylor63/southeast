@@ -15,7 +15,7 @@ hero:
     alt: 'Leafy green vegetation with bright yellow flowers'
     caption: 'White-haired goldenrod. Photo: John MacGregor, Kentucky Dept. of Fish and Wildlife Resources'
 description: 'The white-haired goldenrod is a unique plant to the Red River Gorge region of eastern Kentucky.  The Red River Gorge is well known for its unique geology, scenic beauty, and outdoor recreational opportunities, and much of the area is located within the Daniel Boone National Forest.'
-updated: 'September 27th, 2016'
+updated: 'October 28th, 2016'
 ---
 
 - Taxa: Plant
@@ -31,14 +31,7 @@ Currently, there are nearly 120 occurrences of white-haired goldenrod in eastern
 Download the [Fact Sheet](/pdf/white-haired-goldenrod-factsheet.pdf)
 
 ## News and Events
-
-Due to successful conservation efforts by the Service and our partners, the white-haired goldenrod has improved to the point that we proposed it for delisting on September 1, 2015.
-The Service is currently accepting public comments on our proposal to delist the white-haired goldenrod. We seek comments regarding biological data, relevant data concerning any threats, and the extent of federal and state protection and management that would be provided to white-haired goldenrod as a delisted species. Other comments to be considered include any additional information concerning the range, distribution, population size, and trends of the white-haired goldenrod, including the locations of any additional populations; and current or planned activities within the plant’s geographic range. All public comments will be reviewed and considered.
-
-- 9/22/14: [Service Conducts Five-Year Status Reviews of 27 Southeastern Species](http://www.fws.gov/news/ShowNews.cfm?ID=9EF12D1B-0A50-1777-CD96434AC2F4D41D)
-- 7/26/05: [Service Conducts Five-year Status Review of 13 Southeastern Species](http://www.fws.gov/news/ShowNews.cfm?ID=57CC569A-65BF-03E7-261FC38BA8BB7C0)
-
-{{< content-by-tag tag="Louisiana black bear" view="li" number="3" >}}
+{{< news tag="White-haired goldenrod" type="gallery" number="3" >}}
 
 ## Appearance
 

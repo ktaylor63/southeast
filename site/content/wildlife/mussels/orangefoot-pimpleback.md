@@ -17,14 +17,18 @@ hero:
     name: orangefoot-pimpleback.jpg
     alt: 'A brown mussel with orangish brown striations'
     caption: 'An orangefoot pimpleback mussel. Photo by Monte McGregor, Center Mollusk Conservation, Kentucky DFWR.'
-updated: 'September 27th, 2016'
+updated: 'October 28th, 2016'
 ---
 
 - Taxon: [Bivalve](/tag/bivalve)
 - Range: [Alabama](/alabama), Illinois, [Kentucky](/kentucky) and [Tennessee](/tennessee)
 - Status: Endangered. Some populations in the French Broad and Holston Rivers are experimental.
 
+## News and Events
+{{< news tag="Orangefoot pimpleback" number="3" type="gallery" >}}
+
 ## Appearance
+
 The orangefoot pimpleback is a medium size mussel, 3 to 4 inches in length. The shell is thick and circular in outline. The surface of the shell has dark concentric growth rings and the posterior two-thirds of the shell is covered with raised tubercles. Number, size, and shape of the tubercles is variable. The color of the shell is yellowish brown to chestnut brown in color, and it darkens as individuals become older. Light greenish rays are found only in younger individuals. Nacre color varies from white to pink.
 
 ## Habitat

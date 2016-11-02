@@ -17,13 +17,17 @@ hero:
     name: rough-pigtoe.jpg
     alt: 'A close up photo of a yellow mussel shell'
     caption: 'Adult rough pigtoe in the Green River in Kentucky. Photo by Monte McGregor, Center Mollusk Conservation, Kentucky DFWR.'
-updated: 'October 3rd, 2016'
+updated: 'October 28th, 2016'
 ---
 - Taxon: Bivalve
 - Range:  Alabama, Indiana, Kentucky and Virginia
 - Status: Endangered. Populations in Tennessee are experimental.
 
+## News and Events
+{{< news tag="Rough pigtoe" number="3" type="gallery" >}}
+
 ## Appearance
+
 The rough pigtoe is a medium sized mussel 3 to 4 inches in length with an inflated, triangular shaped shell. Shell color ranges from dark to yellowish brown. Light green rays may be present on the shell of younger individuals. The color inside the shell varies from pearly white to pink.
 
 ## Habitat

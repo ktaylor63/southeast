@@ -16,14 +16,18 @@ hero:
     name: ring-pink.jpg
     alt: 'A photograph of the outside and inside of a ring pink shell next to a ruler for scale.  Shell is approximately 3 inches wide.'
     caption: 'Ring pink. Photo by Leroy Koch, USFWS.'
-updated: 'September 27th, 2016'
+updated: 'October 28th, 2016'
 ---
 
 - Taxon: Bivalve
 - Range: [Alabama](/alabama), [Kentucky](/kentucky), and [Tennessee](/tennessee)
 - Status: Endangered. Populations in portions of the French Broad and Holston Rivers in Tennessee are experimental.
 
+## News and Events
+{{< news tag="Ring pink" number="3" type="gallery" >}}
+
 ## Appearance
+
 The ring pink is a medium size mussel, 2 to 3 inches in length, with a round, moderately inflated, thick shell. The shell does not have rays and is yellow-green to brown in color. Older individuals usually are darker in color. The color inside the shell varies from light pink to dark purple surrounded by a white border.
 
 ## Habitat

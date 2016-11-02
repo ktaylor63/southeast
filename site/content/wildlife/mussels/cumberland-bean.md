@@ -17,12 +17,15 @@ hero:
     name: cumberland-bean.jpg
     alt: 'A small black mussel with brownish yellow striations extends a small white appendage from its shell'
     caption: 'Cumberland bean juveniles reared at the Center for Mollusk Conservation in Frankfort, Kentucky. Photo by Monte McGregor, Center Mollusk Conservation, Kentucky DFWR.'
-updated: 'September 27th, 2016'
+updated: 'October 28th, 2016'
 ---
 
 - Taxon: Bivalve
 - Range: [Alabama](/alabama), [Kentucky](/kentucky), [North Carolina](/north-carolina), [Tennessee](/tennessee) and [Virginia](/virginia)
 - Status: Endangered
+
+## News and Events
+{{< news tag="Cumberland bean" number="3" type="gallery" >}}
 
 ## Appearance
 
@@ -43,9 +46,11 @@ The Cumberland bean was known only from the lower and upper tributary streams of
 {{< figure class="photo-center" src="/images/pages/cumberland-bean-sinking-creek-habitat.jpg" alt="A shallow, rocky stream with mature trees on either bank providing shade" caption="Cumberland bean habitat in Sinking Creek, Kentucky. Photo by Monte McGregor, Center Mollusk Conservation, Kentucky DFWR." >}}
 
 ## Current Range
+
 Remnant populations of the Cumberland bean can still be found in river systems within the Cumberland River and Tennessee River drainages.
 
 ### Cumberland River drainage
+
 - Buck Creek, Kentucky
 - Rockcastle River drainage, Kentucky
   - Rockcastle River
@@ -56,6 +61,7 @@ Remnant populations of the Cumberland bean can still be found in river systems w
   - Station Camp Creek
 
 ### Tennessee River drainage
+
 - Hiwassee River
 - Little Chucky Creek
 
@@ -71,9 +77,11 @@ For more detailed information on the current range for the Cumberland bean, plea
 
 
 ## Conservation Challenges
+
 Impoundments, siltation, and pollution are major threats to the Cumberland bean. Acidic mine waste in the Little South Fork, Big South Fork, and Rockcastle River Drainages are known to affect the species.
 
 ## How You Can Help
+
 Individuals can do a number of things to help protect mussels, such as:
 - Conserving water to allow more water to remain in streams.
 - Using pesticides responsibly, especially around streams and lakes, to prevent runoff into mussel habitats.
@@ -82,6 +90,7 @@ Individuals can do a number of things to help protect mussels, such as:
 - Supporting and follow zebra mussel quarantine, inspection, and decontamination programs to prevent the spread of zebra mussels, an invasive species that competes with native mussels.
 
 ## Subject Matter Experts
+
 - **[Leroy Koch](mailto:leroy_koch@fws.gov?subject=Cumberland+bean)**, Fish and Wildlife Biologist, Kentucky.
 - **[Bob Butler](mailto:bob_butler@fws.gov?subject=Cumberland+bean)**, Fish and Wildlife Biologist, North Carolina.
 - **[Stephanie Chance](mailto:stephanie_chance@fws.gov?subject=Cumberland+bean)**, Fish and Wildlife Biologist, Tennessee.
@@ -91,6 +100,7 @@ Individuals can do a number of things to help protect mussels, such as:
 No critical habitat is designated for this species.
 
 ## Additional Resources
+
 - [Mussels and Aquatic Snails, Kentucky Department of Fish and Wildlife Resources](http://fw.ky.gov/Wildlife/Pages/Freshwater-Mussels-and-Aquatic-Snails.aspx): biology and conservation information related to mussels and aquatic snails in Kentucky.
 - [Freshwater Mollusk Society](http://molluskconservation.org/): the Freshwater Mollusk Conservation Society (FMCS) is dedicated to the conservation of and advocacy of freshwater mollusks, North America's most imperiled animals.
 - [The Nature Conservancy in Kentucky](http://www.nature.org/ourinitiatives/regions/northamerica/unitedstates/kentucky/): conserving nature to ensure Kentuckians have clean air and water, healthy soils and open spaces to enjoy forever.

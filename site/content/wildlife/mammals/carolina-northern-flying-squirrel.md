@@ -19,7 +19,7 @@ hero:
     caption: 'A Carolina northern flying squirrel in the hands of a biologist. Photo by Gary Peeples, USFWS.'
     link: 'https://flic.kr/p/cE8uD7'
     position: 'top center'
-updated: 'September 27th, 2016'
+updated: 'October 28th, 2016'
 ---
 
 - Taxa: Mammal
@@ -29,11 +29,7 @@ updated: 'September 27th, 2016'
 The Carolina northern flying squirrel can trace its roots back to the last ice age. During this time, ice sheets covered much of northern North America, forcing cold-climate plants and animals further south. As temperatures warmed and ice sheets receded, those cold-climate species migrated north, and some found refuge on the high, cold peaks of the Southern Appalachians.  Over thousands of years, these isolated, mountain-top populations became increasingly distinct, a process that gave rise to the Carolina northern flying squirrel, a subspecies of northern flying squirrel only found in the high-elevation areas of North Carolina, Tennessee, and Southwest Virginia.
 
 ## News and Events
-**February 2013 Photo Gallery: [Biologists Repair Squirrel Nest Boxes](https://www.flickr.com/photos/usfwssoutheast/sets/72157632984946559/)** <br>
-One of the main ways biologists track populations of these squirrels is to provide nesting boxes, mounted high in trees, which are periodically checked to see if they’re occupied. If Carolina northern flying squirrels are found using the boxes, those individuals are tagged, weighed and measured. On this snowy day, the Service’s Sue Cameron joined Dottie Brown of the North Carolina Wildlife Resources Commission to check a series of boxes off the Blue Ridge Parkway. Unfortunately no squirrels were found, but the trip provided the biologists an opportunity to replace degraded nest boxes.
-
-**January 2010 Photo Gallery: [Endangered flying squirrel search in the Appalachian highlands](https://www.flickr.com/photos/usfwssoutheast/sets/72157624148898240/)** <br>
-These photos follow a team of biologists from the U.S. Fish and Wildlife Service, North Carolina Wildlife Resources Commission, and the Eastern Band of Cherokee Indians as they search for the squirrel.
+{{< news tag="Carolina northern flying squirrel" number="3" type="gallery" >}}
 
 ## Appearance
 There are two species of flying squirrels in the Southern Appalachians – the northern (*Glaucomys sabrinus*) and southern (*Glaucomys volans*). They can be difficult to tell apart visually, therefore the elevation and habitat where they are found can be the best distinguishing traits.
