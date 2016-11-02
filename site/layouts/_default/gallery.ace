@@ -1,7 +1,7 @@
 li.card
   {{ if .Params.hero }}
     a href="{{ .Permalink}}"
-      .gallery-hero.card-hero style="background-image: url({{ .Site.BaseURL }}/images/hero/medium/{{ .Params.hero.name }}); background-position: {{ if .Params.hero.position }}{{ .Params.hero.position }}{{ else }}center center{{ end }};"
+      img.gallery-hero srcset="{{ .Site.BaseURL }}images/hero/small/{{ .Params.hero.name }} 450w, {{ .Site.BaseURL }}images/hero/medium/{{ .Params.hero.name }} 850w" src="{{ .Site.BaseURL }}images/hero/small/{{ .Params.hero.name }}" alt="{{ .Params.hero.alt }}"
   {{ end }}
   .card-text
     p
