@@ -6,7 +6,7 @@ tags:
     - Gulf
     - Restoration
 url: /gulf-restoration
-updated: 'October 19th, 2016'
+updated: 'October 27th, 2016'
 ---
 
 ## Restoring the Gulf of Mexico and its Wild Inhabitants
@@ -29,7 +29,7 @@ Restoring this vital area will ensure America continues to thrive well into and 
 
  - More than 50% of the contiguous United States have rivers, creeks, and streams that eventually drain into the Gulf of Mexico.
  - The Gulf of Mexico watershed includes 31 states that stretch from Montana to Florida, as well as parts of Canada and Mexico.
- - The Gulf of Mexico and its watershed are inhabited by more than 130 federally listed species, 95 of which are endangered.
+ - The Gulf of Mexico and its watershed are home to more than 500 federally listed species, of which more than 350 are endangered.
  - Among the threatened and endangered species in the watershed are some of America's most beloved and iconic species, such as sea turtles, manatees, whooping cranes and peregrine falcons.
  - The natural resources in the five U.S. states bordering the Gulf are the foundation of a multi-billion dollar economic engine that employs more than eight million people and produces more than half of America's crude oil and natural gas.
  - Every 45 minutes, another football field of wetlands in Louisiana disappears into the sea, taking with it nature's best storm protection and water filter, as well as the cradle for sea life in the world's third largest delta.
