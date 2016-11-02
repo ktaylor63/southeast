@@ -3,8 +3,7 @@
     {{ if ne .Type "index" }}
     h1.page-title {{ .Title }}
     {{ if .Params.subtitle }}
-    h2
-      em {{ .Params.subtitle }}
+    h2.page-subtitle {{ .Params.subtitle}}
     {{ end }}
     {{ end }}
     {{ .Content }}
