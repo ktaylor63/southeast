@@ -2,19 +2,21 @@
 title: 'Five-Year Reviews of Listed Species'
 description: 'The U.S. Fish and Wildlife Service conducts reviews of the status of threatened and endangered species once every five years. Learn more and read the most current review of species found in the southeastern United States.'
 js: /js/five-year-reviews.js
+nav: '5-Year Reviews'
+weight: 4
 tags:
     - 'endangered species act'
     - science
     - monitoring
 aliases:
-  - /5yearreviews/5yearreviews
-  - /5yearreviews
+    - /5yearreviews/5yearreviews
+    - /5yearreviews
 hero:
     name: miami-blue-butterfly.jpg
     alt: 'A white/gray butterfly with black spots blends into a flower bloom of similar color and markings.'
     link: 'https://flic.kr/p/bJQ2s4'
     caption: 'The endangered Miami blue butterfly feeds on a flower. © Holly Salvato. Used with permission.'
-updated: 'August 11th, 2016'
+updated: 'November 2nd, 2016'
 ---
 
 To make sure that all species listed as threatened or endangered under the Endangered Species Act continue to have the appropriate level of protection, we conduct assessments of their status once every five years. We call these **five-year reviews**.
