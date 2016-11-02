@@ -1,9 +1,9 @@
 = content main
   .content-centered role="main"
-    h1.page-title {{ .Title }}
+    h1 {{ .Title }}
 
     ul.news-teaser-list
-    {{ $paginator := .Paginate (where .Data.Pages "Type" "news") }}
+    {{ $paginator := .Paginate (where .Data.Pages "Type" "news") 7 }}
     {{ range $paginator.Pages }}
       {{ .Render "summary" }}
     {{ end }}
