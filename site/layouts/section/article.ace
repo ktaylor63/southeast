@@ -3,7 +3,7 @@
     h1.page-title {{ .Title }}
 
     ul.news-teaser-list
-    {{ $paginator := .Paginate (where .Data.Pages "Type" "article") }}
+    {{ $paginator := .Paginate (where .Data.Pages "Type" "article") 7 }}
     {{ range $paginator.Pages }}
       {{ .Render "summary" }}
     {{ end }}
