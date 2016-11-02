@@ -27,8 +27,6 @@
     var data = JSON.parse(body);
     var project = random(data.items);
     output.innerHTML = template({ project: project });
-
-    console.log(project);
   }
 
 
