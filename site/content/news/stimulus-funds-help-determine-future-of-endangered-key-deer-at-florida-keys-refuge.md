@@ -8,7 +8,7 @@ hero:
     caption: 'A Key deer in velvet. Photo by USFWS.'
 tags:
     - NWRS
-updated: 'October 3rd, 2016'
+updated: 'October 26th, 2016'
 ---
 
 The petite Key deer is dependent on fresh water in a place where fresh water can sometimes be scarce – the Florida Keys, the only place where the Key deer lives. At Key Deer National Wildlife Refuge, fresh water collects in small ponds that form in the limestone, known as solution holes, providing life for the refuge’s federally listed Key deer population.
@@ -19,13 +19,13 @@ But are the solution holes plentiful enough, and fresh enough, to support the re
 
 “The way these holes work,” Morkill explained, “is that the Miami oolite limestone on top is less porous than the coral-like Key Largo limestone found elsewhere in the Keys, so rain water is captured in pond-like formations. But since the elevations are relatively low – an average of less than three feet above sea level – storm surges and rising sea levels are bringing more saltwater into these basins.”
 
-classphoto Their work may help determine whether or not the fresh water holes on the refuge are being affected by climate change, and thus how climate change may ultimately affect the federally endangered Key deer and other native wildlife that rely on these critical water sources.
+Their work may help determine whether or not the fresh water holes on the refuge are being affected by climate change, and thus how climate change may ultimately affect the federally endangered Key deer and other native wildlife that rely on these critical water sources.
 
 “All the refuges are having to deal with the climate change issue, especially coastal refuges like the Keys that are threatened by sea level rise, and come up with a management plan to deal with their consequences,” said Killam. “So our study will be used to compare salinity levels to readings taken in the past, and will also provide a baseline for future monitoring.”
 
 Albritton and Killam measure the water in the holes for salinity, conductivity, dissolved oxygen and temperature. “Anything below 15 parts per thousand is drinkable,” said Albritton, referring to salinity measurement, “and anything above that, the Key deer are going to avoid that hole.”
 
-In addition to measuring salinity, Killam and Albritton document evidence of wildlife at the solution holes. On Killam’s mental checklist: “ Were there birds in the trees? Were there herons or egrets feeding on the fish in the holes? Or were there raccoon tracks or tracks or scat of other animals?” The presence of invasive exotic species of plants and animals is also noted for follow-up control efforts.
+In addition to measuring salinity, Killam and Albritton document evidence of wildlife at the solution holes. On Killam’s mental checklist:“ Were there birds in the trees? Were there herons or egrets feeding on the fish in the holes? Or were there raccoon tracks or tracks or scat of other animals?” The presence of invasive exotic species of plants and animals is also noted for follow-up control efforts.
 
 Unfortunately they have also found something completely unconnected to the reason they were hired: Trash dumping on the refuge, sometimes in water holes used by wildlife. “In the past, when people didn’t necessarily have dumps or landfills or it was too expensive, they’d just pull their vehicles up and unfortunately dump stuff right in the solution holes,” said Killam.
 

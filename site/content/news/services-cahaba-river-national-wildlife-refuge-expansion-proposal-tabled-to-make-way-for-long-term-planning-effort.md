@@ -1,8 +1,14 @@
 ---
-title: Service's Cahaba River National Wildlife Refuge expansion proposal tabled to make way for long-term planning effort
-date: 2011-05-04
+title: 'Services Cahaba River National Wildlife Refuge expansion proposal tabled to make way for long-term planning effort'
+date: '2011-05-04'
+hero:
+    name: cahaba-river-lillies.jpg
+    alt: 'Bright white flowers with a river in the background.'
+    link: 'https://flic.kr/p/9EAgB1'
+    caption: 'Lilies at Cahaba River National Wildlife Refuge. Photo by Garry Tucker, USFWS.'
 tags:
- - NWRS
+    - NWRS
+updated: 'October 26th, 2016'
 ---
 
 The U.S. Fish and Wildlife Service will table the decision on a refuge boundary expansion at Cahaba River National Wildlife Refuge based on public input.
@@ -13,9 +19,9 @@ Refuge managers instead will move forward with the development of a comprehensiv
 
 Engagement with the public and a range of constituencies with interests in the future of the refuge will be a critical piece of the CCP process that will begin this fall.
 
-Cahaba River NWR, located in Bibb County, shelters globally unique species and habitats and includes 3.5 miles of the Cahaba, Alabama’s longest free-flowing river. It is presently one of the nation’s smaller national wildlife refuges, but is the fifth largest of Alabama’s 11 national wildlife refuges. The Cahaba River NWR was established in 2002\. Its acquisition boundary is 7,600 acres and that includes 3,608 acres the refuge currently owns.
+Cahaba River NWR, located in Bibb County, shelters globally unique species and habitats and includes 3.5 miles of the Cahaba, Alabama’s longest free-flowing river. It is presently one of the nation’s smaller national wildlife refuges, but is the fifth largest of Alabama’s 11 national wildlife refuges. The Cahaba River NWR was established in 2002. Its acquisition boundary is 7,600 acres and that includes 3,608 acres the refuge currently owns.
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

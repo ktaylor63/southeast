@@ -1,8 +1,15 @@
 ---
-title: Service, States, celebrate 20th Anniversary of the Safe Harbor Program offering voluntary land management agreements with private landowners
-date: 2015-11-06
+title: 'Service, States, celebrate 20th Anniversary of the Safe Harbor Program offering voluntary land management agreements with private landowners'
+date: '2015-11-06'
+hero:
+    name: red-cockaded-woodpecker-flying.jpg
+    alt: 'Red-cockaded woodpecker flying from it''s nest.'
+    link: 'https://flic.kr/p/fF5CiY'
+    caption: 'Red-cockaded woodpecker. Photo by Martjan Lammertink, U.S. Forest Service.'
 tags:
- - Safe Harbor
+    - 'Safe Harbor'
+    - 'Red-cockaded woodpecker'
+updated: 'October 25th, 2016'
 ---
 
 More than 400 private landowners across nine states are voluntarily managing their forests through the U.S. Fish and Wildlife Service’s Safe Harbor Program to benefit the endangered red-cockaded woodpecker.  The eight State agencies administering the program to landowners received special recognition this week at the Annual Conference of the Southeastern Association Fish and Wildlife Agencies meeting in Asheville, North Carolina.
@@ -25,25 +32,14 @@ Red-cockaded woodpeckers live in distinct social groups. Each group usually cons
 
 The original success of the first red-cockaded woodpecker Safe Harbor Program in the North Carolina Sandills also led the Fish and Wildlife Service to establish a national program.  Other endangered or threatened wildlife helped by Safe Harbor Agreements include the Utah prairie dog, Florida scrub jay, Lahontan cutthroat trout, Houston toad, and Karner blue butterfly.  Safe Harbor agreements with private landowners now benefit more than 100 federally listed species on 5.2 million acres in 26 states.
 
-**Public invited to Family Field Day celebration**
+## Public invited to Family Field Day celebration
 
-To celebrate the Safe Harbor Program’s 20<sup>th</sup> Anniversary, a family field day will be held Saturday, November 7, in the North Carolina Sandhills.    The event is open to the public from 1 p.m. to 4 p.m. at the Walthour-Moss Foundation property, one mile from Southern Pines, North Carolina, and north of Aiken Road. 
+To celebrate the Safe Harbor Program’s 20<sup>th</sup> Anniversary, a family field day will be held Saturday, November 7, in the North Carolina Sandhills. The event is open to the public from 1 p.m. to 4 p.m. at the Walthour-Moss Foundation property, one mile from Southern Pines, North Carolina, and north of Aiken Road. 
 
 Hosted by the Foundation, the North Carolina Sandhills Conservation Partnership, and the Service, the family field day features demonstrations and information about longleaf pine ecology, red-cockaded woodpecker biology, and the Safe Harbor program. Children can enjoy a scavenger hunt.  For more information about the family field day, please contact Caroline George at 919-812-2954, or [caroline_george@fws.gov](mailto:caroline_george@fws.gov).
 
-**Contact(s):**  
+## Contact
 
 Will McDearman, USFWS  
 601-321-1124  
 [Will_McDearman@fws.gov](mailto:Will_McDearman@fws.gov)
-
-Jennifer  Strickland, USFWS  
-404-679-7299  
-[Jennifer_Strickland@fws.gov](mailto:Jennifer_Strickland@fws.gov)
-
-* * *
-
-![Red-cockaded woodpecker flying from it's nest. ](images/newsUploads/newsThumbs/newsImageThumbDDD30836-D9AC-6B5A-FB98EAA7623F1F05.jpg)
-
-Red-cockaded woodpecker. Credit: Martjan Lammertink, U.S. Forest Service.  
-[Higher Quality Version of Image](https://www.flickr.com/photos/usdagov/9631240690/in/photolist-fF5CiY-dofe3M-dbmv1F-ejsy8b-dAhrnF-dofnBj-dofnF5-dofeDz-dofe9i-dofegR-dofn7W-dofeRV-dofeWB-dofohb-doff1t-dofeK4-dofgbt-doffhx-doffme-doffs2-doffvB-doffF8-dofnuS-dofp75-dofpdm-fEN4og-cM2Kvs-cYn3X7-dcUFR9-cPVom7-d6AdE9-9R5DZw-pFh4nR-dG43yk-pFGcLu-dofoRN-doffSF-dchUpq-dci6d3-dcickn-dah9wd-gXEx3Q-dchD84-d6DqRA-crCkL9-dchtQK-8LCLH3-dDowee-gXDHue-dcAkuT)

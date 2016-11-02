@@ -1,10 +1,16 @@
 ---
-title: Service to Enact Additional Manatee Protection Measures at Three Sisters Springs
-date: 2015-02-26
+title: 'Service to Enact Additional Manatee Protection Measures at Three Sisters Springs'
+date: '2015-02-26'
+hero:
+    name: manatee-silhouettes.jpg
+    alt: 'Several manatee silhouettes from below with sun beams.'
+    link: 'https://flic.kr/p/bsT669'
+    caption: 'Manatees at Crystal River National Wildlife Refuge, FL. Photo by David Hinkel, USFWS.'
 tags:
- - Manatee
- - Three Sisters Springs
- - NWRS
+    - Manatee
+    - 'Three Sisters Springs'
+    - NWRS
+updated: 'October 26th, 2016'
 ---
 
 The U.S. Fish and Wildlife Service published its Final Environmental Assessment “Manatee Wildlife Viewing on Crystal River National Wildlife Refuge, Three Sisters Springs, Citrus County, Florida.”
@@ -37,8 +43,9 @@ Some comments that were outside the scope of this Environmental Assessment were 
 
 [The Final Environmental Assessment](http://fws.gov/southeast/news/pdf/SignedManateeEnvironmentalAssessment.pdf) (PDF, 2.1MB)  
 [Finding of No Significant Impact to Manatee](http://fws.gov/southeast/news/pdf/SignedFindingOfNoSignificantImpactManatee.pdf) (PDF, 300KB)
+[Higher Quality Version of Image](http://www.fws.gov/southeast/news/images/three-sisters-springs-manatee-closure-areas.jpg)
 
-**Contact(s):**  
+## Contacts
 
 Andrew Gude, Refuge Manager  
 352-563-2088 ext. 202
@@ -50,10 +57,3 @@ Kimberly Sykes
 Tom MacKenzie  
 404-679-7291  
 [tom_mackenzie@fws.gov](mailto:tom_mackenzie@fws.gov)
-
-* * *
-
-![](images/newsUploads/newsThumbs/newsImageThumbC6870ED3-F6CD-85BA-B3EDD59616B4849D.jpg)
-
-Three Sisters Springs map: Proactive Precautionary Management Measures of Three Sisters Springs: In-spring Manatee closures. Credit: USFWS  
-[Higher Quality Version of Image](http://www.fws.gov/southeast/news/images/three-sisters-springs-manatee-closure-areas.jpg)

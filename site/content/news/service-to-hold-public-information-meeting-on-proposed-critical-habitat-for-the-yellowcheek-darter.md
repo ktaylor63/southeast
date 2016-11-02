@@ -1,9 +1,14 @@
 ---
-title: Service to Hold Public Information Meeting on Proposed Critical Habitat for the Yellowcheek Darter
-date: 2012-02-10
+title: 'Service to Hold Public Information Meeting on Proposed Critical Habitat for the Yellowcheek Darter'
+date: '2012-02-10'
+hero:
+    name: yellowcheek-darter.jpg
+    alt: 'A brown fish with red fins.'
+    caption: 'Yellowcheek darter. Photo &copy; J.R. Shute, Conservation Fisheries International.'
 tags:
- - Yellowcheek darter
- - Critical Habitat
+    - 'Yellowcheek darter'
+    - 'Critical Habitat'
+updated: 'October 26th, 2016'
 ---
 
 The U.S. Fish and Wildlife Service announces a public information meeting to share information and answer questions about a proposal to designate  critical habitat for the endangered yellowcheek darter.  
@@ -26,7 +31,7 @@ Critical habitat is a term defined in the Endangered Species Act.  It refers to
 
 A critical habitat designation does not set up a preserve or refuge and only applies to situations where federal funding or a federal permit is involved.  It does not allow government or public access to private land.  Federal agencies that undertake, fund or permit activities that may affect critical habitat are required to consult with the Service to ensure such actions do not adversely modify or destroy designated critical habitat.  Since the yellowcheek darter is listed under the Endangered Species Act, it is already protected wherever it occurs.  Federal agencies are required to consult on any action taken that might affect the species, whether or not critical habitat is designated.
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

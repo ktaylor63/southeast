@@ -1,12 +1,18 @@
 ---
-title: Service to List Florida Bristle Fern as Endangered
-date: 2015-10-05
+title: 'Service to List Florida Bristle Fern as Endangered'
+date: '2015-10-05'
+hero:
+    name: florida-bristle-fern.jpg
+    alt: 'A leafy green vine like plant growing on a rock face.'
+    link: 'https://flic.kr/p/pimjFR'
+    caption: 'Florida bristle fern. Photo by Keith Bradley.'
 tags:
- - Florida bristle fern
- - Florida
+    - 'Florida bristle fern'
+    - Florida
+updated: 'October 26th, 2016'
 ---
 
-VERO BEACH, FL -- The Florida bristle fern will be added to the list of endangered plants protected by the Endangered Species Act (ESA).  An endangered plant is one that is in danger of extinction throughout all or a significant portion of its range.
+**VERO BEACH, FL** &mdash; The Florida bristle fern will be added to the list of endangered plants protected by the Endangered Species Act (ESA).  An endangered plant is one that is in danger of extinction throughout all or a significant portion of its range.
 
 Currently found only on state and county lands in Miami-Dade and Sumter counties, the Florida bristle fern is a small, mat-forming fern that resembles mosses and liverworts.  Currently, there are only two known groupings of populations of this plant.  In Miami-Dade County, the fern is found in limestone solution holes in rockland hammocks on the Miami Rock Ridge.  In Sumter County, the fern lives on limestone boulders under thick forest cover in moderately moist hammocks.  There are only six small populations of this subspecies—four in Miami-Dade County and two in Sumter County—covering a combined total area of only 155 square feet. 
 
@@ -24,17 +30,10 @@ The Service offers willing landowners a number of voluntary and non-regulatory c
 
 [Final Listing Questions and Answers](http://fws.gov/southeast/news/pdf/florida-bristle-fern-final-listing-questions-and-answers.pdf)
 
-**Contact(s):**  
+## Contacts
 
 Ken Warren, 772-469-4323  
 [ken_warren@fws.gov](mailto:ken_warren@fws.gov)
 
 Tom MacKenzie, 404-679-7291  
 [tom_mackenzie@fws.gov](mailto:tom_mackenzie@fws.gov)
-
-* * *
-
-![Bright green leaves form a dense mat on top of a mossy rock.](images/newsUploads/newsThumbs/newsImageThumb2421D37E-96AE-9435-E55F7F23942777F2.jpg)
-
-Florida bristle fern Credit: Keith Bradley  
-[Higher Quality Version of Image](http://fws.gov/southeast/news/images/FloridaBristleFernKeithBradleyFull.jpg)

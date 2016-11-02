@@ -1,10 +1,16 @@
 ---
-title: Service Seeks Comments on Draft Economic Analysis and Proposed Critical Habitat for Vermilion Darter
-date: 2010-06-29
+title: 'Service Seeks Comments on Draft Economic Analysis and Proposed Critical Habitat for Vermilion Darter'
+date: '2010-06-29'
+hero:
+    name: vermillion-darter.jpg
+    alt: 'An illustration of male and female fish.  The male is much more colorful with blues and oranges while the female is black and brown.'
+    caption: 'Vermilion darter Illustrated by Joe Tomelleri.'
+    position: 'top center'
 tags:
- - Critical Habitat
- - Vermilion darter
- - Alabama
+    - 'Critical Habitat'
+    - 'Vermilion darter'
+    - Alabama
+updated: 'October 25th, 2016'
 ---
 
 The U.S. Fish and Wildlife Service is seeking comments on a draft economic analysis related to its proposal to designate critical habitat for an endangered fish, the[vermilion darter](http://ecos.fws.gov/speciesProfile/profile/speciesProfile.action?spcode=E098).
@@ -29,7 +35,7 @@ The vermilion darter is a medium-sized fish, about 2.8 inches long, and was list
 
 At the time the vermilion darter was listed, the Service determined that designating critical habitat was prudent, but did not do so because of budgetary and resource constraints. On November 27, 2007, the Center for Biological Diversity filed a lawsuit against the Secretary of Interior for the Service’s failure to designate critical habitat, alleging that the agency’s prudency determination was arbitrary and not in accordance with law. In a court-approved settlement agreement, the Service agreed to make a new prudency determination, and if found to be prudent, then submit a proposed designation of critical habitat to the Federal Register by November 30, 2009, and a final designation by November 30, 2010\. On December 3, 2009, the Service published a proposed designation of critical habitat for the vermilion darter in the Federal Register (74 FR 63367).
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

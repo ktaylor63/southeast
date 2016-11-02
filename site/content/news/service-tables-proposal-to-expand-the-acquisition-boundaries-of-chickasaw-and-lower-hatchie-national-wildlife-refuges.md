@@ -1,9 +1,15 @@
 ---
-title: Service Tables Proposal to Expand the Acquisition Boundaries of Chickasaw and Lower Hatchie National Wildlife Refuges
-subtitle: Previously Scheduled Public Meetings Cancelled
-date: 2014-04-23
+title: 'Service Tables Proposal to Expand the Acquisition Boundaries of Chickasaw and Lower Hatchie National Wildlife Refuges'
+subtitle: 'Previously Scheduled Public Meetings Cancelled'
+date: '2014-04-23'
+hero:
+    name: lower-hatchie-mississippi-river.jpg
+    alt: 'Banks of the Mississippi River.'
+    link: 'https://flic.kr/p/86Bxoj'
+    caption: 'Mississippi River at Lower Hatchie Wildlife Refuge. Photo by <a href=\"https://www.flickr.com/photos/rwklose/\" target=\"_blank\">Roland Klose</a> <a href=\"https://creativecommons.org/licenses/by-nd/2.0/\" target=\"_blank\">CC BY-ND 2.0</a>.'
 tags:
- - NWRS
+    - NWRS
+updated: 'October 26th, 2016'
 ---
 
 The U.S. Fish and Wildlife Service has tabled planning efforts on its proposal to expand the acquisition boundaries of [Chickasaw](http://www.fws.gov/chickasaw/) and [Lower Hatchie](http://www.fws.gov/lowerhatchie/) National Wildlife Refuges in western Tennessee.
@@ -16,14 +22,9 @@ The proposal would have only allowed for the purchase of lands within those boun
 
 [March 25, 2014: Public Meetings Scheduled for Expansion of the Acquisition Boundaries of Chickasaw and Lower Hatchie National Wildlife Refuges](http://www.fws.gov/southeast/news/2014/024.html)
 
-**Contact(s):**  
+## Contact
+
 Tom MacKenzie  
 [tom_mackenzie@fws.gov](mailto:tom_mackenzie@fws.gov)  
 (404) 679-7291  
 cell: (678) 296-6400
-
-* * *
-
-![A blue, open lake with trees lining the background.](images/newsUploads/newsThumbs/newsImageThumbD2FE35F8-D311-58B8-82AF9232F0307319.jpg)
-
-Goose pond at Chickasaw National Wildlife Refuge. Credit: USFWS  

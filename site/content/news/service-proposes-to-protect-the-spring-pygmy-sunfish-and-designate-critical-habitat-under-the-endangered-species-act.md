@@ -1,10 +1,15 @@
 ---
-title: Service Proposes to Protect the Spring Pygmy Sunfish and Designate Critical Habitat under the Endangered Species Act
-subtitle: Agency Seeks Information from the Public, Scientific Community before Making Final Decision
-date: 2012-10-01
+title: 'Service Proposes to Protect the Spring Pygmy Sunfish and Designate Critical Habitat under the Endangered Species Act'
+subtitle: 'Agency Seeks Information from the Public, Scientific Community before Making Final Decision'
+date: '2012-10-01'
+hero:
+    name: spring-pygmy-sunfish.jpg
+    alt: 'A small greenish yellow fish with grey fins.'
+    caption: 'Spring pygmy sunfish. Photo by Alabama Department of Conservation and Natural Resources.'
 tags:
- - Spring pygmy sunfish
- - Critical Habitat
+    - 'Spring pygmy sunfish'
+    - 'Critical Habitat'
+updated: 'October 26th, 2016'
 ---
 
 Current evidence suggests that the spring pygmy sunfish may become threatened with extinction in the foreseeable future, the U.S. Fish and Wildlife Service announced today. As a result, the Service has proposed to protect the species under the Endangered Species Act, and is seeking new information from the public and the scientific community that will assist the agency in making a final determination.
@@ -33,7 +38,7 @@ Comments must be received or on or before December 3, 2012\. Requests for a publ
 
 The Service will post all comments received on [http://www.regulations.gov](http://www.regulations.gov/).   This generally means that any personal information provided will also be posted.
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

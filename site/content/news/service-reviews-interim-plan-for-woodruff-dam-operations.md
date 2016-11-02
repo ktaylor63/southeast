@@ -1,8 +1,16 @@
 ---
-title: Service reviews interim plan for Woodruff Dam operations
-date: 2012-05-22
+title: 'Service reviews interim plan for Woodruff Dam operations'
+date: '2012-05-22'
+hero:
+    name: gulf-sturgeon-jumping.jpg
+    alt: 'A large prehistoric looking fish jumps three feet over a small river.'
+    link: 'https://flic.kr/p/bk9vBo'
+    caption: 'Gulf sturgeon can jump several feet out of the water. Photo by Tim Donovan, FWC.'
+    position: 'top center'
 tags:
- - Florida
+    - Florida
+    - 'Gulf sturgeon'
+updated: 'October 25th, 2016'
 ---
 
 The U.S. Fish and Wildlife Service has determined the U.S. Army Corps of Engineers’ interim plan for operating Jim Woodruff Dam (Lake Seminole) on the Apalachicola River will not threaten the continued existence of federally protected freshwater mussels and the Gulf sturgeon fish in Florida.
@@ -21,7 +29,7 @@ For more information and some FAQ's regarding the Fish and Wildlife Service's ro
 
 In order to view the official opinion and all other documents regarding the biological opinion on Jim Woodruff Dam, please click HERE
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

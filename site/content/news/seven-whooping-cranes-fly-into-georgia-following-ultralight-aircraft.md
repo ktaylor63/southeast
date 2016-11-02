@@ -1,9 +1,14 @@
 ---
-title: Seven Whooping Cranes Fly into Georgia Following Ultralight Aircraft
-date: 2014-12-09
+title: 'Seven Whooping Cranes Fly into Georgia Following Ultralight Aircraft'
+date: '2014-12-09'
+hero:
+    name: whooping-crane-in-flight-ultralight.jpg
+    alt: 'Long white birds flying in formation behind a fan powered glider.'
+    caption: 'We hope for a tremendous viewing audience for this amazing spectacle! Photo by Nick Baldwin, a refuge volunteer.'
 tags:
- - Whooping crane
- - Georgia
+    - 'Whooping crane'
+    - Georgia
+updated: 'October 26th, 2016'
 ---
 
 Seven whooping cranes following pilots in two ultralight aircraft lifted off from Pike County, Alabama today and flew 117 miles before landing in Decatur County, Georgia.  
@@ -37,7 +42,7 @@ Many other flyway states, provinces, private individuals and conservation group
 
 To report whooping crane sightings, visit the WCEP whooping crane observation webpage at: [http://www.fws.gov/midwest/whoopingcrane/sightings/sightingform.cfm](http://www.fws.gov/midwest/whoopingcrane/sightings/sightingform.cfm).
 
-**Contact(s):**  
+## Contacts
 
 Heather Ray, Operation Migration  
 920-573-0905  
@@ -46,10 +51,3 @@ Heather Ray, Operation Migration
 Tom MacKenzie, USFWS  
 404-679-7291  
 [tom_mackenzie@fws.gov](mailto:tom_mackenzie@fws.gov)
-
-* * *
-
-![An ultralight aircraft in the sky with a flock of cranes.](images/newsUploads/newsThumbs/newsImageThumb30CE49C8-9C2B-C01A-487D39F07A43378C.jpg)
-
-Whooping cranes following ultralight aircraft lift off from Pike County Alabama, December 9, 2014 on their way to Georgia. Credit: Heather Ray / Operation Migration.  
-[Higher Quality Version of Image](https://flic.kr/p/ppBD5o)

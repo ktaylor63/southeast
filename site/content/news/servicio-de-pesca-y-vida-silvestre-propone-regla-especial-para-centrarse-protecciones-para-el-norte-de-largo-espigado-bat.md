@@ -1,8 +1,14 @@
 ---
-title: Servicio de Pesca y Vida Silvestre Propone Regla especial para centrarse Protecciones para el norte de Largo-Espigado Bat
-subtitle: Regla se aplicaría si se Especies clasificadas como amenazadas bajo la Ley de Especies en Peligro
-date: 2015-01-15
+title: 'Servicio de Pesca y Vida Silvestre Propone Regla especial para centrarse Protecciones para el norte de Largo-Espigado Bat'
+subtitle: 'Regla se aplicaría si se Especies clasificadas como amenazadas bajo la Ley de Especies en Peligro'
+hero:
+    name: northern-log-eared-bat.jpg
+    alt: 'A small furry bat in a crevice of a cave with patches of white fungus on its face and shoulder.'
+    link: 'https://flic.kr/p/re5BtW'
+    caption: 'A northern-long-eared bat with suspected White Nose Syndrome. Photo by Steve Taylor, University of Illinois.'
+date: '2015-01-15'
 language: spanish
+updated: 'October 26th, 2016'
 ---
 
 El presente documento es una traducción del texto original en inglés, por lo que podrá presentar ligeras diferencias en el significado debido a dificultades inherentes a la traducción de textos científicos y jurídicos. En cualquier caso, la versiên en inglés será la oficial.
@@ -43,20 +49,9 @@ Todos los comentarios serán publicados en http://www.regulations.gov. Esto gene
 
 Para obtener más información sobre el murciélago orejudo septentrional, la propuesta de incluir y 4 (d) propuesta de norma, vaya a http://www.fws.gov/midwest/endangered/mammals/nlba/index.html.
 
-**Contact(s):**  
+## Contact
 
 Georgia Parham, USFWS   
 812-334-4261 x 1203  
 812-593-8501 - mobile  
 [Georgia_Parham@fws.gov](mailto:Georgia_Parham@fws.gov)
-
-Jennifer Strickland, USFWS Southeast  
-404-679-7299  
-[Georgia_Parham@fws.gov](mailto:Georgia_Parham@fws.gov?subject=Northern%20long-eared%20bat)[Jennifer_Strickland@fws.gov](mailto:Jennifer_Strickland@fws.gov?subject=Northern%20long-eared%20bat)
-
-* * *
-
-![](images/newsUploads/newsThumbs/newsImageThumbEE5B10EA-E897-240A-FB04B1DCEC512C96.jpg)
-
-Northern long-eared bat proposed 4(d) Rule. Credit: USFWS  
-[Higher Quality Version of Image](http://www.fws.gov/southeast/news/2015/nleb-map-300.gif)

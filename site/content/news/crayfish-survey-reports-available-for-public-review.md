@@ -1,19 +1,20 @@
 ---
-title: Crayfish survey reports available for public review
-subtitle: Agency invites further public comment on proposed endangered protections
+title: 'Crayfish survey reports available for public review'
+subtitle: 'Agency invites further public comment on proposed endangered protections'
 date: '2015-12-14'
 hero:
-  name: big-sandy-crayfish.jpg
-  alt: A lobster-shaped and colored crayfish with tinges of rust and blue.
-  link: https://flic.kr/p/qXGti8
-  caption: Big Sandy crayfish. Photo by Zachary Loughman, West Liberty University.
+    name: big-sandy-crayfish.jpg
+    alt: 'A lobster-shaped and colored crayfish with tinges of rust and blue.'
+    link: 'https://flic.kr/p/qXGti8'
+    caption: 'Big Sandy crayfish. Photo by Zachary Loughman, West Liberty University.'
 tags:
- - Crayfish
- - Kentucky
- - West Virginia
+    - Crayfish
+    - Kentucky
+    - 'West Virginia'
+updated: 'October 26th, 2016'
 ---
 
-New survey reports for the Guyandotte River and Big Sandy crayfishes are now available for public review, the U.S. Fish and Wildlife Service announced today. In light of these survey reports and to allow for additional public involvement, the agency has re-opened the comment period for 30 days untilJanuary 14, 2016.
+New survey reports for the Guyandotte River and Big Sandy crayfishes are now available for public review, the U.S. Fish and Wildlife Service announced today. In light of these survey reports and to allow for additional public involvement, the agency has re-opened the comment period for 30 days until January 14, 2016.
 
 The Service used the best available information to propose in April 2015 to protect both species as endangered. Recognizing that additional data would help inform the final decision, the agency funded additional surveys in the summer and fall of 2015 that covered the entire historical range of each species.
 

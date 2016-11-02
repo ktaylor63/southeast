@@ -5,12 +5,12 @@ date: '2014-01-07'
 hero:
     name: whooping-crane-in-flight-ultralight.jpg
     alt: 'Long white birds flying in formation behind a fan powered glider.'
-    caption: 'We hope for a tremendous viewing audience for this amazing spectacle! Photo by Nick Baldwin, a refuge volunteer from last year''s flyover.'
+    caption: 'We hope for a tremendous viewing audience for this amazing spectacle! Photo by Nick Baldwin, a refuge volunteer from last years flyover.'
 tags:
     - Florida
     - NWRS
     - 'Whooping crane'
-updated: 'October 6th, 2016'
+updated: 'October 26th, 2016'
 ---
 
 Eight young whooping cranes that began their aircraft-led migration on October 2, 2013, from the White River Marsh State Wildlife Area in Green Lake County, Wisconsin, made it to their destination at St. Marks National Wildlife Refuge in Wakulla County, Florida. These cranes are the 13th group to be guided by ultralight aircraft from central Wisconsin to the Gulf coast of Florida. The Whooping Crane Eastern Partnership (WCEP), an international coalition of public and private organizations, is conducting the reintroduction project in an effort to restore this endangered species to part of its historic range in eastern North America. There are now 109 whooping cranes in the wild in eastern North America thanks to WCEP’s efforts.

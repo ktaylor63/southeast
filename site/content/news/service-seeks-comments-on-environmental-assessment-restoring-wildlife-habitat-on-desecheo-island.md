@@ -1,10 +1,17 @@
 ---
-title: Service Seeks Comments on Environmental Assessment - Restoring Wildlife Habitat on Desecheo Island
-date: 2011-07-29
+title: 'Service Seeks Comments on Environmental Assessment - Restoring Wildlife Habitat on Desecheo Island'
+date: '2011-07-29'
+hero:
+    name: desecheo.jpg
+    alt: 'A tall rocky island emerging from a choppy blue sea.'
+    link: 'https://flic.kr/p/s58JUj'
+    caption: 'Desecheo Island, Puerto Rico. Photo by <a href=\"https://www.flickr.com/photos/damiavos/\" target=\"_blank\">damian entwistle</a> <a href=\"https://creativecommons.org/licenses/by-nc/2.0/\" target=\"_blank\">CC BY-NC 2.0</a>.'
 tags:
+    - 'Puerto Rico'
+updated: 'October 25th, 2016'
 ---
 
-CABO ROJO, PR - The U.S. Fish and Wildlife Service is seeking public comments on the recently completed Environmental Assessment, _Rat Eradication to Promote Ecosystem Restoration on Desecheo Island, Puerto Rico. _This Environmental Assessment analyzes possible consequences of five alternatives – a no-action alternative and four action alternatives – for restoring the island’s native habitat and species by eradicating non-native, invasive black rats from the Refuge. The proposed action will assist the native subtropical dry forest to recover and will promote the recolonization of the island by nesting seabirds.
+**CABO ROJO, PR** - The U.S. Fish and Wildlife Service is seeking public comments on the recently completed Environmental Assessment, _Rat Eradication to Promote Ecosystem Restoration on Desecheo Island, Puerto Rico_. This Environmental Assessment analyzes possible consequences of five alternatives – a no-action alternative and four action alternatives – for restoring the island’s native habitat and species by eradicating non-native, invasive black rats from the Refuge. The proposed action will assist the native subtropical dry forest to recover and will promote the recolonization of the island by nesting seabirds.
 
 The Environmental Assessment can be requested by e-mailing  [caribbeanisland@fws.gov](mailto:caribbeanisland@fws.gov) or by calling 787/851-7258, ext. 300\. Written comments on the Environmental Assessment will be accepted through **August 31, 2011**, and can be submitted by e-mail to[caribbeanisland@fws.gov](mailto:caribbeanisland@fws.gov) or by mail to the _Caribbean Islands National Wildlife Refuge - DESECHEO, P.O. Box 510, Boqueron, Puerto Rico 00622._
 
@@ -16,7 +23,7 @@ Black rats were first reported and collected from Desecheo in 1912, at which tim
 
 The U.S. Fish and Wildlife Service is the principal Federal agency responsible for conserving, protecting and enhancing fish, wildlife, and plants and their habitats for the continuing benefit of the American people. Please visit the Service’s websites at [http://www.fws.gov/caribbean/refuges](http://www.fws.gov/caribbean/refuges).
 
-**Related Websites:**
+## Related Websites
 
 *   [Desecho National Wildlife Refuge](http://www.fws.gov/caribbean/refuges/desecho/default.htm)
 
@@ -32,7 +39,7 @@ Desecho National Wildlife Refuge. Photo: USFWS.
 
 The federally listed higo chumbo cactus. Photo: USFWS.
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

@@ -1,11 +1,15 @@
 ---
 title: 'Service Initiates Status Review of the Spring Pygmy Sunfish'
 date: '2011-03-31'
+hero:
+    name: spring-pygmy-sunfish.jpg
+    alt: 'A small greenish yellow fish with grey fins.'
+    caption: 'Spring pygmy sunfish. Photo by Alabama Department of Conservation and Natural Resources.'
 tags:
     - 'Spring pygmy sunfish'
     - 'At-Risk species'
     - Alabama
-updated: 'October 21st, 2016'
+updated: 'October 26th, 2016'
 ---
 
 The spring pygmy sunfish may warrant federal protection as an endangered species, the U.S. Fish and Wildlife Service concludes, following an initial review of a petition seeking to protect the species under the Endangered Species Act (ESA).

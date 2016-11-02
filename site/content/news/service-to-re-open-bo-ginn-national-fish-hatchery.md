@@ -1,8 +1,13 @@
 ---
-title: Service to Re-open Bo Ginn National Fish Hatchery
-date: 2010-05-28
+title: 'Service to Re-open Bo Ginn National Fish Hatchery'
+date: '2010-05-28'
+hero:
+    name: bo-gin-hatchery.jpg
+    alt: 'An employee in uniform posts a sign in front of a small lake.'
+    caption: 'Willie Booker, manager of USFWS''s Orangeburg National Fish Hatchery, posts boundary signs at Bo Ginn National Fish Hatchery near Millen, Georgia. Photo by USFWS.'
 tags:
- - Bo Ginn National Fish Hatchery
+    - 'Bo Ginn National Fish Hatchery'
+updated: 'October 26th, 2016'
 ---
 
 The U.S. Fish and Wildlife Service will re-open Bo Ginn National Fish Hatchery in Millen , Georgia . The transfer occurred through an agreement negotiated in December 2009 with the Georgia Department of Natural Resources, which has overseen the hatchery since 1996.
@@ -25,9 +30,7 @@ The Service’s Fisheries Program has played a vital role in conserving America 
 
 The National Fish Hatchery System has a unique responsibility in helping to recover species listed under the Endangered Species Act, restoring native aquatic populations, mitigating for fisheries lost as a result of federal water projects, and providing fish to benefit tribes and National Wildlife Refuges. The National Fish Hatchery System works closely with other Service biologists and with the states, tribes, and the private sector to complement habitat restoration and other resource management strategies for maintaining healthy ecosystems that support healthy fisheries.
 
-The U.S. Fish and Wildlife Service is the principal federal agency responsible for conserving, protecting and enhancing fish, wildlife and plants and their habitats for the continuing benefit of the American people. Visit the Service’s website at [http://www.fws.gov](http://www.fws.gov/) or [http://www.fws.gov/southeast/](http://www.fws.gov/southeast/).
-
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

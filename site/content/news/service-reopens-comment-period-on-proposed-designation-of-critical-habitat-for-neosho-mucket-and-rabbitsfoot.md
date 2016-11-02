@@ -1,10 +1,15 @@
 ---
-title: Service Reopens Comment Period on Proposed Designation of Critical Habitat for Neosho Mucket and Rabbitsfoot
-date: 2014-05-13
+title: 'Service Reopens Comment Period on Proposed Designation of Critical Habitat for Neosho Mucket and Rabbitsfoot'
+date: '2014-05-13'
+hero:
+    name: rabbitsfoot.jpg
+    alt: 'A mussel with brownish outer shell and a glossy white inner shell that resembles a baked potato.'
+    caption: 'Threatened rabbitsfoot mussel. Photo by Bob Butler, USFWS.'
 tags:
- - Neosho mucket
- - Rabbitsfoot
- - Critical Habitat
+    - 'Neosho mucket'
+    - Rabbitsfoot
+    - 'Critical Habitat'
+updated: 'October 25th, 2016'
 ---
 
 The U.S. Fish and Wildlife Service on Wednesday will reopen the public comment period for 60 days on the proposed designations of critical habitat for the Neosho mucket and Rabbitsfoot under the Endangered Species Act. Both species are freshwater mussels found in river systems in the eastern half of the United States.
@@ -44,16 +49,8 @@ For more information about the Neosho mucket, please visit [http://www.fws.gov/s
 
 [Frequently Asked Questions: Proposed Critical Habitat Rule for the Neosho Mucket and Rabbitsfoot](http://www.fws.gov/southeast/news/2014/QandA_TwoMussels_05132014.pdf)
 
-
-**Contact(s):**  
+## Contacts
 
 Stacy Shelton, Public Affairs Specialist  
 404-679-7290  
 [stacy_shelton@fws.gov](mailto:stacy_shelton@fws.gov)
-
-* * *
-
-![A light an dark brown smooth mussel.](images/newsUploads/newsThumbs/newsImageThumbF6BA5CAF-DE0E-0B9D-4B06728E6EDE3308.jpg)
-
-A rabbitsfoot mussel. Credit: Bob Butler / USFWS  
-[Higher Quality Version of Image](http://www.fws.gov/southeast/species/invertebrate/images/rabbitsfoot.jpg)

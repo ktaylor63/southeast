@@ -1,8 +1,14 @@
 ---
-title: Service Reopens Public Comment Period on Plan to Restrict Giant Invasive Snakes
-date: 2010-07-01
+title: 'Service Reopens Public Comment Period on Plan to Restrict Giant Invasive Snakes'
+date: '2010-07-01'
+hero:
+    name: boa-constrictor.jpg
+    alt: 'The head of a large boa constrictor being handled by a biologist.'
+    link: 'https://flic.kr/p/fZ7SQM'
+    caption: 'Boa constrictor. Photo by FWC.'
 tags:
- - Lacey Act
+    - 'Lacey Act'
+updated: 'October 25th, 2016'
 ---
 
 The U.S. Fish and Wildlife Service has reopened the public comment period on a proposed ruleto designate nine species of large constrictor snakes as “injurious wildlife” under the Lacey Act. The Service seeks comments from the public for an additional 30 days in order to ensure that any final action will be based on the best data available.  
@@ -20,7 +26,7 @@ The importation and introduction of nine large constrictor snakes into the natur
 The U.S. Fish and Wildlife Service and National Park Service recently funded a U.S. Geological Survey assessment, which examined the ecological risks associated with the establishment of the nine large constrictor species. All were shown to pose a high or medium risk to the health of ecosystems in the United States.  
 For Service information on injurious wildlife and how to send a comment, as well as links to partner agencies, visit: [http://www.fws.gov/verobeach/index.cfm?method=activityhighlights&id=11.](http://www.fws.gov/verobeach/index.cfm?method=activityhighlights&id=11.)
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

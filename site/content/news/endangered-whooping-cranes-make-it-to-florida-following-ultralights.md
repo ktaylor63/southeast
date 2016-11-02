@@ -6,11 +6,11 @@ date: '2013-12-31'
 hero:
     name: whooping-crane-in-flight-ultralight.jpg
     alt: 'Long white birds flying in formation behind a fan powered glider.'
-    caption: 'We hope for a tremendous viewing audience for this amazing spectacle! Photo by Nick Baldwin, a refuge volunteer from last year''s flyover.'
+    caption: 'We hope for a tremendous viewing audience for this amazing spectacle! Photo by Nick Baldwin, a refuge volunteer from last years flyover.'
 tags:
     - 'Whooping crane'
     - Florida
-updated: 'October 6th, 2016'
+updated: 'October 26th, 2016'
 ---
 Eight young whooping cranes that began their aircraft-led migration on October 2, 2013, from the White River Marsh State Wildlife Area in Green Lake County, Wisconsin, today made it to Leon County, Florida, their last layover before reaching their new winter home at St. Marks National Wildlife Refuge.
 

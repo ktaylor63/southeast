@@ -1,13 +1,19 @@
 ---
-title: Service Seeks Comments on Draft Economic Analysis, Re-opens Comment Period on Proposal to Designate Critical Habitat for Three Caribbean Plants
-date: 2014-05-20
+title: 'Service Seeks Comments on Draft Economic Analysis, Re-opens Comment Period on Proposal to Designate Critical Habitat for Three Caribbean Plants'
+date: '2014-05-20'
+hero:
+    name: agave-eggersiana-flower.jpg
+    alt: 'Bright yellow flowers for an agave plant.'
+    link: 'https://flic.kr/p/9U7vzS'
+    caption: 'Agave eggersiana flower. Photo by Christian Torres, USFWS.'
 tags:
- - Critical Habitat
- - Puerto Rico
- - US Virgin Islands
- - Agave eggersiana
- - Gonocalyx concolor
- - Varronia rupicola
+    - 'Critical Habitat'
+    - 'Puerto Rico'
+    - 'US Virgin Islands'
+    - 'Agave eggersiana'
+    - 'Gonocalyx concolor'
+    - 'Varronia rupicola'
+updated: 'October 25th, 2016'
 ---
 
 The U.S. Fish and Wildlife Service [seeks additional public comment](http://www.fws.gov/southeast/news/2014/Comment_Instructions_3_Caribbean_Plants.pdf) on a proposed critical habitat designation for three plants found in Puerto Rico and the Virgin Islands.
@@ -30,15 +36,14 @@ Many organizations are working with the Service to conserve these plants, includ
 
 Written comments concerning the proposed critical habitat designations for these three plants should be submitted by accessing the Federal eRulemaking Portal: [http://www.regulations.gov](http://www.regulations.gov). Follow the instructions for submitting comments on Attn: FWS-R4-ES-2013-0040 for the proposed critical habitat designation.  You can also visit the websites [http://www.fws.gov/southeast/news/](http://www.fws.gov/southeast/news/) or [http://www.fws.gov/caribbean/es/](http://www.fws.gov/caribbean/es/).
 
-**Additional Resources:**
+## Additional Resources
 
-*   [Questions and Answers](http://www.fws.gov/southeast/news/2014/3-Caribbean-plants_Q&A.pdf) (PDF)
-*   [How to Submit Comments](http://www.fws.gov/southeast/news/2014/Comment_Instructions_3_Caribbean_Plants.pdf) (PDF)
-*   [Download a video on the plants ](http://www.fws.gov/southeast/http://www.fws.gov/southwest/video/Listing3CaribbeanPlants720p.mov)(.mov,117.2MB)
-*   [Video transcripts](http://www.fws.gov/southeast/http://www.fws.gov/southwest/video/transcripts/Transcript_ListingCaribbeanPlants.pdf)
+ - [Questions and Answers](http://www.fws.gov/southeast/news/2014/3-Caribbean-plants_Q&A.pdf) (PDF)
+ - [How to Submit Comments](http://www.fws.gov/southeast/news/2014/Comment_Instructions_3_Caribbean_Plants.pdf) (PDF)
+ - [Download a video on the plants ](http://www.fws.gov/southeast/http://www.fws.gov/southwest/video/Listing3CaribbeanPlants720p.mov)(.mov,117.2MB)
+ - [Video transcripts](http://www.fws.gov/southeast/http://www.fws.gov/southwest/video/transcripts/Transcript_ListingCaribbeanPlants.pdf)
 
-[Thumbnail Images of the Three Plants](http://www.fws.gov/southeast/news/2013/074.html)
-**Contact(s):**  
+## Contacts
 
 Marelisa Rivera  
 787-851-7297  
@@ -47,9 +52,3 @@ Marelisa_Rivera@fws.gov
 Tom MacKenzie  
 404-679-7291  
 Tom_MacKenzie@fws.gov
-
-* * *
-
-![A bright red tubular flower.](images/newsUploads/newsThumbs/newsImageThumb1AB99763-E401-5A8C-62DFBD9C751F3C51.jpg)
-
-Gonocalyx concolor. Credit: JP Zegarra / USFWS  
