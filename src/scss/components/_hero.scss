@@ -1,10 +1,10 @@
 .hero {
-  background: $color-accent;
   height: 50vh;
   overflow: hidden;
   position: relative;
 
   @media (min-width: $break-md) {
+    background: $color-accent;
     margin-left: $nav-width;
   }
 }
@@ -14,4 +14,6 @@
   background-size: cover;
   background-repeat: no-repeat;
   height: 100%;
+  margin: auto;
+  max-width: 1400px;
 }
