@@ -27,7 +27,7 @@
       }
 
       @media (min-width: $break-lg) {
-        top: 150px;
+        top: 250px;
       }
     }
 
@@ -63,23 +63,28 @@
     margin-top: 0;
   }
 
-  .gallery-hero {
-    background-size: cover;
-    height: 300px;
-
-    @media (min-width: $break-md) {
-      height: 400px;
+  .card-text {
+    @media (min-width: $break-lg) {
+      margin-left: 325px;
     }
 
-    @media (min-width: $break-lg) {
-      height: 300px;
+    @media (min-width: $break-xl) {
+      margin: 0;
     }
   }
 
   li {
+    @extend %clearfix;
     margin-bottom: 2em;
 
     @media (min-width: $break-lg) {
+      .gallery-hero {
+        float: left;
+        max-width: 325px;
+      }
+    }
+
+    @media (min-width: $break-xl) {
       display: inline-block;
       margin-right: 2%;
       vertical-align: top;
@@ -87,6 +92,11 @@
 
       &:last-child {
         margin-right: 0;
+      }
+
+      .gallery-hero {
+        float: none;
+        max-width: 100%;
       }
     }
   }
