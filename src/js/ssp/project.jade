@@ -1,0 +1,4 @@
+h4 #[a(target="_blank", href=project.link.url)= project.title]
+if project.previewImage.original
+  img(class="photo-right" src=project.previewImage.original.viewUri alt="Preview image for this project")
+p!= project.body

@@ -1,0 +1,31 @@
+{
+  "name": "ssp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "browserify": {
+    "transform": [
+      "jadeify"
+    ]
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "browserify": "browserify index.js | uglifyjs -mc > ../../../site/static/js/ssp.js",
+    "watchify": "watchify index.js -o ../../../site/static/js/ssp.js -dv",
+    "inspect": "browserify --full-paths index.js | uglifyjs -mc | Discify --open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browserify": "^13.1.1",
+    "jade": "^1.11.0",
+    "jadeify": "^4.6.0",
+    "uglifyjs": "^2.4.10",
+    "watchify": "^3.7.0"
+  },
+  "dependencies": {
+    "query-string": "^4.2.3",
+    "random-item": "^1.0.0"
+  }
+}

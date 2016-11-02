@@ -2,9 +2,17 @@
 title: 'Science Within the Service'
 description: 'Employees within the U.S. Fish and Wildlife Service use science on a daily basis as the foundation for carrying out our mission. Learn how we use science and discover online tools for natural resources conservation.'
 url: /science
+js: /js/ssp.js
+nav: 'Science Home'
+weight: 1
+hero:
+    name: birding.jpg
+    alt: 'A biologist in warm clothes looks through binoculars in a dormant field with tall grassy vegetation.'
+    link: 'https://flic.kr/p/bokTbs'
+    caption: 'Service biologist Sue Cameron searches for birds. Photo by Gary Peeples, USFWS.'
 tags:
     - Science
-updated: 'September 7th, 2016'
+updated: 'November 2nd, 2016'
 ---
 
 Employees within the U.S. Fish and Wildlife Service use science on a daily basis as the foundation for carrying out our mission.
@@ -22,4 +30,11 @@ Science-based natural resource conservation requires that our employees have tim
 {{< figure class="photo-center" src="/images/pages/botanist-taking-measurements-in-the-field.jpg" alt="A botanist taking measurements in the field." caption="A biologist counts plans in North Carolina. Photo by Gary Peeples, USFWS." link="https://flic.kr/p/uB8wWF" >}}
 
 ## Science-based Projects
+
 Through the Science Support Partnership (SSP) Program, the U.S. Fish and Wildlife Service partners with U.S. Geological Survey to understand and provide the critical science information required to effectively manage our nation’s resources.  Since 2001 over 60 projects have been completed that support science needs in the Southeast Region.
+
+### Featured Project
+
+<article class="featured-project"></article>
+
+[Explore more Science Support Partnership Program Projects](/science/science-support-partnership-program)
