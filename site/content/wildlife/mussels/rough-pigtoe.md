@@ -6,6 +6,8 @@ scientific: 'Pleurobema plenum'
 js: /js/species-profile.js
 aliases:
     - /wildlife/mussel/rough-pigtoe
+    - /species/mussel/rough-pigtoe
+    - /species/mussels/rough-pigtoe
 tags:
     - Mussel
     - 'Endangered Species'
@@ -17,7 +19,7 @@ hero:
     name: rough-pigtoe.jpg
     alt: 'A close up photo of a yellow mussel shell'
     caption: 'Adult rough pigtoe in the Green River in Kentucky. Photo by Monte McGregor, Center Mollusk Conservation, Kentucky DFWR.'
-updated: 'October 28th, 2016'
+updated: 'November 2nd, 2016'
 ---
 - Taxon: Bivalve
 - Range:  Alabama, Indiana, Kentucky and Virginia

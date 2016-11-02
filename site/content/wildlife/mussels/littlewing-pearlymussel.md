@@ -6,6 +6,8 @@ scientific: 'Pegia fabula'
 js: /js/species-profile.js
 aliases:
     - /wildlife/mussel/littlewing-pearlymussel
+    - /species/mussel/littlewing-pearlymussel
+    - /species/mussels/littlewing-pearlymussel
 tags:
     - Mussel
     - 'Endangered Species'
@@ -18,7 +20,7 @@ hero:
     name: littlewing-pearlymussel.jpg
     alt: 'A brownish yellow mussel shell with white abrasions'
     caption: 'Photo by Monte McGregor, Center Mollusk Conservation, Kentucky DFWR.'
-updated: 'October 28th, 2016'
+updated: 'November 2nd, 2016'
 ---
 
 - Taxon: Bivalve

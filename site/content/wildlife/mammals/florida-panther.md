@@ -6,6 +6,8 @@ js: /js/species-profile.js
 description: 'The Florida panther is a subspecies of Puma concolor (also known as mountain lion, cougar, or puma) and represents the only known breeding population of puma in the eastern United States. It is protected as endangered under the Endangered Species Act.'
 aliases:
     - /wildlife/mammal/florida-panther
+    - /species/mammal/florida-panther
+    - /species/mammals/florida-panther
 tags:
     - Florida
     - 'Endangered Species'
@@ -18,7 +20,7 @@ hero:
     alt: 'A Florida panther walking on a gravel road with a slash pine forest in the background'
     name: florida-panther.jpg
     position: 'left center'
-updated: 'October 28th, 2016'
+updated: 'November 2nd, 2016'
 ---
 
 - **Taxon:** Mammal

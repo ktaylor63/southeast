@@ -5,6 +5,8 @@ type: species-profile
 js: /js/species-profile.js
 aliases:
     - /wildlife/fish/sicklefin-redhorse
+    - /species/fish/sicklefin-redhorse
+    - /species/fishes/sicklefin-redhorse
 tags:
     - 'Sicklefin redhorse'
     - Fish
@@ -18,7 +20,7 @@ hero:
     caption: 'North Carolina Biologist with Sicklefin redhorse. Photo: Mark Cantrell, USFWS.'
     position: 'bottom right'
 description: 'The sicklefin redhorse, a freshwater fish, can grow to 25 inches long. It has a sickle-shaped back fin that is olive-colored, sometimes partly red. Its body is also olive, with a coppery or brassy sheen; its lower fins are primarily dusky to dark, often tinted yellow or orange and pale edged; the tail fin is mostly red.'
-updated: 'October 28th, 2016'
+updated: 'November 2nd, 2016'
 ---
 
 - Taxa: Fish

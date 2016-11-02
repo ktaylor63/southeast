@@ -6,6 +6,8 @@ scientific: 'Obovaria retusa'
 js: /js/species-profile.js
 aliases:
     - /wildlife/mussel/ring-pink
+    - /species/mussel/ring-pink
+    - /species/mussels/ring-pink
 tags:
     - Mussel
     - 'Endangered Species'
@@ -16,7 +18,7 @@ hero:
     name: ring-pink.jpg
     alt: 'A photograph of the outside and inside of a ring pink shell next to a ruler for scale.  Shell is approximately 3 inches wide.'
     caption: 'Ring pink. Photo by Leroy Koch, USFWS.'
-updated: 'October 28th, 2016'
+updated: 'November 2nd, 2016'
 ---
 
 - Taxon: Bivalve

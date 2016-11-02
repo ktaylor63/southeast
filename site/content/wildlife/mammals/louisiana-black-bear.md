@@ -14,12 +14,14 @@ tags:
     - Gulf
 aliases:
     - /wildlife/mammal/louisiana-black-bear
+    - /species/mammal/louisiana-black-bear
+    - /species/mammals/louisiana-black-bear
 hero:
     name: louisiana-black-bear.jpg
     alt: 'A Louisiana black bear standing in a grassy clearing'
     caption: 'Louisiana black bear. Credit: Pam McIlhenny, used with permission.'
 description: 'The Louisiana black bear is the state mammal for Louisiana, and it is one of 16 subspecies of the American black bear. While the American black bear can be found across North America, the Louisiana black bear subspecies is only known to occur in Louisiana, East Texas and western Mississippi.  Compared to other black bears, the Louisiana black bear''s skull is longer, narrower and flatter, with larger molar teeth.'
-updated: 'October 28th, 2016'
+updated: 'November 2nd, 2016'
 ---
 
 - Taxa: [Mammal](/tags/mammal)

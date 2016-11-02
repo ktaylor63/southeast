@@ -6,6 +6,8 @@ type: species-profile
 js: /js/species-profile.js
 aliases:
     - /wildlife/mammal/carolina-northern-flying-squirrel
+    - /species/mammal/carolina-northern-flying-squirrel
+    - /species/mammals/carolina-northern-flying-squirrel
 tags:
     - 'Endangered Species'
     - 'North Carolina'
@@ -19,7 +21,7 @@ hero:
     caption: 'A Carolina northern flying squirrel in the hands of a biologist. Photo by Gary Peeples, USFWS.'
     link: 'https://flic.kr/p/cE8uD7'
     position: 'top center'
-updated: 'October 28th, 2016'
+updated: 'November 2nd, 2016'
 ---
 
 - Taxa: Mammal

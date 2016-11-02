@@ -7,5 +7,7 @@ tags:
 url: /wildlife/plants
 aliases:
     - /wildlife/plant
-updated: 'September 27th, 2016'
+    - /species/plant
+    - /species/plants
+updated: 'November 2nd, 2016'
 ---

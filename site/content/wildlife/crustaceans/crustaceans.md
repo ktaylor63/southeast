@@ -7,5 +7,7 @@ tags:
 url: /wildlife/crustaceans
 aliases:
     - /wildlife/crustacean
-updated: 'September 27th, 2016'
+    - /species/crustacean
+    - /species/crustaceans
+updated: 'November 2nd, 2016'
 ---

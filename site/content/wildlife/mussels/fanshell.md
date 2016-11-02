@@ -6,6 +6,8 @@ scientific: 'Cyprogenia Stegaria'
 js: /js/species-profile.js
 aliases:
     - /wildlife/mussel/fanshell
+    - /species/mussel/fanshell
+    - /species/mussels/fanshell
 tags:
     - Mussel
     - 'Endangered Species'
@@ -21,7 +23,7 @@ hero:
     name: fanshell-mussel.jpg
     alt: 'Three brownish yellow mussels the smallest of which has a small white protrusion which the mussel uses to attach to a rock.'
     caption: 'Photo by Monte McGregor, Center Mollusk Conservation, Kentucky DFWR.'
-updated: 'October 28th, 2016'
+updated: 'November 2nd, 2016'
 ---
 
 - **Taxon**: Bivalve

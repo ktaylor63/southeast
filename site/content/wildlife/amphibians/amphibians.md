@@ -7,5 +7,7 @@ tags:
 url: /wildlife/amphibians
 aliases:
     - /wildlife/amphibian
-updated: 'October 4th, 2016'
+    - /species/amphibian
+    - /species/amphibians
+updated: 'November 2nd, 2016'
 ---

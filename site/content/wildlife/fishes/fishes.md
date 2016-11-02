@@ -7,5 +7,7 @@ tags:
 url: /wildlife/fishes
 aliases:
     - /wildlife/fish
-updated: 'September 27th, 2016'
+    - /species/fish
+    - /species/fishes
+updated: 'November 2nd, 2016'
 ---

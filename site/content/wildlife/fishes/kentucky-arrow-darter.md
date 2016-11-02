@@ -6,6 +6,8 @@ type: species-profile
 js: /js/species-profile.js
 aliases:
     - /wildlife/fish/kentucky-arrow-darter
+    - /species/fish/kentucky-arrow-darter
+    - /species/fishes/kentucky-arrow-darter
 tags:
     - Fish
     - Kentucky
@@ -16,7 +18,7 @@ hero:
     caption: 'Photo by J.R. Shute, Conservation Fisheries, Inc.'
     alt: 'A small, brightly colored orange and blue fish in an aquarium.'
     position: 'left center'
-updated: 'October 28th, 2016'
+updated: 'November 2nd, 2016'
 ---
 
 - **Taxon: Fish**

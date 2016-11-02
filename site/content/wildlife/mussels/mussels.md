@@ -7,5 +7,7 @@ tags:
 url: /wildlife/mussels
 aliases:
     - /wildlife/mussel
-updated: 'October 4th, 2016'
+    - /species/mussel
+    - /species/mussels
+updated: 'November 2nd, 2016'
 ---

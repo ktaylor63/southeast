@@ -6,6 +6,8 @@ type: species-profile
 js: /js/species-profile.js
 aliases:
     - /wildlife/mussel/orangefoot-pimpleback
+    - /species/mussel/orangefoot-pimpleback
+    - /species/mussels/orangefoot-pimpleback
 tags:
     - Mussel
     - 'Endangered Species'
@@ -17,7 +19,7 @@ hero:
     name: orangefoot-pimpleback.jpg
     alt: 'A brown mussel with orangish brown striations'
     caption: 'An orangefoot pimpleback mussel. Photo by Monte McGregor, Center Mollusk Conservation, Kentucky DFWR.'
-updated: 'October 28th, 2016'
+updated: 'November 2nd, 2016'
 ---
 
 - Taxon: [Bivalve](/tag/bivalve)

@@ -6,6 +6,8 @@ type: species-profile
 js: /js/species-profile.js
 aliases:
     - /wildlife/amphibian/kentucky-cave-shrimp
+    - /species/amphibian/kentucky-cave-shrimp
+    - /species/amphibians/kentucky-cave-shrimp
 tags:
     - Crustacean
     - Kentucky
@@ -16,7 +18,7 @@ hero:
     alt: 'A translucent shrimp walking along a rocky surface under water'
     caption: 'A Kentucky cave shrimp. Photo by John MacGregor, Kentucky Department of Fish and Wildlife Resources.'
     position: 'center bottom'
-updated: 'October 28th, 2016'
+updated: 'November 2nd, 2016'
 ---
 
 - **Taxa: Crustacea**

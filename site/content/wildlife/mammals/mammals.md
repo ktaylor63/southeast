@@ -7,5 +7,7 @@ tags:
 url: /wildlife/mammals
 aliases:
     - /wildlife/mammal
-updated: 'September 27th, 2016'
+    - /species/mammal
+    - /species/mammals
+updated: 'November 2nd, 2016'
 ---

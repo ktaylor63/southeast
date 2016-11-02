@@ -6,6 +6,8 @@ type: species-profile
 js: /js/species-profile.js
 aliases:
     - /wildlife/fish/cumberland-darter
+    - /species/fish/cumberland-darter
+    - /species/fishes/cumberland-darter
 tags:
     - Fish
     - 'Endangered species'
@@ -16,7 +18,7 @@ hero:
     alt: 'A small, straw-yellow colored fish with brown markings'
     caption: 'Photo by Jeremy Shute, Conservation Fisheries, Inc.'
     position: 'left bottom'
-updated: 'October 28th, 2016'
+updated: 'November 2nd, 2016'
 ---
 
 - Taxon: Fish

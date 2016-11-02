@@ -7,5 +7,7 @@ tags:
 url: /wildlife/insects
 aliases:
     - /wildlife/insect
-updated: 'September 27th, 2016'
+    - /species/insect
+    - /species/insects
+updated: 'November 2nd, 2016'
 ---
