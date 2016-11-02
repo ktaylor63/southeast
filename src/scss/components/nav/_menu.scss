@@ -8,7 +8,6 @@
   box-sizing: border-box;
   color: $color-accent;
   margin: 0;
-  padding: 7px 30px 7px 10px;
   width: 90%
 }
 
@@ -20,6 +19,7 @@
   backface-visibility: hidden;
   background: $color-accent;
   color: $white;
+  font-size: 18px;
   height: 100%;
   transform: translateY(-100%) translateZ(0);
   transition: all $transition-duration;
@@ -59,6 +59,10 @@
   }
 }
 
+.fws-menu-content {
+  padding-top: 50px;
+}
+
 .fws-menu-content,
 .fws-menu-content ul {
   height: 100%;
@@ -86,6 +90,7 @@
 
   li {
     color: $color-accent;
+    margin: 0;
     text-align: left;
   }
 
