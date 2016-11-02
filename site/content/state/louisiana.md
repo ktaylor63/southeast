@@ -4,7 +4,7 @@ abbreviation: LA
 url: /louisiana
 tags:
     - Louisiana
-updated: 'August 16th, 2016'
+updated: 'October 28th, 2016'
 ---
 
 ## Did You Know?
@@ -17,4 +17,4 @@ updated: 'August 16th, 2016'
  <iframe src="https://usfws.github.io/southeast-mega-map/?state=LA&scroll=false" class="state-map"></iframe>
 
 ## Recent News
-{{< news tag="Louisiana">}}
+{{< news tag="Louisiana" number="5" type="li" >}}

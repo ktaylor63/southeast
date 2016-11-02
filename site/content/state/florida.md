@@ -10,7 +10,7 @@ hero:
 tags:
     - Florida
 abbreviation: FL
-updated: 'August 16th, 2016'
+updated: 'October 28th, 2016'
 ---
 
 {{< figure class="photo-right" src="/images/pages/florida-coast-sunset-egret.jpg" alt="Bright red sunset reflected over water with silhouette of a wading bird." caption="Florida sunset. Photo: Paul Lang, USFWS." >}}
@@ -40,11 +40,11 @@ Notify our state partners, the Florida Fish and Wildlife Conservation Commission
 
 ### What do I do if I experience a panther, manatee or sea turtle depredation or other human/wildlife interaction?
 
-Please notify the Florida Fish and Wildlife Conservation Commission by calling their Wildlife Alert Hotline at (888) 404-FWCC (3922), or if you’re currently in the state, #FWC or *FWC on your cell phone.
+Please notify the Florida Fish and Wildlife Conservation Commission by calling their Wildlife Alert Hotline at (888) 404-FWCC (3922), or if you’re currently in the state, #FWC or *FWC* on your cell phone.
 
 ### How do I report injured or nuisance wildlife in Florida?
 
-Please notify the Florida Fish and Wildlife Conservation Commission by calling their Wildlife Alert Hotline at (888) 404-FWCC (3922), or if you’re currently in the state, #FWC or *FWC on your cell phone.
+Please notify the Florida Fish and Wildlife Conservation Commission by calling their Wildlife Alert Hotline at (888) 404-FWCC (3922), or if you’re currently in the state, #FWC or *FWC* on your cell phone.
 
 ### How do I report suspected violations of the Endangered Species Act?
 
@@ -65,4 +65,4 @@ The U.S. Fish and Wildlife Service is addressing an unprecedented workload to as
   - Learn more at [EvergladesRestoration.gov](http://www.evergladesrestoration.gov/)
 
 ## Recent News
-{{< news tag="Florida">}}
+{{< news tag="Florida" number="5" type="li" >}}

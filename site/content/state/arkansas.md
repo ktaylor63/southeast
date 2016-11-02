@@ -4,7 +4,7 @@ abbreviation: AR
 url: /arkansas
 tags:
     - Arkansas
-updated: 'August 16th, 2016'
+updated: 'October 28th, 2016'
 ---
 
 ## The Natural State
@@ -13,4 +13,4 @@ updated: 'August 16th, 2016'
 <iframe src="https://usfws.github.io/southeast-mega-map/?state=AR&scroll=false" class="state-map"></iframe>
 
 ## Recent News
-{{< news tag="Arkansas">}}
+{{< news tag="Arkansas" number="5" type="li" >}}
