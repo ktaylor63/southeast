@@ -1,0 +1,28 @@
+.gallery {
+  @extend %clearfix;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+
+  .card {
+    margin-top: 0;
+  }
+
+  .card-text {
+    @media (min-width: $break-lg) {
+      margin-left: 325px;
+    }
+  }
+
+  li {
+    @extend %clearfix;
+    margin-bottom: 2em;
+
+    @media (min-width: $break-lg) {
+      .gallery-hero {
+        float: left;
+        max-width: 325px;
+      }
+    }
+  }
+}
