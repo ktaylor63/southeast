@@ -26,10 +26,9 @@ html lang="en-US"
       {{ range first 1 (and (where .Site.Pages "Section" "article") (where .Site.Pages "Type" "feature" )) }}
         {{ $.Scratch.Add "feature" .Title }}
         {{ .Render "feature" }}
+        .centered-button
+          a.button href="{{ .Permalink }}" Read Article
       {{ end }}
-
-      .centered-button
-        a.button href="{{ .Permalink }}" Read Article
 
 
       ul.article-gallery
@@ -39,12 +38,14 @@ html lang="en-US"
           {{ end }}
         {{ end }}
 
+      .centered-button
+        a.button href="/article" Article Archive
+
       {{ range first 1 (where .Site.Pages "Section" "news") }}
         {{ .Render "feature" }}
+        .centered-button
+          a.button href="{{ .Permalink }}" Read Release
       {{ end }}
-
-      .centered-button
-        a.button href="{{ .Permalink }}" Read Release
 
       ul.article-gallery
         {{ range $index, $element := after 1 (where .Site.Pages "Section" "news") }}
@@ -52,6 +53,9 @@ html lang="en-US"
           {{ .Render "gallery" }}
           {{ end }}
         {{ end }}
+
+      .centered-button
+        a.button href="/news" News Archive
 
     span.hide-scrollnav
 
