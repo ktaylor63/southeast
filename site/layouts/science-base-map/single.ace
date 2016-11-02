@@ -1,0 +1,21 @@
+= doctype html
+html lang="en-US"
+  head
+    = include partials/head.html .
+  body data-root="{{ .Site.BaseURL }}"
+    a#skip-to-content href=#content skip to content
+    = include partials/sprite.svg .
+    = include partials/navigation.html .
+    = include partials/hero.html .
+    {{ if .Params.nav }}
+    = include partials/section-navigation.html .
+    {{ end }}
+    .wrapper
+      #content role="main"
+        .layout
+          h1 {{ .Title }}
+        {{ .Content }}
+    = include partials/footer.html .
+    = include partials/contact.html .
+    = include partials/share.html .
+    = include partials/scripts.html .
