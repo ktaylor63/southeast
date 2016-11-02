@@ -1,6 +1,12 @@
 {{ $tag := .Get "tag" }}
+{{ $number := .Get "number" }}
+{{ $type := .Get "type" }}
+{{ $.Scratch.Add "count" 0 }}
+<ul class="gallery">
 {{ range ( where .Page.Site.Pages "Type" "news") }}
-  {{ if in .Params.tags $tag }}
-    {{ .Render "summary" }}
+  {{ if and (in .Params.tags $tag) (lt ($.Scratch.Get "count") $number) }}
+    {{ $.Scratch.Add "count" 1 }}
+    {{ .Render $type }}
   {{ end }}
 {{ end }}
+</ul>
