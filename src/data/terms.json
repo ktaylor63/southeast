@@ -273,6 +273,12 @@
     ]
   },
   {
+    "name": "Integrated Refuge Information System",
+    "acronym": "IRIS",
+    "description": "The Integrated Refuge Information System (IRIS) is a data management system Inventory and Monitoring survey planning, water data, species data, other web services, and legacy database systems.",
+    "related": []
+  },
+  {
     "name": "Jeopardy",
     "acronym": null,
     "description": "When our best science leads us to believe that an action will make it much more difficult for an already threatened or endangered plant or animal to survive.<br><br>As defined in the <a href='http://www.fws.gov/endangered/esa-library/pdf/ESAall.pdf'>Endangered Species Act</a>: when an action is reasonably expected, directly or indirectly, to diminish a species&rsquo; numbers, reproduction, or distribution so that the likelihood of survival and recovery in the wild is appreciably reduced.",
