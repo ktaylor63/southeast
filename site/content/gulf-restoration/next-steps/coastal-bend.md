@@ -9,7 +9,7 @@ hero:
     alt: 'Three bright white birds with red patches on their face and long slender legs standing in the mud.'
     link: 'https://flic.kr/p/8Nw3HP'
     caption: 'Whooping cranes at Aransas NWR. Photo by Klaus Nigge, USFWS.'
-updated: 'October 19th, 2016'
+updated: 'October 27th, 2016'
 ---
 
 ## Landscape at a Glance
@@ -39,7 +39,7 @@ While many of the proposed actions in this focal area specifically list trust re
 
 ## High Priority Actions Based on the Service’s Vision
 
-1.  Manage non-native species, reintroduce native plants, restore natural drainage features and use frequent prescribed fire to restore grassland savannas and prairies on former farmland and working ranchlands.
+> Manage non-native species, reintroduce native plants, restore natural drainage features and use frequent prescribed fire to restore grassland savannas and prairies on former farmland and working ranchlands.
 
 ### Next Steps
 
