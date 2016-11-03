@@ -1,0 +1,6 @@
+- var baseUrl = 'https://www.regulations.gov/docket?D=';
+- var url;
+each review in reviews
+  - url = baseUrl + review.docket;
+  li
+    a(href=url, target="_blank")= review.species

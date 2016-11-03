@@ -1,0 +1,35 @@
+{
+  "name": "peer-review",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "browserify": {
+    "transform": [
+      "jadeify",
+      "brfs"
+    ]
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "csv2json": "csv2json peer-reviews.csv > peer-reviews.js",
+    "browserify": "browserify index.js | uglifyjs -mc > ../../../site/static/js/peer-reviews.js",
+    "watchify": "watchify index.js -o ../../../site/static/js/peer-reviews.js -dv",
+    "build": "npm run csv2json && npm run browserify",
+    "start": "npm run csv2json && npm run watchify"
+  },
+  "keywords": [],
+  "author": "Roy Hewitt <Roy_Hewitt@fws.gov>",
+  "license": "SAX-PD",
+  "devDependencies": {
+    "brfs": "^1.4.3",
+    "browserify": "^13.1.1",
+    "csv2json": "^1.1.0",
+    "jade": "^1.11.0",
+    "jadeify": "^4.6.0",
+    "uglifyjs": "^2.4.10",
+    "watchify": "^3.7.0"
+  },
+  "dependencies": {
+    "lodash.filter": "^4.6.0"
+  }
+}
