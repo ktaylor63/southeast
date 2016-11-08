@@ -6,11 +6,11 @@ hero:
     alt: 'Sunrise photo with a deep blue to bright orange gradient and pine trees in the background'
     link: 'https://flic.kr/p/7Yw7T2'
     caption: 'Sunrise at Florida Panther National Wildlife Refuge. Photo: Josh O’Connor, USFWS.'
-    position: 'center bottom'
+    position: bottom
 tags:
     - Florida
 abbreviation: FL
-updated: 'October 28th, 2016'
+updated: 'November 8th, 2016'
 ---
 
 {{< figure class="photo-right" src="/images/pages/florida-coast-sunset-egret.jpg" alt="Bright red sunset reflected over water with silhouette of a wading bird." caption="Florida sunset. Photo: Paul Lang, USFWS." >}}

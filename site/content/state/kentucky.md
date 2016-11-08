@@ -4,7 +4,12 @@ abbreviation: KY
 url: /kentucky
 tags:
     - Kentucky
-updated: 'October 28th, 2016'
+hero:
+    name: clarks-river-nwr-in-fall.jpg
+    alt: 'A river cuts through a colorful forest in fall.'
+    link: 'https://flic.kr/p/buzGMg'
+    caption: 'Clarks River National Wildlife Refuge in Fall. Photo by Andy Eller, USFWS.'
+updated: 'November 8th, 2016'
 ---
 
 ## Refuges and Offices

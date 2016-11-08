@@ -4,7 +4,12 @@ abbreviation: AL
 url: /alabama
 tags:
     - Alabama
-updated: 'October 28th, 2016'
+hero:
+    name: cahaba-river-lillies.jpg
+    alt: 'Bright white flowers with a river in the background.'
+    link: 'https://flic.kr/p/9EAgB1'
+    caption: 'Lilies at Cahaba River National Wildlife Refuge. Photo by Garry Tucker, USFWS.'
+updated: 'November 8th, 2016'
 ---
 
 ## Refuges and Offices

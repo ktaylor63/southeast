@@ -4,7 +4,13 @@ abbreviation: MS
 url: /mississippi
 tags:
     - Mississippi
-updated: 'October 28th, 2016'
+hero:
+    name: grand-bay.jpg
+    alt: 'A small tidal river cuts through a salt marsh surrounded by mature pine trees.'
+    link: 'https://flic.kr/p/9JMXaY'
+    caption: 'Grand Bay National Wildlife Refuge. Photo by Tom Carlisle.'
+    position: bottom
+updated: 'November 8th, 2016'
 ---
 
 ## Refuges and Offices

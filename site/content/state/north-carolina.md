@@ -4,7 +4,13 @@ abbreviation: NC
 url: /north-carolina
 tags:
     - 'North Carolina'
-updated: 'October 28th, 2016'
+hero:
+    name: lake-mattamuskeet-waterfowl.jpg
+    alt: 'Thousands of black birds and white birds litter a blue lake.'
+    link: 'https://flic.kr/p/jMESzk'
+    caption: 'Mattamuskeet National Wildlife Refuge in North Carolina. Photo by Allie Stewart, USFWS.'
+    position: bottom
+updated: 'November 8th, 2016'
 ---
 
 ## Refuges and Offices

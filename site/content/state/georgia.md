@@ -4,7 +4,12 @@ url: /georgia
 abbreviation: GA
 tags:
     - Georgia
-updated: 'October 28th, 2016'
+hero:
+    name: georgia-aster-closeup.jpg
+    alt: 'Bright purple flower.'
+    link: 'https://flic.kr/p/mhjg8B'
+    caption: 'Georgia aster flower. Photo by USFWS.'
+updated: 'November 8th, 2016'
 ---
 
 ## Refuges and Offices

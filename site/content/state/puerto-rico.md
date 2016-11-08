@@ -4,7 +4,12 @@ abbreviation: PR
 url: /puerto-rico
 tags:
     - 'Puerto Rico'
-updated: 'October 28th, 2016'
+hero:
+    name: puerto-rican-parrot-face.jpg
+    alt: 'A bright green parrot with red markings on its face and an open beak.'
+    link: 'https://flic.kr/p/9CZN6H'
+    caption: 'Puerto Rican parrot. Photo by Tom MacKenzie, USFWS.'
+updated: 'November 8th, 2016'
 ---
 
 ## Refuges and Offices
