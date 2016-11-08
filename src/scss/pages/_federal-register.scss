@@ -2,18 +2,6 @@
   padding: 0;
 }
 
-.federal-register-item {
-  @include card;
-
-  .card-text {
-    padding-top: 2 * $leading;
-  }
-
-  a[href$=".pdf"]::after {
-    content: '';
-  }
-}
-
 #load-more-fr-docs {
   display: block;
   width: 100%;
