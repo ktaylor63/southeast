@@ -1,18 +1,20 @@
 ---
 title: '“90-Day” or Petition Findings'
 description: 'A 90-day finding is a formal evaluation of a claim made within a petition under the Endangered Species Act that the U.S. Fish and Wildlife Service consider modifications to the existing federal laws to protect a species. It does not list a species as protected.'
+nav: '90-Day Findings'
+weight: 2
 tags:
     - 'Endangered Species Act'
     - Petition
-    - '90-day Finding'
+    - '90-Day Finding'
 aliases:
-  - /candidateconservation/90-day-finding
+    - /candidateconservation/90-day-finding
 hero:
     link: 'https://flic.kr/p/bD2BVr'
     alt: 'A brown salamander with bright white spots walks across a lichen covered rock'
     name: caddo-mountain-salamander.jpg
     caption: 'A petition to list the Caddo Mountain salamander was found to be “not substantial” in June 2015. Photo by <a href="https://www.flickr.com/photos/38984611@N03/">Aposematic herpetologist</a>, <a href="https://creativecommons.org/licenses/by-nc/2.0/legalcode">CC-BY-NC 2.0</a>.'
-updated: 'May 10th, 2016'
+updated: 'November 8th, 2016'
 ---
 
 The public may petition us to consider modifying the existing federal laws to protect a species under the Endangered Species Act. A 90-day finding is our formal evaluation of the claims made within a petition.

@@ -1,15 +1,17 @@
 ---
 title: 'Critical Habitat under the Endangered Species Act'
 description: 'When the U.S. Fish and Wildlife Service proposes an animal or plant for listing as endangered or threatened under the Endangered Species Act, we identify specific areas that contain the physical or biological features essential to its conservation. This is the species’ “critical habitat.”'
+nav: 'Critical Habitat'
+weight: 3
 tags:
-    - 'endangered species act'
-    - 'critical habitat'
+    - 'Endangered Species Act'
+    - 'Critical Habitat'
 hero:
     name: mountain-sweet-pitcher-plant-patch.jpg
     link: 'https://flic.kr/p/H3SC2u'
     caption: 'Endangered mountain sweet pitcher plants need specific conditions to survive. Photo by Gary Peeples, USFWS.'
     position: 'center bottom'
-updated: 'August 8th, 2016'
+updated: 'November 8th, 2016'
 ---
 
 When the U.S. Fish and Wildlife Service proposes an animal or plant for listing as endangered or threatened under the Endangered Species Act, we identify specific areas that contain the physical or biological features essential to its conservation. This is the species’ “critical habitat.” The Act requires us to designate critical habitat when it is both “prudent and determinable.”

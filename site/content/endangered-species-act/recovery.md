@@ -1,20 +1,22 @@
 ---
 title: 'Recovering Endangered and Threatened Species'
 description: 'After a plant or animal is listed as protected under the Endangered Species Act, U.S. Fish and Wildlife Service biologists must determine what the species needs in order to achieve recovery, meaning it no longer requires federal protection.'
+nav: Recovery
+weight: 4
 hero:
     name: bald-eagle.jpg
     alt: 'An adult bald eagle soars in front of a bright blue sky'
     caption: 'A bald eagle in flight at Seedskadee National Wildlife Refuge. Photo by Tom Koerner, USFWS.'
     link: 'https://flic.kr/p/CBbDh7'
 aliases:
-  - /es/recovery.htm
+    - /es/recovery.htm
 tags:
     - 'Endangered Species Act'
     - Recovery
-    - 'threatened species'
-    - delisting
-    - downlisting
-updated: 'May 25th, 2016'
+    - 'Threatened Species'
+    - Delisting
+    - Downlisting
+updated: 'November 8th, 2016'
 ---
 
 Our goal under the Endangered Species Act is to conserve plants and animals listed as endangered or threatened, as well as the ecosystems upon which depend. We also work to improve the status of those species to the point that protection under the Act is no longer necessary. This process is what we call **recovery**.
