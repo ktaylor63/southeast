@@ -1,7 +1,7 @@
 - var date = require('date-and-time');
 for result in results
   - var formattedDate = date.format(new Date(result.publication_date), 'MMMM D, YYYY');
-  li.federal-register-item
+  li.card.card-text
     h3 #[a(href=result.html_url, target="_blank")= result.title]
     p #[strong= formattedDate]
     p= result.abstract
