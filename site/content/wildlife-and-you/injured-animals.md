@@ -1,6 +1,8 @@
 ---
 title: 'Helping Injured or Orphaned Wildlife'
 description: 'This page provides a list of resources and tips, however, in general the best way to help a baby animal is to leave it alone, and trained wildlife rehabilitators can assist you if you find an injured animal. The U.S. Fish and Wildlife Service does not provide wildlife rehabilitation or wildlife capture services.'
+nav: 'Injured animals'
+weight: 3
 url: /wildlife-and-you/injured-or-orphaned-animals/
 tags:
     - 'Help Wildlife'
@@ -9,7 +11,7 @@ hero:
     alt: 'A juvenile manatee being rescued by several biologists wearing wet suits.'
     link: 'https://flic.kr/p/ecmFL1'
     caption: 'A rescued manatee that was taken to Lowry Park Zoo for rehabilitation. Photo by FWC.'
-updated: 'September 28th, 2016'
+updated: 'November 8th, 2016'
 ---
 
 We often receive phone calls from concerned individuals asking what to do with an injured or baby animal they have discovered. The U.S. Fish and Wildlife Service does not provide wildlife rehabilitation or nuisance wildlife capture services. Our role is to provide permits to those who rehabilitate endangered, threatened, or otherwise federally protected species, like migratory birds.

@@ -2,16 +2,18 @@
 title: 'Backyard Habitat: Bats'
 url: /wildlife-and-you/backyard-habitat/bats
 description: 'Bats play an important role in maintaining healthy ecosystems. You can make a difference by providing homes for bats in your backyard. They will even help reduce insect pests that bother you and your garden plants!'
+nav: Bats
+weight: 2
 tags:
-    - bats
-    - 'wildlife and you'
-    - 'backyard habitat'
+    - Bats
+    - 'Wildlife and You'
+    - 'Backyard Habitat'
 hero:
     name: rafinesques-big-eared-bat-adult.jpg
     link: 'https://flic.kr/p/kysUQh'
     caption: 'An adult Rafinesque&rsquo;s big-eared bat rests in a cave. Photo by the Forest Service.'
     position: 'left center'
-updated: 'June 16th, 2016'
+updated: 'November 8th, 2016'
 ---
 
 Bats are an important part of healthy southeastern ecosystems. They [pollinate](https://www.fws.gov/Pollinators/) flowers and serve as natural pest control. Backyard bats will help reduce insect pests that bother you and your garden plants. A typical summer colony of 100 bats feeding 200 days will consume more than 2200 pounds of insects or approximately 600,000,000 bugs!
