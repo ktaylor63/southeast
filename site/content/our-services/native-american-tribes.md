@@ -9,7 +9,7 @@ aliases:
 hero:
     name: native-american-clothing.jpg
     link: 'https://flic.kr/p/5PQ2bm'
-    caption: 'A participant in the Miccosukee Indian Festival. Photo by Matthew Hoelscher, CC by SA 2.0.'
+    caption: 'A participant in the Miccosukee Indian Festival. Photo by Matthew Hoelscher, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/legalcode\" target=\"_blank\">CC BY-SA 2.0</a>.'
     position: 'top center'
 updated: 'May 31st, 2016'
 ---
