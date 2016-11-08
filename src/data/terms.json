@@ -118,6 +118,12 @@
     "related": ["Downlist", "Endangered Species Act"]
   },
   {
+    "name": "Distinct Population Segment",
+    "acronym": "DPS",
+    "description": "A distinct population segment is the smallest division of a vertebrate species (an animal with a backbone) that can be protected under the Endangered Species Act. The intent of a distinct population segment is to conserve genetic resources and maintain natural systems and biodiversity.<br><br>Listing, delisting, or reclassifying DPSs may allow the Services to protect and conserve species and the ecosystems upon which they depend before large-scale decline occurs that would require listing a species or subspecies throughout its entire range.  DPSs can allow protection and recovery of declining organisms in a more timely and less costly manner, and on a smaller scale than the more costly and extensive efforts that might be needed to recover an entire species or subspecies.<br><br>Learn more about distinct population segments from a <a href=\"https://www.federalregister.gov/documents/1996/02/07/96-2639/policy-regarding-the-recognition-of-distinct-vertebrate-population-segments-under-the-endangered\" target=\"_blank\">1996 joint policy</a> between the U.S. Fish and Wildlife Service and the National Marine Fisheries Agency.",
+    "related": ["Endangered Species Act", "Endangered Species", "Threatened Species", "Recovery", "Vertebrate"]
+  },
+  {
     "name": "Downlist",
     "acronym": null,
     "description": "To reduce a federally protected species&rsquo; status from endangered to threatened, or from threatened to recovered.",
