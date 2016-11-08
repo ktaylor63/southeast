@@ -1,0 +1,7 @@
+= content main
+  .content-centered role="main"
+    h1 {{ .Title }}
+    {{ if .Params.subtitle }}
+    h2.page-subtitle {{ .Params.subtitle}}
+    {{ end }}
+    {{ .Content }}
