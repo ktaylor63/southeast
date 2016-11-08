@@ -2,27 +2,29 @@
 title: 'Southeast Friends Groups'
 description: '“Friends” are private, independent, nonprofit organizations that build links between communities and support local national wildlife refuges and fish hatcheries across the southeast. Learn more about how you can participate!'
 js: /js/friends.js
+nav: 'Friends Groups'
+weight: 3
 tags:
-    - volunteer
-    - 'friends groups'
+    - Volunteer
+    - 'Friends Groups'
 aliases:
-  - /friends
-  - /friends/ar-friends.html
-  - /friends/al-friends.html
-  - /friends/ga-friends.html
-  - /friends/fl-friends.html
-  - /friends/ky-friends.html
-  - /friends/tn-friends.html
-  - /friends/pr-friends.html
-  - /friends/la-friends.html
-  - /friends/nc-friends.html
-  - /friends/sc-friends.html
+    - /friends
+    - /friends/ar-friends.html
+    - /friends/al-friends.html
+    - /friends/ga-friends.html
+    - /friends/fl-friends.html
+    - /friends/ky-friends.html
+    - /friends/tn-friends.html
+    - /friends/pr-friends.html
+    - /friends/la-friends.html
+    - /friends/nc-friends.html
+    - /friends/sc-friends.html
 hero:
     name: blanket-flower-blossom.jpg
     alt: 'A flower with pink petals with orange tips.'
     link: 'https://flic.kr/p/fD9CBj'
     caption: 'A blanket flower blossom at Lake Woodruff National Wildlife Refuge in Florida. Photo by Eileen Tramontana, USFWS.'
-updated: 'August 11th, 2016'
+updated: 'November 8th, 2016'
 ---
 
 “Friends” are private, independent, nonprofit organizations that build links between communities and local national wildlife refuges and fish hatcheries. Friends Group members partner with refuges and hatcheries undertake a variety of activities that support the station, including:

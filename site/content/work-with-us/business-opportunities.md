@@ -1,16 +1,18 @@
 ---
 title: 'Business Opportunities'
 description: 'For businesses seeking to provide contracting services to the Southeast Region of the U.S. Fish and Wildlife Service, serving Alabama, Arkansas, Florida, Georgia, Kentucky, Louisiana, Mississippi, North Carolina, South Carolina, Tennessee, Puerto Rico and the U.S. Virgin Islands.'
+nav: 'Business Opportunities'
+weight: 5
 tags:
     - 'Work With Us'
 aliases:
-  - /community/bus.html
+    - /community/bus.html
 hero:
     name: signing-a-contract.jpg
     link: 'https://flic.kr/p/eaHBuK'
     caption: 'Signing a contract. Creative Commons by NC-ND 2.0 licensed photo by Jane Truter.'
     alt: 'A close-up photograph of a hand holding a pen over paper'
-updated: 'May 25th, 2016'
+updated: 'November 8th, 2016'
 ---
 
 Thank you for your interest in doing business with the U.S. Fish and Wildlife Service, Southeast Region. We oversee contracting opportunities that provide needed services within the states of Alabama, Arkansas, Florida, Georgia, Kentucky, Louisiana, Mississippi, North Carolina, South Carolina, Tennessee, Puerto Rico and the U.S. Virgin Islands.

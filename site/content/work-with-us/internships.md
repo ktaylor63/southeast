@@ -1,15 +1,17 @@
 ---
 title: 'Internships with the U.S. Fish and Wildlife Service'
 description: 'The U.S. Fish and Wildlife Service offers a large variety of internship opportunities for enrolled high school and college students, as well as recent college graduates. An internship is a great way to get to know our agency and pursue full-time employment opportunities.'
+nav: Internships
+weight: 2
 tags:
-    - 'work with us'
-    - internships
+    - 'Work With Us'
+    - Internships
 hero:
     name: tissue-sample-biologist-with-intern.jpg
     alt: 'Biologist and intern hover over a table to collect tissue samples by headlamp'
     link: 'https://flic.kr/p/abbiiz'
     caption: 'An intern works alongside a Service biologist to take a tissue sample of a bat. Photo by Gary Peeples, USFWS.'
-updated: 'May 25th, 2016'
+updated: 'November 8th, 2016'
 ---
 
 The U.S. Fish and Wildlife Service offers a large variety of internship opportunities for enrolled high school and college students, as well as recent college graduates. An internship is a great way to get to know our agency and pursue full-time employment opportunities.

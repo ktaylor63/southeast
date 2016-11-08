@@ -1,22 +1,24 @@
 ---
 title: 'Volunteer for Southeastern Wildlife'
 description: 'Volunteers help the U.S. Fish and Wildlife Service with almost everything we do. From wildlife monitoring to leading school programs or maintaining trails, our volunteers make it happen. Discover how you can volunteer to help wildlife today.'
+nav: Volunteer
+weight: 4
 tags:
-    - 'work with us'
-    - volunteer
+    - 'Work With Us'
+    - Volunteer
 aliases:
-  - /volunteers
-  - /volunteers/distance.html
-  - /volunteers/genvol.html
-  - /volunteers/regvols.html
-  - /volunteers/resvols.html
-  - /volunteers/tips.html
+    - /volunteers
+    - /volunteers/distance.html
+    - /volunteers/genvol.html
+    - /volunteers/regvols.html
+    - /volunteers/resvols.html
+    - /volunteers/tips.html
 hero:
     name: volunteer.jpg
     link: 'https://flic.kr/p/aUmGo2'
     alt: 'A young woman wearing a USFWS volunteer hat and shirt with a temporary from tattoo on her cheek.'
     caption: 'Nancy, a volunteer, attends the 2011 grand opening of our Caribbean offices in Boquerón, Puerto Rico. Photo by USFWS.'
-updated: 'August 8th, 2016'
+updated: 'November 8th, 2016'
 ---
 
 Volunteers help the U.S. Fish and Wildlife Service with almost everything we do. From wildlife monitoring to leading school programs or maintaining trails, our volunteers make it happen. In addition, [volunteering has been proven to provide benefits to your mental and physical health](http://www.helpguide.org/articles/work-career/volunteering-and-its-surprising-benefits.htm)!
