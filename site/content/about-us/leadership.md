@@ -1,6 +1,8 @@
 ---
 title: 'Our Regional Leadership'
 description: 'Meet the people leading conservation in the Southeast Region of the U.S. Fish and Wildlife Service.'
+nav: Leadership
+weight: 2
 tags:
     - About
     - Leadership
@@ -10,7 +12,7 @@ hero:
     link: 'https://flic.kr/p/cuCjds'
     caption: 'Southeast Regional Director Cindy Dohner stands between Midwest Regional Director Tom Melius (left), and agency Director Dan Ashe (right). Photo by Tom MacKenzie, USFWS.'
     position: 'top right'
-updated: 'October 20th, 2016'
+updated: 'November 8th, 2016'
 ---
 
 Nationally, the U.S. Fish and Wildlife Service is led by a Director, a team of Assistant Directors and eight Regional Directors. (See our [headquarters organizational chart.](http://www.fws.gov/offices/orgcht.html))

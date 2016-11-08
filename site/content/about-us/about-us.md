@@ -1,6 +1,8 @@
 ---
 title: 'The Southeast Region of the U.S. Fish and Wildlife Service'
 description: 'Facts and figures related to the Southeast Region of the USFWS, which carries out the agency’s mission in the states of Alabama, Arkansas, Florida, Georgia, Kentucky, Louisiana, Mississippi, North Carolina, South Carolina and Tennessee, as well as Puerto Rico and the U.S. Virgin Islands.'
+nav: 'About Us'
+weight: 1
 tags:
     - 'About Us'
     - Budget
@@ -14,7 +16,7 @@ hero:
     link: 'https://flic.kr/p/82XMYU'
     caption: 'A refuge manager makes a call. Photo by Tom MacKenzie, USFWS.'
     position: 'top center'
-updated: 'September 6th, 2016'
+updated: 'November 8th, 2016'
 ---
 
 The U.S. Fish and Wildlife Service (also known as the Service) is a bureau within the United States [Department of Interior](https://www.doi.gov), America’s principal conservation agency within the [Executive Branch of U.S. government](https://www.whitehouse.gov/1600/executive-branch).
