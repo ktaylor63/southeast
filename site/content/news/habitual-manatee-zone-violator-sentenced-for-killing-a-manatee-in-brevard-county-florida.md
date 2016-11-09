@@ -6,12 +6,12 @@ hero:
     alt: 'A group of manatees swims near the surface of clear blue water.'
     link: 'https://flic.kr/p/7ZigE4'
     caption: 'Manatees swim close to the surface and frequently come up for air. Credit: Jim Reid, USFWS.'
-    position: 'top center'
+    position: top
 tags:
     - Manatee
     - Florida
     - 'Law Enforcement'
-updated: 'October 20th, 2016'
+updated: 'November 9th, 2016'
 ---
 
 A Merritt Island man, who has been repeatedly cited for violating Manatee Protection Speed Zones in Brevard and Volusia Counties, was sentenced in federal court today for killing a West Indian manatee while operating his boat in violation of a manatee protection zone.  

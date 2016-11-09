@@ -8,8 +8,8 @@ hero:
     link: 'https://flic.kr/p/c4cwoo'
 tags:
     - Florida
-    - 'Whooping crane'
-updated: 'October 3rd, 2016'
+    - 'Whooping Crane'
+updated: 'November 9th, 2016'
 ---
 
 Ten endangered whooping cranes arrived yesterday on their wintering grounds at the [Chassahowitzka National Wildlife Refuge](http://www.fws.gov/chassahowitzka) (NWR) in Citrus County, Florida. The other 10 “Class of 2009” ultralight-led cranes reached their final wintering destination at [St. Marks NWR](http://www.fws.gov/saintmarks) in Wakulla County, Florida on January 13.
@@ -21,8 +21,6 @@ These 20 cranes are the ninth group to be guided by ultralight aircraft more tha
 This is the second year the cranes have wintered at two separate locations. The decision to split the flock came after the loss in February 2007 of 17 of the 18 Class of 2006 whooping cranes in a severe storm at Chassahowitzka NWR. WCEP hopes the two wintering locations will help reduce the risk of another catastrophic loss.
 
 In addition to the 20 birds led south by project partner Operation Migration’s ultralights, nine cranes made their first southward migration this fall as part of WCEP’s Direct Autumn Release (DAR) program. Biologists from the International Crane Foundation and the U.S. Fish and Wildlife Service reared the cranes at Necedah NWR and released them in the company of older cranes from whom the young birds learned the migration route. One of the DAR birds arrived in Lake County, Florida earlier this month. Seven of the cranes migrated to Tennessee and one is located in Indiana. All of the DAR birds are in the company of older whooping cranes. This is the fifth year WCEP has used this DAR method.
-
-Whooping crane fly-over event at Chassahowitzka National Wildlife Refuge on January 20, 2010\. Credit: Warren Blodgett, FWS Volunteer, USFWS
 
 Whooping cranes that take part in the ultralight and DAR reintroductions are hatched at the U.S. Geological Survey’s Patuxent Wildlife Research Center in Laurel, Md., and at the International Crane Foundation in Baraboo, Wis. Chicks are raised under a strict isolation protocol and to ensure the birds remain wild, handlers adhere to a no-talking rule and wear costumes designed to mask the human form.
 

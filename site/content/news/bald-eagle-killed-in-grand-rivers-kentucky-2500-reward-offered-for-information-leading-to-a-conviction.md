@@ -1,14 +1,15 @@
 ---
-title: Bald Eagle Killed in Grand Rivers, Kentucky $2,500 Reward Offered for Information Leading to a Conviction
+title: 'Bald Eagle Killed in Grand Rivers, Kentucky $2,500 Reward Offered for Information Leading to a Conviction'
 date: '2016-03-08'
 tags:
-  - Law Enforcement
-  - Kentucky
+    - 'Law Enforcement'
+    - Kentucky
 hero:
     name: bald-eagle-ready-for-flight.jpg
     alt: 'A bald eagle perched with its wings spread.'
     link: 'https://flic.kr/p/8kSVSY'
     caption: 'A bald eagle prepares for flight. Photo by Richard Keen / RMA.'
+updated: 'November 9th, 2016'
 ---
 
 {{< figure class="photo-right" src="/images/pages/bald-eagle-killed-grand-rivers-ky.jpg" alt="A dead bald eagle with blood on its beak face down on leaf covered grass." caption="Bald eagle found dead along Paradise Road, in Grand Rivers, Kentucky. Photo by KY Dept. of Fish and Wildlife Resources." link="https://flic.kr/p/ERwao3" >}}
@@ -28,4 +29,4 @@ Species information:  Bald eagles take four to five years to mature, but many d
 ## Contacts
 
 [Tom MacKenzie](mailto:Tom_MacKenzie@fws.gov), USFWS  
-404-679-7291 
+404-679-7291
