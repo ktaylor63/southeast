@@ -7,10 +7,6 @@
     top: 0;
     transform: translateX(-100%);
 
-    .fws-menu-close {
-      left: 3px;
-    }
-
     &.fws-menu-active {
       transform: translateX(0);
     }
@@ -49,10 +45,6 @@
     right: 0;
     top: 0;
     transform: translateX(100%);
-
-    .fws-menu-close {
-      right: 3px;
-    }
 
     &.fws-menu-active {
       transform: translateX(0);
