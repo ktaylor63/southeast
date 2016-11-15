@@ -10,7 +10,7 @@ hero:
     name: kentucky-arrow-darter.jpg
     caption: 'Photo by J.R. Shute, Conservation Fisheries, Inc.'
     alt: 'A small, brightly colored orange and blue fish in an aquarium.'
-    position: 'left '
+    position: left
 updated: 'November 9th, 2016'
 ---
 
