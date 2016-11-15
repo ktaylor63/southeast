@@ -1,12 +1,12 @@
 <nav role='navigation' class="main-nav">
   <ul class="nav-list" role="menu">
-    <li class="nav-item">
-      <a href="javascript:void(0);" class="nav-link fws-menu-trigger" aria-haspopup="true">
+    <li class="nav-item fws-menu-trigger">
+      <button class="nav-link">
         <svg class="icon icon-home">
           <use xlink:href="#menu"></use>
         </svg>
         <span class="nav-text">menu</span>
-      </a>
+      </button>
       <div class="fws-menu">
         <ul>
           <li>
@@ -26,15 +26,16 @@
             </form>
           </li>
           <li>
-            <a href="javascript:void(0);">About Us</a>
+            <button>About Us</button>
             <ul>
               <li><a href="/about-us">About the Southeast Region</a></li>
               <li><a href="/about-us/leadership">Regional Leadership</a></li>
             </ul>
           </li>
+          <li><a href="/news">News Archive</a></li>
           <li><a href="/regional-spokespersons">Regional Spokespersons</a></li>
           <li>
-            <a href="javascript:void(0);">Priorities</a>
+            <button>Priorities</button>
             <ul>
               <li><a href="/priorities">Regional Priorities</a></li>
               <li><a href="/at-risk-species">At-Risk Species Conservation</a></li>
@@ -44,11 +45,13 @@
             </ul>
           </li>
           <li>
-            <a href="javascript:void(0);">Endangered Species</a>
+            <button>Endangered Species</button>
             <ul>
-              <li><a href="/endangered-species-act/recovery">Recovery</a></li>
+              <li><a href="/endangered-species-act">Endangered Species Act in the Southeast</a></li>
+              <li><a href="/endangered-species-act/at-risk-species">At-Risk Species</a></li>
               <li><a href="/endangered-species-act/90-day-finding">90-Day Findings</a></li>
               <li><a href="/endangered-species-act/critical-habitat">Critical Habitat</a></li>
+              <li><a href="/endangered-species-act/recovery">Recovery</a></li>
               <li><a href="/endangered-species-act/five-year-reviews">5-Year Reviews</a></li>
               <li><a href="http://ecos.fws.gov/tess_public/reports/species-listed-by-state-totals-report">Listed Species by State</a></li>
               <li><a href="http://ecos.fws.gov/tess_public/reports/ad-hoc-species-report?kingdom=V&status=E&status=T&status=EmE&status=EmT&status=SAE&status=SAT&mapstatus=1&fleadreg=on&fstatus=on&finvpop=on&header=Listed+Vertebrate+Animals">Listed Vertebrates</a></li>
@@ -58,11 +61,11 @@
             </ul>
           </li>
           <li>
-            <a href="javascript:void(0);">National Wildlife Refuges</a>
+            <button>National Wildlife Refuges</button>
             <ul>
               <!-- <li><a href="#">What's a Refuge?</a></li> -->
               <li>
-                <a href="javascript:void(0);">What You Can Do on a Refuge</a>
+                <button>What You Can Do on a Refuge</button>
                 <ul>
                   <li><a href="/national-wildlife-refuges/visitor-activities/hunting/">Hunting</a></li>
                   <li><a href="#">Fishing</a></li>
@@ -75,26 +78,24 @@
             </ul>
           </li>
           <li>
-            <a href="javascript:void(0);">Services</a>
+            <button>Our Services</button>
             <ul>
-              <li><a href="/services">Services home</a></li>
               <li>
-                <a href="javascript:void(0);">Permits</a>
+                <button>Permits</button>
                 <ul>
-                  <li><a href="#">Permits 101</a></li>
-                  <li><a href="#">Do I Need a Permit?</a></li>
-                  <li><a href="#">Where's My Permit?</a></li>
+                  <li><a href="/our-services/permits">Permits 101</a></li>
                   <li><a href="/our-services/permits/recovery-and-interstate-commerce-permits/">Recovery and Interstate Commerce Permits</a></li>
                 </ul>
               </li>
-              <li><a href="#">Grants</a></li>
+              <li><a href="/our-services/grants">Grants</a></li>
+              <li><a href="/our-services/law-enforcement">Report Wildlife Crime</a></li>
               <li><a href="/our-services/partners-program">For Landowners</a></li>
               <li><a href="/our-services/coastal-conservation">For Coastal Communities</a></li>
               <li><a href="/our-services/native-american-tribes">For Tribes</a></li>
             </ul>
           </li>
           <li>
-            <a href="javascript:void(0);">Work With Us</a>
+            <button>Work With Us</button>
             <ul>
               <li><a href="/work-with-us/jobs">Jobs</a></li>
               <li><a href="/work-with-us/internships">Internships</a></li>
@@ -104,24 +105,16 @@
             </ul>
           </li>
           <li>
-            <a href="javascript:void(0);">Help Wildlife</a>
+            <button>Wildlife and You</button>
             <ul>
-              <li><a href="#">Report Wildlife Crime</a></li>
+              <li><a href="/our-services/">Report Wildlife Crime</a></li>
               <li><a href="/wildlife-and-you/bats">Backyard Habitat: Bats</a></li>
+              <li><a href="/wildlife-and-you/birds">Backyard Habitat: Birds</a></li>
               <li><a href="/wildlife-and-you/injured-wildlife">Injured Wildlife</a></li>
-              <!-- <li><a href="#">Ways to Help Wildlife</a></li> -->
-              <!-- <li>
-                <a href="javascript:void(0);">Materials for Teachers</a>
-                <ul>
-                  <li><a href="#">Biologist in Training</a></li>
-                  <li><a href="#">Coloring Books</a></li>
-                  <li><a href="#">Bring Your Class to a Refuge</a></li>
-                </ul>
-              </li> -->
             </ul>
           </li>
           <li>
-            <a href="javascript:void(0);">Species Profiles</a>
+            <button>Species Profiles</button>
             <ul>
               <li><a href="/wildlife">Southeastern Species</a></li>
               <li><a href="/wildlife/amphibians">Amphibians</a></li>
@@ -134,33 +127,17 @@
             </ul>
           </li>
           <li>
-            <a href="javascript:void(0);">Science</a>
+            <button>Science</button>
             <ul>
               <li><a href="/science">Science Home</a></li>
               <li><a href="/science">Resources</a></li>
               <li><a href="/science">Science Support Partnership Program</a></li>
-              <li>
-                <a href="/our-changing-climate">Our Changing World</a>
-                <!-- <ul>
-                  <li>
-                    <a href="javascript:void(0);">Extreme Weather</a>
-                    <ul>
-                      <li><a href="#">Floods</a></li>
-                      <li><a href="#">Wildfires</a></li>
-                      <li><a href="#">Hurricanes</a></li>
-                    </ul>
-                  </li>
-                  <li><a href="#">Pollution</a></li>
-                  <li><a href="#">Sea Level Rise</a></li>
-                  <li><a href="#">Urbanization</a></li>
-                  <li><a href="#">Water Resources</a></li>
-                </ul> -->
-              </li>
+              <li><a href="/our-changing-climate">Our Changing World</a></li>
               <li><a href="https://www.fws.gov/Wetlands/nwi/" target="_blank">Wetlands Inventory</a></li>
             </ul>
           </li>
           <li>
-            <a href="javascript:void(0);">States</a>
+            <button>States</button>
             <ul>
               <li><a href="/alabama">Alabama</a></li>
               <li><a href="/arkansas">Arkansas</a></li>
@@ -176,47 +153,49 @@
             </ul>
           </li>
           <li>
-            <a href="javascript:void(0);">Maps</a>
+            <button>Maps</button>
             <ul>
               <li><a href="https://usfws.github.io/southeast-mega-map">Megamap</a></li>
               <li><a href="#">Geographic Information Systems</a></li>
               <li><a href="/sitemap.xml">Sitemap</a></li>
             </ul>
           </li>
+          <li><a href="/fire">Keeping Fire on Our Side</a></li>
+          <li><a href="/federal-register">Federal Register Notices</a></li>
         </ul>
       </div>
     </li>
     <li class="nav-item nav-item-search">
-      <a href="javascript:void(0);" class="nav-link" id="search-trigger">
+      <button class="nav-link" id="search-trigger">
         <svg>
           <use xlink:href="#search"></use>
         </svg>
         <span class="nav-text">search</span>
-      </a>
+      </button>
     </li>
     <li class="nav-item contact-icon">
-      <a href="javascript:void(0);" class="nav-link toggle-contact">
+      <button class="nav-link toggle-contact">
         <svg>
           <use xlink:href="#message"></use>
         </svg>
         <span class="nav-text">contact</span>
-      </a>
+      </button>
     </li>
     <li class="nav-item nav-item-share">
-      <a href="javascript:void(0);" class="nav-link toggle-share">
+      <button class="nav-link toggle-share">
         <svg>
           <use xlink:href="#share"></use>
         </svg>
         <span class="nav-text">share</span>
-      </a>
+      </button>
     </li>
     <li class="nav-item glossary-trigger">
-      <a href="javascript:void(0);" class="nav-link">
+      <button class="nav-link">
         <svg>
           <use xlink:href="#glossary"></use>
         </svg>
         <span class="nav-text">glossary</span>
-      </a>
+      </button>
     </li>
     <li class="nav-item nav-item-home home-icon">
       <a href="{{ .Site.BaseURL }}" class="nav-link">
