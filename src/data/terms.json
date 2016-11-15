@@ -42,9 +42,19 @@
     "related": []
   },
   {
+    "acronym": "CCA",
+    "name": "Candidate Conservation Agreement",
+    "description": "Voluntary agreements between the U.S. Fish and Wildlife Service and any landowner/land manager. The property owner agrees to manage their lands or waters in ways that remove threats to candidate or proposed species.  While the landowner/land manager does not receive any regulatory assurances in the event of a future listing under the ESA they are eligible for a potential funding platform for cost sharing in conservation actions.",
+    "related": [
+      "CCAA",
+      "At-risk species",
+      "Candidate species"
+    ]
+  },
+  {
     "acronym": "CCAA",
-    "name": "Candidate cCnservation Agreement with Assurances",
-    "description": "Voluntary agreements between the U.S. Fish and Wildlife Service and non-Federal property owners. The property owner agrees to manage their lands or waters in ways that remove threats to candidate or proposed species assurances that their conservation efforts will not result in future regulatory obligations in excess of those they agree to at the time they enter into the agreement.",
+    "name": "Candidate Conservation Agreement with Assurances",
+    "description": "Voluntary agreements between the U.S. Fish and Wildlife Service and non-Federal property owners. The property owner agrees to manage their lands or waters in ways that remove threats to candidate or proposed species.  Landowners receive assurances that they will not be asked to do more than they agreed to in the CCAA even if the covered species is listed under the ESA in the future.",
     "related": [
       "CCA",
       "At-risk species",
@@ -159,7 +169,7 @@
   {
     "name": "Endangered Species Act",
     "acronym": "The Act, or ESA",
-    "description": "No definition, yet.",
+    "description": "This federal law has been recognized as America’s strongest conservation law. Originally passed by Congress in 1973, the Act is jointly administered by the USFWS and the National Marine Fisheries Service (NMFS). We have primary responsibility for terrestrial and freshwater organisms, while the responsibilities of NMFS are mainly marine wildlife such as whales and anadromous fish like salmon.<br><br>All species of plants and animals, except pest insects, are eligible for listing as endangered or threatened. Check out a list of all species protected under the Act in the United States.",
     "related": ["Section 7", "4(d) Rule", "Critical Habitat", "Recovery"]
   },
   {
@@ -395,6 +405,12 @@
       "carnivore",
       "herbivore"
     ]
+  },
+  {
+    "name": "Policy for Evaluation of Conservation Efforts",
+    "acronym": "PECE",
+    "description": "The policy identifies criteria the Service will use to determine whether conservation efforts that have yet to be implemented or to have yet to show effectiveness contribute to making listing a species as threatened or endangered unnecessary.  This is a key test for Candidate Conservation Agreements and Candidate Conservation Agreements with Assurances where proactive conservation efforts are put in place to prevent a species from needing to be listed under the Endangered Species Act.<br><br><a href=\"https://www.fws.gov/endangered/esa-library/pdf/PECE-final.pdf\" target=\"_blank\">Learn more about the Policy in the Federal Register</a>.",
+    "related": ["CCA", "CCAA"]
   },
   {
     "name": "Prescribed fire",
