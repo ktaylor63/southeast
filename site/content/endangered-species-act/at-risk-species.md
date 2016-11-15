@@ -1,7 +1,8 @@
 ---
 title: 'At-Risk Species Conservation'
 description: 'The Endangered Species Act provides a variety of ways for the U.S. Fish and Wildlife Service and our partners to conserve and recover species while reducing regulatory burden.'
-url: /at-risk-species
+nav: 'At-Risk Species'
+weight: 6
 aliases:
     - /candidateconservation
 tags:
@@ -13,7 +14,7 @@ hero:
     link: 'https://flic.kr/p/eLEEwc'
     alt: 'A brownish-yellow salamander sanding on a mossy rock with large round eyes.'
     caption: 'The Pigeon Mountain salamander is no longer at-risk of needing federal protection. Photo by John P. Clare, CC BY-NC-ND 2.0.'
-updated: 'October 19th, 2016'
+updated: 'November 9th, 2016'
 ---
 
 Listing a plant or animal as federally protected under the Endangered Species Act is proven to be successful in preventing extinction.
