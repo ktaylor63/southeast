@@ -60,7 +60,11 @@
   xhr.get(baseUrl + 'data/terms.js', function (err, res, body) {
     if (err) console.error(err);
     terms = JSON.parse(body);
+    // Highlight words and their acronyms
     var words = terms.map(function (term) { return term.name; });
+    terms.forEach(function (term) {
+      if (term.acronym) words.push(term.acronym);
+    });
 
     marker.mark(words, {
       element: 'span',
@@ -127,6 +131,7 @@
     ];
 
     [].forEach.call(drawers, function (drawer) {
+      if (!drawer) return;
       var button = drawer.querySelector('.close-drawer');
       if ( hasClass(drawer, 'active') ) removeActiveClassFromDrawer(button);
     });
