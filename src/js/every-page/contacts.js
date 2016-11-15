@@ -45,7 +45,18 @@
   }
 
   function render(contacts) {
-    output.innerHTML = template({ contacts: contacts });
+    output.innerHTML = template({ contacts: contacts, getPhone: normalizePhoneNumber });
+  }
+
+  function normalizePhoneNumber(number) {
+    var phone = number.replace(/\D/g,'');
+    // This pauses for a second to dial an extension
+    if (phone.length > 10) phone = insert(phone, 10, 'p');
+    return 'tel:+1' + phone;
+  }
+
+  function insert(str, index, value) {
+    return str.substr(0, index) + value + str.substr(index);
   }
 
   module.exports.init = init;

@@ -7,7 +7,11 @@ table.striped-table.contacts-table
   tbody
     each person in contacts
       - var email = 'mailto:' + person.email;
+      - var phone = getPhone(person.phone);
       tr
         td| #[a(href=email) #{person.name}]
         td.title-field| #{person.title}
-        td= person.phone
+        if (phone === 'tel+1')
+          td= person.phone
+        else
+          td| #[a(href=phone)= person.phone]
