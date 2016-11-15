@@ -44,6 +44,7 @@
   margin: .25em .5em .25em 0;
   position: relative;
   text-align: center;
+  vertical-align: top;
 
   &:last-child {
     margin-right: 0;
@@ -74,12 +75,16 @@
 }
 
 .nav-link {
+  border: none;
   color: $color-white;
+  padding: 0;
   text-decoration: none;
   transition: transform $transition-duration;
 
   &:hover,
   &:focus {
+    background: transparent;
+    border: none;
     transform: scale(1.3);
   }
 }
@@ -87,6 +92,7 @@
 .nav-text {
   display: block;
   font-size: 13px;
+  font-weight: bold;
 
   @media (min-width: $break-md) {
     font-size: 15px;
