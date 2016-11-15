@@ -17,8 +17,8 @@ hero:
     name: suwannee-moccasinshell.jpg
     alt: 'Two dark gray mussels with striations on a red towel next to a ruler for scale.'
     caption: 'Suwannee moccasinshells. Photo by USFWS.'
-    position: 'bottom center'
-updated: 'October 28th, 2016'
+    position: bottom
+updated: 'November 9th, 2016'
 ---
 
 - **Taxon:** Bivalve, Unionidae
