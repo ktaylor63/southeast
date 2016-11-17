@@ -2,6 +2,9 @@
 title: 'Jobs in the Southeast'
 description: 'Currently open job postings in the Southeast Region of the U.S. Fish and Wildlife Service from USAjobs.'
 url: /work-with-us
+aliases:
+    - /work-with-us/jobs
+    - /jobs
 nav: Jobs
 weight: 1
 js: /js/jobs.js
@@ -14,7 +17,7 @@ hero:
 tags:
     - Jobs
 type: no-scrollnav
-updated: 'November 8th, 2016'
+updated: 'November 17th, 2016'
 ---
 
 This page searches [USAJOBS - The Federal Government's Official Jobs Site](https://www.usajobs.gov/) using their [official API](https://developer.usajobs.gov/).  The **results are limited to USFWS jobs within the Southeast Region** including Alabama, Arkansas, Florida, Georgia, Kentucky, Mississippi, North Carolina, Puerto Rico, South Carolina, Tennessee, and the U.S. Virgin Islands.
