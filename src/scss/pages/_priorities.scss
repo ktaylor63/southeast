@@ -1,11 +1,12 @@
 .priorities-page {
 
-  @media (min-width: $break-md) {
-    margin-left: $nav-width;
+  h1,
+  h2 {
+    text-align: center;
   }
 
-  @media (min-width: $break-scrollnav) {
-    margin-right: $sidenav-width;
+  @media (min-width: $break-md) {
+    margin-left: $nav-width;
   }
 
   figure.js-Parallaxify {

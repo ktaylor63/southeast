@@ -8,8 +8,10 @@ html lang="en-US"
     = include partials/navigation.html .
     = include partials/hero.html .
     .priorities-page
-      #content.container
-        = yield main
+      .container
+        #content
+          .content-centered-wide
+            = yield main
     = include partials/footer.html .
     = include partials/contact.html .
     = include partials/share.html .

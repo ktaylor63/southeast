@@ -1,20 +1,15 @@
 = content main
-  .side-nav
   figure.js-Parallaxify style="background-image: url('{{ .Site.BaseURL }}/images/hero/hero-intro.jpg');"
     a href="http://fws.gov/southeast" title="Go to the Southast Region Homepage"
       img.logo src="/images/svg/logo.svg" alt="The official logo of the U.S. Fish and Wildlife Service"
 
-  h1.title Southeast Region <br> Fiscal Years <br> 2016 - 2018 <br> Regional Priorities
+  h1 Regional Priorities in the Southeast
 
-  iframe width="500" height="400" style="display:block;margin:auto;" src="https://www.youtube.com/embed/nNuVeEcuvRY" frameborder="0" allowfullscreen="true"
+  h2 Fiscal Years 2016 - 2018
 
   div.document-download
     p
       a.download-link href="/pdf/regional-priorities-2016-2018.pdf" download="usfws-southeast-region-priorities-2016-2018.pdf" Download this as a printable PDF
-    p
-      a.download-link href="/pdf/regional-priorities-2016-2018.pdf" download="usfws-southeast-region-priorities-2016-2018.pdf"
-        img.icon src="/images/svg/pdf.svg" alt="PDF Icon"
-
 
   h2.section-heading Our Story
 
@@ -270,7 +265,7 @@
     p
       em Examples
 
-    ul.fade-list
+    ul
       li Create opportunities for improved interaction, communication, and camaraderie between Regional and field staff to increase understanding and awareness.
       li Promote a safe and productive workplace by emphasizing and supporting dynamic programs focused on safety, work‐life, health and wellness, Employee Assistance Programs, workplace flexibilities, and telework.
       li Encourage continuing education to maintain a highly skilled workforce in support of scientific integrity.
@@ -292,7 +287,7 @@
     p
       em Examples
 
-    ul.fade-list
+    ul
       li Continue to work with the State wildlife resource agencies to enhance coordination and seek efficiencies through identification of mutual interests and cooperative approaches.
       li Increase our collaboration with private landowner groups (e.g., Partners for Conservation).
       li Continue to partner with Federal agencies to support Regional Climate Science Centers to deliver downscaled climate science to field managers, biologists and other users.
@@ -313,7 +308,7 @@
     p
       em Examples
 
-    ul.fade-list
+    ul
       li Encourage expansion of appropriate and compatible recreational activities on National Wildlife Refuges, particularly activities accommodating youth, visitors with disabilities, and non‐traditional users.
       li Host events from long‐standing and successful outreach programs annually: Endangered Species Day, International Migratory Bird Day, National Fishing and Boating Week, National Wildlife Refuge Week, and the Jr. Duck Stamp Program.
       li Maintain a sophisticated communications program where we use appropriate, progressive communication avenues to reach target audiences (emphasis on youth and young adults) for highlighting the contributions of our employees, volunteers, and the public to wildlife conservation.
@@ -341,7 +336,7 @@
     p
       em Examples:
 
-    ul.fade-list
+    ul
       li Work as “One Service” to align station priorities and program activities to address landscape and watershed conservation, assisted by the LCCs, with a foremost focus on fish and wildlife priorities such as recovering At-Risk, threatened, and endangered species; protecting, restoring and managing migratory birds, and aquatic resources; and effectively managing our National Wildlife Refuges and National Fish Hatcheries.
       li Implement LCC actions by assisting with communication, engagement, and facilitation between the States and the Service, especially to link population objectives to biological outcomes.
       li Using a “One Service” approach, work with federal, state, and private partners, LCCs, SARP, and Joint Ventures to increase landscape conservation efforts which help bring large-scale perspectives to local scale actions.
@@ -370,7 +365,7 @@
     p
       em Examples
 
-    ul.fade-list
+    ul
       li Work with public and private partners to proactively conserve as many of these At‐Risk species as possible over the next three years.
       li Formulate a better understanding of the status and habitat needs for species of special concern for the Service and public at large. This information will be key to habitat needs assessments and species listing decisions.
       li Work with our partners to prioritize species in need of conservation by building and expanding partnerships and by making it easier for our partners to take voluntary conservation actions, by building better science to inform our conservation decisions, and by managing National Wildlife Refuges that host these species.
@@ -389,7 +384,7 @@
     p
       em Examples
 
-    ul.fade-list
+    ul
       li Work with partners to develop comprehensive conservation planning and implement actions for multiple species and habitats within a defined landscape or geographic area.
       li Implement strategic conservation measures through support of State Wildlife Action Plans.
       li Cooperate with States in conserving fish and wildlife populations.
@@ -406,7 +401,7 @@
     p
       em Examples
 
-    ul.fade-list
+    ul
       li Use the best science to engage in actions designed to prevent, control, and eradicate invasive species, in careful coordination with federal, State and private partners.
       li Implement depredation, control, and conservation orders.
       li Reduce, with the goal of eliminating, populations of invasive fish, wildlife and plants
@@ -431,9 +426,6 @@
     div.document-download
       p
         a.download-link href="/pdf/regional-priorities-2016-2018.pdf" download="usfws-southeast-region-priorities-2016-2018.pdf" Download this as a printable PDF
-      p
-        a.download-link href="/pdf/regional-priorities-2016-2018.pdf" download="usfws-southeast-region-priorities-2016-2018.pdf"
-          img.icon src="/images/svg/pdf.svg" alt="PDF Icon"
 
     .layout
 
@@ -467,7 +459,7 @@
 
       h3 Icons
 
-      p All icons were downloaded from #[a (href="http://nounproject.com") The Noun Project].  The following icons are available under a Creative Commons License.  All other icons are in the public domain.
+      p All icons were downloaded from <a href="http://nounproject.com" target="_blank">The Noun Project</a>.  The following icons are available under a Creative Commons License.  All other icons are in the public domain.
 
       ul
         li Document by Jamison Wieser
@@ -486,3 +478,5 @@
         li Line Chart by Lastspark
         li Paw Print by YuguDesign
         li Warning by Anton Gajdosik
+
+      span.hide-scrollnav

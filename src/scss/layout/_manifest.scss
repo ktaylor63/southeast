@@ -12,8 +12,12 @@
   max-width: $container-width;
 }
 
+.content-centered-wide {
+  margin: auto;
+}
+
 .layout {
-  @include container($container-width);  
+  @include container($container-width);
 }
 
 #content {
