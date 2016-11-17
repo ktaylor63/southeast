@@ -8,6 +8,10 @@
   padding-left: 0;
 }
 
+.glossary-term {
+  margin: 3em 0;
+}
+
 .glossary-related-terms {
   padding: 0;
 
@@ -21,4 +25,8 @@
 .glossary-container {
   @include drawer('glossary');
   overflow-y: scroll;
+
+  label {
+    display: block;
+  }
 }

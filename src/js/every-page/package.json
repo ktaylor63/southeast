@@ -19,7 +19,7 @@
   "license": "SAX-PD",
   "dependencies": {
     "add-class": "^1.0.3",
-    "fws-glossary": "^1.1.1",
+    "fws-glossary": "^1.2.0",
     "fws-highlighter": "^1.2.0",
     "fws-navigation": "^1.4.3",
     "fws-scrollnav": "^1.6.0",
