@@ -6,7 +6,7 @@ weight: 1
 tags:
     - 'About Us'
     - Budget
-url: /about-us
+url: /about
 aliases:
     - /director
     - /about
@@ -31,7 +31,7 @@ Our mission is,
 
 The Southeast Region carries out this mission within the states of Alabama, Arkansas, Florida, Georgia, Kentucky, Louisiana, Mississippi, North Carolina, South Carolina and Tennessee, as well as Puerto Rico and the U.S. Virgin Islands. Our regional office is located in Atlanta, Georgia.
 
-Our operations are guided by a Regional Director, Deputy Regional Director, and a team of Assistant Regional Directors. [Meet our regional leadership](https://www.fws.gov/southeast/about-us/leadership/).
+Our operations are guided by a Regional Director, Deputy Regional Director, and a team of Assistant Regional Directors. [Meet our regional leadership](/about/leadership/).
 
 Across the southeastern United States, we carry out the Service mission by:
 
