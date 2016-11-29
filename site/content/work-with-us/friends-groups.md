@@ -24,7 +24,7 @@ hero:
     alt: 'A flower with pink petals with orange tips.'
     link: 'https://flic.kr/p/fD9CBj'
     caption: 'A blanket flower blossom at Lake Woodruff National Wildlife Refuge in Florida. Photo by Eileen Tramontana, USFWS.'
-updated: 'November 8th, 2016'
+updated: 'November 21st, 2016'
 ---
 
 “Friends” are private, independent, nonprofit organizations that build links between communities and local national wildlife refuges and fish hatcheries. Friends Group members partner with refuges and hatcheries undertake a variety of activities that support the station, including:
