@@ -21,7 +21,7 @@ html lang="en-US"
         p The Southeast Region serves Alabama, Arkansas, Florida, Georgia, Kentucky, Louisiana, Mississippi, North Carolina, South Carolina, Tennessee, Puerto Rico and the U.S. Virgin Islands.
 
         div
-          a.button href="/about-us" Learn More
+          a.button href="/about" Learn More
 
       {{ range first 1 (and (where .Site.Pages "Section" "article") (where .Site.Pages "Type" "feature" )) }}
         {{ $.Scratch.Add "feature" .Title }}
