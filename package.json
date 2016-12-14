@@ -44,7 +44,7 @@
   "author": "Roy Hewitt, @r0yhewitt",
   "license": "SAX-PD",
   "devDependencies": {
-    "autoprefixer": "^6.3.3",
+    "autoprefixer": "^6.5.4",
     "browser-sync": "^2.18.5",
     "chokidar": "^1.4.3",
     "concat-map": "0.0.1",
