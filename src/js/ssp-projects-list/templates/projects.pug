@@ -1,0 +1,25 @@
+- var moment = require('moment');
+each project in projects
+  li.card.card-text
+    h2.card-list-heading| #[a(href=project.link.url)= project.title]
+    if (project.dates)
+      - var dates = extractDates(project);
+      p
+        for date in dates
+          - var dateString = moment(date.dateString).format('MMMM Do, YYYY');
+          span #[strong= date.label]: #{dateString} #[br]
+
+    if (project.purpose)
+      p| #[strong Purpose:] #{project.purpose}
+    if (project.summary)
+      p| #[strong Summary:] #{project.summary}
+    if (project.contacts)
+      p| #[strong Contacts:]
+      ul
+        for contact in project.contacts
+          - var email = 'mailto:' + contact.email + '?subject=' + 'project.title';
+          - var type = (contact.type) ? contact.type + ': ' : '';
+          if (contact.email)
+            li| #[strong= type]#[a(href=email)= contact.name]
+          else
+            li| #[strong= type]#{contact.name}
