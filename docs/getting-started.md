@@ -4,8 +4,8 @@ This website is the amalgamation of many free and open source tools.  Before you
 
 ## Requirements
 
-- [NodeJS](https://nodejs.org/en/) version 4.x (Roy is currently on 4.2.4)
-- [Hugo](https://gohugo.io/overview/installing/) (Roy is currently using v0.17)
+- [NodeJS](https://nodejs.org/en/) version 6.x (Roy is currently on 6.9.1)
+- [Hugo](https://gohugo.io/overview/installing/) (Roy is currently using v0.18)
 - [Git](https://git-scm.com/downloads) (Roy is currently using 2.6.4 [Apple Git-63])
 - [Sharp/libvips](http://sharp.dimens.io/en/stable/install/#installation)
 
@@ -13,7 +13,7 @@ This website is the amalgamation of many free and open source tools.  Before you
 `libvips` is a utility required by [Sharp](http://sharp.dimens.io/en/).  On a mac with [homebrew](http://brew.sh/) installed run `brew install homebrew/science/vips` in your terminal. **We should look at another photo re-sizing utility if we can avoid this extra install/dependency.**
 
 ### Windows
-`libvips` is included with the installation of [Sharp](http://sharp.dimens.io/en/) on Windows.  I ran into issues installing Sharp due to errors from [node-gyp](https://github.com/nodejs/node-gyp).  Installing [Visual Studio Community](https://www.visualstudio.com/en-us/products/visual-studio-community-vs.aspx) **with C++ tools, which are not installed by default** solved the issue.  
+`libvips` is included with the installation of [Sharp](http://sharp.dimens.io/en/) on Windows.  I ran into issues installing Sharp due to errors from [node-gyp](https://github.com/nodejs/node-gyp).  Installing [Visual Studio Community](https://www.visualstudio.com/en-us/products/visual-studio-community-vs.aspx) **with C++ tools, which are not installed by default** solved the issue.
 
 ![Visual Studio Community Installer](https://cloud.githubusercontent.com/assets/94334/9250024/a3ca627a-41d2-11e5-8efb-1417d686eaa4.png)
 
