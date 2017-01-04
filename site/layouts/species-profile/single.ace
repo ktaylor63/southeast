@@ -3,5 +3,5 @@
     h1.page-title {{ .Title }}
     h2.scientific-name {{ .Params.scientific }}
     {{ .Content }}
-    ul.register-list
-      li.federal-register-item We're sorry but an error occurred.  Visit the Federal Register to conduct your own search.
+    ul.card-list
+      li.card.card-text We're sorry but an error occurred.  Visit the Federal Register to conduct your own search.
