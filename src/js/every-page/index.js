@@ -1,13 +1,12 @@
 (function () {
   'use strict';
+  require('classlist-polyfill');
 
   var xhr = require('xhr');
-  var hasClass = require('has-class');
-  var addClass = require('add-class');
-  var removeClass = require('remove-class');
   var Parallax = require('parallax-scroll');
   var Marker = require('./mark');
-  var menu = require('fws-navigation');
+  // var menu = require('fws-navigation');
+  var menu = require('./menu');
   var nav = require('fws-scrollnav');
   var glossary = require('fws-glossary');
   var contacts = require('./contacts');
@@ -118,7 +117,7 @@
 
   function removeActiveClassFromDrawer (e) {
     var parent = (e.target) ? e.target.parentNode : e.parentNode;
-    if (parent) removeClass(parent, 'active');
+    if (parent) parent.classList.remove('active');
   }
 
   function keyupHandler(e) {
@@ -133,19 +132,19 @@
     [].forEach.call(drawers, function (drawer) {
       if (!drawer) return;
       var button = drawer.querySelector('.close-drawer');
-      if ( hasClass(drawer, 'active') ) removeActiveClassFromDrawer(button);
+      if ( drawer.classList.contains('active') ) removeActiveClassFromDrawer(button);
     });
   }
 
   function toggleScrollNav() {
-    if ( hasClass(scrollNav, 'open') ) removeClass(scrollNav, 'open');
-    else addClass(scrollNav, 'open');
+    if ( scrollNav.classList.contains('open') ) scrollNav.classList.remove('open');
+    else scrollNav.classList.add('open');
   }
 
   function toggleActiveClass(el, theClass) {
     var activeClass = theClass || 'active';
-    if ( hasClass(el, activeClass) ) removeClass(el, activeClass);
-    else addClass(el, activeClass);
+    if ( el.classList.contains(activeClass) ) el.classList.remove(activeClass);
+    else el.classList.add(activeClass);
   }
 
 })();

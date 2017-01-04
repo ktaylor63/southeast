@@ -3,10 +3,7 @@
 
   var _ = {
     each: require('lodash.forEach'),
-    defaults: require('lodash.defaults'),
-    addClass: require('add-class'),
-    removeClass: require('remove-class'),
-    hasClass: require('has-class')
+    defaults: require('lodash.defaults')
   };
 
   var options = {};
@@ -24,13 +21,13 @@
 
   function _toggle(e) {
     var list = getListWrapper(e.target);
-    if ( _.hasClass(list, options.showClass) )
-      _.removeClass(list, options.showClass);
-    else _.addClass(list, options.showClass);
+    if ( list.classList.contains(options.showClass) )
+      list.classList.remove(options.showClass);
+    else list.classList.add(options.showClass);
   }
 
   function getListWrapper(el) {
-    if ( _.hasClass(el, 'fade-list') ) return el;
+    if ( el.classList.contains('fade-list') ) return el;
     else return el.parentNode;
   }
 
