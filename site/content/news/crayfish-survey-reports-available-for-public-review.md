@@ -8,10 +8,11 @@ hero:
     link: 'https://flic.kr/p/qXGti8'
     caption: 'Big Sandy crayfish. Photo by Zachary Loughman, West Liberty University.'
 tags:
+    - 'Big Sandy Crayfish'
     - Crayfish
     - Kentucky
     - 'West Virginia'
-updated: 'October 26th, 2016'
+updated: 'January 4th, 2017'
 ---
 
 New survey reports for the Guyandotte River and Big Sandy crayfishes are now available for public review, the U.S. Fish and Wildlife Service announced today. In light of these survey reports and to allow for additional public involvement, the agency has re-opened the comment period for 30 days until January 14, 2016.
@@ -34,8 +35,8 @@ The Service invites public comment at [regulations.gov](http://regulations.gov/
 
 ## Contacts
 
-Meagan Racey (VA, WV), 413-253-8558  
+Meagan Racey (VA, WV), 413-253-8558
 [meagan_racey@fws.gov](mailto:meagan_racey@fws.gov)
 
-Elsie Davis (KY) 404-679-7107  
+Elsie Davis (KY) 404-679-7107
 [elsie_davis@fws.gov](mailto:elsie_davis@fws.gov)
