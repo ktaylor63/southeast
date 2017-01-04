@@ -1,12 +1,12 @@
 (function () {
   'use strict';
+
   require('classlist-polyfill');
 
   var xhr = require('xhr');
   var Parallax = require('parallax-scroll');
   var Marker = require('./mark');
-  // var menu = require('fws-navigation');
-  var menu = require('./menu');
+  var menu = require('fws-navigation');
   var nav = require('fws-scrollnav');
   var glossary = require('fws-glossary');
   var contacts = require('./contacts');
