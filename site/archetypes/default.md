@@ -1,0 +1,13 @@
+---
+title:
+description:
+hero:
+    name:
+    alt:
+    link:
+    caption:
+    position:
+tags:
+  -
+updated:
+---
