@@ -1,19 +1,20 @@
 ---
-title: 'Endangered Species Act Protections Finalized for  Two Appalachian Crayfishes in Kentucky, Virginia and West Virginia'
+title: 'Endangered Species Act Protections Finalized for Two Appalachian Crayfishes in Kentucky, Virginia and West Virginia'
 subtitle: 'Biologists seek partners to conserve Guyandotte River, Big Sandy crayfishes'
 date: '2016-04-06'
 tags:
     - Crayfish
+    - 'Big Sandy Crayfish'
     - Kentucky
 hero:
-    name: big-sandy-crayfish.jpg
-    alt: 'A lobster-shaped and colored crayfish with tinges of rust and blue.'
-    link: 'https://flic.kr/p/qXGti8'
+    name: big-sandy-crayfish-in-hand.jpg
+    alt: 'A lobster-shaped crayfish held by a biologist'
+    link: 'https://flic.kr/p/rUnpiG'
     caption: 'Big Sandy crayfish. Photo by Zachary Loughman, West Liberty University.'
-updated: 'November 9th, 2016'
+updated: 'January 4th, 2017'
 ---
 
-Just months after the U.S. Fish and Wildlife Service’s April 2015 proposal to protect the Big Sandy crayfish and Guyandotte River crayfish as endangered, the agency sent a crayfish expert into the central Appalachians to look for more.
+Just months after the U.S. Fish and Wildlife Service’s April 2015 proposal to protect the [Big Sandy crayfish](/wildlife/crustaceans/big-sandy-crayfish) and Guyandotte River crayfish as endangered, the agency sent a crayfish expert into the central Appalachians to look for more.
 
 The goal: to determine if the outlook for the two creatures was better than previous data indicated.
 

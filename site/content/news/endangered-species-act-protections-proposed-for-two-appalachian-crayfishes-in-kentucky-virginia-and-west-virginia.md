@@ -11,9 +11,9 @@ tags:
     - ALCC
     - Crayfish
     - Kentucky
-    - 'Big Sandy crayfish'
-    - 'Guyandotte River crayfish'
-updated: 'October 6th, 2016'
+    - 'Big Sandy Crayfish'
+    - 'Guyandotte River Crayfish'
+updated: 'January 4th, 2017'
 ---
 
 Just as the central Appalachian landscape was beginning to undergo changes related to early 20th century mining, logging and population growth, researchers documented a number of crayfish species in the streams of this area known for its natural beauty and diverse wildlife. Two of these crayfishes, [the Big Sandy crayfish and the Guyandotte River crayfish](http://www.fws.gov/northeast/crayfish/pdf/Crayfish_4_6_15_FINAL.pdf), are now in danger of extinction.
