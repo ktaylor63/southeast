@@ -8,7 +8,7 @@
     noResults: require('./noResults.jade')
   };
 
-  var list = document.querySelector('.register-list');
+  var list = document.querySelector('.card-list');
   var sciName = document.querySelector('.scientific-name').textContent;
   var animal = encodeURIComponent(sciName.replace('(', '').replace(')', ''));
   var url = 'https://www.federalregister.gov/api/v1/articles.json?per_page=1000&order=relevance&conditions%5Bterm%5D=' + animal + '&conditions%5Bagencies%5D%5B%5D=fish-and-wildlife-service';

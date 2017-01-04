@@ -1,7 +1,7 @@
 - var moment = require('moment');
 each result in results
  - var date = moment(result.publication_date).format('MMMM D, YYYY');
-  li.federal-register-item
+  li.card.card-text
     span.card-ribbon
       span.card-type= result.type
       a(href=result.pdf_url target="_blank")
