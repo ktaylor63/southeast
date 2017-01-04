@@ -6,6 +6,12 @@ tags:
     - Gulf
     - Restoration
 url: /gulf-restoration
+hero:
+    name: alligator-st-marks.jpg
+    alt: 'An alligator on a vegetated water bank.'
+    caption: 'Alligator sunning at St. Marks National Wildlife Refuge.  Photo by Steve Hillebrand.'
+    link: https://flic.kr/p/7Zmwbs
+    position: 'left center'
 updated: 'October 27th, 2016'
 ---
 
