@@ -38,7 +38,8 @@
       var isState = person.state.toLowerCase().indexOf(query) > -1;
       var isName = person.name.toLowerCase().indexOf(query) > -1;
       var isTitle = person.title.toLowerCase().indexOf(query) > -1;
-      return (isType || isState || isName || isTitle);
+      var isStation = person.station.toLowerCase().indexOf(query) > -1;
+      return (isType || isState || isName || isTitle || isStation);
     });
 
     render(filtered);
