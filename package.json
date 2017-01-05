@@ -48,7 +48,7 @@
     "browser-sync": "^2.18.5",
     "chokidar": "^1.4.3",
     "concat-map": "0.0.1",
-    "cross-env": "^3.0.0",
+    "cross-env": "^3.1.4",
     "glob": "^7.0.3",
     "gray-matter": "^2.0.2",
     "imagemin": "^5.2.2",
