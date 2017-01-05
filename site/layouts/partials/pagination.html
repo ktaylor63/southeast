@@ -1,27 +1,32 @@
 {{ $pag := $.Paginator }}
-{{ $.Scratch.Add "i" 0 }}
+{{ if gt $pag.TotalPages 1 }}
 <ul class="pagination">
   {{ with $pag.First }}
-  <li>
+  <li {{ if not $pag.HasPrev }}class="disabled"{{ end }}>
     <a href="{{ .URL }}" aria-label="First"><span aria-hidden="true">&laquo;&laquo;</span></a>
   </li>
   {{ end }}
   <li {{ if not $pag.HasPrev }}class="disabled"{{ end }}>
     <a href="{{ if $pag.HasPrev }}{{ $pag.Prev.URL }}{{ end }}" aria-label="Previous"><span aria-hidden="true">&laquo;</span></a>
   </li>
-  {{ range $pag.Pagers }}
-    {{ $.Scratch.Add "i" 1 }}
-    {{ $proximity := sub ($.Scratch.Get "i") $pag.PageNumber }}
-    {{ if and (lt $proximity 4) (gt $proximity -4) }}
-    <li {{ if eq . $pag }}class="active"{{ end }}><a href="{{ .URL }}">{{ .PageNumber }}</a></li>
-    {{ end }}
+  {{ range $index, $element := $pag.Pagers }}
+  {{ $less := lt (sub $pag.PageNumber $index) 4 }}
+  {{ $more := gt (sub $pag.PageNumber $index) -4 }}
+  {{ if and $less $more }}
+  <li {{ if eq $element $pag }}class="active"{{ end }}>
+    <a href="{{ $element.URL }}">{{ $element.PageNumber }}</a>
+  </li>
+  {{ end }}
   {{ end }}
   <li {{ if not $pag.HasNext }}class="disabled"{{ end }}>
-    <a href="{{ if $pag.HasNext }}{{ $pag.Next.URL }}{{ end }}" aria-label="Next"><span aria-hidden="true">&raquo;</span></a>
+    <a href="{{ if $pag.HasNext }}{{ $pag.Next.URL }}{{ end }}" aria-label="Next">
+      <span aria-hidden="true">&raquo;</span>
+    </a>
   </li>
   {{ with $pag.Last }}
-  <li>
+  <li {{ if not $pag.HasNext }}class="disabled"{{ end }}>
     <a href="{{ .URL }}" aria-label="Last"><span aria-hidden="true">&raquo;&raquo;</span></a>
   </li>
   {{ end }}
 </ul>
+{{ end }}
