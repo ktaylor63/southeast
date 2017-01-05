@@ -1,6 +1,6 @@
-<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta charset="utf-8" />
 {{ .Hugo.Generator }}
-<meta name="description" content="{{if .IsPage}}{{ .Summary }}{{else}}{{.Site.Params.description}}{{end}}">
+<meta name="description" content="{{ if .Params.description }}{{ .Params.description }}{{ else }}{{ .Summary }}{{end}}">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <title>{{ .Title }} | U.S. Fish &amp; Wildlife Service</title>
@@ -12,23 +12,13 @@
 <meta property="og:type" content="website" />
 <meta property="og:url" content="{{ .Permalink }}" />
 <meta property="og:title" content="{{ .Title }}" />
-<meta property="og:description" content="{{if .IsPage}}{{ .Summary }}{{else}}{{.Site.Params.description}}{{end}}" />
+<meta property="og:description" content="{{ if .Params.description }}{{ .Params.description }}{{ else }}{{ .Summary }}{{end}}" />
+<meta property="og:image" content="{{ .Site.BaseURL }}images/hero/small/{{ .Params.hero.name }}" />
 
-{{ with .Params.images }}{{ range first 6 . }}
-<meta property="og:image" content="{{ if in . "http" }}{{ . }}{{ else }}http://fws.gov/southeast{{ . }}{{ end }}" />
-{{ end }}{{ end }}
-{{ if .Params.lastUpdate }}
-<meta property="og:updated_time" content="{{ .Params.lastUpdate }}"/>
-{{ end }}
-
-{{ with .Params.images }}
 <meta name="twitter:card" content="summary_large_image"/>
-<meta name="twitter:image:src" content="{{ if in . "http" }}{{ . }}{{ else }}http://fws.gov/southeast{{ . }}{{ end }}"/>
-{{ else }}
-<meta name="twitter:card" content="summary"/>
-{{ end }}
+<meta name="twitter:image" content="{{ .Site.BaseURL }}images/hero/small/{{ .Params.hero.name }}"/>
+<meta name="twitter:image:alt" content="{{ .Params.hero.alt }}"/>
 <meta name="twitter:site" content="@usfwssoutheast">
-<meta name="twitter:url" content="{{ .Permalink }}">
 <meta property="twitter:title" content="{{ .Title }}" />
-<meta property="twitter:description" content="{{if .IsPage}}{{ .Summary }}{{else}}{{.Site.Params.description}}{{end}}" />
+<meta property="twitter:description" content="{{ if .Params.description }}{{.Params.description}}{{ else }}{{ .Summary }}{{end}}" />
 <!-- <script async type="text/javascript" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal­Federated­Analytics­Min.js?agency=DOI&subagency=FWS"></script> -->
