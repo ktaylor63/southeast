@@ -9,7 +9,6 @@
     ]
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "browserify": "browserify index.js | uglifyjs -mc > ../../../site/static/js/ssp-map.js",
     "watchify": "watchify index.js -o ../../../site/static/js/ssp-map.js -dv",
     "inspect": "browserify --full-paths index.js | uglifyjs -mc | Discify --open"
@@ -27,13 +26,17 @@
   },
   "dependencies": {
     "add-class": "^1.0.3",
+    "client-csv": "0.0.4",
     "geojson": "^0.4.0",
     "has-class": "^1.0.6",
-    "leaflet": "^1.0.1",
+    "leaflet": "^1.0.2",
+    "leaflet-draw": "^0.4.9",
     "lodash.foreach": "^4.5.0",
+    "papaparse": "^4.1.2",
     "query-string": "^4.2.3",
     "remove-class": "^1.0.0",
     "toggle-class": "0.0.0",
+    "turf-inside": "^3.0.12",
     "xhr": "^2.2.2"
   }
 }

@@ -6,3 +6,12 @@
 .info-window {
   @include drawer('info-window');
 }
+
+.download-button {
+  display: none;
+  text-align: center;
+
+  &.active {
+    display: block;
+  }
+}
