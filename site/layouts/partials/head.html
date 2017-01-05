@@ -7,18 +7,18 @@
 
 <link rel="stylesheet" href="/css/styles.css">
 
-<meta property="fb:admins" content="1417314007,1222320132"/>
-<meta property="og:site_name" content="fws.gov/southeast" />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="{{ .Permalink }}" />
-<meta property="og:title" content="{{ .Title }}" />
-<meta property="og:description" content="{{ if .Params.description }}{{ .Params.description }}{{ else }}{{ .Summary }}{{end}}" />
-<meta property="og:image" content="{{ .Site.BaseURL }}images/hero/small/{{ .Params.hero.name }}" />
+<meta name="fb:admins" content="1417314007,1222320132"/>
+<meta name="og:site_name" content="fws.gov/southeast" />
+<meta name="og:type" content="website" />
+<meta name="og:url" content="{{ .Permalink }}" />
+<meta name="og:title" content="{{ .Title }}" />
+<meta name="og:description" content="{{ if .Params.description }}{{ .Params.description }}{{ else }}{{ .Summary }}{{end}}" />
+<meta name="og:image" content="{{ .Site.BaseURL }}images/hero/small/{{ .Params.hero.name }}" />
 
 <meta name="twitter:card" content="summary_large_image"/>
 <meta name="twitter:image" content="{{ .Site.BaseURL }}images/hero/small/{{ .Params.hero.name }}"/>
 <meta name="twitter:image:alt" content="{{ .Params.hero.alt }}"/>
 <meta name="twitter:site" content="@usfwssoutheast">
-<meta property="twitter:title" content="{{ .Title }}" />
-<meta property="twitter:description" content="{{ if .Params.description }}{{.Params.description}}{{ else }}{{ .Summary }}{{end}}" />
+<meta name="twitter:title" content="{{ .Title }}" />
+<meta name="twitter:description" content="{{ if .Params.description }}{{.Params.description}}{{ else }}{{ .Summary }}{{end}}" />
 <!-- <script async type="text/javascript" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal­Federated­Analytics­Min.js?agency=DOI&subagency=FWS"></script> -->
