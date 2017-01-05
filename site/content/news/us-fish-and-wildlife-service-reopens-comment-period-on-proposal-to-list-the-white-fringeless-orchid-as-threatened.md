@@ -2,7 +2,7 @@
 title: 'U.S. Fish and Wildlife Service Reopens Comment Period On Proposal to List the White Fringeless Orchid as Threatened'
 date: '2016-04-14'
 hero:
-    name: white-fringless-orchid-patch.jpg
+    name: white-fringeless-orchid-patch.jpg
     alt: 'Tall stems extending from the forest floor give way to bright white dangling flowers.'
     link: 'https://flic.kr/p/pzwd9s'
     caption: 'White fringeless orchid. Photo by USFWS.'
