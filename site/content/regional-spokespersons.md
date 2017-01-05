@@ -27,7 +27,7 @@ If you would like to have our press releases delivered to your inbox, please sub
 (251) 441-6630
 
 ### Arkansas
-See “General Media Inquiries”
+<a href="#general-media-inquiries-photos-video">See “General Media Inquiries”</a>
 
 ### North Florida
 [Chuck Underwood](mailto:chuck_underwood@fws.gov), Public Affairs Specialist <br>
@@ -38,20 +38,20 @@ See “General Media Inquiries”
 (772) 562-3909, extension 323
 
 ### Georgia
-See “General Media Inquiries”
+<a href="#general-media-inquiries-photos-video">See “General Media Inquiries”</a>
 
 ### Kentucky
-See “General Media Inquiries”
+<a href="#general-media-inquiries-photos-video">See “General Media Inquiries”</a>
 
 ### Louisiana
-See “General Media Inquiries”
+<a href="#general-media-inquiries-photos-video">See “General Media Inquiries”</a>
 
 ### Mississippi
 [Connie Dickard](mailto:connie_dickard@fws.gov), Public Affairs Specialist <br>
 (601) 965-4900
 
 ### Puerto Rico and U.S. Virgin Islands
-See “General Media Inquiries”
+<a href="#general-media-inquiries-photos-video">See “General Media Inquiries”</a>
 
 ### Eastern North Carolina
 [Lilibeth Serrano](mailto:lilibeth_serrano@fws.gov), Public Affairs Specialist <br>
@@ -66,7 +66,7 @@ See “General Media Inquiries”
 (843) 727-4707, extension 214
 
 ### Tennessee
-See “General Media Inquiries”
+<a href="#general-media-inquiries-photos-video">See “General Media Inquiries”</a>
 
 ## General Media Inquiries, Photos, Video
 
@@ -75,11 +75,13 @@ See “General Media Inquiries”
 [Elsie Davis](mailto:elsie_davis@fws.gov), Public Affairs Specialist <br>
 (404) 679-7107
 
-[Tom MacKenzie](mailto:tom_mackenzie@fws.gov), Public Affairs Specialist <br>
+[Mark Davis](mailto:tom_mackenzie@fws.gov), Public Affairs Specialist <br>
 (404) 679-7291
 
-[Jennifer Strickland](mailto:jennifer_strickland@fws.gov), Digital Communications <br>
+[Phil Koler](mailto:jennifer_strickland@fws.gov), Public Affairs Specialist <br>
 (404) 679-7299
+
+[Dan Chapman](mailto:jennifer_strickland@fws.gov), Public Affairs Specialist <br>
 
 @USFWSSoutheast [Facebook](https://facebook.com/usfwssoutheast) and [Twitter](https://twitter.com/usfwssoutheast) <br>
 [Katherine Taylor](mailto:katherine_taylor@fws.gov), Digital Content Specialist <br>
