@@ -1,8 +1,10 @@
 - var moment = require('moment');
+- var baseUrl = document.body.getAttribute('data-root');
 each animal in species
   - var date = moment(animal.reviewDate).format('MM/DD/YYYY');
+  - var url = [baseUrl, animal.url].join('');
   li
     if animal.url
-      p| #{date}: #[a(href=animal.url) #{animal.commonName}] (#{animal.status})
+      p| #{date}: #[a(href=url) #{animal.commonName}] (#{animal.status})
     else
       p| #{date}: #{animal.commonName} (#{animal.status})
