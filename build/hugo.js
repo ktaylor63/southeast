@@ -1,17 +1,22 @@
 (function () {
   'use strict';
 
-  var rimraf = require('rimraf');
-  var spawn = require('child_process').spawn;
+  const rimraf = require('rimraf');
+  const spawn = require('child_process').spawn;
 
-  rimraf('dist/*', function (err) {
+  const baseURL = process.argv[3];
+
+  // Don't blast away CSS, JavaScript, or Images or we'll have to just re-copy them
+  const options = { glob: { ignore: ['dist/css', 'dist/js', 'dist/images', 'dist/data'] } };
+
+  rimraf('dist/*', options, function (err) {
     if (err) console.error(err);
     var hugo = spawn('hugo', [
       '--canonifyURLs=true',
       '--config=site/config.yml',
       '--destination=../dist/',
       '--source=site/',
-      '--baseURL=' + process.argv[3]
+      `--baseURL=${baseURL}`
     ]);
 
     hugo.stdout.on('data', function (data) {
