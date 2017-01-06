@@ -1,6 +1,7 @@
 (function () {
   'use strict';
   var sharp = require('sharp');
+  var mkdirp = require('mkdirp');
   var imagemin = require('imagemin');
   var imageminMozjpeg = require('imagemin-mozjpeg');
   var rimraf = require('rimraf');
@@ -10,7 +11,7 @@
   var path = require('path');
 
   var input = 'src/images/hero/';
-  var output = 'site/static/images/hero/';
+  var output = 'dist/images/hero/';
   var images = fs.readdirSync(input);
 
   var _ = { each: require('lodash.foreach') };
@@ -87,8 +88,12 @@
         imageminMozjpeg()
       ]
     }).then(function(buffer) {
-      fs.writeFile(filename, buffer, 'utf8', function(err) {
-        if (err) console.error(err);
+      var directory = path.dirname(filename);
+      mkdirp(directory, function(err) {
+        if (err) console.log(err);
+        fs.writeFile(filename, buffer, 'utf8', function(err) {
+          if (err) console.error(err);
+        });
       });
     });
   }
