@@ -10,9 +10,11 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "browserify": "browserify index.js | uglifyjs -mc > ../../../site/static/js/jobs.js",
-    "watchify": "watchify index.js -o ../../../site/static/js/jobs.js -dv",
-    "inspect": "browserify --full-paths index.js | uglifyjs -mc | Discify --open"
+    "browserify": "browserify index.js | uglifyjs -mc > ../../../dist/js/jobs.js",
+    "watchify": "watchify index.js -o ../../../dist/js/jobs.js -dv",
+    "inspect": "browserify --full-paths index.js | uglifyjs -mc | Discify --open",
+    "start": "npm run watchify",
+    "build": "npm run browserify"
   },
   "keywords": [
     "USAjobs"

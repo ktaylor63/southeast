@@ -10,9 +10,11 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "browserify": "browserify index.js | uglifyjs -mc > ../../../site/static/js/species-profile.js",
-    "watchify": "watchify index.js -o ../../../site/static/js/species-profile.js -dv",
-    "inspect": "browserify --full-paths src/index.js | uglifyjs -mc | Discify --open"
+    "browserify": "browserify index.js | uglifyjs -mc > ../../../dist/js/species-profile.js",
+    "watchify": "watchify index.js -o ../../../dist/js/species-profile.js -dv",
+    "inspect": "browserify --full-paths src/index.js | uglifyjs -mc | Discify --open",
+    "start": "npm run watchify",
+    "build": "npm run browserify"
   },
   "keywords": [],
   "author": "Roy Hewitt <royhewitt07@gmail.com>",

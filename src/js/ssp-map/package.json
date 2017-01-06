@@ -9,9 +9,11 @@
     ]
   },
   "scripts": {
-    "browserify": "browserify index.js | uglifyjs -mc > ../../../site/static/js/ssp-map.js",
-    "watchify": "watchify index.js -o ../../../site/static/js/ssp-map.js -dv",
-    "inspect": "browserify --full-paths index.js | uglifyjs -mc | Discify --open"
+    "browserify": "browserify index.js | uglifyjs -mc > ../../../dist/js/ssp-map.js",
+    "watchify": "watchify index.js -o ../../../dist/js/ssp-map.js -dv",
+    "inspect": "browserify --full-paths index.js | uglifyjs -mc | Discify --open",
+    "start": "npm run watchify",
+    "build": "npm run browserify"
   },
   "keywords": [],
   "author": "",

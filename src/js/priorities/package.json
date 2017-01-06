@@ -13,9 +13,11 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "browserify": "browserify index.js | uglifyjs -mc > ../../../site/static/js/priorities.js",
-    "watchify": "watchify index.js -o ../../../site/static/js/priorities.js -dv",
-    "inspect": "browserify --full-paths index.js | uglifyjs -mc | Discify --open"
+    "browserify": "browserify index.js | uglifyjs -mc > ../../../dist/js/priorities.js",
+    "watchify": "watchify index.js -o ../../../dist/js/priorities.js -dv",
+    "inspect": "browserify --full-paths index.js | uglifyjs -mc | Discify --open",
+    "start": "npm run watchify",
+    "build": "npm run browserify"
   },
   "author": "Roy Hewitt, @r0yhewitt",
   "license": "SAX-PD",

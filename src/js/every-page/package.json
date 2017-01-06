@@ -10,8 +10,8 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "browserify": "browserify index.js | uglifyjs -mc > ../../../site/static/js/every-page.js",
-    "watchify": "watchify index.js -o ../../../site/static/js/every-page.js -dv",
+    "browserify": "browserify index.js | uglifyjs -mc > ../../../dist/js/every-page.js",
+    "watchify": "watchify index.js -o ../../../dist/js/every-page.js -dv",
     "start": "npm run watchify",
     "build": "npm run browserify",
     "inspect": "browserify --full-paths index.js | uglifyjs -mc | Discify --open"

@@ -12,10 +12,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "csv2json": "csv2json ./permits.csv - | json-minify > ./permits.js",
-    "browserify": "browserify index.js | uglifyjs -mc > ../../../site/static/js/10a1a-permits.js",
-    "watchify": "watchify index.js -o ../../../site/static/js/10a1a-permits.js -dv",
+    "browserify": "browserify index.js | uglifyjs -mc > ../../../dist/js/10a1a-permits.js",
+    "watchify": "watchify index.js -o ../../../dist/js/10a1a-permits.js -dv",
     "inspect": "browserify --full-paths index.js | uglifyjs -mc | Discify --open",
-    "start": "npm run csv2json && npm run watchify"
+    "start": "npm run csv2json && npm run watchify",
+    "build": "npm run csv2json && npm run browserify"
   },
   "keywords": [],
   "author": "Roy Hewitt <roy_hewitt@fws.gov>",

@@ -10,8 +10,10 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "browserify": "browserify index.js | uglifyjs -mc > ../../../site/static/js/state.js",
-    "watchify": "watchify index.js -o ../../../site/static/js/state.js -dv"
+    "browserify": "browserify index.js | uglifyjs -mc > ../../../dist/js/state.js",
+    "watchify": "watchify index.js -o ../../../dist/js/state.js -dv",
+    "start": "npm run watchify",
+    "build": "npm run browserify"
   },
   "author": "Roy Hewitt <royhewitt07@gmail.com>",
   "license": "SAX-PD",

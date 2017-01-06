@@ -12,8 +12,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "csv2json": "csv2json documents.csv > documents.js",
-    "browserify": "browserify index.js | uglifyjs -mc > ../../../site/static/js/five-year-reviews.js",
-    "watchify": "watchify index.js -o ../../../site/static/js/five-year-reviews.js -dv",
+    "browserify": "browserify index.js | uglifyjs -mc > ../../../dist/js/five-year-reviews.js",
+    "watchify": "watchify index.js -o ../../../dist/js/five-year-reviews.js -dv",
     "build": "npm run csv2json && npm run browserify",
     "start": "npm run csv2json && npm run watchify"
   },

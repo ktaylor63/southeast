@@ -10,8 +10,8 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "browserify": "browserify index.js | uglifyjs -mc > ../../../site/static/js/partners.js",
-    "watchify": "watchify index.js -o ../../../site/static/js/partners.js -dv",
+    "browserify": "browserify index.js | uglifyjs -mc > ../../../dist/js/partners.js",
+    "watchify": "watchify index.js -o ../../../dist/js/partners.js -dv",
     "start": "npm run watchify",
     "build": "npm run browserify"
   },
