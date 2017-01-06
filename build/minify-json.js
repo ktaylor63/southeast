@@ -11,7 +11,7 @@
   var path = require('path');
 
   var jsonSrc = 'src/data/**/*.json';
-  var dist = 'site/static/data/';
+  var dist = 'dist/data/';
 
   init();
 
