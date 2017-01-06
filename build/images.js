@@ -5,12 +5,15 @@
   var imageminMozjpeg = require('imagemin-mozjpeg');
   var rimraf = require('rimraf');
   var chokidar = require('chokidar');
+  var ncp = require('ncp').ncp;
+
+  ncp.limit = 16;
 
   var fs = require('fs');
   var path = require('path');
 
   var input = 'src/images/pages/';
-  var output = 'site/static/images/pages/';
+  var output = 'dist/images/pages/';
   var directories = getDirectories(input);
   var images;
 
@@ -27,6 +30,10 @@
   init();
 
   function init() {
+    ncp('src/images/copy', 'dist/images/', function(err) {
+      if (err) console.log(err);
+    });
+
     if (process.env.WATCH) {
       console.log('Watching images for changes...');
       watcher();
