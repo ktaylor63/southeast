@@ -4,16 +4,18 @@
   &__hero {
     background-size: cover;
     background-position: center center;
-    min-height: 300px;
+    height: 50vh;
     text-align: center;
 
     h2 {
       color: white;
       display: inline-block;
       margin: 0;
+      padding: 0 5%;
       position: relative;
       text-shadow: 1px 1px 2px #000;
-      top: 100px;
+      top: 50%;
+      transform: translateY(-50%);
 
       &::after {
         border-top: 2px solid white;
@@ -25,14 +27,6 @@
         text-transform: uppercase;
         top: .25em;
       }
-
-      @media (min-width: $break-lg) {
-        top: 250px;
-      }
-    }
-
-    @media (min-width: $break-lg) {
-      height: 65vh;
     }
   }
 
