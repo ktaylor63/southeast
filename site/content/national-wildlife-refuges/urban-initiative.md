@@ -1,6 +1,6 @@
 ---
 title: 'Urban Initiative'
-description: null
+description: 'With 80% of Americans living in cities, how do we connect urban America with our wild places, such as national wildlife refuges?'
 hero:
     alt: 'A photo from space illustrating the proximity of Bayou Sauvage NWR to New Orleans.'
     caption: 'New Orleans from space; Bayou Sauvage NWR is located in the top right of the photograph.  Photo from the International Space Station, NASA.'
@@ -15,7 +15,7 @@ updated: 'January 4th, 2017'
 
 ## The Challenge
 
-With 80% of Americans living in cities, how do we connect urban America with our wild places, such as national wildlife refuges? How do we teach a new generation to love the land? How do we help children find inspiration in nature all around them? America will have much of their direct contact with nature while in an urban setting, thereby shaping the nation’s conservation values, ethics and priorities, and requiring the U.S. Fish and Wildlife Service (Service) to reach beyond our boundaries.
+With 80% of Americans living in cities, how do we connect urban America with our wild places, such as national wildlife refuges? How do we teach a new generation to love the land? How do we help children find inspiration in nature all around them? America will have much of their direct contact with nature while in an urban setting, thereby shaping the nation’s conservation values, ethics and priorities, and requiring the U.S. Fish and Wildlife Service to reach beyond our boundaries.
 
 ## The Approach
 
@@ -35,7 +35,9 @@ Located in the city limits of New Orleans, [Bayou Sauvage National Wildlife Refu
 
 ### Proctor Creek
 
-FWS offices in Georgia have partnered with the West Atlanta Watershed Alliance and several other groups to restore creeks and streams in the west Atlanta area. This includes Proctor Creek, a stream system in a historic neighborhood that is home to several pockets of significant urban wildlife. Because the watershed is in the middle of Atlanta, FWS utilized citizen science through community volunteers and interns from neighboring universities to carry out sampling efforts, and are using the information collected to guide future restorations projects.
+U.S. Fish and Wildlife offices in Georgia have partnered with the West Atlanta Watershed Alliance and several other groups to restore creeks and streams in the west Atlanta area. This includes Proctor Creek, a stream system in a historic neighborhood that is home to several pockets of significant urban wildlife. Because the watershed is in the middle of Atlanta, FWS utilized citizen science through community volunteers and interns from neighboring universities to carry out sampling efforts, and are using the information collected to guide future restorations projects.
+
+[Listen in to a National Public Radio story on Proctor Creek with Fish and Wildlife Biologist Tamara Johnson](http://news.wabe.org/post/city-wildlife-scientists-research-atlanta-s-proctor-creek).
 
 ### South Fork Partnership
 
