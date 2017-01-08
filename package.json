@@ -9,7 +9,7 @@
       "patterns": [
         "site/**/*"
       ],
-      "extensions": "html,md,ace"
+      "extensions": "html,md,ace,svg,pdf"
     }
   },
   "scripts": {
@@ -33,8 +33,7 @@
     "hugo:dev": "node build/hugo -- http://localhost:3000/",
     "hugo:stage": "node build/hugo -- https://intranet.fws.gov/region4/demo/",
     "hugo:pro": "node build/hugo -- https://www.fws.gov/southeast/",
-    "serve": "browser-sync start --server 'dist' --files 'dist/**/*' --log-level 'silent'",
-    "prestart": "npm run hugo:dev",
+    "serve": "browser-sync start --server 'dist' --files 'dist/**/*' --log-level 'silent' --reload-delay=1500",
     "start": "npm run watch & npm run serve",
     "build": "npm run json && npm run images && npm run svg && npm run build:sass",
     "deploy": "npm run build && npm run hugo:pro",
