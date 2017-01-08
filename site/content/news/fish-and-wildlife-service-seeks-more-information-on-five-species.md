@@ -14,7 +14,7 @@ tags:
     - Kentucky
     - 'North Carolina'
     - Tennessee
-updated: 'October 20th, 2016'
+updated: 'January 8th, 2017'
 ---
 
 Today the U.S. Fish and Wildlife Service (Service) published a batch of 90-day findings in response to a variety of petitions to protect 25 species under the Endangered Species Act. Six of those species are found in the Southeast, and the petition for one species, the Cahaba pebblesnail, was found to be not substantial. The snail will not be given further consideration for federal protection at this time.
@@ -46,8 +46,3 @@ Organizations or individuals that wish to present scientific and/or commercial i
 - [Learn more about this batch finding]](http://www.fws.gov/southeast/candidateconservation/sept-2015-batch).
 - View the [complete _Federal Register_ notice](https://www.federalregister.gov/articles/2015/09/18/2015-23315/endangered-and-threatened-wildlife-and-plants-90-day-findings-on-25-petitions).
 - [Learn more about the 90-day finding process](/endangered-species/90-day-findings)
-
-## Contacts
-
-Jennifer Strickland, 404-679-7299  
-jennifer_strickland@fws.gov
