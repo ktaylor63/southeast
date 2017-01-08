@@ -1,6 +1,7 @@
 ---
 title: 'Social and Digital Media'
 description: 'Connect with us on social media to be the first to know the latest news on threatened and endangered species, special events, volunteer opportunities, partnership projects, prescribed fires and more. We also provide wildlife and habitat photography and video resources for free to the public.'
+url: /social-media
 tags:
     - 'Social Media'
     - Video
@@ -18,7 +19,7 @@ updated: 'August 8th, 2016'
 
 Connect with us on social media to be the first to know the latest news on threatened and endangered species, special events, volunteer opportunities, partnership projects, prescribed fires and more. You can also send us your wildlife and habitat questions.
 
-We also offer a wide variety of landscape and wildlife photos, all free to the public, as well as educational videos on YouTube.  
+We also offer a wide variety of landscape and wildlife photos, all free to the public, as well as educational videos on YouTube.
 
 ## Follow Us Online
 
