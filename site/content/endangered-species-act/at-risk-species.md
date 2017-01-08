@@ -14,7 +14,7 @@ hero:
     link: 'https://flic.kr/p/eLEEwc'
     alt: 'A brownish-yellow salamander sanding on a mossy rock with large round eyes.'
     caption: 'The Pigeon Mountain salamander is no longer at-risk of needing federal protection. Photo by John P. Clare, CC BY-NC-ND 2.0.'
-updated: 'November 9th, 2016'
+updated: 'January 6th, 2017'
 ---
 
 Listing a plant or animal as federally protected under the Endangered Species Act is proven to be successful in preventing extinction.
@@ -31,7 +31,7 @@ A plant or animal is considered **“at-risk”** when:
 
 ## Online Tool for Tracking At-Risk Species
 
-We have developed a free, online tool, the [At-Risk Species Finder](/endangered-species-act/at-risk-species/finder), that allows anyone to discover essential information about a species’ status and the lead U.S. Fish and Wildlife Service office for that species.
+We have developed a free, online tool, the [At-Risk Species Finder](https://fws.gov/southeast/candidateconservation/finder2), that allows anyone to discover essential information about a species’ status and the lead U.S. Fish and Wildlife Service office for that species.
 
 When determining whether or not a species requires the protection of the Act, we assign a Field Office as lead for reviewing all the best scientific and commercial information on the species’ status. Field Offices will have the most information on a particular at-risk species, and all offices follow the same process to determine whether or not a species may require federal protection.
 
@@ -44,7 +44,7 @@ Using the Finder, you can search species by:
  - Current status
  - And more.
 
-[Access the At-Risk Species Finder](/endangered-species-act/at-risk-species/finder).
+[Access the At-Risk Species Finder](https://fws.gov/southeast/candidateconservation/finder2).
 
 {{< figure class="photo-center" src="/images/pages/laginappe-crayfish.jpg" alt="A small, lobster-shaped crayfish with white belly and brownish red back and pincers in a sandy aquarium." caption="The lagniappe crayfish was petitioned and therefore at-risk until biologists determined it does not require protection. Photo by Chris Lukhaup, courtesy of the U.S. Forest Service." link="https://flic.kr/p/nAwV9K" >}}
 
@@ -54,6 +54,6 @@ Whether you’re a landowner, state wildlife agency, private corporation, univer
 
 To discuss the possibilities and to learn more, please contact:
 
-**Mike Harris, At-Risk Species Coordinator**  
-[michael_harris@fws.gov](mailto:michael_harris@fws.gov?subject=At-Risk+Species+Conservation)  
+**Mike Harris, At-Risk Species Coordinator**
+[michael_harris@fws.gov](mailto:michael_harris@fws.gov?subject=At-Risk+Species+Conservation)
 (404) 679-7066
