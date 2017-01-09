@@ -12,7 +12,8 @@
   var params = qs.stringify({
     format: 'json',
     q: 'SSPQR, storymap',
-    fields: 'title,spatial,body,summary,previewImage,purpose'
+    fields: 'title,spatial,body,summary,previewImage,purpose',
+    'max': 200
   });
   var url = [baseURL, params].join('?');
   var projects = [];
@@ -29,7 +30,7 @@
     var data = JSON.parse(body);
 
     _.each(data.items, function(project) {
-      projects.push(normalizeProject(project));
+      if (project.spatial) projects.push(normalizeProject(project));
     });
     projects = geojson.parse(projects, { Point: ['lat', 'lon'] });
     cb(projects);
