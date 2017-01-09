@@ -8,7 +8,7 @@ hero:
     link: 'https://flic.kr/p/9FrTkv'
 tags:
     - 'Migratory Birds'
-updated: 'January 6th, 2017'
+updated: 'January 9th, 2017'
 ---
 
 ## What are Migratory Birds?
@@ -29,7 +29,7 @@ Hunting seasons are set through a regulatory process that begins each year in Ja
 
 In order to hunt migratory waterfowl (ducks, geese, etc.), you must possess both a state hunting license and a [Federal Migratory Bird Hunting Stamp (Duck Stamp)](https://www.fws.gov/birds/get-involved/duck-stamp.php). For information on Federal regulations and migratory bird hunting information such as season timing and bag limits, check out the [Division of Migratory Bird Management](http://offices.fws.gov/statelinks.html).
 
-To obtain a license, contact [the state](https://www.fws.gov/offices/statelinks.html) in which you wish to hunt or fish. Usually you can buy a license at any retail outlet dealing in hunting and fishing equipment or sporting goods stores. They generally also have regulation booklets, Federal Duck Stamps, and season/bag limit information available. Duck stamps are generally available at local Post Offices and refuge visitor centers.
+To obtain a license, contact the state in which you wish to hunt or fish. Usually you can buy a license at any retail outlet dealing in hunting and fishing equipment or sporting goods stores. They generally also have regulation booklets, Federal Duck Stamps, and season/bag limit information available. Duck stamps are generally available at local Post Offices and refuge visitor centers.
 
 ## Where can I report observations of banded birds?
 
