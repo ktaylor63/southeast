@@ -1,6 +1,6 @@
 ---
 title: 'Bald Eagles and Golden Eagles'
-description: null
+description: Bald eagles and golden eagles and their nests are protected from take, including disturbance, under the federal Bald and Golden Eagle Protection Act.
 tags:
     - 'Bald Eagle'
     - 'Golden Eagle'
