@@ -1,6 +1,6 @@
 ---
 title: 'Backyard Habitat: Bats'
-url: /wildlife-and-you/backyard-habitat/bats
+url: /wildlife-and-you/bats
 description: 'Bats play an important role in maintaining healthy ecosystems. You can make a difference by providing homes for bats in your backyard. They will even help reduce insect pests that bother you and your garden plants!'
 nav: Bats
 weight: 2
