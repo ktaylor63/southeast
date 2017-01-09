@@ -10,7 +10,7 @@ aliases:
 nav: 'Fishing'
 weight: 5
 hero:
-    name: fishing-educationjpg
+    name: fishing-education.jpg
     alt: 'A refuge law enforcement officer in uniform shows a child how to cast a rod.'
     link: 'https://flic.kr/p/aL3SKt'
     caption: 'Zone Officer Butler teaching Cub Scouts how to fish at a summer camp in Brunswick, GA. Photo by USFWS.'
