@@ -1,7 +1,7 @@
 = content main
   figure.js-Parallaxify style="background-image: url('{{ .Site.BaseURL }}/images/hero/hero-intro.jpg');"
-    a href="http://fws.gov/southeast" title="Go to the Southast Region Homepage"
-      img.logo src="/images/svg/logo.svg" alt="The official logo of the U.S. Fish and Wildlife Service"
+    svg.logo
+      use xlink:href="#logo"
 
   h1 Regional Priorities in the Southeast
 

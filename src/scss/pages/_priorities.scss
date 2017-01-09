@@ -14,13 +14,16 @@
     background-position: center center;
     height: 50vh;
     margin: 0;
+    text-align: center;
     width: 100%;
   }
 
   .logo {
-    max-height: 250px;
+    display: inline-block;
+    height: 100%;
     position: relative;
-    top: 10vh;
+    top: 50%;
+    width: 175px;
   }
 
   .document-download {
