@@ -2,7 +2,9 @@
 title: 'Celebrating 100 Years of Bird Conservation'
 description: 'The Migratory Bird Treaty has reached its 100th anniversary. To celebrate, the U.S. Fish and Wildlife Service is offering events and summarizing the importance of birds in American conservation.'
 tags:
-    - MBTA
+    - Migratory Bird Treaty Act
+aliases:
+  - /birds/centennial
 hero:
     name: great-egret.jpg
     link: 'https://flic.kr/p/cM3Jgu'
