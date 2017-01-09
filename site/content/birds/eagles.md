@@ -6,6 +6,11 @@ tags:
     - 'Golden Eagle'
     - Permits
     - 'Bald and Golden Eagle Protection Act'
+hero:
+  name: golden-eagle.jpg
+  alt: A brown eagle with a very sharp curved beak flying through the air.
+  link: https://flic.kr/p/qGpPKT
+  caption: Golden eagle. Photo by Tom Koerner, USFWS.
 updated: 'January 6th, 2017'
 ---
 
