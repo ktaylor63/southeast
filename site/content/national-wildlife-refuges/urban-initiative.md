@@ -7,10 +7,14 @@ hero:
     link: 'https://flic.kr/p/9dHxjG'
     name: bayou-sauvage-from-space.jpg
     position: 'top right'
+aliases:
+    - /refuges/urban-initiative
+    - /refuges/urban
+    - /national-wildlife-refuges/urban
 tags:
     - 'National Widlife Refuge System'
     - 'Urban Initiative'
-updated: 'January 4th, 2017'
+updated: 'January 9th, 2017'
 ---
 
 ## The Challenge
