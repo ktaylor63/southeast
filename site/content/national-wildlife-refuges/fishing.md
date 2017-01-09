@@ -5,12 +5,14 @@ tags:
     - Fishing
     - 'National Wildlife Refuges'
     - 'Visitor Activities'
+aliases:
+    - /refuges/fishing
 hero:
     name: fishing-educationjpg
     alt: 'A refuge law enforcement officer in uniform shows a child how to cast a rod.'
     link: 'https://flic.kr/p/aL3SKt'
     caption: 'Zone Officer Butler teaching Cub Scouts how to fish at a summer camp in Brunswick, GA. Photo by USFWS.'
-updated: 'November 17th, 2016'
+updated: 'January 9th, 2017'
 ---
 
 In addition to the conservation of wildlife and habitat, many national wildlife refuges offer a wide variety of quality fishing opportunities. Every year, about 7 million anglers visit national wildlife refuges, where they can find knowledgeable staff and thousands of volunteers.
