@@ -23,7 +23,7 @@ html lang="en-US"
         div
           a.button href="/about" Learn More
 
-      {{ range first 1 (and (where .Site.Pages "Section" "article") (where .Site.Pages "Type" "feature" )) }}
+      {{ range first 1 (and (where .Site.Pages "Section" "articles") (where .Site.Pages "Type" "feature" )) }}
         {{ $.Scratch.Add "feature" .Title }}
         {{ .Render "feature" }}
         .centered-button
@@ -32,14 +32,14 @@ html lang="en-US"
 
 
       ul.article-gallery
-        {{ range $index, $element := first 5 (where .Site.Pages "Section" "article") }}
+        {{ range $index, $element := first 5 (where .Site.Pages "Section" "articles") }}
           {{ if (and (ne ($.Scratch.Get "feature") .Title) (lt $index 4)) }}
             {{ .Render "gallery" }}
           {{ end }}
         {{ end }}
 
       .centered-button
-        a.button href="/article" Article Archive
+        a.button href="/articles" Article Archive
 
       {{ range first 1 (where .Site.Pages "Section" "news") }}
         {{ .Render "feature" }}
