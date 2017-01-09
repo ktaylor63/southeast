@@ -5,13 +5,15 @@ tags:
     - Hunting
     - 'National Wildlife Refuges'
     - 'Visitor Activities'
+aliases:
+    - /refuges/hunting
 hero:
     name: boy-waterfowl-hunting.jpg
     alt: 'A boy wearing a camouflage hat holds a shotgun ready to hunt waterfowl'
     link: 'https://flic.kr/p/8Cu3Gd'
     caption: 'A boy waterfowl hunting. <a href="https://flic.kr/p/8Cu3Gd">Photo</a> by Tina Shaw, USFWS.'
     position: 'center right'
-updated: 'November 29th, 2016'
+updated: 'January 9th, 2017'
 ---
 
 Hunting is part of our American heritage and is a huge economic contributor to the conservation of our nation’s wildlife and habitats. Through the [Pittman-Robertson Act](http://wsfrprograms.fws.gov/Subpages/GrantPrograms/WR/WR_Act.htm), American hunters and shooters contributed [over $800 million](http://wsfrprograms.fws.gov/Subpages/GrantPrograms/WR/WRFinalApportionment2015.pdf) to conservation projects nationwide last year.
