@@ -11,7 +11,7 @@ tags:
 updated: 'January 6th, 2017'
 ---
 
-## What are migratory birds?
+## What are Migratory Birds?
 
 Migratory birds are those species that generally migrate south each fall from breeding grounds to their wintering grounds. They may winter in habitats throughout the Southeast Region, or even farther south into Mexico, Central and South America and the Caribbean. In the spring they return north to their breeding grounds, where they have young and the cycle repeats. Migratory birds are definitely in the majority in contrast to resident birds that do not migrate.
 
