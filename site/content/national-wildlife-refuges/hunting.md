@@ -7,6 +7,8 @@ tags:
     - 'Visitor Activities'
 aliases:
     - /refuges/hunting
+nav: 'Hunting'
+weight: 4
 hero:
     name: boy-waterfowl-hunting.jpg
     alt: 'A boy wearing a camouflage hat holds a shotgun ready to hunt waterfowl'

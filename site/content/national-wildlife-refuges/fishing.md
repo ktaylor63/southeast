@@ -7,6 +7,8 @@ tags:
     - 'Visitor Activities'
 aliases:
     - /refuges/fishing
+nav: 'Fishing'
+weight: 5
 hero:
     name: fishing-educationjpg
     alt: 'A refuge law enforcement officer in uniform shows a child how to cast a rod.'

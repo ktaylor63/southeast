@@ -5,6 +5,8 @@ tags:
     - 'National Wildlife Refuge System'
 aliases:
     - /refuges/visitor-activities
+nav: 'Visitor Activities'
+weight: 2
 hero:
     name: st-marks-nwr-lighthouse.jpg
     alt: 'A bright white lighthouse emerges over calm water and a mix of palm and oak trees.'

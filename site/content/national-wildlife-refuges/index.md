@@ -3,6 +3,8 @@ title: 'Southeastern National Wildlife Refuges'
 description: 'National wildlife refuges are places where many of our nation’s animals can find the habitat they need to survive.'
 aliases:
     - /refuges
+nav: 'Refuges Home'
+weight: 1
 hero:
     name: archie-carr-sunset.jpg
     alt: 'A colorful sunrise on the water.'

@@ -7,6 +7,8 @@ hero:
     link: 'https://flic.kr/p/9dHxjG'
     name: bayou-sauvage-from-space.jpg
     position: 'top right'
+nav: 'Urban Initiative'
+weight: 3
 aliases:
     - /refuges/urban-initiative
     - /refuges/urban
