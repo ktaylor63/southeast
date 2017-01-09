@@ -25,6 +25,10 @@ Our mission is,
 
 > Working with others, to conserve, protect and enhance fish, wildlife, plants and their habitats for the continuing benefit of the American people.
 
+<!-- Our vision
+
+> Together, we will connect lands and waters to sustain fish, wildlife and plants by being visionary leaders, bold innovators and trusted partners, working with and for people. -->
+
 {{< figure class="photo-center" src="/images/pages/great-blue-heron-pelican-island.jpg" alt="A grayish blue bird with a long curvy neck extends from the vegetation on the bank of a stream." link="https://flic.kr/p/bEruGi" caption="A great blue heron at Pelican Island National Wildlife Refuge in Florida. Photo by Keenan Adams, USFWS." >}}
 
 ## What We Do
