@@ -3,7 +3,6 @@ title: 'Seeing the Forest for the Trees'
 subtitle: 'The Service works through the Longleaf Pine Partnership'
 description: 'More than 30 animal species that depend on longleaf pine forests are federally listed as endangered or threatened, and many more are considered to be at-risk. This is why the U.S. Fish and Wildlife Service is working with partners to restore longleaf pine across the southeastern United States.'
 type: feature
-url: /article/longleaf-pine-partnership
 tags:
     - 'longleaf pine'
     - partnership
