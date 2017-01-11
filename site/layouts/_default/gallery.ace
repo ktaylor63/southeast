@@ -1,5 +1,6 @@
 li.card
   {{ if .Params.hero }}
+  .card-hero
     a href="{{ .Permalink}}"
       img.gallery-hero srcset="{{ .Site.BaseURL }}images/hero/small/{{ .Params.hero.name }} 450w, {{ .Site.BaseURL }}images/hero/medium/{{ .Params.hero.name }} 850w" src="{{ .Site.BaseURL }}images/hero/small/{{ .Params.hero.name }}" alt="{{ .Params.hero.alt }}"
   {{ end }}
