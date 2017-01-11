@@ -5,10 +5,6 @@
     text-align: center;
   }
 
-  @media (min-width: $break-md) {
-    margin-left: $nav-width;
-  }
-
   figure.js-Parallaxify {
     background-size: cover;
     background-position: center center;
