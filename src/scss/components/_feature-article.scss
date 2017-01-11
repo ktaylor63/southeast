@@ -90,8 +90,4 @@
       }
     }
   }
-
-  @media (min-width: $break-md) {
-    padding-left: calc(#{$nav-width} + 2%);
-  }
 }
