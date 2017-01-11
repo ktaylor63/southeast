@@ -35,10 +35,6 @@
     max-width: $container-width;
     padding: 5%;
   }
-
-  @media (min-width: $break-md) {
-    margin-left: $nav-width;
-  }
 }
 
 .feature-news-summary h2::after {
