@@ -1,10 +1,5 @@
 .wrapper {
   padding: 0 3%;
-
-  // Account for the docked navbar
-  @media (min-width: $break-md) {
-    margin-left: $nav-width;
-  }
 }
 
 .content-centered {
@@ -36,5 +31,9 @@
     @media (min-width: $break-xl) {
       @include span(4 of 12 at 9);
     }
+  }
+
+  @media (min-width: $break-md) {
+    margin-left: $nav-width;
   }
 }
