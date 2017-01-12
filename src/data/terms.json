@@ -20,19 +20,31 @@
   {
     "name": "Adaptive Management",
     "acronym": null,
-    "description": "Adaptive Management involves exploring alternative ways to meet objectives such as population density; predicting the outcomes of alternatives based on the current state of scientific knowledge; implementing one or more of these alternatives; monitoring to learn about the impacts of management action; and then using the results to update knowledge and adjust management actions.",
+    "description": "Adaptive Management is a process that promotes flexible decision-making that can be adjusted in the face of uncertainties as outcomes from management actions and other events become better understood. Careful monitoring of these outcomes both advances scientific understanding, and helps adjust policies or operations as part of an iterative learning process. Adaptive management also recognizes the importance of natural variability in contributing to ecological resilience and productivity. It is not a ‘trial and error’ process; it emphasizes learning while doing, and adapting based on what’s learned.",
     "related": ["Adaptation"]
+  },
+  {
+    "name": "Base flow",
+    "acronym": null,
+    "description": "The portion of stream flow that is not runoff and results from seepage of water from the ground into a channel slowly over time. This is the primary source of running water in a stream during dry weather.",
+    "related": []
   },
   {
     "name": "Beneficial Use Group",
     "acronym": "BUG",
     "description": "Hundreds of million cubic yards of material are dredged annually from American ports, harbors, and waterways to maintain and improve the nation's navigation system. A Beneficial Use Group is made up of federal, state and private partners who promote the use of this dredged material (e.g., sand, soft clay) in a beneficial manner rather than being disposed of as waste.<br> Dredged material can serve a wide variety of useful purposes, from restoring wetlands and replenishing beaches diminished by erosion, to being included as a component of construction materials.",
-    "related": []
+    "related": ["Beneficial use"]
   },
   {
     "name": "Best available science",
     "acronym": null,
     "description": "To assure the quality of the biological, ecological, and other information used in the implementation of the Act, it is the policy of the Services to: (1) evaluate all scientific and other information used to ensure that it is reliable, credible, and represents the best scientific and commercial data available; (2) gather and impartially evaluate biological, ecological, and other information disputing official positions, decisions, and actions proposed or taken by the Services; (3) document their evaluation of comprehensive, technical information regarding the status and habitat requirements for a species throughout its range, whether it supports or does not support a position being proposed as an official agency position; (4) use primary and original sources of information as the basis for recommendations; (5) retain these sources referenced in the official document as part of the administrative record supporting an action; (6) collect, evaluate, and complete all reviews of biological, ecological, and other relevant information within the schedules established by the Act, appropriate regulations, and applicable policies; and (7) require management-level review of documents developed and drafted by Service biologists to verify and assure the quality of the science used to establish official positions, decisions, and actions taken by the Services during their implementation of the Act.",
+    "related": []
+  },
+  {
+    "name": "Best Management Practices",
+    "acronym": "BMPs",
+    "description": "Include soil and water conservation practices, other management techniques and social actions that are developed for a particular region as effective and practical tools for environmental protection.",
     "related": []
   },
   {
@@ -80,7 +92,7 @@
     "name": "Catadromous",
     "acronym": null,
     "description": "Special category of marine fishes who spend most of their adult lives in fresh water, but return to the sea to spawn.",
-    "related": ["Anadromous Fish"]
+    "related": ["Anadromous fish", "Diadromous fish"]
   },
   {
     "name": "Comprehensive Conservation Plan",
@@ -101,13 +113,22 @@
     "related": ["Compatible use"]
   },
   {
+    "name": "Connectivity",
+    "acronym": null,
+    "description": "Involves the protection, retention and rehabilitation of natural connections among habitats within ecosystems at the landscape level. The goal is interconnected habitat that allows for the movement of wildlife.",
+    "related": ["Wildlife cooridors"]
+  },
+  {
     "name": "Conservation",
     "acronym": null,
-    "description": "To protect and maintain the health of the natural world.<br><br>As defined in the <a href='http://www.fws.gov/endangered/esa-library/pdf/ESAall.pdf'>Endangered Species Act</a>: To use and the use of all methods and procedures which are necessary to bring any endangered species or threatened species to the point at which the measures provided pursuant to the Endangered Species Act",
-    "related": [
-      "conserve",
-      "conserving"
-    ]
+    "description": "To protect and maintain the health of the natural world.<br><br>As defined in the <a href='http://www.fws.gov/endangered/esa-library/pdf/ESAall.pdf'>Endangered Species Act</a>: To use and the use of all methods and procedures which are necessary to bring any endangered species or threatened species to the point at which the measures provided pursuant to the Endangered Species Act.",
+    "related": ["Conservation easement"]
+  },
+  {
+    "name": "Conservation easement",
+    "acronym": null,
+    "description": "Voluntary legal agreements between landowners and a land trust or government agency that limits uses of a piece of land in order to protect its conservation values (e.g., water quality, migration routes). Landowners retain many of their rights, including the right to use the land in other ways, sell it and pass it on to heirs. Each easement is individually tailored to meet conservation objectives and the needs of the landowner. Thus the terms of conservation easements can vary greatly: one could forbid or substantially constrain subdivision and other real estate development, while another might allow continued farming and the building of additional agricultural structures. Conservation easements are almost always permanent, designed to protect natural resources in perpetuity.",
+    "related": ["Conservation"]
   },
   {
     "name": "Controlled burn",
@@ -118,7 +139,7 @@
   {
     "name": "Critical Habitat",
     "acronym": "CH",
-    "description": "Sections of land that scientists identify as having the specific features that a threatened or endangered species needs to survive. We are required to designate critical habitat when listing a species for protection under the Endangered Species Act.<ul><li>Designation of critical habitat primarily affects public lands and government agencies.<ul><li>Critical habitat requires the government agency that is responsible for managing the land to ensure that its actions do not make the land uninhabitable by threatened and endangered species.</li><li>It requires any project funded by federal dollars that would affect the land to consult with the USFWS in order to avoid, reduce or mitigate potential impacts.</li></ul></li><li>Designation does not affect land ownership. It does not establish a refuge, reserve, preserve, or other conservation area on private land. It does not grant access to private land.</li></ul>",
+    "description": "Sections of land that scientists identify as having the specific features that a threatened or endangered species needs to survive. We are required to designate critical habitat when listing a species for protection under the Endangered Species Act.<ul><li>Designation of critical habitat primarily affects <strong>public lands</strong> and <strong>government agencies</strong>.<ul><li>Critical habitat requires the government agency that is responsible for managing the land to ensure that its actions do not make the land uninhabitable by threatened and endangered species.</li><li>It requires any project funded by federal dollars that would affect the land to consult with the USFWS in order to avoid, reduce or mitigate potential impacts.</li></ul></li><li>Designation <strong>does not affect land ownership</strong>. It does not establish a refuge, reserve, preserve, or other conservation area on private land. It does not grant access to private land.</li></ul>",
     "related": ["Endangered Species Act", "Endangered", "Threatened"]
   },
   {
@@ -128,15 +149,27 @@
     "related": ["Downlist", "Endangered Species Act"]
   },
   {
+    "name": "Diadromous fish",
+    "acronym": null,
+    "description": "Fish that spend portions of their life cycles partially in fresh water and partially in salt water. This category covers both anadromous and catadromous fish.",
+    "related": ["Anadromous fish", "Catadromous fish", "Interjurisdictional fish"]
+  },
+  {
     "name": "Distinct Population Segment",
     "acronym": "DPS",
     "description": "A distinct population segment is the smallest division of a vertebrate species (an animal with a backbone) that can be protected under the Endangered Species Act. The intent of a distinct population segment is to conserve genetic resources and maintain natural systems and biodiversity.<br><br>Listing, delisting, or reclassifying DPSs may allow the Services to protect and conserve species and the ecosystems upon which they depend before large-scale decline occurs that would require listing a species or subspecies throughout its entire range.  DPSs can allow protection and recovery of declining organisms in a more timely and less costly manner, and on a smaller scale than the more costly and extensive efforts that might be needed to recover an entire species or subspecies.<br><br>Learn more about distinct population segments from a <a href=\"https://www.federalregister.gov/documents/1996/02/07/96-2639/policy-regarding-the-recognition-of-distinct-vertebrate-population-segments-under-the-endangered\" target=\"_blank\">1996 joint policy</a> between the U.S. Fish and Wildlife Service and the National Marine Fisheries Agency.",
     "related": ["Endangered Species Act", "Endangered Species", "Threatened Species", "Recovery", "Vertebrate"]
   },
   {
+    "name": "Diversion",
+    "acronym": null,
+    "description": "Temporary ridge or excavated channel (or combinations of ridges and channels) constructed to divert water from or around one area to another. River diversions offer a mechanism by which sediment-laden waters can be introduced into basins and bays to build new land that provides a substrate for wetland growth.",
+    "related": ["Delist", "Endangered Species Act"]
+  },
+  {
     "name": "Downlist",
     "acronym": null,
-    "description": "To reduce a federally protected species&rsquo; status from endangered to threatened, or from threatened to recovered.",
+    "description": "To reduce a federally protected species&rsquo; status from endangered to threatened, or from threatened to recovered. Sometimes referred to as &ldquo;reclassified.&rdquo;",
     "related": ["Delist", "Endangered Species Act"]
   },
   {
@@ -144,12 +177,6 @@
     "acronym": null,
     "description": "A legal right to use someone else&rsquo;s land for a particular purpose. For example, the municipal water company may have an easement to run water pipes under your property. With respect to our work, an easement usually reserves private land for conservation purposes. For example, a grassland easement is a legal agreement signed with the United States of America, through the U.S. Fish and Wildlife Service, that pays you to permanently keep your land in grass. Land covered by a grassland easement may not be cultivated, and other actions (mowing, haying, and grass seed harvesting) must be delayed until after July 15 each year. This restriction is to help grassland nesting species, such as ducks and pheasants, complete their nesting before the grass is disturbed.",
     "related": ["Conservation", "Critical Habitat"]
-  },
-  {
-    "name": "Ecosystem",
-    "acronym": null,
-    "description": "No definition, yet.",
-    "related": []
   },
   {
     "name": "Ecosystem services",
@@ -182,7 +209,13 @@
     "name": "Environmental Impact Statement",
     "acronym": "EIS",
     "description": "An analysis of the environmental risks of an action, and of its alternatives, proposed by a federal agency. This type of evaluation is required for all major federal actions under the National Environmental Policy Act of 1968.",
-    "related": ["Environmental Compliance", "NEPA"]
+    "related": ["Environmental compliance", "NEPA"]
+  },
+  {
+    "name": "Eutrophication",
+    "acronym": null,
+    "description": "The enrichment of an ecosystem with chemical nutrients (e.g., compounds containing nitrogen, phosphorus, or both). The process often results in the explosion in the number of algae in a body of water referred to as an algal bloom.  When conditions change and the algae dies and sinks in the water and decompose resulting in the depletion of dissolved oxygen in the water.<br><br>Runoff from agriculture and development, pollution from septic systems and sewers, and other human-related activities can lead to eutrophication.",
+    "related": ["Hypoxia", "Anoxia"]
   },
   {
     "acronym": "FERC",
@@ -191,10 +224,28 @@
     "related": []
   },
   {
+    "name": "Federal trust species",
+    "acronym": null,
+    "description": "Includes threatened and endangered species, migratory birds and fish, and species of conservation concern.",
+    "related": ["Migratory bird", "Threatened species", "Endangered species", "Trust resource"]
+  },
+  {
+    "name": "Fee Acquisition",
+    "acronym": null,
+    "description": "Transaction that transfers full ownership of property, including the underlying title, to another party. A fee acquisition may be a purchase or the result of a donation.",
+    "related": ["Conservation easement"]
+  },
+  {
     "name": "Fish Habitat Partnerships",
     "acronym": null,
     "description": "Collaborative, regional partnerships of government agencies, non-profit organizations, corporations, tribes and individuals that conserve habitat for the benefit of fish species, other wildlife and people. These diverse partners come together to design and implement landscape-scale conservation efforts in support of fish management plans. These groups are formed around important aquatic habitats and distinct geographic areas (e.g., Southeast Aquatic Resources Partnership) &ldquo;keystone&rdquo; fish species (e.g., eastern brook trout), or system types (e.g., large lakes). ",
     "related": []
+  },
+  {
+    "name": "Flagship species",
+    "acronym": null,
+    "description": "An iconic species that provides a focus for raising awareness and action to fund broader conservation efforts. Examples include the whooping crane and the Florida manatee.",
+    "related": ["At-risk species", "Keyston species"]
   },
   {
     "name": "Habitat",
@@ -243,29 +294,16 @@
     "related": ["Carnivore", "Omnivore"]
   },
   {
-    "name": "Incidental Take",
+    "name": "Hypoxia",
     "acronym": null,
-    "description": "No definition, yet.",
-    "related": [
-      "Endangered Species Act",
-      "Take",
-      "Section 7"
-    ]
+    "description": "An environmental phenomenon where the concentration of dissolved oxygen in the water decreases to a level that can no longer support living aquatic organisms. Hypoxia can be caused by a variety of factors, including excess nutrients (primarily nitrogen and phosphorus), and waterbody stratification (layering) due to saline or temperature gradients. With excess nutrients, the problem begins when they overstimulate algal growth. As the algae die, they decompose, and oxygen is consumed in the process. This results in the low levels of oxygen in the water.",
+    "related": ["Eutrophication", "Nutrient load"]
   },
   {
     "name": "Indicator species",
     "acronym": null,
     "description": "Species whose presence, absence or abundance reflect a specific environmental condition. An indicator species can signal a change in the biological condition of a particular ecosystem, and thus may be used as a proxy to diagnose the health of an ecosystem.",
-    "related": ["Keystone Species", "Surrogate Species"]
-  },
-  {
-    "name": "Injurious wildlife",
-    "acronym": null,
-    "description": "No definition, yet.",
-    "related": [
-      "Invasive Species",
-      "Lacey Act"
-    ]
+    "related": ["Keystone species", "Surrogate species", "Flagship species"]
   },
   {
     "name": "Interjurisdictional fish",
@@ -317,9 +355,15 @@
     "acronym": null,
     "description": "The Lacey Act makes it unlawful for any person to import, export, transport, sell, receive, acquire, or purchase any fish or wildlife or plant taken, possessed, transported, or sold in violation of any law, treaty, or regulation of the United States or in violation of any Indian tribal law. This federal law applies to interstate or foreign commerce.<br><br>Under the  &ldquo;injurious wildlife provision&rdquo; of the Lacey Act, a species of wildlife can be listed as injurious because it has been demonstrated to be harmful or have the potential to be harmful to either the health and welfare of humans, the interests of forestry, agriculture, or horticulture, or the welfare and survival of wildlife or the resources that wildlife depend upon. If a species is deemed to be &ldquo;injurious,&rdquo; it may not be transported into or through U.S. territories or states without a special permit from the U.S. Fish and Wildlife Service. This prohibition includes the importation or interstate transport of live animals, their sperm and eggs, and hybrids. Permits may be granted for the importation or transportation of live specimens of injurious wildlife for scientific, medical, educational, or zoological purposes.<br><br>The Lacey Act does not restrict intrastate (within state) transport.",
     "related": [
-      "Injurious Wildlife",
-      "Invasive Species"
+      "Injurious wildlife",
+      "Invasive species"
     ]
+  },
+  {
+    "name": "Landcover",
+    "acronym": null,
+    "description": "The vegetation (natural or planted) or man-made constructions (buildings, etc.) which occur on the earth surface. Water, ice, bare rock, sand, asphalt and similar surfaces also count as land cover.",
+    "related": []
   },
   {
     "acronym": "LCCs",
@@ -328,10 +372,22 @@
     "related": []
   },
   {
+    "name": "Landscape Conservation Design",
+    "acronym": "LCD",
+    "description": "Involves combining geospatial data with biological information and models to create tools (e.g., maps) that evaluate the potential of every acre of habitat of a landscape to support a species’ population. Using these tools, one can determine what the current habitat-acre capability of the landscape is — and what it needs to be – to achieve specific biological objectives or outcomes.",
+    "related": ["Landscape Conservation Cooperatives"]
+  },
+  {
     "name": "Land Protection Plan",
     "acronym": "LPP",
     "description": "A document that guide the establishment of new refuges or the expansion of existing refuges. It describes resource protection needs and a proposed refuge boundary, and identifies priority lands that may be acquired from willing sellers. It also describes other conservation opportunities including easements and cooperative management agreements with willing landowners.",
     "related": []
+  },
+  {
+    "name": "Living Shorline",
+    "acronym": null,
+    "description": "A number of shoreline protection options that are meant to retain much of the protection of hard structures (e.g., bulkheads, revetment and concrete seawalls) while retaining some of the features of natural shorelines.<br><br>Living shorelines allow for natural coastal processes to remain through the strategic placement of plants, stone, sand fill, coir fiber logs, oyster reefs and other structural and organic materials. Options also include hybrids of traditional shoreline armoring and softer, more natural stabilization techniques. Living shorelines not only can reduce wave energy, but also trap sediment, filter runoff and maintain (or increase) habitat for aquatic and terrestrial species.",
+    "related": ["Beneficial Use", "Restoration"]
   },
   {
     "name": "Listed Species",
@@ -381,6 +437,24 @@
     ]
   },
   {
+    "acronym": "NEPs",
+    "name": "National Estuary Programs",
+    "description": "Non-regulatory programs established by Congress in 1987 under the auspices of the Environmental Protection Agency that bring together citizens, scientists, businesses and government entities to develop and implement science-based action plans that enhance estuaries as  vital environmental and economic resources benefiting local communities and the entire nation.",
+    "related": []
+  },
+  {
+    "acronym": "NRDA",
+    "name": "Natural Resource Damage Assessment",
+    "description": "The process that federal, state and tribal governments use in their role as “trustees” to determine the injury that an oil spill has caused to natural resources.",
+    "related": ["Natural Resource Damage Assessment and Restoration"]
+  },
+  {
+    "acronym": "NRDAR",
+    "name": "Natural Resource Damage Assessment and Restoration",
+    "description": " A process that adds restoration planning to the process that federal, state and tribal governments use in their role as “trustees” to determine the injury that an oil spill has caused to natural resources (NRDAO). The goal of the NRDA/NRDAR processes is to develop an injury assessment-based claim that supports restoration which will return injured natural resources to the condition they would have been in had the oil spill not occurred.",
+    "related": ["Natural Resource Damage Assessment", "Restoration"]
+  },
+  {
     "name": "Natural Resource",
     "acronym": null,
     "description": "Natural resources are useful raw materials that we get from nature such as air, water, iron, coal, oil, wind energy, plants and animals. Humans cannot make natural resources, but we use and modify natural resources in ways that are beneficial to us.",
@@ -391,10 +465,21 @@
   {
     "name": "North American Waterfowl Management Plan",
     "acronym": "NAWMP",
-    "description": "NAWMP was signed in May 1986 by the United States and Canada, and by Mexico in 1994. The plan recognized the continuing declines in waterfowl populations, and that a unified effort is required to combat the loss of this valuable natural resource. NAWMP is a broad policy framework to restore waterfowl populations on the continent through habitat protection, restoration and enhancement. The plan&rsquo;s scope is international, but its implementation occurs at the regional level. Its success depends on regional partnerships called Migratory Bird Joint Ventures.",
+    "description": "NAWMP is a broad policy framework to restore waterfowl populations on the continent through habitat protection, restoration and enhancement. The plan&rsquo;s scope is international, but its implementation occurs at the regional level. Its success depends on regional partnerships called Migratory Bird Joint Ventures.<br><br>NAWMP was signed in May 1986 by the United States and Canada, and by Mexico in 1994. The plan recognized the continuing declines in waterfowl populations, and that a unified effort is required to combat the loss of this valuable natural resource.",
     "related": [
-      "conservation",
+      "Conservation",
       "Migratory Bird Joint Venture"
+    ]
+  },
+  {
+    "name": "Nutrient load",
+    "acronym": null,
+    "description": "The amount of nutrients such as nitrogen and phosphorus reaching a body of water as a result of various natural, agricultural, industrial, and urban activities.",
+    "related": [
+      "Hypoxia",
+      "Eutrophication",
+      "Point source",
+      "Non-point source"
     ]
   },
   {
@@ -402,8 +487,17 @@
     "acronym": null,
     "description": "An animal that feeds on both plant sources, such as nuts, berries, seeds and leaves, as well as other animals.",
     "related": [
-      "carnivore",
-      "herbivore"
+      "Carnivore",
+      "Herbivore"
+    ]
+  },
+  {
+    "name": "Oxygen depletion",
+    "acronym": null,
+    "description": "See &ldquo;hypoxia&rdquo;.",
+    "related": [
+      "Hypoxia",
+      "Eutrophication"
     ]
   },
   {
@@ -416,7 +510,7 @@
     "name": "Prescribed fire",
     "acronym": null,
     "description": "A fire that is intentionally set under controlled conditions to achieve specific management objectives such as the suppression of invasive plant species, or to reduce dangerously overgrown vegetation that could lead to a devastating wildfire that could threaten people, fish, wildlife and plants.",
-    "related": []
+    "related": ["Controllled burn"]
   },
   {
     "name": "Proposed Species",
@@ -426,24 +520,6 @@
       "Endangered Species Act",
       "At-Risk Species"
     ]
-  },
-  {
-    "name": "Public Hearing",
-    "acronym": null,
-    "description": "No definition, yet.",
-    "related": []
-  },
-  {
-    "name": "Public Meeting",
-    "acronym": null,
-    "description": "No definition, yet.",
-    "related": []
-  },
-  {
-    "name": "Range",
-    "acronym": null,
-    "description": "No definition, yet.",
-    "related": []
   },
   {
     "name": "Recovery",
@@ -459,19 +535,19 @@
     "name": "Recovery plan",
     "acronym": null,
     "description": "A  \"road map\" drafted by the Service, NOAA Fisheries, or other knowledgeable individuals or groups that serve as a guide for activities to be undertaken to recover and conserve endangered or threatened species. A recovery plan includes a description of the needed management actions; objective, measurable criteria which when met would lead to the species being removed from Federal protection; and an estimate of the time required and cost to carry out those measures. Recovery plans may include brief discussions of the species&rsquo; biology, life history and threats to it.",
-    "related": ["recovery", "recovery team", "Endangered Species Act"]
+    "related": ["Recovery", "Recovery team", "Endangered Species Act"]
   },
   {
     "name": "Recovery team",
     "acronym": null,
     "description": "A  group of people appointed by the lead Service Regional Director or NOAA Assistant Administrator to guide the recovery of a listed species through such actions as developing a recovery plan or providing guidance on recovery implementation. Members of the recovery team generally include species experts from the Service, NOAA, state governments, conservation organizations and the private sector, as well as stakeholders.",
-    "related": ["recovery", "recovery plan", "Endangered Species Act"]
+    "related": ["Recovery", "Recovery plan", "Endangered Species Act"]
   },
   {
-    "name": "Restoration",
-    "acronym": null,
-    "description": "No definition, yet.",
-    "related": []
+    "name": "Southeastern Conservation Adaptation Strategy",
+    "acronym": "SECAS",
+    "description": "A regional, multi-partner initiative led by members of the Southeastern Association of Fish and Wildlife Agencies, supported by federal leaders in the Southeast Natural Resources Leadership Group, and developed through partners comprising the southeastern network of Landscape Conservation Cooperatives (South Atlantic, Peninsular Florida, Appalachians, Gulf Coastal Plains & Ozarks, Caribbean and Gulf Coast Prairies LCCs). These existing forums bring together landowners, businesses, and governmental and conservation organizations to collectively develop and implement a compelling conservation strategy for each Landscape Conservation Cooperative region. The goal of SECAS is to collaboratively define the conservation landscape of the Southeast United States of the future.",
+    "related": ["Landscape Conservation Cooperative", "Conservation"]
   },
   {
     "name": "Species",
@@ -480,31 +556,28 @@
     "related": ["Carnivore", "Omnivore", "Herbivore", "At-risk species", "Endangered", "Threatened"]
   },
   {
-    "name": "Strategic Habitat Conservation",
-    "acronym": "SHC",
-    "description": "No definition, yet.",
-    "related": []
+    "name": "Species of Greatest Conservation Need",
+    "acronym": null,
+    "description": "A category identified in state Wildlife Action Plans that includes animal species whose populations are rare, declining or vulnerable. This set is dynamic and can change over time as new information becomes available or the status of a species changes.",
+    "related": ["At-risk species", "Endangered species", "Threatened species"]
+  },
+  {
+    "name": "State Wildlife Action Plan",
+    "acronym": "SWAP",
+    "description": "Technically known as “comprehensive wildlife conservation strategy,” a plan that guides proactive conservation planning in each state by assessing the health of wildlife and habitats, identifying problems they face, and outlining actions needed to conserve them long-term. In order to receive funds through the Wildlife Conservation and Restoration Program and the State Wildlife Grants Program, a state must develop a SWAP.",
+    "related": ["Conservation"]
   },
   {
     "name": "Surrogate species",
     "acronym": null,
     "description": "Surrogate species are species that can be used as proxies to represent a broader set of species to support conservation or management strategies when the objective is to provide appropriate ecological conditions for the full set of species characteristic of a defined landscape or geographic area.",
-    "related": ["Strategic Habitat Conservation"]
-  },
-  {
-    "name": "Take",
-    "acronym": null,
-    "description": "To kill or otherwise hurt an endangered or threatened animal or plant.<br><br>As defined in the Endangered Species Act: to harass, harm, pursue, hunt, shoot, wound, kill, trap, capture, or collect, or to attempt to engage in any such conduct, with an endangered or threatened species.",
-    "related": [
-      "Endangered Species Act",
-      "Harass"
-    ]
+    "related": ["Strategic Habitat Conservation", "Keyston species", "Flagship species"]
   },
   {
     "name": "Trust resources",
     "acronym": null,
     "description": "Includes migratory birds, species listed as threatened and endangered under the Endangered Species Act, interjurisdictional fishes, marine mammals, wetlands, and lands managed by the U.S. Fish and Wildlife Service, such as national wildlife refuges.",
-    "related": []
+    "related": ["Federal trust species"]
   },
   {
     "name": "Threatened Species",
@@ -531,5 +604,11 @@
     "related": [
       "Species"
     ]
+  },
+  {
+    "name": "Wildlife cooridor",
+    "acronym": null,
+    "description": "Tract of land or habitat that provides linkages which allow wildlife to travel from one location to another to find food, shelter, a mate and/or a place to raise their young. They are especially important because they ensure genetic exchange between wildlife populations.",
+    "related": ["Connectivity"]
   }
 ]
