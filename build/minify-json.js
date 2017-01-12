@@ -22,7 +22,7 @@
         .on('change', minifyJson)
         .on('unlink', removeJson)
     } else {
-      rimraf(dist + '*', function() {
+      rimraf(dist + '*.js', function() {
         glob(jsonSrc, function (err, files) {
           if (err) console.error(err);
           files.forEach(minifyJson);
