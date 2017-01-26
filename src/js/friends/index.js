@@ -31,7 +31,7 @@
 
   function search(e) {
     const query = e.target.value;
-    const regex = new RegExp(q, 'gi');
+    const regex = new RegExp(query, 'gi');
     let matches;
 
     if (query.length === 0) {
