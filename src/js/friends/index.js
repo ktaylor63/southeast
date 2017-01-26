@@ -1,42 +1,49 @@
 (function () {
   'use strict';
 
-  var fs = require('fs');
-  var filter = require('lodash.filter');
+  const fs = require('fs');
 
-  var data = JSON.parse(fs.readFileSync(__dirname + '/friends.js', 'utf8'));
-  var templates = {
-    results: require('./results.jade'),
-    noResults: require('./noResults.jade')
+  const xhr = require('xhr');
+
+  const templates = {
+    results: require('./results.pug'),
+    noResults: require('./noResults.pug')
   };
 
-  var list = document.querySelector('.friends-group-list');
-  var input = document.querySelector('.friends-search');
-  var totalGroups = document.querySelector('.total-groups');
-  var totalRefuges = document.querySelector('.total-refuges');
-  var totalHatcheries = document.querySelector('.total-hatcheries');
+  const list = document.querySelector('.friends-group-list');
+  const input = document.querySelector('.friends-search');
+  const totalGroups = document.querySelector('.total-groups');
+  const totalRefuges = document.querySelector('.total-refuges');
+  const totalHatcheries = document.querySelector('.total-hatcheries');
+  const baseUrl = document.body.getAttribute('data-root');
+  let data;
 
-  render(data);
-  totalGroups.innerHTML = data.length;
-  totalRefuges.innerHTML = updateCount(data, 'refuge');
-  totalHatcheries.innerHTML = updateCount(data, 'hatchery');
+  xhr.get(`${baseUrl}data/friends-groups.js`, (err, res, body) => {
 
-  input.addEventListener('keyup', search);
+    data = JSON.parse(body);
+    render(data);
+    totalGroups.innerHTML = data.length;
+    totalRefuges.innerHTML = updateCount(data, 'refuge');
+    totalHatcheries.innerHTML = updateCount(data, 'hatchery');
+
+    input.addEventListener('keyup', search);
+  });
 
   function search(e) {
-    var query = e.target.value.toLowerCase(),
-        matches;
+    const query = e.target.value;
+    const regex = new RegExp(q, 'gi');
+    let matches;
 
     if (query.length === 0) {
       render(data);
       return;
     }
 
-    matches = filter(data, function (group) {
-      var isName = group.name.toLowerCase().indexOf(query) > -1;
-      var isSupported = group.stations_supported.toLowerCase().indexOf(query) > -1;
-      var isCity = group.city.toLowerCase().indexOf(query) > -1;
-      var isState = group.state.toLowerCase().indexOf(query) > -1;
+    matches = data.filter(group => {
+      const isName = regex.test(group.name);
+      const isSupported = regex.test(group.stations_supported);
+      const isCity = regex.test(group.city);
+      const isState = regex.test(group.state);
       return (isName || isSupported || isCity || isState);
     });
 
@@ -49,10 +56,7 @@
   }
 
   function updateCount(data, type) {
-    var groups = filter(data, function (group) {
-      return group.station_type === type;
-    });
-    return groups.length;
+    return data.filter(group => group.station_type === type).length;
   }
 
 })();
