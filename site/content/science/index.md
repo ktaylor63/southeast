@@ -12,7 +12,7 @@ hero:
     caption: 'Service biologist Sue Cameron searches for birds. Photo by Gary Peeples, USFWS.'
 tags:
     - Science
-updated: 'November 2nd, 2016'
+updated: 'January 26th, 2017'
 ---
 
 Employees within the U.S. Fish and Wildlife Service use science on a daily basis as the foundation for carrying out our mission.
@@ -27,7 +27,7 @@ Science-based natural resource conservation requires that our employees have tim
 
 [Learn about our national science policy](https://www.fws.gov/science/).
 
-{{< figure class="photo-center" src="/images/pages/botanist-taking-measurements-in-the-field.jpg" alt="A botanist taking measurements in the field." caption="A biologist counts plans in North Carolina. Photo by Gary Peeples, USFWS." link="https://flic.kr/p/uB8wWF" >}}
+{{< figure class="photo-center" src="/images/pages/botanist-taking-measurements-in-the-field.jpg" alt="A botanist taking measurements in the field." caption="A biologist counts plants in North Carolina. Photo by Gary Peeples, USFWS." link="https://flic.kr/p/uB8wWF" >}}
 
 ## Science-based Projects
 
