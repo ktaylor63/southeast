@@ -1,0 +1,771 @@
+state,type,station,name,email,phone,title
+Alabama,Refuge,Bon Secour National Wildlife Refuge,Denise Mcinturff,denise_mcinturff@fws.gov,251-540-7720,Park Ranger
+Alabama,Refuge,Bon Secour National Wildlife Refuge,Brittany Petersen,brittany_petersen@fws.gov,251-540-8524,Assistant Refuge Manager
+Alabama,Refuge,Bon Secour National Wildlife Refuge,Jackie Sablan,jacqueline_sablan@fws.gov,251-540-8523,Wildlife Biologist
+Alabama,Refuge,Bon Secour National Wildlife Refuge,Alyssa Getz,alyssa_getz@fws.gov,251-540-7720,Intern
+Alabama,Refuge,Eufaula National Wildlife Refuge,John Earle,john_earle@fws.gov,334-687-4065,Refuge Manager
+Alabama,Refuge,Eufaula National Wildlife Refuge,Milton Hubbard,milton_hubbard@fws.gov,334-687-4065,Wildlife Biologist
+Alabama,Refuge,Eufaula National Wildlife Refuge,Lorri Johnson,lorri_johnson@fws.gov,334-687-4065,Administrative Assistant
+Alabama,Refuge,Eufaula National Wildlife Refuge,Cyndi Hall,cynthia_n_hall@fws.gov,334-687-4065,Environmental Education Specialist
+Alabama,Refuge,Eufaula National Wildlife Refuge,Richard Johnson,richard_johnson@fws.gov,334-687-4065,Engineering Equipment Operator
+Alabama,Refuge,Mountain Longleaf National Wildlife Refuge,Keith Westlake,donald_westlake@fws.gov,256-848-6833,Refuge Manager
+Alabama,Refuge,Wheeler National Willdife Refuge,Ricky Ingram,ricky_ingram@fws.gov,256-353-7243,Project Leader
+Alabama,Refuge,Wheeler National Willdife Refuge,Emery Hoyle,emery_hoyle@fws.gov,256-353-7243,Deputy Project Leader
+Alabama,Refuge,Wheeler National Willdife Refuge,Chris Lewzader,christopher_lewzader@fws.gov,256-353-7243,Biological Technician
+Alabama,Refuge,Wheeler National Willdife Refuge,Bill Gates,william_gates@fws.gov,256-353-7243,Wildlife Biologist
+Alabama,Refuge,Wheeler National Willdife Refuge,Jason Vehrs,jason_vehrs@fws.gov,256-353-7243,Senior Federal Wildlife Officer
+Alabama,Refuge,Wheeler National Willdife Refuge,Darrin Speegle,darrin_speegle@fws.gov,256-353-7243,Senior Federal Wildlife Officer
+Alabama,Refuge,Wheeler National Willdife Refuge,Rhonda Lee,rhonda_lee@fws.gov,256-353-7243,Administrative Officer
+Alabama,Refuge,Wheeler National Willdife Refuge,Rob Hurt,rob_hurt@fws.gov,256-353-7243,Fish and Wildlife Biologist
+Alabama,Refuge,Wheeler National Willdife Refuge,Charles Morgan,charles_morgan@fws.gov,256-353-7243,Engineering Equipment Operator
+Alabama,Refuge,Wheeler National Willdife Refuge,Dale Payne,dale_payne@fws.gov,256-353-7243,Maintenance Worker
+Alabama,Refuge,Wheeler National Willdife Refuge,Greg Scott,gregory_scott@fws.gov,256-353-7243,Engineering Equipment Operator
+Alabama,Refuge,Wheeler National Willdife Refuge,Teresa Adams,teresa_adams@fws.gov,256-350-6639,Supervisory Park Ranger
+Alabama,Refuge,Wheeler National Willdife Refuge,Daphne Moland,daphne_moland@fws.gov,256-350-6639,Park Ranger
+Alabama,Refuge,Wheeler National Willdife Refuge,David McCaghren,david_mccaghren@fws.gov,256-353-7243,Regional Heavy Equipment Training Instructor
+Alabama,Field Office,Alabama Ecological Services Field Office,Andy Ford,anthony_ford@fws.gov,251-441-5838,"Fisheries Biologist - Aquatic species ESA consultation/listing/recovery, spill/contamination issues, hydropower projects, SHU technical team"
+Alabama,Field Office,Alabama Ecological Services Field Office,Bill Lynn,william_lynn@fws.gov,251-441-5868,"Fish and Wildlife Biologist - Endangered Species Act permitting, consultation"
+Alabama,Field Office,Alabama Ecological Services Field Office,Bill Pearson,bill_pearson@fws.gov,251-441-5181,Field Supervisor
+Alabama,Field Office,Alabama Ecological Services Field Office,Bruce Porter,bruce_porter@fws.gov,251-441-5864,Fish and Wildlife Biologist - Transportation liaison
+Alabama,Field Office,Alabama Ecological Services Field Office,Denise Rowell,denise_rowell@fws.gov,251-441-6630,Public outreach & Media relations
+Alabama,Field Office,Alabama Ecological Services Field Office,Dianne Ingram,dianne_ingram@fws.gov,251-441-5839,"Fish and Wildlife Biologist - ESA consultations, sea turtles, manatee, piping plover, red knot recovery: Migratory Bird Treaty Act, wind energy"
+Alabama,Field Office,Alabama Ecological Services Field Office,Drew Rollman,drew_rollman@fws.gov,251-441-5866,Cartographer 
+Alabama,Field Office,Alabama Ecological Services Field Office,Evan Collins,evan_collins@fws.gov,251-441-5837,"Fish and Wildlife Biologist - consultations, aquatic species recovery"
+Alabama,Field Office,Alabama Ecological Services Field Office,Eric Spadgenske,eric_spadgenske@fws.gov,251-441-5872,Partners for Fish and Wildlife State Coordinator
+Alabama,Field Office,Alabama Ecological Services Field Office,Jeff Powell,jeff_powell@fws.gov,251-441-5858,Deputy Field Supervisor
+Alabama,Field Office,Alabama Ecological Services Field Office,Jennifer Grunewald,jennifer_grunewald@fws.gov,251-441-6633,"Fish and Wildlife Biologist - Aquatic species ESA consultation/listing/recovery, listing liaison, hydropower projects, SHU technical team"
+Alabama,Field Office,Alabama Ecological Services Field Office,Josh Rowell,josh_rowell@fws.gov,251-441-5836,"Fish and Wildlife Biologist - ESA consultations, mitigation banking and gopher tortoise"
+Alabama,Field Office,Alabama Ecological Services Field Office,Matt Laschet,matthias_laschet,251-441-5842,Fish and Wildlife Biologist - ESA permitting and consultation
+Alabama,Field Office,Alabama Ecological Services Field Office,Shannon Holbrook,shannon_holbrook@fws.gov,251-441-5171,"Fish and Wildlife Biologist - grants, forest service, endangered bats and plants"
+Alabama,Field Office,Alabama Ecological Services Field Office,Sonya Johnson,sonya_johnson@fws.gov,251-441-5184,Administrative assistant
+Alabama,Field Office,Alabama Ecological Services Field Office,Tim Mullet,tim_mullet@fws.gov,251-441-5181,"Wildlife Biologist - landscape ecologist, Science liaison"
+Alabama,Field Office,Alabama Ecological Services Field Office,Vanessa Scott,vanessa_scott@fws.gov,251-441-5865,Administrative officer
+Alabama,Field Office,Alabama Ecological Services Field Office - Decature Sub-Office,Lee Holt,roger_holt@fws.gov,256-353-7243 ext. 28,Fish and Wildlife Biologist - Partners for Fish and Wildlife
+Alabama,Field Office,Northern Gulf Coastal Program,Patric Harper,,228-475-0765 ext. 105,"Fish and Wildlife Biologist - Northern Gulf Coastal Program Coordintor, AL restoration biologist for the Gulf Restoration Program"
+Alabama,Field Office,Migratory Bird Program Field Office,Karen Frizzel,karen_frizzel@fws.gov,334-844-4796,Office Assistant
+Arkansas,Refuge,Bald Knob National Wildlife Refuge,Paul Provence,paul_provence@fws.gov,501-724-2458,Refuge Manager
+Arkansas,Refuge,Big Lake National Wildlife Refuge,Steven Rimer,steven_rimer@fws.gov,870-564-2429,Refuge Manager
+Arkansas,Refuge,Cache River National Wildlife Refuge,Jonathan Windley,jonathan_windley@fws.gov,870-347-2614,Deputy Project Leader
+Arkansas,Refuge,Cache River National Wildlife Refuge,Keith Weaver,keith_weaver@fws.gov,870-347-2074 ext. 207,Project Leader
+Arkansas,Refuge,Cache River National Wildlife Refuge,Jeremy Nguyen,jeremy_nguyen@fws.gov,870-347-2614,Federal Wildlife Officer
+Arkansas,Refuge,Felsenthal National Wildlife Refuge,Amanda Wilkinson,amanda_wilkinson@fws.gov,870-364-1170,Park Ranger
+Arkansas,Refuge,Holla Bend National Wildlife Refuge,Robert Alexander,robert_alexander@fws.gov,479-229-4300,Refuge Manager
+Arkansas,Refuge,Wapanocca National Wildlife Refuge,Jared Nance,jared_nance@fws.gov,870-343-2595,Refuge Manager
+Arkansas,Refuge,Dale Bumpers White River National Wildlife Refuge,Bo Sloan,charles_sloan@fws.gov,870-282-8205,Refuge Manager
+Arkansas,Refuge,Dale Bumpers White River National Wildlife Refuge,Arthur Hitchcock,arthur_hitchcock@fws.gov,870-282-8246,Refuge Biologist
+Arkansas,Refuge,Dale Bumpers White River National Wildlife Refuge,Jason Roesner,jason_roesner@fws.gov,870-282-8200,Deputy Project Leader
+Arkansas,Field Office,Arkansas Ecological Services Field Office,Melvin Tobin,melvin_tobin@fws.gov,501-513-4475,Field Supervisor
+Arkansas,Field Office,Arkansas Ecological Services Field Office,Chris Davidson,chris_davidson@fws.gov,501-513-4481,Deputy Field Supervisor
+Arkansas,Field Office,Arkansas Ecological Services Field Office,Becky Hays,becky_hays@fws.gov,501-513-4478,Administrative Officer
+Arkansas,Field Office,Arkansas Ecological Services Field Office,Peggy Shackleton,peggy_shackleton@fws.gov,501-513-4470,Office Automation Clerk
+Arkansas,Field Office,Arkansas Ecological Services Field Office,Jim Besley,jim_besley@fws.gov,501-513-4476,GIS/IT Specialist
+Arkansas,Field Office,Arkansas Ecological Services Field Office,Lindsey Lewis,lindsey_lewis@fws.gov,501-513-4489,Highway Biologist
+Arkansas,Field Office,Arkansas Ecological Services Field Office,Jason Phillips,jason_phillips@fws.gov,870-347-1617,Biologist
+Arkansas,Field Office,Arkansas Ecological Services Field Office,Melissa Lombardi,melissa_lombardi@fws.gov,501-513-4488,Endangered Species Biologist
+Arkansas,Field Office,Arkansas Ecological Services Field Office,Tommy Inebnit,thomas_inebnit@fws.gov,501-513-4483,Alternative Energy Biologist
+Arkansas,Field Office,Arkansas Ecological Services Field Office,Joe Krystofik,joe_krystofik@fws.gov,501-513-4479,Partners Coordinator
+Arkansas,Field Office,Arkansas Ecological Services Field Office,Jonathan Baxter,jonathan_baxter@fws.gov,501-513-4477,Partners Biologist
+Arkansas,Field Office,Arkansas Ecological Services Field Office,Mitch Wine,mitch_wine@fws.gov,870-269-3228,Karst Biologist
+Arkansas,Field Office,Arkansas Ecological Services Field Office,Alyssa Bangs,alyssa_bangs@fws.gov,501-513-4472,Biologist
+Arkansas,Hatchery,Greers Ferry National Fish Hatchery,Sherri Shoults,sherri_shoults@fws.gov,501-362-3615,Project Leader
+Arkansas,Hatchery,Greers Ferry National Fish Hatchery,Eric Thompson,eric_thompson@fws.gov,501-362-3615,Deputy Project Leader
+Arkansas,Hatchery,Greers Ferry National Fish Hatchery,Greg McCormick,james_mccormick@fws.gov,501-362-3616,Fish Biologist
+Arkansas,Hatchery,Greers Ferry National Fish Hatchery,Daniel Davis,daniel_davis@fws.gov,501-362-3615,Biological Technician
+Arkansas,Hatchery,Greers Ferry National Fish Hatchery,James Pomraning,james_pomraning@fws.gov,501-362-3615,Maintenance Worker
+Arkansas,Hatchery,Greers Ferry National Fish Hatchery,Tony Ring,james_ring@fws.gov,501-362-3616,Maintenance Worker
+Arkansas,Hatchery,Mammoth Spring National Fish Hatchery,Richard Shelton,richard_shelton@fws.gov,870-625-3912,Hatchery Manager
+Arkansas,Hatchery,Mammoth Spring National Fish Hatchery,Sara Seagraves,sara_seagraves@fws.gov,870-625-3912,Education and Outreach Biologist
+Arkansas,Hatchery,Norfork National Fish Hatchery,Jon Casey,jon_casey@fws.gov,870-499-5255,Project Leader
+Arkansas,Hatchery,Norfork National Fish Hatchery,Thomas (Trey) Anderson,thomas_anderson@fws.gov,870-499-5255,Fish Biologist
+Arkansas,Hatchery,Norfork National Fish Hatchery,John Lewis,john_lewis@fws.gov,870-499-5255,Fish Biologist
+Arkansas,Hatchery,Norfork National Fish Hatchery,Mike Morris,michael_morris@fws.gov,870-499-5255,Animal Caretaker
+Arkansas,Hatchery,Norfork National Fish Hatchery,Wanda Pohlman,wanda_pohlman@fws.gov,870-499-5255,Administration Officer
+Arkansas,Hatchery,Norfork National Fish Hatchery,Donald Beard,donald_beard@fws.gov,870-499-5255,Maintenance Worker
+Arkansas,Hatchery,Norfork National Fish Hatchery,Brad Marler,brad_marler@fws.gov,870-499-5255,Motor Vehicle Operator
+Arkansas,Refuge,Central Arkansas NWR Complex,Keith Weaver,keith_weaver@fws.gov,870-347-2614 ext.207,Project Leader
+Arkansas,Refuge,Central Arkansas NWR Complex,Jonathan Windley,jonathan_windley@fws.gov,870-347-2614 ext.204,Deputy Project Leader
+Arkansas,Refuge,Central Arkansas NWR Complex,Eric Johnson,eric_johnson@fws.gov,870-347-2614 ext.203,Forester
+Arkansas,Refuge,Central Arkansas NWR Complex,Jeremy Nguyen,jeremy_nguyen@fws.gov,870-347-2614 ext.208,Federal Wildlife Officer
+Arkansas,Refuge,Central Arkansas NWR Complex,Elizabeth Smith,elizabeth_smith@fws.gov,870-347-2614 ext.202,Administrative Officer
+Arkansas,Refuge,Central Arkansas NWR Complex,Billy Cullbreath,billy_cullbreath@fws.gov,870-347-2614 ext.214,Engineering Equipment Operator
+Arkansas,Refuge,Central Arkansas NWR Complex,John Carter,john_carter@fws.gov,870-347-2614 ext.214,Engineering Equipment Operator
+Arkansas,Refuge,Central Arkansas NWR Complex,Richard Crossett,richard_crossett@fws.gov,870-347-2614 ext.205,Wildlife Biologist
+Arkansas,Refuge,Big Lake NWR,Steven Rimer,steven_rimer@fws.gov,870-564-2429,Refuge Manager
+Arkansas,Refuge,Big Lake NWR,Glen French,glen_french@fws.gov,870-564-2429,Engineering Equipment Operator
+Arkansas,Refuge,Bald Knob NWR,Jonathan Garrison,jonathan_garrison@fws.gov,501-724-2458,Biological Science Technician
+Arkansas,Refuge,Bald Knob NWR,Brandon Keiffer,brandon_keiffer@fws.gov,501-724-2458,Federal Wildlife Officer
+Arkansas,Refuge,Bald Knob NWR,Christoper Pearrow,christopher_pearrow@fws.gov,501-724-2458,Engineering Equipment Operator
+Arkansas,Refuge,Holla Bend NWR,Paul Province,paul_provence@fws.gov,479-229-4300,Refuge Manager
+Arkansas,Refuge,Holla Bend NWR,Carla Mitchell,carla_mitchell@fws.gov,479-229-4300,Deputy Refuge Manager
+Arkansas,Refuge,Holla Bend NWR,Theresa Berry,theresa_berry@fws.gov,479-229-4300,Administrative Officer
+Arkansas,Refuge,Wapanocca NWR,Nance Jared,nance_jared@fws.gov,870-343-2595,Wildlife Refuge Specialist
+Arkansas,Refuge,Wapanocca NWR,Ed Lovrien,ed_lovrien@fws.gov,,Engineering Equipment Operator
+Arkansas,Refuge,South Arkansas NWR Complex,Michael Stroeh,michael_stroeh@fws.gov,870-364-3167,Project Leader
+Arkansas,Refuge,South Arkansas NWR Complex,William Whited,william_whited@fws.gov,870-364-3167,Deputy Project Leader
+Arkansas,Refuge,South Arkansas NWR Complex,William Burchfield,william_birchfield@fws.gov,870-364-3167,Forester
+Arkansas,Refuge,South Arkansas NWR Complex,Amanda Wilkinson,amanda_wilkinson@fws.gov,870-364-3167,Park Ranger/Interpretive
+Arkansas,Refuge,South Arkansas NWR Complex,Nick Wirwa,nick_wirwa@fws.gov,870-364-3167,Wildlife Biologist
+Arkansas,Refuge,South Arkansas NWR Complex,Lance Smith ,lance_smith@fws.gov,870-364-3167,Federal Wildlife Officer
+Arkansas,Refuge,South Arkansas NWR Complex,James Harrington,james_harrington@fws.gov,870-364-3167,Engineering Equipment Operator
+Arkansas,Refuge,South Arkansas NWR Complex,Greg Hayes,greg_hayes@fws.gov,870-364-3167,Forestry Technician
+Arkansas,Refuge,South Arkansas NWR Complex,Charlie Marshall,charlie_marshall@fws.gov,870-364-3167,Engineering Equipment Operator
+Arkansas,Refuge,South Arkansas NWR Complex,Karen Graves,karen_graves@fws.gov,870-364-3167,Budget Analyst
+Arkansas,Refuge,Pond Creek NWR,Paul Gideon,paul_gideon@fws.gov,870-289-2126,Refuge Manager
+Arkansas,Refuge,Overflow NWR,Ray Woods,ray_woods@fws.gov,870-473-2869,Engineering Equipment Operator
+Arkansas,Refuge,Dale Bumpers White River NWR,"Charles ""Bo"" Sloan",bo_sloan@fws.gov,870-282-8200,Project Leader
+Arkansas,Refuge,Dale Bumpers White River NWR,Jason Roesner,jason_roesner@fws.gov,870-282-8200,Deputy Project Leader
+Arkansas,Refuge,Dale Bumpers White River NWR,Howard Wesley,howard_wesley@fws.gov,870-282-8200,Forester 
+Arkansas,Refuge,Dale Bumpers White River NWR,Author Hitchcock,author_hitchcock@fws.gov,870-282-8200,Wildlife Biologist
+Arkansas,Refuge,Dale Bumpers White River NWR,Richard Gray,richard_gray@fws.gov,870-282-8200,Federal Wildlife Officer
+Arkansas,Refuge,Dale Bumpers White River NWR,Travis Singleton,travis_singleton@fws.gov,870-282-8200,Engineering Equipment Operator
+Arkansas,Refuge,Dale Bumpers White River NWR,Brad Poen,brad_poen@fws.gov,870-282-8200,Federal Wildlife Officer
+Arkansas,Refuge,Dale Bumpers White River NWR,Holly Bounds,holly_bounds@fws.gov,870-282-8200,Administrative Officer
+Arkansas,Refuge,Dale Bumpers White River NWR,"James""Brian"" Robert",james_robert@fws.gov,870-282-8200,Engineering Equipment Operator
+Arkansas,Refuge,Dale Bumpers White River NWR,Edward Simmons,edward_simmons@fws.gov,870-282-8200,Engineering Equipment Operator
+Arkansas,Refuge,Dale Bumpers White River NWR,Collin Horton,collin_horton@fws.gov,870-282-8200,Forester
+Florida,Field Office,Panama City Ecological Services/Fish & Wildlife Conservation Office,Dr. Catherine Phillips,catherine_phillips@fws.gov,850-769-0552 ext. 242,Field Supervisor
+Florida,Field Office,Panama City Ecological Services/Fish & Wildlife Conservation Office,Mark Cantrell,mark_a_cantrell@fws.gov,850-769-0552 ext. 250,Deputy Field Supervisor/Field Supervisor FWCO
+Florida,Field Office,Panama City Ecological Services/Fish & Wildlife Conservation Office,Dr. Sean Blomquist,sean_blomquist@fws.gov,850-769-0552 ext. 233,"Deputy Field Supervisor, Ecological Services"
+Florida,Field Office,Panama City Ecological Services/Fish & Wildlife Conservation Office,Larry Tucker,larry_tucker@fws.gov,850-769-0552 ext. 227,"Administrative Staff, Correspondence, Mail, Building Manager, Equipment Custodian, Service Asset Maintenance Systems"
+Florida,Field Office,Panama City Ecological Services/Fish & Wildlife Conservation Office,Lydia Ambrose,lydia_ambrose@fws.gov,850-769-0552 ext. 223,"Biologist, GIS Data Manager, CBRA Determinations, Manatee"
+Florida,Field Office,Panama City Ecological Services/Fish & Wildlife Conservation Office,Patty Kelly,patricia_kelly@fws.gov,850-769-0552 ext. 228 ,"Biologist, Candidate Conservation, Shorebirds, Panama City Crayfish, Red Knot, Migratory Birds, Red-cockaded Woodpecker, Forest Service lead, FEMA lead, Corps-coastal projects POC"
+Florida,Field Office,Panama City Ecological Services/Fish & Wildlife Conservation Office,Paul Lang,paul_lang@fws.gov,850-769-0552 ext. 230 ,"Ecologist, GIS Coordinator, Landscape Ecology, Spatial Ecology, SHC, Wood Stork, Bald Eagles, SALT"
+Florida,Field Office,Panama City Ecological Services/Fish & Wildlife Conservation Office,Peter Maholland,peter_maholland@fws.gov,850-769-0552 ext. 234,"Biologist, FDOT Transportation Liaison, Wetlands, Section 7 Consultation "
+Florida,Field Office,Panama City Ecological Services/Fish & Wildlife Conservation Office,Gayle Martin,gayle_martin@fws.gov,850-867-6222,"Ecologist, GIS, NWR Lead"
+Florida,Field Office,Panama City Ecological Services/Fish & Wildlife Conservation Office,Harold Mitchell,harold_mitchell@fws.gov,850-769-0552 ext. 246,"Ecologist, Flatwoods Salamander, Indigo Snake, Gopher Tortoise"
+Florida,Field Office,Panama City Ecological Services/Fish & Wildlife Conservation Office,Mary Mittiga,mary_mittiga@fws.gov,850-769-0552 ext. 236 ,"Fish and Wildlife Biologist, Transportation Planning, Green Infrastructure, Wetlands, Bats, FDOT and FHWA program lead, FDOT Programmatics"
+Florida,Field Office,Panama City Ecological Services/Fish & Wildlife Conservation Office,Dr. Vivian Negron-Ortiz,vivian_negronortiz@fws.gov,850-769-0552 ext. 231,"Botanist, Florida Recovery Coordinator, Plant Recovery, Imperiled Plant Species, Lichen"
+Florida,Field Office,Panama City Ecological Services/Fish & Wildlife Conservation Office,Sandra Pursifull,sandra_pursifull@fws.gov,850-769-0552 ext. 240,"Ecologist, Listing, Consultation, Freshwater Mussel Recovery"
+Florida,Field Office,Panama City Ecological Services/Fish & Wildlife Conservation Office,Melody Ray-Culp,melody_ray-culp@fws.gov,850-769-0552 ext. 232,"Biologist, Coastal Program Coordinator, CBRA Consultation, Gulf Restoration Program"
+Florida,Field Office,Panama City Ecological Services/Fish & Wildlife Conservation Office,Channing St. Aubin,channing_staubin@fws.gov,850-769-0552 ext. 248,"Biologist, Contaminant Issues, RESTORE Act, EPA"
+Florida,Field Office,Panama City Ecological Services/Fish & Wildlife Conservation Office,Kristi Yanchis,kristi_yanchis@fws.gov,850-769-0552 ext. 252,"Ecologist, Consultation, HCPs, Beach Mice, Recovery, NPS Lead"
+Florida,Field Office,Panama City Ecological Services/Fish & Wildlife Conservation Office,Lisa Yarbrough,lisa_yarbrough@fws.gov,850-769-0552 ext. 225 ,"Biologist, Coastal Uplands, Recovery & Consultation, Sea Turtles, USAF Lead"
+Florida,Field Office,Panama City Ecological Services/Fish & Wildlife Conservation Office,Andrew Hartzog,andrew_hartzog@fws.gov,850-769-0552 ext. 238,"Fish Biologist, Striped Bass restoration, Shoal Bass Coordinator, Stream restoration, Aquatic monitoring"
+Florida,Field Office,Panama City Ecological Services/Fish & Wildlife Conservation Office,Dr. Adam Kaeser,adam_kaeser@fws.gov,850-769-0552 ext. 244,"Fish Biologist, Gulf Sturgeon Recovery Coordinator, Gulf sturgeon and Mussel research and recovery, Sonar habitat mapping and biological applications"
+Florida,Field Office,Panama City Ecological Services/Fish & Wildlife Conservation Office,Chris Metcalf,chris_metcalf@fws.gov,850-769-0552 ext. 224,"Fish Biologist, Stream restoration, Partners for Fish and Wildlife"
+Florida,Field Office,Panama City Ecological Services/Fish & Wildlife Conservation Office,Danielle Bumgardner,danielle_bumgardner@fws.gov,,"Biologist, Tyndall AFB, Sea turtles, Gopher Tortoise and Bald Eagle monitoring, habitat restoration"
+Florida,Field Office,Panama City Ecological Services/Fish & Wildlife Conservation Office,Melanie Kaeser,melanie_kaeser@fws.gov,850-381-7853,"Ecologist, Tyndall AFB, rare plant species, longleaf pine ecosystem restoration, ecological monitoring"
+Florida,Field Office,Panama City Ecological Services/Fish & Wildlife Conservation Office,Rain Ketzler,lorraine_p_ketzler@fws.gov,,"Biologist, Eglin AFB, Biological Technician"
+Florida,Field Office,Panama City Ecological Services/Fish & Wildlife Conservation Office,Bill Tate,bill_tate@fws.gov,850-883-1189,"Supervisory Fish Biologist, Eglin AFB, Aquatic ecosystem monitoring, Non-game fishes research and recovery"
+Florida,Field Office,Panama City Ecological Services/Fish & Wildlife Conservation Office,Jeffrey Van Vrancken,jeffrey_vanvrancken@fws.gov,850-883-1195,"Ecologist, Eglin AFB, Biological data management, Aquatic ecosystem monitoring, Invertebrate identification"
+Florida,Field Office,Panama City Ecological Services/Fish & Wildlife Conservation Office,Constance Bowman,constance_bowman@fws.gov,850-769-0552 ext. 245,"Contractor, IT Specialist, Southeast Region"
+Florida,Field Office,Panama City Ecological Services/Fish & Wildlife Conservation Office,Dr. Jessica Graham,jessica_graham@fws.gov,850-769-0552 ext. 229,"Contractor, Southeast Aquatic Resources Partnership Coordinator"
+Florida,Field Office,Panama City Ecological Services/Fish & Wildlife Conservation Office,Kirsten Luke,kirsten_luke@fws.gov,850-769-0552 ext. 253,"Contractor, Atlantic Coast Joint Venture (Region 5)"
+Florida,Refuge,SWFL Gulf Coast Refuge Complex,Kevin Godsea,kevin_godsea@fws.gov,239-657-8011,Project Leader
+Florida,Refuge,SWFL Gulf Coast Refuge Complex,Ben Nottingham,ben_nottingham@fws.gov,239-657-8010,Deputy Project Leader
+Florida,Refuge,SWFL Gulf Coast Refuge Complex,Mark Danaher,mark_danaher@fws.gov,239-657-8012,Supervisory Biologist
+Florida,Refuge,SWFL Gulf Coast Refuge Complex,John Costello,john_costello@fws.gov,239-657-8019,Federal Wildlife Officer 
+Florida,Refuge,SWFL Gulf Coast Refuge Complex,Patty Traverse,patty_traverse@fws.gov,239-657-8005,Administrative Officer
+Florida,Refuge,SWFL Gulf Coast Refuge Complex,Jessica Sutt,jessica_sutt@fws.gov,239-657-8004,Refuge Specialist
+Florida,Refuge,SWFL Gulf Coast Refuge Complex,Erin Myers,erin_myers@fws.gov,239-657-8009,Private Lands Biologist
+Florida,Refuge,SWFL Gulf Coast Refuge Complex,David Lucas,david_d_lucas@fws.gov,239-253-2004,Maintenance Worker
+Florida,Refuge,SWFL Gulf Coast Refuge Complex,Wesley O'Connor,wesley_Oconnor@fws.gov,239-253-3923,Equipment Operator
+Florida,Refuge,SWFL Gulf Coast Refuge Complex,Cass Palmer,cass_palmer@fws.gov,239-682-9647,Fire Management Officer
+Florida,Refuge,SWFL Gulf Coast Refuge Complex,Greg Suszek,greg_suszek@fws.gov,239-877-9545,Fuels Specialist
+Florida,Refuge,SWFL Gulf Coast Refuge Complex,Bobby Scott,bobby_schat@fws.gov,239-986-0166,Forestry Tech
+Florida,Fisheries Office,Peninsular Florida Fish and Wildlife Conservation Office,Dr. John Galvez,John_Galvez@fws.gov,772-469-4314,Project Leader
+Florida,Hatchery,Welaka National Fish Hatchery,Ken Blick,ken_blick@fws.gov,386-467-2374,Project Leader
+Florida,Hatchery,Welaka National Fish Hatchery,Tony Brady,tony_brady@fws.gov,386-467-2375,Deputy Project Leader
+Florida,Hatchery,Welaka National Fish Hatchery,Allen Walker,allen_walker@fws.gov,386-467-2376,Maintenance Mechanic
+Florida,Hatchery,Welaka National Fish Hatchery,Mona Crawford,mona_crawford@fws.gov,386-467-2377,Administrative Officer
+Florida,Refuge,Arthur R. Marshall Loxahatchee NWR,Rolf Olson,rolf_olson@fws.gov,561-735-6022,Project Leader
+Florida,Refuge,Arthur R. Marshall Loxahatchee NWR,Steve Henry,steven_s_henry@fws.gov,561-735-6021,Deputy Project Leader
+Florida,Refuge,Arthur R. Marshall Loxahatchee NWR,Rebekah Gibble,rebekah_gibble@fws.gov,561-735-6038,Supervisory Wildlife Biologist
+Florida,Refuge,Arthur R. Marshall Loxahatchee NWR,Andrew Eastwick,andrew_eastwick@fws.gov,561-735-6023,Wildlife Biologist
+Florida,Refuge,Arthur R. Marshall Loxahatchee NWR,Melissa (Missy) Juntunen,melissa_juntunen@fws.gov,561-735-6034,Wildlife Biologist
+Florida,Refuge,Arthur R. Marshall Loxahatchee NWR,Tom Ledbetter,thomas_ledbetter@fws.gov,561-735-6036,Fire Management Officer
+Florida,Refuge,Arthur R. Marshall Loxahatchee NWR,Grant Gifford,grant_gifford@fws.gov,561-735-6028,Forestry Technician (Fire)
+Florida,Refuge,Arthur R. Marshall Loxahatchee NWR,George Pelt,george_pelt@fws.gov,561-703-4685,Heavy Mobile Equipment Mechanic
+Florida,Refuge,Arthur R. Marshall Loxahatchee NWR,Rob Ursich,robert_ursich@fws.gov,561-735-1389,Maintenance Worker
+Florida,Refuge,Arthur R. Marshall Loxahatchee NWR,Serena Rinker,serena_rinker@fws.gov,561-735-6029,Park Ranger
+Florida,Refuge,Arthur R. Marshall Loxahatchee NWR,Ana Maria Castillo Ruiz,ana_castillo-ruiz@fws.gov,561-735-3684,Park Ranger
+Florida,Refuge,Arthur R. Marshall Loxahatchee NWR,David Vela,david_vela@fws.gov,561-735-2305,Park Ranger (Urban Refuge Program Coordinator)
+Florida,Refuge,Arthur R. Marshall Loxahatchee NWR,Lew Hecker,lewis_hecker@fws.gov,561-735-6027,Park Ranger (Fee Collector)
+Florida,Refuge,Arthur R. Marshall Loxahatchee NWR,Veronica Kelly,veronica_kelly@fws.gov,561-735-6020,Park Ranger
+Florida,Refuge,Arthur R. Marshall Loxahatchee NWR,Bill Calvert,william_calvert@fws.gov,561-735-6033,Supervisory Park Ranger (LE)
+Florida,Refuge,Arthur R. Marshall Loxahatchee NWR,Patrick James,patrick_james@fws.gov,561-735-6035,Land Managament Law Enforcement Officer
+Florida,Refuge,Arthur R. Marshall Loxahatchee NWR,Bill Thomas,william_g_thomas@fws.gov,561-735-6011,General Biologist (Invasive Species)
+Florida,Refuge,Arthur R. Marshall Loxahatchee NWR,Rodolfo (Red) Duncan,rodolfo_duncan@fws.gov,561-735-6024,Administrative Support Assistant
+Florida,Refuge,Lake Woodruff NWR,Candice Stevenson,candice_stevenson@fws.gov,386-985-4673 ext 200,Refuge Manager
+Florida,Refuge,Lake Woodruff NWR,Wes Allie,wesley_allie@fws.gov,386-985-4673 ext 202,Heavy Equipment Operator
+Florida,Refuge,Lake Woodruff NWR,Chris Wright,chris_wright@fws.gov,386-985-4673 ext 201,Regional Helicopter Coordinator
+Florida,Refuge,Hobe Sound NWR,Christine Eastwick,Christine_Eastwick@fws.gov,772-546-6141 ext 204,Refuge Manager
+Florida,Refuge,Hobe Sound NWR,Dale Klco,dale_klco@fws.gov,772-546-6141,Fee Collector
+Florida,Refuge,Hobe Sound NWR,Main Office,hobesound@fws.gov,772-546-6141,
+Florida,Refuge,J.N. Ding Darling NWR,Paul Tritaik,paul_tritaik@fws.gov,239-472-1100 ext 223,Refuge Manager
+Florida,Refuge,J.N. Ding Darling NWR,Nate Caswell,nate_caswell@fws.gov,239-472-1100 ext 225,Deputy Refuge Manager
+Florida,Refuge,J.N. Ding Darling NWR,Toni Westland,toni_westland@fws.gov,239-472-1100 ext 237,Supervisory Park Ranger
+Florida,Refuge,J.N. Ding Darling NWR,Jeremy Conrad,jeremh_conrad@fws.gov,239-472-1100 ext 230,Wildlife Biologist
+Florida,Refuge,J.N. Ding Darling NWR,Ivette Gonzalez,ivette_gonzalez@fws.gov,239-472-1100 ext 226,Budget Analyst
+Florida,Refuge,J.N. Ding Darling NWR,Jeffrey Combs,jeffrey_combs@fws.gov,239-472-1100 ext 222,Park Ranger/Volunteer Coordinator
+Florida,Refuge,J.N. Ding Darling NWR,David Moore,david_moore@fws.gov,239-472-1100 ext 235,Federal Wildlife Officer
+Florida,Refuge,J.N. Ding Darling NWR,John Thompson,john_p_thomson@fws.gov,239-472-1100 ext 254,Federal Wildlife Officer
+Florida,Refuge,J.N. Ding Darling NWR,Thomas Plank,thomas_plank@fws.gov,239-472-1100 ,Wildlife Refuge Specialist
+Florida,Refuge,J.N. Ding Darling NWR,Preston Heaton,preston_heaton@fws.gov,239-472-1100 ext 227,Administrative Support Assistant
+Florida,Refuge,J.N. Ding Darling NWR,Monica Scroggin,monica_scroggin@fws.gov,239-472-1100 ext 228,Refuge Ranger
+Florida,Refuge,J.N. Ding Darling NWR,Susan Trokey,susan_trokey@fws.gov,239-472-1100 ext 224,Realty Specialist R4
+Florida,Refuge,J.N. Ding Darling NWR,Donald Swingle,donald_swingle@fws.gov,239-395-0880,Maintenance Supervisor
+Florida,Refuge,J.N. Ding Darling NWR,Steve Maczek,steven_maczek@fws.gov,239-395-0880,Heavy Equipment Operator
+Florida,Refuge,J.N. Ding Darling NWR,Visitor Center,,239-472-1100 ,
+Florida,Refuge,Lower Suwannee NWR,Visitor Contact Station,lowersuwannee@fws.gov,352-493-0238,
+Florida,Refuge,St. Vincent NWR,Administrative Office,saintvincent@fws.gov,850-653-8808,
+Florida,Refuge,St. Marks NWR,Visitor Center,saintmarks@fws.gov,850-925-6121,
+Georgia,Refuge,Okefenokee National Wildlife Refuge,Michael Lusk,michael_lusk@fws.gov,912-496-7366,Project Leader
+Georgia,Refuge,Okefenokee National Wildlife Refuge,Sarah Clardy,sarah_clardy@fws.gov,912-496-7365,Deputy Project Leader
+Georgia,Refuge,Okefenokee National Wildlife Refuge,Sara Aicher,sara_aicher@fws.gov,912-496-7366,Supervisory Biologist
+Georgia,Refuge,Okefenokee National Wildlife Refuge,Dean Easton,dean_easton@fws.gov,912-496-7366,Biologist
+Georgia,Refuge,Okefenokee National Wildlife Refuge,Howard McCullough,howard_mccullough@fws.gov,912-496-7366,Forestry Technician
+Georgia,Refuge,Okefenokee National Wildlife Refuge,Dartha Campbell,dartha_campbell@fws.gov,912-496-7366,Administrative Officer
+Georgia,Refuge,Okefenokee National Wildlife Refuge,Judy Drury,judy_drury@fws.gov,912-496-7366,Office Assistant
+Georgia,Refuge,Okefenokee National Wildlife Refuge,Rocky Chesser,rocky_chesser@fws.gov,912-496-7366,Supervisory Engineering Equipment Operator
+Georgia,Refuge,Okefenokee National Wildlife Refuge,Pamela Garrison,pamela_garrison@fws.gov,912-496-7366,Senior Federal Wildlife Officer
+Georgia,Refuge,Okefenokee National Wildlife Refuge,Cory Bryant,cory_bryant@fws.gov,912-496-7366,Engineering Equipment Operator
+Georgia,Refuge,Okefenokee National Wildlife Refuge,Fed Privett,fed_privett@fws.gov,912-496-7366,Engineering Equipment Operator
+Georgia,Refuge,Okefenokee National Wildlife Refuge,Michael Nettles,michael_nettles@fws.gov,912-496-7366,Maintenance Mechanic
+Georgia,Refuge,Okefenokee National Wildlife Refuge,David Smith,david_smith@fws.gov,912-496-7366,Maintenance Worker
+Georgia,Refuge,Okefenokee National Wildlife Refuge,Susan Heisey,susan_heisey@fws.gov,912-496-7366,Supervisory Park Ranger
+Georgia,Refuge,Okefenokee National Wildlife Refuge,Sarah Wyatt,sarah_wyatt@fws.gov,912-496-7366,Refuge Ranger
+Georgia,Refuge,Okefenokee National Wildlife Refuge,Gracie Gooch,gracie_gooch@fws.gov,912-496-7366,Refuge Ranger
+Georgia,Refuge,Okefenokee National Wildlife Refuge,Reese Kerbow,reese_kerbow@fws.gov,912-496-7366,Fire Management Officer
+Georgia,Refuge,Okefenokee National Wildlife Refuge,Reginald Forcine,reggie_forcine@fws.gov,912-496-7366,Assistant Fire Management Officer
+Georgia,Refuge,Okefenokee National Wildlife Refuge,Terri Jenkins,terri_jenkins@fws.gov,912-496-7366,Fire Planning Specialist
+Georgia,Refuge,Okefenokee National Wildlife Refuge,Robert Heisey,robert_heisey@fws.gov,912-496-7366,Forestry Technician - fire
+Georgia,Refuge,Okefenokee National Wildlife Refuge,Brantley Boatright,brantley_boatright@fws.gov,912-496-7366,Fire Program Assistant
+Georgia,Refuge,Piedmont National Wildlife Refuge,Andrew Hammond,andrew_hammond@fws.gov,478-986-5441,Refuge Manager
+Georgia,Refuge,Piedmont National Wildlife Refuge,Carolyn Johnson,carolyn_johnson@fws.gov,478-986-5441,Deputy Refuge Manager
+Georgia,Refuge,Piedmont National Wildlife Refuge,John Mason,john_mason@fws.gov,478-986-5441,Prescribed Fire Specialist
+Georgia,Refuge,Piedmont National Wildlife Refuge,Thomas Payne,thomas_payne@fws.gov,478-986-5441,Federal Wildlife Officer
+Georgia,Refuge,Piedmont National Wildlife Refuge,Carl Schmidt,carl_schmidt@fws.gov,478-986-5441,Supervisory Forester
+Georgia,Refuge,Piedmont National Wildlife Refuge,Wayne Smith,wayne_smith@fws.gov,478-986-5441,Engineering Equipment Operator
+Georgia,Refuge,Piedmont National Wildlife Refuge,Jason Kimbell,jason_kimbell@fws.gov,478-986-5441,Forestry Technician
+Georgia,Refuge,Piedmont National Wildlife Refuge,Toby Price,toby_price@fws.gov,478-986-5441,Engineering Equipment Operator
+Georgia,Refuge,Piedmont National Wildlife Refuge,Nathan Herron,nathan_herron@fws.gov,478-986-5441,Prescribed Fire/Fuels Technician
+Georgia,Refuge,Piedmont National Wildlife Refuge,Matthew Smith,matthew_smith@fws.gov,478-986-5441,Forestry Technician
+Georgia,Refuge,Savannah Coastal National Wildlife Refuges ,Holly Gaboriault,holly_t_gaboriault@fws.gov,843-781-9911,Project Leader
+Georgia,Refuge,Savannah Coastal National Wildlife Refuges ,Weston (Shaw) Davis,weston_davis@fws.gov,843-781-9911,Deputy Project Leader
+Georgia,Refuge,Savannah Coastal National Wildlife Refuges ,Rachel Pearson,rachel_pearson@fws.gov,843-781-9911,Administrative Officer
+Georgia,Refuge,Savannah Coastal National Wildlife Refuges ,Chuck Hayes,chuck_hayes@fws.gov,843-781-9911,Supervisory Wildlife Biologist
+Georgia,Refuge,Savannah Coastal National Wildlife Refuges ,Wayne Harris,billy_harris@fws.gov,843-781-9911,Wildlife Biologist
+Georgia,Refuge,Savannah Coastal National Wildlife Refuges ,Christopher Cooley,christopher_cooley@fws.gov,843-781-9911,Wildlife Refuge Specialist
+Georgia,Refuge,Savannah Coastal National Wildlife Refuges ,Monica Harris,monica_harris@fws.gov,843-781-9911,Supervisory Park Ranger
+Georgia,Refuge,Savannah Coastal National Wildlife Refuges ,Amy Ochoa,amy_ochoa@fws.gov,843-781-9911,Park Ranger
+Georgia,Refuge,Savannah Coastal National Wildlife Refuges ,Joel Vos,joel_vos@fws.gov,843-781-9911,Education Coordinator
+Georgia,Refuge,Savannah Coastal National Wildlife Refuges ,Nancy Fernandez,nancy_fernandez@fws.gov,843-781-9911,Volunteer and Urban Outreach
+Georgia,Refuge,Savannah Coastal National Wildlife Refuges ,Gregory Blanks,gregory_blanks@fws.gov,843-781-9911,Senior Federal Wildlife Officer
+Georgia,Refuge,Savannah Coastal National Wildlife Refuges ,Stacy Welch,stacy_welch@fws.gov,843-781-9911,Federal Wildlife Officer
+Georgia,Refuge,Savannah Coastal National Wildlife Refuges ,Robert Wood,robert_wood@fws.gov,843-781-9911,Fire Management Officer
+Georgia,Refuge,Savannah Coastal National Wildlife Refuges ,Robert Askins,robert_askins@fws.gov,843-781-9911,Prescribed Fire Specialist
+Georgia,Refuge,Savannah Coastal National Wildlife Refuges ,Charles Johnson,charles_johnson@fws.gov,843-781-9911,Engineering Equipment Operator
+Georgia,Refuge,Savannah Coastal National Wildlife Refuges ,Adam McCullough,adam_mccullough@fws.gov,843-781-9911,Engineering Equipment Operator
+Georgia,Refuge,Savannah Coastal National Wildlife Refuges ,Robert Wyatt,robert_wyatt@fws.gov,843-781-9911,Forestry Technician
+Georgia,Refuge,Savannah National Wildlife Refuge,William (Russ) Webb,russell_webb@fws.gov,843-781-9911,Refuge Manager
+Georgia,Refuge,Savannah National Wildlife Refuge,Robert Rahn,robert_rahn@fws.gov,843-781-9911,Heavy Equipment Mechanic
+Georgia,Refuge,Savannah National Wildlife Refuge,Robert Williams,robert_williams@fws.gov,843-781-9911,Electrician
+Georgia,Refuge,Savannah National Wildlife Refuge,Vic Scott,vic_scott@fws.gov,843-781-9911,Maintenance Mechanic
+Georgia,Refuge,Savannah National Wildlife Refuge,Martin Martinez,martin_martinez@fws.gov,843-781-9911,Maintenance Worker
+Georgia,Refuge,Savannah National Wildlife Refuge,Harry Bentley,harry_bentley@fws.gov,843-781-9911,Engineering Equipment Operator
+Georgia,Refuge,Harris Neck National Wildlife Refuge,Kimberly Hayes,kimberly_hayes@fws.gov,912-832-4608,Refuge Manager
+Georgia,Refuge,Harris Neck National Wildlife Refuge,Darryl Woodard,darryl_woodard@fws.gov,912-832-4608,Maintenance Worker
+Georgia,Regional Office,Gulf Restoration Program,Nadine Siak,nadine_siak@fws.gov,404-679-7290,Public Affairs Specialist
+Georgia,Regional Office,Law Enforcement,Luis J. Santiago,luis_santiago@fws.gov,404-679-7057,Special Agent in Charge
+Georgia,Regional Office,Law Enforcement,Darwin Huggins,darwin_huggins@fws.gov,404-679-7040,Assistant Special Agent in Charge
+Georgia,Regional Office,Law Enforcement,Sharon Turman,sharon_turman@fws.gov,404-679-7057,Executive Assistant
+Georgia,Regional Office,Law Enforcement,Christine Lynch,christine_lynch@fws.gov,404-679-7045,Supervisory Program Analyst
+Georgia,Regional Office,Law Enforcement,Tiaujanna Burnett,tiaujanna_burnett@fws.gov,404-679-7048,Law Enforcement Case Management Assistant
+Georgia,Regional Office,Law Enforcement,Tonia Johnson,tonia_johnson@fws.gov,404-679-7195,Legal Instruments Examiner (Permits/Licenses)
+Georgia,Regional Office,Law Enforcement,Darlene Addison,darlene_addison@fws.gov,404-679-7053,Legal Instruments Examiner (Permits/Licenses)
+Georgia,Regional Office,Law Enforcement,Stacey Pieters,stacey_pieters@fws.gov,404-679-7314,Budget Analyst
+Georgia,Regional Office,Law Enforcement,Theodore Skarvelis,theodore_skarvelis@fws.gov,404-679-7056,Information Technology Specialist
+Georgia,Regional Office,External Affairs,Jeffrey Fleming,jeffrey_m_flemming@fws.gov,404-679-7286,Assistant Regional Director
+Georgia,Regional Office,External Affairs,Katherine Taylor,katherine_taylor@fws.gov,404-679-7125,Digital Content Specialist
+Georgia,Regional Office,External Affairs,Elsie Davis,elsie_davis@fws.gov,404-679-7107,Public Affairs Specialist
+Georgia,Regional Office,External Affairs,Ellen Marcus,ellen_marcus@fws.gov,404-679-7179,Regional Graphic Designer
+Georgia,Regional Office,External Affairs,Liz Chebib,liz_chebib@fws.gov,404-679-7181,Regional Graphic Designer
+Georgia,Regional Office,External Affairs,Kristen Peters,kristen_peters@fws.gov,404-679-7172,Legislative Affairs Specialist
+Georgia,Regional Office,External Affairs,Debra Johnson,debra_johnson@fws.gov,404-679-7282,Executive Assistant
+Georgia,Regional Office,External Affairs,Roy Hewitt,roy_hewitt@fws.gov,404-679-7306,Regional Web Developer
+Georgia,Fish Technology Center,Warm Springs Fish Technology Center,William Wayman,william_wayman@fws.gov,706-655-3382 ext. 1229,Project Leader
+Georgia,Fish Technology Center,Warm Springs Fish Technology Center,Chester Figiel,chester_figiel@fws.gov,706-655-3382 ext. 1244,Supervisory Fish Biologist
+Georgia,Fish Technology Center,Warm Springs Fish Technology Center,Jaclyn Zelko,jaclyn_zelko@fws.gov,706-655-3382 ext. 1243,Fish Biologist
+Georgia,Fish Technology Center,Warm Springs Fish Technology Center,Nathan Whelan,nathan_whelan@fws.gov,706-655-3382 ext. 1231,Geneticist
+Georgia,Fish Technology Center,Warm Springs Fish Technology Center,Ashantye Williams,ashantye_williams@fws.gov,706-655-3382 ext.1245,Geneticist
+Kentucky,Refuge,Clarks River National Wildlife Refuge,Judy Miller,judith_miller@fws.gov,270-527-5770 ext. 201,Office Assistant
+Kentucky,Refuge,Clarks River National Wildlife Refuge,Stacey Hayden,stacey_hayden@fws.gov,270-527-5770 ext. 202,Education Specialist
+Kentucky,Refuge,Clarks River National Wildlife Refuge,Kimberly Sykes,kimberly_sykes@fws.gov,270-527-5770 ext. 203,Assistant Refuge Manager
+Kentucky,Refuge,Clarks River National Wildlife Refuge,Andy Radomski,andrew_radomski@fws.gov,270-527-5770 ext. 204,Private Lands Biologist
+Kentucky,Refuge,Clarks River National Wildlife Refuge,Michael Johnson,michael_johnson@fws.gov,270-527-5770 ext. 205,Refuge Manager
+Kentucky,Refuge,Clarks River National Wildlife Refuge,Jason Bayer,jason_bayer@fws.gov,270-527-5770 ext. 206,Law Enforcement Officer
+Kentucky,Refuge,Clarks River National Wildlife Refuge,Seth Ray,seth_ray@fws.gov,270-527-5770,Engineering Equipment Operator
+Kentucky,Field Office,Kentucky Ecological Services Field Office,Carrie Allison,carrie_allison@fws.gov,502-695-0468 ext. 103,Wildlife Biologist (Consultation)
+Kentucky,Field Office,Kentucky Ecological Services Field Office,Lee Andrews,lee_andrews@fws.gov,502-695-0468 ext. 108,Field Supervisor
+Kentucky,Field Office,Kentucky Ecological Services Field Office,Mike Armstrong,mike_armstrong@fws.gov,502-695-0468 ext. 101,Wildlife Biologist (Recovery)
+Kentucky,Field Office,Kentucky Ecological Services Field Office,Diane Caudill,terry_caudill@fws.gov,502-695-0468 ext. 107,Office Assistant/Budget Officer
+Kentucky,Field Office,Kentucky Ecological Services Field Office,Phil DeGarmo,phil_degarmo@fws.gov,502-695-0468 ext. 110,Wildlife Biologist (Transportation)
+Kentucky,Field Office,Kentucky Ecological Services Field Office,Michael Floyd,mike_floyd@fws.gov,502-695-0468 ext. 102,Wildlife Biologist (Recovery)
+Kentucky,Field Office,Kentucky Ecological Services Field Office,Jennifer Garland,jennifer_garland@fws.gov,502-695-0468 ext. 115,Deputy Field Supervisor
+Kentucky,Field Office,Kentucky Ecological Services Field Office,Brent Harrel,brent_harrel@fws.gov,502-229-4630,Private Lands Coordinator
+Kentucky,Field Office,Kentucky Ecological Services Field Office,Teresa Hyatt,teresa_hyatt@fws.gov,502-695-0468 ext. 109,Administrative Assistant
+Kentucky,Field Office,Kentucky Ecological Services Field Office,Leroy Koch,leroy_koch@fws.gov,502-695-0468 ext. 106,Senior Biologist (Ohio River Coordinator)
+Kentucky,Field Office,Kentucky Ecological Services Field Office,Santiago Martin,santiago_martin@fws.gov,502-695-0468 ext. 116,Wildlife Biologist (Consultation)
+Kentucky,Field Office,Kentucky Ecological Services Field Office,Jessi Miller,jessica_miller@fws.gov,502-695-0468 ext. 104,Wildlife Biologist (Pre-Development Consultation)
+Kentucky,Hatchery,Wolf Creek National Fish Hatchery,James Gray,james_gray@fws.gov,270-343-3797 ext. 21,Project Leader
+Kentucky,Hatchery,Wolf Creek National Fish Hatchery,Shelia Kirk,shelia_kirk@fws.gov,270-343-3797 ext. 27,Deputy Project Leader
+Kentucky,Hatchery,Wolf Creek National Fish Hatchery,Teresa DeVore,teresa_devore@fws.gov,270-343-3797 ext. 34,Administrative Assistant
+Kentucky,Hatchery,Wolf Creek National Fish Hatchery,Bob Clark,bob_clark@fws.gov,270-343-3797 ext. 32,Fish Biologist
+Kentucky,Hatchery,Wolf Creek National Fish Hatchery,Chris Murphy,christopher_murphy@fws.gov,270-343-3797 ext. 32,Biological Science Technician
+Kentucky,Hatchery,Wolf Creek National Fish Hatchery,Alan Kimbler,alan_kimbler@fws.gov,270-343-3797 ext. 32,Biological Science Technician
+Kentucky,Hatchery,Wolf Creek National Fish Hatchery,Todd McGowan,eric_mcgowan@fws.gov,270-343-3797 ext. 32,Facility Operations Specialist
+Kentucky,Hatchery,Wolf Creek National Fish Hatchery,Moria Painter,moria_painter@fws.gov,270-343-3797 ext. 24,Environmental Education/Outreach Specialist
+Kentucky,Hatchery,Wolf Creek National Fish Hatchery,Ashley Buffington,ashley_buffington@fws.gov,270-343-3797 ext. 25,Environmental Education/Outreach Specialist
+Louisiana,Field Office,Louisiana Ecological Services,Joseph Ranson,joseph_ranson@fws.gov,337-291-3113,Field Supervisor
+Louisiana,Field Office,Louisiana Ecological Services,Thomas Athens,thomas_athens@fws.gov,337-531-6318,Wildlife Biologist - Fort Polk
+Louisiana,Field Office,Louisiana Ecological Services,Seth Bordelon,seth_bordelon@fws.gov,337-291-3138,Conservation Planning Assistance Biologist
+Louisiana,Field Office,Louisiana Ecological Services,Cathy Breaux,cathy_breaux@fws.gov,504-862-2689,Civil Works and Coastal Restoration Biologist
+Louisiana,Field Office,Louisiana Ecological Services,Kathryn Brenner,kathryn_brenner@fws.gov,337-531-6318,Wildlife Biologist - Fort Polk
+Louisiana,Field Office,Louisiana Ecological Services,David Castellanos,david_Castellanos@fws.gov,337-291-3112,Threatened & Endangered Species Biologist
+Louisiana,Field Office,Louisiana Ecological Services,Darryl Clark,darryl_clark@fws.gov,337-291-3111,"Senior Coastal Restoration Biologist, CWPPRA Technical Committee Representative"
+Louisiana,Field Office,Louisiana Ecological Services,Andy Dolan,andrew_dolan@fws.gov,337-291-3119,Partners for Fish & Wildlife Coordinator and Private Lands Biologist
+Louisiana,Field Office,Louisiana Ecological Services,Robert Dubois,robert_dubois@fws.gov,337-291-3127,Coastal Restoration Biologist
+Louisiana,Field Office,Louisiana Ecological Services,Brigette Firmin,brigette_firmin@fws.gov,337-291-3108,Coastal Restoration & NRDAR Biologist
+Louisiana,Field Office,Louisiana Ecological Services,Robert Greco,robert_greco@fws.gov,337-291-3150,GIS and Web Services
+Louisiana,Field Office,Louisiana Ecological Services,Joshua Marceaux,joshua_marceaux@fws.gov,337-774-5923,Conservation Planning Assistance Biologist
+Louisiana,Field Office,Louisiana Ecological Services,David Oster,david_oster@fws.gov,337-291-3100,Conservation Planning Assistance Biologist
+Louisiana,Field Office,Louisiana Ecological Services,Ronnie Paille,ronald_paille@fws.gov,337-291-3117,Civil Works and Coastal Restoration Biologist
+Louisiana,Field Office,Louisiana Ecological Services,Charlotte Ravain,charlotte_ravain@fws.gov,337-291-3130,Administrative Officer
+Louisiana,Field Office,Louisiana Ecological Services,Brad Rieck,brad_rieck@fws.gov,337-291-3116,Deputy Field Supervisor
+Louisiana,Field Office,Louisiana Ecological Services,Kathrin Romero,kathrin_romero@fws.gov,337-291-3101,Administrative Assistant
+Louisiana,Field Office,Louisiana Ecological Services,Kevin Roy,kevin_roy@fws.gov,337-291-3120,Coastal Restoration Biologist
+Louisiana,Field Office,Louisiana Ecological Services,John Savell,john_savell@fws.gov,337-291-3144,Coastal Restoration Biologist
+Louisiana,Field Office,Louisiana Ecological Services,Monica Sikes,monica_sikes@fws.gov,337-291-3118,Endangered Species Coordinator
+Louisiana,Field Office,Louisiana Ecological Services,Rob Smith,robert_v_smith@fws.gov,337-291-3134,Partners for Fish & Wildlife Biologist
+Louisiana,Field Office,Louisiana Ecological Services,David Soileau,david_soileau@fws.gov,337-291-3109,Conservation Planning Assistance Coordinator
+Louisiana,Field Office,Louisiana Ecological Services,Karen Soileau,karen_soileau@fws.gov,337-291-3132,Threatened & Endangered Species Biologist
+Louisiana,Field Office,Louisiana Ecological Services,Mark Tharp,mark_tharp@fws.gov,337-291-3136,Information Technology Specialist
+Louisiana,Field Office,Louisiana Ecological Services,Amy Trahan,amy_trahan@fws.gov,337-291-3126,"Conservation Planning Assistance, T&E Species and CBRA Biologist"
+Louisiana,Field Office,Louisiana Ecological Services,Angela Trahan,angela_trahan@fws.gov,337-291-3137,Coastal Restoration Biologist and Migratory Birds
+Louisiana,Field Office,Louisiana Ecological Services,David Walther,david_walther@fws.gov,337-291-3122,Supervisory Biologist for Civil Works and Coastal Restoration Projects
+Louisiana,Field Office,SWLA NWR Complex/Sabine NWR,Julie D. Alford,julie_alford@fws.gov,337-762-3816,Office Assistant
+Louisiana,Field Office,SWLA NWR Complex/Cameron Prairie NWR,Diane L. Borden-Billiot,diane_l_borden-billiot@fws.gov,"337-598-2216, ext. 257",Park Ranger
+Louisiana,Field Office,SWLA NWR Complex/Cameron Prairie NWR,Daniel M. Davis,daniel_m_davis@fws.gov,"337-598-2216, ext. 229",Maintenance Mechanic
+Louisiana,Field Office,SWLA NWR Complex/Sabine NWR,Terence Delaine,terry_delaine@fws.gov,"337-762-3816, ext. 105",Wildlife Refuge Manager
+Louisiana,Field Office,SWLA NWR Complex/Cameron Prairie NWR,Lucas W. Doucet,lucas_doucet@fws.gov,337-598-2343,Forestry Technician (Fire)
+Louisiana,Field Office,SWLA NWR Complex/Cameron Prairie NWR,Christian A. Eggleston,christian_eggleston@fws.gov,"337-598-2216, ext. 223",Wildlife Refuge Manager
+Louisiana,Field Office,SWLA NWR Complex/Cameron Prairie NWR,Marsa L. Fontenot,marsa_fontenot@fws.gov,"337-598-2216, ext. 237",Administrative Officer
+Louisiana,Field Office,SWLA NWR Complex/Lacassine NWR,John S. Harrell,john_harrell@fws.gov,337-774-5923,Engineering Equipment Operator
+Louisiana,Field Office,SWLA NWR Complex/Cameron Prairie NWR,Glenn A. Harris,glenn_harris@fws.gov,"337-598-2216, ext. 253",Wildlife Refuge Manager
+Louisiana,Field Office,SWLA NWR Complex/Cameron Prairie NWR,Michael L. Hebert,michael_hebert@fws.gov,"337-598-2216, ext. 228",Tractor Operator
+Louisiana,Field Office,SWLA NWR Complex/Lacassine NWR,Christopher J. Hoag,christopher_hoag@fws.gov,337-774-5923,Land Mgmt Law Enforcement Officer/Federal Wildlife Canine Officer
+Louisiana,Field Office,SWLA NWR Complex/Cameron Prairie NWR,Jonathan R. King,jon_king@fws.gov,"337-598-2216, ext. 259",Assistant Fire Mgmt Officer
+Louisiana,Field Office,SWLA NWR Complex/Cameron Prairie NWR,Billy P. Leonard,billy_leonard@fws.gov,"337-598-2216, ext. 222",Wildlife Biologist
+Louisiana,Field Office,SWLA NWR Complex/Lacassine NWR,William S. Martinet,william_martinet@fws.gov,337-774-5923,Biological Science Technician
+Louisiana,Field Office,SWLA NWR Complex/Cameron Prairie NWR,Quincy O. McGee,quincy_mcgee@fws.gov,"337-598-2216, ext. 230",Engineering Equipment Operator
+Louisiana,Field Office,SWLA NWR Complex/Cameron Prairie NWR,Jacob A. Mills,jacob_mills@fws.gov,"337-598-2216, ext. 239",Biological Science Technician
+Louisiana,Field Office,SWLA NWR Complex/Sabine NWR,William J. Olive,william_olive@fws.gov,337-762-3816,Maintence Worker
+Louisiana,Field Office,SWLA NWR Complex/Sabine NWR,Charles L. Talbert,charles_talbert@fws.gov,337-762-3816,Land Mgmt Law Enforcement Officer (Federal Wildlife Officer)
+Louisiana,Field Office,SWLA NWR Complex/Cameron Prairie NWR,Jon T. Westerby,jon_westerby@fws.gov,337-598-2343,Forestry Technician (Fire)
+Louisiana,Field Office,Baton Rouge Fisheries Conservation Office,Glenn Constant,glenn_constant@fws.gov,225-578-8067,Project Leader
+Louisiana,Field Office,Baton Rouge Fisheries Conservation Office,Michelle Kanicki,michelle_kanicki@fws.gov,225-578-8064,Administrative Officer
+Louisiana,Field Office,Baton Rouge Fisheries Conservation Office,Kayla Kimmel,kayla_kimmel@fws.gov,225-578-8066,Biologist
+Louisiana,Field Office,Baton Rouge Fisheries Conservation Office,Cedric Doolittle,cedric_doolitlle@fws.gov,225-578-7099,Biologist
+Louisiana,Field Office,Baton Rouge Fisheries Conservation Office,Yvonne Allen,yvonne_allen@fws.gov,225-578-2203,Ecologist / Aquatic Habitat Analyst
+Louisiana,Refuge,Central Louisiana NWR Complex ,Brett Wehrle,brett_wehrle@fws.gov,318-253-4238,Project Leader
+Louisiana,Refuge,Central Louisiana NWR Complex ,John Tarver,john_tarver@fws.gov,318-253-4238,Federal Wildlife Officer
+Louisiana,Refuge,Central Louisiana NWR Complex ,Sharon Anderson,sharon_anderson@fws.gov,318-253-4238,Administrative Officer
+Louisiana,Refuge,Central Louisiana NWR Complex ,Brent Bordelon,brent_bordelon@fws.gov,318-253-4238,Engineering Equipment Operator
+Louisiana,Refuge,Central Louisiana NWR Complex ,Don Brevelle,don_brevelle@fws.gov,318-253-4238,Engineering Equipment Operator
+Louisiana,Refuge,Central Louisiana NWR Complex ,Bradley Bordelon,bradley_bordelon@fws.gov,318-253-4238,Deputy Project Leader
+Louisiana,Refuge,Catahoula NWR,Robert Dailey,robert_dailey@fws.gov,318-992-5261,Refuge Manager
+Louisiana,Refuge,Catahoula NWR,"Tony ""Van"" Evans",tony_evans@fws.gov,318-992-5261,Engineering Equipment Operator
+Louisiana,Refuge,North Louisiana NWR Complex,Maury Bedford,maury_bedford@fws.gov,318-726-4222,Project Leader
+Louisiana,Refuge,North Louisiana NWR Complex,Nova Clarke,nova_clarke@fws.gov,318-726-4222,Park Ranger
+Louisiana,Refuge,North Louisiana NWR Complex,Christopher Foster,christopher_foster@fws.gov,318-726-4222,Forester
+Louisiana,Refuge,North Louisiana NWR Complex,Brian Phillips,brian_phillips@fws.gov,318-726-4222,Federal Wildlife Officer
+Louisiana,Refuge,North Louisiana NWR Complex,James Simmons,james_simmons@fws.gov,318-726-4222,Maintenance Worker
+Louisiana,Refuge,North Louisiana NWR Complex,Gypsy Hanks,gypsy_hanks@fws.gov,318-726-4222,Wildlife Biologist
+Louisiana,Refuge,North Louisiana NWR Complex,Charla Yelverton,charla_yelverton@fws.gov,318-726-4222,Budget Analyst
+Louisiana,Refuge,North Louisiana NWR Complex,Ronnie Tidwell,ronnie_tidwell@fws.gov,318-725-4222,Engineering Equipment Operator
+Louisiana,Refuge,North Louisiana NWR Complex,Richard Robinson,richard_robinson@fws.gov,318-726-4222,Engineering Equipment Operator
+Louisiana,Refuge,North Louisiana NWR Complex,Erin Cox,erin_cox@fws.gov,318-726-4222,Refuge Manager
+Louisiana,Refuge,Red River NWR,Pat Stinson,pat_stinson@fws.gov,318-742-1219,Refuge Manager
+Louisiana,Refuge,Red River NWR,Terry Jacobson,terry_jacobson@fws.gov,318-742-1219,Park Ranger/Interpretive
+Louisiana,Refuge,Red River NWR,Phillip Bell,phillip_bell@fws.gov,318-742-1219,Engineering Equipment Operator
+Louisiana,Refuge,Red River NWR,Adam Rogers,adam_rogers@fws.gov,318-742-1219,Wildlife Refuge Specialist
+Louisiana,Refuge,Red River NWR,David Young,david_young@fws.gov,318-742-1219,Youth/Volunteer Coordinator
+Louisiana,Refuge,Tensas River NWR,Brett Hortman,brett_hortman@fws.gov,318-574-2664 ext.101,Refuge Manager
+Louisiana,Refuge,Tensas River NWR,John Dickson,john_dickson@fws.gov,318-574-2664 ext.112,Wildlife Biologist
+Louisiana,Refuge,Tensas River NWR,Robbie Harris,robbie_harris@fws.gov,318-574-2664 ext.109,Forester
+Louisiana,Refuge,Tensas River NWR,Shriley Whitney,shirley_whitney@fws.gov,318-574-2664,Administrative Officer
+Louisiana,Refuge,Tensas River NWR,Rod Cobb,rodd_cobb@fws.gov,318-574-2664,Engineering Equipment Operator
+Louisiana,Refuge,Tensas River NWR,Leslie Watson,leslie_watson@fws.gov,318-574-2664,Engineering Equipment Operator
+Louisiana,Refuge,Tensas River NWR,"Doris ""Jean"" Mikeal",doris_mikeal@fws.gov,318-574-2664,Park Ranger 
+Louisiana,Refuge,Tensas River NWR,Nathan Renick,nathan_renick@fws.gov,318-574-2664 ext.102,Forester
+Louisiana,Refuge,Bon Secour NWR,Jerry Dunn,jerry_dunn@fws.gov,251-540-4142,Maintenance Worker
+Louisiana,Refuge,Bon Secour NWR,Brittany Peterson,brittany_peterson@fws.gov,251-540-8524,Assistant Refuge Manager
+Louisiana,Refuge,Bon Secour NWR,Jereme Philips,jereme_phillips,251-540-8522,Complex Manager
+Louisiana,Refuge,Bon Secour NWR,Jackie Sablan,jacqueline_sablan@fws.gov,251-540-8523,Wildlife Biologist
+Louisiana,Refuge,Big Branch Marsh NWR,,southeastlouisianarefuges@fws.gov,985-882-9133,Home Office
+Louisiana,Refuge,Delta NWR,,southeastlouisianarefuges@fws.gov,504-534-2269,Home Office
+Louisiana,Refuge,Bayou Teche NWR,,southeastlouisianarefuges@fws.gov,337-828-0061,Home Office
+Louisiana,Refuge,Southeast Louisiana NWR Complex,Pon Dixson,pon_dixson@fws.gov,985-882-2014,Deputy Project Leader
+Louisiana,Refuge,Southeast Louisiana NWR Complex,Diane Barth,diane_barth@fws.gov,985-882-2021,Park Ranger
+Louisiana,Refuge,Southeast Louisiana NWR Complex,Danny Breaux,daniel_breaux@fws.gov,985-882-2030,Refuge Manager
+Louisiana,Refuge,Southeast Louisiana NWR Complex,Grant Lovato,grant_lovato@fws.gov,985-882-2036,
+Louisiana,Refuge,Southeast Louisiana NWR Complex,Mike Downie,michael_downie@fws.gov,982-882-2041,Supervisory Park Ranger LE
+Louisiana,Refuge,Southeast Louisiana NWR Complex,Barret Fortier,barret_fortier@fws.gov,985-882-2011,Regional Energy Coordinator
+Louisiana,Refuge,Southeast Louisiana NWR Complex,Beverly Grinstead,beverly_grinstead@fws.gov,985-882-2000,Admin
+Louisiana,Refuge,Southeast Louisiana NWR Complex,Jim Panaccione,james_panaccione@fws.gov,985-882-2029,Wildlife Biologist
+Louisiana,Refuge,Southeast Louisiana NWR Complex,James Harris,james_harris@fws.gov,985-882-2027,Biologist
+Louisiana,Refuge,Southeast Louisiana NWR Complex,Intern Desk,,985-882-2023,
+Louisiana,Refuge,Southeast Louisiana NWR Complex,James Kellum,jamie_kellum@fws.gov,985-882-2031,Forester
+Louisiana,Refuge,Southeast Louisiana NWR Complex,Brad Kemp,bradford_kemp@fws.gov,985-882-2017,Federal Wildlife Officer
+Louisiana,Refuge,Southeast Louisiana NWR Complex,Zach Kincaid,zachary_kincaid@fws.gov,985-882-2018,Federal Wildlife Officer
+Louisiana,Refuge,Southeast Louisiana NWR Complex,Max Latham,max_latham@fws.gov,505-534-2235,Maintenance Worker
+Louisiana,Refuge,Southeast Louisiana NWR Complex,Chris LeRouge,chris_lerouge@fws.gov,985-882-2019,Assistant Fire Management Officer
+Louisiana,Refuge,Southeast Louisiana NWR Complex,Mike Seal,michael_seal@fws.gov,985-882-2013,Facility Manager
+Louisiana,Refuge,Southeast Louisiana NWR Complex,Brian Pember,brian_pember@fws.gov,985-828-0061,Wildlife Refuge Specialist
+Louisiana,Refuge,Southeast Louisiana NWR Complex,Todd Smith,todd_smith@fws.gov,985-882-2004,Engineering Equipment Operator
+Louisiana,Refuge,Southeast Louisiana NWR Complex,Shelly Stiaes,shelley_stiaes@fws.gov,985-882-2026,Refuge Manager
+Louisiana,Refuge,Southeast Louisiana NWR Complex,Rebecca Larkin,rebecca_larkin@fws.gov,985-882-2025,Education Ranger
+Louisiana,Refuge,Southeast Louisiana NWR Complex,Annette Taylor,,985-882-2012,Administrative Officer
+Louisiana,Refuge,Southeast Louisiana NWR Complex,Jo Anne Dolan,Joanne_dolan@fws.gov,985-882-2015,Park Ranger
+Mississippi,Field Office,Lower Mississippi Valley Joint Venture Office,Blaine Elliott,blaine_elliott@fws.gov,601-206-5457,GIS Applications Biologist
+Mississippi,Field Office,Lower Mississippi Valley Joint Venture Office,Steve Brock,steve_c_brock@fws.gov,601-529-4235,MAV Partnership Coordinator
+Mississippi,Refuge,North Mississippi Refuges Complex,Stephen Gard,stephen_gard@fws.gov,662-226-8286,Project Leader
+Mississippi,Refuge,North Mississippi Refuges Complex,Travis Carpenter,travis_carpenter@fws.gov,662-226-8286,Deputy Project Leader
+Mississippi,Refuge,North Mississippi Refuges Complex,Amber Floyd,amber_floyd@fws.gov,662-226-8286,Refuge Manager
+Mississippi,Refuge,North Mississippi Refuges Complex,Rebecca Rosamond,rebecca_rosamond@fws.gov,662-226-8286,Wildlife Biologist
+Mississippi,Refuge,North Mississippi Refuges Complex,Jonathan Young,jonathan_young@fws.gov,662-226-8286,Engineering Equipment Operator
+Mississippi,Refuge,North Mississippi Refuges Complex,Brent Sullivan,brent_sullivan@fws.gov,662-226-8286,Engineering Equipment Operator
+Mississippi,Refuge,North Mississippi Refuges Complex,Bobbie Willis,bobbie_willis@fws.gov,662-226-8286,Administrative Officer
+Mississippi,Refuge,Sam D. Hamilton Noxubee NWR ,Steven Reagan,steven_reagan@fws.gov,662-323-5548 ext. 223,Refuge Manager
+Mississippi,Refuge,Sam D. Hamilton Noxubee NWR ,Steven Lewis,steven_lewis@fws.gov,662-323-5548 ext. 228,Wildlife Biologist
+Mississippi,Refuge,Sam D. Hamilton Noxubee NWR ,"Joseph ""Eddie"" Harsh",eddie_harsh@fws.gov,662-323-5548 ext. 225,Forester 
+Mississippi,Refuge,Sam D. Hamilton Noxubee NWR ,Andrea Dunstan,andrea_dunstan@fws.gov,662-323-5548 ext. 226,Park Ranger
+Mississippi,Refuge,Sam D. Hamilton Noxubee NWR ,"Edward ""Dave"" Panas",edward_panas@fws.gov,662-323-5548 ext. 230,Federal Wildlife Officer
+Mississippi,Refuge,Sam D. Hamilton Noxubee NWR ,Jacob Gross,jacob_gross@fws.gov,662-323-5548 ext. 224,Wildlife Refuge Specialist
+Mississippi,Refuge,Sam D. Hamilton Noxubee NWR ,Johnny Wayne Bradford Jr.,johnny_bradford@fws.gov,662-323-5548,Engineering Equipment Operator
+Mississippi,Refuge,Sam D. Hamilton Noxubee NWR ,Brandon Bleiler,brandon_bleiler@fws.gov,662-323-5548,Engineering Equipment Operator
+Mississippi,Refuge,Sam D. Hamilton Noxubee NWR ,Regina Snow,regina_snow@fws.gov,662-323-5548 ext. 222,Administrative Officer
+Mississippi,Refuge,Sam D. Hamilton Noxubee NWR ,Paul Reynolds,paul_reynolds@fws.gov,662-323-5548 ext. 225,Fire Management Officer
+Mississippi,Refuge,Sam D. Hamilton Noxubee NWR ,"Wayne ""Chad"" Fondren",wayne_fondren@fws.gov,662-323-5548 ext. 227,Supervisory Forest Technician Fire
+Mississippi,Refuge,Sam D. Hamilton Noxubee NWR ,John Parrett,john_parrett@fws.gov,662-323-5548,Park Ranger
+Mississippi,Refuge,Choctaw NWR,Kenneth Bumpers,kenneth_bumpers@fws.gov,251-231-0560,Engineering Equipment Operator
+Mississippi,Refuge,Choctaw NWR,Hunter Edmundson,hunter_edmundson@fws.gov,662-228-1001,Biological Science Technician
+Mississippi,Refuge,Theodore Roosevelt NWR Complex,Mike Rich,mike_rich@fws.gov,662-836-3004,Project Leader
+Mississippi,Refuge,Theodore Roosevelt NWR Complex,Seth Swafford,seth_swafford@fws.gov,662-836-3004,Deputy Project Leader
+Mississippi,Refuge,Theodore Roosevelt NWR Complex,Gerald Davis ,gerald_davis@fws.gov,662-836-3004,Forester
+Mississippi,Refuge,Theodore Roosevelt NWR Complex,Dove Barnes,dove_barnes@fws.gov,662-836-3004,Park Ranger/Interpretive
+Mississippi,Refuge,Panther Swamp NWR,Glenn Catoe,glenn_catoe@fws.gov,662-836-3004,Engineering Equipment Operator
+Mississippi,Refuge,Morgan Brake NWR,Lamar Dorris,lamar_dorris@fws.gov,662-235-4989,Refuge Manager
+Mississippi,Refuge,Morgan Brake NWR,Brent Chisholm,brent_chisholm@fws.gov,662-235-4989,Engineering Equipment Operator
+Mississippi,Refuge,Morgan Brake NWR,Chandler Schmidt,chandler_schmidt@fws.gov,662-235-4989,Biological Science Technician
+Mississippi,Refuge,Yazoo NWR,Steven Fadden,steven_fadden@fws.gov,662-839-2638,Refuge Manager
+Mississippi,Refuge,Yazoo NWR,"Jeremy ""Bart"" Marble",jeremy_bart@fws.gov,662-839-2638,Federal Wildlife Officer
+Mississippi,Refuge,Yazoo NWR,Evan Brasher,evan_brasher@fws.gov,662-839-2638,Biological Science Technician
+Mississippi,Refuge,Yazoo NWR,Mike Yelverton,mike_yelverton@fws.gov,662-839-2638,Engineering Equipment Operator
+Mississippi,Refuge,Yazoo NWR,Roxie Thomas,roxie_thomas@fws.gov,662-839-2638,Administrative Assistant
+Mississippi,Refuge,Lower Mississippi River NWR Complex,JImmy Laurent ,jimmy_laurent@fws.gov,601-442-6696 ext. 301,Project Leader
+Mississippi,Refuge,Lower Mississippi River NWR Complex,Kent Ozment,kent_ozment@fws.gov,601-442-6696 ext. 306,Wildlife Refuge Specialist
+Mississippi,Refuge,Lower Mississippi River NWR Complex,Mark Cupit,mark_cupit@fws.gov,601-442-6696 ext. 307,Federal Wildlife Officer
+Mississippi,Refuge,Lower Mississippi River NWR Complex,Julie Burks,julie_burks@fws.gov,601-442-6696 ext. 300,Administrative Officer
+Mississippi,Refuge,Lower Mississippi River NWR Complex,Nathan Hill,nathan_hill@fws.gov,601-442-6696 ext. 404,Maintenance Worker
+Mississippi,Refuge,Lower Mississippi River NWR Complex,Curtis Freeman,curtis_freeman@fws.gov,601-442-6696 ext. 401,Engineering Equipment Operator
+Mississippi,Refuge,Mississippi Sandhill Crane / Gulf Coast NWR Complex,Front Desk,mississippisandhillcrane@fws.gov,228-497-6322 ext. 101,Visitor Center
+Mississippi,Refuge,Mississippi Sandhill Crane NWR,James Bates,james_bates@fws.gov,228-497-6322 ext. 113,Equipment Operator
+Mississippi,Refuge,Mississippi Sandhill Crane NWR,Catherine Bland,catherine_bland@fws.gov,228-497-6322 ext. 104,Administrative Officer
+Mississippi,Refuge,Mississippi Sandhill Crane NWR,Angela Dedrickson,angela_dedrickson@fws.gov,228-497-6322 ext. 108,Wildlife Biologist
+Mississippi,Refuge,Mississippi Sandhill Crane NWR,Scott Hereford,scott_hereford@fws.gov,228-497-6322 ext. 109,Supervisory Wildlife Biologist
+Mississippi,Refuge,Mississippi Sandhill Crane NWR,Daniel Moss,daniel_moss@fws.gov,228-497-6322 ext. 107,Refuge Manager
+Mississippi,Refuge,Mississippi Sandhill Crane NWR,Melissa Perez,melissa_perez@fws.gov,228-497-6322 ext. 106,Visitor Services Manager
+Mississippi,Refuge,Mississippi Sandhill Crane / Gulf Coast NWR Complex,Jereme Phillips,jereme_phillips@fws.gov,228-497-6322 ext. 105,Complex Manager
+Mississippi,Refuge,Mississippi Sandhill Crane NWR /  Fire Center,Fire Center,,228-497-5780,Front Desk
+Mississippi,Refuge,Mississippi Sandhill Crane NWR /  Fire Center,,,228-497-5780 ext. 21,Dispatch
+Mississippi,Refuge,Mississippi Sandhill Crane NWR /  Fire Center,Fire Center,,228-522-0326,Maintenance Shop
+Mississippi,Refuge,Mississippi Sandhill Crane NWR /  Fire Center,Rebecca Goosman,rebecca_goosman@fws.gov,228-497-5780,Engine Boss
+Mississippi,Refuge,Mississippi Sandhill Crane NWR /  Fire Center,Sami Gray,sami_gray@fws.gov,228-497-5780 ext. 31,District FMO
+Mississippi,Refuge,Mississippi Sandhill Crane NWR /  Fire Center,Chris Nothstine,christopher_nothstine@fws.gov,228-497-5780,Lead Forestry Technician
+Mississippi,Refuge,Mississippi Sandhill Crane NWR /  Fire Center,Bert Rager,bert_rager@fws.gov,228-497-5780,Equipment Operator
+Mississippi,Refuge,Mississippi Sandhill Crane NWR /  Fire Center,Scott Saucier,scott_saucier@fws.gov,228-497-5780 ext. 30,RX Fire Specialist
+Mississippi,Refuge,Mississippi Sandhill Crane NWR /  Fire Center,Bunk Twiss,jeff_twiss@fws.gov,228-497-5780 ext. 23,Fire Program Technician
+Mississippi,Refuge,Grand Bay NWR,James McClelland,james_mcclelland@fws.gov,228-475-0765 ext. 101,Senior Federal Wildlife Officer
+Mississippi,Refuge,Bon Secour NWR,Bryan Barrett,bryan_barrett@fws.gov,215-540-1132,Federal Wildlife Officer
+North Carolina,Field Office,Raleigh Ecological Services Field Office,Pete Benjamin,pete_benjamin@fws.gov,919-856-4520 ext. 11,Field Supervisor
+North Carolina,Field Office,Raleigh Ecological Services Field Office,Tom Augspurger,tom_augspurger@fws.gov,919-856-4520 ext. 21,"Ecologist (Wildlife Toxicology, Contaminants)"
+North Carolina,Field Office,Raleigh Ecological Services Field Office,Matthew Butts,matthew_butts@fws.gov,919-856-4520 ext. 13,Administrative Officer
+North Carolina,Field Office,Raleigh Ecological Services Field Office,John Ellis,john_ellis@fws.gov,919-856-4520 ext. 26,"Fish and Wildlife Biologist (Habitat Conservation Planning, federal project review, hydroelectric project review)"
+North Carolina,Field Office,Raleigh Ecological Services Field Office,John Hammond,john_hammond@fws.gov,919-856-4520 ext. 28,"Fish and Wildlife Biologist (red-cockaded woodpecker, military liasion, migratory birds, consultation)"
+North Carolina,Field Office,Raleigh Ecological Services Field Office,Emily Wells,emily_wells@fws.gov,919-856-4520 ext. 25,"Fish and Wildlife Biologist (Habitat Conservation Planning, federal project review)"
+North Carolina,Field Office,Raleigh Ecological Services Field Office,Gary Jordan,gary_jordan@fws.gov,919-856-4520 ext. 32,"Fish and Wildlife Biologist (transportation, consultation)"
+North Carolina,Field Office,Raleigh Ecological Services Field Office,Wilson Laney,wilson_laney@fws.gov,919-515-5019,Fishery Biologist
+North Carolina,Field Office,Raleigh Ecological Services Field Office,Leigh Mann,leigh_mann@fws.gov,919-856-4520 ext. 10,Office Automation Clerk
+North Carolina,Field Office,Raleigh Ecological Services Field Office,Kathy Matthews,kathryn_matthews@fws.gov,919-856-4520 ext. 27,"Fish and Wildlife Biologist (wind energy, clean water, federal project review)"
+North Carolina,Field Office,Raleigh Ecological Services Field Office,Sarah McRae,sarah_mcrae@fws.gov,919-856-4520 ext. 16,"Fish and Wildlife Biologist (listing, recovery, endangered species)"
+North Carolina,Field Office,Raleigh Ecological Services Field Office,Doug Newcomb,doug_newcomb@fws.gov,919-856-4520 ext. 14,"Cartographer (GIS, network administration)"
+North Carolina,Field Office,Raleigh Ecological Services Field Office,John Ann Shearer,johnann_shearer@fws.gov,919-856-4520 ext. 17,"State Coordinator, Partners for Fish and Wildlife"
+North Carolina,Field Office,Raleigh Ecological Services Field Office,Lilibeth Serrano,lilibeth_serrano@fws.gov,252-933-2255,Public Affairs Specialist
+North Carolina,Field Office,Raleigh Ecological Services Field Office,Dale Suiter,dale_suiter@fws.gov,919-856-4520 ext. 18,"Fish and Wildlife Biologist (listing, recovery, invasive species)"
+North Carolina,Field Office,Raleigh Ecological Services Field Office,Sara Ward,sara_ward@fws.gov,919-856-4520 ext. 30,"Ecologist (Wildlife Toxicology, Contaminants, NRDAR)"
+North Carolina,Field Office,Raleigh Ecological Services Field Office,Mike Wicker,mike_wicker@fws.gov,919-856-4520 ext. 22,Fish and Wildlife Biologist (Coastal Coordinator)
+North Carolina,Field Office,Sandhills Field Office,Laura Fogo,laura_fogo@fws.gov,910-695-3323,Partners for Fish and Wildlife Biologist
+North Carolina,Field Office,Sandhills Field Office,Caroline Krom,caroline_george@fws.gov,910-695-3323,"Biological Science Technician (red-cocakded woodpecker, safe harbor program)"
+North Carolina,Field Office,Sandhills Field Office,Susan Miller,susan_miller@fws.gov,910-695-3323,"Fish and Wildlife Biologist (red-cockaded woodpecker, safe harbor program)"
+North Carolina,Field Office,Manteo Field Office,"George ""Nate"" Colby",george_colby@fws.gov,252-473-1132 ext. 243,Program Assistant (FOIA)
+North Carolina,Field Office,Manteo Field Office,Chris Lucash,chris_lucash@fws.gov,252-475-8259,"Wildlife Biologist (northern long-eared bat, red wolf)"
+North Carolina,Field Office,Manteo Field Office,Michael Morse,michael_l_morse@fws.gov,252-473-1132 ext. 242,"Wildlife Biologist (northern long-eared bat, red wolf)"
+North Carolina,Field Office,Manteo Field Office,Ryan Nordsven,ryan_nordsven@fws.gov,252-473-1132 ext. 244,"Wildlife Biologist (northern long-eared bat, red wolf)"
+North Carolina,Field Office,Manteo Field Office,Shaun Olson,shaun_olson@fws.gov,252-473-1132 ext. 241,"Biological Science Technician (northern long-eared bat, red wolf, black rail)"
+North Carolina,Field Office,Asheville Ecological Services Field Office,Janet Mizzi,janet_mizzi@fws.gov,828-258-3939 ext. 223,Field Supervisor
+North Carolina,Field Office,Asheville Ecological Services Field Office,Mara Alexander,mara_alexander@fws.gov,828-258-3939 ext. 238,Botanist
+North Carolina,Field Office,Asheville Ecological Services Field Office,Marella Buncick,marella_buncick@fws.gov,828-258-3939 ext. 237,Transportation project review
+North Carolina,Field Office,Asheville Ecological Services Field Office,Bob Butler,bob_butler@fws.gov,828-258-3939 ext. 235,Aquatic animals
+North Carolina,Field Office,Asheville Ecological Services Field Office,Sue Cameron,susan_cameron@fws.gov,828-258-3939 ext. 224,"Terrestrial animals, endangered species"
+North Carolina,Field Office,Asheville Ecological Services Field Office,Byran Tompkins,bryan_tompkins@fws.gov,828-258-3939 ext. 240,"Project review, Habitat Conservation Plans"
+North Carolina,Field Office,Asheville Ecological Services Field Office,Nancy Cole,nancy_cole@fws.gov,828-258-3939 ext. 232,Office Automation Assistant
+North Carolina,Field Office,Asheville Ecological Services Field Office,Kara Dziwulski,kara_dziwulski@fws.gov,828-258-3939 ext. 221,Pathways Intern
+North Carolina,Field Office,Asheville Ecological Services Field Office,Mark Endries,mark_endries@fws.gov,828-258-3939 ext. 231,GIS Analyst
+North Carolina,Field Office,Asheville Ecological Services Field Office,Kirk Gardner,kirk_gardner@fws.gov,828-258-3939 ext. 221,Pathways Intern
+North Carolina,Field Office,Asheville Ecological Services Field Office,Anita Goetz,anita_goetz@fws.gov,828-258-3939 ext. 228,Partners for Fish and Wildlife Biologist
+North Carolina,Field Office,Asheville Ecological Services Field Office,Byron Hamstead,byron_hamstead@fws.gov,828-258-3939 ext. 225,U.S. Army Corps of Engineers project review
+North Carolina,Field Office,Asheville Ecological Services Field Office,Andrew Henderson,andrew_henderson@fws.gov,828-258-3939 ext. 227,Tranportation project review
+North Carolina,Field Office,Asheville Ecological Services Field Office,Amber Kivett,amber_kivett@fws.gov,828-258-3939 ext. 239,Pathways Intern
+North Carolina,Field Office,Asheville Ecological Services Field Office,Jason Mays,jason_mays@fws.gov,828-258-3939 ext. 226,Aquatic animals
+North Carolina,Field Office,Asheville Ecological Services Field Office,Gary Peeples,gary_peeples@fws.gov,828-258-3939 ext. 234,Public Affairs Specialist
+North Carolina,Field Office,Asheville Ecological Services Field Office,Allen Ratzlaff,allen_ratzlaff@fws.gov,828-258-3939 ext. 229,Project review
+North Carolina,Field Office,Asheville Ecological Services Field Office,Laura Rogers,laura_rogers@fws.gov,828-258-3939 ext. 222,Administrative Officer
+North Carolina,Field Office,North Carolina Migratory Bird Field Office,John Stanton,john_stanton@fws.gov,252-796-2400,Project Leader
+North Carolina,Field Office,North Carolina Migratory Bird Field Office,Kendall Smith,kendall_smith@fws.gov,252-796-2401,Private Lands Biologist
+North Carolina,Hatchery,Edenton National Fish Hatchery,Stephen Jackson,stephen_jackson@fws.gov,252-482-4118 ext. 24,Hatchery Manager
+North Carolina,Hatchery,Edenton National Fish Hatchery,Sam Pollock,sam_pollock@fws.gov,252-482-4118 ext. 23,Deputy Hatchery Manager
+North Carolina,Hatchery,Edenton National Fish Hatchery,Marie Bullock,edith_bullock@fws.gov,252-482-4118 ext. 21,Administrative Assistant
+North Carolina,Hatchery,Edenton National Fish Hatchery,Bud Clayton,bud_clayton@fws.gov,252-482-4118 ext. 22,Engineering Equipment Operator
+North Carolina,Hatchery,Edenton National Fish Hatchery,Aubrey Onley,aubrey_onley@fws.gov,252-482-4118 ext. 22,Facility Operations Specialist
+North Carolina,Hatchery,Edenton National Fish Hatchery,Brandi Potter,brandi_potter@fws.gov,252-482-4118 ext. 22,Fisheries Technician
+North Carolina,Refuge,Alligator River National Wildlife Refuge,Rebekah Martin,rebekah_martin@fws.gov,252-473-1131 ext. 222,Project Leader
+North Carolina,Refuge,Alligator River National Wildlife Refuge,Scott Lanier,scott_lanier@fws.gov,252-473-1131 ext. 223,Deputy Project Leader
+North Carolina,Refuge,Alligator River National Wildlife Refuge,Art Beyer,arthur_beyer@fws.gov,252-473-1131 ext. 235,Assistant Refuge Manager
+North Carolina,Refuge,Alligator River National Wildlife Refuge,Kelley Van Druten,kelley_vandruten@fws.gov,252-473-1131 ext. 239,Assistant Refuge Manager
+North Carolina,Refuge,Alligator River National Wildlife Refuge,Bonnie Strawser,bonnie_strawser@fws.gov,252-473-1131 ext. 230,Visitor Services Manager
+North Carolina,Refuge,Alligator River National Wildlife Refuge,Bert Plante,bert_plante@fws.gov,252-473-1131 ext. 236,Fire Management Officer
+North Carolina,Refuge,Alligator River National Wildlife Refuge,Kathy McMahan,kathleen_mcmahan@fws.gov,252-473-1131 ext. 225,Administrative Officer
+North Carolina,Refuge,Alligator River National Wildlife Refuge,Cindy Heffley,cindy_heffley@fws.gov,252-475-9517,Visitor Services Specialist
+North Carolina,Refuge,Alligator River National Wildlife Refuge,Pamela Wingrove,pamala_wingrove@fws.gov,252-473-1131 ext. 246,Natural Resource Planner
+North Carolina,Refuge,Alligator River National Wildlife Refuge,Jay Eddy,jay_eddy@fws.gov,252-473-1132 ext. 237,Federal Wildlife Officer
+North Carolina,Refuge,Alligator River National Wildlife Refuge,Dustin Martin,dustin_martin@fws.gov,252-473-1132,Federal Wildlife Officer
+North Carolina,Refuge,Alligator River National Wildlife Refuge,Rebecca Harrison,rebecca_harrison@fws.gov,252-473-1132 ext. 231,Wildlife Biologist
+North Carolina,Refuge,Alligator River National Wildlife Refuge,Kristina Fair,kristina_fair@fws.gov,252-473-1744 ext. 32,Fish and Wildlife Biologist
+North Carolina,Refuge,Alligator River National Wildlife Refuge,Donald Harris,donald_harris@fws.gov,252-473-1744 ext. 34,Supervisory Forestry Technician
+North Carolina,Refuge,Alligator River National Wildlife Refuge,Eric Meekins,eric_meekins@fws.gov,252-473-1744,Engineering Equipment Operator
+North Carolina,Refuge,Alligator River National Wildlife Refuge,Amy Midgette,amy_midgette@fws.gov,252-473-1744 ext. 44,Engineering Equipment Operator
+North Carolina,Refuge,Alligator River National Wildlife Refuge,Jeffrey Swain,jeffrey_swain@fws.gov,252-473-1744 ext. 21,Engineering Equipment Operator
+North Carolina,Refuge,Alligator River National Wildlife Refuge,Cory Waters,cory_waters@fws.gov,252-473-1744 ext. 33,Forestry Technician
+North Carolina,Refuge,Alligator River National Wildlife Refuge,Lisa Meekins,lisa_meekins@fws.gov,252-473-1744,Forestry Technician
+North Carolina,Refuge,Alligator River National Wildlife Refuge,Brian Van Druten,brian_vandruten@fws.gov,252-473-1132 ext. 233,FIsh and Wildlife Biologist
+North Carolina,Refuge,Alligator River National Wildlife Refuge,Norman (Eric) Craddock,norman_craddock@fws.gov,252-473-1744 ext. 21,Engineering Equipment Operator
+North Carolina,Refuge,Alligator River National Wildlife Refuge,Jonathan Powers,jonathan_powers@fws.gov,252-473-1744 ext. 28,Maintenance Mechanic
+North Carolina,Refuge,Alligator River National Wildlife Refuge,Bobby Govan,bobby_govan@fws.gov,252-473-1744 ext. 26,Engineering Equipment Operator
+North Carolina,Refuge,Alligator River National Wildlife Refuge,Dawn Buckalew,dawn_buckalew@fws.gov,252-473-1131,Custodial Worker
+North Carolina,Refuge,Alligator River National Wildlife Refuge,Diana Nicely,diana_nicely@fws.gov,252-473-1131,Custodial Worker
+North Carolina,Refuge,Mattamuskeet National Wildlife Refuge,Pete Campbell,pete_campbell@fws.gov,252-926-4021 ext. 24,Refuge Manager
+North Carolina,Refuge,Mattamuskeet National Wildlife Refuge,Michelle Chappell,michelle_chappell,252-926-4021 ext. 22,Deputy Refuge Manager
+North Carolina,Refuge,Mattamuskeet National Wildlife Refuge,Debbie McGowan,debbie_mcgowan@fws.gov,252-926-4021 ext. 23,Administrative Officer
+North Carolina,Refuge,Mattamuskeet National Wildlife Refuge,Justin Mulligan,justin_mulligan@fws.gov,252-926-4021 ext. 27,Federal Wildlife Officer
+North Carolina,Refuge,Mattamuskeet National Wildlife Refuge,Michelle Moorman,michelle_moorman@fws.gov,252-926-4021,Fish & Wildlife Biologist
+North Carolina,Refuge,Mattamuskeet National Wildlife Refuge,Melvin Walston,melvin_walston@fws.gov,252-926-4021 ext. 28,Engineering Equipment Operator
+North Carolina,Refuge,Mattamuskeet National Wildlife Refuge,Mark Overman,mark_overman@fws.gov,252-926-4021 ext. 28,Maintenance Mechanic
+North Carolina,Refuge,Cedar Island National Wildlife Refuge,Kevin Keeler,kevin_keeler@fws.gov,252-225-2511,Maintenance Mechanic
+North Carolina,Refuge,Mattamuskeet National Wildlife Refuge,Linwood Beckwith,linwood_beckwith@fws.gov,252-926-4021,Firefighter
+North Carolina,Refuge,Mackay Island National Wildlife Refuge,Mike Hoff,mike_hoff@fws.gov,252-429-3100 ext. 26,Refuge Manager
+North Carolina,Refuge,Mackay Island National Wildlife Refuge,Susan Spry,susan_spry@fws.gov,252-429-3100 ext. 21,Administrative Support Assistant
+North Carolina,Refuge,Mackay Island National Wildlife Refuge,Adam Bennetch,adam_bennetch@fws.gov,252-302-1014,Engineering Equipment Operator
+North Carolina,Refuge,Pee Dee National Wildlife Refuge,J.D. Bricken,jeffrey_bricken@fws.gov,704-694-4424,Refuge Manager
+North Carolina,Refuge,Pee Dee National Wildlife Refuge,Greg Walmsley,greg_walmsley@fws.gov,704-694-4424,Deputy Refuge Manager
+North Carolina,Refuge,Pee Dee National Wildlife Refuge,Janet Gilreath,janet_gilreath@fws.gov,704-694-4424,Administrative Support Specialist
+North Carolina,Refuge,Pee Dee National Wildlife Refuge,David Pafford,david_pafford@fws.gov,704-694-4424,Engineering Equipment Operator
+North Carolina,Refuge,Pocosin Lakes National Wildlife Refuge,Refuge Manager,howard_phillips@fws.gov,252-796-3004 ext. 226,Howard Phillips
+North Carolina,Refuge,Pocosin Lakes National Wildlife Refuge,Greg Boling,greg_boling@fws.gov,252-796-3004 ext. 225,Deputy Refuge Manager
+North Carolina,Refuge,Pocosin Lakes National Wildlife Refuge,Susie Kowlok,susan_kowlok@fws.gov,252-796-3004 ext. 221,Administrative Officer
+North Carolina,Refuge,Pocosin Lakes National Wildlife Refuge,Jerry (Donnie) Dance,jerry_dance@fws.gov,252-796-3004 ext. 224,Federal Wildlife Officer
+North Carolina,Refuge,Pocosin Lakes National Wildlife Refuge,William Lowe,william_lowe@fws.gov,252-953-5373,Engineering Equipment Operator
+North Carolina,Refuge,Pocosin Lakes National Wildlife Refuge,Gregg Buckalew,gregg_buckalew@fws.gov,252-953-5373,Fire Management Officer
+North Carolina,Refuge,Pocosin Lakes National Wildlife Refuge,Kenneth (Kenny) Powell,kenneth_powell@fws.gov,252-953-5373,Engineering Equipment Operator-Fire
+North Carolina,Refuge,Roanoke River National Wildlife Refuge,Refuge Manager,matt_connolly@fws.gov,252-794-3808 ext. 105,Matt Connolly
+North Carolina,Refuge,Roanoke River National Wildlife Refuge,Biologist,jean_richter@fws.gov,252-794-3808 ext. 101,Jean Richter
+North Carolina,Refuge,Roanoke River National Wildlife Refuge,Biological Technician,rosetta_railey@fws.gov,252-794-3808 ext. 102,Rose Railey
+North Carolina,Refuge,Roanoke River National Wildlife Refuge,"Office Administration, Junior Duck Stamp Coordinator",sherrie_jager@fws.gov,252-794-3808 ext. 100,Sherrie Jager
+North Carolina,Refuge,Pea Island National Wildlife Refuge,Cindy Heffley,cindy_heffley@fws.gov,252-475-4180,"Visitor Services Specialist (interpretation, education, volunteers)"
+North Carolina,Refuge,Pea Island National Wildlife Refuge,Tracey Rock,tracey_rock@fws.gov,252-473-1131 ext. 227,Volunteer Coordinator
+North Carolina,Refuge,Pea Island National Wildlife Refuge,Mary Grindlay,mary_grindlay@fws.gov,252-473-1131 ext. 226,Gift Shop Manager
+North Carolina,Refuge,Pea Island National Wildlife Refuge,Steve Brumfield,steve_brumfield@fws.gov,252-473-1131 ext. 224,"Program Registration, Wings Over Water Coordinator"
+Puerto Rico / U.S. Virgin Islands,Refuge,"Buck Island, Green Cay, Sandy Point National Wildlife Refuges",Michael Evans,michael_evans@fws.gov,340-773-4554,Refuge Manager
+Puerto Rico / U.S. Virgin Islands,Refuge,Culebra National Wildlife Refuge,Ricardo Colon-Merced,ricardo_colon-merced@fws.gov,787-742-0115,Wildlife Biologist
+Puerto Rico / U.S. Virgin Islands,Refuge,Culebra National Wildlife Refuge,Elizabeth Arizmendi,elizabeth_arizmendi@fws.gov,787-742-0115,Maintenance Worker
+Puerto Rico / U.S. Virgin Islands,Refuge,Cabo Rojo National Wildlife Refuge,Gisella Burgos,gisella_burgos@fws.gov,787-851-7258 ext. 311,Park Ranger
+Puerto Rico / U.S. Virgin Islands,Refuge,Caribbean Islands National Wildlife Refuge,Susan Silander,susan_silander@fws.gov,787-851-7258,Project Leader
+Puerto Rico / U.S. Virgin Islands,Refuge,Caribbean Islands National Wildlife Refuge,Ana Roman,ana_roman@fws.gov,787-851-7258 ext. 305,Deputy Project Leader
+Puerto Rico / U.S. Virgin Islands,Refuge,Caribbean Islands National Wildlife Refuge,Hortencia Ruiz,hortencia_ruiz@fws.gov,787-851-7258 ext. 301,Administrative Officer
+Puerto Rico / U.S. Virgin Islands,Refuge,Caribbean Islands National Wildlife Refuge,Ricardo Antonetti,ricardo_antonetti@fws.gov,787-851-7258 ext 314,Facilities Operation Specialist
+Puerto Rico / U.S. Virgin Islands,Refuge,Caribbean Islands National Wildlife Refuge,William Wolfrom,william_wolfrom@fws.gov,787-851-7258 ext 317,Law Enforcement Officer
+Puerto Rico / U.S. Virgin Islands,Refuge,Caribbean Islands National Wildlife Refuge,Bryant Marcial,bryant_marcial@fws.gov,787-851-7258 ext. 319,Supervisory Law Enforcement Officer
+Puerto Rico / U.S. Virgin Islands,Refuge,Caribbean Islands National Wildlife Refuge,Fernando Ramos,fernando_ramos@fws.gov,787-851-7258 ext. 322,Maintenance Mechanic
+Puerto Rico / U.S. Virgin Islands,Refuge,Caribbean Islands National Wildlife Refuge,James Padilla,james_padilla@fws.gov,787-851-7258-ext 321,Fire Operations Specialist
+Puerto Rico / U.S. Virgin Islands,Field Office,Caribbean Ecological Services Field Office,Edwin E. Muñiz,edwin_muniz@fws.gov,787-851-7297 ext. 200,Field Supervisor
+Puerto Rico / U.S. Virgin Islands,Field Office,Caribbean Ecological Services Field Office,Marelisa Rivera,marelisa_rivera@fws.gov,787-851-7297 ext. 206,Deputy Field Supervisor
+Puerto Rico / U.S. Virgin Islands,Field Office,Caribbean Ecological Services Field Office,Marisel López-Flores,marisel_lopez@fws.gov,787-888-1810 ext. 5535,"Project Leader Supervisory Wildlife Biologist, Puerto Rican Parrot Recovery Program"
+Puerto Rico / U.S. Virgin Islands,Field Office,Caribbean Ecological Services Field Office,Carmen Matos,carmen_matos@fws.gov,787-851-7297 ext. 205,Administrative Officer
+Puerto Rico / U.S. Virgin Islands,Field Office,Caribbean Ecological Services Field Office,Sandra Perez,sandra_perez@fws.gov,787-851-7297 ext. 200,Office Automation Assistant
+Puerto Rico / U.S. Virgin Islands,Field Office,Caribbean Ecological Services Field Office,Raquel Reyes,raquel_reyes@fws.gov,787-888-1810 ext 5535,"Office Automation Assistant, Puerto Rican Parrot Recovery Program"
+Puerto Rico / U.S. Virgin Islands,Field Office,Caribbean Ecological Services Field Office,"José Cruz Burgos, PhD",jose_cruz-burgos@fws.gov,787-851-7297 ext. 218,"Fish and Wildlife Biologist, Endangered Species Program Coordinator"
+Puerto Rico / U.S. Virgin Islands,Field Office,Caribbean Ecological Services Field Office,Ángel G. Colón,angel_colon-santiago@fws.gov,787-851-7297 ext. 214,Biological Science Student Trainee
+Puerto Rico / U.S. Virgin Islands,Field Office,Caribbean Ecological Services Field Office,Xiomara Labiosa,xiomara_labiosa@fws.gov,787-851-7297 ext. 222," Fish and Wildlife Biologist, Partners and Coastal Program"
+Puerto Rico / U.S. Virgin Islands,Field Office,Caribbean Ecological Services Field Office,Iván Llerandi Román,ivan_llerandi-roman@fws.gov,787-851-7297 ext. 224," Fish and Wildlife Biologist, Habitat Conservation Program Coordinator"
+Puerto Rico / U.S. Virgin Islands,Field Office,Caribbean Ecological Services Field Office,Félix López,felix_lopez@fws.gov,787-851-7297 ext. 210,Ecologist/Contaminants Specialist
+Puerto Rico / U.S. Virgin Islands,Field Office,Caribbean Ecological Services Field Office,José Gilberto Martínez,jose_martinez@fws.gov,787-851-7297 ext. 219,Wildlife Biologist
+Puerto Rico / U.S. Virgin Islands,Field Office,Caribbean Ecological Services Field Office,Omar Monsegur,omar_monsegur@fws.gov,787-851-7297 ext. 217,Fish and Wildlife Biologist
+Puerto Rico / U.S. Virgin Islands,Field Office,Caribbean Ecological Services Field Office,Carlos Pacheco,carlos_pachecho@fws.gov,787-851-7297 ext. 221,Fish and Wildlife Biologist
+Puerto Rico / U.S. Virgin Islands,Field Office,Caribbean Ecological Services Field Office,Karen Torres,karen_torres@fws.gov,787-851-7297 ext. 203,IT Specialist
+Puerto Rico / U.S. Virgin Islands,Field Office,Caribbean Ecological Services Field Office,Jennifer Valentín,jennifer_valentin-traverzo@fws.gov ,787-851-7297 ext. 225,Biological Science Student Trainee
+Puerto Rico / U.S. Virgin Islands,Field Office,Caribbean Ecological Services Field Office,Maritza Vargas,maritza_vargas@fws.gov,787-851-7297 ext. 215,Fish and Wildlife Biologist
+Puerto Rico / U.S. Virgin Islands,Field Office,Caribbean Ecological Services Field Office,Jan Paul Zegarra,jan_zegarra@fws.gov,787-851-7297 ext. 220,Fish and Wildlife Biologist
+Puerto Rico / U.S. Virgin Islands,Field Office,Caribbean Ecological Services Field Office,Wilfredo Abreu,wilfredo_abreau@fws.gov,787-888-1810 ext 5535,"Biological Science Technician, Puerto Rican Parrot Recovery Program"
+Puerto Rico / U.S. Virgin Islands,Field Office,Caribbean Ecological Services Field Office,Gabriel Benítez,gabriel_benitez@fws.gov,787-888-1810 ext 5535,"Biological Science Technician, Puerto Rican Parrot Recovery Program"
+Puerto Rico / U.S. Virgin Islands,Field Office,Caribbean Ecological Services Field Office,Israel Cruz,israel_cruz@fws.gov,787-888-1810 ext 5535,"Facility Operation Specialist,Puerto Rican Parrot Recovery Program"
+Puerto Rico / U.S. Virgin Islands,Field Office,Caribbean Ecological Services Field Office,Arely Jhonson-Camacho,arely_jhonson-camacho@fws.gov,787-888-1810 ext 5535,"Biological Science Technician, Puerto Rican Parrot Recovery Program"
+Puerto Rico / U.S. Virgin Islands,Field Office,Caribbean Ecological Services Field Office,Limary Ramírez-Esquilín,limary_ramirez-esquilin@fws.gov,787-888-1810 ext 5535,"Biological Science Technician, Puerto Rican Parrot Recovery Program"
+Puerto Rico / U.S. Virgin Islands,Field Office,Caribbean Ecological Services Field Office,Jesus Ríos-Cruz,jesus_rios-cruz@fws.gov,787-888-1810 ext 5535,"Biological Science Technician, Puerto Rican Parrot Recovery Program"
+Puerto Rico / U.S. Virgin Islands,Field Office,Caribbean Ecological Services Field Office,Iris Rodríguez,iris_rodriguez@fws.gov,787-888-1810 ext 5535,"Biological Science Technician, Puerto Rican Parrot Recovery Program"
+Puerto Rico / U.S. Virgin Islands,Field Office,Caribbean Ecological Services Field Office,Miguel Toledo,miguel_toledo@fws.gov,787-888-1810 ext 5535,"Biological Science Technician, Puerto Rican Parrot Recovery Program"
+Puerto Rico / U.S. Virgin Islands,Field Office,Caribbean Ecological Services Field Office,Pablo Torres-Baéz,pablo_torres@fws.gov,787-888-1810 ext 5535,"Wildlife Biologist, Puerto Rican Parrot Recovery Program"
+Puerto Rico / U.S. Virgin Islands,Field Office,Caribbean Ecological Services Field Office,Jafet Vélez,jafet_velez@fws.gov,787-888-1810 ext 5535,"Wildlife Biologist, Puerto Rican Parrot Recovery Program"
+Puerto Rico / U.S. Virgin Islands,Field Office,Caribbean Ecological Services Field Office,"Thomas White, PhD",thomas_white@fws.gov,787-888-1810 ext 5535,"Wildlife Biologist, Puerto Rican Parrot Recovery Program"
+Puerto Rico / U.S. Virgin Islands,Field Office,Caribbean Ecological Services Field Office,Damaris Roman,damaris_roman@fws.gov,787-888-1810 ext 5535,"Biological Science Technician, Puerto Rican Parrot Recovery Program"
+Puerto Rico / U.S. Virgin Islands,Field Office,Caribbean Ecological Services Field Office,Joel Arroyo,joel_arroyo@fws.gov,787-851-7297 ext 208,Office Support Student Trainee
+Puerto Rico / U.S. Virgin Islands,Field Office,Caribbean Ecological Services Field Office,Alexandra Galindo,alexandra_galindo@fws.gov,787-851-7297 ext 223,Fisheries Biologist
+Puerto Rico / U.S. Virgin Islands ,Refuge,"Buck Island, Green Cay, Sandy Point National Wildlife Refuges",Claudia Lombard,claudia_lombard@fws.gov,340-690-8325,Law Enforcement/Biologist
+Puerto Rico / U.S. Virgin Islands,Caribbean LCC,San Juan,Miguel A. Garcia-Bermudez,miguel_garcia-bermudez@fws.gov,787-396-5943,Fish and Wildlife Administrator
+Puerto Rico / U.S. Virgin Islands,Refuge,Vieques National Wildlife Refuge,Martin Ramos,martin_ramos@fws.gov,787-741-2138,Forestry Technician (Fire)
+Puerto Rico / U.S. Virgin Islands,Refuge,Vieques National Wildlife Refuge,Francisco Figueroa,francisco_figueroa@fws.gov,787-741-2138,Engineering Equipment Operator
+Puerto Rico / U.S. Virgin Islands,Refuge,Vieques National Wildlife Refuge,Michael Barandiaran,mike_barandiaran@fws.gov,787-741-2138 ,Refuge Manager
+Puerto Rico / U.S. Virgin Islands,Refuge,Vieques National Wildlife Refuge,Sandra Ortiz,sandra_ortiz@fws.gov,787-741-2138,Park Ranger
+Puerto Rico / U.S. Virgin Islands,Refuge,Vieques National Wildlife Refuge,Angel Toro,angel_toro@fws.gov,787-741-2138,Law Enforcement Officer
+South Carolina,Refuge,Carolina Sandhills National Wildlife Refuge,Lyne Askins,allyne_askins@fws.gov,843-335-6023,Project Leader
+South Carolina,Refuge,Carolina Sandhills National Wildlife Refuge,Clifford (Cliff) Berger,clifford_berger@fws.gov,843-335-6024,Deputy Project Leader
+South Carolina,Refuge,Carolina Sandhills National Wildlife Refuge,Jack Culpepper,jack_culpepper@fws.gov,843-335-6383,Forester
+South Carolina,Refuge,Carolina Sandhills National Wildlife Refuge,Nancy Jordan,nancy_jordan@fws.gov,843-335-6026,Biologist
+South Carolina,Refuge,Carolina Sandhills National Wildlife Refuge,Mark Parker,mark_parker@fws.gov,843-335-6384,Fire Management Officer
+South Carolina,Refuge,Carolina Sandhills National Wildlife Refuge,Derrick Odegard,derrick_odegard@fws.gov,843-335-6387,Forestry Technician - fire
+South Carolina,Refuge,Carolina Sandhills National Wildlife Refuge,Randy McLain,randy_mclain@fws.gov,843-335-8618,Engineering Equipment Operator - fire
+South Carolina,Refuge,Carolina Sandhills National Wildlife Refuge,Patricia McCoy,patricia_mccoy@fws.gov,843-335-8350,Administrative Support Specialist
+South Carolina,Refuge,Carolina Sandhills National Wildlife Refuge,Charity Lake,charity_lake@fws.gov,843-335-6385,Forestry Technician
+South Carolina,Refuge,South Carolina Lowcountry National Wildlife Refuges,Durwin Carter,durwin_carter@fws.gov,843-928-3264 ext. 217,Project Leader
+South Carolina,Refuge,South Carolina Lowcountry National Wildlife Refuges,Jean Ruble,jean_ruble@fws.gov,843-928-3264 ext. 218,Budget Analyst
+South Carolina,Refuge,South Carolina Lowcountry National Wildlife Refuges,Kevin Kuhn,kevin_kuhn@fws.gov,803-478-2217,Senior Federal Wildlife Officer
+South Carolina,Refuge,Cape Romain National Wildlife Refuge,Sarah Dawsey,sarah_dawsey@fws.gov,843-928-3264 ext. 213,Refuge Manager
+South Carolina,Refuge,Cape Romain National Wildlife Refuge,Patricia Midgett,patricia_midgett@fws.gov,843-928-3264 ext. 210,Park Ranger
+South Carolina,Refuge,Cape Romain National Wildlife Refuge,Ford Mauney,ford_mauney@fws.gov,843-928-3264 ext. 215,Biologist
+South Carolina,Refuge,Cape Romain National Wildlife Refuge,Jerry Tupacz,edward_tupacz@fws.gov,843-928-3264 ext. 216,Wildlife Refuge Specialist
+South Carolina,Refuge,Cape Romain National Wildlife Refuge,Greg Geathers,greg_geathers@fws.gov,843-928-3802,Maintenance Worker
+South Carolina,Refuge,Cape Romain National Wildlife Refuge,Alexander Beattie,alexander_beattie@fws.gov,843-928-3802,Maintenance Worker
+South Carolina,Refuge,Waccamaw National Wildlife Refuge,Marshall (Craig) Sasser,marshall_sasser@fws.gov,843-527-8069,Refuge Manager
+South Carolina,Refuge,Waccamaw National Wildlife Refuge,Walter Neasbitt,walter_neasbitt@fws.gov,843-527-8069,Assistant Refuge Manager
+South Carolina,Refuge,Waccamaw National Wildlife Refuge,Jason Hunnicut,jason_hunnicut@fws.gov,843-527-8069,Park Ranger
+South Carolina,Refuge,Santee National Wildlife Refuge,Marcie Kapsch,marcie_kapsch@fws.gov,803-478-2217,Refuge Manager
+South Carolina,Refuge,Santee National Wildlife Refuge,Garrett Wilkerson,garrett_wilkerson@fws.gov,803-478-2217,Biologist
+South Carolina,Refuge,Santee National Wildlife Refuge,James Killian,james_killian@fws.gov,803-478-2216,Engineering Equipment Operator
+South Carolina,Refuge,Santee National Wildlife Refuge,Matt Brown,matt_c_brown@fws.gov,803-478-2216,Engineering Equipment Operator
+South Carolina,Refuge,Ernest F. Hollings ACE Basin National Wildlife Refuge,Mark Purcell,mark_purcell@fws.gov,843-889-3084 ext. 11,Refuge Manager
+South Carolina,Refuge,Ernest F. Hollings ACE Basin National Wildlife Refuge,Brett Craig,jason_craig@fws.gov,843-889-3084,Wildlife Refuge Specialist
+South Carolina,Refuge,Ernest F. Hollings ACE Basin National Wildlife Refuge,Melissa Pope,melissa_pope@fws.gov,843-889-3084 ext. 10,Office Assistant
+South Carolina,Refuge,Ernest F. Hollings ACE Basin National Wildlife Refuge,Dwayne Sanders,dwayne_sanders@fws.gov,843-889-3084,Crane Operator
+South Carolina,Refuge,Ernest F. Hollings ACE Basin National Wildlife Refuge,Alan McLaurin,alan_mclaurin@fws.gov,843-889-3084,Engineering Equipment Operator
+South Carolina,Refuge,Ernest F. Hollings ACE Basin National Wildlife Refuge,Matt Sutkowski,matthew_sutowski@fws.gov,843-889-3084,Forestry Technician - fire
+Tennessee,Refuge,Cross Creeks National Wildlife Refuge,Ricky Eastridge,ricky_eastridge@fws.gov,931-232-7477,Refuge Manager
+Tennessee,Refuge,Cross Creeks National Wildlife Refuge,Linda Green,linda_green@fws.gov,931-232-7477,Administrative Support Specialist
+Tennessee,Refuge,Tennessee National Wildlife Refuge Complex,Barron Crawford,barron_crawford@fws.gov,731-642-2091,Project Leader
+Tennessee,Refuge,Tennessee National Wildlife Refuge Complex,Troy Littrell,troy_littrell@fws.gov,731-642-2091 ext. 306,Deputy Project Leader
+Tennessee,Refuge,Tennessee National Wildlife Refuge Complex,Celeste Reagan,celeste_reagan@fws.gov,731-642-2091,Federal Wildlife Officer
+Tennessee,Refuge,Tennessee National Wildlife Refuge,Clayton Ferrell,clayton_ferrell@fws.gov,931-535-2465,Wildlife Biologist
+Tennessee,Refuge,Tennessee National Wildlife Refuge,Corey Jackson,corey_jackson@fws.gov,731-642-2091,Federal Wildlife Officer
+Tennessee,Refuge,Tennessee National WIldlife Refuge Complex,Dale Norris,dale_norris@fws.gov,931-232-7477,Engineering Equipment Operator
+Tennessee,Refuge,Tennessee National Wildlife Refuge,David Gaskin,david_gaskin@fws.gov,931-535-2465,Engineering Equipment Operator
+Tennessee,Refuge,Tennessee National Wildlife Refuge Complex,Ferris Calderon,ferris_calderon@fws.gov,731-642-2091,Assistant Refuge Manager
+Tennessee,Refuge,Tennessee National Wildlife Refuge Complex,Jared Allsbrooks,jared_allsbrooks@fws.gov,931-535-2465,Federal Wildlife Officer
+Tennessee,Refuge,Tennessee National Wildlife Refuge Complex,Jeremy Curtis,jeremy_curtis@fws.gov,731-642-2091,Federal Wildlife Officer
+Tennessee,Refuge,Tennessee National Wildlife Refuge,Joan Howe,joan_howe@fws.gov,731-642-2091 ext. 303,Refuge Ranger
+Tennessee,Refuge,Tennessee National Wildlife Refuge,Michael Heck,michael_heck@fws.gov,731-642-2091,Biologist
+Tennessee,Refuge,Tennessee National Wildlife Refuge,Michael Hottes,michael_hottes@fws.gov,931-535-2465,Engineering Equipment Operator
+Tennessee,Refuge,Tennessee National Wildlife Refuge,Patricia Lancaster,patricia_lancaster@fws.gov,731-642-2091,Administrative Support Specialist
+Tennessee,Refuge,Tennessee National Wildlife Refuge,Robert Wheat,robert_wheat@fws.gov,731-642-2091 ext. 309,Wildlife Biologist
+Tennessee,Refuge,Tennessee National Wildlife Refuge,Tina Chouinard,tina_chouinard@fws.gov,731-736-2199,Field Planner
+Tennessee,Refuge,West Tennessee NWR Complex,"Jimmie ""Randy"" Cook",randy_cook@fws.gov,731-538-2481 ext.123,Project Leader
+Tennessee,Refuge,West Tennessee NWR Complex,Joseph McGowan,joseph_mcgowan@fws.gov,731-635-2481 ext.125,Deputy Project Leader
+Tennessee,Refuge,West Tennessee NWR Complex,Cathey Xavier,cathey_xavier@fws.gov,731-635-2481,Wildlife Refuge Specialist
+Tennessee,Refuge,West Tennessee NWR Complex,William Holaway,william_holaway@fws.gov,731-635-2481 ext.130,Federal Wildlife Officer
+Tennessee,Refuge,West Tennessee NWR Complex,Drew Wirwa,drew_wirwa@fws.gov,731-635-2481,Refuge Manager
+Tennessee,Refuge,West Tennessee NWR Complex,Leif Karnuth,leif_karnuth@fws.gov,731-635-2481,Forester
+Tennessee,Refuge,West Tennessee NWR Complex,Tara Dowdy,tara_dowdy@fws.gov,731-635-2481,Park Ranger/Interpretive
+Tennessee,Refuge,West Tennessee NWR Complex,Gary Pogue,gary_pogue@fws.gov,731-635-2481,Wildlife Biologist
+Tennessee,Refuge,West Tennessee NWR Complex,Demetra Rust,demetra_rust@fws.gov,731-635-2481 ext.122,Budget Analyst
+Tennessee,Refuge,West Tennessee NWR Complex,Joshua Gegg,joshua_gegg@fws.gov,731-635-2481,Engineering Equipment Operator
+Tennessee,Refuge,West Tennessee NWR Complex,Ken Hogg,ken_hogg@fws.gov,731-635-2481,Engineering Equipment Operator
+Tennessee,Refuge,Chickasaw NWR,Bryan Woodward,bryan_woodward@fws.gov,731-635-7621,Refuge Manager
+Tennessee,Refuge,Chickasaw NWR,Shannon Watkins,shannon_watkins@fws.gov,731-635-7621,Engineering Equipment Operator
+Tennessee,Refuge,Chickasaw NWR,Larry Gourley,larry_gourley@fws.gov,731-635-7621,Engineering Equipment Operator
+Tennessee,Refuge,Hatchie NWR,James Roberts,james_robert@fws.gov,731-772-0501,Wildlife Refuge Specialist
+Tennessee,Refuge,Hatchie NWR,Janice Hinsley,janice_hinsley@fws.gov,731-772-0501,Administrative Officer
+Tennessee,Refuge,Hatchie NWR,Hubert Barcroft,hubert_barcroft@fws.gov,731-772-0501,Engineering Equipment Operator
+Tennessee,Refuge,Lower Hatchie NWR,"Johnny ""Whit"" Lewis",whit_lewis@fws.gov,731-738-2796,Pest Management Coordinator
+Tennessee,Refuge,Lower Hatchie NWR,Bobby Baker,,731-738-2796,Engineering Equipment Operator
+Florida,Refuge,St. Marks NWR,Dan Frisk,dan_frisk@fws.gov,850-925-6121,Project Leader
+Florida,Refuge,St. Marks NWR,Terry Peacock,terry_peacock,850-925-6121,Refuge Manager
+Florida,Refuge,St. Marks NWR,Greg Titus,gregory_titus@fws.gov,850-925-5661,District Fire Management Officer
+Florida,Refuge,St. Marks NWR,Bart Rye,barton_rye@fws.gov,850-925-6121,
+Florida,Refuge,St. Marks NWR,Joshua Havird,joshua_havird@fws.gov,352-493-0238,Fire Technician
+Florida,Refuge,St. Marks NWR,Willie Lindsey,willie_lindsey@fws.gov,850-925-0544,Equipment Operator
+Florida,Refuge,St. Marks NWR,Travis Pollard,travis_pollard@fws.gov,850-925-6121,Forestry Technician
+Florida,Refuge,St. Marks NWR,Meagan Bieber,meagan_bieber@fws.gov,850-925-6121,
+Florida,Refuge,St. Marks NWR,Robin Will,robin_will@fws.gov,850-925-6121,Supervisory Park Ranger
+Florida,Refuge,St. Marks NWR,David Moody,david_moody@fws.gov,850-925-6121,Park Ranger
+Florida,Refuge,St. Marks NWR,Lori Nicholson,lori_nicholson@fws.gov,850-925-6121,Instructional Systems Specialist
+Florida,Refuge,St. Marks NWR,Heather Bevis,heather_bevis@fws.gov,850-925-6121,Park Ranger
+Florida,Refuge,St. Marks NWR,Scott Davis,scott.davis@fws.gov,850-925-6121,Park Ranger
+Florida,Refuge,St. Marks NWR,Gail Fishman,gail.fishman@fws.gov,850-925-6121,Park Ranger
+Florida,Refuge,St. Marks NWR,Craig Kittendorf,craig_kittendorf@fws.gov,850-925-6121,Visitor Use Assistant
+Florida,Refuge,St. Marks NWR,Joseph Reinmann,joseph_reinmann@fws.gov,850-925-6121,Wildlife Biologist
+Florida,Refuge,St. Marks NWR,Jonathan Chandler,jonathan_chandler@fws.gov,850-925-6121,RICH
+Florida,Refuge,St. Marks NWR,Mary Mack,mary_gray@fws.gov,850-925-6121,
+Florida,Refuge,St. Marks NWR,Marysa Milinichik,marysa_milinichik@fws.gov,850-925-6121,Biological Science Technician
+Florida,Refuge,St. Marks NWR,Bryson Harvey,bryson_harvey@fws.gov,850-925-6121,Laborer
+Florida,Refuge,St. Marks NWR,Dallas Beckett,dallas_beckett@fws.gov,850-925-6121,Maintenance Wage grade leader
+Florida,Refuge,St. Vinecnt NWR,Charlotte Chumney,charlotte_chumney@fws.gov,850-653-8808,Administrative Officer
+Florida,Refuge,St. Vinecnt NWR,Dewey Shiver,dewey_shiver@fws.gov,850 653-8808,Forestry Technician
+Florida,Refuge,St. Vinecnt NWR,Bradley Smith,bradely_smith@fws.gov,850-653-8808,Forestry Technician
+Florida,Refuge,St. Vinecnt NWR,John Stark,john_stark@fws.gov,850-653-8808,Deputy Refuge Manager
+Florida,Refuge,St. Vinecnt NWR,John Murphy,john_murphy@fws.gov,850-653-8808,
+Florida,Refuge,Lower Suwannee NWR,Daniel Barrand,daniel_barrand@fws.gov,352-493-0238,Forester
+Florida,Refuge,Lower Suwannee NWR,Jason Coates,jason_coates@fws.gov,352-493-0238,Engineering Equipment Operator
+Florida,Refuge,Lower Suwannee NWR,Victor Doig,victor_doig@fws.gov,352 493-0238 ext 227,Fire Managment Officer
+Florida,Refuge,Lower Suwannee NWR,Andrew Gude,andrew_gude@fws.gov,352-493-0238,Refuge Manager
+Florida,Refuge,Lower Suwannee NWR,David Murphy,david_murphy@fws.gov,352-493-0238,Federal Wildlife Officer
+Florida,Refuge,Lower Suwannee NWR,Larry Woodward,larry_woodward@fws.gov,352-493-0238,Deputy Refuge Manager
+Florida,Regional Office,Fort Lauderdale Reseach and Education Center,Laura Brandt,laura_brandt@fws.gov,954-577-6343,Regional Scientist
+Florida,Regional Office,Landscape Conservation Cooperative (Vero Beach),Todd Hopkins,todd_hopkins@fws.gov,(772) 469-4289,"Coordinator, Peninsular Florida Landscape Conservation Cooperative"
+Florida,Regional Office,Landscape Conservation Cooperative (Vero Beach),Steve Traxler,steve_traxler@fws.gov,(772) 469-4265,"Science Coordinator, Peninsular Florida Landscape Conservation Cooperative"
+Florida,Regional Office,Landscape Conservation Cooperative (Tallahassee),Beth Stys,beth.stys@MYFWC.com,(850) 488-8916,"Science Coordinator, Peninsular Florida Landscape Conservation Cooperative"
+North Carolina,,Landscape Conservation Cooperative (Raleigh),Amy Keister,amy_keister@fws.gov,919-707-0278,"GIS Coordinator, South Atlatnic Landscape Conservation Cooperative"
+Florida,Refuge,Crystal River NWR Complex,Main Office,crystalriver@fws.gov,352-563-2088,
+Florida,Refuge,Crystal River NWR Complex,Joyce Palmer,joyce_palmer@fws.gov,352-563-2088 ext 202,Refuge Manager
+Florida,Refuge,Crystal River NWR Complex,Stan Garner,stan_garner@fws.gov,352-563-2088,VS Manager / Tampa Bay
+Florida,Refuge,Crystal River NWR Complex,Craig Cavanna,craig_cavanna@fws.gov,352 382-0102,Federal Wildlife Officer
+Florida,Refuge,Crystal River NWR Complex,Ryan Maier,ryan_maier@fws.gov,352-563-2088 ext 210,Federal Wildlife Officer
+Florida,Refuge,Crystal River NWR Complex,Joyce Kleen,joyce_kleen@fws.gov,352-563-2088 ext 209,Wildlife Biologist
+Florida,Refuge,Crystal River NWR Complex,Trisha Phy,trisha_phy@fws.gov,352-563-2088 ext 214,Biological Science Technician
+Florida,Refuge,Crystal River NWR Complex,Rhonda Litwin,rhonda_litwin@fws.gov,352-563-2088 ext 203,Administrative Support
+Florida,Refuge,Crystal River NWR Complex,Beth Perez,elizabeth_perez@fws.gov,352-563-2088 ext 208,Volunteer Coordinator
+Florida,Refuge,Crystal River NWR Complex,Jody Pack,joseph_pack@fws.gov,352 382-0102,Small Craft Operator
+Florida,Refuge,Crystal River NWR Complex,Shane Watson,shane_watson@fws.gov,352 382-0102,Miantenance Mechanic
+Florida,Refuge,Crystal River NWR Complex,Laura Housh,laura_housh@fws.gov,352-563-2088,NR Planner / Biologist
+Florida,Refuge,Crystal River NWR Complex,John Edwards,john_edwards@fws.gov,850-925-3199,IT Specialist
+Florida,Refuge,Everglades Headwater's NWR Complex,Dayma Wasmund,dayma_wasmund@fws.gov,772-581-5557,Biological Science Technician
+Florida,Refuge,Everglades Headwater's NWR Complex,William Miller,william_g_miller@fws.gov,772-581-5557,Project Leader
+Florida,Refuge,Everglades Headwater's NWR Complex,Oliver Van Den Ende,oliver_vandenende@fws.gov ,772-581-5557,Wildlife Refuge Specialist
+Florida,Refuge,Everglades Headwater's NWR Complex,Jeremy Edwardson,jeremy_edwardson@fws.gov ,772-581-5557,Deputy Project Leader
