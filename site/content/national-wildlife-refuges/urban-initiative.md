@@ -6,7 +6,7 @@ hero:
     caption: 'New Orleans from space; Bayou Sauvage NWR is located in the top right of the photograph.  Photo from the International Space Station, NASA.'
     link: 'https://flic.kr/p/9dHxjG'
     name: bayou-sauvage-from-space.jpg
-    position: 'top right'
+    position: 'right center'
 nav: 'Urban Initiative'
 weight: 3
 aliases:
@@ -16,7 +16,7 @@ aliases:
 tags:
     - 'National Widlife Refuge System'
     - 'Urban Initiative'
-updated: 'January 9th, 2017'
+updated: 'January 12th, 2017'
 ---
 
 ## The Challenge
