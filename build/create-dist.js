@@ -9,8 +9,7 @@
     'dist/data',
     'dist/css',
     'dist/images/hero',
-    'dist/images/pages',
-    'data/data'
+    'dist/images/pages'
   ];
 
   // Don't blast away CSS, JavaScript, or Images or we'll have to just re-copy them
