@@ -2,17 +2,17 @@
 title: 'Wildlife, Habitats and Our Changing Climate'
 description: 'Cape Romain National Wildlife Refuge in South Carolina serves as a living laboratory for the U.S. Fish and Wildlife Service to study the impacts of rising sea levels on coastal wildlife and habitats.'
 aliases:
-  - /climate
+    - /climate
 hero:
     link: 'https://flic.kr/p/cAqMQL'
     name: blackbeard-island.jpg
     alt: 'Sunset over Blackbeard Island, Georgia'
     caption: 'Sunset at Blackbeard Island National Wildlife Refuge in Georgia. Photo by Molly Martin, USFWS.'
 tags:
-    - 'climate change'
-    - 'sea level rise'
-    - carbon
-updated: 'May 9th, 2016'
+    - 'Climate Change'
+    - 'Sea Level Rise'
+    - Carbon
+updated: 'January 26th, 2017'
 ---
 
 In the southeastern United States, changes to the climate are having profound impacts on our nation’s wildlife and habitats. In aquatic environments, evidence is growing that higher water temperatures resulting from climate change are negatively impacting cold- and cool-water fish populations across the country. Warmer winters are changing the birds’ migratory patterns. Sooty terns, which nest in the Dry Tortugas off Key West, Florida, are showing up earlier and earlier. Roseate spoonbills, which generally stay in Florida, the Gulf Coast and points south, are now regularly spotted in South Carolina. Record warm seawater is linked to [coral reef bleaching](http://coralreefwatch.noaa.gov/satellite/index.php) in the Florida Keys and Puerto Rico.
@@ -62,7 +62,7 @@ This approach also ensures that carbon sequestration projects truly benefit our 
 
 Our Earth, its land and its oceans, are more than just a storage container for greenhouse gases. The U.S. Fish and Wildlife Service’s partnerships with industry and conservation organizations will result in terrestrial carbon sequestration projects that conserve, restore, and maintain the ecological integrity of our nation’s land, water, and native habitats for fish and wildlife.
 
-*Read and print our [PDF fact sheet](/pdf/carbon-fact-sheet.pdf) on carbon sequestration.*
+*Download our [carbon sequestration fact sheet](/pdf/fact-sheet/carbon-sequestration.pdf).*
 
 ## Additional Resources
 
