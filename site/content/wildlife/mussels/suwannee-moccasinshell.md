@@ -18,7 +18,7 @@ hero:
     alt: 'Two dark gray mussels with striations on a red towel next to a ruler for scale.'
     caption: 'Suwannee moccasinshells. Photo by USFWS.'
     position: bottom
-updated: 'November 9th, 2016'
+updated: 'January 26th, 2017'
 ---
 
 - **Taxon:** Bivalve, Unionidae
@@ -50,7 +50,7 @@ The Suwannee moccasinshell’s historical range includes the lower and middle Su
 
 Presently, the Suwannee moccasinshell occurs in the lower Santa Fe River, and the lower and middle Suwannee River mainstem in Madison, Suwannee, Lafayette, Gilchrist, Dixie, Levy, Columbia, Alachua, Union, and Bradford Counties, Florida
 
-{{< figure class="photo-center" src="/images/pages/suwannee-moccasinshell-distribution.jpg" alt="A map showing the location of Suwannee moccasinshell in Northern Florida and Southeastern Georgia." caption="Suwannee moccasinshell distribution. Map by USFWS." link="/pdf/suwannee-moccasinshell-distribution.pdf" >}}
+{{< figure class="photo-center" src="/images/pages/suwannee-moccasinshell-distribution.jpg" alt="A map showing the location of Suwannee moccasinshell in Northern Florida and Southeastern Georgia." caption="Suwannee moccasinshell distribution. Map by USFWS." link="/pdf/map/suwannee-moccasinshell-distribution.pdf" >}}
 
 ## Conservation Challenges
 
