@@ -1,13 +1,14 @@
 ---
-title: Dan River Coal Ash Spill Trustees Seek Public Input on Scoping Document for Restoration Planning
+title: 'Dan River Coal Ash Spill Trustees Seek Public Input on Scoping Document for Restoration Planning'
 date: '2015-10-02'
 hero:
-  name: dan-river.jpg
-  alt: A riverbank in what appears to be cold weather.
-  caption: The Dan River. Photo by USFWS.
+    name: dan-river.jpg
+    alt: 'A riverbank in what appears to be cold weather.'
+    caption: 'The Dan River. Photo by USFWS.'
 tags:
- - North Carolina
- - Coal Ash Spill
+    - 'North Carolina'
+    - 'Coal Ash Spill'
+updated: 'January 26th, 2017'
 ---
 
 The natural resource trustees for the[ February 2, 2014 Dan River coal ash spill ](http://epa.gov/region4/duke-energy/index.html)([U.S. Fish and Wildlife Service](http://www.fws.gov/), [North Carolina Department of Environmental and Natural Resources](http://portal.ncdenr.org/web/guest), and [Virginia Department of Environmental Quality](http://www.deq.virginia.gov/)) are seeking public review and comment on potential restoration opportunities in the Dan River watershed area.
@@ -16,7 +17,7 @@ The [_Dan River Scoping Document for Restoration Planning_](/pdf/dan-river-sco
 
 ## Background
 
-In June, the natural resource trustees entered into a [cooperative Natural Resource Damage Assessment and Restoration (NRDAR) process](/pdf/dan-river-factsheet.pdf) with Duke Energy, the party responsible for the Dan River coal ash spill.  As part of the cooperative NRDAR, the trustees assess the impacts of the coal ash pond release on natural resources, focusing on injuries to habitat, surface water and sediment, aquatic species, migratory birds, and human uses of those resources. 
+In June, the natural resource trustees entered into a [cooperative Natural Resource Damage Assessment and Restoration (NRDAR) process](/pdf/fact-sheet/dan-river-factsheet.pdf) with Duke Energy, the party responsible for the Dan River coal ash spill.  As part of the cooperative NRDAR, the trustees assess the impacts of the coal ash pond release on natural resources, focusing on injuries to habitat, surface water and sediment, aquatic species, migratory birds, and human uses of those resources. 
 
 The primary goal of NRDAR is to restore natural resources and the services they provide.  To meet this goal, the trustees recover funds to implement and/or oversee restoration projects.  Restoration activities, such as restoring, protecting, or enhancing fish and wildlife and their habitat and improving public use and access to natural resources, address the injuries resulting from the release of hazardous substances.  NRDAR does not address and the trustees do not recover funds to offset economic injuries resulting from the release, such as damage to personal property or commercial interests. 
 
