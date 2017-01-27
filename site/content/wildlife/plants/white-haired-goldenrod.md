@@ -4,7 +4,7 @@ type: species-profile
 scientific: 'Solidago albopilosa'
 js: /js/species-profile.js
 tags:
-    - 'White-haired goldenrod'
+    - 'White-Haired Goldenrod'
     - Kentucky
     - Plant
 aliases:
@@ -17,7 +17,7 @@ hero:
     alt: 'Leafy green vegetation with bright yellow flowers'
     caption: 'White-haired goldenrod. Photo: John MacGregor, Kentucky Dept. of Fish and Wildlife Resources'
 description: 'The white-haired goldenrod is a unique plant to the Red River Gorge region of eastern Kentucky.  The Red River Gorge is well known for its unique geology, scenic beauty, and outdoor recreational opportunities, and much of the area is located within the Daniel Boone National Forest.'
-updated: 'November 2nd, 2016'
+updated: 'January 26th, 2017'
 ---
 
 - Taxa: Plant
@@ -30,7 +30,7 @@ In 1988, the plant was listed as threatened under the Endangered Species Act. At
 
 Currently, there are nearly 120 occurrences of white-haired goldenrod in eastern Kentucky, with a majority of them found within the Daniel Boone National Forest.  Of these occurrences, 46 are considered to be stable, self-sustaining, and protected, which exceeds the number required for recovery.
 
-Download the [Fact Sheet](/pdf/white-haired-goldenrod-factsheet.pdf)
+Download the [Fact Sheet](/pdf/fact-sheet/white-haired-goldenrod.pdf)
 
 ## News and Events
 {{< news tag="White-haired goldenrod" type="gallery" number="3" >}}
