@@ -7,7 +7,7 @@ tags:
     - Adaptation
     - 'Sea Level Rise'
     - 'Endangered Species'
-    - 'Key deer'
+    - 'Key Deer'
 hero:
     link: 'https://flic.kr/p/9nytdu'
     caption: 'A Key deer on Big Pine Key in Florida. Photo by Garry Tucker, USFWS.'
@@ -15,7 +15,7 @@ hero:
     name: key-deer.jpg
 date: '2010-09-24'
 author: 'Stacy Shelton'
-updated: 'May 12th, 2016'
+updated: 'January 26th, 2017'
 ---
 
 *What happens to the endangered Key deer when its habitat goes underwater?*
@@ -28,7 +28,7 @@ A 2009 study by The Nature Conservancy forecast more than half of Big Pine Key, 
 
 {{< figure class="photo" src="/images/pages/key-deer-sea-level.jpg" caption="Best case scenario sea level rise projections on Big Pine Key. Credit: The Nature Conservancy." alt="Map of project sea level rise for Big Pine Key" >}}
 
-The refuge is home to the endangered Key deer, a smaller cousin of the white-tailed deer with a total population of about 700. Today, cars are the No. 1 threat to the diminutive deer. But as saltwater intrusion continues to take over their freshwater sources and eat away at their forest home &mdash; the globally imperiled [pine rockland](/pdf/pine-rocklands.pdf) trees &mdash; rising seas are more likely to spell their doom.
+The refuge is home to the endangered Key deer, a smaller cousin of the white-tailed deer with a total population of about 700. Today, cars are the No. 1 threat to the diminutive deer. But as saltwater intrusion continues to take over their freshwater sources and eat away at their forest home &mdash; the globally imperiled [pine rockland](/pdf/recovery-plan/pine-rocklands.pdf) trees &mdash; rising seas are more likely to spell their doom.
 
 “The Key deer would have no place to go,” Refuge Manager Anne Morkill said. If they mix with their mainland counterparts, they will lose their genetic distinction and body characteristics.
 
