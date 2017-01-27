@@ -6,10 +6,10 @@ hero:
     alt: 'A USFWS firefighter keeps a close eye on a prescribed fire'
     caption: 'USFWS firefigher Brian Pippin watches over a prescribed fire at St. Marks National Wildlife Refuge. Photo by Jennifer Hinckley, USFWS.'
 tags:
-    - 'prescribed fire'
-    - 'land management'
-    - 'national wildlife refuges'
-updated: 'September 27th, 2016'
+    - 'Prescribed Fire'
+    - 'Land Management'
+    - 'National Wildlife Refuges'
+updated: 'January 26th, 2017'
 ---
 
 For thousands of years, fire has influenced the southeastern landscape. Today, a broad range of plants, animals and their habitats have developed a harmonious relationship with fire.
@@ -115,13 +115,13 @@ We employ a team of experts across 10 southeastern states and Puerto Rico that p
 
 Includes desired vegetation structure and fire components, desired habitat conditions, mobility, area sensitivity, and insularity-connectivity consideration.
 
- - [Bachman’s sparrow](/pdf/bachmans-sparrow-fire-management.pdf)
- - [Brownheaded nuthatch](/pdf/brownheaded-nuthatch-fire-management.pdf)
- - [Henslow’s sparrow](/pdf/henslows-sparrow-fire-management.pdf)
- - [Little bluestem](/pdf/little-bluestem-fire-management.pdf)
- - [Painted bunting](/pdf/painted-bunting-fire-management.pdf)
- - [Pine snake](/pdf/pine-snake-fire-management.pdf)
- - [Wiregrass](/pdf/wiregrass-fire-management.pdf)
+ - [Bachman’s sparrow](/pdf/fire/bachmans-sparrow-fire-management.pdf)
+ - [Brownheaded nuthatch](/pdf/fire/brownheaded-nuthatch-fire-management.pdf)
+ - [Henslow’s sparrow](/pdf/fire/henslows-sparrow-fire-management.pdf)
+ - [Little bluestem](/pdf/fire/little-bluestem-fire-management.pdf)
+ - [Painted bunting](/pdf/fire/painted-bunting-fire-management.pdf)
+ - [Pine snake](/pdf/fire/pine-snake-fire-management.pdf)
+ - [Wiregrass](/pdf/fire/wiregrass-fire-management.pdf)
 
 ### Training and Education
  - [Prescribed Fire Training Center](https://www.fws.gov/fire/pftc/) in Tallahassee, Florida

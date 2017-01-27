@@ -11,7 +11,7 @@ hero:
     position: 'center right'
 tags:
     - 'Dam Removal'
-updated: 'January 6th, 2017'
+updated: 'January 26th, 2017'
 ---
 
 Consider the roads you regularly drive to complete your day-to-day tasks --what if they were permanently blocked so that you could not get to important places? Dams that are located in streams and rivers throughout the country have similarly served as roadblocks for wildlife that needs to move through connected waters for survival and reproduction.
@@ -24,7 +24,7 @@ The FWS is working with landowners and other partners to help remove (decommissi
 
 ## Other Resources
 
-- [Dam Removal Fact Sheet](/pdf/dam-removal.pdf)
+- [Dam Removal Fact Sheet](/pdf/fact-sheet/dam-removal.pdf)
 - [Georgia's Stream Crossing Handbook](/pdf/georgia-stream-crossing-handbook.pdf)
 - [Shuford Dam Removal in Brookford, North Carolina](https://www.americanrivers.org/2016/08/shuford-dam-removal/)
 - [Smitherman's Mill Dam Removal in Montgomery County, NC](http://www.piedmontconservation.org/smithermans)
