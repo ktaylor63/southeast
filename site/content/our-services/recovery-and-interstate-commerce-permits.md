@@ -6,7 +6,7 @@ tags:
     - 'Endangered Species Act'
 description: 'A typical use of a recovery permit is to allow for scientific research on a listed species in order to understand better the species'' long-term survival needs. Interstate commerce permits also allow transport and sale of listed species across State lines (e.g., for purposes such as a breeding program).'
 js: /js/10a1a-permits.js
-updated: 'August 11th, 2016'
+updated: 'January 26th, 2017'
 ---
 
 ## What is the status of my permit?
@@ -99,8 +99,8 @@ If you have questions that have not been addressed on this website, or any of th
 
 Some species have minimum qualification requirements that must be met to obtain a permit. Regardless of the species applicants must document ability to correctly identify the species they are applying for.
 
-- [Information to include in Applications for Federal Research Permit for Endangered and Threatened Bats](/pdf/southeast-bat-permit-requirements.pdf) (PDF)
-- [American Burying Beetle Qualification Criteria](/pdf/american-burying-beetle-permit-qualifications.pdf) (PDF)
-- [Red cockaded woodpecker Training and Certification Requirements](/pdf/red-cockaded-woodpecker-permit-training-and-cert-requirements.pdf) (PDF)
+- [Information to include in Applications for Federal Research Permit for Endangered and Threatened Bats](/pdf/permits/southeast-bat-permit-requirements.pdf) (PDF)
+- [American Burying Beetle Qualification Criteria](/pdf/permits/american-burying-beetle-permit-qualifications.pdf) (PDF)
+- [Red cockaded woodpecker Training and Certification Requirements](/pdf/permits/red-cockaded-woodpecker-permit-training-and-cert-requirements.pdf) (PDF)
 
 <div class="modal"></div>
