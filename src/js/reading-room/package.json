@@ -1,0 +1,43 @@
+{
+  "name": "reading-room",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "browserify": {
+    "transform": [
+      [
+        "babelify",
+        {
+          "presets": [
+            "es2015"
+          ]
+        }
+      ],
+      "pugify"
+    ]
+  },
+  "scripts": {
+    "browserify": "browserify index.js | uglifyjs -mc > ../../../dist/js/reading-room.js",
+    "watchify": "watchify index.js -o ../../../dist/js/reading-room.js -dv",
+    "start": "npm run watchify",
+    "build": "npm run browserify"
+  },
+  "keywords": [],
+  "author": "@r0yhewitt <roy_hewitt@fws.gov>",
+  "license": "SAX-PD",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.18.0",
+    "babelify": "^7.3.0",
+    "browserify": "^13.3.0",
+    "eslint-plugin-pug": "^1.0.0",
+    "pug": "^2.0.0-beta6",
+    "pugify": "^2.1.0",
+    "uglifyjs": "^2.4.10",
+    "watchify": "^3.8.0"
+  },
+  "dependencies": {
+    "query-string": "^4.2.3",
+    "whatwg-fetch": "^2.0.1",
+    "xhr": "^2.3.3"
+  }
+}
