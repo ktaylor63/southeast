@@ -8,7 +8,7 @@ aliases:
     - /species/insect/miami-tiger-beetle
     - /species/insects/miami-tiger-beetle
 tags:
-    - 'Miami tiger beetle'
+    - 'Miami Tiger Beetle'
     - Florida
     - Insect
     - Endangered
@@ -20,7 +20,7 @@ hero:
     alt: 'An iridescent insect with many small hairs on its belly standing on leaf litter and sandy soil'
     caption: 'Miami tiger beetle. Photo by Jonathan Mays, Florida Fish and Wildlife Conservation Commission.'
 description: 'The Miami tiger beetle, found exclusively in pine rockland habitat in Miami-Dade County, Florida, has a shiny green exterior and protected under the Endangered Species Act as endangered.'
-updated: 'November 2nd, 2016'
+updated: 'January 26th, 2017'
 ---
 
 - **Taxa**: Arthropod (Ground Beetle)
@@ -38,7 +38,7 @@ As is typical of other tiger beetles, adult Miami tiger beetles are active dayti
 
 ## Habitat
 
-The Miami tiger beetle is found exclusively in [pine rocklands](/pdf/pine-rocklands.pdf). This ecosystem is unique to southern Florida and the Bahamas.  In Florida, pine rocklands are found along the Miami Rock Ridge, within the Florida Keys, and in Big Cypress National Preserve.
+The Miami tiger beetle is found exclusively in [pine rocklands](/pdf/recovery-plan/pine-rocklands.pdf). This ecosystem is unique to southern Florida and the Bahamas.  In Florida, pine rocklands are found along the Miami Rock Ridge, within the Florida Keys, and in Big Cypress National Preserve.
 
 Pine rocklands are characterized by limestone substrate, a South Florida slash pine canopy, a diverse hardwood and palm subcanopy, and a very rich herbaceous layer.
 
@@ -74,7 +74,7 @@ These threats are made more severe due to the species’ restricted range, the f
 
 Early in 2014, due to the species’ extreme vulnerability and threats, the Service considered adding it to the candidate list.
 
-On December 11, 2014, the Service received a [petition](/pdf/petitions/petition-miami-tiger-beetle.pdf)  from the Center for Biological Diversity, the Miami Blue Chapter of the North American Butterfly Association, South Florida Wildlands Association, Tropical Audubon Society and others requesting that the Miami tiger beetle be emergency listed as endangered and that critical habitat be designated under the Act.
+On December 11, 2014, the Service received a [petition](/pdf/petitions/miami-tiger-beetle.pdf)  from the Center for Biological Diversity, the Miami Blue Chapter of the North American Butterfly Association, South Florida Wildlands Association, Tropical Audubon Society and others requesting that the Miami tiger beetle be emergency listed as endangered and that critical habitat be designated under the Act.
 
 In a February 13, 2015, letter to the petitioners, the Service stated that although we determined that emergency listing was not warranted, we would review the petitioned request for listing.
 
