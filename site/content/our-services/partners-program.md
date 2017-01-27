@@ -22,7 +22,7 @@ hero:
     alt: 'A hand holds a wooden walking stick with a persons blurred torso in the background'
     caption: 'A biologist in a bog. <a href="https://flic.kr/p/rpRgQq">Photo</a> by Gary Peeples, USFWS.'
     link: 'https://flic.kr/p/rpRgQq'
-updated: 'November 9th, 2016'
+updated: 'January 26th, 2017'
 ---
 
 The Southeast Region Partners for Fish and Wildlife Program provides technical and financial assistance to private landowners interested in improving habitat for migratory birds, endangered, threatened and at-risk species while maintaining the their primary land management goals. This is a voluntary program in which landowners continue to manage their land for their objectives as well as for wildlife, which most of the time go-hand-in-hand.
@@ -45,7 +45,7 @@ Between 2009 to 2015, the Partners Program in the Southeast has restored or enha
 
 In addition, the program leveraged an investment of $12.5 million with partner contributions of $57 million.
 
-Download our [2012-2016 Strategic Plan](/pdf/partners-for-fish-and-wildlife-program-strategic-plan-2012-2016.pdf).
+Download our [2012-2016 Strategic Plan](/pdf/strategic-plan/partners-for-fish-and-wildlife-program-strategic-plan-2012-2016.pdf).
 
 ## Who is Eligible
 
@@ -301,7 +301,7 @@ Phone: (404) 679-7138
 
     <p>Salinas Fortuna Salt Flats are in La Parguera Natural Reserve in the municipality of Lajas. These salt flats were historically operated for sea salt production and are diked and channeled into a larger salt lagoon and smaller evaporator ponds. The variety in salinities produces a diversity of foraging habitats and nesting sites for wading, shore, and seabirds. In addition, the area is in designated Critical Habitat for the endangered Yellow-shouldered blackbird, as well as 9 other endangered species. The recently delisted Brown pelican forages in the site and nests in cays nearby.</p>
 
-    <p>Over time, the channel facilitating water flow has filled in with sediment, disrupting hydrology at the site. PFW helped restore the site by dredging sediments to allow water flow, restoring a wooden bridge that connects the ponds, restoring a dike to facilitate channel dredging, and restoring a sluice gate to control the entry of seawater into the east salt pond.  This work has improved 27 acres of wetland habitat for a variety of migratory and resident birds, as well as provided improved coastal water quality by reducing sediments.</p>
+    <p>Over time, the channel facilitating water flow has filled in with sediment, disrupting hydrology at the site. PFW helped restore the site by dredging sediments to allow water flow, restoring a wooden bridge that connects the ponds, restoring a levee to facilitate channel dredging, and restoring a sluice gate to control the entry of seawater into the east salt pond.  This work has improved 27 acres of wetland habitat for a variety of migratory and resident birds, as well as provided improved coastal water quality by reducing sediments.</p>
   </section>
 
   <section class="page" data-state="TN">
