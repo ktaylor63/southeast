@@ -13,7 +13,7 @@ hero:
     link: 'https://flic.kr/p/kysUQh'
     caption: 'An adult Rafinesque&rsquo;s big-eared bat rests in a cave. Photo by the Forest Service.'
     position: 'left center'
-updated: 'November 8th, 2016'
+updated: 'January 26th, 2017'
 ---
 
 Bats are an important part of healthy southeastern ecosystems. They [pollinate](https://www.fws.gov/Pollinators/) flowers and serve as natural pest control. Backyard bats will help reduce insect pests that bother you and your garden plants. A typical summer colony of 100 bats feeding 200 days will consume more than 2200 pounds of insects or approximately 600,000,000 bugs!
@@ -21,7 +21,7 @@ Bats are an important part of healthy southeastern ecosystems. They [pollinate](
 Most eastern bats spend the winter hibernating in caves and move to trees or buildings for the warm summer. However, some bats spend all year in caves and others spend all year in trees. As hollow trees are cut down, bat boxes, such as the one shown here, are needed for bats to survive. This is especially true in April to August when females are looking for safe and quiet places to give birth and raise their pups. Both the mothers and newborns are very sensitive to being disturbed.
 
 ## How to Build a Bat Box
-[Download and print these instructions (PDF)](/pdf/beneficial-bats-backyard-habitat-for-wildlife.pdf)
+[Download and print these instructions (PDF)](/pdf/fact-sheet/beneficial-bats-backyard-habitat-for-wildlife.pdf)
 
 <div class="side-by-side">
   <img src="/images/pages/bat-box-left.jpg" alt="Measurements for side of bat box" />
