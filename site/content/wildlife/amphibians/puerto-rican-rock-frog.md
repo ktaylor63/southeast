@@ -22,7 +22,7 @@ hero:
     alt: 'A brownish peach colored frog with big round eyes'
     caption: 'A female frog on a tree branch. Photo by JP Zegarra, USFWS.'
 description: 'The Puerto Rican rock frog is known by several names: Puerto Rican cave frog, guajón, and the Puerto Rican demon. It is found exclusively in southeastern Puerto Rico.'
-updated: 'October 28th, 2016'
+updated: 'January 26th, 2017'
 ---
 
 - **Taxon:** Amphibian
@@ -77,7 +77,7 @@ The recovery criteria for the guajón are as follows:
 3. Determine the geographic distribution of all subpopulations needed to ensure a self-sustaining overall population.
 4. Survey all potential habitats for new occurrences and evaluate suitability for species introduction.
 
-For more information, [download the complete Recovery Plan for the guajón](/pdf/coqui-guajon-recovery-plan.pdf).
+For more information, [download the complete Recovery Plan for the guajón](/pdf/recovery-plan/coqui-guajon.pdf).
 
 ## Subject Matter Experts
 
