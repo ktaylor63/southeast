@@ -1,7 +1,7 @@
 ---
 title: 'Southeastern Insects'
 layout: by-taxon
-taxon: Plant
+taxon: Insect
 tags:
     - 'Species Profile'
 url: /wildlife/insects
