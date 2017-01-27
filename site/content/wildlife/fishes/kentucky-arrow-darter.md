@@ -12,19 +12,19 @@ tags:
     - Fish
     - Kentucky
     - Threatened
-    - 'Kentucky arrow darter'
+    - 'Kentucky Arrow Darter'
 hero:
     name: kentucky-arrow-darter.jpg
     caption: 'Photo by J.R. Shute, Conservation Fisheries, Inc.'
     alt: 'A small, brightly colored orange and blue fish in an aquarium.'
     position: 'left center'
-updated: 'November 2nd, 2016'
+updated: 'January 26th, 2017'
 ---
 
 - **Taxon: Fish**
 - **Range: [Kentucky](/kentucky)**
 - **Status: Proposed as Threatened**
-- [Download the Kentucky arrow darter fact sheet](/pdf/kentucky-arrow-darter-fact-sheet.pdf)
+- [Download the Kentucky arrow darter fact sheet](/pdf/fact-sheet/kentucky-arrow-darter.pdf)
 
 ## News and Events
 {{< news tag="Kentucky arrow darter" number="3" type="gallery" >}}
