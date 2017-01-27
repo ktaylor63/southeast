@@ -8,9 +8,9 @@ hero:
     caption: 'Stream in Rhea, TN. Photo by <a href=\"https://www.flickr.com/photos/79666107@N00/\">Chris Morris</a> <a href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY 2.0.</a>'
 tags:
     - Recovery
-    - 'Laurel dace'
+    - 'Laurel Dace'
     - Tennessee
-updated: 'October 6th, 2016'
+updated: 'January 26th, 2017'
 ---
 
 The U.S. Fish and Wildlife Service is seeking public comment on the [Technical/Agency Draft Recovery Plan for the laurel dace](http://www.fws.gov/southeast/news/2015/20150114_Laurel-Dace-Recovery-Plan.pdf), a federally listed, endangered fish.  Public comments will be accepted on this draft recovery plan until March 16, 2015.
@@ -31,7 +31,7 @@ Please send written comments about the Technical/Agency Draft Recovery Plan for 
 
 Visit the Service’s recovery plan web site at [http://www.fws.gov/endangered/species/recovery-plans.html](http://www.fws.gov/endangered/species/recovery-plans.html).
 
-[Laurel Dace Recovery Plan (PDF)](/pdf/laurel-dace-recovery-plan.pdf)
+[Laurel Dace Recovery Plan (PDF)](/pdf/recovery-plan/laurel-dace.pdf)
 
 ## Contacts
 
