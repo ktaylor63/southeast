@@ -1,5 +1,5 @@
 ---
-title: 'Science Within the Service'
+title: 'Science in the Southeast'
 description: 'Employees within the U.S. Fish and Wildlife Service use science on a daily basis as the foundation for carrying out our mission. Learn how we use science and discover online tools for natural resources conservation.'
 url: /science
 js: /js/ssp.js
@@ -12,12 +12,13 @@ hero:
     caption: 'Service biologist Sue Cameron searches for birds. Photo by Gary Peeples, USFWS.'
 tags:
     - Science
-updated: 'January 26th, 2017'
+updated: 'January 31st, 2017'
 ---
 
 Employees within the U.S. Fish and Wildlife Service use science on a daily basis as the foundation for carrying out our mission.
 
 Science-based natural resource conservation requires that our employees have timely access to:
+
   - Scientific research, information, and state-of-the-art scientific tools
   - Peer interaction among scientific colleagues
   - Science-based conservation strategies for habitat and population management
@@ -28,6 +29,10 @@ Science-based natural resource conservation requires that our employees have tim
 [Learn about our national science policy](https://www.fws.gov/science/).
 
 {{< figure class="photo-center" src="/images/pages/botanist-taking-measurements-in-the-field.jpg" alt="A botanist taking measurements in the field." caption="A biologist counts plants in North Carolina. Photo by Gary Peeples, USFWS." link="https://flic.kr/p/uB8wWF" >}}
+
+## Regional Science Committee
+
+[The Southeast Region Science Committee](/science/committee) plays a role in improving communication about science within the Service.  The committee has individuals with expertise in a broad range of topics including threatened and endangered species, landscape scale conservation and renewable energy.
 
 ## Science-based Projects
 

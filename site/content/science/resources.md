@@ -10,7 +10,7 @@ hero:
     alt: 'Tall mature trees line a wide river.'
     link: 'https://flic.kr/p/9nymnC'
     caption: 'Cooks Lake at Dale Bumpers White River National Wildlife Refuge in Arkansas. Photo by Garry Tucker, USFWS.'
-updated: 'January 11th, 2017'
+updated: 'January 31st, 2017'
 ---
 
 There are many places where scientific information that is useful for natural resources conservation is stored. See here for links, descriptions and how science information is being used to address Service needs.
@@ -28,16 +28,6 @@ Produces a variety of reports related to the List of Threatened and Endangered S
  - [Listed Species Summary](http://ecos.fws.gov/ecp0/reports/box-score-report)
  - [Reclassified Species](https://ecos.fws.gov/ecp0/reports/reclassified-species-report)
 
- ### [The Fish & Wildlife Service Catalog (ServCat)](https://ecos.fws.gov/ServCat/)
-
- ServCat is a centralized data management system designed to archive, manage and deliver Fish & Wildlife Service information. Some of the document include:
-   - [Inventory and Monitoring Plans (IMP)](https://ecos.fws.gov/ServCat/Search/Advanced/199): These plans document resource needs and challenges, and can easily be revised to address shifts in priorities due to environmental change.
-   - [Refuge Comprehensive Conservation Plans (CCP)](https://ecos.fws.gov/ServCat/Search/Advanced/17): Long-term planning document that ensures each refuge is managed to fulfill the purpose(s) for which it was established.
-   - [Refuge Annual Narrative Reports](https://ecos.fws.gov/ServCat/Search/Advanced/248): Outlines refuge accomplishments over a specific time period.
-   - [Land Status Maps](https://ecos.fws.gov/ServCat/Search/Advanced/129): Maps that depict land ownership within refuges and hatcheries.
-   - [Geospatial Datasets](https://ecos.fws.gov/ServCat/Search/Advanced/291): National-level geospatial datasets documented in ServCat.
-   - [Refuge Hydrogeomorphic Analysis Reports](https://ecos.fws.gov/ServCat/Search/Advanced/371): Provides an evaluation of ecosystem restoration and management options for a refuge.
-
 ### [USGS ScienceBase](https://www.sciencebase.gov/about/)
 
 ScienceBase is an open source project that provides a collaborative scientific database. Key elements include:
@@ -46,6 +36,10 @@ ScienceBase is an open source project that provides a collaborative scientific d
   - Central search and discovery application,
   - Web services facilitating other applications, and
   - Research community catalogs.
+
+### [Data.gov](https://data.gov)
+
+Data.gov is the home of the U.S. Government’s open data where you will find data, tools, and resources to conduct research, develop web and mobile applications, design data visualizations, and more.
 
 {{< figure class="photo-center" src="/images/pages/loggerhead-sandy.jpg" alt="An adult turtle on a beach covered in sand." caption="A loggerhead sea turtle at Blackbeard Island National Wildlife Refuge in Georgia. Photo by Molly Martin, USFWS." link="https://flic.kr/p/cAqZhh" >}}
 
@@ -94,6 +88,17 @@ The Conservation Planning Atlas (CPA) is a science-based mapping platform where 
 Data from Landscape Conservation Cooperatives across the Southeast have been integrated into the [Southeast Conservation Adaptation Strategy (SECAS) Blueprint 1.0](http://secassoutheast.org/blueprint).
 
 ## For U.S. Fish and Wildlife Service Employees
+
+### [The Fish and Wildlife Service Catalog (ServCat)](https://ecos.fws.gov/ServCat/)
+
+ServCat is a centralized data management system designed to archive, manage and deliver Fish and Wildlife Service information. Some of the document include:
+
+  - [Inventory and Monitoring Plans (IMP)](https://ecos.fws.gov/ServCat/Search/Advanced/199): These plans document resource needs and challenges, and can easily be revised to address shifts in priorities due to environmental change.
+  - [Refuge Comprehensive Conservation Plans (CCP)](https://ecos.fws.gov/ServCat/Search/Advanced/17): Long-term planning document that ensures each refuge is managed to fulfill the purpose(s) for which it was established.
+  - [Refuge Annual Narrative Reports](https://ecos.fws.gov/ServCat/Search/Advanced/248): Outlines refuge accomplishments over a specific time period.
+  - [Land Status Maps](https://ecos.fws.gov/ServCat/Search/Advanced/129): Maps that depict land ownership within refuges and hatcheries.
+  - [Geospatial Datasets](https://ecos.fws.gov/ServCat/Search/Advanced/291): National-level geospatial datasets documented in ServCat.
+  - [Refuge Hydrogeomorphic Analysis Reports](https://ecos.fws.gov/ServCat/Search/Advanced/371): Provides an evaluation of ecosystem restoration and management options for a refuge.
 
 ### [Planning and Review of Inventory &amp; Monitoring on Refuges (PRIMR)](https://ecos.fws.gov/primr/)
 
