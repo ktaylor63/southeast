@@ -1,0 +1,85 @@
+= doctype html
+html lang="en-US"
+  head
+    = include partials/head.html .
+  body data-root="{{ .Site.BaseURL }}"
+    a#skip-to-content href=#content skip to content
+    = include partials/sprite.svg .
+    = include partials/navigation.html .
+    = include partials/hero.html .
+    nav.section-nav
+      ul
+        li
+          a href="/gulf-restoration" Gulf Home
+        li
+          a href="/gulf-restoration/next-steps" Introduction
+        li
+          a href="/gulf-restoration/next-steps/background" Background
+        li
+          a href="/gulf-restoration/next-steps/focal-areas" Focal Areas
+        li
+          a href="/gulf-restoration/next-steps/target-species" Target Species
+        li.dropdown-item
+          button "Next Steps"
+          ul.hidden
+            li
+              a href="/gulf-restoration/next-steps/next-steps-by-focal-area" Overview
+            li
+              a href="/gulf-restoration/next-steps/focal-area/laguna-madre-and-lower-rio-grande-valley" Laguna Madre and Lower Rio Grande Valley
+            li
+              a href="/gulf-restoration/next-steps/focal-area/coastal-bend" Coastal Bend
+            li
+              a href="/gulf-restoration/next-steps/focal-area/texas-mid-coast" Texas Mid Coast
+            li
+              a href="/gulf-restoration/next-steps/focal-area/chenier-plain" Chenier Plain
+            li
+              a href="/gulf-restoration/next-steps/focal-area/atchafalaya-basin" Atchafalaya Basin
+            li
+              a href="/gulf-restoration/next-steps/focal-area/mississippi-river-coastal-wetlands-and-barrier-islands" MS River Coastal Wetlands and Barrier Islands
+            li
+              a href="/gulf-restoration/next-steps/focal-area/mississippi-alluvial-valley" Mississippi Alluvial Valley
+            li
+              a href="/gulf-restoration/next-steps/focal-area/central-gulf-lands" Central Gulf Lands
+            li
+              a href="/gulf-restoration/next-steps/focal-area/central-gulf-and-florida-panhandle-coast" Central Gulf and Florida Panhandle Coast
+            li
+              a href="/gulf-restoration/next-steps/focal-area/florida-panhandle-lands" Florida Panhandle Lands
+            li
+              a href="/gulf-restoration/next-steps/focal-area/greater-apalachicola-basin" Greater Apalachicola Basin
+            li
+              a href="/gulf-restoration/next-steps/focal-area/floridas-big-bend" Florida's Big Bend
+            li
+              a href="/gulf-restoration/next-steps/focal-area/tampa-bay" Tampa Bay
+            li
+              a href="/gulf-restoration/next-steps/focal-area/southwest-florida" Southwest Florida
+            li
+              a href="/gulf-restoration/next-steps/focal-area/florida-keys" Florida Keys
+            li
+              a href="/gulf-restoration/next-steps/focal-area/upper-mississippi-river-watershed" Upper Mississippi River Watershed
+            li
+              a href="/gulf-restoration/next-steps/focal-area/rainwater-basin" Rainwater Basin
+            li
+              a href="/gulf-restoration/next-steps/focal-area/prairie-potholes" Prairie Potholes
+        li
+          a href="/gulf-restoration/next-steps/conclusion" Conclusion
+        li.dropdown-item
+          button Appendices
+          ul.hidden
+            li
+              a href="/gulf-restoration/next-steps/appendices/glossary" Glossary
+            li
+              a href="/gulf-restoration/next-steps/appendices/resources" Resources
+            li
+              a href="/gulf-restoration/next-steps/appendices/species" Species List
+    .wrapper
+      .container
+        #content
+          .side-nav role="complimentary"
+          = yield main
+    = include partials/footer.html .
+    = include partials/contact.html .
+    = include partials/share.html .
+    {{ if isset .Params "scrollnav" }}
+    span.hide-scrollnav
+    {{ end }}
+    = include partials/scripts.html .

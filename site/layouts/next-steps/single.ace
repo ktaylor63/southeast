@@ -1,0 +1,5 @@
+= content main
+  .content-centered role="main"
+    h1 Next Steps for a Healthy Gulf of Mexico Watershed
+    h2 {{ .Title }}
+    {{ .Content }}
