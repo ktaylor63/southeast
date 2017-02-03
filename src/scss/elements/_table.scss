@@ -1,8 +1,19 @@
+thead {
+  background: $color-accent;
+  color: white;
+  font-family: $serif;
+  padding: 1em !important;
+}
+
 .striped-table {
 
   tr:nth-child(even) {
     background: rgba(204, 204, 204, .5);
     border-radius: 3px;
+  }
+
+  td {
+    padding: .25em;
   }
 }
 
