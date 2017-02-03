@@ -3,6 +3,10 @@
   height: 50vh;
   overflow: hidden;
   position: relative;
+
+  @media (min-width: $break-md) {
+    margin-left: $nav-width;
+  }
 }
 
 .hero-parallax {
