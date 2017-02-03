@@ -21,6 +21,7 @@
   var anchors = document.querySelectorAll('a');
   var contactLinks = document.querySelectorAll('.toggle-contact');
   var hideScrollnav = document.querySelector('.hide-scrollnav');
+  var sectionNav = document.querySelector('.section-nav');
   var scrollNav,
       terms;
 
@@ -146,5 +147,19 @@
     if ( el.classList.contains(activeClass) ) el.classList.remove(activeClass);
     else el.classList.add(activeClass);
   }
+
+  // Supports dropdown menus in the section navigation
+  if (sectionNav) {
+    var sectionDropdowns = sectionNav.querySelectorAll('.dropdown-item');
+
+    [].forEach.call(sectionDropdowns, function (dropdown) {
+      dropdown.addEventListener('click', function(e) {
+        var childList = e.target.parentNode.querySelector('ul');
+        childList.classList.toggle('hidden');
+      });
+    });
+  }
+
+
 
 })();
