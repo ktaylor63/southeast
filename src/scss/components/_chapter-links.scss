@@ -1,0 +1,98 @@
+.chapter-links {
+  display: flex;
+  flex-direction: column;
+  margin: 2em 0;
+  padding: 0;
+  width: 100%;
+}
+
+.last-chapter a::before,
+.next-chapter a::after {
+  font-size: 3em;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.last-chapter a::before {
+  content: '\000AB';
+  left: 10px;
+}
+
+.current-chapter {
+  background: darken($color-accent, 5) !important;
+}
+
+.next-chapter a::after {
+  content: '\000BB';
+  right: 10px;
+}
+
+.chapter-links li {
+  background: $color-accent;
+  color: white;
+  display: flex;
+  flex: 1;
+  list-style: none !important;
+  margin: 0 !important;
+  position: relative;
+  text-align: center;
+  transition: all .3s ease-in;
+}
+
+.chapter-links a,
+.chapter-links span {
+  flex-basis: 100%;
+  padding: 1em;
+}
+
+.chapter-links a,
+.chapter-links a:active,
+.chapter-links a:visited {
+  color: white;
+  text-decoration: none;
+}
+
+.chapter-links a:hover {
+  background: lighten($color-accent, 5);
+  color: white;
+  text-shadow: 1px 1px 2px black;
+}
+
+/* Rounded Corners on the Next/Last chapter buttons */
+.chapter-links li:first-child,
+.chapter-links li:first-child > a{
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+}
+
+.chapter-links li:last-child,
+.chapter-links li:last-child > a{
+  border-bottom-right-radius: 3px;
+  border-bottom-left-radius: 3px;
+}
+
+@media (min-width: 900px) {
+  .chapter-links {
+    flex-direction: row;
+  }
+
+  .chapter-links a,
+  .chapter-links span {
+    padding: 2em;
+  }
+
+  .chapter-links li:first-child,
+  .chapter-links li:first-child > a {
+    border-top-left-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-top-right-radius: 0;
+  }
+
+  .chapter-links li:last-child,
+  .chapter-links li:last-child > a {
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+    border-bottom-left-radius: 0;
+  }
+}
