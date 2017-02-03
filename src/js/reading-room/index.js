@@ -49,10 +49,16 @@ function search(e) {
 function render(documents) {
   output.innerHTML = '';
   // Create an array of document types (no duplicates)
-  const types = [...new Set(documents.map(doc => doc.type))];
+  const types = [...new Set(documents.map(doc => doc.type))].sort();
+  // Sort by office name, and by date if one exists
   types.forEach(type => {
     const filtered = documents
       .filter(doc => type === doc.type)
+      .sort( (a, b) => {
+        if (a.office > b.office) return -1;
+        else if (a.office < b.office) return 1;
+        else return 0;
+      })
       .sort( (a, b) => parseInt(a.year) - parseInt(b.year))
       .reverse();
     output.insertAdjacentHTML('beforeend', template({ type, documents: filtered }));
