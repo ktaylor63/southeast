@@ -11,12 +11,14 @@ hero:
     position: 'center right'
 tags:
     - 'Dam Removal'
-updated: 'January 26th, 2017'
+updated: 'January 31st, 2017'
 ---
 
 Consider the roads you regularly drive to complete your day-to-day tasks --what if they were permanently blocked so that you could not get to important places? Dams that are located in streams and rivers throughout the country have similarly served as roadblocks for wildlife that needs to move through connected waters for survival and reproduction.
 
 Dams have been used extensively throughout the United States for a variety of purposes, including navigation, flood control, and power generation. While well-designed and properly managed dams can provide many benefits, they drastically alter natural river communities. The natural flow of water and sediment is impeded, and populations of native fish, mussels, and other aquatic animals are damaged.
+
+{{< figure class="photo-center" src="/images/pages/cane-river-dam-removal.jpg" alt="Two people look down a ravine as heavy equipment remove a dam." caption="Cane River Dam removal in Yancey County, North Carolina. Photo by Gary Peeples, USFWS." link="https://www.flickr.com/gp/usfwssoutheast/BZ0D13" >}}
 
 In some cases where the costs of maintaining a dam outweigh its benefits, a decision is made to remove it. Dam removal is a planning process that can often take several years and be expensive. However, the safety and environmental benefits are priceless. In most instances, rivers heal quickly, and it’s hard to realize that a dam once blocked the river.
 
