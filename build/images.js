@@ -1,121 +1,108 @@
-(function () {
-  'use strict';
-  var sharp = require('sharp');
-  var imagemin = require('imagemin');
-  var imageminMozjpeg = require('imagemin-mozjpeg');
-  var rimraf = require('rimraf');
-  var chokidar = require('chokidar');
-  var ncp = require('ncp').ncp;
+const async = require('async');
+const sharp = require('sharp');
+const imagemin = require('imagemin');
+const imageminMozjpeg = require('imagemin-mozjpeg');
+const rimraf = require('rimraf');
+const ncp = require('ncp').ncp;
 
-  ncp.limit = 16;
+ncp.limit = 16;
 
-  var fs = require('fs');
-  var path = require('path');
+const fs = require('fs');
+const path = require('path');
 
-  var input = 'src/images/pages/';
-  var output = 'dist/images/pages/';
-  var directories = getDirectories(input);
-  var images;
+const input = 'src/images/pages/';
+const output = 'dist/images/pages/';
+let images;
 
-  // 1. Get list of directories in src/images/pages
-  // 2. Loop through each directory
-  //    3. Get the directory's name, which is a number
-  //       representing the desired image output size
-  //    4. Get a list of images from the directory
-  //    5. Resize the image
-  //    6. Optimize the image
-  //    7. Write file to disk
-  // 8. If the PRODUCTION env variable is NOT set, kick off the watcher
+function copy(done) {
+  ncp('src/images/copy', 'dist/images/', done);
+}
 
-  init();
+function build(done) {
+  rimraf(output + '*', function(err) {
+    if (err) return done(err);
 
-  function init() {
-    ncp('src/images/copy', 'dist/images/', function(err) {
-      if (err) console.log(err);
+    getDirectories(input, (err, directories) => {
+      if (err) return done(err);
+      async.each(directories, processImagesInDirectory, done);
     });
+  });
+}
 
-    if (process.env.WATCH) {
-      console.log('Watching images for changes...');
-      watcher();
-    } else {
+function processImagesInDirectory(size, cb) {
+  const dir = path.resolve(input, size);
+  fs.readdir(dir, (err, files) => {
+    if (err) return cb(err);
+    // If there's a DS Store item, remove it
+    const i = files.indexOf('.DS_Store');
+    if (i > -1) files.splice(i,1);
+    async.each(files, (name, done) => {
+      const filepath = path.join(input, size, name);
+      const sizeInt = parseInt(size);
+      processImage(filepath, sizeInt, done);
+    }, cb);
+  });
+}
 
-      console.log('Processing images...');
+function getDirectories(input, cb) {
+  fs.readdir(input, (err, files) => {
+    if (err) return (err);
+    async.filter(files, filterDirectories, cb);
+  });
+}
 
-      rimraf(output + '*', function(err) {
+function filterDirectories(file, done) {
+  const thePath = path.join(input, file);
+  fs.stat(thePath, (err, stat) => {
+    if (err) done(err);
+    done(null, stat.isDirectory());
+  });
+}
+
+function processImage(filepath, size, done) {
+  if (filepath.indexOf('.DS_Store') > -1) return;
+  if (typeof size !== 'number') size = getImageSize(filepath);
+  const outfile = path.join( output, path.basename(filepath) );
+  const img = sharp(filepath);
+  img
+    .resize(size)
+    .toBuffer((err, buffer, info) => {
+      if (err) console.error(err);
+      minify(buffer, outfile, done);
+    });
+}
+
+function getImageSize(filepath) {
+  const pathArray = path.dirname(filepath).split('/');
+  return parseInt(pathArray[pathArray.length - 1]);
+}
+
+function minify(buffer, filename, done) {
+  imagemin.buffer(buffer, filename, {
+    plugins: [
+      imageminMozjpeg()
+    ]
+  }).then(buffer => {
+    fs.writeFile(filename, buffer, 'utf8', (err) => {
+      if (err) console.error(err);
+      if (done) done();
+    });
+  });
+}
+
+function removeImage(filepath) {
+  const fileToDelete = path.join( output + path.basename(filepath) );
+  fs.access(fileToDelete, (err) => {
+    if (err) console.error(err);
+    else {
+      fs.unlink(fileToDelete, (err) => {
         if (err) console.error(err);
-        directories.forEach(function (size) {
-          var currentDir = input + size + '/';
-
-          fs.readdir(currentDir, function(err, files) {
-            if (err) console.error(err);
-            // If there's a DS Store item, remove it
-            var i = files.indexOf('.DS_Store');
-            if (i > -1) files.splice(i,1);
-
-            files.forEach(function (name) {
-              processImage( path.join(input, size, name), parseInt(size) );
-            });
-          });
-
-        });
       });
     }
-  }
+  });
+}
 
-  function processImage(filepath, size) {
-    if (filepath.indexOf('.DS_Store') > -1) return;
-    if (typeof size !== 'number') size = getImageSize(filepath);
-    var outfile = path.join( output, path.basename(filepath) );
-    var img = sharp(filepath);
-    img
-      .resize(size)
-      .toBuffer(function (err, buffer, info) {
-        if (err) console.error(err);
-        minify(buffer, outfile);
-      });
-  }
-
-  function getImageSize(filepath) {
-    var pathArray = path.dirname(filepath).split('/');
-    return parseInt(pathArray[pathArray.length - 1]);
-  }
-
-  function watcher() {
-    var glob = input + '**/*';
-    chokidar.watch(glob)
-      .on('add', processImage)
-      .on('change', processImage)
-      .on('unlink', removeImage);
-  }
-
-  function minify(buffer, filename) {
-    imagemin.buffer(buffer, filename, {
-      plugins: [
-        imageminMozjpeg()
-      ]
-    }).then(function(buffer) {
-      fs.writeFile(filename, buffer, 'utf8', function(err) {
-        if (err) console.error(err);
-      });
-    });
-  }
-
-  function getDirectories(srcPath) {
-    return fs.readdirSync(srcPath).filter(function(file) {
-      return fs.statSync(path.join(srcPath, file)).isDirectory();
-    });
-  }
-
-  function removeImage(filepath) {
-    var fileToDelete = path.join( output + path.basename(filepath) );
-    fs.access(fileToDelete, function(err) {
-      if (err) console.error(err);
-      else {
-        fs.unlink(fileToDelete, function(err) {
-          if (err) console.error(err);
-        });
-      }
-    });
-  }
-
-})();
+module.exports.process = processImage;
+module.exports.remove = removeImage;
+module.exports.build = build;
+module.exports.copy = copy;
