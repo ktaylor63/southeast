@@ -10,11 +10,6 @@ const path = require('path');
 const jsonSrc = 'src/data/**/*.json';
 const dist = 'dist/data/';
 
-build(err => {
-  if (err) console.log(err);
-  console.log('Finished minifying JSON data.');
-})
-
 function build(done) {
   glob(jsonSrc, (err, files) => {
     if (err) return done(err);
