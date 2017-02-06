@@ -25,7 +25,7 @@ The conservation actions of the Southeast Region are guided by the Southeast Reg
 
 Cynthia (Cindy) Dohner was named Southeast Regional Director in October 2009.  She provides vision and leadership for the southeastern United States, the Commonwealth of Puerto Rico, and the U.S. Virgin Islands.  
 
-As the Regional Director she oversees the management of 131 national wildlife refuges covering more than 5 million acres, 14 national fish hatcheries, five fishery assistance offices, six migratory bird field offices, and 16 ecological services field offices.  She also serves as the Department of Interior’s Authorized Official for the Deepwater Horizon Natural Resource Damage Assessment and Restoration and oversees the restoration of the Everglades and the Gulf of Mexico.  
+As the Regional Director she oversees the management of 131 national wildlife refuges covering more than 5 million acres, 14 national fish hatcheries, five fishery assistance offices, six migratory bird field offices, and 16 ecological services field offices.  She also serves as the Department of the Interior’s Authorized Official for the Deepwater Horizon Natural Resource Damage Assessment and Restoration and oversees the restoration of the Everglades and the Gulf of Mexico.  
 
 Before becoming the Regional Director, Cindy served as Deputy Regional Director for the Southeast Region under Sam Hamilton. Throughout her 23 year career with the Service, she has held positions that include serving as Assistant Regional Director for Ecological Services in Atlanta, and the Branch Chief for Recovery and Consultation in the Washington Office.  She has also worked for three state agencies, two other federal agencies and in the private sector. Cindy holds a B.S. in Marine Biology and a Masters degree in Fisheries and Aquaculture.
 
@@ -38,6 +38,11 @@ Mike Oetker is the Deputy Regional Director of the U.S. Fish and Wildlife Servic
 Before coming to Atlanta, Mike worked in the Southwest Region where he was involved with conflicts over endangered fish and water management.  He also worked on fisheries management issues in the Great Lakes and Mississippi River Basin for the Service’s Midwest Region.  
 
 Mike got his start in natural resource management and policy development as a Knauss Sea Grant Fellow, where he worked for the Committee on Natural Resources in the U.S. House of Representatives.  
+
+## Leopoldo "Leo" Miranda, Assistant Regional Director, Ecological Services
+
+Leopoldo Miranda is the Assistant Regional Director of Ecological Services for the U.S. Fish and Wildlife Service-Southeast Region.  Prior to his current position, he has been a marine biologist in Puerto Rico, a private lands program coordinator in Washington D.C., and Supervisor of the Chesapeake Bay Office in Annapolis, Maryland.  Mr. Miranda has received multiple recognitions including a Service to America Medal Finalist of his innovative approaches to develop conservation partnerships.    He is an avid hunter and fisherman loving the outdoors and habitat management.
+Mr. Miranda received his Bachelor’s Degree in Marine Biology from the University of Puerto Rico and a Master’s Degree in Zoology from North Carolina State University.  He lives in Georgia with his wife Jessica, his son Pablo and four 4-legged family members, named Venus, Bromelia, Tanna and Rex.
 
 <!-- ## Allan Brown, Assistant Regional Director, Fisheries and Aquatic Conservation -->
 ## David Viker, Regional Chief, National Wildlife Refuge System
