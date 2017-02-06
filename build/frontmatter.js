@@ -1,45 +1,36 @@
-(function () {
-  'use strict';
+const matter = require('gray-matter');
+const replace = require('replace-in-file');
+const moment = require('moment');
+const yaml = require('yamljs');
+const toTitleCase = require('titlecase');
 
-  var chokidar = require('chokidar');
-  var matter = require('gray-matter');
-  var replace = require('replace-in-file');
-  var moment = require('moment');
-  var yaml = require('yamljs');
-  var toTitleCase = require('titlecase');
+// If you want to use something other than lastUpdate change this var
+const propertyName = 'updated';
+const contentDir = 'site/content/**/*.{md,html}';
+const dateFormat = 'MMMM Do, YYYY';
 
-  // If you want to use something other than lastUpdate change this var
-  var propertyName = 'updated';
-  var contentDir = 'site/content/**/*.{md,html}';
-  var dateFormat = 'MMMM Do, YYYY';
+// chokidar.watch(contentDir).on('change', updateFrontMatter);
 
-  chokidar.watch(contentDir).on('change', updateFrontMatter);
+function updateFrontMatter(path) {
+  const regex = /^---[\s\S]*?---/;
+  const fm = matter.read(path);
+  fm.data[propertyName] = moment().format(dateFormat);
+  fm.data.tags = capitalizeTags(fm.data.tags, fm.data.title);
 
-  function updateFrontMatter(path) {
-    var regex = /^---[\s\S]*?---/;
-    var fm = matter.read(path);
-    fm.data[propertyName] = moment().format(dateFormat);
-    fm.data.tags = capitalizeTags(fm.data.tags, fm.data.title);
+  const output = '---\n' + yaml.stringify(fm.data) + '---';
 
-    var output = '---\n' + yaml.stringify(fm.data) + '---';
+  replace({
+    files: path,
+    replace: regex,
+    with: output
+  }, (err, files) => {
+    if (err) return console.error(err);
+  });
+}
 
-    replace({
-      files: path,
-      replace: regex,
-      with: output
-    }, function (err, files) {
-      if (err) return console.error(err);
-    });
-  }
+function capitalizeTags(tags, title) {
+  if (!tags || tags === []) return console.warn(`You must include at least one tag on ${title}`);
+  return tags.map(tag => toTitleCase(tag));
+}
 
-  function capitalizeTags(tags, title) {
-    if (!tags || tags === []) return console.warn('You must include at least one tag on ' + title);
-
-    tags.forEach(function(tag, i) {
-      tags[i] = toTitleCase(tag);
-    });
-
-    return tags;
-  }
-
-})();
+module.exports.update = updateFrontMatter;
