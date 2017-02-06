@@ -1,6 +1,7 @@
 ---
 title: 'Grants for Wildlife and Habitat Conservation in the Southeast'
 description: 'The U.S. Fish and Wildlife Service funds a variety of projects across southeastern states to accomplish broad conservation objectives doling out over $250 million per year in grants.'
+nav: Grants
 hero:
     name: boating-infrastructure-grant.jpg
     alt: 'A dozen or so small craft docked in a small marina.'
@@ -8,7 +9,7 @@ hero:
     caption: 'A marina along the Mississippi river funded with a Boating Infrastructure Grant. Photo by Mara Koenig, USFWS.'
 tags:
     - Grants
-updated: 'November 9th, 2016'
+updated: 'February 6th, 2017'
 ---
 
 One of our primary roles is to manage a variety of federal funds and distribute them to projects that present the greatest benefit to wildlife and habitats. We do this through a variety of programs, such as
@@ -17,7 +18,7 @@ Every year, more than half of our annual budget in the southeast, or over $250 m
 
 ## How to Apply for Federal Grants
 
-All grant opportunities are posted on [Grants.gov](http://www.grants.gov/). You can [filter all of the available grants to “Department of Interior”](http://www.grants.gov/search-grants.html?agencies%3DDOI%7CDepartment%20of%20the%20Interior).
+All grant opportunities are posted on [Grants.gov](http://www.grants.gov/). You can [filter all of the available grants to “Department of  the Interior”](http://www.grants.gov/search-grants.html?agencies%3DDOI%7CDepartment%20of%20the%20Interior).
 
 ## Wildlife Restoration Program
 

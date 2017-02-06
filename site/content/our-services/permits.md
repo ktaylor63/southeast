@@ -1,6 +1,7 @@
 ---
 title: Permits
 description: 'The U.S. Fish and Wildlife Service issues permits to allow legitimate wildlife-related activities that would otherwise be prohibited by law in a manner that safeguards wildlife.'
+nav: Permits
 tags:
     - Permits
 hero:
@@ -9,7 +10,7 @@ hero:
     link: 'https://flic.kr/p/HG5Zki'
     caption: 'Aquatic biologists snorkeling on the Oconaluftee River in North Carolina. Photo by Gary Peeples.'
     position: 'center left'
-updated: 'November 7th, 2016'
+updated: 'February 6th, 2017'
 ---
 
 The U.S. Fish and Wildlife Service Southeast Region issues permits under [various wildlife laws and treaties](http://www.fws.gov/permits/ltr/ltr.html).  Our permits enable the public to engage in legitimate wildlife-related activities that would otherwise be prohibited by law.  Service permit programs ensure that such activities are carried out in a manner that safeguards wildlife.  Additionally, some  permits promote conservation efforts by authorizing scientific research, generating data, or allowing wildlife management and rehabilitation activities to go forward.

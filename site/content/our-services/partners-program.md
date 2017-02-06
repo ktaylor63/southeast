@@ -1,6 +1,7 @@
 ---
 title: 'For Private Landowners: The Partners for Fish and Wildlife Program'
 description: 'This program provides technical and financial assistance to private landowners interested in improving fish and wildlife habitat on their land.'
+nav: 'For Landowners'
 url: /our-services/partners-program/
 js: /js/partners.js
 tags:
@@ -22,7 +23,7 @@ hero:
     alt: 'A hand holds a wooden walking stick with a persons blurred torso in the background'
     caption: 'A biologist in a bog. <a href="https://flic.kr/p/rpRgQq">Photo</a> by Gary Peeples, USFWS.'
     link: 'https://flic.kr/p/rpRgQq'
-updated: 'January 26th, 2017'
+updated: 'February 6th, 2017'
 ---
 
 The Southeast Region Partners for Fish and Wildlife Program provides technical and financial assistance to private landowners interested in improving habitat for migratory birds, endangered, threatened and at-risk species while maintaining the their primary land management goals. This is a voluntary program in which landowners continue to manage their land for their objectives as well as for wildlife, which most of the time go-hand-in-hand.

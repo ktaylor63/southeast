@@ -1,6 +1,7 @@
 ---
 title: 'Conserving Southeastern Coastal Communities'
 description: 'Our treasured southeastern coasts need our attention. Extreme weather events, sea level rise and urban development are impacting the health of coastal habitats, where beaches are eroding at a rate of 1-4 inches per year. Learn how you can work with the USFWS to conserve our coasts for people and wildlife.'
+nav: 'For Coastal Communities'
 tags:
     - Beach
     - 'Private Landowners'
@@ -11,7 +12,7 @@ hero:
     alt: 'A biologist holding a tiny loggerhead sea turtle with a USFWS biologist in uniform in the background.'
     link: 'https://flic.kr/p/cECWef'
     caption: 'A loggerhead sea turtle hatchling at Cape Romain National Wildlife Refuge. Photo by Keith Fuller for USFWS.'
-updated: 'September 6th, 2016'
+updated: 'February 6th, 2017'
 ---
 
 From the Atlantic coast of North Carolina, south to Florida, west across the Gulf of Mexico to Louisiana, and along the coastlines of Puerto Rico and the US Virgin Islands, the coastal area in the Southeast Region covers more than **26,000 miles** of tidal shoreline and nearshore habitats, and more than **86 million acres** of diverse coastal habitat and natural resources. This area accounts for the largest, most diverse and most productive coastal area in the country (Restore America’s Estuaries, 2002).

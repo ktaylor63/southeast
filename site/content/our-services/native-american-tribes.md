@@ -1,17 +1,18 @@
 ---
 title: 'Working with Native American Tribes'
 description: 'Conserving this Nation’s fish and other aquatic resources cannot be successful without the partnership of Tribes that may manage or influence some of the most important aquatic habitats both on and off reservations. In addition, the Federal government and the Service have distinct and unique obligations toward Tribes based on trust responsibility, treaty provisions, and statutory mandate.'
+nav: 'Native American'
 tags:
-    - 'native american'
-    - partnership
+    - 'Native American'
+    - Partnership
 aliases:
-  - /nativeamerican
+    - /nativeamerican
 hero:
     name: native-american-clothing.jpg
     link: 'https://flic.kr/p/5PQ2bm'
     caption: 'A participant in the Miccosukee Indian Festival. Photo by Matthew Hoelscher, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/legalcode\" target=\"_blank\">CC BY-SA 2.0</a>.'
     position: 'top center'
-updated: 'May 31st, 2016'
+updated: 'February 6th, 2017'
 ---
 
 Conserving this Nation’s fish and other aquatic resources cannot be successful without the partnership of Tribes that may manage or influence some of the most important aquatic habitats both on and off reservations. In addition, the Federal government and the Service have distinct and unique obligations toward Tribes based on trust responsibility, treaty provisions, and statutory mandates.

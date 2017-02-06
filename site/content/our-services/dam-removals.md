@@ -1,6 +1,7 @@
 ---
 title: 'Dam Removals'
 description: 'The Fish and Wildlife Service is working with partners to help remove old/outdated dams, large and small, to reconnect wildlife passages and restore habitat.'
+nav: 'Dam Removal'
 aliases:
     - /dam-removal
 hero:
@@ -11,7 +12,7 @@ hero:
     position: 'center right'
 tags:
     - 'Dam Removal'
-updated: 'January 31st, 2017'
+updated: 'February 6th, 2017'
 ---
 
 Consider the roads you regularly drive to complete your day-to-day tasks --what if they were permanently blocked so that you could not get to important places? Dams that are located in streams and rivers throughout the country have similarly served as roadblocks for wildlife that needs to move through connected waters for survival and reproduction.
