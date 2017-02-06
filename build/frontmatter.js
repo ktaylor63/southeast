@@ -9,7 +9,7 @@ const propertyName = 'updated';
 const contentDir = 'site/content/**/*.{md,html}';
 const dateFormat = 'MMMM Do, YYYY';
 
-function updateFrontMatter(path) {
+function updateFrontMatter(path, cb) {
   const regex = /^---[\s\S]*?---/;
   const fm = matter.read(path);
   fm.data[propertyName] = moment().format(dateFormat);
@@ -22,7 +22,8 @@ function updateFrontMatter(path) {
     replace: regex,
     with: output
   }, (err, files) => {
-    if (err) return console.error(err);
+    if (err) return cb(err);
+    if (cb) cb();
   });
 }
 

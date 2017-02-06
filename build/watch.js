@@ -32,17 +32,24 @@ watcher
   .on('unlink', removeHandler);
 
 function changeHandler(filepath) {
-  console.log(filepath);
+  console.log(`Changed: ${filepath}`);
   if ( isCSVFile(filepath) ) csv.toJSON(filepath);
   if ( isJSONFile(filepath) ) json.minifyJSON(filepath);
   if ( isHeroImage(filepath) ) hero.process(filepath);
   if ( isContentImage(filepath) ) images.process(filepath);
   if ( isImageToCopy(filepath) ) images.copy(filepath);
-  if ( isContentFile(filepath) ) frontmatter.update(filepath);
+  if ( isContentFile(filepath) ) {
+    frontmatter.update(filepath, (err) => {
+      if (err) console.error(err);
+      hugo.build(devUrl);
+    });
+    return; // Return here so we don't trigger two hugo.build()s
+  }
   if ( isHugoFile(filepath) ) hugo.build(devUrl);
 }
 
 function removeHandler(filepath) {
+  console.log(`Removed: ${filepath}`);
   if ( isCSVFile(filepath) ) csv.remove(filepath);
   if ( isJSONFile(filepath) ) json.removeJSON(filepath);
   if ( isHeroImage(filepath) ) hero.remove(filepath);
