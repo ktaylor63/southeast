@@ -9,8 +9,6 @@ const propertyName = 'updated';
 const contentDir = 'site/content/**/*.{md,html}';
 const dateFormat = 'MMMM Do, YYYY';
 
-// chokidar.watch(contentDir).on('change', updateFrontMatter);
-
 function updateFrontMatter(path) {
   const regex = /^---[\s\S]*?---/;
   const fm = matter.read(path);
