@@ -22,7 +22,7 @@ As Deputy Regional Director of the Southeast Region, Ms. Dohner helps oversee th
 
 A heavy equipment program manager and the regional heavy equipment coordinators also were honored with awards.
 
-Steve Flanders, the Service’s heavy equipment program manager received the Award of Merit, the Department of Interior’s most prestigious safety award for his outstanding leadership and contributions to heavy equipment safety. His efforts include development of a successful training program and comprehensive written safety policies.
+Steve Flanders, the Service’s heavy equipment program manager received the Award of Merit, the Department of the Interior’s most prestigious safety award for his outstanding leadership and contributions to heavy equipment safety. His efforts include development of a successful training program and comprehensive written safety policies.
 
 According to Acting Service Director Rowan Gould, “In terms of managing habitat for wildlife, we too often forget the major role played by heavy equipment operators and their work in adapting lands so they are more suited to wildlife. This includes moving earth and altering water regimes and any other number of heavy construction efforts on behalf of wildlife and waterfowl.
 
