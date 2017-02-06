@@ -1,113 +1,91 @@
-(function () {
-  'use strict';
-  var sharp = require('sharp');
-  var mkdirp = require('mkdirp');
-  var imagemin = require('imagemin');
-  var imageminMozjpeg = require('imagemin-mozjpeg');
-  var rimraf = require('rimraf');
-  var chokidar = require('chokidar');
+const async = require('async');
+const sharp = require('sharp');
+const mkdirp = require('mkdirp');
+const imagemin = require('imagemin');
+const imageminMozjpeg = require('imagemin-mozjpeg');
+const rimraf = require('rimraf');
 
-  var fs = require('fs');
-  var path = require('path');
+const fs = require('fs');
+const path = require('path');
 
-  var input = 'src/images/hero/';
-  var output = 'dist/images/hero/';
-  var images = fs.readdirSync(input);
+const input = 'src/images/hero/';
+const output = 'dist/images/hero/';
 
-  var _ = { each: require('lodash.foreach') };
+const outSizes = [
+  {
+    width: 1400,
+    path: '/'
+  },
+  {
+    width: 850,
+    path: 'medium/'
+  },
+  {
+    width: 450,
+    path: 'small/'
+  }
+];
 
-  var outSizes = [
-    {
-      width: 1400,
-      path: '/'
-    },
-    {
-      width: 850,
-      path: 'medium/'
-    },
-    {
-      width: 450,
-      path: 'small/'
-    }
-  ];
+function build(done) {
 
-  // If there's a DS Store item, remove it
-  var i = images.indexOf('.DS_Store');
-  if (i > -1) images.splice(i,1);
+  rimraf(`${output}/**/*.jpg`, function(err) {
+    if (err) return done(err);
 
-  // 1. Clean the output directory site/static/images/hero/
-  // 2. Loop through all hero images in src/images/hero
-  //    3. Resize image to 1400px wide
-  //    4. Optimize image
-  //    5. Write file to output directory site/static/images/hero/
-  // 6. If the PRODUCTION env variable is NOT set kick off watcher
+    fs.readdir(input, (err, files) => {
+      if (err) return done(err);
 
-  init();
+      // Remove .DS_Store files, they're the worst.
+      files = files.filter(file => file !== '.DS_Store');
 
-  function init() {
-    if (process.env.WATCH) {
-      console.log('Watching hero images for changes...');
-      watcher();
-    } else {
-      console.log('Processing hero images...');
-      rimraf(output + '/**/*.jpg', function(err) {
+      async.eachLimit(files, 5, (name, cb) => {
+        const filepath = path.join(input, name);
+        processHeroImage(filepath, cb);
+      }, done);
+    });
+  });
+}
+
+function processHeroImage(filepath, done) {
+  const img = sharp(filepath);
+  const filename = path.basename(filepath);
+  async.each(outSizes, (outsize, cb) => {
+    img
+      .resize(outsize.width)
+      .toBuffer((err, buffer, info) => {
         if (err) console.error(err);
+        const outfile = path.join(output, outsize.path, filename);
+        minify(buffer, outfile, cb);
+      });
+  }, done);
+}
 
-        images.forEach(function(name) {
-          processHeroImage( path.join(input, name) );
-        });
+function minify(buffer, filename, done) {
+  imagemin.buffer(buffer, filename, {
+    plugins: [ imageminMozjpeg() ]
+  }).then(buffer => {
+    const directory = path.dirname(filename);
+    mkdirp(directory, (err) => {
+      if (err) console.log(err);
+      fs.writeFile(filename, buffer, done);
+    });
+  }).catch(err => {
+    if (done && err) return done(err);
+    if (err) console.log(err);
+  });
+}
+
+function removeImage(filepath) {
+  const fileToDelete = path.join( output + path.basename(filepath) );
+  fs.access(fileToDelete, (err) => {
+    if (err) console.error(err);
+    else {
+      fs.unlink(fileToDelete, (err) => {
+        if (err) console.error(err);
       });
     }
-  }
+  });
+}
 
-  function processHeroImage(filepath) {
-    var img = sharp(filepath);
-    var filename = path.basename(filepath);
-    _.each(outSizes, function(outsize) {
-      img
-        .resize(outsize.width)
-        .toBuffer(function (err, buffer, info) {
-          if (err) console.error(err);
-          var outfile = output + outsize.path + filename;
-          minify(buffer, outfile);
-        });
-    });
-  }
-
-  function watcher() {
-    var glob = input + '*';
-    chokidar.watch(glob)
-      .on('add', processHeroImage)
-      .on('change', processHeroImage)
-      .on('unlink', removeImage);
-  }
-
-  function minify(buffer, filename) {
-    imagemin.buffer(buffer, filename, {
-      plugins: [
-        imageminMozjpeg()
-      ]
-    }).then(function(buffer) {
-      var directory = path.dirname(filename);
-      mkdirp(directory, function(err) {
-        if (err) console.log(err);
-        fs.writeFile(filename, buffer, 'utf8', function(err) {
-          if (err) console.error(err);
-        });
-      });
-    });
-  }
-
-  function removeImage(filepath) {
-    var fileToDelete = path.join( output + path.basename(filepath) );
-    fs.access(fileToDelete, function(err) {
-      if (err) console.error(err);
-      else {
-        fs.unlink(fileToDelete, function(err) {
-          if (err) console.error(err);
-        });
-      }
-    });
-  }
-
-})();
+module.exports.process = processHeroImage;
+module.exports.remove = removeImage;
+module.exports.build = build;
