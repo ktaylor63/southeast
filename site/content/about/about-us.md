@@ -19,7 +19,7 @@ hero:
 updated: 'November 8th, 2016'
 ---
 
-The U.S. Fish and Wildlife Service (also known as the Service) is a bureau within the United States [Department of Interior](https://www.doi.gov), America’s principal conservation agency within the [Executive Branch of U.S. government](https://www.whitehouse.gov/1600/executive-branch).
+The U.S. Fish and Wildlife Service (also known as the Service) is a bureau within the United States [Department of the Interior](https://www.doi.gov), America’s principal conservation agency within the [Executive Branch of U.S. government](https://www.whitehouse.gov/1600/executive-branch).
 
 Our mission is,
 
