@@ -20,10 +20,10 @@
     "serve": "browser-sync start --server 'dist' --files 'dist/**/*' --log-level 'silent'",
     "prestart": "npm run mkdist",
     "start": "npm run npm-watch & npm run watch & npm run watch:sass & npm run serve",
-    "prebuild": "npm run mkdist",
-    "build": "npm run json && npm run csv && npm run images && npm run svg && npm run build:sass",
-    "deploy": "npm run build && npm run hugo:pro",
-    "stage": "npm run build && npm run hugo:stage"
+    "predeploy": "npm run mkdist && npm run build:sass",
+    "deploy": "node build/build https://www.fws.gov/southeast/",
+    "prestage": "npm run mkdist && npm run build:sass",
+    "stage": "node build/build build http://intranet.fws.gov/region4/demo/"
   },
   "keywords": [
     "Government",
