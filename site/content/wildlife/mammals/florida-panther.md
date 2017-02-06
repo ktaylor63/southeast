@@ -153,7 +153,7 @@ Want to learn more from our biologists? Contact one of our subject matter expert
 
 ## Designated Critical Habitat
 
-Because the Florida panther was listed prior to the [1978 amendments to the Endangered Species Act](http://www.fws.gov/endangered/laws-policies/esa-1978.html), the Secretary of the Department of Interior has the discretion whether to designate critical habitat. A challenge to that discretion relative to panthers was upheld in Federal appeals court as recently as 2012. If at any time in the future we determine that designating critical habitat is in the best interest of the Florida panther, we will proceed accordingly without delay.
+Because the Florida panther was listed prior to the [1978 amendments to the Endangered Species Act](http://www.fws.gov/endangered/laws-policies/esa-1978.html), the Secretary of the Department of the Interior has the discretion whether to designate critical habitat. A challenge to that discretion relative to panthers was upheld in Federal appeals court as recently as 2012. If at any time in the future we determine that designating critical habitat is in the best interest of the Florida panther, we will proceed accordingly without delay.
 
 {{< figure class="photo-center" src="/images/pages/florida-panther-on-forest-trail.jpg" alt="A Florida panther on a sandy trail in a forest" caption="An adult male Florida panther at Florida Panther National Wildlife Refuge. Photo by David Shindle." link="https://flic.kr/p/H6qKW6" >}}
 
