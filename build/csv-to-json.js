@@ -1,34 +1,23 @@
+const each = require('async/each');
 const csv = require('csvtojson');
 const jsonminify = require('jsonminify');
-const chokidar = require('chokidar');
 const rimraf = require('rimraf');
 const glob = require('glob');
 
-var fs = require('fs');
-var path = require('path');
+const fs = require('fs');
+const path = require('path');
 
-var csvSrc = 'src/data/**/*.csv';
-var dist = 'dist/data/';
+const csvSrc = 'src/data/**/*.csv';
+const dist = 'dist/data/';
 
-init();
-
-function init() {
-  if (process.env.WATCH) {
-    chokidar.watch(csvSrc)
-      .on('add', convertCSV)
-      .on('change', convertCSV)
-      .on('unlink', removeCSV)
-  } else {
-    rimraf(dist + '*.csv', () => {
-      glob(csvSrc, (err, files) => {
-        if (err) console.error(err);
-        files.forEach(convertCSV);
-      });
-    });
-  }
+function build(done) {
+  glob(csvSrc, (err, files) => {
+    if (err) return done(err);
+    each(files, toJSON, done);
+  });
 }
 
-function convertCSV(filePath) {
+function toJSON(filePath, cb) {
   let data = [];
   csv()
     .fromFile(filePath)
@@ -36,7 +25,11 @@ function convertCSV(filePath) {
     .on('done', (err) => {
       if (err) console.log(err);
       const basename = path.basename(filePath).replace('csv', 'js');
-      fs.writeFile(dist + basename, jsonminify(JSON.stringify(data), 'utf8'));
+      const minifiedData = jsonminify(JSON.stringify(data));
+      fs.writeFile(`${dist}${basename}`, minifiedData, 'utf8', (err) => {
+        if (err) console.log(err);
+        if (cb) cb();
+      });
     });
 }
 
@@ -51,3 +44,7 @@ function removeCSV(filepath) {
     }
   });
 }
+
+module.exports.remove = removeCSV;
+module.exports.toJSON = toJSON;
+module.exports.build = build;
