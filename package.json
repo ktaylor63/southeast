@@ -20,6 +20,7 @@
     "serve": "browser-sync start --server 'dist' --files 'dist/**/*' --log-level 'silent'",
     "prestart": "npm run mkdist",
     "start": "npm run npm-watch & npm run watch & npm run watch:sass & npm run serve",
+    "build": "node build/build",
     "predeploy": "npm run mkdist && npm run build:sass",
     "deploy": "node build/build https://www.fws.gov/southeast/",
     "prestage": "npm run mkdist && npm run build:sass",
@@ -33,8 +34,8 @@
   "license": "SAX-PD",
   "devDependencies": {
     "async": "^2.1.4",
-    "autoprefixer": "^6.7.0",
-    "browser-sync": "^2.18.6",
+    "autoprefixer": "^6.7.2",
+    "browser-sync": "^2.18.7",
     "chokidar": "^1.4.3",
     "concat-map": "0.0.1",
     "cross-env": "^3.1.4",
