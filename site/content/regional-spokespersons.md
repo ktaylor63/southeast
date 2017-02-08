@@ -78,10 +78,11 @@ If you would like to have our press releases delivered to your inbox, please sub
 [Mark Davis](mailto:mark_r_davis@fws.gov), Public Affairs Specialist <br>
 (404) 679-7291
 
-[Phil Koler](mailto:philip_kloer@fws.gov), Public Affairs Specialist <br>
+[Phil Kloer](mailto:philip_kloer@fws.gov), Public Affairs Specialist <br>
 (404) 679-7299
 
 [Dan Chapman](mailto:daniel_chapman@fws.gov), Public Affairs Specialist <br>
+(404) 679-4028
 
 @USFWSSoutheast [Facebook](https://facebook.com/usfwssoutheast) and [Twitter](https://twitter.com/usfwssoutheast) <br>
 [Katherine Taylor](mailto:katherine_taylor@fws.gov), Digital Content Specialist <br>
