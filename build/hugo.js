@@ -1,7 +1,7 @@
 const spawn = require('child_process').spawn;
 
 function build(baseURL) {
-  baseURL = (baseURL) ? baseURL : process.argv[3];
+  baseURL = (baseURL) ? baseURL : process.argv[2];
   const hugo = spawn('hugo', [
     '--canonifyURLs=true',
     '--config=site/config.yml',
