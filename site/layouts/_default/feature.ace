@@ -1,5 +1,5 @@
 article class="{{ if eq .Section "article" }}feature-article-summary{{ else if eq .Section "news"}}feature-news-summary{{ end }}"
-  div.feature-article-summary__hero style="background-image: url({{ .Site.BaseURL }}/images/hero/{{ .Params.hero.name }})"
+  div.feature-article-summary__hero style="background-image: url({{ .Site.BaseURL }}images/hero/{{ .Params.hero.name }});{{ if .Params.hero.position }} background-position: {{ .Params.hero.position }};{{ end }}"
     h2 {{ .Title }}
 
   .feature-article-summary__teaser
