@@ -6,7 +6,7 @@ const images = require('./images');
 const hero = require('./hero');
 const hugo = require('./hugo');
 
-const serverAddress = (process.argv[3]) ? process.argv[3] : 'http://localhost:3000/';
+const baseURL = (process.argv[2]) ? process.argv[2] : 'http://localhost:3000/';
 
 async.parallel({
   csv: function(cb) {
@@ -42,5 +42,5 @@ async.parallel({
 }, (err, results) => {
   if (err) console.log(err);
   console.log(results);
-  hugo.build(serverAddress);
+  hugo.build(baseURL);
 });
