@@ -6,6 +6,7 @@ hero:
     name: ouachita-madtom.jpg
     alt: 'A red, semi-transluscent fish with catfish like whiskers in an aquarium.'
     caption: 'Ouachita madtom. Photo by Conservation Fisheries.'
+    position: 'center right'
 tags:
     - 'At-Risk Species'
     - 'Ouachita Madtom'
