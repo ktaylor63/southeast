@@ -5,7 +5,15 @@
   "main": "index.js",
   "browserify": {
     "transform": [
-      "jadeify"
+      [
+        "babelify",
+        {
+          "presets": [
+            "es2015"
+          ]
+        }
+      ],
+      "pugify"
     ]
   },
   "scripts": {
@@ -24,17 +32,17 @@
     "fws-navigation": "^1.6.0",
     "fws-scrollnav": "^1.7.0",
     "lodash.defaults": "^4.2.0",
-    "lodash.filter": "^4.5.1",
-    "lodash.foreach": "^4.4.1",
     "mark.js": "https://github.com/julmot/mark.js/archive/7.0.1.tar.gz",
     "parallax-scroll": "^0.3.0",
     "xhr": "^2.2.0"
   },
   "devDependencies": {
+    "babel-preset-es2015": "^6.22.0",
+    "babelify": "^7.3.0",
     "browserify": "^13.0.0",
     "disc": "^1.3.2",
-    "jade": "^1.11.0",
-    "jadeify": "^4.6.0",
+    "pug": "^2.0.0-beta11",
+    "pugify": "^2.1.0",
     "uglifyjs": "^2.4.10",
     "watchify": "^3.7.0"
   }
