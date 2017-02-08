@@ -1,5 +1,5 @@
 ---
-title: 'About the Gulf Restoration Program'
+title: 'About the Gulf Restoration Team'
 description: 'The USFWS is an active member of, and collaboratively involved with, the key groups and administrative processes overseeing many Gulf restoration funds.'
 nav: About
 weight: 2
