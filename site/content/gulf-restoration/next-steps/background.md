@@ -5,12 +5,12 @@ weight: 2
 scrollnav: no-scrollnav
 description: 'The USFWS plays a role in funding streams for restoration and conservation projects in the Gulf of Mexico region resulting from legal settlements related to the 2010 Deepwater Horizon oil spill.'
 hero:
-    name: deepwater-horizon-controlled-burn.jpg
-    alt: 'Three boats supervise a small fire on the open water to remove an oil slick.'
-    caption: 'Deepwater Horizon oil spill response controlled burn operation. Photo by U.S. Coast Guard.'
+    name: deepwater-horizon-cleanup-barataria-bay.jpg
+    alt: 'Clean up crews wearing white suits and black gloves on a small island.'
+    caption: 'Cleanup efforts at Barataria bay in response to the <em>Deepwater Horizon</em> oil spill.  Photo by Steve Martarano, USFWS.'
 tags:
     - Gulf
-updated: 'February 2nd, 2017'
+updated: 'February 8th, 2017'
 ---
 
 When the _Deepwater Horizon_ oil rig exploded off the coast of Louisiana on April 20, 2010, the Service’s response was robust and included taking on myriad responsibilities, such as working on incident command, wildlife reconnaissance and recovery, sensitive habitat and endangered species protection, finance and other administrative tasks, safety and more. But the Service has been active in the Gulf watershed for years; we see ourselves as one of the many stakeholders in Gulf restoration, and we are thoroughly engaged within the communities and landscapes of the Gulf. For example, the Service has been managing millions of acres on 235 national wildlife refuges (NWRs) in the Gulf watershed, with the 47 located in the Gulf Coast states covering more than 2.15 million acres of managed lands alone. In fact, the first NWR established anywhere was located in the Gulf states with the establishment of Pelican Island NWR in Vero Beach, Florida, in 1903\. The first such refuge on the Gulf Coast itself followed soon afterwards with the establishment of Breton Island Reservation (now Breton NWR) to protect important bird-nesting islands located off the coast of Louisiana. Additionally, the Service has field and regional representation in all 31 states in the Gulf of Mexico watershed. Throughout the watershed, the Service has long provided a combination of planning and on-the-ground contributions to natural resource protection and conservation.
