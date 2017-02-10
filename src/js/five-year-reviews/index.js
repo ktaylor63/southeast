@@ -36,7 +36,8 @@
   }
 
   function render(species) {
-    list.innerHTML = template({ species: species.sort(sortByDate) });
+    const sorted = species.slice().sort(sortByDate);
+    list.innerHTML = template({ species: sorted });
   }
 
   function sortByDate(a, b) {
