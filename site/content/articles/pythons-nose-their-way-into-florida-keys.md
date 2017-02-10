@@ -10,7 +10,7 @@ tags:
     - 'Invasive Species'
 author: 'Mark Davis, Public Affairs Specialist'
 date: '2017-02-08'
-updated: 'February 8th, 2017'
+updated: 'February 10th, 2017'
 ---
 
 A couple of long-disused buildings in the Florida Keys that once sheltered servicemen from missile launches have been sheltering something else – pythons.
@@ -31,7 +31,7 @@ They also like black rats, which likely attracted them to the site, Dixon said. 
 
 The easy availability of food, said Dixon, means the pythons could thrive on the Keys just as easily as they have multiplied in the Everglades. For more than two decades, an array of big snakes have spread and bred in the Everglades. Their presence has had a devastating effect on native birds, deer and other species in the park. Some snakes have even managed to devour alligators.
 
-The Florida Wildlife Fish and Wildlife Commission is working with the University of Florida to detect and remove the snakes in the Keys. They are using dogs, as well as Irulas, members of an Indian tribe that’s renowned for its ability to catch snakes. [Read more about those programs](https://content.govdelivery.com/accounts/FLFFWCC/bulletins/182564a).
+The Florida Wildlife Fish and Wildlife Commission is working with the University of Florida to detect and remove the snakes in the Keys. They are partnering with the Irulas, members of an Indian tribe that’s renowned for its ability to catch snakes. [Read more about those programs](https://content.govdelivery.com/accounts/FLFFWCC/bulletins/182564a).
 
 If you need to report a python, dial the Exotic Species Reporting Hotline: 888-Ive-Got1 (888-483-4681).
 
