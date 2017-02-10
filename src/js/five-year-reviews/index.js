@@ -1,37 +1,48 @@
 (function () {
   'use strict';
 
-  var fs = require('fs');
-  var moment = require('moment');
-  var filter = require('lodash.filter');
+  const fs = require('fs');
+  const moment = require('moment');
+  const xhr = require('xhr');
 
-  var template = require('./li.jade');
+  const template = require('./li.pug');
 
-  var list = document.querySelector('.five-year-review-list');
-  var input = document.querySelector('.five-year-review-search');
-  var species = JSON.parse( fs.readFileSync('./documents.js') );
+  const list = document.querySelector('.five-year-review-list');
+  const input = document.querySelector('.five-year-review-search');
 
-  render(species);
+  const baseURL = document.body.getAttribute('data-root');
+  const url = `${baseURL}data/five-year-reviews.js`;
+  let species;
 
-  input.addEventListener('keyup', search);
+  xhr.get(url, (err, res, body) => {
+    if (err) console.log(err);
+    species = JSON.parse(body);
+    render(species);
+    input.addEventListener('keyup', search);
+  });
 
   function search(e) {
-    var query = e.target.value.toLowerCase(),
-        filtered;
-
+    const query = e.target.value;
+    const regex = new RegExp(q, 'gi');
     if (query.length === 0) render(species);
 
-    filtered = filter(species, function (animal) {
-      var isName = animal.commonName.toLowerCase().indexOf(query) > -1;
-      var isStatus = animal.status.toLowerCase().indexOf(query) > -1;
-      var isTaxon = animal.taxon.toLowerCase().indexOf(query) > -1;
+    const filtered = species.filter(animal => {
+      const isName = regex.test(animal.commonName);
+      const isStatus = regex.test(animal.status);
+      const isTaxon = regex.test(animal.taxon);
       return (isName || isStatus || isTaxon);
     });
     render(filtered);
   }
 
   function render(species) {
-    list.innerHTML = template({ species: species });
+    list.innerHTML = template({ species: species.sort(sortByDate) });
+  }
+
+  function sortByDate(a, b) {
+    if (new Date(a.reviewDate) > new Date(b.reviewDate)) return -1;
+    if (new Date(a.reviewDate) < new Date(b.reviewDate)) return 1;
+    return 0;
   }
 
 })();
