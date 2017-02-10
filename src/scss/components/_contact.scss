@@ -1,3 +1,15 @@
 .contact-drawer {
   @include drawer('contact');
 }
+
+.contact-list {
+
+  .card ul {
+    list-style: none;
+    padding: 0;
+  }
+
+  .card li {
+    margin: 5px 0;
+  }
+}

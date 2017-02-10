@@ -100,13 +100,9 @@
   p:first-of-type {
     margin-top: 0;
     font-style: normal;
-
-    a {
-      text-decoration: none;
-
-      &:hover {
-        text-decoration: underline;
-      }
-    }
   }
+}
+
+.card-text-small {
+  padding: $leading/2;
 }
