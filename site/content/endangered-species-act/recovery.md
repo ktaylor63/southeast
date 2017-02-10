@@ -16,7 +16,7 @@ tags:
     - 'Threatened Species'
     - Delisting
     - Downlisting
-updated: 'November 8th, 2016'
+updated: 'February 10th, 2017'
 ---
 
 Our goal under the Endangered Species Act is to conserve plants and animals listed as endangered or threatened, as well as the ecosystems upon which depend. We also work to improve the status of those species to the point that protection under the Act is no longer necessary. This process is what we call **recovery**.
@@ -54,9 +54,6 @@ You can find the recovery plan for any protected species using our [Environmenta
  - [Louisiana black bear](https://www.federalregister.gov/articles/2016/03/11/2016-05206/endangered-and-threatened-wildlife-and-plants-removal-of-the-louisiana-black-bear-from-the-federal), ([Species Profile](/wildlife/mammal/louisiana-black-bear))
  - [Magazine mountain shagreen](https://www.federalregister.gov/articles/2013/05/15/2013-11541/endangered-and-threatened-wildlife-and-plants-removal-of-the-magazine-mountain-shagreen-from-the)
  - [Tennessee purple coneflower](https://www.federalregister.gov/articles/2011/08/03/2011-19674/endangered-and-threatened-wildlife-and-plants-removal-of-echinacea-tennesseensis-tennessee-purple)
-
-## Proposed Delistings Due to Recovery
- - [Interior least tern](/pdf/five-year-reviews/interior-least-tern.pdf)
  - [White haired goldenrod](https://www.federalregister.gov/articles/2015/09/01/2015-21410/endangered-and-threatened-wildlife-and-plants-removal-of-solidago-albopilosa-white-haired-goldenrod)
 
 ## Downlistings
@@ -82,8 +79,7 @@ Some species have entire teams of biologists dedicated to their recovery. Learn 
 
 For more information about species recovery, please contact us.
 
-[Aaron Valenta](mailto:aaron_valenta@fws.gov?subject=Recovery), Chief, Division of Restoration and Recovery
-
-[Lisa Ellis](mailto:lisa_ellis@fws.gov?subject=Recovery), Deputy Chief, Division of Restoration and Recovery
-
-[Kelly Bibb](mailto:kelly_bibb@fws.gov?subject=Recovery), Recovery Coordinator
+ - [Aaron Valenta](mailto:aaron_valenta@fws.gov?subject=Recovery), Chief, Division of Restoration and Recovery
+ - [Matthew Dekar](mailto:matthew_dekar@fws.gov?subject=Recovery), Deputy Chief, Division of Restoration and Recovery
+ - [Kelly Bibb](mailto:kelly_bibb@fws.gov?subject=Recovery), Recovery Coordinator
+ - [Drew Becker](mailto:drew_becker@fws.gov?subject=Recovery), Recovery Coordinator
