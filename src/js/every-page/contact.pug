@@ -1,0 +1,13 @@
+ul.card-list.contact-list
+  each person in contacts
+    - var email = 'mailto:' + person.email;
+    - var phone = getPhone(person.phone);
+    - var name = (person.name) ? person.name : person.station;
+    li.card.card-text-small
+      ul
+        li| #[a(href=email) #{name}], #{person.title}
+        li| #{person.station}, #{person.state}
+        if (phone === 'tel+1')
+          li= person.phone
+        else
+          li| #[a(href=phone)= person.phone]
