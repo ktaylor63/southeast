@@ -16,7 +16,7 @@ hero:
     alt: 'A white/gray butterfly with black spots blends into a flower bloom of similar color and markings.'
     link: 'https://flic.kr/p/bJQ2s4'
     caption: 'The endangered Miami blue butterfly feeds on a flower. © Holly Salvato. Used with permission.'
-updated: 'November 3rd, 2016'
+updated: 'February 10th, 2017'
 ---
 
 To make sure that all species listed as threatened or endangered under the Endangered Species Act continue to have the appropriate level of protection, we conduct assessments of their status once every five years. We call these **five-year reviews**.
@@ -34,7 +34,7 @@ Upon completion of a five-year review, we can make four possible recommendations
  - Remove the species from the List (delist), or
  - Maintain the species’ current classification.
 
-**A five-year review does not automatically change a species’ protections or status, it only presents recommendations.** Any change to a species’ federal status requires a separate rulemaking process which is published in the *Federal Register* and open to public comment.
+**A five-year review does not automatically change a species’ protections or status, it only presents recommendations.** Any change to a species’ federal status requires a separate rulemaking process which is published in the *Federal Register* which is open to public comment, and subject to peer review..
 
 {{< figure class="photo-center" src="/images/pages/biologist-collecting-sample-in-field.jpg" alt="A biologist writing on a sample in the field." caption="A biologist labels a pitcher plant specimen she collected. Photo by Gary Peeples, USFWS." link="https://flic.kr/p/fJcvA7" >}}
 
