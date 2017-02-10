@@ -12,7 +12,7 @@ hero:
     alt: 'A biologist holding a tiny loggerhead sea turtle with a USFWS biologist in uniform in the background.'
     link: 'https://flic.kr/p/cECWef'
     caption: 'A loggerhead sea turtle hatchling at Cape Romain National Wildlife Refuge. Photo by Keith Fuller for USFWS.'
-updated: 'February 6th, 2017'
+updated: 'February 10th, 2017'
 ---
 
 From the Atlantic coast of North Carolina, south to Florida, west across the Gulf of Mexico to Louisiana, and along the coastlines of Puerto Rico and the US Virgin Islands, the coastal area in the Southeast Region covers more than **26,000 miles** of tidal shoreline and nearshore habitats, and more than **86 million acres** of diverse coastal habitat and natural resources. This area accounts for the largest, most diverse and most productive coastal area in the country (Restore America’s Estuaries, 2002).
@@ -88,67 +88,67 @@ If you would like to help conserve coastal habitats for the benefit of people an
 
 ### Regional Coordinator
 
-Cindy Bohn <br>
-U.S. Fish and Wildlife Service, Southeast Regional Office <br>
-1875 Century Boulevard <br>
-Atlanta, GA 30345 <br>
-(404) 679-7122 <br>
-[cynthia_bohn@fws.gov](mailto:cynthia_bohn@fws.gov?subject=Coastal+Program) <br>
+Cindy Bohn  
+U.S. Fish and Wildlife Service, Southeast Regional Office  
+1875 Century Boulevard  
+Atlanta, GA 30345  
+(404) 679-7122  
+[cynthia_bohn@fws.gov](mailto:cynthia_bohn@fws.gov?subject=Coastal+Program)  
 
 ### Alabama, Mississippi and Louisiana
 
-Patric Harper, Northern Gulf Program Coordinator <br>
-U.S. Fish and Wildlife Service, Grand Bay Coastal Resources Center <br>
-Moss Point, MS 39563 <br>
-(228) 475-0765, extension 105 <br>
-[Patric_Harper@fws.gov](mailto:Patric_Harper@fws.gov?subject=Coastal+Program) <br>
+Patric Harper, Northern Gulf Program Coordinator  
+U.S. Fish and Wildlife Service, Grand Bay Coastal Resources Center  
+Moss Point, MS 39563  
+(228) 475-0765, extension 105  
+[Patric_Harper@fws.gov](mailto:Patric_Harper@fws.gov?subject=Coastal+Program)  
 
 ### Florida
 
-**Panhandle**: Melody Ray-Culp, Panhandle Program Coordinator <br>
-U.S. Fish and Wildlife Service, Panama City Ecological Services Field Office <br>
-1601 Balboa Avenue <br>
-Panama City, FL 34205 <br>
-(850) 769-0552 extension 232 <br>
-[Melody_Ray-Culp@fws.gov](mailto:Melody_Ray-culp@fws.gov?subject=Coastal+Program) <br>
+**Panhandle**: Melody Ray-Culp, Panhandle Program Coordinator  
+U.S. Fish and Wildlife Service, Panama City Ecological Services Field Office  
+1601 Balboa Avenue  
+Panama City, FL 34205  
+(850) 769-0552 extension 232  
+[Melody_Ray-Culp@fws.gov](mailto:Melody_Ray-culp@fws.gov?subject=Coastal+Program)  
 
-**North Florida**:  Tampa Bay Program Coordinator <br>
-U.S. Fish and Wildlife Service, North Florida Ecological Services Field Office <br>
-7915 Baymeadows Way, Suite 200 <br>
-Jacksonville, FL 32256-7517 <br>
-(904) 731-3079 <br>
-[Nicole_Adimey@fws.gov](mailto:Nicole_Adimey@fws.gov?subject=Coastal+Program) <br>
+**North Florida**:  Tampa Bay Program Coordinator  
+U.S. Fish and Wildlife Service, North Florida Ecological Services Field Office  
+7915 Baymeadows Way, Suite 200  
+Jacksonville, FL 32256-7517  
+(904) 731-3079  
+[Nicole_Adimey@fws.gov](mailto:Nicole_Adimey@fws.gov?subject=Coastal+Program)  
 
-**South Florida**: Patrick Pitts, South Florida/Everglades Coordinator <br>
-U.S. Fish and Wildlife Service, South Florida Ecological Services Field Office <br>
-1339 20th Street <br>
-Vero Beach, FL 32960 <br>
-(772) 469-4250 <br>
-[Patrick_Pitts@fws.gov](mailto:Patrick_Pitts@fws.gov?subject=Coastal+Program) <br>
+**South Florida**: Patrick Pitts, South Florida/Everglades Coordinator  
+U.S. Fish and Wildlife Service, South Florida Ecological Services Field Office  
+1339 20th Street  
+Vero Beach, FL 32960  
+(772) 469-4250  
+[Patrick_Pitts@fws.gov](mailto:Patrick_Pitts@fws.gov?subject=Coastal+Program)  
 
 ### North Carolina
 
-Mike Wicker, North Carolina Coordinator <br>
-U.S. Fish and Wildlife Service, Raleigh Ecological Services Field Office <br>
-551-F Pylon Drive <br>
-Raleigh, NC 27636 <br>
-(919) 856 4520 extension 22 <br>
-[Mike_Wicker@fws.gov](mailto:Mike_Wicker@fws.gov?subject=Coastal+Program) <br>
+Mike Wicker, North Carolina Coordinator  
+U.S. Fish and Wildlife Service, Raleigh Ecological Services Field Office  
+551-F Pylon Drive  
+Raleigh, NC 27636  
+(919) 856 4520 extension 22  
+[Mike_Wicker@fws.gov](mailto:Mike_Wicker@fws.gov?subject=Coastal+Program)  
 
 ### Puerto Rico and U.S. Virgin Islands
 
-Ivan Llerandi-Roman, Caribbean Program Coordinator <br>
-U.S. Fish and Wildlife Service, Caribbean Ecological Services Field Office <br>
-P.O. Box 491 <br>
-Boqueron, Puerto Rico 00622-0491 <br>
-(787) 851-7297 extension 224 <br>
-[ivan_llerandi-roman@fws.gov](mailto:ivan_llerandi-roman@fws.gov?subject=Coastal+Program) <br>
+Ivan Llerandi-Roman, Caribbean Program Coordinator  
+U.S. Fish and Wildlife Service, Caribbean Ecological Services Field Office  
+P.O. Box 491  
+Boqueron, Puerto Rico 00622-0491  
+(787) 851-7297 extension 224  
+[ivan_llerandi-roman@fws.gov](mailto:ivan_llerandi-roman@fws.gov?subject=Coastal+Program)  
 
 ### South Carolina
 
-Jason Ayers, South Carolina Coordinator <br>
-U.S. Fish and Wildlife Service, Charleston Ecological Services Field Office <br>
-176 Croghan Spur Road, Suite 200 <br>
-Charleston, SC  29407 <br>
-(843) 727-4707 extension 220 <br>
-[Jason_Ayers@fws.gov](mailto:Jason_Ayers@fws.gov?subject=Coastal+Program) <br>
+Jason Ayers, South Carolina Coordinator  
+U.S. Fish and Wildlife Service, Charleston Ecological Services Field Office  
+176 Croghan Spur Road, Suite 200  
+Charleston, SC  29407  
+(843) 727-4707 extension 220  
+[Jason_Ayers@fws.gov](mailto:Jason_Ayers@fws.gov?subject=Coastal+Program)  
