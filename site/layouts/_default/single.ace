@@ -6,8 +6,21 @@
     h2.page-subtitle {{ .Params.subtitle}}
     {{ end }}
     p {{ if .Params.author }}By {{ .Params.author }}{{ end }}
-    {{ if .Params.Date }}
-      span.article-date {{ .Params.Date.Format "January 2, 2006" }}
+    {{ if .Date }}
+      span.article-date {{ .Date.Format "January 2, 2006" }}
     {{ end }}
     {{ end }}
+
     {{ .Content }}
+
+  {{ if eq .Section "articles" }}
+  ul.chapter-links
+    {{ if .NextInSection }}
+      li.last-chapter
+        a href="{{ .NextInSection.Permalink }}" {{ .NextInSection.Title }}
+    {{end}}
+    {{ if .PrevInSection }}
+      li.next-chapter
+        a href="{{ .PrevInSection.Permalink }}" {{ .PrevInSection.Title }}
+    {{end}}
+  {{ end }}
