@@ -9,3 +9,13 @@
       span.article-date {{ if .Date }}{{ .Date.Format "January 2, 2006" }}{{ end }}
 
     {{ .Content }}
+
+  ul.chapter-links
+    {{ if .NextInSection }}
+      li.last-chapter
+        a href="{{ .NextInSection.Permalink }}" {{ .NextInSection.Title }}
+    {{end}}
+    {{ if .PrevInSection }}
+      li.next-chapter
+        a href="{{ .PrevInSection.Permalink }}" {{ .PrevInSection.Title }}
+    {{end}}
