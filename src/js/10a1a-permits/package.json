@@ -5,34 +5,38 @@
   "main": "index.js",
   "browserify": {
     "transform": [
-      "jadeify",
-      "brfs"
+      [
+        "babelify",
+        {
+          "presets": [
+            "es2015"
+          ]
+        }
+      ],
+      "pugify"
     ]
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "csv2json": "csv2json ./permits.csv - | json-minify > ./permits.js",
     "browserify": "browserify index.js | uglifyjs -mc > ../../../dist/js/10a1a-permits.js",
     "watchify": "watchify index.js -o ../../../dist/js/10a1a-permits.js -dv",
     "inspect": "browserify --full-paths index.js | uglifyjs -mc | Discify --open",
-    "start": "npm run csv2json && npm run watchify",
-    "build": "npm run csv2json && npm run browserify"
+    "start": "npm run watchify",
+    "build": "npm run browserify"
   },
   "keywords": [],
   "author": "Roy Hewitt <roy_hewitt@fws.gov>",
   "license": "ISC",
   "dependencies": {
-    "lodash.filter": "^4.4.0",
-    "moment": "^2.13.0"
+    "xhr": "^2.3.3"
   },
   "devDependencies": {
-    "brfs": "^1.4.3",
+    "babel-preset-es2015": "^6.22.0",
+    "babelify": "^7.3.0",
     "browserify": "^13.0.1",
-    "csv2json": "^1.1.0",
     "disc": "^1.3.2",
-    "jade": "^1.11.0",
-    "jadeify": "^4.6.0",
-    "json-minify": "^1.0.0",
+    "pug": "^2.0.0-beta11",
+    "pugify": "^2.1.0",
     "uglifyjs": "^2.4.10",
     "watchify": "^3.7.0"
   }

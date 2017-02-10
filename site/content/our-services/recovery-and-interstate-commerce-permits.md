@@ -7,7 +7,7 @@ tags:
     - 'Endangered Species Act'
 description: 'A typical use of a recovery permit is to allow for scientific research on a listed species in order to understand better the species'' long-term survival needs. Interstate commerce permits also allow transport and sale of listed species across State lines (e.g., for purposes such as a breeding program).'
 js: /js/10a1a-permits.js
-updated: 'February 6th, 2017'
+updated: 'February 10th, 2017'
 ---
 
 ## What is the status of my permit?
@@ -23,7 +23,7 @@ Type in the 6-digit alpha-numeric code associated with your permit. For example,
 </div>
 <div><strong class="output"></strong></div>
 
-**Statuses Last Updated: <span class="permits-last-updated"></span>**
+**Permit status data is updated daily.**
 
 Note that permit statuses are updated as as changes are made. While we are aware that you may want to inquire further about the status of your application, we request that you use this website as a means of staying apprised so that we can focus our resources on processing your permit as quickly as possible. If you have specific information that needs to be provided so that we can successfully complete the processing of your application, [email the additional information to our office](mailto:permitsR4es@fws.gov?subject=Recovery+and+Interstate+Commerce+Permits).
 
