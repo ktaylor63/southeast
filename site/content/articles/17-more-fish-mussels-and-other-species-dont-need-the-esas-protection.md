@@ -10,7 +10,7 @@ hero:
 tags:
     - 'At-Risk Species'
     - 'Ouachita Madtom'
-date: '2017-02-07'
+date: '2017-02-08'
 author: 'Mark Davis, Public Affairs Specialist'
 updated: 'February 8th, 2017'
 ---
