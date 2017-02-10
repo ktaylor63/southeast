@@ -11,7 +11,7 @@ hero:
 url: /gulf-restoration/next-steps
 tags:
     - Gulf
-updated: 'February 3rd, 2017'
+updated: 'February 10th, 2017'
 ---
 
 The greater Gulf of Mexico ecosystem contains a variety of habitats that support an amazing range of wildlife and provides Americans with abundant seafood, valuable energy resources, extraordinary outdoor recreational activities, and a rich cultural heritage. The U.S. Fish and Wildlife Service (the Service) is keenly aware that a long-term, large-scale, watershed-level approach to restoration and conservation is important if we are to achieve a healthy Gulf.
@@ -29,6 +29,8 @@ _Next Steps_ highlights specific courses of action for the development and imple
 {{< figure class="photo-right" src="/images/pages/usfws-biologist-discussing-a-restoration-project-with-partners-on-Anhuac-nwr.jpg" alt="Biologists on an eroded marsh edge look out over open water." caption="USFWS biologist discussing a restoration project design with partners at Anahuac NWR. Photo by Woody Woodrow, USFWS." >}}
 
 The actions outlined in this document are not the only options for good conservation in the Gulf. In fact, we are hopeful that by articulating our perspective, we will open the door for conversations with present and future partners focused on discovery and the development of desirable collaborations; creative problem solving; and increased transparency and coordination. We believe such dialogue will also ensure that we are leveraging our contributions in science, conservation, restoration and environmental compliance with our partners’. Our intention is to present quantitative targets for restoration of natural resources where we have them, and where we do not, to seek a better understanding of which restoration actions will be most broadly supported and most effectively benefit the greatest diversity of fish and wildlife. Those common restoration opportunities are important to the Service. They represent opportunities to garner broad support for restoration and to support partnerships intent on far-reaching and sustainable goals.
+
+[Download the Overview of _Next Steps for a Healthy Gulf of Mexico_.](/pdf/next-steps-overview.pdf)
 
 <ul class="chapter-links">
   <li class="current-chapter"><span>Current Chapter: Introduction</span></li>
