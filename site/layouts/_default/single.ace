@@ -6,7 +6,7 @@
     h2.page-subtitle {{ .Params.subtitle}}
     {{ end }}
     p {{ if .Params.author }}By {{ .Params.author }}{{ end }}
-    {{ if .Date }}
+    {{ if not .Date.IsZero }}
       span.article-date {{ .Date.Format "January 2, 2006" }}
     {{ end }}
     {{ end }}
