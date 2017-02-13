@@ -12,7 +12,7 @@ hero:
     caption: 'Service biologist Sue Cameron searches for birds. Photo by Gary Peeples, USFWS.'
 tags:
     - Science
-updated: 'January 31st, 2017'
+updated: 'February 13th, 2017'
 ---
 
 Employees within the U.S. Fish and Wildlife Service use science on a daily basis as the foundation for carrying out our mission.
@@ -42,4 +42,4 @@ Through the Science Support Partnership (SSP) Program, the U.S. Fish and Wildlif
 
 <article class="featured-project"></article>
 
-[Explore more Science Support Partnership Program Projects](/science/science-support-partnership-program)
+[Explore more Science Support Partnership Program Projects](/science/science-support-partnership/projects/)
