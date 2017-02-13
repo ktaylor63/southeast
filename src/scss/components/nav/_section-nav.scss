@@ -71,4 +71,8 @@
   @media (min-width: $break-md) {
     margin-left: $nav-width;
   }
+
+  @media print {
+    display: none;
+  }
 }
