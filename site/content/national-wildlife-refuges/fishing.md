@@ -7,14 +7,14 @@ tags:
     - 'Visitor Activities'
 aliases:
     - /refuges/fishing
-nav: 'Fishing'
+nav: Fishing
 weight: 5
 hero:
     name: fishing-education.jpg
     alt: 'A refuge law enforcement officer in uniform shows a child how to cast a rod.'
     link: 'https://flic.kr/p/aL3SKt'
     caption: 'Zone Officer Butler teaching Cub Scouts how to fish at a summer camp in Brunswick, GA. Photo by USFWS.'
-updated: 'January 9th, 2017'
+updated: 'February 10th, 2017'
 ---
 
 In addition to the conservation of wildlife and habitat, many national wildlife refuges offer a wide variety of quality fishing opportunities. Every year, about 7 million anglers visit national wildlife refuges, where they can find knowledgeable staff and thousands of volunteers.
@@ -24,51 +24,6 @@ In addition to the conservation of wildlife and habitat, many national wildlife 
 Fishing on national wildlife refuges is permitted on a case-by-case basis taking into account local factors including fish species and abundance, feasibility, effects on other refuge programs, and public demand.  If your local refuge allows fishing make sure you pick up a state  fishing license; your local refuge does not issue fishing licenses.
 
 Find your local national wildlife refuge using our [interactive map](https://usfws.github.io/southeast-mega-map/?layers=refuges&layers=Refuge+boundaries).
-
-## Acquire a State Fishing License
-
-Fishing licenses are provided by state wildlife agencies. Select your state agency below to find fishing resources.
-
-### Alabama Department of Conservation & Natural Resources
- - [Resident Freshwater Fishing Licenses](http://www.outdooralabama.com/resident-freshwater-fishing-license-and-application-packets)
- - [Non-resident Freshwater Fishing Licenses](http://www.outdooralabama.com/nonresident-freshwater-fishing-license-and-application-packets)
-
-### Arkansas Game & Fish Commission
- - [About Fishing Licenses](http://www.agfc.com/licenses/Pages/LicensesFishing.aspx)
- - [Buy a License](https://www.ar.wildlifelicense.com/start.php)
-
-### Florida Florida Fish and Wildlife Conservation Commission
- - [Freshwater Fishing Licenses and Fees](http://myfwc.com/license/recreational/freshwater-fishing/)
- - [Saltwater Fishing Licenses and Fees](http://myfwc.com/license/recreational/saltwater-fishing/)
-
-### Georgia Department of Natural Resources, Wildlife Resources Division
- - [Sport Fishing Regulations](http://www.georgiawildlife.com/fishing/regulations)
- - [Fishing License Requirements](http://www.georgiawildlife.org/node/1300)
- - [Free Fishing Days](http://www.georgiawildlife.com/Fishing/FreeFishingDays)
- - [Purchase a License](https://www.gooutdoorsgeorgia.com/)
-
-### Kentucky Department of Fish & Wildlife Resources
- - [Online License and Permit Agent](https://app.fw.ky.gov/license/waonlinefront.aspx)
-
-### Louisiana Department of Wildlife and Fisheries
- - [Fishing License Information](http://www.wlf.louisiana.gov/licenses/fishing)
- - [Purchase Your License Online](https://www.la.wildlifelicense.com/start.php)
-
-### Mississippi Wildlife, Fisheries & Parks
- - [Fishing License Types and Regulations](https://www.mdwfp.com/license/fishing-license.aspx)
- - [Purchase a Fishing License](https://www.ms.gov/mdwfp/hunting_fishing/)
-
-### North Carolina Wildlife Resources Commission
- - [Information on Fishing in North Carolina](http://www.ncwildlife.org/Fishing.aspx)
- - [Hunting, Fishing and Trapping Licenses](http://www.ncwildlife.org/Licensing/HuntingFishingTrappingLicenses.aspx)
-
-### South Carolina Department of Natural Resources
- - [Fishing Licenses for Residents](http://www.dnr.sc.gov/licenses/pricingresident.html)
- - [Fishing Licenses for Non-Residents](http://www.dnr.sc.gov/licenses/pricingnonresident.html)
- - [Purchase a Fishing License](https://dnrlicensing.sc.gov/dnrlicensingsales/salescategories.aspx)
-
-### Tennessee Wildlife Resources Agency
- - [Fishing Licenses and Permits](https://www.tn.gov/twra/topic/fishing-licenses)
 
 ## Refuges by State and Type of Fish
 
@@ -83,7 +38,6 @@ Fishing licenses are provided by state wildlife agencies. Select your state agen
   - Bass, catfish, striped bass
  - [Wheeler National Wildlife Refuge](https://www.fws.gov/refuge/wheeler/), Decatur, AL
   - Bass, catfish, striped bass, sunfish
-
 
 ### Arkansas
  - [Bald Knob National Wildlife Refuge](https://www.fws.gov/baldknob/), Bald Knob, AR
@@ -254,3 +208,48 @@ Fishing licenses are provided by state wildlife agencies. Select your state agen
   - Bass, catfish
  - [Tennessee National Wildlife Refuge](https://www.fws.gov/refuge/tennessee/), Johnsonville, TN
   - Bass, catfish, striped bass, sunfish
+
+## Acquire a State Fishing License
+
+Fishing licenses are provided by state wildlife agencies. Select your state agency below to find fishing resources.
+
+### Alabama Department of Conservation & Natural Resources
+ - [Resident Freshwater Fishing Licenses](http://www.outdooralabama.com/resident-freshwater-fishing-license-and-application-packets)
+ - [Non-resident Freshwater Fishing Licenses](http://www.outdooralabama.com/nonresident-freshwater-fishing-license-and-application-packets)
+
+### Arkansas Game & Fish Commission
+ - [About Fishing Licenses](http://www.agfc.com/licenses/Pages/LicensesFishing.aspx)
+ - [Buy a License](https://www.ar.wildlifelicense.com/start.php)
+
+### Florida Florida Fish and Wildlife Conservation Commission
+ - [Freshwater Fishing Licenses and Fees](http://myfwc.com/license/recreational/freshwater-fishing/)
+ - [Saltwater Fishing Licenses and Fees](http://myfwc.com/license/recreational/saltwater-fishing/)
+
+### Georgia Department of Natural Resources, Wildlife Resources Division
+ - [Sport Fishing Regulations](http://www.georgiawildlife.com/fishing/regulations)
+ - [Fishing License Requirements](http://www.georgiawildlife.org/node/1300)
+ - [Free Fishing Days](http://www.georgiawildlife.com/Fishing/FreeFishingDays)
+ - [Purchase a License](https://www.gooutdoorsgeorgia.com/)
+
+### Kentucky Department of Fish & Wildlife Resources
+ - [Online License and Permit Agent](https://app.fw.ky.gov/license/waonlinefront.aspx)
+
+### Louisiana Department of Wildlife and Fisheries
+ - [Fishing License Information](http://www.wlf.louisiana.gov/licenses/fishing)
+ - [Purchase Your License Online](https://www.la.wildlifelicense.com/start.php)
+
+### Mississippi Wildlife, Fisheries & Parks
+ - [Fishing License Types and Regulations](https://www.mdwfp.com/license/fishing-license.aspx)
+ - [Purchase a Fishing License](https://www.ms.gov/mdwfp/hunting_fishing/)
+
+### North Carolina Wildlife Resources Commission
+ - [Information on Fishing in North Carolina](http://www.ncwildlife.org/Fishing.aspx)
+ - [Hunting, Fishing and Trapping Licenses](http://www.ncwildlife.org/Licensing/HuntingFishingTrappingLicenses.aspx)
+
+### South Carolina Department of Natural Resources
+ - [Fishing Licenses for Residents](http://www.dnr.sc.gov/licenses/pricingresident.html)
+ - [Fishing Licenses for Non-Residents](http://www.dnr.sc.gov/licenses/pricingnonresident.html)
+ - [Purchase a Fishing License](https://dnrlicensing.sc.gov/dnrlicensingsales/salescategories.aspx)
+
+### Tennessee Wildlife Resources Agency
+ - [Fishing Licenses and Permits](https://www.tn.gov/twra/topic/fishing-licenses)

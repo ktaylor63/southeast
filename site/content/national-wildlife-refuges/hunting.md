@@ -7,7 +7,7 @@ tags:
     - 'Visitor Activities'
 aliases:
     - /refuges/hunting
-nav: 'Hunting'
+nav: Hunting
 weight: 4
 hero:
     name: boy-waterfowl-hunting.jpg
@@ -15,7 +15,7 @@ hero:
     link: 'https://flic.kr/p/8Cu3Gd'
     caption: 'A boy waterfowl hunting. <a href="https://flic.kr/p/8Cu3Gd">Photo</a> by Tina Shaw, USFWS.'
     position: 'center right'
-updated: 'January 9th, 2017'
+updated: 'February 10th, 2017'
 ---
 
 Hunting is part of our American heritage and is a huge economic contributor to the conservation of our nation’s wildlife and habitats. Through the [Pittman-Robertson Act](http://wsfrprograms.fws.gov/Subpages/GrantPrograms/WR/WR_Act.htm), American hunters and shooters contributed [over $800 million](http://wsfrprograms.fws.gov/Subpages/GrantPrograms/WR/WRFinalApportionment2015.pdf) to conservation projects nationwide last year.
@@ -26,8 +26,12 @@ We offer seasonal hunting opportunities on a variety of southeastern national wi
 
 In order to hunt on a national wildlife refuge, you need to have two things:
 
-1. A state hunting license and
-2. A refuge hunting permit.
+1. A refuge hunting permit
+2. A state hunting license
+
+## Find a Refuge Hunt
+
+Use our [hunt search tool](https://www.fws.gov/refuges/hunting/) to find the perfect hunt for you and/or your family. After finding your hunt, visit the refuge website to find hunt maps and more information.  Hunting Regulations for all of the Southeastern National Wildlife Refuges can be found in the [reading room](/reading-room/?search=Hunt).
 
 {{< figure class="photo-center" src="/images/pages/northern-pintail.jpg" alt="A brown and gray duck dipping it's beak into the water" link="https://flic.kr/p/Dy9TmP" caption="Northern pintail duck. Photo by Peter Pearsall, USFWS." >}}
 
@@ -72,7 +76,3 @@ Fishing licenses are provided by state wildlife agencies. Select your state agen
 ### Tennessee Wildlife Resources Agency
 - [Hunting License Requirements](https://www.tn.gov/twra/article/hunting-license-requirements)
 - [Purchase a Hunting License](https://www1.tn.wildlifelicense.com/start.php)
-
-## Find a Refuge Hunt
-
-Use our [hunt search tool](https://www.fws.gov/refuges/hunting/) to find the perfect hunt for you and/or your family. After finding your hunt, visit the refuge website to find hunt maps and more information.
