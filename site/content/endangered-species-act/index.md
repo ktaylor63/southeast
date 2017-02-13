@@ -13,7 +13,7 @@ hero:
     link: 'https://flic.kr/p/atdbxY'
     caption: 'Green sea turtle hatchling at Archie Carr National Wildlife Refuge. Photo by Keenan Adams, USFWS.'
     position: 'right center'
-updated: 'November 8th, 2016'
+updated: 'February 10th, 2017'
 ---
 
 One of the primary responsibilities of the U.S. Fish and Wildlife Service is to **protect and recover imperiled species and the ecosystems upon which they depend**. Congress defined “species” to include subspecies, varieties, and, for vertebrates, distinct population segments.
@@ -32,7 +32,7 @@ In his signing statement President Nixon wrote:
 
 “Endangered” means a species is in danger of extinction throughout all or a significant portion of its range.
 
-“Threatened” means a species is likely to become endangered within the foreseeable future.
+“Threatened” means a species is likely to become endangered within the foreseeable future throughout all or a significant portion of its range.
 
 Our goal is to take plants and animals off the endangered and threatened species list when they have fully recovered, meaning their survival no longer depends on the protections the ESA affords.
 
