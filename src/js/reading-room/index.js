@@ -40,7 +40,8 @@ function search(e) {
     const isType = regex.test(doc.type);
     const isOffice = regex.test(doc.office);
     const isYear = regex.test(doc.year);
-    return (isType || isOffice || isYear);
+    const isName = regex.test(doc.name);
+    return (isType || isOffice || isYear || isName);
   });
 
   render(filtered);
