@@ -2,7 +2,7 @@
 title: 'Conservation Across Large Landscapes'
 description: 'Today we face environmental challenges so large and complex, no single organization can handle them alone. Landscape-level challenges require landscape-level partnerships based on science.'
 aliases:
-  - /LCC
+    - /LCC
 hero:
     link: 'https://flic.kr/p/noq1xA'
     name: ozarks-in-autumn.jpg
@@ -11,7 +11,7 @@ hero:
 tags:
     - 'Landscape Conservation Cooperatives'
     - Partnership
-updated: 'May 10th, 2016'
+updated: 'February 13th, 2017'
 ---
 What do you do when you realize that you face a problem too big to tackle alone? What did Wonder Woman, Aquaman, Martian Manhunter, Green Lantern and Flash do when they faced their first super villain, [Starro the Conqueror](https://en.wikipedia.org/wiki/Starro)?
 
@@ -53,7 +53,7 @@ Serving Atlantic coast states from southern Virginia, North Carolina, South Caro
 Serving south and west Alabama, Mississippi, Louisiana, eastern corners of Texas and Oklahoma, Arkansas, southern Missouri, west Tennessee and the western corner of Kentucky.
 
 ### [Peninsular Florida](http://peninsularfloridalcc.org/)
-Serving the majority of the state of Florida.
+Serving the majority of the state and the Florida keys.
 
 ### [Caribbean](http://caribbeanlcc.org/)
 Serving Puerto Rico and the U.S. Virgin Islands.  Follow us on [Facebook](https://www.facebook.com/Caribbean-Landscape-Conservation-Cooperative-222151877909510/timeline/) and [Twitter](https://twitter.com/Caribbean_LCC).
