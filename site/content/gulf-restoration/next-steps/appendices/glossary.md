@@ -10,7 +10,7 @@ hero:
     alt: 'A brown and black speckled bird with long narrow beak on glassy-smooth water.'
     link: 'https://flic.kr/p/Li5V4d'
     caption: 'Short-billed dowitcher. Photo by Woody Woodrow, USFWS.'
-updated: 'February 3rd, 2017'
+updated: 'February 13th, 2017'
 ---
 
 **[Adaptive Management](https://www.doi.gov/sites/doi.gov/files/migrated/ppa/upload/TechGuide.pdf)** is a process that promotes flexible decision-making that can be adjusted in the face of uncertainties as outcomes from management actions and other events become better understood. Careful monitoring of these outcomes both advances scientific understanding, and helps adjust policies or operations as part of an iterative learning process. Adaptive management also recognizes the importance of natural variability in contributing to ecological resilience and productivity. It is not a ‘trial and error’ process; it emphasizes learning while doing, and [adapting based on what’s learned](http://www2.usgs.gov/sdc/doc/DOI-Adaptive-Management-Applications-Guide-27.pdf).
@@ -92,6 +92,8 @@ updated: 'February 3rd, 2017'
 **[State Wildlife Action Plans (SWAP)](http://teaming.com/state-wildlife-action-plans-swaps)** guide proactive conservation planning in each state by assessing the health of wildlife and habitats, identifying problems they face, and outlining actions needed to conserve them long-term. In order to receive funds through the Wildlife Conservation and Restoration Program and the State Wildlife Grants Program, a state must develop a SWAP, technically known as “comprehensive wildlife conservation strategies”.
 
 **Surrogate Species** are species that can be used as proxies to represent a broader set of species to support conservation or management strategies when the objective is to provide appropriate ecological conditions for the full set of species characteristic of a defined landscape or geographic area.
+
+Download the Service's 2015 _[Technical Reference on Using Surrogate Species for Landscape Conservation](https://www.fws.gov/Science/pdf/Surrogate-Species-Technical-Reference.pdf)_</a>
 
 **Tailwater Recovery** and reuse systems (tailwater systems) are applicable to any irrigated agricultural system in which significant quantity of irrigation water, as a result of the irrigation method, runs off the end of the irrigated field. A tailwater system consists of ditches or pipelines that collect tailwater and deliver it to a storage reservoir, and includes a pumping and pipeline system that conveys the water to irrigated fields for reuse. Most tailwater systems also collect rainfall that may run off of the irrigated field. Capture and reuse of tailwater can improve the water quality of downstream reaches of rivers, streams and waterways.
 
