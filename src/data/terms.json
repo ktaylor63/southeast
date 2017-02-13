@@ -368,7 +368,7 @@
   {
     "acronym": "LCCs",
     "name": "Landscape Conservation Cooperatives",
-    "description": "Self-directed established partnerships between federal agencies, states, tribes, non-governmental organizations, universities and other entities that collaboratively define science needs and jointly address broad-scale conservation issues (e.g., sea-level rise) in a defined geographic area. There are currently 22 LCCs that span North America, the Pacific Islands and the Caribbean.",
+    "description": "Self-directed established partnerships between federal agencies, states, tribes, non-governmental organizations, universities and other entities that collaboratively define science needs and jointly address broad-scale conservation issues (e.g., sea-level rise) in a defined geographic area. There are currently 22 LCCs that span North America, the Pacific Islands and the Caribbean.<br><br>Learn more at <a href='https://lccnetwork.org/' target='_blank'>lccnetwork.org</a>.",
     "related": []
   },
   {
@@ -546,7 +546,7 @@
   {
     "name": "Southeastern Conservation Adaptation Strategy",
     "acronym": "SECAS",
-    "description": "A regional, multi-partner initiative led by members of the Southeastern Association of Fish and Wildlife Agencies, supported by federal leaders in the Southeast Natural Resources Leadership Group, and developed through partners comprising the southeastern network of Landscape Conservation Cooperatives (South Atlantic, Peninsular Florida, Appalachians, Gulf Coastal Plains & Ozarks, Caribbean and Gulf Coast Prairies LCCs). These existing forums bring together landowners, businesses, and governmental and conservation organizations to collectively develop and implement a compelling conservation strategy for each Landscape Conservation Cooperative region. The goal of SECAS is to collaboratively define the conservation landscape of the Southeast United States of the future.",
+    "description": "A regional, multi-partner initiative led by members of the Southeastern Association of Fish and Wildlife Agencies, supported by federal leaders in the Southeast Natural Resources Leadership Group, and developed through partners comprising the southeastern network of Landscape Conservation Cooperatives (South Atlantic, Peninsular Florida, Appalachians, Gulf Coastal Plains & Ozarks, Caribbean and Gulf Coast Prairies LCCs). These existing forums bring together landowners, businesses, and governmental and conservation organizations to collectively develop and implement a compelling conservation strategy for each Landscape Conservation Cooperative region. The goal of SECAS is to collaboratively define the conservation landscape of the Southeast United States of the future.<br><br>Learn more at <a href='http://secassoutheast.org' target='_blank'>SECASsoutheast.org</a>.",
     "related": ["Landscape Conservation Cooperative", "Conservation"]
   },
   {
@@ -570,7 +570,7 @@
   {
     "name": "Surrogate species",
     "acronym": null,
-    "description": "Surrogate species are species that can be used as proxies to represent a broader set of species to support conservation or management strategies when the objective is to provide appropriate ecological conditions for the full set of species characteristic of a defined landscape or geographic area.",
+    "description": "Surrogate species are species that can be used as proxies to represent a broader set of species to support conservation or management strategies when the objective is to provide appropriate ecological conditions for the full set of species characteristic of a defined landscape or geographic area.<br><br>Download the Service&rsquo;s 2015 <a href='https://www.fws.gov/Science/pdf/Surrogate-Species-Technical-Reference.pdf' target='_blank'><em>Technical Reference on Using Surrogate Species for Landscape Conservation</em></a>",
     "related": ["Strategic Habitat Conservation", "Keyston species", "Flagship species"]
   },
   {
