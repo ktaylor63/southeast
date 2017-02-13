@@ -19,8 +19,8 @@ function updateFrontMatter(path, cb) {
 
   replace({
     files: path,
-    replace: regex,
-    with: output
+    from: regex,
+    to: output
   }, (err, files) => {
     if (err) return cb(err);
     if (cb) cb();
