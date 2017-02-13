@@ -89,3 +89,5 @@ function removeImage(filepath) {
 module.exports.process = processHeroImage;
 module.exports.remove = removeImage;
 module.exports.build = build;
+
+require('make-runnable');
