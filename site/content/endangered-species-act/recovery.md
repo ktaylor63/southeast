@@ -19,15 +19,17 @@ tags:
 updated: 'February 10th, 2017'
 ---
 
-Our goal under the Endangered Species Act is to conserve plants and animals listed as endangered or threatened, as well as the ecosystems upon which depend. We also work to improve the status of those species to the point that protection under the Act is no longer necessary. This process is what we call **recovery**.
+Our goal under the Endangered Species Act is to conserve plants and animals listed as endangered or threatened, as well as the ecosystems upon which they depend. We also work to improve the status of those species to the point that protection under the Act is no longer necessary. This process is what we call **recovery**.
 
-Recovering any species is a challenge that takes time. In some cases we are attempting to combat population declines more than 200 years in the making.
+Recovering any species is a challenge that takes time. In some cases we, are attempting to combat population declines more than 200 years in the making.
 
-Achieving recovery for threatened and endangered species requires cooperative conservation efforts. The collaborative efforts of the U.S. Fish and Wildlife Service and our many partners, including States, not-for-profit organizations, universities, researchers, private individuals, and other Federal agencies, are critical to the recovery of listed species.
+Achieving recovery for threatened and endangered species requires cooperative conservation efforts. The collaborative efforts of the U.S. Fish and Wildlife Service and our many partners, including States, Tribes, not-for-profit organizations, universities, researchers, private individuals, and other Federal agencies, are critical to the recovery of listed species.
 
 {{< figure class="photo-center" src="/images/pages/wood-stork-chicks.jpg" alt="Two fluffy wood stork chicks in a nest at the top of a tree" caption="Two wood stork chicks at Harris Neck National Wildlife Refuge in Georgia. Photo by Mary Ellen Urbanski" link="https://flic.kr/p/nCBbeJ" >}}
 
 ## How We Recover Species
+
+A listed species enters the world of recovery as soon as the final rule listing it under the ESA becomes effective.  Many times the Service continues efforts with our partners that began before the species was under consideration for listing.  The Southeast Region identifies a Field Office recovery lead for each listed species at the time of listing who can immediately move forward with recovery work. For example, recovery actions could include working with a State Park to restore dunes; or with a National Forest to remove exotic overcrowding vegetation, or with a University professor in propagation of a species.
 
 In order to have a transparent path to achieve recovery, we develop **recovery plans** for listed species that outline the actions that need to be taken in order to move the species towards no longer requiring federal protection.
 
@@ -39,7 +41,7 @@ Many factors go into development of a recovery plan, and the process is unique f
 
 The biology of the species, the current number of individuals of the species, and their distributions, as well as many other factors, are critically important.
 
-These plans outline the benchmarks we need to reach in order stabilize and improve  the species’ status, ultimately allowing for removal of the species for the list of endangered and threatened species. Often recovery teams composed of species experts, both internal and external to the Service, work together to develop and implement  recovery plans.
+These plans outline the benchmarks we need to reach in order stabilize and improve  the species’ status, ultimately allowing for removal of the species from the Federal list of endangered and threatened species. Often recovery teams composed of species experts, both internal and external to the Service, work together to develop and implement recovery plans.
 
 You can find the recovery plan for any protected species using our [Environmental Conservation Online System](http://ecos.fws.gov/tess_public/pub/speciesRecovery.jsp?sort=1) (ECOS).
 
@@ -49,7 +51,7 @@ You can find the recovery plan for any protected species using our [Environmenta
  - American alligator
  - [American peregrine falcon](https://www.federalregister.gov/articles/1999/08/25/99-21959/endangered-and-threatened-wildlife-and-plants-final-rule-to-remove-the-american-peregrine-falcon)
  - [Bald eagle](https://www.federalregister.gov/articles/2007/07/09/07-4302/endangered-and-threatened-wildlife-and-plants-removing-the-bald-eagle-in-the-lower-48-states-from)
- - [Brown pelican (on the Atlantic Coast)](https://www.federalregister.gov/articles/2009/11/17/E9-27402/endangered-and-threatened-wildlife-and-plants-removal-of-the-brown-pelican-pelecanus-occidentalis)
+ - [Brown pelican](https://www.federalregister.gov/articles/2009/11/17/E9-27402/endangered-and-threatened-wildlife-and-plants-removal-of-the-brown-pelican-pelecanus-occidentalis)
  - [Eggert’s sunflower](https://www.federalregister.gov/articles/2005/08/18/05-16274/endangered-and-threatened-wildlife-and-plants-removal-of-helianthus-eggertii)
  - [Louisiana black bear](https://www.federalregister.gov/articles/2016/03/11/2016-05206/endangered-and-threatened-wildlife-and-plants-removal-of-the-louisiana-black-bear-from-the-federal), ([Species Profile](/wildlife/mammal/louisiana-black-bear))
  - [Magazine mountain shagreen](https://www.federalregister.gov/articles/2013/05/15/2013-11541/endangered-and-threatened-wildlife-and-plants-removal-of-the-magazine-mountain-shagreen-from-the)
