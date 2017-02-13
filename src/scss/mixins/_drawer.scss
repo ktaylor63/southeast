@@ -33,6 +33,10 @@
     @media (min-width: $break-md) {
       transform: translateX(-100%);
     }
+
+    @media print {
+      display: none;
+    }
   }
 
   &.#{$item}-right {
