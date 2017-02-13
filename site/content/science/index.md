@@ -36,7 +36,7 @@ Science-based natural resource conservation requires that our employees have tim
 
 ## Science-based Projects
 
-Through the Science Support Partnership (SSP) Program, the U.S. Fish and Wildlife Service partners with U.S. Geological Survey to understand and provide the critical science information required to effectively manage our nation’s resources.  Since 2001 over 60 projects have been completed that support science needs in the Southeast Region.
+U.S. Fish and Wildlife Service staff uses science on a day to day basis to inform conservation decisions that range from onsite management practices to listing of endangered species.  The science that we use comes from our staff and work done by others such as projects conducted via the [Cooperative Ecosystems Studies Units](https://www.fws.gov/science/cesu.html) (CESU) and projects developed in partnership with the U.S. Geological Survey via the [Science Support Partnership Program](/science/science-support-partnership/projects) (SSP).
 
 ### Featured Project
 
