@@ -10,10 +10,10 @@ tags:
     - 'Backyard Habitat'
 hero:
     name: rafinesques-big-eared-bat-adult.jpg
-    link: 'https://flic.kr/p/kysUQh'
-    caption: 'An adult Rafinesque&rsquo;s big-eared bat rests in a cave. Photo by the Forest Service.'
-    position: 'left center'
-updated: 'January 26th, 2017'
+    alt: 'A brown bat flies through the air with wings fully extended.'
+    link: 'https://flic.kr/p/kyqGaH'
+    caption: 'Adult Rafinesques big-eared bat soars through the night. USDA photo by the Forest Service.'
+updated: 'February 10th, 2017'
 ---
 
 Bats are an important part of healthy southeastern ecosystems. They [pollinate](https://www.fws.gov/Pollinators/) flowers and serve as natural pest control. Backyard bats will help reduce insect pests that bother you and your garden plants. A typical summer colony of 100 bats feeding 200 days will consume more than 2200 pounds of insects or approximately 600,000,000 bugs!
