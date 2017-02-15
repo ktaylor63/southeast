@@ -33,7 +33,7 @@
   "license": "SAX-PD",
   "devDependencies": {
     "async": "^2.1.4",
-    "autoprefixer": "^6.7.2",
+    "autoprefixer": "^6.7.3",
     "browser-sync": "^2.18.8",
     "chokidar": "^1.4.3",
     "concat-map": "0.0.1",
