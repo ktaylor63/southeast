@@ -13,7 +13,7 @@ hero:
 updated: 'January 31st, 2017'
 ---
 
-There are many places where scientific information that is useful for natural resources conservation is stored. See here for links, descriptions and how science information is being used to address Service needs.
+The Service and other science based organizations support online conservation tools and databases.  These tools support internal decision making processes and provide a layer of transparency by making data available to the public.
 
 ## Scientific Information Databases
 
@@ -45,12 +45,16 @@ Data.gov is the home of the U.S. Government’s open data where you will find da
 
 ## Project Planning Tools
 
-### [Information for Planning and Conservation (IPaC)](https://ecos.fws.gov/ipac/)
+### [Information for Planning and Consultation (IPaC)](https://ecos.fws.gov/ipac/)
 
-This is an early planning tool that provides the location and potential effect of projects on species and other trust resources under the jurisdiction of the U.S. Fish and Wildlife Service.
-  - Initial Project Scoping  - Assist in identifying threatened or endangered species, critical habitat, migratory birds or other natural resources may be impacted by a project.
-  - Resource Maps - Explore the distribution of important biological resources, such as wetlands, National Wildlife Refuges, critical habitat, GAP land cover and more.
-  - Impact Analysis - Provide information about your project and receive a list of conservation measures suggested by the U.S. Fish & Wildlife Service. This information can be used if you need to start a formal consultation.
+IPaC is a project planning tool which streamlines the environmental review process by providing information on the location of listed species and other USFWS trust resources which could potentially be affected by a project.
+
+  -  Initial Project Scoping  - IPaC can assist in identifying threatened or endangered species, critical habitat, migratory birds, or other natural resources may be impacted by a project, based on a project area as defined by the user.
+  - Resource Maps - Users can explore the distribution of important biological resources, such as wetlands, National Wildlife Refuges, critical habitat, GAP land cover, and more.
+  - Official Species Lists - Users can request an official Species List for their project through IPaC; the list is automatically generated and logged into TAILS and a notification is sent to the appropriate Field Office.
+  - Impact Analysis - Users can provide information about a project and receive a list of conservation measures suggested by the USFWS. This information can be used if you need to start a formal consultation.
+  - Assisted Determination Keys - IPaC recently added in the ability to determine if a project qualifies for a programmatic consultation.  By answering simple questions about the proposed project, a user can determine if a project is covered by a programmatic consultation and generate a consistency letter (non-Federal user), or a concurrence verification letter (Federal Agency).  Concurrence letters are logged directly into TAILS and notification is sent to the appropriate Field Office.
+
 
 ### [Geospatial Fisheries Information Network (GeoFIN)](http://ecos.fws.gov/geofin/)
 
