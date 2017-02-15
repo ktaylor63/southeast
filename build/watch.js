@@ -13,6 +13,7 @@ const src = path.resolve('../southeast/');
 const options = {
   ignoreInitial: true,
   ignored: [
+    path.resolve('*.DS_Store'),
     path.resolve('**/node_modules/**/*'),
     path.resolve('test/**/*'),
     path.resolve('build/**/*'),
