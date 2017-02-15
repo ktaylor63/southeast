@@ -11,12 +11,11 @@ aliases:
     - /director
     - /about
 hero:
-    name: refuge-manager-takes-a-call.jpg
-    alt: 'A refuge manager in a U.S. Fish and Wildlife Service uniform takes a phone call from a boat.'
-    link: 'https://flic.kr/p/82XMYU'
-    caption: 'A refuge manager makes a call. Photo by Tom MacKenzie, USFWS.'
-    position: 'top center'
-updated: 'November 8th, 2016'
+    name: whooping-crane-release.jpg
+    alt: 'Two large, white, Whooping cranes flying in for a landing on a small pond.'
+    link: 'https://flic.kr/p/bryvJt'
+    caption: 'Two juvenile Whooping cranes released from their holding pen fly around on Wheeler National Wildlife Refuge, Decatur, AL. Photo by Bill Gates, USFWS.'
+updated: 'February 15th, 2017'
 ---
 
 The U.S. Fish and Wildlife Service (also known as the Service) is a bureau within the United States [Department of the Interior](https://www.doi.gov), America’s principal conservation agency within the [Executive Branch of U.S. government](https://www.whitehouse.gov/1600/executive-branch).
@@ -34,6 +33,8 @@ Our mission is,
 ## What We Do
 
 The Southeast Region carries out this mission within the states of Alabama, Arkansas, Florida, Georgia, Kentucky, Louisiana, Mississippi, North Carolina, South Carolina and Tennessee, as well as Puerto Rico and the U.S. Virgin Islands. Our regional office is located in Atlanta, Georgia.
+
+{{< figure class="photo-center" src="/images/pages/refuge-manager-takes-a-call.jpg" alt="A refuge manager in a U.S. Fish and Wildlife Service uniform takes a phone call from a boat." caption="A refuge manager makes a call. Photo by Tom MacKenzie, USFWS." link="https://flic.kr/p/82XMYU" >}}
 
 Our operations are guided by a Regional Director, Deputy Regional Director, and a team of Assistant Regional Directors. [Meet our regional leadership](/about/leadership/).
 
@@ -67,6 +68,6 @@ Our people, our partners, our public, America’s lands, waters, fish, wildlife 
 
 Operations for the Southeast Region are headquartered out of the regional office located at:
 
-1875 Century Boulevard <br>
-Atlanta, Georgia 30345 <br>
-Phone: 404-679-4000 <br>
+1875 Century Boulevard  
+Atlanta, Georgia 30345  
+Phone: 404-679-4000  
