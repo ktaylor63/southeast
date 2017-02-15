@@ -15,14 +15,10 @@
   input.addEventListener('keyup', search);
 
   function init() {
-    downloadContacts(url, render);
-  }
-
-  function downloadContacts(url, cb) {
     xhr.get(url, (err, res, body) => {
       if (err) console.log(err);
       contacts = JSON.parse(body);
-      cb(contacts);
+      render(contacts);
     });
   }
 
