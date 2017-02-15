@@ -17,8 +17,8 @@
 
   const content = document.getElementById('content');
   const baseUrl = document.body.getAttribute('data-root');
-  const anchors = document.querySelectorAll('a');
-  const contactLinks = document.querySelectorAll('.toggle-contact');
+  const anchors = Array.from(document.querySelectorAll('a'));
+  const contactLinks = Array.from(document.querySelectorAll('.toggle-contact'));
   const hideScrollnav = document.querySelector('.hide-scrollnav');
   const sectionNav = document.querySelector('.section-nav');
   const h2s = content.querySelectorAll('h2');
@@ -131,7 +131,7 @@
   }
 
   function keyupHandler(e) {
-    const key = e.which || e.keyCode || 0;
+    const key = e.code || e.which || e.keyCode || 0;
     if (key !== 27) return;
     const drawers = [
       document.querySelector('.contact-drawer'),
@@ -159,7 +159,7 @@
 
   // Supports dropdown menus in the section navigation
   if (sectionNav) {
-    const sectionDropdowns = sectionNav.querySelectorAll('.dropdown-item');
+    const sectionDropdowns = Array.from(sectionNav.querySelectorAll('.dropdown-item'));
 
     sectionDropdowns.forEach(dropdown => {
       dropdown.addEventListener('click', (e) => {
