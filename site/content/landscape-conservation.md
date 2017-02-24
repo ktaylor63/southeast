@@ -11,7 +11,7 @@ hero:
 tags:
     - 'Landscape Conservation Cooperatives'
     - Partnership
-updated: 'February 13th, 2017'
+updated: 'February 24th, 2017'
 ---
 What do you do when you realize that you face a problem too big to tackle alone? What did Wonder Woman, Aquaman, Martian Manhunter, Green Lantern and Flash do when they faced their first super villain, [Starro the Conqueror](https://en.wikipedia.org/wiki/Starro)?
 
@@ -23,7 +23,7 @@ Problems like drought, sea level rise, ocean acidification, melting snowcaps and
 
 ## Alliances in Science
 
-{{< figure class="photo" src="/images/pages/counting-mussels.jpg" alt="NC biologists counts mussels under a microscope" link="https://flic.kr/p/onDw7j" caption="A biologist with the state of North Carolina looks at mussels. Photo by Gary Peeples, USFWS." >}}
+{{< figure class="photo-center" src="/images/pages/counting-mussels.jpg" alt="NC biologists counts mussels under a microscope" link="https://flic.kr/p/onDw7j" caption="A biologist with the state of North Carolina looks at mussels. Photo by Gary Peeples, USFWS." >}}
 
 **Landscape Conservation Cooperatives** (LCCs) are scientific partnerships designed to assess and help tackle the biggest conservation challenges of the 21st century.
 
