@@ -1,9 +1,15 @@
 ---
 title: 'Energy Development in the Southeast'
 nav: Energy
+hero:
+    name: wind-turbines-sunset.jpg
+    link: 'https://flic.kr/p/f2qce9'
+    alt: 'Several wind turbines in front of a sunset.'
+    caption: 'The DOE/Sandia Scaled Wind Farm Technology (SWiFT) facility at the Reese Technology Center in Lubbock, Texas. Photo by Sandia Labs, <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/legalcode" target="_blank">CC BY-NC-ND 2.0</a>.'
+    position: 'bottom left'
 tags:
     - Energy
-updated: 'February 6th, 2017'
+updated: 'February 24th, 2017'
 ---
 
 Satisfying our nation's need for energy, like many human activities, has the potential to harm fish and wildlife resources. This Service’s scientists and managers strive to minimize the environmental impacts of energy development on species and their habitats. Assistance to project developers and other agencies may involve endangered species permitting, NEPA review, eagle permitting, consultation and studies for licensing hydroelectric projects, best management practices development, and other technical assistance.
