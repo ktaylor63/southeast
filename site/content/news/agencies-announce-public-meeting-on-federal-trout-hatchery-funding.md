@@ -10,10 +10,10 @@ tags:
     - Tennessee
     - Georgia
     - Fisheries
-updated: 'October 3rd, 2016'
+updated: 'February 15th, 2017'
 ---
 
-KNOXVILLE, Tenn. – Representatives from the Tennessee Valley Authority, the U.S. Fish & Wildlife Service, Tennessee Wildlife Resources Agency and Georgia Department of Natural Resources (the Agencies) will host a public meeting on Tuesday, May 27, 2014, to receive input on long-term funding recommendations under consideration by the Agencies that will continue popular trout stocking programs in reservoirs and tailwaters of certain TVA dams across the region.
+**KNOXVILLE, TN** – Representatives from the Tennessee Valley Authority, the U.S. Fish & Wildlife Service, Tennessee Wildlife Resources Agency and Georgia Department of Natural Resources (the Agencies) will host a public meeting on Tuesday, May 27, 2014, to receive input on long-term funding recommendations under consideration by the Agencies that will continue popular trout stocking programs in reservoirs and tailwaters of certain TVA dams across the region.
 
 The Agencies are seeking ideas and input from angling groups, local and regional businesses, tourism organizations and the local governments that realize the direct and indirect benefits of having fishable trout waters in their communities.
 
