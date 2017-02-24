@@ -580,6 +580,12 @@
     "related": ["Strategic Habitat Conservation", "Keyston species", "Flagship species"]
   },
   {
+    "name": "Tailwater",
+    "acronym": null,
+    "description": "<p>Dams that hold back water to create large reservoirs can have a big impact on the temperature of water.  In summer months heat from the sun reaches the reservoir, which warms the upper layers of the water while deeper water remains much colder.  When water is released from a dam comes from lower, cooler water it changes the habitat below the dam.</p>",
+    "related": []
+  }
+  {
     "name": "Trust resources",
     "acronym": null,
     "description": "Includes migratory birds, species listed as threatened and endangered under the Endangered Species Act, interjurisdictional fishes, marine mammals, wetlands, and lands managed by the U.S. Fish and Wildlife Service, such as national wildlife refuges.",
