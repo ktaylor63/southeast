@@ -5,7 +5,7 @@
     text-align: center;
   }
 
-  figure.js-Parallaxify {
+  .js-Parallaxify {
     background-size: cover;
     background-position: center center;
     height: 50vh;
@@ -15,10 +15,9 @@
   }
 
   .logo {
-    display: inline-block;
-    height: 100%;
     position: relative;
     top: 50%;
+    transform: translateY(-50%);
     width: 175px;
   }
 

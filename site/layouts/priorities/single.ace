@@ -1,5 +1,5 @@
 = content main
-  figure.js-Parallaxify style="background-image: url('{{ .Site.BaseURL }}/images/hero/hero-intro.jpg');"
+  .js-Parallaxify style="background-image: url('{{ .Site.BaseURL }}/images/hero/hero-intro.jpg');"
     svg.logo
       use xlink:href="#logo"
 
