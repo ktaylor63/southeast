@@ -48,12 +48,12 @@ Nearly 80% of the land in the southeastern United States is privately owned. We 
 
 ### State Wildlife Agencies
 
-Section 6 of the ESA, also known as **Cooperation with States**, recognizes the key role that states play in conserving native wildlife and plants.  The Section 6 program provides funding to states and territories for species and habitat conservation actions on non-federal lands.  Through **cooperative agreements** states can receive funding from the Services for a variety of conservation actions that contribute toward listed species recovery.
+Section 6 of the ESA, also known as **Cooperation with States**, recognizes the key role that states play in conserving native wildlife and plants.  The Section 6 program provides funding to states and territories for species and habitat conservation actions on non-federal lands.  Through **cooperative agreements** states can receive funding from the Service for a variety of conservation actions that contribute toward listed species recovery.
 
-1. **Conservation Grants** provide financial assistance to States and Territories to implement conservation projects for listed and candidate species.
-2. **Habitat Conservation Planning Assistance Grants** provide funds to States and Territories to support the development of Habitat Conservation Plans (HCPs) through support of baseline surveys, document preparation, outreach, and similar planning activities.
-3. **Habitat Conservation Plan Land Acquisition Grants** provide financial assistance to States and Territories to acquire land associated with approved HCPs.
-4. **Recovery Land Acquisition Grants** provide financial assistance to support States and Territories to acquire habitat in support of draft and approved recovery plans.
+1. **Conservation Grants** provide financial assistance to states and territories to implement conservation projects for listed and candidate species.
+2. **Habitat Conservation Planning Assistance Grants** provide funds to states and territories to support the development of Habitat Conservation Plans (HCPs) through support of baseline surveys, document preparation, outreach, and similar planning activities.
+3. **Habitat Conservation Plan Land Acquisition Grants** provide financial assistance to states and territories to acquire land associated with approved HCPs.
+4. **Recovery Land Acquisition Grants** provide financial assistance to support states and territories to acquire habitat in support of draft and approved recovery plans.
 
 [Learn more about State partnerships.](https://www.fws.gov/endangered/grants/)
 
@@ -67,9 +67,9 @@ The Service partners with many non-profit and non-governmental organizations to 
 
 ### Other Federal Agencies
 
-Section 7 of the Endangered Species Act calls upon the entire United States Federal Government to participate in the conservation of species listed as threatened and endangered. When Federal agencies work together, we can reduce cost to taxpayers and increase overall positive impacts for wildlife and habitats.
+Section 7 of the ESA calls upon the entire U.S. federal government to participate in the conservation of species listed as threatened and endangered. Federal agencies working together, reduce costs to taxpayers and increase overall positive impacts for wildlife and habitats.
 
-One of the primary ways this is done is when Federal agencies  undergo “consultation” with the U.S. Fish and Wildlife Service to make sure the projects they carry out do not threaten, or “jeopardize,” the continued existence of protected species. Agencies can make modifications to the way they carry out business in order to support the conservation of threatened and endangered species.
+Federal agencies consult with the Service to make sure the projects they carry out do not jeopardize the continued existence of protected species. Agencies can make modifications to the way they carry out business in order to support the conservation of threatened and endangered species.
 
 ## 40 Years at the Forefront of Wildlife Conservation
 
