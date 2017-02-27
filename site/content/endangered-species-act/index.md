@@ -13,18 +13,16 @@ hero:
     link: 'https://flic.kr/p/atdbxY'
     caption: 'Green sea turtle hatchling at Archie Carr National Wildlife Refuge. Photo by Keenan Adams, USFWS.'
     position: 'right center'
-updated: 'February 10th, 2017'
+updated: 'February 27th, 2017'
 ---
 
 One of the primary responsibilities of the U.S. Fish and Wildlife Service is to **protect and recover imperiled species and the ecosystems upon which they depend**. Congress defined “species” to include subspecies, varieties, and, for vertebrates, distinct population segments.
 
-Often referred to as “the ESA” or simply “the Act,” this federal law has been recognized as **America’s strongest conservation law**. Originally passed by Congress in 1973,  the Act is jointly administered by the USFWS and the [National Marine Fisheries Service](http://www.nmfs.noaa.gov/) (NMFS). We have primary responsibility for **terrestrial and freshwater organisms**, while the responsibilities of NMFS are mainly marine wildlife such as whales and anadromous fish like salmon.
+The Endangered Species Act, often referred to as the ESA or simply “the Act,” is **America’s strongest conservation law**. Originally passed by Congress in 1973, the ESA is jointly administered by the U.S. Fish and Wildlife Service and the [National Marine Fisheries Service](http://www.nmfs.noaa.gov/) (NMFS). The Service has primary responsibility for **terrestrial and freshwater organisms**, while the responsibilities of NMFS are mainly marine wildlife such as whales and anadromous fish like salmon.
 
 All species of plants and animals, except pest insects, are eligible for listing as endangered or threatened. Check out [a list of all species protected under the Act in the United States](https://www.fws.gov/endangered/species/us-species.html).
 
-In his signing statement President Nixon wrote:
-
-> "Nothing is more priceless and more worthy of preservation than the rich array of animal life with which our country has been blessed.  It is a many-faceted treasure, of value to scholars, scientists, and nature lovers alike, and it forms a vital part of the heritage we all share as Americans."
+> "Nothing is more priceless and more worthy of preservation than the rich array of animal life with which our country has been blessed.  It is a many-faceted treasure, of value to scholars, scientists, and nature lovers alike, and it forms a vital part of the heritage we all share as Americans." - President Nixon
 
 {{< youtube Y6wJpGO8j4Q >}}
 
@@ -34,11 +32,11 @@ In his signing statement President Nixon wrote:
 
 “Threatened” means a species is likely to become endangered within the foreseeable future throughout all or a significant portion of its range.
 
-Our goal is to take plants and animals off the endangered and threatened species list when they have fully recovered, meaning their survival no longer depends on the protections the ESA affords.
+The goal of the Service is to take plants and animals off the endangered and threatened species list when they have fully recovered, meaning their survival no longer depends on the  the ESA protections.
 
 {{< figure class="photo-center" src="/images/pages/louisiana-black-bear-and-cubs-in-tree.jpg" alt="A female black bear and her cubs in a tree." caption="Louisiana black bears in a tree. Photo by Clint Turnage, USDA." >}}
 
-A Distinct Population Segment is described geographically instead of biologically, such as "all members of a species that occur north of 40 north latitude."
+A Distinct Population Segment (DPS) is described geographically instead of biologically, such as "all members of a species that occur north of 40 north latitude."
 
 The use of Distinct Population Segments is a benefit to species conservation and a benefit to people whose activities may be affected by the ESA's prohibitions. Conservation efforts are more effective and less costly if they are started early and a Distinct Population Segment listing makes earlier listings possible. By listing a Distinct Population Segment, we apply the ESA's protections only to the deteriorating portion of a species' range. Threats can then be addressed in that specific (and smaller) area instead of waiting until the entire species has declined to the point that listing the entire species throughout its range is necessary.
 
@@ -50,7 +48,7 @@ Nearly 80% of the land in the southeastern United States is privately owned. We 
 
 ### State Wildlife Agencies
 
-Section 6, also known as **Cooperation with States**, recognizes the key role that State's play in conserving our native wildlife and plants.  The Section 6 program provides funding to States and Territories for species and habitat conservation actions on non-Federal lands.  Through **cooperative agreements** States can receive funding from the Services for a variety of conservation actions that contribute toward listed species recovery.
+Section 6 of the ESA, also known as **Cooperation with States**, recognizes the key role that states play in conserving native wildlife and plants.  The Section 6 program provides funding to states and territories for species and habitat conservation actions on non-federal lands.  Through **cooperative agreements** states can receive funding from the Services for a variety of conservation actions that contribute toward listed species recovery.
 
 1. **Conservation Grants** provide financial assistance to States and Territories to implement conservation projects for listed and candidate species.
 2. **Habitat Conservation Planning Assistance Grants** provide funds to States and Territories to support the development of Habitat Conservation Plans (HCPs) through support of baseline surveys, document preparation, outreach, and similar planning activities.
