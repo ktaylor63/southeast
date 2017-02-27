@@ -21,4 +21,7 @@
 <meta name="twitter:site" content="@usfwssoutheast">
 <meta name="twitter:title" content="{{ .Title }}" />
 <meta name="twitter:description" content="{{ if .Params.description }}{{.Params.description}}{{ else }}{{ .Summary }}{{end}}" />
-<!-- <script async type="text/javascript" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal­Federated­Analytics­Min.js?agency=DOI&subagency=FWS"></script> -->
+
+{{ if in .Site.BaseURL "fws.gov/southeast" }}
+<script async type="text/javascript" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal­Federated­Analytics­Min.js?agency=DOI&subagency=FWS"></script>
+{{ end }}
