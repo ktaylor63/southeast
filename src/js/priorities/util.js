@@ -8,6 +8,7 @@
     debounce: require('lodash.debounce'),
     defaults: require('lodash.defaults'),
     isArray: require('lodash.isArray'),
+    slugify: require('underscore.string/slugify'),
     parents: parents,
     offset: offset,
     remove: remove,
@@ -182,6 +183,25 @@
     scrollLeft = window.pageXOffset || document.documentElement.scrollLeft,
     scrollTop = window.pageYOffset || document.documentElement.scrollTop;
     return { top: rect.top + scrollTop, left: rect.left + scrollLeft }
+  }
+
+
+  /////
+
+  // Polyfill node.matches() -> https://developer.mozilla.org/en-US/docs/Web/API/Element/matches
+  if (!Element.prototype.matches) {
+    Element.prototype.matches =
+      Element.prototype.matchesSelector ||
+      Element.prototype.mozMatchesSelector ||
+      Element.prototype.msMatchesSelector ||
+      Element.prototype.oMatchesSelector ||
+      Element.prototype.webkitMatchesSelector ||
+      function(s) {
+        var matches = (this.document || this.ownerDocument).querySelectorAll(s),
+          i = matches.length;
+        while (--i >= 0 && matches.item(i) !== this) {}
+        return i > -1;
+      };
   }
 
 })();

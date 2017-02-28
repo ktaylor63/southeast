@@ -2,10 +2,13 @@
   'use strict';
   var zenscroll = require('zenscroll');
   var Parallaxify = require('parallaxify');
+  var nav = require('fws-scrollnav');
   var ImageComparison = require('./imageComparison');
   var fitText = require('./fittext');
   var lists = require('./short-list');
   var _ = require('./util');
+
+  const content = document.getElementById('content');
 
   // Scroll speed and offset (offset is for fixed navigation)
   zenscroll.setup(777, 60);
@@ -15,6 +18,15 @@
   new Parallaxify().registerUpdate();
   sr.reveal('.reveal');
   fitText( document.getElementsByClassName('section-heading'));
+
+  nav.init({
+    content: content,
+    insertTarget: document.querySelector('.side-nav'),
+    showHeadline: false,
+    className: 'scroll-nav-top',
+    fixedClassName: 'sticky',
+    scrollOffset: 55
+  });
 
   lists.init({
     elements: document.querySelectorAll('.fade-list')
