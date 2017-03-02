@@ -1,5 +1,5 @@
 ---
-title: 'Opportunities to Sequester Carbon by Restoring North Carolina’s Pocosins'
+title: 'Pocosins Restoration Partnerships Lead to Big Carbon Offset Gains'
 description: 'Pocosins, a special type of wetland found in North Carolina, help to capture carbon and mitigate the impacts of climate change.'
 tags:
     - 'North Carolina'
@@ -15,7 +15,7 @@ hero:
     name: healthy-pocosin-wetlands.jpg
 author: 'Stacy Shelton'
 date: '2010-10-06'
-updated: 'May 12th, 2016'
+updated: 'March 2nd, 2017'
 ---
 
 It’s been more than a decade since the U.S. Fish and Wildlife Service first began partnering with energy companies to reduce global warming. It works like this: Companies plant trees on national wildlife refuges, reclaiming native habitats from former farmland. In exchange, they get carbon credits to offset emissions.

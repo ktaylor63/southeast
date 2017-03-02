@@ -10,7 +10,7 @@ tags:
     - Internships
 date: '2011-08-16'
 author: 'Jennifer Hinckley, Prescribed Fire Specialist'
-updated: 'May 12th, 2016'
+updated: 'March 2nd, 2017'
 ---
 
 {{< figure class="photo" src="/images/pages/cooper-step-st-marks.jpg" alt="Student sitting in the driver seat of a pickup truck wearing a hard hat" caption="Student John Cooper on a prescribed burn at St. Vincent National Wildlife Refuge. Photo by USFWS." >}}
@@ -19,6 +19,6 @@ John Cooper, a [Student Temporary Employment Program](http://www.fws.gov/southea
 
 John's first prescribed fire was on [St. Vincent National Wildlife Refuge](http://www.fws.gov/refuge/st_vincent/) in the Tahiti Beach/Dry Bar area. The prescribed fire was aerially ignited by a helicopter for a total of 2,834 acres. The prescribed fire was burned to reduce fuel loads and give the Scott's Seaside Sparrow better nesting areas in the marsh.
 
-As luck would have it on the drive home from the prescribed fire on St. Vincent National Wildlife Refuge, the Apalachicola National Forest requested assistance for a wildfire. John went to his first wildfire called the Thousand Fire. The Thousand Fire was 43 acres.
+As luck would have it, on the drive home from the prescribed fire on St. Vincent National Wildlife Refuge, the Apalachicola National Forest requested assistance for a wildfire. John went to his first wildfire called the Thousand Fire. The Thousand Fire was 43 acres.
 
 John returns to college in mid-August with lots of good field experience.
