@@ -406,8 +406,16 @@
     ]
   },
   {
+    "acronym": null,
+    "name": "Mid-story",
+    "description": "Trees with an height between the forest canopy and the seedlings of the understory and forest floor.",
+    "related": [
+      "Understory"
+    ]
+  },
+  {
     "acronym": "JV",
-    "name": "Migratory Bird Joint Ventures",
+    "name": "Migratory Bird Joint Venture",
     "description": "Collaborative, regional partnerships of government agencies, non-profit organizations, corporations, tribes and individuals that conserve habitat for the benefit of priority bird species, other wildlife and people. Joint ventures bring these diverse partners together to design and implement landscape-scale conservation efforts in support of the North American Waterfowl Management Plan and other bird management plans.",
     "related": [
       "North American Waterfowl Management Plan"
@@ -598,6 +606,14 @@
     "related": [
       "Endangered Species Act",
       "Endangered Species"
+    ]
+  },
+  {
+    "name": "Understory",
+    "acronym": null,
+    "description": "A layer of vegetation (such as saplings in a forest) that is below the canopy but have cleared the ground level vegetation.",
+    "related": [
+      "Mid-story"
     ]
   },
   {
