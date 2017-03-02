@@ -16,7 +16,7 @@
 }
 
 #content {
-  @include container;
+  @include container(1200px);
 
   .main {
     margin: $leading auto;
@@ -35,5 +35,9 @@
 
   @media (min-width: $break-md) {
     margin-left: $nav-width;
+  }
+
+  @media (min-width: 1500px) {
+    margin-left: auto;
   }
 }
