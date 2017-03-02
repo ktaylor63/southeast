@@ -33,6 +33,7 @@ watcher
   .on('unlink', removeHandler);
 
 function changeHandler(filepath) {
+  if (filepath.includes('.DS_Store')) return;
   console.log(`Changed: ${filepath}`);
   if ( isCSVFile(filepath) ) csv.toJSON(filepath);
   if ( isJSONFile(filepath) ) json.minifyJSON(filepath);
