@@ -1,7 +1,42 @@
 .tag-list {
+  list-style: none;
+  margin-top: 0;
   padding-left: 0;
+
+  &::before {
+    content: 'Tags: ';
+  }
+
+  li {
+    display: inline-block;
+    margin-right: .5em;
+    margin-bottom: 0;
+
+    &::after {
+      content: ", "
+    }
+
+    &:last-child::after {
+      content: '';
+    }
+
+    @media (min-width: $break-lg) {
+      &::after {
+        content: '';
+      }
+    }
+  }
+
+  @media (min-width: $break-lg) {
+    &::before {
+      content: '';
+    }
+  }
 }
 
 .tag {
-  @include tag;
+
+  @media (min-width: $break-lg) {
+    @include tag;
+  }
 }
