@@ -1,11 +1,16 @@
 = content main
+  ul.tag-list
+    {{ range .Params.tags }}
+    li.tag
+      a href=/tags/{{ . | urlize }} {{ . }}
+    {{ end }}
   .main role="main"
     {{ if ne .Type "index" }}
     h1.page-title {{ .Title }}
     {{ if .Params.subtitle }}
     h2.page-subtitle {{ .Params.subtitle}}
     {{ end }}
-    p {{ if .Params.author }}By {{ .Params.author }}{{ end }}
+    p.byline {{ if .Params.author }}By {{ .Params.author }}{{ end }}
     {{ if not .Date.IsZero }}
       span.article-date {{ .Date.Format "January 2, 2006" }}
     {{ end }}
@@ -13,7 +18,7 @@
 
     {{ .Content }}
 
-  {{ if eq .Section "articles" }}
+  {{ if (or (eq .Section "articles") (eq .Section "news")) }}
   ul.chapter-links
     {{ if .NextInSection }}
       li.last-chapter
