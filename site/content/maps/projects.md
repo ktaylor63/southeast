@@ -13,7 +13,7 @@ aliases:
 tags:
     - GIS
     - Map
-updated: 'February 27th, 2017'
+updated: 'March 2nd, 2017'
 ---
 
 How does the Southeast region of the U.S. Fish and Wildlife Service use GIS?  Check out a curated list of GIS projects below!
@@ -56,8 +56,12 @@ In Blueprint 2.1, we’ve worked especially hard to improve the overall Blueprin
 
 The Gulf Coast Joint Venture (GCJV) region provides valuable habitat for wintering and resident waterfowl species. The mottled duck (*Anas fulvigula*) is a resident species associated with coastal marsh habitat, a habitat that has significantly declined throughout the GCJV. This decline is a result of several factors, some of which include urbanization, subsidence, sea level rise, altered hydrology due to canal and levee construction, and the spread of invasive species. This loss and fragmentation of habitat has raised concerns about the mottled duck population within the GCJV region, specifically the loss of suitable nesting and brood-rearing habitat (Wilson 2007). Strategies to increase mottled duck populations are primarily based on efforts to increase nest success and brood survival. This is primarily done by either preserving or creating landscapes that contain suitable nesting and brood-rearing habitat in the appropriate spatial configuration.
 
+{{< figure class="photo-center" src="/images/pages/gulf-coast-joint-venture-initiative-areas.jpg" alt="A map of the gulf coast showing areas the joint venture is working in all along the coast." caption="Gulf Coast Joint Ventury boundary. Map by Mark Parr, USFWS." >}}
+
 Researchers at Texas A&M, Kingsville, along with GCJV staff, have developed a Decision Support Tool (DST) designed to aid land managers in: (1) identifying currently suitable nesting (grassland) and brood-rearing (non-saline marsh) habitat, (2) areas where grassland establishment would be beneficial for nesting mottled ducks, and (3) areas where wetland enhancement would be beneficial for brood-rearing activities of mottled ducks.
 
 Parameters for identifying suitable nesting habitat included land cover type, size of nesting patch, edge-to-interior ratio of nesting patches, and distance of nesting patch to suitable brood-rearing habitat. Parameters used to identify suitable brood-rearing habitat included wetland type, hydroperiod (the number of years out of 9 years that a habitat patch was inundated), and distance of brood-rearing patch to suitable nesting habitat.
+
+{{< figure class="photo-center" src="/images/pages/mottled-duck-model.jpg" alt="A map of the gulf coast showing areas likely to support mottled duck breeding in very bright colors (purple, red, orange, yellow)." caption="Currently suitable nesting habitat. Map by Mark Parr, USFWS." >}}
 
 To maximize the biological return from conservation investment, the DST prioritizes both suitable nesting and brood-rearing habitat. This prioritization was based on the density of both suitable nesting and brood-rearing habitat within 1 mile of each habitat type, the distance of each habitat type from the other, and the hydroperiod of a given brood-rearing habitat.
