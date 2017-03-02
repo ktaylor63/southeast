@@ -1,5 +1,5 @@
 ---
-title: 'Discovery of Miami Blues within Great Heron National Wildlife Refuge'
+title: 'Rare Miami Blue Butterflies Discovered in Great White Heron National Wildlife Refuge'
 description: 'A U.S. Fish and Wildlife Service employee documents the first sightings of rare, endangered butterflies on a refuge in Florida.'
 tags:
     - 'Endangered Species'
@@ -11,12 +11,11 @@ hero:
     alt: 'Two butterflies with blue and orange spots perched on a bright red flower covered in pollen.'
     link: 'https://flic.kr/p/eWVERD'
     caption: 'Miami blue butterflies. <a href=''https://flic.kr/p/eWVERD''>Photo</a> by <a href=''https://www.flickr.com/photos/theactionitems/''>Mark Yokoyama</a>, <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">CC BY-NC-ND 2.0</a>.'
-updated: 'September 6th, 2016'
+author: 'Kate Watts, Florida Keys National Wildlife Refuge Complex, Big Pine Key, Florida'
+updated: 'March 1st, 2017'
 ---
 
-*By Kate Watts, Florida Keys National Wildlife Refuge Complex, Big Pine Key, Florida*
-
-Two adult Miami blue butterflies were detected fluttering on host plants, one of them ovipositing (or laying eggs), as they were spotted at [Great White Heron National Wildlife Refuge](https://www.fws.gov/refuge/great_white_heron/)! Eggs were also found on host plants along the beach berm of several additional islands during the search, documenting the first time that this rare butterfly has been detected within the refuge.
+Two adult Miami blue butterflies were detected fluttering on host plants, one of them ovipositing (or laying eggs), as they were spotted at [Great White Heron National Wildlife Refuge](https://www.fws.gov/refuge/great_white_heron/). Eggs were also found on host plants along the beach berm of several additional islands during the search, documenting the first time that this rare butterfly has been detected within the refuge.
 
 Until recently, the Miami Blue butterfly, one of the rarest butterflies in the world, was found on just a handful of offshore islands within Key West National Wildlife Refuge on sandy beach berm habitats. Historically distributed all along the coastline of Florida, populations of the butterfly have declined drastically over the past 100 years primarily due to habitat loss along the coast and the application of broad-spectrum insecticides for mosquito control.  
 

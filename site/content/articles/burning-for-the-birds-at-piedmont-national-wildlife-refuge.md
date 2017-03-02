@@ -12,17 +12,19 @@ tags:
     - Piedmont
     - 'National Wildlife Refuges'
     - Georgia
-    - 'Red-cockaded woodpecker'
+    - 'Red-Cockaded Woodpecker'
 date: '2014-03-21'
-author: 'Josh O''Connor, Regional Fuels Specialist'
-updated: 'May 26th, 2016'
+author: 'Josh OConnor, regional fuels specialist'
+updated: 'March 1st, 2017'
 ---
 
 ## Over a decade of prescribed fire management yields big benefits for the red-cockaded woodpecker
 
-It began with a hot fire – trees scorched to the top, a mile long stretch of highly visible forest turned brown. It ended with a five-fold population increase for endangered species. What was it? The answer is a prescribed fire.
+It began with a hot fire – trees scorched to the top, a mile long stretch of highly visible forest turned brown. It ended with a five-fold population increase for endangered species. What was it? A prescribed fire.
 
-[Piedmont National Wildlife Refuge](http://www.fws.gov/piedmont/) is in middle Georgia, about 20 miles north of Macon. More than two-thirds of the refuge is covered in loblolly and shortleaf pine, with the rest evenly distributed between upland and bottomland hardwoods. In these pine forests lives a unique, endangered bird – the red-cockaded woodpecker. The species is unique because it’s the only North American woodpecker to peck cavities in living trees. A breeding pair excavates a cluster of cavity trees at one site. Red-cockaded woodpeckers are endangered because they are specialists. Their nesting habitat is large diameter, old pine trees with little to no woody mid-story vegetation. The large old pine trees are mostly gone because they’re compatible with neither pine plantations nor subdivisions. The woody mid-story is thick due to fire suppression. This is where prescribed fire comes in.
+[Piedmont National Wildlife Refuge](http://www.fws.gov/piedmont/) is in middle Georgia, about 20 miles north of Macon. More than two-thirds of the refuge is covered in loblolly and shortleaf pine, with the rest evenly distributed between upland and bottomland hardwoods. In these pine forests lives a unique, endangered bird – the red-cockaded woodpecker. It’s the only North American woodpecker to peck cavities in living trees.
+
+Red-cockaded woodpeckers are endangered because they are specialists. Their nesting habitat is large diameter, old pine trees with little to no woody mid-story vegetation. A breeding pair excavates a cluster of cavity trees at one site. The large old pine trees are mostly gone because they’re compatible with neither pine plantations nor subdivisions. The woody mid-story is thick due to fire suppression. This is where prescribed fire comes in.
 
 {{< youtube 6-3fETrOYho >}}
 
