@@ -24,6 +24,7 @@
     position: fixed;
     right: 0;
     top: 0;
+    transition: all $transition-duration;
 
     @media (min-width: $break-md) {
       left: $nav-width;
@@ -32,7 +33,9 @@
     @media (min-width: $break-xl) {
       height: auto;
       left: auto;
+      margin-right: $leading;
       max-height: 95vh;
+      max-width: 500px;
       overflow-y: scroll;
       right: auto;
       text-align: left;
