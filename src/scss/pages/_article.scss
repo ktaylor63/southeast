@@ -1,3 +1,7 @@
+.byline {
+  @extend %clearfix;
+}
+
 .article-date {
   float: right;
 }
