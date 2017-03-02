@@ -1,6 +1,6 @@
 ---
 title: 'Brook Trout'
-scientific: 'Salvelinus fontinalus'
+scientific: 'Salvelinus fontinalis'
 type: species-profile
 js: /js/species-profile.js
 hero:
@@ -18,22 +18,24 @@ tags:
     - 'South Carolina'
     - Georgia
     - Tennessee
-    - KentuckyAlabama
+    - Kentucky
+    - Alabama
     - Mississippi
     - Louisiana
     - Arkansas
     - 'Brook Trout'
-updated: 'February 24th, 2017'
+draft: true
+updated: 'February 28th, 2017'
 ---
 
 - **Taxon: Fish**
-- **Range:**
+- **Range: Occurs across the United States, native to the east coast from the northeast into the south through the Appalachians and in the midwest along the great lakes.**
 - **Status: Not Listed**
 
 The brook trout is a fish native of the eastern United States, which is often referred to as speckled trout, spotted trout, brookie, and squaretail. “Brookies” are considered an indicator species, they help show the health or overall quality of the waters they inhabit. Large numbers of brook trout found in a stream indicate a healthy environment while a decline in numbers indicate deteriorating habitat and poor water quality.
 
-## News and Events
-{{< news tag="Brook Trout" number="3" type="gallery" >}}
+<!-- ## News and Events
+{{< news tag="Brook Trout" number="3" type="gallery" >}} -->
 
 ## Appearance
 
@@ -41,17 +43,19 @@ The brook trout has a dark green to brown color with a distinctive light marbled
 
 ## Habitat
 
-The brook trout inhabits large and small lakes, rivers, streams, creeks, and spring ponds. This small, colorful trout prefers cover  such as boulders and logs where it is protected from strong currents and predators. Brook trout need high quality water and are sensitive to low oxygen, pollution, and changes in pH. Warm summer temperatures and low water flow rates stress brook trout - especially larger fish.
+Brook trout occur in clear, cool, well oxygenated creeks, small to medium rivers and lakes. Brook trout prefer small spring fed streams and ponds with sand or gravel bottom and vegetation. In their native range, brook trout move upstream in early spring, summer and late fall. Brook trout move downstream in late spring and early fall as waters begin too cool. Some brook trout, more popularly known as salters, make runs to the sea in the spring as stream temperatures rise, but never venture more than a few kilometers from the rivers mouth. These salters may remain at sea for up to three months.
 
 {{< figure class="photo-center" src="/images/pages/brook-trout-habitat.jpg" alt="Water cascades over a small drop in a stream." caption="East fork headwaters provides habitat for the brook trout. Photo by Gary Peeples, USFWS." link="https://flic.kr/p/GKdfoE" >}}
 
 ## Diet
 
-Brook trout have a diverse diet that includes larval, pupal, and adult forms of aquatic insects. Their diet also includes adult forms of terrestrial insects that happen to fall into the water. Crustaceans, frogs and other amphibians, molluscs, small fish, invertebrates, and even small mammals are included in the menu.
+Young brook trout feed on plankton and progress to insects until they are adults. Brook trout feed on a wide variety of organisms including worms, leeches, crustaceans, insects, mollusks, fishes, amphibians and small mammals. The stomachs of some brook trout have shown traces of plant material.
 
 ## Historic Range
 
 Brook trout are native to a wide area of eastern North America, from the Hudson Bay basin and north eastern Canada, much of the Great Lakes basin, a small portion of the upper Mississippi River drainage, Atlantic coastal areas from Maine to New Jersey, and along the Appalachian mountains as far south as Northern Georgia.
+
+{{< figure class="photo-center" src="/images/pages/brook-trout-range-map.jpg" alt="A map of the United states showing a native range in the northeastern part of the country with large, introduced populations in the western U.S." caption="Map of the native and introduced range of brook trout. Map by USGS." link="https://nas.er.usgs.gov/queries/factsheet.aspx?SpeciesID=939#ContentPlaceHolder1_NativeRangeLabel" >}}
 
 ## Current Range
 

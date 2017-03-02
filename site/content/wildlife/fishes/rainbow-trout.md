@@ -25,7 +25,8 @@ tags:
     - Louisiana
     - Arkansas
     - 'Rainbow Trout'
-updated: 'February 24th, 2017'
+draft: true
+updated: 'February 28th, 2017'
 ---
 
 - **Taxon: Fish**
@@ -47,7 +48,7 @@ Cold tailwaters below dams, creeks, small to large rivers, cool lakes, estuaries
 
 ## Diet
 
-Rainbow trout are predators with a varied diet and will eat nearly anything they can capture.Rainbow trout, including juvenile steelhead in freshwater, routinely feed on larval, pupal and adult forms of aquatic insects. They also eat fish eggs and adult forms of terrestrial insects (typically ants, beetles, grasshoppers and crickets) that fall into the water. Other prey include small fish up to one-third of their length, crayfish, shrimp, and other crustaceans. As rainbow trout grow, the proportion of fish consumed increases in most populations.
+Rainbow trout are predators with a varied diet and will eat nearly anything they can capture. Rainbow trout, including juvenile steelhead in freshwater, routinely feed on larval, pupal and adult forms of aquatic insects. They also eat fish eggs and adult forms of terrestrial insects (typically ants, beetles, grasshoppers and crickets) that fall into the water. Other prey include small fish up to one-third of their length, crayfish, shrimp, and other crustaceans. As rainbow trout grow, the proportion of fish consumed increases in most populations.
 
 {{< figure class="photo-center" src="/images/pages/rainbow-trout-gulp-of-air.jpg" alt="A colorful fish takes a gulp of air at the surface." link="https://flic.kr/p/nhaVFr" caption="A rainbow trout. Photo by Eli Cureton, USFWS." >}}
 
