@@ -1,5 +1,6 @@
 const xhr = require('xhr');
 const queryString = require('query-string');
+const lunr = require('lunr');
 
 const template = require('./document-list.pug');
 const output = document.querySelector('.output');
@@ -8,22 +9,31 @@ const baseUrl = document.body.getAttribute('data-root');
 
 let documents;
 
-init();
 
-function init() {
+const index = lunr(function() {
+  this.field('name', { boost: 10 });
+  this.field('office');
+  this.field('type', { boost: 5 });
+  this.field('url');
+  this.field('year');
+  this.ref('id');
+});
+
+const init = () => {
   const value = getQueryStringValue();
   if (value) input.value = value;
 
   xhr.get(`${baseUrl}data/reading-room-documents.js`, (err, res, body) => {
     if (err) console.log(err);
     documents = JSON.parse(body);
+    seedIndex(documents);
     value ? search({ target: { value: value }}) : render(documents);
     input.addEventListener('change', search);
     input.addEventListener('keyup', search);
   });
 }
 
-function getQueryStringValue() {
+const getQueryStringValue = () => {
   const queries = ['q', 'query', 's', 'search'];
   const parsed = queryString.parse(location.search);
   let value = false;
@@ -31,37 +41,46 @@ function getQueryStringValue() {
   return value;
 }
 
-function search(e) {
+const search = (e) => {
   const query = e.target.value;
-  const regex = new RegExp(query, 'gi');
-  if (query.length === 0) render(documents);
+  if (query.length === 0) {
+    render(documents);
+    return;
+  }
 
-  const filtered = documents.filter(doc => {
-    const isType = regex.test(doc.type);
-    const isOffice = regex.test(doc.office);
-    const isYear = regex.test(doc.year);
-    const isName = regex.test(doc.name);
-    return (isType || isOffice || isYear || isName);
-  });
+  const results = index.search(query)
+    .sort((a,b) => a.score < b.score)
+    .map(hit => documents[hit.ref]);
 
-  render(filtered);
+  return render(results);
 }
 
-function render(documents) {
+const render = (docs) => {
   output.innerHTML = '';
   // Create an array of document types (no duplicates)
-  const types = [...new Set(documents.map(doc => doc.type))].sort();
+  const types = [...new Set(docs.map(doc => doc.type))].sort();
   // Sort by office name, and by date if one exists
   types.forEach(type => {
-    const filtered = documents
+    const filtered = docs
       .filter(doc => type === doc.type)
-      .sort( (a, b) => {
-        if (a.office > b.office) return -1;
-        else if (a.office < b.office) return 1;
-        else return 0;
-      })
+      .sort( (a, b) => a.office > b.office)
       .sort( (a, b) => parseInt(a.year) - parseInt(b.year))
       .reverse();
     output.insertAdjacentHTML('beforeend', template({ type, documents: filtered }));
   });
 }
+
+const seedIndex = (docs) => {
+  docs.forEach((doc, i) => {
+    index.add({
+      id: i,
+      name: doc.name,
+      office: doc.office,
+      type: doc.type,
+      year: doc.year,
+      url: doc.url
+    });
+  });
+}
+
+init();
