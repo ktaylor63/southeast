@@ -330,6 +330,12 @@
     "related": ["Injurious wildlife"]
   },
   {
+    "name": "Inventory",
+    "acronym": null,
+    "description": "A survey that estimates the presence, abundance, or distribution of species, habitats, ecological communities, or abiotic features such as water or soil at a particular time.",
+    "related": ["Protocol", "Survey", "Baseline Monitoring", "Monitoring"]
+  },
+  {
     "name": "Invertebrate",
     "acronym": null,
     "description": "An animal without a spine that protects its central nervous system. Includes animals such as insects (butterflies, beetles), crustaceans (crabs, crayfish), mollusks (slugs, snails, clams, mussels, octopi), sponges and corals.",
