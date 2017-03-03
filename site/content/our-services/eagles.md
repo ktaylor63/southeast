@@ -1,20 +1,21 @@
 ---
 title: 'Bald Eagles and Golden Eagles'
-description: Bald eagles and golden eagles and their nests are protected from take, including disturbance, under the federal Bald and Golden Eagle Protection Act.
+description: 'Bald eagles and golden eagles and their nests are protected from take, including disturbance, under the federal Bald and Golden Eagle Protection Act.'
 tags:
     - 'Bald Eagle'
     - 'Golden Eagle'
     - Permits
     - 'Bald and Golden Eagle Protection Act'
+url: /our-services/permits/eagles
 hero:
-  name: golden-eagle.jpg
-  alt: A brown eagle with a very sharp curved beak flying through the air.
-  link: https://flic.kr/p/qGpPKT
-  caption: Golden eagle. Photo by Tom Koerner, USFWS.
-updated: 'January 6th, 2017'
+    name: golden-eagle.jpg
+    alt: 'A brown eagle with a very sharp curved beak flying through the air.'
+    link: 'https://flic.kr/p/qGpPKT'
+    caption: 'Golden eagle. Photo by Tom Koerner, USFWS.'
+updated: 'March 3rd, 2017'
 ---
 
-## National rules and regulations
+## National Rules and Regulations
 
 For information about the Bald and Golden Eagle Protection Act (Eagle Act), and permitting rules and regulations visit the [National Migratory Bird Eagle web page](https://www.fws.gov/birds/management/managed-species/bald-and-golden-eagle-information.php).  [Download a copy of the National Bald Eagle Management Guidelines](https://www.fws.gov/southeast/birds/Eagle/NationalBaldEagleManagementGuidelines.pdf).  The guidelines provide recommendations on how best to avoid impacting bald eagles.
 
