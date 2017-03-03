@@ -12,7 +12,7 @@ tags:
     - 'Endangered Species'
     - 'Threatened Species'
     - Mitigation
-updated: 'March 1st, 2017'
+updated: 'March 3rd, 2017'
 ---
 
 National Fish Hatcheries play an important role in managing and restoring America’s fisheries.  Hatcheries across the Southeast produce both game and non-game species, which contributes to habitat conservation, endangered species recovery, and provides recreation opportunities to the nation’s anglers.
@@ -30,9 +30,5 @@ Dams often provide benefits to people including energy production, recreation op
 Here in the Southeast, our hatcheries can mitigate for these changes in habitat by producing  coldwater gamefish such as rainbow trout that will thrive in the coldwater habitats below Corps of Engineer (COE) and Tennessee Valley Authority (TVA) dams.   Stocking coldwater gamefish provides fishing opportunities below these dams, which create a considerable economic and recreational value for local and regional communities.
 
 [Chattahoochee Forest](https://www.fws.gov/chattahoocheeforest/), [Dale Hollow](https://www.fws.gov/dalehollow/), [Erwin](https://www.fws.gov/erwin/), [Greers Ferry](https://www.fws.gov/greersferry/), [Norfork](https://www.fws.gov/wolfcreek/) and [Wolf Creek](https://www.fws.gov/wolfcreek/) National Fish Hatcheries each produce trout to mitigate the effects of Army Corps of Engineers and Tennessee Valley Authority water development projects.
-
-## Coldwater Fish Culture
-
-## Warmwater Fish Culture
 
 {{< figure class="photo-center" src="/images/pages/wolf-creek-stocking.jpg" alt="Large number of visitors of all ages crowd around a stream with fishing gear." caption="Stocking Hatchery Creek at Wolf Creek National Fish Hatchery. Photo by Alex Hoover, USFWS." link="https://flic.kr/p/89eH6p" >}}
