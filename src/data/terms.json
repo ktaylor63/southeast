@@ -438,8 +438,8 @@
   {
     "name": "Monitoring",
     "acronym": null,
-    "description": "A survey is a formal effort designed to inventory or monitor natural resources and requires a sampling design, data analysis, and reporting.",
-    "related": ["Monitoring", "Inventory", "Baseline Monitoring"]
+    "description": "A survey repeated through time to document changes in select attributes of wildlife, plants, habitats, ecological communities, or abiotic resources.",
+    "related": ["Survey", "Inventory", "Baseline Monitoring"]
   },
   {
     "acronym": "NWRS",
