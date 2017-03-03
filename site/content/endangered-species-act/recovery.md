@@ -59,7 +59,7 @@ You can find the recovery plan for any protected species using our [Environmenta
  - [White haired goldenrod](https://www.federalregister.gov/articles/2015/09/01/2015-21410/endangered-and-threatened-wildlife-and-plants-removal-of-solidago-albopilosa-white-haired-goldenrod)
 
 ## Downlistings
- - American crocodile
+ - [American crocodile](https://www.federalregister.gov/documents/2007/03/20/E7-5037/endangered-and-threatened-wildlife-and-plants-reclassification-of-the-american-crocodile-distinct)
  - [Large-flowered skullcap](https://www.federalregister.gov/articles/2002/01/14/02-665/endangered-and-threatened-wildlife-and-plants-reclassification-of-scutellaria-montana)
  - [Louisiana pearlshell](https://ecos.fws.gov/docs/federal_register/fr2419.pdf)
  - [Okaloosa darter](https://www.federalregister.gov/articles/2011/04/01/2011-7668/endangered-and-threatened-wildlife-and-plants-reclassification-of-the-okaloosa-darter-from)
