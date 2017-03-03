@@ -548,6 +548,16 @@
     ]
   },
   {
+    "name": "Protocol",
+    "acronym": null,
+    "description": "Detailed instructions for conducting a survey. This includes information on sampling procedures, data collection, management and analysis, and reporting of results. Approved survey protocols promote continuity of data collection methods for both the duration of the survey and among similar surveys at different sites.",
+    "related": [
+      "Survey",
+      "Monitoring",
+      "Baseline Monitoring"
+    ]
+  },
+  {
     "name": "Recovery",
     "acronym": null,
     "description": "An improvement in the status of a listed species to the point at which listing is no longer appropriate under the criteria set out in section 4(a)(1) of the Endangered Species Act.",
