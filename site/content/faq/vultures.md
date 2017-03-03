@@ -8,7 +8,7 @@ hero:
     link: 'https://flic.kr/p/o1jyKs'
 tags:
     - 'Black Vultures'
-updated: 'January 6th, 2017'
+updated: 'March 3rd, 2017'
 ---
 
 ## Information for Producers Experiencing Livestock Depredation by Vultures
