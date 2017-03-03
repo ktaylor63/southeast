@@ -37,7 +37,6 @@
   },
   "dependencies": {
     "query-string": "^4.2.3",
-    "whatwg-fetch": "^2.0.1",
     "xhr": "^2.3.3"
   }
 }
