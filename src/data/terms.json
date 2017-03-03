@@ -436,6 +436,12 @@
     "related": []
   },
   {
+    "name": "Monitoring",
+    "acronym": null,
+    "description": "A survey is a formal effort designed to inventory or monitor natural resources and requires a sampling design, data analysis, and reporting.",
+    "related": ["Monitoring", "Inventory", "Baseline Monitoring"]
+  },
+  {
     "acronym": "NWRS",
     "name": "National Wildlife Refuge System",
     "description": "National wildlife refuges provide habitat for more than 700 species of birds, 220 species of mammals, 250 reptile and amphibian species and more than 1,000 species of fish. More than 380 threatened or endangered plants or animals are protected on wildlife refuges.",
@@ -586,6 +592,12 @@
     "acronym": null,
     "description": "Surrogate species are species that can be used as proxies to represent a broader set of species to support conservation or management strategies when the objective is to provide appropriate ecological conditions for the full set of species characteristic of a defined landscape or geographic area.<br><br>Download the Service&rsquo;s 2015 <a href='https://www.fws.gov/Science/pdf/Surrogate-Species-Technical-Reference.pdf' target='_blank'><em>Technical Reference on Using Surrogate Species for Landscape Conservation</em></a>",
     "related": ["Strategic Habitat Conservation", "Keyston species", "Flagship species"]
+  },
+  {
+    "name": "Survey",
+    "acronym": null,
+    "description": "A survey is a formal effort designed to inventory or monitor natural resources and requires a sampling design, data analysis, and reporting.",
+    "related": ["Monitoring", "Inventory", "Baseline Monitoring"]
   },
   {
     "name": "Tailwater",
