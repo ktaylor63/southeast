@@ -30,6 +30,12 @@
     "related": []
   },
   {
+    "name": "Baseline Monitoring",
+    "acronym": null,
+    "description": "Also referred to as surveillance monitoring; monitoring that is not tied to specific predictions of how a natural resource will respond to management or environmental stressors, but instead is designed to document change over time of a natural resource. Examples include monitoring wildlife population trends, disease incidence, climate change, and wilderness character.",
+    "related": ["Monitoring", "Survey", "Inventory", "Baseline Monitoring"]
+  },
+  {
     "name": "Beneficial Use Group",
     "acronym": "BUG",
     "description": "Hundreds of million cubic yards of material are dredged annually from American ports, harbors, and waterways to maintain and improve the nation's navigation system. A Beneficial Use Group is made up of federal, state and private partners who promote the use of this dredged material (e.g., sand, soft clay) in a beneficial manner rather than being disposed of as waste.<br> Dredged material can serve a wide variety of useful purposes, from restoring wetlands and replenishing beaches diminished by erosion, to being included as a component of construction materials.",
