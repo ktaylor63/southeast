@@ -93,8 +93,17 @@
   right: 8px;
 }
 
+.card-text-date {
+  color: $dark-gray;
+  font-size: 14px;
+  left: $leading;
+  position: absolute;
+  top: 0;
+}
+
 .card-text {
   padding: $leading;
+  position: relative;
 
   h3,
   p:first-of-type {

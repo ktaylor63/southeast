@@ -14,6 +14,12 @@
     }
   }
 
+  .card-hero {
+    @media (min-width: $break-lg) {
+      display: inline !important;
+    }
+  }
+
   li {
     @extend %clearfix;
     margin-bottom: 2em;
