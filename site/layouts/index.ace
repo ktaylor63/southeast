@@ -7,7 +7,7 @@ html lang="en-US"
     = include partials/sprite.svg .
     = include partials/navigation.html .
 
-    #content
+    #content.homepage
       div.hero-homepage
         h1.site-title U.S. Fish and Wildlife Service
 
