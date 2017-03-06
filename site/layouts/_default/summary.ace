@@ -1,4 +1,4 @@
-section class="card {{ if .Params.hero.name }}card-hero{{ end }}"
+section class="card"
   {{ if .Params.hero.name }}
   div.card-hero
     img sizes="100vw" srcset="{{ .Site.BaseURL }}images/hero/small/{{ .Params.hero.name }} 450w, {{ .Site.BaseURL }}images/hero/medium/{{ .Params.hero.name }} 850w" src="{{ .Site.BaseURL }}images/hero/small/{{ .Params.hero.name }}" alt="{{ .Params.hero.alt }}"
@@ -6,7 +6,9 @@ section class="card {{ if .Params.hero.name }}card-hero{{ end }}"
   div.card-text
     h3
       a href="{{ .Permalink }}" {{ .Title }}
-    p {{ if .Description }}{{ .Description }}{{ else }}{{ .Summary }}{{ end }}
+    p
+      span.card-text-date {{ .Date.Format "January 2, 2006" }}
+      {{ if .Description }}{{ .Description }}{{ else }}{{ .Summary }}{{ end }}
       span &nbsp;
         a href="{{ .Permalink }}" {{ if eq .Section "news"}}Read the full story...{{ else if eq .Section "wildlife" }}Visit the species profile...{{ else if eq .Section "article" }}Read the full article...{{ else }}Learn more...{{ end }}
     {{ if .Params.hero.caption }}
