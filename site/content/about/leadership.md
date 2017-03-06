@@ -45,14 +45,6 @@ Dr. Bill Uihlein serves as the Assistant Regional Director of the Science Applic
 
 Bill’s  wife is a special education teacher, and together they have 3 very cool sons. His background and love of the outdoors came from his childhood of working for his dad, the foreman, on several ranches in Wyoming, California, and New Mexico. Bill earned a Bachelors and Masters Degree in Biology from Eastern New Mexico University and a PhD from Mississippi State University. His FWS career has been in Migratory Birds, serving as the Science Coordinator and eventually the Coordinator of the Lower Mississippi Valley Joint Venture partnership. Much of his work experiences have centered on leadership, relationship building, and leveraging technical expertise in landscape assessment, ecosystem modeling, and monitoring for waterfowl and landbirds.
 
-## Leopoldo "Leo" Miranda, Assistant Regional Director, Ecological Services
-
-{{< figure class="photo-right" src="/images/pages/leo-miranda-bio.jpg" alt="Portrait shot of a man in the woods with a cammo backpack and orange hunting sweatshirt." caption="Leo Miranda." >}}
-
-Leopoldo (Leo) Miranda is the Assistant Regional Director of Ecological Services for the U.S. Fish and Wildlife Service-Southeast Region. Prior to his current position, he has worked as a marine biologist in Puerto Rico, a private lands program coordinator in Washington D.C., and Supervisor of the Chesapeake Bay Office in Annapolis, Maryland. Leo has received multiple recognitions including a Service to America Medal Finalist for his innovative approaches to developing conservation partnerships. He is an avid hunter and fisherman, loving the outdoors and habitat management.
-
-Leo received his Bachelor’s Degree in Marine Biology from the University of Puerto Rico and a Master’s Degree in Zoology from North Carolina State University. He lives in Georgia with his wife Jessica, his son Pablo and four 4-legged family members, named Venus, Bromelia, Tanna and Rex.
-
 ## David Viker, Regional Chief, National Wildlife Refuge System
 
 {{< figure class="photo-right" src="/images/pages/david-viker.jpg" alt="Portrait shot of a man wearing a blue U.S. Fish and Wildlife Service polo shirt." caption="David Viker. Photo by USFWS." >}}
@@ -70,15 +62,23 @@ His areas of greatest professional interest include compatibility and appropriat
 
 David has served as a volunteer youth sports coach for 38 teams, ages 4 to 18, dating back to 1989 in basketball, baseball, softball, and soccer.  His very best times, though, are spent with his best friend and wife of 21 years and their three children doing faith-based volunteering, fishing, canoeing, hiking, camping, hunting, and other outdoor-activities.
 
-## Mike Piccirilli, Chief, Wildlife and Sport fish Restoration Program
+## Jeffrey Fleming, Assistant Regional Director, External Affairs
 
-{{< figure class="photo-right" src="/images/pages/mike-piccirilli.jpg" alt="Fisherman in waders kneeling with a trout." caption="Mike Piccirilli with a golden trout on Slough Creek." >}}
+Jeff Fleming serves as Assistant Regional Director for External Affairs in the U.S. Fish and Wildlife Service's Southeast Region.  He joined the Region's leadership team in December 2004.  He joined the Service's Office of Public Affairs at its headquarters in July 2003.
 
-As Chief of the Wildlife and Sport fish Restoration Program (WSFR) Mike administers a variety of [grant programs](/our-services/grants) in the Southeast Region in cooperation with our partner state agencies. With a cumulative total of approximately $250 million annually these grant funds are used to enhance the state’s ability to manage their fish and wildlife resources for the benefit of the public.
+Fleming served a short stint as the Izaak Walton League of America's first communications director from September 2001 to July 2003 helping to build communications capacity and expand its role and influence within the conservation community.  He also provided support to a team of innovative leaders establishing the Theodore Roosevelt Conservation Partnership in that short period of time.
 
-Mike began his career with the Fish and Wildlife Service in 1991 at Erie National Wildlife Refuge. In 1997 he accepted a position in WSFR as a Biologist. In 2002 he was selected as Wildlife Branch Supervisor and as Chief of WSFR in 2004. Prior to his FWS experience, Mike worked as a Biologist for the Bureau of Reclamation (BoR) in the North Platte, Wyoming Office. There he administered agriculture and grazing leases and lease agreements to state, county and other federal agencies on BoR lands. Before working for the BoR he worked for the Army Corps of Engineers as a Park Ranger in the Nashville District, performing lakeshore management activities that included permitting private and commercial moorage facilities.
+For more than 10 years up until then, he served as press secretary and environmental policy aide to U.S. Rep. John Tanner of Tennessee from 1991 to late 2001.  From 1988 to 1991, he served as a staff reporter for The Commercial Appeal in Memphis, and the Chattanooga Free Press.
 
-Mike has been married to his spouse Sue for 32 years and has one son Andy.  Mike enjoys spending as much of his free time as possible fly fishing for trout, fly tying and target shooting.
+He is a graduate of the University of Tennessee, Knoxville, and is married with three children.  He lives in Hoschton, Georgia.
+
+## Leopoldo "Leo" Miranda, Assistant Regional Director, Ecological Services
+
+{{< figure class="photo-right" src="/images/pages/leo-miranda-bio.jpg" alt="Portrait shot of a man in the woods with a cammo backpack and orange hunting sweatshirt." caption="Leo Miranda." >}}
+
+Leopoldo (Leo) Miranda is the Assistant Regional Director of Ecological Services for the U.S. Fish and Wildlife Service-Southeast Region. Prior to his current position, he has worked as a marine biologist in Puerto Rico, a private lands program coordinator in Washington D.C., and Supervisor of the Chesapeake Bay Office in Annapolis, Maryland. Leo has received multiple recognitions including a Service to America Medal Finalist for his innovative approaches to developing conservation partnerships. He is an avid hunter and fisherman, loving the outdoors and habitat management.
+
+Leo received his Bachelor’s Degree in Marine Biology from the University of Puerto Rico and a Master’s Degree in Zoology from North Carolina State University. He lives in Georgia with his wife Jessica, his son Pablo and four 4-legged family members, named Venus, Bromelia, Tanna and Rex.
 
 ## Luis Santiago, Special Agent in Charge, Office of Law Enforcement
 
@@ -89,3 +89,13 @@ As the Special Agent in Charge (SAC) for the Southeast Region, Luis has line man
 Regional activities enforcing wildlife laws are conducted through a force of Special Agents handling criminal and civil investigations, and a force of Wildlife Inspectors who implement the wildlife inspection program, which interdicts illegal wildlife traffic while facilitating the legal wildlife trade.
 
 Luis is a graduate of Advanced Leadership Development Program cohort VI.  He also completed the 2008 Strategic Management of Regulatory and Enforcement Agencies program offered by the JFK School of Government, Executive Education Harvard University.  He is an alumni of the Harvard University, JFK School of Government, Senior Executive Fellows, May 2011.
+
+## Mike Piccirilli, Chief, Wildlife and Sport fish Restoration Program
+
+{{< figure class="photo-right" src="/images/pages/mike-piccirilli.jpg" alt="Fisherman in waders kneeling with a trout." caption="Mike Piccirilli with a golden trout on Slough Creek." >}}
+
+As Chief of the Wildlife and Sport fish Restoration Program (WSFR) Mike administers a variety of [grant programs](/our-services/grants) in the Southeast Region in cooperation with our partner state agencies. With a cumulative total of approximately $250 million annually these grant funds are used to enhance the state’s ability to manage their fish and wildlife resources for the benefit of the public.
+
+Mike began his career with the Fish and Wildlife Service in 1991 at Erie National Wildlife Refuge. In 1997 he accepted a position in WSFR as a Biologist. In 2002 he was selected as Wildlife Branch Supervisor and as Chief of WSFR in 2004. Prior to his FWS experience, Mike worked as a Biologist for the Bureau of Reclamation (BoR) in the North Platte, Wyoming Office. There he administered agriculture and grazing leases and lease agreements to state, county and other federal agencies on BoR lands. Before working for the BoR he worked for the Army Corps of Engineers as a Park Ranger in the Nashville District, performing lakeshore management activities that included permitting private and commercial moorage facilities.
+
+Mike has been married to his spouse Sue for 32 years and has one son Andy.  Mike enjoys spending as much of his free time as possible fly fishing for trout, fly tying and target shooting.
