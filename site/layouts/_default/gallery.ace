@@ -6,4 +6,5 @@ li.card
   {{ end }}
   .card-text
     p
+      span.card-text-date {{ .Date.Format "January 2, 2006" }}
       a href="{{ .Permalink }}" {{ .Title }}
