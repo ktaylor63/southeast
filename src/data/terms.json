@@ -133,7 +133,7 @@
   {
     "name": "Conservation",
     "acronym": null,
-    "description": "To protect and maintain the health of the natural world.<br><br>As defined in the <a href='http://www.fws.gov/endangered/esa-library/pdf/ESAall.pdf'>Endangered Species Act</a>: To use and the use of all methods and procedures which are necessary to bring any endangered species or threatened species to the point at which the measures provided pursuant to the Endangered Species Act.",
+    "description": "To protect and maintain the health of the natural world.<br><br>As defined in the <a href='http://www.fws.gov/endangered/esa-library/pdf/ESAall.pdf'>Endangered Species Act</a>: To use and the use of all methods and procedures which are necessary to bring any endangered species or threatened species to the point at which the measures provided pursuant to the Endangered Species Act are no longer necessary.",
     "related": ["Conservation easement"]
   },
   {
