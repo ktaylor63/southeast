@@ -11,7 +11,7 @@ aliases:
 tags:
     - Florida
     - 'Endangered Species'
-    - 'Florida panther'
+    - 'Florida Panther'
     - Mammal
     - Gulf
 hero:
@@ -20,7 +20,7 @@ hero:
     alt: 'A Florida panther walking on a gravel road with a slash pine forest in the background'
     name: florida-panther.jpg
     position: 'left center'
-updated: 'November 2nd, 2016'
+updated: 'March 8th, 2017'
 ---
 
 - **Taxon:** Mammal
@@ -58,7 +58,7 @@ Florida panthers are carnivores, which means they only eat meat. They primarily 
 
 ## Historic Range
 
-Historically, this subspecies occurred throughout the southeastern United States from Arkansas and Louisiana eastward across Mississippi, Alabama, Georgia, Florida and parts of South Carolina. Today, the panther is presently restricted to less than five percent of its historic range in a single breeding population in southern Florida. The panther population size within the occupied breeding range south of Caloosahatchee River has increased from approximately 20 in the early 1970s to an upper bound of approximately 200 adult and subadult panthers in 2014. (These population numbers do not represent a complete or true population estimate and do not included newborn kittens or older kittens that are traveling with their dams.)  However, the panther continues to face numerous threats due to an increasing human population and development in panther habitat that negatively impacts recovery.
+Historically, this subspecies occurred throughout the southeastern United States from Arkansas and Louisiana eastward across Mississippi, Alabama, Georgia, Florida and parts of South Carolina. Today, the panther is presently restricted to less than five percent of its historic range in a single breeding population in southern Florida. The panther population size within the occupied breeding range south of Caloosahatchee River has increased from approximately 20 in the early 1970s to an upper bound of approximately 230 adult and subadult panthers in 2015. (These population numbers do not represent a complete or true population estimate and do not included newborn kittens or older kittens that are traveling with their dams.)  However, the panther continues to face numerous threats due to an increasing human population and development in panther habitat that negatively impacts recovery.
 
 More than a century ago, natural genetic exchange occurred between the Florida panther and other contiguous populations of Puma concolor. This exchange, known as gene flow, occurred as individuals dispersed among populations and bred. Gene flow helped maintain a genetic variation and a healthy population of Florida panthers by reducing the probability of inbreeding.
 
@@ -72,7 +72,7 @@ A genetic restoration plan was implemented in 1995 with the release of eight fem
 
 ## Current Range
 
-The breeding range of the Florida panther population is currently restricted to habitat south of the Caloosahatchee River in southern Florida. Recovery efforts to-date have successfully contributed to a significant increase in the panther population, which now occupies most available habitat south of Caloosahatchee River. Although there have been no female panthers or kittens documented north of the Caloosahatchee River since 1973, male panthers continue to periodically disperse out of the breeding range and have been confirmed as far north as Georgia.
+Recovery efforts to-date have successfully contributed to a significant increase in the panther population, which now occupies most available habitat south of Caloosahatchee River. Currently, the only known breeding population of panthers is south of the Caloosahatchee River.  However, in November 2016 the Florida Fish and Wildlife Conservation Commission Panther Team collected strong evidence of a female Florida panther north the river.  This is the first evidence of a wild female panther north of the river since 1973.  Male panthers continue to periodically disperse out of the breeding range and have been confirmed as far north as Georgia.
 
 [View panther telemetry map data](http://atoll.floridamarine.org/Quickmaps/QM_wildlifehab.html).
 
