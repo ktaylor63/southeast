@@ -1,12 +1,12 @@
 ---
-title: 'Kevin Norton: USDA’s easement program a win-win for landowners and bears'
+title: 'Easement program a win-win for landowners and black bears'
 description: 'The rapid expansion of agriculture in the state of Louisiana was one of the factors pushing the Louisiana black bear to the edge of extinction. USDA’s Kevin Norton plays a key role in ensuring the bear has habitat while farmers benefit from restoring and conserving their land.'
 tags:
     - Partnership
     - USDA
     - NRCS
     - Louisiana
-    - 'Louisiana black bear'
+    - 'Louisiana Black Bear'
     - Agriculture
     - 'Voluntary Conservation'
     - Recovery
@@ -16,12 +16,12 @@ hero:
     name: louisiana-black-bear-kevin-norton.jpg
 author: 'Nadine Siak, USFWS Gulf Restoration program'
 date: '2016-03-10'
-updated: 'May 12th, 2016'
+updated: 'March 8th, 2017'
 ---
 
-According to the U.S. Department of Agriculture (USDA), there were 308,000 acres in agricultural use in Delta region of Louisiana in 1960; by 1980, the amount of agricultural land had grown more than tenfold, to more than 3.4 million acres. While expanding the land in agriculture production to meet the Nation’s food supply, this conversion of bottomland hardwood habitat to open cropland also pushed the Louisiana black bear to the edge of extinction.
+According to the U.S. Department of Agriculture (USDA), there were 308,000 acres in agricultural use in the delta region of Louisiana in 1960; by 1980, the amount of agricultural land had grown more than tenfold, to more than 3.4 million acres. But the expansion of agriculture land production to meet the nation’s food supply also pushed the Louisiana black bear to the edge of extinction.
 
-Kevin Norton, USDA’s Natural Resources Conservation Service’s State Conservationist for Louisiana, calls it “fortuitous” that the USDA began a new program not long after the Louisiana black bear was placed on the endangered species list in 1992. The Wetlands Reserve Program (now the Agriculture Conservation Easement Program-Wetland Reserve Easement Program) is a voluntary easement program that provides technical and financial assistance to private landowners to protect, restore and enhance wetlands in exchange for retiring eligible land from agriculture.
+Kevin Norton, USDA’s Natural Resources Conservation Service’s state conservationist for Louisiana, calls it “fortuitous” that the USDA began a new program not long after the Louisiana black bear was placed on the endangered species list in 1992. The Wetlands Reserve Program (now the Agriculture Conservation Easement Program-Wetland Reserve Easement Program) is a voluntary easement program that provides technical and financial assistance to private landowners to protect, restore and enhance wetlands in exchange for retiring eligible land from agriculture.
 
 “This is the shining star of our efforts,” Norton says with pride. “The really exciting part is that this program, actually a national program, settled here in Louisiana and accomplished so much.”
 

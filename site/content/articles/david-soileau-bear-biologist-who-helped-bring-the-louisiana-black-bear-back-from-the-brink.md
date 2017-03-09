@@ -1,11 +1,11 @@
 ---
-title: 'David Soileau: Bear biologist who helped bring the Louisiana black bear back from the brink'
+title: 'David Soileau: Bringing the Louisiana Black Bear Back From the Brink'
 description: 'The Louisiana black bear recovery work of people like biologist/land conservation specialist David Soileau has been so successful that sightings of the species is no longer such an uncommon occurrence.'
 tags:
     - Employees
     - Lafayette
     - Louisiana
-    - 'Louisiana black bear'
+    - 'Louisiana Black Bear'
     - Recovery
     - 'Voluntary Conservation'
     - 'Private Lands'
@@ -16,14 +16,14 @@ hero:
     position: 'top center'
 author: 'Nadine Siak, USFWS Gulf Restoration Program'
 date: '2016-03-10'
-updated: 'May 26th, 2016'
+updated: 'March 8th, 2017'
 ---
 
 David Soileau job title at the Service’s [Louisiana Ecological Services Office](http://www.fws.gov/lafayette/) is quite a mouthful: “Conservation Planning Assistance Coordinator.” What does it mean, exactly?
 
 “I wear a variety of hats,” Soileau says, with a laugh.
 
-He wears his “coordinator” hat working on a program helping willing private landowners restore agricultural land to its original natural state and conserve it in perpetuity. The landowners accrue “credits” that can be sold to others applying for a permit to develop on land with a similar natural ecosystems nearby. In this way, the permit applicant compensates for the expected adverse impacts of the new development.
+He wears his “coordinator” hat working on a program that helps willing private landowners restore agricultural land to its original natural state and conserve it in perpetuity. The landowners accrue credits that can be sold to others applying for a permit to develop on land with similar natural ecosystems nearby. In this way, the permit applicant compensates for the expected adverse impacts of the new development.
 
 Soileau slips on his “bear biologist” hat, however, by pointing out that the greatest threat to the Louisiana black bear population has been habitat loss, especially to agriculture.
 

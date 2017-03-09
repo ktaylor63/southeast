@@ -13,12 +13,12 @@ tags:
     - Partnership
     - Conservation
     - 'Voluntary Conservation'
-updated: 'February 27th, 2017'
+updated: 'March 8th, 2017'
 ---
 
 > “In the next 10 years, the Southeast Region will have to evaluate a record number of fish, wildlife and plant species for possible listing as threatened or endangered under the Endangered Species Act. Our goal is to conserve them in voluntary and innovative ways for future generations of Americans.” <br> ~Cindy Dohner, U.S. Fish and Wildlife Service Southeast Regional Director
 
-In order to achieve our goal of self-sustaining populations of fish and wildlife for future generations we need to work together.  If you or someone you know would like to manage property to conserve wildlife and natural resources we’re here to help!  Contact [Mike Harris](mailto:michael_harris@fws.gov?subject=At-Risk%20Species), our At-Risk Species Coordinator, if you have any questions.
+We need to work together to achieve our goal of self-sustaining populations of fish and wildlife for future generations.  If you or someone you know would like to manage property to conserve wildlife and natural resources we’re here to help.  Contact [Mike Harris](mailto:michael_harris@fws.gov?subject=At-Risk%20Species), our At-Risk Species Coordinator, if you have any questions.
 
 ## Best Management Practices (BMPs)
 
@@ -26,17 +26,17 @@ Any landowner or land manager can follow voluntary guidelines to identify resour
 
 ## Partners for Fish and Wildlife Program (PFW)
 
-The Partners for Fish and Wildlife Program restores fish and wildlife habitats through a voluntary conservation agreement between private landowners or non-Federal/non-state landowners and the Service.  The goal of such an agreement is to reduce threats to species with a specific focus on Federally listed, candidate, at-risk species, and their habitats.  Landowners get the benefit of one-on-one expert technical and financial assistance in implementing habitat conservation goals.  Funding for these agreements comes from program dollars.   PFW agreements require a minimum duration of 10 years.  In some cases, such as the Alabama-Georgia Gopher Tortoise Pilot Project, landowners who participate in the program can receive regulatory predictability for the species benefitting from the project.
+The Partners for Fish and Wildlife Program restores fish and wildlife habitats through a voluntary conservation agreement between private landowners or non-Federal/non-state landowners and the Service.  The goal of the agreement is to reduce threats to species with a specific focus on federally listed, candidate, at-risk species, and their habitats.  Landowners get the benefit of one-on-one expert technical and financial assistance in implementing habitat conservation goals.  Funding for these agreements comes from program dollars.   PFW agreements require a minimum duration of 10 years.  In some cases, such as the Alabama-Georgia Gopher Tortoise Pilot Project, landowners who participate in the program can receive regulatory predictability for the species benefitting from the project.
 
 ## Coastal Program
 
-The Coastal program restores fish and wildlife habitats through voluntary agreements between landowners/land managers and the Service.  The Coastal program delivers on-the-ground restoration through signed conservation agreements.  While there is no minimum duration for a conservation agreement, the program has a preference for longer-term commitments.  The Coastal program can enter into agreements with private landowners or public land managers including other Federal agencies.  While any species can be included in a project, the Coastal program focuses its efforts on Federally listed, candidate, at-risk species, and their habitats.
+The Coastal program restores fish and wildlife habitats through voluntary agreements between landowners/land managers and the Service.  The Coastal program delivers on-the-ground restoration through signed conservation agreements.  While there is no minimum duration for a conservation agreement, the program has a preference for longer-term commitments.  The Coastal program can enter into agreements with private landowners or public land managers including other federal agencies.  While any species can be included in a project, the Coastal program focuses its efforts on federally listed, candidate, at-risk species, and their habitats.
 
 The goal of these agreements is to reduce threats to species and conserve important habitats.  Landowners get the benefit of one-on-one expert technical and financial assistance in implementing habitat conservation goals.  Funding for these agreements comes from program dollars or State Wildlife Grants (SWG).
 
 ## Candidate Conservation Agreement (CCA)
 
-The goal of a Candidate Conservation Agreement is to work with a landowner or land manager to remove enough threats to an imperiled species so there is no longer a need to list the species under the Endangered Species Act (ESA).  Federal candidate species and other at-risk species that are likely to become candidates for listing under the ESA are eligible.  A CCA does not provide any assurances to the signatories in the event that a covered species is listed under the Endangered Species Act, a key difference between a CCA and a Candidate Conservation Agreement With Assurances (CCAA), explained below.  The Policy for Evaluation of Conservation Efforts (PECE), which assesses whether proposed conservation measures are likely to be implemented and are sufficient to reduce or eliminate threats to a species, may apply.
+The goal of a Candidate Conservation Agreement is to work with a landowner or land manager to remove enough threats to an imperiled species so there is no longer a need to list the species under the Endangered Species Act (ESA).  Federal candidate species and other at-risk species that are likely to become candidates for listing under the ESA are eligible.  A CCA does not provide any assurances to the signatories in the event that a covered species is listed under the ESA, a key difference between a CCA and a Candidate Conservation Agreement With Assurances (CCAA), explained below.  The Policy for Evaluation of Conservation Efforts (PECE), which assesses whether proposed conservation measures are likely to be implemented and are sufficient to reduce or eliminate threats to a species, may apply.
 
 In addition to the satisfaction of conserving species, landowners who enter into a CCA have a potential funding platform for cost sharing in conservation actions.  States can provide grants to landowners via Section 6 funding.
 
@@ -46,7 +46,7 @@ Candidate Conservation Agreements with Assurances use regulatory assurances to p
 
 The Service will assess whether it can avoid listing the species under the Endangered Species Act based on the proposed conservation measures assuming landowners/land managers of other properties necessary to conserve the species also implement conservation measures.  The Service may also consider the Policy for Evaluation of Conservation Efforts (PECE) standard.
 
-In the event that a covered species is listed under the ESA the landowner/land manager would not be asked to do more than they agreed to in the CCAA, which provides flexibility in management and conservation actions.  An incidental take permit will be issued for prescribed management activities in the event of a listing.  Programmatic agreements with states issuing certificates of inclusion to landowners can facilitate the process and buffer landowners from “red tape.”
+In the event that a covered species is listed under the ESA, the landowner/land manager would not be asked to do more than they agreed to in the CCAA, which provides flexibility in management and conservation actions.  An incidental take permit will be issued for prescribed management activities in the event of a listing.  Programmatic agreements with states issuing certificates of inclusion to landowners can facilitate the process and buffer landowners from “red tape.”
 
 States can provide grants to landowners/land managers via Section 6 funds.
 

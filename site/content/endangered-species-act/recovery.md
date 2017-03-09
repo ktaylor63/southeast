@@ -16,32 +16,32 @@ tags:
     - 'Threatened Species'
     - Delisting
     - Downlisting
-updated: 'February 10th, 2017'
+updated: 'March 8th, 2017'
 ---
 
-Our goal under the Endangered Species Act is to conserve plants and animals listed as endangered or threatened, as well as the ecosystems upon which they depend. We also work to improve the status of those species to the point that protection under the Act is no longer necessary. This process is what we call **recovery**.
+Our goal under the Endangered Species Act (ESA) is to conserve plants and animals listed as endangered or threatened, as well as the ecosystems upon which they depend. We also work to improve the status of those species to the point that protection under the Act is no longer necessary. This process is what we call **recovery**.
 
 Recovering any species is a challenge that takes time. In some cases we, are attempting to combat population declines more than 200 years in the making.
 
-Achieving recovery for threatened and endangered species requires cooperative conservation efforts. The collaborative efforts of the U.S. Fish and Wildlife Service and our many partners, including States, Tribes, not-for-profit organizations, universities, researchers, private individuals, and other Federal agencies, are critical to the recovery of listed species.
+Achieving recovery for threatened and endangered species requires cooperative conservation efforts. The collaborative efforts of the U.S. Fish and Wildlife Service and our many partners, including states, Tribes, not-for-profit organizations, universities, researchers, private individuals, and other Federal agencies, are critical to the recovery of listed species.
 
 {{< figure class="photo-center" src="/images/pages/wood-stork-chicks.jpg" alt="Two fluffy wood stork chicks in a nest at the top of a tree" caption="Two wood stork chicks at Harris Neck National Wildlife Refuge in Georgia. Photo by Mary Ellen Urbanski" link="https://flic.kr/p/nCBbeJ" >}}
 
 ## How We Recover Species
 
-A listed species enters the world of recovery as soon as the final rule listing it under the ESA becomes effective.  Many times the Service continues efforts with our partners that began before the species was under consideration for listing.  The Southeast Region identifies a Field Office recovery lead for each listed species at the time of listing who can immediately move forward with recovery work. For example, recovery actions could include working with a State Park to restore dunes; or with a National Forest to remove exotic overcrowding vegetation, or with a University professor in propagation of a species.
+A listed species enters the world of recovery as soon as the final rule listing it under the ESA becomes effective.  Many times the Service continues efforts with our partners that began before the species was under consideration for listing.  The Southeast Region identifies a Field Office recovery lead for each listed species at the time of listing who can immediately move forward with recovery work. For example, recovery actions could include working with a state park to restore dunes; or with a national forest to remove exotic overcrowding vegetation, or with a university professor in propagation of a species.
 
-In order to have a transparent path to achieve recovery, we develop **recovery plans** for listed species that outline the actions that need to be taken in order to move the species towards no longer requiring federal protection.
+In order to have a transparent path to achieve recovery, the Service develops **recovery plans** for listed species that outline the actions that need to be taken in order to move the species towards no longer requiring federal protection.
 
-Many factors go into development of a recovery plan, and the process is unique for each species. When developing plans, we take many things into consideration, and major factors include:
+Many factors go into the development of a recovery plan, and the process is unique for each species. When developing plans, we take many things into consideration, including:
 
-- the types of factors that threaten the species,
-- the magnitude of those threats, and
+- the types of factors that threaten the species;
+- the magnitude of those threats;
 - the degree to which the threats can reversed.
 
 The biology of the species, the current number of individuals of the species, and their distributions, as well as many other factors, are critically important.
 
-These plans outline the benchmarks we need to reach in order stabilize and improve  the species’ status, ultimately allowing for removal of the species from the Federal list of endangered and threatened species. Often recovery teams composed of species experts, both internal and external to the Service, work together to develop and implement recovery plans.
+These plans outline the benchmarks we need to reach in order stabilize and improve  the species’ status, ultimately allowing for removal of the species from the list of endangered and threatened species. Often recovery teams composed of species experts, both internal and external to the Service, work together to develop and implement recovery plans.
 
 You can find the recovery plan for any protected species using our [Environmental Conservation Online System](http://ecos.fws.gov/tess_public/pub/speciesRecovery.jsp?sort=1) (ECOS).
 
