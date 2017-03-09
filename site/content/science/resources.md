@@ -10,7 +10,7 @@ hero:
     alt: 'Tall mature trees line a wide river.'
     link: 'https://flic.kr/p/9nymnC'
     caption: 'Cooks Lake at Dale Bumpers White River National Wildlife Refuge in Arkansas. Photo by Garry Tucker, USFWS.'
-updated: 'January 31st, 2017'
+updated: 'March 9th, 2017'
 ---
 
 The Service and other science based organizations support online conservation tools and databases.  These tools support internal decision making processes and provide a layer of transparency by making data available to the public.
@@ -80,7 +80,7 @@ This site provides a collection of National GIS data layers and associated metad
 
 The Conservation Planning Atlas (CPA) is a science-based mapping platform where conservation managers and LCC members can go to view, retrieve, and perform analyses on spatial information with specific conservation goals in mind. Eight portals have been created for the LCC network:
 
- - [Appalachian LCC](http://www.conservationdesign.org/)
+ - [Appalachian LCC](https://applcc.databasin.org)
  - [Caribbean LCC](https://caribbeanlcc.databasin.org/)
  - [Gulf Coast Prairie LCC (GCP LCC)](https://gcplcc.databasin.org/)
  - [Gulf Coastal Plains and Ozarks LCC (GCPO LCC)](https://gcpolcc.databasin.org/)
