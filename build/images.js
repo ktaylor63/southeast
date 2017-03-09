@@ -106,3 +106,5 @@ module.exports.process = processImage;
 module.exports.remove = removeImage;
 module.exports.build = build;
 module.exports.copy = copy;
+
+require('make-runnable');
