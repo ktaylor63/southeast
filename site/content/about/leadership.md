@@ -12,14 +12,15 @@ hero:
     link: 'https://flic.kr/p/cuCjds'
     caption: 'Southeast Regional Director Cindy Dohner stands between Midwest Regional Director Tom Melius (left), and agency Director Dan Ashe (right). Photo by Tom MacKenzie, USFWS.'
     position: 'top right'
-updated: 'March 8th, 2017'
+updated: 'March 9th, 2017'
 ---
 
 Nationally, the U.S. Fish and Wildlife Service is led by a Director, a team of Assistant Directors and eight Regional Directors. (See our [headquarters organizational chart.](http://www.fws.gov/offices/orgcht.html))
 
 The conservation actions of the Southeast Region are guided by the Southeast Regional Director, Deputy Regional Director, and a team of Assistant Regional Directors and Chiefs who guide regional operations.
 
-## Cindy Dohner, Regional Director
+## Cindy Dohner
+### Regional Director
 
 {{< figure class="photo-right" src="/images/pages/cynthia-dohner-bio.jpg" alt="Portrait shot of a woman with light brown hair" >}}
 
@@ -29,7 +30,8 @@ As the Regional Director she oversees the management of 131 national wildlife re
 
 Before becoming the Regional Director, Cindy served as Deputy Regional Director for the Southeast Region under Sam Hamilton. Throughout her 23 year career with the Service, she has held positions that include serving as Assistant Regional Director for Ecological Services in Atlanta, and the Branch Chief for Recovery and Consultation in the Washington Office.  She has also worked for three state agencies, two other federal agencies and in the private sector. Cindy holds a B.S. in Marine Biology and a Masters degree in Fisheries and Aquaculture.
 
-## Mike Oetker, Deputy Regional Director
+## Mike Oetker
+### Deputy Regional Director
 
 {{< figure class="photo-right" src="/images/pages/michael-oetker-bio.jpg" alt="Portrait shot of a man with a goatee wearing a suit and tie" >}}
 
@@ -39,7 +41,8 @@ Before coming to Atlanta, Mike worked in the Southwest Region where he was invol
 
 Mike got his start in natural resource management and policy development as a Knauss Sea Grant Fellow, where he worked for the Committee on Natural Resources in the U.S. House of Representatives.  
 
-## Allan Brown, Assistant Regional Director, Fisheries and Aquatic Conservation
+## Allan Brown
+### Assistant Regional Director, Fisheries and Aquatic Conservation
 
 {{< figure class="photo-right" src="/images/pages/allan-brown-bio.jpg" alt="A man in front of industrial tanks holding an enormous fish." >}}
 
@@ -47,13 +50,17 @@ Allan has over thirty years experience with the Service. After graduating from M
 
 Allan has been married for 34 years with 3 adult children all of whom have married and three granddaughters. Allan and his wife like to travel, go boating, hiking, and keep busy taking care of two dogs.
 
-## Dr. Bill Uihlein, Assistant Regional Director, Science Applications
+## Dr. Bill Uihlein
+### Assistant Regional Director, Science Applications
+
+{{< figure class="photo-right" src="/images/pages/bill-uihlein-bio.jpg" alt="A man sitting in an office chair with a blue USFWS shirt on." >}}
 
 Dr. Bill Uihlein serves as the Assistant Regional Director of the Science Application Team. Science Applications provides a mission-driven relationship-building forum that focuses on defining the conservation landscape of the future to sustain fish and wildlife. The team is committed to facilitating FWS’ interest in Strategic Habitat Conservation through science capacity development, landscape planning and integration, informing targeted conservation actions, measuring results, and evaluating uncertainties.
 
 Bill’s  wife is a special education teacher, and together they have 3 very cool sons. His background and love of the outdoors came from his childhood of working for his dad, the foreman, on several ranches in Wyoming, California, and New Mexico. Bill earned a Bachelors and Masters Degree in Biology from Eastern New Mexico University and a PhD from Mississippi State University. His FWS career has been in Migratory Birds, serving as the Science Coordinator and eventually the Coordinator of the Lower Mississippi Valley Joint Venture partnership. Much of his work experiences have centered on leadership, relationship building, and leveraging technical expertise in landscape assessment, ecosystem modeling, and monitoring for waterfowl and landbirds.
 
-## David Viker, Regional Chief, National Wildlife Refuge System
+## David Viker
+### Regional Chief, National Wildlife Refuge System
 
 {{< figure class="photo-right" src="/images/pages/david-viker.jpg" alt="Portrait shot of a man wearing a blue U.S. Fish and Wildlife Service polo shirt." caption="David Viker. Photo by USFWS." >}}
 
@@ -70,7 +77,8 @@ His areas of greatest professional interest include compatibility and appropriat
 
 David has served as a volunteer youth sports coach for 38 teams, ages 4 to 18, dating back to 1989 in basketball, baseball, softball, and soccer.  His very best times, though, are spent with his best friend and wife of 21 years and their three children doing faith-based volunteering, fishing, canoeing, hiking, camping, hunting, and other outdoor-activities.
 
-## Jackie Parrish, Assistant Regional Director, Budget and Administration
+## Jackie Parrish
+### Assistant Regional Director, Budget and Administration
 
 {{< figure class="photo-right" src="/images/pages/jackie-parrish-bio.jpg" alt="A woman and her two children in front of a forrested mountain." >}}
 
@@ -82,7 +90,10 @@ Jackie spent her childhood in rural Maryland where her family was active in scou
 
 Jackie and her children live in Suwanee, Georgia where they active in their Church and Georgia Christian Dance Theater.  She enjoys running and hiking with her children.
 
-## Jeffrey Fleming, Assistant Regional Director, External Affairs
+## Jeffrey Fleming
+### Assistant Regional Director, External Affairs
+
+{{< figure class="photo-right" src="/images/pages/jeffrey-fleming-bio.jpg" alt="A man with an orange hat on in a forest." >}}
 
 Jeff Fleming serves as Assistant Regional Director for External Affairs in the U.S. Fish and Wildlife Service's Southeast Region.  He joined the Region's leadership team in December 2004.  He joined the Service's Office of Public Affairs at its headquarters in July 2003.
 
@@ -92,13 +103,17 @@ For more than 10 years up until then, he served as press secretary and environme
 
 He is a graduate of the University of Tennessee, Knoxville, and is married with three children.  He lives in Hoschton, Georgia.
 
-## Dr. Kevin Reynolds, DOI Case Manager, Deepwater Horizon NRDAR
+## Dr. Kevin Reynolds
+### DOI Case Manager, Deepwater Horizon NRDAR
+
+{{< figure class="photo-right" src="/images/pages/kevin-reynolds-bio.jpg" alt="A man wearing a ball cap." >}}
 
 Kevin Reynolds leads the Department of the Interior’s Gulf restoration efforts resulting from the Deepwater Horizon oil spill in 2010. He provides leadership, direction, and coordination across the Department for all restoration efforts funded primarily by the Deepwater Horizon Natural Resource Damage Assessment and Restoration, the Gulf Coast Ecosystem Restoration Council and the National Fish and Wildlife Foundation’s Gulf Environmental Benefit Fund.
 
 Kevin earned a B.A. in Neuroscience from Hamilton College, and a Masters and Ph.D. in Environmental Toxicology from Clemson and Texas Tech University, respectively. His first job with the Service was in the Arizona Ecological Services Field Office, and he also worked in Headquarters prior to joining the Southeast Region in 2011. He and his wife Leah live in Johns Creek, Georgia with their three children, Kelly, Nick and Caitlin.
 
-## Leopoldo "Leo" Miranda, Assistant Regional Director, Ecological Services
+## Leopoldo "Leo" Miranda
+### Assistant Regional Director, Ecological Services
 
 {{< figure class="photo-right" src="/images/pages/leo-miranda-bio.jpg" alt="Portrait shot of a man in the woods with a cammo backpack and orange hunting sweatshirt." >}}
 
@@ -106,7 +121,8 @@ Leopoldo (Leo) Miranda is the Assistant Regional Director of Ecological Services
 
 Leo received his Bachelor’s Degree in Marine Biology from the University of Puerto Rico and a Master’s Degree in Zoology from North Carolina State University. He lives in Georgia with his wife Jessica, his son Pablo and four 4-legged family members, named Venus, Bromelia, Tanna and Rex.
 
-## Luis Santiago, Special Agent in Charge, Office of Law Enforcement
+## Luis Santiago
+### Special Agent in Charge, Office of Law Enforcement
 
 {{< figure class="photo-right" src="/images/pages/luis-santiago-bio.jpg" alt="Portrait of a man in a boat" >}}
 
@@ -118,7 +134,8 @@ Regional activities enforcing wildlife laws are conducted through a force of Spe
 
 Luis is a graduate of Advanced Leadership Development Program cohort VI.  He also completed the 2008 Strategic Management of Regulatory and Enforcement Agencies program offered by the JFK School of Government, Executive Education Harvard University.  He is an alumni of the Harvard University, JFK School of Government, Senior Executive Fellows, May 2011.
 
-## Mike Piccirilli, Chief, Wildlife and Sport fish Restoration Program
+## Mike Piccirilli
+### Chief, Wildlife and Sport fish Restoration Program
 
 {{< figure class="photo-right" src="/images/pages/mike-piccirilli.jpg" alt="Fisherman in waders kneeling with a trout." caption="Mike Piccirilli with a golden trout on Slough Creek." >}}
 
