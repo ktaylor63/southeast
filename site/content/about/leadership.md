@@ -12,7 +12,7 @@ hero:
     link: 'https://flic.kr/p/cuCjds'
     caption: 'Southeast Regional Director Cindy Dohner stands between Midwest Regional Director Tom Melius (left), and agency Director Dan Ashe (right). Photo by Tom MacKenzie, USFWS.'
     position: 'top right'
-updated: 'March 6th, 2017'
+updated: 'March 8th, 2017'
 ---
 
 Nationally, the U.S. Fish and Wildlife Service is led by a Director, a team of Assistant Directors and eight Regional Directors. (See our [headquarters organizational chart.](http://www.fws.gov/offices/orgcht.html))
@@ -21,7 +21,7 @@ The conservation actions of the Southeast Region are guided by the Southeast Reg
 
 ## Cindy Dohner, Regional Director
 
-{{< figure class="photo-right" src="/images/pages/cynthia-dohner-bio.jpg" alt="Portrait shot of a woman with light brown hair" caption="Cindy Dohner. Photo by Tom MacKenzie, USFWS." >}}
+{{< figure class="photo-right" src="/images/pages/cynthia-dohner-bio.jpg" alt="Portrait shot of a woman with light brown hair" >}}
 
 Cynthia (Cindy) Dohner was named Southeast Regional Director in October 2009.  She provides vision and leadership for the southeastern United States, the Commonwealth of Puerto Rico, and the U.S. Virgin Islands.  
 
@@ -31,13 +31,21 @@ Before becoming the Regional Director, Cindy served as Deputy Regional Director 
 
 ## Mike Oetker, Deputy Regional Director
 
-{{< figure class="photo-right" src="/images/pages/michael-oetker-bio.jpg" alt="Portrait shot of a man with a goatee wearing a suit and tie" caption="Mike Oetker." >}}
+{{< figure class="photo-right" src="/images/pages/michael-oetker-bio.jpg" alt="Portrait shot of a man with a goatee wearing a suit and tie" >}}
 
 Mike Oetker is the Deputy Regional Director of the U.S. Fish and Wildlife Service’s Southeast Region where he oversees the agency’s operations involving more than 1,300 employees spread out over 10 states and the Caribbean islands.  He has been with the Service for 17 years.  
 
 Before coming to Atlanta, Mike worked in the Southwest Region where he was involved with conflicts over endangered fish and water management.  He also worked on fisheries management issues in the Great Lakes and Mississippi River Basin for the Service’s Midwest Region.  
 
 Mike got his start in natural resource management and policy development as a Knauss Sea Grant Fellow, where he worked for the Committee on Natural Resources in the U.S. House of Representatives.  
+
+## Allan Brown, Assistant Regional Director, Fisheries and Aquatic Conservation
+
+{{< figure class="photo-right" src="/images/pages/allan-brown-bio.jpg" alt="A man in front of industrial tanks holding an enormous fish." >}}
+
+Allan has over thirty years experience with the Service. After graduating from Michigan State University in the spring of 1984, Allan held temporary positions at Senecaville National Fish Hatchery (NFH) Ohio and the National Fishery Center in Lamar, Pennsylvania.  As a permanent employee Allan served as a biological technician and a fisheries biologist before moving to Welaka NFH.  All together Allan spent 20 years at Weklaka NFH as an assistant hatchery manager, hatchery manager, and program supervisor for warmwater hatcheries for the southeast region.  Most recently Allan was selected as the Assistant Regional Director for Fisheries and Aquatic Conservation in the southeast region in September of 2014.
+
+Allan has been married for 34 years with 3 adult children all of whom have married and three granddaughters. Allan and his wife like to travel, go boating, hiking, and keep busy taking care of two dogs.
 
 ## Dr. Bill Uihlein, Assistant Regional Director, Science Applications
 
@@ -62,6 +70,18 @@ His areas of greatest professional interest include compatibility and appropriat
 
 David has served as a volunteer youth sports coach for 38 teams, ages 4 to 18, dating back to 1989 in basketball, baseball, softball, and soccer.  His very best times, though, are spent with his best friend and wife of 21 years and their three children doing faith-based volunteering, fishing, canoeing, hiking, camping, hunting, and other outdoor-activities.
 
+## Jackie Parrish, Assistant Regional Director, Budget and Administration
+
+{{< figure class="photo-right" src="/images/pages/jackie-parrish-bio.jpg" alt="A woman and her two children in front of a forrested mountain." >}}
+
+Jackie Parrish has served since 2003 as the Assistant Regional Director for Budget and Administration for the U.S. Fish and Wildlife Service, Southeast Region.  Jackie provides support to other Regional leaders and their field stations in areas such as, budgeting and finance, contracting, safety, security, general services, human resources, information technology, and engineering.
+
+Jackie began her federal career with the U.S. Navy, serving in a number of field management positions, in areas such as construction, natural resources, health and safety, historic properties, military housing, and business functions, such as contracting, finance, and human resources.  Jackie left the Navy in 1991 and joined the Navy’s civilian workforce in a similar capacity.  In 1993 she was selected for an executive development program that sent her to EPA’s headquarters as the Base Closure Coordinator, followed by a position with DoD working on environmental cleanup of closing bases.  In 1995, she went to Office of Management and Budget, where she worked on issues, such as the cleanup of the nuclear weapons complex and military construction.  She left OMB in 1998 for a position with the Centers for Disease Control and Prevention in Atlanta as an Associate Director for Policy, Evaluation, and Legislation.
+
+Jackie spent her childhood in rural Maryland where her family was active in scouting, camping, fishing, and hunting.  As a young teen her family moved to Florence, South Carolina, where Jackie first realized her passion to help others by volunteering her evenings and weekends tutoring disadvantaged, minority students to help them to pursue their academic and career goals.  After high school, she attended the U.S. Naval Academy in Annapolis, Maryland, graduating in 1985 with a B.S. in Chemistry.
+
+Jackie and her children live in Suwanee, Georgia where they active in their Church and Georgia Christian Dance Theater.  She enjoys running and hiking with her children.
+
 ## Jeffrey Fleming, Assistant Regional Director, External Affairs
 
 Jeff Fleming serves as Assistant Regional Director for External Affairs in the U.S. Fish and Wildlife Service's Southeast Region.  He joined the Region's leadership team in December 2004.  He joined the Service's Office of Public Affairs at its headquarters in July 2003.
@@ -72,9 +92,15 @@ For more than 10 years up until then, he served as press secretary and environme
 
 He is a graduate of the University of Tennessee, Knoxville, and is married with three children.  He lives in Hoschton, Georgia.
 
+## Dr. Kevin Reynolds, DOI Case Manager, Deepwater Horizon NRDAR
+
+Kevin Reynolds leads the Department of the Interior’s Gulf restoration efforts resulting from the Deepwater Horizon oil spill in 2010. He provides leadership, direction, and coordination across the Department for all restoration efforts funded primarily by the Deepwater Horizon Natural Resource Damage Assessment and Restoration, the Gulf Coast Ecosystem Restoration Council and the National Fish and Wildlife Foundation’s Gulf Environmental Benefit Fund.
+
+Kevin earned a B.A. in Neuroscience from Hamilton College, and a Masters and Ph.D. in Environmental Toxicology from Clemson and Texas Tech University, respectively. His first job with the Service was in the Arizona Ecological Services Field Office, and he also worked in Headquarters prior to joining the Southeast Region in 2011. He and his wife Leah live in Johns Creek, Georgia with their three children, Kelly, Nick and Caitlin.
+
 ## Leopoldo "Leo" Miranda, Assistant Regional Director, Ecological Services
 
-{{< figure class="photo-right" src="/images/pages/leo-miranda-bio.jpg" alt="Portrait shot of a man in the woods with a cammo backpack and orange hunting sweatshirt." caption="Leo Miranda." >}}
+{{< figure class="photo-right" src="/images/pages/leo-miranda-bio.jpg" alt="Portrait shot of a man in the woods with a cammo backpack and orange hunting sweatshirt." >}}
 
 Leopoldo (Leo) Miranda is the Assistant Regional Director of Ecological Services for the U.S. Fish and Wildlife Service-Southeast Region. Prior to his current position, he has worked as a marine biologist in Puerto Rico, a private lands program coordinator in Washington D.C., and Supervisor of the Chesapeake Bay Office in Annapolis, Maryland. Leo has received multiple recognitions including a Service to America Medal Finalist for his innovative approaches to developing conservation partnerships. He is an avid hunter and fisherman, loving the outdoors and habitat management.
 
@@ -82,7 +108,9 @@ Leo received his Bachelor’s Degree in Marine Biology from the University of Pu
 
 ## Luis Santiago, Special Agent in Charge, Office of Law Enforcement
 
-As a 29-year veteran with the Office of Law Enforcement, Luis has served in various positions, including: Wildlife Inspector 1986-1995; Special Agent 1995-2001; Senior Special Agent (Headquarters Office) 2001-2004; Resident Agent in Charge (first-line supervisor) 2004-2007; and Assistant Special Agent in Charge (regional management) 2007-20011.
+{{< figure class="photo-right" src="/images/pages/luis-santiago-bio.jpg" alt="Portrait of a man in a boat" >}}
+
+Luis has served in various position during his 30-plus years of service with the Office of Law Enforcement including: Wildlife Inspector 1986-1995; Special Agent 1995-2001; Senior Special Agent (Headquarters Office) 2001-2004; Resident Agent in Charge (first-line supervisor) 2004-2007; and Assistant Special Agent in Charge (regional management) 2007-20011.
 
 As the Special Agent in Charge (SAC) for the Southeast Region, Luis has line management authority and exercises responsibility over the region’s law enforcement program. Regional activities in enforcing the fish and wildlife laws, involves: investigation, surveillance, conducting raids, interviewing witnesses, interrogating suspects, seizures of contraband, equipment and vehicles, securing and serving search warrants, making arrests, developing evidence for orderly presentation to the United States Attorney and other legal officers, testifying in court, preparing written reports, and conducting undercover operations.
 
