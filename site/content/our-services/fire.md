@@ -10,7 +10,7 @@ tags:
     - 'Prescribed Fire'
     - 'Land Management'
     - 'National Wildlife Refuges'
-updated: 'February 6th, 2017'
+updated: 'March 10th, 2017'
 ---
 
 For thousands of years, fire has influenced the southeastern landscape. Today, a broad range of plants, animals and their habitats have developed a harmonious relationship with fire.
