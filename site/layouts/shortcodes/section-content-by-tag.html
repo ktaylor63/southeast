@@ -1,0 +1,10 @@
+{{ $tag := .Get "tag" }}
+{{ $tag := title $tag }}
+{{ $section := .Get "section" }}
+{{ $section := lower $section }}
+
+{{ range where .Page.Site.Pages "Section" $section }}
+  {{ if in .Params.tags $tag }}
+    {{ .Render "summary" }}
+  {{ end }}
+{{ end }}
