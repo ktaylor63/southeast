@@ -6,7 +6,9 @@
     {{ end }}
 
     p {{ if .Params.author }}By {{ .Params.author }}{{ end }}
-      span.article-date {{ if .Date }}{{ .Date.Format "January 2, 2006" }}{{ end }}
+      {{ if not .Date.IsZero }}
+      span.article-date {{ .Date.Format "January 2, 2006" }}
+      {{ end }}
 
     {{ .Content }}
 

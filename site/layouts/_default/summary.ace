@@ -7,7 +7,9 @@ section class="card"
     h3
       a href="{{ .Permalink }}" {{ .Title }}
     p
+      {{ if not .Date.IsZero }}
       span.card-text-date {{ .Date.Format "January 2, 2006" }}
+      {{ end }}
       {{ if .Description }}{{ .Description }}{{ else }}{{ .Summary }}{{ end }}
       span &nbsp;
         a href="{{ .Permalink }}" {{ if eq .Section "news"}}Read the full story...{{ else if eq .Section "wildlife" }}Visit the species profile...{{ else if eq .Section "article" }}Read the full article...{{ else }}Learn more...{{ end }}

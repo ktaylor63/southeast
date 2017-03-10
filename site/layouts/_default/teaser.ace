@@ -2,7 +2,7 @@ li class="teaser teaser-{{ .Type }}"
   .card-text
     h3
       a href={{ .Permalink }} {{ .Title }}
-    {{ if .Data.Format }}
+    {{ if not .Date.IsZero }}
     p {{ .Date.Format "January 2, 2006" }}
     {{ end }}
     p {{ .Summary }}
