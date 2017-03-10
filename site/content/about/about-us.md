@@ -15,18 +15,18 @@ hero:
     alt: 'Two large, white, Whooping cranes flying in for a landing on a small pond.'
     link: 'https://flic.kr/p/bryvJt'
     caption: 'Two juvenile Whooping cranes released from their holding pen fly around on Wheeler National Wildlife Refuge, Decatur, AL. Photo by Bill Gates, USFWS.'
-updated: 'February 15th, 2017'
+updated: 'March 10th, 2017'
 ---
 
 The U.S. Fish and Wildlife Service (also known as the Service) is a bureau within the United States [Department of the Interior](https://www.doi.gov), America’s principal conservation agency within the [Executive Branch of U.S. government](https://www.whitehouse.gov/1600/executive-branch).
 
-Our mission is,
+## Our mission
 
 > Working with others, to conserve, protect and enhance fish, wildlife, plants and their habitats for the continuing benefit of the American people.
 
-<!-- Our vision
+## Our vision
 
-> Together, we will connect lands and waters to sustain fish, wildlife and plants by being visionary leaders, bold innovators and trusted partners, working with and for people. -->
+> Together, we will connect lands and waters to sustain fish, wildlife and plants by being visionary leaders, bold innovators and trusted partners, working with and for people.
 
 {{< figure class="photo-center" src="/images/pages/great-blue-heron-pelican-island.jpg" alt="A grayish blue bird with a long curvy neck extends from the vegetation on the bank of a stream." link="https://flic.kr/p/bEruGi" caption="A great blue heron at Pelican Island National Wildlife Refuge in Florida. Photo by Keenan Adams, USFWS." >}}
 
