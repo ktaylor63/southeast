@@ -17,7 +17,6 @@
 
   const content = document.getElementById('content');
   const baseUrl = document.body.getAttribute('data-root');
-  const anchors = Array.from(document.querySelectorAll('a'));
   const contactLinks = Array.from(document.querySelectorAll('.toggle-contact'));
   const hideScrollnav = document.querySelector('.hide-scrollnav');
   const sectionNav = document.querySelector('.section-nav');
@@ -97,11 +96,12 @@
     });
 
     document.querySelector('.glossary-trigger').addEventListener('click', glossary.toggle);
-  });
+    const anchors = Array.from(document.querySelectorAll('a'));
 
-  // Open all links that go somewhere other than our site in a new tab
-  anchors.forEach(anchor => {
-    if ( anchor.href.indexOf(baseUrl) === -1 ) anchor.setAttribute('target', '_blank');
+    // Open all links that go somewhere other than our site in a new tab
+    anchors.forEach(anchor => {
+      if ( anchor.href.indexOf(baseUrl) === -1 ) anchor.setAttribute('target', '_blank');
+    });
   });
 
   contactLinks.forEach(link => {
