@@ -6,9 +6,10 @@ hero:
     alt: 'Two students wearing waders in a streem inspect a seine.'
     link: 'https://flic.kr/p/g5pLcm'
     caption: 'Western North Carolina’s Pigeon River is home to the endangered Appalachian elktoe mussel. Photo by Gary Peeples.'
+    position: 'top right'
 tags:
     - Recovery
-updated: 'October 20th, 2016'
+updated: 'March 13th, 2017'
 ---
 
 The U.S. Fish and Wildlife Service (Service) today announced recipients of the 2011 Recovery Champion award, which honors Service employees and partners for outstanding efforts to conserve and protect endangered and threatened species of fish, wildlife, and plants. A total of 56 teams and nine individuals were honored as Recovery Champions for work to conserve species ranging from the polar bear in Alaska to the Appalachian elktoe mussel and spotfin chub in North Carolina.
