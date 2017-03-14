@@ -1,12 +1,21 @@
 ---
 title: 'Inventory and Monitoring'
+nav: 'Inventory and Monitoring'
+hero:
+    name: pigeon-river.jpg
+    alt: 'Two students wearing waders in a streem inspect a seine.'
+    link: 'https://flic.kr/p/g5pLcm'
+    caption: 'Western North Carolina’s Pigeon River is home to the endangered Appalachian elktoe mussel. Photo by Gary Peeples.'
+    position: 'top right'
 tags:
     - 'Inventory and Monitoring'
     - 'National Wildlife Refuge System'
-updated: 'March 3rd, 2017'
+updated: 'March 13th, 2017'
 ---
 
 The Regional Inventory and Monitoring (I&M) branch is designed to address the [National Wildlife Refuge System](https://fws.gov/refuges) (NWRS) critical information needs and to evaluate the effectiveness of conservation strategies on [national wildlife refuges across the Southeast](https://usfws.github.io/southeast-mega-map/?layers=refuges&layers=Refuge+boundaries). I&M assesses the status of NWRS lands, waters, and biota and provides monitoring support, expertise, and advice to refuges and partners in the face of accelerating climate change and threats from other environmental stressors. The primary purpose of the I&M is to provide information support management decisions at multiple geographic scales.
+
+[Learn more about the national I&M program](https://www.fws.gov/Refuges/NaturalResourcePC/IandM/).
 
 ## Status and Needs Assessment
 
@@ -29,6 +38,10 @@ Water plays an incredibly important role throughout the National Wildlife Refuge
  - The WRIA process also provides a written assessment including station-specific information that will guide water resource management for that individual refuge.
 
 [Search Water Resource Inventory and Assessments from refuges in the Southeast](/reading-room?q=Water+Resource+Inventory+and+Assessment) or [download the WIRA fact sheet](/pdf/fact-sheets/water-resources-inventory-and-assessment.pdf).
+
+## Data Management
+
+Regional I&M branch staff are developing, testing, and using a number of data management systems to help the NWRS accomplish mission goals and inform management decisions at all levels. Learn more about [data management in the Southeast](/data-management), or check out the complete list of [conservation tools](/conservation-tools).
 
 ## Contact
 
