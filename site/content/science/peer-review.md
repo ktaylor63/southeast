@@ -15,7 +15,7 @@ hero:
     link: 'https://flic.kr/p/MpqNtA'
     caption: 'Each year local watershed group Haywood Waterways gets every 8th-grade student in North Carolina’s Haywood County outside exploring the Pigeon River. Photo by Gary Peeples, USFWS.'
     position: 'bottom left'
-updated: 'January 31st, 2017'
+updated: 'March 14th, 2017'
 ---
 
 The U.S. Fish and Wildlife Service has always consulted experts to ensure that our decisions are based on sound science, through this peer review process we follow the guidelines for Federal agencies spelled out in the Office of Management and Budget (OMB) *[Final Information Quality Bulletin for Peer Review](http://www.whitehouse.gov/omb/memoranda/fy2005/m05-03.pdf)* released December 16, 2004.
@@ -24,13 +24,13 @@ Part of the peer review process is to provide information on the Web about how e
 
 ## Peer Review Documents
 
-We have identified the following documents as meeting the OMB criteria of peer review for influential scientific information.
+We have identified the following documents as meeting the OMB criteria of peer review for influential scientific information. The regulations.gov links below provide all of the documents associated with the docket including proposed rules, supporting material, public comments, final rule and a regulatory timeline.
 
 <label for="review-search">Search:</label>
 <div class="search-group">
-  <input type="search" class="peer-review-search" placeholder="Filter species eg: &ldquo;Laurel dace&rdquo;" id="review-search">
+  <input type="search" class="peer-review-search" placeholder="Filter documents e.g.: &ldquo;Laurel dace&rdquo;, &ldquo;Listing Rule&rdquo;, &ldquo;2016&rdquo;, etc." id="review-search">
   <svg class="search-icon">
     <use xlink:href="#search"></use>
   </svg>
 </div>
-<ul class="peer-review-list"></ul>
+<ul class="peer-review-list card-list"></ul>

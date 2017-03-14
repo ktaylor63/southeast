@@ -5,31 +5,33 @@
   "main": "index.js",
   "browserify": {
     "transform": [
-      "jadeify",
-      "brfs"
+      [
+        "babelify",
+        {
+          "presets": [
+            "es2015"
+          ]
+        }
+      ]
     ]
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "csv2json": "csv2json peer-reviews.csv > peer-reviews.js",
     "browserify": "browserify index.js | uglifyjs -mc > ../../../dist/js/peer-reviews.js",
     "watchify": "watchify index.js -o ../../../dist/js/peer-reviews.js -dv",
-    "build": "npm run csv2json && npm run browserify",
-    "start": "npm run csv2json && npm run watchify"
+    "build": "npm run browserify",
+    "start": "npm run watchify"
   },
   "keywords": [],
   "author": "Roy Hewitt <Roy_Hewitt@fws.gov>",
   "license": "SAX-PD",
   "devDependencies": {
-    "brfs": "^1.4.3",
+    "babel-preset-es2015": "^6.24.0",
+    "babelify": "^7.3.0",
     "browserify": "^13.1.1",
-    "csv2json": "^1.1.0",
-    "jade": "^1.11.0",
-    "jadeify": "^4.6.0",
     "uglifyjs": "^2.4.10",
     "watchify": "^3.7.0"
   },
   "dependencies": {
-    "lodash.filter": "^4.6.0"
+    "xhr": "^2.4.0"
   }
 }
