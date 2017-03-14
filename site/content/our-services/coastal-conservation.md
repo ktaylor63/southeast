@@ -12,12 +12,12 @@ hero:
     alt: 'A biologist holding a tiny loggerhead sea turtle with a USFWS biologist in uniform in the background.'
     link: 'https://flic.kr/p/cECWef'
     caption: 'A loggerhead sea turtle hatchling at Cape Romain National Wildlife Refuge. Photo by Keith Fuller for USFWS.'
-updated: 'February 10th, 2017'
+updated: 'March 14th, 2017'
 ---
 
-From the Atlantic coast of North Carolina, south to Florida, west across the Gulf of Mexico to Louisiana, and along the coastlines of Puerto Rico and the US Virgin Islands, the coastal area in the Southeast Region covers more than **26,000 miles** of tidal shoreline and nearshore habitats, and more than **86 million acres** of diverse coastal habitat and natural resources. This area accounts for the largest, most diverse and most productive coastal area in the country (Restore America’s Estuaries, 2002).
+From the Atlantic coast of North Carolina, south to Florida, west across the Gulf of Mexico to Louisiana, and along the coastlines of Puerto Rico and the US Virgin Islands, the coastal area in the Southeast covers more than **26,000 miles** of tidal shoreline and nearshore habitats, and more than **86 million acres** of diverse coastal habitat and natural resources. This area accounts for the largest, most diverse and most productive coastal area in the country.
 
-However, our southeastern coasts need our attention. For example, the U.S. Geological Survey estimated that Louisiana’s coastline has been losing wetlands at a rate of 16.6 square miles a year for the past 25 years, **equal to the loss of a football field of wetlands every hour**. In addition,the U.S. Global Change Research Program predicts sea level rise and the likely increase in hurricane intensity and associated storm surge will be among the most serious consequences of climate change in the southeast, directly impacting our coasts.
+However, our southeastern coasts need our attention. The U.S. Geological Survey estimated that Louisiana’s coastline has been losing wetlands at a rate of 16.6 square miles a year for the past 25 years, **equal to the loss of a football field of wetlands every hour**. In addition,the U.S. Global Change Research Program predicts sea level rise and the likely increase in hurricane intensity and associated storm surge will be among the most serious consequences of climate change in the Southeast, directly impacting our coasts.
 
 {{< figure class="photo-center" src="/images/pages/piping-plover-on-beach.jpg" alt="A small white bird with gray back standing on a debris strewn beach." caption="The piping plover, a species listed as threatened, calls our southeastern coastlines home. Photo by USFWS." link="https://flic.kr/p/9U6URh">}}
 
@@ -25,11 +25,12 @@ However, our southeastern coasts need our attention. For example, the U.S. Geolo
 
 ### Habitat Loss Caused by Human Development
 
-Human development of our coasts represents the largest threat to the continued health coastal resources in the Southeast Region. In 2010, over half of the human population in the southeastern United States lived within 50 miles of the coast, impacting coastal wetlands and beaches through development, disturbance, and degradation of habitat (Woods and Poole Economics, Inc. 2010).
+Human development of our coasts represents the largest threat to the continued health coastal resources in the Southeast Region. In 2010, over half of the human population in the southeastern United States lived within 50 miles of the coast, impacting coastal wetlands and beaches through development, disturbance, and degradation of habitat.
 
-The Gulf of Mexico and southern Atlantic coasts continue to represent **the fastest growing coastal region in the nation**, with a 58% increase between the years 1980 and 2003. The Southeast has increasingly become a leading destination for retirees and job-seekers. Between the years 1995 and 2000, the Census Bureau reported that the highest levels of migration were to states that fall within the Southeast and the Gulf of Mexico region, particularly Florida, Georgia, and North Carolina (NOAA, Sept 2004).
+The Gulf of Mexico and southern Atlantic coasts continue to represent **the fastest growing coastal region in the nation**, with a 58% increase in population between 1980 and 2003. The Southeast has increasingly become a leading destination for retirees and job-seekers. Between 1995 and 2000, the Census Bureau reported that the highest levels of migration were to states in the Southeast and the Gulf of Mexico region, particularly Florida, Georgia, and North Carolina.
 
 Southeastern coastal upland habitats are also largely in decline. A considerable number of federally threatened, endangered, and at-risk species are associated with these ecosystems, as well as state listed species. To-date the southeast has seen:
+
  - A 99% loss of longleaf pine habitat,
  - A 98% loss of pine rockland habitat,
  - A 60-80% loss of tropical hardwood hammocks, and
@@ -41,7 +42,7 @@ Southeastern coastal upland habitats are also largely in decline. A considerable
 
 The southeastern coastline is experiencing large impacts from documented sea level rise. Along the mid to south Atlantic and Gulf coasts, the sea level has risen five to six inches more than the global average over the past 100 years.
 
-Coastal wetland ecosystems are especially vulnerable, and the effects are particularly apparent in North Carolina, Louisiana and the Florida Everglades. Since the 1970’s the Southeast Region has experienced a loss of over 55% of coastal wetlands. Despite the national trend of no-net-loss of wetlands in the early 2000’s, this region continues to show wetland loss, although the rate of loss is decreasing.
+Coastal wetland ecosystems are especially vulnerable, and the effects are particularly apparent in North Carolina, Louisiana and the Florida Everglades. Since the 1970’s, the Southeast Region has experienced a loss of over 55% of coastal wetlands. Despite the national trend of no-net-loss of wetlands in the early 2000’s, this region continues to show wetland loss, although the rate of loss is decreasing.
 
 ### Erosion
 Some of the most economically important vulnerable areas are recreational resorts on the coastal barriers of the Atlantic and Gulf coasts, where many ocean shores are currently eroding at a rate of **1-4 feet per year**.
@@ -56,14 +57,14 @@ Enhancing or restoring lost habitat and protecting existing habitat from human d
 
 ## Our Services
 
-The Southeast Region Coastal Program supports voluntary, proactive and cooperative projects in these great coastal areas, focusing efforts to restore and protect habitat for federal trust species.
+The Southeast Region Coastal Program supports voluntary, proactive and cooperative projects in these areas, focusing efforts to restore and protect habitat for federal trust species.
 
 We provide technical expertise and financial assistance to:
 
- - Private landowners and citizens,
- - Native American Tribes,
- - Non-profit organizations,
- - Municipal and local governments, and
+ - Private landowners and citizens;
+ - Native American tribes;
+ - Non-profit organizations;
+ - Municipal and local governments;
  - Business and industry.
 
 {{< figure class="photo-center" src="/images/pages/employee-pensicola-beach.jpg" alt="A Service employee in uniform on the beach carrying a backpack and bionoculars." caption="A Service employee at Pensacola Beach. Photo by Tom MacKenzie, USFWS." link="https://flic.kr/p/8D95jP">}}
@@ -71,16 +72,16 @@ We provide technical expertise and financial assistance to:
 ## Types of Projects
 Our projects are as diverse as the habitats that we restore and protect. Some activities include:
 
- - Coastal wetland restoration
- - Coastal upland restoration (maritime forest, longleaf pine, grasslands)
- - Dune restoration
- - Invasive species control
- - Blue carbon
- - Living shoreline construction (such as oyster reefs)
- - Coastal river/aquatic instream
- - Nearshore habitat restoration (coral reefs, seagrass)
- - Land protection
- - Partnerships with public and private lands
+ - Coastal wetland restoration;
+ - Coastal upland restoration (maritime forest, longleaf pine, grasslands);
+ - Dune restoration;
+ - Invasive species control;
+ - Blue carbon;
+ - Living shoreline construction (such as oyster reefs);
+ - Coastal river/aquatic instream;
+ - Nearshore habitat restoration (coral reefs, seagrass);
+ - Land protection;
+ - Partnerships with public and private lands.
 
 ## Work With Us
 
@@ -95,7 +96,7 @@ Atlanta, GA 30345
 (404) 679-7122  
 [cynthia_bohn@fws.gov](mailto:cynthia_bohn@fws.gov?subject=Coastal+Program)  
 
-### Alabama, Mississippi and Louisiana
+### Alabama
 
 Patric Harper, Northern Gulf Program Coordinator  
 U.S. Fish and Wildlife Service, Grand Bay Coastal Resources Center  
@@ -103,7 +104,7 @@ Moss Point, MS 39563
 (228) 475-0765, extension 105  
 [Patric_Harper@fws.gov](mailto:Patric_Harper@fws.gov?subject=Coastal+Program)  
 
-### Florida
+### Florida, Georgia
 
 **Panhandle**: Melody Ray-Culp, Panhandle Program Coordinator  
 U.S. Fish and Wildlife Service, Panama City Ecological Services Field Office  
@@ -112,19 +113,44 @@ Panama City, FL 34205
 (850) 769-0552 extension 232  
 [Melody_Ray-Culp@fws.gov](mailto:Melody_Ray-culp@fws.gov?subject=Coastal+Program)  
 
-**North Florida**:  Tampa Bay Program Coordinator  
+**Northeast Florida and Georgia**: Gianfranco Basili, Northeast Florida Program  
 U.S. Fish and Wildlife Service, North Florida Ecological Services Field Office  
 7915 Baymeadows Way, Suite 200  
 Jacksonville, FL 32256-7517  
 (904) 731-3079  
-[Nicole_Adimey@fws.gov](mailto:Nicole_Adimey@fws.gov?subject=Coastal+Program)  
+[gianfranco_basili@fws.gov](mailto:gianfranco_basili@fws.gov?subject=Coastal+Program)  
 
-**South Florida**: Patrick Pitts, South Florida/Everglades Coordinator  
-U.S. Fish and Wildlife Service, South Florida Ecological Services Field Office  
-1339 20th Street  
-Vero Beach, FL 32960  
-(772) 469-4250  
-[Patrick_Pitts@fws.gov](mailto:Patrick_Pitts@fws.gov?subject=Coastal+Program)  
+**Tampa Bay**:  Katie Conrad, Tampa Bay Program Coordinator  
+U.S. Fish and Wildlife Service, North Florida Ecological Services Field Office  
+7915 Baymeadows Way, Suite 200  
+Jacksonville, FL 32256-7517  
+(904) 731-3191  
+[katie_conrad@fws.gov](mailto:katie_conrad@fws.gov?subject=Coastal+Program)  
+
+**South Florida**: Kevin Kalasz, South Florida/Everglades Coordinator  
+U.S. Fish and Wildlife Service, Key Deer National Wildlife Refuge  
+28950 Watson Boulevard  
+Big Pine Key, Florida 33043-0687
+(772) 205-7410  
+[kevin_kalasz@fws.gov](mailto:kevin_kalasz@fws.gov?subject=Coastal+Program)  
+
+## Louisiana
+
+Ronnie Paille  
+Lafayette Ecological Services Office  
+646 Cajundome Blvd., Suite 400  
+Lafayette LA 70506  
+(337) 291-3117  
+[ronald_paille@fws.gov](ronald_paille@fws.gov)  
+
+### Mississippi
+
+Paul Necaise  
+U.S. Fish and Wildlife Service, Mississippi Ecological Services Office  
+6578 Dogwood View Parkway  
+Jackson MS 39213  
+(228) 493-6631  
+[Paul_Necaise@fws.gov](mailto:Paul_Necaise@fws.gov?subject=Coastal+Program)  
 
 ### North Carolina
 
@@ -135,7 +161,7 @@ Raleigh, NC 27636
 (919) 856 4520 extension 22  
 [Mike_Wicker@fws.gov](mailto:Mike_Wicker@fws.gov?subject=Coastal+Program)  
 
-### Puerto Rico and U.S. Virgin Islands
+### Puerto Rico, U.S. Virgin Islands
 
 Ivan Llerandi-Roman, Caribbean Program Coordinator  
 U.S. Fish and Wildlife Service, Caribbean Ecological Services Field Office  

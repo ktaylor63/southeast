@@ -1,5 +1,5 @@
 ---
-title: 'Dam Removals'
+title: 'The Purpose of Dam Removals'
 description: 'The Fish and Wildlife Service is working with partners to help remove old/outdated dams, large and small, to reconnect wildlife passages and restore habitat.'
 nav: 'Dam Removal'
 aliases:
@@ -12,7 +12,7 @@ hero:
     position: 'center right'
 tags:
     - 'Dam Removal'
-updated: 'February 6th, 2017'
+updated: 'March 14th, 2017'
 ---
 
 Consider the roads you regularly drive to complete your day-to-day tasks --what if they were permanently blocked so that you could not get to important places? Dams that are located in streams and rivers throughout the country have similarly served as roadblocks for wildlife that needs to move through connected waters for survival and reproduction.
@@ -23,7 +23,7 @@ Dams have been used extensively throughout the United States for a variety of pu
 
 In some cases where the costs of maintaining a dam outweigh its benefits, a decision is made to remove it. Dam removal is a planning process that can often take several years and be expensive. However, the safety and environmental benefits are priceless. In most instances, rivers heal quickly, and it’s hard to realize that a dam once blocked the river.
 
-The FWS is working with landowners and other partners to help remove (decommission) dams, large and small, to reconnect wildlife passages and restore habitat. Decommissioning provides an opportunity to restore a river’s health and return it to its natural, free-flowing state.
+The U.S. Fish and Wildlife Service is working with landowners and other partners to help remove (decommission) dams, large and small, to reconnect wildlife passages and restore habitat. Decommissioning provides an opportunity to restore a river’s health and return it to its natural, free-flowing state.
 
 ## Other Resources
 
