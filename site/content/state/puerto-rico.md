@@ -1,5 +1,5 @@
 ---
-title: 'Puerto Rico'
+title: 'Conservation in Puerto Rico'
 abbreviation: PR
 url: /puerto-rico
 tags:
@@ -9,7 +9,7 @@ hero:
     alt: 'A bright green parrot with red markings on its face and an open beak.'
     link: 'https://flic.kr/p/9CZN6H'
     caption: 'Puerto Rican parrot. Photo by Tom MacKenzie, USFWS.'
-updated: 'November 8th, 2016'
+updated: 'March 15th, 2017'
 ---
 
 ## Refuges and Offices
@@ -17,3 +17,9 @@ updated: 'November 8th, 2016'
 
 ## Recent News
 {{< news tag="Puerto Rico" number="5" type="li" >}}
+
+## Recent Articles
+{{< section-content-by-tag tag="Puerto Rico" section="articles" >}}
+
+## Species in Puerto Rico
+{{< section-content-by-tag tag="Puerto Rico" section="wildlife" >}}

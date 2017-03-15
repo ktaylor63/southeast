@@ -1,5 +1,5 @@
 ---
-title: Arkansas
+title: 'Conservation in Arkansas'
 abbreviation: AR
 url: /arkansas
 hero:
@@ -10,13 +10,25 @@ hero:
     position: top
 tags:
     - Arkansas
-updated: 'November 8th, 2016'
+updated: 'March 15th, 2017'
 ---
 
 ## The Natural State
+
+Home to mountains, rivers, lakes, caves and forests, Arkansas is renowned for its allure. Animals and plants alike flourish in this habitat, with more than 70 species of trees found in the forests. Today, only 20-25% of these ecologically important habitats remain.
+
+Fortunately, a patchwork quilt of bottomland hardwood forests are forever protected at Cache River, Wapanocca and Dale Bumpers White River National Wildlife Refuges. These places not only teem with wildlife, they reduce the impact of the Mississippi River system’s seasonal floods to downstream communities by providing areas to store floodwater. Bottomland hardwoods also serve as excellent habitat for migrating birds, like the prothonotary warbler, and provide year-round sources of food like berries, nuts and seeds. These hardwoods are also one of the last of their kind in the Mississippi Delta region, providing visitors with a glimpse into the past.
+
+Locations throughout the state are crucial for ducks and other migrating waterfowl seeking food and rest. In fact, the most important location in the world for wintering mallard ducks is Arkansas’ Cache River National Wildlife Refuge. Recognized as a Wetland of International Importance, the 67,000-plus-acre refuge plays a vital role in supporting healthy waterfowl, wading and shorebird populations. The refuge also provides recreational opportunities including fishing, boating, hiking trails, wildlife observation decks and seasonal hunts.
 
 ## Refuges and Offices
 <iframe src="https://usfws.github.io/southeast-mega-map/?state=AR&scroll=false" class="state-map"></iframe>
 
 ## Recent News
 {{< news tag="Arkansas" number="5" type="li" >}}
+
+## Recent Articles
+{{< section-content-by-tag tag="Arkansas" section="articles" >}}
+
+## Species in Arkansas
+{{< section-content-by-tag tag="Arkansas" section="wildlife" >}}

@@ -1,5 +1,5 @@
 ---
-title: Mississippi
+title: 'Conservation in Mississippi'
 abbreviation: MS
 url: /mississippi
 tags:
@@ -10,7 +10,7 @@ hero:
     link: 'https://flic.kr/p/9JMXaY'
     caption: 'Grand Bay National Wildlife Refuge. Photo by Tom Carlisle.'
     position: bottom
-updated: 'November 8th, 2016'
+updated: 'March 15th, 2017'
 ---
 
 ## Refuges and Offices
@@ -18,3 +18,9 @@ updated: 'November 8th, 2016'
 
 ## Recent News
 {{< news tag="Mississippi" number="5" type="li" >}}
+
+## Recent Articles
+{{< section-content-by-tag tag="Mississippi" section="articles" >}}
+
+## Species in Mississippi
+{{< section-content-by-tag tag="Mississippi" section="wildlife" >}}

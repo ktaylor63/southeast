@@ -1,5 +1,5 @@
 ---
-title: Tennessee
+title: 'Conservation in Tennessee'
 abbreviation: TN
 url: /tennessee
 tags:
@@ -9,7 +9,7 @@ hero:
     alt: 'A forested mountain landscape with fluffy clouds.'
     link: 'https://flic.kr/p/Nhvu9L'
     caption: 'Great Smoky Mountains, Tennessee. Photo by <a href=\"https://www.flickr.com/photos/malonejc77/\" target=\"_blank\">John Malone</a>, <a href=\"https://creativecommons.org/licenses/by-nc-nd/2.0/\" target=\"_blank\">CC BY-NC-ND 2.0</a>.'
-updated: 'November 8th, 2016'
+updated: 'March 15th, 2017'
 ---
 
 ## Refuges and Offices
@@ -17,3 +17,9 @@ updated: 'November 8th, 2016'
 
 ## Recent News
 {{< news tag="Tennessee" number="5" type="li" >}}
+
+## Recent Articles
+{{< section-content-by-tag tag="Tennessee" section="articles" >}}
+
+## Species in Tennessee
+{{< section-content-by-tag tag="Tennessee" section="wildlife" >}}
