@@ -9,13 +9,13 @@ const baseUrl = document.body.getAttribute('data-root');
 
 let documents;
 
-
 const index = lunr(function() {
   this.field('name', { boost: 10 });
   this.field('office');
   this.field('type', { boost: 5 });
   this.field('url');
   this.field('year');
+  this.field('programs', { boost: 3 });
   this.ref('id');
 });
 
@@ -63,7 +63,7 @@ const render = (docs) => {
   types.forEach(type => {
     const filtered = docs
       .filter(doc => type === doc.type)
-      .sort( (a, b) => a.office > b.office)
+      .sort( (a, b) => a.office < b.office)
       .sort( (a, b) => parseInt(a.year) - parseInt(b.year))
       .reverse();
     output.insertAdjacentHTML('beforeend', template({ type, documents: filtered }));
@@ -78,7 +78,8 @@ const seedIndex = (docs) => {
       office: doc.office,
       type: doc.type,
       year: doc.year,
-      url: doc.url
+      url: doc.url,
+      programs: doc.programs
     });
   });
 }
