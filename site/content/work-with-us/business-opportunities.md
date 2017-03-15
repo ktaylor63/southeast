@@ -12,7 +12,7 @@ hero:
     link: 'https://flic.kr/p/eaHBuK'
     caption: 'Signing a contract. Creative Commons by NC-ND 2.0 licensed photo by Jane Truter.'
     alt: 'A close-up photograph of a hand holding a pen over paper'
-updated: 'January 27th, 2017'
+updated: 'March 14th, 2017'
 ---
 
 Thank you for your interest in doing business with the U.S. Fish and Wildlife Service, Southeast Region. We oversee contracting opportunities that provide needed services within the states of Alabama, Arkansas, Florida, Georgia, Kentucky, Louisiana, Mississippi, North Carolina, South Carolina, Tennessee, Puerto Rico and the U.S. Virgin Islands.
@@ -20,7 +20,7 @@ Thank you for your interest in doing business with the U.S. Fish and Wildlife Se
 ## Types of Opportunities
 
 ### Construction
-- Maintenance and renovation of buildings, roads, water supply systems, electrical systems, etc.
+- Maintenance and renovation of buildings, roads, water-supply systems, electrical systems, etc.
 - Construction of major fish hatchery facilities
 - Construction of major wildlife refuge facilities
 - Construction of bridges
@@ -55,7 +55,7 @@ Thank you for your interest in doing business with the U.S. Fish and Wildlife Se
 - Effects of energy production on habitats
 
 ### Supplies and Equipment
-- Audio visual supplies
+- Audiovisual supplies
 - Cartographic supplies
 - Hatchery/refuge supplies
 - Publications
@@ -63,7 +63,7 @@ Thank you for your interest in doing business with the U.S. Fish and Wildlife Se
 - ADP equipment
 
 ## How to Get Started
-The following tips should be remembered when selling to the Government. Additional information for small businesses is [available on our national website](http://www.fws.gov/cfm/Small%20Business/BusinessWith.html).
+The following tips should be remembered when selling to the government. Additional information for small businesses is [available on our national website](http://www.fws.gov/cfm/Small%20Business/BusinessWith.html).
 
 1. Get to know the U.S. Fish and Wildlife Service.
 2. Obtain available information on past awards, quantities, costs and awarders.
@@ -73,7 +73,7 @@ The following tips should be remembered when selling to the Government. Addition
 6. Complete our [Bidder Registration Form](https://drive.google.com/open?id=0B47JX4r1gw3fY0JhV2E2S3JPY2M).
 
 ### What is the System for Award Management?
-The System for Award Management (SAM) is an official U.S. Government central database that contains a vendor’s business and banking information. Registration streamlines the issuing of contracts and payments from all Federal agencies to their vendors, and is required of contractors doing business with the government.
+The System for Award Management (SAM) is an official U.S. Government central database that contains a vendor’s business and banking information. Registration streamlines the issuing of contracts and payments from all federal agencies to their vendors, and is required of contractors doing business with the government.
 
 ## For More Information
 
