@@ -1,6 +1,6 @@
 ---
 title: 'Coastal Bend'
-description: 'The USFWS collaborates with partners and other stakeholders to conserve, protect and enhance the fish, wildlife, plants and habitat of the Texas Coastal Bend area.'
+description: 'The Service collaborates with partners and other stakeholders to conserve, protect and enhance the fish, wildlife, plants and habitat of the Texas Coastal Bend area.'
 type: next-steps
 scrollnav: no-scrollnav
 tags:
@@ -12,10 +12,12 @@ hero:
     name: whooping-crane-duo.jpg
     alt: 'Two bright white birds with red patches on their face and long slender legs standing in the a dormant grassy field.'
     caption: 'Whooping cranes. Photo by D. Serverson, USFWS.'
-updated: 'February 3rd, 2017'
+updated: 'March 15th, 2017'
 ---
 
 ## Landscape at a Glance
+
+{{< figure class="photo-right" src="/images/pages/coastal-bend.jpg" alt="A map showing the Coastal Bend focal area." caption="Map of Coastal Bend focal area by Roy Hewitt, USFWS." link="/images/bpus/coastal-bend.jpg" >}}
 
 The Texas Coastal Bend Focal Area lies primarily between the Nueces River and Corpus Christi Bay system to the west, and the Colorado River and Matagorda Bay system to the east. The focal area includes multiple rivers, including the Guadalupe River, that drain central Texas and feed productive estuaries.
 
@@ -59,7 +61,7 @@ While many of the proposed actions in this focal area specifically list trust re
  - Facilitate conversations between water providers and user groups to identify water-sharing concepts and to understand interests, conflicts and/or concerns of the stakeholders.
  - Develop a collaborative strategy to consider concerns and identify potential solutions to meet needs for wildlife and people; for example, consider the approach of the Edwards Aquifer Recovery Implementation Program.    
 
-> Create a conservation network of lands through conservation easements or acquisition of grassland savanna and prairies, woodlands, and riparian areas.  
+> Create a conservation network of lands through conservation easements or acquisition of grassland savanna and prairies, woodlands and riparian areas.  
 
 ### Next Steps
 

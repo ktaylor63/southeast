@@ -1,5 +1,6 @@
 ---
 title: 'Texas Mid Coast'
+description: 'The Service collaborates with partners and other stakeholders to conserve, protect and enhance the fish, wildlife, plants and habitat of the Texas Mid-Coast region.'
 type: next-steps
 scrollnav: no-scrollnav
 hero:
@@ -10,7 +11,7 @@ tags:
     - Gulf
 categories:
     - 'Focal Area'
-updated: 'February 2nd, 2017'
+updated: 'March 15th, 2017'
 ---
 
 ## Landscape at a Glance
@@ -19,7 +20,7 @@ updated: 'February 2nd, 2017'
 
 Southwest of Houston, the Colorado and Brazos Rivers run through the coastal plain and empty into the Gulf or Texas bays. Situated along their floodplains are a multitude of old river oxbows and what used to be vast bottomland forests and tallgrass prairies. This ecosystem presently encompasses bottomland hardwood wetland forests, associated wetlands and prairies. Habitats within this focal area have been adversely impacted by development, fragmentation and invasive species encroachment. Among the federally listed species found in this focal area are the whooping crane and the Attwater’s prairie chicken, both of which rely upon its prairie habitat. Unfortunately, only about one percent of the coastal prairie that once covered nine million acres from Mexico through Texas and into Louisiana remains. The loss of suitable habitat is one reason why populations of Attwater’s prairie chicken exist in the wild in only two locations, with one being the Attwater Prairie Chicken NWR near Eagle Lake, Texas.
 
-This ecosystem is especially important for Nearctic migratory birds (species that nest in the United States and Canada and migrate south to the tropical regions of Mexico, Central America, South America, and the Caribbean for the winter) because it contains the only expanse of forested wetlands adjacent to the Gulf in Texas. Millions of migrants depend on its bottomland forests for rest and feeding before and after crossing the Gulf on fall and spring migration, respectively. Studies have shown that 237 species of birds, totaling at least 29 million individuals, migrate through these forests every year. The forested areas are important resting, breeding, feeding and escape habitats for a great number of other birds as well. In addition, waterfowl winter in the bottomlands and prairie wetlands.
+This ecosystem is especially important for Nearctic migratory birds (species that nest in the United States and Canada and migrate south to the tropical regions of Mexico, Central America, South America, and the Caribbean for the winter) because it contains the only expanse of forested wetlands adjacent to the Gulf in Texas. Millions of migrants depend on its bottomland forests for rest and feeding before and after crossing the Gulf on their fall and spring migrations, respectively. Studies have shown that 237 species of birds, totaling at least 29 million individuals, migrate through these forests every year. The forested areas are important resting, breeding, feeding and escape habitats for a great number of other birds as well. In addition, waterfowl winter in the bottomlands and prairie wetlands.
 
 {{< figure class="photo-right" src="/images/pages/attwater-prairie-chicken.jpg" alt="Two brown birds with striations and orange markings around their head fight in a prairie." caption="Two male Attwater’s prairie chickens putting on a display. Photo by Tim Cooper, USFWS." >}}
 
@@ -29,7 +30,7 @@ This focal area retains a rural character, with a relatively equal mix of crop a
 
 {{< figure class="photo-right" src="/images/pages/swainsons-warbler.jpg" alt="A small brown headed bird standing on a tree branch." caption="The migratory Swainson’s warbler. Photo by USFWS." >}}
 
-Species of special interest in the bottomland forests of this focal area include Nearctic migrant landbirds. In order to represent migrating songbirds, a warbler suite was chosen by the Gulf Coast Joint Venture to represent the Gulf Coast wooded habitat used by multiple species: the Swainson’s, golden-winged and cerulean warbler suite. These three birds utilize different parts of these coastal forests and provide a good example of total forest health for other species. Although conservation targets for these are still under development, actions will be pursued to conserve healthy bottomland forests for hundreds of species that depend use them during migration.
+Species of special interest in the bottomland forests of this focal area include Nearctic migrant landbirds. In order to represent migrating songbirds, a warbler suite was chosen by the Gulf Coast Joint Venture to represent the Gulf Coast wooded habitat used by multiple species: the Swainson’s, golden-winged and cerulean warbler suite. These three birds utilize different parts of these coastal forests and provide a good example of total forest health for other species. Although conservation targets for these are still under development, actions will be pursued to conserve healthy bottomland forests for hundreds of species that depend on them during migration.
 
 Conservation, restoration, and continued management of native grassland prairie habitats across the Coastal Bend and Texas Mid-Coast are necessary to meet objectives for the federally listed Attwater’s prairie chicken (6,000 breeding adults) and a species of conservation concern, the LeConte’s sparrow (210,198 individuals). Meeting the reclassification goal for whooping cranes outlined in its recovery plan (1,000 individuals are needed for its status to change from endangered to threatened) will require viable coastal wetlands and upland prairies in this focal area for them.
 
@@ -59,7 +60,7 @@ While proposed actions specifically target our trust resource species, they can 
 *   Identify and set habitat goals for target species within the Texas Mid-Coast Bottomlands, Prairie and Wetlands Focal Area to be protected, restored or created.
 *   Identify remnant coastal prairie sites and integrated freshwater wetlands in the former extent of the Gulf coastal prairie; use this information to explore easement, acquisition or restoration opportunities with willing private landowners and restore/conserve coastal prairie habitat on both public and private lands.
 *   Consider the development of a prairie restoration cooperative that provides opportunities for members for restoration-related equipment sharing, and reference donor sites for native seed, cultivation and propagation (including of upland and wetland plant stocks needed for restoration).
-*   Implement prescribed fire on coastal grasslands to promote a healthy landscape for prairie dependent wildlife and maintains coastal prairie plant species diversity.
+*   Implement prescribed fire on coastal grasslands to promote a healthy landscape for prairie dependent wildlife and maintain coastal prairie plant species diversity.
 *   Provide incentive-based opportunities for private landowners to work with conservation partners and water management entities to develop and integrate wetlands with agricultural activities so that habitat is provided for wildlife, water quality improvement and reduced flood risks in coastal wetlands. These agriculture-wetland systems are one alternative to restore wetland systems historically present in the coastal prairie.
 *   Monitor and inventory shifts in species composition within prairie habitats due to a changing climate and/or other influences (e.g., contaminants, catastrophic events and disease).
 

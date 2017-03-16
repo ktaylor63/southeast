@@ -1,5 +1,6 @@
 ---
 title: 'Florida Panhandle Lands'
+description: 'The Service collaborates with partners and other stakeholders to conserve, protect and enhance the fish, wildlife, plants and habitat of the Florida Panhandle region.'
 type: next-steps
 scrollnav: no-scrollnav
 hero:
@@ -11,14 +12,14 @@ tags:
     - Gulf
 categories:
     - 'Focal Area'
-updated: 'February 3rd, 2017'
+updated: 'March 15th, 2017'
 ---
 
 ## Landscape at a Glance
 
 {{< figure class="photo-right" src="/images/pages/florida-panhandle-lands.jpg" alt="A map showing the Florida Panhandle Lands focal area." caption="Map of Florida Panhandle Lands focal area by Roy Hewitt, USFWS." link="/images/bpus/florida-panhandle-lands.jpg" >}}
 
-Generally situated inland from the Florida portion of the Alabama and Florida Coastal Beaches and Dunes focal area, this focal area’s geography spans roughly across 200 miles of the five most western counties of Florida, from the mainland coast to north of Interstate 10\. The Panhandle Lands focal area is known for having exceptionally high biodiversity within its longleaf pine and riparian hardwood forests, floodplains and abundance of springs, subterranean streams and rivers. This once sparsely populated agricultural area is now experiencing accelerated population growth as it serves as a major tourist destination and is home to several large military installations. The interconnection of these habitats and human use plays a significant role in both the quality and quantity of water that enters the nearshore Gulf waters, which also contains one of the largest and most pristine seagrass beds in North America.
+Generally situated inland from the Florida portion of the Alabama and Florida Coastal Beaches and Dunes focal area, this focal area’s geography spans roughly across 200 miles of the five most western counties of Florida, from the mainland coast to north of Interstate 10. The Panhandle Lands focal area is known for having exceptionally high biodiversity within its longleaf pine and riparian hardwood forests, floodplains and abundance of springs, subterranean streams and rivers. This once sparsely populated agricultural area is now experiencing accelerated population growth as it serves as a major tourist destination and is home to several large military installations. The interconnection of these habitats and human use plays a significant role in both the quality and quantity of water that enters the nearshore Gulf waters, which also contains one of the largest and most pristine seagrass beds in North America.
 
 {{< figure class="photo-right" src="/images/pages/seagrass-beds.jpg" alt="A blue hued photo with thick underwater vegetation." caption="Seagrass meadow. Photo by Heather Dine, National Oceanic and Atmospheric Administration." >}}
 
@@ -30,7 +31,7 @@ Despite the relatively high biodiversity of this focal area, there are relativel
 
 {{< figure class="photo-right" src="/images/pages/panama-city-crayfish.jpg" alt="A small, lobster shaped animal in a biologists hand." caption="Panama City crayfish. Photo by USFWS." >}}
 
-We propose restoration actions that will reduce instream sedimentation and chemical pollution to improve water quality and spawning habitat for our trust resource species, but many other recreationally and ecologically important species like shoal bass, largemouth bass, Gulf Coast striped bass, catfish and invertebrate prey species will experience the same improvements. At-risk species like the coastal flatwoods crayfish and the Panama City crayfish would also benefit. Removing impediments to access like dams and culverts will expand the resource base and increase abundance for those species that depend on large areas of river like the Gulf sturgeon, but also shad and other migratory aquatic species. Coastal species like oysters, shrimp, blue crabs, red drum and reef fish will benefit from better water quality and suitable flow of freshwater into estuaries. Similar to the benefits accrued in the North-Central Gulf Coast Focal Area, improving the quality of the upland habitats of this region will not only benefit our trust resource species such as the red-cockaded woodpecker and flatwoods salamanders, but also [Species of Greatest Conservation Need](http://myfwc.com/media/134694/Legacy_SGCN.pdf) like the eastern coachwhip and both the slender and the mimic glass lizards. Terrestrial mammals like white-tailed deer, turkeys and squirrels, as well as at-risk plants — particularly the sweet pitcher plant and Boykin’s lobelia — would also benefit from management of the longleaf flatwoods in this region.
+We propose restoration actions that will reduce instream sedimentation and chemical pollution to improve water quality and spawning habitat for our trust resource species, but many other recreationally and ecologically important species like shoal bass, largemouth bass, Gulf Coast striped bass, catfish and invertebrate prey species will experience the same improvements. At-risk species like the coastal flatwoods crayfish and the Panama City crayfish would also benefit. Removing impediments to access like dams and culverts will expand the resource base and increase abundance for those species that depend on large areas of river like the Gulf sturgeon, but also shad and other migratory aquatic species. Coastal species like oysters, shrimp, blue crabs, red drum and reef fish will benefit from better water quality and suitable flow of freshwater into estuaries. Similar to the benefits accrued in the Central Gulf Lands Focal Area, improving the quality of the upland habitats of this region will not only benefit our trust resource species such as the red-cockaded woodpecker and flatwoods salamanders, but also [Species of Greatest Conservation Need](http://myfwc.com/media/2652455/Chapter3_SGCN.pdf) like the eastern coachwhip and both the slender and the mimic glass lizards. Terrestrial mammals like white-tailed deer, turkeys and squirrels, as well as at-risk plants — particularly the sweet pitcher plant and Boykin’s lobelia — would also benefit from management of the longleaf flatwoods in this region.
 
 ## High Priority Actions Based on the Service’s _Vision_
 
@@ -40,7 +41,7 @@ We propose restoration actions that will reduce instream sedimentation and chemi
 
 {{< figure class="photo-right" src="/images/pages/watering-ramp.jpg" alt="A farmer points towards a ramp partially submerged by a stream." caption="Watering ramp installed to keep cattle from disturbing riparian area. Photo by Natural Resources Conservation Service, US Department of Agriculture." >}}
 
-*   Support and encourage the development of formal partnerships focused on estuary ecosystem restoration that can use updated [Surface Water Improvement Plan](https://www.swfwmd.state.fl.us/projects/swim/) information (as well as outputs from other efforts described below) to prioritize restoration needs and seek funding for project implementation.
+*   Support and encourage the development of formal partnerships focused on estuary ecosystem restoration that can use the information in updated [*Surface Water Improvement and Management plans*](http://www.nwfwater.com/Water-Resources/SWIM/SWIM-Plan-Updates) (as well as outputs from other efforts described below) to prioritize restoration needs and seek funding for project implementation.
 *   Provide support for voluntary water quality monitoring programs to assess numeric nutrient criteria affecting listed freshwater mussels and additional at-risk aquatic species.
 *   Identify nutrient pollution impacts to fish and wildlife within six major watersheds (Escambia, Yellow, Choctawhatchee, Chipola, Ochlocknee and Perdido).
 *   In areas in which it would provide the most significant water quality benefits for fish and wildlife, retrofit current wastewater treatment technology and convert septic systems to sewer systems in targeted sub-watersheds to reduce nutrient pollution impacts.

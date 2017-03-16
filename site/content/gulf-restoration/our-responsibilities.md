@@ -1,6 +1,6 @@
 ---
 title: 'Our Responsibilities'
-description: 'The USFWS has a mandate to protect, conserve and/or enhance certain species and land on behalf of the American people.'
+description: 'The Service has a mandate to protect, conserve and/or enhance certain species and land on behalf of the American people.'
 nav: Responsibilities
 weight: 3
 tags:
@@ -12,14 +12,16 @@ hero:
     name: american-white-pelicans-woodrow.jpg
     alt: 'A large group of bright white pelicans each with an orange beak and webbed feet.'
     caption: 'American white pelicans are protected by the Migratory Bird Treaty Act of 1918. Photo by Woody Woodrow, USFWS.'
-updated: 'October 19th, 2016'
+updated: 'March 15th, 2017'
 ---
 
 The Service is the primary federal agency responsible for conserving and enhancing the nation's fish and wildlife populations and their habitats. However, the conservation of fish and wildlife is a shared responsibility. The Service works closely with with other federal agencies and state governments, as well as other partners, in order to to conserve, protect and enhance our nation's natural resources.
 
-## Trust Resources of the Gulf
+## Natural Resources of the Gulf
 
-The Service has specific “trust resource” responsibilities as defined by legislation, a treaty or similar authority. These trust resources include endangered and threatened species, migratory birds, certain marine mammals, and fish species that move across boundaries of states and nations (“interjurisdictional fish”). In addition, the Service is responsible for administering a national network of lands and waters known as the [National Wildlife Refuge System](https://www.fws.gov/refuges/).
+### Fish and Wildlife
+
+The Service has specific responsibilities as defined by legislation, a treaty or similar authority toward certain natural resources. These resources include migratory birds, certain marine mammals and fish species that move across boundaries of states and nations (“interjurisdictional fish”). The Service is also charged with administering [The Endangered Species Act of 1973](https://www.fws.gov/laws/lawsdigest/esact.html) (ESA, 16 U.S.C. § 1531 et seq.), which is aimed at helping increase the populations of threatened and endangered species and reducing the threats to their survival. The Gulf watershed is famous for the richness and diversity of its wildlife, and is home to more than 500 federally listed species (of which more than 350 are endangered). These include some of America’s most beloved and iconic species -- from the West Indian manatee, an aquatic relative of the elephant, to the whooping crane, North America’s tallest bird. In addition, the Service is responsible for administering a national network of lands and waters known as the [National Wildlife Refuge System](https://www.fws.gov/refuges/).
 
 ## Wildlife Refuges
 
@@ -35,4 +37,4 @@ You are invited to visit a National Wildlife Refuge near you. There are many to 
 
 ## Gulf Species Profiles
 
-{{< gulf-wildlife >}}
+{{< section-content-by-tag tag="Gulf" section="wildlife" >}}

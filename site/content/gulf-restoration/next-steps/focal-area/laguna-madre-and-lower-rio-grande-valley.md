@@ -1,5 +1,6 @@
 ---
 title: 'Laguna Madre and Lower Rio Grande Valley'
+description: 'The USFWS collaborates with partners and other stakeholders to conserve, protect and enhance the fish, wildlife, plants and habitat of the Laguna Madre and Lower Rio Grande Valley.'
 type: next-steps
 scrollnav: no-scrollnav
 hero:
@@ -10,14 +11,14 @@ tags:
     - Gulf
 categories:
     - 'Focal Area'
-updated: 'February 2nd, 2017'
+updated: 'March 15th, 2017'
 ---
 
 ## Landscape at a Glance
 
 {{< figure class="photo-right" src="/images/pages/laguna-madre-lower-rio-grande-valley.jpg" alt="A map showing the Laguna Madre and Lower Rio Grande Valley focal area." caption="Map of Laguna Madre and Lower Rio Grande Valley focal area by Roy Hewitt, USFWS." link="/images/bpus/laguna-madre-lower-rio-grande-valley.jpg" >}}
 
-Located in the most southern tip of Texas, along the U.S. border with Mexico, the Laguna Madre and Lower Rio Grande Valley form a complex mixture of both oceanic and riverine modified ecosystems. This focal area contains some of the fastest growing communities in the United States; produces significant crops (e.g., citrus); is a major nexus of international commerce with Mexico; and contains large, historic ranching operations. Natural resource-based tourism that includes hunting, fishing and natural history is a significant economic driver for the region. The international nature of the region, and its unique biodiversity, is important to Texas and the nation.
+Located in the southernmost tip of Texas, along the U.S. border with Mexico, the Laguna Madre and Lower Rio Grande Valley form a complex mixture of both oceanic and riverine modified ecosystems. This focal area contains some of the fastest growing communities in the United States; produces significant crops (e.g., citrus); is a major nexus of international commerce with Mexico; and contains large, historic ranching operations. Natural resource-based tourism that includes hunting, fishing and natural history is a significant economic driver for the region. The international nature of the region, and its unique biodiversity, is important to Texas and the nation.
 
 The focal area is semi-arid and subtropical in nature and represents a significant continental biodiversity hotspot for animals and plants. Native upland portions of the focal area are a mix of grassland savannas and Tamaulipan thornscrub. These native communities are important to the federally listed northern aplomado falcon that nests in the open grasslands, and endangered ocelots that live in the dense thornscrub. Additionally the Laguna Madre, one of only six hypersaline lagoons in the world, is located here and extends from South Texas into Mexico. Its expansive shallow seagrass beds are the winter home to more than 75 percent of the world’s population of redhead ducks, who also depend on nearby freshwater wetlands scattered amongst the landscape. In Texas, the Laguna Madre is protected by Padre Island, the longest barrier island in the world. Padre Island contains 361 square miles of wind-tidal flats, which support millions of wintering and migrating shorebirds, including the federally listed piping plover and red knots. The Gulf beaches of the island support the highest number of nesting endangered Kemp’s ridley sea turtles in the United States.
 

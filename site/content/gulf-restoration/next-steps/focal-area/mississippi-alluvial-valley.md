@@ -1,5 +1,6 @@
 ---
 title: 'Mississippi Alluvial Valley'
+description: 'The Service collaborates with partners and other stakeholders to conserve, protect and enhance the fish, wildlife, plants and habitat of the Mississippi Alluvial Valley.'
 type: next-steps
 scrollnav: no-scrollnav
 hero:
@@ -10,7 +11,7 @@ tags:
     - Gulf
 categories:
     - 'Focal Area'
-updated: 'February 3rd, 2017'
+updated: 'March 15th, 2017'
 ---
 
 ## Landscape at a Glance
@@ -74,5 +75,5 @@ Beyond the benefit to our trust resource species, restoring the function of rive
 <ul class="chapter-links">
   <li class="last-chapter"><a href="../mississippi-river-coastal-wetlands-and-barrier-islands">Last Chapter: MS River Coastal Wetlands and Barrier Islands</a></li>
   <li class="current-chapter"><span>Current Chapter: Mississippi Alluvial Valley</span></li>
-  <li class="next-chapter"><a href="../central-gulf-coast-lands">Next Chapter: Central Gulf Lands</a></li>
+  <li class="next-chapter"><a href="../central-gulf-lands">Next Chapter: Central Gulf Lands</a></li>
 </ul>

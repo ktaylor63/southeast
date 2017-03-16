@@ -1,5 +1,6 @@
 ---
 title: 'Tampa Bay'
+description: 'The Service collaborates with partners and other stakeholders to conserve, protect and enhance the fish, wildlife, plants and habitat of the Tampa Bay region.'
 type: next-steps
 scrollnav: no-scrollnav
 hero:
@@ -10,7 +11,7 @@ tags:
     - Gulf
 categories:
     - 'Focal Area'
-updated: 'February 3rd, 2017'
+updated: 'March 15th, 2017'
 ---
 
 ## Landscape at a Glance
@@ -56,6 +57,7 @@ While many of the proposed actions in this focal area specifically list trust re
 *   Support and provide funds for public and private land conservation programs throughout the Tampa Bay watershed where such lands could be available for restoration and stormwater treatment projects that are critical to the overall restoration and management of Tampa Bay.
 *   Reduce propeller scarring within seagrass beds, continue to evaluate the effectiveness of restoration techniques on scarred beds, and pursue restoration at appropriate sites to preserve the diversity of seagrass communities and provide foraging habitat for the Florida manatee and numerous other fish and wildlife species.
 *   Promote the use of living shorelines, where needed and appropriate, to protect against erosion and sea level rise while providing habitat to numerous fish and wildlife species, including the stabilization of island shorelines (e.g., Tarpon and Little Bird Keys) through placement of oyster shell bars and planting smooth cordgrass to encourage mangrove seeds to take root.
+{{< figure class="photo-right" src="/images/pages/egmont-key-located-at-mouth-of-tampa-bay.jpg" alt="Black cormorant birds perched on a sign in front of a white beach." caption="Beneficial use of dredged material being used for colonial waterbird habitat. Photo by Keith Ramos, USFWS." >}}
 *   Pursue beneficial habitat restoration uses for dredged material, and find efficiencies where possible, including cost-sharing and expedited permitting opportunities.
 *   Work with the U.S. Army Corps of Engineers and the Port of Tampa Bay to evaluate the maintenance of navigation channels (e.g., Egmont Channel) to ensure that dredging is not contributing to erosion issues, and to maximize the habitat benefits of material generated from maintenance dredging for bird species.
 *   Support efforts of the Southwest Florida Water Management District’s SWIM program and other public-private partnerships to restore coastal and watershed habitats as well as improve the bay’s water quality through stormwater treatment.
@@ -64,7 +66,6 @@ While many of the proposed actions in this focal area specifically list trust re
 
 ### Next Steps
 
-{{< figure class="photo-right" src="/images/pages/egmont-key-located-at-mouth-of-tampa-bay.jpg" alt="Black cormorant birds perched on a sign in front of a white beach." caption="Beneficial use of dredged material being used for colonial waterbird habitat. Photo by Keith Ramos, USFWS." >}}
 
 *   Utilize cooperative partnerships (e.g., [Suncoast Cooperative Invasive Species Partnership](http://www.floridainvasives.org/Suncoast/)) to increase coordinated work that reduces or eliminates invasive animals and plants that threaten native diversity across both public and private boundaries.
 *   Control pervasive non-native and invasive species such as Brazilian pepper and Australian pine to restore and expand the natural upland community habitats.

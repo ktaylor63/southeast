@@ -1,5 +1,6 @@
 ---
 title: 'Florida Keys'
+description: 'The Service collaborates with partners and other stakeholders to conserve, protect and enhance the fish, wildlife, plants and habitat of the Florida Keys.'
 type: next-steps
 scrollnav: no-scrollnav
 hero:
@@ -7,10 +8,10 @@ hero:
     alt: 'Sandy patches emerge from slash pine growth.'
     caption: 'Pine rockland habitat found throughout the Florida Keys. Photo by Jonathan Mays, Florida Fish and Wildlife Conservation Commission.'
 tags:
-  - Gulf
+    - Gulf
 categories:
     - 'Focal Area'
-updated: 'February 3rd, 2017'
+updated: 'March 15th, 2017'
 ---
 
 ## Landscape at a Glance

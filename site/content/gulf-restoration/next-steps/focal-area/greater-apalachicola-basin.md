@@ -1,5 +1,6 @@
 ---
 title: 'Greater Apalachicola Basin'
+description: 'The Service collaborates with partners and other stakeholders to conserve, protect and enhance the fish, wildlife, plants and habitat of the Greater Apalachicola Basin.'
 type: next-steps
 scrollnav: no-scrollnav
 hero:
@@ -10,7 +11,7 @@ tags:
     - Gulf
 categories:
     - 'Focal Area'
-updated: 'February 3rd, 2017'
+updated: 'March 15th, 2017'
 ---
 
 ## Landscape at a Glance
@@ -42,7 +43,7 @@ We place an overall emphasis on improved water quality in this focal area to hel
 ### Next Steps
 
 *   Encourage partners to include the freshwater flow needs of the Apalachicola River, floodplain and bay in planning efforts in order to provide long term benefits for fish and wildlife conservation.
-*   Support and encourage the development of additional formal partnerships focused on estuary ecosystem restoration that can use updated [_Surface Water Improvement Plan_](https://www.swfwmd.state.fl.us/projects/swim/) information (as well as outputs from other efforts described below) to prioritize restoration needs and seek funding for project implementation.
+*   Support and encourage the development of additional formal partnerships focused on estuary ecosystem restoration that can use information in [_Surface Water Improvement and Management Plans_](http://www.nwfwater.com/Water-Resources/SWIM/SWIM-Plan-Updates) (as well as outputs from other efforts described below) to prioritize restoration needs and seek funding for project implementation.
 *   Identify and prioritize eroding segments along Apalachicola Bay that degrade water quality and benthic habitat, followed by the application of living shoreline stabilization treatments where needed and appropriate by voluntary landowners to restore natural habitat elements, control erosion and improve water quality.
 *   Improve water quality to Apalachicola Bay by identifying and reducing point source nutrient (nitrogen and phosphorus) pollution inputs and implementing necessary habitat restoration actions to benefit estuarine species.
 *   Improve water quality and habitat in the Chipola River Watershed for the Gulf sturgeon and freshwater mussels using sediment retention basins; restored runoff conveyance systems at unpaved road crossings identified as having “poor condition” and a “high sedimentation risk”; restoration of fish passage where barriers have been identified; and paving of roads at identified stream crossings contributing high sediment loads.
@@ -63,7 +64,7 @@ We place an overall emphasis on improved water quality in this focal area to hel
 *   Provide incentives and opportunities to agricultural stakeholders to implement management practices (e.g., equipment retrofits, center pivot irrigation systems and sod-based rotation tillage practices) that will help increase base flows.
 *   Work with water users to implement actions that maximize water returns, including the targeted conversion from septic to sewer systems (i.e., in areas in which it would provide the most significant water quality benefits for fish and wildlife); the development of storm water management strategies; and minimizing land use for agriculture to increase groundwater infiltration.
 *   Encourage development that is both economically feasible as well as environmentally sensitive. For example, strive to meet commercial and recreational navigation needs while preserving or enhancing aquatic habitat.
-*   Increase the scientific knowledge throughout the focal area and overall ACF basin by completing studies identified as priority in the [Sustainable Water Management Plan for the Apalachicola-Chattahoochee-Flint River Basin](http://acfstakeholders.org/wp-content/uploads/2015/05/ACFS-Sustainable-Water-Management-Plan-For-Release.pdf).
+*   Increase the scientific knowledge throughout the focal area and overall ACF basin by completing studies identified as priority in the [*Surface Water Improvement and Management Plan for the Apalachicola-Chattahoochee-Flint River Basin*](http://www.nwfwater.com/Water-Resources/SWIM/SWIM-Plan-Updates).
 
 <ul class="chapter-links">
   <li class="last-chapter"><a href="../florida-panhandle-lands">Last Chapter: Florida Panhandle Lands</a></li>

@@ -1,5 +1,6 @@
 ---
 title: 'Central Gulf and Florida Panhandle Coast'
+description: 'The Service collaborates with partners and other stakeholders to conserve, protect and enhance the fish, wildlife, plants and habitat of the Central Gulf and Florida Panhandle Coast.'
 type: next-steps
 scrollnav: no-scrollnav
 hero:
@@ -10,7 +11,7 @@ tags:
     - Gulf
 categories:
     - 'Focal Area'
-updated: 'February 3rd, 2017'
+updated: 'March 15th, 2017'
 ---
 
 ## Landscape at a Glance

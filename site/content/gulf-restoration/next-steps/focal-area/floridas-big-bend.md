@@ -1,5 +1,6 @@
 ---
 title: 'Florida’s Big Bend'
+description: 'The Service collaborates with partners and other stakeholders to conserve, protect and enhance the fish, wildlife, plants and habitat of Florida’s Big Bend region.'
 type: next-steps
 scrollnav: no-scrollnav
 hero:
@@ -10,7 +11,7 @@ tags:
     - Gulf
 categories:
     - 'Focal Area'
-updated: 'February 3rd, 2017'
+updated: 'March 15th, 2017'
 ---
 
 ## Landscape at a Glance
@@ -25,7 +26,7 @@ The distinctive karstic geology within the Big Bend connects the Floridan aquife
 
 Many of the resource issues within this focal area relate to water quantity and quality, including flooding and drought situations, as well as to habitat alteration and degradation that have cumulative impacts on the overall landscape. Perhaps the greatest conservation challenge to the Big Bend’s economy and rural culture is continued landscape conversion from forests and other low-intensity uses to more water-intensive land uses. These uses rely on greater groundwater withdrawals which not only mean less water is available within the system, but the potential for cascading effects such as diminished water quality (e.g., nitrogen loading that causes eutrophication problems within springs and rivers) and, subsequently, habitat alterations in the surrounding aquatic ecosystems.
 
-Improving water quality and quantity is essential to restoring and protecting the area’s natural resources such as oyster bars and seagrass meadows, recreational and commercial fisheries, and numerous habitats for wetland-dependent species. Using tools such as conservation easements and payments for ecosystem services with willing private landowners to build connections to important large forested tracts and/or link to existing conservation lands are a priority for this area. Protected lands could also serve as important coastal-to-inland corridors for wildlife impacted by sea level rise. The Service is pleased to see momentum is building around the need to develop integrated water resource management within the Big Bend landscape to promote sustainable solutions in a holistic manner, focusing on environmental protection, economic development and social well-being. We support conservation partners who are beginning to act (e.g., the Suwannee River Water Management District is in the process of updating their Surface Water Improvement Plan) and encourage others to do the same.
+Improving water quality and quantity is essential to restoring and protecting the area’s natural resources such as oyster bars and seagrass meadows, recreational and commercial fisheries, and numerous habitats for wetland-dependent species. Using tools such as conservation easements and payments for ecosystem services with willing private landowners to build connections to important large forested tracts and/or link to existing conservation lands are a priority for this area. Protected lands could also serve as important coastal-to-inland corridors for wildlife impacted by sea level rise. The Service is pleased to see momentum is building around the need to develop integrated water resource management within the Big Bend landscape to promote sustainable solutions in a holistic manner, focusing on environmental protection, economic development and social well-being. We support conservation partners who are beginning to act (e.g., the Suwannee River Water Management District is in the process of updating their Surface Water Improvement and Management plan) and encourage others to do the same.
 
 ## Target Species
 

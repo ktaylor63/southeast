@@ -1,5 +1,6 @@
 ---
 title: 'Upper Mississippi River Watershed'
+description: 'The Service collaborates with partners and other stakeholders to conserve, protect and enhance the fish, wildlife, plants and habitat of the Upper Mississippi River Watershed.'
 type: next-steps
 scrollnav: no-scrollnav
 hero:
@@ -10,7 +11,7 @@ tags:
     - Gulf
 categories:
     - 'Focal Area'
-updated: 'February 3rd, 2017'
+updated: 'March 15th, 2017'
 ---
 
 ## Landscape at a Glance
@@ -49,7 +50,7 @@ Since the release of the Service’s Vision, priorities for this focal area have
 
 ### Next Steps
 
-{{< figure class="photo-right" src="/images/pages/wetland-construction-to-reduce-nitrogen.jpg" alt="A group of conservationists gather around a corrogated tube in the middle of a field." caption="Wetland construction in the Mackinaw River watershed in Illinois. Photo by USFWS." >}}
+{{< figure class="photo-right" src="/images/pages/wetland-construction-to-reduce-nitrogen.jpg" alt="A group of conservationists gather around a corrogated tube in the middle of a field." caption="Wetland construction to reduce nitrogen in the Mackinaw River watershed in Illinois. Photo by USFWS." >}}
 
 *   Work with regional watershed planning groups to apply the decision-support tool developed through the [multi-LCC Mississippi River Basin Gulf Hypoxia Initiative](https://tallgrassprairielcc.org/issue/gulf-hypoxia) and examine the alignment of habitat restoration, water quality initiatives and agricultural productivity to inform targeted delivery of complementary programs. Evaluate the analysis tool and further refine it as necessary to meet the needs of the conservation delivery community.
 *   Build collaborative relationships between landowners, agriculture and conservation organizations; promote information exchanges and provide educational programs that help landowners understand the tradeoffs in ecosystem services provided under alternative land and water management plans and through habitat restoration projects for wildlife and aquatic resources (e.g., Illinois Council on Best Management Practices’ Keep it for the Crop program, the Illinois Nutrient Research Council, and the Fishers & Farmers pilot project to build a Watershed Leaders Network in watersheds across the Upper Mississippi River Basin).
@@ -62,7 +63,7 @@ Since the release of the Service’s Vision, priorities for this focal area have
 *   Work with the agricultural community to identify and manage key parcels across the conservation area to improve and maintain landscape connectivity that meets life cycle requirements for the greater prairie chicken and other wildlife.
 *   Create wetlands at the end of tile lines and use other Drainage Water Management techniques to reduce nitrate-nitrogen loads into adjacent streams (e.g., [The Nature Conservancy project in the Mackinaw River Watershed](http://www.nature.org/ourinitiatives/regions/northamerica/unitedstates/illinois/placesweprotect/the-mackinaw-river-watershed.xml), near Franklin, Illinois).
 *   Work with federal, state and county governments, universities, NGOs and farmers to restore oxbows in priority watersheds in Iowa and Minnesota. Restored oxbows provide a number of benefits, including: a return to a more natural hydrology by connecting streams with their floodplains; a way to improve water quality by holding sediment and providing “filters” that reduce nitrogen and phosphorus; and the creation of habitat critical to many fish and wildlife species, including the federally listed Topeka shiner.
-*   Using the [Science-based Trials of Rowcrops Integrated with Prairie Strips (STRIPS)](https://www.nrem.iastate.edu/landscape/content/strips-project-science-based-trials-rowcrops-integrated-prairie-strips-neal-smith-national) program at Neal Smith NWR as a model, conduct similar projects on private lands throughout the focal area to provide an easily-integrated and low-cost management option to improve both aquatic and terrestrial habitat, soil health, hydrology, and water quality.
+*   Using the [Science-based Trials of Rowcrops Integrated with Prairie Strips (STRIPS)](https://www.google.com/url?q=https://www.nrem.iastate.edu/landscape/content/strips-science-based-trials-rowcrops-integrated-prairie-strips&sa=D&ust=1489616739003000&usg=AFQjCNHZ1ZzyJuHnWQF6eHFvqM2YHzBfWQ) program at Neal Smith NWR as a model, conduct similar projects on private lands throughout the focal area to provide an easily-integrated and low-cost management option to improve both aquatic and terrestrial habitat, soil health, hydrology, and water quality.
 
 > Collaborate with agencies, organizations and individual landowners to restore or enhance monarch butterfly habitat in the Upper Mississippi Watershed.
 
