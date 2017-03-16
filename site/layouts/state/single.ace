@@ -2,7 +2,7 @@
   .main role="main"
     h1.page-title {{ .Title }}
 
-    h2 Fast Facts
+    h2 Threatened, Endangered and At-Risk Species
     ul.threatened-species.fade-list
     ul.endangered-species.fade-list
     ul.at-risk-species.fade-list
