@@ -11,7 +11,7 @@ hero:
 tags:
     - 'Landscape Conservation Cooperatives'
     - Partnership
-updated: 'February 24th, 2017'
+updated: 'March 16th, 2017'
 ---
 What do you do when you realize that you face a problem too big to tackle alone? What did Wonder Woman, Aquaman, Martian Manhunter, Green Lantern and Flash do when they faced their first super villain, [Starro the Conqueror](https://en.wikipedia.org/wiki/Starro)?
 
@@ -32,6 +32,7 @@ In order to ensure the sustainability of our economy, land, water, wildlife and 
 LCCs provide scientific and technical support for conservation at “landscape” scales, covering the entire range of an identified priority species or groups of species. They also have a role in helping partners identify common goals and priorities to target the right science in the right places for efficient and effective conservation. By functioning as network of interdependent units rather than independent entities, LCC partnerships can accomplish a conservation mission no single agency or organization can accomplish alone.
 
 LCCs are:
+
 - Science-driven
 - Collaborative
 - Adaptive
@@ -68,7 +69,9 @@ Serving middle and coastal Texas, Mexico and part of Oklahoma.
 Discover the national network of Landscape Conservation Cooperatives at [lccnetwork.org](http://lccnetwork.org/).
 
 ## Contact Us
+
 ### Assistant Regional Director for Science Applications
-**Bill Uihlein** <br>
-[bill_uihlein@fws.gov](mailto:bill_uihlein@fws.gov) <br>
+
+**Bill Uihlein**  
+[bill_uihlein@fws.gov](mailto:bill_uihlein@fws.gov)  
 (404) 679-7288
