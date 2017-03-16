@@ -19,7 +19,7 @@
 
 .nav-list {
   @include shadow(3);
-  background: $color-accent;
+  background: $primary-gradient;
   margin: 0;
   min-width: $nav-width;
   padding: 7px;
@@ -30,6 +30,7 @@
   }
 
   @media (min-width: $break-md) {
+    background: $color-accent;
     height: 100%;
     padding: 0;
     position: fixed;
@@ -75,6 +76,7 @@
 }
 
 .nav-link {
+  background: transparent;
   border: none;
   color: $color-white;
   padding: 0;

@@ -20,7 +20,7 @@
 }
 
 .current-chapter {
-  background: darken($color-accent, 5) !important;
+  background: linear-gradient(darken($color-accent, 5), darken($color-accent, 15)) !important;
 }
 
 .next-chapter a::after {
@@ -29,7 +29,7 @@
 }
 
 .chapter-links li {
-  background: $color-accent;
+  background: $primary-gradient;
   color: white;
   display: flex;
   flex: 1;
