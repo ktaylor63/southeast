@@ -11,21 +11,18 @@ tags:
     - Gulf
 ---
 
-### Introduction
+## Introduction
 
 *   [U.S. Fish and Wildlife Service. 2013\. Vision for a Healthy Gulf of Mexico Watershed. 24 pages.](www.fws.gov/gulfrestoration)
 *   [Dahl, T.E. and S.M. Stedman. 2013\. Status and trends of wetlands in the coastal watersheds of the Conterminous United States 2004 to 2009\. U.S. Department of the Interior, Fish and Wildlife Service and National Oceanic and Atmospheric Administration, National Marine Fisheries Service. 46 pages.](https://www.fws.gov/wetlands/Documents/Status-and-Trends-of-Wetlands-in-the-Conterminous-United-States-2004-to-2009.pdf)
 *   [Couvillion, B.R., J.A. Barras, G.D. Steyer, W. Sleavin, M. Fischer, H. Beck, N.Trahan, B. Griffin, and D. Heckman. 2011\. Land Area Change in Coastal Louisiana from 1932 to 2010\. Pamphlet to accompany Scientific Investigations Map 3164; U.S. Geological Survey, Reston, Virginia. 12 pages.](http://pubs.usgs.gov/sim/3164/)
 
-### Background
+## Background
 
 *   A paper in the Proceedings of the National Academy of Sciences (vol. 109 no. 28) highlights that heavy Deepwater Horizon oil coverage on the shorelines of Louisiana marshes, already experiencing elevated retreat because of intense human activities, induced a geomorphic feedback that amplified this erosion and thereby set limits to the recovery of otherwise resilient vegetation. It thus warns of the enhanced vulnerability of already degraded marshes to heavy oil coverage.
 *   BP Oil Spill: Louisiana Wetland Loss Is Speeding Up Due To Crude From Deepwater Horizon Disaster; article in International Business Times by Maria Gallucci 4/18/15
-*   ### AL FL Panhandle Coastal Dunes and Beaches
 
-*   [Gulf Coast Ecosystem Restoration Council. 2015\. Resources and Ecosystems Sustainability, Tourist Opportunities, and Revived Economies of the Gulf Coast States Act (RESTORE Act) Initial Funded Priorities List. 275 pages.](https://restorethegulf.gov/council-selected-restoration-component/funded-priorities-list)
-
-### Laguna Madre and Lower Rio Grande Valley
+## Laguna Madre and Lower Rio Grande Valley
 
 *   [Arroyo Colorado Watershed Partnership. 2007\. A Watershed Protection Plan for the Arroyo Colorado Phase I. A Report of the Arroyo Colorado Watershed Partnership and The Texas SeaGrant Pursuant to a 2003 US EPA Clean Water Act Section 319(h) Grant Awarded through Texas Commission on Environmental Quality Contract Agreement 583-4-65616\. 212 pages.](http://arroyocolorado.org/watershed-protection-plan/)
 *   [Adair, S.E., J.L. Moore, and W.H. Kiel. 1996\. Wintering Diving Duck Use of Coastal Ponds: An Analysis of Alternative Hypotheses. Journal of Wildlife Management 60: pages 83-93.](https://www.researchgate.net/publication/271785479_Wintering_Diving_Duck_Use_of_Coastal_Ponds_An_Analysis_of_Alternative_Hypotheses)
@@ -40,7 +37,7 @@ tags:
 *   [Texas Parks and Wildlife Department. 1999\. Seagrass Conservation Plan for Texas. Austin, Texas. 84 pages.](http://tpwd.texas.gov/publications/pwdpubs/media/pwd_bk_r0400_0041.pdf)
 *   [Texas Parks and Wildlife Department. 2012\. Texas Conservation Action Plan 2012 – 2016: Gulf Coast Prairies and Marshes Handbook. Editor, Wendy Connally, Texas Conservation Action Plan Coordinator. Austin, Texas. 51 pages.](http://tpwd.texas.gov/landwater/land/tcap/documents/gcpm_tcap_2012.pdf)
 *   Tunnell, J.W. Jr. and F.W. Judd (eds.) 2002\. The Laguna Madre of Texas and Tamaulipas - A Compendium. Texas A&M University Press, College Station.
-*   [U.S. Census Bureau. 2015\. QuickFacts Beta 2.0.. Accessed October 15, 2015\.](http://quickfacts.census.gov/qfd/states)
+*   [U.S. Census Bureau. 2015\. QuickFacts Beta 2.0\. Accessed October 15, 2015\.](http://quickfacts.census.gov/qfd/states)
 *   U.S. Fish and Wildlife Service. 1990\. Northern aplomado falcon recovery plan. U.S. Fish and Wildlife Service. Albuquerque, New Mexico. 56 pages.
 *   U.S. Fish and Wildlife Service. 2010\. Laguna Atascosa National Wildlife Refuge Comprehensive Conservation Plan. U.S. Department of the Interior Fish and Wildlife Service Southwest Regional Office, Albuquerque, New Mexico. 274 pages.
 *   U.S. Fish and Wildlife Service. 2010\. Draft Ocelot (Leopardus pardalis) Recovery Plan, First Revision. U.S. Fish and Wildlife Service, Southwest Region, Albuquerque, New Mexico.
@@ -49,17 +46,17 @@ tags:
 *   Vermillion W.G, J.W. Eley, B. Wilson, S. Heath, and M. Parr. 2008\. Partners in Flight, Landbird Conservation Plan, BCR 37: Gulf Coastal Prairie. 78 pages.
 *   [Wilson, B.C. 2007\. North American Waterfowl Management Plan, Gulf Coast Joint Venture: Mottled Duck Conservation Plan. North American Waterfowl Management Plan, Albuquerque, NM. 27 pages + appendices.](http://www.gcjv.org/docs/GCJV%20MODU%20Cons%20Plan.pdf)
 
-### Coastal Bend
+## Coastal Bend
 
 *   [Brown, C., K. Andrews, J. Brenner, J.W. Tunnell, C. Canfield, C. Dorset, M. Driscoll and E. Johnson, S. Kaderka. 2011\. Strategy for Restoring the Gulf of Mexico (a cooperative NGO report). The Nature Conservancy. Arlington, VA. 23 pages.](http://www.nature.org/ourinitiatives/regions/northamerica/areas/gulfofmexico/explore/gulf-restoration-strategy-lr.pdf)
 *   [Coastal Bend Bays Plan. 1998\. Published by Texas Natural Resource Conservation Commission, Austin, TX. CBBNEP-1\. 80 pages.](http://www.cbbep.org/publications/virtuallibrary/cbbin.pdf)
 *   [Texas Parks and Wildlife Department. 2012\. Texas Conservation Action Plan 2012 – 2016: Gulf Coast Prairies and Marshes Handbook. Editor, Wendy Connally, Texas Conservation Action Plan Coordinator. Austin, Texas. 51 pages.](http://tpwd.texas.gov/landwater/land/tcap/documents/gcpm_tcap_2012.pdf)
 *   Vermillion, W.G. 2012\. Fall Habitat Objectives for Priority Gulf Coast Joint Venture Shorebird Species Using Managed Wetlands and Grasslands, Version 4.0\. Gulf Coast Joint Venture, Lafayette, LA. 31 pages + appendices.
-*   [W. Vermillion, J.W. Eley, B. Wilson, S. Heath, and M. Parr. 2008\. Partners in Flight, Landbird Conservation Plan, BCR 37: Gulf Coastal Prairie. 78 pages.](http://www.gcjv.org/documents.php)
+*   [Vermillion, J.W. Eley, B. Wilson, S. Heath, and M. Parr. 2008\. Partners in Flight, Landbird Conservation Plan, BCR 37: Gulf Coastal Prairie. 78 pages.](http://www.gcjv.org/documents.php)
 *   [Wilson, B.C. 2007\. North American Waterfowl Management Plan, Gulf Coast Joint Venture: Mottled Duck Conservation Plan. North American Waterfowl Management Plan, Albuquerque, NM. 27pages + appendices.](http://www.gcjv.org/documents.php)
 *   [Wilson, B.C., and C.G. Esslinger. 2002\. North American Waterfowl Management Plan, Gulf Coast Joint Venture: Texas Mid-Coast Initiative. North American Waterfowl Management Plan, Albuquerque, NM. 28 pages + appendix.](http://www.gcjv.org/documents.php)
 
-### Texas Mid-Coast Bottomlands, Prairies and Wetlands
+## Texas Mid-Coast
 
 *   [Brown, C., K. Andrews, J. Brenner, J.W. Tunnell, C. Canfield, C. Dorset, M. Driscoll and E. Johnson, S. Kaderka. 2011\. Strategy for Restoring the Gulf of Mexico (a cooperative NGO report). The Nature Conservancy. Arlington, VA. 23 pages.](http://www.nature.org/ourinitiatives/regions/northamerica/areas/gulfofmexico/explore/gulf-restoration-strategy-lr.pdf)
 *   The Nature Conservancy. 2002\. Strategic Conservation Plan for the Columbia Bottomlands. 18-19 pages + appendix
@@ -70,7 +67,7 @@ tags:
 *   [Wilson, B.C. 2007\. North American Waterfowl Management Plan, Gulf Coast Joint Venture: Mottled Duck Conservation Plan. North American Waterfowl Management Plan, Albuquerque, NM. 27 pages + appendices.](http://www.gcjv.org/documents.php)
 *   [Wilson, B.C., and C.G. Esslinger. 2002\. North American Waterfowl Management Plan, Gulf Coast Joint Venture: Texas Mid-Coast Initiative. North American Waterfowl Management Plan, Albuquerque, NM. 28 pages + appendix.](http://www.gcjv.org/documents.php)
 
-### Chenier Plain
+## Chenier Plain
 
 *   [Brown, C., K. Andrews, J. Brenner, J.W. Tunnell, C. Canfield, C. Dorset, M. Driscoll and E. Johnson, S. Kaderka. 2011\. Strategy for Restoring the Gulf of Mexico (a cooperative NGO report). The Nature Conservancy. Arlington, VA. 23 pages.](http://www.nature.org/ourinitiatives/regions/northamerica/areas/gulfofmexico/explore/gulf-restoration-strategy-lr.pdf)
 *   [Esslinger, C.G., and B.C. Wilson. 2001\. North American Waterfowl Management Plan, Gulf Coast Joint Venture: Chenier Plain Initiative. North American Waterfowl Management Plan, Albuquerque, NM. 28 pages + appendix.](http://www.gcjv.org/documents.php)
@@ -85,7 +82,7 @@ tags:
 *   Vermillion, W.G. 2012\. Fall Habitat Objectives for Priority Gulf Coast Joint Venture Shorebird Species Using Managed Wetlands and Grasslands, Version 4.0\. Gulf Coast Joint Venture, Lafayette, LA. 31 pages + appendices.
 *   [W. Vermillion, J.W. Eley, B. Wilson, S. Heath, and M. Parr. 2008\. Partners in Flight, Landbird Conservatio Plan, BCR 37: Gulf Coastal Prairie. 78 pages.](http://www.gcjv.org/documents.php)
 
-### Atchafalaya River Basin
+## Atchafalaya Basin
 
 *   [Bennett, M., K. Fritz, A. Hayden-Lesmeister, J. Kozak, A.Nickolotsky. 2013\. Multi-Use Management in the Atchafalaya River Basin: Research at the Confluence of Public Policy and Ecosystem Science. 261 pages + appendices.](http://opensiuc.lib.siu.edu/igert_reports/)
 *   [Louisiana Department of Natural Resources. 2017\. Atchafalaya Basin Program FY 2017 Annual Plan. 60 pages.](http://dnr.louisiana.gov/assets/OCM/ABP/2017_plan/2_4_16LOWRes2017_ABP_Plan.pdf)
@@ -97,7 +94,7 @@ tags:
 *   [U.S. Geological Survey. 2001\. The Atchafalaya Basin -- River of Trees. USGS Fact Sheet 021-02\. 2 pages.](http://la.water.usgs.gov/publications/pdfs/FS-021-02.pdf)
 *   [Wilson, B.C., C.A. Manlove, and C.G. Esslinger. 2002\. North American Waterfowl Management Plan, Gulf Coast Joint Venture: Mississippi River Coastal Wetlands Initiative. North American Waterfowl Management Plan, Albuquerque, NM. 28 pages + appendix.](http://www.gcjv.org/documents.php)
 
-### MS River Delta, Coastal Wetlands and Barrier Islands
+## Mississippi River Coastal Wetlands and Barrier Islands
 
 *   [Brown, C., K. Andrews, J. Brenner, J.W. Tunnell, C. Canfield, C. Dorset, M. Driscoll and E. Johnson, S. Kaderka. 2011\. Strategy for Restoring the Gulf of Mexico (a cooperative NGO report). The Nature Conservancy. Arlington, VA. 23 pages.](http://www.nature.org/ourinitiatives/regions/northamerica/areas/gulfofmexico/explore/gulf-restoration-strategy-lr.pdf)
 *   [Coastal Protection and Restoration Authority of Louisiana. 2012\. Louisiana’s Comprehensive Master Plan for a Sustainable Coast. 190 pages.](http://coastal.la.gov/a-common-vision/2012-coastal-master-plan/)
@@ -109,7 +106,17 @@ tags:
 *   Vermillion, W.G. 2012\. Fall Habitat Objectives for Priority Gulf Coast Joint Venture Shorebird Species Using Managed Wetlands and Grasslands, Version 4.0\. Gulf Coast Joint Venture, Lafayette, LA. 31 pages + appendices.
 *   [Wilson, B.C., C.A. Manlove, and C.G. Esslinger. 2002\. North American Waterfowl Management Plan, Gulf Coast Joint Venture: Mississippi River Coastal Wetlands Initiative. North American Waterfowl Management Plan, Albuquerque, NM. 28 pages + appendix.](http://www.gcjv.org/documents.php)
 
-### North-Central Gulf Coast
+## Mississippi Alluvial Valley
+
+*   [Killgore, K. J., P. Hartfield, T. Slack, R. Fischer, D. Biedenharn, B. Kleiss, J. Hoover, and A. Harrison. 2014\. Conservation Plan for the Interior Least Tern, Pallid Sturgeon, and Fat Pocketbook Mussel in the Lower Mississippi River (Endangered Species Act, Section 7(a)(1)). MRG&P Report No. 4\. Vicksburg, MS: U.S. Army Engineer Research and Development Center. 90 pages.](http://acwc.sdp.sirsi.net/client/search/asset/1040663)
+*   [Lower Mississippi River Resource Authority: Lower Mississippi River Resource Assessment. 2015\. Final Assessment in Reponse to Section 402 of WRDA 2000\. 112 pages.](http://www.mvm.usace.army.mil/Portals/51/docs/missions/projects/LMRRA/LMRRA%20Public%20Review%20Draft%202.pdf)
+*   [Lower Mississippi Valley Joint Venture Forest Resource Conservation Working Group. 2007\. Restoration, Management, and Monitoring of Forest Resources in the Mississippi Alluvial Valley: Recommendations for Enhancing Wildlife Habitat. Edited by R. Wilson, K. Ribbeck, S. King, and D. Twedt. 62 pages + appendices.](http://www.lmvjv.org/library/DFC_Report_to_LMVJV_2007.pdf)
+*   [Lower Mississippi Valley Joint Venture. 2016\. Gaining Ground for Widllife in the Delta. 6 pages.](http://www.lmvjv.org/pages/About_LMVJV/Gaining_Ground.pdf)
+*   [Mississippi Alluvial Valley/Western Gulf Coastal Plain Working Group. 2000\. U.S. Shorebird Conservation Plan for the Lower Mississippi Valley/Western Gulf Coastal Plain. 29 pages.](http://www.lmvjv.org/library/USSP_LMVWGCP.pdf)
+*   [Twedt, D., D. Pashley, C. Hunter, A. Mueller, C. Brown, and B. Ford. 1999\. Partners in Flight Bird Conservation Plan for the Mississippi Alluvial Valley, Version 1.0.74 pages](http://www.lmvjv.org/library/MAV_PIF_PLAN.pdf)
+*   [Twedt, D.J., W.B.Uihlein, and A.B. Elliott. 2006\. A Spatially Explicit Decision Support Model for Restoration of Forest Bird Habitat. Conservation Biology 20:100-110\.](http://www.lmvjv.org/library/Twedt_etal_2006.pdf)
+
+## Central Gulf Lands
 
 *   [Alabama State Wildlife Action Plan, Draft. 2015\. Alabama Department of Conservation and Natural Resources, Division of Wildlife and Freshwater Fisheries. 523 pages.](http://www.outdooralabama.com/sites/default/files/AL-SWAP-DRAFT-30JULY_0.pdf)
 *   [Manlove, C.A., B.C. Wilson, and C.G. Esslinger. 2002\. North American Waterfowl Management Plan, Gulf Coast Joint Venture: Coastal Mississippi Wetlands Initiative. North American Waterfowl Management Plan, Albuquerque, N.M. 28 pp. + appendix.](http://www.gcjv.org/documents.php)
@@ -125,7 +132,7 @@ tags:
 *   U.S. Fish and Wildlife Service. YEAR?? South Mississippi Strategic Plan, Mississippi Field Office. 6 pages.
 *   [Watson, A., J. Reece, B.E. Tirpak, C. K. Edwards, L. Geselbracht, M. Woodrey, M. LaPeyre, and P. S. Dalyander. 2015\. The Gulf Coast Vulnerability Assessment: Mangrove, Tidal Emergent Marsh, Barrier Islands, and Oyster Reef. 132 pages.](http://gulfcoastprairielcc.org/science/science-projects/gulf-coast-vulnerability-assessment/)
 
-### AL FL Panhandle Coastal Dunes and Beaches
+## Central Gulf and Florida Panhandle Coast
 
 *   [Cane, J.H., R.R. Snelling, and L.J. Kervin. 1996\. A new monolectic coastal bee, Hesperapis oraria Snelling and Stage (Hymenoptera: Melittidae), with a review of desert and neotropical disjunctives in the southeastern U.S. J. Kansas Entomological Soc. 69(4) supple.:238-247.](http://www.jstor.org/stable/25085721?seq=1#page_scan_tab_contents)
 *   [Choctawhatchee Basin Alliance. 2016 Coastal Dune Lakes of Walton County., accessed 2-19-2016.](http://www.basinalliance.org/page.cfm?articleID=7)
@@ -137,7 +144,7 @@ tags:
 *   [Florida Fish and Wildlife Conservation Commission. 2013\. A species action plan for four imperiled species of beach-nesting birds. Tallahassee, Florida. 51 pages.](http://myfwc.com/media/2720106/Imperiled-Beach-Nesting-Birds-Species-Action-Plan-Final-Draft.pdf)
 *   [Florida Fish and Wildlife Conservation Commission. 2016\. Florida’s endangered and threatened species. 12 pages.](http://myfwc.com/media/1515251/threatened-endangered-species.pdf)
 *   [Florida Natural Areas Inventory and Florida Department of Natural Resources. 1990\. Guide to the natural communities of Florida. Gainesville, Florida. 72 pages + appendices.](http://www.fnai.org/PDF/Natural_Communities_Guide.pdf)
-*   Gulf Coast Ecosystem Restoration Council. 2015\. Resources and Ecosystems Sustainability, Tourist Opportunities, and Revived Economies of the Gulf Coast States Act (RESTORE Act) Initial Funded Priorities List. 275 p. [https://restorethegulf.gov/council-selected-restoration-component/funded-priorities-list, accessed 2-19-2016
+*   [Gulf Coast Ecosystem Restoration Council. 2015\. Resources and Ecosystems Sustainability, Tourist Opportunities, and Revived Economies of the Gulf Coast States Act (RESTORE Act) Initial Funded Priorities List. 275 pages.](https://restorethegulf.gov/council-selected-restoration-component/funded-priorities-list)
 *   Hoyer, M.V. and D.E. Canfield, Jr. 2008\. A management plan for Walton County’s coastal dune lakes. A report by Florida LAKEWATCH.
 *   [National Marine Fisheries Service, U.S. Fish and Wildlife Service, and SEMARNAT. 2011\. Bi-National Recovery Plan for the Kemp’s Ridley Sea Turtle (Lepidochelys kempii), Second Revision. National Marine Fisheries Service. Silver Spring, Maryland 156 pages + appendices.](https://www.fws.gov/kempsridley/)
 *   [National Research Council. 2007\. Mitigating shore erosion along sheltered coasts. The National Academies Press, Washington, DC. 188 pages.](http://www.nap.edu/catalog/11764/mitigating-shore-erosion-along-sheltered-coasts)
@@ -151,41 +158,27 @@ tags:
 *   [Watson, A., J. Reece, B.E. Tirpak, C. K. Edwards, L. Geselbracht, M. Woodrey, M. LaPeyre, and P. S. Dalyander. 2015\. The Gulf Coast Vulnerability Assessment: Mangrove, Tidal Emergent Marsh, Barrier Islands, and Oyster Reef. 132 pages.](http://gulfcoastprairielcc.org/science/science-projects/gulf-coast-vulnerability-assessment/)
 *   [Wood, L.M., E.A. Mizell, and S.J. Herrington. 2007\. Apalachicola River watershed invasive non-native species management plan. The Nature Conservancy Northwest Florida Program, final report to Fish and Wildlife Service. 175 pages + appendix.](http://bugwoodcloud.org/CDN/floridainvasives/ARSA_CISMA_Plan.pdf)
 
-### Panhandle Lands and Apalachicola River
+## Florida Panhandle Lands
 
 *   Hoctor, T. 2013\. Green Links Regional CLIP Database for U.S. Fish and Wildlife Service Contract # F11PX04150 Panama City Field Office, FL. University of Florida Center for Landscape Conservation Planning. Gainesville, FL. 43 pages + appendices.
 *   Metcalf, C. 2005\. Northwest Florida Unpaved Road-Stream Crossing Manual. U.S. Fish and Wildlife Service, Panama City, Florida, 426 pages.
 *   Metcalf, C. K. and C. R. Morris. 2015\. Approaches to Stream Habitat Restoration Techniques in the SE United States. pp. 405-417 in M. D. Tringali, J. M. Long, T. W. Birdsong, and M. S. Allen, editors. Black Bass Diversity: multidisciplinary science for conservation. American Fisheries Society, Symposium 82\. Bethesda, Maryland
-
-### Panhandle Lands & Apalachicola River Watershed
-
 *   [South Atlantic Landscape Conservation Cooperative. 2015\. Blueprint 2.0., accessed 2-19-2016](http://blueprint.southatlanticlcc.org/v2/index.html)
-
-### Panhandle Lands
-
 *   [The Nature Conservancy in Florida. 2010\. Inventory and Prioritization of Impaired Sites in the Yellow River Watershed in Alabama and Florida. 404 pages.](https://www.denix.osd.mil/nr/upload/09-432-Tech-Note-FINAL.pdf)
-*   The Nature Conservancy in Florida. 2014. Apalachicola-St. Marks: community based watershed plan. 68 pages.
-*   The Nature Conservancy in Florida. 2014. Pensacola Bay: community based watershed plan. 138 pages.
-*   The Nature Conservancy in Florida. 2014. Perdido Bay: community based watershed plan. 104 pages.
-*   The Nature Conservancy in Florida. 2014. St. Andrews-St. Joe Bays: community based watershed plan. 106 pages.
-*   ### Panhandle Lands & Apalachicola River Watershed
-
-*   U.S. Fish and Wildlife Service. 2016. Draft. Frosted flatwoods salamander, 5-year review: summary and evaluation. Panama City, Florida.
-*   U.S. Fish and Wildlife Service. 2016. Draft. Reticulated flatwoods salamander, 5-year review: summary and evaluation. Panama City, Florida.
-
-### Panhandle Lands and Apalachicola River
-
+*   The Nature Conservancy in Florida. 2014\. Apalachicola-St. Marks: community based watershed plan. 68 pages.
+*   The Nature Conservancy in Florida. 2014\. Pensacola Bay: community based watershed plan. 138 pages.
+*   The Nature Conservancy in Florida. 2014\. Perdido Bay: community based watershed plan. 104 pages.
+*   The Nature Conservancy in Florida. 2014\. St. Andrews-St. Joe Bays: community based watershed plan. 106 pages.
+*   U.S. Fish and Wildlife Service. 2016\. Draft. Frosted flatwoods salamander, 5-year review: summary and evaluation. Panama City, Florida.
+*   U.S. Fish and Wildlife Service. 2016\. Draft. Reticulated flatwoods salamander, 5-year review: summary and evaluation. Panama City, Florida.
 *   [U.S. Fish and Wildlife Service and Gulf States Marine Fisheries Cornmission. 1995\. Gulf Sturgeon Recovery Plan. Atlanta, Georgia. 170 pages.](http://www.nmfs.noaa.gov/pr/pdfs/recovery/sturgeon_gulf.pdf)
 *   U.S. Fish and Wildlife Service. 1982\. Eastern Indigo Snake Recovery Plan. Atlanta, GA. 23 pages.
 *   U.S. Fish and Wildlife Service. 1994\. Recovery Plan for Four Plants of the Lower Apalachicola Region, Florida: Euphorbia telephioides (Telephus spurge), Macbridea alba (white birds-in-a-nest), Pinguicula ionantha (Godfrey’s butterwort), and Scutellaria floridana (Florida skullcap). Atlanta, GA . 32 pages.
 *   [U.S. Fish and Wildlife Service. 1998\. Okaloosa Darter Recovery Plan. Atlanta, GA. 42 pages.](https://www.fws.gov/ecos/ajax/docs/recovery_plan/970407.pdf)
 *   [U.S. Fish and Wildlife Service. 2003\. Recovery Plan for Endangered Fat Threeridge (Amblema neislerii), Shinyrayed Pocketbook (Lampsilis subangulata), Gulf Moccasinshell (Medionidus pencillatus), Ochlockonee Moccasinshell (Medionidus simpsonianus), and Oval Pigtoe (Pleurobema pyriforme); and Threatened Chipola Slabshell (Elliptio chipolaensis) and Purple Bankclimber (Elliptoideus sloatianus). Atlanta, GA. 142 pages.](https://www.fws.gov/southeast/news/2003/7-mussel_recorvery-plan.pdf)
-
-### Panhandle Lands & Apalachicola River Watershed
-
 *   [Wood, L.M., E.A. Mizell, and S.J. Herrington. 2007\. Apalachicola River watershed invasive non-native species management plan. The Nature Conservancy Northwest Florida Program, final report to Fish and Wildlife Service. 175 pages + appendix.](http://bugwoodcloud.org/CDN/floridainvasives/ARSA_CISMA_Plan.pdf)
 
-### Apalachicola River Watershed
+## Greater Apalachicola Basin
 
 *   [ACF Stakeholders. 2015\. Sustainable Water Management Plan. 130 pages.](http://acfstakeholders.org/wp-content/uploads/2015/05/ACFS-Sustainable-Water-Management-Plan-For-Release.pdf)
 *   [Blaustein, R.J. 2008\. Biodiversity Hotspot: the Florida Panhandle. BioScience 58(9):784-790](http://www.masternaturalist.ifas.ufl.edu/docs/newsletters/res/biocience_biodiversity.pdf)
@@ -205,7 +198,7 @@ tags:
 *   U.S. Fish and Wildlife Service. 2016\. Draft. Reticulated flatwoods salamander, 5-year review: summary and evaluation. Panama City, Florida.
 *   [Wood, L.M., E.A. Mizell, and S.J. Herrington. 2007\. Apalachicola River watershed invasive non-native species management plan. The Nature Conservancy Northwest Florida Program, final report to Fish and Wildlife Service. 175 pages + appendix.](http://bugwoodcloud.org/CDN/floridainvasives/ARSA_CISMA_Plan.pdf)
 
-### Florida's Big Bend
+## Florida's Big Bend
 
 *   [Florida Fish and Wildlife Conservation Commission. 2012\. Florida State Wildlife Action Plan Chapter 3: Species of Greatest Conservation Need. pages 42 - 107](http://myfwc.com/media/2652455/Chapter3_SGCN.pdf)
 *   [Florida Fish and Wildlife Conservation Commission. 2016\. DRAFT Florida's Imperiled Species Management Plan. 183 pages.](http://myfwc.com/wildlifehabitats/imperiled/)
@@ -217,7 +210,7 @@ tags:
 *   [Suwannee River Water Management District. 1995\. Sante Fe River Surface Water Improvement and Management Plan. 123 pages.](http://www.mysuwanneeriver.com/DocumentCenter/View/11434)
 *   [Suwannee River Water Management District. 1995\. Waccasassa River Surface Water Improvement and Management Plan. 76 pages.](http://www.mysuwanneeriver.com/DocumentCenter/View/11436)
 
-### Tampa Bay Watershed
+## Tampa Bay
 
 *   [Joint Florida Gulf National Estuary Programs. 2013\. Southwest Florida Regional Ecosystem Restoration Plan. 47 pages.](http://www.tbeptech.org/attachments/article/131/Southwest%20Florida%20Regional%20Ecosystem%20Restoration%20Plan,%20adopted%203-8-2013.pdf)
 *   [Southwest Florida Water Management Disctrict. 1999\. Tampa Bay Surface Water Improvement and Management (SWIM) Plan. 108 pages.](https://www.swfwmd.state.fl.us/documents/plans/tampabay_1998.pdf)
@@ -225,26 +218,26 @@ tags:
 *   [Tampa Bay Estuary Program. 2015\. A Tampa Bay Estuary Program Progress Report 2015\. 20 pages.](http://www.tbep.org/pdfs/tbep_progress_rpt_2015_webx.pdf)
 *   U.S. Fish and Wildlife Service. 2010\. Tampa Bay Refuges: Egmont Key, Pinellas, and Passage Key National Wildlife Refuges Comprehensive Conservation Plan. 111 pages + appendices.
 
-### Southwest Florida
+## Southwest Florida
 
-*   [National Park Service. 2010. Tamiami Trail Modifications: Next Steps. Final Environmental Impact Statement. 352 pages + appendices.](https://parkplanning.nps.gov/document.cfm?parkID=374&projectID=26159&documentID=37956)
+*   [National Park Service. 2010\. Tamiami Trail Modifications: Next Steps. Final Environmental Impact Statement. 352 pages + appendices.](https://parkplanning.nps.gov/document.cfm?parkID=374&projectID=26159&documentID=37956)
 *   [U.S. Army Corps of Engineers and South Florida Water Management District. 2010\. Final Caloosahatchee River (C-43) West Basin Storage Reservoir Project Implementation Report and Final Environmental Impact Statement. 482 pages.](http://141.232.10.32/pm/projects/docs_04_c43_pir_final.aspx)
 *   [U.S. Army Corps of Engineers and South Florida Water Management District. 2014\. Central Everglades Planning Project Final Integrated Project Implementation Report and Environmental Impact Statement. 386 pages.](http://141.232.10.32/pm/projects/docs_51_cepp.aspx)
-
-### Southwest Florida
-
-*   U.S. Army Corps of Engineers, Jacksonville District. 2015\. Southwest Florida Comprehensive Watershed Plan: A habitat quilt tied by threads of water reconnecting a sustainable landscape. 186 pages.
 *   [U.S. Fish and Wildlife Service. 2008\. Florida Panther Recovery Plan (Puma concolor coryi), Third Revision. 180 pages + appendices.](https://www.fws.gov/uploadedFiles/Panther%20Recovery%20Plan.pdf)
 *   [W.C. Hunter, G. Walker, S. Melvin, and J. Wheeler. 2006\. Southeast United States Regional Waterbird Conservation Plan. 131 pages.](http://www.pwrc.usgs.gov/nacwcp/pdfs/regional/seusplanfinal906.pdf)
 
-### Florida Keys
+## Southwest Florida
+
+*   U.S. Army Corps of Engineers, Jacksonville District. 2015\. Southwest Florida Comprehensive Watershed Plan: A habitat quilt tied by threads of water reconnecting a sustainable landscape. 186 pages.
+
+## Florida Keys
 
 *   [The Nature Conservancy. 2009\. Initial estimates of the ecological and economic consequences of sea level rise on the Florida Keys through the year 2100\. 35 pages.](http://frrp.org/SLR%20documents/FINAL%20-%20Aug%2021%20-WITH%20COVER.pdf)
 *   [U.S. Army Corps of Engineers. 1999\. Central and South Florida Project Comprehensive Review Study. Final Integrated Feasibility Report and Programmatic Environmental Impact Statement. 4034 pages.](http://141.232.10.32/docs/comp_plan_apr99/the-plan-complete_web.pdf)
 *   [U.S. Fish and Wildlife Service. 2009\. Lower Florida Keys National Wildlife refuges Comprehensive Conservation Plan and Environmental Assessment. 96 pages + appendices.](https://www.fws.gov/southeast/planning/PDFdocuments/Florida%20Keys%20FINAL/TheKeysFinalCCPFormatted.pdf)
 *   [U.S. Fish and Wildlife Service. 2006\. Crocodile Lake National Wildlife Refuge Comprehensive Conservation Plan. 44 pages + appendices.](https://www.fws.gov/southeast/planning/PDFdocuments/Crocodile%20Lake/CrocodileLakeFinalCCP.pdf)
 
-### Upper Mississippi River
+## Upper Mississippi River Watershed
 
 *   [Illinois State Water Survey. 1997\. Integrated Management Plan for the Illinois River Watershed. 61 pages.](http://ilrdss.isws.illinois.edu/pubs/ILRiv-IMP-Tech-Report-updated.pdf)
 *   [Pollinator Health Task Force. 2015\. National Strategy to Promote the Health of Honey Bees and Other Pollinators. 58 pages.](https://www.whitehouse.gov/sites/default/files/microsites/ostp/Pollinator%20Health%20Strategy%202015.pdf)
@@ -253,7 +246,7 @@ tags:
 *   [US Army Corps of Engineers. 2009\. Upper Mississippi River System Ecosystem Restoration Objectives. 85 pages.](http://www.mvr.usace.army.mil/Portals/48/docs/Environmental/EMP/UMRR_Ecosystem_Restoration_Objectives_2009.pdf)
 *   [US Fish and Wildlife Seervice. 2014\. Surrogate Species Version 1.0, Eastern TAllgrass Prairie and Big Rig Rivers, Population Objectives Status Report. 135 pages.](http://www.fws.gov/midwest/science/surrogatespecies/documents/ETPBRSurrogateSpeciesPopulationsObjectives.pdf)
 
-### Rainwater Basin
+## Rainwater Basin
 
 *   Bishop, A.A., A. Barenberg, N. Colpe, and R. Grosse. 2011\. Nebraska Land Cover Development, Rainwater Basin Joint Venture Report.
 *   [Bishop, A.A., and M. Vrtiska. 2008\. Effects of the Wetland Reserve Program on Waterfowl Carrying Capacity in the Rainwater Basin Region of South-central Nebraska. 51 pages.](http://www.fwspubs.org/doi/suppl/10.3996/072012-JFWM-062/suppl_file/10.3996_072012-jfwm-062.s2.pdf)
@@ -267,17 +260,17 @@ tags:
 *   [U.S. Fish and Wildlife Service. 1994\. Whooping Crane Recovery Plan. 77 pages + appendices.](https://www.fws.gov/southwest/es/arizona/Documents/RecoveryPlans/WhoopingCrane.pdf)
 *   [Vrtiska, M.P., and L.A. Powell. 2011\. Estimates of Duck Breeding Populations in the Nebraska Sandhills Using Double Obeserver Methology. Waterbirds 34:96-101.](http://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1352&context=natrespapers)
 
-### Prairie Pothole
+## Prairie Potholes
 
 *   Baldassarre, G. A., and E.G. Bolden. 2006\. Waterfowl Ecology and Management. Krieger, Malabar, Florida, USA.
 *   [Casey, D. 2005\. Prairie Pothole Joint Venture, 2005 Implementation Plan, Section V – Landbird Plan. 21 pages.](http://ppjv.org/resources/implementation-plan/2005-implementation-plan)
 *   [Casey, D., K.J. Forman, D.A. Granfors, R.R. Johnson, C.A. Lively, D.E. Naugle, N.D. Niemuth, R.E. Reynolds, and J.K. Ringelman. J.K. Ringelman, ed. 2005\. Prairie Pothole Joint Venture, 2005 Implementation Plan, Section I – Plan Foundation. 26 pages.](http://ppjv.org/resources/implementation-plan/2005-implementation-plan)
-*   [Granfors, D.A. and N. Niemuth. 2005. Prairie Pothole Joint Venture, 2005 Implementation Plan, Section III – Shorebird Plan. 22 pages.](http://ppjv.org/resources/implementation-plan/2005-implementation-plan)
+*   [Granfors, D.A. and N. Niemuth. 2005\. Prairie Pothole Joint Venture, 2005 Implementation Plan, Section III – Shorebird Plan. 22 pages.](http://ppjv.org/resources/implementation-plan/2005-implementation-plan)
 *   [Niemuth, N. 2005\. Prairie Pothole Joint Venture, 2005 Implementation Plan, Section IV – Waterbird Plan. 18 pages.](http://ppjv.org/resources/implementation-plan/2005-implementation-plan)
 *   Raftovich, R.V., S.C. Chandler and K.A. Wilkins. 2014\. Migratory Bird hunting activity and harvest during 2012-13 and 2013-14 hunting seasons. U.S. Fish and Wildlife Service, Laurel, Maryland, USA. 60 pages + appendices.
 *   [Ringelman, J.K., R. E. Reynolds and R.R. Johnson. 2005\. Prairie Pothole Joint Venture, 2005 Implementation Plan, Section II – Waterfowl Plan. 14p.](http://ppjv.org/resources/implementation-plan/2005-implementation-plan)
 *   Shearer, J.S. Topeka Shiner (Notropis topeka) management plan for the state of South Dakota. South Dakota Department of Game, Fish and Parks, Pierre, Wildlife Division Report No. 2003-10, 42 pages + appendices.
-*   U.S. Fish and Wildlife Service. 2014. Revised recovery plan for the pallid sturgeon (Scaphirhynchus albus). 101 pages + appendices.
+*   U.S. Fish and Wildlife Service. 2014\. Revised recovery plan for the pallid sturgeon (Scaphirhynchus albus). 101 pages + appendices.
 
 <ul class="chapter-links">
   <li class="last-chapter"><a href="../../conclusion">Last Chapter: Conclusion</a></li>
