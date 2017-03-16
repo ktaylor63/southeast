@@ -44,7 +44,7 @@
   {
     "name": "Best available science",
     "acronym": null,
-    "description": "To assure the quality of the biological, ecological, and other information used in the implementation of the Act, it is the policy of the Services to: <ol><li>evaluate all scientific and other information used to ensure that it is reliable, credible, and represents the best scientific and commercial data available;</li><li>gather and impartially evaluate biological, ecological, and other information disputing official positions, decisions, and actions proposed or taken by the Services;</li><li>document their evaluation of comprehensive, technical information regarding the status and habitat requirements for a species throughout its range, whether it supports or does not support a position being proposed as an official agency position;</li><li>use primary and original sources of information as the basis for recommendations;</li><li>retain these sources referenced in the official document as part of the administrative record supporting an action;</li><li>collect, evaluate, and complete all reviews of biological, ecological, and other relevant information within the schedules established by the Act, appropriate regulations, and applicable policies;</li><li>require management-level review of documents developed and drafted by Service biologists to verify and assure the quality of the science used to establish official positions, decisions, and actions taken by the Services during their implementation of the ESA.</ul>",
+    "description": "To assure the quality of the biological, ecological, and other information used in the implementation of the Act, it is the policy of the Services to: <ol><li>evaluate all scientific and other information used to ensure that it is reliable, credible, and represents the best scientific and commercial data available;</li><li>gather and impartially evaluate biological, ecological, and other information disputing official positions, decisions, and actions proposed or taken by the Services;</li><li>document their evaluation of comprehensive, technical information regarding the status and habitat requirements for a species throughout its range, whether it supports or does not support a position being proposed as an official agency position;</li><li>use primary and original sources of information as the basis for recommendations;</li><li>retain these sources referenced in the official document as part of the administrative record supporting an action;</li><li>collect, evaluate, and complete all reviews of biological, ecological, and other relevant information within the schedules established by the Act, appropriate regulations, and applicable policies;</li><li>require management-level review of documents developed and drafted by Service biologists to verify and assure the quality of the science used to establish official positions, decisions, and actions taken by the Services during their implementation of the ESA.</ol>",
     "related": [
       "Endangered Species Act"
     ]
@@ -105,7 +105,7 @@
   {
     "name": "Cooperative Ecosystem Studies Units",
     "acronym": "CESU",
-    "description": "The <a href='http://www.cesu.org/' target='_blank'Cooperative Ecosystem Studies Units</a> (CESU) Network is a national, collaborative consortium of federal agencies, tribes, universities, state and local governments, and other partners. The CESU Network’s mission is to provide scientific research, technical assistance, and education on natural and cultural resource issues to federal land management, environmental organizations and research institutions.",
+    "description": "The <a href='http://www.cesu.org/' target='_blank'>Cooperative Ecosystem Studies Units</a> (CESU) Network is a national, collaborative consortium of federal agencies, tribes, universities, state and local governments, and other partners. The CESU Network’s mission is to provide scientific research, technical assistance, and education on natural and cultural resource issues to federal land management, environmental organizations and research institutions.",
     "related": []
   },
   {
@@ -133,12 +133,6 @@
     "acronym": null,
     "description": "Involves the protection, retention and rehabilitation of natural connections among habitats within ecosystems at the landscape level. The goal is interconnected habitat that allows for the movement of wildlife.",
     "related": ["Wildlife cooridors"]
-  },
-  {
-    "name": "Conservation",
-    "acronym": null,
-    "description": "To protect and maintain the health of the natural world.<br><br>As defined in the <a href='http://www.fws.gov/endangered/esa-library/pdf/ESAall.pdf'>Endangered Species Act</a>: The use of all methods and procedures which are necessary to bring any endangered species or threatened species to the point at which the measures provided pursuant to the Endangered Species Act are no longer necessary.",
-    "related": ["Conservation easement"]
   },
   {
     "name": "Conservation easement",
@@ -298,15 +292,6 @@
       "Habitat",
       "Critical Habitat",
       "Habitat fragmentation"
-    ]
-  },
-  {
-    "name": "Harass",
-    "acronym": null,
-    "description": "See: take.",
-    "related": [
-      "Endangered Species Act",
-      "Take"
     ]
   },
   {
