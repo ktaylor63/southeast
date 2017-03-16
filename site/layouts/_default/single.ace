@@ -10,7 +10,9 @@
     {{ if .Params.subtitle }}
     h2.page-subtitle {{ .Params.subtitle}}
     {{ end }}
-    p.byline {{ if .Params.author }}By {{ .Params.author }}{{ end }}
+    {{ if .Params.author }}
+    p.byline By {{ .Params.author }}
+    {{ end }}
     {{ if not .Date.IsZero }}
       span.article-date {{ .Date.Format "January 2, 2006" }}
     {{ end }}
