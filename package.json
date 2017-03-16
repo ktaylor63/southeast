@@ -11,6 +11,7 @@
     "npm-watch": "npm-watch",
     "hero": "node build/hero build",
     "images": "node build/images build",
+    "copy": "node build/images copy",
     "watch": "node build/watch",
     "watch:sass": "node-sass -w src/scss/styles.scss dist/css/styles.css",
     "build:sass": "node-sass --output-style compressed src/scss/styles.scss | postcss -u autoprefixer -o dist/css/styles.css",
