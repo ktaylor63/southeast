@@ -13,14 +13,13 @@ tags:
     - Insect
     - Endangered
     - 'Pine Rocklands'
-    - Gulf
 hero:
     link: 'https://flic.kr/p/BEwwVZ'
     name: miami-tiger-beetle.jpg
     alt: 'An iridescent insect with many small hairs on its belly standing on leaf litter and sandy soil'
     caption: 'Miami tiger beetle. Photo by Jonathan Mays, Florida Fish and Wildlife Conservation Commission.'
 description: 'The Miami tiger beetle, found exclusively in pine rockland habitat in Miami-Dade County, Florida, has a shiny green exterior and protected under the Endangered Species Act as endangered.'
-updated: 'January 26th, 2017'
+updated: 'March 17th, 2017'
 ---
 
 - **Taxa**: Arthropod (Ground Beetle)

@@ -13,12 +13,13 @@ tags:
     - Threatened
     - Florida
     - Georgia
+    - Gulf
 hero:
     name: suwannee-moccasinshell.jpg
     alt: 'Two dark gray mussels with striations on a red towel next to a ruler for scale.'
     caption: 'Suwannee moccasinshells. Photo by USFWS.'
     position: bottom
-updated: 'January 26th, 2017'
+updated: 'March 17th, 2017'
 ---
 
 - **Taxon:** Bivalve, Unionidae
