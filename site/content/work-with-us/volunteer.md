@@ -18,12 +18,12 @@ hero:
     link: 'https://flic.kr/p/aUmGo2'
     alt: 'A young woman wearing a USFWS volunteer hat and shirt with a temporary from tattoo on her cheek.'
     caption: 'Nancy, a volunteer, attends the 2011 grand opening of our Caribbean offices in Boquerón, Puerto Rico. Photo by USFWS.'
-updated: 'November 8th, 2016'
+updated: 'March 17th, 2017'
 ---
 
 Volunteers help the U.S. Fish and Wildlife Service with almost everything we do. From wildlife monitoring to leading school programs or maintaining trails, our volunteers make it happen. In addition, [volunteering has been proven to provide benefits to your mental and physical health](http://www.helpguide.org/articles/work-career/volunteering-and-its-surprising-benefits.htm)!
 
-Volunteering with us is also a great way to engage with your local community while making a positive difference for American wildlife and habitats. Most of our stations and a variety of our projects have a need for volunteers, so if you have the desire to help, then we need you!
+Volunteering with us is also a great way to engage with your local community while making a positive difference for American wildlife and habitats. Most of our stations and a variety of our projects need volunteers, so if you have the desire to help, then we need you!
 
 {{< figure class="photo-center" src="/images/pages/biologist-taking-notes.jpg" alt="A biologist taking notes in the field." caption="A volunteer takes notes while working with North Carolina biologists in a southern Appalachian bog. Photo by Gary Peeples, USFWS." link="https://flic.kr/p/aUmGo2" >}}
 
@@ -61,4 +61,4 @@ Perhaps there’s not a refuge or hatchery near you, but you still want to help 
 6. **Have fun!**
 
 ## For More Information
-Please contact Sallie Gentry, Southeast Region Volunteer Coordinator at (404) 679-7293 or [sallie_gentry@fws.gov](mailto:sallie_gentry@fws.gov?subject=Volunteer+Opportunities).
+Please contact Sallie Gentry, Southeast Region volunteer coordinator at (404) 679-7293 or [sallie_gentry@fws.gov](mailto:sallie_gentry@fws.gov?subject=Volunteer+Opportunities).
