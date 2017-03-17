@@ -10,7 +10,7 @@ hero:
 tags:
     - 'Inventory and Monitoring'
     - 'National Wildlife Refuge System'
-updated: 'March 13th, 2017'
+updated: 'March 17th, 2017'
 ---
 
 The Regional Inventory and Monitoring (I&M) branch is designed to address the [National Wildlife Refuge System](https://fws.gov/refuges) (NWRS) critical information needs and to evaluate the effectiveness of conservation strategies on [national wildlife refuges across the Southeast](https://usfws.github.io/southeast-mega-map/?layers=refuges&layers=Refuge+boundaries). I&M assesses the status of NWRS lands, waters, and biota and provides monitoring support, expertise, and advice to refuges and partners in the face of accelerating climate change and threats from other environmental stressors. The primary purpose of the I&M is to provide information support management decisions at multiple geographic scales.
@@ -29,19 +29,13 @@ The Inventory and Monitoring Plan documents the priority and selection of survey
 
 [Search Inventory and Monitoring Plans in the Southeast](/reading-room?q=Inventory+and+Monitoring+Plan).
 
-## Water Resource Inventory and Assessment
-
-Water plays an incredibly important role throughout the National Wildlife Refuge System (NWRS). An accurate understanding of water quantity and quality is essential to identify the habitat needs of species and the threats they face on refuge lands. An accurate inventory of water resources allows refuge managers to prioritize the work of their staff.  A water resource inventory and assessment (WRIA) is the first step to understanding the for a targeted water monitoring effort.
-
- - The WRIA effort includes a centralized database that allows employees to retrieve water resource information from across the NWRS.
- - The inventory component of the WRIA will gather existing information about each refuge’s water features and supply, water quality, water rights, water-related infrastructure, needs and threats.
- - The WRIA process also provides a written assessment including station-specific information that will guide water resource management for that individual refuge.
-
-[Search Water Resource Inventory and Assessments from refuges in the Southeast](/reading-room?q=Water+Resource+Inventory+and+Assessment) or [download the WIRA fact sheet](/pdf/fact-sheets/water-resources-inventory-and-assessment.pdf).
-
 ## Data Management
 
 Regional I&M branch staff are developing, testing, and using a number of data management systems to help the NWRS accomplish mission goals and inform management decisions at all levels. Learn more about [data management in the Southeast](/data-management), or check out the complete list of [conservation tools](/conservation-tools).
+
+## Monitoring Activities
+
+Informed planning and resource management requires information about status, trends, and changes in fish, wildlife, plant populations, and their habitats. The National Wildlife Refuge System (NWRS) Inventory & Monitoring (I&M) Initiative and Southeast Region I&M Branch efforts are focused on both [biotic](/national-wildlife-refuges/biotic-resources) and [abiotic resources](/national-wildlife-refuges/abiotic-resources).
 
 ## Contact
 
