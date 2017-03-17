@@ -11,6 +11,7 @@ const detectionsUrl = `${baseUrl}data/modus-detections.js`;
 
 const colors = ['blue', 'purple', 'red', 'green', 'yellow'];
 const towerColors = [...colors];
+const clusterGroup = L.layerGroup();
 
 L.Icon.Default.imagePath = `${baseUrl}images/`;
 
@@ -31,17 +32,15 @@ const getCircleIcon = color => {
   });
 }
 
-const createClusterIcon = (cluster) => {
+const createClusterIcon = (cluster, color) => {
   return L.divIcon({
     html: cluster.getAllChildMarkers().length,
-    className: 'cluster',
+    className: `cluster cluster-${color}`,
     showCoverageOnHover: false
   });
 }
-const cluster = L.markerClusterGroup({ iconCreateFunction: createClusterIcon});
 
-const homeIcon = `<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="26px" height="26px" viewBox="0 0 26 26" enable-background="new 0 0 26 26" xml:space="preserve"><g id="home"><polygon fill="#464646" points="11.2,20.65 11.2,15.249 14.8,15.249 14.8,20.65 19.3,20.65 19.3,13.45 22,13.45 13,5.35 4,13.45 6.7,13.45 6.7,20.65"/></g></svg>`;
+const homeIcon = `<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26px" height="26px" viewBox="0 0 26 26" enable-background="new 0 0 26 26" xml:space="preserve"><g id="home"><polygon fill="#464646" points="11.2,20.65 11.2,15.249 14.8,15.249 14.8,20.65 19.3,20.65 19.3,13.45 22,13.45 13,5.35 4,13.45 6.7,13.45 6.7,20.65"/></g></svg>`;
 
 const esriNatGeo = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/NatGeo_World_Map/MapServer/tile/{z}/{y}/{x}', {
   attribution: 'Tiles &copy; Esri &mdash; National Geographic, Esri, DeLorme, NAVTEQ, UNEP-WCMC, USGS, NASA, ESA, METI, NRCAN, GEBCO, NOAA, iPC',
@@ -61,6 +60,12 @@ const createDetectionTemplate = (props) => {
 
 const createGeoJsonLayer = (geojson, site, colors) => {
   const color = colors.pop();
+  const cluster = L.markerClusterGroup({
+    maxClusterRadius: 25,
+    iconCreateFunction: cluster => {
+      return createClusterIcon(cluster, color);
+    }
+  });
   const layer = L.geoJSON(geojson, {
     filter(feat, layer) {
       return feat.properties.site === site;
@@ -70,9 +75,7 @@ const createGeoJsonLayer = (geojson, site, colors) => {
     },
     onEachFeature
   });
-  return L.featureGroup
-    .subGroup(cluster)
-    .addLayer(layer);
+  return cluster.addLayer(layer);
 }
 
 const createMap = (err, data) => {
@@ -99,12 +102,9 @@ const createMap = (err, data) => {
     [labels[3]]: detectionLayers[3]
   }
 
-  const map = L.map('map', {
-    layers: [esriNatGeo, towers, ...detectionLayers],
-    scrollWheelZoom: false
-  });
+  const map = L.map('map', { layers: [esriNatGeo, towers, ...detectionLayers] });
 
-  cluster.addTo(map);
+  clusterGroup.addTo(map);
   detectionLayers.forEach(l => l.addTo(map));
 
   L.control.layers(
