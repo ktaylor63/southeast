@@ -1,6 +1,7 @@
 const xhr = require('xhr');
 const queryString = require('query-string');
 const lunr = require('lunr');
+const isUrl = require('is-url-superb');
 
 const template = require('./document-list.pug');
 const output = document.querySelector('.output');
@@ -55,6 +56,12 @@ const search = (e) => {
   return render(results);
 }
 
+const updateUrl = doc => {
+  if (isUrl(doc.url)) return doc;
+  doc.url = `${baseUrl}pdf/${doc.url}`;
+  return doc;
+}
+
 const render = (docs) => {
   output.innerHTML = '';
   // Create an array of document types (no duplicates)
@@ -63,6 +70,7 @@ const render = (docs) => {
   types.forEach(type => {
     const filtered = docs
       .filter(doc => type === doc.type)
+      .map(updateUrl)
       .sort( (a, b) => a.office < b.office)
       .sort( (a, b) => parseInt(a.year) - parseInt(b.year))
       .reverse();

@@ -36,6 +36,7 @@
     "watchify": "^3.8.0"
   },
   "dependencies": {
+    "is-url-superb": "^2.0.0",
     "lunr": "^1.0.0",
     "query-string": "^4.2.3",
     "xhr": "^2.3.3"
