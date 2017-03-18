@@ -1,6 +1,7 @@
 ---
 title: 'Conservation in Georgia'
 url: /georgia
+state: Georgia
 abbreviation: GA
 tags:
     - Georgia
@@ -9,7 +10,7 @@ hero:
     alt: 'Bright purple flower.'
     link: 'https://flic.kr/p/mhjg8B'
     caption: 'Georgia aster flower. Photo by USFWS.'
-updated: 'March 15th, 2017'
+updated: 'March 17th, 2017'
 ---
 
 ## Refuges and Offices

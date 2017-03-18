@@ -1,5 +1,7 @@
 ---
 title: 'Conservation in Florida'
+state: Florida
+abbreviation: FL
 url: /florida
 hero:
     name: sunrise-at-florida-panther.jpg
@@ -9,8 +11,7 @@ hero:
     position: bottom
 tags:
     - Florida
-abbreviation: FL
-updated: 'March 15th, 2017'
+updated: 'March 17th, 2017'
 ---
 
 {{< figure class="photo-right" src="/images/pages/florida-coast-sunset-egret.jpg" alt="Bright red sunset reflected over water with silhouette of a wading bird." caption="Florida sunset. Photo: Paul Lang, USFWS." >}}

@@ -9,5 +9,5 @@
 
     {{ .Content }}
 
-    span.state-name {{ .Title }}
+    span.state-name {{ .Params.state }}
     span.state-abbreviation {{ .Params.abbreviation }}

@@ -1,6 +1,7 @@
 ---
 title: 'Conservation in South Carolina'
 abbreviation: SC
+state: 'South Carolina'
 url: /south-carolina
 tags:
     - 'South Carolina'
@@ -9,7 +10,7 @@ hero:
     alt: 'Bright orange and red leaves on wide-based tree trunks emerging from a swamp.'
     link: 'https://flic.kr/p/fPR75F'
     caption: 'Bald cypress forest in autumn at Santee National Wildlife Refuge. Photo by Marc Epstein, USFWS.'
-updated: 'March 15th, 2017'
+updated: 'March 17th, 2017'
 ---
 
 ## Refuges and Offices

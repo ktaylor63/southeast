@@ -14,7 +14,7 @@
   var endangeredList = document.querySelector('.endangered-species');
   var atRiskList = document.querySelector('.at-risk-species');
   var listedUrl = 'https://finder.royhewitt.com/listed?state=' + abbreviation;
-  var atRiskUrl = 'https://finder.royhewitt.com/species?range[]=' + state;
+  var atRiskUrl = 'https://finder.royhewitt.com//query/custom?status%5B%5D=Candidate&status%5B%5D=Petitioned&status%5B%5D=Proposed+for+Listing+as+Endangered&status%5B%5D=Proposed+for+Listing+as+Endangered+due+to+Similarity+of+Appearance&status%5B%5D=Proposed+for+Listing+as+Threatened&status%5B%5D=Proposed+for+Listing+as+Threatened+due+to+Similarity+of+Appearance&status%5B%5D=Substantial+90-day+Finding&range[]=' + state;
 
   xhr.get(listedUrl, function (err, response, body) {
     if (err) console.error(err);

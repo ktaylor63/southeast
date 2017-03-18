@@ -1,6 +1,7 @@
 ---
 title: 'Conservation in North Carolina'
 abbreviation: NC
+state: 'North Carolina'
 url: /north-carolina
 tags:
     - 'North Carolina'
@@ -10,7 +11,7 @@ hero:
     link: 'https://flic.kr/p/jMESzk'
     caption: 'Mattamuskeet National Wildlife Refuge in North Carolina. Photo by Allie Stewart, USFWS.'
     position: bottom
-updated: 'March 15th, 2017'
+updated: 'March 17th, 2017'
 ---
 
 ## Frequently Asked Questions

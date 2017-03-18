@@ -1,5 +1,6 @@
 ---
 title: 'Conservation in Alabama'
+state: Alabama
 abbreviation: AL
 url: /alabama
 tags:
@@ -9,7 +10,7 @@ hero:
     alt: 'Bright white flowers with a river in the background.'
     link: 'https://flic.kr/p/9EAgB1'
     caption: 'Lilies at Cahaba River National Wildlife Refuge. Photo by Garry Tucker, USFWS.'
-updated: 'March 15th, 2017'
+updated: 'March 17th, 2017'
 ---
 
 ## Refuges and Offices

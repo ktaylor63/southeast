@@ -1,6 +1,7 @@
 ---
 title: 'Conservation in Louisiana'
 abbreviation: LA
+state: Louisiana
 url: /louisiana
 tags:
     - Louisiana
@@ -9,7 +10,7 @@ hero:
     alt: 'An alligator basking in the sun on the shore of a water body.'
     link: 'https://flic.kr/p/buc8MR'
     caption: 'Bell City, Louisiana: Alligator looking for fun. Photo by Corey Douglas.'
-updated: 'March 15th, 2017'
+updated: 'March 17th, 2017'
 ---
 
 ## Refuges and Offices

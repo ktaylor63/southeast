@@ -1,6 +1,7 @@
 ---
 title: 'Conservation in Kentucky'
 abbreviation: KY
+state: Kentucky
 url: /kentucky
 tags:
     - Kentucky
@@ -9,7 +10,7 @@ hero:
     alt: 'A river cuts through a colorful forest in fall.'
     link: 'https://flic.kr/p/buzGMg'
     caption: 'Clarks River National Wildlife Refuge in Fall. Photo by Andy Eller, USFWS.'
-updated: 'March 15th, 2017'
+updated: 'March 17th, 2017'
 ---
 
 ## Refuges and Offices

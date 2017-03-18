@@ -1,6 +1,7 @@
 ---
 title: 'Conservation in Mississippi'
 abbreviation: MS
+state: Mississippi
 url: /mississippi
 tags:
     - Mississippi
@@ -10,7 +11,7 @@ hero:
     link: 'https://flic.kr/p/9JMXaY'
     caption: 'Grand Bay National Wildlife Refuge. Photo by Tom Carlisle.'
     position: bottom
-updated: 'March 15th, 2017'
+updated: 'March 17th, 2017'
 ---
 
 ## Refuges and Offices

@@ -1,5 +1,6 @@
 ---
 title: 'Conservation in Arkansas'
+state: Arkansas
 abbreviation: AR
 url: /arkansas
 hero:
@@ -10,7 +11,7 @@ hero:
     position: top
 tags:
     - Arkansas
-updated: 'March 15th, 2017'
+updated: 'March 17th, 2017'
 ---
 
 ## The Natural State
