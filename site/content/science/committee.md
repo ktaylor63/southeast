@@ -10,12 +10,15 @@ hero:
     link: 'https://flic.kr/p/MFnYkm'
     caption: 'Joyce Coombs helps a students check a rock for animals. Photo by Gary Peeples, USFWS.'
     position: 'top right'
-updated: 'February 1st, 2017'
+updated: 'March 19th, 2017'
 ---
 
 The Southeast Region Science Committee is comprised of employees from throughout the Service who are working to make scientific information more accessible. Current committee members are listed below including information on their experience and expertise.  If you would like to participate or have a question for the science committee feel free to contact us at [southeastscience@fws.gov](mailto:southeastscience@fws.gov).
 
 ## M. Forbes Boyle, Botanist
+
+{{< figure class="photo-right" src="/images/pages/forbes-boyle-bio.jpg" alt="A service biologist wearing a bright orange hat kneeling in tall wetland vegetation." >}}
+
 **Okefenokee National Wildlife Refuge, Georgia**  
 [maxwell_boyle@fws.gov](mailto:maxwell_boyle@fws.gov)
 [Job Series: 0430](https://www.usajobs.gov/Search/?keyword=0430)
@@ -44,7 +47,10 @@ I have had many memorable days over the past five years, but the one that stands
 
 Don’t be afraid to make mistakes, and don’t let the fear of making them keep you from doing the right thing for conservation.
 
-## Laura Brandt, Regional Scientist
+## Laura Brandt, Regional Scientist, Committee Chair
+
+{{< figure class="photo-right" src="/images/pages/laura-brand-bio.jpg" alt="A biologist with a headlamp taking measurements from a captured alligator." >}}
+
 **Davie, Florida**  
 [Laura_brandt@fws.gov](mailto:Laura_brandt@fws.gov)  
 [Job Series: 0486](https://www.usajobs.gov/Search/?keyword=0486)  
@@ -72,6 +78,38 @@ I don’t really have a most memorable day, but have many days that make me smil
 ### If you could go back in time to your first day on the job what advice would give yourself?
 
 Take advantage of the opportunities the Service offers for learning while making a contribution.  Take time to understand the roles and responsibilities of other staff and programs so you can help folks work together.
+
+## John Faustini, Regional Hydrologist
+
+{{< figure class="photo-right" src="/images/pages/john-faustini-bio.jpg" alt="Two biologists on a stream bank take a look at a map." >}}
+
+**Atlanta, Georgia**  
+[John_Faustini@fws.gov](mailto:john_faustini@fws.gov)  
+[Job Series: 1315](https://www.usajobs.gov/Search/?keyword=1315)  
+
+### Expertise
+
+<span class="tag">Hydrology</span> <span class="tag">Fluvial geomorphology</span> <span class="tag">Monitoring aquatic resources</span> <span class="tag">Hydrologic impacts of climate change</span>
+
+### What’s does a typical day involve?
+
+I provide hydrologic expertise to support our field offices, programs, and partners across the Southeast Region, primarily at the landscape to regional scale. These days I spend most of my time in in the office, but I jump at the chance to get out in the field and get my feet wet when I can. I work with the South Atlantic, Appalachian, and Gulf Coast Plain and Ozarks Landscape Conservation Cooperatives to provide expert review and stakeholder input on aquatic conservation data products and decision support tools that they produce. I also assist the Inventory & Monitoring Branch (I&M) to conduct Water Resource Inventory and Assessment (WRIA) at refuges and fish hatcheries, and I serve as the Southeast Region representative on the Service’s National Water Resources Team. I also manage a listserv to facilitate communication and encourage collaboration among Service aquatic resource conservation science and management staff in the Southeast Region, and I am hosting a Southeast Region Aquatic Resource Conservation Science and Practice webinar series in winter and spring of 2016-2017.
+
+### Field of Study
+
+Geosciences, including geomorphology, hydrology, and hydrogeology. I became interested in geology as an undergraduate at the University of Puget Sound, where I had the opportunity to spend a summer assisting one of my professors with field work at Pacaya Volcano in Guatemala, and again the following spring at Mt. St. Helens when it became active (just before the big eruption).  After earning my B.S. in geology at UPS, I went to the University of Wisconsin - Madison for an M.S. in geology (hydrogeology), and then moved to the San Francisco Bay Area to take a job as a hydrogeologist working on characterization and cleanup of soil and groundwater contamination at industrial sites. When that started to become too repetitive after a number of years, I decided to go back to school. I ended up at Oregon State University, where I earned a Ph.D. in geology (fluvial geomorphology), completing my dissertation on the interaction of channel morphology, large woody debris, and peak flows in steep mountain streams in the Oregon Cascades. I subsequently landed a postdoctoral appointment at Oregon State working with researchers in the U.S. EPA’s Environmental Monitoring and Assessment Program (EMAP) to assess aquatic habitat condition in wadeable streams at regional to national scales.
+
+### What led you to the Service?
+
+I realized that the academic career track was not for me, so I decided to seek a federal job where I could use my science background in a more applied setting. After a few months of searching, I saw a position announcement for a Regional Hydrologist with the USFWS in Atlanta that seemed to be written just for me.
+
+### Most memorable day on the job
+
+Wading in Citico Creek in Cherokee National Forest as the leading edge of a spawning run of smallmouth buffalo passed through was pretty cool.
+
+### If you could go back in time to your first day on the job what advice would give yourself?
+
+Seize any opportunity to get out in the field. Take full advantage of the many training, detail, and other opportunities the Service provides to expand your horizons. And don’t let perceived obstacles hold you back; most fall away in the face of creative thinking and persistence.
 
 ## Jeff Gleason, Gulf of Mexico Migratory Bird Coordinator
 **Lacombe, Louisiana**  
@@ -150,7 +188,7 @@ Slow down (just a wee bit).
 [carrie_straight@fws.gov](mailto:carrie_straight@fws.gov)  
 [Job Series: 0401](https://www.usajobs.gov/Search/?keyword=0401)  
 
-{{< figure class="photo-right" src="/images/pages/carrie-straight-bio.jpg" alt="A female biologist wearing waders walks through a stream." caption="=." link="https://www.flickr.com/gp/usfwssoutheast/BZ0D13" >}}
+{{< figure class="photo-right" src="/images/pages/carrie-straight-bio.jpg" alt="A female biologist wearing waders walks through a stream." link="https://www.flickr.com/gp/usfwssoutheast/BZ0D13" >}}
 
 ### Expertise
 
