@@ -29,7 +29,7 @@
 }
 
 .chapter-links li {
-  background: $primary-gradient;
+  background: $color-accent;
   color: white;
   display: flex;
   flex: 1;
@@ -61,7 +61,7 @@
 
 /* Rounded Corners on the Next/Last chapter buttons */
 .chapter-links li:first-child,
-.chapter-links li:first-child > a{
+.chapter-links li:first-child > a {
   border-top-left-radius: 3px;
   border-top-right-radius: 3px;
 }
@@ -75,6 +75,10 @@
 @media (min-width: 900px) {
   .chapter-links {
     flex-direction: row;
+  }
+
+  .chapter-links li {
+    background: $primary-gradient;
   }
 
   .chapter-links a,
