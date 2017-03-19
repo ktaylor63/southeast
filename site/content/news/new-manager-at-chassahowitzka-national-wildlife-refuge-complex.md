@@ -8,6 +8,7 @@ hero:
     caption: 'Aerial of Chassahowitzka National Wildlife Refuge. Photo by Joyce Kleen, USFWS.'
 tags:
     - NWRS
+    - Florida
 updated: 'October 20th, 2016'
 ---
 

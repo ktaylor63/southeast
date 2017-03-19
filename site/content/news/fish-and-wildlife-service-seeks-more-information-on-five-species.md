@@ -14,6 +14,8 @@ tags:
     - Kentucky
     - 'North Carolina'
     - Tennessee
+    - Arkansas
+    - Mississippi
 updated: 'January 8th, 2017'
 ---
 

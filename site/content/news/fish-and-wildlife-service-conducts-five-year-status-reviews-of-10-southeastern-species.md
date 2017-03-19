@@ -7,10 +7,13 @@ hero:
     caption: 'Sandhill crane and chick.  Photo by <a href=\"https://www.flickr.com/photos/thebackroadphotogragher/\" target=\"_blank\">The Back Road Photographer</a>, <a href=\"https://creativecommons.org/licenses/by-nc/2.0/\" target=\"_blank\">CC BY-NC 2.0.</a>'''
 date: '2010-04-09'
 tags:
+    - Alabama
     - 'Mississippi sandhill crane'
     - 'Alabama lampmussel'
     - Pondberry
     - 'Louisiana quillwort'
+    - Louisiana
+    - Mississippi
     - 'Yellow-blotched map turtle'
 updated: 'October 6th, 2016'
 ---

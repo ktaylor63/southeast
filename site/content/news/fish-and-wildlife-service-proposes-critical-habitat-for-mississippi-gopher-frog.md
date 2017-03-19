@@ -10,6 +10,8 @@ tags:
     - Mississippi
     - 'Mississippi gopher frog'
     - 'Critical Habitat'
+    - Alabama
+    - Louisiana
 updated: 'October 20th, 2016'
 ---
 

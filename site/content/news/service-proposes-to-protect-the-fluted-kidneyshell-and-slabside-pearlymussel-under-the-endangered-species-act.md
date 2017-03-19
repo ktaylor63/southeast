@@ -10,6 +10,10 @@ hero:
 tags:
     - 'Fluted kidneyshell'
     - 'Slabside perlymussel'
+    - Alabama
+    - Mississippi
+    - Kentucky
+    - Tennessee
 updated: 'October 21st, 2016'
 ---
 

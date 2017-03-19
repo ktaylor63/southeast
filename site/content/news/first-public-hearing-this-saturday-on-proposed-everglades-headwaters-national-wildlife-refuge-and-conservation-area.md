@@ -9,6 +9,7 @@ hero:
     position: 'top center'
 tags:
     - Everglades
+    - Florida
 updated: 'October 6th, 2016'
 ---
 

@@ -8,6 +8,8 @@ hero:
     caption: 'Manatee rescue Photo by FWC.'
 tags:
     - Manatee
+    - Alabama
+    - Florida
 updated: 'October 20th, 2016'
 ---
 

@@ -8,6 +8,7 @@ hero:
     link: 'https://flic.kr/p/dPAq8s'
     caption: 'Red wolf at Point Defiance Zoo and Aquarium. Photo by Seth Bynum, PDZA.'
 tags:
+    - 'North Carolina'
     - 'Red wolf'
     - Recovery
 updated: 'October 21st, 2016'

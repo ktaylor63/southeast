@@ -11,6 +11,7 @@ hero:
 tags:
     - Manatee
     - 'Critical Habitat'
+    - Florida
 updated: 'October 6th, 2016'
 ---
 

@@ -4,6 +4,8 @@ hero:
     name: norfork-national-fish-hatchery.jpg
     alt: 'Entrance sign at the hatchery.'
     caption: 'Norfork National Fish Hatchery. Photo by Jon Casey.'
+tags:
+  - Arkansas
 date: '2015-03-04'
 updated: 'October 20th, 2016'
 ---

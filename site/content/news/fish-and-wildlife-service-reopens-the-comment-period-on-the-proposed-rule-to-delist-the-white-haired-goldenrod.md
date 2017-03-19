@@ -9,6 +9,7 @@ hero:
 tags:
     - Delist
     - 'Endangered Species Act'
+    - Kentucky
 updated: 'October 26th, 2016'
 ---
 

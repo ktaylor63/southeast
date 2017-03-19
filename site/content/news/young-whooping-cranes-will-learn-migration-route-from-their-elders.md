@@ -9,6 +9,7 @@ hero:
 tags:
     - 'Whooping crane'
     - NWRS
+    - Florida
 updated: 'October 3rd, 2016'
 ---
 

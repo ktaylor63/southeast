@@ -9,6 +9,7 @@ hero:
 tags:
     - NWRS
     - 'Friends group'
+    - Florida
 updated: 'October 20th, 2016'
 ---
 

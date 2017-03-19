@@ -9,6 +9,7 @@ hero:
     caption: 'Tundra swans coming in for a landing. Photo by Jeff Lewis.'
 tags:
     - 'Law Enforcement'
+    - Kentucky
     - 'Tundra swan'
 updated: 'October 3rd, 2016'
 ---

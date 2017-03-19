@@ -6,6 +6,11 @@ tags:
     - 'Critical habitat'
     - 'Neosho mucket'
     - Rabbitsfoot
+    - Alabama
+    - Arkansas
+    - Mississippi
+    - Kentucky
+    - Tennessee
 hero:
     name: rabbitsfoot.jpg
     alt: 'A mussel with brownish outer shell and a glossy white inner shell that resembles a baked potato.'

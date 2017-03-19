@@ -8,6 +8,7 @@ hero:
     caption: 'Georgia aster. Photo by Michele Elmore, The Nature Conservancy, Georgia.'
 tags:
     - 'At-Risk species'
+    - Georgia
 updated: 'October 21st, 2016'
 ---
 

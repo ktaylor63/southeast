@@ -9,6 +9,7 @@ hero:
     position: bottom
 tags:
     - 'Endangered Species Act'
+    - Louisiana
 updated: 'November 9th, 2016'
 ---
 As part of its ongoing efforts to improve the effectiveness and implementation of the Endangered Species Act (ESA) and provide the best possible conservation for our nation’s imperiled wildlife, the U.S. Fish and Wildlife Service released today its [National Listing Workplan](https://www.fws.gov/endangered/improving_esa/listing_workplan_actions.html) for addressing ESA listing and critical habitat decisions over the next seven years. 

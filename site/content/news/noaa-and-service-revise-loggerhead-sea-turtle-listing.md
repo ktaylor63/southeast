@@ -10,6 +10,8 @@ hero:
     position: 'bottom left'
 tags:
     - 'Loggerhead sea turtle'
+    - Florida
+    - 'North Carolina'
 updated: 'October 20th, 2016'
 ---
 
@@ -29,7 +31,7 @@ Scientists found that the Northwest Atlantic Ocean DPS is threatened based on re
 
 Retaining their proposed status, five DPSs were listed as endangered--Northeast Atlantic Ocean, Mediterranean Sea, North Indian Ocean, North Pacific Ocean and South Pacific Ocean--and two others were listed as threatened -- South Atlantic Ocean and Southwest Indian Ocean.  
 
-Background  
+## Background  
 
 Loggerhead sea turtles were listed as threatened throughout their range in 1978\. In 2008, a biological review team of scientists from NOAA, FWS and the states of Florida and North Carolina identified nine biologically discrete and significant DPSs. Since then, NOAA and FWS have been evaluating threats to and the status of each of the nine DPSs, to determine if they should be listed as threatened or endangered.  
 

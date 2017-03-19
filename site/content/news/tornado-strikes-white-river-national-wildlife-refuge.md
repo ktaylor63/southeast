@@ -7,6 +7,7 @@ hero:
     caption: 'Tornado damage on the refuge. Photo by USFWS.'
 tags:
     - NWRS
+    - Arkasas
 updated: 'October 3rd, 2016'
 ---
 

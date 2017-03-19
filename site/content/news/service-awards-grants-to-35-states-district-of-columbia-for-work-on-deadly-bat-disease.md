@@ -9,6 +9,14 @@ hero:
 tags:
  - White-nose syndrome
  - Grants
+ - Alabama
+ - Florida
+ - Georgia
+ - Louisiana
+ - Mississippi
+ - 'North Carolina'
+ - South Carolina
+ - Kentucky
 ---
 
 The U.S. Fish and Wildlife Service today announced grant awards totaling just under $1 million to 35 states and the District of Columbia for white-nose syndrome (WNS) projects. State natural resource agencies will use the funds to support research, monitor bat populations and prepare for and respond to WNS, a disease that afflicts bats.

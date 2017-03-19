@@ -8,6 +8,10 @@ hero:
 date: '2010-04-05'
 tags:
     - 'Roseate tern'
+    - Florida
+    - 'North Carolina'
+    - 'Puerto Rico'
+    - US Virgin Islands
 updated: 'October 6th, 2016'
 ---
 

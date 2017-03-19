@@ -11,6 +11,7 @@ tags:
     - Recovery
     - 'Louisiana black bear'
     - Louisiana
+    - Mississippi
 updated: 'October 20th, 2016'
 ---
 

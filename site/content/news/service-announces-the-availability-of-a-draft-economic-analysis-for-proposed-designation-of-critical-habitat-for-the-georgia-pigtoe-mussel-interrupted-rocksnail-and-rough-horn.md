@@ -11,6 +11,9 @@ tags:
  - Georgia Pigtoe
  - Interrupted rocksnail
  - Roughhorn
+ - Alabama
+ - Georgia
+ - Tennessee
 ---
 
 The U.S. Fish and Wildlife Service today announced the availability of a draft economic analysis for the proposed designation of critical habitat for the Georgia pigtoe mussel, interrupted rocksnail, and rough hornsnail. These two aquatic snails and one mussel were proposed as endangered species, with critical habitat, on June 29, 2009.

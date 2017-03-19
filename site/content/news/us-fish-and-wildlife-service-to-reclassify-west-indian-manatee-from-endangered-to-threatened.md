@@ -5,6 +5,7 @@ date: '2016-01-07'
 tags:
     - Manatee
     - Florida
+    - 'Puerto Rico'
 hero:
     name: manatee-closeup-with-fish.jpg
     alt: 'A manatee partially covered in algae looks directly into the camera surrounded by a school of fish.'

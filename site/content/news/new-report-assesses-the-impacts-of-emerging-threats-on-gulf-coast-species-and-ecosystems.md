@@ -9,6 +9,8 @@ hero:
 tags:
     - Gulf
     - 'Kemps ridley sea turtle'
+    - Florida
+    - Louisiana
 updated: 'October 20th, 2016'
 ---
 

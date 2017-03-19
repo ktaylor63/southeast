@@ -12,6 +12,10 @@ tags:
     - 'Yellowcheek darter'
     - 'Chucky madtom'
     - 'Laurel dace'
+    - Alabama
+    - Arkansas
+    - Kentucky
+    - Tennessee
 updated: 'October 21st, 2016'
 ---
 

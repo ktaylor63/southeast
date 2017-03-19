@@ -1,5 +1,5 @@
 ---
-title: 'Conservation Effort in Northern Louisiana is Something to ''Quack'' About'
+title: 'Conservation Effort in Northern Louisiana is Something to Quack About'
 subtitle: 'Public-Private Partnership Protects and Enhances Vital Migratory Lands at Upper Ouachita National Wildlife Refuge'
 date: '2012-04-20'
 hero:
@@ -10,6 +10,7 @@ hero:
 tags:
     - Louisiana
     - Partnership
+    - Arkansas
 updated: 'October 3rd, 2016'
 ---
 

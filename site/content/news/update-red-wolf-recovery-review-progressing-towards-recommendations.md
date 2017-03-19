@@ -7,6 +7,7 @@ hero:
     alt: 'An adult red wolf walking stealthily in a caged enclosure at the zoo.'
     caption: 'Adult Red wolf. Photo by Brad McPhee, Defiance Zoo and Aquarium.'
 tags:
+    - 'North Carolina'
     - Recovery
     - 'Red wolf'
 updated: 'October 6th, 2016'
@@ -43,7 +44,7 @@ The red wolf recovery team members were selected based on professional expertise
 
 The diverse composition of the recovery team reflects the Service’s commitment to ensure its actions are first, and foremost, grounded in sound science, while also addressing any identified shortcomings of its past recovery efforts, especially in terms of engaging landowners more effectively in recovery planning and implementation as needed.  The Service is grateful to these team members who are making time in their schedules to be actively engaged in the process.
 
-The primary task for the recovery team, guided by the science experts, will be to review the best available information provided for the each of four components when it meets in December.  The team will then develop a recommendation to the Service on recovery of the red wolf, as well as address the current challenges on the landscape facing recovery of this imperiled species.     
+The primary task for the recovery team, guided by the science experts, will be to review the best available information provided for the each of four components when it meets in December.  The team will then develop a recommendation to the Service on recovery of the red wolf, as well as address the current challenges on the landscape facing recovery of this imperiled species.
 
 The Service also is working with the NCWRC to develop a Canid Forum to allow for additional stakeholder involvement in North Carolina.  The Canid Forum will provide a venue for the State and Federal wildlife agencies to inform the public on issues related to red wolves and coyotes and to hear concerns and feedback regarding management of these species.  Specific details on the structure and timing of the Canid Forum are being developed and more information about it will be made available once that work is complete.
 

@@ -8,6 +8,11 @@ hero:
     caption: 'Monarch fueling up for migration. Photo by Lilibeth Serrano, USFWS.'
 tags:
     - Monarch
+    - Alabama
+    - Florida
+    - Georgia
+    - Louisiana
+    - 'North Carolina'
 updated: 'October 6th, 2016'
 ---
 

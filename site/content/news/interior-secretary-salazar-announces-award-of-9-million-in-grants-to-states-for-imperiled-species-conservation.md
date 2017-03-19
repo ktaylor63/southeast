@@ -8,6 +8,10 @@ hero:
     caption: 'Maui parrotbill. Photo by <a href=\"https://www.flickr.com/photos/98390437@N03/\" target=\"_blank\">Andrew Smith</a> <a href=\"https://creativecommons.org/licenses/by-nc-nd/2.0/\" target=\"_blank\">CC BY-NC-ND 2.0</a>.'
 tags:
     - Grants
+    - Alabama
+    - Florida
+    - Georgia
+    - South Carolina
 updated: 'October 20th, 2016'
 ---
 

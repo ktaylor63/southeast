@@ -9,6 +9,7 @@ hero:
 tags:
     - Georgia
     - 'Florida panther'
+    - Florida
 updated: 'October 3rd, 2016'
 ---
 

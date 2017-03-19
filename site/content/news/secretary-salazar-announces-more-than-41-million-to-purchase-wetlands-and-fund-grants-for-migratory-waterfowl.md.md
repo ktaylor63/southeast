@@ -8,6 +8,11 @@ hero:
     caption: 'Long-necked and slim, the Northern Pintail is a graceful, elegant bird. Photo by Dan Cox, USFWS.'
 tags:
     - Grants
+    - Arkansas
+    - Florida
+    - Louisiana
+    - Mississippi
+    - South Carolina
 updated: 'October 20th, 2016'
 ---
 

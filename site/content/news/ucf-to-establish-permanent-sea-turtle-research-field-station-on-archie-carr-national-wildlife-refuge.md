@@ -8,7 +8,7 @@ hero:
     caption: 'A loggerhead sea turtle hatchling at Cape Romain National Wildlife Refuge. Photo by Keith Fuller for USFWS.'
 tags:
     - 'Loggerhead Sea Turtle'
-    - FLorida
+    - Florida
 updated: 'November 9th, 2016'
 ---
 **ORLANDO, FL** - The University of Central Florida and the U.S. Fish and Wildlife Service have reached a historic agreement that will establish a permanent conservation research facility along the Brevard County coastline.

@@ -8,6 +8,9 @@ hero:
     caption: 'A bog on the Nantahala National Forest in North Carolina. Photo by Gary Peeples, USFWS.'
 tags:
     - Grants
+    - Alabama
+    - Florida
+    - 'North Carolina'
 updated: 'October 20th, 2016'
 ---
 

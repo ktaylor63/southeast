@@ -8,6 +8,10 @@ hero:
     caption: 'Alligator in the grass. Photo by Steve Brooks.'
 tags:
     - NWRS
+    - Florida
+    - Georgia
+    - Louisiana
+    - Mississippi
 updated: 'October 3rd, 2016'
 ---
 

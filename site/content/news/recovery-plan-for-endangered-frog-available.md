@@ -10,6 +10,8 @@ tags:
     - Recovery
     - 'Dusky gopher frog'
     - Mississippi
+    - Alabama
+    - Louisiana
 updated: 'October 20th, 2016'
 ---
 

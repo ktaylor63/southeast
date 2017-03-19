@@ -8,6 +8,12 @@ hero:
     caption: 'Three breaches in NC12 at old maintenance shop at Pea Island NWR. Photo by Tom MacKenzie, USFWS.'
 tags:
     - CBRA
+    - Florida
+    - Louisiana
+    - 'North Carolina'
+    - South Carolina
+    - 'Puerto Rico'
+    - 'US Virgin Islands'
 updated: 'October 26th, 2016'
 ---
 

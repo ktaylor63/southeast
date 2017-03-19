@@ -7,12 +7,13 @@ hero:
   link: https://flic.kr/p/9iYMCG
   caption: Sheepnose mussel. Photo by Kristen Lundh, USFWS.
 tags:
- - Sheepnose
- - Spectaclecase
- - Alabama
- - Kentucky
- - Mississippi
- - Tennessee
+   - Sheepnose
+   - Spectaclecase
+   - Alabama
+   - Kentucky
+   - Mississippi
+   - Tennessee
+   - Arkansas
 ---
 
 The U.S. Fish and Wildlife Service has proposed Endangered Species Act protection for the sheepnose and the spectaclecase,  two freshwater mussels found in river systems in the eastern half of the United States.    

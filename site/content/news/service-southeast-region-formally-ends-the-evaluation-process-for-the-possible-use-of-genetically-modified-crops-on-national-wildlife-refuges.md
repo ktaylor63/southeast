@@ -8,6 +8,16 @@ hero:
     caption: 'A Black bear takes a morning stroll across a harvested field at Alligator River National Wildlife Refuge. Photo by Rock, USFWS.'
 tags:
     - NWRS
+    - Alabama
+    - Arkansas
+    - Florida
+    - Georgia
+    - Louisiana
+    - Mississippi
+    - 'North Carolina'
+    - South Carolina
+    - Kentucky
+    - Tennessee
 updated: 'October 25th, 2016'
 ---
 

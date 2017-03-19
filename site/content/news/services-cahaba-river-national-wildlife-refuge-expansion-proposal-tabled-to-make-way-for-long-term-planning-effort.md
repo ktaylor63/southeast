@@ -8,6 +8,7 @@ hero:
     caption: 'Lilies at Cahaba River National Wildlife Refuge. Photo by Garry Tucker, USFWS.'
 tags:
     - NWRS
+    - Alabama
 updated: 'October 26th, 2016'
 ---
 

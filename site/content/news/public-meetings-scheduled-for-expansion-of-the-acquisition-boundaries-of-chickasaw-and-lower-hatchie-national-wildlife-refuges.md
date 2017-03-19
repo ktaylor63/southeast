@@ -8,6 +8,7 @@ hero:
     caption: 'Mississippi River at Lower Hatchie Wildlife Refuge. Photo by <a href=\"https://www.flickr.com/photos/rwklose/\" target=\"_blank\">Roland Klose</a> <a href=\"https://creativecommons.org/licenses/by-nd/2.0/\" target=\"_blank\">CC BY-ND 2.0</a>.'
 tags:
     - NWRS
+    - Tennessee
 updated: 'October 20th, 2016'
 ---
 

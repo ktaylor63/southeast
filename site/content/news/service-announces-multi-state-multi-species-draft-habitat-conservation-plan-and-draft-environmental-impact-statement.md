@@ -9,6 +9,7 @@ hero:
     position: 'left center'
 tags:
  - Habitat Conservation Plan
+ - Kentucky
 ---
 
 The U.S. Fish and Wildlife Service announces the availability of a draft Environmental Impact Statement evaluating a proposed multi-species, multi-state draft Habitat Conservation Plan and application for an incidental take permit under the Endangered Species Act. The HCP was developed by NiSource Inc., a natural gas distribution company, as it seeks an incidental take permit for operating and maintaining its network of pipelines in 14 northeastern, Midwest and southeastern states.

@@ -9,6 +9,7 @@ hero:
 tags:
  - Alabama
  - Alabama sturgeon
+ - Mississippi
 ---
 
 The U.S. Fish and Wildlife Service this week is proposing that the Alabama sturgeon, a freshwater fish that once inhabited extensive portions of the Mobile River system, be listed as endangered on the federal list of endangered and threatened species. A species is endangered when it is at risk of becoming extinct in the foreseeable future.

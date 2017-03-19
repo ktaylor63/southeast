@@ -1,10 +1,17 @@
 ---
 title: 'Service Re-opens Comment Period for the Georgia Rockcress Proposed Listing and Critical Habitat and Announces Economic Analysis'
 date: '2014-05-08'
+hero:
+    name: georgia-rockcress.jpg
+    alt: 'A flowering plant with bright white flowers.'
+    caption: 'Georgia rockcress. <a href=\"https://flic.kr/p/bsMWcq\" target=\"_blank\">Photo</a> &copy; <a href=\"https://www.flickr.com/photos/alan_cressler/\" target=\"_blank\">Alan Cressler</a>; used with permission.'
+    link: 'https://flic.kr/p/bsMWcq'
 tags:
-    - 'Georgia rockcress'
+    - 'Georgia Rockcress'
     - 'Critical Habitat'
-updated: 'October 21st, 2016'
+    - Alabama
+    - Georgia
+updated: 'March 18th, 2017'
 ---
 
 The U.S. Fish and Wildlife Service is announcing the availability of the draft economic analysis for the proposed critical habitat designation for the Georgia rockcress.  At the same time, the Service is re-opening the comment period for the proposed listing and associated proposed critical habitat designation for 30 days through June 10, 2014.  The public is invited to [submit comments](http://www.fws.gov/southeast/news/2014/Comment_Instructions_GA_Rockcress.pdf) on either issue.

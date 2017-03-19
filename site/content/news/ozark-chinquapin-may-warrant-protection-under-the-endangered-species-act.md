@@ -8,6 +8,7 @@ hero:
     caption: 'Ozark chinquapin. Photo by <a href=\"https://www.flickr.com/photos/cafnr/\" target=\"_blank\">CAFNR</a> <a href=\"https://creativecommons.org/licenses/by-nc/2.0/\" target=\"_blank\">CC BY-NC 2.0</a>.'
 tags:
     - 'Ozark chinquapin'
+    - Arkansas
 updated: 'October 20th, 2016'
 ---
 

@@ -7,6 +7,7 @@ tags:
     - Alabama
     - Florida
     - Georgia
+    - Arkansas
 hero:
     name: sicklefin-redhorse.jpg
     alt: 'A NC biologist holding a sicklefin redhorse on a river bank in front of a hydroelectric dam.'

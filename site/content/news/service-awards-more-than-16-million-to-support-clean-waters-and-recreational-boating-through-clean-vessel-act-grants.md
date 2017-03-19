@@ -10,6 +10,14 @@ hero:
 tags:
     - Grants
     - 'Wildlife and Sport Fish Restoration'
+    - Alabama
+    - Arkansas
+    - Florida
+    - Georgia
+    - 'North Carolina'
+    - South Carolina
+    - Kentucky
+    - Tennessee
 updated: 'October 21st, 2016'
 ---
 

@@ -3,15 +3,15 @@ title: 'Fish and Wildlife Service to Gather More Information On Two Rare Reptile
 subtitle: 'Another Salamander Does Not Need Further Review'
 date: '2016-09-13'
 hero:
-    src: fourche-mountain-salamander.jpg
+    name: fourche-mountain-salamander.jpg
     alt: 'A black salamander with gray spots.'
     link: 'https://flic.kr/p/HmttMn'
     caption: 'Fourche Mountain salamander. Photo by <a href=\"https://www.flickr.com/photos/johnclare/\" target=\"_blank\">John Clare</a>, <a href=\"https://creativecommons.org/licenses/by-nc-nd/2.0/\" target=\"_blank\">CC BY-NC-ND 2.0</a>.'
 tags:
-    - Florida
     - Arkansas
+    - Florida
     - 'US Virgin Islands'
-updated: 'November 9th, 2016'
+updated: 'March 19th, 2017'
 ---
 
 A Caribbean skink and a Florida lizard need more study to determine whether they need to be included on the federal list of endangered and threatened species. 

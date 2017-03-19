@@ -10,6 +10,10 @@ hero:
 tags:
     - 'Whooping crane'
     - Tennessee
+    - Alabama
+    - Florida
+    - Louisiana
+    - Kentucky
 updated: 'October 3rd, 2016'
 ---
 
@@ -41,7 +45,7 @@ Florida has about 15 in a non-migratory flock.  Louisiana has a project underwa
 
 The mission of the U.S. Fish and Wildlife Service is working with others to conserve, protect, and enhance fish, wildlife, plants, and their habitats for the continuing benefit of the American people.  For more information on our work and the people who make it happen, visit [www.fws.gov](http://www.fws.gov). Connect with our Facebook page at www.facebook.com/usfwssoutheast, follow our tweets at www.twitter.com/usfwssoutheast, watch our YouTube Channel at http://www.youtube.com/usfws and download photos from our Flickr page at http://www.flickr.com/photos/usfwssoutheast.
 
-## Contacts 
+## Contacts
 
 Tom MacKenzie, USFWS   
 404-679-7291   

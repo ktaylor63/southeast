@@ -6,10 +6,14 @@ hero:
     alt: 'A close up photo of a semi translucent gray-silver crayfish walking on rocky substrate.'
     link: 'http://www.srs.fs.fed.us/crayfish/specieslist_so0.php'
     caption: 'Angular dwarf crayfish. Photo by Chris Lukhaup, USDA Forest Service.'
-updated: 'November 9th, 2016'
+updated: 'March 18th, 2017'
 tags:
     - 'At-Risk Species'
     - 'Endangered Species Act'
+    - Alabama
+    - Mississippi
+    - Kentucky
+    - 'US Virgin Islands'
 ---
 Responding to requests to add them to the federal threatened and endangered species list, the U.S. Fish and Wildlife Service has concluded that the angular dwarf crayfish, Icebox Cave beetle, Clifton Cave beetle, and the Virgin Island coqui do not need such protection.
 

@@ -9,8 +9,12 @@ hero:
 tags:
     - Georgia
     - Florida
-    - 'Whooping crane'
-updated: 'October 6th, 2016'
+    - Alabama
+    - 'Whooping Crane'
+    - Louisiana
+    - Kentucky
+    - Tennessee
+updated: 'March 18th, 2017'
 ---
 
 Eight young whooping cranes that began their aircraft-led migration on October 2, 2013, from the White River Marsh State Wildlife Area in Green Lake County, Wisconsin, today made it to Decatur County, Georgia.

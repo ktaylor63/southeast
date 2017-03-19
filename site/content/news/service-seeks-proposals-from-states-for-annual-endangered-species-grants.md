@@ -8,6 +8,7 @@ hero:
     caption: 'Florida scrub jay. Photo by Gail Hendricks, USDA NRCS.'
 tags:
     - Grants
+    - Florida
 updated: 'October 25th, 2016'
 ---
 

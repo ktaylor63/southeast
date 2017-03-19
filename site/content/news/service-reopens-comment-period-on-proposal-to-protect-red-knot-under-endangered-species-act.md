@@ -9,6 +9,7 @@ hero:
     caption: 'Tagged Red Knot Mispillion Harbor, Delaware. Photo by Gregory Breese, USFWS.'
 tags:
     - 'Red knot'
+    - 'North Carolina'
 updated: 'October 21st, 2016'
 ---
 

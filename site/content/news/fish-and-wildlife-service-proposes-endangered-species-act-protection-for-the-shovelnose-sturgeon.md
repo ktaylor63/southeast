@@ -8,6 +8,11 @@ hero:
     caption: 'Shovelnose sturgeon. Photo by Eli Cureton, USFWS.'
 tags:
     - 'Shovelnose sturgeon'
+    - Arkansas
+    - Louisiana
+    - Mississippi
+    - Kentucky
+    - Tennessee
 updated: 'October 20th, 2016'
 ---
 

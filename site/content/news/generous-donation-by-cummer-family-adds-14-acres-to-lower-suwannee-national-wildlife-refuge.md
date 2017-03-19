@@ -9,6 +9,7 @@ hero:
     position: 'bottom center'
 tags:
     - NWRS
+    - Florida
 updated: 'October 20th, 2016'
 ---
 

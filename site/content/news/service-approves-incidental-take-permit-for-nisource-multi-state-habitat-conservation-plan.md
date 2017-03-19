@@ -8,6 +8,11 @@ hero:
   caption: Kirtland&rsquo;s warblers nest exclusively in jack pine stands. Photo by Joel Trick, USFWS.
 tags:
  - Habitat Conservation Plan
+ - 'North Carolina'
+ - Louisiana
+ - Tennessee
+ - Mississippi
+ - Kentucky
 ---
 
 The U.S. Fish and Wildlife Service has issued an incidental take permit under the Endangered Species Act to NiSource Inc., a natural gas pipeline and transmission company, in conjunction with the company’s comprehensive plan to conserve dozens of endangered species while operating and maintaining its network of pipelines in 14 northeastern, Midwest and southeastern states.

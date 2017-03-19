@@ -3,6 +3,8 @@ title: 'Fish and Wildlife Service Reviews Petition for Seven Species Found in Pu
 date: '2016-01-11'
 tags:
     - 'At-Risk Species'
+    - 'Puerto Rico'
+    - 'US Virgin Islands'
 hero:
     name: greater-saint-croix-skink.jpg
     alt: 'A small amphibian with a striped back.'

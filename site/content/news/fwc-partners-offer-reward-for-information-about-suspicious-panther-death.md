@@ -10,6 +10,7 @@ tags:
     - Florida
     - 'Florida panther'
     - 'Law Enforcement'
+    - Georgia
 updated: 'October 20th, 2016'
 ---
 

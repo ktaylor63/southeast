@@ -10,6 +10,7 @@ hero:
 tags:
     - Florida
     - 'Gulf sturgeon'
+    - Georgia
 updated: 'October 25th, 2016'
 ---
 

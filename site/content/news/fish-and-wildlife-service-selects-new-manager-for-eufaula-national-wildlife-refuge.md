@@ -9,6 +9,7 @@ hero:
 date: '2009-07-29'
 tags:
     - NWRS
+    - Alabama
 updated: 'October 20th, 2016'
 ---
 

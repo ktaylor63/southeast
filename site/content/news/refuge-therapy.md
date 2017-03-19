@@ -8,6 +8,7 @@ hero:
     caption: 'Public Use Specialist Amanda Wilkinson and children at the Carousel School set up a critter tank. Photo by USFWS.'
 tags:
     - NWRS
+    - Arkansas
 updated: 'October 20th, 2016'
 ---
 

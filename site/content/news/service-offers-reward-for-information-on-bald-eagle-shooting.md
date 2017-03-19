@@ -7,8 +7,9 @@ hero:
     caption: 'A bald eagle in flight at Seedskadee National Wildlife Refuge. Photo by Tom Koerner, USFWS.'
     link: 'https://flic.kr/p/CBbDh7'
 tags:
- - Bald eagle
+ - Bald Eagle
  - Law Enforcement
+ - Mississippi
 ---
 
 The U.S. Fish and Wildlife Service has posted a reward for information leading to the conviction of those responsible for shooting a bald eagle during the last week of March (possibly on the 25tt -27th) in Pearlington, Mississippi, about 40 miles northeast of New Orleans.

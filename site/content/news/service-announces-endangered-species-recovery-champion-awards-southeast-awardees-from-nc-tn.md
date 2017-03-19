@@ -9,6 +9,7 @@ tags:
     - Recovery
     - 'North Carolina'
     - Tennessee
+    - Alabama
 updated: 'October 20th, 2016'
 ---
 

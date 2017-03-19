@@ -8,6 +8,7 @@ hero:
   caption: Kirtland&rsquo;s warblers nest exclusively in jack pine stands. Photo by Joel Trick, USFWS.
 tags:
  - Grants
+ - Florida
 ---
 
 The U.S. Fish and Wildlife Service today announced nearly $33 million in grants to 21 states to support conservation planning and acquisition of vital habitat for threatened and endangered fish, wildlife and plants.

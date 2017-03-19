@@ -2,11 +2,19 @@
 title: 'Fish and Wildlife Service Conducts Five-Year Status Reviews of 27 Southeastern Species'
 tags:
     - 'Five Year Review'
-    - 'Endangered Species'
-    - 'Threatened Species'
+    - Alabama
+    - Arkansas
+    - Florida
+    - Georgia
+    - 'Puerto Rico'
+    - Louisiana
+    - Mississippi
+    - 'South Carolina'
+    - Kentucky
+    - Tennessee
 hero:
     name: reticulated-flatwoods-salamander-larva.jpg
-    alt: null
+    alt: A strange looking salamander with horns.
     link: 'https://flic.kr/p/oR9oqr'
     caption: 'Reticulated flatwoods salamander larva. Photo by Kevin Enge, FWC.'
 date: '2014-09-22'

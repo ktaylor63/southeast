@@ -14,7 +14,7 @@ updated: 'October 3rd, 2016'
 
 {{< figure class="photo-right" src="/images/pages/dale-bumpers-senator.jpg" alt="A black and white portrait of the sitting senator." caption="Senator Dale Bumpers.  Public domain license." link="https://flic.kr/p/ndx45a" >}}
 
-St. Charles, AR – At a ceremony this afternoon, the U.S. Fish and Wildlife Service will officially rename the White River National Wildlife Refuge to the [Dale Bumpers White River National Wildlife Refuge](http://www.fws.gov/refuge/white_river/)e in a ceremony honoring the former Arkansas Governor and four-term U.S. Senator.
+**ST CHARLES, AR** – At a ceremony this afternoon, the U.S. Fish and Wildlife Service will officially rename the White River National Wildlife Refuge to the [Dale Bumpers White River National Wildlife Refuge](http://www.fws.gov/refuge/white_river/)e in a ceremony honoring the former Arkansas Governor and four-term U.S. Senator.
 
 Congress voted to rename the refuge after Bumpers in January of this year.
 

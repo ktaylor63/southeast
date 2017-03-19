@@ -9,6 +9,7 @@ hero:
 tags:
     - 'Bay skipper'
     - Louisiana
+    - Florida
 updated: 'October 21st, 2016'
 ---
 

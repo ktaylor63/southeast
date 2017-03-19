@@ -1,5 +1,16 @@
 ---
-updated: 'October 20th, 2016'
+title: 'Reward Offered for Information on the Killing of Bald Eagle in Arkansas'
+date: '2015-02-15'
+updated: 'March 19th, 2017'
+hero:
+    name: bald-eagle.jpg
+    alt: 'An adult bald eagle soars in front of a bright blue sky'
+    caption: 'A bald eagle in flight at Seedskadee National Wildlife Refuge. Photo by Tom Koerner, USFWS.'
+    link: 'https://flic.kr/p/CBbDh7'
+tags:
+    - 'Law Enforcement'
+    - 'Bald Eagle'
+    - Arkansas
 ---
 
 **LITTLE ROCK, AR** - The U.S. Fish and Wildlife Service and the Arkansas Game and Fish Commission are seeking information on the shooting of a bald eagle that was found on Arkansas Highway 10 in Pulaski County. The Humane Society of the United States, The Humane Society Wildlife Land Trust, the AGFC and the USFWS are offering a reward of up to $7,500 for information leading to a conviction of the person or persons responsible.
@@ -18,9 +29,9 @@ Anyone with information should call Special Agent Glen Pye with the U.S. Fish 
 
 ## Contacts
 
-Special Agent Glen Pye
+Special Agent Glen Pye  
 U.S. Fish and Wildlife Service  
-501-772-8010
+501-772-8010  
 
-Arkansas Game and Fish Commission
-800-482-9262
+Arkansas Game and Fish Commission  
+800-482-9262  

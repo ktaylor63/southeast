@@ -5,6 +5,7 @@ date: '2016-10-04'
 tags:
     - Kentucky
     - 'Endangered Species Act'
+    - Tennessee
 hero:
     name: kentucky-arrow-darter.jpg
     caption: 'Photo by J.R. Shute, Conservation Fisheries, Inc.'

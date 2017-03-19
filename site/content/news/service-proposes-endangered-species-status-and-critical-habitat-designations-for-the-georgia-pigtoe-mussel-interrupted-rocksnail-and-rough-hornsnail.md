@@ -11,6 +11,9 @@ tags:
  - Georgia pigtoe
  - Interrupted rocksnail
  - Rough hornsnail
+ - Alabama
+ - Georgia
+ - Tennessee
 ---
 
 The U.S. Fish and Wildlife Service today proposed listing the Georgia pigtoe mussel, interrupted rocksnail, and rough hornsnail as endangered species. These two aquatic snails and one mussel are considered indicators of stable, high-quality stream and river habitats. Their presence reflects the quality of the watersheds where they occur for a wide variety of other wildlife species, as well as for people.

@@ -10,6 +10,8 @@ hero:
     position: 'bottom right'
 tags:
     - 'Eastern cougar'
+    - Florida
+    - Kentucky
 updated: 'October 6th, 2016'
 ---
 

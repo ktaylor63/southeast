@@ -10,6 +10,7 @@ date: '2015-04-01'
 tags:
     - 'Migratory Bird Treaty Act'
     - 'Law Enforcement'
+    - Florida
 updated: 'October 20th, 2016'
 ---
 

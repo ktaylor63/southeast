@@ -2,14 +2,20 @@
 title: 'Fish and Wildlife Service Proposes Adding White Fringeless Orchid to Threatened and Endangered Species List'
 date: '2015-09-14'
 hero:
-    name: white-fringless-orchid-patch.jpg
+    name: white-fringeless-orchid-patch.jpg
     alt: 'Tall stems extending from the forest floor give way to bright white dangling flowers.'
     link: 'https://flic.kr/p/pzwd9s'
     caption: 'White fringeless orchid. Photo by USFWS.'
 tags:
-    - 'White fringeless orchid'
+    - 'White Fringeless Orchid'
     - Tennessee
-updated: 'October 20th, 2016'
+    - Alabama
+    - Kentucky
+    - 'North Carolina'
+    - South Carolina
+    - Georgia
+    - Mississippi
+updated: 'March 18th, 2017'
 ---
 
 **COOKEVILLE, TN** – Though the plant is found in five states, populations of white fringeless orchid are small, isolated, and face a wide array of threats across their range, leading the Fish and Wildlife Service to propose adding the plant to the federal list of threatened and endangered species as a threatened species.   Because of the threat of collection, the Service will not designate critical habitat for this plant.
@@ -26,7 +32,9 @@ There are 58 known occurrences of the orchid, spanning five southeastern states.
 
 Compounding the orchid’s plight is the fact that it appears to rely on a limited number of butterflies and a single species of fungi to complete its life cycle, making it susceptible to anything that threatens these butterflies as well. Like most terrestrial orchids, white fringeless orchid has small, wind-dispersed seeds that lack nutrient reserves, so the young plants depend on a fungus to enhance sprouting and promote early growth and establishment.  Though the orchid can self-pollinate, it has only three known external pollinators, all butterflies – the silver spotted skipper, spicebush swallowtail, and eastern tiger swallowtail.
 
-Habitat destruction and modification from development; forestry practices; alteration of water flow, such as beaver dam removal; right-of-way maintenance; and invasive species also have resulted in the plant’s disappearance from 10 sites and affected dozens of others.  For example, a population in Winston County, Alabama, disappeared following the removal of beaver dams.   One white fringeless orchid occurrence was eliminated from a site in Henderson County, North Carolina, which was nearly completely destroyed by construction of a building.   A third site from which the species is considered extirpated, in Roane County, Tennessee, was severely disturbed during highway construction.  In addition to loss of white fringeless orchid habitat and occurrences due to pond construction at three Tennessee sites, hydrology was altered in wetland habitats down slope of ponds at two other Tennessee sites, where white fringeless orchid’s status is now uncertain. 
+Habitat destruction and modification from development; forestry practices; alteration of water flow, such as beaver dam removal; right-of-way maintenance; and invasive species also have resulted in the plant’s disappearance from 10 sites and affected dozens of others.  For example, a population in Winston County, Alabama, disappeared following the removal of beaver dams.
+
+One white fringeless orchid occurrence was eliminated from a site in Henderson County, North Carolina, which was nearly completely destroyed by construction of a building.   A third site from which the species is considered extirpated, in Roane County, Tennessee, was severely disturbed during highway construction.  In addition to loss of white fringeless orchid habitat and occurrences due to pond construction at three Tennessee sites, hydrology was altered in wetland habitats down slope of ponds at two other Tennessee sites, where white fringeless orchid’s status is now uncertain. 
 
 Over a third of the known occurrences have seen flowers eaten, presumably by deer, a factor threatening most white fringeless orchid populations, because of the risk of plant mortality and lost potential for seed production. Plants at the largest known occurrence have been dug and eaten by feral hogs.  The effects of these threats are intensified by the small size of most populations – they are simply so small and isolated that something as seemingly innocuous as being eaten by wildlife poses a threat.  Plant consumption can be controlled by trapping feral hogs, and deer can be stopped by fences.  However, the long-term goal is to increase the plant’s populations, so that hogs or deer are no longer threats.
 

@@ -9,6 +9,7 @@ hero:
 tags:
     - 'Florida scrub jay'
     - NWRS
+    - Florida
 updated: 'October 3rd, 2016'
 ---
 

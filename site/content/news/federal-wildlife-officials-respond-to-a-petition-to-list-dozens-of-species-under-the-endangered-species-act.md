@@ -9,7 +9,17 @@ hero:
 tags:
     - ESA
     - Petition
-updated: 'October 6th, 2016'
+    - Alabama
+    - Arkansas
+    - Florida
+    - Georgia
+    - Louisiana
+    - Mississippi
+    - 'North Carolina'
+    - South Carolina
+    - Kentucky
+    - Tennessee
+updated: 'March 18th, 2017'
 ---
 
 In response to a [2012 petition](http://www.fws.gov/southeast/candidateconservation/june-2015-batch/) claiming 53 reptiles and amphibians require federal protection under the Endangered Species Act, the U.S. Fish and Wildlife Service (Service) today published a batch of 90-day findings affecting 15 species of frogs, salamanders, snakes, skinks and crayfish found in the Southeast. Five petitioned species will not be given further consideration for federal protection at this time, and 10 species have triggered a deeper scientific review.

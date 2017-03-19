@@ -10,6 +10,12 @@ tags:
     - 'Whooping crane'
     - NWRS
     - Alabama
+    - Florida
+    - Georgia
+    - Louisiana
+    - 'North Carolina'
+    - South Carolina
+    - Tennessee
 updated: 'October 3rd, 2016'
 ---
 

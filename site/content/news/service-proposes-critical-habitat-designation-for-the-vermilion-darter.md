@@ -9,6 +9,8 @@ hero:
 tags:
  - Critical Habitat
  - Vermilion darter
+ - Alabama
+ - Mississippi
 ---
 
 The U.S. Fish and Wildlife Service (Service) is proposing to designate 13 stream miles as critical habitat for the endangered vermilion darter in the Turkey Creek watershed of Jefferson County, Alabama. Public comments on this proposal will be accepted for 60 days until February 1, 2010.

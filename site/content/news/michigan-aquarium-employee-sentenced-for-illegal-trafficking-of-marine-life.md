@@ -9,6 +9,7 @@ hero:
 tags:
     - 'Wildlife Trafficking'
     - 'Law Enforcement'
+    - Florida
 updated: 'October 20th, 2016'
 ---
 

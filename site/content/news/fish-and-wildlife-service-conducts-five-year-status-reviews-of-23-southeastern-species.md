@@ -3,8 +3,12 @@ title: 'Fish and Wildlife Service Conducts Five-year Status Reviews of 23 Southe
 date: '2009-06-06'
 tags:
     - 'Five Year Review'
-    - 'Endangered Species'
-    - 'Threatened Species'
+    - Alabama
+    - Arkansas
+    - Georgia
+    - Mississippi
+    - 'North Carolina'
+    - Tennessee
 hero:
     name: etowah-darter.jpg
     alt: 'A small brown fish caught in a stream sitting in a plastic bin for measurement.'
@@ -17,7 +21,42 @@ The Service [plans to conduct five-year status reviews](http://www.fws.gov/polic
 
 These five-year reviews are conducted to ensure that listing classifications under the Endangered Species Act (ESA) are accurate. Any interested party is invited to provide information and comments pertaining to these species. Written comments and information related to these five-year reviews must be received on or before September 4, 2009.
 
-This notice covers the following species federally listed as endangered: Mississippi gopher frog (amphibian); Alabama sturgeon (fish); Cape Fear shiner (fish); Cahaba shiner (fish); bluemask darter (fish); amber darter (fish); Etowah darter (fish); Tar River spinymussel (mussel); Anthonys riversnail (snail); Saint Francis satyr butterfly (insect); mountain sweet pitcher plant (plant); bunched arrowhead (plant); white irisette (plant); Tennessee yellow-eyed grass (plant); and Spring Creek bladderpod (plant). This notice also covers the following species federally listed as threatened: flattened musk turtle (reptile); spotfin chub (fish); Waccamaw silverside (fish); Cherokee darter (fish); Magazine Mountain shagreen (snail); Hellers blazing star (plant); Prices potato-bean (plant); and Cumberland rosemary (plant).
+This notice covers the following species federally listed as endangered:
+
+### Amphibians
+
+- Mississippi gopher frog
+
+### Fish
+
+- Alabama sturgeon
+- Cape Fear shiner
+- Cahaba shiner
+- bluemask darter
+- amber darter
+- Etowah darter
+
+### Mussels
+
+- Tar River spinymussel
+
+###  Snails
+
+- Anthonys riversnail
+
+### Insects
+
+- Saint Francis satyr butterfly
+
+### Plants
+
+- mountain sweet pitcher plant
+- bunched arrowhead
+- white irisette
+- Tennessee yellow-eyed grass
+- Spring Creek bladderpod
+
+This notice also covers the following species federally listed as threatened: flattened musk turtle (reptile); spotfin chub (fish); Waccamaw silverside (fish); Cherokee darter (fish); Magazine Mountain shagreen (snail); Hellers blazing star (plant); Prices potato-bean (plant); and Cumberland rosemary (plant).
 
 Specifically, this review seeks information on: (1) species biology, including population trends, distribution, abundance, demographics, and genetics; (2) habitat conditions, including amount, distribution, and suitability; (3) conservation measures that have been implemented; (4) threat status and trends; and (5) other new information, data, or corrections, including taxonomic or nomenclatural changes; identification of erroneous information contained in the ESA list; and improved analytical methods. Comments and materials received will be available for public inspection by appointment.
 

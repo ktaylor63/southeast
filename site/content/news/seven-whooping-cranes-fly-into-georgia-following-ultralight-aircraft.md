@@ -8,6 +8,11 @@ hero:
 tags:
     - 'Whooping crane'
     - Georgia
+    - Alabama
+    - Florida
+    - Louisiana
+    - Kentucky
+    - Tennessee
 updated: 'October 26th, 2016'
 ---
 

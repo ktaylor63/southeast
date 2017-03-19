@@ -8,6 +8,7 @@ hero:
 tags:
     - 'Critical Habitat'
     - 'Cape sable thoroughwort'
+    - Florida
 updated: 'October 21st, 2016'
 ---
 

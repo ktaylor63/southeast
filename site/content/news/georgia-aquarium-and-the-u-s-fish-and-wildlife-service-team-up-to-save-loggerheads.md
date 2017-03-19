@@ -9,6 +9,7 @@ hero:
     position: 'bottom center'
 tags:
     - 'Loggerhead sea turtle'
+    - Florida
     - Georgia
 updated: 'October 20th, 2016'
 ---

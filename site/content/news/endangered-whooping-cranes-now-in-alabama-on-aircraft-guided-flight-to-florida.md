@@ -9,7 +9,11 @@ hero:
     caption: 'Class of 2013 by Operation Migration. Photo by Heather Ray, Operation Migration.'
 tags:
     - Alabama
+    - Florida
     - 'Whooping crane'
+    - Louisiana
+    - Kentucky
+    - Tennessee
 updated: 'October 6th, 2016'
 ---
 

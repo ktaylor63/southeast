@@ -11,6 +11,7 @@ tags:
     - International
     - 'Law Enforcement'
     - 'Wildlife Trafficking'
+    - Alabama
 updated: 'October 20th, 2016'
 ---
 

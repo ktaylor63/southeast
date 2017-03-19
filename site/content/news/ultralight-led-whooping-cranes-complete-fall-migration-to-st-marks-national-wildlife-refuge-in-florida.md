@@ -10,10 +10,13 @@ tags:
     - 'Whooping crane'
     - NWRS
     - Florida
+    - Georgia
+    - Kentucky
+    - Tennessee
 updated: 'October 3rd, 2016'
 ---
 
-St Marks, FL - Early this morning, seven young whooping cranes following two ultralight aircraft during a two-month migration landed at St. Marks National Wildlife Refuge where they will spend the winter.  They traveled 63 days and 1,100 miles from Necedah National Wildlife Refuge in Wisconsin to St. Marks.
+**ST MARKS, FL** - Early this morning, seven young whooping cranes following two ultralight aircraft during a two-month migration landed at St. Marks National Wildlife Refuge where they will spend the winter.  They traveled 63 days and 1,100 miles from Necedah National Wildlife Refuge in Wisconsin to St. Marks.
 
 “After today’s destination flight lasting 50 minutes, our seven-month-old whooping cranes touched down for the first time on their new winter home,” said Heather Ray of [Operation Migration](http://www.operationmigration.org/).  “The birds trusted us. We had faith in them. We got it done. Once these birds undergo their final health check and receive permanent leg bands and transmitters in a week to 10 days they can be truly wild cranes - - wary of people and all things ‘human.’”
 

@@ -10,6 +10,7 @@ hero:
 tags:
     - Louisiana
     - 'Louisiana Black Bear'
+    - Mississippi
 updated: 'October 27th, 2016'
 ---
 

@@ -5,6 +5,7 @@ tags:
     - Tribes
     - 'North Carolina'
     - Georgia
+    - Tennessee
 hero:
     name: sicklefin-redhorse.jpg
     alt: 'A NC biologist holding a sicklefin redhorse on a river bank in front of a hydroelectric dam.'

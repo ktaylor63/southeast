@@ -9,6 +9,8 @@ hero:
     caption: 'Oregon spotted frog at Conboy National Wildlife Refuge. Photo by Teal Waterstrat, USFWS.'
 tags:
     - NWRS
+    - Arkansas
+    - Louisiana
 updated: 'October 20th, 2016'
 ---
 

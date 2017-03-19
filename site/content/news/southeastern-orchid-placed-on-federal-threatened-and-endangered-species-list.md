@@ -2,14 +2,19 @@
 title: 'Southeastern Orchid Placed on Federal Threatened and Endangered Species List'
 date: '2016-09-13'
 hero:
-    name: white-fringless-orchid-patch.jpg
+    name: white-fringeless-orchid-patch.jpg
     alt: 'Tall stems extending from the forest floor give way to bright white dangling flowers.'
     link: 'https://flic.kr/p/pzwd9s'
     caption: 'White fringeless orchid. Photo by USFWS.'
 tags:
     - Tennessee
     - 'Endangered Species Act'
-updated: 'November 9th, 2016'
+    - Alabama
+    - Georgia
+    - Mississippi
+    - South Carolina
+    - Kentucky
+updated: 'March 18th, 2017'
 ---
 **COOKEVILLE, TN** – The U.S. Fish and Wildlife Service is adding the white fringeless orchid to the federal list of threatened and endangered species, as a threatened species to protect and conserve the rare plant.
 
@@ -17,7 +22,7 @@ While the orchid is found in six Southern states – Kentucky, Tennessee, Georgi
 
 The listing follows the September 2015 proposal to protect the orchid. The Service has considered the orchid a candidate for the threatened and endangered species list since 1999, and in 2004 was petitioned by an outside group to add it to the list of protected species.
 
-“Because of  its small populations across six states and myriad threats, conserving the white fringeless orchid comes with challenges,” said Cindy Dohner, the Southeast Regional Director for the U.S. Fish and Wildlife Service. “We hope our partners will rally to recover the plant before its situation becomes more critical.”
+“Because of its small populations across six states and myriad threats, conserving the white fringeless orchid comes with challenges,” said Cindy Dohner, the Southeast Regional Director for the U.S. Fish and Wildlife Service. “We hope our partners will rally to recover the plant before its situation becomes more critical.”
 
 The ultimate goal is to recover the orchid, so that it no longer needs the protective measures of the ESA.  The Service will now develop a recovery plan for the species and work cooperatively with partners to conserve its habitat.  The Service’s Southeast Region through an aggressive At-Risk species conservation effort is strengthening existing partnerships, building new ones, and completing a range of conservation actions including better surveys and monitoring to determine that 72 species across the region do not need the ESA’s protection.  As a result, to date, another dozen species’ status has improved from endangered to threatened and in some cases like the Louisiana black bear have been removed from the list and recovered.  
 

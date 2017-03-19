@@ -8,6 +8,7 @@ hero:
 tags:
     - Manatee
     - 'Three Sister Springs'
+    - Florida
 updated: 'October 20th, 2016'
 ---
 

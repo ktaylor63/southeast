@@ -8,6 +8,8 @@ hero:
     caption: 'Louisiana black bear cubs. Photo by Brad Young, Mississippi Department of Wildlife, Fisheries and Parks.'
 tags:
     - 'Endangered Species Act'
+    - Florida
+    - Puerto Rico
 updated: 'October 6th, 2016'
 ---
 

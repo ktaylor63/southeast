@@ -7,6 +7,7 @@ hero:
     caption: 'Adult Red wolf. Photo by Brad McPhee, Defiance Zoo and Aquarium.'
 tags:
     - 'Red wolf'
+    - 'North Carolina'
 updated: 'October 20th, 2016'
 ---
 

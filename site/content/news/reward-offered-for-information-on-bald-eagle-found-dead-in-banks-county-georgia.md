@@ -1,5 +1,11 @@
 ---
+title: Reward Offered for Information on Bald Eagle Found Dead in Banks County Georgia
+date: '2015-10-08'
 updated: 'October 20th, 2016'
+tags:
+  - Georgia
+  - Law Enforcement
+  - Bald Eagle
 ---
 
 The U. S. Fish and Wildlife Service Office of Law Enforcement in Atlanta, and the Georgia Department of Natural Resources Law Enforcement Division are investigating the death of a bald eagle in North Georgia.

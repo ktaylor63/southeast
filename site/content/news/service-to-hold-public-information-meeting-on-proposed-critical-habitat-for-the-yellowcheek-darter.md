@@ -8,6 +8,7 @@ hero:
 tags:
     - 'Yellowcheek darter'
     - 'Critical Habitat'
+    - Arkansas
 updated: 'October 26th, 2016'
 ---
 

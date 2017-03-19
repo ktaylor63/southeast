@@ -8,11 +8,14 @@ hero:
     caption: 'Georgia aster. Photo by Michele Elmore, The Nature Conservancy, Georgia.'
 tags:
     - 'North Carolina'
-    - 'Georgia aster'
-updated: 'October 3rd, 2016'
+    - 'South Carolina'
+    - 'Georgia Aster'
+    - Alabama
+    - Georgia
+updated: 'March 18th, 2017'
 ---
 
-Asheville, NC – The U.S. Fish and Wildlife Service today announced that Georgia aster does not require federal protection under the Endangered Species Act, a decision reflecting years of conservation work by myriad partners.
+**ASHEVILLE, NC** – The U.S. Fish and Wildlife Service today announced that Georgia aster does not require federal protection under the Endangered Species Act, a decision reflecting years of conservation work by myriad partners.
 
 Georgia aster is a wide-ranging, but rare, purple-flowering plant found in the upper Piedmont and lower mountain regions of Alabama, Georgia, North Carolina and South Carolina. The plant has been a candidate for the federal endangered species list since 1999.
 

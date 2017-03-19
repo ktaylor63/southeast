@@ -10,6 +10,7 @@ tags:
     - 'Red wolf'
     - 'North Carolina'
     - 'Law Enforcement'
+    - Louisiana
 updated: 'October 6th, 2016'
 ---
 

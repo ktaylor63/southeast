@@ -2,8 +2,12 @@
 title: 'Fish and Wildlife Service conducts five-year status reviews of 33 southeastern species'
 tags:
     - 'Five Year Review'
-    - 'Endangered Species'
-    - 'Threatened Species'
+    - Alabama
+    - Arkansas
+    - Florida
+    - 'Puerto Rico'
+    - Mississippi
+    - Tennessee
 hero:
     name: golden-sedge.jpg
     alt: 'A grass like plant with a large geometric shaped bulb.'

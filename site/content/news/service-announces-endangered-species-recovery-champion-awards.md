@@ -9,6 +9,7 @@ hero:
     position: 'top right'
 tags:
     - Recovery
+    - Alabama
 updated: 'March 13th, 2017'
 ---
 

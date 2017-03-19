@@ -8,6 +8,7 @@ hero:
     caption: 'Everglades Headwater Proposed National Wildlife Refuge.  Photo by USFWS.'
 tags:
     - NWRS
+    - Florida
 updated: 'October 20th, 2016'
 ---
 

@@ -7,6 +7,7 @@ hero:
     caption: 'Longleaf pine needles. Photo by Dot Paul, USDA NRCS.'
 tags:
     - Grants
+    - Alabama
 updated: 'October 20th, 2016'
 ---
 

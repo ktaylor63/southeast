@@ -9,6 +9,10 @@ hero:
     caption: 'Sooty Tern. Photo by Peter Kappes.'
 tags:
     - Climate
+    - Alabama
+    - Florida
+    - 'North Carolina'
+    - Tennessee
 updated: 'October 21st, 2016'
 ---
 

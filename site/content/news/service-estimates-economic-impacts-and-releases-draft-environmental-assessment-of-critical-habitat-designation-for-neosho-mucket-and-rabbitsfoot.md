@@ -9,6 +9,11 @@ tags:
     - 'Critical Habitat'
     - 'Neosho mucket'
     - Rabbitsfoot
+    - Alabama
+    - Arkansas
+    - Mississippi
+    - Kentucky
+    - Tennessee
 updated: 'October 21st, 2016'
 ---
 

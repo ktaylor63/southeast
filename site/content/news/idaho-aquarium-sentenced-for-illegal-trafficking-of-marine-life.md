@@ -8,6 +8,7 @@ hero:
     caption: 'Combo rock containing product illegally collected or sold from the Florida Keys. Photo by USFWS.'
 tags:
     - 'Law Enforcement'
+    - Florida
     - 'Wildlife Trafficking'
 updated: 'October 20th, 2016'
 ---

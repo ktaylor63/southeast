@@ -3,6 +3,7 @@ title: 'Fish and Wildlife Service Emergency Lists Miami Blue Butterfly as Endang
 tags:
     - 'Miami Blue butterfly'
     - 'Endangered Species'
+    - Florida
 hero:
     name: miami-blue-butterfly.jpg
     alt: 'A white/gray butterfly with black spots blends into a flower bloom of similar color and markings.'

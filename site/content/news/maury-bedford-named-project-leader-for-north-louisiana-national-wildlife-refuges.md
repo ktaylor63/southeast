@@ -8,6 +8,7 @@ hero:
     position: 'top center'
 tags:
     - NWRS
+    - Louisiana
 updated: 'October 20th, 2016'
 ---
 

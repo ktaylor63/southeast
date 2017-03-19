@@ -8,6 +8,12 @@ hero:
     caption: 'American bittern takes flight. Photo by Steve Brooks.'
 tags:
     - Grants
+    - Arkansas
+    - Louisiana
+    - Mississippi
+    - North Carolina
+    - South Carolina
+    - Tennessee
 updated: 'October 20th, 2016'
 ---
 

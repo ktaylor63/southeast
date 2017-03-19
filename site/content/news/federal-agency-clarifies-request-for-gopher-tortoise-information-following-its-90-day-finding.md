@@ -9,6 +9,7 @@ hero:
     caption: 'Gopher tortoise. Photo by Randy Browning, USFWS.'
 tags:
     - 'Gopher tortoise'
+    - Florida
 updated: 'October 6th, 2016'
 ---
 

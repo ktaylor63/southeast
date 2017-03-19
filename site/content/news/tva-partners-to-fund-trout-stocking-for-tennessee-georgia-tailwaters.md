@@ -2,12 +2,14 @@
 title: 'TVA, Partners To Fund Trout Stocking For Tennessee, Georgia Tailwaters'
 date: '2015-05-11'
 hero:
-    name: 2048
+    name: erwin-entrance-sign.jpg
     alt: 'Brown entrance sign to the Erwin National Fish Hatchery.'
     link: 'https://flic.kr/p/ejHPWS'
     caption: 'Erwin National Fish Hatchery entrance sign. Photo by USFWS.'
 tags:
     - Partnership
+    - Georgia
+    - Tennessee
 updated: 'October 3rd, 2016'
 ---
 

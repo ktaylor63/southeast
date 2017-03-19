@@ -6,6 +6,8 @@ hero:
     link: 'https://flic.kr/p/7WQqyN'
     caption: 'Sunrise at Arthur R. Marshall Loxahatchee NWR. Photo by Phil Kloer.'
 date: '2010-11-30'
+tags:
+  - Director
 updated: 'October 20th, 2016'
 ---
 

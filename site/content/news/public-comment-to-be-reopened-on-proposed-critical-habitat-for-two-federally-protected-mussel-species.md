@@ -10,6 +10,10 @@ tags:
     - Rabbitsfoot
     - 'Neosho mucket'
     - Arkansas
+    - Alabama
+    - Mississippi
+    - Kentucky
+    - Tennessee
 updated: 'October 20th, 2016'
 ---
 

@@ -10,6 +10,7 @@ tags:
     - 'Gulf of Mexico'
     - Louisiana
     - Mississippi
+    - Florida
 updated: 'October 3rd, 2016'
 ---
 

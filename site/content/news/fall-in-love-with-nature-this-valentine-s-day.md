@@ -2,6 +2,8 @@
 title: 'Fall in Love with Nature this Valentine''s Day'
 description: 'Valentine’s Day is a perfect time to fall in love with nature.'
 date: '2010-02-03'
+tags:
+  - Florida
 hero:
     name: ten-thousand-islands-beach.jpg
     alt: 'Vegetated beach dunes with a small forest in the background.'

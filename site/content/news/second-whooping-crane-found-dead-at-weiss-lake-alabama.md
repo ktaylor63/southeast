@@ -10,6 +10,9 @@ tags:
     - 'Whooping crane'
     - 'Law Enforcement'
     - Alabama
+    - Florida
+    - Georgia
+    - Tennessee
 updated: 'October 20th, 2016'
 ---
 

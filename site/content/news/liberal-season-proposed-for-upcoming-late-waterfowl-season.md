@@ -8,6 +8,14 @@ hero:
     caption: 'Ducks at Upper Ouachita. Photo by Joseph McGowan, USFWS.'
 tags:
     - Hunting
+    - Alabama
+    - Florida
+    - Georgia
+    - Louisiana
+    - Mississippi
+    - 'North Carolina'
+    - South Carolina
+    - Tennessee
 updated: 'October 20th, 2016'
 ---
 

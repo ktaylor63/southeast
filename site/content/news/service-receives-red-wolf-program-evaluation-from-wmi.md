@@ -8,6 +8,7 @@ hero:
     link: 'https://flic.kr/p/hJ22JT'
     caption: 'Captive red wolf at Species Survival Plan facility, Point Defiance Zoo and Aquarium. Photo by B. Bartel, USFWS.'
 tags:
+    - 'North Carolina'
     - 'Red wolf'
     - Recovery
 updated: 'October 21st, 2016'

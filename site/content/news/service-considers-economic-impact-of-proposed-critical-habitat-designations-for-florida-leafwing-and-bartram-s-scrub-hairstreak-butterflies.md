@@ -9,7 +9,8 @@ hero:
 tags:
     - 'Critical Habitat'
     - 'Florida leafwing'
-    - 'Bartram''s hairstreak'
+    - 'Bartrams hairstreak'
+    - Florida
 updated: 'October 21st, 2016'
 ---
 

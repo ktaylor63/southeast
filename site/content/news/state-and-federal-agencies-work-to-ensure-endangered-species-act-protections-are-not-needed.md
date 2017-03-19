@@ -8,6 +8,11 @@ hero:
     caption: 'The Lagniappe crayfish occurs in parts of Alabama, Georgia and Mississippi. Photo by Susan Adams, US Forest Service.'
 tags:
     - Partnership
+    - Alabama
+    - Florida
+    - Georgia
+    - Mississippi
+    - Kentucky
 updated: 'October 3rd, 2016'
 ---
 

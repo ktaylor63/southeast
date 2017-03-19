@@ -7,8 +7,13 @@ hero:
     link: 'https://flic.kr/p/a5Hrx2'
     caption: 'Gopher tortoise. Photo by Randy Browning, USFWS.'
 tags:
-    - 'Gopher tortoise'
-updated: 'October 6th, 2016'
+    - 'Gopher Tortoise'
+    - Alabama
+    - Florida
+    - Louisiana
+    - Mississippi
+    - South Carolina
+updated: 'March 18th, 2017'
 ---
 
 The [Gopher tortoise](https://ecos.fws.gov/tess_public/profile/speciesProfile.action?spcode=C044) may warrant federal protection as a threatened or endangered species, the U.S. Fish and Wildlife Service announced today, following an initial review of a petition seeking to protect the gopher tortoise in the eastern portion of its range under the Endangered Species Act (ESA).

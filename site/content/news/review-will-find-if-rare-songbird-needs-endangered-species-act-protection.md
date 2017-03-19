@@ -8,7 +8,8 @@ hero:
     position: 'top center'
 date: '2012-08-14'
 tags:
-    - 'Bicknell''s thrush'
+    - 'Bicknells thrush'
+    - 'Puerto Rico'
 updated: 'October 20th, 2016'
 ---
 

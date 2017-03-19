@@ -3,6 +3,7 @@ title: 'West Virginia fish May become protected under Endangered Species Act'
 date: '2012-07-25'
 tags:
     - 'Diamond darter'
+    - Kentucky
 updated: 'October 3rd, 2016'
 ---
 

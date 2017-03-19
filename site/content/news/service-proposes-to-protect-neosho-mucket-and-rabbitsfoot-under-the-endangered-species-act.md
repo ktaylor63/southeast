@@ -8,6 +8,13 @@ hero:
 tags:
     - 'Neosho mucket'
     - Rabbitsfoot
+    - Alabama
+    - Arkansas
+    - Georgia
+    - Louisiana
+    - Mississippi
+    - Kentucky
+    - Tennessee
 updated: 'October 21st, 2016'
 ---
 

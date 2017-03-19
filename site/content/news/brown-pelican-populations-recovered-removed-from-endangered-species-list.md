@@ -10,16 +10,23 @@ hero:
 tags:
     - 'Brown pelican'
     - Delist
+    - Recovery
+    - Alabama
+    - Florida
+    - Georgia
+    - 'Puerto Rico'
+    - Louisiana
+    - US Virgin Islands
 updated: 'October 3rd, 2016'
 ---
 
-WASHINGTON, D.C. -- Secretary of the Interior Ken Salazar, Assistant Secretary for Fish and Wildlife and Parks Tom Strickland and U.S. Fish and Wildlife Service Director Sam Hamilton today announced that the brown pelican, a species once decimated by the pesticide DDT, has recovered and is being removed from the list of threatened and endangered species under the Endangered Species Act.
+**WASHINGTON, D.C.** - Secretary of the Interior Ken Salazar, Assistant Secretary for Fish and Wildlife and Parks Tom Strickland and U.S. Fish and Wildlife Service Director Sam Hamilton today announced that the brown pelican, a species once decimated by the pesticide DDT, has recovered and is being removed from the list of threatened and endangered species under the Endangered Species Act.
 
 “At a time when so many species of wildlife are threatened, we once in a while have an opportunity to celebrate an amazing success story,” Salazar said. “Today is such a day. The brown pelican is back!”
 
 The brown pelican was first declared endangered in 1970 under the Endangered Species Preservation Act, a precursor to the current Endangered Species Act. Since then, thanks to a ban on DDT and efforts by states, conservation organizations, private citizens and many other partners, the bird has recovered. There are now more than 650,000 brown pelicans found across Florida and the Gulf and Pacific Coasts, as well as in the Caribbean and Latin America.
 
-The Fish and Wildlife Service removed the brown pelican population in Alabama, Georgia, Florida, and northward along the Atlantic Coast states from the list of endangered species in 1985\. Today’s action removes the remaining population from the list.
+The Fish and Wildlife Service removed the brown pelican population in Alabama, Georgia, Florida, and northward along the Atlantic Coast states from the list of endangered species in 1985. Today’s action removes the remaining population from the list.
 
 “After being hunted for its feathers, facing devastating effects from the pesticide DDT and suffering from widespread coastal habitat loss, the pelican has made a remarkable recovery,’ Strickland said at a press conference in New Orleans to announce the delisting. “ We once again see healthy flocks of pelicans in the air over our shores.”
 

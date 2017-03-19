@@ -7,7 +7,8 @@ hero:
     link: 'https://flic.kr/p/dcwqi9'
     caption: 'Orangeburg National Fish Hatchery. Photo by Robert Pos, USFWS.'
 tags:
-    - NFH
+    - National Fish Hatchery
+    - South Carolina
 updated: 'October 20th, 2016'
 ---
 

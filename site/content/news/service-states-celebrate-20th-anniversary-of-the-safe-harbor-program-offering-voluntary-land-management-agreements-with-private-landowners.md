@@ -3,12 +3,18 @@ title: 'Service, States, celebrate 20th Anniversary of the Safe Harbor Program o
 date: '2015-11-06'
 hero:
     name: red-cockaded-woodpecker-flying.jpg
-    alt: 'Red-cockaded woodpecker flying from it''s nest.'
+    alt: 'Red-cockaded woodpecker flying from its nest.'
     link: 'https://flic.kr/p/fF5CiY'
     caption: 'Red-cockaded woodpecker. Photo by Martjan Lammertink, U.S. Forest Service.'
 tags:
     - 'Safe Harbor'
     - 'Red-cockaded woodpecker'
+    - Alabama
+    - Florida
+    - Georgia
+    - Louisiana
+    - 'North Carolina'
+    - South Carolina
 updated: 'October 25th, 2016'
 ---
 
