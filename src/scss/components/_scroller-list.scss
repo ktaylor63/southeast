@@ -1,0 +1,71 @@
+.scroller-list {
+  border: 2px solid darken($color-muted, 10);
+  box-shadow: 3px 3px 10px rgba(0,0,0,0.3);;
+  background: white;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  margin: 3 * $leading auto;
+  overflow: hidden;
+  position: relative;
+
+  header {
+    height: 70px;
+    left: 0;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    width: 100%;
+  }
+}
+
+.scroller-list--heading {
+  line-height: 70px;
+  font-style: normal !important;
+  margin: 0;
+}
+
+.scroller-list--list {
+  max-height: 50vh;
+  list-style: none;
+  overflow-y: scroll;
+  margin-top: 70px;
+  margin-bottom: 0;
+  padding: 0;
+}
+
+.scroller-list--item {
+  border-bottom: 1px solid darken($color-muted, 5);
+  background: $color-muted;
+  margin: 0;
+  padding: .5em;
+
+  a {
+    display: flex;
+  }
+
+  &:hover {
+    background: white;
+  }
+
+  .icon-date {
+    flex: 2;
+
+    span {
+      display: block;
+      font-size: 13px;
+      text-align: center;
+    }
+  }
+
+  p {
+    justify-content: center;
+    flex: 5;
+    margin-top: 0;
+    padding-left: 1em;
+    vertical-align: top;
+  }
+}
+
+.scroller-list .scroll-nav__section {
+  margin: 0;
+}

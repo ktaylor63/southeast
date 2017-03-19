@@ -1,0 +1,18 @@
+{{ $tag := .Get "tag" }}
+{{ $section := .Get "section" }}
+<div class='scroller-list'>
+  <header>
+    {{ if eq "wildlife" $section }}
+    <h2 class="scroller-list--heading">Species Profiles</h2>
+    {{ else }}
+    <h2 class="scroller-list--heading">{{ title $section }}</h2>
+    {{ end }}
+  </header>
+  <ol class="scroller-list--list">
+  {{ range ( where .Page.Site.Pages "Section" $section) }}
+    {{ if in .Params.tags $tag }}
+      {{ .Render "scroller-item" }}
+    {{ end }}
+  {{ end }}
+</ol>
+</div>
