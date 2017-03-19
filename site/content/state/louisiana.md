@@ -13,14 +13,11 @@ hero:
 updated: 'March 17th, 2017'
 ---
 
-## Refuges and Offices
+{{< scroller-list tag="Louisiana" number="10" section="news" >}}
+
+{{< scroller-list tag="Louisiana" number="10" section="articles" >}}
+
+{{< scroller-list tag="Louisiana" number="10" section="wildlife" >}}
+
+## Map of Offices
 <iframe src="https://usfws.github.io/southeast-mega-map/?state=LA&scroll=false" class="state-map"></iframe>
-
-## Recent News
-{{< news tag="Louisiana" number="5" type="li" >}}
-
-## Recent Articles
-{{< section-content-by-tag tag="Louisiana" section="articles" >}}
-
-## Species in Louisiana
-{{< section-content-by-tag tag="Louisiana" section="wildlife" >}}

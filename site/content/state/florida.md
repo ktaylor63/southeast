@@ -24,11 +24,17 @@ The U.S. Fish and Wildlife Service is responsible for managing the nation's trus
 
 ## Fast Facts
 
-- The Chipola River watershed has 1,270 square miles of basin area, including the extreme southeastern corner of Alabama and central panhandle of Florida. This diverse area of ecosystems is reflected in a high species-richness index. It harbors especially large numbers of fish, mollusks, birds, insects, reptiles, amphibians, plant species, and many other taxa.
+- The Chipola River watershed has 1,270 square miles of basin area, including the extreme southeastern corner of Florida and central panhandle of Florida. This diverse area of ecosystems is reflected in a high species-richness index. It harbors especially large numbers of fish, mollusks, birds, insects, reptiles, amphibians, plant species, and many other taxa.
 - Florida supports one of the largest number of carnivorous plant species, nearly one-half of the orchid species found in North America and the most fern species in the continental United States.
 - The Florida Panhandle is considered one of the five richest biodiversity hotspots in North America.
 
-## Refuges and Offices
+{{< scroller-list tag="Florida" number="10" section="news" >}}
+
+{{< scroller-list tag="Florida" number="10" section="articles" >}}
+
+{{< scroller-list tag="Florida" number="10" section="wildlife" >}}
+
+## Map of Offices
 <iframe src="https://usfws.github.io/southeast-mega-map/?state=FL&scroll=false" class="state-map"></iframe>
 
 ## Frequently Asked Questions
@@ -68,12 +74,3 @@ The Everglades is recognized both nationally and internationally as one of the w
 The Service is addressing an unprecedented workload to assure that an Everglades restoration plan provides maximum benefits to the diverse fish and wildlife resources of south Florida. The restoration plan as a whole and each of its components will require the Service's evaluation under the authorities of the Fish and Wildlife Coordination Act, Endangered Species Act, Migratory Bird Treaty Act, Clean Water Act and the National Environmental Policy Act.
 
 Learn more at [EvergladesRestoration.gov](http://www.evergladesrestoration.gov/)  
-
-## Recent News
-{{< news tag="Florida" number="5" type="li" >}}
-
-## Recent Articles
-{{< section-content-by-tag tag="Florida" section="articles" >}}
-
-## Species in Florida
-{{< section-content-by-tag tag="Florida" section="wildlife" >}}

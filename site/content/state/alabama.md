@@ -10,17 +10,14 @@ hero:
     alt: 'Bright white flowers with a river in the background.'
     link: 'https://flic.kr/p/9EAgB1'
     caption: 'Lilies at Cahaba River National Wildlife Refuge. Photo by Garry Tucker, USFWS.'
-updated: 'March 17th, 2017'
+updated: 'March 18th, 2017'
 ---
 
-## Refuges and Offices
+{{< scroller-list tag="Alabama" number="10" section="news" >}}
+
+{{< scroller-list tag="Alabama" number="10" section="articles" >}}
+
+{{< scroller-list tag="Alabama" number="10" section="wildlife" >}}
+
+## Map of Offices
 <iframe src="https://usfws.github.io/southeast-mega-map/?state=AL&scroll=false" class="state-map"></iframe>
-
-## Recent News
-{{< news tag="Alabama" number="5" type="li" >}}
-
-## Recent Articles
-{{< section-content-by-tag tag="Alabama" section="articles" >}}
-
-## Species in Alabama
-{{< section-content-by-tag tag="Alabama" section="wildlife" >}}

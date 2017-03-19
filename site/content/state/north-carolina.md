@@ -14,6 +14,15 @@ hero:
 updated: 'March 17th, 2017'
 ---
 
+{{< scroller-list tag="North Carolina" number="10" section="news" >}}
+
+{{< scroller-list tag="North Carolina" number="10" section="articles" >}}
+
+{{< scroller-list tag="North Carolina" number="10" section="wildlife" >}}
+
+## Map of Offices
+<iframe src="https://usfws.github.io/southeast-mega-map/?state=NC&scroll=false" class="state-map"></iframe>
+
 ## Frequently Asked Questions
 
 ### Where can I obtain information on endangered species?
@@ -55,15 +64,3 @@ You may contact the [North Carolina Wildlife Resources Commission](http://www.nc
 ### Do you have outreach opportunities available to come speak to my group?
 
 Yes, please contact us at (919) 856-4520 (ext.10)
-
-## Refuges and Offices
-<iframe src="https://usfws.github.io/southeast-mega-map/?state=NC&scroll=false" class="state-map"></iframe>
-
-## Recent News
-{{< news tag="North Carolina" number="5" type="li" >}}
-
-## Recent Articles
-{{< section-content-by-tag tag="North Carolina" section="articles" >}}
-
-## Species in North Carolina
-{{< section-content-by-tag tag="North Carolina" section="wildlife" >}}

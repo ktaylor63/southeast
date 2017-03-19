@@ -13,14 +13,11 @@ hero:
 updated: 'March 17th, 2017'
 ---
 
-## Refuges and Offices
+{{< scroller-list tag="Georgia" number="10" section="news" >}}
+
+{{< scroller-list tag="Georgia" number="10" section="articles" >}}
+
+{{< scroller-list tag="Georgia" number="10" section="wildlife" >}}
+
+## Map of Offices
 <iframe src="https://usfws.github.io/southeast-mega-map/?state=GA&scroll=false" class="state-map"></iframe>
-
-## Recent News
-{{< news tag="Georgia" number="5" type="li" >}}
-
-## Recent Articles
-{{< section-content-by-tag tag="Georgia" section="articles" >}}
-
-## Species in Georgia
-{{< section-content-by-tag tag="Georgia" section="wildlife" >}}

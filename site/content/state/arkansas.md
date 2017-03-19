@@ -22,14 +22,11 @@ Fortunately, a patchwork quilt of bottomland hardwood forests are forever protec
 
 Locations throughout the state are crucial for ducks and other migrating waterfowl seeking food and rest. In fact, the most important location in the world for wintering mallard ducks is Arkansas’ Cache River National Wildlife Refuge. Recognized as a Wetland of International Importance, the 67,000-plus-acre refuge plays a vital role in supporting healthy waterfowl, wading and shorebird populations. The refuge also provides recreational opportunities including fishing, boating, hiking trails, wildlife observation decks and seasonal hunts.
 
-## Refuges and Offices
+{{< scroller-list tag="Arkansas" number="10" section="news" >}}
+
+{{< scroller-list tag="Arkansas" number="10" section="articles" >}}
+
+{{< scroller-list tag="Arkansas" number="10" section="wildlife" >}}
+
+## Map of Offices
 <iframe src="https://usfws.github.io/southeast-mega-map/?state=AR&scroll=false" class="state-map"></iframe>
-
-## Recent News
-{{< news tag="Arkansas" number="5" type="li" >}}
-
-## Recent Articles
-{{< section-content-by-tag tag="Arkansas" section="articles" >}}
-
-## Species in Arkansas
-{{< section-content-by-tag tag="Arkansas" section="wildlife" >}}
