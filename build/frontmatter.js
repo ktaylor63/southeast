@@ -29,7 +29,7 @@ function updateFrontMatter(path, cb) {
 
 function capitalizeTags(tags, title) {
   if (!tags || tags === []) return console.warn(`You must include at least one tag on ${title}`);
-  return tags.map(tag => toTitleCase(tag));
+  return tags.map(tag => toTitleCase(tag)).sort();
 }
 
 module.exports.update = updateFrontMatter;
