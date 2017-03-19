@@ -1,0 +1,6 @@
+{{ range first 1 (where .Site.Pages "Section" "news") }}
+  {{ .Render "feature" }}
+  <div class='centered-button'>
+    <a href='{{ .Permalink }}' class='button'>Read Release</a>
+  </div>
+{{ end }}
