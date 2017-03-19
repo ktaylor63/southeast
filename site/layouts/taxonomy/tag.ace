@@ -1,10 +1,15 @@
 = content main
   .content-centered role="main"
-    {{ $paginator := .Paginate .Data.Pages }}
     h1 Tag: {{ .Title }}
     p The content below has been tagged with the term &ldquo;{{ .Title }}.&rdquo;
-    ul.teaser-list
-    {{ range  $paginator.Pages }}
-      {{ .Render "summary" }}
+
+    {{ $paginator := .Paginate .Data.Pages }}
+    {{ range  $paginator.Pages.GroupBy "Section" }}
+      h2 {{ title .Key }}
+      {{ range .Pages }}
+        {{ .Render "summary"}}
+      {{ end }}
     {{ end }}
     {{ partial "pagination.html" . }}
+
+    span.hide-scrollnav
