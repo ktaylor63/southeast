@@ -1,7 +1,10 @@
 ---
 title: What if a Bird Sings and No One Hears It?
-date: 2009-05-11
+date: '2009-05-11'
+author: Sam Hamilton, Southeast Region Director
+draft: true
 tags:
+  - Georgia
 ---
 
 by Sam Hamilton

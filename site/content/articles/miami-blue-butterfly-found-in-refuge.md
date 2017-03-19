@@ -6,6 +6,7 @@ tags:
     - Insect
     - Florida
     - 'National Wildlife Refuge'
+    - 'North Carolina'
 hero:
     name: miami-blue-butterflies-great-heron-nwr.jpg
     alt: 'Two butterflies with blue and orange spots perched on a bright red flower covered in pollen.'

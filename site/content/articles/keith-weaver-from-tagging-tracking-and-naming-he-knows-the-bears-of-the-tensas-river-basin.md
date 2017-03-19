@@ -3,7 +3,6 @@ title: 'Keith Weaver: From tagging, tracking and naming, he knows the bears of t
 description: 'A U.S. Fish and Wildlife Service biologist-turned-project leader recalls efforts throughout his career to recover the Louisiana black bear.'
 tags:
     - Employees
-    - 'Central Arkansas'
     - 'Tensas River'
     - 'National Wildlife Refuges'
     - 'Louisiana Black Bear'

@@ -10,9 +10,13 @@ hero:
 tags:
     - 'At-Risk Species'
     - 'Ouachita Madtom'
+    - Arkansas
+    - Florida
+    - Georgia
+    - Mississippi
 date: '2017-02-08'
 author: 'Mark Davis, Public Affairs Specialist'
-updated: 'February 8th, 2017'
+updated: 'March 19th, 2017'
 ---
 
 Call this the story of the one that got away – not by wiggling out of a net or snapping a line, but by prospering.
@@ -39,7 +43,8 @@ Striking the species from the petition means good things can happen when agencie
 
 “It just goes to show how important it is to bring everyone together in one place to build our conservation network, share information and set priorities,” she said. “I think this network will continue to grow.”
 
-Jon Ambrose, of the Georgia Department of Natural Resources, shares her opinion.
+Jon Ambrose, of the Georgia Department of Natural Resources, shares his opinion.
+
 ‘It’s a good thing,” said Ambrose, who heads the department’s Nongame Conservation Section. “It’s an encouraging sign that we can work together and get an actual picture of the status of these species.”
 
 The species range from finned to leafy, beginning with Ouachita madtom. Only scientists call it that. Nearly everyone else calls it by a more universal moniker: catfish.

@@ -4,7 +4,8 @@ author: 'Lilibeth Serrano Vélez'
 date: '2016-10-31'
 tags:
     - Bats
-    - Raleigh
+    - North Carolina
+    - South Carolina
 hero:
     name: northern-long-eared-bat-in-hand.jpg
     alt: 'A small, brown, furry bat in a gloved hand.'

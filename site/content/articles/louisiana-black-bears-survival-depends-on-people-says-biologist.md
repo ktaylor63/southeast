@@ -6,6 +6,7 @@ tags:
     - USGS
     - Tennessee
     - 'Louisiana Black Bear'
+    - Louisiana
     - Recovery
     - Research
 hero:
