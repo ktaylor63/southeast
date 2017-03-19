@@ -10,9 +10,9 @@ hero:
     name: alligator-st-marks.jpg
     alt: 'An alligator on a vegetated water bank.'
     caption: 'Alligator sunning at St. Marks National Wildlife Refuge.  Photo by Steve Hillebrand.'
-    link: https://flic.kr/p/7Zmwbs
+    link: 'https://flic.kr/p/7Zmwbs'
     position: 'left center'
-updated: 'October 27th, 2016'
+updated: 'March 19th, 2017'
 ---
 
 ## Restoring the Gulf of Mexico and its Wild Inhabitants
@@ -31,6 +31,10 @@ As a result, native fish and wildlife populations and their habitats are in decl
 
 Restoring this vital area will ensure America continues to thrive well into and beyond the 21st century.
 
+{{< scroller-list tag="Gulf" number="10" section="news" >}}
+
+{{< scroller-list tag="Gulf" number="10" section="articles" >}}
+
 ## The Gulf of Mexico: Fast Facts
 
  - More than 50% of the contiguous United States have rivers, creeks, and streams that eventually drain into the Gulf of Mexico.
@@ -41,3 +45,5 @@ Restoring this vital area will ensure America continues to thrive well into and 
  - Every 45 minutes, another football field of wetlands in Louisiana disappears into the sea, taking with it nature's best storm protection and water filter, as well as the cradle for sea life in the world's third largest delta.
 
 {{< figure class="photo-center" src="/images/pages/gulf-of-mexico-watershed.jpg" alt="Map of the Gulf of Mexico watershed, which spans from the midwest to the eastern Great Lakes all the way to the Gulf of Mexico." caption="Gulf of Mexico watershed. Map: Roy Hewitt, USFWS." >}}
+
+{{< scroller-list tag="Gulf" number="10" section="wildlife" >}}
