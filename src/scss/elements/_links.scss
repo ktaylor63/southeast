@@ -15,7 +15,19 @@ a {
 }
 
 #skip-to-content {
-  @extend %sr-only;
+  background: white;
+  border: 2px solid $color-accent;
+  border-radius: $border-radius;
+  left: 1em;
+  padding: .5em;
+  position: absolute;
+  top: 1em;
+  opacity: 0;
+  z-index: 10000;
+
+  &:focus {
+    opacity: 1;
+  }
 }
 
 a[href$=".pdf"] {
