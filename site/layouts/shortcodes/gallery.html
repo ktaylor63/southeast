@@ -1,0 +1,18 @@
+{{ $type := .Get "type" }}
+{{ $skip := .Get "skip" | default 0 }}
+{{ $skip := int $skip }}
+{{ $first := add $skip 3 }}
+
+{{ if lt $skip 1 }}
+<ul class='article-gallery'>
+  {{ range $index, $element := first 3 (where .Site.Pages "Section" $type) }}
+    {{ .Render "gallery" }}
+  {{ end }}
+</ul>
+{{ else }}
+<ul class='article-gallery'>
+  {{ range $index, $element := after $skip (first $first (where .Site.Pages "Section" $type)) }}
+    {{ .Render "gallery" }}
+  {{ end }}
+</ul>
+{{ end }}
