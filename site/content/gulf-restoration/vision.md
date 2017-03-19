@@ -2,7 +2,7 @@
 title: 'Our Vision'
 description: 'The Service collaborates with partners and other stakeholders to conserve, protect and enhance the fish, wildlife, plants and habitat of the Gulf of Mexico region.'
 nav: Vision
-weight: 5
+weight: 3
 tags:
     - Gulf
     - Partnership
@@ -12,7 +12,7 @@ hero:
     alt: 'A brown and black feathered bird with a long narrow beak floating on ultra-smooth water.'
     link: 'https://flic.kr/p/Li5V4d'
     caption: 'Dowitchers are long-range migrants that use a distinctive sewing machine-like feeding action when foraging across the mud flats of the Gulf region. Photo by Woody Woodrow, USFWS.'
-updated: 'March 15th, 2017'
+updated: 'March 19th, 2017'
 ---
 
 In 2013, the Service released “Vision for a Healthy Gulf of Mexico Watershed” in order to articulate to partners and other stakeholders our approach to most effectively address the damage from the 2010 Deepwater Horizon disaster as well as the loss of natural resources that occurred over the previous decades.
