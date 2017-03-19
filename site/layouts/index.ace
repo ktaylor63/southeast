@@ -8,54 +8,7 @@ html lang="en-US"
     = include partials/navigation.html .
 
     #content.homepage
-      div.hero-homepage
-        h1.site-title U.S. Fish and Wildlife Service
-
-      .homepage-lead
-        a href="https://fws.gov"
-          svg.homepage-logo
-            use xlink:href="#logo"
-
-        p We are the federal agency dedicated to conserving wildlife, plants, and habitats for the American people.
-
-        p The Southeast Region serves Alabama, Arkansas, Florida, Georgia, Kentucky, Louisiana, Mississippi, North Carolina, South Carolina, Tennessee, Puerto Rico and the U.S. Virgin Islands.
-
-        div
-          a.button href="/about" Learn More
-
-      {{ range first 1 (and (where .Site.Pages "Section" "articles") (where .Site.Pages "Type" "feature" )) }}
-        {{ $.Scratch.Add "feature" .Title }}
-        {{ .Render "feature" }}
-        .centered-button
-          a.button href="{{ .Permalink }}" Read Article
-      {{ end }}
-
-
-      ul.article-gallery
-        {{ range $index, $element := first 5 (where .Site.Pages "Section" "articles") }}
-          {{ if (and (ne ($.Scratch.Get "feature") .Title) (lt $index 4)) }}
-            {{ .Render "gallery" }}
-          {{ end }}
-        {{ end }}
-
-      .centered-button
-        a.button href="/articles" Article Archive
-
-      {{ range first 1 (where .Site.Pages "Section" "news") }}
-        {{ .Render "feature" }}
-        .centered-button
-          a.button href="{{ .Permalink }}" Read Release
-      {{ end }}
-
-      ul.article-gallery
-        {{ range $index, $element := after 1 (where .Site.Pages "Section" "news") }}
-          {{ if lt $index 3 }}
-          {{ .Render "gallery" }}
-          {{ end }}
-        {{ end }}
-
-      .centered-button
-        a.button href="/news" News Archive
+      {{ .Content }}
 
     span.hide-scrollnav
 
