@@ -3,9 +3,14 @@ footer {
   color: $color-white;
   text-align: center;
 
+  .last-update {
+    margin: 0;
+  }
+
   .hero-caption {
-    font-size: 14px;
-    padding: 0 1em;
+    font-size: 15px;
+    margin: 0;
+    padding: $leading/2;
   }
 
   a {
@@ -38,11 +43,41 @@ footer {
     margin: 5px 0;
 
     &::after {
-      content: ' | '
+      content: ' • '
     }
 
     &:last-child::after {
       content: '';
     }
+  }
+}
+
+.social-links {
+  list-style: none;
+  margin-bottom: 0;
+  padding: 0;
+  text-align: center;
+
+  li {
+    display: inline-block;
+    margin: 0 $leading/4 0 0;
+    width: 50px;
+  }
+
+  svg {
+    max-height: 45px;
+    max-width: 45px;
+  }
+
+  .facebook {
+    fill: $color-facebook;
+  }
+
+  .twitter {
+    fill: $color-twitter;
+  }
+
+  @media(min-width: $break-md) {
+    margin-left: $nav-width;
   }
 }
