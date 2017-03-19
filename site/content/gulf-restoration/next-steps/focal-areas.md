@@ -3,12 +3,12 @@ title: 'Focal Areas'
 description: 'The Service approaches Gulf of Mexico restoration and conservation using geographically based biological planning units that represent a convergence of boundaries already recognized and used by others.'
 type: next-steps
 scrollnav: no-scrollnav
-weight: 3
+weight: 5
 hero:
     name: gulf-coast-beach-crowded.jpg
     alt: 'An ATV in a grassy field with sparse pine trees.'
     caption: 'A crowded Gulf Coast beach. Photo by Woody Woodrow, USFWS.'
-updated: 'March 16th, 2017'
+updated: 'March 19th, 2017'
 tags:
     - Gulf
 ---
