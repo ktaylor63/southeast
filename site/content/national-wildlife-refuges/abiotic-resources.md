@@ -1,6 +1,8 @@
 ---
 title: 'Monitoring Abiotic Resources'
 nav: 'Abiotic Resources'
+aliases:
+    - /IMnetwork/abiotic.html
 hero:
     name: dale-bumpers-cypress-trees.jpg
     alt: 'A forest of trees with wide stumps emerges from a swamp.'
@@ -9,7 +11,7 @@ hero:
 tags:
     - 'Inventory and Monitoring'
     - 'National Wildlife Refuge System'
-updated: 'March 17th, 2017'
+updated: 'March 18th, 2017'
 ---
 
 ## Coastal Wetland Elevation Monitoring

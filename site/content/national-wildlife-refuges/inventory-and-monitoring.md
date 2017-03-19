@@ -1,16 +1,20 @@
 ---
 title: 'Inventory and Monitoring'
 nav: 'Inventory and Monitoring'
+aliases:
+    - /IMnetwork
+    - /IMnetwork/about.html
+    - /IMnetwork/staff.html
 hero:
     name: pigeon-river.jpg
-    alt: 'Two students wearing waders in a streem inspect a seine.'
+    alt: 'Two students wearing waders in a stream inspect a seine.'
     link: 'https://flic.kr/p/g5pLcm'
     caption: 'Western North Carolina’s Pigeon River is home to the endangered Appalachian elktoe mussel. Photo by Gary Peeples.'
     position: 'top right'
 tags:
     - 'Inventory and Monitoring'
     - 'National Wildlife Refuge System'
-updated: 'March 17th, 2017'
+updated: 'March 18th, 2017'
 ---
 
 The Regional Inventory and Monitoring (I&M) branch is designed to address the [National Wildlife Refuge System](https://fws.gov/refuges) (NWRS) critical information needs and to evaluate the effectiveness of conservation strategies on [national wildlife refuges across the Southeast](https://usfws.github.io/southeast-mega-map/?layers=refuges&layers=Refuge+boundaries). I&M assesses the status of NWRS lands, waters, and biota and provides monitoring support, expertise, and advice to refuges and partners in the face of accelerating climate change and threats from other environmental stressors. The primary purpose of the I&M is to provide information support management decisions at multiple geographic scales.

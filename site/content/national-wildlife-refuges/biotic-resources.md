@@ -1,6 +1,8 @@
 ---
 title: 'Monitoring Biotic Resources'
 nav: 'Biotic Resources'
+aliases:
+    - /IMnetwork/biotic.html
 hero:
     name: vegetation-monitoring.jpg
     alt: 'A biologist measures shoreline vegetation.'
@@ -10,7 +12,7 @@ hero:
 tags:
     - 'Inventory and Monitoring'
     - 'National Wildlife Refuge System'
-updated: 'March 17th, 2017'
+updated: 'March 18th, 2017'
 ---
 
 ## Amphibian Community Monitoring
