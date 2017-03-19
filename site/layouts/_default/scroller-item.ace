@@ -1,0 +1,10 @@
+li.scroller-list--item
+  a href="{{ .Permalink }}"
+    div.icon-date
+      {{ if .Params.hero }}
+      img src="{{ .Site.BaseURL }}images/hero/small/{{ .Params.hero.name }}" alt="{{ .Params.hero.alt }}"
+      {{ end }}
+      {{ if not .Date.IsZero }}
+      span {{ .Date.Format "Jan 2, 2006"}}
+      {{ end }}
+    p {{ .Title}}
