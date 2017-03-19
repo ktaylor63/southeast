@@ -1,14 +1,14 @@
 ---
 title: 'Federal Register Documents from the Southeast Region'
 js: /js/federal-register.js
-type: no-scrollnav
+scrollnav: no-scrollnav
 hero:
     name: roseate-tern-pair.jpg
     alt: 'Two white birds with bright orange legs and beak, a brown cap and grey feathers on their wings.'
     link: 'https://flic.kr/p/9U7j79'
     caption: 'A pair of roseate terns. Photo by Alcides Morales.'
     position: 'bottom left'
-updated: 'November 9th, 2016'
+updated: 'March 19th, 2017'
 tags:
     - 'Federal Register'
 ---
