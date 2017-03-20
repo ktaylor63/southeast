@@ -10,7 +10,7 @@ hero:
     link: 'https://flic.kr/p/MFnYkm'
     caption: 'Joyce Coombs helps a students check a rock for animals. Photo by Gary Peeples, USFWS.'
     position: 'top right'
-updated: 'March 19th, 2017'
+updated: 'March 20th, 2017'
 ---
 
 The Southeast Region Science Committee is comprised of employees from throughout the Service who are working to make scientific information more accessible. Current committee members are listed below including information on their experience and expertise.  If you would like to participate or have a question for the science committee feel free to contact us at [southeastscience@fws.gov](mailto:southeastscience@fws.gov).
@@ -200,7 +200,7 @@ My primary focus at work is assessing impacts of transportation projects to at-r
 
 ### Field of Study
 
-Wildlife / Ecology.  As a Biology undergraduate, I gained some experience working with bats and birds.  I received a Masters at the Warnell School of Forestry and Natural Resources at the University of Georgia studying the foraging behavior of neotropical migrant birds in West Virginia in areas treated for Gypsy Moth. My PhD research involved studying the reproductive behaviors of Robust Redhorse (*Moxostoma robustum*), an [at-risk fish species](https://www.fws.gov/southeast/candidateconservation/finder2/#/species/570547f9e7866bee4e141710) native to the southeastern United States.
+Wildlife / Ecology.  As a Biology undergraduate, I gained some experience working with bats and birds.  I received a Masters at the Warnell School of Forestry and Natural Resources at the University of Georgia studying the foraging behavior of neotropical migrant birds in West Virginia in areas treated for Gypsy Moth. My PhD research involved studying the reproductive behaviors of Robust Redhorse (*Moxostoma robustum*), an [at-risk fish species](/finder/#/species/570547f9e7866bee4e141710) native to the southeastern United States.
 
 ### What led you to the Service?
 
