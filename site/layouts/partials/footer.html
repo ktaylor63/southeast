@@ -1,37 +1,11 @@
-<ul class='social-links'>
-  <li>
-    <a href='https://facebook.com/{{ .Site.Params.facebook }}' title="Like us on Facebook!">
-      <svg class="facebook"><use xlink:href="#facebook"></use></svg>
-    </a>
-  </li>
-  <li>
-    <a href='https://twitter.com/{{ .Site.Params.twitter }}' title="Follow us on Twitter!">
-      <svg class="twitter"><use xlink:href="#twitter"></use></svg>
-    </a>
-  </li>
-  <li>
-    <a href='https://instagram.com/{{ .Site.Params.instagram }}' title="Follow us on Instagram!">
-      <svg class="instagram"><use xlink:href="#instagram"></use></svg>
-    </a>
-  </li>
-  <li>
-    <a href='https://snapchat.com/add/{{ .Site.Params.snapchat }}' title="Follow us on Snapchat!">
-      <svg class="snapchat"><use xlink:href="#ghost"></use></svg>
-    </a>
-  </li>
-  <li>
-    <a href='https://flickr.com/{{ .Site.Params.flickr }}' title="Follow us on Flickr!">
-      <svg class="flickr"><use xlink:href="#flickr"></use></svg>
-    </a>
-  </li>
-  <li>
-    <a href='https://github.com/{{ .Site.Params.github }}' title="Follow us on GitHub!">
-      <svg class="github"><use xlink:href="#github"></use></svg>
-    </a>
-  </li>
-</ul>
+{{ partial "social-links.html" . }}
 <footer>
-  {{ if .Params.hero.caption }}<p class="hero-caption">Banner image: {{ .Params.hero.caption | safeHTML }}</p>{{ end}}
+  {{ if .Params.hero.caption }}
+  {{ if .Params.hero.link }}<a href="{{ .Params.hero.link }}">{{ end }}
+  <p class="hero-caption">Banner image: {{ .Params.hero.caption | safeHTML }}</p>
+  {{ if .Params.hero.link }}</a>{{ end }}
+  {{ end}}
+
   {{ if .Params.updated }}<p class="last-update">Last updated: {{ .Params.updated }}</p>{{ end }}
 
   <ul class="footer-links">
@@ -45,6 +19,7 @@
     <li><a target="_blank" href="https://www.fws.gov/help/disclaimer.html">Disclaimer</a></li>
     <li><a target="_blank" href="https://www.fws.gov/irm/bpim/foia.html">FOIA</a></li>
     <li><a href="mailto:{{ .Site.Params.webmaster.primary }}?cc={{ .Site.Params.webmaster.backup }}&body=I%20found%20an%20issue%20with%20the%20webpage:%20{{ .Permalink }}">Contact the Webmaster</a></li>
+    <li><a target="_blank" href='https://www.github.com/usfws/southeast'>Source code</a></li>
     <li><a target="_blank" href="/sitemap.xml">Sitemap</a></li>
   </ul>
 </footer>
