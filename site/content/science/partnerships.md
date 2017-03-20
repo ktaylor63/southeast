@@ -10,24 +10,28 @@ tags:
 updated: 'February 1st, 2017'
 ---
 
-The Service’s mission is “Working with others, to conserve, protect and enhance fish, wildlife, plants and their habitats for the continuing benefit of the American people”. We recognize that we can’t do this work alone so we make strategic
+The Service’s mission is “working with others, to conserve, protect and enhance fish, wildlife, plants and their habitats for the continuing benefit of the American people”. We recognize that we can’t do this work alone.  To achieve our mission, the Service depends on partnerships with federal, state, non-government entities, and individuals.
+
+Research conducted within the Service and through our scientific partnerships (highlighted below) helps ensure that our decisions can be informed by sound science.  These partnerships also help us prioritize conservation and move listed species toward recovery and conserve at-risk species.
 
 ## Cooperative Ecosystems Studies Units (CESUs)
 
-The Cooperative Ecosystem Studies Units Network is a national, collaborative consortium of federal agencies, tribes, universities, state and local governments, and other partners. The CESU Network’s mission is to provide scientific research, technical assistance, and education on natural and cultural resource issues to federal land management, environmental organizations and research institutions.
+The [Cooperative Ecosystem Studies Units Network](http://www.cesu.org/) is a national, collaborative consortium of federal agencies, tribes, universities, state and local governments, and other partners. The CESU Network’s mission is to provide scientific research, technical assistance, and education on natural and cultural resource issues to federal land management, environmental organizations and research institutions.
 
 CESUs provide a number of key benefits to the Service and other federal agencies:
-CESUs help meet our needs for high quality, objective scientific research;
-CESUs provide an additional avenue to engage universities;
-CESUs save money through a reduced, capped indirect cost rate currently 17.5%; and
-CESUs are (intended to be) administratively simple, due to established processes and procedures.
 
-Learn more about CESUs and the Fish and Wildlife Service.
+ - CESUs help meet our needs for high quality, objective scientific research;
+ - CESUs provide an additional avenue to engage universities;
+ - CESUs save money through a reduced, capped indirect cost rate currently 17.5%;
+ - CESUs are (intended to be) administratively simple, due to established processes and procedures.
+
+[Learn more about CESUs and the Fish and Wildlife Service](https://www.fws.gov/science/cesu.html).
 
 The Southeast Region of FWS provides Technical (Laura Brandt) and Cooperative Agreement/Administrative (Steve Sponaugle) Representatives for three CESUs:
-Piedmont South Atlantic Coast
-South Florida Caribbean
-Southern Appalachian Mountains
+
+ - Piedmont South Atlantic Coast
+ - South Florida Caribbean
+ - Southern Appalachian Mountains
 
 ## Joint Ventures
 
@@ -39,10 +43,7 @@ There are twenty-two habitat-based Joint Ventures, each addressing the bird habi
 
 ## Landscape Conservation Cooperatives
 
-https://lccnetwork.org/
-http://secassoutheast.org
-
-## Universities
+Learn more about how approach conservation through [large landscapes](/landscape-conservation).
 
 ## Flyway Councils
 
