@@ -1,5 +1,7 @@
-{{ $tag := .Get "tag" }}
+{{ $tag := lower (.Get "tag") | urlize }}
 {{ $section := .Get "section" }}
+{{ $pages := where (index .Site.Taxonomies.tags $tag) "Page.Section" $section }}
+
 <div class='scroller-list'>
   <header>
     {{ if eq "wildlife" $section }}
@@ -9,10 +11,20 @@
     {{ end }}
   </header>
   <ol class="scroller-list--list">
-  {{ range ( where .Page.Site.Pages "Section" $section) }}
-    {{ if in .Params.tags $tag }}
-      {{ .Render "scroller-item" }}
+  {{ if gt (len $pages) 0 }}
+    {{ range $pages}}
+      {{ .Page.Render "scroller-item"}}
     {{ end }}
+  {{ else }}
+    <li class='scroller-list--item'>
+      {{ if eq $section "news"}}
+      <p>No press releases found for {{ $tag | humanize | title }}.</p>
+      {{ else if eq $section "wildlife" }}
+      <p>No species profiles found for {{ $tag | humanize | title }}.</p>
+      {{ else }}
+      <p>No {{ $section }} found for {{ $tag | humanize | title }}.</p>
+      {{ end }}
+    </li>
   {{ end }}
-</ol>
+  </ol>
 </div>
