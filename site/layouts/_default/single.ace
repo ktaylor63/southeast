@@ -1,9 +1,11 @@
 = content main
+  {{ if ne .Params.tags nil}}
   ul.tag-list
     {{ range .Params.tags }}
     li.tag
       a href=/tags/{{ . | urlize }} {{ . }}
     {{ end }}
+  {{ end }}
   .main role="main"
     {{ if ne .Type "index" }}
     h1.page-title {{ .Title }}
