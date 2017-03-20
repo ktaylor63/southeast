@@ -67,6 +67,11 @@ footer {
   svg {
     max-height: 45px;
     max-width: 45px;
+    transition: transform $transition-duration;
+
+    &:hover {
+      transform: scale(1.2) rotate(-15deg) translateY(-10px);
+    }
   }
 
   .facebook {
