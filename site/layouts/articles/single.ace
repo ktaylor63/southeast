@@ -5,9 +5,9 @@
     h2.page-subtitle {{ .Params.subtitle}}
     {{ end }}
 
-    p {{ if .Params.author }}By {{ .Params.author }}{{ end }}
+    p.byline {{ if .Params.author }}By {{ .Params.author }}{{ end }}
       {{ if not .Date.IsZero }}
-      span.article-date {{ .Date.Format "January 2, 2006" }}
+        span.article-date {{ .Date.Format "January 2, 2006" }}
       {{ end }}
 
     {{ .Content }}
