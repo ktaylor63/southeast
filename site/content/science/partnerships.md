@@ -43,6 +43,10 @@ There are twenty-two habitat-based Joint Ventures, each addressing the bird habi
 
 ## Landscape Conservation Cooperatives
 
+Landscape Conservation Cooperatives (LCCs) are applied conservation science partnerships, composed of federal agencies, states, tribes, non-governmental organizations, universities, and others that work together at defined geographical areas to tackle landscape-scale approaches to effective conservation science and planning.  Each LCC is a collaborative, self-directed partnership that connects individual agencies and entities with a common landscape vision, and strengthens our  conservation approach by promoting partnerships, harnessing different groups strengths and abilities, and engaging in collegial collaboration.  LCCs support biological planning, conservation planning, and strategic habitat conservation; provide a forum to share information and data products; help partners identify common goals and priorities; and evaluate the effectiveness of scientific information and conservation actions.
+
+In Region 4, there are six individual LCCs that together comprise a seamless national network that supports landscapes capable of allowing for healthy populations of fish, wildlife, and plants, and their habitats.  These include the: [Appalachian](http://applcc.org/), [Caribbean](http://caribbeanlcc.org/), [Gulf Coast Prairie](https://gulfcoastprairielcc.org/), [Gulf Coastal Plains and Ozarks](http://gcpolcc.org/), [Peninsular Florida](http://peninsularfloridalcc.org/), and [South Atlantic LCC](http://www.southatlanticlcc.org/) Networks.    
+
 Learn more about how approach conservation through [large landscapes](/landscape-conservation).
 
 ## Flyway Councils
