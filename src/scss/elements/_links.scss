@@ -18,15 +18,19 @@ a {
   background: white;
   border: 2px solid $color-accent;
   border-radius: $border-radius;
+  height: 0;
   left: 1em;
   padding: .5em;
   position: absolute;
   top: 1em;
   opacity: 0;
-  z-index: 10000;
+  width: 0;
 
   &:focus {
+    height: auto;
     opacity: 1;
+    width: auto;
+    z-index: 10000;
   }
 }
 
