@@ -62,6 +62,7 @@
   @media (min-width: $break-md) {
     border-top-right-radius: $border-radius;
     border-bottom-left-radius: 0;
+    max-width: $drawer-width;
   }
 
   .close-drawer {
