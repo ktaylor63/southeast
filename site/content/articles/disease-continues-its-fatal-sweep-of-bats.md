@@ -10,10 +10,10 @@ hero:
 date: '2017-03-14'
 author: 'Mark Davis, Public Affairs Specialist'
 tags:
-    - 'White Nose Syndrome'
     - Georgia
     - 'Tri-Colored Bat'
-updated: 'March 19th, 2017'
+    - 'White Nose Syndrome'
+updated: 'March 20th, 2017'
 ---
 
 The oars splashed, that slight sound magnified as it echoed off rock walls that led to a distant, black point. With each pull, the tunnel’s illuminated opening got smaller – the darkness, greater.
@@ -55,8 +55,6 @@ Katrina Morris, a biologist with the Georgia Department of Natural Resources, sa
 
 {{< figure class="photo-center" src="/images/pages/tri-colored-bat-leanne-burns.jpg" alt="A biologist wearing a head lamp swabs a hibernating bat." caption="Bat specialist Leanne Burns checks out a tri-colored bat clinging to the wall of the Black Diamond Tunnel, an abandoned railroad project in the North Georgia mountains. Photo by Mark Davis, USFWS." link="https://flic.kr/p/SQZDLS" >}}
 
-Bat specialist Leanne Burns checks out a tri-colored bat clinging to the wall of the Black Diamond Tunnel, an abandoned railroad project in the North Georgia mountains. A recent survey of hibernating bats indicated white nose syndrome continues its fatal sweep of places where bats sleep. Mark Davis/USFWS
-
 With Morris and Coleman holding lights, Pattavina periodically stopped the boat, grasping outcroppings on the tunnel’s cold ceiling. Burns took swabs from some sleeping bats to review in laboratories. She also took samples from the rock walls around selected bats. Annual surveillance at Black Diamond and caves across the U.S. and Canada give researchers an ideal of how prevalent the fungus is. It also helps assess certain amounts of fungus -- “fungal load” -- translates to effects on different bat species.
 
 Pattavina lowered his paddle, pointed “There,” he said. “There’s one.”
@@ -64,6 +62,13 @@ Pattavina lowered his paddle, pointed “There,” he said. “There’s one.”
 The lights showed a brown figure, no larger than a computer thumb drive. Across its muzzle was a splash of white – proof that the infection had returned for another year to the unfinished tunnel.
 
 Burns got busy – swab, measure. She moved quickly, murmuring findings to her colleagues her findings.  Pattavina reached for his paddle. The boat moved on.
+
+<video controls="">
+  <source src="/video/white-nose-syndrom-search-black-diamond-tunnel.mp4" type="video/mp4">
+  <track src="treeOfLife/tracks/developerStories-subtitles-en.vtt" label="English subtitles" kind="subtitles" srclang="en" default="">
+  <track default label-"English" kind="subtitles" srclang="en" src="/video/caption/white-nose-syndrom-search-black-diamond-tunnel.vtt">
+  Sorry, your browser does not support HTML5 video.
+</video>
 
 The recent survey was but one of scores Service biologists conduct. Pattavina recently was in Alabama, where volunteers hung from ropes 200 feet into the earth and counted bats. He also planned to visit an abandoned Georgia mine and do another bat inventory the day after his trip into the tunnel.
 
