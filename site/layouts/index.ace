@@ -4,11 +4,13 @@ html lang="en-US"
     = include partials/head.html .
   body data-root="{{ .Site.BaseURL }}"
     a#skip-to-content href=#content skip to content
-    = include partials/sprite.svg .
-    = include partials/navigation.html .
+    .homepage
+      = include partials/sprite.svg .
+      = include partials/hero.html .
+      = include partials/navigation.html .
 
-    #content.homepage
-      {{ .Content }}
+      #content
+        {{ .Content }}
 
     span.hide-scrollnav
 
