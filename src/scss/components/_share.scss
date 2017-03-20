@@ -1,3 +1,16 @@
 .share-drawer {
   @include drawer('share');
+
+  .social-links {
+    bottom: $leading;
+    left: 0;
+    margin: 0;
+    position: absolute;
+    width: 100%;
+
+    @media(min-width: $break-md) {
+      margin-left: $nav-width;
+      width: calc(100% - #{$nav-width});
+    }
+  }
 }
