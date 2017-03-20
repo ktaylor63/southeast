@@ -1,0 +1,21 @@
+video {
+  display: block;
+  margin: $leading auto;
+  max-width: 100%;
+}
+
+iframe[src*="youtube.com/embed"] {
+  margin: $leading 0;
+}
+
+video::cue {
+   background-image: linear-gradient(to bottom, dimgray, lightgray);
+   color: papayawhip;
+   -webkit-transform: translateY(-3em);
+   transform: translateY(-3em);
+ }
+
+video::-webkit-media-text-track-display {
+    -webkit-transform: translateY(-3em);
+    transform: translateY(-3em);
+}
