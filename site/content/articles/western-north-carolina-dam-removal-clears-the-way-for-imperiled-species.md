@@ -1,12 +1,18 @@
 ---
 title: 'Western North Carolina Dam Removal Clears the Way for Imperiled Species'
 date: '2010-01-25'
+hero:
+    name: dillsboro-dam.jpg
+    alt: 'A piece of heavy machinery deconstructs a small dam.'
+    caption: 'A trackhoe begins the work of demolishing Dillsboro Dam. Photo by Gary Peeples, USFWS.'
+    link: 'https://flic.kr/p/bBG3Lx'
+    position: 'center left'
 tags:
-    - 'At-Risk species'
+    - 'Appalachian Elktoe'
+    - 'At-Risk Species'
     - 'North Carolina'
-    - 'Appalachian elktoe'
-    - 'Sicklefin redhorse fish'
-updated: 'October 3rd, 2016'
+    - 'Sicklefin Redhorse Fish'
+updated: 'March 20th, 2017'
 ---
 
 As a handful of people watched, heavy machinery obliterated the powerhouse for North Carolina’s Dillsboro Dam, the most visible sign yet of the impending removal of the 12-foot high dam itself, scheduled to begin in early February.
@@ -14,6 +20,8 @@ As a handful of people watched, heavy machinery obliterated the powerhouse for N
 Dillsboro Dam, built in 1913, is one of a series of Duke Energy hydropower facilities on western North Carolina’s Tuckasegee River. Federal law requires operators of private hydropower dams to address impacts to fish and wildlife. Duke Energy’s decision to remove dam is seen as a major part of that effort on the Tuckasegee River and will aid the recovery of a pair of imperiled species – the federally endangered Appalachian elktoe mussel and the sicklefin redhorse fish.
 
 “It’s not very often you get to see a dam demolished, especially a FERC-licensed hydroelectric project. But this is in the best interest of the American people” said Mark Cantrell, the U.S. Fish & Wildlife Service biologist involved with the project. “We have a rare opportunity to see the return of a stretch of river that’s been impaired for nearly 100 years. This means a lot for the fish and wildlife in that river, especially the rare Appalachian elktoe and the sicklefin redhorse.”
+
+{{< figure class="photo-center" src="/images/pages/dillsboro-dam-mark-cantrell.jpg" alt="A USFWS employee in a fleece jacket answers a reporter's questions." caption="Service biologist Mark Cantrell worked closely with Duke Energy Carolinas to bring about the removal of the dam. Photo by Gary Peeples, USFWS." link="https://flic.kr/p/bBG3EM" >}}
 
 Dillsboro Dam prevents most fish, crayfish, and other stream animals from moving up- and downstream, splitting some aquatic wildlife populations while preventing others from accessing otherwise quality habitat. The Appalachian elktoe mussel is found both above and below the dam, and removal will help reconnect the bisected population. Fish surveys have documented greater diversity below the dam than above, including 10 species not found above the dam at all. Dam removal will provide access to upstream habitat not only to these fish, but also the sicklefin redhorse. This migratory fish is found in the lower reaches of the Tuckasegee River and is the focus of efforts to boost its numbers, including creating a population that will swim further up the river, into habitat made available by dam removal.
 
