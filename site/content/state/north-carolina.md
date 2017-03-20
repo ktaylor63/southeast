@@ -11,7 +11,7 @@ hero:
     link: 'https://flic.kr/p/jMESzk'
     caption: 'Mattamuskeet National Wildlife Refuge in North Carolina. Photo by Allie Stewart, USFWS.'
     position: bottom
-updated: 'March 17th, 2017'
+updated: 'March 20th, 2017'
 ---
 
 {{< scroller-list tag="North Carolina" number="10" section="news" >}}

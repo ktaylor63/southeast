@@ -10,7 +10,7 @@ hero:
     alt: 'A large adult sea turtle on a sandy beach.'
     link: 'https://flic.kr/p/9U4vvD'
     caption: 'Leatherback sea turtle at Tinglar, U.S. Virgin Islands. Photo by Claudia Lombard, USFWS'
-updated: 'March 19th, 2017'
+updated: 'March 20th, 2017'
 ---
 
 {{< scroller-list tag="US Virgin Islands" number="10" section="news" >}}
