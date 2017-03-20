@@ -5,27 +5,3 @@
 {{ if .Params.js }}
 <script src="{{ .Params.js }}"></script>
 {{ end }}
-
-<script>
-  var baseurl = document.body.getAttribute('data-root');
-
-  // Send a custom "Glossary term clicked!" event to Google Analytics if we're in production
-  if (baseurl === 'https://www.fws.gov/southeast/') {
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-    
-    ga('create', 'UA-21323598-1', 'auto');
-    ga('send', 'pageview');
-
-    document.body.addEventListener('click', function (e) {
-      if ( hasClass(e.target, 'highlight') ) ga('send', 'event', 'Glossary', 'Clicked term');
-    });
-  }
-
-  function hasClass(el, theClass) {
-    return el.className && new RegExp("(\\s|^)" + theClass + "(\\s|$)").test(el.className);
-  }
-
-</script>
