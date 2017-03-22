@@ -35,6 +35,8 @@ Restoring this vital area will ensure America continues to thrive well into and 
 
 {{< scroller-list tag="Gulf" number="10" section="articles" >}}
 
+Learn more about what's happening in your state: [Alabama](/alabama), [Florida](/florida), [Georgia](/georgia), [Louisiana](/louisiana), [Mississippi](/mississippi), [Texas](/tags/texas).
+
 ## The Gulf of Mexico: Fast Facts
 
  - More than 50% of the contiguous United States have rivers, creeks, and streams that eventually drain into the Gulf of Mexico.
