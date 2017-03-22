@@ -46,7 +46,7 @@ In addition, the Service is taking proactive steps with multiple partners to lim
 ## Contacts
 
 Gary Peeples, (828) 258-3939 Ext. 234  
-gary_peeples@fws.gov
+[gary_peeples@fws.gov](mailto:gary_peeples@fws.gov)  
 
-Tom MacKenzie, (404) 679-7291  
-tom_mackenzie@fws.gov
+Phil Kloer, (404) 679-7299  
+[phillip_kloer@fws.gov](mailto:phillip_kloer@fws.gov)  

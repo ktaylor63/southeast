@@ -7,10 +7,10 @@ hero:
     link: 'http://digitalmedia.fws.gov/cdm/singleitem/collection/natdiglib/id/4507/rec/1'
     caption: 'A wildlife biologist holds a rainbow trout. Photo by Mark Lisac, USFWS.'
 tags:
-    - Tennessee
-    - Georgia
     - Fisheries
-updated: 'February 15th, 2017'
+    - Georgia
+    - Tennessee
+updated: 'March 21st, 2017'
 ---
 
 **KNOXVILLE, TN** – Representatives from the Tennessee Valley Authority, the U.S. Fish & Wildlife Service, Tennessee Wildlife Resources Agency and Georgia Department of Natural Resources (the Agencies) will host a public meeting on Tuesday, May 27, 2014, to receive input on long-term funding recommendations under consideration by the Agencies that will continue popular trout stocking programs in reservoirs and tailwaters of certain TVA dams across the region.
@@ -40,10 +40,6 @@ The Tennessee Valley Authority is a corporate agency of the United States that p
 Cathy Coffey, TVA Public Relations, Knoxville   
 865-632-6000,  
 [ccoffey@tva.gov](mailto:ccoffey@tva.gov) [www.tva.com/news](http://www.tva.com/news)
-
-Tom MacKenzie, USFWS  
-404-679-7291  
-[tom_mackenzie@fws.gov](mailto:tom_mackenzie@fws.gov)
 
 Don King, TWRA  
 615 781-6506  

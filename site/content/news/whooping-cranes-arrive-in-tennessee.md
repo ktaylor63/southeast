@@ -47,9 +47,9 @@ The mission of the U.S. Fish and Wildlife Service is working with others to cons
 
 ## Contacts
 
-Tom MacKenzie, USFWS   
-404-679-7291   
-[tom_mackenzie@fws.gov](mailto:tom_mackenzie@fws.gov)
+Phil Kloer, USFWS  
+404-679-7299  
+[phillip_kloer@fws.gov](mailto:phillip_kloer@fws.gov)
 
 Heather Ray, Operation Migration  
 920-573-0905   

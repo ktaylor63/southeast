@@ -31,6 +31,6 @@ Karen Miranda, USFWS
 208-387-5891  
 [karen_miranda@fws.gov](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=karen_miranda@fws.gov)
 
-Tom MacKenzie, USFWS Public Affairs Specialist  
-404-679-7291  
-[tom_mackenzie@fws.gov](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=tom_mackenzie@fws.gov)
+Phil Kloer, USFWS  
+404-679-7299  
+[phillip_kloer@fws.gov](mailto:phillip_kloer@fws.gov)

@@ -7,12 +7,12 @@ hero:
     link: 'https://flic.kr/p/mhjfW4'
     caption: 'Georgia aster. Photo by Michele Elmore, The Nature Conservancy, Georgia.'
 tags:
-    - 'North Carolina'
-    - 'South Carolina'
-    - 'Georgia Aster'
     - Alabama
     - Georgia
-updated: 'March 18th, 2017'
+    - 'Georgia Aster'
+    - 'North Carolina'
+    - 'South Carolina'
+updated: 'March 21st, 2017'
 ---
 
 **ASHEVILLE, NC** – The U.S. Fish and Wildlife Service today announced that Georgia aster does not require federal protection under the Endangered Species Act, a decision reflecting years of conservation work by myriad partners.
@@ -47,9 +47,9 @@ Alabama: Denise Rowell, USFWS
 251-441-6630  
 [denise_rowell@fws.gov](mailto:denise_rowell@fws.gov)
 
-Georgia: Tom Mackenzie, USFWS  
+Georgia: Phil Kloer, USFWS  
 404-679-7291  
-[tom_mackenzie@fws.gov](mailto:tom_mackenzie@fws.gov)
+[phillip_kloer@fws.gov](mailto:phillip_kloer@fws.gov)
 
 North Carolina: Gary Peeples, USFWS  
 828-258-3939, ext. 234  

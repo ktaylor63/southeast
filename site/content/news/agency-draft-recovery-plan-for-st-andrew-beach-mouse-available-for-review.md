@@ -2,16 +2,16 @@
 title: 'Agency Draft Recovery Plan for St. Andrew Beach Mouse Available for Review'
 date: '2009-04-22'
 hero:
-  name: st-joseph-peninsula-state-park.jpg
-  alt: Grassy vegetation emerges from coastal beach dunes.
-  link: https://flic.kr/p/6XFugq
-  caption: Beach mouse habitat at St. Joseph Peninsula State Park. Photo by <a href='https://www.flickr.com/photos/steverob50pics/'>Steve Robinson</a> <a href='https://creativecommons.org/licenses/by-nc-nd/2.0/legalcode'>CC BY-NC-ND 2.0</a>.
+    name: st-joseph-peninsula-state-park.jpg
+    alt: 'Grassy vegetation emerges from coastal beach dunes.'
+    link: 'https://flic.kr/p/6XFugq'
+    caption: 'Beach mouse habitat at St. Joseph Peninsula State Park. Photo by <a href=''https://www.flickr.com/photos/steverob50pics/''>Steve Robinson</a> <a href=''https://creativecommons.org/licenses/by-nc-nd/2.0/legalcode''>CC BY-NC-ND 2.0</a>.'
 tags:
-    - Florida
-    - 'St. Andrew beach mouse'
-    - Recovery
     - Endangered
-updated: 'October 3rd, 2016'
+    - Florida
+    - Recovery
+    - 'St. Andrew Beach Mouse'
+updated: 'March 21st, 2017'
 ---
 
 The U.S. Fish and Wildlife Service seeks public comments on a draft recovery plan for the St. Andrew beach mouse, federally listed as endangered. Currently, there are only two known core populations of this beach mouse, which occurs in Bay and Gulf Counties, Florida. Public comments will be accepted on this draft recovery plan for 60 days until June 22, 2009.
@@ -34,5 +34,3 @@ Division of Public Affairs
 External Affairs  
 Telephone: 703-358-2220  
 Website: [https://www.fws.gov/external-affairs/public-affairs/](https://www.fws.gov/external-affairs/public-affairs/)
-
-[Tom Mackenzie](mailto:Tom_MacKenzie@fws.gov) 404/679-7291

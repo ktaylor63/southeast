@@ -47,6 +47,6 @@ Jimmy Rickard
 706-613-9493, ext.223  
 [James_Rickard@fws.gov](mailto:James_Rickard@fws.gov)
 
-Tom Mackenzie  
-404-679-7291  
-[Tom_MacKenzie@fws.gov](mailto:Tom_MacKenzie@fws.gov)
+Phil Kloer, USFWS  
+404-679-7299  
+[phillip_kloer@fws.gov](mailto:phillip_kloer@fws.gov)

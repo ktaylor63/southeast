@@ -33,4 +33,6 @@ In Georgia, eagle nest surveys conducted in 2015 by the Georgia Department of Na
 Brian Roland, Special Agent  
 404-763-7959
 
-Tom MacKenzie, 404-679-7291
+Phil Kloer, USFWS  
+404-679-7299  
+[phillip_kloer@fws.gov](mailto:phillip_kloer@fws.gov)

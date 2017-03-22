@@ -25,7 +25,6 @@ The proposal would have only allowed for the purchase of lands within those boun
 
 ## Contact
 
-Tom MacKenzie  
-[tom_mackenzie@fws.gov](mailto:tom_mackenzie@fws.gov)  
-(404) 679-7291  
-cell: (678) 296-6400
+Phil Kloer, USFWS  
+404-679-7299  
+[phillip_kloer@fws.gov](mailto:phillip_kloer@fws.gov)

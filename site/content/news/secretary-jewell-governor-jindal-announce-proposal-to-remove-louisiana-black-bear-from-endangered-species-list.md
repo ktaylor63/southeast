@@ -46,9 +46,9 @@ The Service will hold public hearings on the proposed rule, and the public is en
 Jessica Kershaw, DOI  
 [Interior_Press@ios.doi.gov](mailto:?Interior_Press@ios.doi.gov)
 
-Tom MacKenzie, USFWS  
-404-679-7291, M: 678-296-6400  
-[tom_mackenzie@fws.gov](mailto:?tom_mackenzie@fws.gov)
+Phil Kloer, USFWS  
+404-679-7299  
+[phillip_kloer@fws.gov](mailto:phillip_kloer@fws.gov)
 
 Shannon Bates, Governor’s Office  
 225-342-8006  

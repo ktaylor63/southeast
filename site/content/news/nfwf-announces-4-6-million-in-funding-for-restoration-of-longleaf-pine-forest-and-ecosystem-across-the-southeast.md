@@ -40,5 +40,5 @@ Since 2012, the Longleaf Stewardship Fund has invested more than $14.1 million i
 
 ## Contact
 
-Tom MacKenzie, 404-679-7291  
-tom_mackenzie@fws.gov
+Phil Kloer, 404-679-7299  
+[phillip_kloer@fws.gov](mailto:phillip_kloer@fws.gov)

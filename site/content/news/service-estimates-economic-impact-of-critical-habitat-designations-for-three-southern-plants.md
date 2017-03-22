@@ -51,9 +51,9 @@ Landowners interested in helping the Service recover the Short’s bladderpod an
 
 ## Contacts
 
-Tom MacKenzie  
-404-679-7291  
-[Tom_MacKenzie@fws.gov](mailto:Tom_MacKenzie@fws.gov)
+Phil Kloer, USFWS  
+404-679-7299  
+[phillip_kloer@fws.gov](mailto:phillip_kloer@fws.gov)
 
 Geoff Call   
 931-525-4983  

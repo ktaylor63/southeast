@@ -8,10 +8,10 @@ hero:
     link: 'https://flic.kr/p/pgE9ru'
     caption: 'Black pinesnake. Photo by Jim Lee, The Nature Conservancy.'
 tags:
-    - 'Black pinesnake'
-    - Mississippi
     - Alabama
-updated: 'October 3rd, 2016'
+    - 'Black Pinesnake'
+    - Mississippi
+updated: 'March 21st, 2017'
 ---
 
 The black pinesnake, which can grow to six feet in length and is now only found in parts of Mississippi and Alabama, will be protected as a threatened species under the Endangered Species Act (ESA).
@@ -56,5 +56,5 @@ Connie Dickard, 601-321-1121 (MS)
 Denise Rowell, 251-441-6630 (AL)   
 [Denise_Rowell@fws.gov](mailto:Denise_Rowell@fws.gov)
 
-Tom MacKenzie, 404-679-7291  
-[Tom_MacKenzie@fws.gov](mailto:Tom_MacKenzie@fws.gov)
+Phil Kloer, 404-679-7299  
+[Phillip_Kloer@fws.gov](mailto:Phillip_Kloer@fws.gov)

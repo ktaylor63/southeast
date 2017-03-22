@@ -28,10 +28,6 @@ The Service wants to thank the Florida Fish and Wildlife Commission (FWC) offi
 
 **Contact(s):**  
 
-Tom MacKenzie, 404-679-7291  
-tom_mackenzie@fws.gov
-
-![](images/newsUploads/newsThumbs/newsImageThumb76187423-A3A0-E825-74168F85B0A11E9A.jpg)
-
-A Great Horned Owl at Cape Romain National Wildlife Refuge in South Carolina. Credit: Garry Tucker, USFWS  
-[Higher Quality Version of Image](https://flic.kr/p/9nvsVV)
+Phil Kloer, USFWS  
+404-679-7299  
+[phillip_kloer@fws.gov](mailto:phillip_kloer@fws.gov)

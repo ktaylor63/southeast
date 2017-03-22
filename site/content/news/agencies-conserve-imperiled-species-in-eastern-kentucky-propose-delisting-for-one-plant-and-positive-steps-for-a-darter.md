@@ -8,9 +8,9 @@ hero:
     caption: 'White-haired goldenrod. Photo by John MacGregor, KDFWR.'
 tags:
     - Kentucky
-    - 'White-haired goldenrod'
-    - 'Kentucky arrow darter'
-updated: 'October 3rd, 2016'
+    - 'Kentucky Arrow Darter'
+    - 'White-Haired Goldenrod'
+updated: 'March 21st, 2017'
 ---
 
 Stanton, KY – State and Federal conservation agencies came together here today to celebrate partnerships that are delivering conservation successes in eastern Kentucky. 
@@ -46,9 +46,6 @@ Written comments concerning the proposed delisting of the white-haired goldenrod
 For more information about the proposed delisting of white-haired goldenrod, please visit [http://fws.gov/southeast/wildlife/plant/white-haired-goldenrod](http://fws.gov/southeast/wildlife/plant/white-haired-goldenrod) or the U.S. Fish and Wildlife Service’s Kentucky Ecological Services Field Office website at [http://www.fws.gov/frankfort/](http://www.fws.gov/frankfort/).
 
 ## Contacts
-
-Tom MacKenzie, U.S. Fish and Wildlife Service  
-tom_mackenzie@fws.gov, 404-679-7291
 
 Kristen Peters, U.S. Fish and Wildlife Service  
 kristen_peters@fws.gov, 404-679-7172 

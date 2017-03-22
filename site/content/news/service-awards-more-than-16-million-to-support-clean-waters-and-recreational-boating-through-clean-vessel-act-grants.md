@@ -77,6 +77,10 @@ Inland $760,179 – The Tennessee Wildlife Resources Agency has plans to constr
 
 ## Contacts
 
-Christina Meister, [christina_meister@fws.gov](mailto:christina_meister@fws.gov), (703) 358-2284
+Christina Meister, USFWS  
+(703) 358-2284  
+[christina_meister@fws.gov](mailto:christina_meister@fws.gov)
 
-Tom MacKenzie, [tom_mackenzie@fws.gov](mailto:tom_mackenzie@fws.gov), (404) 679-7291
+Phil Kloer, USFWS  
+404-679-7299  
+[phillip_kloer@fws.gov](mailto:phillip_kloer@fws.gov)

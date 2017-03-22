@@ -6,9 +6,9 @@ hero:
     alt: 'A riverbank in what appears to be cold weather.'
     caption: 'The Dan River. Photo by USFWS.'
 tags:
-    - 'North Carolina'
     - 'Coal Ash Spill'
-updated: 'January 26th, 2017'
+    - 'North Carolina'
+updated: 'March 21st, 2017'
 ---
 
 The natural resource trustees for the[ February 2, 2014 Dan River coal ash spill ](http://epa.gov/region4/duke-energy/index.html)([U.S. Fish and Wildlife Service](http://www.fws.gov/), [North Carolina Department of Environmental and Natural Resources](http://portal.ncdenr.org/web/guest), and [Virginia Department of Environmental Quality](http://www.deq.virginia.gov/)) are seeking public review and comment on potential restoration opportunities in the Dan River watershed area.
@@ -46,9 +46,9 @@ For any restoration projects or proposals submitted to the trustees, please incl
 
 ## Contacts
 
-Tom MacKenzie, U.S. Fish and Wildlife Service Southeast Region External Affairs  
-(m) 678-296-6400  
-[Tom_MacKenzie@fws.gov](mailto:Tom_MacKenzie@fws.gov)
+Phil Kloer, U.S. Fish and Wildlife Service Southeast Region External Affairs  
+(m) 404-679-7299  
+[phillip_kloer@fws.gov](mailto:phillip_kloer@fws.gov)
 
 Meagan Racey, U.S. Fish and Wildlife Service Northeast Region External Affairs  
 (o) 413-253-8558, (m) 413-658-4386  

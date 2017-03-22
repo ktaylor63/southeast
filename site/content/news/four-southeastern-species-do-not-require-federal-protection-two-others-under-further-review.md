@@ -37,5 +37,6 @@ For more information on the factors that influenced our decisions, visit [http:/
 
 ## Contact
 
-[Tom MacKenzie](mailto:Tom_MacKenzie@fws.gov), USFWS  
-404-679-7291
+Phil Kloer, USFWS  
+404-679-7299  
+[phillip_kloer@fws.gov](mailto:phillip_kloer@fws.gov)

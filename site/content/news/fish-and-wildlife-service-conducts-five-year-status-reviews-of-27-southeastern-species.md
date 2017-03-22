@@ -117,6 +117,6 @@ These clams are the southern acornshell (Alabama and Tennessee); ovate clubshell
 
 ## Contact
 
-Tom MacKenzie, USFWS  
-404-679-7291  
-[tom_mackenzie@fws.gov](mailto:tom_mackenzie@fws.gov)
+Phil Kloer, USFWS  
+404-679-7299  
+[phillip_kloer@fws.gov](mailto:phillip_kloer@fws.gov)

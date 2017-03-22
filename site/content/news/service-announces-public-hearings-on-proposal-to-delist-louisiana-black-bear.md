@@ -33,8 +33,9 @@ Thanks to federal, state, and private efforts, the threat of habitat loss has be
 
 ## Contacts
 
-Tom MacKenzie, 404-679-7291  
-[Tom_MacKenzie@fws.gov](mailto:Tom_MacKenzie@fws.gov)
+Phil Kloer, USFWS  
+404-679-7299  
+[phillip_kloer@fws.gov](mailto:phillip_kloer@fws.gov)
 
 Deborah Fuller, 337-291-3100  
 [Deborah_Fuller@fws.gov](mailto:Deborah_Fuller@fws.gov)

@@ -40,10 +40,9 @@ The Service offers willing landowners a number of voluntary and non-regulatory c
 
 ## Contacts
 
-Tom MacKenzie, USFWS  
-(404) 679-7291  
-cell: (678) 296-6400  
-[tom_mackenzie@fws.gov](mailto: tom_mackenzie@fws.gov?subject=Kentucky%20Glade%20cress)
+Phil Kloer, USFWS  
+404-679-7299  
+[phillip_kloer@fws.gov](mailto:phillip_kloer@fws.gov)
 
 Lee Andrews, Jr., USFWS  
 (502) 695-0468, ext. 108  

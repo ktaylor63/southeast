@@ -37,4 +37,4 @@ Additional information about eastern cougars, including frequently asked questio
 
 Meagan Racey (Northeast), 413-253-8558  
 Georgia Parham (Midwest), 812-334-4261 x 1203  
-Tom MacKenzie (Southeast), 404-679-7291
+Phil Kloer (Southeast), 404-679-7291  

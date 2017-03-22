@@ -43,7 +43,7 @@ The Service is inviting public comments on its proposal to list the Alabama stur
 The U.S. Fish and Wildlife Service is the principal federal agency responsible for conserving, protecting, and enhancing fish and wildlife and their habitats for the continuing benefit of the American people. The Service manages the 93-million-acre National Wildlife Refuge System comprised of more than 500 national wildlife refuges, thousands of small wetlands, and other special management areas. It also operates 66 national fish hatcheries and 78 Ecological Services field stations. The agency enforces Federal wildlife laws, administers the Endangered Species Act, manages migratory bird populations, restores nationally significant fisheries, conserves and restores wildlife habitat such as wetlands, and helps foreign governments with their conservation efforts. It also oversees the Federal Aid program that distributes hundreds of millions of dollars in excise taxes on fishing and hunting equipment to state fish and wildlife agencies.
 
 ## Contact
-Tom MacKenzie  
-[tom_mackenzie@fws.gov](mailto:tom_mackenzie@fws.gov)  
-(404) 679-7291  
-cell: (678) 296-6400
+
+Phil Kloer, USFWS  
+404-679-7299  
+[phillip_kloer@fws.gov](mailto:phillip_kloer@fws.gov)

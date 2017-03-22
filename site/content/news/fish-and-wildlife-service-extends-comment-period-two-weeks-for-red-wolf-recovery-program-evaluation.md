@@ -21,6 +21,6 @@ The Service also is encouraging citizens to send comments through regular mail a
 
 ## Contact
 
-Tom MacKenzie, USFWS  
-678-296-6400  
-[tom_mackenzie@fws.gov](mailto:tom_mackenzie@fws.gov)
+Phil Kloer, USFWS  
+(404) 679-7299  
+[phillip_kloer@fws.gov](mailto:phillip_kloer@fws.gov)

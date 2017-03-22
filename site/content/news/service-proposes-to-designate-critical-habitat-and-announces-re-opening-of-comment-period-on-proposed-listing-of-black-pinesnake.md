@@ -169,5 +169,10 @@ Matt Hinderliter at 601-321-1132 or Connie Light Dickard at 601-321-1121, both a
 
 ## Contact
 
-Connie Dickard, 601-321-1121, [connie_dickard@fws.gov](mailto:connie_dickard@fws.gov)  
-Tom MacKenzie, 404-679-7291, [tom_mackenzie@fws.gov](mailto:tom_mackenzie@fws.gov)
+Connie Dickard, USFWS  
+601-321-1121  
+[connie_dickard@fws.gov](mailto:connie_dickard@fws.gov)  
+
+Phil Kloer, USFWS  
+404-679-7299  
+[phillip_kloer@fws.gov](mailto:phillip_kloer@fws.gov)

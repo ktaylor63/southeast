@@ -23,8 +23,8 @@ For questions or comments regarding the scoping document, contact Howard Schnabo
 
 ## Contacts
 
-Tom MacKenzie, 404-679-7291  
-[tom_mackenzie@fws.gov](mailto:tom_mackenzie@fws.gov)
+Phil Kloer, 404-679-7299  
+[phillip_kloer@fws.gov](mailto:phillip_kloer@fws.gov)
 
 Kim Amendola, 727-551-5707  
 [kim.amendola@noaa.gov](mailto:kim.amendola@noaa.gov)

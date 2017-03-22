@@ -33,8 +33,9 @@ To provide information, contact Louisiana Department of Wildlife and Fisheriesâ€
 
 ## Contacts
 
-Tom MacKenzie 404-679-7291  
-tom_mackenzie@fws.gov
+Phil Kloer, USFWS  
+404-679-7299  
+[phillip_kloer@fws.gov](mailto:phillip_kloer@fws.gov)
 
 Adam Einck 225-765-2465  
 [aeinck@wlf.la.gov](mailto:aeinck@wlf.la.gov)

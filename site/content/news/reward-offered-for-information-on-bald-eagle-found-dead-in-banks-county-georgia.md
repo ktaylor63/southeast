@@ -18,8 +18,9 @@ Information can be provided to the Ranger Hotline at (800) 241-4130 or U.S. Fish
 
 ## Contacts
 
-Tom MacKenzie, USFWS, 404-679-7291  
-tom_mackenzie@fws.gov
+Phil Kloer, USFWS  
+404-679-7299  
+[phillip_kloer@fws.gov](mailto:phillip_kloer@fws.gov)
 
 Mark McKinnon, GA DNR, 706-557-3106   
 mark.mckinnon@dnr.ga.gov

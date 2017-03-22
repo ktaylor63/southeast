@@ -60,8 +60,9 @@ For a complete national list of the 2015 State Wildlife Grant projects, please v
 Christina Meister, Christina_Meister@fws.gov  
 (703) 358-2284 (FWS, National)
 
-Tom MacKenzie, Tom_MacKenzie@fws.gov  
-(404) 679-7291 (FWS, Southeast)
+Phil Kloer, USFWS  
+404-679-7299  
+[phillip_kloer@fws.gov](mailto:phillip_kloer@fws.gov)
 
 Lisa Thompson, Lisa.Thompson@myfwc.com  
 (727) 896-8626\. (Florida)

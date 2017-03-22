@@ -36,9 +36,9 @@ Other sites are protected as Dedicated Nature Preserves.  These agreements are 
 
 ## Contacts
 
-Tom MacKenzie  
-404-679-7291  
-[Tom_MacKenzie@fws.gov](mailto:Tom_MacKenzie@fws.gov)
+Phil Kloer, USFWS  
+404-679-7299  
+[phillip_kloer@fws.gov](mailto:phillip_kloer@fws.gov)
 
 Dale Suiter  
 919-856-4520, ext. 18  

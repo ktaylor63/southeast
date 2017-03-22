@@ -29,5 +29,6 @@ Manatees are protected under the Endangered Species Act and Marine Mammal Protec
 Ivan Vicente, 352-563-2088 x211  
 [Ivan_Vicente@fws.gov](mailto:Ivan_Vicente@fws.gov)
 
-Tom MacKenzie, 678-296-6400  
-[Tom_MacKenzie@fws.gov](mailto:Tom_MacKenzie@fws.gov)
+Phil Kloer, USFWS  
+404-679-7299  
+[phillip_kloer@fws.gov](mailto:phillip_kloer@fws.gov)
