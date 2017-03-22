@@ -22,7 +22,8 @@
 <meta name="twitter:title" content="{{ .Title }}" />
 <meta name="twitter:description" content="{{ if .Params.description }}{{.Params.description}}{{ else }}{{ .Summary }}{{end}}" />
 
-{{ if in .Site.BaseURL "fws.gov/southeast" }}
+{{ $baseurl := printf "%s" .Site.BaseURL}}
+{{ if in $baseurl "fws.gov/southeast" }}
 <script async type="text/javascript" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal­Federated­Analytics­Min.js?agency=DOI&subagency=FWS"></script>
 <script>
   var baseurl = document.body.getAttribute('data-root');
