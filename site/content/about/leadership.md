@@ -137,7 +137,7 @@ Luis is a graduate of Advanced Leadership Development Program cohort VI.  He als
 ## Mike Piccirilli
 ### Chief, Wildlife and Sport fish Restoration Program
 
-{{< figure class="photo-right" src="/images/pages/mike-piccirilli.jpg" alt="Fisherman in waders kneeling with a trout." caption="Mike Piccirilli with a golden trout on Slough Creek." >}}
+{{< figure class="photo-right" src="/images/pages/mike-piccirilli.jpg" alt="Fisherman in waders kneeling with a trout." caption="Mike Piccirilli with a Yellowstone River cutthroat trout." >}}
 
 As Chief of the Wildlife and Sport fish Restoration Program (WSFR) Mike administers a variety of [grant programs](/our-services/grants) in the Southeast Region in cooperation with our partner state agencies. With a cumulative total of approximately $250 million annually these grant funds are used to enhance the state’s ability to manage their fish and wildlife resources for the benefit of the public.
 
