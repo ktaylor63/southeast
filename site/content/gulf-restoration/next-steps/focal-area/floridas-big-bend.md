@@ -16,7 +16,7 @@ updated: 'March 15th, 2017'
 
 ## Landscape at a Glance
 
-{{< figure class="photo-right" src="/images/pages/floridas-big-bend.jpg" alt="A map showing the Florida's Big Bend focal area." caption="Map of Florida’ Big Bend focal area by Roy Hewitt, USFWS." link="/images/bpus/floridas-big-bend.jpg" >}}
+{{< figure class="photo-right" src="/images/pages/floridas-big-bend.jpg" alt="A map showing the Florida's Big Bend focal area." caption="Map of Florida’ Big Bend focal area by Roy Hewitt, USFWS. Note: For Biological Planning Unit purposes, this focal area combines Caloosahatchee and Big Cypress/Everglades." link="/images/bpus/floridas-big-bend.jpg" >}}
 
 The Big Bend Focal Area in the northeastern Gulf extends generally from the eastern boundary of the Apalachicola-Chattahoochee-Flint River Watershed to the southern boundary of the Chassahowitzka NWR in Citrus County. This area is the largest remaining stretch of undeveloped coastline in the continental United States and includes a myriad of conservation lands managed by private landowners and public agencies, including the Service, the Department’s Bureau of Land Management, the U.S. Forest Service and the Florida Department of Environmental Protection. The ecosystem is primarily defined by water, consisting of surface water, groundwater, springs and several large rivers. Many of the focal area’s rivers, such as the Ochlockonee, Wakulla, St. Marks, Aucilla and Suwannee, transition into estuaries and eventually into the Gulf. Notably, the Suwannee River Estuary System has been designated an Outstanding Florida Water and a State Seagrass Aquatic Preserve and contains a National Wildlife Refuge.
 

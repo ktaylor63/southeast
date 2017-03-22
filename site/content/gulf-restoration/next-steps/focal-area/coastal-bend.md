@@ -17,7 +17,7 @@ updated: 'March 19th, 2017'
 
 ## Landscape at a Glance
 
-{{< figure class="photo-right" src="/images/pages/texas-mid-coast.jpg" alt="A map showing the Texas Mid-Coast focal area." caption="Map of the Texas Mid-Coast focal area by Roy Hewitt, USFWS. Note: For Biological Planning Unit purposes, this focal area is combined with the Coastal Bend." link="/images/bpus/texas-mid-coast.jpg">}}
+{{< figure class="photo-right" src="/images/pages/coastal-bend.jpg" alt="A map showing the Coastal Bend focal area." caption="Map of the Coastal Bend focal area by Roy Hewitt, USFWS. Note: For Biological Planning Unit purposes, this focal area is combined with the Texas Mid-Coast." link="/images/bpus/coastal-bend.jpg">}}
 
 The Texas Coastal Bend Focal Area lies primarily between the Nueces River and Corpus Christi Bay system to the west, and the Colorado River and Matagorda Bay system to the east. The focal area includes multiple rivers, including the Guadalupe River, that drain central Texas and feed productive estuaries.
 
