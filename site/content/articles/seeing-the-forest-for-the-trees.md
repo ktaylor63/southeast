@@ -11,7 +11,8 @@ tags:
     - Florida
     - Mississippi
     - Louisiana
-author: 'Nadine Siak, USFWS Gulf Restoration Program'
+    - Gulf
+author: 'Nadine Siak, Public Affairs Specialist'
 hero:
     name: longleaf-pine-needles.jpg
     alt: 'Bright green needles emerge from a central cone of a longleaf pine tree'

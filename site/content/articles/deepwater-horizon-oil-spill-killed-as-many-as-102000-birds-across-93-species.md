@@ -2,13 +2,13 @@
 title: 'Deepwater Horizon oil spill killed as many as 102,000 birds across 93 species'
 description: 'In order to hold those responsible for an oil spill accountable for injury and death of wildlife biologists estimate the total number of animals killed, which can be a difficult process.'
 tags:
-    - 'Gulf of Mexico'
+    - Gulf
     - 'Deepwater Horizon Oil Spill'
 hero:
     name: biologists-document-dwh-dead-gull-in-gulfport-ms.jpg
     alt: 'TWo biologists on a beach wearing gloves photograph and document a dead sea gull.'
     caption: 'A USFWS biologist documents the GPS coordinates for a dead gull found in Gulfport, Mississippi, during the Deepwater Horizon oil spill. Photo by Bonnie Strawser, USFWS.'
-author: 'Nanciann Regalado, NRDA'
+author: 'Nanciann Regalado, DOI Deepwater Horizon Outreach and Public Affairs Coordinator'
 date: '2016-06-01'
 updated: 'October 27th, 2016'
 ---
