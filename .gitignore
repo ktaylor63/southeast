@@ -3,12 +3,6 @@ node_modules
 npm-debug.log
 
 # Generated
-site/static/css
-site/static/js
-site/static/images/hero
-site/static/images/svg
-site/static/images/pages
-site/static/data
 dist
 
 # Mac stuff
