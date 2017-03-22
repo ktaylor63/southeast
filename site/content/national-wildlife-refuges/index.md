@@ -19,7 +19,7 @@ Animals have many of the same needs we do. They need space to rest, safe areas t
 
 National Wildlife Refuges are America's public lands and waters set aside to conserve, protect and enhance the conservation of fish, wildlife, and plants. These lands feature some of the most ecologically diverse places in the world and provide valuable habitat to our nation’s vast array of plants and animals. National wildlife refuges are managed by the U.S. Fish and Wildlife Service as part of the Refuge System.
 
-[Learn more about what you can do when you visit a wildlife refuge](/national-widlife-refuges/visitor-activities).
+[Learn more about what you can do when you visit a wildlife refuge](/national-wildlife-refuges/visitor-activities/).
 
 ## History of National Wildlife Refuges
 
