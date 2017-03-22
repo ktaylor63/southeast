@@ -61,7 +61,7 @@ Pattavina lowered his paddle, pointed “There,” he said. “There’s one.”
 
 The lights showed a brown figure, no larger than a computer thumb drive. Across its muzzle was a splash of white – proof that the infection had returned for another year to the unfinished tunnel.
 
-Burns got busy – swab, measure. She moved quickly, murmuring findings to her colleagues her findings.  Pattavina reached for his paddle. The boat moved on.
+Burns got busy – swab, measure. She moved quickly, murmuring findings to her colleagues.  Pattavina reached for his paddle. The boat moved on.
 
 <video controls="">
   <source src="/video/white-nose-syndrom-search-black-diamond-tunnel.mp4" type="video/mp4">
