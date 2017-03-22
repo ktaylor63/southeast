@@ -20,11 +20,11 @@ updated: 'March 10th, 2017'
 
 The U.S. Fish and Wildlife Service (also known as the Service) is a bureau within the United States [Department of the Interior](https://www.doi.gov), America’s principal conservation agency within the [Executive Branch of U.S. government](https://www.whitehouse.gov/1600/executive-branch).
 
-## Our mission
+## Our Mission
 
 > Working with others, to conserve, protect and enhance fish, wildlife, plants and their habitats for the continuing benefit of the American people.
 
-## Our vision
+## Our Vision
 
 > Together, we will connect lands and waters to sustain fish, wildlife and plants by being visionary leaders, bold innovators and trusted partners, working with and for people.
 
