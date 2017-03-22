@@ -14,6 +14,7 @@ tags:
     - Florida
     - Caribbean
     - Gulf
+    - South Carolina
 hero:
     name: manatee-cow-and-calf.jpg
     alt: 'A Florida manatee calf sticks close to its mother in shallow water'
@@ -32,7 +33,6 @@ Today, the rangewide population is estimated to be at least 13,000 manatees, wit
 
 ## News
 {{< news tag="Manatee" number="3" type="gallery" >}}
-
 
 ## Appearance
 
