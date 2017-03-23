@@ -12,6 +12,14 @@
 
     {{ .Content }}
 
+    {{ if ne .Params.tags nil}}
+    ul.tag-list
+      {{ range .Params.tags }}
+      li.tag
+        a href=/tags/{{ . | urlize }} {{ . }}
+      {{ end }}
+    {{ end }}
+
   ul.chapter-links
     {{ if .NextInSection }}
       li.last-chapter
