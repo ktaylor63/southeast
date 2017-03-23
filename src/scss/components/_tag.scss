@@ -1,42 +1,22 @@
 .tag-list {
   list-style: none;
-  margin-top: 0;
+  margin: $leading*2;
   padding-left: 0;
+  text-align: center;
 
   &::before {
-    content: 'Tags: ';
+    content: 'Tags';
+    display: block;
+    font-weight: bold;
   }
 
   li {
     display: inline-block;
     margin-right: .5em;
     margin-bottom: 0;
-
-    &::after {
-      content: ", "
-    }
-
-    &:last-child::after {
-      content: '';
-    }
-
-    @media (min-width: $break-lg) {
-      &::after {
-        content: '';
-      }
-    }
-  }
-
-  @media (min-width: $break-lg) {
-    &::before {
-      content: '';
-    }
   }
 }
 
 .tag {
-
-  @media (min-width: $break-lg) {
-    @include tag;
-  }
+  @include tag;
 }
