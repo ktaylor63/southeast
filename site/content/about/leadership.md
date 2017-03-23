@@ -10,7 +10,7 @@ hero:
     name: leadership-at-noxubee.jpg
     alt: 'Three employees pose for a photo in front of a lake and Refuge sign at Sam D. Hamilton Noxubee National Wildlife Refuge'
     link: 'https://flic.kr/p/cuCjds'
-    caption: 'Southeast Regional Director Cindy Dohner stands between Midwest Regional Director Tom Melius (left), and agency Director Dan Ashe (right). Photo by Tom MacKenzie, USFWS.'
+    caption: 'Southeast Regional Director Cindy Dohner stands between Midwest Regional Director Tom Melius (left), and former agency Director Dan Ashe (right). Photo by Tom MacKenzie, USFWS.'
     position: 'top right'
 updated: 'March 9th, 2017'
 ---
