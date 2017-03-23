@@ -5,13 +5,13 @@
 
 {{ if lt $skip 1 }}
 <ul class='article-gallery'>
-  {{ range $index, $element := first 3 (where .Site.Pages "Section" $type) }}
+  {{ range first 3 (where .Site.Pages "Section" $type) }}
     {{ .Render "gallery" }}
   {{ end }}
 </ul>
 {{ else }}
 <ul class='article-gallery'>
-  {{ range $index, $element := after $skip (first $first (where .Site.Pages "Section" $type)) }}
+  {{ range after $skip (first $first (where .Site.Pages "Section" $type)) }}
     {{ .Render "gallery" }}
   {{ end }}
 </ul>

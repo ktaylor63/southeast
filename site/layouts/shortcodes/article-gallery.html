@@ -1,0 +1,11 @@
+{{ $firstFeature := index (first 1 (where .Site.Pages "Type" "feature")) 0 }}
+{{ $.Scratch.Add "count" 0 }}
+
+<ul class='article-gallery'>
+  {{ range first 4 (where .Site.Pages "Section" "articles") }}
+    {{ if and (ne .Title $firstFeature.Title) (lt ($.Scratch.Get "count") 3) }}
+    {{ .Render "gallery" }}
+    {{ $.Scratch.Add "count" 1 }}
+    {{ end }}
+  {{ end }}
+</ul>
