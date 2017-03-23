@@ -1,4 +1,5 @@
 require('classlist-polyfill');
+require('window.requestanimationframe')
 
 const xhr = require('xhr');
 const Parallax = require('parallax-scroll');
