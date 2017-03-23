@@ -1,0 +1,29 @@
+each webinar in webinars
+  - var date = moment(webinar.date).format('dddd, MMMM D') + ', ' + webinar.time;
+  - var presentation = baseUrl + 'pdf/presentations/' + webinar.presentation;
+  li.card.card-text.clearfix
+    span.webinar-ribbon= date
+    p.webinar-series| Series: #{webinar.series}
+    h3.webinar-heading= webinar.title
+    if ( webinar.abstract !== '' )
+      .abstract-panel.abstract-hidden
+        h3.abstract-heading Show Abstract
+        p.abstract= webinar.abstract
+    if ( webinar.image && webinar.caption && webinar.credit )
+      - var url = baseUrl + 'images/pages/' + webinar.image;
+      figure.webinar-image
+        a(href=url, target='_blank')
+          img(src=url, alt=webinar.caption)
+        figcaption| #{webinar.caption}. Credit: #{webinar.credit}.
+    p.webinar-presenters= webinar.presenters
+    if ( webinar.register && !past )
+      a.button(href=webinar.register, target='_blank') Register
+    if ( webinar.vidyo && !past )
+      p.webinar-details= webinar.details
+      a.button(href=webinar.vidyo, target='_blank') Join Vidyo
+    if ( isUrl(webinar.recording) )
+      a.button(href=webinar.recording, target='_blank') Recording
+    if ( isUrl(webinar.url) )
+      a.button(href=webinar.url, target='_blank') More Info
+    if ( webinar.presentation )
+      a.button(href=presentation, target='_blank') Presentation
