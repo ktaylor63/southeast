@@ -1,16 +1,6 @@
 ---
-title: 'Keeping Fire on Our Side'
-description: 'For thousands of years, fire has influenced the southeastern landscape, and today a broad range of plants, animals and their habitats have become dependent on fire. Learn about the fire management expertise the U.S. Fish and Wildlife Service provides to support healthy wildlife and habitats.'
-nav: Fire
-hero:
-    name: prescribed-fire.jpg
-    alt: 'A USFWS firefighter keeps a close eye on a prescribed fire'
-    caption: 'USFWS firefigher Brian Pippin watches over a prescribed fire at St. Marks National Wildlife Refuge. Photo by Jennifer Hinckley, USFWS.'
-tags:
-    - 'Prescribed Fire'
-    - 'Land Management'
-    - 'National Wildlife Refuges'
-updated: 'March 10th, 2017'
+updated: 'March 22nd, 2017'
+tags: null
 ---
 
 For thousands of years, fire has influenced the southeastern landscape. Today, a broad range of plants, animals and their habitats have developed a harmonious relationship with fire.
