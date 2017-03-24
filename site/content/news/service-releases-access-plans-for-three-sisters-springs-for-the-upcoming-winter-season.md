@@ -9,6 +9,7 @@ hero:
     position: top
 tags:
     - Florida
+    - Manatee
 updated: 'November 9th, 2016'
 ---
 The U.S. Fish and Wildlife Service has established updated, science-based protocols to help determine when Three Sisters Springs is open for in-water wildlife viewing this winter. 
