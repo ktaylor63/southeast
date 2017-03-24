@@ -5,7 +5,7 @@ li class="teaser teaser-{{ .Type }}"
     {{ if not .Date.IsZero }}
     p {{ .Date.Format "January 2, 2006" }}
     {{ end }}
-    p {{ .Summary }}
+    p {{ if .Params.description }}{{ .Params.description }}{{ else }}{{ .Summary }}{{ end }}
     p
       {{ if eq .Type "news" }}
       a href={{ .Permalink }} Read the full release

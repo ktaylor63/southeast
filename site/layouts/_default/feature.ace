@@ -7,4 +7,4 @@ article class="{{ if eq .Section "article" }}feature-article-summary{{ else if e
     {{ if .Params.subtitle }}
     h3 {{ .Params.subtitle }}
     {{ end }}
-    p {{ .Summary }}
+    p {{ if .Params.description }}{{ .Params.description }}{{ else }}{{ .Summary }}{{ end }}
