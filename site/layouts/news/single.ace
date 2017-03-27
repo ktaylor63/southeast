@@ -1,0 +1,33 @@
+= content main
+  .main role="main"
+    h1.page-title {{ .Title }}
+    {{ if .Params.subtitle }}
+    h2.page-subtitle {{ .Params.subtitle}}
+    {{ end }}
+
+    p.byline {{ if .Params.author }}By {{ .Params.author }}{{ end }}
+      {{ if not .Date.IsZero }}
+        span.article-date {{ .Date.Format "January 2, 2006" }}
+      {{ end }}
+
+    {{ .Content }}
+
+    {{ if ne .Params.tags nil}}
+    ul.tag-list
+      {{ range .Params.tags }}
+      li.tag
+        a href=/tags/{{ . | urlize }} {{ . }}
+      {{ end }}
+    {{ end }}
+
+    = include partials/news-mission-links.html .
+
+  ul.chapter-links
+    {{ if .NextInSection }}
+      li.last-chapter
+        a href="{{ .NextInSection.Permalink }}" {{ .NextInSection.Title }}
+    {{end}}
+    {{ if .PrevInSection }}
+      li.next-chapter
+        a href="{{ .PrevInSection.Permalink }}" {{ .PrevInSection.Title }}
+    {{end}}
