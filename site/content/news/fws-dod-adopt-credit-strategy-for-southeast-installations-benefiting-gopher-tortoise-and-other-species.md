@@ -18,7 +18,7 @@ updated: 'March 24th, 2017'
 
 {{< figure class="photo-right" src="/images/pages/gopher-tortoise-crediting-strategy-signing.jpg" alt="Leaders from conservation agencies sign the new strategy." caption="From left to right: Rusty Garrison (GADNR), Kipp Frolich (FWC), Fred Harders (ALDCNR), Will Dillman (SCDNR), Ryan Orndorff (DoD), Cindy Dohner (USFWS). Photo by Chuck Underwood, USFWS." >}}
 
-**Tifton, Ga.** – A first-in- the-nation conservation plan, crafted by the U.S. Department of Defense, U.S. Fish and Wildlife Service and state wildlife agencies in Alabama, Florida, Georgia and South Carolina, [protects at-risk gopher tortoises here while helping military bases to continue training](/articles/protecting-military-readiness-and-the-iconic-gopher-tortoise-at-the-same-time/) and testing missions across the tortoise’s Southern turf.
+**Tifton, Ga.** – A first-in-the-nation [conservation plan](/pdf/strategy/gopher-tortoise-conservation-and-crediting-strategy-department-of-defense.pdf), crafted by the U.S. Department of Defense, U.S. Fish and Wildlife Service and state wildlife agencies in Alabama, Florida, Georgia and South Carolina, [protects at-risk gopher tortoises here while helping military bases to continue training](/articles/protecting-military-readiness-and-the-iconic-gopher-tortoise-at-the-same-time/) and testing missions across the tortoise’s Southern turf.
 
 The Gopher Tortoise Conservation and Crediting Strategy – think of a savings account where the military can make deposits now (tortoise credits) that will be available for future use – will be officially unveiled at a ceremony in this Southwest Georgia community near the state’s newest WMA. The credit strategy was signed this morning in Tifton.
 
