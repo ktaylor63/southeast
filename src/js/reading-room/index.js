@@ -25,7 +25,7 @@ const init = () => {
   if (value) input.value = value;
 
   xhr.get(`../data/reading-room-documents.js`, (err, res, body) => {
-    if (err) console.log(err);
+    if (err) output.innerHTML = `<h2>An error occurred; could not download documents.</h2>`;
     documents = JSON.parse(body);
     seedIndex(documents);
     value ? search({ target: { value: value }}) : render(documents);
@@ -52,6 +52,8 @@ const search = (e) => {
   const results = index.search(query)
     .sort((a,b) => a.score < b.score)
     .map(hit => documents[hit.ref]);
+
+  if (results.length === 0) return output.innerHTML = `<h2>Your query did not return any documents.</h2>`;
 
   return render(results);
 }
