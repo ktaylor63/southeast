@@ -26,7 +26,7 @@ updated: 'March 24th, 2017'
 
 A first-in-the-nation [conservation plan](/pdf/strategy/gopher-tortoise-conservation-and-crediting-strategy-department-of-defense.pdf), crafted by the U.S. Department of Defense, U.S. Fish and Wildlife Service (Service) and wildlife agencies in Alabama, Florida, Georgia and South Carolina, protects at-risk gopher tortoises here while helping military bases to continue training and testing missions across the tortoise’s Southern turf.
 
-The Gopher Tortoise Conservation and Crediting Strategy – think of a savings account where the military can make deposits now (tortoise credits) that will be available for future use – will be officially unveiled at a ceremony in this Southwest Georgia community near the state’s newest Wildlife Management Area (WMA).
+The Gopher Tortoise Conservation and Crediting Strategy – think of a savings account where the military can make deposits now (tortoise credits) that will be available for future use – was officially unveiled at a ceremony in this Southwest Georgia community near the state’s newest Wildlife Management Area (WMA).
 
 The goal is to keep the tortoise from being listed under the Endangered Species Act, a designation that could complicate the military’s training or bombing exercises.  This strategy encourages conservation investments first that will help keep the tortoise off that list.  If it makes the list in the future, the credit strategy will allow the military to continue its mission without new conservation requirements because of those early deposits it already invested in voluntary conservation efforts.  
 
