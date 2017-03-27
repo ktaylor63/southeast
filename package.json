@@ -36,7 +36,7 @@
   "author": "Roy Hewitt, @r0yhewitt",
   "license": "SAX-PD",
   "devDependencies": {
-    "async": "^2.1.5",
+    "async": "^2.2.0",
     "autoprefixer": "^6.7.7",
     "browser-sync": "^2.18.8",
     "chalk": "^1.1.3",
