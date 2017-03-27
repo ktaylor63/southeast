@@ -13,7 +13,7 @@ const list = document.querySelector('.webinar-list');
 
 let webinars;
 
-xhr.get(`${baseUrl}data/webinars.js`, (err, res, body) => {
+xhr.get('../data/webinars.js', (err, res, body) => {
   if (err) console.log(err);
   webinars = JSON.parse(body).sort(sortByDate);
   const pastWebinars = webinars

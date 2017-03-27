@@ -8,7 +8,7 @@ const templates = {
 const output = document.querySelector('.output');
 const input = document.getElementById('permit-search');
 const baseURL = document.body.getAttribute('data-root');
-const url = `${baseURL}data/permits.js`;
+const url = '../data/permits.js';
 let permits;
 
 xhr.get(url, (err, res, body) => {

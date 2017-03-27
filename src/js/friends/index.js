@@ -1,62 +1,54 @@
-(function () {
-  'use strict';
+const xhr = require('xhr');
 
-  const fs = require('fs');
+const templates = {
+  results: require('./results.pug'),
+  noResults: require('./noResults.pug')
+};
 
-  const xhr = require('xhr');
+const list = document.querySelector('.friends-group-list');
+const input = document.querySelector('.friends-search');
+const totalGroups = document.querySelector('.total-groups');
+const totalRefuges = document.querySelector('.total-refuges');
+const totalHatcheries = document.querySelector('.total-hatcheries');
+let data;
 
-  const templates = {
-    results: require('./results.pug'),
-    noResults: require('./noResults.pug')
-  };
+xhr.get('../data/friends-groups.js', (err, res, body) => {
 
-  const list = document.querySelector('.friends-group-list');
-  const input = document.querySelector('.friends-search');
-  const totalGroups = document.querySelector('.total-groups');
-  const totalRefuges = document.querySelector('.total-refuges');
-  const totalHatcheries = document.querySelector('.total-hatcheries');
-  const baseUrl = document.body.getAttribute('data-root');
-  let data;
+  data = JSON.parse(body);
+  render(data);
+  totalGroups.innerHTML = data.length;
+  totalRefuges.innerHTML = updateCount(data, 'refuge');
+  totalHatcheries.innerHTML = updateCount(data, 'hatchery');
 
-  xhr.get(`${baseUrl}data/friends-groups.js`, (err, res, body) => {
+  input.addEventListener('keyup', search);
+});
 
-    data = JSON.parse(body);
+function search(e) {
+  const query = e.target.value;
+  const regex = new RegExp(query, 'gi');
+  let matches;
+
+  if (query.length === 0) {
     render(data);
-    totalGroups.innerHTML = data.length;
-    totalRefuges.innerHTML = updateCount(data, 'refuge');
-    totalHatcheries.innerHTML = updateCount(data, 'hatchery');
+    return;
+  }
 
-    input.addEventListener('keyup', search);
+  matches = data.filter(group => {
+    const isName = regex.test(group.name);
+    const isSupported = regex.test(group.stations_supported);
+    const isCity = regex.test(group.city);
+    const isState = regex.test(group.state);
+    return (isName || isSupported || isCity || isState);
   });
 
-  function search(e) {
-    const query = e.target.value;
-    const regex = new RegExp(query, 'gi');
-    let matches;
+  render(matches);
+}
 
-    if (query.length === 0) {
-      render(data);
-      return;
-    }
+function render(friends) {
+  if (friends.length === 0) list.innerHTML = templates.noResults();
+  else list.innerHTML = templates.results({ friends: friends });
+}
 
-    matches = data.filter(group => {
-      const isName = regex.test(group.name);
-      const isSupported = regex.test(group.stations_supported);
-      const isCity = regex.test(group.city);
-      const isState = regex.test(group.state);
-      return (isName || isSupported || isCity || isState);
-    });
-
-    render(matches);
-  }
-
-  function render(friends) {
-    if (friends.length === 0) list.innerHTML = templates.noResults();
-    else list.innerHTML = templates.results({ friends: friends });
-  }
-
-  function updateCount(data, type) {
-    return data.filter(group => group.station_type === type).length;
-  }
-
-})();
+function updateCount(data, type) {
+  return data.filter(group => group.station_type === type).length;
+}

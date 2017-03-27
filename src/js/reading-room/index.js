@@ -24,7 +24,7 @@ const init = () => {
   const value = getQueryStringValue();
   if (value) input.value = value;
 
-  xhr.get(`${baseUrl}data/reading-room-documents.js`, (err, res, body) => {
+  xhr.get(`../data/reading-room-documents.js`, (err, res, body) => {
     if (err) console.log(err);
     documents = JSON.parse(body);
     seedIndex(documents);

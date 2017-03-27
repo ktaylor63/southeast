@@ -5,7 +5,7 @@ const list = document.querySelector('.five-year-review-list');
 const input = document.querySelector('.five-year-review-search');
 
 const baseURL = document.body.getAttribute('data-root');
-const url = `${baseURL}data/five-year-reviews.js`;
+const url = '../data/five-year-reviews.js';
 let species;
 
 xhr.get(url, (err, res, body) => {

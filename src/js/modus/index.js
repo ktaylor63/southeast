@@ -5,19 +5,18 @@ require('leaflet.featuregroup.subgroup');
 require('leaflet.defaultextent');
 const parallel = require('async/parallel');
 
-const baseUrl = document.body.getAttribute('data-root');
-const towerUrl = `${baseUrl}data/modus-towers.js`;
-const detectionsUrl = `${baseUrl}data/modus-detections.js`;
+const towerUrl = '../data/modus-towers.js';
+const detectionsUrl = '../data/modus-detections.js';
 
 const colors = ['blue', 'purple', 'red', 'green', 'yellow'];
 const towerColors = [...colors];
 const clusterGroup = L.layerGroup();
 
-L.Icon.Default.imagePath = `${baseUrl}images/`;
+L.Icon.Default.imagePath = '../images/';
 
 const getTowerIcon = color => {
   return new L.Icon({
-    iconUrl: `${baseUrl}images/svg/tower-${color}.svg`,
+    iconUrl: '../images/svg/tower-${color}.svg',
     iconSize:     [20, 40],
     iconAnchor:   [15, 35],
     popupAnchor:  [-5, -28]
@@ -25,7 +24,7 @@ const getTowerIcon = color => {
 }
 const getCircleIcon = color => {
   return new L.Icon({
-    iconUrl: `${baseUrl}images/svg/circle-${color}.svg`,
+    iconUrl: '../images/svg/circle-${color}.svg',
     iconSize:     [20, 40],
     iconAnchor:   [15, 35],
     popupAnchor:  [-5, -28]
