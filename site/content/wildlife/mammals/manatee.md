@@ -9,30 +9,31 @@ aliases:
     - /species/mammal/manatee
     - /species/mammals/manatee
 tags:
-    - Manatee
-    - Mammal
-    - Florida
     - Caribbean
+    - Florida
     - Gulf
-    - South Carolina
+    - Mammal
+    - Manatee
+    - 'South Carolina'
 hero:
     name: manatee-cow-and-calf.jpg
     alt: 'A Florida manatee calf sticks close to its mother in shallow water'
     caption: 'A Florida manatee calf sticks close to its mother in shallow water. Photo: Keith Ramos, USFWS'
 description: 'Manatees are large, elongated marine mammals with paired flippers and a large round or spoon-shaped tail.  They can reach lengths of over 14 feet and weights of over 3,000 pounds'
-updated: 'November 2nd, 2016'
+updated: 'March 27th, 2017'
 ---
 - **Taxon**: Mammal
 - **Range**: Throughout the Caribbean basin, including the southeastern United States, eastern Mexico, eastern Central America, northeastern South America, and the Greater Antilles
 - **Status**: Endangered and Proposed for Reclassification as Threatened
 
 The West Indian manatee is a large, aquatic mammal. There are two subspecies of West Indian manatees: the Antillean manatee (Trichechus manatus manatus), and the Florida manatee (Trichechus manatus latirostris). Due to their eating habits, manatees are nicknamed “sea cows” because they eat seagrasses and other aquatic plants.
+
 Manatees are protected under the Endangered Species Act and under the [Marine Mammal Protection Act](http://www.nmfs.noaa.gov/pr/laws/mmpa/).
 
-Today, the rangewide population is estimated to be at least 13,000 manatees, with more than 6,500 in the southeastern United States and Puerto Rico. When aerial surveys began in 1991, there were an estimated 1,267 manatees in Florida. Today there are more than 6,300, representing a significant increase over the past 25 years. Learn more about the manatee’s road to recovery.
+Today, the rangewide population is estimated to be at least 13,000 manatees, with more than 6,500 in the southeastern United States and Puerto Rico. When aerial surveys began in 1991, there were an estimated 1,267 manatees in Florida. Today there are more than 6,300 in Florida, representing a significant increase over the past 25 years. [Learn more about the manatee’s road to recovery](#recovery-plans).
 
 ## News
-{{< news tag="Manatee" number="3" type="gallery" >}}
+{{< scroller-list tag="Manatee" section="news" >}}
 
 ## Appearance
 
@@ -45,7 +46,7 @@ Manatees are large, elongated marine mammals with paired flippers and a large, s
 Manatees live in marine, brackish, and freshwater systems in coastal and riverine areas throughout their range. Preferred habitats include areas near the shore featuring underwater vegetation like seagrass and eelgrass. They feed along grass bed margins with access to deep water channels, where they flee when threatened.
 Florida manatees can be found throughout Florida for most of the year. However, they cannot tolerate temperatures below 68 degrees Fahrenheit for extended periods of time, and during the winter months these cold temperatures keep the population concentrated in peninsular Florida. Many manatees rely on the warm water from natural springs and power plant outfalls.
 
-During the summer manatees expand their range, and on rare occasions are seen as far north as Rhode Island on the Atlantic coast and as far west as Texas on the Gulf coast. Manatees may travel hundreds of miles during a year’s time, preferring to travel along channels and shorelines.
+During the summer manatees expand their range, and on rare occasions are seen as far north as Massachusetts on the Atlantic coast and as far west as Texas on the Gulf coast. Manatees may travel hundreds of miles during a year’s time, preferring to travel along channels and shorelines.
 
 ## Diet
 
@@ -216,7 +217,6 @@ In 2008, the Service was petitioned to revise critical habitat for this species.
  - March 11, 2013 [Federal and State Officials say red tide killing manatees](http://www.fws.gov/northflorida/Releases-13/20130311_nr_Federal%20and%20State%20Officials%20say%20Red%20tide%20killing%20manatees.html)
  - [Service Improves Manatee Protection in King’s Bay](http://www.fws.gov/northflorida/Releases-12/20120315_nr_Service_finalizes_decision_on_kings_bay_manatee_refuge.html)
  - June 21, 2011 [Federal proposal would broaden manatee protections in Crystal River](http://www.fws.gov/northflorida/Releases-11/20110621_nr_Proposed_Kings_Bay_manatee_protection_area_in_Citrus_County.html)
- - February 2, [2011 Habitual Manatee Zone Violator Sentenced for Killing a Manatee in Brevard County, FL](http://www.fws.gov/southeast/news/2011/11-009.html)
  - November 5, 2010 [Service broadens Florida manatee protections in Kings Bay located in Citrus County, Florida](http://www.fws.gov/northflorida/Releases-10/20101105_nr_U-S_Fish_and_Wildlife_Service_broadens_manatee_protections_in_citrus_county.html)
  - February 19, 2010 [Service urges boaters to be alert as manatee movements increase with warmer weather](http://www.fws.gov/northflorida/Releases-10/20100219_nr_FWS%20uges%20boaters%20to%20be%20alert%20for%20manatee%20activiity%20as%20weather%20warms.html)
  - January 12, 2010 [Service announces 12-month Finding on Petition to Revise Florida Manatee Critical Habitat](http://www.fws.gov/northflorida/Releases-09/20090116_nr_NW_loggerhead_plan.htm)
