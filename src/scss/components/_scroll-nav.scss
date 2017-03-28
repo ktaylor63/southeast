@@ -39,7 +39,7 @@
       overflow-y: scroll;
       right: auto;
       text-align: left;
-      top: 2.5vh;
+      top: $leading;
       transition: all $transition-duration;
 
       li {
