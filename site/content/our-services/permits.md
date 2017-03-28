@@ -3,7 +3,7 @@ title: Permits
 description: 'The U.S. Fish and Wildlife Service issues permits to allow legitimate wildlife-related activities that would otherwise be prohibited by law in a manner that safeguards wildlife.'
 nav: Permits
 aliases:
-  - /permits
+    - /permits
 tags:
     - Permits
 hero:
@@ -12,7 +12,7 @@ hero:
     link: 'https://flic.kr/p/HG5Zki'
     caption: 'Aquatic biologists snorkeling on the Oconaluftee River in North Carolina. Photo by Gary Peeples.'
     position: 'center left'
-updated: 'March 14th, 2017'
+updated: 'March 28th, 2017'
 ---
 
 The U.S. Fish and Wildlife Service Southeast Region issues permits under [various wildlife laws and treaties](http://www.fws.gov/permits/ltr/ltr.html).  Our permits enable the public to engage in legitimate wildlife-related activities that would otherwise be prohibited by law.  Service permit programs ensure that such activities are carried out in a manner that safeguards wildlife.  Additionally, some  permits promote conservation efforts by authorizing scientific research, generating data, or allowing wildlife management and rehabilitation activities to go forward.
@@ -21,9 +21,9 @@ The U.S. Fish and Wildlife Service Southeast Region issues permits under [variou
 
 ## Endangered Species Permits
 
-These permits are provided by our field offices located in the affected state.
+All threatened and endangered species recovery permits are handled by the Regional Office.
 
- - [Contact the field office near you](https://usfws.github.io/southeast-mega-map/?layers=ecological+services)
+ - [Contact the Regional Permit Coordinator](mailto:permitsR4es@fws.gov)
  - [Instructions on how to apply for permits affecting endangered and threatened species native to the United States](http://www.fws.gov/endangered/permits/how-to-apply.html)
 
 ### Incidental Take Permits
