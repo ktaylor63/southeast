@@ -4,7 +4,10 @@ const moment = require('moment');
 
 const template = require('./webinars.pug');
 
-const baseUrl = document.body.getAttribute('data-root');
+let hasWWW = window.location.href.indexOf('www');
+hasWWW = (hasWWW < 0) ? false : true;
+const baseURL = document.body.getAttribute('data-root');
+const dataURL = hasWWW ? baseURL : baseURL.replace('www.', '');
 
 const webinarList = document.querySelector('.webinar-list');
 const pastWebinarList = document.querySelector('.past-webinars');
@@ -13,7 +16,7 @@ const list = document.querySelector('.webinar-list');
 
 let webinars;
 
-xhr.get('../data/webinars.js', (err, res, body) => {
+xhr.get(`${dataURL}data/webinars.js`, (err, res, body) => {
   if (err) console.log(err);
   webinars = JSON.parse(body).sort(sortByDate);
   const pastWebinars = webinars
@@ -73,7 +76,7 @@ function render(webinars, target) {
       webinars: webinars,
       isUrl: isUrl,
       moment: moment,
-      baseUrl: baseUrl
+      baseUrl: baseURL
     });
   } else {
     target.innerHTML = `

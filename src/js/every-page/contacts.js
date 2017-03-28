@@ -1,17 +1,20 @@
 const xhr = require('xhr');
 
 const template = require('./contact.pug');
-const url = '../data/contacts.js';
-
 const input = document.querySelector('.contact-list-search');
 const output = document.querySelector('.contact-list');
+
+let hasWWW = window.location.href.indexOf('www');
+hasWWW = (hasWWW < 0) ? false : true;
+const baseURL = document.body.getAttribute('data-root');
+const dataURL = hasWWW ? baseURL : baseURL.replace('www.', '');
 
 let contacts;
 
 input.addEventListener('keyup', search);
 
 function init() {
-  xhr.get(url, (err, res, body) => {
+  xhr.get(`${dataURL}/data/contacts.js`, (err, res, body) => {
     if (err) console.log(err);
     contacts = JSON.parse(body);
     render(contacts);
@@ -42,7 +45,7 @@ function render(contacts) {
 }
 
 function normalizePhoneNumber(number) {
-  var phone = number.replace(/\D/g,'');
+  let phone = number.replace(/\D/g,'');
   // This pauses for a second to dial an extension
   if (phone.length > 10) phone = insert(phone, 10, 'p');
   return 'tel:+1' + phone;

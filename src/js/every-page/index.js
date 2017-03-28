@@ -13,8 +13,12 @@ const shortList = require('./short-list');
 const marker = new Marker(document.querySelector('#content'));
 const parallax = new Parallax('.parallax', { speed: 0.5 });
 
+let hasWWW = window.location.href.indexOf('www');
+hasWWW = (hasWWW < 0) ? false : true;
+const baseURL = document.body.getAttribute('data-root');
+const dataURL = hasWWW ? baseURL : baseURL.replace('www.', '');
+
 const content = document.getElementById('content');
-const baseUrl = document.body.getAttribute('data-root');
 const contactLinks = Array.from(document.querySelectorAll('.toggle-contact'));
 const hideScrollnav = document.querySelector('.hide-scrollnav');
 const sectionNav = document.querySelector('.section-nav');
@@ -64,7 +68,7 @@ menu.init({
   position: 'left'
 });
 
-xhr.get('../data/terms.js', (err, res, body) => {
+xhr.get(`${dataURL}/data/terms.js`, (err, res, body) => {
   if (err) console.error(err);
   terms = JSON.parse(body);
   // Highlight words and their acronyms
@@ -98,7 +102,7 @@ xhr.get('../data/terms.js', (err, res, body) => {
 
   // Open all links that go somewhere other than our site in a new tab
   anchors.forEach(anchor => {
-    if ( anchor.href.indexOf(baseUrl) === -1 ) anchor.setAttribute('target', '_blank');
+    if ( anchor.href.indexOf(document.body.getAttribute('data-root')) === -1 ) anchor.setAttribute('target', '_blank');
   });
 });
 

@@ -3,6 +3,11 @@ const xhr = require('xhr');
 const list = document.querySelector('.peer-review-list');
 const input = document.querySelector('.peer-review-search');
 
+let hasWWW = window.location.href.indexOf('www');
+hasWWW = (hasWWW < 0) ? false : true;
+const baseURL = document.body.getAttribute('data-root');
+const dataURL = hasWWW ? baseURL : baseURL.replace('www.', '');
+
 let reviews;
 
 const search = (e) => {
@@ -50,7 +55,7 @@ const createListItem = r => {
   `;
 }
 
-xhr.get('../data/peer-reviews.js', (err, res, body) => {
+xhr.get(`${dataURL}data/peer-reviews.js`, (err, res, body) => {
   if (err) console.log(err);
   reviews = JSON.parse(body);
   input.addEventListener('keyup', search);

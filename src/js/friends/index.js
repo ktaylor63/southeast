@@ -10,9 +10,15 @@ const input = document.querySelector('.friends-search');
 const totalGroups = document.querySelector('.total-groups');
 const totalRefuges = document.querySelector('.total-refuges');
 const totalHatcheries = document.querySelector('.total-hatcheries');
+
+let hasWWW = window.location.href.indexOf('www');
+hasWWW = (hasWWW < 0) ? false : true;
+const baseURL = document.body.getAttribute('data-root');
+const dataURL = hasWWW ? baseURL : baseURL.replace('www.', '');
+
 let data;
 
-xhr.get('../data/friends-groups.js', (err, res, body) => {
+xhr.get(`${dataURL}data/friends-groups.js`, (err, res, body) => {
 
   data = JSON.parse(body);
   render(data);

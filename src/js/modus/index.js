@@ -5,8 +5,13 @@ require('leaflet.featuregroup.subgroup');
 require('leaflet.defaultextent');
 const parallel = require('async/parallel');
 
-const towerUrl = '../data/modus-towers.js';
-const detectionsUrl = '../data/modus-detections.js';
+let hasWWW = window.location.href.indexOf('www');
+hasWWW = (hasWWW < 0) ? false : true;
+const baseURL = document.body.getAttribute('data-root');
+const dataURL = hasWWW ? baseURL : baseURL.replace('www.', '');
+
+const towerUrl = `${dataURL}data/modus-towers.js`;
+const detectionsUrl = `${dataURL}data/modus-detections.js`;
 
 const colors = ['blue', 'purple', 'red', 'green', 'yellow'];
 const towerColors = [...colors];

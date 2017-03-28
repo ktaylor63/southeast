@@ -6,7 +6,11 @@ const isUrl = require('is-url-superb');
 const template = require('./document-list.pug');
 const output = document.querySelector('.output');
 const input = document.querySelector('.document-input');
-const baseUrl = document.body.getAttribute('data-root');
+
+let hasWWW = window.location.href.indexOf('www');
+hasWWW = (hasWWW < 0) ? false : true;
+const baseURL = document.body.getAttribute('data-root');
+const dataURL = hasWWW ? baseURL : baseURL.replace('www.', '');
 
 let documents;
 
@@ -24,7 +28,7 @@ const init = () => {
   const value = getQueryStringValue();
   if (value) input.value = value;
 
-  xhr.get(`../data/reading-room-documents.js`, (err, res, body) => {
+  xhr.get(`${dataURL}data/reading-room-documents.js`, (err, res, body) => {
     if (err) output.innerHTML = `<h2>An error occurred; could not download documents.</h2>`;
     documents = JSON.parse(body);
     seedIndex(documents);
@@ -60,7 +64,7 @@ const search = (e) => {
 
 const updateUrl = doc => {
   if (isUrl(doc.url)) return doc;
-  doc.url = `${baseUrl}pdf/${doc.url}`;
+  doc.url = `${baseURL}pdf/${doc.url}`;
   return doc;
 }
 

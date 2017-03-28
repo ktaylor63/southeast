@@ -4,11 +4,14 @@ const xhr = require('xhr');
 const list = document.querySelector('.five-year-review-list');
 const input = document.querySelector('.five-year-review-search');
 
+let hasWWW = window.location.href.indexOf('www');
+hasWWW = (hasWWW < 0) ? false : true;
 const baseURL = document.body.getAttribute('data-root');
-const url = '../data/five-year-reviews.js';
+const dataURL = hasWWW ? baseURL : baseURL.replace('www.', '');
+
 let species;
 
-xhr.get(url, (err, res, body) => {
+xhr.get(`${dataURL}data/five-year-reviews.js`, (err, res, body) => {
   if (err) console.log(err);
   species = JSON.parse(body);
   render(species);
