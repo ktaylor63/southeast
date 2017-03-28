@@ -10,10 +10,11 @@ hero:
 aliases:
     - /gis
     - /geographic-information-systems
+    - /gis/gistraining_cookeville.html
 tags:
     - GIS
     - Map
-updated: 'March 20th, 2017'
+updated: 'March 28th, 2017'
 ---
 
 In the Southeast region we use Geographic Information Systems (GIS) and location data to perform spatial analysis and to produce maps.  Spatial data plays a very important role in decision making.  For example, the Service uses location data on threatened and endangered species to consult with developers in order to avoid impacts to these species.  We use environmental data to create models that predict the locations of rare species or to prioritize locations for restoration. The [Southeast Region's GIS Steering Committee](#regional-gis-steering-committee) meets several times each year to facilitate data collection, sharing, and spatial analysis.  [Learn more about GIS projects in the Southeast](/maps/projects).
