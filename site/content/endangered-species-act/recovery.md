@@ -11,12 +11,12 @@ hero:
 aliases:
     - /es/recovery.htm
 tags:
+    - Delisting
+    - Downlisting
     - 'Endangered Species Act'
     - Recovery
     - 'Threatened Species'
-    - Delisting
-    - Downlisting
-updated: 'March 8th, 2017'
+updated: 'March 30th, 2017'
 ---
 
 Our goal under the Endangered Species Act (ESA) is to conserve plants and animals listed as endangered or threatened, as well as the ecosystems upon which they depend. We also work to improve the status of those species to the point that protection under the Act is no longer necessary. This process is what we call **recovery**.
@@ -65,6 +65,7 @@ You can find the recovery plan for any protected species using our [Environmenta
  - [Okaloosa darter](https://www.federalregister.gov/articles/2011/04/01/2011-7668/endangered-and-threatened-wildlife-and-plants-reclassification-of-the-okaloosa-darter-from)
  - [Snail darter](https://ecos.fws.gov/docs/federal_register/fr854.pdf)
  - [Tulotoma snail](https://www.federalregister.gov/articles/2011/06/02/2011-13687/endangered-and-threatened-wildlife-and-plants-reclassification-of-the-tulotoma-snail-from-endangered)
+ - [West Indian Manatee](/wildlife/mammals/manatee)
  - [Wood stork](https://www.federalregister.gov/articles/2014/06/30/2014-14761/endangered-and-threatened-wildlife-and-plants-reclassification-of-the-us-breeding-population-of-the)
 
 {{< figure class="photo" src="/images/pages/puerto-rican-parrot-banded.jpg" alt="A bright green parrot with a green band on it's right foot" caption="The endangered Puerto Rican parrot. Photo by Tom MacKenzie, USFWS. " link="https://flic.kr/p/9D3HVd" >}}
