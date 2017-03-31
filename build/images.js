@@ -2,6 +2,7 @@ const async = require('async');
 const sharp = require('sharp');
 const imagemin = require('imagemin');
 const imageminMozjpeg = require('imagemin-mozjpeg');
+const imageminPngquant = require('imagemin-pngquant');
 const rimraf = require('rimraf');
 const ncp = require('ncp').ncp;
 
@@ -78,9 +79,10 @@ function getImageSize(filepath) {
 }
 
 function minify(buffer, filename, done) {
-  imagemin.buffer(buffer, filename, {
+  imagemin.buffer(buffer, {
     plugins: [
-      imageminMozjpeg()
+      imageminMozjpeg(),
+      imageminPngquant()
     ]
   }).then(buffer => {
     fs.writeFile(filename, buffer, 'utf8', (err) => {

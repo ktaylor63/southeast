@@ -60,7 +60,8 @@ function processHeroImage(filepath, done) {
 }
 
 function minify(buffer, filename, done) {
-  imagemin.buffer(buffer, filename, {
+
+  imagemin.buffer(buffer, {
     plugins: [ imageminMozjpeg() ]
   }).then(buffer => {
     const directory = path.dirname(filename);
