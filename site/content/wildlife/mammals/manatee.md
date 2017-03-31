@@ -1,11 +1,12 @@
 ---
-title: 'Florida manatee'
+title: 'West Indian manatee'
 type: species-profile
 url: /wildlife/mammal/manatee
 scientific: 'Trichechus manatus'
 js: /js/species-profile.js
 aliases:
     - /wildlife/mammal/manatee
+    - /wildlife/mammals/manatee
     - /species/mammal/manatee
     - /species/mammals/manatee
 tags:
@@ -20,19 +21,18 @@ hero:
     alt: 'A Florida manatee calf sticks close to its mother in shallow water'
     caption: 'A Florida manatee calf sticks close to its mother in shallow water. Photo: Keith Ramos, USFWS'
 description: 'Manatees are large, elongated marine mammals with paired flippers and a large round or spoon-shaped tail.  They can reach lengths of over 14 feet and weights of over 3,000 pounds'
-updated: 'March 27th, 2017'
+updated: 'March 30th, 2017'
 ---
 - **Taxon**: Mammal
 - **Range**: Throughout the Caribbean basin, including the southeastern United States, eastern Mexico, eastern Central America, northeastern South America, and the Greater Antilles
-- **Status**: Endangered and Proposed for Reclassification as Threatened
+- **Status**: Threatened
 
-The West Indian manatee is a large, aquatic mammal. There are two subspecies of West Indian manatees: the Antillean manatee (Trichechus manatus manatus), and the Florida manatee (Trichechus manatus latirostris). Due to their eating habits, manatees are nicknamed “sea cows” because they eat seagrasses and other aquatic plants.
+The West Indian manatee is a large, aquatic mammal. There are two subspecies of West Indian manatees: the Antillean manatee (*Trichechus manatus manatus*), and the Florida manatee (*Trichechus manatus latirostris*). Due to their eating habits, manatees are nicknamed “sea cows” because they eat seagrasses and other aquatic plants.
 
 Manatees are protected under the Endangered Species Act and under the [Marine Mammal Protection Act](http://www.nmfs.noaa.gov/pr/laws/mmpa/).
 
 Today, the rangewide population is estimated to be at least 13,000 manatees, with more than 6,500 in the southeastern United States and Puerto Rico. When aerial surveys began in 1991, there were an estimated 1,267 manatees in Florida. Today there are more than 6,300 in Florida, representing a significant increase over the past 25 years. [Learn more about the manatee’s road to recovery](#recovery-plans).
 
-## News
 {{< scroller-list tag="Manatee" section="news" >}}
 
 ## Appearance
@@ -127,9 +127,7 @@ Within the U.S., the most significant causes of death and injury for manatees ar
 
 ## Recovery Plans
 
-The manatee is currently classified under the Endangered Species Act as endangered.
-
-Following extensive review of the threats the manatee faces as well as the conservation actions currently in place to help recover it, the Service proposed on January 8, 2016 to reclassify the species as threatened.
+Following extensive review of the threats the manatee faces as well as the conservation actions currently in place to help recover it, the [Service reclassified the species as threatened on March 30, 2017](/news/2017/03/manatee-reclassified-from-endangered-to-threatened-as-habitat-improves-and-population-expands-existing-federal-protections-remain-in-place/).
 
 ### Florida Manatees
 

@@ -14,7 +14,7 @@ hero:
     link: 'https://flic.kr/p/eLEEwc'
     alt: 'A brownish-yellow salamander sanding on a mossy rock with large round eyes.'
     caption: 'The Pigeon Mountain salamander is no longer at-risk of needing federal protection. Photo by John P. Clare, CC BY-NC-ND 2.0.'
-updated: 'March 20th, 2017'
+updated: 'March 30th, 2017'
 ---
 
 Listing a plant or animal as federally protected under the Endangered Species Act is proven to be successful in preventing extinction.
@@ -26,6 +26,8 @@ A plant or animal is considered **“at-risk”** when:
  - It is proposed for listing as threatened or endangered under the Endangered Species Act,
  - It is a candidate species for listing, or
  - It has been petitioned by a third party for listing.
+
+Learn more about the [Southeast Region's at-risk species strategy](/pdf/fact-sheet/at-risk-species-overview.pdf).
 
 {{< figure class="photo-center" src="/images/pages/baby-gopher-tortoise.jpg" alt="A small beige turtle with dark brown spots on it's shell standing on sandy sparsly vegetated ground." caption="A baby gopher tortoise. Photo by Randy Browning, USFWS." link="https://flic.kr/p/a5Hrx2" >}}
 
@@ -50,7 +52,9 @@ Using the Finder, you can search species by:
 
 ## Work With Us
 
-Whether you’re a landowner, state wildlife agency, private corporation, university or average American citizen, there are numerous opportunities to undertake voluntary actions to conserve species at-risk.
+Whether you’re a landowner, state wildlife agency, private corporation, university or average American citizen, there are [numerous opportunities](/endangered-species-act/voluntary-conservation-tools) to undertake voluntary actions to conserve species at-risk.
+
+[Learn more about at-risk species in the reading room](/reading-room/?q=At-Risk+Species).
 
 To discuss the possibilities and to learn more, please contact:
 
