@@ -17,11 +17,11 @@ const colors = ['blue', 'purple', 'red', 'green', 'yellow'];
 const towerColors = [...colors];
 const clusterGroup = L.layerGroup();
 
-L.Icon.Default.imagePath = '../images/';
+L.Icon.Default.imagePath = `${dataURL}images/`;
 
 const getTowerIcon = color => {
   return new L.Icon({
-    iconUrl: '../images/svg/tower-${color}.svg',
+    iconUrl: `${dataURL}images/svg/tower-${color}.svg`,
     iconSize:     [20, 40],
     iconAnchor:   [15, 35],
     popupAnchor:  [-5, -28]
@@ -29,7 +29,7 @@ const getTowerIcon = color => {
 }
 const getCircleIcon = color => {
   return new L.Icon({
-    iconUrl: '../images/svg/circle-${color}.svg',
+    iconUrl: `${dataURL}images/svg/circle-${color}.svg`,
     iconSize:     [20, 40],
     iconAnchor:   [15, 35],
     popupAnchor:  [-5, -28]
