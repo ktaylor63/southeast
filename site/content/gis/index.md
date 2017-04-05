@@ -154,11 +154,11 @@ Phone: (601) 321-1134
 Ridgeland MS 39157  
 Phone: (601) 206-5431  
 
-[Angela Erves](mailto:blaine_elliott@fws.gov), Information Technology  
-[Lower Mississippi Valley Join Venture](http://www.lmvjv.org/)  
+[Angela Erves](mailto:angela_erves@fws.gov), Cartographer  
+[Lower Mississippi River Fish and Wildlife Conservation Office](https://www.fws.gov/lowermississippiriver/)  
 3909 Halls Ferry Road, EEA  
 Vicksburg, Mississippi 39180  
-Phone: (601) 206-5431  
+Phone: (601) 634-3906    
 
 ### North Carolina
 
