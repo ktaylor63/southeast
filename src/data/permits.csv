@@ -157,7 +157,7 @@ number,status,fed_register
 41750B-0,Issued,N/A
 41707B-0,Issued,N/A
 41705B-0,No permit needed,Noticed for 30 days
-084054-3,Ready for Review,Noticed for 30 days
+084054-3,Awaiting Input from Applicant,Noticed for 30 days
 070846-3,Awaiting Input from Applicant,Noticed for 30 days
 171518-1,In FO for Review,Noticed for 30 days
 108584-6,Issued,Noticed for 30 days
@@ -209,7 +209,7 @@ number,status,fed_register
 34882A-1,Issued,Noticed for 30 days
 53366B-0,Issued,N/A
 206872-6,Issued,Noticed for 30 days
-53906B-0,In FO for Review,Noticed for 30 days
+53906B-0,Abandoned,Noticed for 30 days
 53910B-0,Issued,Noticed for 30 days
 53973B-0,Issued,N/A
 23583B-1,Issued,N/A
@@ -346,7 +346,7 @@ number,status,fed_register
 92689B-0,Issued,N/A
 92802B-0,Issued,N/A
 92805B-0,Issued,N/A
-91755B-0,In RO for Review,Noticed for 30 days
+91755B-0,In FO for Review,Noticed for 30 days
 38792A-2,In RO for Review,N/A
 88823B-0,Awaiting Input from Applicant,Noticed for 30 days
 91704B-0,No permit needed,N/A
@@ -373,14 +373,14 @@ number,status,fed_register
 054973-5,Issued,Noticed for 30 days
 98424B-0,Issued,N/A
 99265B-0,Issued,N/A
-40523A-1,In RO for Review,Noticed for 30 days
+40523A-1,Awaiting Input from Applicant,Noticed for 30 days
 060988-3,In RO for Review,Noticed for 30 days
 31141A-2,Awaiting Input from Applicant,Noticed for 30 days
 99474B-0,Awaiting Input from Applicant,N/A
 98424B-1,Issued,N/A
 009638-11,In RO for Review,Noticed for 30 days
 61981B-1,Issued,N/A
-42183A-1,In RO for Review,Noticed for 30 days
+42183A-1,In FO for Review,Noticed for 30 days
 01408C-0,Issued,N/A
 00868C-0,In RO for Review,Noticed for 30 days
 00862C-0,Issued,N/A
@@ -442,7 +442,7 @@ to be,In RO for Review,Noticed for 30 days
 48579B-2,In FO for Review,on 30 day notice period
 18119C-0,Awaiting Input from Applicant,on 30 day notice period
 56746B-2,In RO for Review,on 30 day notice period
-55292B-1,In RO for Review,N/A
+55292B-1,In RO for Review,needs to be drafted
 106005-3,In RO for Review,N/A
 18508C-0,Issued,N/A
 18731C-0,Issued,N/A
@@ -468,8 +468,10 @@ to be,In RO for Review,Noticed for 30 days
 23537C-0,In RO for Review,on current draft
 78919A-2,In RO for Review,N/A
 148282-5,Issued,N/A
-26554C-0,In FO for Review,N/A
+26554C-0,Awaiting Input from Applicant,N/A
 102292-12,In RO for Review,N/A
 069280-5,In RO for Review,needs to be drafted
 125521-3,In RO for Review,needs to be drafted
 27450C-0,Awaiting Input from Applicant,N/A
+28831C-0,In RO for Review,N/A
+28975C-0,In RO for Review,needs to be drafted
