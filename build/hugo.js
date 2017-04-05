@@ -2,6 +2,7 @@ const spawn = require('child_process').spawn;
 
 function build(baseURL) {
   baseURL = (baseURL) ? baseURL : process.argv[2];
+  console.log(`Base URL: ${baseURL}`);
   const args = [
     '--canonifyURLs=true',
     '--config=site/config.yml',
@@ -9,7 +10,9 @@ function build(baseURL) {
     '--source=site/',
     `--baseURL=${baseURL}`
   ];
-  if (baseURL.includes('localhost')) args.push('--buildDrafts')
+  
+  if (baseURL.includes('localhost')) args.push('--buildDrafts=true')
+  else args.push('--buildDrafts=false')
 
   const hugo = spawn('hugo', args);
 
