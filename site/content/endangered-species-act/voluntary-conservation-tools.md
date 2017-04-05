@@ -10,15 +10,17 @@ hero:
     caption: 'Gopher tortoise. Photo by Randy Browning, USFWS.'
 tags:
     - 'At-Risk Species'
-    - Partnership
     - Conservation
+    - Partnership
     - 'Voluntary Conservation'
-updated: 'March 8th, 2017'
+updated: 'April 4th, 2017'
 ---
 
 > “In the next 10 years, the Southeast Region will have to evaluate a record number of fish, wildlife and plant species for possible listing as threatened or endangered under the Endangered Species Act. Our goal is to conserve them in voluntary and innovative ways for future generations of Americans.” <br> ~Cindy Dohner, U.S. Fish and Wildlife Service Southeast Regional Director
 
 We need to work together to achieve our goal of self-sustaining populations of fish and wildlife for future generations.  If you or someone you know would like to manage property to conserve wildlife and natural resources we’re here to help.  Contact [Mike Harris](mailto:michael_harris@fws.gov?subject=At-Risk%20Species), our At-Risk Species Coordinator, if you have any questions.
+
+[Download the fact sheet](/pdf/fact-sheet/at-risk-conservation-landowner-tools.pdf).
 
 ## Best Management Practices (BMPs)
 
