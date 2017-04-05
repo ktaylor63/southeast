@@ -54,6 +54,14 @@ Outside the United States, manatee population and abundance estimates are less c
 [Download the final rule](/pdf/west-indian-manatee-reclassification-final-rule.pdf) reclassifying the West Indian manatee from endangered to threatened.
 [Learn more about the Florida and Antillean subspecies on the West Indian manatee species profile](/wildlife/mammal/manatee/). Download the [Frequently Asked Questions](/pdf/frequently-asked-questions/manatee-reclassification-to-threatened.pdf) for additional information related to the decision.
 
+## Teleconference Audio
+
+<audio src="https://www.fws.gov/northflorida/Manatee/2017%20Reclass/20170330_WIM_reclass_PressConfer_Audio_493144051.mp3" controls="controls">
+  Your browser does not support the <code>audio</code> element.
+</audio>
+
+[Download the transcript](https://www.fws.gov/northflorida/Manatee/2017%20Reclass/20170330_WIM_Rercalss_PressConfer_Transcript.pdf).
+
 ## Contacts
 
 [Interior_Press@ios.doi.gov](mailto:Interior_Press@ios.doi.gov)
