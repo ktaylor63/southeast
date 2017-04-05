@@ -19,7 +19,7 @@ tags:
     - 'Longleaf Pine'
     - Militarty
     - 'South Carolina'
-updated: 'March 24th, 2017'
+updated: 'April 4th, 2017'
 ---
 
 **Tifton, Ga.** – There isn’t a military base for 50 miles, but the Army plays a critical role at the Alapaha River Wildlife Management Area.
@@ -42,7 +42,7 @@ Utilities, transportation departments and others might also fashion similar pre-
 
 {{< figure class="photo-center" src="/images/pages/gopher-tortoise-search-andy-day.jpg" alt="A biologist hunched on his knees peers into a hole in the ground." caption="Andy Day, a biologist with the Georgia DNR shines light into a tortoise burrow with a mirror. Photo by Roy Hewitt, USFWS." link="https://flic.kr/p/SDmR4j" >}}
 
-Andy Day and Seth Thompson traipsed across prime tortoise territory one recent, unseasonably warm morning in search of the elusive reptile Day, a contract biologist with Georgia’s Department of Natural Resources (DNR), and Thompson, the newly anointed manager of the Alapaha River WMA, stooped to peer into the many burrows dotting the land covered in longleaf pines.
+Andy Day and Seth Thompson traipsed across prime tortoise territory one recent, unseasonably warm morning in search of the elusive reptile Day, a contract biologist with the Georgia Department of Natural Resources (DNR), and Thompson, the newly anointed manager of the Alapaha River WMA, stooped to peer into the many burrows dotting the land covered in longleaf pines.
 
 Day cleared leaves with a snake stick, positioned a mirror to shoot the sun’s rays into burrows and contorted his body to peer deep into the sandy holes.
 
@@ -62,7 +62,7 @@ The Service unveiled a range-wide conservation strategy for the tortoise in 2013
 
 Its status is threatened west of the Mobile and Tombigbee rivers. It is a candidate species east of the rivers and, therefore, subject to intensive efforts to be kept off the endangered list. A decision is expected by 2023 – enough time, wildlife enthusiasts hope, to conserve populations of the species to ensure its long-term viability.
 
-Conserving key habitats and populations is critical to the rangewide tortoise strategy. This WMA, financed by the Department of Defense, U.S. Forestry Service, Georgia’s DNR, the Fish and Wildlife Service and the Knobloch Family Foundation, underscores the need for partnerships to achieve conservation goals.
+Conserving key habitats and populations is critical to the rangewide tortoise strategy. This WMA, financed by the Department of Defense, U.S. Forest Service, Georgia DNR, the  Service and the Knobloch Family Foundation, underscores the need for partnerships to achieve conservation goals.
 
 Reptiles like the tortoise aren’t the only beneficiaries. Alapaha is the only public hunting ground in this corner of Southwest Georgia. And spring turkey season is starting.
 
