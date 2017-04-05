@@ -3,21 +3,23 @@ title: 'Bald Eagles and Golden Eagles'
 description: 'Bald eagles and golden eagles and their nests are protected from take, including disturbance, under the federal Bald and Golden Eagle Protection Act.'
 tags:
     - 'Bald Eagle'
+    - 'Bald and Golden Eagle Protection Act'
     - 'Golden Eagle'
     - Permits
-    - 'Bald and Golden Eagle Protection Act'
 url: /our-services/permits/eagles
+aliases:
+    - /birds/eagle.html
 hero:
     name: golden-eagle.jpg
     alt: 'A brown eagle with a very sharp curved beak flying through the air.'
     link: 'https://flic.kr/p/qGpPKT'
     caption: 'Golden eagle. Photo by Tom Koerner, USFWS.'
-updated: 'March 3rd, 2017'
+updated: 'March 28th, 2017'
 ---
 
 ## National Rules and Regulations
 
-For information about the Bald and Golden Eagle Protection Act (Eagle Act), and permitting rules and regulations visit the [National Migratory Bird Eagle web page](https://www.fws.gov/birds/management/managed-species/bald-and-golden-eagle-information.php).  [Download a copy of the National Bald Eagle Management Guidelines](https://www.fws.gov/southeast/birds/Eagle/NationalBaldEagleManagementGuidelines.pdf).  The guidelines provide recommendations on how best to avoid impacting bald eagles.
+For information about the Bald and Golden Eagle Protection Act (Eagle Act), and permitting rules and regulations visit the [National Migratory Bird Eagle web page](https://www.fws.gov/birds/management/managed-species/bald-and-golden-eagle-information.php).  [Download a copy of the National Bald Eagle Management Guidelines](https://catalog.data.gov/dataset/national-bald-eagle-management-guidelines).  The guidelines provide recommendations on how best to avoid impacting bald eagles.
 
 ## Southeast Region Bald Eagle and Golden Eagle Permitting
 
@@ -68,7 +70,7 @@ The Southeast Region of the Service issued [Bald eagle monitoring guidelines](/p
 
 ## Southeast Region Technical Assistance
 
-If you need assistance determining whether or not a federal Eagle Act permit is recommended for a project, visit the Eagle Permit Technical Assistance website.  This site is a self-guided key that allows you to enter in project specific information that will help you determine if it is advisable to obtain a federal permit for your activities that may disturb eagles.  Please be advised that federal permits are always required under 50 CFR 22.27 for any removal of a bald eagle or golden eagle nest.  This includes any nest used by an eagle regardless of the species that originally built the nest or a nest built by an eagle but used by another migratory bird species.
+If you need assistance determining whether or not a federal Eagle Act permit is recommended for a project, check out [the eagle permit technical assistance page](/our-services/eagle-technical-assistance).  This site is a self-guided key that allows you to enter in project specific information that will help you determine if it is advisable to obtain a federal permit for your activities that may disturb eagles.  Please be advised that federal permits are always required under 50 CFR 22.27 for any removal of a bald eagle or golden eagle nest.  This includes any nest used by an eagle regardless of the species that originally built the nest or a nest built by an eagle but used by another migratory bird species.
 
 ## Contacts
 
