@@ -7,7 +7,7 @@ hero:
     position: 'center bottom'
 tags:
     - Grants
-    - 'Endangered Species'
+    - 'Endangered Species Act'
 date: '2017-01-03'
 updated: 'January 8th, 2017'
 ---

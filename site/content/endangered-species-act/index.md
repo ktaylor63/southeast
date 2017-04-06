@@ -5,7 +5,6 @@ url: /endangered-species-act
 nav: 'Endangered Species Act'
 weight: 1
 tags:
-    - 'Endangered Species'
     - 'Endangered Species Act'
 hero:
     name: green-sea-turtle-hatchling.jpg

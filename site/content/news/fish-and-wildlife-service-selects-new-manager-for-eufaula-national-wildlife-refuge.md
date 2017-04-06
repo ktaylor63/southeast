@@ -8,7 +8,7 @@ hero:
     position: 'bottom right'
 date: '2009-07-29'
 tags:
-    - NWRS
+    - 'National Wildlife Refuge System'
     - Alabama
 updated: 'October 20th, 2016'
 ---

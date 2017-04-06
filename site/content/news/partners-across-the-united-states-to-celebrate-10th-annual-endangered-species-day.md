@@ -8,7 +8,7 @@ hero:
 date: '2015-05-06'
 tags:
     - Partnership
-    - ESA
+    - 'Endangered Species Act'
 updated: 'October 20th, 2016'
 ---
 

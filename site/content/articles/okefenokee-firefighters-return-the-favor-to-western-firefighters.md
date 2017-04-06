@@ -4,7 +4,7 @@ description: 'After receiving help from firefighters across America to manage fi
 tags:
     - 'Prescribed Fire'
     - Okefenokee
-    - 'National Wildlife Refuge'
+    - 'National Wildlife Refuge System'
     - Georgia
     - Employees
 hero:

@@ -2,7 +2,7 @@
 title: 'U.S. Department of Agriculture’s Wildlife Services Plays Key Role in Louisiana Black Bear Recovery'
 description: null
 tags:
-    - Partnerships
+    - Partnership
     - USDA
     - Louisiana
     - 'Louisiana Black Bear'

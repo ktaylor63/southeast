@@ -8,6 +8,7 @@ hero:
     caption: 'Louisiana pinsnake, one of the rarest snake species in the world. Photo by USFWS.'
 tags:
     - Louisiana
+    - Lafayette
 updated: 'November 9th, 2016'
 ---
 The Louisiana pinesnake, a large, non-venomous snake now found only in isolated areas of Louisiana and Texas, is being proposed for listing as a threatened species under the Endangered Species Act (ESA).

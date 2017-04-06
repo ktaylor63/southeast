@@ -3,7 +3,7 @@ title: 'Hunting on Southeastern Refuges'
 description: 'Hunting is part of our American heritage and is a huge economic contributor to the conservation of our nation’s wildlife and habitats. We offer seasonal hunting opportunities on a variety of southeastern national wildlife refuges. You can hunt a range of species including white-tailed deer, waterfowl, turkey and even help control wild hogs.'
 tags:
     - Hunting
-    - 'National Wildlife Refuges'
+    - 'National Wildlife Refuge System'
     - 'Visitor Activities'
 aliases:
     - /refuges/hunting

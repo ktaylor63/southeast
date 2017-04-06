@@ -17,7 +17,7 @@ tags:
     - Georgia
     - 'Gopher Tortoise'
     - 'Longleaf Pine'
-    - Militarty
+    - Military
     - 'South Carolina'
 updated: 'April 4th, 2017'
 ---

@@ -7,7 +7,7 @@ hero:
     link: 'https://flic.kr/p/92wY8v'
     caption: 'Close up of face of great horned owl. Photo by Susan Rachlin, USFWS.'
 tags:
-    - NWRS
+    - 'National Wildlife Refuge System'
 updated: 'October 3rd, 2016'
 ---
 

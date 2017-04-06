@@ -9,7 +9,7 @@ hero:
     position: 'top center'
 tags:
     - 'Three Sisters Springs'
-    - NWRS
+    - 'National Wildlife Refuge System'
     - Manatee
     - Florida
 updated: 'October 21st, 2016'

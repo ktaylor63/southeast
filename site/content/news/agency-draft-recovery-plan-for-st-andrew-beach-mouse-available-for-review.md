@@ -7,7 +7,7 @@ hero:
     link: 'https://flic.kr/p/6XFugq'
     caption: 'Beach mouse habitat at St. Joseph Peninsula State Park. Photo by <a href=''https://www.flickr.com/photos/steverob50pics/''>Steve Robinson</a> <a href=''https://creativecommons.org/licenses/by-nc-nd/2.0/legalcode''>CC BY-NC-ND 2.0</a>.'
 tags:
-    - Endangered
+    - 'Endangered Species Act'
     - Florida
     - Recovery
     - 'St. Andrew Beach Mouse'

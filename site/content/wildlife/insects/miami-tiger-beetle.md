@@ -11,7 +11,7 @@ tags:
     - 'Miami Tiger Beetle'
     - Florida
     - Insect
-    - Endangered
+    - 'Endangered Species Act'
     - 'Pine Rocklands'
 hero:
     link: 'https://flic.kr/p/BEwwVZ'

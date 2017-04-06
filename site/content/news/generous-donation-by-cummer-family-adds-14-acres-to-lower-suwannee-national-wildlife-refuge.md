@@ -8,7 +8,7 @@ hero:
     caption: 'Lower Suwannee National Wildlife Refuge. Photo by <a href=\"https://www.flickr.com/photos/82257969@N00/\" target=\"_blank\">C. Houder</a> <a href=\"https://creativecommons.org/licenses/by-nc-nd/2.0/\" target=\"_blank\">CC BY-NC-ND 2.0</a>.'
     position: 'bottom center'
 tags:
-    - NWRS
+    - 'National Wildlife Refuge System'
     - Florida
 updated: 'October 20th, 2016'
 ---

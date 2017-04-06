@@ -6,7 +6,7 @@ tags:
     - 'Landscape Conservation Cooperatives'
     - Science
     - GIS
-    - Maps
+    - Map
 hero:
     name: south-atlantic-lcc-conservation-planning-atlas.jpg
     alt: 'A screen shot of an interactive map showing areas of high priority across the south Atlantic coast.'

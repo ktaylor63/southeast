@@ -11,11 +11,11 @@ hero:
 aliases:
     - /es/recovery.htm
 tags:
-    - Delisting
-    - Downlisting
+    - Delist
+    - Downlist
     - 'Endangered Species Act'
     - Recovery
-    - 'Threatened Species'
+    - 'Endangered Species Act'
 updated: 'March 30th, 2017'
 ---
 

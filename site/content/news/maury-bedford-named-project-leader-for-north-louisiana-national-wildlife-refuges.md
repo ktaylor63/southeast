@@ -7,7 +7,7 @@ hero:
     caption: 'Project leader Maury Bedford. Photo by USFWS.'
     position: 'top center'
 tags:
-    - NWRS
+    - 'National Wildlife Refuge System'
     - Louisiana
 updated: 'October 20th, 2016'
 ---

@@ -7,7 +7,7 @@ hero:
     caption: 'A Florida manatee calf sticks close to its mother in shallow water. Photo: Keith Ramos, USFWS'
 tags:
     - Manatee
-    - 'Three Sister Springs'
+    - 'Three Sisters Springs'
     - Florida
 updated: 'October 20th, 2016'
 ---

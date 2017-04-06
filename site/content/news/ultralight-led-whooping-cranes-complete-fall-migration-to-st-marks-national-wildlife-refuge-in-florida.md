@@ -8,7 +8,7 @@ hero:
     caption: 'Two whooping cranes fly over St. Marks National Wildlife Refuge following the second ultralight aircraft. Photo by Terri Calleson, USFWS.'
 tags:
     - 'Whooping crane'
-    - NWRS
+    - 'National Wildlife Refuge System'
     - Florida
     - Georgia
     - Kentucky

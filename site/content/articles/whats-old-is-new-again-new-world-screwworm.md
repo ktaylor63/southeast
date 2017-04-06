@@ -7,7 +7,7 @@ hero:
     link: 'https://flic.kr/p/RvKaX7'
 tags:
     - 'Key Deer'
-    - 'Endangered Species'
+    - 'Endangered Species Act'
     - Florida
 date: '2017-02-01'
 author: 'Jennifer Koches, South Carolina Ecological Services Field Office'

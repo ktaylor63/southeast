@@ -7,7 +7,7 @@ hero:
     link: 'https://flic.kr/p/84LyAm'
     caption: 'Pelican lands on nest at Breton Island National Wildlife Refuge. Photo by Greg Thompson, USFWS.'
 tags:
-    - NWRS
+    - 'National Wildlife Refuge System'
 updated: 'October 20th, 2016'
 ---
 

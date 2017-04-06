@@ -6,7 +6,7 @@ tags:
     - 'Climate Change'
     - Adaptation
     - 'Sea Level Rise'
-    - 'Endangered Species'
+    - 'Endangered Species Act'
     - 'Key Deer'
 hero:
     link: 'https://flic.kr/p/9nytdu'

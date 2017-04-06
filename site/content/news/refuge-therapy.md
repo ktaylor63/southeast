@@ -7,7 +7,7 @@ hero:
     link: 'https://flic.kr/p/itkuiy'
     caption: 'Public Use Specialist Amanda Wilkinson and children at the Carousel School set up a critter tank. Photo by USFWS.'
 tags:
-    - NWRS
+    - 'National Wildlife Refuge System'
     - Arkansas
 updated: 'October 20th, 2016'
 ---

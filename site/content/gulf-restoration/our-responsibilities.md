@@ -7,7 +7,7 @@ tags:
     - Gulf
     - 'Listed Species'
     - 'Endangered Species Act'
-    - Refuges
+    - 'National Wildlife Refuge System'
 hero:
     name: american-white-pelicans-woodrow.jpg
     alt: 'A large group of bright white pelicans each with an orange beak and webbed feet.'

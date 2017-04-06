@@ -8,7 +8,7 @@ tags:
     - Amphibian
     - Alabama
     - 'Black Warrior Basin'
-    - 'Proposed Endangered'
+    - 'Endangered Species Act'
 aliases:
     - /wildlife/amphibian/black-warrior-waterdog
     - /species/amphibian/black-warrior-waterdog

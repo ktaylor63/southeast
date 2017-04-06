@@ -9,7 +9,7 @@ hero:
     caption: 'Interrupted rocksnail. Photo by Tom Tarpley, Alabama Department of Conservation and Natural Resources.'
 tags:
     - 'Interrupted rocksnail'
-    - 'Rough hornsail'
+    - 'Rough hornsnail'
     - 'Georgia pigtoe'
     - Alabama
     - Georgia
@@ -24,7 +24,7 @@ The interrupted rocksnail, rough hornsnail, and Georgia pigtoe mussel have disap
 
 The final recovery plan describes actions necessary for the mollusks’ recovery, establishes criteria for downlisting the two snails to threatened status, establishes recovery objectives and actions to help us establish criteria for the mussel, and estimates the time and costs for implementing the needed recovery actions.   
 
-According to the recovery plan, downlisting of the interrupted rocksnail and rough hornsail will be considered when we (1) protect and manage at least three geographically distinct populations for each species; (2) achieve demonstrated and sustainable natural reproduction and recruitment in each population for each species as evident by multiple age classes of individuals, including naturally recruited juveniles, and recruitment rates exceeding mortality rates for a period of five years; and develop and implement habitat and population monitoring programs for each population.
+According to the recovery plan, downlisting of the interrupted rocksnail and rough hornsnail will be considered when we (1) protect and manage at least three geographically distinct populations for each species; (2) achieve demonstrated and sustainable natural reproduction and recruitment in each population for each species as evident by multiple age classes of individuals, including naturally recruited juveniles, and recruitment rates exceeding mortality rates for a period of five years; and develop and implement habitat and population monitoring programs for each population.
 
 Recovery criteria for the Georgia pigtoe will be developed after the Service completes critical recovery actions and gains a greater understanding of the mussel species. Meanwhile, the Service identifies the following actions necessary to help prevent the extinction of this animal: (1) maintain and where possible implement habitat restoration activities and improve the Conasauga River population of the Georgia pigtoe; (2) develop and implement a monitoring plan to help ensure that the Conasauga River population does not decline further; and, (3) develop a captive propagation program and establish an ark population to help support the Conasauga River population of the Georgia pigtoe; (4) conduct research, such as, identification of an appropriate fish host, that is important to gain better understanding of this mussel’s life history; and,
 

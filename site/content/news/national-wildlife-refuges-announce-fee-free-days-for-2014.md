@@ -7,7 +7,7 @@ hero:
     caption: 'Juvenile Whooping Cranes Forage on Wheeler NWR. Photo by Bill Gates, USFWS.'
 date: '2013-12-23'
 tags:
-    - NWRS
+    - 'National Wildlife Refuge System'
 updated: 'October 20th, 2016'
 ---
 

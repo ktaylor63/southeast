@@ -7,7 +7,7 @@ hero:
     link: 'https://flic.kr/p/8TGk6Q'
     caption: 'Alligator in the grass. Photo by Steve Brooks.'
 tags:
-    - NWRS
+    - 'National Wildlife Refuge System'
     - Florida
     - Georgia
     - Louisiana

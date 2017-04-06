@@ -8,7 +8,7 @@ hero:
     caption: 'Florida scrub jay. Photo by Gail Hendricks, USDA NRCS.'
 tags:
     - 'Florida scrub jay'
-    - NWRS
+    - 'National Wildlife Refuge System'
     - Florida
 updated: 'October 3rd, 2016'
 ---

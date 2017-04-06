@@ -8,11 +8,10 @@ hero:
     link: 'https://flic.kr/p/Aoxxs8'
     position: 'top left'
 tags:
-    - 'National Fish Hatchery'
-    - 'Endangered Species'
-    - 'Threatened Species'
+    - 'Endangered Species Act'
     - Mitigation
-updated: 'March 14th, 2017'
+    - 'National Fish Hatchery'
+updated: 'April 5th, 2017'
 ---
 
 National fish hatcheries play an important role in managing and restoring America’s fisheries.  Hatcheries across the Southeast produce both game and non-game species, which contributes to habitat conservation, endangered species recovery, and provides recreation opportunities to the nation’s anglers.
@@ -40,7 +39,7 @@ In summer months, heat from the sun reaches the reservoir and warms the upper la
 The hatchery trout life cycle begins fertilized eggs are shipped from a broodstock hatchery in the fall and winter months.  When the eggs arrive at the hatchery they are warmed to the hatchery’s water temperature of 50°-55° F and placed in a disinfecting solution to prevent the transfer of pathogens and contagious disease.  Hatchery staff then gently move the eggs into incubation jars until they hatch about ten days later.  The tiny fish emerge from their eggs with a sac attached that provides nutrition. At this stage the trout are called sac fry.  It takes about 10-14 days until the sac is fully absorbed.
 
 <figure class="photo-center">
-  <video src="/video/greers-ferry-hatchery-feeding-small-trout-in-tanks.mp4" controls="true">
+  <video src="/video/greers-ferry-hatchery-feeding-small-trout-in-tanks.mp4" controls="true" preload="metadata">
     <p>Sorry, your browser doesn't support embedded videos, but don't worry, you can <a href="/video/greers-ferry-hatchery-feeding-small-trout-in-tanks.mp4" download>download it</a> and watch it with your favorite video player!</p>
   </video>
   <figcaption>Feeding small trout in tanks at Greers Ferry National Fish Hatchery. Video by USFWS.</figcaption>
@@ -49,7 +48,7 @@ The hatchery trout life cycle begins fertilized eggs are shipped from a broodsto
 Once the nutritional sac is absorbed the fry begin to receive starter feed frequently throughout the day.  It takes about five months for the fry to reach three inches in length at which point they are moved outside into raceways to finish growing.  Trout are routinely moved among different raceways to reduce the number of fish in a given raceway to improve growing conditions.  Employees measure the size of fish in an effort to keep fish of similar size together. Daily feeding of adult trout is based on their size and the anticipated date when they will be released into the river.
 
 <figure class="photo-center">
-  <video src="/video/greers-ferry-hatchery-truck-feeding.mp4" controls="true">
+  <video src="/video/greers-ferry-hatchery-truck-feeding.mp4" controls="true" preload="metadata">
     <p>Sorry, your browser doesn't support embedded videos, but don't worry, you can <a href="/video/greers-ferry-hatchery-truck-feeding.mp4" download>download it</a> and watch it with your favorite video player!</p>
   </video>
   <figcaption>Feeding trout in raceway by truck at Greers Ferry National Fish Hatchery. Video by USFWS.</figcaption>
@@ -59,7 +58,7 @@ When the trout are large enough for release into local rivers, hatchery personne
 
 
 <figure class="photo-center">
-  <video src="/video/greers-ferry-hatchery-crowding-trout-for-loading.mp4" controls="true">
+  <video src="/video/greers-ferry-hatchery-crowding-trout-for-loading.mp4" controls="true" preload="metadata">
     <p>Sorry, your browser doesn't support embedded videos, but don't worry, you can <a href="/video/greers-ferry-hatchery-crowding-trout-for-loading.mp4" download>download it</a> and watch it with your favorite video player!</p>
   </video>
   <figcaption>Preparing trout for distribution truck at Greers Ferry National Fish Hatchery. Video by USFWS.</figcaption>

@@ -8,10 +8,10 @@ hero:
     link: 'https://flic.kr/p/9D3HG3'
     caption: 'Endangered Puerto Rican parrot ceremonially released at the Iguaca Aviary. Photo by Tom MacKenzie, USFWS.'
 tags:
+    - 'Puerto Rican Parrot'
     - 'Puerto Rico'
-    - 'Puerto Rican parrot'
     - Recovery
-updated: 'October 3rd, 2016'
+updated: 'April 5th, 2017'
 ---
 
 Maricao, P.R. - Secretary of the Department of Natural and Environmental Resources (DNER), Carmen R. Guerrero Perez; the Regional Director of the Southeast Region of the US Fish and Wildlife Service (USFWS), Cynthia K. Dohner; and the Regional Forester of the Southeast Region of the US Forest Service (USFS), Tony Tooke, reported the transfer of 30 Puerto Rican parrots the Maricao Commonwealth Forest, a significant step to establish the third population of this endangered species.
@@ -50,7 +50,7 @@ In the 19th century, the population was estimated at more than a million Puerto 
 
 Last year, the program reported the birth of two Puerto Rican parrots in the wild in a natural nest in the Rio Abajo State Forest, an event that marked a milestone in 144 years of history. 
 
-<video width="640" height="352" controls="" style="display: block; margin: auto;"><source src="http://fws.gov/southeast/video/puerto-rican-parrot-release-08-13-2015.mp4" type="video/mp4"> Sorry, your browser does not support HTML5 video.</video>
+<video width="640" height="352" controls="" preload="metadata" style="display: block; margin: auto;"><source src="http://fws.gov/southeast/video/puerto-rican-parrot-release-08-13-2015.mp4" type="video/mp4"> Sorry, your browser does not support HTML5 video.</video>
 
 [Download the video](http://fws.gov/southeast/video/puerto-rican-parrot-release-08-13-2015.mp4)
 

@@ -5,7 +5,7 @@ js: /js/five-year-reviews.js
 nav: '5-Year Reviews'
 weight: 4
 tags:
-    - 'Andangered Species Act'
+    - 'Endangered Species Act'
     - Science
     - Monitoring
 aliases:

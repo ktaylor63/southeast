@@ -3,7 +3,7 @@ title: 'Get Wild in the Four Florida Keys National Wildlife Refuges with the Fir
 date: '2016-01-12'
 tags:
     - Florida
-    - NWRS
+    - 'National Wildlife Refuge System'
 hero:
     name: key-deer-after-prescribed-burn.jpg
     alt: 'A small deer with velvet covered antlers in a recently burned forest.'

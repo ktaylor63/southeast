@@ -7,7 +7,7 @@ hero:
     link: 'https://flic.kr/p/pVeyyG'
     caption: 'Bald Cypress Swamp at Wapanocca National Wildlife Refuge. Photo by <a href=\"https://www.flickr.com/photos/97853094@N08/\" target=\"_blank\">Genevieve Shank</a> <a href=\"https://creativecommons.org/licenses/by-nc-nd/2.0/\" target=\"_blank\">CC BY-NC-ND 2.0</a>.'
 tags:
-    - NWRS
+    - 'National Wildlife Refuge System'
     - 'Gulf'
     - 'Duck Stamp'
     - Arkansas

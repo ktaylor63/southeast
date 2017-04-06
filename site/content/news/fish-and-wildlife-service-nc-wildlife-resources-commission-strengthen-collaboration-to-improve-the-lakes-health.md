@@ -8,7 +8,7 @@ hero:
     caption: 'Lake Mattamuskeet NWR attracts more than 200,000 ducks, geese and swans from November to February. Photo by Allie Stewart, USFWS.'
 tags:
     - 'North Carolina'
-    - NWRS
+    - 'National Wildlife Refuge System'
 updated: 'October 26th, 2016'
 ---
 

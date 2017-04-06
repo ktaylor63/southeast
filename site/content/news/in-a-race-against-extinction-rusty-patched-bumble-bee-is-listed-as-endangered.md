@@ -3,7 +3,7 @@ title: 'In a Race Against Extinction, Rusty Patched Bumble Bee is Listed as Enda
 subtitle: 'First Bumble Bee Protected Under the Endangered Species Act'
 date: '2017-01-10'
 tags:
-    - Endangered
+    - 'Endangered Species Act'
     - 'Rusty Patched Bumble Bee'
     - 'North Carolina'
     - Georgia

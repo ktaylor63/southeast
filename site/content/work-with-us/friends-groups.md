@@ -6,7 +6,7 @@ nav: 'Friends Groups'
 weight: 3
 tags:
     - Volunteer
-    - 'Friends Groups'
+    - 'Friends Group'
 aliases:
     - /friends
     - /friends/ar-friends.html

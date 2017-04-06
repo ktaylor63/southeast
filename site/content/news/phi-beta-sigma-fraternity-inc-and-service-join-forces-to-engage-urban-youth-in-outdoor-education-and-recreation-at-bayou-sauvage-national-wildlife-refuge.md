@@ -8,8 +8,8 @@ hero:
     caption: 'Planting trees commemorates partnership Photo by Tom MacKenzie, USFWS.'
 tags:
     - Partnership
-    - 'Urban Refuge'
-    - NWRS
+    - 'Urban Initiative'
+    - 'National Wildlife Refuge System'
     - Louisiana
 updated: 'October 20th, 2016'
 ---

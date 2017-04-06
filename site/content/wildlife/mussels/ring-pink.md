@@ -10,7 +10,7 @@ aliases:
     - /species/mussels/ring-pink
 tags:
     - Mussel
-    - 'Endangered Species'
+    - 'Endangered Species Act'
     - Alabama
     - Kentucky
     - Tennessee

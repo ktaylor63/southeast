@@ -12,7 +12,7 @@ aliases:
     - /species/amphibian/coqui-guajon
     - /species/amphibians/coqui-guajon
 tags:
-    - 'Threatened Species'
+    - 'Endangered Species Act'
     - Amphibian
     - 'Puerto Rico'
     - Caribbean

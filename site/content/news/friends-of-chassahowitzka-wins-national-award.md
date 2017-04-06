@@ -7,7 +7,7 @@ hero:
     link: 'https://flic.kr/p/czmmcd'
     caption: 'Aerial of Chassahowitzka National Wildlife Refuge. Photo by Joyce Kleen, USFWS.'
 tags:
-    - NWRS
+    - 'National Wildlife Refuge System'
     - 'Friends group'
     - Florida
 updated: 'October 20th, 2016'

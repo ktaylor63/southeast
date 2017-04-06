@@ -25,6 +25,8 @@ updated: 'April 4th, 2017'
 - **Range:** Patuxent, Rappahannock, York, James, Chowan, Tar, and Neuse River basins in Maryland, Virginia, and [North Carolina](/north-carolina).
 - **Status:** At-risk species, Proposed for listing as a threatened species.
 
+[Download the Species Status Assessment](https://fws.gov/raleigh/pdfs/YellowLanceSSA.pdf).
+
 {{< scroller-list tag="Yellow Lance" section="news" >}}
 
 ## Appearance

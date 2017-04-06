@@ -5,7 +5,7 @@ tags:
     - 'South Carolina'
     - 'Climate Change'
     - 'Sea Level Rise'
-    - 'National Wildlife Refuges'
+    - 'National Wildlife Refuge System'
 hero:
     link: 'https://flic.kr/p/9AtBKS'
     name: cape-island-extreme-tide.jpg

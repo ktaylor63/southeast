@@ -8,7 +8,7 @@ hero:
     caption: 'A whooping crane chick fed by a biologist in a rearing costume that mimics an adult crane.'
 tags:
     - 'Whooping crane'
-    - NWRS
+    - 'National Wildlife Refuge System'
 updated: 'October 3rd, 2016'
 ---
 

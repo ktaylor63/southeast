@@ -4,7 +4,7 @@ nav: Partnerships
 weight: 6
 tags:
     - Science
-    - Partnerships
+    - Partnership
     - 'Landscape Conservation Cooperatives'
     - 'Joint Ventures'
 updated: 'February 1st, 2017'

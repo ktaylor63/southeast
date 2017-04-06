@@ -7,7 +7,7 @@ hero:
     link: 'https://flic.kr/p/9NXdd5'
     caption: 'White River National Wildlife Refuge boardwalk was built at 30 feet flood stage. Today, the flood stage is at 34 feet. Photo by USFWS.'
 tags:
-    - NWRS
+    - 'National Wildlife Refuge System'
     - Arkansas
 updated: 'October 20th, 2016'
 ---

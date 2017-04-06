@@ -2,8 +2,7 @@
 title: 'Fish and Wildlife Service Proposes Listing Four South Florida Plants as Threatened or Endangered'
 date: '2015-09-28'
 tags:
-    - 'Threatened Species'
-    - 'Endangered Species'
+    - 'Endangered Species Act'
     - Florida
     - 'Vero Beach'
 hero:

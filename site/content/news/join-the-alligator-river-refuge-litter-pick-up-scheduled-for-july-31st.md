@@ -7,7 +7,7 @@ hero:
     link: 'https://flic.kr/p/GZw5Jd'
     caption: 'You never know what you''ll see along the road or in a nearby field or forest when you take the Alligator River Refuge tram tour. Photo by Jackie Orsulak.'
 tags:
-    - NWRS
+    - 'National Wildlife Refuge System'
 updated: 'October 20th, 2016'
 ---
 

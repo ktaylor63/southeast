@@ -4,7 +4,7 @@ description: 'Frequently asked questions about the final listing of the Kentucky
 tags:
     - Fish
     - Kentucky
-    - 'Threatened Species'
+    - 'Endangered Species Act'
     - 'Kentucky Arrow Darter'
 hero:
     name: kentucky-arrow-darter.jpg

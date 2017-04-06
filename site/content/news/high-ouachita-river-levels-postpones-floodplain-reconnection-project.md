@@ -8,7 +8,7 @@ hero:
     caption: 'Waterfowl in flight over Upper Ouachita National Wildlife Refuge lands in Louisiana. Photo by Joseph McGowan, USFWS.'
 tags:
     - Louisiana
-    - NWRS
+    - 'National Wildlife Refuge System'
 updated: 'October 20th, 2016'
 ---
 

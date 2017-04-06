@@ -7,7 +7,7 @@ hero:
     link: 'https://flic.kr/p/bD2BVr'
     caption: 'Caddo Mountain salamander. Photo by <a href=\"https://www.flickr.com/photos/38984611@N03/\" target="_blank">Aposematic herpetologist</a>, <a href=\"https://creativecommons.org/licenses/by-nc/2.0/\" target="_blank">CC-BY-NC 2.0.</a>'
 tags:
-    - ESA
+    - 'Endangered Species Act'
     - Petition
     - Alabama
     - Arkansas

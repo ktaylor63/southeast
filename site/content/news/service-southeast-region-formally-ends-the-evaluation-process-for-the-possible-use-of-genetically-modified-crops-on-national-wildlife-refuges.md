@@ -7,7 +7,7 @@ hero:
     link: 'https://flic.kr/p/pJ647c'
     caption: 'A Black bear takes a morning stroll across a harvested field at Alligator River National Wildlife Refuge. Photo by Rock, USFWS.'
 tags:
-    - NWRS
+    - 'National Wildlife Refuge System'
     - Alabama
     - Arkansas
     - Florida

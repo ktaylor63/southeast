@@ -5,7 +5,7 @@ nav: Partnerships
 weight: 7
 tags:
     - Gulf
-    - Partnerships
+    - Partnership
     - 'Landscape Conservation Cooperatives'
 hero:
     name: gulf-cordgrass-prairie-big-boggy-nwr.jpg

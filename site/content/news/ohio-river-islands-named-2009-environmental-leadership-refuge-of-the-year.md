@@ -7,7 +7,7 @@ hero:
     caption: 'Ohio River Islands National Wildlife Refuge, WV. Photo by USFWS.'
 date: '2009-08-24'
 tags:
-    - NWRS
+    - 'National Wildlife Refuge System'
 updated: 'October 20th, 2016'
 ---
 

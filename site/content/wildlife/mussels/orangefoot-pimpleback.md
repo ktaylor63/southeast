@@ -10,7 +10,7 @@ aliases:
     - /species/mussels/orangefoot-pimpleback
 tags:
     - Mussel
-    - 'Endangered Species'
+    - 'Endangered Species Act'
     - Alabama
     - Illinois
     - Kentucky

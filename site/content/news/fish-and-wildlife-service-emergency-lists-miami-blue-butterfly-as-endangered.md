@@ -2,7 +2,7 @@
 title: 'Fish and Wildlife Service Emergency Lists Miami Blue Butterfly as Endangered'
 tags:
     - 'Miami Blue butterfly'
-    - 'Endangered Species'
+    - 'Endangered Species Act'
     - Florida
 hero:
     name: miami-blue-butterfly.jpg

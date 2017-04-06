@@ -11,7 +11,7 @@ tags:
     - 'Appalachian Elktoe'
     - 'At-Risk Species'
     - 'North Carolina'
-    - 'Sicklefin Redhorse Fish'
+    - 'Sicklefin Redhorse'
 updated: 'March 20th, 2017'
 ---
 

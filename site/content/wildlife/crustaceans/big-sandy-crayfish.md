@@ -12,7 +12,7 @@ tags:
     - Crustacean
     - 'Big Sandy Crayfish'
     - Kentucky
-    - 'Threatened Species'
+    - 'Endangered Species Act'
 hero:
     name: big-sandy-crayfish.jpg
     alt: 'A lobster-shaped and colored crayfish with tinges of rust and blue.'

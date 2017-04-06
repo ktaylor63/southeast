@@ -10,7 +10,7 @@ aliases:
     - /species/fishes/cumberland-darter
 tags:
     - Fish
-    - 'Endangered species'
+    - 'Endangered Species Act'
     - Kentucky
     - Tennessee
 hero:

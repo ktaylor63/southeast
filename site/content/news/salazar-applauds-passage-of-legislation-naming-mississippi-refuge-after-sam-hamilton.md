@@ -8,7 +8,7 @@ hero:
     caption: 'Unveiling of the new entrance sign at Sam D. Hamilton Noxubee National Wildlife Refuge.  Photo by Tom MacKenzie, USFWS.'
 tags:
     - Mississippi
-    - NWRS
+    - 'National Wildlife Refuge System'
 updated: 'October 20th, 2016'
 ---
 

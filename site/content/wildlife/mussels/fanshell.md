@@ -10,7 +10,7 @@ aliases:
     - /species/mussels/fanshell
 tags:
     - Mussel
-    - 'Endangered Species'
+    - 'Endangered Species Act'
     - Alabama
     - Illinois
     - Indiana

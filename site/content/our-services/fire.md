@@ -10,7 +10,7 @@ hero:
     caption: 'USFWS firefigher Brian Pippin watches over a prescribed fire at St. Marks National Wildlife Refuge. Photo by Jennifer Hinckley, USFWS.'
 tags:
     - 'Land Management'
-    - 'National Wildlife Refuges'
+    - 'National Wildlife Refuge System'
     - 'Prescribed Fire'
 updated: 'March 23rd, 2017'
 ---

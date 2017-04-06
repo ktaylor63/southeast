@@ -5,7 +5,7 @@ tags:
     - 'Prescribed Fire'
     - 'St. Marks'
     - 'St. Vincent'
-    - 'National Wildlife Refuge'
+    - 'National Wildlife Refuge System'
     - Florida
     - Internships
 date: '2011-08-16'

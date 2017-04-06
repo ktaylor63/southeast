@@ -8,7 +8,7 @@ hero:
     caption: 'Biologists collecting a swab sample of bat skin. Photo by Rose Railey, USFWS.'
     position: 'bottom center'
 tags:
-    - 'Norther Long-Eared Bat'
+    - 'Northern Long-Eared Bat'
     - 'North Carolina'
 updated: 'November 8th, 2016'
 ---

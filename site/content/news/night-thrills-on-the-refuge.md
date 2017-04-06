@@ -7,7 +7,7 @@ hero:
     link: 'https://flic.kr/p/eUA5VK'
     caption: 'Night falls at Okefenokee National Wildlife Refuge. Photo by Joy Campbell of Okefenokee Adventures.'
 tags:
-    - NWRS
+    - 'National Wildlife Refuge System'
 updated: 'October 20th, 2016'
 ---
 

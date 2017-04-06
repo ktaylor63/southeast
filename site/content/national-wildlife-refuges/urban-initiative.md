@@ -14,7 +14,7 @@ aliases:
     - /refuges/urban
     - /national-wildlife-refuges/urban
 tags:
-    - 'National Widlife Refuge System'
+    - 'National Wildlife Refuge System'
     - 'Urban Initiative'
 updated: 'January 12th, 2017'
 ---

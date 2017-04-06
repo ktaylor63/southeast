@@ -8,7 +8,7 @@ hero:
     caption: '800+ pound alligator struck and killed on Alligator National Wildlife Refuge.  Photo by Jay Eddy, USFWS.'
     position: 'bottom left'
 tags:
-    - NWRS
+    - 'National Wildlife Refuge System'
     - 'North Carolina'
 updated: 'October 20th, 2016'
 ---

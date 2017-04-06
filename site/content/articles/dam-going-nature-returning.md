@@ -15,7 +15,7 @@ tags:
     - 'Green River'
     - Kentucky
     - Rivers
-updated: 'March 28th, 2017'
+updated: 'April 5th, 2017'
 ---
 
 **BROWNSVILLE, Ky.** -- A project decades in the planning started with a bang – and that’s in the literal sense.
@@ -27,7 +27,7 @@ On Tuesday, March 28, a large yellow machine with a pile driver affixed to its a
 Thus did the first step in a project to restore the Green to its natural boundaries begin. It likely will continue for a couple of weeks until the dam is gone, the water flows freely again.
 
 <figure class="photo-center">
-  <video controls="">
+  <video controls="" preload="metadata">
     <source src="/video/green-river-dam-removal.mp4" type="video/mp4">
     Sorry, your browser does not support HTML5 video.
   </video>
@@ -74,9 +74,10 @@ The project’s debris – there will be tons of it – will be stored in the fo
 
 When it’s done, the place where a dam once stretched will feature a rocky shoreline. The river will roll past it, unimpeded and wild.
 
-## Photos from the event
+## Multimedia from the event
 
-[Check out the photo album from this event on Flickr](https://www.flickr.com/gp/usfwssoutheast/wTW544).
+  - [Check out the photo album from this event on Flickr](https://www.flickr.com/gp/usfwssoutheast/wTW544).
+  - [Watch aerial footage courtesy of the Edmonson Voice](http://www.edmonsonvoice.com/-news/aerial-video-of-lock-6-removal)
 
 ## Contact
 

@@ -10,8 +10,7 @@ hero:
     position: right
 tags:
     - Gulf
-    - 'Deepwater Horizon'
-    - 'Oil spill'
+    - 'Deepwater Horizon Oil Spill'
 updated: 'October 20th, 2016'
 ---
 

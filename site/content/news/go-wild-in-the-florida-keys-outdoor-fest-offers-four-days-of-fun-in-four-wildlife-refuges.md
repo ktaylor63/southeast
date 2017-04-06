@@ -8,7 +8,7 @@ hero:
     caption: 'Participants enjoy FAVOR’s monthly Full Moon Kayak adventure, a trip that goes north into Great White Heron National Wildlife Refuge.  Photo by Mary Lou Dickson.'
 tags:
     - Florida
-    - NWRS
+    - 'National Wildlife Refuge System'
 updated: 'October 26th, 2016'
 ---
 
@@ -22,7 +22,7 @@ The Outdoor Fest was created to encourage people to get outside in a wildlife-fr
 
 Killam is the “lone ranger” for the National Wildlife Refuges of the Florida Keys system; She and a team of refuge managers, biologists, law enforcement officers, maintenance staff, volunteers, and their friends group FAVOR help protect and conserve the natural resources in the Florida Keys National Wildlife Refuges (the earliest of which, Key West National Wildlife Refuge, was established over 100 years ago). Together, they hope to get locals and visitors alike to engage and pay attention “and hopefully gain new environmental stewards in the community in the process,” says Killam.   
 
-The Outdoor Fest is brought to you in part by the Monroe County Tourist Development Council. For more information about the refuges, FAVOR, and the list of events, visit www.favorfloridakeys.org/outdoor-fest or contact [Kristie Killam](flkeysoutdoorfest@gmail.com) at (305) 304-9625. Reserve your spot and register for one of their many events now. 
+The Outdoor Fest is brought to you in part by the Monroe County Tourist Development Council. For more information about the refuges, FAVOR, and the list of events, visit www.favorfloridakeys.org/outdoor-fest or contact [Kristie Killam](flkeysoutdoorfest@gmail.com) at (305) 304-9625. Reserve your spot and register for one of their many events now.
 
 ## Contact
 

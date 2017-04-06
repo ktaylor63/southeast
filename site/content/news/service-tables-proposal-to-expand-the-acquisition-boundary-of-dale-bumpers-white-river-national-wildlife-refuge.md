@@ -7,7 +7,7 @@ hero:
     link: 'https://flic.kr/p/ndwXQT'
     caption: 'Cypress trees at Dale Bumpers White River National Wildlife Refuge. Photo by Ray Paterra.'
 tags:
-    - NWRS
+    - 'National Wildlife Refuge System'
     - Arkansas
 updated: 'October 26th, 2016'
 ---

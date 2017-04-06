@@ -12,7 +12,7 @@ tags:
     - Crustacean
     - Kentucky
     - Shrimp
-    - 'Endangered Species'
+    - 'Endangered Species Act'
 hero:
     name: kentucky-cave-shrimp.jpg
     alt: 'A translucent shrimp walking along a rocky surface under water'

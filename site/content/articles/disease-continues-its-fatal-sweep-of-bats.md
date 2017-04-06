@@ -13,7 +13,7 @@ tags:
     - Georgia
     - 'Tri-Colored Bat'
     - 'White Nose Syndrome'
-updated: 'March 20th, 2017'
+updated: 'April 5th, 2017'
 ---
 
 The oars splashed, that slight sound magnified as it echoed off rock walls that led to a distant, black point. With each pull, the tunnel’s illuminated opening got smaller – the darkness, greater.
@@ -63,7 +63,7 @@ The lights showed a brown figure, no larger than a computer thumb drive. Across 
 
 Burns got busy – swab, measure. She moved quickly, murmuring findings to her colleagues.  Pattavina reached for his paddle. The boat moved on.
 
-<video controls="">
+<video controls="" preload="metadata">
   <source src="/video/white-nose-syndrom-search-black-diamond-tunnel.mp4" type="video/mp4">
   <track src="treeOfLife/tracks/developerStories-subtitles-en.vtt" label="English subtitles" kind="subtitles" srclang="en" default="">
   <track default label-"English" kind="subtitles" srclang="en" src="/video/caption/white-nose-syndrom-search-black-diamond-tunnel.vtt">

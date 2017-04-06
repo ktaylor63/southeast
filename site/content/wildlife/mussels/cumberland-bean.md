@@ -10,7 +10,7 @@ aliases:
     - /species/mussels/cumberland-bean
 tags:
     - Mussel
-    - 'Endangered species'
+    - 'Endangered Species Act'
     - Kentucky
     - 'North Carolina'
     - Alabama

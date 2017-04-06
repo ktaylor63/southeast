@@ -3,7 +3,7 @@ title: 'Fishing on Southeastern Refuges'
 description: 'In addition to the conservation of wildlife and habitat, many national wildlife refuges offer a wide variety of quality fishing opportunities. Every year, about 7 million anglers visit national wildlife refuges, where they can find knowledgeable staff and thousands of volunteers.'
 tags:
     - Fishing
-    - 'National Wildlife Refuges'
+    - 'National Wildlife Refuge System'
     - 'Visitor Activities'
 aliases:
     - /refuges/fishing

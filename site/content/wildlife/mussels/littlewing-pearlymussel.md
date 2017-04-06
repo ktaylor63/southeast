@@ -10,7 +10,7 @@ aliases:
     - /species/mussels/littlewing-pearlymussel
 tags:
     - Mussel
-    - 'Endangered Species'
+    - 'Endangered Species Act'
     - Alabama
     - Kentucky
     - 'North Carolina'

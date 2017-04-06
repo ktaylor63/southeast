@@ -10,7 +10,7 @@ hero:
 tags:
     - 'Prescribed Fire'
     - Piedmont
-    - 'National Wildlife Refuges'
+    - 'National Wildlife Refuge System'
     - Georgia
     - 'Red-Cockaded Woodpecker'
 date: '2014-03-21'

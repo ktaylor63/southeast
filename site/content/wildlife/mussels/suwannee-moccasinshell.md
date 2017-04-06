@@ -10,7 +10,7 @@ aliases:
     - /species/mussels/suwannee-moccasinshell
 tags:
     - Mussel
-    - Threatened
+    - 'Endangered Species Act'
     - Florida
     - Georgia
     - Gulf

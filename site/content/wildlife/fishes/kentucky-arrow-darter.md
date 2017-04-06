@@ -11,7 +11,7 @@ aliases:
 tags:
     - Fish
     - Kentucky
-    - Threatened
+    - 'Endangered Species Act'
     - 'Kentucky Arrow Darter'
 hero:
     name: kentucky-arrow-darter.jpg

@@ -7,7 +7,7 @@ hero:
   link: https://flic.kr/p/buzGMg
   caption: Clarks River National Wildlife Refuge in Fall. Photo by Andy Eller, USFWS.
 tags:
- - NWRS
+ - 'National Wildlife Refuge System'
 ---
 
 The U.S. Fish and Wildlife Service today announced details of the proposed expansion of Clarks River National Wildlife Refuge (NWR) and the release of the draft 15-year management plan (CCP).

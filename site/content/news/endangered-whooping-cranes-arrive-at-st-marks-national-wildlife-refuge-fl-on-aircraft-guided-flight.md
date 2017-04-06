@@ -8,7 +8,7 @@ hero:
     caption: 'We hope for a tremendous viewing audience for this amazing spectacle! Photo by Nick Baldwin, a refuge volunteer from last years flyover.'
 tags:
     - Florida
-    - NWRS
+    - 'National Wildlife Refuge System'
     - 'Whooping Crane'
     - Alabama
     - Georgia

@@ -8,7 +8,7 @@ hero:
     caption: 'Endangered Puerto Rican nightjar. Photo by Mike Morel.'
 tags:
     - Caribbean
-    - 'Endangered Species'
+    - 'Endangered Species Act'
     - 'Puerto Rico'
     - 'US Virgin Islands'
 updated: 'October 20th, 2016'

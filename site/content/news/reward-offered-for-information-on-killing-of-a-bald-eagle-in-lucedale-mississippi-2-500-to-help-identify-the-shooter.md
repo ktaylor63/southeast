@@ -8,7 +8,7 @@ hero:
     position: 'bottom center'
 tags:
     - 'Bald eagle'
-    - 'Law Enfocement'
+    - 'Law Enforcement'
     - Mississippi
 updated: 'October 20th, 2016'
 ---

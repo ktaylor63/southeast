@@ -9,7 +9,7 @@ aliases:
     - /species/mammal/carolina-northern-flying-squirrel
     - /species/mammals/carolina-northern-flying-squirrel
 tags:
-    - 'Endangered Species'
+    - 'Endangered Species Act'
     - 'North Carolina'
     - Virginia
     - Tennessee
