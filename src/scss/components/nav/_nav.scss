@@ -101,19 +101,18 @@
   }
 }
 
-// Show the contact button as soon as there is room
-.home-icon {
-  display: none;
-
-  @media (min-width: 356px) {
-    display: inline-block;
-  }
-}
-
 .nav-item-search {
   display: none;
 
   @media(min-width: 415px) {
+    display: inline-block;
+  }
+}
+
+.glossary-trigger {
+  display: none;
+
+  @media (min-width: 356px) {
     display: inline-block;
   }
 }
