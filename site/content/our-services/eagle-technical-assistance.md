@@ -32,7 +32,8 @@ aliases:
     - /birds/eagle/taey.html
     - /birds/eagle/taeyy.html
     - /birds/eagle/tafy.html
-updated: 'March 28th, 2017'
+js: /js/eagle-ta.js
+updated: 'April 7th, 2017'
 ---
 
 This step-by-step guidance will help you determine if your new or intermittent activity near an eagle nest, including alternate nests, is likely to take or disturb bald eagles (a potential violation of the [Bald and Golden Eagle Protection Act](https://www.fws.gov/birds/policies-and-regulations/regulations.php)) and measures that you can adopt to avoid that disturbance. **Remember your first responsibility is to avoid disturbance and/or impact to eagles and their nests.** Please be aware-Following the guidelines does not guarantee that take or disturbance will not occur, however it reduces the potential for take, including disturbance.
@@ -48,6 +49,75 @@ If your project involves any of the following activities:
   - Installation of docks or moorings.
   - Water impoundment.
 
+<form id="construction-or-development">
+  <fieldset>
+    <legend>Construction or Development Activities</legend>
+    <div class="form-group">
+      <label for="construction-visible-nest">
+        <input type="checkbox" id="construction-visible-nest" name="visible-nest"> Is the nest visible from the project or activity area?
+      </label>
+    </div>
+    <div class="form-group">
+      <label for="construction-similar-activity">
+        <input type="checkbox" id="construction-similar-activity" name="similar-activity"> Is there a similar activity within 1 mile of the nest?
+      </label>
+    </div>
+    <button type="submit">Get Determination</button>
+    <div class="construction-or-development-yes-yes">
+      <p>You have determined that the bald eagle nest (active or alternate) can be seen from the activity or project site and there is similar activity within 1 mile of the nest. To avoid disturbing nesting eagles and their young, we recommend that you:</p>
+
+      <p>Maintain a buffer of at least 660 feet (201 meters) between your activities and the nest (including active and alternate nests), or as close as existing tolerated activity of similar scope, i.e. maintain a buffer at least as far from the nest as the existing tolerated activity, and within 660 (201 meters) feet of the nest (including active and alternate nests), restrict any clearing, external construction or landscaping activities to outside the nesting season (outside the nesting season is from mid to late May through early to late September. Nesting season in the Southeast is generally Oct 1- May 15), and; maintain established landscape buffers that screen the activity from the nest.</p>
+
+      <h3>Determination</h3>
+      <p>If you can meet these guidelines and do not wish to apply for a permit at this time, <a href="/pdf/guidelines/bald-eagle-construction-or-development-activities-visible-and-similar-activities.pdf">please print the final determination</a>.</p>
+
+      <p>If you cannot meet these guidelines visit the <a href="/our-serivces/permits/eagles">eagle permit application page</a>.
+    </div>
+    <div class="construction-or-development-yes-no">
+      <p>You have determined that the bald eagle nest (active or alternate) can be seen from the project site and that there is no similar activity within 660 feet of the nest. To avoid disturbing nesting eagles and their young, we recommend that you:</p>
+
+      <ol>
+        <li>Maintain a buffer of at least 660 feet (200 meters) between your activities and the nest (including active and alternate nests);</li>
+        <li>maintain any established landscape buffers;</li>
+        <li>if possible, create additional landscape buffers to screen the new activity from the nest.</li>
+      </ol>
+
+      <h3>Determination</h3>
+      <p>If you can meet these guidelines and do not wish to apply for a permit at this time, <a href="/pdf/guidelines/bald-eagle-construction-or-development-activities-visible-and-no-similar-activities.pdf">please print the final determination</a>.</p>
+
+      <p>If you cannot meet these guidelines visit the <a href="/our-serivces/permits/eagles">eagle permit application page</a>.
+    </div>
+    <div class="construction-or-development-no-yes">
+      <p>You have determined that the bald eagle nest (active or alternate) cannot be seen from the activity or project site and there is similar activity within 660 feet of the nest. To avoid disturbing nesting eagles and their young, we recommend that you:</p>
+
+      <ol>
+        <li>Maintain a buffer of at least 330 feet (100 meters) between your activities and the nest (including active and alternate nests), or if a similar activity is closer than 330 feet, then maintain a buffer at least as far from the nest as the existing tolerated activity;</li>
+        <li>within 660 (200 meters) feet of the nest (including active and alternate nests), restrict any clearing, external construction or landscaping activities to outside the nesting season (outside the nesting season is from mid to late May through early to late September. Nesting season in the Southeast is generally Oct 1- May 15);</li>
+        <li>maintain established landscape buffers that screen the activity from the nest.</li>
+      </ol>
+
+      <h3>Determination</h3>
+      <p>If you can meet these guidelines and do not wish to apply for a permit at this time, <a href="/pdf/guidelines/bald-eagle-construction-or-development-activities-not-visible-and-similar-activities.pdf">please print final determination</a>.</p>
+
+      <p>If you cannot meet these guidelines visit the <a href="/our-serivces/permits/eagles">eagle permit application page</a>.
+    </div>
+    <div class="construction-or-development-no-no">
+      <p>You have determined that the bald eagle nest (active nest or alternate nest) cannot be seen from the activity or project site and there is no similar activity within 660 feet of the nest. To avoid disturbing nesting eagles and their young, we recommend that you:</p>
+
+      <ol>
+        <li>Maintain a buffer of at least 330 feet (100 meters) between all your activities and the nest active and alternate nests);</li>
+        <li>within 660 feet (200 meters) of the nest, restrict all clearing, external construction, and landscaping activities to outside the nesting season (i.e., outside the nesting season is from mid to late May through early to late September. Nesting season in the Southeast is generally Oct 1- May 15);</li>
+        <li>maintain established landscape buffers that screen the activity from the nest.</li>
+      </ol>
+
+      <h3>Determination</h3>
+      <p>If you can meet these guidelines and do not wish to apply for a permit at this time, <a href="/pdf/guidelines/bald-eagle-construction-or-development-activities-not-visible-and-no-similar-activities.pdf">please print the final determination</a>.</p>
+
+      <p>If you cannot meet these guidelines visit the <a href="/our-serivces/permits/eagles">eagle permit application page</a>.
+    </div>
+  </fieldset>
+</form>
+
 ## Large Construction/Expansion Activities
 
   - Building construction, 3 or more stories.
@@ -55,6 +125,75 @@ If your project involves any of the following activities:
   - Mining.
   - Oil and natural gas drilling and refining.
   - Installation or expansion of marinas with a capacity of 6 or more boats.
+
+<form id="large-construction-expansion">
+  <fieldset>
+    <legend>Large Construction/Expansion Activities</legend>
+    <div class="form-group">
+      <label for="expansion-visible-nest">
+        <input type="checkbox" id="expansion-visible-nest" name="visible-nest"> Is the nest visible from the project or activity area?
+      </label>
+    </div>
+    <div class="form-group">
+      <label for="expansion-similar-activity">
+        <input type="checkbox" id="expansion-similar-activity" name="similar-activity"> Is there a similar activity within 1 mile of the nest?
+      </label>
+    </div>
+    <button type="submit">Get Determination</button>
+    <div class="large-construction-expansion-yes-yes">
+      <p>You have determined that the bald eagle nest (active or alternate) can be seen from the activity or project site and there is similar activity within 1 mile of the nest. To avoid disturbing nesting eagles and their young, we recommend that you:</p>
+
+      <p>Maintain a buffer of at least 660 feet (201 meters) between your activities and the nest (including active and alternate nests), or as close as existing tolerated activity of similar scope, i.e. maintain a buffer at least as far from the nest as the existing tolerated activity, and within 660 (201 meters) feet of the nest (including active and alternate nests), restrict any clearing, external construction or landscaping activities to outside the nesting season (outside the nesting season is from mid to late May through early to late September. Nesting season in the Southeast is generally Oct 1- May 15), and; maintain established landscape buffers that screen the activity from the nest.</p>
+
+      <h3>Determination</h3>
+      <p>If you can meet these guidelines and do not wish to apply for a permit at this time, <a href="/pdf/guidelines/bald-eagle-large-construction-expansion-activities-visible-and-similar-activities.pdf">please print the final determination</a>.</p>
+
+      <p>If you cannot meet these guidelines visit the <a href="/our-serivces/permits/eagles">eagle permit application page</a>.
+    </div>
+    <div class="large-construction-expansion-yes-no">
+      <p>You have determined that the bald eagle nest (active or alternate) can be seen from the project site and that there is no similar activity within 660 feet of the nest. To avoid disturbing nesting eagles and their young, we recommend that you:</p>
+
+      <ol>
+        <li>Maintain a buffer of at least 660 feet (200 meters) between your activities and the nest (including active and alternate nests);</li>
+        <li>maintain any established landscape buffers;</li>
+        <li>if possible, create additional landscape buffers to screen the new activity from the nest.</li>
+      </ol>
+
+      <h3>Determination</h3>
+      <p>If you can meet these guidelines and do not wish to apply for a permit at this time, <a href="/pdf/guidelines/bald-eagle-large-construction-expansion-activities-visible-and-no-similar-activities.pdf">please print the final determination</a>.</p>
+
+      <p>If you cannot meet these guidelines visit the <a href="/our-serivces/permits/eagles">eagle permit application page</a>.
+    </div>
+    <div class="large-construction-expansion-no-yes">
+      <p>You have determined that the bald eagle nest (active or alternate) cannot be seen from the activity or project site and there is similar activity within 660 feet of the nest. To avoid disturbing nesting eagles and their young, we recommend that you:</p>
+
+      <ol>
+        <li>Maintain a buffer of at least 330 feet (100 meters) between your activities and the nest (including active and alternate nests), or if a similar activity is closer than 330 feet, then maintain a buffer at least as far from the nest as the existing tolerated activity;</li>
+        <li>within 660 (200 meters) feet of the nest (including active and alternate nests), restrict any clearing, external construction or landscaping activities to outside the nesting season (outside the nesting season is from mid to late May through early to late September. Nesting season in the Southeast is generally Oct 1- May 15);</li>
+        <li>maintain established landscape buffers that screen the activity from the nest.</li>
+      </ol>
+
+      <h3>Determination</h3>
+      <p>If you can meet these guidelines and do not wish to apply for a permit at this time, <a href="/pdf/guidelines/bald-eagle-large-construction-expansion-activities-not-visible-and-similar-activities.pdf">please print the final determination</a>.</p>
+
+      <p>If you cannot meet these guidelines visit the <a href="/our-serivces/permits/eagles">eagle permit application page</a>.
+    </div>
+    <div class="large-construction-expansion-no-no">
+      <p>You have determined that the bald eagle nest (active nest or alternate nest) cannot be seen from the activity or project site and there is no similar activity within 660 feet of the nest. To avoid disturbing nesting eagles and their young, we recommend that you:</p>
+
+      <ol>
+        <li>Maintain a buffer of at least 330 feet (100 meters) between all your activities and the nest active and alternate nests);</li>
+        <li>within 660 feet (200 meters) of the nest, restrict all clearing, external construction, and landscaping activities to outside the nesting season (i.e., outside the nesting season is from mid to late May through early to late September. Nesting season in the Southeast is generally Oct 1- May 15);</li>
+        <li>maintain established landscape buffers that screen the activity from the nest.</li>
+      </ol>
+
+      <h3>Determination</h3>
+      <p>If you can meet these guidelines and do not wish to apply for a permit at this time, <a href="/pdf/guidelines/bald-eagle-large-construction-expansion-activities-not-visible-and-no-similar-activities.pdf">please print the final determination</a>.</p>
+
+      <p>If you cannot meet these guidelines visit the <a href="/our-serivces/permits/eagles">eagle permit application page</a>.
+    </div>
+  </fieldset>
+</form>
 
 ## Timber Operation and Forestry Practices
 
@@ -68,7 +207,7 @@ To avoid disturbing nesting eagles and their young, it is recommended that you:
 
 ### Determination
 
-If you can meet these guidelines, you do not think your project will disturb eagles and you do not wish to apply for a permit at this time please print these guidelines as your final determination.
+If you can meet these guidelines, you do not think your project will disturb eagles and you do not wish to apply for a permit at this time [please print these guidelines as your final determination](/pdf/guidelines/bald-eagle-timber-operation-forestry-practices.pdf).
 
 If you cannot meet these guidelines visit the [permit application page](/our-services/permits/eagles).
 
@@ -80,7 +219,7 @@ To avoid disturbing nesting eagles and their young, it is recommended that you a
 
 #### Determination
 
-If you can meet these guidelines, you do not think your project will disturb eagles and you do not wish to apply for a permit at this time please print these guidelines as your final determination.
+If you can meet these guidelines, you do not think your project will disturb eagles and you do not wish to apply for a permit at this time [please print these guidelines as your final determination](/pdf/guidelines/bald-eagle-helicopter-and-fixed-wing-aircraft-activity.pdf).
 
 If you cannot meet these guidelines visit the [permit application page](/our-services/permits/eagles).
 
@@ -99,7 +238,7 @@ To avoid disturbing nesting eagles and their young, it is recommended that you:
 
 #### Determination
 
-If you can meet these guidelines, you do not think your project will disturb eagles and you do not wish to apply for a permit at this time please print these guidelines as your final determination.
+If you can meet these guidelines, you do not think your project will disturb eagles and you do not wish to apply for a permit at this time [please print these guidelines as your final determination](/pdf/guidelines/bald-eagle-blasting-and-other-loud-intermittent-noise-including-fireworks.pdf).
 
 If you cannot meet these guidelines visit the [permit application page](/our-services/permits/eagles).
 
@@ -132,6 +271,6 @@ If you use motorized boats or jet skis repeatedly near an eagle nest during the 
 
 #### Determination
 
-If you can meet these guidelines, you do not think your project will disturb eagles and you do not wish to apply for a permit at this time please print these guidelines as your final determination.
+If you can meet these guidelines, you do not think your project will disturb eagles and you do not wish to apply for a permit at this time [please print these guidelines as your final determination](/pdf/guidelines/bald-eagle-motorized-and-non-motorized-activities-that-includes-hiking-camping-atv-use-and-boating.pdf).
 
 If you cannot meet these guidelines visit the [permit application page](/our-services/permits/eagles).

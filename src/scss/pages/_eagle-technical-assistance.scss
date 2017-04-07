@@ -1,0 +1,14 @@
+.construction-or-development-yes-yes,
+.construction-or-development-yes-no,
+.construction-or-development-no-yes,
+.construction-or-development-no-no,
+.large-construction-expansion-yes-yes,
+.large-construction-expansion-yes-no,
+.large-construction-expansion-no-yes,
+.large-construction-expansion-no-no {
+  display: none;
+
+  &.active {
+    display: block;
+  }
+}
