@@ -19,6 +19,7 @@
     "svg": "svg-sprite --si true --symbol-dest '' --svg-xmldecl false --ss sprite.svg -sD site/layouts/partials/ src/images/svg/*.svg",
     "mkdist": "node build/create-dist",
     "hugo:stage": "node build/stageHugo",
+    "prehugo:deploy": "npm run mkdist && npm run build:sass",
     "hugo:deploy": "node build/deployHugo",
     "serve": "browser-sync start --server 'dist' --files 'dist/**/*' --log-level 'silent'",
     "prestart": "npm run mkdist",
