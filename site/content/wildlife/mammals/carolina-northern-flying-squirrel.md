@@ -10,18 +10,18 @@ aliases:
     - /species/mammals/carolina-northern-flying-squirrel
 tags:
     - 'Endangered Species Act'
-    - 'North Carolina'
-    - Virginia
-    - Tennessee
     - Mammal
+    - 'North Carolina'
     - Raleigh
+    - Tennessee
+    - Virginia
 hero:
     name: carolina-northern-flying-squirrel.jpg
     alt: 'A biologist feeding a tiny squirrel wrapped in a white towel'
     caption: 'A Carolina northern flying squirrel in the hands of a biologist. Photo by Gary Peeples, USFWS.'
     link: 'https://flic.kr/p/cE8uD7'
     position: 'top center'
-updated: 'November 2nd, 2016'
+updated: 'April 7th, 2017'
 ---
 
 - Taxa: Mammal

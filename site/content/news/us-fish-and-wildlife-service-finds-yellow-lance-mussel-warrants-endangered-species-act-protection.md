@@ -9,10 +9,11 @@ tags:
     - Maryland
     - Mussel
     - 'North Carolina'
+    - Raleigh
     - Virginia
     - 'Yellow Lance'
 date: '2017-04-04'
-updated: 'April 4th, 2017'
+updated: 'April 7th, 2017'
 ---
 
 A freshwater mussel native to waters from Maryland to [North Carolina](/north-carolina) along the Atlantic seaboard is declining.  Recent surveys showed the [yellow lance](/wildlife/mussels/yellow-lance/) mussel has lost 57 percent of its historical range. As a result, the U.S. Fish and Wildlife Service (Service) is proposing that it be listed as threatened under the Endangered Species Act (ESA).
@@ -27,7 +28,7 @@ The yellow lance mussel exists in the Patuxent, Rappahannock, York, James, Chowa
 
 {{< figure class="photo-center" src="/images/pages/yellow-lance-current-distribution.jpg" alt="A map showing yellow lance occurrence data along rivers in MD, VA, and NC." caption="Yellow lance current range. Map by Sarah McRae, USFWS." link="https://flic.kr/p/TusYjb" >}}
 
-The yellow lance faces threats from water pollution coming directly from sites such as sewage treatment plants and solid waste disposal sites, or from runoff caused by road drainage, private wastewater discharges, or other sources; erosion; or dams which affect both upstream and downstream mussel populations by disrupting natural flow patterns, scouring river bottoms, changing water temperatures, and fragmenting habitat.     
+The yellow lance faces threats from water pollution coming directly from sites such as sewage treatment plants and solid waste disposal sites, or from runoff caused by road drainage, private wastewater discharges, or other sources; erosion; or dams which affect both upstream and downstream mussel populations by disrupting natural flow patterns, scouring river bottoms, changing water temperatures, and fragmenting habitat.
 
 If the yellow lance mussel is listed as threatened, the Service will develop a recovery plan and pursue cooperative conservation initiatives designed to reverse population decline and improve habitat conditions. The Service and state wildlife agencies are working with numerous partners to meet both species and habitat needs in aquatic systems from Maryland to North Carolina. The North Carolina Wildlife Resources Commission is bolstering existing populations of yellow lance mussels in the wild. Also, a group of federal and state entities and non-profit conservation groups who make up the Upper Tar Collaboration is planning landscape scale conservation to benefit the yellow lance in the Upper Tar Watershed in North Carolina.
 
@@ -41,11 +42,11 @@ For more information download the [frequently asked questions](/pdf/frequently-a
 
 ## Contacts
 
-Lilibeth Serrano, North Carolina  
-252-933-2255, [Lilibeth_Serrano@fws.gov](mailto:Lilibeth_Serrano@fws.gov)  
+Lilibeth Serrano, North Carolina
+252-933-2255, [Lilibeth_Serrano@fws.gov](mailto:Lilibeth_Serrano@fws.gov)
 
-Meagan Racey, Maryland and Virginia  
-413-523-8558 [Meagan_Racey@fws.gov](mailto:Meagan_Racey@fws.gov)  
+Meagan Racey, Maryland and Virginia
+413-523-8558 [Meagan_Racey@fws.gov](mailto:Meagan_Racey@fws.gov)
 
-Phil Kloer, Georgia  
-404-679-7299, [Philip_kloer@fws.gov](mailto:Philip_kloer@fws.gov)  
+Phil Kloer, Georgia
+404-679-7299, [Philip_kloer@fws.gov](mailto:Philip_kloer@fws.gov)

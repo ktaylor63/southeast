@@ -11,9 +11,10 @@ tags:
     - Alabama
     - Georgia
     - 'Gopher Tortoise'
+    - Lafayette
     - Military
     - 'South Carolina'
-updated: 'March 24th, 2017'
+updated: 'April 7th, 2017'
 ---
 
 {{< figure class="photo-right" src="/images/pages/gopher-tortoise-crediting-strategy-signing.jpg" alt="Leaders from conservation agencies sign the new strategy." caption="From left to right: Rusty Garrison (GADNR), Kipp Frolich (FWC), Fred Harders (ALDCNR), Will Dillman (SCDNR), Ryan Orndorff (DoD), Cindy Dohner (USFWS). Photo by Chuck Underwood, USFWS." >}}

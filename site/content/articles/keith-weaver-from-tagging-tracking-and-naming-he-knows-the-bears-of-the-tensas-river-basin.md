@@ -2,16 +2,17 @@
 title: 'Keith Weaver: From tagging, tracking and naming, he knows the bears of the Tensas River basin'
 description: 'A U.S. Fish and Wildlife Service biologist-turned-project leader recalls efforts throughout his career to recover the Louisiana black bear.'
 tags:
-    - Employees
-    - 'Tensas River'
-    - 'National Wildlife Refuge System'
-    - 'Louisiana Black Bear'
     - Arkansas
+    - Employees
+    - Lafayette
     - Louisiana
+    - 'Louisiana Black Bear'
+    - 'National Wildlife Refuge System'
     - Recovery
+    - 'Tensas River'
 author: 'Nadine Siak, USFWS Gulf Restoration Program'
 date: '2016-03-10'
-updated: 'March 8th, 2017'
+updated: 'April 7th, 2017'
 ---
 
 {{< figure class="photo" src="/images/pages/louisiana-black-bear-keith-weaver.jpg" alt="Keith Weaver posing for a photo in uniform in front of a mountainous landscape" caption="The Service’s Keith Weaver enjoys time in the great outdoors, away from the trappings of modern office life." >}}

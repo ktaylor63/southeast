@@ -4,21 +4,22 @@ subtitle: 'The Service works through the Longleaf Pine Partnership'
 description: 'More than 30 animal species that depend on longleaf pine forests are federally listed as endangered or threatened, and many more are considered to be at-risk. This is why the U.S. Fish and Wildlife Service is working with partners to restore longleaf pine across the southeastern United States.'
 type: feature
 tags:
-    - 'Longleaf Pine'
-    - Partnership
-    - Restoration
     - Alabama
     - Florida
-    - Mississippi
-    - Louisiana
     - Gulf
+    - Lafayette
+    - 'Longleaf Pine'
+    - Louisiana
+    - Mississippi
+    - Partnership
+    - Restoration
 author: 'Nadine Siak, Public Affairs Specialist'
 hero:
     name: longleaf-pine-needles.jpg
     alt: 'Bright green needles emerge from a central cone of a longleaf pine tree'
     caption: 'Longleaf pine needles. Photo by Dot Paul, USDA NRCS.'
 date: '2016-04-06'
-updated: 'March 18th, 2017'
+updated: 'April 7th, 2017'
 ---
 
 The longleaf pine was once so abundant that it seemed like an inexhaustible resource – an ocean of green -- to early American settlers. In the Southeast, longleaf pine forests once covered more than 90 million acres. By the mid-1990s, however, only three percent or so of that acreage remained, much of it in parts of the Gulf Coast states such as the Florida Panhandle and sections of southern Alabama, Mississippi, and Louisiana. Not only has the bulk of the historic acreage been lost, but also much of the longleaf pine habitat that remains is fragmented, degraded, and of limited ecological, cultural and socio-economic value.

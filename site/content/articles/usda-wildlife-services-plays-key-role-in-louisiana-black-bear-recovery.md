@@ -2,13 +2,14 @@
 title: 'U.S. Department of Agriculture’s Wildlife Services Plays Key Role in Louisiana Black Bear Recovery'
 description: null
 tags:
-    - Partnership
-    - USDA
+    - Lafayette
     - Louisiana
     - 'Louisiana Black Bear'
-    - Recovery
-    - 'Voluntary Conservation'
+    - Partnership
     - 'Private Lands'
+    - Recovery
+    - USDA
+    - 'Voluntary Conservation'
 hero:
     caption: 'Dwight LeBlanc with bear named “Liberty.”  The bear was eating watermelons and corn and overturning beehives near Woodville, Wilkinson County, MS. Photo courtesy of Dwight LeBlanc.'
     name: louisiana-black-bear-dwight-leblanc.jpg
@@ -16,7 +17,7 @@ hero:
     position: 'top left'
 author: 'Tom MacKenzie, USFWS External Affairs'
 date: '2016-03-10'
-updated: 'March 2nd, 2017'
+updated: 'April 7th, 2017'
 ---
 
 Back in the old days -- in the early 90’s -- when the Louisiana black bear was first listed under the Endangered Species Act, the Black Bear Conservation Committee (BBCC) was formed and USDA’s Wildlife Services was a key component.

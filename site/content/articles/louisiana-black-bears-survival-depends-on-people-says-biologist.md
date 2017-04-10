@@ -2,20 +2,21 @@
 title: 'Louisiana Black Bear’s Survival Depends on People, says Biologist'
 description: 'U.S. Geological Survey biologist Joseph Clark, who has many years’ experience researching various wild animals, is impressed by the Louisiana black bear’s intelligence and natural resilience.'
 tags:
-    - Partnership
-    - USGS
-    - Tennessee
-    - 'Louisiana Black Bear'
+    - Lafayette
     - Louisiana
+    - 'Louisiana Black Bear'
+    - Partnership
     - Recovery
     - Research
+    - Tennessee
+    - USGS
 hero:
     name: louisiana-black-bear-eating-grass-pam-mcilhenny.jpg
     alt: 'A black bear in a field locks eyes with the camera as it eats grassy vegetation.'
     caption: 'Louisiana black bear. Photo by Pam Mcilhenny, used with permission.'
 author: 'Nadine Siak, USFWS Gulf Restoration Program'
 date: '2016-03-10'
-updated: 'March 2nd, 2017'
+updated: 'April 7th, 2017'
 ---
 
 {{< figure class="photo" src="/images/pages/louisiana-black-bear-joe-clark.jpg" alt="Joe Clark holding a bear skull in his office" caption="Joseph Clark shows off the skull of a black bear, an impressively resilient animal that he says can be considered more intelligent than even primates." >}}

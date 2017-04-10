@@ -13,13 +13,15 @@ tags:
     - Florida
     - Georgia
     - Gulf
+    - Lafayette
     - Louisiana
     - Manatee
     - Mississippi
     - 'Puerto Rico'
+    - Raleigh
     - 'South Carolina'
     - 'US Virgin Islands'
-updated: 'March 30th, 2017'
+updated: 'April 7th, 2017'
 ---
 
 [Read the release in Spanish](/pdf/espanol/manatee-reclassified-from-endangered-to-threatened-as-habitat-improves-and-population-expands-existing-federal-protections-remain-in-place.pdf).
@@ -46,7 +48,7 @@ Today’s estimated population of 6,620 Florida manatees is a dramatic turnaroun
   - Florida counties implementing manatee protection plans and reducing boater impacts.
   - Increasing manatee access to several Florida natural springs while establishing sanctuaries for the wintering manatees in those areas during winter cold snaps.
   - FWS working with the U.S. Coast Guard and FWC to minimize manatee collisions with vessels during high­speed marine events and other activities.
-  - Fishing gear clean­up and recycling programs reducing the threat from fishing gear entanglements.  
+  - Fishing gear clean­up and recycling programs reducing the threat from fishing gear entanglements.
   - Rescue, rehabilitation and release efforts that help save dozens of manatees annually.
 
 Outside the United States, manatee population and abundance estimates are less certain. There are likely as many as 6,300 Antillean manatees spread over a much broader range, from the Mexican Gulf coast to northern Brazil and the Caribbean.
@@ -66,8 +68,8 @@ Outside the United States, manatee population and abundance estimates are less c
 
 [Interior_Press@ios.doi.gov](mailto:Interior_Press@ios.doi.gov)
 
-Chuck Underwood, USFWS  
-[chuck_underwood@fws.gov](mailto:chuck_underwood@fws.gov?subject=Manatee+Reclassification), (904) 731-3332  
+Chuck Underwood, USFWS
+[chuck_underwood@fws.gov](mailto:chuck_underwood@fws.gov?subject=Manatee+Reclassification), (904) 731-3332
 
-Phil Kloer, USFWS  
-[philip_kloer@fws.gov](mailto:philip_kloer@fws.gov?subject=Manatee+Reclassification), (404) 679-7299  
+Phil Kloer, USFWS
+[philip_kloer@fws.gov](mailto:philip_kloer@fws.gov?subject=Manatee+Reclassification), (404) 679-7299

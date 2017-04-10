@@ -13,12 +13,13 @@ tags:
     - Maryland
     - Mussel
     - 'North Carolina'
+    - Raleigh
     - Virginia
 hero:
     name: yellow-lance.jpg
     alt: 'A group of about a dozen small triangular shellfish in shallow water.'
     caption: 'Yellow lance in the Tar River in North Carolina.  Photo by Sarah McRae, USFWS.'
-updated: 'April 4th, 2017'
+updated: 'April 7th, 2017'
 ---
 
 - **Taxon:** Freshwater mussel. Bivalve, Unionidae
@@ -31,7 +32,7 @@ updated: 'April 4th, 2017'
 
 ## Appearance
 
-The yellow lance is a bright yellow mussel with a shell more than twice as long as it is tall, reaching just over three inches in length. Its shell is composed of two hinged valves which are joined by a ligament. The outermost layer of the shell has a waxy appearance with brownish ridges known as “growth rests” that formed during an intermediate stage of growth when the ridge area was the edge of the shell. The lustrous inner layer is usually an iridescent blue color, and sometimes has white or salmon color on the shorter end of the shell from where the foot extends (the anterior). The longer end of the shell from where the siphons extend (the posterior) is distinctly rounded. Yellow lance has interlocking hinge “teeth” on the inside of the shell to help keep the two valves in proper alignment.  
+The yellow lance is a bright yellow mussel with a shell more than twice as long as it is tall, reaching just over three inches in length. Its shell is composed of two hinged valves which are joined by a ligament. The outermost layer of the shell has a waxy appearance with brownish ridges known as “growth rests” that formed during an intermediate stage of growth when the ridge area was the edge of the shell. The lustrous inner layer is usually an iridescent blue color, and sometimes has white or salmon color on the shorter end of the shell from where the foot extends (the anterior). The longer end of the shell from where the siphons extend (the posterior) is distinctly rounded. Yellow lance has interlocking hinge “teeth” on the inside of the shell to help keep the two valves in proper alignment.
 
 {{< figure class="photo-center" src="/images/pages/yellow-lance-juvenile.jpg" alt="Three tiny mussels on the tip of a biologists finger." caption="Juvenile yellow lance mussels. Photo by Chris Eads, NC State University." >}}
 
@@ -118,7 +119,7 @@ The yellow lance is still found in seven of the eight river basins it used to oc
 
 ### Pollution
 
-Adult mussels are easily harmed by toxins and declines in water quality from pollution because they stay in one place. Pollution may come from specific, identifiable sources such as factories, sewage treatment plants and solid waste disposal sites or from diffuse sources (non-point pollution sources) like runoff from cultivated fields, pastures, cattle feedlots, poultry farms, mines, construction sites, private wastewater discharges, and road drainage. Pollutants can cause changes in water chemistry that seriously impact aquatic species by reducing water quality and may directly kill mussels, reduce the ability of surviving mussels to have young, or result in poor health or disappearance of host fish.  
+Adult mussels are easily harmed by toxins and declines in water quality from pollution because they stay in one place. Pollution may come from specific, identifiable sources such as factories, sewage treatment plants and solid waste disposal sites or from diffuse sources (non-point pollution sources) like runoff from cultivated fields, pastures, cattle feedlots, poultry farms, mines, construction sites, private wastewater discharges, and road drainage. Pollutants can cause changes in water chemistry that seriously impact aquatic species by reducing water quality and may directly kill mussels, reduce the ability of surviving mussels to have young, or result in poor health or disappearance of host fish.
 
 ### Sedimentation
 

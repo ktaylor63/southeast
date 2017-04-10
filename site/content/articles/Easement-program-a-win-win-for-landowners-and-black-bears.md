@@ -2,21 +2,22 @@
 title: 'Easement program a win-win for landowners and black bears'
 description: 'The rapid expansion of agriculture in the state of Louisiana was one of the factors pushing the Louisiana black bear to the edge of extinction. USDA’s Kevin Norton plays a key role in ensuring the bear has habitat while farmers benefit from restoring and conserving their land.'
 tags:
-    - Partnership
-    - USDA
-    - NRCS
+    - Agriculture
+    - Lafayette
     - Louisiana
     - 'Louisiana Black Bear'
-    - Agriculture
-    - 'Voluntary Conservation'
+    - NRCS
+    - Partnership
     - Recovery
+    - USDA
+    - 'Voluntary Conservation'
 hero:
     caption: 'As the USDA’s Natural Resources Conservation Service’s State Conservationist for Louisiana, Kevin Norton (center) has partnered with many people, to the benefit of the Louisiana black bear.'
     alt: 'Conservationists from the Natural Resources Conservation Service gather around the hood of a truck to investigate paperwork'
     name: louisiana-black-bear-kevin-norton.jpg
 author: 'Nadine Siak, USFWS Gulf Restoration program'
 date: '2016-03-10'
-updated: 'March 8th, 2017'
+updated: 'April 7th, 2017'
 ---
 
 According to the U.S. Department of Agriculture (USDA), there were 308,000 acres in agricultural use in the delta region of Louisiana in 1960; by 1980, the amount of agricultural land had grown more than tenfold, to more than 3.4 million acres. But the expansion of agriculture land production to meet the nation’s food supply also pushed the Louisiana black bear to the edge of extinction.

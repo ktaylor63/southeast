@@ -6,9 +6,9 @@ tags:
     - Lafayette
     - Louisiana
     - 'Louisiana Black Bear'
+    - 'Private Lands'
     - Recovery
     - 'Voluntary Conservation'
-    - 'Private Lands'
 hero:
     name: louisiana-black-bear-david-soileau.jpg
     alt: 'Two biologists check on the health of a sedated Louisiana black bear'
@@ -16,7 +16,7 @@ hero:
     position: 'top center'
 author: 'Nadine Siak, USFWS Gulf Restoration Program'
 date: '2016-03-10'
-updated: 'March 8th, 2017'
+updated: 'April 7th, 2017'
 ---
 
 David Soileau job title at the Service’s [Louisiana Ecological Services Office](http://www.fws.gov/lafayette/) is quite a mouthful: “Conservation Planning Assistance Coordinator.” What does it mean, exactly?
