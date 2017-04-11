@@ -20,6 +20,8 @@
       {{ end }}
     {{ end }}
 
+    = include partials/news-mission-links.html .
+
   ul.chapter-links
     {{ if .NextInSection }}
       li.last-chapter
