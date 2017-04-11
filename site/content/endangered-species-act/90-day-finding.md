@@ -5,9 +5,9 @@ nav: '90-Day Findings'
 weight: 2
 js: /js/90-day-findings.js
 tags:
+    - '90-Day Finding'
     - 'Endangered Species Act'
     - Petition
-    - '90-Day Finding'
 aliases:
     - /candidateconservation/90-day-finding
 hero:
@@ -15,7 +15,7 @@ hero:
     alt: 'A brown salamander with bright white spots walks across a lichen covered rock'
     name: caddo-mountain-salamander.jpg
     caption: 'A petition to list the Caddo Mountain salamander was found to be “not substantial” in June 2015. Photo by <a href="https://www.flickr.com/photos/38984611@N03/">Aposematic herpetologist</a>, <a href="https://creativecommons.org/licenses/by-nc/2.0/legalcode">CC-BY-NC 2.0</a>.'
-updated: 'March 8th, 2017'
+updated: 'April 11th, 2017'
 ---
 
 The public may petition the U.S. Fish and Wildlife Service to consider modifying the existing federal laws to protect a species under the Endangered Species Act (ESA). A 90-day finding is our formal evaluation of the claims made within a petition.
@@ -38,13 +38,13 @@ To the extent practicable, within 90 days after receiving a petition the Service
 
 ## Current Petitions
 
-<ul class="current-petitions">
+<ul class="current-petitions fade-list">
   <li>Loading data from the At-Risk Species Finder...</li>
 </ul>
 
 ## Withdrawn Petitions
 
-<ul class="withdrawn-petitions">
+<ul class="withdrawn-petitions fade-list">
   <li>Loading data from the At-Risk Species Finder...</li>
 </ul>
 
