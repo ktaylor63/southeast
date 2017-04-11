@@ -10,6 +10,7 @@ hero:
     alt: 'A colorful sunrise on the water.'
     link: 'https://flic.kr/p/9NtNtX'
     caption: 'Archie Carr National Wildlife Refuge Sunrise. Photo by Keenan Adams, USFWS.'
+url: /national-wildlife-refuges
 tags:
     - 'National Wildlife Refuge System'
 updated: 'March 13th, 2017'
