@@ -3,6 +3,7 @@ title: 'Geographic Information Systems'
 description: 'The Southeast Region GIS Steering Committee supports biologists from across the region with training, software, and spatial data support.'
 nav: 'GIS Home'
 weight: 1
+url: /gis
 hero:
     name: national-wetlands-inventory.jpg
     alt: 'Map of wetlands across the country.'
@@ -67,7 +68,7 @@ The [course descriptions](/maps/course-descriptions) should help you get a bette
 ### Alabama
 
 [Drew Rollman](mailto:drew_rollman@fws.gov), Cartographer  
-[Alabama Ecological Services Field Office](https://fws.gov/daphne)  
+[Alabama Ecological Services Field Office](https://www.fws.gov/daphne)  
 1208 Main Street  
 Daphne, Alabama 36526  
 Phone: (251) 441-5866  
@@ -81,7 +82,7 @@ Phone: (256) 353-7243
 ### Arkansas
 
 [Jim Besley](mailto:jim_besley@fws.gov), Information Technology Specialist  
-[Arkansas Ecological Services Field Office](https://fws.gov/arkansas-es)  
+[Arkansas Ecological Services Field Office](https://www.fws.gov/arkansas-es)  
 110 South Amity Road, Suite 300  
 Conway, Arkansas 72032-4761  
 Phone: (501) 513-4470  
@@ -89,7 +90,7 @@ Phone: (501) 513-4470
 ### Florida
 
 [Paul Lang](mailto:paul_lang@fws.gov), Geographic Information Systems  
-[Panama City Ecological Services Field Office](https://fws.gov/panamacity)  
+[Panama City Ecological Services Field Office](https://www.fws.gov/panamacity)  
 1601 Balboa Ave  
 Panama City, Florida 32405  
 Phone: (850) 769-0552 x230  
@@ -99,6 +100,12 @@ Phone: (850) 769-0552 x230
 1601 Balboa Ave  
 Panama City, Florida 32405  
 Phone: (850) 769-0552 x253  
+
+[Chuck Kelso](charles_kelso@fws.gov), Fish and Wildlife Biologist  
+[Vero Beach Ecological Services Field Office](https://www.fws.gov/verobeach)  
+1339 20th Street  
+Vero Beach Florida 32960  
+Phone: (772) 469-4241  
 
 ### Georgia
 
@@ -139,6 +146,12 @@ Phone: (225) 578-2203
 646 Cajundome Blvd., Suite 400  
 Lafayette, Louisiana 70506-4231  
 Phone: (337) 291-3150  
+
+[Mark Parr](mailto:mark_parr@fws.gov), Geographic Information Systems  
+[Gulf Coast Joint Venture](http://www.gcjv.org/)  
+700 Cajundome Blvd  
+Lafayette LA 70506  
+Phone: (337) 266-8810  
 
 ### Mississippi
 
