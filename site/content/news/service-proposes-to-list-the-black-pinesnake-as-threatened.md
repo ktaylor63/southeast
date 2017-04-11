@@ -1,16 +1,18 @@
 ---
-title: Service Proposes to List the Black Pinesnake as Threatened
+title: 'Service Proposes to List the Black Pinesnake as Threatened'
 date: '2014-10-06'
 hero:
-  name: black-pinesnake.jpg
-  alt: Coiled up black pinesnake on grass.
-  link: https://flic.kr/p/pgE9ru
-  caption: Black pinesnake. Photo by Jim Lee, The Nature Conservancy.
+    name: black-pinesnake.jpg
+    alt: 'Coiled up black pinesnake on grass.'
+    link: 'https://flic.kr/p/pgE9ru'
+    caption: 'Black pinesnake. Photo by Jim Lee, The Nature Conservancy.'
+    position: top center
 tags:
- - Black pinesnake
- - 4d rule
- - Alabama
- - Mississippi
+    - '4d Rule'
+    - Alabama
+    - 'Black Pinesnake'
+    - Mississippi
+updated: 'April 10th, 2017'
 ---
 
 The U.S. Fish and Wildlife Service is proposing to list the black pinesnake as threatened under the Endangered Species Act (ESA) with a proposed section 4(d) rule.  If finalized, this 4(d) rule would exempt certain activities from the take prohibitions of the ESA that would positively affect black pinesnake populations and provide an overall conservation benefit to the snake.  These activities include herbicide treatments, prescribed burning, restoration along river banks and stream buffers, and some intermediate timber treatments.

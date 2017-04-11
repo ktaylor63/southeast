@@ -7,11 +7,12 @@ hero:
     alt: 'A jet black snake with opaque white belly coiled up in the grass.'
     link: 'https://flic.kr/p/pgE9ru'
     caption: 'Black pinesnake. Photo by Jim Lee, The Nature Conservancy.'
+    position: 'top center'
 tags:
     - Alabama
     - 'Black Pinesnake'
     - Mississippi
-updated: 'March 21st, 2017'
+updated: 'April 11th, 2017'
 ---
 
 The black pinesnake, which can grow to six feet in length and is now only found in parts of Mississippi and Alabama, will be protected as a threatened species under the Endangered Species Act (ESA).
