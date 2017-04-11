@@ -1,16 +1,19 @@
 ---
-title: Service Proposes to Designate Critical Habitat and Announces Re-opening of Comment Period on Proposed Listing of Black Pinesnake
+title: 'Service Proposes to Designate Critical Habitat and Announces Re-opening of Comment Period on Proposed Listing of Black Pinesnake'
 date: '2015-03-10'
 hero:
-  name: black-pinesnake.jpg
-  alt: Coiled up black pinesnake on grass.
-  link: https://flic.kr/p/pgE9ru
-  caption: Black pinesnake. Photo by Jim Lee, The Nature Conservancy.
+    name: black-pinesnake.jpg
+    alt: 'Coiled up black pinesnake on grass.'
+    link: 'https://flic.kr/p/pgE9ru'
+    caption: 'Black pinesnake. Photo by Jim Lee, The Nature Conservancy.'
+    position: 'top center'
 tags:
- - Critical Habitat
- - Black pinesnake
- - Alabama
- - Mississippi
+    - Alabama
+    - 'Black Pinesnake'
+    - 'Critical Habitat'
+    - 'Endangered Species Act'
+    - Mississippi
+updated: 'April 11th, 2017'
 ---
 
 The U.S. Fish and Wildlife Service proposes to designate critical habitat for the black pinesnake under the Endangered Species Act (ESA).  A proposed rule to list the black pinesnake as threatened was published in the _Federal Register_ on October 7, 2014.
@@ -27,17 +30,17 @@ Black pinesnakes are non-venomous, egg-laying constrictors.  Adults range in si
 
 There are currently 11 populations of the black pinesnake known in 12 counties in Mississippi (Forrest, George, Greene, Harrison, Jackson, Jones, Lamar, Lawrence, Marion, Perry, Stone, and Wayne) and three counties in Alabama (Clarke, Mobile, and Washington).  Some populations span areas in multiple adjacent counties.  There has not been a confirmed record of this snake in Louisiana in over 30 years, and it is considered extirpated in the state.  The black pinesnake’s decline is attributed to the loss and degradation of the longleaf pine ecosystem.  Factors influencing this threat include increases in road density, which causes habitat fragmentation as well as direct mortality of pinesnakes by vehicles and intentional killing; fire suppression; and conversion of natural pine forests to pine plantations, agriculture, and urban areas. 
 
-**Proposed Listing with 4(d) Rule:**
+## Proposed Listing with 4(d) Rule
 
 The Service has proposed listing the black pinesnake as threatened with a 4(d) rule.  A 4(d) rule allows for “incidental take” of the species during timber and land management activities that are beneficial to the snake.  Activities, such as riparian and longleaf pine restoration, herbicide treatment, burning, and thinning, may be exempted from the prohibitions of “take” under the ESA, meaning those activities could continue to take place if the conservation measures in the rule are followed.  The 4(d) rule ensures private landowners and citizens are not unduly burdened by regulations that do not further the conservation of the snake.  
 
-**Proposed Critical Habitat:**
+## Proposed Critical Habitat
 
 The ESA requires the Service to identify the location of habitat essential for the conservation of the black pinesnake, which it terms “critical habitat.”  The Service has identified eight areas, encompassing about 338,100 acres, as proposed critical habitat for this snake.  Six of these areas (one of which consists of two subunits) are in Mississippi (Forrest, George, Green, Harrison, Jones, Marion, Perry, Stone, and Wayne Counties), and two units are in Clarke County, Alabama. Federal lands make up the majority of the acreage proposed for critical habitat at about 70 percent, private lands account for approximately 27 percent and state and local agencies own the balance. All eight areas are occupied by the black pinesnake.
 
 Designating critical habitat under the ESA should not affect private landowners taking action on their land unless the action involves federal funds, permits, or activities.  Critical habitat is a tool within the ESA which identifies areas essential for the conservation of endangered or threatened species.  It does not set up a preserve or refuge but may require special management considerations in the identified areas.  Critical habitat designation does not mean that landowners would now be required to convert their land to longleaf pine forest or conduct pinesnake monitoring.  The final decision to designate critical habitat essential to the black pinesnake will be based on the best scientific information available.
 
-**Economic Analysis:**
+## Economic Analysis
 
 The economic analysis for the black pinesnake estimates the incremental impacts from the critical habitat designation to be $190,000 the first year and less in subsequent years. The costs are expected to be limited to additional administrative efforts on the part of federal agencies to consider impacts to critical habitat from their activities.  This finding is due to the significant baseline protection provided by the snake’s proposed listing and its presence in all critical habitat units as well as the presence of other listed species, such as the threatened gopher tortoise and the endangered red-cockaded woodpecker, designated critical habitat for the endangered dusky gopher frog, and ongoing conservation benefitting them.  In addition, project modifications that would likely be undertaken to avoid impacts to critical habitat are expected to be the same as those that would be done to avoid impacting the snake itself.
 
