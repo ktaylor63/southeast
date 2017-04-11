@@ -13,6 +13,12 @@
 
     {{ .Content }}
 
+    {{ if eq .Section "field-stations" }}
+    label Search Contacts
+      input.contact-input type="search" placeholder="Search by employee name or title..."
+    ul.card-list.contact-list data-office={{ .Params.office }}
+    {{ end }}
+
     {{ if ne .Params.tags nil}}
     ul.tag-list
       {{ range .Params.tags }}
