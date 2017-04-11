@@ -13,6 +13,7 @@ tags:
     - Caribbean
     - Florida
     - Gulf
+    - Lafayette
     - Mammal
     - Manatee
     - Raleigh
@@ -22,7 +23,7 @@ hero:
     alt: 'A Florida manatee calf sticks close to its mother in shallow water'
     caption: 'A Florida manatee calf sticks close to its mother in shallow water. Photo: Keith Ramos, USFWS'
 description: 'Manatees are large, elongated marine mammals with paired flippers and a large round or spoon-shaped tail.  They can reach lengths of over 14 feet and weights of over 3,000 pounds'
-updated: 'April 7th, 2017'
+updated: 'April 11th, 2017'
 ---
 - **Taxon**: Mammal
 - **Range**: Throughout the Caribbean basin, including the southeastern United States, eastern Mexico, eastern Central America, northeastern South America, and the Greater Antilles
