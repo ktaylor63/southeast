@@ -57,8 +57,8 @@ const esriImagery = L.tileLayer('http://server.arcgisonline.com/ArcGIS/rest/serv
 
 const createDetectionTemplate = (props) => {
   return `
-  <div><strong>${props.spp}</strong><br>${props.tag_site}</div>
-  <div>Detected on: ${props.dates}</div>
+    <div><strong>${props.spp}</strong><br>${props.tag_site}</div>
+    <div>Detected on: ${props.dates}</div>
   `;
 }
 
