@@ -8,3 +8,8 @@ dist
 # Mac stuff
 .DS_Store
 Thumbs.db
+
+
+# Refuges
+planning/
+pubs/
