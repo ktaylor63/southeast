@@ -11,7 +11,7 @@ hero:
 tags:
     - Business
     - 'Endangered Species Act'
-updated: 'April 14th, 2017'
+updated: 'April 17th, 2017'
 ---
 
 The next time you order a cool one from your home-grown brewery, check the label: You might be helping save a shorebird.  
@@ -34,7 +34,7 @@ SweetWater spokeswoman Tucker Sarkisian offered a simple reason for her boss’ 
 
 Nor can you have a healthy environment for the creatures with which we share this planet.
 
-The founders of Night Lizard Brewing Co. understand. The Santa Barbara, Calif., set t to open in July, takes its name from the island night lizard. Found on the Channel Islands off the central California coast, the lizard once was listed on the federal Endangered Species Act. In 2014, federal officials decided the species had recovered sufficiently and removed it.
+The founders of Night Lizard Brewing Co. understand. The Santa Barbara, Calif., brewery, set to open in July, takes its name from the island night lizard. Found on the Channel Islands off the central California coast, the lizard once was listed under the federal Endangered Species Act. In 2014, federal officials decided the species had recovered sufficiently and removed it.
 
 {{< figure class="photo-center" src="/images/pages/island-night-lizard.jpg" alt="A brown orange and white lizard climbing on a rock." caption="Island night lizard. Photo by USFWS." link="https://flic.kr/p/dRmU8a">}}
 
