@@ -2,8 +2,6 @@
 title: Permits
 description: 'The U.S. Fish and Wildlife Service issues permits to allow legitimate wildlife-related activities that would otherwise be prohibited by law in a manner that safeguards wildlife.'
 nav: Permits
-aliases:
-    - /permits
 tags:
     - Permits
 hero:
