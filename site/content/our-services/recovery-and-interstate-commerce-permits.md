@@ -2,6 +2,8 @@
 title: 'Recovery and Interstate Commerce Permits'
 url: /our-services/permits/recovery-and-interstate-commerce
 nav: 'Permit Status'
+aliases:
+  /permits
 tags:
     - Permits
     - 'Endangered Species Act'
