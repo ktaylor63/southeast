@@ -38,7 +38,7 @@ updated: 'April 7th, 2017'
 
 This step-by-step guidance will help you determine if your new or intermittent activity near an eagle nest, including alternate nests, is likely to take or disturb bald eagles (a potential violation of the [Bald and Golden Eagle Protection Act](https://www.fws.gov/birds/policies-and-regulations/regulations.php)) and measures that you can adopt to avoid that disturbance. **Remember your first responsibility is to avoid disturbance and/or impact to eagles and their nests.** Please be aware-Following the guidelines does not guarantee that take or disturbance will not occur, however it reduces the potential for take, including disturbance.
 
-Oct 1 - May 15 are the general nesting season dates used for guidance in the southeast. Eagles may nest before Oct 1 or after May 15. All technical assistance guidance applies to nesting eagles including adults, eggs or young, whenever they are present for breeding purposes, which may be before Oct 1 or after May 15 each season. 
+Oct 1 - May 15 are the general nesting season dates used for guidance in the southeast. Eagles may nest before Oct 1 or after May 15. All technical assistance guidance applies to nesting eagles including adults, eggs or young, whenever they are present for breeding purposes, which may be before Oct 1 or after May 15 each season. For nesting dates for your state contact your local field station.
 
 ## Construction or Development Activities
 
