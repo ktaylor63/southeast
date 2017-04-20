@@ -272,7 +272,7 @@ number,status,fed_register
 007748-3,Issued,Noticed for 30 days
 237548-2,Issued,N/A
 63349B-0,Issued,N/A
-63355B-0,Awaiting Input from Applicant,Noticed for 30 days
+63355B-0,Abandoned,Noticed for 30 days
 63357B-0,Withdrawn,Noticed for 30 days
 12392A-2,Issued,Noticed for 30 days
 056217-4,Awaiting Input from Applicant,Noticed for 30 days
@@ -354,7 +354,7 @@ number,status,fed_register
 075925-3,In RO for Review,N/A
 91733B-0,Abandoned,Noticed for 30 days
 807672-17,Issued,N/A
-63633A-4,Awaiting Input from Applicant,Noticed for 30 days
+63633A-4,In FO for Review,Noticed for 30 days
 810274-12,Awaiting Input from Applicant,Noticed for 30 days
 13844A-3,In RO for Review,Noticed for 30 days
 98532B-0,In RO for Review,Noticed for 30 days
@@ -373,7 +373,7 @@ number,status,fed_register
 054973-5,Issued,Noticed for 30 days
 98424B-0,Issued,N/A
 99265B-0,Issued,N/A
-40523A-1,Awaiting Input from Applicant,Noticed for 30 days
+40523A-1,In FO for Review,Noticed for 30 days
 060988-3,In RO for Review,Noticed for 30 days
 31141A-2,Awaiting Input from Applicant,Noticed for 30 days
 99474B-0,Abandoned,N/A
@@ -454,7 +454,7 @@ to be,In RO for Review,Noticed for 30 days
 19771C-0,Issued,N/A
 13256C-0,Withdrawn,N/A
 13255C-0,Issued,N/A
-20269C-0,Awaiting Input from Applicant,N/A
+20269C-0,Awaiting signature,N/A
 20288C-0,Awaiting Input from Applicant,on current draft
 20308C-0,No permit needed,on current draft
 98424B-2,In RO for Review,on current draft
@@ -481,3 +481,5 @@ to be,In RO for Review,Noticed for 30 days
 070800-4,Awaiting Input from Applicant,
 30733C-0,In RO for Review,needs to be drafted
 063179-6,Awaiting Input from Applicant,needs to be drafted
+35313B-3,In FO for Review,N/A
+12169B-1,In RO for Review,needs to be drafted
