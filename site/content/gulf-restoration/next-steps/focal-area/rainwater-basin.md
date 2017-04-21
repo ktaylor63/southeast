@@ -11,7 +11,7 @@ tags:
     - Gulf
 categories:
     - 'Focal Area'
-updated: 'March 15th, 2017'
+updated: 'April 21st, 2017'
 ---
 
 ## Landscape at a Glance
@@ -69,7 +69,7 @@ While many of the proposed actions in this focal area specifically target benefi
 {{< figure class="photo-right" src="/images/pages/sandhill-cranes-and-weatherbeaten-building.jpg" alt="A large flock of brown birds with red markings on their face with an old barn in the background." caption="Sandhill cranes in a harvested cornfield. Photo by Woody Woodrow, USFWS." >}}
 
 *   Work with partners to ensure sufficient and appropriately placed wet-meadow habitat to provide high-quality foraging habitat for sandhill and whooping cranes in the Central Platte River and the North Platte River Valley.
-*   Monitor harvested corn fields along the Rainwater Basin’s Central and North Platte River valley with a goal to maintain sufficient acreage (~80,000 acres at 35.6 kg/ac) waste grain.
+*   Monitor harvested cornfields along the Rainwater Basin’s Central and North Platte River valley with a goal to maintain sufficient acreage (~80,000 acres at 35.6 kg/ac) waste grain.
 *   Develop resources for geospatial analysis to that permit development of decision support tools that quantify and map current nesting habitat for least terns and piping plovers to facilitate targeting of conservation efforts.
 *   Work with partners to assist federal, state and NGO land managers in prioritizing restoration and management projects to provide the greatest biological return for priority nesting species.
 

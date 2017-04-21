@@ -11,7 +11,7 @@ tags:
     - Gulf
 categories:
     - 'Focal Area'
-updated: 'March 15th, 2017'
+updated: 'April 21st, 2017'
 ---
 
 ## Landscape at a Glance
@@ -25,8 +25,6 @@ The focal area is semi-arid and subtropical in nature and represents a significa
 {{< figure class="photo-right" src="/images/pages/laguna-atascosa-nwr-mesquite-trail.jpg" alt="A dirt trail covered by a tree canopy above." caption="Trail through Tamaulipan thornscrub habitat on the Laguna Atascosa NWR. Photo by USFWS." >}}
 
 Native habitats in the focal area have been converted for agriculture or development, and remain at risk due to a rapidly growing population in the Brownsville area. Loss of coastal grasslands and native Tamaulipan thornscrub to invasive species, human encroachment and development present the greatest conservation challenge in this area. This habitat loss threatens northern aplomado falcon, mottled duck, ocelot and associated species. There is an urgent need for the Service and others to work together to protect additional native habitats, and to increase restoration capacity.
-
-> The Deepwater Horizon spill affected sea turtles throughout the Gulf in all phases of life including that of nesting, small juvenile, large juvenile and adult. Sea turtles are long-lived, migrate extensively and occupy multiple habitats over the course of their lives. All these factors are considered in restoration planning and require the use of a portfolio of restoration approaches to address all species and life stages that were injured by the spill. Approaches to sea turtle restoration include restoring coastal habitats, enhancing sea turtle hatchling productivity, and rehabilitating and conserving nesting beach habitat and robust monitoring.
 
 ## Target Species
 

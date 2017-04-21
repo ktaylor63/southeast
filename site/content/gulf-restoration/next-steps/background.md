@@ -10,7 +10,7 @@ hero:
     caption: 'Flaring off <em>Deepwater Horizon</em> gas. Photo by Petty Officer 1<sup>st</sup> Class Matthew Belson, U.S. Coast Guard.'
 tags:
     - Gulf
-updated: 'March 17th, 2017'
+updated: 'April 21st, 2017'
 ---
 
 When the _Deepwater Horizon_ oil rig exploded off the coast of Louisiana on April 20, 2010, the Service’s response was robust and included taking on myriad responsibilities, incident command work, wildlife reconnaissance and recovery, sensitive habitat and endangered species protection, finance and other administrative tasks, safety and more. But the Service has been active in the Gulf watershed for years; we see ourselves as one of the many stakeholders in Gulf restoration, and we are thoroughly engaged within the communities and landscapes of the Gulf. For example, the Service has been managing millions of acres on 235 national wildlife refuges (NWRs) in the Gulf watershed, with the 45 located in the Gulf Coast states covering more than 2.15 million acres of managed lands alone. In fact, the first NWR established anywhere was located in the Gulf states with the establishment of Pelican Island NWR in Vero Beach, Florida, in 1903. The first refuge on the Gulf Coast itself followed soon afterwards with the establishment of Breton Island Reservation (now Breton NWR) to protect important bird-nesting islands located off the coast of Louisiana. Additionally, the Service has field and regional representation in all 31 states in the Gulf of Mexico watershed. Throughout the watershed, the Service has long provided a combination of planning and on-the-ground contributions to natural resource protection and conservation.
@@ -24,7 +24,7 @@ Similarly, signs of serious ecosystem degradation had been documented in the Gul
 
 {{< figure class="photo-right" src="/images/pages/usfws-and-usfs-biologists-document-dead-gull.jpg" alt="A biologist in uniform kneels next to a gull carcass to read numbers from a handheld device." caption="USFWS biologist records a gull carcass on Gaillard Island near Mobile, Alabama, during Deepwater Horizon recovery efforts. Photo by Michael Assenmacher, USFWS." >}}
 
-Between 2011 and 2017, approximately $2 billion has been invested in Gulf restoration efforts through money dedicated to that purpose by civil and criminal settlements reached with the parties responsible for the 2010 disaster. The Service’s role in the Gulf has continued through our membership in, and involvement with, the key groups and processes overseeing many of these funds. A prime example of this is the role the Service plays in the _Deepwater Horizon_ Natural Resource Damage Assessment and Restoration (NRDAR) process. The U.S. Department of the Interior (Department) is designated as the Lead Administrative Trustee on the [_Deepwater Horizon_ NRDAR Trustee Council](https://www.google.com/url?q=https://www.doi.gov/deepwaterhorizon&sa=D&ust=1477585771712000&usg=AFQjCNEzUfcOkS6y2F_dh9gUnBgOmD0BXg). The Service’s Southeast Regional Director, as the Authorized Official for the Department, represents the trusteeship interests of the Secretary of the Department of the Interior in conducting the work of the Trustee Council.
+Between 2011 and 2017, approximately $2 billion has been invested in Gulf restoration efforts through money dedicated to that purpose by civil and criminal settlements reached with the parties responsible for the 2010 disaster. The Service’s role in the Gulf has continued through our membership in, and involvement with, the key groups and processes overseeing many of these funds. A prime example of this is the role the Service plays in the _Deepwater Horizon_ Natural Resource Damage Assessment and Restoration (NRDAR) process. The U.S. Department of the Interior (Department) is designated as the Lead Administrative Trustee on the [_Deepwater Horizon_ NRDAR Trustee Council](https://www.doi.gov/deepwaterhorizon). The Service’s Southeast Regional Director, as the Authorized Official for the Department, represents the trusteeship interests of the Secretary of the Department of the Interior in conducting the work of the Trustee Council.
 
 The Trustee Council, which includes representatives of three other federal agencies and five Gulf Coast states, began its work by first assessing the injury caused by the oil spill to natural resources and the services they provide, and then planning and implementing restoration projects based on information gleaned from the injury assessment. The Service led a large part of the injury assessment since 2010 and has invested millions of dollars quantifying injuries to Service trust resources (migratory birds, listed species, etc.). By working with our co-trustees to fully describe these injuries, we are able to plan and implement strategies and projects to restore injured resources to the condition they would have been had the oil spill not occurred. Since 2012, the Service has already led the Trustees’ effort to work with the public to develop and finalize five restoration plans that together include 65 projects designed to restore identified injuries. These projects have a combined cost of approximately $868 million to date.
 
@@ -36,12 +36,16 @@ Another major funding process involving the Department through which the Service
 
 Gulf restoration received a significant boost when the presiding judge gave final approval on April 4, 2016, to a global legal settlement with BP, the party primarily responsible for the _Deepwater Horizon_ oil spill. The settlement adds billions of dollars to state and federal efforts over the next two decades to rehabilitate and improve the natural resources of the Gulf region. Given the scope and scale of what is possible with all of this funding support, the Service acknowledges that this is the time to reassess conservation and restoration needs, build upon existing successful efforts to address ongoing needs, and generate fresh ideas and innovative approaches. With Next Steps, the Service is articulating its recommendations for moving forward with Gulf restoration into the future.
 
-> $2 Billion Invested in Deepwater Horizon Oil Spill-Related Gulf Conservation and Restoration Projects (April 2010 - January 2017)
-> - $868 million invested in Gulf restoration projects through NRDA
-> - $156.6 million invested in Gulf restoration projects through the RESTORE Council
-> - 870 million invested in Gulf restoration projects through NFWF
-> - 56.5 million invested in Gulf restoration projects (in the United States) through the North American Wetlands Conservation Act (NAWCA) Program
-> - 20 million invested in Supplemental Environmental Projects focused on land acquisition and habitat protection through a civil settlement with MOEX Offshore 2007 LLC (one of the responsible parties)
+<blockquote>
+  <p>Approximately $2 Billion Invested in Deepwater Horizon Oil Spill-Related Gulf Conservation and Restoration Projects (April 2010 - January 2017)</p>
+  <ul>
+    <li>$868 million invested in Gulf restoration projects through NRDA</li>
+    <li>$156.6 million invested in Gulf restoration projects through the RESTORE Council</li>
+    <li>$870 million invested in Gulf restoration projects through NFWF</li>
+    <li>$56.5 million invested in Gulf restoration projects (in the United States) through the North American Wetlands Conservation Act (NAWCA) Program</li>
+    <li>$20 million invested in Supplemental Environmental Projects focused on land acquisition and habitat protection through a civil settlement with MOEX Offshore 2007 LLC (one of the responsible parties)</li>
+  </ul>
+</blockquote>
 
 Experience has taught us that the most durable solutions are cooperative ones, and working in the Gulf watershed is no exception. This means, in part, that we must leverage and promote existing partnerships as well as seek out and develop new and nontraditional ones to more effectively design, deliver and monitor our efforts. We will work with, and welcome input from, all interested parties in order to assess and improve our efforts and identify new opportunities.
 

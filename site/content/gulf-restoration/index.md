@@ -4,7 +4,6 @@ nav: 'Gulf Home'
 weight: 1
 tags:
     - Gulf
-    - Restoration
 url: /gulf-restoration
 hero:
     name: alligator-st-marks.jpg
@@ -12,7 +11,7 @@ hero:
     caption: 'Alligator sunning at St. Marks National Wildlife Refuge.  Photo by Steve Hillebrand.'
     link: 'https://flic.kr/p/7Zmwbs'
     position: 'left center'
-updated: 'March 19th, 2017'
+updated: 'April 21st, 2017'
 ---
 
 ## Restoring the Gulf of Mexico and its Wild Inhabitants
@@ -31,9 +30,9 @@ As a result, native fish and wildlife populations and their habitats are in decl
 
 Restoring this vital area will ensure America continues to thrive well into and beyond the 21st century.
 
-{{< scroller-list tag="Gulf" number="10" section="news" >}}
+{{< scroller-list tag="Gulf" section="news" >}}
 
-{{< scroller-list tag="Gulf" number="10" section="articles" >}}
+{{< scroller-list tag="Gulf" section="articles" >}}
 
 Learn more about what's happening in your state: [Alabama](/alabama), [Florida](/florida), [Georgia](/georgia), [Louisiana](/louisiana), [Mississippi](/mississippi), [Texas](/tags/texas).
 
@@ -44,8 +43,8 @@ Learn more about what's happening in your state: [Alabama](/alabama), [Florida](
  - The Gulf of Mexico and its watershed are home to more than 500 federally listed species, of which more than 350 are endangered.
  - Among the threatened and endangered species in the watershed are some of America's most beloved and iconic species, such as sea turtles, manatees, whooping cranes and peregrine falcons.
  - The natural resources in the five U.S. states bordering the Gulf are the foundation of a multi-billion dollar economic engine that employs more than eight million people and produces more than half of America's crude oil and natural gas.
- - Every 45 minutes, another football field of wetlands in Louisiana disappears into the sea, taking with it nature's best storm protection and water filter, as well as the cradle for sea life in the world's third largest delta.
+ - U.S. Geological Survey (USGS) trend analyses from 1985 to 2010 show a wetland loss rate that, if it were to occur at a constant rate, would equate to Louisiana losing an area the size of one football field per hour.
 
 {{< figure class="photo-center" src="/images/pages/gulf-of-mexico-watershed.jpg" alt="Map of the Gulf of Mexico watershed, which spans from the midwest to the eastern Great Lakes all the way to the Gulf of Mexico." caption="Gulf of Mexico watershed. Map: Roy Hewitt, USFWS." >}}
 
-{{< scroller-list tag="Gulf" number="10" section="wildlife" >}}
+{{< scroller-list tag="Gulf" section="wildlife" >}}

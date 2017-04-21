@@ -8,7 +8,7 @@ hero:
     name: long-billed-curlew.jpg
     alt: 'A light brown bird with dark markings on it''s back and a long curved beak.'
     caption: 'Long-billed curlew. Photo by Woody Woodrow, USFWS.'
-updated: 'March 15th, 2017'
+updated: 'April 21st, 2017'
 tags:
     - Gulf
 ---
@@ -19,7 +19,7 @@ We have chosen to identify target species for each focal area. These target spec
 
 For continuity, we organized the following material based on the focal areas found in the Service’s Vision document. Most of the species targets we highlight, however, reflect the “Biological Planning Units” used in the Biological Objectives Project and which are based on boundaries previously identified in other partnership efforts. Elsewhere in the upper watershed, target species were derived from other federal planning processes, as noted in their respective sections.
 
-For a complete list of species referenced in Next Steps, refer to [Appendix: “Scientific Names of Species Cited”](../appendices/species).
+For a complete list of species referenced in Next Steps, refer to [Appendix: Scientific Names of Species Cited](../appendices/species).
 
 <ul class="chapter-links">
   <li class="last-chapter"><a href="../focal-areas">Last Chapter: Focal Areas</a></li>

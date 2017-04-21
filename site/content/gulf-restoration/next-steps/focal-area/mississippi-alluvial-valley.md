@@ -11,7 +11,7 @@ tags:
     - Gulf
 categories:
     - 'Focal Area'
-updated: 'March 15th, 2017'
+updated: 'April 21st, 2017'
 ---
 
 ## Landscape at a Glance
@@ -36,7 +36,7 @@ The Lower Mississippi River Conservation Committee and the Service have cooperat
 
 {{< figure class="photo-right" src="/images/pages/rafinisque's-big-eared-bat.jpg" alt="A small, furry brown bat perched on a tree trunk." caption="Rafinisque's big-eared Bat. Photo by Erin Chandler, USFWS." >}}
 
-Beyond the benefit to our trust resource species, restoring the function of river floodplains will provide better spawning and nursery habitat for commercially-important floodplain-spawning fish like buffalo and alligator gar. Channel improvements will enhance channel and blue catfish habitat, improve spawning conditions for prey species like gizzard shad and skipjack herring, and increase angling opportunities for Gulf Coast striped bass and other recreational fish species. Improving conditions and land management practices on agricultural lands will reduce erosion, sedimentation, and the amount of nitrates that create hypoxic conditions in the Gulf, ultimately benefiting many marine species. Restoring natural hydrology and bottomland hardwood forest habitats will also benefit numerous frogs, including chorus frogs and tree frogs; bats, like the Rafinesque’s big-eared bat and the southeastern myotis; and crayfish species currently listed as “at risk” (e.g., Yazoo crayfish). Similarly, numerous upland game species will benefit from these restoration practices including the white-tailed deer, the wild turkey, and both the gray and the fox squirrel.
+Beyond the benefit to our trust resource species, restoring the function of river floodplains will provide better spawning and nursery habitat for commercially important floodplain-spawning fish like buffalo and alligator gar. Channel improvements will enhance channel and blue catfish habitat, improve spawning conditions for prey species like gizzard shad and skipjack herring, and increase angling opportunities for Gulf Coast striped bass and other recreational fish species. Improving conditions and land management practices on agricultural lands will reduce erosion, sedimentation, and the amount of nitrates that create hypoxic conditions in the Gulf, ultimately benefiting many marine species. Restoring natural hydrology and bottomland hardwood forest habitats will also benefit numerous frogs, including chorus frogs and tree frogs; bats, like the Rafinesque’s big-eared bat and the southeastern myotis; and crayfish species currently listed as “at risk” (e.g., Yazoo crayfish). Similarly, numerous upland game species will benefit from these restoration practices including the white-tailed deer, the wild turkey, and both the gray and the fox squirrel.
 
 ## High Priority Actions Based on the Service’s _Vision_
 

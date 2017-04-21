@@ -3,14 +3,14 @@ title: Glossary
 type: next-steps
 scrollnav: no-scrollnav
 tags:
-    - Gulf
     - Glossary
+    - Gulf
 hero:
     name: short-billed-dowitcher.jpg
     alt: 'A brown and black speckled bird with long narrow beak on glassy-smooth water.'
     link: 'https://flic.kr/p/Li5V4d'
     caption: 'Short-billed dowitcher. Photo by Woody Woodrow, USFWS.'
-updated: 'February 13th, 2017'
+updated: 'April 21st, 2017'
 ---
 
 **[Adaptive Management](https://www.doi.gov/sites/doi.gov/files/migrated/ppa/upload/TechGuide.pdf)** is a process that promotes flexible decision-making that can be adjusted in the face of uncertainties as outcomes from management actions and other events become better understood. Careful monitoring of these outcomes both advances scientific understanding, and helps adjust policies or operations as part of an iterative learning process. Adaptive management also recognizes the importance of natural variability in contributing to ecological resilience and productivity. It is not a ‘trial and error’ process; it emphasizes learning while doing, and [adapting based on what’s learned](http://www2.usgs.gov/sdc/doc/DOI-Adaptive-Management-Applications-Guide-27.pdf).
@@ -65,7 +65,7 @@ updated: 'February 13th, 2017'
 
 **Landscape Conservation Design** involves combining geospatial data with biological information and models to create tools (e.g., maps) that evaluate the potential of every acre of habitat of a landscape to support a species’ population. Using these tools, one can determine what the current habitat-acre capability of the landscape is — and what it needs to be – to achieve specific biological objectives or outcomes.
 
-**Living Shorelines** is a term used to define a number of shoreline protection options that are meant to retain much of the protection of hard structures (e.g., bulkheads, revetment and concrete seawalls) while retaining some of the features of natural shorelines. Living shorelines allow for natural coastal processes to remain through the strategic placement of plants, stone, sand fill, coir fiber logs, oyster reefs and other structural and organic materials. Options also include hybrids of traditional shoreline armoring and softer, more natural stabilization techniques. Living shorelines not only can reduce wave energy, but also trap sediment, filter runoff and maintain (or increase) habitat for aquatic and terrestrial species.
+**Living Shorelines** are stabilization projects constructed along estuarine shorelines designed to minimize erosion and maximize habitat for plants and animals by maintaining natural coastal processes through strategic placement of natural components along the shoreline profile from uplands to wetlands. Living shorelines represent a greener, more environmentally friendly alternative to traditional shoreline hardening techniques (e.g., bulkheads and seawalls) by using native plants (e.g., marsh grasses, mangroves, seagrasses, and upland, salt-tolerant species), oysters, coir fiber logs, and other natural materials (with limited use of rock only when necessary). They can provide a host of ecological benefits by trapping sediment, filtering runoff, providing habitat for aquatic and terrestrial species, buffering storms, improving water quality, allowing for tidal exchange, preserving coastal resiliency, mitigating sea level rise, as well as increasing aesthetic and recreational values. Living shorelines allow for natural coastal processes to remain through the strategic placement of plants, stone, sand fill, coir fiber logs, oyster reefs and other structural and organic materials. Options also include hybrids of traditional shoreline armoring and softer, more natural stabilization techniques. Living shorelines not only can reduce wave energy, but also trap sediment, filter runoff and maintain (or increase) habitat for aquatic and terrestrial species.
 
 **[Migratory Bird Joint Ventures (JVs)](http://mbjv/org/)** are collaborative, regional partnerships of government agencies, non-profit organizations, corporations, tribes and individuals that conserve habitat for the benefit of priority bird species, other wildlife and people. Migratory Bird Joint Ventures bring these diverse partners together to design and implement landscape-scale conservation efforts in support of the North American Waterfowl Management Plan and other bird management plans.
 
@@ -89,7 +89,7 @@ updated: 'February 13th, 2017'
 
 **Species of Greatest Conservation Need** is a category identified in state Wildlife Action Plans that includes animal species whose populations are rare, declining or vulnerable. This set is dynamic and can change over time as new information becomes available or the status of a species changes.
 
-**[State Wildlife Action Plans (SWAP)](http://teaming.com/state-wildlife-action-plans-swaps)** guide proactive conservation planning in each state by assessing the health of wildlife and habitats, identifying problems they face, and outlining actions needed to conserve them long-term. In order to receive funds through the Wildlife Conservation and Restoration Program and the State Wildlife Grants Program, a state must develop a SWAP, technically known as “comprehensive wildlife conservation strategies”.
+**[State Wildlife Action Plans (SWAP)](http://teaming.com/state-wildlife-action-plans-swaps)** guide proactive conservation planning in each state by assessing the health of wildlife and habitats, identifying problems they face, and outlining actions needed to conserve them long-term. In order to receive funds through the Wildlife Conservation and Restoration Program and the State Wildlife Grants Program, a state must develop a SWAP, technically known as “comprehensive wildlife conservation strategies.”
 
 **Surrogate Species** are species that can be used as proxies to represent a broader set of species to support conservation or management strategies when the objective is to provide appropriate ecological conditions for the full set of species characteristic of a defined landscape or geographic area.
 

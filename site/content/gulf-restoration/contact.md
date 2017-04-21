@@ -5,8 +5,8 @@ nav: Contact
 weight: 8
 tags:
     - Gulf
-    - Restoration
     - NRDA
+    - Restoration
     - 'Work With Us'
 hero:
     name: drew-wirwa-at-bayou-sauvage-nwr-on-cell-phone.jpg
@@ -14,10 +14,10 @@ hero:
     link: 'https://flic.kr/p/82XMYU'
     caption: 'U.S. Fish and Wildlife employee Drew Wirwa stays in touch via cellphone while out in the field. Photo by Tom MacKenzie, USFWS.'
     position: 'top center'
-updated: 'March 15th, 2017'
+updated: 'April 21st, 2017'
 ---
 
-The Service’s Gulf Restoration team is an interdisciplinary one where each team member builds on the others’ expertise to achieve a shared goal. While members are physically located in offices as far apart as Rock Island, Illinois, and Panama City, Florida, the team is not focused geographically but is organized into functional areas including habitat conservation, restoration, environmental compliance, science and communications.
+The Service’s Gulf Restoration team is an interdisciplinary one where each team member builds on the others’ expertise to achieve a shared goal. While members are physically located in offices as far apart as far apart as Denver, Colorado, and Panama City, Florida, the team is not focused geographically but is organized into functional areas including habitat conservation, restoration, environmental compliance, science and communications.
 
 The Service’s overall goal is to coordinate and implement a science-based, watershed-wide approach to restoring the region’s resources, including those injured by the 2010 *Deepwater Horizon* oil spill. Acting as full and equal partners with the Service, a number of U.S. Department of the Interior employees are specifically dedicated to the *Deepwater Horizon* Natural Resource Damage Assessment & Restoration (DOI DWH NRDAR).
 

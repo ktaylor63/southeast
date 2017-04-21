@@ -1,17 +1,17 @@
 ---
 title: 'A Gulf-Wide Restoration Perspective'
 description: 'The Service Gulf Restoration staff works with partners and others to ensure a coordinated, strategic approach to the restoration of the Gulf of Mexico watershed.'
-nav: Resources
+nav: 'A Gulf-Wide Restoration Perspective'
 weight: 6
 tags:
     - Gulf
-    - Restoration
     - Partnership
+    - Restoration
 hero:
     name: prairie-pothole-windfarm.jpg
     alt: 'A beige landscape dotted with small lakes and wetlands yields to several arrays of large wind turbines.'
     caption: 'In the United States, the Gulf of Mexico watershed reaches as far north as the Prairie Pothole region. This wind farm is located among some of region’s “potholes” found along the North and South Dakota border. Photo by Krista Lundgren, USFWS.'
-updated: 'March 15th, 2017'
+updated: 'April 21st, 2017'
 ---
 
 The Gulf of Mexico is recognized worldwide as a vast and productive body of water with tremendous value in ecological, economic and socio-cultural terms. It is important to recognize that the extensive benefits the nation receives from the Gulf’s natural resources are inextricably linked to the the ecological health of the Gulf’s watershed as a whole. Society's investment in Gulf restoration will be at risk if we restore the Gulf Coast region but fail to address systemic problems that originate further up the watershed.

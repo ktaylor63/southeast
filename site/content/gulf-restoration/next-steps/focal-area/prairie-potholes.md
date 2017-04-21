@@ -11,7 +11,7 @@ tags:
     - Gulf
 categories:
     - 'Focal Area'
-updated: 'March 15th, 2017'
+updated: 'April 21st, 2017'
 ---
 
 ## Landscape at a Glance
@@ -63,7 +63,7 @@ While migratory birds that overwinter on the Gulf Coast are the primary target f
 
 *   Apply existing abundance and probability of occurrence models to protected and/or restored wetland and grassland habitats to estimate the biological benefits realized by completed conservation activities.
 *   Develop models to assess benefits of conservation actions that would occur if Gulf restoration dollars were sent to the region. Such models may be based on those that currently exist to estimate biological benefits realized from both the Service’s easement and Partners for Fish and Wildlife Program. Models developed by the the USGS and revised to include diving ducks by the Service’s HAPET office are used and USGS to estimate the waterfowl breeding pair abundance for wetlands of known type, location and size in the Prairie Pothole Region. These models can be adapted and used to estimate biological benefits for Gulf restoration efforts.
-*   Additionally, probability of occurrence models for migrating whooping crane and several species of breeding shorebirds and grassland passerines have been developed by the HAPET office and, similar to the waterfowl pair models, can be used to estimate the biological benefits of protected and/or restored grassland and wetland habitat. Use of these models also have relevance to estimate the biological benefits of protected or restored grassland and wetland habitat for those species also dependent upon restoration efforts.
+*   Additionally, probability of occurrence models for migrating whooping crane and several species of breeding shorebirds and grassland passerines have been developed by the HAPET office and, similar to the waterfowl pair models, can be used to estimate the biological benefits of protected and/or restored grassland and wetland habitat. Use of these models also has relevance to estimate the biological benefits of protected or restored grassland and wetland habitat for those species also dependent upon restoration efforts.
 
 > Use recently developed decision support tools to facilitate strategic habitat conservation of grassland and wetland habitats for breeding redheads.
 
