@@ -7,12 +7,12 @@ hero:
     link: 'https://flic.kr/p/pVeyyG'
     caption: 'Bald Cypress Swamp at Wapanocca National Wildlife Refuge. Photo by <a href=\"https://www.flickr.com/photos/97853094@N08/\" target=\"_blank\">Genevieve Shank</a> <a href=\"https://creativecommons.org/licenses/by-nc-nd/2.0/\" target=\"_blank\">CC BY-NC-ND 2.0</a>.'
 tags:
-    - 'National Wildlife Refuge System'
-    - 'Gulf'
-    - 'Duck Stamp'
     - Arkansas
+    - 'Duck Stamp'
     - Florida
-updated: 'October 20th, 2016'
+    - Gulf
+    - 'National Wildlife Refuge System'
+updated: 'April 21st, 2017'
 ---
 
 **MEMPHIS, TN** &mdash; Secretary of the Interior Ken Salazar today unveiled a special edition Federal Duck Stamp envelope, or cachet, which hunters, birding enthusiasts, stamp collectors and other conservationists, can purchase for $25 -- or $10 more than the cost of a regular Duck Stamp &mdash; to help conservation efforts in the Gulf of Mexico. The funds will be used to acquire wetlands for inclusion in national wildlife refuges along the Gulf Coast.  
