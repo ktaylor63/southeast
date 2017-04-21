@@ -1,7 +1,6 @@
 ---
-title: 'Manatee Reclassified from Endangered to Threatened as Habitat Improves and Population Expands – Existing Federal Protections Remain in Place'
+title: 'Manatee Reclassified from Endangered to Threatened as Habitat Improves and Population Expands - Existing Federal Protections Remain in Place'
 subtitle: 'Partnerships bringing giant sea cow back from brink of extinction'
-date: '2017-03-30'
 hero:
     name: manatees-crystal-river.jpg
     alt: 'Four manatees and a school of fish assemble under crystal clear water.'
@@ -21,7 +20,8 @@ tags:
     - Raleigh
     - 'South Carolina'
     - 'US Virgin Islands'
-updated: 'April 7th, 2017'
+date: '2017-03-30'
+updated: 'April 21st, 2017'
 ---
 
 [Read the release in Spanish](/pdf/espanol/manatee-reclassified-from-endangered-to-threatened-as-habitat-improves-and-population-expands-existing-federal-protections-remain-in-place.pdf).
