@@ -1,5 +1,20 @@
 require('classlist-polyfill');
 require('window.requestanimationframe')
+// Element.matches() polyfill
+if (!Element.prototype.matches) {
+  Element.prototype.matches =
+    Element.prototype.matchesSelector ||
+    Element.prototype.mozMatchesSelector ||
+    Element.prototype.msMatchesSelector ||
+    Element.prototype.oMatchesSelector ||
+    Element.prototype.webkitMatchesSelector ||
+    function(s) {
+      const matches = (this.document || this.ownerDocument).querySelectorAll(s);
+      let i = matches.length;
+      while (--i >= 0 && matches.item(i) !== this) {}
+      return i > -1;
+    };
+}
 
 const xhr = require('xhr');
 const Parallax = require('parallax-scroll');
@@ -174,4 +189,43 @@ if (sectionNav) {
       childList.classList.toggle('hidden');
     });
   });
+}
+
+const throttle = require('lodash.throttle');
+
+/**
+ * Get the closest matching element up the DOM tree.
+ * @private
+ * @param  {Element} elem     Starting element
+ * @param  {String}  selector Selector to match against
+ * @return {Boolean|Element}  Returns null if not match found
+ */
+const closest = (elem, selector) => {
+
+  // Get closest match
+  for ( ; elem && elem !== document; elem = elem.parentNode ) {
+    if ( elem.matches( selector ) ) return elem;
+  }
+
+  return null;
+};
+
+const scrollerLists = Array.from(document.querySelectorAll('.scroller-list--list'));
+
+scrollerLists.forEach(list => {
+  list.addEventListener('scroll', throttle(lazyLoad, 100));
+});
+
+function lazyLoad(e) {
+  const attribute = 'data-src';
+  const scrollerList = e.target;
+  const nearestLazyImg = scrollerList.querySelector(`[${attribute}]`);
+  const nearestLazyItem = closest(nearestLazyImg, '.scroller-list--item');
+  if (!nearestLazyItem) return;
+  const lazyImgFromView = nearestLazyItem.offsetTop - scrollerList.clientHeight - scrollerList.scrollTop;
+
+  if (lazyImgFromView < 500){
+    nearestLazyImg.src = nearestLazyImg.getAttribute(attribute);
+    nearestLazyImg.removeAttribute(attribute);
+  }
 }

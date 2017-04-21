@@ -1,24 +1,43 @@
 {{ $tag := lower (.Get "tag") | urlize }}
 {{ $section := .Get "section" }}
 {{ $pages := where (index .Site.Taxonomies.tags $tag) "Page.Section" $section }}
+{{ $lazyLoadLimit := 5 }}
 
 <div class='scroller-list'>
   <header>
     {{ if eq "wildlife" $section }}
     <h2 class="scroller-list--heading">Species Profiles</h2>
+    {{ else if eq "news" $section }}
+    <h2 class="scroller-list--heading">Press Releases</h2>
+    {{ else if eq "articles" $section }}
+    <h2 class="scroller-list--heading">Stories</h2>
     {{ else }}
     <h2 class="scroller-list--heading">{{ title $section }}</h2>
     {{ end }}
   </header>
   <ol class="scroller-list--list">
   {{ if gt (len $pages) 0 }}
-    {{ range $pages}}
-      {{ .Page.Render "scroller-item"}}
+    {{ range $index, $element := $pages }}
+      <li class='scroller-list--item'>
+        <a href='{{ .Page.Permalink }}'>
+          <div class='icon-date'>
+            {{ if .Page.Params.hero }}
+            <img {{ if lt $index $lazyLoadLimit }}src{{ else }}data-src{{ end }}='{{ $.Site.BaseURL }}images/hero/small/{{ .Page.Params.hero.name }}' alt='{{ .Page.Params.hero.alt }}'/>
+            {{ end }}
+            {{ if not .Page.Date.IsZero }}
+            <span>{{ .Page.Date.Format "Jan 2, 2006"}}</span>
+            {{ end }}
+          </div>
+          <p>{{ .Page.Title }}</p>
+        </a>
+      </li>
     {{ end }}
   {{ else }}
     <li class='scroller-list--item'>
       {{ if eq $section "news"}}
       <p>No press releases found for {{ $tag | humanize | title }}.</p>
+      {{ else if eq $section "articles"}}
+      <p>No stories found for {{ $tag | humanize | title }}.</p>
       {{ else if eq $section "wildlife" }}
       <p>No species profiles found for {{ $tag | humanize | title }}.</p>
       {{ else }}
