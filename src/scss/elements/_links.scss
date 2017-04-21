@@ -40,3 +40,9 @@ a[href$=".pdf"] {
     margin-left: 5px;
   }
 }
+
+a.button[href$=".pdf"] {
+  &:after {
+    content: '';
+  }
+}
