@@ -27,7 +27,7 @@ The [Candidate Conservation Agreement with Assurances](/endangered-species-act/v
 
 {{< figure class="photo-center" src="/images/pages/striped-newt.jpg" alt="An orange and brown salamander with a bright orange stripe." caption="Striped newt at Big Bend WMA. Photo by Kevin Enge, FWC." link="https://flic.kr/p/oyWcJT" >}}
 
-The board, along with the Florida Fish and Wildlife Conservation Commission and the Army National Guard are partnering with the Service.  Today’s agreement is the latest step by the Service and dozens of public and private partners to boost conservation. Last month, for example, the Service joined with the U.S. Department of Defense and the state of Georgia to enact a first-of-its-kind credit program to bolster the gopher tortoise population.
+The board, along with the Florida Fish and Wildlife Conservation Commission and the Army National Guard are partnering with the Service.  [Today’s agreement](/pdf/agreement/candidate-conservation-agreement-with-assurances/camp-blanding-multiple-at-risk-species-in-north-florida.pdf) is the latest step by the Service and dozens of public and private partners to boost conservation. Last month, for example, the Service joined with the U.S. Department of Defense and the state of Georgia to enact a first-of-its-kind credit program to bolster the gopher tortoise population.
 
 The Service has been petitioned in recent years to add nearly 500 species to the threatened or endangered list. Already, 110 species of fish, wildlife and plants -- including the Georgia aster, West Indian manatee and the Louisiana black bear -- have been kept off the endangered list or had their status upgraded because of successful recovery efforts.
 
@@ -42,3 +42,5 @@ Already four federally listed species, including the red-cockaded woodpecker and
 Myriad threats endanger the flora and fauna on the 73,000-acre installation -- Florida’s primary national guard training site. Water quality, agricultural runoff, logging, disease and invasive plants harm the biodiverse habitat. The 15-year conservation agreement relies heavily on prescribed fires, and longleaf pine plantings, to restore a more natural and healthy environment for the at-risk species.
 
 “The Florida Fish and Wildlife Conservation Commission is proud to partner with the USFWS, Florida Armory Board and the Army National Guard to conserve wildlife habitats and at-risk species,” said Kipp Frohlich, deputy director of the commission’s Division of Habitat and Species Conservation. “This habitat-based approach will eliminate or reduce threats to 22 species so that future listings under the federal Endangered Species Act will not be warranted.”
+
+[Download the Candidate Conservation Agreement with Assurances](/pdf/agreement/candidate-conservation-agreement-with-assurances/camp-blanding-multiple-at-risk-species-in-north-florida.pdf).
