@@ -1,5 +1,5 @@
 ---
-title: 'Disease continues its fatal sweep of bats'
+title: 'Disease Continues its Fatal Sweep of Bats'
 type: feature
 hero:
     name: tri-colored-bat-white-nose-syndrome.jpg
@@ -13,7 +13,7 @@ tags:
     - Georgia
     - 'Tri-Colored Bat'
     - 'White Nose Syndrome'
-updated: 'April 5th, 2017'
+updated: 'April 20th, 2017'
 ---
 
 The oars splashed, that slight sound magnified as it echoed off rock walls that led to a distant, black point. With each pull, the tunnel’s illuminated opening got smaller – the darkness, greater.

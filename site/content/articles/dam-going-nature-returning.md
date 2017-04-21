@@ -1,5 +1,5 @@
 ---
-title: 'Dam going, nature returning'
+title: 'Dam Going, Nature Returning'
 description: 'On Tuesday, March 28, a large yellow machine with a pile driver affixed to its arm clanked onto the concrete shoulder of lock and dam No. 6 on the Green River. Its operator lifted the driver, a slender length of steel ending in a point. He aimed it at a spot where workers had toiled to build a wall a century earlier.'
 author: 'Mark Davis, Public Affairs Specialist'
 type: feature
@@ -15,7 +15,7 @@ tags:
     - 'Green River'
     - Kentucky
     - Rivers
-updated: 'April 5th, 2017'
+updated: 'April 20th, 2017'
 ---
 
 **BROWNSVILLE, Ky.** -- A project decades in the planning started with a bang – and that’s in the literal sense.

@@ -1,5 +1,5 @@
 ---
-title: 'Tiny Monito gecko is thriving and proposed for removal from endangered species list'
+title: 'Tiny Monito Gecko is Thriving and Proposed for Removal from Endangered Species List'
 date: '2017-04-10'
 author: 'Phil Kloer, Public Affairs Specialist'
 description: 'The Monito gecko is a resilient little critter. Living only on one small chunk of rock in the Caribbean Sea, the lizard has become so abundant that the U.S. Fish and Wildlife Service (Service) is set to make a decision later this year about its listing status under the Endangered Species Act.'
@@ -15,7 +15,7 @@ tags:
     - 'Endangered Species Act'
     - 'Monito Gecko'
     - 'Puerto Rico'
-updated: 'April 11th, 2017'
+updated: 'April 20th, 2017'
 ---
 
 {{< figure class="photo-right" src="/images/pages/monito-island-locator-map.jpg" alt="" caption="Monito Island off the eastern coast of Puerto Rico. Map by Roy Hewitt, USFWS." link="https://flic.kr/p/TJRR3r" >}}

@@ -1,5 +1,5 @@
 ---
-title: 'Partnering across the Everglades to battle invasives'
+title: 'Partnering Across the Everglades to Battle Invasives'
 date: '2016-04-13'
 description: 'Florida is considered “Ground Zero” in America’s fight against the spread of non-native species with more non-native reptile and amphibian species than anywhere else in the world.'
 hero:
@@ -17,7 +17,7 @@ tags:
     - Miami
     - 'Python Challenge'
 author: 'Art Roybal, Vero Beach Ecological Services Office'
-updated: 'April 10th, 2017'
+updated: 'April 20th, 2017'
 ---
 
 It was 80 degrees on a winter day in Miami when several U.S. Fish and Wildlife Service employees attended the state-sponsored Python Challenge kick-off event.  The warmth reminded us why pythons and other non-native, invasive species thrive in the Sunshine State and why the Service must continue to work with partners to curb their spread.

@@ -1,5 +1,5 @@
 ---
-title: 'Beer makers brew up conservation benefits'
+title: 'Beer Makers Brew up Conservation Benefits'
 date: '2017-04-14'
 type: feature
 author: 'Mark Davis, Public Affairs Specialist'
@@ -11,7 +11,7 @@ hero:
 tags:
     - Business
     - 'Endangered Species Act'
-updated: 'April 17th, 2017'
+updated: 'April 20th, 2017'
 ---
 
 The next time you order a cool one from your home-grown brewery, check the label: You might be helping save a shorebird.  

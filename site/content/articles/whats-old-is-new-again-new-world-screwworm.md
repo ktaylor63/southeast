@@ -6,12 +6,13 @@ hero:
     caption: 'Response key deer buck at refuge headquarters. Photo by Jennifer Koches, USFWS.'
     link: 'https://flic.kr/p/RvKaX7'
 tags:
-    - 'Key Deer'
     - 'Endangered Species Act'
     - Florida
+    - 'Key Deer'
+    - 'New World Screwworm'
 date: '2017-02-01'
 author: 'Jennifer Koches, South Carolina Ecological Services Field Office'
-updated: 'March 10th, 2017'
+updated: 'April 20th, 2017'
 ---
 
 In talking to people about what our agency does for endangered species, you can’t help but conjure up images of those iconic species that have helped frame the visual; species like sea turtles, manatees, wood storks, red-cockaded woodpeckers, whooping cranes, and freshwater mussels.  The Southeast Region is the lead for about 380 endangered species of plants and, animals and among those Southeast, we get to claim is Florida’s endangered Key deer.
