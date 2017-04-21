@@ -1,26 +1,23 @@
-const spawn = require('child_process').spawn;
+const exec = require('child_process').exec;
+const endOfLine = require('os').EOL;
 
 function build(baseURL) {
   baseURL = (baseURL) ? baseURL : process.argv[2];
-  console.log(`Base URL: ${baseURL}`);
-  const args = [
-    '--canonifyURLs=true',
+  console.log(`Base URL: ${baseURL} ${endOfLine}`);
+  const buildDrafts = baseURL.includes('localhost') ? '--buildDrafts=true' : '--buildDrafts=false';
+  const command = [
+    'hugo',
     '--config=site/config.yml',
-    '--destination=../dist/',
     '--source=site/',
-    `--baseURL=${baseURL}`
-  ];
-  
-  if (baseURL.includes('localhost')) args.push('--buildDrafts=true')
-  else args.push('--buildDrafts=false')
+    `--baseURL=${baseURL}`,
+    buildDrafts
+  ].join(' ');
 
-  const hugo = spawn('hugo', args);
+  exec(command, (err, stdout, stderr) => {
+    if (err) console.error(err);
+    console.log(stdout);
+  });
 
-  hugo.stdout.on('data', (data) => console.log(data.toString('utf8')) );
-
-  hugo.stderr.on('data', (data) => console.error(data.toString('utf8')) );
-
-  hugo.on('exit', (code) => console.log(`Hugo build finished with code ${code}.`))
 }
 
 module.exports.build = build;
