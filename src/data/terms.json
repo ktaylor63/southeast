@@ -393,7 +393,7 @@
   {
     "name": "Living Shorline",
     "acronym": null,
-    "description": "Shoreline protection options that are meant to retain much of the protection of hard structures (e.g., bulkheads, revetment and concrete seawalls) while retaining some of the features of natural shorelines.<br><br>Living shorelines allow for natural coastal processes to remain through the strategic placement of plants, stone, sand fill, coir fiber logs, oyster reefs and other structural and organic materials. Options also include hybrids of traditional shoreline armoring and softer, more natural stabilization techniques. Living shorelines not only can reduce wave energy, but also trap sediment, filter runoff and maintain (or increase) habitat for aquatic and terrestrial species.",
+    "description": "Living Shorelines are stabilization projects constructed along estuarine shorelines designed to minimize erosion and maximize habitat for plants and animals by maintaining natural coastal processes through strategic placement of natural components along the shoreline profile from uplands to wetlands. Living shorelines represent a greener, more environmentally friendly alternative to traditional shoreline hardening techniques (e.g., bulkheads and seawalls) by using native plants (e.g., marsh grasses, mangroves, seagrasses, and upland, salt-tolerant species), oysters, coir fiber logs, and other natural materials (with limited use of rock only when necessary). They can provide a host of ecological benefits by trapping sediment, filtering runoff, providing habitat for aquatic and terrestrial species, buffering storms, improving water quality, allowing for tidal exchange, preserving coastal resiliency, mitigating sea level rise, as well as increasing aesthetic and recreational values.<br><br>Living shorelines allow for natural coastal processes to remain through the strategic placement of plants, stone, sand fill, coir fiber logs, oyster reefs and other structural and organic materials. Options also include hybrids of traditional shoreline armoring and softer, more natural stabilization techniques. Living shorelines not only can reduce wave energy, but also trap sediment, filter runoff and maintain (or increase) habitat for aquatic and terrestrial species.",
     "related": ["Beneficial Use", "Restoration"]
   },
   {
@@ -472,7 +472,7 @@
   {
     "acronym": "NRDAR",
     "name": "Natural Resource Damage Assessment and Restoration",
-    "description": "A process that adds restoration planning to the process that federal, state and tribal governments use in their role as trustees to determine the injury that an oil spill, hazardous waste site or vessel grounding has caused to natural resources (NRDAO). The goal of the NRDA/NRDAR processes is to develop an injury assessment-based claim that supports restoration that will return injured natural resources to the condition they would have been in had the incident not occurred.",
+    "description": "A process that adds restoration planning to the process that federal, state and tribal governments use in their role as trustees to determine the injury that an oil spill, hazardous waste site or vessel grounding has caused to natural resources (NRDAR). The goal of the NRDA/NRDAR processes is to develop an injury assessment-based claim that supports restoration that will return injured natural resources to the condition they would have been in had the incident not occurred.",
     "related": ["Natural Resource Damage Assessment", "Restoration"]
   },
   {
