@@ -11,7 +11,7 @@ hero:
     position: bottom
 tags:
     - Florida
-updated: 'March 17th, 2017'
+updated: 'April 21st, 2017'
 ---
 
 {{< figure class="photo-right" src="/images/pages/florida-coast-sunset-egret.jpg" alt="Bright red sunset reflected over water with silhouette of a wading bird." caption="Florida sunset. Photo: Paul Lang, USFWS." >}}
