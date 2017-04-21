@@ -1,5 +1,5 @@
 ---
-title: 'Bear biologist Maria Davidson educates people, relocates wayward bears'
+title: 'Bear Biologist Maria Davidson Educates People, Relocates Wayward Bears'
 description: 'State of Louisiana employee Maria Davidson’s public outreach, relocation of “nuisance” bear and partnership efforts has helped the Louisiana black bear population recover.'
 tags:
     - LDWF
@@ -15,7 +15,7 @@ hero:
     position: 'top center'
 author: 'Nadine Siak, USFWS Gulf Restoration Program'
 date: '2016-03-10'
-updated: 'April 7th, 2017'
+updated: 'April 20th, 2017'
 ---
 
 If you Google “Maria Davidson” and “black bear,” you’ll get many news reports along the lines of “There’s a bear over there!” That’s because Louisiana black bears occasionally wander out of their normal backwoods habitat into those of humans.
