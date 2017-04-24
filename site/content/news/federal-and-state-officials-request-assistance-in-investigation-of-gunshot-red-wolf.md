@@ -7,11 +7,11 @@ hero:
     alt: 'An adult red wolf walking stealthily in a caged enclosure at the zoo.'
     caption: 'Adult Red wolf. Photo by Brad McPhee, Defiance Zoo and Aquarium.'
 tags:
-    - 'Red wolf'
-    - 'North Carolina'
     - 'Law Enforcement'
     - Louisiana
-updated: 'October 6th, 2016'
+    - 'North Carolina'
+    - 'Red Wolf'
+updated: 'April 21st, 2017'
 ---
 
 The U.S. Fish and Wildlife Service and the N.C. Wildlife Resources Commission are requesting assistance with an investigation involving the suspected illegal take of a radio-collared red wolf that was recently found dead.  The federally protected red wolf was found with an apparent gunshot wound on Tuesday, Sept. 30, 2014, east of Columbia, in Tyrrell County, North Carolina. Based on body condition and field sign, the actual date of death is estimated to be Sept. 26, 2014.
