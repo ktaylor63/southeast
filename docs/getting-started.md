@@ -25,6 +25,10 @@ Once you have node, hugo and git installed you'll need to clone a copy of this r
 
 ![Location on website where the clone repository button is located](./images/clone-repository.jpg)
 
+### Known Issues
+
+Image optimization requires installing some binaries associated with imagemin.  I have run into issues installing these behind the firewall/with the DOI SSL certificate.
+
 ## Static Site Generator
 
 This site uses [Hugo](https://gohugo.io/), a static site generator written in [Go](https://golang.org/).  Hugo was selected because of it's blazing speed, which can create thousands of webpages per second.  This comes in handy as each time you save a file in the website Hugo will automatically rebuild the entire site.

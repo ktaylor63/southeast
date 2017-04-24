@@ -12,9 +12,9 @@ If you would like to run a script manually there are several to choose from:
  - `npm run svg`: Optimize all SVGs by removing unnecessary data, produce a single SVG sprite sheet
  - `npm run pages`: Optimize all of the photos in this directory, resize based on the parent folder (400 => 400px wide)
 
-## Hero images
+## Hero Images
 
-Hero images are the large photos present at the top of most pages.  Photos that you wish to use as a hero image **must be at least 1400px wide**. If you save the highest resolution photo that you have and drop it into `src/images/hero` it will be automatically resized and optimized for you.
+Hero images are the large photos present at the top of most pages.  Photos that you wish to use as a hero image **must be at least 1400px wide**. If you save the highest resolution photo that you have and drop it into `src/images/hero` it will be automatically resized and optimized for you.  Since the image is always `50vh` cropping occurs naturally as the viewport is resized.  Select an image that has a single focal point so important portions of the image aren't cut off when an image is cropped. You can define the focal point using the `position` attribute on the `hero` object in the content's frontmatter.
 
 ### How to include a hero image on a page
 
@@ -24,6 +24,7 @@ For website content that has front matter, include all the necessary data under 
 - **alt**: A description of the photo that will be read to screenreaders/displayed if the image fails to load
 - **caption**: The caption that will be displayed for this photo (can include HTML!)
 - **link**: A link to the full resolution photo on flickr or elsewhere on the web
+- **position**: Defines the focal point of the image.  During resizing this area will be kept in view.
 
 The following should appear at the top of Markdown files:
 ```yml
@@ -34,6 +35,7 @@ hero:
   alt: A bright pink bird with a large round beak wading in shallow water
   caption: Roseate spoonbill. Photo: USFWS
   link: 'https://flic.kr/p/cM3Jgu'
+  position: bottom left
 ---
 ```
 
