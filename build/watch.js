@@ -9,23 +9,24 @@ const hero = require('./hero');
 const images = require('./images');
 
 const devUrl = 'http://localhost:3000/'
-const src = path.resolve('../southeast/');
 const options = {
   ignoreInitial: true,
   ignored: [
-    path.resolve('*.DS_Store'),
-    path.resolve('**/node_modules/**/*'),
-    path.resolve('test/**/*'),
-    path.resolve('build/**/*'),
-    path.resolve('dist/**/*'),
-    path.resolve('docs/**/*'),
-    path.resolve('.gitignore'),
-    path.resolve('.git'),
-    path.resolve('package.json'),
+    '.DS_Store',
+    '**/*/.DS_Store',
+    'node_modules',
+    '**/*/node_modules',
+    'test',
+    'build',
+    'dist',
+    'docs',
+    '.gitignore',
+    '.git',
+    'package.json'
   ]
 };
 
-const watcher = chokidar.watch(src, options);
+const watcher = chokidar.watch('.', options);
 
 watcher
   .on('add', changeHandler)
