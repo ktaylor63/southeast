@@ -6,9 +6,9 @@ hero:
     alt: 'An adult red wolf walking stealthily in a caged enclosure at the zoo.'
     caption: 'Adult Red wolf. Photo by Brad McPhee, Defiance Zoo and Aquarium.'
 tags:
-    - 'Red wolf'
     - 'North Carolina'
-updated: 'October 20th, 2016'
+    - 'Red Wolf'
+updated: 'April 21st, 2017'
 ---
 
 The U.S. Fish and Wildlife Service is extending by two weeks the comment period to receive information about the Red Wolf Recovery Program and its non-essential, experimental population of red wolves in Eastern North Carolina.  The deadline to receive comments will be Friday, September 26.  
