@@ -9,10 +9,10 @@ hero:
     alt: 'Sunset over Blackbeard Island, Georgia'
     caption: 'Sunset at Blackbeard Island National Wildlife Refuge in Georgia. Photo by Molly Martin, USFWS.'
 tags:
+    - Carbon
     - 'Climate Change'
     - 'Sea Level Rise'
-    - Carbon
-updated: 'March 14th, 2017'
+updated: 'April 24th, 2017'
 ---
 
 In the southeastern United States, changes to the climate are having profound impacts on our nation’s wildlife and habitats. In aquatic environments, evidence is growing that higher water temperatures resulting from climate change are negatively impacting cold- and cool-water fish populations across the country. Warmer winters are changing some birds’ migratory patterns. Sooty terns, which nest in the Dry Tortugas off Key West, Florida, are showing up earlier and earlier. Roseate spoonbills, which generally stay in Florida, the Gulf Coast and points south, are now regularly spotted in South Carolina. Record warm seawater is linked to [coral reef bleaching](http://coralreefwatch.noaa.gov/satellite/index.php) in the Florida Keys and Puerto Rico.
