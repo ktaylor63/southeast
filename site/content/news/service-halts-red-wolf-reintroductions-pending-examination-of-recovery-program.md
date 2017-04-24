@@ -9,9 +9,9 @@ hero:
     caption: 'Red wolf at Point Defiance Zoo and Aquarium. Photo by Seth Bynum, PDZA.'
 tags:
     - 'North Carolina'
-    - 'Red wolf'
     - Recovery
-updated: 'October 21st, 2016'
+    - 'Red Wolf'
+updated: 'April 21st, 2017'
 ---
 
 The U.S. Fish and Wildlife Service announced today it will suspend its reintroductions of red wolf into the wild while it gathers additional science and research into the feasibility of recovery for the species under the Endangered Species Act (ESA). The Service intends to complete its review by the end of 2015\. Existing red wolves located in five eastern North Carolina counties will be managed in accordance with rules put in place in 1995 to govern this population, designated “non-essential, experimental” under the ESA.

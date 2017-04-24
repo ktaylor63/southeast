@@ -8,7 +8,8 @@ hero:
     caption: 'Night falls at Okefenokee National Wildlife Refuge. Photo by Joy Campbell of Okefenokee Adventures.'
 tags:
     - 'National Wildlife Refuge System'
-updated: 'October 20th, 2016'
+    - 'Red Wolf'
+updated: 'April 21st, 2017'
 ---
 
 Nighttime brings a whole new slant to nature – and some national wildlife refuges are going out of their way to help you see and hear it. Several times a year, they're delaying normal sunset closing times to host night star-viewings, swamp paddles, scorpion hunts and wolf howl serenades in settings hard to beat for natural scenery and wildlife.  

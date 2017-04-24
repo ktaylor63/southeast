@@ -9,9 +9,9 @@ hero:
     caption: 'Captive red wolf at Species Survival Plan facility, Point Defiance Zoo and Aquarium. Photo by B. Bartel, USFWS.'
 tags:
     - 'North Carolina'
-    - 'Red wolf'
     - Recovery
-updated: 'October 21st, 2016'
+    - 'Red Wolf'
+updated: 'April 21st, 2017'
 ---
 
 The U.S. Fish and Wildlife Service today released a 171-page, peer-reviewed evaluation of its Red Wolf Recovery Program’s non-essential, experimental population in five Eastern North Carolina counties.

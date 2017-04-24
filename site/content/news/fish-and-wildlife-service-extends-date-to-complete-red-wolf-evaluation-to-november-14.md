@@ -8,8 +8,8 @@ hero:
     caption: 'Red wolf at Point Defiance Zoo and Aquarium. Photo by Seth Bynum, PDZA.'
 tags:
     - 'North Carolina'
-    - 'Red wolf'
-updated: 'October 20th, 2016'
+    - 'Red Wolf'
+updated: 'April 21st, 2017'
 ---
 
 The deadline to complete a peer-reviewed evaluation of the Service’s Red Wolf Recovery Program and its non-essential, experimental population of red wolves in Eastern North Carolina has been extended to November 14, 2014.

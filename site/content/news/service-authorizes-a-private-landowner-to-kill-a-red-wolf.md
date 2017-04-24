@@ -1,5 +1,5 @@
 ---
-title: Service Authorizes a Private Landowner to Kill a Red Wolf
+title: 'Service Authorizes a Private Landowner to Kill a Red Wolf'
 date: '2015-06-25'
 hero:
     name: red-wolf-crouching.jpg
@@ -7,7 +7,8 @@ hero:
     link: 'https://flic.kr/p/dPAq8s'
     caption: 'Red wolf at Point Defiance Zoo and Aquarium. Photo by Seth Bynum, PDZA.'
 tags:
- - Red wolf
+    - 'Red Wolf'
+updated: 'April 21st, 2017'
 ---
 
 The U.S. Fish and Wildlife provided a landowner in the Red Wolf [non-essential experimental population (NEP)](http://www.fws.gov/endangered/about/listing-status-codes.html) area with authorization to take a red wolf using lethal means.  The landowner had previously received permission to capture wolves on his property.  The landowner secured the services of a trapper who captured two wolves last fall.  One wolf was returned to the Service and was subsequently released onto a nearby National Wildlife Refuge.  The other animal died in the trap. 

@@ -9,8 +9,8 @@ hero:
 tags:
     - 'North Carolina'
     - Recovery
-    - 'Red wolf'
-updated: 'October 6th, 2016'
+    - 'Red Wolf'
+updated: 'April 21st, 2017'
 ---
 
 In June, the U.S. Fish and Wildlife Service [announced](http://www.fws.gov/news/ShowNews.cfm?ID=456CB36D-F587-7CD1-7021195729AF7928) its intent to gather additional science and research to guide recovery of the red wolf, protected by the Endangered Species Act (ESA) for more than four decades.  At that time, the Service reaffirmed its management practices would be confined to the 1995 special rule (10j) currently in place.  Since that announcement, the Service has taken steps to involve state partners and key stakeholders in this review that will support the agency’s recovery effort in future actions for red wolves.   
