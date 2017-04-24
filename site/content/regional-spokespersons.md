@@ -2,8 +2,8 @@
 title: 'Regional Spokespersons'
 description: 'Our trained communications staff are available to respond to public and media inquiries. If you have a question about the work of the U.S. Fish and Wildlife Service, would like to obtain an official quote, would like to set up an interview, or are seeking photo and video material, please contact us.'
 tags:
-    - News
     - Multimedia
+    - News
 aliases:
     - /news/subscribe.html
     - /news/faq.html
@@ -13,7 +13,7 @@ hero:
     caption: 'Video interview with a biologist. Photo by Gary Peeples, USFWS.'
     link: 'https://flic.kr/p/rq46P8'
     position: 'top center'
-updated: 'February 8th, 2017'
+updated: 'April 24th, 2017'
 ---
 
 Our trained communications staff are available to respond to public and media inquiries. If you have a question about the work of the U.S. Fish and Wildlife Service, would like to obtain an official quote, would like to set up an interview, or are seeking photo and video material, please contact us.
