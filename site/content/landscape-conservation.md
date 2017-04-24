@@ -11,7 +11,7 @@ hero:
 tags:
     - 'Landscape Conservation Cooperatives'
     - Partnership
-updated: 'March 16th, 2017'
+updated: 'April 24th, 2017'
 ---
 What do you do when you realize that you face a problem too big to tackle alone? What did Wonder Woman, Aquaman, Martian Manhunter, Green Lantern and Flash do when they faced their first super villain, [Starro the Conqueror](https://en.wikipedia.org/wiki/Starro)?
 
