@@ -5,10 +5,10 @@ hero:
     alt: 'Map of wetlands across the country.'
     caption: '<a href=\"https://fws.gov/wetlands\" target=\"_blank\">National Wetlands Inventory mapper</a>.'
 tags:
-    - 'Inventory and Monitoring'
     - 'Data Management'
     - GIS
-updated: 'March 13th, 2017'
+    - 'Inventory and Monitoring'
+updated: 'April 24th, 2017'
 ---
 
 Data management refers to the collection, storage, retrieval, and analysis of information throughout an organization's entire lifecycle. Data management practices and procedures empower leaders to make timely, informed decisions to further conservation.
