@@ -11,7 +11,7 @@ tags:
     - 'North Carolina'
     - Recovery
     - 'Red Wolf'
-updated: 'April 21st, 2017'
+updated: 'April 24th, 2017'
 ---
 
 The U.S. Fish and Wildlife Service today released a 171-page, peer-reviewed evaluation of its Red Wolf Recovery Program’s non-essential, experimental population in five Eastern North Carolina counties.
@@ -34,9 +34,7 @@ The evaluation, the agreement with North Carolina, and the Service documents use
 
 “Finally,” Williams concluded, “the Fish and Wildlife Service must do a better job of understanding the human dimensions of this program at the local level.  The recovery of red wolves is a complicated and difficult process.  We hope our conclusions will assist the Fish and Wildlife Service in its deliberations about the future of the program in North Carolina.”
 
-**Leopoldo Miranda**  
-**U.S. Fish and Wildlife Service**  
-**Southeast Region**
+## Leopoldo Miranda, U.S. Fish and Wildlife Service, Southeast Region
 
 “I want to thank WMI and the independent peer reviewers for their work to complete this program evaluation within our time-frame,” Miranda said.
 

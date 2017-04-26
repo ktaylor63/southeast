@@ -10,10 +10,10 @@ tags:
     - 'North Carolina'
     - Recovery
     - 'Red Wolf'
-updated: 'April 21st, 2017'
+updated: 'April 24th, 2017'
 ---
 
-In June, the U.S. Fish and Wildlife Service [announced](http://www.fws.gov/news/ShowNews.cfm?ID=456CB36D-F587-7CD1-7021195729AF7928) its intent to gather additional science and research to guide recovery of the red wolf, protected by the Endangered Species Act (ESA) for more than four decades.  At that time, the Service reaffirmed its management practices would be confined to the 1995 special rule (10j) currently in place.  Since that announcement, the Service has taken steps to involve state partners and key stakeholders in this review that will support the agency’s recovery effort in future actions for red wolves.   
+In June, the U.S. Fish and Wildlife Service [announced](/news/2015/06/service-halts-red-wolf-reintroductions-pending-examination-of-recovery-program) its intent to gather additional science and research to guide recovery of the red wolf, protected by the Endangered Species Act (ESA) for more than four decades.  At that time, the Service reaffirmed its management practices would be confined to the 1995 special rule (10j) currently in place.  Since that announcement, the Service has taken steps to involve state partners and key stakeholders in this review that will support the agency’s recovery effort in future actions for red wolves.   
 
 The Service is adjusting its timeframe to complete the review addressing what may be needed for recovery and whether it can be implemented across the landscape by summer 2016.  One step the Service is taking today is to reconvene a multi-faceted red wolf recovery team to address current and future needs to restore red wolves in the wild.  The Service is responsible under the ESA to provide the best science-based conservation management aimed at recovering the red wolf.  This review is part of the Service’s continuing commitment to get the science right and foster trust with stakeholders as issues regarding the recovery of the red wolf are addressed and implemented.
 
@@ -48,13 +48,16 @@ The primary task for the recovery team, guided by the science experts, will be t
 
 The Service also is working with the NCWRC to develop a Canid Forum to allow for additional stakeholder involvement in North Carolina.  The Canid Forum will provide a venue for the State and Federal wildlife agencies to inform the public on issues related to red wolves and coyotes and to hear concerns and feedback regarding management of these species.  Specific details on the structure and timing of the Canid Forum are being developed and more information about it will be made available once that work is complete.
 
-For more information on the red wolf program, please visit: [www.fws.gov/redwolf/evaluation.html ](http://www.fws.gov/redwolf/evaluation.html)
+For more information on the red wolf program, please visit: [www.fws.gov/redwolf/evaluation.html](http://www.fws.gov/redwolf/evaluation.html)
 
-[Download the Red Wolf Recovery Plan Questions and Answers (PDF)](http://fws.gov/redwolf/docs/red-wolf-recovery-program-review-faqs.pdf)
+[Download the Red Wolf Recovery Plan Questions and Answers](/pdf/frequently-asked-questions/red-wolf-recovery-program-review.pdf)
 
-<audio controls=""><source src="http://fws.gov/southeast/audio/red-wolf-recovery-program-review-update-10272015.mp3" type="audio/mpeg"> Your browser does not support the audio element.</audio>
+<audio controls="">
+  <source src="/audio/red-wolf-recovery-program-review-update-10272015.mp3" type="audio/mpeg">
+  <p>Your browser does not support the audio element.</p>
+</audio>
 
-[Download the audio recording](http://fws.gov/southeast/audio/red-wolf-recovery-program-review-update-10272015.mp3).
+[Download the audio recording](/audio/red-wolf-recovery-program-review-update-10272015.mp3).
 
 ## Contact
 
