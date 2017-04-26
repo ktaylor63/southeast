@@ -5,16 +5,6 @@
 
 .card {
   @include card;
-
-  &:hover .card-hero img {
-    transform: scale(1.1);
-  }
-
-  @media (min-width: $break-lg) and (max-width: $break-xl){
-    &:hover .card-hero img {
-      transform: scale(1);
-    }
-  }
 }
 
 .card-hero {
