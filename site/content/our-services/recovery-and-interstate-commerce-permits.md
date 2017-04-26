@@ -1,11 +1,18 @@
 ---
 title: 'Recovery and Interstate Commerce Permits'
+description: 'A typical use of a recovery permit is to allow for scientific research on a listed species in order to understand better the species’ long-term survival needs. Interstate commerce permits also allow transport and sale of listed species across state lines (e.g., for purposes such as a breeding program).'
 url: /our-services/permits/recovery-and-interstate-commerce
 nav: 'Permit Status'
+hero:
+    name: red-wolf-crouching.jpg
+    alt: 'A grey colored wolf with bright yellow eyes walking low to the ground.'
+    link: 'https://flic.kr/p/dPAq8s'
+    caption: 'Red wolf at Point Defiance Zoo and Aquarium. Photo by Seth Bynum, PDZA.'
 aliases:
   /permits
 tags:
     - Permits
+    - Recovery
     - 'Endangered Species Act'
 description: 'A typical use of a recovery permit is to allow for scientific research on a listed species in order to understand better the species'' long-term survival needs. Interstate commerce permits also allow transport and sale of listed species across State lines (e.g., for purposes such as a breeding program).'
 js: /js/10a1a-permits.js
