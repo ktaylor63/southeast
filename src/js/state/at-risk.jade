@@ -1,4 +1,0 @@
-li| #{species.length} At-Risk Species
-each animal in species
-  - var url = "https://www.fws.gov/southeast/candidateconservation/finder2/#/species/" + animal.id;
-  li| #[a(href=url, target="_blank") #{animal.commonName} (#[em= animal.scientificName])]
