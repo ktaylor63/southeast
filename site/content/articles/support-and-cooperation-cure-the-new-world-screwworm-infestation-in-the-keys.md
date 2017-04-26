@@ -1,8 +1,7 @@
 ---
-title: 'Support and Cooperation Cure the New World Screwworm Infestation in the Keys'
+title: 'Support and cooperation cure the New World Screwworm Infestation in the Keys'
 author: 'Diane Borden-Billiot, Southwest Louisiana NWR Complex'
 date: '2017-04-12'
-draft: true
 hero:
     link: 'https://flic.kr/p/9nytdu'
     caption: 'A Key deer on Big Pine Key in Florida. Photo by Garry Tucker, USFWS.'

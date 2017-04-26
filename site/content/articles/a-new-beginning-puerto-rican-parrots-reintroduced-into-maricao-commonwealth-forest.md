@@ -1,5 +1,5 @@
 ---
-title: 'A New Beginning: Puerto Rican parrots reintroduced into Maricao Commonwealth Forest'
+title: 'A new beginning: Puerto Rican parrots reintroduced into Maricao Commonwealth Forest'
 description: 'The future looks bright for the Puerto Rican parrot. Conservation professionals have been working toward the parrot’s reintroduction to the the Maricao Forest for more than 40 years.'
 type: feature
 tags:

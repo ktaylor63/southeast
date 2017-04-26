@@ -1,5 +1,5 @@
 ---
-title: 'David Soileau: Bringing the Louisiana Black Bear Back From the Brink'
+title: 'David Soileau: bringing the Louisiana black bear back from the brink'
 description: 'The Louisiana black bear recovery work of people like biologist/land conservation specialist David Soileau has been so successful that sightings of the species is no longer such an uncommon occurrence.'
 tags:
     - Employees

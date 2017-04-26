@@ -1,5 +1,5 @@
 ---
-title: 'BP Deepwater Horizon Oil Spill Settlement Funds Migrate North'
+title: 'BP Deepwater Horizon oil spill settlement funds migrate north'
 date: '2015-04-27'
 hero:
     name: prairie-pothole-aerial.jpg

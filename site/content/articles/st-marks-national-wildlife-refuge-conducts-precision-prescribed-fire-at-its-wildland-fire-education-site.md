@@ -1,5 +1,5 @@
 ---
-title: 'St. Marks National Wildlife Refuge conducts precision prescribed fire at its Wildland Fire Education site'
+title: 'St. Marks National Wildlife Refuge conducts precision prescribed fire at its wildland fire education site'
 date: '2016-02-04'
 author: 'Tom MacKenzie, Public Affairs Specialist'
 tags:

@@ -1,5 +1,5 @@
 ---
-title: 'Pocosins Restoration Partnerships Lead to Big Carbon Offset Gains'
+title: 'Pocosins restoration partnerships lead to big carbon offset gains'
 description: 'Pocosins, a special type of wetland found in North Carolina, help to capture carbon and mitigate the impacts of climate change.'
 tags:
     - 'North Carolina'

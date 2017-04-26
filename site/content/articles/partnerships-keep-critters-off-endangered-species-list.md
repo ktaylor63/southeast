@@ -1,5 +1,5 @@
 ---
-title: 'Partnerships Keep Critters off Endangered Species List'
+title: 'Partnerships keep critters off Endangered Species List'
 date: '2016-03-01'
 author: 'Denise Rowell, Alabama Field Office'
 hero:

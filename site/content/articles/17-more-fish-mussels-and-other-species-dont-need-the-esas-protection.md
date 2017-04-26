@@ -1,5 +1,5 @@
 ---
-title: '17 More Fish, Mussels, and Other Species Don’t Need the ESA’s Protection'
+title: '17 more fish, mussels, and other species don’t need the ESA’s protection'
 description: 'Scientists recently proposed that 17 species including the Ouachita madtom, a whiskery fish found in Arkansas, be removed from a petition that had called for its protection under the Endangered Species Act.'
 type: feature
 hero:

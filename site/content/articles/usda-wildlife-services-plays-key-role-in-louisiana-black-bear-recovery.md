@@ -1,6 +1,5 @@
 ---
-title: 'U.S. Department of Agriculture’s Wildlife Services Plays Key Role in Louisiana Black Bear Recovery'
-description: null
+title: 'U.S. Department of Agriculture’s wildlife services plays key role in Louisiana black bear recovery'
 tags:
     - Lafayette
     - Louisiana

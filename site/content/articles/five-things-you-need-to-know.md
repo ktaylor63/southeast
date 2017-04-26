@@ -1,6 +1,6 @@
 ---
-title: 'Five Things You Need to Know'
-subtitle: '5th Anniversary of the Deepwater Horizon Oil Spill in the Gulf of Mexico'
+title: 'Five things you need to know'
+subtitle: '5th anniversary of the Deepwater Horizon oil spill in the Gulf of Mexico'
 date: '2015-04-20'
 hero:
     name: green-sea-turtle-hatchling.jpg

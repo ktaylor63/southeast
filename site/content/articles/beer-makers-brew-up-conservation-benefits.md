@@ -1,5 +1,5 @@
 ---
-title: 'Beer Makers Brew up Conservation Benefits'
+title: 'Beer makers brew up conservation benefits'
 date: '2017-04-14'
 type: feature
 author: 'Mark Davis, Public Affairs Specialist'

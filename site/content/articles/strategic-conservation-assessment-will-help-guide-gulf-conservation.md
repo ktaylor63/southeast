@@ -1,5 +1,5 @@
 ---
-title: Strategic Conservation Assessment Will Help Guide Gulf Conservation
+title: Strategic conservation assessment will help guide gulf conservation
 author: Nadine Siak, Gulf Restoration Team
 date: '2017-04-11'
 hero:

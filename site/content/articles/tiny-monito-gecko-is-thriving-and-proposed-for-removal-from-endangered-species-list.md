@@ -1,5 +1,5 @@
 ---
-title: 'Tiny Monito Gecko is Thriving and Proposed for Removal from Endangered Species List'
+title: 'Tiny Monito gecko is thriving and proposed for removal from endangered species list'
 date: '2017-04-10'
 author: 'Phil Kloer, Public Affairs Specialist'
 description: 'The Monito gecko is a resilient little critter. Living only on one small chunk of rock in the Caribbean Sea, the lizard has become so abundant that the U.S. Fish and Wildlife Service (Service) is set to make a decision later this year about its listing status under the Endangered Species Act.'

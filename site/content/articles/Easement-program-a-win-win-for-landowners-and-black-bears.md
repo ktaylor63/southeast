@@ -1,5 +1,5 @@
 ---
-title: 'Easement Program a Win-Win for Landowners and Black Bears'
+title: 'Easement program a win-win for landowners and black bears'
 description: 'The rapid expansion of agriculture in the state of Louisiana was one of the factors pushing the Louisiana black bear to the edge of extinction. USDA’s Kevin Norton plays a key role in ensuring the bear has habitat while farmers benefit from restoring and conserving their land.'
 tags:
     - Agriculture

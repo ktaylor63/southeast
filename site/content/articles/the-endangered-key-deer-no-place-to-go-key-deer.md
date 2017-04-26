@@ -1,5 +1,5 @@
 ---
-title: 'The Endangered Key Deer: No Place to Go'
+title: 'The endangered key deer: no place to go'
 description: 'The Florida Keys is a globally unique ecosystem and the only home in the world to the endangered Key deer. But some projections show that these islands could be underwater by 2100.'
 tags:
     - Florida

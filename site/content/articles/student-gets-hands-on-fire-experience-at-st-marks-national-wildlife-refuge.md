@@ -1,5 +1,5 @@
 ---
-title: 'Student Gets Hands-on Fire Experience at St. Marks National Wildlife Refuge'
+title: 'Student gets hands-on fire experience at St. Marks National Wildlife Refuge'
 description: 'Internships in the U.S. Fish and Wildlife Service can lead to exciting hands-on experiences, like STEP student John Cooper’s prescribed fire training in Florida.'
 tags:
     - 'Prescribed Fire'

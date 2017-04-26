@@ -1,5 +1,5 @@
 ---
-title: 'Protecting Military Readiness and the Iconic Gopher Tortoise at the Same Time'
+title: 'Protecting military readiness and the iconic gopher tortoise at the same time'
 subtitle: 'Credit Strategy Looks to Add More Outdoor Recreation Opportunities'
 date: '2017-03-24'
 type: feature

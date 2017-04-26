@@ -1,5 +1,5 @@
 ---
-title: 'Bear Biologist Maria Davidson Educates People, Relocates Wayward Bears'
+title: 'Bear biologist Maria Davidson educates people, relocates wayward bears'
 description: 'State of Louisiana employee Maria Davidson’s public outreach, relocation of “nuisance” bear and partnership efforts has helped the Louisiana black bear population recover.'
 tags:
     - LDWF

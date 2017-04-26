@@ -1,5 +1,5 @@
 ---
-title: 'Sea Level Rise Threatens Cape Romain National Wildlife Refuge'
+title: 'Sea level rise threatens Cape Romain National Wildlife Refuge'
 description: 'Cape Romain National Wildlife Refuge in South Carolina serves as a living laboratory for the U.S. Fish and Wildlife Service to study the impacts of rising sea levels on coastal wildlife and habitats.'
 tags:
     - 'South Carolina'

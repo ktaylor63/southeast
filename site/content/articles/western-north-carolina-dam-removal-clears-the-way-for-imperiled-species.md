@@ -1,5 +1,5 @@
 ---
-title: 'Western North Carolina Dam Removal Clears the Way for Imperiled Species'
+title: 'Western North Carolina dam removal clears the way for imperiled species'
 date: '2010-01-25'
 hero:
     name: dillsboro-dam.jpg

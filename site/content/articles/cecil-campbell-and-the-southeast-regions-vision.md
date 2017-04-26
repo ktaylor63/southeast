@@ -1,5 +1,5 @@
 ---
-title: 'Cecil, Campbell, and the Southeast Region’s Vision'
+title: 'Cecil, Campbell, and the Southeast Region’s vision'
 author: 'Jeffrey Fleming, External Affairs'
 date: '2016-08-22'
 hero:

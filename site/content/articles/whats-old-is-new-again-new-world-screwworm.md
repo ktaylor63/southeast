@@ -1,5 +1,5 @@
 ---
-title: 'Whats Old is New Again (New World Screwworm, That is)'
+title: 'Whats old is new again (New World screwworm, that is)'
 hero:
     name: key-deer-screwworm-response.jpg
     alt: 'A small deer with antlers in front of a road sign on the side of a road.'

@@ -1,5 +1,6 @@
 ---
 title: 'Biologists on bases: Fish and Wildlife joins the military'
+description: 'Melanie Kaeser is embedded with the military at Tyndall Air Force Base. She patrols the pine forests and swampy wetlands as F-16s and F-22s maneuver overhead. Her mission: protect those in harm’s way &mdash; the gopher tortoises, the St. Andrews Beach mice and the Godfrey’s butterworts.'
 date: '2017-04-26'
 author: 'Dan Chapman, Public Affairs Specialist'
 type: feature

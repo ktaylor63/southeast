@@ -1,5 +1,5 @@
 ---
-title: 'Sea Turtle Monitoring at Hobe Sound National Wildlife Refuge'
+title: 'Sea turtle monitoring at Hobe Sound National Wildlife Refuge'
 description: 'Former seasonal biological technician recounts conducting nesting sea turtle surveys on a barrier island in Florida.'
 hero:
     name: hobe-sound-nwr-sunrise.jpg

@@ -1,5 +1,5 @@
 ---
-title: 'Oyster reef Project Designed to Aid Pelican Island'
+title: 'Oyster reef project designed to aid pelican island'
 author: 'Ken Warren, South Florida Ecological Services Office'
 date: '2017-03-10'
 hero:

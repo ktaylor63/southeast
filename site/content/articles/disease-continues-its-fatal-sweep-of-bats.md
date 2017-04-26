@@ -1,5 +1,5 @@
 ---
-title: 'Disease Continues its Fatal Sweep of Bats'
+title: 'Disease continues its fatal sweep of bats'
 type: feature
 hero:
     name: tri-colored-bat-white-nose-syndrome.jpg

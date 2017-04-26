@@ -1,5 +1,5 @@
 ---
-title: 'Debbie Fuller: Working Hard at Work Worth Doing'
+title: 'Debbie Fuller: working hard at work worth doing'
 description: 'Endangered Species Coordinator Debbie Fuller reflects on the opportunity to work hard at work worth doing: to help the threatened Louisiana black bear population recover.'
 tags:
     - Employees

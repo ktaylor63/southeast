@@ -1,5 +1,5 @@
 ---
-title: 'Okefenokee Firefighters Return the Favor to Western Firefighters'
+title: 'Okefenokee firefighters return the favor to western firefighters'
 description: 'After receiving help from firefighters across America to manage fires in 2007 and 2011-2012, firefighters at Okefenokee National Wildlife Refuge return the favor by heading west to assist with fires in Idaho, Oregon, California and Washington.'
 tags:
     - 'Prescribed Fire'

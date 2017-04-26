@@ -1,5 +1,5 @@
 ---
-title: 'Burning for the Birds at Piedmont National Wildlife Refuge'
+title: 'Burning for the birds at Piedmont National Wildlife Refuge'
 description: 'Over a decade of prescribed fire management on a Georgia national wildlife refuge yields big benefits for the protected red-cockaded woodpecker.'
 hero:
     link: 'https://flic.kr/p/ciG2q3'

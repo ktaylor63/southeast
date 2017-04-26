@@ -1,5 +1,5 @@
 ---
-title: 'Louisiana Black Bear’s Survival Depends on People, says Biologist'
+title: 'Louisiana black bear’s survival depends on people, says biologist'
 description: 'U.S. Geological Survey biologist Joseph Clark, who has many years’ experience researching various wild animals, is impressed by the Louisiana black bear’s intelligence and natural resilience.'
 tags:
     - Lafayette

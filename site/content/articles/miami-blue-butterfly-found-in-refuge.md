@@ -1,5 +1,5 @@
 ---
-title: 'Rare Miami Blue Butterflies Discovered in Great White Heron National Wildlife Refuge'
+title: 'Rare Miami blue butterflies discovered in Great White Heron National Wildlife Refuge'
 description: 'A U.S. Fish and Wildlife Service employee documents the first sightings of rare, endangered butterflies on a refuge in Florida.'
 tags:
     - 'Endangered Species Act'

@@ -1,5 +1,5 @@
 ---
-title: 'Keith Weaver: From Tagging, Tracking and Naming, He Knows the Bears of the Tensas River Basin'
+title: 'Keith Weaver: from tagging, tracking and naming, he knows the bears of the Tensas River Basin'
 description: 'A U.S. Fish and Wildlife Service biologist-turned-project leader recalls efforts throughout his career to recover the Louisiana black bear.'
 tags:
     - Arkansas
