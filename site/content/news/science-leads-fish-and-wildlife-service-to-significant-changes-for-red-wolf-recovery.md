@@ -7,9 +7,9 @@ hero:
     caption: 'Adult Red wolf. Photo by Brad McPhee, Defiance Zoo and Aquarium.'
 tags:
     - 'North Carolina'
-    - 'Red Wolf'
     - Recovery
-updated: 'November 9th, 2016'
+    - 'Red Wolf'
+updated: 'April 24th, 2017'
 ---
 Recovery of the red wolf in the wild is feasible with significant changes that must be implemented to secure the captive and wild populations.
 
@@ -39,14 +39,12 @@ The Service recognizes questions remain about the validity of the red wolf as a 
 
 he red wolf’s historical range has been a relatively consistent source of debate given different interpretations and limited historical specimens. The Wildlife Management Institute concluded that an accurate depiction of the red wolf’s range includes North Carolina along with all or parts of a significant part of the Southeast United States, which is larger than originally identified. The recovery team generally agrees with WMI’s conclusion.
 
-To learn more about today’s announcement, download the [Service’s decision memorandum](https://fws.gov/redwolf/docs/recommended-decisions-in-response-to-red-wolf-recovery-program-evaluation.pdf), the [recovery team's report](https://fws.gov/redwolf/docs/red-wolf-recovery-team-recommendations-facilitated-by-group-solutions-inc.pdf), the [population viability assessment](https://fws.gov/redwolf/docs/red-wolf-population-viability-analysis-faust-et-al-2016.pdf) [and other background on the program's evaluation page](https://www.fws.gov/redwolf/evaluation.html).
+To learn more about today’s announcement, download the [Service’s decision memorandum](/pdf/memo/recommended-decisions-in-response-to-red-wolf-recovery-program-evaluation.pdf), the [recovery team's report](/pdf/report/red-wolf-recovery-team-recommendations-facilitated-by-group-solutions-inc.pdf), the [population viability assessment](/pdf/report/red-wolf-population-viability-analysis-faust-et-al-2016.pdf) [and other background on the program's evaluation page](https://www.fws.gov/redwolf/evaluation.html).
 
 ## Listen to the Media Conference Call
 
-<audio src="https://fws.gov/southeast/audio/red-wolf-announcement-media-call-09122016.mp3" controls="">
-
-Your browser does not support the `audio` element. [](https://fws.gov/southeast/audio/red-wolf-announcement-media-call-09122016.mp3)Download the mp3 instead.
-
+<audio src="/audio/red-wolf-announces-changes-to-recovery-program-media-call-09122016.mp3" controls="">
+  <p>Your browser does not support the <pre>audio</pre> element. <a href="/audio/red-wolf-announces-changes-to-recovery-program-media-call-09122016.mp3">Download the mp3 instead.</a></p>
 </audio>
 
-[Download the transcript](https://fws.gov/southeast/audio/transcripts/red-wolf-announcement-09122016.pdf).
+[Download the transcript](/audio/transcripts/red-wolf-announces-changes-to-recovery-program-media-call-09122016.pdf).
