@@ -21,8 +21,10 @@
       <li class='scroller-list--item'>
         <a href='{{ .Page.Permalink }}'>
           <div class='icon-date'>
-            {{ if .Page.Params.hero }}
+            {{ if .Page.Params.hero.name }}
             <img {{ if lt $index $lazyLoadLimit }}src{{ else }}data-src{{ end }}='{{ $.Site.BaseURL }}images/hero/small/{{ .Page.Params.hero.name }}' alt='{{ .Page.Params.hero.alt }}'/>
+            {{ else if .Page.Params.hero.video}}
+            <iframe width="150px" src="https://www.youtube.com/embed/{{ .Page.Params.hero.video }}" frameborder="0" allowfullscreen></iframe>
             {{ end }}
             {{ if not .Page.Date.IsZero }}
             <span>{{ .Page.Date.Format "Jan 2, 2006"}}</span>

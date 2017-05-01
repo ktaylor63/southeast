@@ -8,6 +8,15 @@ iframe[src*="youtube.com/embed"] {
   margin: $leading 0;
 }
 
+.hero,
+.card,
+.feature-news-summary,
+.feature-article-summary__hero {
+  iframe[src*="youtube.com/embed"] {
+    margin: 0;
+  }
+}
+
 video::cue {
    background-image: linear-gradient(to bottom, dimgray, lightgray);
    color: papayawhip;

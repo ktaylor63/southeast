@@ -1,5 +1,7 @@
 section class="card"
-  {{ if .Params.hero.name }}
+  {{ if .Params.hero.video }}
+    iframe width="100%" height="100%" src="https://www.youtube.com/embed/{{ .Params.hero.video }}" frameborder="0" allowfullscreen="true"
+  {{ else if .Params.hero.name }}
   div.card-hero
     a href="{{ .Permalink }}"
       img sizes="100vw" srcset="{{ .Site.BaseURL }}images/hero/small/{{ .Params.hero.name }} 450w, {{ .Site.BaseURL }}images/hero/medium/{{ .Params.hero.name }} 850w" src="{{ .Site.BaseURL }}images/hero/small/{{ .Params.hero.name }}" alt="{{ .Params.hero.alt }}"
