@@ -1,5 +1,5 @@
 ---
-title: 'Support and cooperation cure the New World Screwworm Infestation in the Keys'
+title: 'Support and cooperation cure the New World screwworm infestation in the Keys'
 author: 'Diane Borden-Billiot, Southwest Louisiana NWR Complex'
 date: '2017-04-12'
 hero:
