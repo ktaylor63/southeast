@@ -36,7 +36,7 @@
     "watchify": "^3.9.0"
   },
   "dependencies": {
-    "async": "^2.1.5",
+    "async": "^2.4.0",
     "leaflet": "^1.0.3",
     "leaflet.defaultextent": "0.0.3",
     "leaflet.featuregroup.subgroup": "^1.0.2",
