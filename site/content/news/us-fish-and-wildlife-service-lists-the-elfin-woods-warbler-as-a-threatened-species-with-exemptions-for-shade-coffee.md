@@ -1,6 +1,6 @@
 ---
-title: 'U.S. Fish and Wildlife Service Lists the Elfin-Woods Warbler as a Threatened Species with Exemptions for Shade Coffee'
-subtitle: 'Also Proposes Critical Habitat and Releases Economic Analysis'
+title: 'U.S. Fish and Wildlife Service lists the elfin-woods warbler as a threatened species with exemptions for shade coffee'
+subtitle: 'Also proposes critical habitat and releases economic analysis'
 date: '2016-06-21'
 hero:
     name: elfin-woods-warbler.jpg
@@ -8,9 +8,10 @@ hero:
     link: 'https://flic.kr/p/9U6RfW'
     caption: 'Elfin-woods warbler. Photo by Mike Morel, USFWS.'
 tags:
-    - 'Puerto Rico'
+    - 'Elfin-Woods Warbler'
     - 'Endangered Species Act'
-updated: 'November 9th, 2016'
+    - 'Puerto Rico'
+updated: 'April 27th, 2017'
 ---
 Faced with fewer suitable habitat areas, coupled with a declining population, the elfin-woods warbler is now listed as a threatened species under the Endangered Species Act (ESA), the U.S. Fish and Wildlife Service announced today.  This action takes effect July 22, 2016, 30 days after its publication in the [_Federal Register_](https://www.federalregister.gov/)_._
 

@@ -1,14 +1,15 @@
 ---
-title: Service Proposes to List the Elfin-woods Warbler
+title: 'Service proposes to list the elfin-woods warbler'
 date: '2015-09-29'
 hero:
-  name: elfin-woods-warbler.jpg
-  alt: A white breasted bird with blueish grey feathers.
-  link: https://flic.kr/p/9U6RfW
-  caption: Elfin-woods warbler. Photo by Mike Morel, USFWS.
+    name: elfin-woods-warbler.jpg
+    alt: 'A white breasted bird with blueish grey feathers.'
+    link: 'https://flic.kr/p/9U6RfW'
+    caption: 'Elfin-woods warbler. Photo by Mike Morel, USFWS.'
 tags:
- - Elfin-woods warbler
- - Puerto Rico
+    - 'Elfin-Woods Warbler'
+    - 'Puerto Rico'
+updated: 'April 27th, 2017'
 ---
 
 Faced with fewer suitable habitat areas coupled with a declining population, the Elfin-woods warbler warrants listing as a threatened species under the Endangered Species Act (ESA).  The U.S. Fish and Wildlife Service is opening a 60-day public comment period on the proposal to add the warbler to the federal list of threatened and endangered species.
