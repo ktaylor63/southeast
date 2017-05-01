@@ -4,7 +4,16 @@
   "description": "",
   "main": "index.js",
   "browserify": {
-      "transform": [["babelify", { "presets": ["es2015"] }]]
+    "transform": [
+      [
+        "babelify",
+        {
+          "presets": [
+            "es2015"
+          ]
+        }
+      ]
+    ]
   },
   "scripts": {
     "browserify": "browserify index.js | uglifyjs -mc > ../../../dist/js/90-day-findings.js",
@@ -25,7 +34,7 @@
     "watchify": "^3.9.0"
   },
   "dependencies": {
-    "async": "^2.1.5",
+    "async": "^2.4.0",
     "xhr": "^2.4.0"
   }
 }
