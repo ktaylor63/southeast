@@ -1,0 +1,26 @@
+ul.search-results {
+  display: block;
+
+  &:empty {
+    display: none;
+  }
+
+  background: $color-accent;
+  height: 100vh;
+  padding: 0;
+  position: relative;
+  z-index: 5;
+
+  li {
+    height: auto !important;
+
+    a {
+      background: $color-accent;
+      height: auto !important;
+      line-height: 24px;
+      padding: .5em 40px;
+      text-overflow: inherit;
+      white-space: normal;
+    }
+  }
+}

@@ -35,6 +35,7 @@
     "lodash.throttle": "^4.1.1",
     "mark.js": "https://github.com/julmot/mark.js/archive/7.0.1.tar.gz",
     "parallax-scroll": "^0.3.0",
+    "string": "^3.3.3",
     "window.requestanimationframe": "^1.0.1",
     "xhr": "^2.2.0"
   },

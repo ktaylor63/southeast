@@ -24,6 +24,7 @@ const nav = require('fws-scrollnav');
 const glossary = require('fws-glossary');
 const contacts = require('./contacts');
 const shortList = require('./short-list');
+const search = require('./search');
 
 const marker = new Marker(document.querySelector('#content'));
 const parallax = new Parallax('.parallax', { speed: 0.5 });
@@ -229,3 +230,7 @@ function lazyLoad(e) {
     nearestLazyImg.removeAttribute(attribute);
   }
 }
+
+// SITE SEARCH
+const searchInput = document.getElementById('site-search');
+search.init(searchInput, dataURL)
