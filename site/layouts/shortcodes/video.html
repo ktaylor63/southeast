@@ -1,0 +1,4 @@
+<figure class="photo-center">
+  <video src='/video/{{ .Get "name" }}' controls="true"></video>
+  <figcaption>{{ .Get "caption" }} <a href='{{ if isset .Params "link" }}{{ .Get "link" }}{{ else }}/video/{{ .Get "name" }}{{ end }}'>Download the video.</a></figcaption>
+</figure>
