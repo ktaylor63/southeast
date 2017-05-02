@@ -1,12 +1,13 @@
 ---
 title: Resources
 type: next-steps
+description: 'A list of resources used to produce the Next Steps document.'
 scrollnav: no-scrollnav
 hero:
     name: chenier-plain-abundant-birdlife.jpg
     alt: 'A flock of hundreds birds of various species in a marsh on the Chenier Plain.'
     caption: 'Mixed flock on the Cheneir Plain. Photo by Woody Woodrow, USFWS.'
-updated: 'February 3rd, 2017'
+updated: 'May 1st, 2017'
 tags:
     - Gulf
 ---
@@ -251,7 +252,7 @@ tags:
 *   Bishop, A.A., A. Barenberg, N. Colpe, and R. Grosse. 2011\. Nebraska Land Cover Development, Rainwater Basin Joint Venture Report.
 *   [Bishop, A.A., and M. Vrtiska. 2008\. Effects of the Wetland Reserve Program on Waterfowl Carrying Capacity in the Rainwater Basin Region of South-central Nebraska. 51 pages.](http://www.fwspubs.org/doi/suppl/10.3996/072012-JFWM-062/suppl_file/10.3996_072012-jfwm-062.s2.pdf)
 *   Condra, G.E. 1939\. An Outline of the Principal Natural Resources of Nebraska and Their Conservation. University of Nebraska Conservation and Survey Division Bulletin No. 20\. 40 pages.
-*   McMutrey, M.D., R. Craig, and G. Schildman. 1972\. Nebraska Wetland Survey. Habitat Work Plan K-71\. Nebraska Game and parks Commission, Lincoln, Nebraska, USA.
+*   McMutrey, M.D., R. Craig, and G. Schildman. 1972\. Nebraska Wetland Survey. Habitat Work Plan K-71\. Nebraska Game and Parks Commission, Lincoln, Nebraska, USA.
 *   [Rainwater Basin Joint Venture. 2013\. Rainwater Basin Joint Venture Implementation Plan. 67 pages.](http://rwbjv.org//wp-content/uploads/2012/02/Rainwater-Basin-Joint-Venture-Implementation-Plan-2013.pdf)
 *   [Rainwater Basin Joint Venture. 2013\. Rainwater Basin Joint Venture Shorebird Plan. 72 pages.](http://rwbjv.org//wp-content/uploads/2012/02/Rainwater-Basin-Joint-Venture-Shorebird-Plan-2013.pdf)
 *   [Rainwater Basin Joint Venture. 2013\. Rainwater Basin Joint Venture Waterbird Conservation Plan. 59 pages.](http://rwbjv.org//wp-content/uploads/2012/02/Rainwater-Basin-Joint-Venture-Waterbird-Plan-2013.pdf)
