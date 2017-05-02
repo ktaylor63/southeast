@@ -2,18 +2,19 @@
 title: 'Okefenokee firefighters return the favor to western firefighters'
 description: 'After receiving help from firefighters across America to manage fires in 2007 and 2011-2012, firefighters at Okefenokee National Wildlife Refuge return the favor by heading west to assist with fires in Idaho, Oregon, California and Washington.'
 tags:
-    - 'Prescribed Fire'
-    - Okefenokee
-    - 'National Wildlife Refuge System'
-    - Georgia
     - Employees
+    - Georgia
+    - 'Honey Prairie Fire'
+    - 'National Wildlife Refuge System'
+    - 'Okefenokee National Wildlife Refuge'
+    - 'Prescribed Fire'
 hero:
     link: 'https://flic.kr/p/hGNuiE'
     caption: 'The U. S. Fish & Wildlife helicopter and firefighters during the North Fork and Little Queens Fires, Sawtooth National Forest near Atlanta, Idaho. L to R – Reggie Forcine (Okefenokee), Cory Bryant (Okefenokee), Ryan Roche (Lake Wales Ridge, Florida), Paul Ryan, (J.N. “Ding” Darling, Florida).'
     alt: 'Four firefighers pose for a photo in front of a Fish and Wildlife Helicopter with mountains in the background'
     name: okefenokee-firefighters-helecopter.jpg
 date: '2013-11-06'
-updated: 'March 2nd, 2017'
+updated: 'May 2nd, 2017'
 ---
 
 When [Okefenokee National Wildlife Refuge](http://www.fws.gov/refuge/okefenokee/) had its extensive fires in 2007 and 2011-2012, hundreds of firefighters from nearly every state came to our assistance. This past summer, Okefenokee’s fire staff lent a hand at fires burning out West – in Idaho, Oregon, California, and Washington state.
