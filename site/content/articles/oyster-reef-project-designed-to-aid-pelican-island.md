@@ -7,11 +7,12 @@ hero:
     alt: 'Employees and volunteers in personal flotation devices unload oyster shell from a boat.'
     caption: 'USFWS employees and volunteers offloading bags of shell for the oyster reef project. Photo by Sandee Dawdy, Pelican Island NWR volunteer.'
 tags:
+    - E-Grits
     - Florida
     - 'Oyster Reef'
     - 'Pelican Island National Wildlife Refuge'
     - 'Vero Beach'
-updated: 'April 20th, 2017'
+updated: 'May 2nd, 2017'
 ---
 
 Dozens of people got their feet wet in the Indian River Lagoon on February 28, while building an oyster reef breakwater at Pelican Island National Wildlife Refuge in Vero Beach, Florida. The reef is designed to prevent further erosion of iconic Pelican Island, which has already decreased in size by 60 percent from its original 5.5 acres.

@@ -12,6 +12,7 @@ tags:
   - Mississippi State University
   - RESTORE Council
   - Landscape Conservation Cooperative
+  - E-Grits
 ---
 
 Remember the story of the blind men and the elephant? A group of blind men each feel a different part of an elephant so they end up having widely different interpretations of what the whole elephant looks like. A similar situation exists with land conservation in the Gulf of Mexico region. 
