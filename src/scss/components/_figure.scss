@@ -4,6 +4,10 @@ figure {
   img {
     display: block;
   }
+
+  video {
+    margin-bottom: 0;
+  }
 }
 
 figcaption {
@@ -17,11 +21,7 @@ figcaption {
   }
 }
 
-img {
-  height: auto;
-  max-width: 100%;
-}
-
+img,
 video {
   height: auto;
   max-width: 100%;
