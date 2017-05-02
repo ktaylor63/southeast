@@ -198,7 +198,7 @@ number,status,fed_register
 51144B-0,Issued,N/A
 008077-2,Needs Drafting,Noticed for 30 days
 51587B-0,Cancelled,N/A
-020890-4,In FO for Review,Noticed for 30 days
+020890-4,Awaiting signature,Noticed for 30 days
 237537-1,Issued,Noticed for 30 days
 22570A-1,Issued,Noticed for 30 days
 52814B-0,Issued,N/A
@@ -363,7 +363,7 @@ number,status,fed_register
 94340B-0,Issued,N/A
 98507B-0,Issued,N/A
 206894-1,In RO for Review,N/A
-114069-3,In FO for Review,Noticed for 30 days
+114069-3,Awaiting Input from Applicant,Noticed for 30 days
 070796-8,Issued,Noticed for 30 days
 98486B-0,Issued,N/A
 98596B-0,In RO for Review,Noticed for 30 days
