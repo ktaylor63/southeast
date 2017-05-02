@@ -24,7 +24,7 @@ tags:
     - Recovery
     - Reinita
     - 'Reinita De Bosque Enano'
-updated: 'April 27th, 2017'
+updated: 'May 1st, 2017'
 ---
 
 - **Taxon**: Bird
@@ -44,11 +44,11 @@ The elfin-woods warbler is one of over 120 species of New World warblers, or woo
 The elfin-woods warbler is about 4.9 inches in length and weighs about a third of an ounce (8
 grams). The adult’s upper body is predominantly black and white, with white patches on ear-covers and neck, incomplete eye ring, and black crown. Immature elfin-woods warblers and adults have similar patterns but differ in coloration. Juveniles have grayish-green and yellowish-green color on the head and underparts while adults are black and white. Its calls are a series of short, rapidly uttered, unmusical notes in one pitch, increasing in volume and ending with a short series of distinct double notes.
 
-{{< figure class="photo-center" src="/images/pages/elfin-woods-warbler-juvenile.jpg" alt="A small, greyish-brown bird perched on a tree branch." caption="Juvenile elfin-woods warbler in Maricao, Puerto Rico. Photo by Mike Morel." link="https://flic.kr/p/9U6MK9" >}}
+{{< figure class="photo-center" src="/images/pages/elfin-woods-warbler-juvenile.jpg" alt="A small, greyish-brown bird perched on a tree branch." caption="Juvenile elfin-woods warbler in Maricao, Puerto Rico. Photo © Carlos Delannoy, used with permission." >}}
 
 Its breeding season extends from March to June. Pairs of elfin-woods warblers weave a cup nest of rootlets and fibers lined with leaves of grasses and down feathers. The warbler’s nest is found entangled on vines and branches or inside tree cavities.
 
-{{< figure class="photo-center" src="/images/pages/elfin-woods-warbler-adult.jpg" alt="A small, blue/grey bird with grey/white breast perched on a tree branch." caption="Adult elfin-woods warbler in Maricao, Puerto Rico. Photo by Mike Morel." link="https://flic.kr/p/9U44kZ" >}}
+{{< figure class="photo-center" src="/images/pages/elfin-woods-warbler-adult.jpg" alt="A small, blue/grey bird with grey/white breast and long pointed beak." caption="Adult elfin-woods warbler in Maricao, Puerto Rico. Photo © Carlos Delannoy, used with permission." >}}
 
 ## Habitat 
 
