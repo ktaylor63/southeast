@@ -1,14 +1,16 @@
 ---
-title: Service Presents First Annual Fire Safety Award
+title: 'Service Presents First Annual Fire Safety Award'
 date: '2014-04-16'
 hero:
-  name: okefenokee-fire.jpg
-  alt: An aerial photograph of a forest with dark soil after a fire.
-  link: https://flic.kr/p/o56XC4
-  caption: A forest stand on Okefenokee National Wildlife Refuge after a wildfire. Photo by USFWS.
+    name: okefenokee-fire.jpg
+    alt: 'An aerial photograph of a forest with dark soil after a fire.'
+    link: 'https://flic.kr/p/o56XC4'
+    caption: 'A forest stand on Okefenokee National Wildlife Refuge after a wildfire. Photo by USFWS.'
 tags:
-  - Fire
-  - Award
+    - Award
+    - Fire
+    - 'Honey Prairie Fire'
+updated: 'May 2nd, 2017'
 ---
 
 In a formal ceremony on April 14, 2014, at its Southeast Region Office in Atlanta, Georgia, the U.S. Fish and Wildlife Service (FWS) presented its first annual National Fire Safety Award to Rocky Chesser, a long-time maintenance and equipment supervisor with fire qualifications at [Okefenokee National Wildlife Refuge](http://www.fws.gov/okefenokee/).
