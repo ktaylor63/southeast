@@ -1,0 +1,28 @@
+{{ $tag := lower (.Get "tag") | urlize }}
+{{ $section := .Get "section" }}
+{{ $pages := where (index .Site.Taxonomies.tags $tag) "Page.Section" $section }}
+{{ $lazyLoadLimit := 7 }}
+
+<ol class='infinite-list card-list'>
+{{ range $index, $element := $pages }}
+  <li class='infinite-list--item card card-text'>
+    {{ if .Page.Params.type }}<p class='infinite-list--type'>{{ .Page.Params.type }}</p>{{ end }}
+    <a href='{{ .Page.Permalink }}'>
+    <header class='infinite-list--header'>
+      <div class='infinite-list--img-date'>
+        {{ if .Page.Params.hero.name }}
+        <img {{ if lt $index $lazyLoadLimit }}src{{ else }}data-src{{ end }}='{{ $.Site.BaseURL }}images/hero/small/{{ .Page.Params.hero.name }}' alt='{{ .Page.Params.hero.alt }}'/>
+        {{ end }}
+        {{ if not .Page.Date.IsZero }}
+        <span class="infinite-list--date">{{ .Page.Date.Format "Jan 2, 2006"}}</span>
+        {{ end }}
+      </div>
+      <div class='infinite-list--title'>
+        <h3>{{ .Page.Title }}</h3>
+      </div>
+    </header>
+    </a>
+    <p class='infinite-list--summary'>{{ if .Page.Description }}{{ .Page.Description }}{{ else }}{{ .Page.Summary }}{{ end }} <a href='{{ .Page.Permalink }}'>Read the full story...</a></p>
+  </li>
+{{ end }}
+</ol>

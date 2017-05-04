@@ -57,7 +57,7 @@ Authorities set up a command post in Fargo, on the refuge’s western edge, then
 
 In some respects, the blaze is hardly news. Okefenokee has been catching on fire for as long as it’s been a swamp. And fire can be good: flames burn undergrowth away, allowing trees to grow and thrive. That provides a habitat for countless creatures, including some [at-risk](/endangered-species-act/at-risk-species) and others [under federal protection](/endangered-species-act).
 
-“The swamp’s residents – alligators, bears, deer, an array of birds, reptiles and more – know how to survive a fire,” said Josh O’Connor, a Service fire specialist. Gators burrow into the mud. Deer and bear run. Birds take wing. Various other creatures dive into burrows, find mud or somehow protect themselves against the approaching flames.
+The swamp’s residents – alligators, bears, deer, an array of birds, reptiles and more – know how to survive a fire, said Josh O’Connor, a Service fire specialist. Gators burrow into the mud. Deer and bear run. Birds take wing. Various other creatures dive into burrows, find mud or somehow protect themselves against the approaching flames.
 
 “Because they’re living in an environment with frequent fires, they’ve learned how to adapt,” O’Connor said. “We humans have not.”
 
