@@ -41,13 +41,7 @@ function changeHandler(filepath) {
   if ( isHeroImage(filepath) ) hero.process(filepath);
   if ( isContentImage(filepath) ) images.process(filepath);
   if ( isImageToCopy(filepath) ) images.copy(filepath);
-  if ( isContentFile(filepath) ) {
-    frontmatter.update(filepath, (err) => {
-      if (err) console.error(err);
-      hugo.build(devUrl);
-    });
-    return; // Return here so we don't trigger two hugo.build()s
-  }
+  if ( isContentFile(filepath) ) frontmatter.update(filepath);
   if ( isHugoFile(filepath) ) hugo.build(devUrl);
 }
 
