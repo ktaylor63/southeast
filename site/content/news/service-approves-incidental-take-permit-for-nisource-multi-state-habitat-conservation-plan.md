@@ -9,6 +9,7 @@ hero:
 tags:
  - Habitat Conservation Plan
  - 'North Carolina'
+ - Lafayette
  - Louisiana
  - Tennessee
  - Mississippi

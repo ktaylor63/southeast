@@ -16,6 +16,7 @@ tags:
     - Georgia
     - 'Puerto Rico'
     - Louisiana
+    - Lafayette
     - US Virgin Islands
 updated: 'October 3rd, 2016'
 ---

@@ -9,13 +9,13 @@ hero:
 tags:
     - 'Controlled Burn'
     - 'Oil Spill'
-    - NWRS
+    - National Wildlife Refuge System
 updated: 'October 21st, 2016'
 ---
 
 The U.S. Fish and Wildlife Service and the U.S. Coast Guard are working with the Louisiana Oil Spill Coordinator Office, Texas Petroleum Investment Company and Forefront Emergency Management to mitigate an estimated 50-barrel crude oil release on Delta National Wildlife Refuge.  
 
-A silver sheen was observed by an aerial overflight on May 28, 2014\. Texas Petroleum Investment Company (identified as the responsible party), and Forefront Emergency Management responded to conduct an initial assessment, though inclement weather prevented a full response.  
+A silver sheen was observed by an aerial overflight on May 28, 2014. Texas Petroleum Investment Company (identified as the responsible party), and Forefront Emergency Management responded to conduct an initial assessment, though inclement weather prevented a full response.  
 
 On May 29, 2014, the U.S. Fish and Wildlife Service, Coast Guard, Texas Petroleum Investment Company, and Forefront Emergency Management formed a Unified Command.  Clean-up crews gathered to evaluate the site and determine the best response to mitigate effects of this spill.  
 

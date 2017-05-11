@@ -12,6 +12,7 @@ tags:
     - Tennessee
     - Alabama
     - Florida
+    - Lafayette
     - Louisiana
     - Kentucky
 updated: 'October 3rd, 2016'

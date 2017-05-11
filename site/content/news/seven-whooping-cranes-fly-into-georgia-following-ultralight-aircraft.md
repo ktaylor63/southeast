@@ -10,6 +10,7 @@ tags:
     - Georgia
     - Alabama
     - Florida
+    - Lafayette
     - Louisiana
     - Kentucky
     - Tennessee

@@ -11,6 +11,7 @@ tags:
     - Florida
     - Alabama
     - 'Whooping Crane'
+    - Lafayette
     - Louisiana
     - Kentucky
     - Tennessee

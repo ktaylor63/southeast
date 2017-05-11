@@ -11,6 +11,7 @@ tags:
     - Alabama
     - Florida
     - Georgia
+    - Lafayette
     - Louisiana
     - 'North Carolina'
 updated: 'October 6th, 2016'

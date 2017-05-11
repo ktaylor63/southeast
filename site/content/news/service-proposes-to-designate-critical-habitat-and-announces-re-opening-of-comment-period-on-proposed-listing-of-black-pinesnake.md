@@ -12,6 +12,7 @@ tags:
     - 'Black Pinesnake'
     - 'Critical Habitat'
     - 'Endangered Species Act'
+    - Lafayette
     - Mississippi
 updated: 'April 11th, 2017'
 ---

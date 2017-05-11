@@ -8,13 +8,14 @@ hero:
 date: '2010-04-09'
 tags:
     - Alabama
-    - 'Mississippi sandhill crane'
-    - 'Alabama lampmussel'
+    - 'Mississippi Sandhill Crane'
+    - 'Alabama Lampmussel'
     - Pondberry
-    - 'Louisiana quillwort'
+    - 'Louisiana Quillwort'
+    - Lafayette
     - Louisiana
     - Mississippi
-    - 'Yellow-blotched map turtle'
+    - 'Yellow-blotched Map Turtle'
 updated: 'October 6th, 2016'
 ---
 

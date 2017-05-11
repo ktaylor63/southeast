@@ -8,7 +8,8 @@ hero:
     caption: 'A bald eagle prepares for flight. Photo by Richard Keen / RMA.'
 tags:
     - Reward
-    - 'Bald eagle'
+    - 'Bald Eagle'
+    - Lafayette
     - Louisiana
 updated: 'October 20th, 2016'
 ---

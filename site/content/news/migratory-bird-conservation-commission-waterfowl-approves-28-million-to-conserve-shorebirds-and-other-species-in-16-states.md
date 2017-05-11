@@ -9,6 +9,7 @@ hero:
 tags:
     - Grants
     - Arkansas
+    - Lafayette
     - Louisiana
     - Mississippi
     - North Carolina

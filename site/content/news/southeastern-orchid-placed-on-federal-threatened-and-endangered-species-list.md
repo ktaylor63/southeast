@@ -11,6 +11,7 @@ tags:
     - 'Endangered Species Act'
     - Alabama
     - Georgia
+    - Lafayette
     - Mississippi
     - South Carolina
     - Kentucky

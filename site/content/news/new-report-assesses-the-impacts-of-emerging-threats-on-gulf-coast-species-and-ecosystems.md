@@ -9,6 +9,7 @@ tags:
     - Florida
     - Gulf
     - 'Kemps Ridley Sea Turtle'
+    - Lafayette
     - Louisiana
 date: '2015-11-13'
 updated: 'April 21st, 2017'

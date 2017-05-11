@@ -9,6 +9,7 @@ hero:
 tags:
     - Florida
     - Gulf
+    - Lafayette
     - Louisiana
     - Mississippi
 updated: 'April 21st, 2017'

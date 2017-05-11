@@ -9,7 +9,8 @@ hero:
     caption: 'Louisiana black bear cubs. Photo by Brad Young, Mississippi Department of Wildlife, Fisheries and Parks.'
 tags:
     - Recovery
-    - 'Louisiana black bear'
+    - Lafayette
+    - 'Louisiana Black Bear'
     - Louisiana
     - Mississippi
 updated: 'October 20th, 2016'

@@ -10,6 +10,7 @@ tags:
     - Grants
     - Arkansas
     - Florida
+    - Lafayette
     - Louisiana
     - Mississippi
     - South Carolina

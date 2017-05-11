@@ -7,6 +7,7 @@ hero:
     link: 'https://flic.kr/p/bAaxgL'
     caption: 'Waterfowl in flight over Upper Ouachita National Wildlife Refuge lands in Louisiana. Photo by Joseph McGowan, USFWS.'
 tags:
+    - Lafayette
     - Louisiana
     - 'National Wildlife Refuge System'
 updated: 'October 20th, 2016'

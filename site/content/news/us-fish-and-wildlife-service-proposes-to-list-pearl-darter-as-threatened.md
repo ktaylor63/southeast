@@ -11,6 +11,7 @@ updated: 'November 9th, 2016'
 tags:
     - 'Endangered Species Act'
     - Mississippi
+    - Lafayette
     - Louisiana
 ---
 

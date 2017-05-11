@@ -10,7 +10,8 @@ hero:
 tags:
     - Alabama
     - Florida
-    - 'Whooping crane'
+    - 'Whooping Crane'
+    - Lafayette
     - Louisiana
     - Kentucky
     - Tennessee

@@ -8,6 +8,7 @@ hero:
     caption: 'Two juvenile Whooping cranes released from their holding pen fly around on Wheeler National Wildlife Refuge, Decatur, AL. Photo by Bill Gates, USFWS.'
 date: '2011-02-08'
 tags:
+    - Lafayette
     - Louisiana
 updated: 'October 20th, 2016'
 ---

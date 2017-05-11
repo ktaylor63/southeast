@@ -9,6 +9,7 @@ hero:
     position: bottom
 tags:
     - 'Endangered Species Act'
+    - Lafayette
     - Louisiana
 updated: 'November 9th, 2016'
 ---

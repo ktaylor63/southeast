@@ -7,6 +7,7 @@ tags:
     - Florida
     - Georgia
     - 'Puerto Rico'
+    - Lafayette
     - Louisiana
     - Mississippi
     - 'South Carolina'

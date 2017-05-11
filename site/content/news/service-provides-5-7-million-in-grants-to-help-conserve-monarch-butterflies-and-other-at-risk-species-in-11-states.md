@@ -13,6 +13,7 @@ tags:
     - Florida
     - Georgia
     - Alabama
+    - Lafayette
     - Louisiana
     - Mississippi
     - 'South Carolina'

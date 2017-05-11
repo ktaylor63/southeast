@@ -9,6 +9,7 @@ hero:
     position: 'top left'
 tags:
     - Louisiana
+    - Lafayette
     - Education
 updated: 'October 20th, 2016'
 ---

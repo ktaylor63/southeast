@@ -7,9 +7,10 @@ hero:
     link: 'https://flic.kr/p/bECJNP'
     caption: 'Louisiana black bear cubs. Photo by Brad Young, Mississippi Department of Wildlife, Fisheries and Parks.'
 tags:
-    - 'Louisiana black bear'
-    - 'Bottomland hardwood'
+    - 'Louisiana Black Bear'
+    - 'Bottomland Hardwood'
     - Recovery
+    - Lafayette
     - Louisiana
     - 'National Wildlife Refuge System'
 updated: 'October 20th, 2016'

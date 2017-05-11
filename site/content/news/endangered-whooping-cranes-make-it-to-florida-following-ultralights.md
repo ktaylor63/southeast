@@ -13,6 +13,7 @@ tags:
     - Alabama
     - Georgia
     - Louisiana
+    - Lafayette
     - Kentucky
     - Tennessee
 updated: 'March 18th, 2017'

@@ -11,6 +11,7 @@ tags:
     - Alabama
     - Arkansas
     - Georgia
+    - Lafayette
     - Louisiana
     - Mississippi
     - Kentucky

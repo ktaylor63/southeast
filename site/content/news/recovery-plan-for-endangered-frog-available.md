@@ -11,6 +11,7 @@ tags:
     - 'Dusky gopher frog'
     - Mississippi
     - Alabama
+    - Lafayette
     - Louisiana
 updated: 'October 20th, 2016'
 ---

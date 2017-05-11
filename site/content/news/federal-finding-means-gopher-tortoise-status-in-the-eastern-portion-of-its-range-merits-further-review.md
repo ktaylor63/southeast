@@ -10,6 +10,7 @@ tags:
     - 'Gopher Tortoise'
     - Alabama
     - Florida
+    - Lafayette
     - Louisiana
     - Mississippi
     - South Carolina

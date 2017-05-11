@@ -12,6 +12,7 @@ tags:
     - Alabama
     - Florida
     - Georgia
+    - Lafayette
     - Louisiana
     - 'North Carolina'
     - South Carolina

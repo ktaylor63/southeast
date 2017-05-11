@@ -8,7 +8,8 @@ hero:
     caption: 'Poisoned eagle in Louisiana. Photo by Louisiana Department of Wildlife and Fisheries Law Enforcement.'
 tags:
     - Reward
-    - 'Bald eagle'
+    - 'Bald Eagle'
+    - Lafayette
     - Louisiana
 updated: 'October 20th, 2016'
 ---

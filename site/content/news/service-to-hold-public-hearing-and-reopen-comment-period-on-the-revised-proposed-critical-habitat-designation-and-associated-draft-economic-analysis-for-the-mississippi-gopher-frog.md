@@ -10,6 +10,7 @@ tags:
     - 'Critical Habitat'
     - 'Mississippi gopher frog'
     - Mississippi
+    - Lafayette
     - Louisiana
 updated: 'October 26th, 2016'
 ---

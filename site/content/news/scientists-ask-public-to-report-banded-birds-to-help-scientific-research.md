@@ -7,6 +7,7 @@ hero:
     link: 'https://flic.kr/p/8Dc2bJ'
     caption: 'Brown pelicans flying near Queen Bess Island off Grand Isle, LA during BP oil spill response.  Photo by Tom MacKenzie USFWS.'
 tags:
+    - Lafayette
     - Louisiana
 updated: 'October 20th, 2016'
 ---

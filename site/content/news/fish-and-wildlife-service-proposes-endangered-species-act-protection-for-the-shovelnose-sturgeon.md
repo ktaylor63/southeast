@@ -9,6 +9,7 @@ hero:
 tags:
     - 'Shovelnose sturgeon'
     - Arkansas
+    - Lafayette
     - Louisiana
     - Mississippi
     - Kentucky

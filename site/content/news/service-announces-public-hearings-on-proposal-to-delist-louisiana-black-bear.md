@@ -6,11 +6,12 @@ hero:
     alt: 'A Louisiana black bear standing in a grassy clearing'
     caption: 'Louisiana black bear. Credit: Pam McIlhenny, used with permission.'
 tags:
- - Louisiana black bear
- - Recovery
- - Delist
- - Louisiana
- - Mississippi
+  - Lafayette
+  - Louisiana Black Bear
+  - Recovery
+  - Delist
+  - Louisiana
+  - Mississippi
 ---
 
 The U.S. Fish and Wildlife Service is holding two public hearings in Louisiana to give the public opportunities to comment on its May 21, proposal to delist the [Louisiana black bear](/wildlife/mammals/louisiana-black-bear/).

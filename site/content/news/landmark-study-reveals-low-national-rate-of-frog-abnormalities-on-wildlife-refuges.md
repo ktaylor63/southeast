@@ -10,6 +10,7 @@ hero:
 tags:
     - 'National Wildlife Refuge System'
     - Arkansas
+    - Lafayette
     - Louisiana
 updated: 'October 20th, 2016'
 ---

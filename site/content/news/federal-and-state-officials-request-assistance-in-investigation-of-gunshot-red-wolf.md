@@ -8,6 +8,7 @@ hero:
     caption: 'Adult Red wolf. Photo by Brad McPhee, Defiance Zoo and Aquarium.'
 tags:
     - 'Law Enforcement'
+    - Lafayette
     - Louisiana
     - 'North Carolina'
     - 'Red Wolf'

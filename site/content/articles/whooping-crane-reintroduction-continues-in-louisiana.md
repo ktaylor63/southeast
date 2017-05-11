@@ -6,6 +6,7 @@ type: 'Bragging Rights'
 tags:
     - 'Bragging Rights'
     - E-Grits
+    - Lafayette
     - Louisiana
     - 'Whooping Crane'
 hero:

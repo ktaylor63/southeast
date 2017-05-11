@@ -13,6 +13,7 @@ tags:
     - Arkansas
     - Florida
     - Georgia
+    - Lafayette
     - Louisiana
     - Mississippi
     - 'North Carolina'

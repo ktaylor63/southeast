@@ -7,10 +7,11 @@ hero:
     link: 'https://flic.kr/p/8jBSnQ'
     caption: 'Two workers clean an oiled northern gannet. Photo by Bonnie Strawser, USFWS.'
 tags:
-    - 'Oil spill'
+    - 'Oil Spill'
     - Florida
-    - 'Brown pelican'
-    - 'Northern gannet'
+    - 'Brown Pelican'
+    - 'Northern Gannet'
+    - Lafayette
     - Louisiana
 updated: 'October 6th, 2016'
 ---

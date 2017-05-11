@@ -9,6 +9,7 @@ hero:
 tags:
     - Climate
     - Louisiana
+    - Lafayette
 updated: 'October 20th, 2016'
 ---
 

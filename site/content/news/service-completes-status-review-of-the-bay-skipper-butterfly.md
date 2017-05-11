@@ -7,7 +7,8 @@ hero:
     link: 'https://commons.wikimedia.org/wiki/File%3AEuphyes_bayensis_female.jpg'
     caption: 'Female bay skipper. Photo by Charles T. and John R. Bryson <a href=\"http://creativecommons.org/licenses/by/3.0/us/deed.en\">CC BY 3.0 us</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AEuphyes_bayensis_female.jpg\">via Wikimedia Commons</a>.'
 tags:
-    - 'Bay skipper'
+    - 'Bay Skipper'
+    - Lafayette
     - Louisiana
     - Florida
 updated: 'October 21st, 2016'

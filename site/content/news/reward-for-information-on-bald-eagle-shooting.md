@@ -7,7 +7,8 @@ hero:
     caption: 'The gunshot wounds to the eagle were too severe for survival so this representative of our national symbol had to be euthanized. Photo by Adam Caughern.'
 tags:
     - Reward
-    - 'Bald eagle'
+    - 'Bald Eagle'
+    - Lafayette
     - Louisiana
 updated: 'October 20th, 2016'
 ---
