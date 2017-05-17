@@ -2,16 +2,21 @@
 title: 'Cane river dam removal'
 date: '2017-04-13'
 hero:
-    video: '-T8JlCTX-YY'
+    name: cane-river-dam-removal.jpg
+    alt: 'Heavy equipment works away at a decrepit concrete dam.'
+    caption: 'Cane River dam removal in process.'
+    link: 'https://flic.kr/p/Nv6b6A'
 tags:
     - 'Appalachian Elktoe Mussel'
     - Asheville
     - 'Dam Removal'
     - 'North Carolina'
-updated: 'April 27th, 2017'
+updated: 'May 16th, 2017'
 ---
 
 In the fall of 2016, the final piece of concrete was removed from the Cane River Dam, in North Carolina’s Yancey County, completing a process started eight years earlier. Built in the early 20th century, it’s hydropower generating house once provided all the electricity used in the county, but decades ago it was damaged, fell into disrepair, and has deteriorated ever since.
+
+{{< youtube -T8JlCTX-YY >}}
 
 The Cane River is home to the endangered Appalachian elktoe mussel, making it a priority area for U.S. Fish and Wildlife Service, charged with coordinating the recovery of federally endangered species. However, removing the dam has benefits that extend far beyond the Appalachian elktoe. Removing the dam:
 
