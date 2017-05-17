@@ -4,7 +4,7 @@ const endOfLine = require('os').EOL;
 function build(baseURL) {
   baseURL = (baseURL) ? baseURL : process.argv[2];
   console.log(`Base URL: ${baseURL} ${endOfLine}`);
-  const buildDrafts = baseURL.includes('localhost') ? '--buildDrafts=true' : '--buildDrafts=false';
+  const buildDrafts = baseURL.includes('fws.gov/southeast') ? '--buildDrafts=false' : '--buildDrafts=true';
   const command = [
     'hugo',
     '--config=site/config.yml',
