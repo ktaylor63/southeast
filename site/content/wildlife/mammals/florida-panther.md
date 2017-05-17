@@ -1,5 +1,5 @@
 ---
-title: 'Florida Panther'
+title: 'Florida panther'
 scientific: 'Puma concolor coryi'
 type: species-profile
 js: /js/species-profile.js
@@ -9,18 +9,18 @@ aliases:
     - /species/mammal/florida-panther
     - /species/mammals/florida-panther
 tags:
-    - Florida
     - 'Endangered Species'
+    - Florida
     - 'Florida Panther'
-    - Mammal
     - Gulf
+    - Mammal
 hero:
     link: 'https://flic.kr/p/8So6zm'
     caption: 'A Florida panther. Photo by Larry W. Richardson, USFWS.'
     alt: 'A Florida panther walking on a gravel road with a slash pine forest in the background'
     name: florida-panther.jpg
     position: 'left center'
-updated: 'March 8th, 2017'
+updated: 'May 12th, 2017'
 ---
 
 - **Taxon:** Mammal
@@ -33,8 +33,9 @@ Under the current Recovery Plan, established in 2008, the Service will consider 
 
 In 2013, the Service formed a [Florida Panther Recovery Implementation Team](http://www.fws.gov/verobeach/FloridaPantherRIT.html) consisting of members representing the Service, [National Park Service](http://www.nps.gov/), [Florida Fish and Wildlife Conservation Commission](http://myfwc.com/), and other stakeholders, with a mandate to prioritize and facilitate management and research activities that are crucial to the achieving the recovery goals identified in the 2008 Recovery Plan.
 
-## News and Events
-{{< news tag="Florida panther" number="3" type="gallery" >}}
+{{< scroller-list tag="Florida Panther" section="news" >}}
+
+{{< scroller-list tag="Florida Panther" section="articles" >}}
 
 {{< figure class="photo-center" src="/images/pages/florida-panther-kittens-in-den.jpg" alt="Three young Florida panther kittens in a den with bright blue eyes" caption="Florida panther kittens in a den. Photo by David Shindle." link="https://flic.kr/p/GaVyow" >}}
 

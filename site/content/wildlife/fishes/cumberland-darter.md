@@ -1,5 +1,5 @@
 ---
-title: 'Cumberland Darter'
+title: 'Cumberland darter'
 description: 'The Cumberland darter is a small, straw-yellow colored fish with brown markings found in 14 streams in Kentucky and Tennessee. It is protected as an endangered species and is threatened primarily by water pollution.'
 scientific: 'Etheostoma susanae'
 type: species-profile
@@ -9,8 +9,8 @@ aliases:
     - /species/fish/cumberland-darter
     - /species/fishes/cumberland-darter
 tags:
-    - Fish
     - 'Endangered Species Act'
+    - Fish
     - Kentucky
     - Tennessee
 hero:
@@ -18,15 +18,16 @@ hero:
     alt: 'A small, straw-yellow colored fish with brown markings'
     caption: 'Photo by Jeremy Shute, Conservation Fisheries, Inc.'
     position: 'left bottom'
-updated: 'November 2nd, 2016'
+updated: 'May 12th, 2017'
 ---
 
 - Taxon: Fish
 - Range: [Kentucky](/kentucky) and [Tennessee](/tennessee)
 - Status: Endangered
 
-## News and Events
-{{< news tag="Cumberland darter" number="3" type="gallery" >}}
+{{< scroller-list tag="Cumberland Darter" section="news" >}}
+
+{{< scroller-list tag="Cumberland Darter" section="articles" >}}
 
 ## Appearance
 

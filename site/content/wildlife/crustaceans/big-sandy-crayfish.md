@@ -1,5 +1,5 @@
 ---
-title: 'Big Sandy Crayfish'
+title: 'Big Sandy crayfish'
 description: 'The Big Sandy crayfish is a threatened freshwater crustacean found in streams and rivers in the Appalachian region.'
 scientific: 'Cambarus callainus'
 type: species-profile
@@ -9,26 +9,27 @@ aliases:
     - /species/crustacean/big-sandy-crayfish
     - /species/crustacean/big-sandy-crayfish
 tags:
-    - Crustacean
     - 'Big Sandy Crayfish'
-    - Kentucky
+    - Crustacean
     - 'Endangered Species Act'
+    - Kentucky
 hero:
     name: big-sandy-crayfish.jpg
     alt: 'A lobster-shaped and colored crayfish with tinges of rust and blue.'
     link: 'https://flic.kr/p/qXGti8'
     caption: 'Big Sandy crayfish. Photo by Zachary Loughman, West Liberty University.'
-updated: 'January 4th, 2017'
+updated: 'May 12th, 2017'
 ---
 
 - **Taxa: Crustacea**
 - **Range: [Kentucky](/kentucky)**
 - **Status: Threatened**
 
-The Big Sandy crayfish (Cambarus callianus) is a freshwater crustacean found in streams and rivers in the Appalachian region of Kentucky, Virginia, and West Virginia.  The Fish and Wildlife Service has worked with state partners to determine where this dynamic creature is found, and whether it is in danger of extinction.  In [May 2016, the Service listed the Big Sandy crayfish as a threatened species](/news/2016/04/endangered-species-act-protections-finalized-for-two-appalachian-crayfishes-in-kentucky-virginia-and-west-virginia/), protected under the Endangered Species Act.
+The Big Sandy crayfish (*Cambarus callianus*) is a freshwater crustacean found in streams and rivers in the Appalachian region of Kentucky, Virginia, and West Virginia.  The Fish and Wildlife Service has worked with state partners to determine where this dynamic creature is found, and whether it is in danger of extinction.  In [May 2016, the Service listed the Big Sandy crayfish as a threatened species](/news/2016/04/endangered-species-act-protections-finalized-for-two-appalachian-crayfishes-in-kentucky-virginia-and-west-virginia/), protected under the Endangered Species Act.
 
-## News and Events
-{{< news tag="Big Sandy Crayfish" number="3" type="gallery" >}}
+{{< scroller-list tag="Big Sandy Crayfish" section="news" >}}
+
+{{< scroller-list tag="Big Sandy Crayfish" section="articles" >}}
 
 ## Appearance
 

@@ -1,5 +1,5 @@
 ---
-title: 'Ring pink mussel'
+title: 'Ring pink'
 description: 'The orangefoot pimpleback is a mussel found in Alabama, Illinois, Kentucky and Tennessee rivers.'
 type: species-profile
 scientific: 'Obovaria retusa'
@@ -9,24 +9,25 @@ aliases:
     - /species/mussel/ring-pink
     - /species/mussels/ring-pink
 tags:
-    - Mussel
-    - 'Endangered Species Act'
     - Alabama
+    - 'Endangered Species Act'
     - Kentucky
+    - Mussel
     - Tennessee
 hero:
     name: ring-pink.jpg
     alt: 'A photograph of the outside and inside of a ring pink shell next to a ruler for scale.  Shell is approximately 3 inches wide.'
     caption: 'Ring pink. Photo by Leroy Koch, USFWS.'
-updated: 'November 2nd, 2016'
+updated: 'May 12th, 2017'
 ---
 
-- Taxon: Bivalve
-- Range: [Alabama](/alabama), [Kentucky](/kentucky), and [Tennessee](/tennessee)
-- Status: Endangered. Populations in portions of the French Broad and Holston Rivers in Tennessee are experimental.
+- **Taxon:** Bivalve
+- **Range:** [Alabama](/alabama), [Kentucky](/kentucky), and [Tennessee](/tennessee)
+- **Status:** Endangered. Populations in portions of the French Broad and Holston Rivers in Tennessee are experimental.
 
-## News and Events
-{{< news tag="Ring pink" number="3" type="gallery" >}}
+{{< scroller-list tag="Ring Pink" section="news" >}}
+
+{{< scroller-list tag="Ring Pink" section="articles" >}}
 
 ## Appearance
 

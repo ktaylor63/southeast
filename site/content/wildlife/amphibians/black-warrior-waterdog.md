@@ -24,8 +24,9 @@ updated: 'October 28th, 2016'
 - **Range:** [Alabama](/alabama)
 - **Status:** Proposed Listed as Endangered
 
-## News and Events
-{{< news tag="Black Warrior waterdog" number="3" type="gallery" >}}
+{{< scroller-list tag="Black Warrior Waterdog" section="news" >}}
+
+{{< scroller-list tag="Black Warrior Waterdog" section="articles" >}}
 
 ## Appearance
 

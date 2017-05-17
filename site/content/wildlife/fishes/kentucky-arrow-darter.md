@@ -1,5 +1,5 @@
 ---
-title: 'Kentucky Arrow Darter'
+title: 'Kentucky arrow darter'
 description: 'The Kentucky arrow darter is a small fish found only in Kentucky. It is currently protected as a threatened species under the Endangered Species Act.'
 scientific: 'Etheostoma spilotum'
 type: species-profile
@@ -9,16 +9,16 @@ aliases:
     - /species/fish/kentucky-arrow-darter
     - /species/fishes/kentucky-arrow-darter
 tags:
+    - 'Endangered Species Act'
     - Fish
     - Kentucky
-    - 'Endangered Species Act'
     - 'Kentucky Arrow Darter'
 hero:
     name: kentucky-arrow-darter.jpg
     caption: 'Photo by J.R. Shute, Conservation Fisheries, Inc.'
     alt: 'A small, brightly colored orange and blue fish in an aquarium.'
     position: 'left center'
-updated: 'January 26th, 2017'
+updated: 'May 12th, 2017'
 ---
 
 - **Taxon: Fish**
@@ -26,8 +26,9 @@ updated: 'January 26th, 2017'
 - **Status: Proposed as Threatened**
 - [Download the Kentucky arrow darter fact sheet](/pdf/fact-sheet/kentucky-arrow-darter.pdf)
 
-## News and Events
-{{< news tag="Kentucky arrow darter" number="3" type="gallery" >}}
+{{< scroller-list tag="Kentucky Arrow Darter" section="news" >}}
+
+{{< scroller-list tag="Kentucky Arrow Darter" section="articles" >}}
 
 ## Appearance
 Kentucky arrow darters are small members of the perch family of fish, growing a little longer than 4.5 inches. They thrive in shallow water and spawn just 6 inches from the surface. Like most arrow darters, but unlike most other fish species, males defend their nests. They establish their territories and defend their eggs until they’ve hatched.

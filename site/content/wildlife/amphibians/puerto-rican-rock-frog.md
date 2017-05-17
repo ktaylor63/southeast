@@ -35,8 +35,9 @@ Oddly for a frog, it sings mainly during the day while hidden within rocks and c
 
 Coquíes in general are cherished in Puerto Rico. The sounds of singing males are a distinctive feature of the Puerto Rican landscape and a valued symbol of the island’s natural and cultural heritage.
 
-## News and Events
-{{< news tag="Puerto Rican rock frog" number="3" type="gallery" >}}
+{{< scroller-list tag="Puerto Rican Rock Frog" section="news" >}}
+
+{{< scroller-list tag="Puerto Rican Rock Frog" section="articles" >}}
 
 ## Appearance
 

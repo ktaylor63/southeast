@@ -30,8 +30,9 @@ updated: 'November 2nd, 2016'
 - **Range**: [Alabama](/alabama), Illinois, Indiana, [Kentucky](/kentucky), Ohio, [Tennessee](/tennessee), Virginia and West Virginia.
 - **Status**: Endangered. Some populations in the French Broad and Holston Rivers are experimental.
 
-## News and Events
-{{< news tag="Fanshell" number="3" type="gallery" >}}
+{{< scroller-list tag="Fanshell" section="news" >}}
+
+{{< scroller-list tag="Fanshell" section="articles" >}}
 
 ## Appearance
 

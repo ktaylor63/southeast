@@ -1,5 +1,5 @@
 ---
-title: 'The Carolina northern flying squirrel'
+title: 'Carolina northern flying squirrel'
 scientific: 'Glaucomys sabrinus coloratus'
 description: 'The Carolina northern flying squirrel is an American endangered species found in North Carolina, Virginia and Tennessee. It is typically found at high elevations in mixed red spruce-northern hardwood and spruce-fir forests.'
 type: species-profile
@@ -21,17 +21,18 @@ hero:
     caption: 'A Carolina northern flying squirrel in the hands of a biologist. Photo by Gary Peeples, USFWS.'
     link: 'https://flic.kr/p/cE8uD7'
     position: 'top center'
-updated: 'April 7th, 2017'
+updated: 'May 12th, 2017'
 ---
 
-- Taxa: Mammal
-- Range: [North Carolina](/north-carolina), Virginia, [Tennessee](/tennessee)
-- Status: Endangered
+- **Taxa:** Mammal
+- **Range:** [North Carolina](/north-carolina), Virginia, [Tennessee](/tennessee)
+- **Status:** Endangered
 
 The Carolina northern flying squirrel can trace its roots back to the last ice age. During this time, ice sheets covered much of northern North America, forcing cold-climate plants and animals further south. As temperatures warmed and ice sheets receded, those cold-climate species migrated north, and some found refuge on the high, cold peaks of the Southern Appalachians.  Over thousands of years, these isolated, mountain-top populations became increasingly distinct, a process that gave rise to the Carolina northern flying squirrel, a subspecies of northern flying squirrel only found in the high-elevation areas of North Carolina, Tennessee, and Southwest Virginia.
 
-## News and Events
-{{< news tag="Carolina northern flying squirrel" number="3" type="gallery" >}}
+{{< scroller-list tag="Carolina Northern Flying Squirrel" section="news" >}}
+
+{{< scroller-list tag="Carolina Northern Flying Squirrel" section="articles" >}}
 
 ## Appearance
 There are two species of flying squirrels in the Southern Appalachians – the northern (*Glaucomys sabrinus*) and southern (*Glaucomys volans*). They can be difficult to tell apart visually, therefore the elevation and habitat where they are found can be the best distinguishing traits.

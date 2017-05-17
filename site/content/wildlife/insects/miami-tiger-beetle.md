@@ -26,8 +26,9 @@ updated: 'March 17th, 2017'
 - **Range**: Miami-Dade County in South [Florida](/florida)
 - **Status**: Listed as Endangered
 
-## News
-{{< news tag="Miami tiger beetle" type="gallery" number="3" >}}
+{{< scroller-list tag="Miami Tiger Beetle" section="news" >}}
+
+{{< scroller-list tag="Miami Tiger Beetle" section="articles" >}}
 
 ## Appearance
 

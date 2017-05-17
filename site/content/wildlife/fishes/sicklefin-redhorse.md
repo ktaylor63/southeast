@@ -28,9 +28,9 @@ updated: 'November 2nd, 2016'
 - Status: Candidate Species
 - [Download the Fact Sheet](/pdf/sicklefin-redhorse-factsheet.pdf)
 
-## News
+{{< scroller-list tag="Sicklefin Redhorse" section="news" >}}
 
-{{< news tag="Sicklefin redhorse" type="gallery" number="3" >}}
+{{< scroller-list tag="Sicklefin Redhorse" section="articles" >}}
 
 ## Appearance
 

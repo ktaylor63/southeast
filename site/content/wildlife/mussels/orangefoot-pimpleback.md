@@ -1,5 +1,5 @@
 ---
-title: 'Orangefoot Pimpleback Mussel'
+title: 'Orangefoot pimpleback'
 description: 'The orangefoot pimpleback is a mussel found in Alabama, Illinois, Kentucky and Tennessee rivers.'
 scientific: 'Plethobasus cooperianus'
 type: species-profile
@@ -9,25 +9,26 @@ aliases:
     - /species/mussel/orangefoot-pimpleback
     - /species/mussels/orangefoot-pimpleback
 tags:
-    - Mussel
-    - 'Endangered Species Act'
     - Alabama
+    - 'Endangered Species Act'
     - Illinois
     - Kentucky
+    - Mussel
     - Tennessee
 hero:
     name: orangefoot-pimpleback.jpg
     alt: 'A brown mussel with orangish brown striations'
     caption: 'An orangefoot pimpleback mussel. Photo by Monte McGregor, Center Mollusk Conservation, Kentucky DFWR.'
-updated: 'November 2nd, 2016'
+updated: 'May 12th, 2017'
 ---
 
-- Taxon: [Bivalve](/tag/bivalve)
-- Range: [Alabama](/alabama), Illinois, [Kentucky](/kentucky) and [Tennessee](/tennessee)
-- Status: Endangered. Some populations in the French Broad and Holston Rivers are experimental.
+- **Taxon:** [Bivalve](/tag/bivalve)
+- **Range:** [Alabama](/alabama), Illinois, [Kentucky](/kentucky) and [Tennessee](/tennessee)
+- **Status:** Endangered. Some populations in the French Broad and Holston Rivers are experimental.
 
-## News and Events
-{{< news tag="Orangefoot pimpleback" number="3" type="gallery" >}}
+{{< scroller-list tag="Orangefoot Pimpleback" section="news" >}}
+
+{{< scroller-list tag="Orangefoot Pimpleback" section="articles" >}}
 
 ## Appearance
 

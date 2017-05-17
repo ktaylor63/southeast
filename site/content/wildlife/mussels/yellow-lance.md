@@ -1,6 +1,6 @@
 ---
-title: 'Yellow Lance'
-description: 'The Yellow Lance is a freshwater mussel, an aquatic bivalve mollusk in the family Unionidae, the river mussels.'
+title: 'Yellow lance'
+description: 'The Yellow lance is a freshwater mussel, an aquatic bivalve mollusk in the family Unionidae, the river mussels.'
 type: species-profile
 scientific: 'Elliptio lanceolata'
 js: /js/species-profile.js
@@ -19,7 +19,7 @@ hero:
     name: yellow-lance.jpg
     alt: 'A group of about a dozen small triangular shellfish in shallow water.'
     caption: 'Yellow lance in the Tar River in North Carolina.  Photo by Sarah McRae, USFWS.'
-updated: 'April 7th, 2017'
+updated: 'May 12th, 2017'
 ---
 
 - **Taxon:** Freshwater mussel. Bivalve, Unionidae
@@ -29,6 +29,8 @@ updated: 'April 7th, 2017'
 [Download the Species Status Assessment](https://fws.gov/raleigh/pdfs/YellowLanceSSA.pdf).
 
 {{< scroller-list tag="Yellow Lance" section="news" >}}
+
+{{< scroller-list tag="Yellow Lance" section="articles" >}}
 
 ## Appearance
 

@@ -22,12 +22,13 @@ hero:
 updated: 'November 2nd, 2016'
 ---
 
-- Taxon: Bivalve
-- Range: [Alabama](/alabama), [Kentucky](/kentucky), [North Carolina](/north-carolina), [Tennessee](/tennessee) and [Virginia](/virginia)
-- Status: Endangered
+- **Taxon:** Bivalve
+- **Range:** [Alabama](/alabama), [Kentucky](/kentucky), [North Carolina](/north-carolina), [Tennessee](/tennessee) and [Virginia](/virginia)
+- **Status:** Endangered
 
-## News and Events
-{{< news tag="Cumberland bean" number="3" type="gallery" >}}
+{{< scroller-list tag="Cumberland Bean" section="news" >}}
+
+{{< scroller-list tag="Cumberland Bean" section="articles" >}}
 
 ## Appearance
 

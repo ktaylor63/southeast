@@ -1,5 +1,5 @@
 ---
-title: 'Rough pigtoe mussel'
+title: 'Rough pigtoe'
 description: 'The rough pigtoe is a medium sized mussel, dark to yellowish brown in color, that is native to the Ohio River system. It is found in Alabama, Indiana, Kentucky and Virginia, with experimental populations in Tennessee, and is protected as an endangered species.'
 type: species-profile
 scientific: 'Pleurobema plenum'
@@ -9,24 +9,25 @@ aliases:
     - /species/mussel/rough-pigtoe
     - /species/mussels/rough-pigtoe
 tags:
-    - Mussel
-    - 'Endangered Species Act'
     - Alabama
-    - Kentucky
-    - Tennessee
+    - 'Endangered Species Act'
     - Gulf
+    - Kentucky
+    - Mussel
+    - Tennessee
 hero:
     name: rough-pigtoe.jpg
     alt: 'A close up photo of a yellow mussel shell'
     caption: 'Adult rough pigtoe in the Green River in Kentucky. Photo by Monte McGregor, Center Mollusk Conservation, Kentucky DFWR.'
-updated: 'November 2nd, 2016'
+updated: 'May 12th, 2017'
 ---
-- Taxon: Bivalve
-- Range:  Alabama, Indiana, Kentucky and Virginia
-- Status: Endangered. Populations in Tennessee are experimental.
+- **Taxon:** Bivalve
+- **Range:**  [Alabama](/alabama), [Indiana](/tags/indiana), [Kentucky](/kentucky) and [Virginia](/tags/virginia)
+- **Status:** Endangered. Populations in Tennessee are experimental.
 
-## News and Events
-{{< news tag="Rough pigtoe" number="3" type="gallery" >}}
+{{< scroller-list tag="Rough Pigtoe" section="news" >}}
+
+{{< scroller-list tag="Rough Pigtoe" section="articles" >}}
 
 ## Appearance
 

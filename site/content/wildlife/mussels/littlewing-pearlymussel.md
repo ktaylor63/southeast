@@ -1,5 +1,5 @@
 ---
-title: 'Littlewing Pearlymussel'
+title: 'Littlewing pearlymussel'
 description: 'The littlewing pearlymussel is a very small mussel found in cool-water streams in the Tennessee and Cumberland River basins in Alabama, Kentucky, North Carolina, Tennessee and Virginia. It is protected as an endangered species.'
 type: species-profile
 scientific: 'Pegia fabula'
@@ -9,10 +9,10 @@ aliases:
     - /species/mussel/littlewing-pearlymussel
     - /species/mussels/littlewing-pearlymussel
 tags:
-    - Mussel
-    - 'Endangered Species Act'
     - Alabama
+    - 'Endangered Species Act'
     - Kentucky
+    - Mussel
     - 'North Carolina'
     - Tennessee
     - Virginia
@@ -20,15 +20,16 @@ hero:
     name: littlewing-pearlymussel.jpg
     alt: 'A brownish yellow mussel shell with white abrasions'
     caption: 'Photo by Monte McGregor, Center Mollusk Conservation, Kentucky DFWR.'
-updated: 'November 2nd, 2016'
+updated: 'May 12th, 2017'
 ---
 
-- Taxon: Bivalve
-- Range:  [Alabama](/alabama), [Kentucky](/kentucky), [North Carolina](/north-carolina), [Tennessee](/tennessee) and [Virginia](/virginia)
-- Status: Endangered. Populations in Tennessee are experimental.
+- **Taxon:** Bivalve
+- **Range:** [Alabama](/alabama), [Kentucky](/kentucky), [North Carolina](/north-carolina), [Tennessee](/tennessee) and [Virginia](/virginia)
+- **Status:** Endangered. Populations in Tennessee are experimental.
 
-## News and Events
-{{< news tag="Littlewing pearlymussel" number="3" type="gallery" >}}
+{{< scroller-list tag="Littlewing Pearlymussel" section="news" >}}
+
+{{< scroller-list tag="Littlewing Pearlymussel" section="articles" >}}
 
 ## Appearance
 

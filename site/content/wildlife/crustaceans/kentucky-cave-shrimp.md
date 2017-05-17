@@ -1,5 +1,5 @@
 ---
-title: 'Kentucky Cave Shrimp'
+title: 'Kentucky cave shrimp'
 description: 'The Kentucky cave shrimp is an endangered species found only in underground streams in and around Mammoth Cave National Park, Kentucky. It lacks eyes and has a translucent body.'
 scientific: 'Palaemonias ganteri'
 type: species-profile
@@ -10,23 +10,24 @@ aliases:
     - /species/amphibians/kentucky-cave-shrimp
 tags:
     - Crustacean
+    - 'Endangered Species Act'
     - Kentucky
     - Shrimp
-    - 'Endangered Species Act'
 hero:
     name: kentucky-cave-shrimp.jpg
     alt: 'A translucent shrimp walking along a rocky surface under water'
     caption: 'A Kentucky cave shrimp. Photo by John MacGregor, Kentucky Department of Fish and Wildlife Resources.'
     position: 'center bottom'
-updated: 'November 2nd, 2016'
+updated: 'May 12th, 2017'
 ---
 
 - **Taxa: Crustacea**
 - **Range: [Kentucky](/kentucky)**
 - **Status: Endangered**
 
-## News and Events
-{{< news tag="Kentucky cave shrimp" number="3" type="gallery" >}}
+{{< scroller-list tag="Kentucky Cave Shrimp" section="news" >}}
+
+{{< scroller-list tag="Kentucky Cave Shrimp" section="articles" >}}
 
 ## Appearance
 

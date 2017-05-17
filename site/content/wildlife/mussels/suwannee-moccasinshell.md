@@ -1,5 +1,5 @@
 ---
-title: 'Suwanee Moccasinshell'
+title: 'Suwanee moccasinshell'
 description: 'The Suwannee moccasinshell is a small freshwater mussel that rarely exceeds 2 inches in length found only in the Suwannee River Basin in Florida and Georgia.'
 type: species-profile
 scientific: 'Medionidus walkeri'
@@ -9,25 +9,26 @@ aliases:
     - /species/mussel/suwannee-moccasinshell
     - /species/mussels/suwannee-moccasinshell
 tags:
-    - Mussel
     - 'Endangered Species Act'
     - Florida
     - Georgia
     - Gulf
+    - Mussel
 hero:
     name: suwannee-moccasinshell.jpg
     alt: 'Two dark gray mussels with striations on a red towel next to a ruler for scale.'
     caption: 'Suwannee moccasinshells. Photo by USFWS.'
     position: bottom
-updated: 'March 17th, 2017'
+updated: 'May 12th, 2017'
 ---
 
 - **Taxon:** Bivalve, Unionidae
 - **Range:** The Suwannee moccasinshell occurs only in the Suwannee River Basin in Florida and Georgia.
 - **Status:** Listed as Threatened
 
-## News and Events
-{{< news tag="Suwannee moccasinshell" number="3" type="gallery" >}}
+{{< scroller-list tag="Suwannee Moccasinshell" section="news" >}}
+
+{{< scroller-list tag="Suwannee Moccasinshell" section="articles" >}}
 
 ## Appearance
 
