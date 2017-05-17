@@ -16,3 +16,58 @@ thead {
     padding: .25em;
   }
 }
+
+.gis-training-agenda {
+  border: 1px solid $color-text;
+  text-align: center;
+
+  @media (min-width: $break-lg) {
+    font-size: 18px !important;
+    line-height: 21px !important;
+  }
+
+  th {
+    border: 1px solid white;
+    padding: .25em;
+  }
+
+  td {
+    border: 1px solid $color-text;
+    padding: .25em;
+  }
+
+  .class-time {
+    font-weight: bold;
+  }
+
+  .introduction {
+    background: #66FFFF;
+  }
+
+  .intermediate {
+    background: rgb(102, 204, 0);
+  }
+
+  .advanced {
+    background: rgb(255, 255, 0);
+  }
+
+  .other-topics {
+    background: rgb(204, 204, 255);
+  }
+
+  .detail-heading {
+    background: $color-accent;
+    color: white;
+    font-size: 1.3em;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+
+  .date-heading {
+    background: rgb(255, 204, 0);
+    font-size: 1.3em;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+}
