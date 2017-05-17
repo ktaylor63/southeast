@@ -103,7 +103,8 @@ const createMap = (err, data) => {
     [labels[0]]: detectionLayers[0],
     [labels[1]]: detectionLayers[1],
     [labels[2]]: detectionLayers[2],
-    [labels[3]]: detectionLayers[3]
+    [labels[3]]: detectionLayers[3],
+    [labels[4]]: detectionLayers[4]
   }
 
   const map = L.map('map', { layers: [esriNatGeo, towers, ...detectionLayers] });
