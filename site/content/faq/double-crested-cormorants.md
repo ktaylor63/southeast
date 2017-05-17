@@ -7,9 +7,9 @@ hero:
     caption: 'Double-crested cormorant. Photo by <a href=\"https://www.flickr.com/photos/nicolebeaulac/\" target=\"_blank\">Nicole Beaulac</a> <a href=\"https://creativecommons.org/licenses/by-nc-nd/2.0/\" target=\"_blank\">CC BY-NC-ND 2.0</a>.'
     position: top
 tags:
-    - 'Double-Crested Cormorants'
     - Arkansas
-updated: 'March 3rd, 2017'
+    - 'Double-Crested Cormorants'
+updated: 'May 16th, 2017'
 ---
 
 The double-crested cormorant is a goose-sized waterbird native to North America. It is one of six species of cormorants in North America and one of 38 species worldwide. This black or grayish-black bird is about three feet long with a wingspan of 4.5 feet and has a hooked bill and powerful webbed feet that are used for swimming underwater.  An adult weighs about five pounds. This species gets its name from the tufted feathers on both sides of the head, referred to as “crests,” that are present only during nesting season.
@@ -24,8 +24,7 @@ Double-crested cormorants are widely distributed in North America. The waterbird
 
 ## Diet
 
-Cormorants eat mainly fish. Adults eat an average of one pound per day. The birds are opportunistic and generalist feeders, preying on many species of fish, but concentrating on
-those that are easiest to catch.
+Cormorants eat mainly fish. Adults eat an average of one pound per day. The birds are opportunistic and generalist feeders, preying on many species of fish, but concentrating on those that are easiest to catch.
 
 ## Breeding
 
@@ -33,10 +32,7 @@ Double-crested cormorants do not nest until they are three years old. They nest 
 
 ## Depredation Orders
 
-On May 25, 2016, the U.S. District Court for the District of Columbia vacated two
-depredation orders—the Aquaculture Depredation Order and the Public Resource Depredation Order—for double-crested cormorants until the U.S. Fish and Wildlife Service (Service)
-prepares an adequate Environmental Assessment (EA) or Environmental Impact Statement (EIS) in compliance with the requirements of the National Environmental Policy Act (NEPA).
-The Court concluded that the Service did not take a hard look at the effects of the depredation orders on double-crested cormorant populations and other affected resources and failed to consider a reasonable range of reasonable alternatives in the EA issued in 2014.
+On May 25, 2016, the U.S. District Court for the District of Columbia vacated two depredation orders—the Aquaculture Depredation Order and the Public Resource Depredation Order—for double-crested cormorants until the U.S. Fish and Wildlife Service (Service) prepares an adequate Environmental Assessment (EA) or Environmental Impact Statement (EIS) in compliance with the requirements of the National Environmental Policy Act (NEPA). The Court concluded that the Service did not take a hard look at the effects of the depredation orders on double-crested cormorant populations and other affected resources and failed to consider a reasonable range of reasonable alternatives in the EA issued in 2014.
 
 ## What was authorized under the Aquaculture Depredation Order?
 
@@ -44,20 +40,16 @@ The Aquaculture Depredation Order authorized freshwater commercial aquaculture p
 
 ## What was authorized under the Public Resource Depredation Order?
 
-The Public Resource Depredation Order authorized state fish and wildlife agencies, federally recognized Tribes, and USDA Wildlife Services to lethally take double-crested cormorants to
-protect fish, wildlife, plants, and their habitats that are managed by public resource agencies for public benefit. It applied to 24 states: Alabama, Arkansas, Florida, Georgia, Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiana, Michigan, Minnesota, Mississippi, Missouri, New York, North Carolina, Ohio, Oklahoma, South Carolina, Tennessee, Texas,
+The Public Resource Depredation Order authorized state fish and wildlife agencies, federally recognized Tribes, and USDA Wildlife Services to lethally take double-crested cormorants to protect fish, wildlife, plants, and their habitats that are managed by public resource agencies for public benefit. It applied to 24 states: Alabama, Arkansas, Florida, Georgia, Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiana, Michigan, Minnesota, Mississippi, Missouri, New York, North Carolina, Ohio, Oklahoma, South Carolina, Tennessee, Texas,
 Vermont, West Virginia, and Wisconsin.
 
 ## What options remain for managing double-crested cormorants damage in the absence of the Depredation Orders?
 
-Individual depredation permits are authorized under current regulations, but the Service has an obligation under the NEPA to ensure that the issuance of depredation permits are supported
-with adequate environmental reviews. Unfortunately, much of the supporting NEPA analyses for the issuance of permits were based on the inadequate EA issued in 2014. As a result, the
-Service has temporarily stopped issuing or renewing permits that allow for lethal take of double-crested cormorants until an appropriate NEPA review can be completed.
+Individual depredation permits are authorized under current regulations, but the Service has an obligation under the NEPA to ensure that the issuance of depredation permits are supported with adequate environmental reviews. Unfortunately, much of the supporting NEPA analyses for the issuance of permits were based on the inadequate EA issued in 2014. As a result, the Service has temporarily stopped issuing or renewing permits that allow for lethal take of double-crested cormorants until an appropriate NEPA review can be completed.
 
 ## Is the Service currently working on a NEPA review?
 
-Yes. Work is underway to complete a programmatic NEPA analysis specifically for issuing depredation permits to control double-crested cormorants. This review will consider the cumulative impacts of permitted take across the eastern United States, leading to a more
-efficient permitting process with a strong biological foundation.
+Yes. Work is underway to complete a programmatic NEPA analysis specifically for issuing depredation permits to control double-crested cormorants. This review will consider the cumulative impacts of permitted take across the eastern United States, leading to a more efficient permitting process with a strong biological foundation.
 
 ## When will the NEPA review be completed?
 
@@ -73,12 +65,10 @@ Yes. New and renewal permit requests to take double-crested cormorants for scien
 
 ## Does the Service intend to re-establish the depredation orders?
 
-Efforts to re-establish the Depredation Orders will not be initiated in the near future. What assistance is available to protect aquaculture resources from damage by cormorants? Technical assistance and non-lethal control activities, (e.g., hazing, harassment, exclusion devices, roost dispersal) are not affected by the court decision and can be done without a permit. USDA Wildlife Services, the lead agency in addressing wildlife damage issues, can advise aquaculture producers and others on non-lethal ways to address depredating cormorants. Technical assistance from USDA Wildlife Services may be requested
-by calling 1 866-487-3297.
+Efforts to re-establish the Depredation Orders will not be initiated in the near future. What assistance is available to protect aquaculture resources from damage by cormorants? Technical assistance and non-lethal control activities, (e.g., hazing, harassment, exclusion devices, roost dispersal) are not affected by the court decision and can be done without a permit. USDA Wildlife Services, the lead agency in addressing wildlife damage issues, can advise aquaculture producers and others on non-lethal ways to address depredating cormorants. Technical assistance from USDA Wildlife Services may be requested by calling 1 866-487-3297.
 
 ## The NEPA Process
 
 NEPA requires federal agencies to consider the environmental effects of all discretionary actions they undertake. “Actions” mean policies, plans, programs, or projects that are implemented, funded, permitted, or controlled by a federal agency.
 
-The NEPA process is a transparent process intended to help public officials make informed decisions based on an understanding of the environmental consequences of actions. The process is iterative in nature. It is common to loop back to an earlier step to make refinements in previous work. This ensures that we will make decisions that are based on
-an understanding of the environmental consequences associated with our actions.
+The NEPA process is a transparent process intended to help public officials make informed decisions based on an understanding of the environmental consequences of actions. The process is iterative in nature. It is common to loop back to an earlier step to make refinements in previous work. This ensures that we will make decisions that are based on an understanding of the environmental consequences associated with our actions.
