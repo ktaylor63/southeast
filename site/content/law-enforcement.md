@@ -11,7 +11,7 @@ hero:
     alt: 'Shelves upon shelves of confiscated wildlife parts from big cats including tigers and leopards.'
     link: 'https://flic.kr/p/qFSVJ4'
     caption: 'Illegal wildlife property, heads of cats. Photo by Ryan Moehring, USFWS.'
-updated: 'April 24th, 2017'
+updated: 'May 16th, 2017'
 ---
 
 The U.S. Fish and Wildlife Service reduces threats to plants and animals through the enforcement of federal wildlife laws such as the [Bald and Golden Eagle Protection Act](http://www.fws.gov/midwest/MidwestBird/EaglePermits/bagepa.html), the [Marine Mammal Protection Act](http://www.fws.gov/international/laws-treaties-agreements/us-conservation-laws/marine-mammal-protection-act.html) and the [Endangered Species Act](/endangered-species-act/) both on America’s public lands and around the world. We also investigate wildlife crimes.
@@ -31,7 +31,7 @@ Wildlife crime includes:
 Help protect the wildlife and natural resources of America. Report wildlife crime 24 hours a day to
 
 <div class="content-centered">
-[fws_tips@fws.gov](mailto:fws_tips@fws.gov) or 1-844-FWS-TIPS (397-8477).
+  <p><a href="mailto:fws_tips@fws.gov">fws_tips@fws.gov</a> or 1-844-FWS-TIPS (397-8477).</p>
 </div>
 
 Ethical hunters, anglers and wildlife watchers provide the best information to catch criminals. Your tips and eyewitness accounts are invaluable in protecting wildlife and punishing poachers.
