@@ -1,5 +1,7 @@
 {{ $tag := lower (.Get "tag") | urlize }}
+{{ $type := .Get "type" }}
 {{ $section := .Get "section" }}
+<!-- {{ $pages := (or (where (index .Site.Taxonomies.tags $tag) "Page.Section" $section) (where .Site.Pages "Type" $type )) }} -->
 {{ $pages := where (index .Site.Taxonomies.tags $tag) "Page.Section" $section }}
 {{ $lazyLoadLimit := 7 }}
 

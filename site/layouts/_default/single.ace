@@ -1,5 +1,5 @@
 = content main
-  .main role="main"
+  main.main role="main"
     {{ if ne .Type "index" }}
     h1.page-title {{ .Title }}
     {{ if .Params.subtitle }}

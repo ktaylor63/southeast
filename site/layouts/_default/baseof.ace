@@ -16,7 +16,7 @@ html lang="en-US"
         = include partials/breadcrumbs.html .
         {{ end }}
         #content
-          .side-nav role="complimentary"
+          aside.side-nav role="complimentary"
           = yield main
     = include partials/footer.html .
     = include partials/contact.html .

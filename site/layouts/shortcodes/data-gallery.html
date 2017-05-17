@@ -1,0 +1,21 @@
+<ul class='article-gallery'>
+  {{ range first 3 (sort .Site.Data.teasers.stories "date" "desc") }}
+  <li class='card'>
+    {{ if .hero }}
+    <div class='card-hero'>
+      <a href="{{ .url }}">
+        {{ if .hero.name }}
+        <img srcset="{{ .Site.BaseURL }}images/hero/small/{{ .hero.name }} 450w, {{ .Site.BaseURL }}images/hero/medium/{{ .hero.name }} 850w" src="{{ .Site.BaseURL }}images/hero/small/{{ .hero.name }}" alt="{{ .hero.alt }}" class='gallery-hero'/>
+        {{ end }}
+      </a>
+    </div>
+    {{ end }}
+    <div class='card-text'>
+      <p>
+        <span class='card-text-date'>{{ dateFormat "January 2, 2006" .date }}</span>
+        <a href="{{ .url }}">{{ .title }}</a>
+      </p>
+    </div>
+  </li>
+  {{ end }}
+</ul>

@@ -1,5 +1,5 @@
 = content main
-  .main role="main"
+  main.main role="main"
     h1  {{ .Title }}
     ul
     {{ $data := .Data }}

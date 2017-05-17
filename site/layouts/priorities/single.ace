@@ -2,7 +2,7 @@
   .js-Parallaxify style="background-image: url('{{ .Site.BaseURL }}/images/hero/hero-intro.jpg');"
     svg.logo
       use xlink:href="#logo"
-  .side-nav role="complimentary"
+  aside.side-nav role="complimentary"
 
   h1 Regional Priorities in the Southeast
 

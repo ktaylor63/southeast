@@ -1,5 +1,5 @@
-<nav role='navigation' class="main-nav">
-  <ul class="nav-list" role="menu">
+<nav role='navigation' class="main-nav" role="menu">
+  <ul class="nav-list">
     <li class="nav-item fws-menu-trigger">
       <button class="nav-link">
         <svg class="icon icon-home">
@@ -14,9 +14,10 @@
               <input id="affiliate" name="affiliate" type="hidden" value="fws.gov">
               <input name="utf8" type="hidden" value="&#x2713;">
               <input type="hidden" name="dc" value="2270">
-              <label for="site-search" class="site-search-label">Search:</label>
               <div class="search-group">
-                <input type="search" id="site-search" name="query" placeholder="Search, e.g. Bald eagle" role="search" autocomplete="off">
+                <label for="site-search" class="site-search-label">Search:
+                  <input type="search" id="site-search" name="query" placeholder="Search, e.g. Bald eagle" role="search" autocomplete="off">
+                </label>
                 <button type="submit" class="site-search-button" value="Search">
                   <svg>
                     <use xlink:href="#search"></use>

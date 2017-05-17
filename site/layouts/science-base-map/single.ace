@@ -11,7 +11,7 @@ html lang="en-US"
     = include partials/section-navigation.html .
     {{ end }}
     .wrapper
-      #content role="main"
+      main#content role="main"
         .layout
           h1 {{ .Title }}
         {{ .Content }}

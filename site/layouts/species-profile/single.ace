@@ -1,5 +1,5 @@
 = content main
-  .main role="main"
+  .main
     h1.page-title {{ .Title }}
     h2.scientific-name {{ .Params.scientific }}
     {{ .Content }}
