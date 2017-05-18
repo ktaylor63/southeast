@@ -1,5 +1,5 @@
 ---
-title: '$7,500 Reward for Information on Bald Eagle Shooting'
+title: '$7,500 reward for information on bald eagle shooting'
 date: '2015-03-31'
 hero:
     name: bald-eagle-shot-caddo-parish.jpg

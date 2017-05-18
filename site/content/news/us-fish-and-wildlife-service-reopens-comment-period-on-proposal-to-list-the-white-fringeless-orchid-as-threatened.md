@@ -1,5 +1,5 @@
 ---
-title: 'U.S. Fish and Wildlife Service Reopens Comment Period On Proposal to List the White Fringeless Orchid as Threatened'
+title: 'U.S. Fish and Wildlife Service eeopens comment period on proposal to list the white-fringeless orchid as threatened'
 date: '2016-04-14'
 hero:
     name: white-fringeless-orchid-patch.jpg

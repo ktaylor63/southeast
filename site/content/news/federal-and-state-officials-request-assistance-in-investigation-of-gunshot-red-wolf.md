@@ -1,5 +1,5 @@
 ---
-title: 'Federal and State Officials Request Assistance in Investigation of Gunshot Red Wolf'
+title: 'Federal and state officials request assistance in investigation of gunshot red wolf'
 description: 'The U.S. Fish and Wildlife Service and the N.C. Wildlife Resources Commission are requesting assistance with an investigation involving the suspected illegal take of a radio-collared red wolf that was recently found dead.'
 date: '2014-10-17'
 hero:

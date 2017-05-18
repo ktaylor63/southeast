@@ -1,5 +1,5 @@
 ---
-title: 'Service Celebrates 25 Years of the Coastal Program'
+title: 'Service celebrates 25 years of the coastal program'
 subtitle: 'Projects in Great Lakes States Benefit Fish and Wildlife'
 date: '2010-11-16'
 hero:

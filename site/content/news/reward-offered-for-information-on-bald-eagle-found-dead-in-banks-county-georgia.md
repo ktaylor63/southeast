@@ -1,5 +1,5 @@
 ---
-title: Reward Offered for Information on Bald Eagle Found Dead in Banks County Georgia
+title: Reward offered for information on bald eagle found dead in Banks county, Georgia
 date: '2015-10-08'
 updated: 'October 20th, 2016'
 tags:

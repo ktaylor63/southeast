@@ -1,5 +1,5 @@
 ---
-title: 'Maury Bedford Named Project Leader for North Louisiana National Wildlife Refuges'
+title: 'Maury Bedford named project leader for North Louisiana National Wildlife Refuges'
 date: '2015-10-08'
 hero:
     name: maury-bedford.jpg

@@ -1,5 +1,5 @@
 ---
-title: 'Chucky Madtom Draft Recovery Plan Available for Review'
+title: 'Chucky madtom draft recovery plan available for review'
 date: '2016-10-31'
 hero:
     name: chucky-madtom-search.jpg

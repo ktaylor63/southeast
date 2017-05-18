@@ -1,5 +1,5 @@
 ---
-title: '2017 Georgia Junior Duck Stamp Student Art Competition Winners'
+title: '2017 Georgia junior duck stamp student art competition winners'
 hero:
     name: 2017-ga-junior-duck-stamp-winner.jpg
     alt: 'An acrylic painting of a duck on blue water.'

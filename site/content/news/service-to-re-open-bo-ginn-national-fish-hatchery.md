@@ -1,5 +1,5 @@
 ---
-title: 'Service to Re-open Bo Ginn National Fish Hatchery'
+title: 'Service to ee-open Bo Ginn National Fish Hatchery'
 date: '2010-05-28'
 hero:
     name: bo-gin-hatchery.jpg

@@ -1,5 +1,5 @@
 ---
-title: 'Florida Panther Population Estimate Updated'
+title: 'Florida panther population estimate updated'
 date: '2017-02-22'
 hero:
     link: 'https://flic.kr/p/8So6zm'

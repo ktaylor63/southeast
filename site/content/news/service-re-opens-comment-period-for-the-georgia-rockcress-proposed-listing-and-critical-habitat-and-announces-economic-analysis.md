@@ -1,5 +1,5 @@
 ---
-title: 'Service Re-opens Comment Period for the Georgia Rockcress Proposed Listing and Critical Habitat and Announces Economic Analysis'
+title: 'Service re-opens comment period for the Georgia rockcress proposed listing and Critical Habitat and announces economic analysis'
 date: '2014-05-08'
 hero:
     name: georgia-rockcress.jpg

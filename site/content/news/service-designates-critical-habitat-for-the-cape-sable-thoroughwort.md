@@ -1,5 +1,5 @@
 ---
-title: 'Service Designates Critical Habitat for the Cape Sable Thoroughwort'
+title: 'Service designates Critical Habitat for the Cape Sable thoroughwort'
 date: '2014-01-07'
 hero:
     name: cape-sable-thoroughwort.jpg

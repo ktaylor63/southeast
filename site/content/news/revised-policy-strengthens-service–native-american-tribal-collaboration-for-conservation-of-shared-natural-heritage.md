@@ -1,5 +1,5 @@
 ---
-title: 'Revised Policy Strengthens Service–Native American Tribal Collaboration for Conservation of Shared Natural Heritage'
+title: 'Revised policy strengthens Service–Native American tribal collaboration for conservation of shared natural heritage'
 tags:
     - Tribes
 hero:

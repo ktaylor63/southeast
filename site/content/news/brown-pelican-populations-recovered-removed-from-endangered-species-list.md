@@ -1,5 +1,5 @@
 ---
-title: 'Brown Pelican Populations Recovered, Removed from Endangered Species List'
+title: 'Brown pelican populations recovered, removed from Endangered Species List'
 subtitle: 'Salazar: Brown Pelican Recovery is “an Amazing Success Story”'
 date: '2009-11-11'
 hero:

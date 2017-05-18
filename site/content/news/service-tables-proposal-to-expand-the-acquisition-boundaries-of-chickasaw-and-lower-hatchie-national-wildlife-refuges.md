@@ -1,6 +1,6 @@
 ---
-title: 'Service Tables Proposal to Expand the Acquisition Boundaries of Chickasaw and Lower Hatchie National Wildlife Refuges'
-subtitle: 'Previously Scheduled Public Meetings Cancelled'
+title: 'Service tables proposal to expand the acquisition boundaries of Chickasaw and Lower Hatchie National Wildlife Refuges'
+subtitle: 'Previously scheduled public meetings cancelled'
 date: '2014-04-23'
 hero:
     name: lower-hatchie-mississippi-river.jpg

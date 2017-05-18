@@ -1,5 +1,5 @@
 ---
-title: 'Fish and Wildlife Service Conducts Five-year Status Reviews of 23 Southeastern Species'
+title: 'Fish and Wildlife Service conducts five-year status reviews of 23 Southeastern species'
 date: '2009-06-06'
 tags:
     - 'Five Year Review'

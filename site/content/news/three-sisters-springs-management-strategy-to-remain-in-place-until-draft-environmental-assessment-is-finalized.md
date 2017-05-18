@@ -1,5 +1,5 @@
 ---
-title: '2014-2015 Three Sisters Springs Management Strategy to Remain in Place Until Draft Environmental Assessment is Finalized'
+title: '2014-2015 Three Sisters Springs management strategy to remain in place until draft environmental assessment is finalized'
 date: '2015-10-14'
 hero:
     name: manatee-closeup-with-fish.jpg

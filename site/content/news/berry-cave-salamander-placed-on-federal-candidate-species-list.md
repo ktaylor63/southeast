@@ -1,5 +1,5 @@
 ---
-title: 'Berry Cave Salamander Placed on Federal Candidate Species List'
+title: 'Berry Cave salamander placed on federal candidate species list'
 date: '2011-03-21'
 hero:
   name: berry-cave-salamander.jpg

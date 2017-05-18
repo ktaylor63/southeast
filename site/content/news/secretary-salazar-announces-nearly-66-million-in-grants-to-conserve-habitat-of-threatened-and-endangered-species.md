@@ -1,5 +1,5 @@
 ---
-title: 'Secretary Salazar Announces Nearly $66 Million in Grants to Conserve Habitat of Threatened and Endangered Species'
+title: 'Secretary Salazar announces nearly $66 million in grants to conserve habitat of threatened and endangered species'
 date: '2010-04-12'
 hero:
     name: golden-cheeked-warbler.jpg

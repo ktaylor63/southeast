@@ -1,5 +1,5 @@
 ---
-title: 'Service Creates ESA Listing Workplan to Provide Predictability and Encourage Proactive Conservation of Imperiled Wildlife'
+title: 'Service creates ESA listing workplan to provide predictability and encourage proactive conservation of imperiled wildlife'
 date: '2016-09-01'
 hero:
     name: greater-sage-grouse.jpg

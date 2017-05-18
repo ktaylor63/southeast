@@ -1,5 +1,5 @@
 ---
-title: 'Draft Recovery Plan for Gentian Pinkroot Available for Review'
+title: 'Draft recovery plan for gentian pinkroot available for review'
 description: 'The U.S. Fish and Wildlife Service seeks public comment on the draft recovery plan for Gentian Pinkroot, a federally listed, endangered herb.'
 date: '2011-03-23'
 hero:

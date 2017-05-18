@@ -1,5 +1,5 @@
 ---
-title: 'Fish and Wildlife Service Conducts Five-Year Status Reviews of 14 Caribbean'
+title: 'Fish and Wildlife Service conducts five-year status reviews of 14 Caribbean species'
 date: '2016-08-17'
 hero:
     name: puerto-rican-boa.jpg

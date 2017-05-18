@@ -1,5 +1,5 @@
 ---
-title: 'First Captive-Bred  Florida Grasshopper Sparrow Chicks Hatched'
+title: 'First captive-bred Florida grasshopper sparrow chicks hatched'
 subtitle: 'Among North America’s Most Endangered Birds'
 date: '2016-05-11'
 tags:

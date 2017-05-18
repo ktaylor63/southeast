@@ -1,5 +1,5 @@
 ---
-title: 'Get Wild in the Four Florida Keys National Wildlife Refuges with the First Annual Outdoor Fest, March 17th-20th'
+title: 'Get wild in the four Florida Keys National Wildlife Refuges with the first annual Outdoor Fest, March 17th-20th'
 date: '2016-01-12'
 tags:
     - Florida

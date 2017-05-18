@@ -1,9 +1,9 @@
 ---
-title: '$11,000 Reward Offered for Information in Death of Bald Eagles in Plaquemine, Louisiana'
+title: '$11,000 reward offered for information in death of bald eagles in Plaquemine, Louisiana'
 date: '2015-05-28'
 hero:
     name: bald-eagle-dead-plaquemine.jpg
-    alt: 'A bald eagle strewn on the grass laying on it''s back.'
+    alt: 'A bald eagle strewn on the grass laying on its back.'
     link: 'https://flic.kr/p/tsiGf2'
     caption: 'Poisoned eagle in Louisiana. Photo by Louisiana Department of Wildlife and Fisheries Law Enforcement.'
 tags:

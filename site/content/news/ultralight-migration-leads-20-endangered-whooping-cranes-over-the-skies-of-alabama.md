@@ -1,5 +1,5 @@
 ---
-title: 'Ultralight Migration Leads 20 Endangered Whooping Cranes over the Skies of Alabama'
+title: 'Ultralight migration leads 20 endangered whooping cranes over the skies of Alabama'
 date: '2010-12-17'
 hero:
     name: whooping-cranes-in-net-enclosure.jpg

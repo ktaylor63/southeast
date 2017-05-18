@@ -1,5 +1,5 @@
 ---
-title: 'Service Estimates Economic Impacts and Releases Draft Environmental Assessment of Critical Habitat Designation for Neosho Mucket and Rabbitsfoot'
+title: 'Service estimates economic impacts and releases draft environmental assessment of Critical Habitat designation for neosho mucket and rabbitsfoot'
 hero:
     name: rabbitsfoot.jpg
     alt: 'A mussel with brownish outer shell and a glossy white inner shell that resembles a baked potato.'

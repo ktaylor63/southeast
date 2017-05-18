@@ -1,5 +1,5 @@
 ---
-title: 'Go Wild in the Florida Keys: Outdoor Fest Offers Four Days of Fun in Four Wildlife Refuges'
+title: 'Go wild in the Florida Keys: Outdoor Fest offers four days of fun on four Wildlife Refuges'
 date: '2016-02-09'
 hero:
     name: great-white-hero-nwr-outdoor-fest.jpg

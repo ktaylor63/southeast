@@ -1,5 +1,5 @@
 ---
-title: 'The Teddy Bear is Back: U.S. Fish and Wildlife Service Delists Louisiana Black Bear Due To Recovery'
+title: 'The teddy bear is back: U.S. Fish and Wildlife Service delists Louisiana black bear due to recovery'
 subtitle: 'Milestone highlights successful partnerships between states, private landowners, conservation groups, universities and federal agencies in saving the animal that inspired creation of the “teddy bear”'
 date: '2016-03-10'
 hero:

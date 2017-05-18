@@ -1,5 +1,5 @@
 ---
-title: '2015 Student Wildlife Art Contest Georgia Junior Duck Stamp Program Entries Due Postmarked by March 16th'
+title: '2015 student wildlife art contest Georgia junior duck stamp program entries due postmarked by March 16th'
 date: '2015-02-20'
 hero:
     name: green-winged-teal-ga-jr-duckstamp.jpg

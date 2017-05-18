@@ -1,5 +1,5 @@
 ---
-title: 'March Happenings at Wolf Creek National Fish Hatchery'
+title: 'March happenings at Wolf Creek National Fish Hatchery'
 tags:
     - Kentucky
     - 'Wolf Creek'

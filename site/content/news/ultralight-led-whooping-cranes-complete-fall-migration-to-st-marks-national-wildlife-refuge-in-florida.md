@@ -1,5 +1,5 @@
 ---
-title: 'Ultralight-led Whooping Cranes Complete Fall Migration to St. Marks National Wildlife Refuge in Florida'
+title: 'Ultralight-led whooping cranes complete fall migration to St. Marks National Wildlife Refuge in Florida'
 date: '2014-12-11'
 hero:
     name: whooping-cranes-over-st-marks-nwr.jpg

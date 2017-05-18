@@ -1,5 +1,5 @@
 ---
-title: 'FWC, partners offer reward for information about suspicious panther death'
+title: 'Florida Fish and Wildlife Conservation Commission, partners offer reward for information about suspicious panther death'
 date: '2013-12-19'
 hero:
     name: florida-panther-shot-dead.jpg

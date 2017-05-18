@@ -1,5 +1,5 @@
 ---
-title: 'Fish and Wildlife Service Extends Date to Complete Red Wolf Evaluation to November 14'
+title: 'Fish and Wildlife Service extends date to complete red wolf evaluation to November 14'
 date: '2014-10-07'
 hero:
     name: red-wolf-crouching.jpg

@@ -1,5 +1,5 @@
 ---
-title: 'U.S. Fish and Wildlife Service Proposes to List Pearl Darter as Threatened'
+title: 'U.S. Fish and Wildlife Service proposes to list pearl darter as threatened'
 date: '2016-09-20'
 hero:
     name: pearl-darter.jpg

@@ -1,5 +1,5 @@
 ---
-title: 'Eagle Shooter Sentenced in Tampa, Florida'
+title: 'Eagle shooter sentenced in Tampa, Florida'
 description: 'Jesse Barresse of Hudson was sentenced in U.S. District Court in Tampa today for intentionally shooting and killing a bald eagle, while he was illegally duck hunting in Ruskin.'
 date: '2009-06-08'
 hero:

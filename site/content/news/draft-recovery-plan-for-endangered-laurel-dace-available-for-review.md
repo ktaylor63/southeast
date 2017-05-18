@@ -1,5 +1,5 @@
 ---
-title: 'Draft Recovery Plan for Endangered Laurel Dace Available for Review'
+title: 'Draft recovery plan for endangered laurel dace available for review'
 date: '2015-01-14'
 hero:
     name: laurel-dace-habitat.jpg

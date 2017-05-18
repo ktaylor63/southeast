@@ -1,5 +1,5 @@
 ---
-title: 'Florida Keys National Wildlife Refuges Complex to Hold Informational Meeting on November 10'
+title: 'Florida Keys National Wildlife Refuges Complex to hold informational meeting on November 10'
 date: '2014-10-23'
 hero:
     name: key-largo-woodrat.jpg

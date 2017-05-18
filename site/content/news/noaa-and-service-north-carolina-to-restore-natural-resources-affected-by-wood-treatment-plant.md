@@ -1,5 +1,5 @@
 ---
-title: 'NOAA, U.S. Fish & Wildlife Service, North Carolina to Restore Natural Resources Affected by Wood Treatment Plant'
+title: 'NOAA, U.S. Fish & Wildlife Service, North Carolina to restore natural resources affected by wood treatment plant'
 date: '2015-04-04'
 hero:
     name: kerr-mcgee-site-map.jpg

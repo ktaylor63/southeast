@@ -1,5 +1,5 @@
 ---
-title: 'Reward Offered for Information Regarding the Killing of a Bald Eagle in Polk County, Georgia'
+title: 'Reward offered for information regarding the killing of a bald eagle in Polk county, Georgia'
 date: '2016-02-29'
 hero:
     name: bald-eagle.jpg

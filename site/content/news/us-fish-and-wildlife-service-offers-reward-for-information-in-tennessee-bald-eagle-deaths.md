@@ -1,5 +1,5 @@
 ---
-title: 'U.S. Fish and Wildlife Service Offers Reward for Information in Tennessee Bald Eagle Deaths'
+title: 'U.S. Fish and Wildlife Service offers reward for information in Tennessee bald eagle deaths'
 date: '2017-02-14'
 hero:
     name: bald-eagle-tennessee-lab.jpg

@@ -1,5 +1,5 @@
 ---
-title: 'Idaho Aquarium Sentenced for Illegal Trafficking of Marine Life'
+title: 'Idaho aquarium sentenced for illegal trafficking of marine life'
 date: '2014-04-15'
 hero:
     name: wildlife-trafficking-confiscated-coral.jpg

@@ -1,5 +1,5 @@
 ---
-title: 'Fish and Wildlife Service Designates Critical Habitat for Two Freshwater Mussels in 12 States'
+title: 'Fish and Wildlife Service designates Critical Habitat for two freshwater mussels in 12 states'
 subtitle: 'Shrinks designation by nearly 30 percent in Arkansas & nearly 220 river miles overall'
 date: '2015-04-29'
 tags:

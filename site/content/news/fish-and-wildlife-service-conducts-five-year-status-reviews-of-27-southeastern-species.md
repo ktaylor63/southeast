@@ -1,5 +1,5 @@
 ---
-title: 'Fish and Wildlife Service Conducts Five-Year Status Reviews of 27 Southeastern Species'
+title: 'Fish and Wildlife Service conducts five-year status reviews of 27 Southeastern species'
 tags:
     - 'Five Year Review'
     - Alabama

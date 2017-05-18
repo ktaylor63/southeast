@@ -1,9 +1,9 @@
 ---
-title: 'Federal Wildlife Officials Respond to a Petition to List Dozens of Species under the Endangered Species Act'
+title: 'Federal wildlife officials respond to a petition to list dozens of species under the Endangered Species Act'
 date: '2015-06-30'
 hero:
     name: caddo-mountain-salamander.jpg
-    alt: 'A dark colored salamander with white spots on it''s stomach and sides.'
+    alt: 'A dark colored salamander with white spots on its stomach and sides.'
     link: 'https://flic.kr/p/bD2BVr'
     caption: 'Caddo Mountain salamander. Photo by <a href=\"https://www.flickr.com/photos/38984611@N03/\" target="_blank">Aposematic herpetologist</a>, <a href=\"https://creativecommons.org/licenses/by-nc/2.0/\" target="_blank">CC-BY-NC 2.0.</a>'
 tags:

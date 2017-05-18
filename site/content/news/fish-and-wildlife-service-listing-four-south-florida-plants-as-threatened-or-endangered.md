@@ -1,5 +1,5 @@
 ---
-title: 'Fish and Wildlife Service Listing Four South Florida Plants as Threatened or Endangered'
+title: 'Fish and Wildlife Service listing four south Florida plants as threatened or endangered'
 date: '2016-09-28'
 hero:
     name: pine-rockland-habitat.jpg

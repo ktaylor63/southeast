@@ -1,5 +1,5 @@
 ---
-title: 'Endangered Species Act Protection Not Needed for 10 Species in the Southeast'
+title: 'Endangered Species Act protection not needed for 10 species in the Southeast'
 description: 'The Cumberland arrow darter, Shawnee darter, Sequatchie caddisfly, American eel, and six Tennessee cave beetles do not need protection under the Endangered Species Act.'
 date: '2015-10-07'
 hero:

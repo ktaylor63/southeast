@@ -1,5 +1,5 @@
 ---
-title: 'Service Tables Proposal to Expand the Acquisition Boundary of Dale Bumpers White River National Wildlife Refuge'
+title: 'Service tables proposal to expand the acquisition boundary of Dale Bumpers White River National Wildlife Refuge'
 date: '2014-09-30'
 hero:
     name: dale-bumpers-cypress-trees.jpg

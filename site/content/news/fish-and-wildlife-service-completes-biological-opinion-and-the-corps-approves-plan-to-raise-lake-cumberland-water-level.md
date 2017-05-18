@@ -1,5 +1,5 @@
 ---
-title: 'Fish and Wildlife Service completes Biological Opinion and the Corps approves plan to raise Lake Cumberland water level'
+title: 'Fish and Wildlife Service completes biological opinion and the Corps approves plan to raise Lake Cumberland water level'
 hero:
     name: lake-cumberland.jpg
     alt: 'Trees bank either side of a sandy shore on the flat water at Lake Cumberland in Kentucky.'

@@ -1,5 +1,5 @@
 ---
-title: 'Friends of Chassahowitzka Wins National Award'
+title: 'Friends of Chassahowitzka wins national award'
 date: '2011-03-17'
 hero:
     name: chassahowitzka-aerial.jpg

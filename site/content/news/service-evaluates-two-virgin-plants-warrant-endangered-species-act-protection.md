@@ -1,5 +1,5 @@
 ---
-title: 'Service Evaluates Two Virgin Islands Plants warrant Endangered Species Act Protection'
+title: 'Service evaluates two Virgin Islands plants warrant Endangered Species Act protection'
 date: '2010-01-20'
 hero:
     name: agave-eggersiana-flower.jpg

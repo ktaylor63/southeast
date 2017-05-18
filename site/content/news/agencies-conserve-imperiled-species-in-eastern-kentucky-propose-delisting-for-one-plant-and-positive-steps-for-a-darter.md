@@ -1,5 +1,6 @@
 ---
-title: 'Agencies Conserve Imperiled Species in Eastern Kentucky; Propose delisting for one plant, and positive steps for a darter'
+title: 'Agencies conserve imperiled species in eastern Kentucky'
+subtitle: 'Propose delisting for one plant, and positive steps for a darter'
 date: '2015-08-31'
 hero:
     name: white-haired-goldenrod.jpg

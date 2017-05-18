@@ -1,5 +1,5 @@
 ---
-title: 'Landmark Study Reveals Low National Rate of Frog Abnormalities on Wildlife Refuges'
+title: 'Landmark study reveals low national rate of frog abnormalities on wildlife refuges'
 subtitle: 'Largest study of its kind advances knowledge of indicator species, identifies regional hotspot clusters'
 date: '2013-11-19'
 hero:

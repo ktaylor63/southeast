@@ -1,5 +1,5 @@
 ---
-title: 'Service Southeast Region Formally Ends the Evaluation Process for the Possible Use of Genetically Modified Crops on National Wildlife Refuges'
+title: 'Service Southeast Region formally ends the evaluation process for the possible use of genetically modified crops on national wildlife refuges'
 date: '2015-06-05'
 hero:
     name: black-bear-after-harvest.jpg

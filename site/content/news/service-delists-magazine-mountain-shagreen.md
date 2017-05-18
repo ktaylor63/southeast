@@ -1,5 +1,5 @@
 ---
-title: 'Service Delists Magazine Mountain Shagreen'
+title: 'Service delists Magazine Mountain shagreen'
 subtitle: 'First Invertebrate Recovered under the Endangered Species Act'
 date: '2013-05-14'
 hero:

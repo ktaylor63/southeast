@@ -1,5 +1,5 @@
 ---
-title: 'Salazar Announces Ban on Importation and Interstate Transportation of Four Giant Snakes that Threaten Everglades'
+title: 'Salazar announces ban on importation and interstate transportation of four giant snakes that threaten Everglades'
 date: '2012-01-17'
 hero:
     name: burmese-python.jpg

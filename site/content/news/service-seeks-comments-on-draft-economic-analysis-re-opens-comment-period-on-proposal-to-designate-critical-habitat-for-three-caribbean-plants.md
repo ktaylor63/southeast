@@ -1,5 +1,5 @@
 ---
-title: 'Service Seeks Comments on Draft Economic Analysis, Re-opens Comment Period on Proposal to Designate Critical Habitat for Three Caribbean Plants'
+title: 'Service seeks comments on draft economic analysis, re-opens comment period on proposal to designate Critical Habitat for three Caribbean plants'
 date: '2014-05-20'
 hero:
     name: agave-eggersiana-flower.jpg

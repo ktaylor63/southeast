@@ -1,5 +1,5 @@
 ---
-title: 'Jeff Weller to Lead U.S. Fish and Wildlife Services Lafayette Office'
+title: 'Jeff Weller to lead U.S. Fish and Wildlife Services Lafayette office'
 date: '2012-04-24'
 hero:
     name: upper-ouachita-nwr-december-2012.jpg

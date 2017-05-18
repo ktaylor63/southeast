@@ -1,6 +1,6 @@
 ---
-title: 'Service Releases Climate Change Strategy for Public Review and Comment'
-subtitle: 'Builds on Secretary Salazar’s DOI Climate Change Order'
+title: 'Service releases climate change strategy for public review and comment'
+subtitle: 'Builds on Secretary Salazar’s DOI climate change order'
 date: '2009-09-23'
 hero:
     name: sooty-tern.jpg

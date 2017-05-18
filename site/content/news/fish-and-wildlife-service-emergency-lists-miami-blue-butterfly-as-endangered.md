@@ -1,5 +1,5 @@
 ---
-title: 'Fish and Wildlife Service Emergency Lists Miami Blue Butterfly as Endangered'
+title: 'Fish and Wildlife Service emergency lists Miami blue butterfly as endangered'
 tags:
     - 'Miami Blue butterfly'
     - 'Endangered Species Act'

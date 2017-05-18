@@ -1,5 +1,5 @@
 ---
-title: 'Visit Your Southeastern National Wildlife Refuges: October 13-27, 2012'
+title: 'Visit your southeastern National Wildlife Refuges: october 13-27, 2012'
 date: '2012-09-17'
 hero:
     name: alligator-basking-at-okefenokee.jpg

@@ -1,9 +1,9 @@
 ---
-title: 'Student Wildlife Art Contest Entries for the Junior Duck Stamp Competition Due March 15, 2010'
+title: 'Student wildlife art contest entries for the junior duck stamp competition due March 15, 2010'
 date: '2010-01-15'
 hero:
     name: wood-ducks-ga-jr-duckstamp.jpg
-    alt: 'A bright green and brown duck in the foreground with it''s more muted female companion in the background.'
+    alt: 'A bright green and brown duck in the foreground with its more muted female companion in the background.'
     caption: 'Min Lee from Johns Creek, GA, won the 2009 Georgia Junior Duck Stamp Contest for her rendition of two wood ducks in color pencil.'
 tags:
     - 'Junior Duck Stamp'

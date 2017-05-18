@@ -1,5 +1,5 @@
 ---
-title: Service Proposes Critical Habitat Designation for the Vermilion Darter
+title: Service proposes Critical Habitat designation for the vermilion darter
 date: '2009-12-03'
 hero:
   name: vermillion-darter.jpg

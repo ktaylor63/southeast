@@ -1,5 +1,5 @@
 ---
-title: 'Ninth Group of Endangered Whooping Cranes Depart on Ultralight-guided Flight to Florida'
+title: 'Ninth group of endangered whooping cranes depart on ultralight-guided flight to Florida'
 date: '2009-10-22'
 hero:
     name: whooping-crane-in-flight-ultralight.jpg

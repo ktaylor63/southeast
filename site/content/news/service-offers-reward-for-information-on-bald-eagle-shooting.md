@@ -1,5 +1,5 @@
 ---
-title: Service Offers Reward for Information on Bald Eagle Shooting
+title: Service offers reward for information on bald eagle shooting
 date: '2010-04-16'
 hero:
     name: bald-eagle.jpg

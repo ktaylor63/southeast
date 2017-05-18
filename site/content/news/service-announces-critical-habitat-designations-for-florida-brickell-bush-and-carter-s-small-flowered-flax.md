@@ -1,5 +1,5 @@
 ---
-title: 'Service Announces Critical Habitat Designations for Florida Brickell-Bush and Carter’s Small-Flowered Flax'
+title: 'Service announces critical habitat designations for Florida brickell-bush and Carter’s small-flowered flax'
 date: '2015-08-14'
 hero:
     name: pine-rockland-habitat.jpg

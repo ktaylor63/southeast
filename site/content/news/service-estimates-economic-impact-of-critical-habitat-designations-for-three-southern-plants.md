@@ -1,5 +1,5 @@
 ---
-title: 'Service Estimates Economic Impact of Critical Habitat Designations for Three Southern Plants'
+title: 'Service estimates economic impact of Critical Habitat designations for three southern plants'
 date: '2014-05-28'
 hero:
     name: shorts-bladderpod.jpg

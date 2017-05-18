@@ -1,5 +1,5 @@
 ---
-title: 'Service Announces Draft Methodology for Prioritizing Endangered Species Act Status Reviews'
+title: 'Service announces draft methodology for prioritizing Endangered Species Act status reviews'
 subtitle: 'Process will ensure species in greatest need are addressed first, provide predictability and transparency and foster stakeholder engagement'
 date: '2016-01-14'
 tags:

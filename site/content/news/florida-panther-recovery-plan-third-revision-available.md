@@ -1,5 +1,5 @@
 ---
-title: 'Florida Panther Recovery Plan, Third Revision Available'
+title: 'Florida panther recovery plan, third revision available'
 date: '2009-12-18'
 hero:
     link: 'https://flic.kr/p/8So6zm'

@@ -1,5 +1,5 @@
 ---
-title: 'Reward Offered for Information on Killing of a Bald Eagle in Lucedale, Mississippi - $2,500 to Help Identify the Shooter'
+title: 'Reward offered for information on killing of a bald eagle in Lucedale, Mississippi - $2,500 to help identify the shooter'
 date: '2012-03-07'
 hero:
     name: bald-eagle-shot-lucedale.jpg

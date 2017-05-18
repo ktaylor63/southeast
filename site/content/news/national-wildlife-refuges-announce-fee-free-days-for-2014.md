@@ -1,5 +1,5 @@
 ---
-title: 'National Wildlife Refuges Announce Fee-Free Days for 2014'
+title: 'National Wildlife Refuges announce fee-free days for 2014'
 hero:
     name: whooping-cranes-forage-at-wheeler-nwr.jpg
     alt: 'Four young whooping cranes look for food on a muddy bank.'

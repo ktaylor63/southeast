@@ -1,5 +1,5 @@
 ---
-title: 'Salazar Unveils Special Edition Duck Stamp Cachet Public Can Purchase to Support Gulf Wildlife Refuges'
+title: 'Salazar unveils special edition duck stamp cachet public can purchase to support Gulf wildlife refuges'
 date: '2010-07-02'
 hero:
     name: wapanocca-nwr-bald-cypress.jpg

@@ -1,5 +1,5 @@
 ---
-title: 'Ohio Youth Wins the Federal Junior Duck Stamp Competition'
+title: 'Ohio Youth wins the federal junior duck stamp competition'
 date: '2012-04-20'
 hero:
     name: junior-duck-stamp-winner-2012.jpg

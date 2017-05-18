@@ -1,5 +1,5 @@
 ---
-title: 'Service Designates Critical Habitat for the Alabama Sturgeon'
+title: 'Service designates Critical Habitat for the Alabama sturgeon'
 date: '2009-06-02'
 hero:
     name: cahaba-river-lillies.jpg

@@ -1,5 +1,5 @@
 ---
-title: 'Black Pinesnake Added to Threatened and Endangered Species List'
+title: 'Black pinesnake added to rhreatened and endangered species list'
 subtitle: 'Timber management activities exempted & decision on critical habitat delayed to 2016'
 date: '2015-10-05'
 hero:

@@ -1,5 +1,5 @@
 ---
-title: 'Service Proposes to Designate Critical Habitat and Announces Re-opening of Comment Period on Proposed Listing of Black Pinesnake'
+title: 'Service proposes to designate Critical Habitat and announces re-opening of comment period on proposed listing of black pinesnake'
 date: '2015-03-10'
 hero:
     name: black-pinesnake.jpg

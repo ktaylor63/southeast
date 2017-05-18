@@ -1,5 +1,5 @@
 ---
-title: 'Partners Across the United States to Celebrate 10th Annual Endangered Species Day'
+title: 'Partners across the United States to celebrate 10th annual Endangered Species Day'
 hero:
     name: mountain-sweet-pitcher-plant-patch.jpg
     link: 'https://flic.kr/p/H3SC2u'
@@ -9,6 +9,7 @@ date: '2015-05-06'
 tags:
     - Partnership
     - 'Endangered Species Act'
+    - Endangered Species Day
 updated: 'October 20th, 2016'
 ---
 

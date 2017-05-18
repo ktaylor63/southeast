@@ -1,5 +1,5 @@
 ---
-title: 'Informational Meetings on the Etowah Aquatic Habitat Conservation Plan'
+title: 'Informational meetings on the Etowah Aquatic Habitat Conservation Plan'
 date: '2009-07-30'
 hero:
     name: etowah-river-basin-explainer.jpg

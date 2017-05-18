@@ -1,9 +1,9 @@
 ---
-title: 'Puerto Rican Parrot Recovery Plan Available'
+title: 'Puerto Rican parrot recovery plan available'
 date: '2009-06-17'
 hero:
     name: puerto-rican-parrot-iguaca-aviary.jpg
-    alt: 'A bright green parrot with red markings around it''s beak spreads it''s wings.'
+    alt: 'A bright green parrot with red markings around its beak spreads its wings.'
     link: 'https://flic.kr/p/9D3HG3'
     caption: 'Endangered Puerto Rican parrot ceremonially released at the Iguaca Aviary. Photo by Tom MacKenzie, USFWS.'
 tags:

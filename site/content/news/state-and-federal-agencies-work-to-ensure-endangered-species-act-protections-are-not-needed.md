@@ -1,5 +1,5 @@
 ---
-title: 'State and Federal Agencies Work to Ensure Endangered Species Act Protections are Not Needed'
+title: 'State and federal agencies work to ensure Endangered Species Act protections are not needed'
 date: '2014-05-13'
 hero:
     name: langinappe-crayfish.jpg

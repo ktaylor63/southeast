@@ -1,6 +1,6 @@
 ---
-title: 'Service Protects Eight Gulf Coast Mussels under the Endangered Species Act'
-subtitle: 'Information from the Public, Scientific Community Informs Final Decision'
+title: 'Service protects eight Gulf coast mussels under the Endangered Species Act'
+subtitle: 'Information from the public, scientific community informs final decision'
 date: '2012-10-09'
 hero:
     name: alabama-mussels.jpg

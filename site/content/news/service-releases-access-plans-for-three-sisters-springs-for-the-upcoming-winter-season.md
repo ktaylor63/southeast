@@ -1,5 +1,5 @@
 ---
-title: 'Service Releases Access Plans for Three Sisters Springs for the Upcoming Winter Season'
+title: 'Service releases access plans for Three Sisters Springs for the upcoming winter season'
 date: '2016-09-15'
 hero:
     name: manatee-group-near-surface.jpg

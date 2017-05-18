@@ -1,5 +1,5 @@
 ---
-title: 'Fish and Wildlife Service, N.C. Wildlife Resources Commission Strengthen Collaboration to Improve the Lake’s Health & Boost Outdoor Recreation at Mattamuskeet NWR'
+title: 'Fish and Wildlife Service, North Carolina Wildlife Resources Commission strengthen collaboration to improve the lake’s health and boost outdoor recreation at Mattamuskeet National Wildlife Refuge'
 date: '2016-02-11'
 hero:
     name: lake-mattamuskeet-mixed-flock.jpg

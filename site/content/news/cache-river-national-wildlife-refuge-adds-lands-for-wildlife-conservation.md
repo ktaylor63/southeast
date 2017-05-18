@@ -1,5 +1,5 @@
 ---
-title: 'Cache River National Wildlife Refuge Adds Lands for Wildlife Conservation'
+title: 'Cache River National Wildlife Refuge adds lands for wildlife conservation'
 date: '2016-05-04'
 hero:
     name: cache-river-basin.jpg

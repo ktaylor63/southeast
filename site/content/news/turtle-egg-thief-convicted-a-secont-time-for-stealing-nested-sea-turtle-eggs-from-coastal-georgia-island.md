@@ -1,5 +1,5 @@
 ---
-title: 'Turtle-egg Thief Convicted a Second Time for Stealing Nested Sea Turtle Eggs from Coastal Georgia Island'
+title: 'Turtle-egg thief convicted a second time for stealing nested sea turtle eggs from coastal Georgia island'
 date: '2015-08-31'
 hero:
     name: loggerhead-hatchling-meets-ocean.jpg

@@ -1,5 +1,5 @@
 ---
-title: 'Recovery Plan for Endangered Golden Sedge Available'
+title: 'Recovery plan for endangered golden sedge available'
 date: '2014-05-21'
 hero:
     name: golden-sedge.jpg

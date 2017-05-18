@@ -1,5 +1,5 @@
 ---
-title: 'Service to List Florida Bristle Fern as Endangered'
+title: 'Service to list Florida bristle fern as endangered'
 date: '2015-10-05'
 hero:
     name: florida-bristle-fern.jpg

@@ -1,5 +1,5 @@
 ---
-title: 'Endangered Species Wildlife on Luxury Yacht in South Florida Results in Conviction, Seizure and Forfeitures'
+title: 'Endangered species wildlife on luxury yacht in south Florida results in conviction, seizure and forfeitures'
 date: '2009-05-13'
 hero:
     name: ivory-crush.jpg

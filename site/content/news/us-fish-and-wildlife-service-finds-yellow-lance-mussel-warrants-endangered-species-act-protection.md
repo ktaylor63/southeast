@@ -1,5 +1,5 @@
 ---
-title: 'U.S. Fish and Wildlife Service Finds Yellow Lance Mussel Warrants Endangered Species Act Protection'
+title: 'U.S. Fish and Wildlife Service finds yellow lance mussel warrants Endangered Species Act protection'
 description: 'A freshwater mussel native to waters from Maryland to North Carolina along the Atlantic seaboard is declining.  Recent surveys showed the yellow lance mussel has lost 57 percent of its historical range.'
 hero:
     name: yellow-lance.jpg

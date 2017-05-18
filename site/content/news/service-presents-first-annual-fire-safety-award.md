@@ -1,5 +1,5 @@
 ---
-title: 'Service Presents First Annual Fire Safety Award'
+title: 'Service presents first annual fire safety award'
 date: '2014-04-16'
 hero:
     name: okefenokee-fire.jpg

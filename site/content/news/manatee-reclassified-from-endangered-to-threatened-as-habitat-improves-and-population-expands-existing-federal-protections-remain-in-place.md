@@ -1,5 +1,5 @@
 ---
-title: 'Manatee Reclassified from Endangered to Threatened as Habitat Improves and Population Expands - Existing Federal Protections Remain in Place'
+title: 'Manatee reclassified from endangered to threatened as habitat improves and population expands - existing federal protections remain in place'
 subtitle: 'Partnerships bringing giant sea cow back from brink of extinction'
 hero:
     name: manatees-crystal-river.jpg

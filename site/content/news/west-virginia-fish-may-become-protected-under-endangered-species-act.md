@@ -1,5 +1,5 @@
 ---
-title: 'West Virginia fish May become protected under Endangered Species Act'
+title: 'West Virginia fish may become protected under Endangered Species Act'
 date: '2012-07-25'
 tags:
     - 'Diamond darter'

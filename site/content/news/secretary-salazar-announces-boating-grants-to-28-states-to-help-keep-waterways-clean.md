@@ -1,5 +1,5 @@
 ---
-title: 'Secretary Salazar Announces Boating Grants to 28 States to Help Keep Waterways Clean'
+title: 'Secretary Salazar announces boating grants to 28 states to help keep waterways clean'
 date: '2009-06-09'
 hero:
     name: boating.jpg

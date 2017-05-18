@@ -1,5 +1,5 @@
 ---
-title: 'Secretary Salazar Announces $57.8 Million in Grants to Support Land Acquisition and Conservation Planning for Endangered Species'
+title: 'Secretary Salazar announces $57.8 Million in grants to support land acquisition and conservation planning for endangered species'
 date: '2009-04-21'
 hero:
     name: karner-blue-butterfly.jpg

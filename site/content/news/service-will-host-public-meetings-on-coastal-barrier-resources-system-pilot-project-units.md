@@ -1,5 +1,5 @@
 ---
-title: 'Service Will Host Public Meetings on Coastal Barrier Resources System Pilot Project Units'
+title: 'Service will host public meetings on coastal barrier resources system pilot project units'
 date: '2009-06-29'
 hero:
     name: pea-island-breaches.jpg

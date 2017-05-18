@@ -1,5 +1,5 @@
 ---
-title: 'Hummingbirds Create Buzz on Outer Banks'
+title: 'Hummingbirds create buzz on Outer Banks'
 date: '2009-09-14'
 hero:
     name: annas-hummingbird.jpg

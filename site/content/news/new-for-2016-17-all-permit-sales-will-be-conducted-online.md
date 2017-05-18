@@ -1,5 +1,5 @@
 ---
-title: 'New for 2016-17, All Permit Sales Will be Conducted Online'
+title: 'New for 2016-17, all permit sales will be conducted online'
 date: '2016-04-25'
 hero:
     name: cache-river-flooded-swamp.jpg

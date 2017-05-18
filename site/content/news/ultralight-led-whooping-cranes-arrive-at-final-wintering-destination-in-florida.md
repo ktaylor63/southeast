@@ -1,5 +1,5 @@
 ---
-title: 'Ultralight-led Whooping Cranes Arrive at Final Wintering Destination in Florida'
+title: 'Ultralight-led whooping cranes arrive at final wintering destination in Florida'
 date: '2010-01-02'
 hero:
     name: st-marks-nwr-lighthouse.jpg

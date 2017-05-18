@@ -1,6 +1,6 @@
 ---
-title: 'U.S. Fish and Wildlife Service Designates Critical Habitat for Two South Florida Cacti'
-subtitle: 'Also Releases Economic Analysis'
+title: 'U.S. Fish and Wildlife Service designates critical habitat for two south Florida cacti'
+subtitle: 'Also releases economic analysis'
 date: '2016-01-21'
 tags:
     - Florida

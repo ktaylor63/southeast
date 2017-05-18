@@ -1,5 +1,5 @@
 ---
-title: 'Fish and Wildlife Service Partners with Rosalynn Carter Butterfly Trail to Save the Monarch Butterfly'
+title: 'Fish and Wildlife Service partners with Rosalynn Carter Butterfly Trail to save the monarch butterfly'
 date: '2015-06-15'
 hero:
     name: monarch-on-purple-flower.jpg

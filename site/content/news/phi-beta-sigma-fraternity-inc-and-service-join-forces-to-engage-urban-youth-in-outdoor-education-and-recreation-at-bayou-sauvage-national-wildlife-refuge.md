@@ -1,5 +1,5 @@
 ---
-title: 'Phi Beta Sigma Fraternity, Inc. and U.S. Fish and Wildlife Service Join Forces to Engage Urban Youth in Outdoor Education and Recreation at Bayou Sauvage National Wildlife Refuge'
+title: 'Phi Beta Sigma Fraternity, Inc. and U.S. Fish and Wildlife Service join forces to engage urban youth in outdoor education and recreation at Bayou Sauvage National Wildlife Refuge'
 date: '2015-05-19'
 hero:
     name: phi-beta-sigma-planting-trees.jpg

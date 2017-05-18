@@ -1,5 +1,5 @@
 ---
-title: 'Fish and Wildlife Service and the Wildlife Habitat Council partner to save Monarchs'
+title: 'Fish and Wildlife Service and the Wildlife Habitat Council partner to save monarchs'
 date: '2015-06-17'
 hero:
     name: monarch-fueling-up.jpg

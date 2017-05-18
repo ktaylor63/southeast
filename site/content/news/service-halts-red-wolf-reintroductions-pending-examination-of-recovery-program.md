@@ -1,5 +1,5 @@
 ---
-title: 'Service Halts Red Wolf Reintroductions Pending Examination of Recovery Program'
+title: 'Service halts red wolf reintroductions pending examination of recovery program'
 subtitle: 'Will manage animals already in the wild under existing rules for non-essential, experimental population'
 date: '2015-06-30'
 hero:

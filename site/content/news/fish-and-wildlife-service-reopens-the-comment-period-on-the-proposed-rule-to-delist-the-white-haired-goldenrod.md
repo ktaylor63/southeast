@@ -1,5 +1,5 @@
 ---
-title: 'Fish and Wildlife Service Reopens the Comment Period on the Proposed Rule to Delist the White Haired Goldenrod'
+title: 'Fish and Wildlife Service reopens the comment period on the proposed rule to delist the white-haired goldenrod'
 date: '2016-02-25'
 hero:
     name: white-haired-goldenrod-crevace.jpg

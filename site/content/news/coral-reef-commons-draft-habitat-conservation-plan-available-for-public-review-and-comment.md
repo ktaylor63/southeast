@@ -1,6 +1,5 @@
 ---
-title: 'Coral Reef Commons Draft Habitat Conservation Plan Available for Public Review and Comment'
-description: 'VERO BEACH, Fla. – The U.S. Fish and Wildlife Service is seeking public comments on a developer’s plan to avoid, minimize, and mitigate impacts to eight threatened, endangered, and at-risk species in Miami-Dade County. The plan is part of a process to clear the way for construction to begin on a 137-acre residential and commercial project in south Miami.'
+title: 'Coral reef commons draft habitat conservation plan available for public review and comment'
 hero:
     name: elkhorn-coral-spawning.jpg
     alt: 'Tree-like coral under what looks like snow from spawning coral.'

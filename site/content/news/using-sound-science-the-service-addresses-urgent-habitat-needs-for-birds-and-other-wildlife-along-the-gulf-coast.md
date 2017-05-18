@@ -1,5 +1,5 @@
 ---
-title: 'Using Sound Science, the Service Addresses Urgent Habitat Needs for Birds and Other Wildlife Along the Gulf Coast'
+title: 'Using sound science, the service addresses urgent habitat needs for birds and other wildlife along the Gulf coast'
 date: '2010-07-08'
 hero:
     name: brown-pelican-near-shore-after-dwh-oil-spill.jpg

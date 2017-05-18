@@ -1,5 +1,5 @@
 ---
-title: 'Service Announces $5.7 Million in State Wildlife Grants to Help Imperiled Species'
+title: 'Service announces $5.7 million in state wildlife grants to help imperiled species'
 date: '2012-08-23'
 hero:
     name: longleaf-pine-needles.jpg

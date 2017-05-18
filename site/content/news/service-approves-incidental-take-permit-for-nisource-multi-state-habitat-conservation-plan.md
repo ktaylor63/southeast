@@ -1,5 +1,5 @@
 ---
-title: Service Approves Incidental Take Permit for NiSource Multi-state Habitat Conservation Plan
+title: Service approves incidental take permit for NiSource multi-state Habitat Conservation Plan
 date: '2013-11-14'
 hero:
   name: kirtlands-warbler.jpg

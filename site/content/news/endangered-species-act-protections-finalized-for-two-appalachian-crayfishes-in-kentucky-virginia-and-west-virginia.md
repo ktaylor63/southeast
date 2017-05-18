@@ -1,5 +1,5 @@
 ---
-title: 'Endangered Species Act Protections Finalized for Two Appalachian Crayfishes in Kentucky, Virginia and West Virginia'
+title: 'Endangered Species Act protections finalized for two Appalachian crayfishes in Kentucky, Virginia and West Virginia'
 subtitle: 'Biologists seek partners to conserve Guyandotte River, Big Sandy crayfishes'
 date: '2016-04-06'
 tags:

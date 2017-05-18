@@ -1,5 +1,5 @@
 ---
-title: 'Service Initiates Status Review of Bay Skipper Butterfly'
+title: 'Service initiates status review of bay skipper butterfly'
 date: '2011-07-12'
 hero:
     name: bay-skipper.jpg

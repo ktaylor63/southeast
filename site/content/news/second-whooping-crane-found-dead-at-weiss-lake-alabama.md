@@ -1,5 +1,5 @@
 ---
-title: 'Second Whooping Crane Found Dead at Weiss Lake, Alabama'
+title: 'Second whooping crane found dead at Weiss Lake, Alabama'
 date: '2011-02-18'
 hero:
     name: whooping-cranes-forage-at-wheeler-nwr.jpg

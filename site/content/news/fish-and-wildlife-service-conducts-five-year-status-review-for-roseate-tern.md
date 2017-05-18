@@ -1,5 +1,5 @@
 ---
-title: 'Fish and Wildlife Service Conducts Five-year Status Review for Roseate Tern'
+title: 'Fish and Wildlife Service conducts five-year status review for roseate tern'
 hero:
     name: roseate-tern.jpg
     alt: 'A white bird with a black cap and forked tail flying in front of a blue sky.'

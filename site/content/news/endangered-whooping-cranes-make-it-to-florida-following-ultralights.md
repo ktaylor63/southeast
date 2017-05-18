@@ -1,5 +1,5 @@
 ---
-title: 'Endangered Whooping Cranes Make it to Florida Following Ultralights'
+title: 'Endangered whooping cranes make it to Florida following ultralights'
 subtitle: 'Good Chance for St. Marks Flyover on New Year’s Day'
 description: 'Eight young whooping cranes that began their aircraft-led migration on October 2, 2013, from the White River Marsh State Wildlife Area in Green Lake County, Wisconsin, today made it to Leon County, Florida.'
 date: '2013-12-31'

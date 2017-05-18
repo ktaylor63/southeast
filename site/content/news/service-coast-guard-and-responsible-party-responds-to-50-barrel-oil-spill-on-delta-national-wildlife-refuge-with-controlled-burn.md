@@ -1,5 +1,5 @@
 ---
-title: 'Service, Coast Guard, and Responsible Party Responds to 50-Barrel Oil Spill on Delta National Wildlife Refuge with Controlled Burn'
+title: 'Service, Coast Guard, and responsible party responds to 50-barrel oil spill on Delta National Wildlife Refuge with controlled burn'
 date: '2014-06-03'
 hero:
     name: oil-boom.jpg

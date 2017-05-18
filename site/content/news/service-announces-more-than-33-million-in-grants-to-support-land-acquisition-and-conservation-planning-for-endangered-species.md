@@ -1,5 +1,5 @@
 ---
-title: Service Announces More Than $33 Million in Grants to Support Land Acquisition and Conservation Planning for Endangered Species
+title: Service announces more than $33 million in grants to support land acquisition and conservation planning for endangered species
 date: '2012-08-14'
 hero:
   name: kirtlands-warbler.jpg

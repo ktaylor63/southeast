@@ -1,5 +1,5 @@
 ---
-title: 'First two birds, oiled from the Gulf spill, readied for release at Pelican NWR'
+title: 'First two birds, oiled from the Gulf spill, readied for release at Pelican National Wildlife Refuge'
 date: '2010-05-09'
 hero:
     name: northern-gannet-oil-spill.jpg

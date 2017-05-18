@@ -1,5 +1,5 @@
 ---
-title: 'Recovery Plan for Endangered Frog Available'
+title: 'Recovery plan for endangered frog available'
 date: '2015-09-09'
 hero:
     name: mississippi-gopher-frog.jpg

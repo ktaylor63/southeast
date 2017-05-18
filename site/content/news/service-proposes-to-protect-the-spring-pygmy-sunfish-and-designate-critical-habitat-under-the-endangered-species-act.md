@@ -1,6 +1,6 @@
 ---
-title: 'Service Proposes to Protect the Spring Pygmy Sunfish and Designate Critical Habitat under the Endangered Species Act'
-subtitle: 'Agency Seeks Information from the Public, Scientific Community before Making Final Decision'
+title: 'Service proposes to protect the spring pygmy sunfish and designate Critical Habitat under the Endangered Species Act'
+subtitle: 'Agency seeks information from the public, scientific community before making final decision'
 date: '2012-10-01'
 hero:
     name: spring-pygmy-sunfish.jpg

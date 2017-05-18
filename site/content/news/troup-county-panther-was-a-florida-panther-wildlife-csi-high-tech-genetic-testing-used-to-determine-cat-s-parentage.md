@@ -1,5 +1,5 @@
 ---
-title: 'Troup County Panther was a Florida Panther -- Wildlife CSI: High-Tech Genetic Testing Used to Determine Cat’s Parentage'
+title: 'Troup county panther was a Florida panther -- wildlife CSI: high-tech genetic testing used to determine cat’s parentage'
 date: '2009-08-05'
 hero:
     name: florida-panther-shot-dead.jpg

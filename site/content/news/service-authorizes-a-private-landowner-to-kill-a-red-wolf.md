@@ -1,5 +1,5 @@
 ---
-title: 'Service Authorizes a Private Landowner to Kill a Red Wolf'
+title: 'Service authorizes a private landowner to kill a red wolf'
 date: '2015-06-25'
 hero:
     name: red-wolf-crouching.jpg

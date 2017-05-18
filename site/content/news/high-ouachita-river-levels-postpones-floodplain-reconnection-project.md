@@ -1,5 +1,5 @@
 ---
-title: 'High Ouachita River Levels Postpones Floodplain Reconnection Project'
+title: 'High Ouachita River levels postpones floodplain reconnection project'
 date: '2009-05-19'
 hero:
     name: upper-ouachita-waterfowl.jpg

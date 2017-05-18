@@ -1,5 +1,5 @@
 ---
-title: 'Service Proposes to List the Black Pinesnake as Threatened'
+title: 'Service proposes to list the black pinesnake as threatened'
 date: '2014-10-06'
 hero:
     name: black-pinesnake.jpg

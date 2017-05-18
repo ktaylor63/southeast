@@ -1,8 +1,8 @@
 ---
-title: 'Lab Confirms Lead Poisoning Cause of Death of Bald Eagle Found at Norris Lake'
+title: 'Lab confirms lead poisoning cause of death of bald eagle found at Norris Lake'
 hero:
     name: eagle-poisoning-mortality-norris-lake.jpg
-    alt: 'A deal bald eagle on it''s back in the lab.'
+    alt: 'A deal bald eagle on its back in the lab.'
     caption: 'Eagle carcass recovered at Norris Lake. Photo by Dr. Rhoda M. Ralston, DVM, Senior Veterinary Medical Examiner.'
     position: 'center left'
 date: '2009-05-28'

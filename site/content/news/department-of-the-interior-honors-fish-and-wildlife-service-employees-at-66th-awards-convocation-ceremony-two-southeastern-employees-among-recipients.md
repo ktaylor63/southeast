@@ -1,5 +1,6 @@
 ---
-title: 'Department of the Interior Honors Fish and Wildlife Service Employees at 66th Awards Convocation Ceremony Two Southeastern Employees Among Recipients'
+title: 'Department of the Interior honors Fish and Wildlife Service employees at 66th awards convocation ceremony'
+subtitle: 'Two Southeastern employees among recipients'
 date: '2009-05-13'
 hero:
     name: leadership-at-noxubee.jpg

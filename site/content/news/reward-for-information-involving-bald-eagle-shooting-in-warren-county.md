@@ -1,5 +1,5 @@
 ---
-title: '$2,500 Reward for Information Involving Bald Eagle Shooting in Warren County'
+title: '$2,500 reward for information involving bald eagle shooting in Warren county'
 date: '2011-03-31'
 hero:
     name: bald-eagle.jpg

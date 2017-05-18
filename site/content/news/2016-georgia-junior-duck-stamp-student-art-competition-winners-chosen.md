@@ -1,5 +1,5 @@
 ---
-title: '2016 Georgia Junior Duck Stamp Student Art Competition Winners Chosen!'
+title: '2016 Georgia junior duck stamp student art competition winners chosen'
 date: '2016-04-07'
 hero:
     name: junior-duck-stamp-winnder-2016.jpg

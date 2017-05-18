@@ -1,5 +1,5 @@
 ---
-title: 'Stimulus Funds Help Determine Future of Endangered Key Deer at Florida Keys Refuge'
+title: 'Stimulus funds help determine future of endangered key deer at Florida Keys Refuge'
 date: '2010-04-27'
 hero:
     name: key-deer-after-prescribed-burn.jpg

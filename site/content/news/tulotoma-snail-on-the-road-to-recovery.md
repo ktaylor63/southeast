@@ -1,5 +1,5 @@
 ---
-title: 'Tulotoma Snail on the Road to Recovery'
+title: 'Tulotoma snail on the road to recovery'
 date: '2010-06-22'
 hero:
     name: tulotoma-snails.jpg

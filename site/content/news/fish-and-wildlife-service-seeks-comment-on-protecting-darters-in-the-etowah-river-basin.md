@@ -1,5 +1,5 @@
 ---
-title: 'Fish and Wildlife Service Seeks Comment on Protecting Darters in the Etowah River Basin'
+title: 'Fish and Wildlife Service seeks comment on protecting darters in the Etowah River basin'
 date: '2009-07-07'
 hero:
     name: etowah-darter.jpg

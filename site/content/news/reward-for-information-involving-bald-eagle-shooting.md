@@ -1,6 +1,6 @@
 ---
-title: '$10,000 Reward for Information Involving Bald Eagle Shooting'
-subtitle: 'Wounded Eagle Recovering'
+title: '$10,000 reward for information involving bald eagle shooting'
+subtitle: 'Wounded eagle recovering'
 date: '2015-01-27'
 hero:
     name: bald-eagle-wounded-vonroe.jpg

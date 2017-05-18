@@ -1,6 +1,6 @@
 ---
-title: 'U.S. Fish and Wildlife Service to Reclassify West Indian Manatee from Endangered to Threatened'
-subtitle: 'Endangered Species Act Protections Helped Rescue Beloved Southeastern Sea Cow from Brink of Extinction; Service will Continue to Lead Conservation Actions to Increase Species Population, Reduce Threats & Improve Habitat Conditions'
+title: 'U.S. Fish and Wildlife Service to reclassify West Indian manatee from endangered to threatened'
+subtitle: 'Endangered Species Act protections helped rescue beloved southeastern sea cow from brink of extinction; Service will continue to lead conservation actions to increase species population, reduce threats & improve habitat conditions'
 date: '2016-01-07'
 tags:
     - Manatee

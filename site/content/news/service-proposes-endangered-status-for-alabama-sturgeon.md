@@ -1,5 +1,5 @@
 ---
-title: Service Proposes Endangered Status For Alabama Sturgeon
+title: Service proposes endangered status for Alabama sturgeon
 date: '2014-03-11'
 hero:
   name: cahaba-river-lillies.jpg

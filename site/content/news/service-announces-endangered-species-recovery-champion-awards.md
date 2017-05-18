@@ -1,5 +1,5 @@
 ---
-title: 'Service Announces Endangered Species Recovery Champion Awards'
+title: 'Service announces endangered species recovery champion awards'
 date: '2012-03-20'
 hero:
     name: pigeon-river.jpg
@@ -10,6 +10,7 @@ hero:
 tags:
     - Recovery
     - Alabama
+    - Recovery Champions
 updated: 'March 13th, 2017'
 ---
 

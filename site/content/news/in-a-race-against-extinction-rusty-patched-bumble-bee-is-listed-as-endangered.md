@@ -1,6 +1,6 @@
 ---
-title: 'In a Race Against Extinction, Rusty Patched Bumble Bee is Listed as Endangered'
-subtitle: 'First Bumble Bee Protected Under the Endangered Species Act'
+title: 'In a race against extinction, rusty patched bumble bee is listed as endangered'
+subtitle: 'First bumble bee protected under the Endangered Species Act'
 date: '2017-01-10'
 tags:
     - 'Endangered Species Act'

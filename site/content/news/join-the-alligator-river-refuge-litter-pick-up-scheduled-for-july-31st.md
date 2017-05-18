@@ -1,5 +1,5 @@
 ---
-title: 'Join the Alligator River Refuge Litter Pick-up Scheduled for July 31st'
+title: 'Join the Alligator River Refuge litter pick-up scheduled for July 31st'
 date: '2009-07-22'
 hero:
     name: black-bear-cubs-alligator-river.jpg

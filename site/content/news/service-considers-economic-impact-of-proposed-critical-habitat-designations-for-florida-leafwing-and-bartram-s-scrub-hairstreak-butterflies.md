@@ -1,5 +1,5 @@
 ---
-title: 'Service Considers Economic Impact of Proposed Critical Habitat Designations for Florida leafwing and Bartram’s scrub-hairstreak butterflies'
+title: 'Service considers economic impact of proposed Critical Habitat designations for Florida leafwing and Bartram’s scrub-hairstreak butterflies'
 date: '2014-05-07'
 hero:
     name: bartrams-hairstreak.jpg

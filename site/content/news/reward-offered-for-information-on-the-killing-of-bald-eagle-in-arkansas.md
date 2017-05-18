@@ -1,5 +1,5 @@
 ---
-title: 'Reward Offered for Information on the Killing of Bald Eagle in Arkansas'
+title: 'Reward offered for information on the killing of bald eagle in Arkansas'
 date: '2015-02-15'
 updated: 'March 19th, 2017'
 hero:

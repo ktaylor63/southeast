@@ -1,5 +1,5 @@
 ---
-title: 'U.S. Fish and Wildlife Service Proposes to List Miami Tiger Beetle as Endangered'
+title: 'U.S. Fish and Wildlife Service proposes to list Miami tiger beetle as endangered'
 date: '2015-12-18'
 hero:
     link: 'https://flic.kr/p/BEwwVZ'

@@ -1,5 +1,5 @@
 ---
-title: 'Interior Seeks Ideas to Further Strengthen Incentives and Voluntary Partnerships for Landowner Conservation of Wildlife'
+title: 'Interior seeks ideas to further strengthen incentives and voluntary partnerships for landowner conservation of wildlife'
 date: '2012-03-14'
 hero:
     name: sunrise-over-dune.jpg

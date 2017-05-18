@@ -1,5 +1,5 @@
 ---
-title: 'Service Seeks Comments on Draft Economic Analysis and Proposed Critical Habitat for Vermilion Darter'
+title: 'Service seeks comments on draft economic analysis and proposed Critical Habitat for vermilion darter'
 date: '2010-06-29'
 hero:
     name: vermillion-darter.jpg

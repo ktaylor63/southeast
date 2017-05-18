@@ -1,5 +1,5 @@
 ---
-title: 'Service Reopens Comment Period On Proposal to List the Northern Long-eared Bat as Endangered'
+title: 'Service reopens comment period on proposal to list the northern long-eared bat as endangered'
 date: '2014-11-18'
 hero:
     name: northern-log-eared-bat.jpg

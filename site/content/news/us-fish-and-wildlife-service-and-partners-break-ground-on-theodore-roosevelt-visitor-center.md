@@ -1,5 +1,5 @@
 ---
-title: 'U.S. Fish and Wildlife Service and Partners Break Ground on Theodore Roosevelt Visitor Center'
+title: 'U.S. Fish and Wildlife Service and partners break ground on Theodore Roosevelt visitor center'
 date: '2016-10-12'
 tags:
     - Mississippi

@@ -1,5 +1,5 @@
 ---
-title: 'Corps and Service Agree On Actions for Conserving Cape Sable Seaside Sparrow and Restoring Balance to Everglades Ecosystem'
+title: 'Corps and Service agree on actions for conserving cape sable seaside sparrow and restoring balance to Everglades ecosystem'
 subtitle: 'Restoration efforts already underway must happen faster to protect water, wildlife habitat and other natural resources'
 date: '2016-07-22'
 tags:

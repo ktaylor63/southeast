@@ -1,5 +1,5 @@
 ---
-title: 'Fish and Wildlife Service Extends Comment Period Two Weeks for Red Wolf Recovery Program Evaluation'
+title: 'Fish and Wildlife Service extends comment period two weeks for red wolf recovery program evaluation'
 date: '2014-09-12'
 hero:
     name: red-wolf-adult-brad-mcphee.jpg

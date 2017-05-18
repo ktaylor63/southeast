@@ -1,5 +1,5 @@
 ---
-title: 'Secretary Salazar Announces $35.7 Million for Refuge Acquisitions and Wetlands Grants for Migratory Birds'
+title: 'Secretary Salazar announces $35.7 million for refuge acquisitions and wetlands grants for migratory birds'
 date: '2010-06-01'
 hero:
     name: lower-hatchie-mississippi-river.jpg

@@ -1,5 +1,5 @@
 ---
-title: 'Salazar Announces $53 Million in Grants to Support Habitat Acquisition and Conservation Planning for Endangered Species'
+title: 'Salazar announces $53 Million in grants to support habitat acquisition and conservation planning for endangered species'
 date: '2011-08-24'
 hero:
     name: brown-pelicans-breton-island-nwr.jpg

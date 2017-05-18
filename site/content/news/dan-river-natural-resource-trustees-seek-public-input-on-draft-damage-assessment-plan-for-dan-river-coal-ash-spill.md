@@ -1,5 +1,5 @@
 ---
-title: Dan River Natural Resource Trustees Seek Public Input on Draft Damage Assessment Plan for Dan River Coal Ash Spill
+title: Dan River natural resource trustees seek public input on draft damage assessment plan for Dan River coal ash spill
 date: '2015-06-16'
 hero:
   name: dan-river-coal-ash-spill.jpg

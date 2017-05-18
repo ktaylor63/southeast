@@ -1,5 +1,5 @@
 ---
-title: 'Service Proposes to Protect Neosho Mucket and Rabbitsfoot under the Endangered Species Act'
+title: 'Service proposes to protect neosho mucket and rabbitsfoot under the Endangered Species Act'
 date: '2012-10-15'
 hero:
     name: rabbitsfoot.jpg

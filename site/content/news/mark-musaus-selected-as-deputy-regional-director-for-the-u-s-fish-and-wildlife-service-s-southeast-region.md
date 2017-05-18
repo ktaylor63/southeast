@@ -1,5 +1,5 @@
 ---
-title: 'Mark Musaus Selected as Deputy Regional Director for the U.S. Fish and Wildlife Service’s Southeast Region'
+title: 'Mark Musaus selected as Deputy Regional Director for the U.S. Fish and Wildlife Service’s Southeast Region'
 hero:
     name: loxahatchee-sunrise.jpg
     alt: 'A sunrises over a stream.'

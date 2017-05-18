@@ -1,5 +1,5 @@
 ---
-title: 'Okaloosa Darter On the Road to Recovery'
+title: 'Okaloosa darter on the road to recovery'
 date: '2011-03-28'
 hero:
     name: okaloosa-darter.jpg

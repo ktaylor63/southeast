@@ -1,5 +1,5 @@
 ---
-title: 'Public Comment to be Reopened on Proposed Critical Habitat for Two Federally Protected Mussel Species'
+title: 'Public comment to be reopened on proposed Critical Habitat for two federally protected mussel species'
 date: '2014-05-06'
 hero:
     name: rabbitsfoot.jpg

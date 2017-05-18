@@ -1,5 +1,5 @@
 ---
-title: 'Final Recovery Plan for Endangered Pyne''s Ground-Plum Available'
+title: 'Final recovery plan for endangered Pynes ground-plum available'
 date: '2011-08-09'
 hero:
     name: pynes-ground-plum.jpg

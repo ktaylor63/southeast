@@ -1,5 +1,5 @@
 ---
-title: 'Reward Offered for Information about Bald Eagle Death on Lake Norris'
+title: 'Reward offered for information about bald eagle death on Lake Norris'
 date: '2009-04-10'
 hero:
     name: bald-eagle-ready-for-flight.jpg

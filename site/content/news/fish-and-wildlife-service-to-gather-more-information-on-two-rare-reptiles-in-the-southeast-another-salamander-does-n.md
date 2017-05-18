@@ -1,5 +1,5 @@
 ---
-title: 'Fish and Wildlife Service to Gather More Information On Two Rare Reptiles in the Southeast'
+title: 'Fish and Wildlife Service to gather more information on two rare reptiles in the Southeast'
 subtitle: 'Another Salamander Does Not Need Further Review'
 date: '2016-09-13'
 hero:

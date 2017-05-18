@@ -1,5 +1,5 @@
 ---
-title: Service Proposes Endangered Species Status and Critical Habitat Designations for the Georgia Pigtoe Mussel, Interrupted Rocksnail, and Rough Hornsnail
+title: Service proposes endangered species status and Critical Habitat designations for the Georgia pigtoe mussel, interrupted rocksnail, and rough hornsnail
 date: '2009-06-29'
 hero:
     name: interrupted-rocksnail.jpg

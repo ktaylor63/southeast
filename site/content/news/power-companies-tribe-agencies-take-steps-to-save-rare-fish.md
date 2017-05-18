@@ -1,11 +1,12 @@
 ---
-title: 'Power Companies, Tribe, Agencies Take Steps to Save Rare Fish'
+title: 'Power companies, tribe, agencies take steps to save rare fish'
 date: '2016-02-23'
 tags:
     - Tribes
     - 'North Carolina'
     - Georgia
     - Tennessee
+    - Sicklefin Redhorse
 hero:
     name: sicklefin-redhorse.jpg
     alt: 'A NC biologist holding a sicklefin redhorse on a river bank in front of a hydroelectric dam.'

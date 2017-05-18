@@ -1,5 +1,5 @@
 ---
-title: 'Young Whooping Cranes Will Learn Migration Route from their Elders'
+title: 'Young whooping cranes will learn migration route from their elders'
 date: '2009-10-26'
 hero:
     name: whooping-crane-release.jpg

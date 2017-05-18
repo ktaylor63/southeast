@@ -1,5 +1,5 @@
 ---
-title: 'Fish and Wildlife Service Celebrates Endangered Species Day'
+title: 'Fish and Wildlife Service celebrates Endangered Species Day'
 date: '2009-05-13'
 hero:
     name: louisiana-black-bear-cubs-three.jpg

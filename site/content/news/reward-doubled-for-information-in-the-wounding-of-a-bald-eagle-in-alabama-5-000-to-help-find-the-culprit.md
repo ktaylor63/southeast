@@ -1,5 +1,5 @@
 ---
-title: 'Reward Doubled for Information in the Wounding of a Bald Eagle in Alabama - $5,000 to Help Find the Culprit'
+title: 'Reward doubled for information in the wounding of a bald eagle in Alabama -- $5,000 to help find the culprit'
 date: '2012-02-24'
 hero:
     name: bald-eagle-wounded-tuscaloosa.jpg

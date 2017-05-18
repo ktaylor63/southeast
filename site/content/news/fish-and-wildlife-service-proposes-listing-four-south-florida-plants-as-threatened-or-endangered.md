@@ -1,5 +1,5 @@
 ---
-title: 'Fish and Wildlife Service Proposes Listing Four South Florida Plants as Threatened or Endangered'
+title: 'Fish and Wildlife Service proposes listing four south Florida plants as threatened or endangered'
 date: '2015-09-28'
 tags:
     - 'Endangered Species Act'

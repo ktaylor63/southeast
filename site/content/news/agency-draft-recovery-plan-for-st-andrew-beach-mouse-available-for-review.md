@@ -1,5 +1,5 @@
 ---
-title: 'Agency Draft Recovery Plan for St. Andrew Beach Mouse Available for Review'
+title: 'Agency draft recovery plan for St. Andrew beach mouse available for review'
 date: '2009-04-22'
 hero:
     name: st-joseph-peninsula-state-park.jpg

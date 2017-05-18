@@ -1,5 +1,5 @@
 ---
-title: 'Wildlife Officers Seek Information on Tundra Swan Killings'
+title: 'Wildlife officers seek information on tundra swan killings'
 subtitle: '$1,000 reward offered'
 date: '2013-12-17'
 hero:

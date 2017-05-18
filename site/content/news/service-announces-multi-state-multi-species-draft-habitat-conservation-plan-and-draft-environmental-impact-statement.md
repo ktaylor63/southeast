@@ -1,5 +1,5 @@
 ---
-title: Service Announces Multi-state, Multi-species Draft Habitat Conservation Plan and Draft Environmental Impact Statement
+title: Service announces multi-state, multi-species draft habitat conservation plan and draft environmental impact statement
 date: '2011-07-12'
 hero:
     name: bog-turtle.jpg

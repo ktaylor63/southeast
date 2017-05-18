@@ -1,5 +1,5 @@
 ---
-title: 'Endangered Species Act Protections Proposed for Two Appalachian Crayfishes in Kentucky, Virginia and West Virginia'
+title: 'Endangered Species Act protections proposed for two Appalachian Crayfishes in Kentucky, Virginia and West Virginia'
 description: 'The U.S. Fish and Wildlife Service today proposed to list the Big Sandy crayfish and the Guyandotte River crayfish as endangered under the Endangered Species Act (ESA).'
 date: '2015-04-06'
 hero:

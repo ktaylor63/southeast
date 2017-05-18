@@ -1,5 +1,5 @@
 ---
-title: 'Service Reopens Public Comment Period on Plan to Restrict Giant Invasive Snakes'
+title: 'Service reopens public comment period on plan to restrict giant invasive snakes'
 date: '2010-07-01'
 hero:
     name: boa-constrictor.jpg

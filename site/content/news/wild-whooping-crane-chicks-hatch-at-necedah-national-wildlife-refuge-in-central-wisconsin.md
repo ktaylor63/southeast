@@ -1,9 +1,9 @@
 ---
-title: 'Wild Whooping Crane Chicks Hatch at Necedah National Wildlife Refuge in Central Wisconsin'
+title: 'Wild whooping crane chicks hatch at Necedah National Wildlife Refuge in central Wisconsin'
 date: '2011-05-13'
 hero:
     name: whooping-crane-chick.jpg
-    alt: 'A plush adult whooping crane with food attached to it''s plastic tongue feeds a small, beige chick.'
+    alt: 'A plush adult whooping crane with food attached to its plastic tongue feeds a small, beige chick.'
     link: 'https://flic.kr/p/9r47zc'
     caption: 'A whooping crane chick fed by a biologist in a rearing costume that mimics an adult crane.'
 tags:
@@ -14,7 +14,7 @@ updated: 'October 3rd, 2016'
 
 The U.S. Fish and Wildlife Service’s Necedah National Wildlife Refuge (NWR) and the Whooping Crane Eastern Partnership (WCEP) are celebrating another success in efforts to reintroduce a wild migratory whooping crane population in eastern North America.
 
-Three whooping crane chicks hatched this week at Necedah NWR in central Wisconsin. The first chick to hatch this season was the offspring of wild whooping crane W1-06\. W1-06 was hatched and raised in 2006 on Necedah NWR and is the first wild offspring from the eastern whooping crane reintroduction project started more than a decade ago.
+Three whooping crane chicks hatched this week at Necedah NWR in central Wisconsin. The first chick to hatch this season was the offspring of wild whooping crane W1-06. W1-06 was hatched and raised in 2006 on Necedah NWR and is the first wild offspring from the eastern whooping crane reintroduction project started more than a decade ago.
 
 The additional two chicks are the offspring of other well-established whooping crane pairs. Sadly, refuge biologists have been unable to locate the first chick in recent monitoring efforts. The chick may have been predated.
 

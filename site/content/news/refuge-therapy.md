@@ -1,5 +1,5 @@
 ---
-title: 'Refuge Therapy'
+title: 'Refuge therapy'
 date: '2013-12-20'
 hero:
     name: refuge-therapy.jpg

@@ -1,5 +1,5 @@
 ---
-title: 'U.S. Fish and Wildlife Service Extends Protections to Rare Mussel in Suwannee River Basin'
+title: 'U.S. Fish and Wildlife Service extends protections to rare mussel in Suwannee River basin'
 date: '2016-10-05'
 hero:
     name: suwannee-moccasinshell.jpg

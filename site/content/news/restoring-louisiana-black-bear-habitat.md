@@ -1,5 +1,5 @@
 ---
-title: 'Restoring Louisiana Black Bear Habitat'
+title: 'Restoring Louisiana black bear habitat'
 date: '2011-03-31'
 hero:
     name: louisiana-black-bear-cubs-three.jpg

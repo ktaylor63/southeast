@@ -1,5 +1,5 @@
 ---
-title: Alligator Takes Deer to Lunch in South Georgia
+title: Alligator takes deer to lunch in south Georgia
 hero:
   name: gator-with-deer.jpg
   alt: A large alligator with an adult deer in its mouth underwater.

@@ -1,5 +1,5 @@
 ---
-title: 'New Information Shows Sprague’s Pipit Does Not Require Federal Protection'
+title: 'New information shows sprague’s pipit does not require federal protection'
 date: '2016-04-04'
 tags:
     - 'Spragues Pipit'

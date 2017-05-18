@@ -1,5 +1,5 @@
 ---
-title: 'U.S. Fish and Wildlife Service Proposes to Expand Bog Conservation in North Carolina'
+title: 'U.S. Fish and Wildlife Service proposes to expand bog conservation in North Carolina'
 date: '2016-11-22'
 hero:
     name: bunched-arrowhead.jpg

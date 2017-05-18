@@ -1,5 +1,5 @@
 ---
-title: 'Service Releases 2014 List of Candidates for Endangered Species Act Protection'
+title: 'Service releases 2014 list of candidates for Endangered Species Act protection'
 date: '2014-12-05'
 hero:
     name: georgia-aster.jpg

@@ -1,5 +1,5 @@
 ---
-title: 'Interior Secretary Ken Salazar Announces More Than $19 Million in Grants to Protect Coastal Wetlands Across the Nation'
+title: 'Interior Secretary Ken Salazar announces more than $19 million in grants to protect coastal wetlands across the nation'
 date: '2010-12-22'
 hero:
     name: bog-nantahala-national-forest.jpg

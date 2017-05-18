@@ -1,5 +1,5 @@
 ---
-title: '$12,500 Reward for Information Involving Bald Eagle Shooting'
+title: '$12,500 reward for information involving bald eagle shooting'
 date: '2015-06-26'
 hero:
     name: bald-eagle-juvenile.jpg

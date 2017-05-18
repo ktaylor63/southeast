@@ -1,6 +1,6 @@
 ---
-title: 'Wanted: Information about a Bald Eagle Killed in Hamilton Co, Tennessee'
-subtitle: '$2,500 Reward Offered for Information Leading to a Conviction'
+title: 'Wanted: information about a bald eagle killed in Hamilton county, Tennessee'
+subtitle: '$2,500 reward offered for information leading to a conviction'
 date: '2016-05-12'
 hero:
     name: bald-eagle-dead-hamilton-county-tennessee.jpg

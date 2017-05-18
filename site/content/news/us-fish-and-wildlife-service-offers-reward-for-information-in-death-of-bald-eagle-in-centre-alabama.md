@@ -1,5 +1,5 @@
 ---
-title: 'Service Offers $2,500 Reward for Information in Death of Bald Eagle in Centre, Alabama'
+title: 'Service offers $2,500 reward for information in death of bald eagle in Centre, Alabama'
 date: '2017-03-10'
 hero:
     name: bald-eagle.jpg

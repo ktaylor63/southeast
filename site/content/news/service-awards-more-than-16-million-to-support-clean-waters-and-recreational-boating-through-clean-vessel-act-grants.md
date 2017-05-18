@@ -1,6 +1,6 @@
 ---
-title: 'Service Awards More Than $16 Million to Support Clean Waters and Recreational Boating Through Clean Vessel Act Grants'
-subtitle: 'Southeast Region Gets Nearly $3.7 Million'
+title: 'Service awards more than $16 million to support clean waters and recreational boating through clean vessel act grants'
+subtitle: 'Southeast region gets nearly $3.7 million'
 date: '2015-05-13'
 hero:
     name: boating.jpg

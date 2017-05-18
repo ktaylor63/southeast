@@ -1,6 +1,6 @@
 ---
-title: 'Eastern North Carolina Red Wolf Population Under Review'
-subtitle: 'Focus Group Sessions Scheduled'
+title: 'Eastern North Carolina Rrd wolf population under review'
+subtitle: 'Focus group sessions scheduled'
 date: '2014-08-29'
 tags:
     - 'North Carolina'

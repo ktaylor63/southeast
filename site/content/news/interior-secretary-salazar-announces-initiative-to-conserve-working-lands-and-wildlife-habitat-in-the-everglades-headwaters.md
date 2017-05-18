@@ -1,6 +1,6 @@
 ---
-title: 'Interior Secretary Salazar Announces Initiative to Conserve Working Lands and Wildlife Habitat in the Everglades Headwaters'
-subtitle: 'Process Marks New Approach to Land Conservation; Proposal Includes New Everglades Headwaters National Wildlife Refuge and Conservation Area'
+title: 'Interior Secretary Salazar announces initiative to conserve working lands and wildlife habitat in the Everglades Headwaters'
+subtitle: 'Process marks new approach to land conservation; proposal includes new Everglades Headwaters National Wildlife Refuge and Conservation Area'
 hero:
     name: everglades-headwaters-proposed-nwr.jpg
     alt: 'A grassy low-lying area under a bright blue sky.'

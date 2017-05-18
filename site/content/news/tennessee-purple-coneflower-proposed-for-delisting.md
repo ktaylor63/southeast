@@ -1,5 +1,5 @@
 ---
-title: 'Tennessee Purple Coneflower Proposed for Delisting'
+title: 'Tennessee purple coneflower proposed for delisting'
 date: '2010-08-12'
 hero:
     name: tennessee-purple-coneflower.jpg
@@ -9,7 +9,7 @@ hero:
     position: 'top right'
 tags:
     - Tennessee
-    - 'Tennessee coneflower'
+    - 'Tennessee Purple Coneflower'
     - Delist
     - Recovery
 updated: 'October 3rd, 2016'

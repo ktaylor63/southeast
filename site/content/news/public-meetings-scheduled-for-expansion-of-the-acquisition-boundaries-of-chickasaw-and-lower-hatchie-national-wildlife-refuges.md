@@ -1,5 +1,5 @@
 ---
-title: 'Public Meetings Scheduled for Expansion of the Acquisition Boundaries of Chickasaw and Lower Hatchie National Wildlife Refuges'
+title: 'Public meetings scheduled for expansion of the acquisition boundaries of Chickasaw and Lower Hatchie National Wildlife Refuges'
 date: '2014-04-25'
 hero:
     name: lower-hatchie-mississippi-river.jpg

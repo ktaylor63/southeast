@@ -1,5 +1,5 @@
 ---
-title: '$7,500 Reward for Information on Bald Eagle Killing in Louisiana'
+title: '$7,500 reward for information on bald eagle killing in Louisiana'
 date: '2014-04-11'
 hero:
     name: bald-eagle-ready-for-flight.jpg

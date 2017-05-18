@@ -1,5 +1,5 @@
 ---
-title: 'Service and Florida Wildlife Commission Investigates Migratory Bird Treaty Act Violation posted on Facebook'
+title: 'Service and Florida Wildlife Commission investigates Migratory Bird Treaty Act violation posted on Facebook'
 subtitle: 'Violation will be handled by Federal court in West Palm Beach'
 hero:
     name: great-horned-owl.jpg

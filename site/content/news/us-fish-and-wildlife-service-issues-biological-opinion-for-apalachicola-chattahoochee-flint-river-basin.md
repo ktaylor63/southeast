@@ -1,5 +1,5 @@
 ---
-title: 'U.S. Fish and Wildlife Service Issues Biological Opinion for Apalachicola-Chattahoochee-Flint River Basin'
+title: 'U.S. Fish and Wildlife Service issues biological opinion for Apalachicola-Chattahoochee-Flint River basin'
 date: '2016-10-05'
 tags:
     - Florida

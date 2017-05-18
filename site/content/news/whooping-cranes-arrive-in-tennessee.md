@@ -1,5 +1,5 @@
 ---
-title: 'Whooping Cranes Arrive in Tennessee'
+title: 'Whooping cranes arrive in Tennessee'
 subtitle: '2014 Cohort Arrived by Truck Today'
 date: '2014-11-14'
 hero:

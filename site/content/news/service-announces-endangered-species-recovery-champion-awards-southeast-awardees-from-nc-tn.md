@@ -1,5 +1,5 @@
 ---
-title: 'Service Announces Endangered Species Recovery Champion Awards: Southeast Awardees From NC, TN'
+title: 'Service announces endangered species recovery champion awards: southeast awardees from NC, TN'
 date: '2011-03-18'
 hero:
     name: rabbitsfoot.jpg
@@ -9,6 +9,7 @@ tags:
     - Recovery
     - 'North Carolina'
     - Tennessee
+    - Recovery Champions
     - Alabama
 updated: 'October 20th, 2016'
 ---

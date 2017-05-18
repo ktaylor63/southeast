@@ -1,5 +1,5 @@
 ---
-title: 'Litzenberger named Refuge Manager of the Year'
+title: 'Litzenberger named refuge manager of the year'
 date: '2011-03-17'
 hero:
     name: pelican-lands-breton-island-nwr.jpg

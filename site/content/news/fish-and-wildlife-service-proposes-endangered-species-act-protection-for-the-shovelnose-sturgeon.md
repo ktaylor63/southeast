@@ -1,5 +1,5 @@
 ---
-title: 'Fish and Wildlife Service Proposes Endangered Species Act Protection for the Shovelnose Sturgeon'
+title: 'Fish and Wildlife Service proposes Endangered Species Act protection for the shovelnose sturgeon'
 date: '2009-09-22'
 hero:
     name: shovelnose-sturgeon.jpg

@@ -1,5 +1,5 @@
 ---
-title: 'Ultralight Migration Leads 20 Endangered Whooping Cranes into Georgia'
+title: 'Ultralight migration leads 20 endangered whooping cranes into Georgia'
 date: '2010-01-07'
 hero:
     name: whooping-cranes-forage-at-wheeler-nwr.jpg

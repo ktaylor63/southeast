@@ -1,5 +1,5 @@
 ---
-title: 'Fish and Wildlife Service Proposes Critical Habitat for Two South Florida Cacti'
+title: 'Fish and Wildlife Service proposes Critical Habitat for two south Florida cacti'
 date: '2015-01-21'
 hero:
     name: florida-semaphore-cactus.jpg

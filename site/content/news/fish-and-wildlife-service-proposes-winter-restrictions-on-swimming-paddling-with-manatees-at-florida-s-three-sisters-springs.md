@@ -1,5 +1,5 @@
 ---
-title: 'Fish and Wildlife Service Proposes Winter Restrictions on Swimming, Paddling with Manatees at Florida’s Three Sisters Springs'
+title: 'Fish and Wildlife Service proposes winter restrictions on swimming, paddling with manatees at Florida’s Three Sisters Springs'
 subtitle: 'Public Invited to Comment on Proposed changes to maintain safe environment for wintering manatees and people'
 date: '2015-08-05'
 hero:

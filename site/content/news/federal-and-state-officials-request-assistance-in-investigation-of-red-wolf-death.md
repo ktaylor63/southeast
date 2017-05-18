@@ -1,5 +1,5 @@
 ---
-title: 'Federal and State Officials Request Assistance in Investigation of Red Wolf Death'
+title: 'Federal and state officials request assistance in investigation of red wolf death'
 date: '2016-04-22'
 tags:
     - 'North Carolina'

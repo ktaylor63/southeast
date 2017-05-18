@@ -1,5 +1,5 @@
 ---
-title: 'Scottsboro Man Sentenced for Trafficking Protected Reptiles'
+title: 'Scottsboro man sentenced for trafficking protected reptiles'
 date: '2012-10-12'
 hero:
     name: gila-monster.jpg

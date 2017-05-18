@@ -1,5 +1,5 @@
 ---
-title: 'Importance of Resilient Coastal Wetlands to Conservation, Recreation Economy and Coastal Communities Recognized by $17 Million in Grants to States'
+title: 'Importance of resilient coastal wetlands to conservation, recreation economy and coastal communities recognized by $17 million in grants to states'
 subtitle: 'State and local governments, private landowners, conservation groups and tribes will contribute an additional $20 million'
 hero:
     name: coastal-wetlands.jpg

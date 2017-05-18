@@ -1,5 +1,5 @@
 ---
-title: 'Scientists Ask Public to Report Banded Birds to Help Scientific Research'
+title: 'Scientists ask public to report banded birds to help scientific research'
 date: '2010-07-18'
 hero:
     name: brown-pelican-near-shore-after-dwh-oil-spill.jpg

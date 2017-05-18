@@ -1,5 +1,5 @@
 ---
-title: Service Proposes to List Florida Bristle Fern
+title: Service proposes to list florida bristle fern
 date: '2014-10-08'
 hero:
   name: florida-bristle-fern.jpg

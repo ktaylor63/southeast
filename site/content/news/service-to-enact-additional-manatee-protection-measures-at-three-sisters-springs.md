@@ -1,5 +1,5 @@
 ---
-title: 'Service to Enact Additional Manatee Protection Measures at Three Sisters Springs'
+title: 'Service to enact additional manatee protection measures at Three Sisters Springs'
 date: '2015-02-26'
 hero:
     name: manatee-silhouettes.jpg

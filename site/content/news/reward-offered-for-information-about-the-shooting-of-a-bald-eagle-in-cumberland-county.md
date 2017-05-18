@@ -1,5 +1,5 @@
 ---
-title: 'Reward Offered for Information about the Shooting of a Bald Eagle in Cumberland County'
+title: 'Reward offered for information about the shooting of a bald eagle in Cumberland county'
 date: '2009-04-22'
 hero:
     name: bald-eagle-head-on.jpg

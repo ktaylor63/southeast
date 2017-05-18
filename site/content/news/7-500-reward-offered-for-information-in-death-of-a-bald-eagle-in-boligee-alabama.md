@@ -1,5 +1,5 @@
 ---
-title: '$7,500 Reward Offered for Information in Death of a Bald Eagle in Boligee, Alabama'
+title: '$7,500 reward offered for information in death of a bald eagle in Boligee, Alabama'
 tags:
     - Alabama
     - 'Law Enforcement'

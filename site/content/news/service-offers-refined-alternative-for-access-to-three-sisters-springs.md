@@ -1,6 +1,6 @@
 ---
-title: 'Service Offers Refined Alternative for Access to Three Sisters Springs'
-subtitle: 'Seeks 14-day Public Review as 2015-16 Manatee Season Nears'
+title: 'Service offers refined alternative for access to Three Sisters Springs'
+subtitle: 'Seeks 14-day public review as 2015-16 manatee season nears'
 date: '2015-11-10'
 hero:
     name: manatee-group-near-surface.jpg

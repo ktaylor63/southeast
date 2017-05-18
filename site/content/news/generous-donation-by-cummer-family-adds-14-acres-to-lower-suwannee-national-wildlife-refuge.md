@@ -1,5 +1,5 @@
 ---
-title: 'Generous Donation by Cummer Family Adds 14 Acres to Lower Suwannee National Wildlife Refuge'
+title: 'Generous donation by Cummer family adds 14 Acres to Lower Suwannee National Wildlife Refuge'
 date: '2011-02-14'
 hero:
     name: lower-suwannee-nwr.jpg

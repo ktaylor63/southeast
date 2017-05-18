@@ -1,5 +1,5 @@
 ---
-title: 'Service Lists Kentucky Glade cress and Designates Critical Habitat'
+title: 'Service lists Kentucky gladecress and designates Critical Habitat'
 date: '2014-05-05'
 hero:
     name: kentucky-gladecress.jpg

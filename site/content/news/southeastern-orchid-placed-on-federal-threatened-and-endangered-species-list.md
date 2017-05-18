@@ -1,5 +1,5 @@
 ---
-title: 'Southeastern Orchid Placed on Federal Threatened and Endangered Species List'
+title: 'Southeastern orchid placed on federal threatened and endangered species list'
 date: '2016-09-13'
 hero:
     name: white-fringeless-orchid-patch.jpg

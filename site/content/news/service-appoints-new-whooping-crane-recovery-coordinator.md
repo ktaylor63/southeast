@@ -1,5 +1,5 @@
 ---
-title: Service Appoints New Whooping Crane Recovery Coordinator
+title: Service appoints new whooping crane recovery coordinator
 date: '2012-09-14'
 hero:
   name: whooping-cranes-at-aransas-nwr.jpg

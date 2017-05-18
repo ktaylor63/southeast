@@ -1,5 +1,5 @@
 ---
-title: 'Fish and Wildlife Service Conducting Five-Year Status Reviews of 22 Southeastern Species'
+title: 'Fish and Wildlife Service conducting five-year status reviews of 22 Southeastern species'
 date: '2016-08-30'
 tags:
     - 'At-Risk Species'

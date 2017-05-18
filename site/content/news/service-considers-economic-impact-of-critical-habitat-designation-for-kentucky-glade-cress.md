@@ -1,6 +1,6 @@
 ---
-title: 'Service Considers Economic Impact of Critical Habitat Designation for Kentucky Gladecress'
-subtitle: 'Reopens Proposed Listing Comment Period'
+title: 'Service considers economic impact of Critical Habitat designation for Kentucky gladecress'
+subtitle: 'Reopens proposed listing comment period'
 date: '2014-01-06'
 hero:
     name: kentucky-gladecress.jpg

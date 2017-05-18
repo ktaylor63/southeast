@@ -1,5 +1,5 @@
 ---
-title: 'New Report Assesses the Impacts of Emerging Threats on Gulf Coast Species and Ecosystems'
+title: 'New report assesses the impacts of emerging threats on Gulf coast species and ecosystems'
 hero:
     name: kemps-ridley-sea-turtle.jpg
     alt: 'Kemps ridley sea turtle laying in the sand. Large with grey shell and yellow body with grey speckles.'

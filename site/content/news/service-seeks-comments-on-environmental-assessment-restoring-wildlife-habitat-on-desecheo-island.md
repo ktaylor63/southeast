@@ -1,5 +1,5 @@
 ---
-title: 'Service Seeks Comments on Environmental Assessment - Restoring Wildlife Habitat on Desecheo Island'
+title: 'Service seeks comments on environmental assessment - restoring wildlife habitat on Desecheo Island'
 date: '2011-07-29'
 hero:
     name: desecheo.jpg

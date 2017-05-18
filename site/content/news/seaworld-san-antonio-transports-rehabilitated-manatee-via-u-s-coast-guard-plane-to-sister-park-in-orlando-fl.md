@@ -1,5 +1,5 @@
 ---
-title: 'SeaWorld San Antonio Transports Rehabilitated Manatee via U.S. Coast Guard Plane to Sister Park in Orlando, FL'
+title: 'SeaWorld San Antonio transports rehabilitated manatee via U.S. Coast Guard plane to sister park in Orlando, Florida'
 date: '2015-02-18'
 hero:
     name: manatee-rescued.jpg

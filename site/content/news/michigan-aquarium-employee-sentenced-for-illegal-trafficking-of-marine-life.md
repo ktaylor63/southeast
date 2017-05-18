@@ -1,5 +1,5 @@
 ---
-title: 'Michigan Aquarium Employee Sentenced for Illegal Trafficking of Marine Life'
+title: 'Michigan aquarium employee sentenced for illegal trafficking of marine life'
 date: '2014-04-15'
 hero:
     name: alligator-baby-on-beach.jpg

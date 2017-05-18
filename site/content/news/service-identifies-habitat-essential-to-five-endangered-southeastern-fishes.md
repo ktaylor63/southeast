@@ -1,5 +1,5 @@
 ---
-title: 'Service Identifies Habitat Essential to Five Endangered Southeastern Fishes'
+title: 'Service identifies habitat essential to five endangered southeastern fishes'
 date: '2012-10-15'
 hero:
     name: chucky-madtom-search.jpg

@@ -1,5 +1,5 @@
 ---
-title: Details Announced for Proposed Expansion of Clarks River National Wildlife Refuge and Comprehensive Conservation Plan
+title: Details announced for proposed expansion of Clarks River National Wildlife Refuge and comprehensive conservation plan
 date: '2012-02-16'
 hero:
   name: clarks-river-nwr-in-fall.jpg

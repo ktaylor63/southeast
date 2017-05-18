@@ -1,5 +1,5 @@
 ---
-title: 'Endangered Whooping Cranes Now in Georgia on Aircraft-guided Flight to Florida'
+title: 'Endangered whooping cranes now in Georgia on aircraft-guided flight to Florida'
 description: 'Eight young whooping cranes that began their aircraft-led migration on October 2, 2013, from the White River Marsh State Wildlife Area in Green Lake County, Wisconsin, today made it to Decatur County, Georgia.'
 date: '2013-12-30'
 hero:

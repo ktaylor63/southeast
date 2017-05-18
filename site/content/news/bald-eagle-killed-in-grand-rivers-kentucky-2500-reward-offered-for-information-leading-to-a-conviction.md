@@ -1,5 +1,5 @@
 ---
-title: 'Bald Eagle Killed in Grand Rivers, Kentucky $2,500 Reward Offered for Information Leading to a Conviction'
+title: 'Bald eagle killed in Grand Rivers, Kentucky $2,500 reward offered for information leading to a conviction'
 date: '2016-03-08'
 tags:
     - Kentucky

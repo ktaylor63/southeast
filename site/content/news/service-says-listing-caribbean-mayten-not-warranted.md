@@ -1,5 +1,5 @@
 ---
-title: 'Service Says Listing Caribbean Mayten ''Not Warranted'''
+title: 'Service says listing Caribbean mayten not warranted'
 date: '2012-07-03'
 hero:
     name: caribbean-mayten.jpg

@@ -1,5 +1,5 @@
 ---
-title: 'Service to Hold Public Information Meeting on Proposed Critical Habitat for the Yellowcheek Darter'
+title: 'Service to hold public information meeting on proposed Critical Habitat for the yellowcheek darter'
 date: '2012-02-10'
 hero:
     name: yellowcheek-darter.jpg

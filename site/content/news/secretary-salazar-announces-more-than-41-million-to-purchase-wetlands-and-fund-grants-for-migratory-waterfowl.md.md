@@ -1,5 +1,5 @@
 ---
-title: 'Secretary Salazar Announces More than $41 Million to Purchase Wetlands and Fund Grants for Migratory Waterfowl Habitat More than $7 Million in Waterfowl Habitat Grants Approved for Southeastern States'
+title: 'Secretary Salazar announces more than $41 million to purchase wetlands and fund grants for migratory waterfowl habitat more than $7 million in waterfowl habitat grants approved for southeastern states'
 date: '2009-09-11'
 hero:
     name: northern-pintail.jpg

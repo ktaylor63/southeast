@@ -1,5 +1,5 @@
 ---
-title: 'Fish and Wildlife Service Seeks Proposals from States for FY 2011 Endangered Species Grants'
+title: 'Fish and Wildlife Service seeks proposals from states for fiscal year 2011 endangered species grants'
 date: '2010-11-16'
 hero:
     name: golden-cheeked-warbler.jpg

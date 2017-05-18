@@ -1,5 +1,5 @@
 ---
-title: 'Fish and Wildlife Service Seeks More Information on Five Species'
+title: 'Fish and Wildlife Service seeks more information on five species'
 date: '2015-09-17'
 hero:
     name: short-tailed-snake.jpg

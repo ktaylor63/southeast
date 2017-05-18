@@ -1,5 +1,5 @@
 ---
-title: 'Manatee Enforcement Effort slated for Brevard County'
+title: 'Manatee enforcement effort slated for Brevard County'
 date: '2015-05-20'
 hero:
     name: manatee-silhouettes.jpg

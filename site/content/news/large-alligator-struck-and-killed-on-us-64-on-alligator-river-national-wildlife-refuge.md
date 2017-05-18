@@ -1,5 +1,5 @@
 ---
-title: 'Large Alligator Struck and Killed on US 64 on Alligator River National Wildlife Refuge'
+title: 'Large alligator struck and killed on U.S. 64 on Alligator River National Wildlife Refuge'
 date: '2014-05-28'
 hero:
     name: alligator-killed.jpg

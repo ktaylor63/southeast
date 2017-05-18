@@ -1,5 +1,5 @@
 ---
-title: 'Federal Agency Clarifies Request for Gopher Tortoise Information following its 90-Day Finding'
+title: 'Federal agency clarifies request for gopher tortoise information following its 90-Day finding'
 description: 'The U.S. Fish and Wildlife Service (Service) announced a clarification of its public information request originally made in its September 9, 2009 Gopher tortoise 90-day finding notice, and its extension of the official public comment period.'
 date: '2010-01-12'
 hero:

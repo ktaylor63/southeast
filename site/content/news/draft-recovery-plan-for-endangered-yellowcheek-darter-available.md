@@ -1,5 +1,5 @@
 ---
-title: 'Draft Recovery Plan for Endangered Yellowcheek Darter Available'
+title: 'Draft recovery plan for endangered yellowcheek darter available'
 date: '2017-03-06'
 hero:
     name: yellowcheek-darter-shute.jpg

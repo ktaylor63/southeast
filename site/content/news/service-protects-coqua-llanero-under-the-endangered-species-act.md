@@ -1,6 +1,6 @@
 ---
-title: 'Service Protects Coqui Llanero Under the Endangered Species Act'
-subtitle: 'Information from the Public, Scientific Community Informs Final Decision'
+title: 'Service protects coqui llanero under the Endangered Species Act'
+subtitle: 'Information from the public, scientific community informs final decision'
 date: '2012-10-03'
 hero:
     name: coqui-llanero.jpg

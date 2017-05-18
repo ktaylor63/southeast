@@ -1,5 +1,6 @@
 ---
-title: 'Conservation Funds GO ZERO® Program Goes Gold with CCB -- Voluntary Forest Carbon Program Benefits Climate, Community and Biodiversity in Louisiana'
+title: 'Conservation funds GO ZERO® program goes gold with CCB'
+subtitle: ;Voluntary forest carbon program benefits climate, community and biodiversity in Louisiana'
 date: '2009-06-01'
 hero:
     name: green-winged-teal-red-river-nwr.jpg

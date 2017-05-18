@@ -1,5 +1,5 @@
 ---
-title: 'Service to Hold Public Hearing and Reopen Comment Period on the Revised Proposed Critical Habitat Designation and Associated Draft Economic Analysis for the Mississippi Gopher Frog'
+title: 'Service to hold public hearing and re-open comment period on the revised proposed Critical Habitat designation and associated draft economic analysis for the Mississippi gopher frog'
 date: '2012-01-13'
 hero:
     name: mississippi-gopher-frog.jpg

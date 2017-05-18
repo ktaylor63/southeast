@@ -1,5 +1,5 @@
 ---
-title: 'Fish and Wildlife Service Proposes Adding White Fringeless Orchid to Threatened and Endangered Species List'
+title: 'Fish and Wildlife Service proposes adding white fringeless orchid to threatened and endangered species list'
 date: '2015-09-14'
 hero:
     name: white-fringeless-orchid-patch.jpg

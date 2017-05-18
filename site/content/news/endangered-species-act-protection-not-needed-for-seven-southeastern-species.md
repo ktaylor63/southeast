@@ -1,5 +1,5 @@
 ---
-title: 'Endangered Species Act Protection Not Needed for Seven Southeastern Species'
+title: 'Endangered Species Act protection not needed for seven Southeastern species'
 date: '2016-10-06'
 tags:
     - 'North Carolina'

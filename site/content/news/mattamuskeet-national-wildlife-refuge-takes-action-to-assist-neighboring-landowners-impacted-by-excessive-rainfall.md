@@ -1,5 +1,5 @@
 ---
-title: 'Mattamuskeet National Wildlife Refuge Takes Action to Assist Neighboring Landowners Impacted by Excessive Rainfall'
+title: 'Mattamuskeet National Wildlife Refuge takes action to assist neighboring landowners impacted by excessive rainfall'
 date: '2016-03-04'
 hero:
     name: lake-mattamuskeet-sunset.jpg

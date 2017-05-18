@@ -1,5 +1,5 @@
 ---
-title: 'Service, States, celebrate 20th Anniversary of the Safe Harbor Program offering voluntary land management agreements with private landowners'
+title: 'Service, states, celebrate 20th anniversary of the safe harbor program offering voluntary land management agreements with private landowners'
 date: '2015-11-06'
 hero:
     name: red-cockaded-woodpecker-flying.jpg

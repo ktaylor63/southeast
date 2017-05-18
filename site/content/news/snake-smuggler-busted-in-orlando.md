@@ -1,5 +1,5 @@
 ---
-title: 'Snake Smuggler Busted in Orlando'
+title: 'Snake smuggler busted in Orlando'
 date: '2012-08-24'
 hero:
     name: boa-constrictor.jpg

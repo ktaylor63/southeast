@@ -1,6 +1,6 @@
 ---
-title: 'Owners Of Safari Company Indicted For Illegal Rhino Hunts'
-subtitle: 'Out of Africa Charged with Wildlife Crimes, Fraud and Money Laundering'
+title: 'Owners of safari company indicted for illegal rhino hunts'
+subtitle: 'Out of africa charged with wildlife crimes, fraud and money laundering'
 date: '2014-10-23'
 hero:
     name: rhino-horns.jpg

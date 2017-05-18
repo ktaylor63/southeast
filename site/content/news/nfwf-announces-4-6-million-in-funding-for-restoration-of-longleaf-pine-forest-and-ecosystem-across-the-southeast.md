@@ -1,6 +1,6 @@
 ---
-title: 'NFWF Announces $4.6 Million in Funding for Restoration of Longleaf Pine Forest and Ecosystem Across the Southeast'
-subtitle: 'Longleaf Stewardship Fund Will Support 22 Projects across Nine States'
+title: 'National Fish and Wildlife Foundation announces $4.6 million in funding for restoration of longleaf pine forest and ecosystem across the Southeast'
+subtitle: 'Longleaf stewardship fund will support 22 projects across nine states'
 date: '2015-06-30'
 hero:
     name: longleaf-pine-seedling.jpg

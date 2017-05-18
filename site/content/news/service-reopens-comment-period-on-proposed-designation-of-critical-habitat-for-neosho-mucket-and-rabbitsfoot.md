@@ -1,5 +1,5 @@
 ---
-title: 'Service Reopens Comment Period on Proposed Designation of Critical Habitat for Neosho Mucket and Rabbitsfoot'
+title: 'Service reopens comment period on proposed designation of Critical Habitat for neosho mucket and rabbitsfoot'
 date: '2014-05-13'
 hero:
     name: rabbitsfoot.jpg

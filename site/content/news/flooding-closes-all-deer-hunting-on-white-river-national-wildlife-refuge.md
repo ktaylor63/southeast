@@ -1,5 +1,5 @@
 ---
-title: 'Flooding Closes all Deer Hunting on White River National Wildlife Refuge'
+title: 'Flooding closes all deer hunting on White River National Wildlife Refuge'
 date: '2009-11-03'
 hero:
     name: white-river-nwr-flooding.jpg

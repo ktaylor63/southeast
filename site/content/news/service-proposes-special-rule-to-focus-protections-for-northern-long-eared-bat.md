@@ -1,6 +1,6 @@
 ---
-title: Service Proposes Special Rule to Focus Protections for Northern Long-Eared Bat
-subtitle: Rule Would Apply if Species is Listed as Threatened under the Endangered Species Act
+title: Service proposes special rule to focus protections for northern long-eared bat
+subtitle: Rule would apply if species is listed as threatened under the Endangered Species Act
 date: '2015-01-15'
 hero:
   name: northern-log-eared-bat.jpg

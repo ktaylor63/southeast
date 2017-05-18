@@ -1,5 +1,5 @@
 ---
-title: 'Coqui Llanero May Warrant Protection Under Endangered Species Act'
+title: 'Coqui llanero may warrant protection under Endangered Species Act'
 date: '2009-07-08'
 hero:
     name: coqui-llanero.jpg

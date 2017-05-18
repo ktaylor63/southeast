@@ -1,5 +1,5 @@
 ---
-title: 'Service Broadens Florida Manatee Protections in Kings Bay'
+title: 'Service broadens Florida manatee protections in Kings Bay'
 date: '2010-11-05'
 hero:
     name: manatee-closeup-with-fish.jpg

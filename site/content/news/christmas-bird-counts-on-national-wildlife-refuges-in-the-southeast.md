@@ -1,5 +1,5 @@
 ---
-title: 'Christmas Bird Counts on National Wildlife Refuges in the Southeast'
+title: 'Christmas bird counts on National Wildlife Refuges in the Southeast'
 date: '2013-12-13'
 hero:
     name: great-horned-owl-close-up.jpg

@@ -1,5 +1,5 @@
 ---
-title: 'Conservation Success: Tennessee Purple Coneflower Delisted'
+title: 'Conservation success: Tennessee purple coneflower delisted'
 date: '2011-08-04'
 hero:
     name: tennessee-purple-coneflower.jpg

@@ -1,5 +1,5 @@
 ---
-title: 'U.S. Fish and Wildlife Service Seeks Proposals from States for 2017 Endangered Species Grants'
+title: 'U.S. Fish and Wildlife Service seeks proposals from states for 2017 endangered species grants'
 hero:
     name: mountain-sweet-pitcher-plant-patch.jpg
     link: 'https://flic.kr/p/H3SC2u'

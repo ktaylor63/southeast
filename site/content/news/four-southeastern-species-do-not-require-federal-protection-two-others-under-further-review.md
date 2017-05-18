@@ -1,5 +1,5 @@
 ---
-title: 'Four Southeastern Species Do Not Require Federal Protection, Two Others Under Further Review'
+title: 'Four Southeastern species do not require federal protection, two others under further review'
 date: '2016-03-15'
 hero:
     name: cheoah-bald-salamander.jpg

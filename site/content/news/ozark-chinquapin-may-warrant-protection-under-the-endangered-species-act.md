@@ -1,5 +1,5 @@
 ---
-title: 'Ozark Chinquapin May warrant protection under the Endangered Species Act'
+title: 'Ozark chinquapin may warrant protection under the Endangered Species Act'
 date: '2010-06-01'
 hero:
     name: ozark-chinquapin.jpg

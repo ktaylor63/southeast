@@ -1,5 +1,5 @@
 ---
-title: 'Service Extends Comment Period for Proposed Management Changes at Three Sisters Springs'
+title: 'Service extends comment period for proposed management changes at Three Sisters Springs'
 date: '2015-11-23'
 hero:
     name: manatee-group-near-surface.jpg

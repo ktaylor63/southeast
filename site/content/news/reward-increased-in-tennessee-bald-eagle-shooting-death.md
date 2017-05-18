@@ -1,5 +1,5 @@
 ---
-title: 'Reward Increased in Tennessee Bald Eagle Shooting Death'
+title: 'Reward increased in Tennessee bald eagle shooting death'
 subtitle: '$7,500 for Information Leading to a Conviction'
 date: '2016-07-06'
 hero:

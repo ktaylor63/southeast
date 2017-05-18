@@ -1,5 +1,5 @@
 ---
-title: 'Ultralight-led Whooping Cranes Released at Wheeler National Wildlife Refuge'
+title: 'Ultralight-led whooping cranes released at Wheeler National Wildlife Refuge'
 date: '2012-02-10'
 hero:
     name: whooping-crane-release.jpg

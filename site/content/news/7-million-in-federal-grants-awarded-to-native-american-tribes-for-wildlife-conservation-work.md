@@ -1,5 +1,5 @@
 ---
-title: '$7 Million in Federal Grants Awarded to Native American Tribes for Wildlife Conservation Work'
+title: '$7 million in federal grants awarded to Native American tribes for wildlife conservation work'
 date: '2009-04-20'
 hero:
     name: walking-through-wetlands.jpg

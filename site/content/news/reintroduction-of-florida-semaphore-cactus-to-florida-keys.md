@@ -1,5 +1,5 @@
 ---
-title: 'Reintroduction of Florida Semaphore Cactus to Florida Keys'
+title: 'Reintroduction of Florida semaphore cactus to Florida Keys'
 date: '2015-08-25'
 hero:
     name: florida-semaphore-cactus.jpg

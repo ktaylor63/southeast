@@ -1,5 +1,5 @@
 ---
-title: 'Migratory Bird Conservation Commission Waterfowl, Approves $28 Million to Conserve Shorebirds and Other Species in 16 States'
+title: 'Migratory bird conservation commission waterfowl, approves $28 million to conserve shorebirds and other species in 16 states'
 date: '2014-11-14'
 hero:
     name: american-bittern.jpg

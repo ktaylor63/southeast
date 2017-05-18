@@ -1,6 +1,6 @@
 ---
-title: 'U.S. Fish and Wildlife Service to List Miami Tiger Beetle as Endangered'
-subtitle: 'Once Thought Extinct, It Clings to Survival'
+title: 'U.S. Fish and Wildlife Service to list Miami tiger beetle as endangered'
+subtitle: 'Once thought extinct, it clings to survival'
 date: '2016-10-04'
 hero:
     link: 'https://flic.kr/p/BEwwVZ'

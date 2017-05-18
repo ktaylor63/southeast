@@ -1,5 +1,5 @@
 ---
-title: 'Endangered Species Act Protection Not Needed for Four Southeastern Animals'
+title: 'Endangered Species Act protection not needed for four Southeastern animals'
 date: '2016-09-20'
 hero:
     name: angular-dwarf-crayfish.jpg

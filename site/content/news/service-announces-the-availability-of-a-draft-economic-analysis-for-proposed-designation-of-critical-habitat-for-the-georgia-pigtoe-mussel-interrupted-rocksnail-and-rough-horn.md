@@ -1,5 +1,5 @@
 ---
-title: Service Announces the Availability of a Draft Economic Analysis for Proposed Designation of Critical Habitat for the Georgia Pigtoe Mussel, Interrupted Rocksnail, and Roughhorn
+title: Service announces the availability of a draft economic analysis for proposed designation of Critical Habitat for the Georgia pigtoe mussel, interrupted rocksnail, and roughhorn
 date: '2010-02-10'
 hero:
     name: interrupted-rocksnail.jpg

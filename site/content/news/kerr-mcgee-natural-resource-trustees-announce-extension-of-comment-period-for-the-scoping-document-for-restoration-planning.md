@@ -1,5 +1,5 @@
 ---
-title: 'Kerr McGee Natural Resource Trustees Announce Extension of Comment Period for the Scoping Document for Restoration Planning'
+title: 'Kerr McGee natural resource trustees announce extension of comment period for the scoping document for restoration planning'
 date: '2015-09-03'
 hero:
     name: kerr-mcgee-site-map.jpg

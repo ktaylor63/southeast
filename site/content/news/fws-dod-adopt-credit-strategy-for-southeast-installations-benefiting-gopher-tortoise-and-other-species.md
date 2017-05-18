@@ -1,5 +1,5 @@
 ---
-title: 'Service, Department of Defense Adopt Credit Strategy for Southeast Installations Benefiting Gopher Tortoise and other species'
+title: 'Service, Department of Defense adopt credit strategy for Southeast installations benefiting gopher tortoise and other species'
 date: '2017-03-24'
 description: 'Tifton, Ga. – A first-in- the-nation conservation plan, crafted by the U.S. Department of Defense, U.S. Fish and Wildlife Service and state wildlife agencies in Alabama, Florida, Georgia and South Carolina, protects at-risk gopher tortoises here while helping military bases to continue training and testing missions across the tortoise’s Southern turf.'
 hero:

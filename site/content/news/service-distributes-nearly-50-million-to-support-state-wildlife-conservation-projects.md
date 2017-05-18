@@ -1,5 +1,5 @@
 ---
-title: 'Service Distributes Nearly $50 Million to Support State Wildlife Conservation Projects'
+title: 'Service distributes nearly $50 million to support state wildlife conservation projects'
 date: '2016-03-21'
 hero:
     name: monarch-on-purple-flower.jpg

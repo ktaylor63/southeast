@@ -1,5 +1,5 @@
 ---
-title: Service Proposes Endangered Species Act Protection for Two Freshwater Mussels
+title: Service proposes Endangered Species Act protection for two freshwater mussels
 date: '2011-01-19'
 hero:
   name: sheepnose-mussel.jpg

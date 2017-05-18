@@ -1,5 +1,5 @@
 ---
-title: 'ESA Protection Provided to Rare Penguin Species'
+title: 'Endangered Species Act protection provided to rare penguin species'
 description: 'The U. S. Fish and Wildlife Service today announced the New Zealand/Australia distinct population segment of the southern rockhopper penguin is now protected as threatened under the Endangered Species Act (ESA).'
 date: '2011-02-22'
 hero:

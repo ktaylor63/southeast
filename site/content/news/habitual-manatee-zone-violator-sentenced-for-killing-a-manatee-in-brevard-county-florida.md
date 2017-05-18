@@ -1,5 +1,5 @@
 ---
-title: 'Habitual Manatee Zone Violator Sentenced for Killing a Manatee in Brevard County, Florida'
+title: 'Habitual manatee zone violator sentenced for killing a manatee in Brevard County, Florida'
 date: '2011-04-02'
 hero:
     name: manatee-group-near-surface.jpg

@@ -1,5 +1,5 @@
 ---
-title: 'New Manager at Chassahowitzka National Wildlife Refuge Complex'
+title: 'New manager at Chassahowitzka National Wildlife Refuge Complex'
 date: '2009-08-24'
 hero:
     name: chassahowitzka-aerial.jpg

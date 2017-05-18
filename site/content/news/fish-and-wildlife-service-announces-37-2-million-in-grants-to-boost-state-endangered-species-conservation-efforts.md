@@ -1,6 +1,6 @@
 ---
-title: 'Fish and Wildlife Service Announces $37.2 Million in Grants to Boost State Endangered Species Conservation Efforts'
-subtitle: 'AL, AR, FL, NC, TN Receive Funding in Southeast'
+title: 'Fish and Wildlife Service announces $37.2 million in grants to boost state endangered species conservation efforts'
+subtitle: 'AL, AR, FL, NC, TN receive funding in Southeast'
 hero:
     name: winged-mapleleaf-mussels.jpg
     alt: 'Three mussels in hand with identification numbers'

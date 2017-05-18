@@ -1,5 +1,5 @@
 ---
-title: 'U.S. Fish and Wildlife Service Announces the Availability of the Red Wolf Five-year Review'
+title: 'U.S. Fish and Wildlife Service announces the availability of the red wolf five-year review'
 date: '2007-10-10'
 tags:
     - 'Endangered Species Act'

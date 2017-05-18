@@ -1,5 +1,5 @@
 ---
-title: 'Orangeburg National Fish Hatchery Celebrates a Century of Conservation'
+title: 'Orangeburg National Fish Hatchery celebrates a century of conservation'
 date: '2011-09-19'
 hero:
     name: orangeburg-hatchery-sign.jpg

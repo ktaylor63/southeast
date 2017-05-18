@@ -1,5 +1,5 @@
 ---
-title: 'Update: Red Wolf Recovery Review Progressing Towards Recommendations'
+title: 'Update: red wolf recovery review progressing towards recommendations'
 description: 'In June, the U.S. Fish and Wildlife Service announced its intent to gather additional science and research to guide recovery of the red wolf, protected by the Endangered Species Act (ESA) for more than four decades.'
 date: '2015-10-27'
 hero:

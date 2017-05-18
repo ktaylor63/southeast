@@ -1,5 +1,5 @@
 ---
-title: 'Cynthia Dohner Chosen as Regional Director of The U.S. Fish and Wildlife Service’s Southeast Region'
+title: 'Cynthia Dohner chosen as Regional Director of the U.S. Fish and Wildlife Service’s Southeast Region'
 date: '2009-11-05'
 hero:
     name: cindy-dohner-dale-bumpers-renaming.jpg

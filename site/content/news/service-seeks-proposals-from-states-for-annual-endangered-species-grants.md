@@ -1,9 +1,9 @@
 ---
-title: 'Service Seeks Proposals from States for Annual Endangered Species Grants'
+title: 'Service seeks proposals from states for annual endangered species grants'
 date: '2012-10-25'
 hero:
     name: florida-scrub-jay.jpg
-    alt: 'A bright blue bird with bands on it''s leg perched on a succulent shrub.'
+    alt: 'A bright blue bird with bands on its leg perched on a succulent shrub.'
     link: 'https://flic.kr/p/B86Db3'
     caption: 'Florida scrub jay. Photo by Gail Hendricks, USDA NRCS.'
 tags:

@@ -1,9 +1,9 @@
 ---
-title: 'TWRA Confirms First Cases of White Nose Syndrome in Tennessee Bats'
+title: 'TWRA confirms first cases of white nose syndrome in Tennessee bats'
 date: '2010-02-16'
 hero:
     name: little-brown-bat-wns.jpg
-    alt: 'A small bat with white powder around it''s nose covered in tiny water droplets.'
+    alt: 'A small bat with white powder around its nose covered in tiny water droplets.'
     link: 'https://flic.kr/p/9LgAog'
     caption: 'Little brown bat with white-nose syndrome. Photo by Jonathan Mays, ME Dept. of Inland Fisheries and Wildlife.'
 tags:

@@ -1,6 +1,6 @@
 ---
-title: 'Interior Clears the Way for Return of Whooping Cranes to Louisiana'
-subtitle: 'Reintroduction of Cranes Expected Later this Month'
+title: 'Interior clears the way for return of whooping cranes to Louisiana'
+subtitle: 'Reintroduction of cranes expected later this month'
 hero:
     name: whooping-crane-release.jpg
     alt: 'Two large, white, Whooping cranes flying in for a landing on a small pond.'

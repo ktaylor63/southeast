@@ -1,5 +1,5 @@
 ---
-title: 'Service and State of North Carolina Strengthen Partnership at Mattamuskeet National Wildlife Refuge’s Lake Mattamuskeet'
+title: 'Service and state of North Carolina strengthen partnership at Mattamuskeet National Wildlife Refuge’s Lake Mattamuskeet'
 date: '2014-12-05'
 hero:
     name: lake-mattamuskeet-waterfowl.jpg

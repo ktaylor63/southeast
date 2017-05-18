@@ -1,5 +1,5 @@
 ---
-title: 'Seven Whooping Cranes Fly into Georgia Following Ultralight Aircraft'
+title: 'Seven whooping cranes fly into Georgia following ultralight aircraft'
 date: '2014-12-09'
 hero:
     name: whooping-crane-in-flight-ultralight.jpg

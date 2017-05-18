@@ -1,5 +1,5 @@
 ---
-title: 'Service Initiates Status Review of the Spring Pygmy Sunfish'
+title: 'Service initiates status review of the spring pygmy sunfish'
 date: '2011-03-31'
 hero:
     name: spring-pygmy-sunfish.jpg

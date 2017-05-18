@@ -1,5 +1,5 @@
 ---
-title: 'Recovery Plan for Two Endangered Snails and an Endangered Mussel Available'
+title: 'Recovery plan for two endangered snails and an endangered mussel available'
 subtitle: 'The U.S. Fish and Wildlife Service is announcing the availability of the final recovery plan for the Georgia pigtoe mussel, interrupted rocksnail, and rough hornsnail, all federally listed as endangered'
 date: '2014-11-06'
 hero:

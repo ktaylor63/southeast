@@ -1,6 +1,6 @@
 ---
-title: 'Service Proposes to Protect the Fluted Kidneyshell and Slabside Pearlymussel under the Endangered Species Act'
-subtitle: 'Agency Seeks Information from the Public, Scientific Community before Making Final Decision'
+title: 'Service proposes to protect the fluted kidneyshell and slabside pearlymussel under the Endangered Species Act'
+subtitle: 'Agency seeks information from the public, scientific community before making final decision'
 date: '2012-10-03'
 hero:
     name: fluted-kidneyshell.jpg

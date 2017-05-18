@@ -1,9 +1,9 @@
 ---
-title: 'Stimulus Funds Help Florida Scrub Jays at Merritt Refuge'
+title: 'Stimulus funds help Florida scrub jays at Merritt refuge'
 date: '2010-04-05'
 hero:
     name: florida-scrub-jay.jpg
-    alt: 'A bright blue bird with bands on it''s leg perched on a succulent shrub.'
+    alt: 'A bright blue bird with bands on its leg perched on a succulent shrub.'
     link: 'https://flic.kr/p/B86Db3'
     caption: 'Florida scrub jay. Photo by Gail Hendricks, USDA NRCS.'
 tags:

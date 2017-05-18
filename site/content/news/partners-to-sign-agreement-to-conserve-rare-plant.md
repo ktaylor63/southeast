@@ -1,5 +1,5 @@
 ---
-title: 'Partners to Sign Agreement to Conserve Rare Plant'
+title: 'Partners to sign agreement to conserve rare plant'
 hero:
     name: georgia-aster.jpg
     alt: 'Ten to twenty bright purple flowers emerge from thick vegetation.'

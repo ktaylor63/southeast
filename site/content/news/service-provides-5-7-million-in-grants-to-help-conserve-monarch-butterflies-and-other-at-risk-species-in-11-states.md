@@ -1,5 +1,5 @@
 ---
-title: 'Service Provides $5.7 Million in Grants to Help Conserve Monarch Butterflies and Other At-Risk Species in 11 States'
+title: 'Service provides $5.7 million in grants to help conserve monarch butterflies and other at-risk species in 11 states'
 subtitle: 'Florida, Georgia, Alabama, Louisiana, Mississippi, South Carolina benefit from two grants in the Southeast'
 date: '2015-06-02'
 hero:
@@ -8,6 +8,7 @@ hero:
     link: 'https://flic.kr/p/tJrJXf'
     caption: 'A monarch butterfly on a purple plant with bright colors in the background. Photo by Christine Lisiewski.'
 tags:
+    - At-Risk Species
     - Monarch
     - Grants
     - Florida

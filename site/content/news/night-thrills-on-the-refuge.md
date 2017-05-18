@@ -1,5 +1,5 @@
 ---
-title: 'Night Thrills on the Refuge'
+title: 'Night thrills on the refuge'
 date: '2013-06-25'
 hero:
     name: okefenokee-night-falls.jpg

@@ -1,5 +1,5 @@
 ---
-title: 'Federal Officials Request Assistance in Sixth Gunshot Red Wolf Reward up to $26,000'
+title: 'Federal officials request assistance in sixth gunshot red wolf reward up to $26,000'
 date: '2013-11-21'
 aliases:
     - /news/2013/090.html

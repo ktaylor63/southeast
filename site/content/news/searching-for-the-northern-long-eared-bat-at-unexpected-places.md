@@ -1,5 +1,5 @@
 ---
-title: 'Searching for the Northern Long-eared Bat in Unexpected Places'
+title: 'Searching for the northern long-eared bat in unexpected places'
 date: '2016-03-30'
 hero:
     name: northern-long-eared-bat-survey.jpg

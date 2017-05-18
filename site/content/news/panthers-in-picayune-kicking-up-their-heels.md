@@ -1,5 +1,5 @@
 ---
-title: 'Panthers in Picayune Kicking Up Their Heels'
+title: 'Panthers in picayune kicking up their heels'
 date: '2010-03-31'
 hero:
     name: florida-panthers-from-plane.jpg

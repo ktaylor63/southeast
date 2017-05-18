@@ -1,5 +1,5 @@
 ---
-title: 'Salazar Applauds Passage of Legislation Naming Mississippi Refuge After Sam Hamilton'
+title: 'Salazar applauds passage of legislation naming Mississippi refuge after Sam Hamilton'
 date: '2012-02-15'
 hero:
     name: null

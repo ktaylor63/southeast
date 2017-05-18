@@ -1,5 +1,5 @@
 ---
-title: 'Tornado Strikes White River National Wildlife Refuge'
+title: 'Tornado strikes White River National Wildlife Refuge'
 date: '2009-08-07'
 hero:
     name: white-river-nwr-tornado-damage.jpg

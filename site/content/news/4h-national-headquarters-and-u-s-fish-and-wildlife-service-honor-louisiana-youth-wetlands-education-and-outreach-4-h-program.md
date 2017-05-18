@@ -1,5 +1,5 @@
 ---
-title: '4-H National Headquarters and U.S. Fish and Wildlife Service Honor Louisiana Youth Wetlands Education and Outreach 4-H Program'
+title: '4-H national headquarters and U.S. Fish and Wildlife Service honor Louisiana youth wetlands education and outreach 4-H program'
 date: '2011-03-17'
 hero:
     name: kids-learning-about-insects.jpg

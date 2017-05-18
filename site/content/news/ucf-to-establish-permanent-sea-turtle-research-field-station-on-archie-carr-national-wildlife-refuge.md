@@ -1,5 +1,5 @@
 ---
-title: 'UCF to Establish Permanent Sea Turtle Research Field Station on Archie Carr National Wildlife Refuge'
+title: 'UCF to establish permanent sea turtle research field station on Archie Carr National Wildlife Refuge'
 date: '2016-07-27'
 hero:
     name: loggerhead-baby-saved.jpg

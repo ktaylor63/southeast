@@ -1,5 +1,5 @@
 ---
-title: Service Awards Grants to 35 States, District of Columbia for Work on Deadly Bat Disease
+title: Service awards grants to 35 states, District of Columbia for work on deadly bat disease
 date: '2015-07-01'
 hero:
   name: white-nose-syndrome-tri-color.jpg

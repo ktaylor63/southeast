@@ -1,6 +1,6 @@
 ---
-title: 'Service Receives Red Wolf Program Evaluation from WMI'
-subtitle: 'Expects a decision regarding the future of the Program in early 2015'
+title: 'Service receives red wolf program evaluation from WMI'
+subtitle: 'Expects a decision regarding the future of the program in early 2015'
 date: '2014-11-20'
 hero:
     name: red-wolf-looking-on.jpg

@@ -1,5 +1,5 @@
 ---
-title: 'Louisiana Pinesnake Proposed to be Added as Threatened Under the Endangered Species Act'
+title: 'Louisiana pinesnake proposed to be added as threatened under the Endangered Species Act'
 date: '2016-10-05'
 hero:
     name: louisiana-pinesnake.jpg

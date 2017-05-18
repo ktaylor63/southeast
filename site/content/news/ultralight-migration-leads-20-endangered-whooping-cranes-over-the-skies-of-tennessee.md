@@ -1,5 +1,5 @@
 ---
-title: 'Ultralight Migration Leads 20 Endangered Whooping Cranes over the Skies of Tennessee'
+title: 'Ultralight migration leads 20 endangered whooping cranes over the skies of Tennessee'
 date: '2009-12-08'
 hero:
     name: whooping-cranes-ultralight-in-flight.jpg

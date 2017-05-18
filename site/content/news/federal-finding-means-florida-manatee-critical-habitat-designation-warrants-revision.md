@@ -1,5 +1,5 @@
 ---
-title: 'Federal Finding Means Florida Manatee Critical Habitat Designation Warrants Revision'
+title: 'Federal finding means Florida manatee critical habitat designation warrants revision'
 description: 'The Service announced today that revising critical habitat for the Florida manatee is needed, but the revision process is precluded by higher priority listing-related actions and funding constraints.'
 date: '2010-01-12'
 hero:

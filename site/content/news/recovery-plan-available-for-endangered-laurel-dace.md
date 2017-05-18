@@ -1,5 +1,5 @@
 ---
-title: 'Recovery Plan Available for Endangered Laurel Dace'
+title: 'Recovery plan available for endangered laurel dace'
 date: '2016-11-10'
 tags:
     - Tennessee

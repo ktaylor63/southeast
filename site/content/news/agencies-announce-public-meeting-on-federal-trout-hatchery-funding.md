@@ -1,5 +1,5 @@
 ---
-title: 'Agencies Announce Public Meeting on Federal Trout Hatchery Funding'
+title: 'Agencies announce public meeting on federal trout hatchery funding'
 date: '2014-05-14'
 hero:
     name: rainbow-trout-in-hand.jpg

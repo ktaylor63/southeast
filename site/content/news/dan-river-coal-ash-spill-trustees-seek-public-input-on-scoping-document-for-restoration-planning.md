@@ -1,5 +1,5 @@
 ---
-title: 'Dan River Coal Ash Spill Trustees Seek Public Input on Scoping Document for Restoration Planning'
+title: 'Dan River coal ash spill trustees seek public input on scoping document for restoration planning'
 date: '2015-10-02'
 hero:
     name: dan-river.jpg

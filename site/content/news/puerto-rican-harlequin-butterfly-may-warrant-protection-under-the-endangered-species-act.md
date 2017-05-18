@@ -1,5 +1,5 @@
 ---
-title: 'The Puerto Rican Harlequin Butterfly May Warrant Protection Under the Endangered Species Act'
+title: 'The Puerto Rican harlequin butterfly may warrant protection under the Endangered Species Act'
 date: '2010-04-29'
 hero:
     name: puerto-rican-harlequin-butterfly.jpg

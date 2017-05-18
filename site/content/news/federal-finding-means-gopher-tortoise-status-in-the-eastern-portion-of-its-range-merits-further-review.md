@@ -1,5 +1,5 @@
 ---
-title: 'Federal Finding Means Gopher Tortoise Status in the Eastern Portion of its Range Merits Further Review'
+title: 'Federal finding means gopher tortoise status in the eastern portion of its range merits further review'
 date: '2009-09-09'
 hero:
     name: gopher-tortoise-baby.jpg

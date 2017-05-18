@@ -1,6 +1,6 @@
 ---
-title: 'NOAA, U.S. Fish and Wildlife Service Revise Loggerhead Sea Turtle Listing'
-subtitle: 'Changes will help Guide Conservation Efforts'
+title: 'NOAA, U.S. Fish and Wildlife Service revise loggerhead sea turtle listing'
+subtitle: 'Changes will help guide conservation efforts'
 date: '2011-09-16'
 hero:
     name: loggerhead-heads-toward-ocean.jpg

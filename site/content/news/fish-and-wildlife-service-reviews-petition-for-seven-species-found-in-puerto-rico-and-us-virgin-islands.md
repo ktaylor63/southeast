@@ -1,5 +1,5 @@
 ---
-title: 'Fish and Wildlife Service Reviews Petition for Seven Species Found in Puerto Rico and US Virgin Islands'
+title: 'Fish and Wildlife Service reviews petition for seven species found in Puerto Rico and U.S. Virgin Islands'
 date: '2016-01-11'
 tags:
     - 'At-Risk Species'

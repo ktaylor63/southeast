@@ -1,5 +1,5 @@
 ---
-title: Service Proposes Broadened Florida Manatee Protections in Kings Bay
+title: Service proposes broadened Florida manatee protections in Kings Bay
 date: '2011-06-21'
 hero:
     name: manatee-closeup-with-fish.jpg

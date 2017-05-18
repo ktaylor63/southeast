@@ -1,5 +1,5 @@
 ---
-title: 'Florida Black Bear Population Continues to Increase'
+title: 'Florida black bear population continues to increase'
 subtitle: 'Due to efforts of Florida, diverse stakeholders and a comprehensive management plan, Service scientists find state’s largest land mammal doing well'
 date: '2017-04-18'
 hero:

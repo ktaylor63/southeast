@@ -1,5 +1,5 @@
 ---
-title: 'Liberal Season Proposed for Upcoming Late Waterfowl Season'
+title: 'Liberal season proposed for upcoming late waterfowl season'
 date: '2009-07-31'
 hero:
     name: upper-ouachita-waterfowl.jpg

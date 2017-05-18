@@ -1,5 +1,5 @@
 ---
-title: 'Interior Secretary Salazar Announces Award of $9 million in Grants to States for Imperiled Species Conservation'
+title: 'Interior Secretary Salazar announces award of $9 million in grants to states for imperiled species Conservation'
 date: '2009-04-20'
 hero:
     name: maui-parrotbill.jpg

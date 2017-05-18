@@ -1,5 +1,5 @@
 ---
-title: Service Announces the Availability of the Draft Economic Analysis and a Public Hearing Associated with Critical Habitat Designation for the Alabama Sturgeon
+title: Service announces the availability of the draft economic analysis and a public hearing associated with Critical Habitat designation for the Alabama sturgeon
 date: '2009-12-30'
 hero:
   name: cahaba-river-lillies.jpg

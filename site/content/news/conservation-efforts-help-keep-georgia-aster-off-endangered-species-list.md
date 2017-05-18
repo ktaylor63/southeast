@@ -1,5 +1,5 @@
 ---
-title: 'Conservation Efforts Help Keep Georgia Aster off Endangered Species List'
+title: 'Conservation efforts help keep Georgia aster off Endangered Species List'
 date: '2014-09-17'
 hero:
     name: georgia-aster.jpg

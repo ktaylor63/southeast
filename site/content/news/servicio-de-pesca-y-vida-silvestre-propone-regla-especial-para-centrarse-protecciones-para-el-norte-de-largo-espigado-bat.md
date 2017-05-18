@@ -1,6 +1,6 @@
 ---
-title: 'Servicio de Pesca y Vida Silvestre Propone Regla especial para centrarse Protecciones para el norte de Largo-Espigado Bat'
-subtitle: 'Regla se aplicaría si se Especies clasificadas como amenazadas bajo la Ley de Especies en Peligro'
+title: 'Servicio de pesca y vida silvestre propone regla especial para centrarse protecciones para el norte de largo-espigado bat'
+subtitle: 'Regla se aplicaría si se especies clasificadas como amenazadas bajo la ley de especies en peligro'
 hero:
     name: northern-log-eared-bat.jpg
     alt: 'A small furry bat in a crevice of a cave with patches of white fungus on its face and shoulder.'

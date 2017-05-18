@@ -1,6 +1,6 @@
 ---
-title: 'Salazar Moves to Ban Importation and Interstate Transfer of Burmese Python and Eight Other Giant Invasive Snakes'
-subtitle: 'Service to Propose Injurious Species Listing under Lacey Act'
+title: 'Salazar moves to ban importation and interstate transfer of Burmese python and eight other giant invasive snakes'
+subtitle: 'Service to propose injurious species listing under Lacey Act'
 hero:
     name: burmese-python.jpg
     alt: 'A large snake with a black and brown pattern on its back moving through the grass.'

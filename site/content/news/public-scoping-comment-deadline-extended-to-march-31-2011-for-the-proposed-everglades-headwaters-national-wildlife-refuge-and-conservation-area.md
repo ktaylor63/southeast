@@ -1,5 +1,5 @@
 ---
-title: 'Public Scoping Comment Deadline Extended to March 31, 2011 for the Proposed Everglades Headwaters National Wildlife Refuge and Conservation Area'
+title: 'Public scoping comment deadline extended to March 31, 2011 for the proposed Everglades Headwaters National Wildlife Refuge and Conservation Area'
 date: '2011-02-17'
 hero:
     name: everglades-headwaters-proposed-nwr.jpg

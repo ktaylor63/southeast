@@ -1,5 +1,5 @@
 ---
-title: 'Public Invited to Comment on Proposed Strategies to Protect Wintering Manatees at Three Sisters Springs'
+title: 'Public invited to comment on proposed strategies to protect wintering manatees at Three Sisters Springs'
 date: '2014-12-15'
 hero:
     name: manatee-cow-and-calf.jpg

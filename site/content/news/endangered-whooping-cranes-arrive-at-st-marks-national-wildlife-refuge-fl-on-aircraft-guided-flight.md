@@ -1,5 +1,5 @@
 ---
-title: 'Endangered Whooping Cranes Arrive at St. Marks National Wildlife Refuge, FL on Aircraft-guided Flight'
+title: 'Endangered whooping cranes arrive at St. Marks National Wildlife Refuge, FL on aircraft-guided flight'
 description: 'Eight young whooping cranes that began their aircraft-led migration from the White River Marsh State Wildlife Area in Wisconsin, made it to their destination at St. Marks National Wildlife Refuge in Florida.'
 date: '2014-01-07'
 hero:

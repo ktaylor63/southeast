@@ -1,5 +1,5 @@
 ---
-title: 'Fall in Love with Nature this Valentine''s Day'
+title: 'Fall in love with nature this Valentines day'
 description: 'Valentine’s Day is a perfect time to fall in love with nature.'
 date: '2010-02-03'
 tags:

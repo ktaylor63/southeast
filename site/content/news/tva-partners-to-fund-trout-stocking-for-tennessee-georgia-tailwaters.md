@@ -1,5 +1,5 @@
 ---
-title: 'TVA, Partners To Fund Trout Stocking For Tennessee, Georgia Tailwaters'
+title: 'TVA, partners to fund trout stocking for Tennessee, Georgia tailwaters'
 date: '2015-05-11'
 hero:
     name: erwin-entrance-sign.jpg

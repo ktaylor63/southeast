@@ -1,5 +1,5 @@
 ---
-title: 'Endangered Whooping Cranes Now in Alabama on Aircraft-guided Flight to Florida'
+title: 'Endangered whooping cranes now in Alabama on aircraft-guided flight to Florida'
 subtitle: 'Some with a little help'
 description: 'Eight young whooping cranes that began their aircraft-led migration on October 2, 2013 from the White River Marsh State Wildlife Area in Green Lake County, Wisconsin, today made it to Winston County, Alabama.'
 date: '2013-12-12'

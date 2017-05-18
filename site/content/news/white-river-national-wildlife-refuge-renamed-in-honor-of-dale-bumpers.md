@@ -1,5 +1,5 @@
 ---
-title: 'White River National Wildlife Refuge Renamed in Honor of Dale Bumpers'
+title: 'White River National Wildlife Refuge renamed in honor of Dale Bumpers'
 date: '2014-04-18'
 hero:
     name: dale-bumpers-renaming-ceremony.jpg
