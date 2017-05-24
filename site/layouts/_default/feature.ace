@@ -1,4 +1,4 @@
-article class="{{ if eq .Section "news" }}feature-news-summary{{ else }}feature-article-summary{{ end }}"
+article class="{{ if eq .Section "articles" }}feature-article-summary{{ else }}feature-news-summary{{ end }}"
   a href="{{ .Permalink }}"
     {{ if .Params.hero.name }}
     div.feature-article-summary__hero style="background-image: url({{ .Site.BaseURL }}images/hero/{{ .Params.hero.name }});{{ if .Params.hero.position }} background-position: {{ .Params.hero.position }};{{ end }}"

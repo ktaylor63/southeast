@@ -1,30 +1,38 @@
 {{ $tag := lower (.Get "tag") | urlize }}
 {{ $type := .Get "type" }}
 {{ $section := .Get "section" }}
-<!-- {{ $pages := (or (where (index .Site.Taxonomies.tags $tag) "Page.Section" $section) (where .Site.Pages "Type" $type )) }} -->
-{{ $pages := where (index .Site.Taxonomies.tags $tag) "Page.Section" $section }}
+{{ $tagPages := where (index .Site.Taxonomies.tags $tag) "Page.Section" $section }}
+{{ $typePages := where .Site.Pages "Type" $type }}
 {{ $lazyLoadLimit := 7 }}
 
+{{ if gt (len $typePages) 0}}
+  {{ $.Scratch.Add "pages" $typePages }}
+{{ end }}
+
+{{ if gt (len $tagPages) 0}}
+  {{ $.Scratch.Add "pages" $tagPages }}
+{{ end }}
+
 <ol class='infinite-list card-list'>
-{{ range $index, $element := $pages }}
+{{ range $index, $element := $.Scratch.Get "pages" }}
   <li class='infinite-list--item card card-text'>
-    {{ if .Page.Params.type }}<p class='infinite-list--type'>{{ .Page.Params.type }}</p>{{ end }}
-    <a href='{{ .Page.Permalink }}'>
+    {{ if (in $element.Params.tags "E-Grits") }}<p class='infinite-list--type'>{{ $element.Params.type }}</p>{{ end }}
+    <a href='{{ $element.Permalink }}'>
     <header class='infinite-list--header'>
       <div class='infinite-list--img-date'>
-        {{ if .Page.Params.hero.name }}
-        <img {{ if lt $index $lazyLoadLimit }}src{{ else }}data-src{{ end }}='{{ $.Site.BaseURL }}images/hero/small/{{ .Page.Params.hero.name }}' alt='{{ .Page.Params.hero.alt }}'/>
+        {{ if $element.Params.hero.name }}
+        <img {{ if lt $index $lazyLoadLimit }}src{{ else }}data-src{{ end }}='{{ $.Site.BaseURL }}images/hero/small/{{ $element.Params.hero.name }}' alt='{{ $element.Params.hero.alt }}'/>
         {{ end }}
-        {{ if not .Page.Date.IsZero }}
-        <span class="infinite-list--date">{{ .Page.Date.Format "Jan 2, 2006"}}</span>
+        {{ if not $element.Date.IsZero }}
+        <span class="infinite-list--date">{{ $element.Date.Format "Jan 2, 2006"}}</span>
         {{ end }}
       </div>
       <div class='infinite-list--title'>
-        <h3>{{ .Page.Title }}</h3>
+        <h3>{{ $element.Title }}</h3>
       </div>
     </header>
     </a>
-    <p class='infinite-list--summary'>{{ if .Page.Description }}{{ .Page.Description }}{{ else }}{{ .Page.Summary }}{{ end }} <a href='{{ .Page.Permalink }}'>Read the full story...</a></p>
+    <p class='infinite-list--summary'>{{ if $element.Description }}{{ $element.Description }}{{ else }}{{ $element.Summary }}{{ end }} <a href='{{ $element.Permalink }}'>Read the full story...</a></p>
   </li>
 {{ end }}
 </ol>
