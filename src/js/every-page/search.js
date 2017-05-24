@@ -6,19 +6,12 @@ const insertAfter = (el, referenceNode) => {
   referenceNode.parentNode.insertBefore(el, referenceNode.nextSibling);
 }
 
-const index = lunr(function() {
-  this.field('title', { boost: 10 });
-  this.field('description');
-  this.field('tags', { boost: 5 });
-  this.field('href');
-  this.ref('id');
-});
-
 const baseURL = document.body.getAttribute('data-root');
 const refNode = document.querySelector('.site-search-button');
 
 let pages;
 let results;
+let index;
 
 const createNewsUrl = (url, date) => {
   const urlPieces = url.split('/');
@@ -69,7 +62,14 @@ const init = (input, dataURL) => {
           href: p.href
         }
       });
-    pages.forEach(p => index.add(p) );
+      index = lunr(function() {
+        this.field('title', { boost: 10 });
+        this.field('description');
+        this.field('tags', { boost: 5 });
+        this.field('href');
+        this.ref('id');
+        pages.forEach(p => this.add(p), this);
+      });
     input.addEventListener('keyup', search);
   });
 }
