@@ -348,7 +348,7 @@ number,status,fed_register
 92805B-0,Issued,N/A
 91755B-0,In FO for Review,Noticed for 30 days
 38792A-2,In RO for Review,on current draft
-88823B-0,In FO for Review,Noticed for 30 days
+88823B-0,Issued,Noticed for 30 days
 91704B-0,No permit needed,N/A
 079883-4,In FO for Review,Awaiting publication
 075925-3,In RO for Review,N/A
@@ -485,7 +485,7 @@ to be,In RO for Review,Noticed for 30 days
 12169B-1,In RO for Review,on current draft
 63349B-1,Issued,N/A
 98486B-1,In RO for Review,N/A
-48579B-3,Awaiting Input from Applicant,N/A
+48579B-3,Awaiting signature,N/A
 33020C-1,Issued,N/A
 33392C-0,Issued,N/A
 63577A-2,In RO for Review,N/A
@@ -497,3 +497,4 @@ to be,In RO for Review,Noticed for 30 days
 36080C-0,In RO for Review,N/A
 36084C-0,In RO for Review,N/A
 171545-3,In RO for Review,needs to be drafted
+36768C-0,Awaiting Input from Applicant,N/A
