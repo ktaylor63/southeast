@@ -8,14 +8,14 @@ hero:
     alt: 'A woodpecker perched on a tree with a bug in its mouth'
     position: 'top center'
 tags:
-    - 'Prescribed Fire'
-    - Piedmont
-    - 'National Wildlife Refuge System'
     - Georgia
+    - 'National Wildlife Refuge System'
+    - Piedmont
+    - 'Prescribed Fire'
     - 'Red-Cockaded Woodpecker'
 date: '2014-03-21'
 author: 'Josh OConnor, regional fuels specialist'
-updated: 'March 1st, 2017'
+updated: 'May 24th, 2017'
 ---
 
 ## Over a decade of prescribed fire management yields big benefits for the red-cockaded woodpecker
@@ -32,7 +32,7 @@ Prescribed burning is fire, applied under exacting weather conditions, designed 
 
 On March 25, 2003, the refuge conducted a prescribed burn in compartment 15. A combination of events – lower humidity, shifting winds along a road frontage, and the firing pattern – led to unexpectedly high fire intensity and excessive crown scorch.
 
-{{< figure src="/images/pages/piedmont-prescribed-burn-1.jpg" caption="Photos taken April 24, 2003" alt="The ground is barren and the bark of pine trees is heavily scorched" link="http://www.fws.gov/southeastfire/images/img/1and2-765x258px.jpg" >}}
+{{< figure class="photo-center" src="/images/pages/piedmont-prescribed-burn-1.jpg" caption="Photos taken April 24, 2003" alt="The ground is barren and the bark of pine trees is heavily scorched" link="http://www.fws.gov/southeastfire/images/img/1and2-765x258px.jpg" >}}
 
 The expectation was that a high percentage of the trees would die; however, they didn’t. Southern pines are highly resistant to fire-caused mortality. Though, much of the mid-story did die. Since a primary objective was to continue reducing mid-story, the unit was burned again in February 2005.
 
