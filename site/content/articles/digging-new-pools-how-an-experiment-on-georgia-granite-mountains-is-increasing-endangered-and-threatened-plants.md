@@ -17,10 +17,10 @@ tags:
     - 'Mat-Forming Quillwort'
     - 'Pool Sprite'
     - 'South Carolina'
-updated: 'May 19th, 2017'
+updated: 'May 24th, 2017'
 ---
 
-In December 2016, the U.S. Fish and Wildlife Service’s [Georgia ecological services office](https://www.fws.gov/athens/) started counting the tiny green plants that can only be found in vernal pools on granite outcrops during the rainy season from December through March.  (Vernal pools are temporary pools of water that provide habitat for distinctive plants and animals.) Stone Mountain, Arabia Mountain and Heggie’s Rock, all in Georgia, are granite outcrops.  Because they are protected, they are some of the only granite outcrops where rare endemic green plants, such as the federally-listed black-spored quillwort, mat-forming quillwort, and pool sprite, can still be found.
+Since 2007, the U.S. Fish and Wildlife Service’s [Georgia ecological services office](https://www.fws.gov/athens/) started counting the tiny green plants that can only be found in vernal pools on granite outcrops during the rainy season from December through March.  (Vernal pools are temporary pools of water that provide habitat for distinctive plants and animals.) Stone Mountain, Arabia Mountain and Heggie’s Rock, all in Georgia, are granite outcrops.  Because they are protected, they are some of the only granite outcrops where rare endemic green plants, such as the federally-listed black-spored quillwort, mat-forming quillwort, and pool sprite, can still be found.
 
 Granite outcrops are large expanses of rock, interspersed with islands of vegetation and vernal pools. They are bare, windy, and cold in the winter, and hot (up to 130 degrees) and dry in the summer.  These beautiful moonscapes possess a great concentration of globally rare species that can survive in a harsh environment.  Black-spored quillwort, mat-forming quillwort, and pool sprite have adapted to life on the granite in pools that have taken thousands of years to form through erosion and acid leaching from fungi, another outcrop survivor.
 
@@ -40,7 +40,7 @@ The Service decided to reclaim habitat for the black-spored quillwort and pool s
 
 We had to wait a full year after each planting, and approached the created pools every time with trepidation.  Would there be any plants there at all? Would the pools have been vandalized?  To our gratification, all the pools had plants, and the experiment seemed to be working.  We have done follow-up surveys every year and, in the 2017 survey, we had about 40 to 85 percent coverage of the pools with black-spored quillwort.  Instead of only two pools of this endangered plant on Arabia Mountain, we can now confidently say we have 12 pools. 
 
-With the help of Atlanta Botanical Garden, we decided to try a modified version of this technique in 2014-2015 at two other protected sites, Greensboro South (now owned by Weyerhaeuser) and Heggie’s Rock (owned by The Nature Conservancy).  We brought back our highway contractors, but this time had them deepen a four by four foot area in the bottom of three existing pools at each of the two locations. This technique was less costly and looked more natural.  We followed the same procedure of borrowing soil and plants from nearby black- spored quillwort populations and growing out the plants. 
+With the help of Atlanta Botanical Garden, we decided to try a modified version of this technique in 2014-2015 at two other protected sites, Greensboro South (now owned by Weyerhaeuser) and Heggie’s Rock (owned by The Nature Conservancy).  We brought back our highway contractors, but this time had them deepen a four by four foot area in the bottom of three existing pools at each of the two locations. This technique was less costly and looked more natural.  We followed the same procedure of borrowing soil and plants from nearby mat-forming quillwort populations and growing out the plants. 
 
 The pools at Weyerhaeuser have been successful.  The plants’ population has expanded within the three pools and also in one more that we had deepened in 2012.  We placed plants into the pools at Heggie’s Rock in January 2017 and will have to wait patiently until next year to see how they do.  Many of our pools at all locations also have pool sprite growing in them, which we think will continue to increase. 
 

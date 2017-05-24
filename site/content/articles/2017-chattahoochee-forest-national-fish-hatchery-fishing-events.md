@@ -6,13 +6,14 @@ hero:
     caption: 'Chattahoochee Forest National Fish Hatchery  in Suches, GA. Photo by USFWS.'
     link: 'https://flic.kr/p/ejHQ33'
 tags:
+    - 'Bragging Rights'
     - 'Chattahoochee Forest National Fish Hatchery'
     - E-Grits
     - Event
     - Fishing
     - 'Rainbow Trout'
-    - 'Bragging Rights'
 author: 'Crystal Thomas, Chattahoochee Forest National Fish Hatchery'
+type: 'Bragging Rights'
 date: '2017-05-24'
 updated: 'May 24th, 2017'
 ---
