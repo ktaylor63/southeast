@@ -1,5 +1,4 @@
 ---
-draft: true
 title: '2016 National and Regional Recovery Champions'
 date: '2017-05-19'
 tags:
@@ -26,13 +25,12 @@ hero:
     alt: 'A spiny flower with thin, bright purple petals.'
     caption: 'Smooth Purple Coneflower, <em>Echinacea laevigata</em>. Photo by <a href=\"https://www.flickr.com/photos/scadwell/\">Suzanne Cadwell</a>, <a href=\"https://creativecommons.org/licenses/by-nc/2.0/\">CC BY-NC 2.0</a>.'
     link: 'https://flic.kr/p/nNWSbz'
-updated: 'May 12th, 2017'
+updated: 'May 19th, 2017'
 ---
   
 On Endangered Species Day, the U.S. Fish and Wildlife Service Southeast Region celebrates the contributions and achievements of our nationally recognized Recovery Champions and regionally recognized Recovery Champions. These dedicated individuals have devoted themselves to recovering endangered and threatened animals and plants, and the Service is grateful for their hard work. 
 
 ## 2016 National Recovery Champions
-
 
 ### Chris Lucash, U.S. Fish and Wildlife Service
 
@@ -96,7 +94,7 @@ Welch was instrumental in NCPCP receiving Recovery Lands Acquisition grants, whi
 
 ### Joel Sartore, Internationally recognized photographer, USFWS partner
 
-{{< figure class="photo-right" src="/images/pages/joel-sartore.jpg" alt="A photographer in a prone position with a blue bird standing on his head." caption="Joel Sartore in the field. Photo by Sue Miller, used with permisson." >}}
+{{< figure class="photo-right" src="/images/pages/joel-sartore.jpg" alt="A photographer in a prone position with a blue bird standing on his head." caption="Joel Sartore in the field. Photo by USFWS." >}}
 
 Joel Sartore’s many initiatives to promote public awareness for endangered species make him a 2016 Recovery Champion. As a photographer for National Geographic magazine for over 25 years, his project to document the world’s biodiversity, the Photo Ark, is the only national attention many species on the brink of extinction will ever get and brings awareness to wildlife crises around the world and in our backyards.  This momentous project, currently telling the stories of over 6,500 imperiled species from around the world, now includes four books, TEDtalks, and a social media following of nearly 1 million people.
  
