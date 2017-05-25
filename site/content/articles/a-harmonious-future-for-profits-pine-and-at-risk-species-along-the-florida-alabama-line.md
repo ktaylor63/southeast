@@ -52,7 +52,7 @@ Setting aside 200,000 acres, via easements, isn’t for the faint of heart. Ther
 
 Matt Ezekiel stopped the GMC Sierra at the sandy crossroads to extol upon the past, present and future of silviculture in this corner of the Florida Panhandle. It was a too-warm mid-April day with a slight Gulf breeze keeping the bugs at bay.
 
-On one side of the road stood a stand of loblolly pine. On the other, planted in 2013, was a field of longleaf pines ranging in size from two to 12 feet. A three-legged deer feeder announced the tract’s recreational bounty. Yaupon holly, ty ty and sedge competed with the longleaf. Gopher tortoise burrows abounded.
+On one side of the road stood a stand of loblolly pine. On the other, planted in 2013, was a field of longleaf pines ranging in size from two to 12 feet. A three-legged deer feeder announced the tract’s recreational bounty. Yaupon holly, titi and sedge competed with the longleaf. Gopher tortoise burrows abounded.
 
 “Historically speaking, longleaf is a stronger, straighter, better tree,” explained Ezekiel, a land manager with Resource Management. “It just feels like the right thing to do to plant longleaf. But there’s a lot of pressure on the land: development; hunting; row crops. Our clients might one day say, ‘Heck, I wish we didn’t do longleaf.’”
 
