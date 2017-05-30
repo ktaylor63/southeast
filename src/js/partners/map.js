@@ -5,12 +5,12 @@
   var _ = { defaults: require('lodash.defaults') };
   require('./leaflet.bouncemarker');
   var baseUrl = document.body.getAttribute('data-root');
-  var icon = L.icon({
-    iconUrl: baseUrl + 'images/svg/marker.svg',
-    iconSize: [10,10]
-  });
 
   L.Icon.Default.imagePath = baseUrl + 'images/';
+  var icon = L.icon({
+    iconUrl: baseUrl + 'images/svg/circle-purple.svg',
+    iconSize: [10,10]
+  });
 
   var map, layers, boundaries, layerGroup, stateGroup,
       options = {},

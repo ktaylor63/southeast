@@ -20,14 +20,14 @@
   "license": "SAX-PD",
   "devDependencies": {
     "brfs": "^1.4.3",
-    "browserify": "^13.1.0",
+    "browserify": "^14.4.0",
     "uglifyjs": "^2.4.10",
     "watchify": "^3.7.0"
   },
   "dependencies": {
     "classlist-polyfill": "^1.0.3",
     "image-comparison": "^1.1.1",
-    "leaflet": "^1.0.0-rc.3",
+    "leaflet": "^1.0.3",
     "lodash.defaults": "^4.1.0",
     "lodash.foreach": "^4.4.1"
   }
