@@ -5,6 +5,14 @@
   "main": "index.js",
   "browserify": {
     "transform": [
+      [
+        "babelify",
+        {
+          "presets": [
+            "es2015"
+          ]
+        }
+      ],
       "jadeify"
     ]
   },
@@ -20,14 +28,14 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "browserify": "^13.1.1",
+    "browserify": "^14.4.0",
     "jade": "^1.11.0",
-    "jadeify": "^4.6.0",
+    "jadeify": "^4.7.0",
     "uglifyjs": "^2.4.10",
     "watchify": "^3.7.0"
   },
   "dependencies": {
-    "query-string": "^4.2.3",
+    "query-string": "^4.3.4",
     "random-item": "^1.0.0"
   }
 }
