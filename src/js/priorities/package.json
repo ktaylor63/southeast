@@ -22,27 +22,27 @@
   "author": "Roy Hewitt, @r0yhewitt",
   "license": "SAX-PD",
   "dependencies": {
-    "events": "^1.1.0",
+    "events": "^1.1.1",
     "fws-scrollnav": "^1.9.0",
-    "image-comparison": "^1.1.1",
-    "is-dom": "^1.0.5",
-    "lodash.debounce": "^4.0.3",
-    "lodash.defaults": "^4.0.1",
-    "lodash.filter": "^4.2.1",
-    "lodash.foreach": "^4.1.0",
+    "image-comparison": "^1.1.2",
+    "is-dom": "^1.0.9",
+    "lodash.debounce": "^4.0.8",
+    "lodash.defaults": "^4.2.0",
+    "lodash.filter": "^4.6.0",
+    "lodash.foreach": "^4.5.0",
     "lodash.isarray": "^4.0.0",
     "parallaxify": "^0.1.1",
-    "scrollreveal": "^3.1.1",
+    "scrollreveal": "^3.3.5",
     "underscore.string": "^3.3.4",
-    "zenscroll": "^3.0.1"
+    "zenscroll": "^3.3.0"
   },
   "devDependencies": {
-    "babel-preset-es2015": "^6.22.0",
+    "babel-preset-es2015": "^6.24.1",
     "babelify": "^7.3.0",
-    "browserify": "^13.0.1",
-    "browserify-shim": "^3.8.12",
+    "browserify": "^14.4.0",
+    "browserify-shim": "^3.8.14",
     "disc": "^1.3.2",
-    "uglifyjs": "^2.4.10",
-    "watchify": "^3.7.0"
+    "uglifyjs": "^2.4.11",
+    "watchify": "^3.9.0"
   }
 }
