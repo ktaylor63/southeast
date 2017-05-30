@@ -1,5 +1,14 @@
 ---
 stories:
+  - title: 'How grizzlies, monarchs and even fish can benefit from U.S. highways'
+    url: 'https://ensia.com/features/highways/'
+    date: '2017-05-19'
+    summary: 'Late last August, armed with a sweep net and identification guides, Sarah Piecuch was looking for butterflies. She trudged through waist-deep grasses, trying to keep her footing steady while tallying those she found fluttering through the sky or perched on nearby flowers.'
+    hero:
+      name: mountain-highway.jpg
+      alt: 'A car drives down the open road with mountains in the distance.'
+      link: 'https://flic.kr/p/f9bA4W'
+      caption: 'Scenic Drive, Interstate Highway 15. Photo by <a href="https://www.flickr.com/photos/44534236@N00/">faungg’s photos</a> <a href="https://creativecommons.org/licenses/by-nd/2.0/">CC BY-ND 2.0</a>.'
   - title: FWC highlights Chipola River in new video
     url: 'https://www.youtube.com/watch?v=5YBMhkiTiTc'
     date: '2017-05-11'
