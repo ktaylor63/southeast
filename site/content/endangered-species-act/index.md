@@ -17,7 +17,7 @@ updated: 'February 27th, 2017'
 
 One of the primary responsibilities of the U.S. Fish and Wildlife Service is to **protect and recover imperiled species and the ecosystems upon which they depend**. Congress defined “species” to include subspecies, varieties, and, for vertebrates, distinct population segments.
 
-The Endangered Species Act, often referred to as the ESA or simply “the Act,” is **America’s strongest conservation law**. Originally passed by Congress in 1973, the ESA is jointly administered by the U.S. Fish and Wildlife Service and the [National Marine Fisheries Service](http://www.nmfs.noaa.gov/) (NMFS). The Service has primary responsibility for **terrestrial and freshwater organisms**, while the responsibilities of NMFS are mainly marine wildlife such as whales and anadromous fish like salmon.
+The [Endangered Species Act](https://www.fws.gov/endangered/esa-library/pdf/ESAall.pdf), often referred to as the ESA or simply “the Act,” is **America’s strongest conservation law**. Originally passed by Congress in 1973, the ESA is jointly administered by the U.S. Fish and Wildlife Service and the [National Marine Fisheries Service](http://www.nmfs.noaa.gov/) (NMFS). The Service has primary responsibility for **terrestrial and freshwater organisms**, while the responsibilities of NMFS are mainly marine wildlife such as whales and anadromous fish like salmon.
 
 All species of plants and animals, except pest insects, are eligible for listing as endangered or threatened. Check out [a list of all species protected under the Act in the United States](https://www.fws.gov/endangered/species/us-species.html).
 
@@ -34,10 +34,6 @@ All species of plants and animals, except pest insects, are eligible for listing
 The goal of the Service is to take plants and animals off the endangered and threatened species list when they have fully recovered, meaning their survival no longer depends on the  the ESA protections.
 
 {{< figure class="photo-center" src="/images/pages/louisiana-black-bear-and-cubs-in-tree.jpg" alt="A female black bear and her cubs in a tree." caption="Louisiana black bears in a tree. Photo by Clint Turnage, USDA." >}}
-
-A Distinct Population Segment (DPS) is described geographically instead of biologically, such as "all members of a species that occur north of 40 north latitude."
-
-The use of Distinct Population Segments is a benefit to species conservation and a benefit to people whose activities may be affected by the ESA's prohibitions. Conservation efforts are more effective and less costly if they are started early and a Distinct Population Segment listing makes earlier listings possible. By listing a Distinct Population Segment, we apply the ESA's protections only to the deteriorating portion of a species' range. Threats can then be addressed in that specific (and smaller) area instead of waiting until the entire species has declined to the point that listing the entire species throughout its range is necessary.
 
 ## Who We Work With to Conserve Species
 
