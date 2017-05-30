@@ -27,11 +27,14 @@
     "xhr": "^2.2.0"
   },
   "devDependencies": {
-    "browserify": "^13.0.1",
+    "browserify": "^14.4.0",
+    "date-and-time": "^0.3.0",
     "disc": "^1.3.2",
     "jade": "^1.11.0",
-    "jadeify": "^4.6.0",
-    "uglifyjs": "^2.4.10",
-    "watchify": "^3.7.0"
+    "jadeify": "^4.7.0",
+    "query-string": "^4.3.4",
+    "uglifyjs": "^2.4.11",
+    "watchify": "^3.9.0",
+    "xhr": "^2.4.0"
   }
 }
