@@ -3,7 +3,6 @@ const queryString = require('query-string');
 const lunr = require('lunr');
 const isUrl = require('is-url-superb');
 
-const template = require('./document-list.pug');
 const output = document.querySelector('.output');
 const input = document.querySelector('.document-input');
 
@@ -11,6 +10,19 @@ let hasWWW = window.location.href.indexOf('www');
 hasWWW = (hasWWW < 0) ? false : true;
 const baseURL = document.body.getAttribute('data-root');
 const dataURL = hasWWW ? baseURL : baseURL.replace('www.', '');
+
+const template = ({type, documents: docs}) => {
+  const lastCharacter = type.slice(-1);
+  const heading = (lastCharacter === 's') ? type : type +'s';
+  return `
+    <h2>${heading}</h2>
+    <ul>${docs.map(d => {
+      const year = d.year ? '(' + d.year + ')' : '';
+      return `<li><a href="${d.url}" target="_blank">${d.office} ${d.name} ${year}</a></li>`
+    }).join('')}
+    </ul>
+  `;
+}
 
 let documents;
 

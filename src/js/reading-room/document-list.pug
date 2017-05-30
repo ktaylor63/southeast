@@ -1,8 +1,0 @@
-- var lastCharacter = type.slice(-1);
-- var heading = (lastCharacter === 's') ? type : type +'s';
-h2| #{heading}
-ul
-  each doc in documents
-    - var year = doc.year ? '('+ doc.year +')' : '';
-    li
-      a(href=doc.url, target='_blank')| #{doc.office} #{doc.name} #{year}
