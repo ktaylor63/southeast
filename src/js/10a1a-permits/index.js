@@ -1,10 +1,5 @@
 const xhr = require('xhr');
 
-const templates = {
-  result: require('./result.pug'),
-  error: require('./error.pug')
-};
-
 let hasWWW = window.location.href.indexOf('www');
 hasWWW = (hasWWW < 0) ? false : true;
 const baseURL = document.body.getAttribute('data-root');
@@ -23,11 +18,16 @@ function search(e) {
   const query = e.target.value.toLowerCase();
   const matches = permits.filter(permit => permit.number.toLowerCase() === query);
 
-  if (query.length === 0) {
-    output.innerHTML = '';
-    return;
-  }
+  if (query.length === 0) return output.innerHTML = '';
 
-  if (matches.length === 1) output.innerHTML = templates.result({ data: matches[0] });
-  else output.innerHTML = templates.error();
+  if (matches.length === 1) output.innerHTML = render(matches[0]);
+  else output.innerHTML = `<p>Could not find a permit application matching that number.</p>`;
+}
+
+
+function render(result) {
+  return `
+    <p>Status: ${result.status}</p>
+    <p><em>Federal Register</em> Status: ${result.fed_register}</p>
+  `;
 }
