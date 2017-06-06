@@ -21,8 +21,8 @@ hero:
     name: louisiana-black-bear.jpg
     alt: 'A Louisiana black bear standing in a grassy clearing'
     caption: 'Louisiana black bear. Credit: Pam McIlhenny, used with permission.'
-description: 'The Louisiana black bear is the state mammal for Louisiana, and it is one of 16 subspecies of the American black bear. While the American black bear can be found across North America, the Louisiana black bear subspecies is only known to occur in Louisiana, East Texas and western Mississippi.  Compared to other black bears, the Louisiana black bear''s skull is longer, narrower and flatter, with larger molar teeth.'
-updated: 'April 11th, 2017'
+description: 'The Louisiana black bear is the state mammal for Louisiana, and it is one of 16 subspecies of the American black bear. While the American black bear can be found across North America, the Louisiana black bear subspecies is only known to occur in Louisiana, East Texas and western Mississippi.  Compared to other black bears, the Louisiana black bears skull is longer, narrower and flatter, with larger molar teeth.'
+updated: 'May 30th, 2017'
 ---
 
 - **Taxa:** [Mammal](/tags/mammal)
@@ -33,7 +33,7 @@ The Louisiana black bear is the state mammal for Louisiana, and it is one of 16 
 
 By 1980, more than 80 percent of the Louisiana black bear’s habitat had been modified or destroyed, and on January 7, 1992, the bear was listed as threatened within its historic range.
 
-On March 10, 2016 we removed this species from the Lists of Threatened and Endangered Wildlife under the Endangered Species Act due to recovery. Recovery was made possible thanks to the active partnerships of many private landowners, state and federal agencies, universities and non-governmental organizations. Since the Louisiana black bear was listed in 1992, voluntary landowner-incentive-based habitat restoration programs and environmental regulations have not only stopped the net loss of forested lands in the Lower Mississippi River Alluvial River Valley, but have resulted in significant habitat gains.  A major factor in this positive habitat trend is the success of incentive-based private land restoration programs, such as the Wetland reserve program.  Since 1992, more than 148,000 ac of habitat has been permanently protected and/or restored through the WRP program.  Additional private lands have been restored through the efforts of private landowners and organizations.  Over 65,000 additional acres of bottomland hardwood forest has been protected and restored through the efforts of such groups as Wildlife Mississippi, Mississippi Land Trust Mississippi River Trust, Black Bear Conservation Coalition, Bear Education and restoration Group of Mississippi and the East Texas Black Bear Task Force.
+On March 10, 2016 the Service removed this species from the Lists of Threatened and Endangered Wildlife under the Endangered Species Act due to recovery. Recovery was made possible thanks to the active partnerships of many private landowners, state and federal agencies, universities and non-governmental organizations. Since the Louisiana black bear was listed in 1992, voluntary landowner-incentive-based habitat restoration programs and environmental regulations have not only stopped the net loss of forested lands in the Lower Mississippi River Alluvial River Valley, but have resulted in significant habitat gains.  A major factor in this positive habitat trend is the success of incentive-based private land restoration programs, such as the Wetland reserve program.  Since 1992, more than 148,000 ac of habitat has been permanently protected and/or restored through the WRP program.  Additional private lands have been restored through the efforts of private landowners and organizations.  Over 65,000 additional acres of bottomland hardwood forest has been protected and restored through the efforts of such groups as Wildlife Mississippi, Mississippi Land Trust Mississippi River Trust, Black Bear Conservation Coalition, Bear Education and restoration Group of Mississippi and the East Texas Black Bear Task Force.
 
 Currently we estimate that between 500 and 750 Louisiana black bears roam the United States, approximately double the population size at the time of listing. We have used techniques such as live trapping, winter den inspections, radio telemetry monitoring, and DNA sampling to determine population size.
 
@@ -44,6 +44,8 @@ Currently we estimate that between 500 and 750 Louisiana black bears roam the Un
 ## Appearance
 
 The black bear is a large, bulky animal with long black hair and a short, well-haired tail. Their weight can vary considerably, but males may weigh more than 600 pounds. The face is blunt, the eyes small, and the nose pad broad with large nostrils. The muzzle is a yellowish-brown with a white patch sometimes present on the lower throat and chest. Black bears have five toes with short, curved claws on the front and back feet.
+
+{{< video name="louisiana-black-bear-with-cubs.mp4" caption="A Louisiana black bear looks on as her cubs navigate down a tree. Video by (Cliff) Sutton Maehr, Louisiana Department of Wildlife and Fisheries." >}}
 
 ## Habitat
 
