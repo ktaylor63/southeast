@@ -5,8 +5,8 @@ nav: 'For Landowners'
 url: /our-services/partners-program/
 js: /js/partners.js
 tags:
-    - 'Voluntary Conservation'
     - 'Private Landowners'
+    - 'Voluntary Conservation'
 aliases:
     - /es/partners
     - /es/partners/about
@@ -23,7 +23,7 @@ hero:
     alt: 'A hand holds a wooden walking stick with a persons blurred torso in the background'
     caption: 'A biologist in a bog. <a href="https://flic.kr/p/rpRgQq">Photo</a> by Gary Peeples, USFWS.'
     link: 'https://flic.kr/p/rpRgQq'
-updated: 'February 6th, 2017'
+updated: 'June 5th, 2017'
 ---
 
 The Southeast Region Partners for Fish and Wildlife Program provides technical and financial assistance to private landowners interested in improving habitat for migratory birds, endangered, threatened and at-risk species while maintaining the their primary land management goals. This is a voluntary program in which landowners continue to manage their land for their objectives as well as for wildlife, which most of the time go-hand-in-hand.
@@ -115,11 +115,11 @@ Phone: (787) 851-7297, Ext. 224 <br>
 Fax: (787) 851-7440
 
 ### Florida
-[Stan Simpkins](mailto:Stan_Simpkins@fws.gov?subject=Partners+for+Fish+and+Wildlife+Program) <br>
-7915 Baymeadows Way, Suite 200 <br>
-Jacksonville, FL 32256-7517 <br>
-Phone: (904) 731-3096 <br>
-Fax: (904) 731-3045
+[Joseph Prenger](mailto:Joseph_Prenger@fws.gov?subject=Partners+for+Fish+and+Wildlife+Program) <br>
+7915 Baymeadows Way, Suite 200  
+Jacksonville, FL 32256-7517  
+Phone: (904) 731-3096  
+Fax: (904) 731-3045  
 
 ### Georgia
 [Robert Brooks](mailto:Robert_Brooks@fws.gov?subject=Partners+for+Fish+and+Wildlife+Program) <br>
@@ -181,11 +181,12 @@ Fax: (931) 528-7075 <br>
 
 Contact our Regional Coordinator for the Partners Program:
 
-**[Sergio Pierluissi](mailto:Sergio_Pierluissi@fws.gov?subject=Partners+for+Fish+and+Wildlife+Program)** <br>
-U.S. Fish and Wildlife Service <br>
-1875 Century Blvd., Suite 200 <br>
-Atlanta, GA 30345 <br>
-Phone: (404) 679-7138
+**[Nicole Adimey](mailto:nicole_adimey@fws.gov?subject=Partners+for+Fish+and+Wildlife+Program)** <br>
+Division of Restoration and Recovery  
+U.S. Fish and Wildlife Service  
+1875 Century Boulevard  
+Atlanta, Georgia 30345  
+(404) 679-7138  
 
 ## Annual Accomplishments
 
