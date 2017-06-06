@@ -1,5 +1,14 @@
 ---
 stories:
+  - title: 'Worried biologists put up bat signal in Eastern NC'
+    url: 'http://www.starnewsonline.com/news/20170602/worried-biologists-put-up-bat-signal-in-eastern-nc'
+    date: '2017-06-03'
+    summary: 'Tucked behind two gates, across a road of gravel and dirt, stands a tall net. Gary Jordan, a biologist from the U.S. Fish and Wildlife Service’s Raleigh office, is hoping bats fly into this and four nets scattered across Resource Management Service’s land in Brunswick County. Every 10 minutes, almost like clockwork, Jordan completes a lap of the nets, his light only shining on twine during the first few hours.'
+    hero:
+      name: 'northern-long-eared-bat-wns.jpg'
+      alt: 'A fuzzy brown bat attached to the roof of a cave with small white fungus on its head'
+      link: 'https://flic.kr/p/dY4ZSs'
+      caption: 'Northern long-eared bat with visible symptoms of WNS. Photo by Steve Taylor, University of Illinois.'
   - title: 'How grizzlies, monarchs and even fish can benefit from U.S. highways'
     url: 'https://ensia.com/features/highways/'
     date: '2017-05-19'
