@@ -12,7 +12,7 @@ hero:
     link: 'https://flic.kr/p/cuCjds'
     caption: 'Southeast Regional Director Cindy Dohner stands between Midwest Regional Director Tom Melius (left), and former agency Director Dan Ashe (right). Photo by Tom MacKenzie, USFWS.'
     position: 'top right'
-updated: 'March 9th, 2017'
+updated: 'June 5th, 2017'
 ---
 
 Nationally, the U.S. Fish and Wildlife Service is led by a Director, a team of Assistant Directors and eight Regional Directors. (See our [headquarters organizational chart.](http://www.fws.gov/offices/orgcht.html))
@@ -53,7 +53,7 @@ Allan has been married for 34 years with 3 adult children all of whom have marri
 ## Dr. Bill Uihlein
 ### Assistant Regional Director, Science Applications
 
-{{< figure class="photo-right" src="/images/pages/bill-uihlein-bio.jpg" alt="A man sitting in an office chair with a blue USFWS shirt on." >}}
+{{< figure class="photo-right" src="/images/pages/bill-uihlein-bio.jpg" alt="A family posing for a photo in front of mountains." >}}
 
 Dr. Bill Uihlein serves as the Assistant Regional Director of the Science Application Team. Science Applications provides a mission-driven relationship-building forum that focuses on defining the conservation landscape of the future to sustain fish and wildlife. The team is committed to facilitating FWS’ interest in Strategic Habitat Conservation through science capacity development, landscape planning and integration, informing targeted conservation actions, measuring results, and evaluating uncertainties.
 
