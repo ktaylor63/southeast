@@ -38,6 +38,8 @@ Learn more about what's happening in your state: [Alabama](/alabama), [Florida](
 
 ## The Gulf of Mexico: Fast Facts
 
+[Detailed factsheets about Gulf restoration can be found here.](/reading-room?q=Gulf+Restoration)
+
  - More than 50% of the contiguous United States have rivers, creeks, and streams that eventually drain into the Gulf of Mexico.
  - The Gulf of Mexico watershed includes 31 states that stretch from Montana to Florida, as well as parts of Canada and Mexico.
  - The Gulf of Mexico and its watershed are home to more than 500 federally listed species, of which more than 350 are endangered.
