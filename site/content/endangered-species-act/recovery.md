@@ -80,8 +80,11 @@ Some species have entire teams of biologists dedicated to their recovery. Learn 
 
 ## Contact Us
 
-For more information about species recovery, please contact us.
+Aaron Valenta, Chief, Division of Restoration and Recovery  
+[aaron_valenta@fws.gov](mailto:aaron_valenta@fws.gov?subject=Recovery), 404 679-4144
 
- - [Aaron Valenta](mailto:aaron_valenta@fws.gov?subject=Recovery), Chief, Division of Restoration and Recovery
- - [Matthew Dekar](mailto:matthew_dekar@fws.gov?subject=Recovery), Deputy Chief, Division of Restoration and Recovery
- - [Kelly Bibb](mailto:kelly_bibb@fws.gov?subject=Recovery), Recovery Coordinator
+Matthew Dekar, Deputy Chief, Division of Restoration and Recovery  
+[matthew_dekar@fws.gov](mailto:matthew_dekar@fws.gov?subject=Recovery), 404-679-4127
+
+Kelly Bibb, Recovery Coordinator  
+[kelly_bibb@fws.gov](mailto:kelly_bibb@fws.gov?subject=Recovery), 404-679-7132
