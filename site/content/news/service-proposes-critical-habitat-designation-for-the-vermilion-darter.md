@@ -1,11 +1,6 @@
 ---
 title: Service proposes Critical Habitat designation for the vermilion darter
 date: '2009-12-03'
-hero:
-  name: vermillion-darter.jpg
-  alt: An illustration of male and female fish.  The male is much more colorful with blues and oranges while the female is black and brown.
-  caption: Vermilion darter Illustrated by Joe Tomelleri.
-  position: top center
 tags:
  - Critical Habitat
  - Vermilion darter
