@@ -1,11 +1,6 @@
 ---
 title: 'Service seeks comments on draft economic analysis and proposed Critical Habitat for vermilion darter'
 date: '2010-06-29'
-hero:
-    name: vermillion-darter.jpg
-    alt: 'An illustration of male and female fish.  The male is much more colorful with blues and oranges while the female is black and brown.'
-    caption: 'Vermilion darter Illustrated by Joe Tomelleri.'
-    position: 'top center'
 tags:
     - 'Critical Habitat'
     - 'Vermilion darter'
