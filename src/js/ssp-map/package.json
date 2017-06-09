@@ -34,7 +34,7 @@
     "leaflet": "^1.0.2",
     "leaflet-draw": "^0.4.9",
     "lodash.foreach": "^4.5.0",
-    "papaparse": "^4.1.2",
+    "papaparse": "^4.3.3",
     "query-string": "^4.2.3",
     "remove-class": "^1.0.0",
     "toggle-class": "0.0.0",
