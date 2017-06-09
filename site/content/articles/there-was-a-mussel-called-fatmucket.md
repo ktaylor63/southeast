@@ -18,19 +18,19 @@ updated: 'June 5th, 2017'
 ---
 
 A shelled creature called Arkansas fatmucket – yes, you read that correctly – is going to be released into a couple of Arkansas rivers this week. 
-
+ 
 The goal: baby Arkansas fatmuckets.
-
+ 
 That bivalve’s full name: Arkansas fatmucket, a species of mussel found only in the state from which it derives part of its name. Since 1990, it has been listed as threatened under the federal Endangered Species Act.
-
-Scientists with the U.S. Fish and Wildlife Service (the Service) and the Arkansas Game and Fish Commission plan to place 120 specimens in the South Fork Ouachita and the Ouachita rivers, the mussels’ traditional habitats.
+ 
+Scientists with the U.S. Fish and Wildlife Service and the Arkansas Game and Fish Commission plan to place 120 specimens in the South Fork Ouachita and the Ouachita rivers, the mussels’ traditional habitats.
 
 There, they hope, *Lampsilis powellii* will do what nature intended, and the mussel will flourish.
 
-The species has suffered “significant population declines” in the past two decades, said Chris Davidson, deputy field supervisor with the Service’s Arkansas field office. On Tuesday and Thursday, he’ll don a wetsuit and snorkeling gear to slip the mussels into pre-selected spots on both rivers.
-
+The species has suffered “significant population declines” in the past two decades, said Chris Davidson, deputy field supervisor with the Service’s Arkansas field office. On Tuesday, he’ll don a wetsuit and snorkeling gear to slip the mussels into pre-selected spots.
+ 
 Run-off from development and dirt roads have hurt the bivalve’s habitat, Davidson said. The fatmucket thrives in relatively calm water, 2- to 4-feet deep. It prefers sandy, pebbly river bottoms –- not silted streambeds.
-
+ 
 The mussels’ disappearance was a biological alarm, said Bill Posey, the Arkansas agency’s assistant chief of fisheries.
  
 “They are excellent barometers of the aquatic environment,” he said.

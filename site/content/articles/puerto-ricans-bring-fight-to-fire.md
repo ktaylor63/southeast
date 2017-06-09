@@ -2,6 +2,7 @@
 title: 'Puerto Ricans bring fight to fire'
 author: 'Mark Davis, Public Affairs Specialist'
 date: '2017-05-02'
+type: feature
 tags:
     - Florida
     - Georgia

@@ -2,6 +2,7 @@
 title: 'Keeping upbeat'
 subtitle: 'Refuge manager monitors fire fight'
 date: '2017-05-02'
+type: feature
 author: 'Mark Davis, Public Affairs Specialist'
 tags:
     - Florida

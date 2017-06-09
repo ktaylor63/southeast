@@ -1,6 +1,7 @@
 ---
 title: 'Pythons nose their way into Florida Keys'
 description: 'Four large crawlers – one, a female, was nearly 16 feet long – turned up within the last month at an old missile base at Crocodile Lake National Wildlife Refuge.'
+type: feature
 hero:
     name: python-caught-uf.jpg
     alt: 'A group of seven people crouching on a beach while holding a 16 foot python.'

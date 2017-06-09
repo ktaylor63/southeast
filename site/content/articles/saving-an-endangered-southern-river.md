@@ -1,7 +1,8 @@
 ---
-title: 'Saving an Endangered Southern River'
+title: 'Saving an endangered southern river'
 date: '2017-03-22'
 author: 'Dan Chapman, Public Affairs Specialist'
+type: feature
 hero:
     name: conasauga-river-canopy.jpg
     alt: 'Mature trees form a canopy shading the river from the sun.'
