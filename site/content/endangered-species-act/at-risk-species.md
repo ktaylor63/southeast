@@ -14,7 +14,7 @@ hero:
     link: 'https://flic.kr/p/eLEEwc'
     alt: 'A brownish-yellow salamander sanding on a mossy rock with large round eyes.'
     caption: 'The Pigeon Mountain salamander is no longer at-risk of needing federal protection. Photo by John P. Clare, CC BY-NC-ND 2.0.'
-updated: 'April 5th, 2017'
+updated: 'June 13th, 2017'
 ---
 
 Listing a plant or animal as federally protected under the Endangered Species Act is proven to be successful in preventing extinction.
@@ -58,6 +58,8 @@ Whether you’re a landowner, state wildlife agency, private corporation, univer
 
 To discuss the possibilities and to learn more, please contact:
 
-**Mike Harris, At-Risk Species Coordinator**  
-[michael_harris@fws.gov](mailto:michael_harris@fws.gov?subject=At-Risk+Species+Conservation)  
-(404) 679-7066
+## Contact
+
+Mike Harris, At-Risk Species Coordinator  
+Southeast Regional Office, Atlanta, GA  
+[michael_harris@fws.gov](mailto:michael_harris@fws.gov?subject=At-Risk+Species+Conservation), (404) 679-7066

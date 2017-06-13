@@ -13,7 +13,7 @@ tags:
     - Conservation
     - Partnership
     - 'Voluntary Conservation'
-updated: 'April 4th, 2017'
+updated: 'June 13th, 2017'
 ---
 
 > “In the next 10 years, the Southeast Region will have to evaluate a record number of fish, wildlife and plant species for possible listing as threatened or endangered under the Endangered Species Act. Our goal is to conserve them in voluntary and innovative ways for future generations of Americans.” <br> ~Cindy Dohner, U.S. Fish and Wildlife Service Southeast Regional Director
@@ -75,3 +75,9 @@ Potential funding sources for HCPs include Section 6 funds, and the competitive 
 ## Conservation Banks
 
 Conservation banks are formal arrangements through which compensation is provided for impacts to federally-listed species.   The bank sponsor implements conservation measures and actions that benefit the species thus generating credits that may be used to offset impacts to the species or its habitat.   Credits may be sold to others in need of compensation for impacts to species.  Conservation banks may be used in association with HCPs or consultations under Section 7.  The Service has a policy for mitigation banks that provides guidance on requirements for permanent protection, long-term funding of conservation actions and other requirements.
+
+## Contacts
+
+Aaron Valenta, Chief, Restoration and Recovery  
+Southeast Regional Office, Atlanta, GA  
+[aaron_valenta@fws.gov](mailto:aaron_valenta@fws.gov), (404) 679-4144

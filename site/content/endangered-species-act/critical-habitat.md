@@ -11,7 +11,7 @@ hero:
     link: 'https://flic.kr/p/H3SC2u'
     caption: 'Endangered mountain sweet pitcher plants need specific conditions to survive. Photo by Gary Peeples, USFWS.'
     position: 'center bottom'
-updated: 'March 8th, 2017'
+updated: 'June 13th, 2017'
 ---
 
 When the U.S. Fish and Wildlife Service proposes an animal or plant for listing as endangered or threatened under the Endangered Species Act (ESA), we identify specific areas that contain the physical or biological features essential to its conservation. This is the species’ critical habitat. The ESA requires the Service to designate critical habitat when it is both “prudent and determinable.”
@@ -83,6 +83,16 @@ An area may be excluded from critical habitat designation based on:
 
 The Service can also make a determination not to designate critical habitat when a designation would likely increase the threat of collection, vandalism, or incidental habitat degradation by curiosity seekers.  Such is the case with the rock gnome lichen, a plant species found in only 35 sites in the southern Appalachian Mountains.
 
-## Questions?
+## Contacts
 
-Please <a href="javascript:void(0)" class="toggle-contact">contact us</a> with your critical habitat questions.
+Aaron Valenta, Chief, Restoration and Recovery  
+Southeast Regional Office, Atlanta, GA  
+[aaron_valenta@fws.gov](mailto:aaron_valenta@fws.gov), (404) 679-4144
+
+Robert Tawes, Chief, Division of Environmental Review  
+Southeast Regional Office, Atlanta, GA  
+[robert_tawes@fws.gov](mailto:robert_tawes@fws.gov), (404) 679-7142
+
+Timothy Merritt, Chief, Branch of Conservation and Classification  
+Southeast Regional Office, Atlanta, GA  
+[timothy_merritt@fws.gov](mailto:timothy_merritt@fws.gov) (404) 679-7082

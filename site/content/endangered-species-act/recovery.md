@@ -16,7 +16,7 @@ tags:
     - 'Endangered Species Act'
     - Recovery
     - 'Endangered Species Act'
-updated: 'March 30th, 2017'
+updated: 'June 13th, 2017'
 ---
 
 The goal of the U.S. FIsh and Wildlife Service  under the Endangered Species Act (ESA) is to conserve plants and animals listed as endangered or threatened, as well as the ecosystems upon which they depend. The Service also works to improve the status of those species to the point that protection under the ESA is no longer necessary. This process is called **recovery**.
@@ -81,10 +81,13 @@ Some species have entire teams of biologists dedicated to their recovery. Learn 
 ## Contact Us
 
 Aaron Valenta, Chief, Division of Restoration and Recovery  
+Southeast Regional Office, Atlanta, GA  
 [aaron_valenta@fws.gov](mailto:aaron_valenta@fws.gov?subject=Recovery), 404 679-4144
 
 Matthew Dekar, Deputy Chief, Division of Restoration and Recovery  
+Southeast Regional Office, Atlanta, GA  
 [matthew_dekar@fws.gov](mailto:matthew_dekar@fws.gov?subject=Recovery), 404-679-4127
 
 Kelly Bibb, Recovery Coordinator  
+Southeast Regional Office, Atlanta, GA  
 [kelly_bibb@fws.gov](mailto:kelly_bibb@fws.gov?subject=Recovery), 404-679-7132
