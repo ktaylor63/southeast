@@ -11,7 +11,7 @@ hero:
     alt: 'Shelves upon shelves of confiscated wildlife parts from big cats including tigers and leopards.'
     link: 'https://flic.kr/p/qFSVJ4'
     caption: 'Illegal wildlife property, heads of cats. Photo by Ryan Moehring, USFWS.'
-updated: 'May 16th, 2017'
+updated: 'June 13th, 2017'
 ---
 
 The U.S. Fish and Wildlife Service reduces threats to plants and animals through the enforcement of federal wildlife laws such as the [Bald and Golden Eagle Protection Act](http://www.fws.gov/midwest/MidwestBird/EaglePermits/bagepa.html), the [Marine Mammal Protection Act](http://www.fws.gov/international/laws-treaties-agreements/us-conservation-laws/marine-mammal-protection-act.html) and the [Endangered Species Act](/endangered-species-act/) both on America’s public lands and around the world. We also investigate wildlife crimes.
