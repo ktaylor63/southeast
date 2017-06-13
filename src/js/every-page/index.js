@@ -66,8 +66,6 @@ if (content && h2s.length > 0 && !hideScrollnav) {
     showHeadline: false,
     scrollOffset: 55
   });
-  scrollNav = document.querySelector('.scroll-nav');
-  scrollNav.addEventListener('click', toggleScrollNav);
 } else {
   // if there scroll nav isn't initialized, center the content on the page.
   const mainContent = content.querySelector('.main');
