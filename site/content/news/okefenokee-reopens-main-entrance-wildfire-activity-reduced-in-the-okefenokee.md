@@ -1,5 +1,5 @@
 ---
-title: 'Okefenokee Reopens Main Entrance'
+title: 'Okefenokee reopens main entrance'
 subtitle: 'Wildfire activity reduced in the Okefenokee'
 date: '2017-06-02'
 hero:
