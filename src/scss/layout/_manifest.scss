@@ -15,6 +15,12 @@
   @include container($container-width);
 }
 
+.svg-sprite {
+  height: 0;
+  position: absolute;
+  width: 0;
+}
+
 #content {
   @include container(1200px);
 
