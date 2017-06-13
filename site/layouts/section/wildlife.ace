@@ -1,5 +1,5 @@
 = content main
-  .content-centered role="main"
+  .content-centered
     h1 Southeastern Wildlife
 
     p The species profiles below are a one-stop-shop for information about the animals that the Southeast region of the U.S. Fish and Wildlife Service is responsible for protecting and/or recovering.

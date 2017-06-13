@@ -74,7 +74,7 @@ html lang="en-US"
     .wrapper
       .container
         #content
-          aside.side-nav role="complimentary"
+          aside.side-nav
           = yield main
     = include partials/footer.html .
     = include partials/contact.html .
