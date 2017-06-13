@@ -1,5 +1,6 @@
 .share-drawer {
   @include drawer('share');
+  text-align: center;
 
   .social-links {
     bottom: $leading;
