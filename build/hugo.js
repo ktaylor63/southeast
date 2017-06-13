@@ -1,9 +1,10 @@
 const exec = require('child_process').exec;
 const endOfLine = require('os').EOL;
+const chalk = require('chalk');
 
 function build(baseURL) {
   baseURL = (baseURL) ? baseURL : process.argv[2];
-  console.log(`Base URL: ${baseURL} ${endOfLine}`);
+  console.log(chalk.green(`Base URL: ${baseURL} ${endOfLine}`));
   const buildDrafts = baseURL.includes('fws.gov/southeast') ? '--buildDrafts=false' : '--buildDrafts=true';
   const command = [
     'hugo',
@@ -15,7 +16,7 @@ function build(baseURL) {
 
   exec(command, (err, stdout, stderr) => {
     if (err) console.error(err);
-    console.log(stdout);
+    console.log(chalk.green(stdout));
   });
 
 }

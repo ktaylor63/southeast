@@ -3,6 +3,8 @@ const replace = require('replace-in-file');
 const moment = require('moment');
 const yaml = require('yamljs');
 const toTitleCase = require('titlecase');
+const chalk = require('chalk');
+const error = chalk.bold.red;
 
 // If you want to use something other than lastUpdate change this var
 const propertyName = 'updated';
@@ -28,7 +30,7 @@ function updateFrontMatter(path, cb) {
 }
 
 function capitalizeTags(tags, title) {
-  if (!tags || tags === []) return console.warn(`You must include at least one tag on ${title}`);
+  if (!tags || tags === []) return console.log(error(`You must include at least one tag on ${title}`));
   return tags.map(tag => toTitleCase(tag)).sort();
 }
 
