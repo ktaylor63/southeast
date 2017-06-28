@@ -6,11 +6,10 @@ url: /mississippi
 tags:
     - Mississippi
 hero:
-    name: grand-bay.jpg
-    alt: 'A small tidal river cuts through a salt marsh surrounded by mature pine trees.'
-    link: 'https://flic.kr/p/9JMXaY'
-    caption: 'Grand Bay National Wildlife Refuge. Photo by Tom Carlisle.'
-    position: bottom
+    name: mississippi-sandhill-crane-chick.jpg
+    alt: 'A USFWS biologist holding a fuzzy orange Mississippi Sandhill crane chick to take measurements.'
+    caption: 'A U.S. Fish and Wildlife Service employee gently examines a Mississippi sandhill crane chick. Photo by USFWS.'
+    position: 'bottom center'
 updated: 'March 17th, 2017'
 ---
 
