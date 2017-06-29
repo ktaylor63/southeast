@@ -3,12 +3,12 @@ title: 'Service seeks comments on environmental assessment - restoring wildlife 
 date: '2011-07-29'
 hero:
     name: desecheo.jpg
-    alt: 'A tall rocky island emerging from a choppy blue sea.'
-    link: 'https://flic.kr/p/s58JUj'
-    caption: 'Desecheo Island, Puerto Rico. Photo by <a href=\"https://www.flickr.com/photos/damiavos/\" target=\"_blank\">damian entwistle</a> <a href=\"https://creativecommons.org/licenses/by-nc/2.0/\" target=\"_blank\">CC BY-NC 2.0</a>.'
+    alt: 'A tall rocky island emerging from a calm blue sea.'
+    link: 'https://flic.kr/p/VUJwFS'
+    caption: 'Desecheo Island, Puerto Rico. Photo © Claudio Uribe, Island Conservation. Used with permission: S://EA/Photo Permissions/desecheo-island-conservation.pdf.'
 tags:
     - 'Puerto Rico'
-updated: 'October 25th, 2016'
+updated: 'June 29th, 2017'
 ---
 
 **CABO ROJO, PR** - The U.S. Fish and Wildlife Service is seeking public comments on the recently completed Environmental Assessment, _Rat Eradication to Promote Ecosystem Restoration on Desecheo Island, Puerto Rico_. This Environmental Assessment analyzes possible consequences of five alternatives – a no-action alternative and four action alternatives – for restoring the island’s native habitat and species by eradicating non-native, invasive black rats from the Refuge. The proposed action will assist the native subtropical dry forest to recover and will promote the recolonization of the island by nesting seabirds.
