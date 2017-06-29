@@ -10,7 +10,7 @@ hero:
     link: 'https://flic.kr/p/MFnYkm'
     caption: 'Joyce Coombs helps a students check a rock for animals. Photo by Gary Peeples, USFWS.'
     position: 'top right'
-updated: 'March 20th, 2017'
+updated: 'June 29th, 2017'
 ---
 
 The Southeast Region Science Committee is comprised of employees from throughout the Service who are working to make scientific information more accessible. Current committee members are listed below including information on their experience and expertise.  If you would like to participate or have a question for the science committee feel free to contact us at [southeastscience@fws.gov](mailto:southeastscience@fws.gov).
@@ -20,8 +20,8 @@ The Southeast Region Science Committee is comprised of employees from throughout
 {{< figure class="photo-right" src="/images/pages/forbes-boyle-bio.jpg" alt="A service biologist wearing a bright orange hat kneeling in tall wetland vegetation." >}}
 
 **Okefenokee National Wildlife Refuge, Georgia**  
-[maxwell_boyle@fws.gov](mailto:maxwell_boyle@fws.gov)
-[Job Series: 0430](https://www.usajobs.gov/Search/?keyword=0430)
+[maxwell_boyle@fws.gov](mailto:maxwell_boyle@fws.gov)  
+[Job Series: 0430](https://www.usajobs.gov/Search/?keyword=0430)  
 
 ### Expertise
 
@@ -182,6 +182,39 @@ Being in the field with a graduate student working on clapper rails in Grand Bay
 ### If you could go back in time to your first day on the job what advice would give yourself?
 
 Slow down (just a wee bit).
+
+## John Stanton, Supervisory Wildlife Biologist
+**Columbia, North Carolina**  
+[john_stanton@fws.gov](mailto:john_stanton@fws.gov)  
+[Job Series: 0486](https://www.usajobs.gov/Search/?keyword=0401)  
+
+{{< figure class="photo-right" src="/images/pages/john-stanton.jpg" alt="A male biologist holding a Canada goose." >}}
+
+### Expertise
+
+<span class="tag">Wetlands</span> <span class="tag">Waterbirds</span> <span class="tag">Habitat Mangement</span> <span class="tag">Waterfowl Management</span> <span class="tag">Wildlife Disease</span> <span class="tag">Inventory &amp;  Monitoring</span> <span class="tag">Wetland Restoration</span>
+
+### What does a typical day involve?
+
+I am the Project Leader for the North Carolina Migratory Bird Field Office. In this capacity, I provide technical assistance to the Southeast Refuge System and work with other federal agencies, NGOs and State agencies to deliver migratory bird conservation.
+
+My duties have changed over the years, from being primarily field work consisting of wetland management and waterbird monitoring to more of an administrative position. Although I do a considerable amount of administrative work, I still get opportunities to work in the field conducting training workshops and assisting others on research projects.
+
+### Field of Study
+
+I received a Bachelor of Science degree in Wildlife Management from the University of Maine and a Master’s degree in Wildlife Biology from North Carolina State University. For my master’s degree, I studied the nesting ecology of mallards in the Chesapeake Bay region.
+
+### What led you to the Service?
+
+During my undergraduate studies, I worked on Moosehorn NWR as field technician on an American Black Duck nesting study and assisted refuge staff with night-lighting American Woodcock. Later in my college career, I was a student conservation association biological technician station at Stillwater NWR and was responsible for waterbird surveys and avian botulism monitoring refuge-wide.  These experiences strengthened my interested in the U.S Fish and Wildlife Service as a career path. 
+
+### Most memorable day on the job
+
+One of my most memorable days on the job was being selected as the first refuge biologist for the Lake Ophelia and Grand Cote NWRs.  In this capacity, I was able to setup the first biological monitoring and habitat management programs for these refuges. There are many more memorable days too, but I don’t have the space and time to capture them all here.
+
+### If you could go back in time to your first day on the job what advice would give yourself?
+
+Begin networking the first day on the job.  Reach out to others in the conservation and research communities to ensure our collective efforts will result in efficiencies of scale. Doing so will also greatly increase your knowledge and skills. Take notes and keep good records to maximize the usefulness of your work. 
 
 ## Carrie A. Straight, Fish and Wildlife Biologist
 **Athens, Georgia**  
