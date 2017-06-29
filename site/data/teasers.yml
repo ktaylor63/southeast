@@ -1,5 +1,14 @@
 ---
 stories:
+  - title: 'Stewardship with Vision: David Spicer'
+    url: 'https://www.youtube.com/watch?v=yW82TiCagbE'
+    date: '2017-06-29'
+    summary: 'David Spicer’s leadership in restoring springs, wetlands, and riparian areas on his ranch and beyond has helped keep a species from being listed under the ESA and supported return of many more to this Nevada desert valley. We thank him for sharing his story.'
+    hero:
+      name: 'amaragosa-toad.jpg'
+      alt: 'A brown black and beige toad.'
+      link: 'https://flic.kr/p/Ld4Z16'
+      caption: 'Amargosa toad. Photo by USFWS.'
   - title: 'Worried biologists put up bat signal in Eastern NC'
     url: 'http://www.starnewsonline.com/news/20170602/worried-biologists-put-up-bat-signal-in-eastern-nc'
     date: '2017-06-03'
