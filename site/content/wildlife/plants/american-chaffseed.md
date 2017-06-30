@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 'American chaffseed'
 type: species-profile
 scientific: 'Schwalbea americana'
@@ -113,19 +112,19 @@ American chaffseed was listed as an endangered species under the Endangered Spec
 
 The Service works with federal, state, academic and non-profit organizations and private landowners across the southeastern United States to conserve American chaffseed. 
 
-{{< figure class="photo-center" src="/images/pages/american-chaffseed-ex-situ-plants.jpg" alt="Dozens of small plants in circular canisters for propagation." caption="The South Carolina Botanical Garden is safeguarding American chaffseed populations ex situ (off-site) and will help with future reintroduction efforts in South Carolina. Photo by April Punsalan, USFWS" >}}
+{{< figure class="photo-center" src="/images/pages/american-chaffseed-ex-situ-plants.jpg" alt="Dozens of small plants in circular canisters for propagation." caption="The South Carolina Botanical Garden is safeguarding American chaffseed populations ex situ (off-site) and will help with future reintroduction efforts in South Carolina. Photo by Patrick McMillan, Clemson University." >}}
 
 The U.S. Forest Service maintains a prescribed fire program and tries to burn American chaffseed populations on a 2-3 year rotation.  They have monitored American chaffseed populations on the Francis Marion National Forest since 1999.
 
-{{< figure class="photo-center" src="/images/pages/forest-service-employees-with-american-chaffseed.jpg" alt="Two biologists inspecting plants marked by bright orange flags in a sparse forest." caption="American chaffseed at Francis Marion National Forest.  Photo by April Punsalan, USFWS" >}}
+{{< figure class="photo-center" src="/images/pages/forest-service-employees-with-american-chaffseed.jpg" alt="Two biologists inspecting plants marked by bright orange flags in a sparse forest." caption="American chaffseed at Francis Marion National Forest.  Photo by USFWS" >}}
 
 Jeff Glitzenstein (Research Associate with Tall Timbers) worked with The Citadel (Danny Gustafson), S.C. Department of Natural Resources, and the U.S. Fish and Wildlife Service [to introduce a population of American chaffseed onto Woods Bay Heritage Preserve](http://www.bioone.org/doi/abs/10.2179/16-089).
 
-{{< figure class="photo-center" src="/images/pages/brandi-cannon-with-american-chaffseed.jpg" alt="A biologist inspecting vegetation marked by orange flags.." caption="Brandi Cannon searching for American chaffseed.  Photo by April Punsalan, USFWS" >}}
+{{< figure class="photo-center" src="/images/pages/brandi-cannon-with-american-chaffseed.jpg" alt="A biologist inspecting vegetation marked by orange flags.." caption="Brandi Cannon searching for American chaffseed.  Photo by USFWS" >}}
 
 Brandi Cannon, Masters Student with Columbia University, is researching the genetic variation of American chaffseed throughout its range.  [Listen to the In Defense of Plants podcast episode, Broomrapes: A celebration of an interesting family of parasitic plants](http://www.indefenseofplants.com/podcast/2016/10/2/ep-76-broomrapes-a-celebration-of-an-interesting-family-of-parasitic-plants).
 
-{{< figure class="photo-center" src="/images/pages/american-chaffseed-lynchburg-savanna-heritage-preserve.jpg" alt="Two men posing for a photo in a grassy field below a pine tree." caption="Lynchburg Savanna Heritage Preserve. " >}}
+{{< figure class="photo-center" src="/images/pages/american-chaffseed-lynchburg-savanna-heritage-preserve.jpg" alt="Two men posing for a photo in a grassy field below a pine tree." caption="Lynchburg Savanna Heritage Preserve. Photo by USFWS." >}}
 
 The South Carolina Department of Natural Resources (SCDNR) [has worked hard](http://www.dnr.sc.gov/video/sept_video/septvideo_lynch.html) to restore the Lynchburg Savanna Heritage Preserve using prescribed fire as their management tool to help recover American chaffseed.  Johnny Stowe, Heritage Preserve Land Manager, left a small portion (left side of photo above) of the preserve unburned to demonstrate the important role fire plays in creating and maintaining Longleaf Pine Savannas.  Pictured above (l-r):  Aaron Robinson, intern, South Carolina Department of Natural Resources and Johnny Stowe, Heritage Preserve Manager, South Carolina Department of Natural Resources.
 
