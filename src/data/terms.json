@@ -408,6 +408,22 @@
   },
   {
     "acronym": null,
+    "name": "Mammal",
+    "description": "A class of of animals that are warm-blooded, have hair or fur, and that nourish their young with milk secreted by mammary glands. Humans are mammals, and so are dogs, cats, coyotes, and bats (just to name a few).",
+    "related": [
+      "Marine Mammal Protection Act"
+    ]
+  },
+  {
+    "acronym": "MMPA",
+    "name": "Marine Mammal Protection Act",
+    "description": "<p>The MMPA makes it illegal for anyone to hunt, harass, capture or kill marine mammals in U.S. waters. Attempting to do any of these activities is also forbidden. Exceptions may be made in certain situations (e.g., Alaska natives, scientific research, etc.)</p><p>Jurisdiction for MMPA is shared by U.S.  Fish and Wildlife Service and the National Marine Fisheries Service. The U.S. Fish and Wildlife Service is responsible for protecting walruses, manatees, otters and polar bears; the National Marine Fisheries Service is responsible for protecting whales, dolphins, porpoises, seals and sea lions.</p>",
+    "related": [
+      "Mammal"
+    ]
+  },
+  {
+    "acronym": null,
     "name": "Mid-story",
     "description": "Trees with an height between the forest canopy and the seedlings of the understory and forest floor.",
     "related": [
@@ -425,9 +441,10 @@
   {
     "acronym": "MBTA",
     "name": "Migratory Bird Treaty Act",
-    "description": "The Migratory Bird Treaty Act makes it illegal for anyone to take, possess, import, export, transport, sell, purchase, barter, or offer for sale, purchase, or barter, any migratory bird, or the parts, nests, or eggs of such a bird except under the terms of a valid permit issued pursuant to Federal regulations.",
+    "description": "The MBTA implements various treaties and conventions between the U.S., Canada, Japan, Mexico, and the former Soviet Union for the protection of migratory birds. Under MBTA, unless permitted by regulations, it is unlawful to pursue, hunt, take, capture or kill; attempt to take, capture or kill; possess, offer to or sell, barter, purchase, deliver or cause to be shipped, exported, imported, transported, carried, or received any migratory bird, part, nest, egg or product, manufactured or not. ",
     "related": [
-      "Migratory Bird Joint Ventures"
+      "Migratory Bird Joint Ventures",
+      "North American Waterfowl Management Plan"
     ]
   },
   {
