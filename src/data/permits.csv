@@ -325,7 +325,7 @@ number,status,fed_register
 53149B-1,Issued,Noticed for 30 days
 206872-7,Issued,Noticed for 30 days
 83000B-0,Abandoned,Noticed for 30 days
-91366A-3,In RO for Review,Noticed for 30 days
+91366A-3,Withdrawn,Noticed for 30 days
 88797B-0,Issued,Noticed for 30 days
 88817B-0,Withdrawn,Noticed for 30 days
 94849B-0,Issued,N/A
@@ -356,7 +356,7 @@ number,status,fed_register
 807672-17,Issued,N/A
 63633A-4,Issued,Noticed for 30 days
 810274-12,Issued,Noticed for 30 days
-13844A-3,In RO for Review,Noticed for 30 days
+13844A-3,Awaiting Input from Applicant,Noticed for 30 days
 98532B-0,In RO for Review,Noticed for 30 days
 089074-3,In RO for Review,Noticed for 30 days
 049738-8,Withdrawn,Noticed for 30 days
@@ -505,3 +505,4 @@ to be,In RO for Review,Noticed for 30 days
 88823B-0,In RO for Review,N/A
 05565B-1,In RO for Review,needs to be drafted
 65968A-1,In RO for Review,needs to be drafted
+41955C-0,Awaiting signature,Noticed for 30 days
