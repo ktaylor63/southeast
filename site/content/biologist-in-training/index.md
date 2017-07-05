@@ -3,6 +3,8 @@ title: 'Biologist in Training (BiT)'
 nav: 'BiT Home'
 weight: 1
 url: /biologist-in-training
+aliases:
+  - /fisheries/BiT/
 updated: 'April 28th, 2017'
 hero:
     name: north-toe-river-kids.jpg
