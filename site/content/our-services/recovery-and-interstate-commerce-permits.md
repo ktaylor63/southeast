@@ -14,7 +14,6 @@ tags:
     - Permits
     - Recovery
     - 'Endangered Species Act'
-description: 'A typical use of a recovery permit is to allow for scientific research on a listed species in order to understand better the species'' long-term survival needs. Interstate commerce permits also allow transport and sale of listed species across State lines (e.g., for purposes such as a breeding program).'
 js: /js/10a1a-permits.js
 updated: 'February 10th, 2017'
 ---
