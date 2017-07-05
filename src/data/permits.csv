@@ -168,8 +168,8 @@ number,status,fed_register
 040423-4,In FO for Review,Noticed for 30 days
 033469-5,Issued,Noticed for 30 days
 066980-4,Issued,Noticed for 30 days
-43261B-0,Ready for Review,Noticed for 30 days
-43264B-0,Ready for Review,Noticed for 30 days
+43261B-0,Awaiting Input from Applicant,Noticed for 30 days
+43264B-0,Awaiting Input from Applicant,Noticed for 30 days
 051553-5,Issued,N/A
 44513B-0,Issued,N/A
 44530B-0,Issued,N/A
@@ -213,7 +213,7 @@ number,status,fed_register
 53910B-0,Issued,Noticed for 30 days
 53973B-0,Issued,N/A
 23583B-1,Issued,N/A
-146761-3,Ready for Review,Noticed for 30 days
+146761-3,Awaiting Input from Applicant,Noticed for 30 days
 54106B-0,Issued,N/A
 092945-3,Issued,Noticed for 30 days
 65550A-1,Ready for Review,N/A
@@ -292,7 +292,7 @@ number,status,fed_register
 69912B-0,Awaiting Input from Applicant,Noticed for 30 days
 040792-4,Issued,Noticed for 30 days
 86220A-2,Issued,Noticed for 30 days
-75715B-0,In RO for in-processing,N/A
+75715B-0,Abandoned,N/A
 09889C-0,Abandoned,N/A
 237535-2,In RO for Review,Noticed for 30 days
 021030-4,Issued,Noticed for 30 days
@@ -506,3 +506,4 @@ to be,In RO for Review,Noticed for 30 days
 05565B-1,In RO for Review,needs to be drafted
 65968A-1,In RO for Review,needs to be drafted
 41955C-0,Awaiting signature,Noticed for 30 days
+41857C-0,In RO for Review,N/A
