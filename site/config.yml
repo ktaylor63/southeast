@@ -11,6 +11,18 @@ taxonomies:
   tag: "tags"
   category: "categories"
 
+outputs:
+  home:
+    - html
+    - rss
+    - json
+  page:
+    - html
+  section:
+    - html
+    - rss
+    - json
+
 # Custom Defined Site Wide Variables
 params:
   hero:
