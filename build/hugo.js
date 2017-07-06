@@ -4,7 +4,7 @@ const chalk = require('chalk');
 
 function build(baseURL) {
   baseURL = (baseURL) ? baseURL : process.argv[2];
-  console.log(chalk.green(`Base URL: ${baseURL} ${endOfLine}`));
+  console.log(chalk.yellow(`Base URL: ${baseURL} ${endOfLine}`));
   const buildDrafts = baseURL.includes('fws.gov/southeast') ? '--buildDrafts=false' : '--buildDrafts=true';
   const command = [
     'hugo',
