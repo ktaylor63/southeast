@@ -1,5 +1,13 @@
 ---
 stories:
+  - title: 'Gopher frog conservation partners USFWS do an incredible job in their first season of head-starting'
+    url: 'http://frogpodblog.blogspot.com/2017/06/gopher-frog-conservation-partners-usfws.html'
+    date: '2017-06-30'
+    summary: 'This year, USFWS joined GA DNR, UGA, Zoo Atlanta and the Amphibian Foundation in a state-wide project to increase population numbers of Georgia&rsquo;s rarest frog — The Gopher Frog.'
+    hero:
+      name: 'gopher-frog-release-warm-springs.jpg'
+      alt: 'A USFWS biologist releasing gopher frogs into a swamp.'
+      caption: 'Releasing gopher frogs into the swamp. Photo by Carlos Echevarria, USFWS.'
   - title: 'Stewardship with Vision: David Spicer'
     url: 'https://www.youtube.com/watch?v=yW82TiCagbE'
     date: '2017-06-29'
