@@ -40,7 +40,7 @@ function changeHandler(filepath) {
   if ( isJSONFile(filepath) ) json.minifyJSON(filepath);
   if ( isHeroImage(filepath) ) hero.process(filepath);
   if ( isContentImage(filepath) ) images.process(filepath);
-  if ( isImageToCopy(filepath) ) images.copy(filepath);
+  if ( isImageToCopy(filepath) ) images.copy();
   if ( isContentFile(filepath) ) frontmatter.update(filepath);
   if ( isHugoFile(filepath) ) hugo.build(devUrl);
 }
@@ -55,13 +55,11 @@ function removeHandler(filepath) {
 }
 
 function isHugoFile(filepath) {
-  const isSiteDirectory = filepath.includes('site/');
-  return (isSiteDirectory);
+  return filepath.includes('site/');
 }
 
 function isImageToCopy(filepath) {
-  const fromContentDir = filepath.includes('src/images/copy');
-  return fromContentDir;
+  return filepath.includes('src/images/copy');
 }
 
 function isContentFile(filepath) {
