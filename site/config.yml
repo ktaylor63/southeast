@@ -10,6 +10,7 @@ googleAnalytics: UA-21323598-1
 taxonomies:
   tag: "tags"
   category: "categories"
+  series: "series"
 
 outputs:
   home:
