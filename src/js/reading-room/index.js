@@ -2,6 +2,7 @@ const xhr = require('xhr');
 const queryString = require('query-string');
 const lunr = require('lunr');
 const isUrl = require('is-url-superb');
+const pluralize = require('pluralize');
 
 const output = document.querySelector('.output');
 const input = document.querySelector('.document-input');
@@ -13,7 +14,7 @@ const dataURL = hasWWW ? baseURL : baseURL.replace('www.', '');
 
 const template = ({type, documents: docs}) => {
   const lastCharacter = type.slice(-1);
-  const heading = (lastCharacter === 's') ? type : type +'s';
+  const heading = pluralize(type);
   return `
     <h2>${heading}</h2>
     <ul>${docs.map(d => {
