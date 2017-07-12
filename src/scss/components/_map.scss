@@ -1,3 +1,29 @@
 .full-width-map {
   height: 70vh;
 }
+
+.leaflet-popup-content p {
+  line-height: 16px !important;
+}
+
+.leaflet-popup-content h3 {
+  font-size: 18px !important;
+  line-height: 22px !important;
+  margin: 0 0 .5em;
+}
+
+.leaflet-popup-content img {
+  max-width: 100% !important;
+}
+
+.leaflet-label {
+  color: #fae6ba;
+  font-weight: bold;
+  width: 100px;
+  text-align: center;
+  text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
+}

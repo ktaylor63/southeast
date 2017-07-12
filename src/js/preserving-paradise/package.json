@@ -1,0 +1,38 @@
+{
+  "name": "preserving-paradise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "browserify": {
+    "transform": [
+      [
+        "babelify",
+        {
+          "presets": [
+            "es2015"
+          ]
+        }
+      ],
+      "brfs"
+    ]
+  },
+  "scripts": {
+    "browserify": "browserify index.js | uglifyjs -mc > ../../../dist/js/preserving-paradise.js",
+    "watchify": "watchify index.js -o ../../../dist/js/preserving-paradise.js -dv",
+    "start": "npm run watchify",
+    "build": "npm run browserify"
+  },
+  "keywords": [],
+  "author": "@r0yhewitt <roy_hewitt@fws.gov>",
+  "license": "SAX-PD",
+  "dependencies": {
+    "leaflet": "^1.1.0"
+  },
+  "devDependencies": {
+    "babelify": "^7.3.0",
+    "brfs": "^1.4.3",
+    "browserify": "^14.4.0",
+    "uglifyjs": "^2.4.11",
+    "watchify": "^3.9.0"
+  }
+}

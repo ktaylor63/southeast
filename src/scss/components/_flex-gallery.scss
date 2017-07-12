@@ -1,0 +1,17 @@
+.flex-gallery {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  padding: 0;
+
+  li {
+    background-size: cover;
+    flex: 1;
+    flex-basis: 100%;
+    padding: .5em;
+
+    @media (min-width: $break-lg) {
+      flex-basis: 50%;
+    }
+  }
+}

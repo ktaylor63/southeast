@@ -1,0 +1,131 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Wolf Island National Wildlife Refuge",
+        "title": "A sanctuary for at-risk birds",
+        "teaser": "Wolf Island: the low-lying barrier islands off limits to the public, but teeming with at-risk, threatened and endangered birds.",
+        "img": "images/hero/small/wolf-island.jpg",
+        "alt": "A sandy beach with a tuft of vegetation following a jetty.",
+        "caption": "Wolf Island. Photo by Nicole Vidal, USFWS.",
+        "icon": "bird",
+        "youtube": "",
+        "url": "articles/a-sanctuary-for-at-risk-birds"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.286483,
+          31.326597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Darien, Georgia",
+        "title": "Many partners work together to protect “the Amazon of the South” for generations to come",
+        "teaser": "It meanders 137 miles through the wild heart of Georgia, a blackwater beauty that nourishes longleaf pine forests, cypress swamps, saltwater estuaries and the barrier islands that protect the Atlantic coast and migratory birds alike.",
+        "img": "images/hero/small/altamaha-river-salt-marsh.jpg",
+        "alt": "The sun sets over a bright green salt marsh.",
+        "caption": "Salt marsh along the Altamaha River. Photo by Nicole Vidal, USFWS.",
+        "icon": "partner",
+        "youtube": "",
+        "url": "articles/many-partners-work-together-to-protect-the-amazon-of-the-south-for-generations-to-come"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.434060,
+          31.366728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Sansavilla Tract",
+        "title": "Longleaf pine to the rescue",
+        "teaser": "Just upriver from Altama Plantation, Sansavilla has taken on almost mythical status among conservationists. It was the corridor’s missing piece, a 19,500-acre chunk of land finally cobbled together last year by the Service, the state, the military, TNC and the Conservation Fund.",
+        "img": "images/hero/small/longleaf-pine-ocala.jpg",
+        "alt": "Tall, narrow, pine trees spaced about 25 feet apart with very sparse, dry grass in the understory.",
+        "caption": "Longleaf pine is a fire-dependent ecosystem.",
+        "icon": "trees",
+        "youtube": "",
+        "url": "articles/many-partners-work-together-to-protect-the-amazon-of-the-south-for-generations-to-come#longleaf-pine-to-the-rescue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.613054,
+          31.44406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Altama Plantation",
+        "title": "A gem for hunters and hikers alike",
+        "teaser": "Altama Plantation is perhaps the most critical, and intriguing, piece of property along the entire Altamaha River corridor.",
+        "img": "images/hero/small/altama-plantation.jpg",
+        "alt": "An open gate surrounded by live oaks covered in Spanish moss.",
+        "caption": "Atama Plantation. Photo by Nicole Vidal, USFWS.",
+        "icon": "hike",
+        "youtube": "",
+        "url": "articles/a-gem-for-hunters-and-hikers-alike"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.489291,
+          31.309748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Townsend Bombing Range",
+        "title": "The military embraces conservation",
+        "teaser": "U.S. Marine Corps jets and helicopters rain thousand-pound bombs and 30-caliber bullets on a slice of the Altamaha River corridor. Gopher tortoises, flatwood salamanders and eastern indigo snakes benefit mightily.",
+        "img": "images/hero/small/townsend-bombing-range-tank.jpg",
+        "alt": "Two men standing in front of a beige tank riddled with bullet holes.",
+        "caption": "A tank littered with bullet holes at Townsend bombing range. Photo by Nicolve Vidal, USFWS.",
+        "icon": "plane",
+        "youtube": "",
+        "url": "articles/the-military-embraces-conservation/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.57938,
+          31.54961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Sandy Lake, Jessup, GA",
+        "title": "Local landowner fights for the Altamaha",
+        "teaser": "&ldquo;God put it here a long time ago,&rdquo; NeSmith preached, &ldquo;and it&rsquo;s on loan to my family and me and we want to do our part to make sure it remains a clean, safe environment for our great, great, great, great grandchildren.&rdquo;",
+        "img": "images/hero/small/dink-nesmith.jpg",
+        "alt": "A gentlman with gray hair poses for the camera with a smile and his arms crossed.",
+        "caption": "Mr. Dink NeSmith has a special relationship with the Altamaha River. Photo by Nicole Vidal, USFWS.",
+        "icon": "person",
+        "youtube": "",
+        "url": "articles/local-landowner-fights-for-the-altamaha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.77424,
+          31.60609
+        ]
+      }
+    }
+  ]
+}
