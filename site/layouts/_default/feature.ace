@@ -15,4 +15,4 @@ article class="{{ if eq .Section "articles" }}feature-article-summary{{ else }}f
     {{ if .Params.subtitle }}
     h3 {{ .Params.subtitle }}
     {{ end }}
-    p {{ if .Params.description }}{{ .Params.description }}{{ else }}{{ .Summary }}{{ end }}
+    p {{ if .Params.description }}{{ .Params.description }}{{ else }}{{ .Summary | markdownify }}{{ end }}
