@@ -1,13 +1,11 @@
 .homepage {
 
-  .hero {
-    margin-left: 0;
-  }
-
   .hero-parallax,
   #content {
     max-width: none;
+  }
 
+  #content {
     @media(min-width: $break-md) {
       margin-left: $nav-width;
     }
