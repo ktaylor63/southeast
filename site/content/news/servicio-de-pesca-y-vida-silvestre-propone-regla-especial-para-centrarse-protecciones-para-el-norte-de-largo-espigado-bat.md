@@ -2,13 +2,14 @@
 title: 'Servicio de pesca y vida silvestre propone regla especial para centrarse protecciones para el norte de largo-espigado bat'
 subtitle: 'Regla se aplicaría si se especies clasificadas como amenazadas bajo la ley de especies en peligro'
 hero:
-    name: northern-log-eared-bat.jpg
+    name: northern-long-eared-bat.jpg
     alt: 'A small furry bat in a crevice of a cave with patches of white fungus on its face and shoulder.'
     link: 'https://flic.kr/p/re5BtW'
     caption: 'A northern-long-eared bat with suspected White Nose Syndrome. Photo by Steve Taylor, University of Illinois.'
 date: '2015-01-15'
 language: spanish
-updated: 'October 26th, 2016'
+updated: 'July 13th, 2017'
+tags: null
 ---
 
 El presente documento es una traducción del texto original en inglés, por lo que podrá presentar ligeras diferencias en el significado debido a dificultades inherentes a la traducción de textos científicos y jurídicos. En cualquier caso, la versiên en inglés será la oficial.

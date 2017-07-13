@@ -2,13 +2,13 @@
 title: 'Service reopens comment period on proposal to list the northern long-eared bat as endangered'
 date: '2014-11-18'
 hero:
-    name: northern-log-eared-bat.jpg
+    name: northern-long-eared-bat.jpg
     alt: 'A small furry bat in a crevice of a cave with patches of white fungus on its face and shoulder.'
     link: 'https://flic.kr/p/re5BtW'
     caption: 'A northern-long-eared bat with suspected White Nose Syndrome. Photo by Steve Taylor, University of Illinois.'
 tags:
-    - 'Northern long-eared bat'
-updated: 'October 21st, 2016'
+    - 'Northern Long-Eared Bat'
+updated: 'July 13th, 2017'
 ---
 
 The U.S. Fish and Wildlife Service is reopening the public comment period on a proposal to list the northern long-eared bat as endangered under the Endangered Species Act (ESA).  Comments will be accepted through Dec. 18, 2014.  

@@ -1,15 +1,16 @@
 ---
-title: Service proposes special rule to focus protections for northern long-eared bat
-subtitle: Rule would apply if species is listed as threatened under the Endangered Species Act
+title: 'Service proposes special rule to focus protections for northern long-eared bat'
+subtitle: 'Rule would apply if species is listed as threatened under the Endangered Species Act'
 date: '2015-01-15'
 hero:
-  name: northern-log-eared-bat.jpg
-  alt: A small furry bat in a crevice of a cave with patches of white fungus on its face and shoulder.
-  link: https://flic.kr/p/re5BtW
-  caption: A northern-long-eared bat with suspected White Nose Syndrome. Photo by Steve Taylor, University of Illinois.
+    name: northern-long-eared-bat.jpg
+    alt: 'A small furry bat in a crevice of a cave with patches of white fungus on its face and shoulder.'
+    link: 'https://flic.kr/p/re5BtW'
+    caption: 'A northern-long-eared bat with suspected White Nose Syndrome. Photo by Steve Taylor, University of Illinois.'
 tags:
- - Northern long-eared bat
- - 4d rule
+    - '4d Rule'
+    - 'Northern Long-Eared Bat'
+updated: 'July 13th, 2017'
 ---
 
 In response to the rapid and severe decline of the [northern long-eared bat](http://www.fws.gov/midwest/endangered/mammals/nlba/) – a species important for crop pest control – the U.S. Fish and Wildlife Service is proposing a special rule under the Endangered Species Act (ESA) that would provide the maximum benefit to the species while limiting the regulatory burden on the public.
