@@ -101,11 +101,15 @@
   }
 }
 
-.nav-item-search {
+.nav-item-share {
   display: none;
 
   @media(min-width: 415px) {
     display: inline-block;
+  }
+
+  @media(min-width: $break-md) {
+    display: block;
   }
 }
 
