@@ -8,13 +8,16 @@
 
 <link rel="stylesheet" href="/css/styles.css">
 
-<meta name="fb:admins" content="1417314007,1222320132"/>
+<meta name="fb:admins" content="134503173254693"/>
+<meta name="fb:app_id" content="1689418354613614"/>
 <meta name="og:site_name" content="Southeast Region of the U.S. Fish and Wildlife Service" />
 <meta name="og:type" content="website" />
 <meta name="og:url" content="{{ .Permalink }}" />
 <meta name="og:title" content="{{ .Title }}" />
 <meta name="og:description" content="{{ if .Params.description }}{{ .Params.description }}{{ else }}{{ .Summary }}{{end}}" />
+{{ if .Params.hero.name }}
 <meta name="og:image" content="{{ .Site.BaseURL }}images/hero/small/{{ .Params.hero.name }}" />
+{{ end }}
 
 <meta name="twitter:card" content="summary_large_image"/>
 <meta name="twitter:image" content="{{ .Site.BaseURL }}images/hero/small/{{ .Params.hero.name }}"/>
