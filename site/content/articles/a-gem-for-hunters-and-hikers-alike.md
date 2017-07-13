@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 'A gem for hunters and hikers alike'
 author: 'Dan Chapman, Public Affairs Specialist'
 js: /js/preserving-paradise.js
@@ -28,7 +27,7 @@ hero:
     position: 'bottom center'
 series:
     - 'Conserving Paradise'
-updated: 'July 12th, 2017'
+updated: 'July 13th, 2017'
 ---
 
 **Brunswick, Georgia** -- Altama Plantation is perhaps the most critical, and intriguing, piece of property along the entire Altamaha River corridor.
@@ -39,7 +38,7 @@ It was here in the early 1800s that plantation owner James Hamilton Couper intro
 
 Altama is poised yet again to make history. It is the linchpin connecting two distinctive conservation corridors: the Altamaha; and an under-construction greenway that runs from the Okefenokee Swamp to Fort Stewart near Savannah, Georgia.
 
-The goal, ultimately, is 1.5 million acres of protected land across the coastal plain of Georgia. Jason Lee, a Georgia Department of Natural Resources (DNR) conservation manager stitching the corridors together, says a long-term Southern conservation strategy depends upon huge swaths of connected lands.
+The goal, ultimately, is 1.5 million acres of protected land across the coastal plain of Georgia. Jason Lee, a Georgia Department of Natural Resources (DNR) program manager stitching the corridors together, says a long-term Southern conservation strategy depends upon huge swaths of connected lands.
 
 “We not only have development and land-use patterns way out into the future that we’re uncertain about, but we also have a lot of obstacles that prevent species from moving about freely,” Lee said. “We’re trying to protect enough habitat so that species we’re concerned about can persist well into the future.” 
 

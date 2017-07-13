@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 'Local landowner fights for the Altamaha'
 author: 'Dan Chapman, Public Affairs Specialist'
 js: /js/preserving-paradise.js

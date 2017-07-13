@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 'A sanctuary for at-risk birds'
 author: 'Dan Chapman, Public Affairs Specialist'
 js: /js/preserving-paradise.js
@@ -31,7 +30,7 @@ hero:
     caption: 'Wolf Island. Photo by Nicole Vidal, USFWS.'
 series:
     - 'Conserving Paradise'
-updated: 'July 12th, 2017'
+updated: 'July 13th, 2017'
 ---
 
 **Wolf Island National Wildlife Refuge, Georgia** -- It rained heavily the night before, and the puffy white clouds on the horizon presaged more storms heading for the Georgia coast. At 7 am., with the tide receding, Tim Keyes hustled the Carolina Skiff into the Altamaha Sound where the same-name river meets the sea.
@@ -44,7 +43,7 @@ Destination: the low-lying barrier islands off limits to the public, but teeming
 
 Wolf Island, for centuries, was a favorite bird-hunting spot. In the 1700s, it served as a quarantine area for sailors sick with yellow fever. A lighthouse on the island’s north end operated as far back as 1822, but was destroyed by hurricanes and, ultimately, Confederate soldiers who didn’t want to aid Union ships. Another lighthouse was built after the war, but the terrible 1898 hurricane leveled it and killed several island residents as well.
 
-Wolf Island, and two neighboring sandbars, became a national wildlife refuge in 1930 to protect nesting sea turtles, rare migrating birds and endangered or threatened shorebirds like the piping plover. Jane Hurt Yarn, a prominent Atlanta environmentalist with the Nature Conservancy, bought Wolf, Egg and Little Egg islands in the late 1960s. The U.S. Fish and Wildlife Service took control of the islands from TNC in 1972.
+Wolf Island, and two neighboring sandbars, became a national wildlife refuge in 1930 to protect nesting sea turtles, rare migrating birds and endangered or threatened shorebirds like the piping plover. Jane Hurt Yarn, a prominent Atlanta environmentalist with the Nature Conservancy, bought Wolf, Egg and Little Egg islands in the late 1960s. The U.S. Fish and Wildlife Service took control of the additional land from TNC in 1972.
 
 {{< figure class="photo-center" src="/images/pages/piping-plover-on-beach.jpg" alt="A small white bird with gray back standing on a debris strewn beach." caption="Piping plover. Photo by USFWS." link="https://flic.kr/p/9U6URh">}}
 

@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 'The military embraces conservation'
 author: 'Dan Chapman, Public Affairs Specialist'
 js: /js/preserving-paradise.js

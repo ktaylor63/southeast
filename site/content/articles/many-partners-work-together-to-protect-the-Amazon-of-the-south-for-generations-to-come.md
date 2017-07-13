@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 'Many partners work together to protect “the Amazon of the South” for generations to come'
 description: 'It meanders 137 miles through the wild heart of Georgia, a blackwater beauty that nourishes longleaf pine forests, cypress swamps, saltwater estuaries and the barrier islands that protect the Atlantic coast and migratory birds alike.'
 js: /js/preserving-paradise.js
@@ -41,7 +40,7 @@ tags:
     - 'Wolf Island National Wildlife Refuge'
 series:
     - 'Conserving Paradise'
-updated: 'July 12th, 2017'
+updated: 'July 13th, 2017'
 ---
 
 {{< youtube wVfDpNAR4XU >}}
@@ -109,7 +108,7 @@ In 2011, the Service designated the Altamaha a “critical habitat.” The Natur
 
 {{< youtube HZ2VeVXq6AE >}}
 
-Most of the land bordering the Altamaha was once slash and loblolly pine bought from Rayonier, International Paper and other timber companies and set aside for hunting and fishing. Increasingly, though, Georgia’s DNR and the Service seek new “customers” keen on different recreational activities. Altama Plantation, for example, a 4,000-acre state-owned tract outside Brunswick, offers hikers, bikers and birders miles of carriage roads and sandy trails wending through an old rice plantation steeped in history. 
+Most of the land bordering the Altamaha was once slash and loblolly pine bought from Rayonier, International Paper and other timber companies and set aside for hunting and fishing.The timber companies work diligently with the state, the Service and others to make sure the deals work in a timely fashion. Increasingly, though, Georgia’s DNR and the Service seek new “customers” keen on different recreational activities. Altama Plantation, for example, a 4,000-acre state-owned tract outside Brunswick, offers hikers, bikers and birders miles of carriage roads and sandy trails wending through an old rice plantation steeped in history.
 
 ## “How quietly flow thy peaceful floods”
 
@@ -125,7 +124,7 @@ Trains and trucks, and the denuded forests, killed river traffic. Timber compani
 
 “This,” said Jason Lee atop a 40-foot bluff overlooking the Altamaha, “is Sansavilla.”
 
-Just upriver from Altama Plantation, Sansavilla has taken on almost mythical status among conservationists. It was the corridor’s missing piece, a 19,500-acre chunk of land finally cobbled together last year by the Service, the state, the military, TNC and the Conservation Fund.
+Just upriver from Altama Plantation, Sansavilla has taken on almost mythical status among conservationists. It was the corridor’s missing piece, a 19,500-acre chunk of land finally cobbled together last year by the Service, the state, the military, the U.S. Forest Service, TNC and the Conservation Fund.
 
 Native American, Spanish and English troops and travelers traversed the river here on a footpath to St. Augustine, Fla. Mary Musgrove -- perhaps the most interesting woman in Georgia history -- ran a trading post and ferry in the mid-1700s. The Old Post Road hugged the sandy ridge through the otherwise impenetrable forest.
 
@@ -133,7 +132,7 @@ Today, the former slash and loblolly pine farms are being clear-cut or thinned a
 
 The Service and other conservation agencies have spent millions of dollars to keep the tortoise off the endangered species list. Sansavilla, and much of the Altamaha corridor, is considered prime tortoise habitat. Already, 400 turtles have been tallied at Sansavilla. The goal is 1,000 or more.
 
-“Once they began clear-cutting or thinning heavily, and burning, the tortoises just came in and took over,” said Lee, a Georgia DNR conservation manager, pointing out burrows under a power line. “It has exceeded our expectations, definitely. And the tortoise population will just fan out further and further as the habitat improves.”
+“Once they began clear-cutting or thinning heavily, and burning, the tortoises just came in and took over,” said Lee, a Georgia DNR program manager, pointing out burrows under a power line. “It has exceeded our expectations, definitely. And the tortoise population will just fan out further and further as the habitat improves.”
 
 The gopher tortoise is considered a keystone species, without which the entire ecosystem would suffer. Its burrow, for example, is favored by eastern indigo snakes, burrowing owls, gopher frogs, the Florida mouse and more than 350 other species. Lee shared rare photos of an endangered indigo photographed recently alongside a burrow at the nearby Penholloway Creek WMA.
 
