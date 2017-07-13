@@ -5,12 +5,18 @@ hero:
     alt: 'A woman dressed in warm clothes in a field with tall grass looks through binoculars.'
     link: 'https://flic.kr/p/bokTbs'
     caption: 'Service biologist Sue Cameron searches for birds. Photo by Gary Peeples, USFWS.'
-updated: 'April 24th, 2017'
+updated: 'July 13th, 2017'
 scrollnav: no-scrollnav
-tags: null
+tags:
+    - News
+    - Stories
 ---
 
-Welcome to the new home for the [U.S. Fish and Wildlife Service, Southeast region](/about).  We just redesigned our regional web site; unfortunately the page that you're looking for can't be found. If you're looking for a document please visit the [reading room](/reading-room). You can also find content through <a href="#" class="fws-menu-trigger">the menu button</a> on the navigation bar.  
+Welcome to the new home for the [U.S. Fish and Wildlife Service, Southeast region](/about).  Unfortunately the page that you're looking for can't be found. If you're looking for a PDF document like a fact sheet, brochure, or agreement please visit the [reading room](/reading-room).
+
+<p class="centered-button">
+  <button class="search-trigger">Search site content</button>
+</p>
 
 If you can't find the content you're looking for please [contact the webmaster](mailto:roy_hewitt@fws.gov).
 
