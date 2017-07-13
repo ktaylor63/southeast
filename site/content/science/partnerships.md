@@ -2,12 +2,17 @@
 title: Partnerships
 nav: Partnerships
 weight: 6
+hero:
+    name: cane-river-seining.jpg
+    alt: 'Two biologists hold a net in a small stream.'
+    caption: 'Seining on the Cane River in North Carolina. Photo by Gary Peeples, USFWS.'
+    link: 'https://flic.kr/p/JmNVeJ'
 tags:
-    - Science
-    - Partnership
-    - 'Landscape Conservation Cooperatives'
     - 'Joint Ventures'
-updated: 'February 1st, 2017'
+    - 'Landscape Conservation Cooperatives'
+    - Partnership
+    - Science
+updated: 'July 13th, 2017'
 ---
 
 The Service’s mission is “working with others, to conserve, protect and enhance fish, wildlife, plants and their habitats for the continuing benefit of the American people”. We recognize that we can’t do this work alone.  To achieve our mission, the Service depends on partnerships with federal, state, non-government entities, and individuals.
