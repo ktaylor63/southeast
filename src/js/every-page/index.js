@@ -131,7 +131,9 @@ contactLinks.forEach(link => {
 });
 
 document.querySelector('.fws-menu-trigger').addEventListener('click', menu.show);
-document.getElementById('search-trigger').addEventListener('click', menu.toggleSearch);
+document.getElementById('search-trigger').addEventListener('click', search.toggle);
+const searchTriggers = Array.from(document.querySelectorAll('.search-trigger'));
+searchTriggers.forEach(trigger => trigger.addEventListener('click', search.toggle));
 document.querySelector('.toggle-share').addEventListener('click', () => {
   toggleActiveClass(document.querySelector('.share-drawer'));
 });
@@ -230,5 +232,5 @@ function lazyLoad(e) {
 }
 
 // SITE SEARCH
-const searchInput = document.getElementById('site-search');
+const searchInput = document.querySelector('.site-wide-search-input');
 search.init(searchInput, dataURL)
