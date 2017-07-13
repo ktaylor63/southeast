@@ -17,4 +17,5 @@ html lang="en-US"
     = include partials/footer.html .
     = include partials/contact.html .
     = include partials/share.html .
+    = include partials/search.html .
     = include partials/scripts.html .
