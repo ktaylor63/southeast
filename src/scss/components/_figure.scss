@@ -14,10 +14,11 @@ figcaption {
   caption-side: bottom;
   color: $color-accent;
   display: table-caption;
-  font-size: 85%;
+  margin-top: $leading/2;
 
-  p {
-    margin-top: 5px;
+  @media (min-width: $break-md) {
+    font-size: 18px;
+    line-height: 24px;
   }
 }
 
