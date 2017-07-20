@@ -6,17 +6,19 @@ hero:
     link: 'https://flic.kr/p/JioDEh'
     caption: 'American chaffseed © Robert Sincliar. Copyright release form S://EA/Photo Permissions/american-chaffseed.pdf'
     position: 'top center'
+type: 'Bragging Rights'
 tags:
     - 'American Chaffseed'
+    - 'Bragging Rights'
     - Charleston
     - E-Grits
     - 'Endangered Species Act'
-    - 'Partners for Fish and Wildlife'
+    - 'Partners for Fish and Wildlife Program'
     - Recovery
     - 'South Carolina'
 date: '2017-06-27'
 author: 'Joe Cockrell and April Punsalan, Charleston Ecological Services Field Office'
-updated: 'June 28th, 2017'
+updated: 'July 20th, 2017'
 ---
 
 American chaffseed is a perennial herb that has been listed as endangered under the Endangered Species Act since 1992. As part of an ongoing recovery effort, the U.S. Fish and Wildlife Service (Service) recently introduced 70 seedlings in Dorchester County, South Carolina.
