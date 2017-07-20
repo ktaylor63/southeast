@@ -3,16 +3,3 @@ video {
   margin: $leading auto;
   max-width: 100%;
 }
-
-iframe[src*="//www.youtube.com/embed"] {
-  margin: $leading 0;
-}
-
-.hero,
-.card,
-.feature-news-summary,
-.feature-article-summary__hero {
-  iframe[src*="//www.youtube.com/embed"] {
-    margin: 0;
-  }
-}
