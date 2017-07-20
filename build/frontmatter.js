@@ -12,8 +12,14 @@ const contentDir = 'site/content/**/*.{md,html}';
 const dateFormat = 'MMMM Do, YYYY';
 
 function updateFrontMatter(path, cb) {
+  let fm;
   const regex = /^---[\s\S]*?---/;
-  const fm = matter.read(path);
+  try {
+    fm = matter.read(path);
+  } catch(err) {
+    return console.log(error('Could not parse YAML: ', err));
+  }
+
   fm.data[propertyName] = moment().format(dateFormat);
   fm.data.tags = capitalizeTags(fm.data.tags, fm.data.title);
 
