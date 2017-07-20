@@ -2,6 +2,7 @@
 title: 'Endangered snail not only survives forest fire, but is now found in places never before seen'
 date: '2017-07-05'
 author: 'Gary Peeples, Asheville Ecological Services Field Office'
+type: 'Feature Story'
 tags:
     - Asheville
     - E-Grits
@@ -13,7 +14,7 @@ hero:
     alt: 'A small grey snail with a beige/white shell on top of a fallen leaf.'
     caption: 'Noonday globe snail. Photo by J. Fridell, USFWS.'
     link: 'https://flic.kr/p/VYtKRW'
-updated: 'July 5th, 2017'
+updated: 'July 20th, 2017'
 ---
 
 **Asheville, NC** - Wildlife biologists scaled the wall of the Nantahala Gorge on hands and knees - more climbing than hiking the steep terrain – searching for one of the rarest animals in the world in the wake of forest fires that burned through its habitat last winter.
