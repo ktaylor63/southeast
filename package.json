@@ -41,7 +41,7 @@
   "devDependencies": {
     "async": "^2.5.0",
     "autoprefixer": "^7.1.2",
-    "browser-sync": "^2.18.12",
+    "browser-sync": "^2.18.13",
     "browserify": "^14.4.0",
     "chai": "^4.0.2",
     "chalk": "^1.1.3",
