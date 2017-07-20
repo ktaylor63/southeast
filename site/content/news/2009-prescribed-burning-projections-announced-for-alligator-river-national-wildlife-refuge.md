@@ -5,14 +5,14 @@ tags:
     - 'Alligator River National Wildlife Refuge'
     - 'National Wildlife Refuge System'
     - 'North Carolina'
-    - 'Prescribed Burn'
+    - 'Prescribed Fire'
     - 'Red Wolf'
 hero:
     name: prescribed-burn-ahead.jpg
     alt: 'An orange caution sign warns about smoke ahead.'
     caption: 'A prescribed fire at Savannah NWR in Georgia. Photo by Judy Doyle, USFWS.'
     link: 'https://flic.kr/p/DkdG22'
-updated: 'April 25th, 2017'
+updated: 'July 20th, 2017'
 ---
 
 Alligator River National Wildlife Refuge is busy preparing for another prescribed burn season. Generally, the burn season begins in the fall and runs through mid-spring, but the 2008 fall weather conditions were not conducive to burning.
