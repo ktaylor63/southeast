@@ -4,11 +4,11 @@ hero:
     name: loxahatchee-sunrise.jpg
     alt: 'A sunrises over a stream.'
     link: 'https://flic.kr/p/7WQqyN'
-    caption: 'Sunrise at Arthur R. Marshall Loxahatchee NWR. Photo by Phil Kloer.'
+    caption: 'Sunrise at Arthur R. Marshall Loxahatchee NWR. Photo by Phil Kloer, USFWS.'
 date: '2010-11-30'
 tags:
-  - Director
-updated: 'October 20th, 2016'
+    - Director
+updated: 'July 26th, 2017'
 ---
 
 **ATLANTA, GA** – U.S. Fish and Wildlife Service Regional Director Cindy Dohner announced today the selection of Mark J. Musaus as Deputy Regional Director for the Southeast Region.
