@@ -9,7 +9,7 @@
     }
 
     &::after {
-      content: 'Show more...';
+      content: 'Show more \25bc';
       color: $color-accent;
       display: block;
       margin: auto;
@@ -22,7 +22,7 @@
   }
 
   &::after {
-    content: 'Show less...';
+    content: 'Show less \25b2';
     color: $color-accent;
     display: block;
     margin: auto;
