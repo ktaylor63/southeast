@@ -1,6 +1,6 @@
 <ul class='social-links'>
   <li>
-    <a href='https://facebook.com/{{ .Site.Params.facebook }}' title="Like us on Facebook!">
+    <a href='https://facebook.com/{{ if .Page.Params.facebook }}{{ .Page.Params.facebook }}{{ else }}{{ .Site.Params.facebook }}{{ end }}' title="Like us on Facebook!">
       <svg class="facebook"><use xlink:href="#facebook"></use></svg>
     </a>
   </li>
