@@ -145,7 +145,7 @@ In coordination with the Louisiana Department of Wildlife and Fisheries, we have
 
 Want to learn more from our biologists? Contact one of our subject matter experts.
 
- - [Kelly Purkey](mailto:kelly_purkey@fws.gov&subject?Louisiana%20black%20bear)
+ - [David Soileau Jr.](mailto:david_soileau@fws.gov&subject?Louisiana%20black%20bear)
  - [Keith Weaver](keith_weaver@fws.gov&subject?Louisiana%20black%20bear)
 
 ## Other Organizations Contributing to Conservation
