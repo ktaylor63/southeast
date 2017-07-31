@@ -3,16 +3,34 @@ title: 'For coastal communities'
 nav: 'For Coastal Communities'
 weight: 3
 url: /lafayette/for-coastal-communities
+facebook: Louisiana-Ecological-Services-Office-364376830424514
 js: /js/state.js
-draft: true
-description: null
+hero:
+    name: roseate-spoonbills-louisiana.jpg
+    alt: 'Small pink birds with rounded bills wade through the shallow water.'
+    caption: 'Roseate Spoonbills out in the water. Photo by Corey Douglas.'
+    link: 'https://flic.kr/p/bucd7F'
 tags:
     - 'Coastal Program'
     - Lafayette
     - Louisiana
     - 'Private Landowners'
-updated: 'May 31st, 2017'
+updated: 'July 27th, 2017'
 ---
+
+## Coastal program in Louisiana
+
+Program supports voluntary, proactive and cooperative projects in these areas, focusing efforts to restore and protect habitat for federal trust species.
+
+We provide technical expertise and financial assistance to:
+
+  - Private landowners and citizens;
+  - Native American tribes;
+  - Non-profit organizations;
+  - Municipal and local governments;
+  - Business and industry.
+
+Learn more about how we coordinate the [coastal program in the southeast](/our-services/coastal-conservation/) and [at the national level](https://www.fws.gov/coastal/).
 
 ## Coastal Wetlands Planning Protection and Restoration Act (CWPPRA) restoration activities
 
@@ -111,7 +129,13 @@ All of the projects below are sponsored by the Service, managed through the Loui
 ## Contact
 
 Darryl Clark, Senior Coastal Restoration Biologist, CWPPRA Technical Committee Representative
-[darryl_clark@fws.gov](mailto:darryl_clark@fws.gov?subject=CWPPRA), (337) 291-3100
+[darryl_clark@fws.gov](mailto:darryl_clark@fws.gov?subject=CWPPRA), (337) 291-3100  
+
+Aline Morrow, Coastal Restoration Biologist  
+[aline_morrow@fws.gov](mailto:aline_morrow@fws.gov), (337) 291-3129  
+
+Ronnie Paille, Civil Works and Coastal Restoration Biologist  
+[ronald_paille@fws.gov](mailto:ronald_paille@fws.gov), (337) 291-3117  
 
 <span class="state-name">Louisiana</span>
 <span class="state-abbreviation">LA</span>

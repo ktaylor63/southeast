@@ -1,8 +1,13 @@
 ---
 title: 'For government agencies'
-description: null
-draft: true
 nav: 'For Governmental Agencies'
+facebook: Louisiana-Ecological-Services-Office-364376830424514
+hero:
+    name: oil-spill-cleanup-efforts.jpg
+    alt: 'Biologists team up to inspect oil impacts to marsh grasses.'
+    caption: 'Louisiana Department of Wildlife and Fisheries; U.S. Fish and Wildlife Service biologists on Bird Island One, a rookery colony for shorebirds in Barataria Bay conduct first ground reconasasance since the oil hit the bay. Photo by Tom MacKenzie, USFWS.'
+    link: 'https://flic.kr/p/8Dc3bd'
+    postion: top center
 weight: 6
 tags:
     - 'Clean Water Act'
@@ -11,7 +16,7 @@ tags:
     - 'Fish and Wildlife Coordination Act'
     - 'Migratory Bird Treaty Act'
     - 'National Environmental Policy Act'
-updated: 'May 31st, 2017'
+updated: 'July 27th, 2017'
 ---
 
 ## Civil Works

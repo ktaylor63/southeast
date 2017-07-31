@@ -1,15 +1,19 @@
 ---
 title: 'Environmental contaminants'
-description: null
-draft: true
 nav: 'Environmental Contaminants'
+facebook: Louisiana-Ecological-Services-Office-364376830424514
 weight: 4
+hero:
+    name: oil-spill-brown-pelicans.jpg
+    alt: 'Birds flying around boom floating in the water to contain an oil spill.'
+    caption: 'Brown pelican feeding frenzy during BP oil spill response off Queen Bess Island, LA. Photo by Tom MacKenzie USFWS.'
+    link: 'https://flic.kr/p/8DbNYu'
+    position: bottom
 tags:
     - 'Environmental Contaminants'
     - Louisiana
-updated: 'May 31st, 2017'
+updated: 'July 27th, 2017'
 ---
-
 
 Pollution is one of America's greatest environmental concerns. The U.S. Fish and Wildlife Service (Service) is the primary federal agency dedicated to protecting wildlife and their habitats from pollution's harmful effects.
 
@@ -44,5 +48,5 @@ Contaminant biologists design and conduct investigations to identify and quantif
 
 ## Contact
 
-Brad Rieck, Deputy Field Supervisor
-[brad_rieck@fws.gov](brad_rieck@fws.gov?subject=Environmental+Contaminants), (337) 291-3116
+Brigette Firmin, Coastal Restoration & NRDAR Biologist  
+[brigette_firmin@fws.gov](mailto:brigette_firmin@fws.gov?subject=Environmental+Contaminants), (337) 291-3108

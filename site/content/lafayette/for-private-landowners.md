@@ -1,15 +1,20 @@
 ---
 title: 'For private landowners'
-description: null
 nav: 'For Private Landowners'
 weight: 7
-draft: true
+hero:
+    name: private-landowner-louisiana.jpg
+    alt: 'A gentleman kneels down in an agricultural field.'
+    caption: 'James Bradshaw, owner of  Bradshaw Tree Inc. of Mississippi, planted the trees on Upper Ouachita NWR in northern Louisiana. Photo by Sean Gardner.'
+    link: 'https://flic.kr/p/dB1P9K'
+    position: 'top right'
+facebook: Louisiana-Ecological-Services-Office-364376830424514
 tags:
     - 'Environmental Quality Incentives Program'
-    - 'Partners for Fish and Wildlife'
+    - 'Partners for Fish and Wildlife Program'
     - 'Wetland Reserve Program'
     - 'Wildlife Habitat Incentives Program'
-updated: 'June 27th, 2017'
+updated: 'July 27th, 2017'
 ---
 
 ## Partners for Fish and Wildlife program
@@ -68,40 +73,11 @@ Administered by the Natural Resources Conservation Service, this program restore
 
 ### Wildlife Habitat Incentives Program (WHIP)
 
-Administered by the Natural Resources Conservation Service this program is designed to reverse decline of farmland-associated wildlife species by helping landowners with wildlife habitat improvements. Cost share and habitat planning assistance are available. See website for details: www.nrcs.usda.gov/programs/whip/
-
-## Habitat Conservation Plan (HCP)
-
-Habitat Conservation Plans (HCPs) under section 10(a)(1)(B) of the Endangered Species Act (ESA) provide for partnerships with non-federal parties to conserve the ecosystems upon which listed species depend, ultimately contributing to their recovery.
-HCPs are planning documents required as part of an application for an incidental take permit. They describe the anticipated effects of the proposed taking; how those impacts will be minimized, or mitigated; and how the HCP is to be funded. HCPs can apply to both listed and non-listed species, including those that are candidates or have been proposed for listing. Conserving species before they are in danger of extinction or are likely to become so can also provide early benefits and prevent the need for listing.
-
-## Incidental Take Permits
-
-Private landowners, corporations, state or local governments, or other non-federal landowners who wish to conduct activities on their land that might incidentally harm (or "take") a species [listed as threatened or endangered](http://ecos.fws.gov/tess_public/pub/stateListingAndOccurrenceIndividual.jsp?state=AL&s8fid=112761032792&s8fid=112762573902) must first obtain an incidental take permit from the Service.
-
-## Habitat Conservation Plans
-
-To obtain an Incidental Take Permit, the applicant must develop a Habitat Conservation Plan (HCP), designed to offset any harmful effects the proposed activity might have on the species. The HCP process allows development to proceed while promoting listed species conservation.
+Administered by the Natural Resources Conservation Service this program is designed to reverse decline of farmland-associated wildlife species by helping landowners with wildlife habitat improvements. Cost share and habitat planning assistance are available. See website for details: [www.nrcs.usda.gov/programs/whip/](www.nrcs.usda.gov/programs/whip/).
 
 ## What next?
 
 Landowners can contact the Service’s Louisiana Ecological Services Field Office at 337-291-3100 to determine whether a contemplated activity is likely to require an incidental take permit and to begin the application process.
-
-## Documents and Forms
-
- - [Habitat Conservation Plan Handbook](http://training.fws.gov/EC/Resources/HCP/HCP/HCPbook.pdf)
- - [Executive Summary of the HCP Handbook](https://www.fws.gov/endangered/esa-library/pdf/Executive_Summary.pdf)
- - [HCP Questions and Answers](https://www.fws.gov/endangered/esa-library/pdf/Final_Addendum_QandA.pdf)
- - [Federal Fish and Wildlife License / Permit Application Form](https://www.fws.gov/lafayette/hcp/Section%2010%20form.pdf)
- - [HCP Fact Sheet](https://www.fws.gov/endangered/esa-library/pdf/hcp.pdf)
-
-## Safe Harbor Agreements
-
-A Safe Harbor Agreement (SHA) is a voluntary agreement involving private or other non-federal property owners whose actions contribute to the recovery of species listed as threatened or endangered under the ESA. The agreement is between cooperating property owners and the Service or the National Oceanic and Atmospheric Administration, which is responsible for most listed marine and anadromous fish species.
-
-[Learn more about safe harbor agreements.](https://www.fws.gov/endangered/landowners/safe-harbor-agreements.html)
-
-{{< youtube htd4xCljx9I >}}
 
 ## Contact 
 

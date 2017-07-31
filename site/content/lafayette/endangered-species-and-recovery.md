@@ -4,17 +4,16 @@ js: /js/state.js
 url: /lafayette/endangered-species-and-recovery
 nav: 'Endangered Species and Recovery'
 weight: 2
+facebook: Louisiana-Ecological-Services-Office-364376830424514
 hero:
     name: louisiana-black-bear-in-tree-with-cub.jpg
     alt: 'A large black bear with a small cub nestled in the upper branches of a hardwood tree.'
     caption: 'Louisiana black bear female with her two cubs in a tree. Photo by Clint Turnage, USDA.'
-description: null
-draft: true
 tags:
     - 'Endangered Species Act'
     - 'Louisiana Black Bear'
     - Recovery
-updated: 'June 27th, 2017'
+updated: 'July 25th, 2017'
 ---
 
 One of the primary responsibilities of the U.S. Fish and Wildlife Service (Service) is to protect and recover imperiled species and the ecosystems upon which they depend. Congress defined “species” to include subspecies, varieties, and, for vertebrates, distinct population segments.
@@ -23,6 +22,31 @@ The Endangered Species Act (ESA) is America’s strongest conservation law. Orig
 
 All species of plants and animals, except pest insects, are eligible for listing as endangered or threatened.  [Learn more about how we work to conserve species in the Southeast region.](https://www.fws.gov/southeast/endangered-species-act#endangered-vs-threatened)
 
+## Habitat Conservation Plan (HCP)
+
+Habitat Conservation Plans (HCPs) under section 10(a)(1)(B) of the Endangered Species Act (ESA) provide for partnerships with non-federal parties to conserve the ecosystems upon which listed species depend, ultimately contributing to their recovery.
+HCPs are planning documents required as part of an application for an incidental take permit. They describe the anticipated effects of the proposed taking; how those impacts will be minimized, or mitigated; and how the HCP is to be funded. HCPs can apply to both listed and non-listed species, including those that are candidates or have been proposed for listing. Conserving species before they are in danger of extinction or are likely to become so can also provide early benefits and prevent the need for listing.
+
+## HCP documents
+
+  - [Habitat Conservation Plan Handbook](http://training.fws.gov/EC/Resources/HCP/HCP/HCPbook.pdf)
+  - [Executive Summary of the HCP Handbook](https://www.fws.gov/endangered/esa-library/pdf/Executive_Summary.pdf)
+  - [HCP Questions and Answers](https://www.fws.gov/endangered/esa-library/pdf/Final_Addendum_QandA.pdf)
+  - [HCP Fact Sheet](https://www.fws.gov/endangered/esa-library/pdf/hcp.pdf)
+
+## Incidental Take Permits
+
+Private landowners, corporations, state or local governments, or other non-federal landowners who wish to conduct activities on their land that might incidentally harm (or "take") a species [listed as threatened or endangered](http://ecos.fws.gov/tess_public/pub/stateListingAndOccurrenceIndividual.jsp?state=AL&s8fid=112761032792&s8fid=112762573902) must first obtain an incidental take permit from the Service.
+
+ - [Federal Fish and Wildlife License / Permit Application Form](https://www.fws.gov/lafayette/hcp/Section%2010%20form.pdf)
+
+## Safe Harbor Agreements
+
+A Safe Harbor Agreement (SHA) is a voluntary agreement involving private or other non-federal property owners whose actions contribute to the recovery of species listed as threatened or endangered under the ESA. The agreement is between cooperating property owners and the Service or the National Oceanic and Atmospheric Administration, which is responsible for most listed marine and anadromous fish species.
+
+[Learn more about safe harbor agreements.](https://www.fws.gov/endangered/landowners/safe-harbor-agreements.html)
+
+{{< youtube htd4xCljx9I >}}
 
 ## Listed and at-risk species in Louisiana
 
@@ -34,16 +58,23 @@ All species of plants and animals, except pest insects, are eligible for listing
 
 ## Recovery of the Louisiana black bear
 
-In 2016, the Service removed the Louisiana black bear  from the ESA  list of threatened and endangered wildlife because it had recovered sufficiently., due to the active partnerships of private landowners, state and federal agencies, universities and non-governmental organizations. Since the Louisiana black bear was listed in 1992, voluntary landowner incentive-based habitat restoration programs and environmental regulations have not only stopped the net loss of forested lands in the Lower Mississippi River Alluvial River Valley, but have resulted in significant habitat gains. A major factor in this positive habitat trend is the success of incentive-based private land restoration programs, such as the Wetland reserve program. Since 1992, more than 148,000 acres of habitat have been permanently protected and/or restored through the WRP program. Additional private lands have been restored through the efforts of private landowners and organizations. Over 65,000 additional acres of bottomland hardwood forest have been protected and restored through the efforts of groups such as Wildlife Mississippi, Mississippi Land Trust Mississippi River Trust, Black Bear Conservation Coalition, Bear Education and Restoration Group of Mississippi and the East Texas Black Bear Task Force.
+In 2016, the Service removed the [Louisiana black bear](/wildlife/mammals/louisiana-black-bear) from the ESA list of threatened and endangered wildlife because it had recovered sufficiently., due to the active partnerships of private landowners, state and federal agencies, universities and non-governmental organizations. Since the Louisiana black bear was listed in 1992, voluntary landowner incentive-based habitat restoration programs and environmental regulations have not only stopped the net loss of forested lands in the Lower Mississippi River Alluvial River Valley, but have resulted in significant habitat gains. A major factor in this positive habitat trend is the success of incentive-based private land restoration programs, such as the Wetland reserve program. Since 1992, more than 148,000 acres of habitat have been permanently protected and/or restored through the WRP program. Additional private lands have been restored through the efforts of private landowners and organizations. Over 65,000 additional acres of bottomland hardwood forest have been protected and restored through the efforts of groups such as Wildlife Mississippi, Mississippi Land Trust Mississippi River Trust, Black Bear Conservation Coalition, Bear Education and Restoration Group of Mississippi and the East Texas Black Bear Task Force.
 
-## Recovery and delisting resources
+### Louisiana black bear recovery and delisting resources
 
+  - [Delisting Press Release](/news/2016/03/the-teddy-bear-is-back-us-fish-and-wildlife-service-delists-louisiana-black-bear-due-to-recovery/)
   - [Federal Register Notice](https://www.regulations.gov/document?D=FWS-R4-ES-2015-0014-0075)
+  - [Delisting Frequently Asked Questions](/faq/louisiana-black-bear-removal-from-the-lists-of-threatened-and-endangered-species-due-to-recovery/)
   - [Post-Delisting Conservation Considerations Fact Sheet](/pdf/fact-sheet/louisiana-black-bear-post-delisting-consultation.pdf)
   - [Post-Delisting Monitoring Plan](https://www.regulations.gov/document?D=FWS-R4-ES-2015-0014-0078)
   - [1st Annual Post-Delisting Monitoring Report](/pdf/report/louisiana-black-bear-1st-annual-post-delisting-monitoring-report.pdf)
   - [Combined 1993 - 2008 - 2014 LA Black Bear Breeding Habitat Map](/pdf/map/louisiana-black-bear-breeding-habitat-map.pdf)
 
+## Louisiana black bear content
+
 {{< scroller-list tag="Louisiana Black Bear" section="news" >}}
 
 {{< scroller-list tag="Louisiana Black Bear" section="articles" >}}
+
+<span class="state-name">Louisiana</span>
+<span class="state-abbreviation">LA</span>
