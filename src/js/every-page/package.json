@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Javascript used on every page",
   "main": "index.js",
+  "private": true,
   "browserify": {
     "transform": [
       [
@@ -30,7 +31,7 @@
     "classlist-polyfill": "^1.0.3",
     "fws-glossary": "^1.2.0",
     "fws-navigation": "^1.6.0",
-    "fws-scrollnav": "^1.10.0",
+    "fws-scrollnav": "^1.11.4",
     "lodash.defaults": "^4.2.0",
     "lodash.throttle": "^4.1.1",
     "lunr": "^2.0.4",
