@@ -7,10 +7,11 @@ hero:
     alt: 'A mature bald eagle with white head and dark brown feathers perched on a dead tree limb just over a giant nest.'
     link: 'https://flic.kr/p/ciG2ib'
     caption: 'Bald eagle perched at Sam D. Hamilton Noxubee National Wildlife Refuge. Photo by USFWS.'
+    position: 'top left'
 tags:
-    - 'Law Enforcement'
     - Florida
-updated: 'October 6th, 2016'
+    - 'Law Enforcement'
+updated: 'July 21st, 2017'
 ---
 
 Jesse Barresse of Hudson was sentenced in U.S. District Court in Tampa today for intentionally shooting and killing a bald eagle, while he was illegally duck hunting in Ruskin on January 13, 2008. Barresse received six months in federal prison, followed by a year of supervised release. He also must pay $500 in restitution to the North American Wetlands Conservation Fund and $25 in court fees. Barresse was sentenced by U.S. District Court Judge Steven D. Merryday.
