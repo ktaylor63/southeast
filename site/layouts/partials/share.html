@@ -9,23 +9,12 @@
 
     <h2 class="twitter-title">Twitter</h2>
 
-    <script type="text/javascript" async src="https://platform.twitter.com/widgets.js"></script>
-    <a class="twitter-share-button" data-size="large" href="https://twitter.com/intent/tweet?text={{ .Title }}&url={{ .Permalink }}">Tweet</a>
-    <a href="https://twitter.com/usfwssoutheast" class="twitter-follow-button" data-size="large" data-show-count="true">Follow @usfwssoutheast</a>
+    <p><a href='https://twitter.com/share?url={{ .Permalink }}&text={{ .Title }}&via={{ .Site.Params.twitter }}'>Tweet this page on Twitter</a> or <a href="https://twitter.com/usfwssoutheast" >follow @USFWSsoutheast</a></p>
 
     <h2 class="facebook-title">Facebook</h2>
 
-    <div id="fb-root"></div>
-    <script>(function(d, s, id) {
-      var js, fjs = d.getElementsByTagName(s)[0];
-      if (d.getElementById(id)) return;
-      js = d.createElement(s); js.id = id;
-      js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.7&appId=1689418354613614";
-      fjs.parentNode.insertBefore(js, fjs);
-    }(document, 'script', 'facebook-jssdk'));</script>
+    <p><a href='https://www.facebook.com/sharer.php?u={{ .Permalink }}'>Share this page on Facebook</a> or <a href='https://www.facebook.com/usfwssoutheast'>follow USFWSsoutheast.</a></p>
 
-    <div class="fb-like" data-href="{{ .Permalink }}" data-layout="standard" data-action="like" data-size="small" data-show-faces="true" data-share="true" data-layout="button_count"></div>
-    <div class="fb-follow" data-href="https://www.facebook.com/usfwssoutheast" data-layout="standard" data-size="small" data-show-faces="true"></div>
     {{ partial "social-links.html" . }}
   </div>
 </aside>
