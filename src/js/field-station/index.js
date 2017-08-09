@@ -1,0 +1,55 @@
+const xhr = require('xhr');
+
+const contactList = document.querySelector('.contact-list');
+const officeName = contactList.getAttribute('data-office');
+const input = document.querySelector('.contact-input');
+
+let hasWWW = window.location.href.indexOf('www');
+hasWWW = (hasWWW < 0) ? false : true;
+const baseURL = document.body.getAttribute('data-root');
+const dataURL = hasWWW ? baseURL : baseURL.replace('www.', '');
+
+let contacts;
+
+const createContact = contact => {
+  return `
+    <li class="card card-text">
+      <p><a href="mailto:${contact.email}">${contact.name}</a>, ${contact.title}</p>
+      <p>Phone: ${contact.phone}<br>Email: <a href="mailto:${contact.email}">${contact.email}</a></p>
+    </li>
+  `;
+}
+
+const search = e => {
+
+  const query = e.target.value;
+  const regex = new RegExp(query, 'gi');
+  if (query.length === 0) render(contacts);
+
+  const filtered = contacts.filter(contact => {
+    const isName = regex.test(contact.name);
+    const isTitle = regex.test(contact.title);
+    return isName || isTitle;
+  });
+
+  render(filtered);
+}
+
+const render = contacts => {
+  const noResults = `<li class="card card-text"><h3>Your query did not match any contacts.</h3></li>`;
+  if (contacts.length === 0) {
+    contactList.innerHTML = noResults;
+    return;
+  }
+  contactList.innerHTML = contacts
+    .map(createContact)
+    .join('');
+}
+
+xhr.get(`${dataURL}data/contacts.js`, (err, res, body) => {
+  if (err) console.log(err);
+
+  contacts = JSON.parse(body).filter(c => c.station === officeName);
+  render(contacts);
+  input.addEventListener('input', search);
+});
