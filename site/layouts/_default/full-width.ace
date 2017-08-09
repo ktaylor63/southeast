@@ -2,6 +2,7 @@
 html lang="en-US"
   head
     = include partials/head.html .
+    = include partials/css.html .
   body data-root="{{ .Site.BaseURL }}"
     a#skip-to-content href=#content skip to content
     .homepage
