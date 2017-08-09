@@ -9,7 +9,7 @@ updated: 'February 1st, 2017'
 
 ## Where can I find FWS policy concerning staff publishing in scientific journals?
 
-[Read the requirements](https://www.fws.gov/policy/117fw1.html) for employees publishing scientific information in any outlet, including Service reports, reports for other agencies, [Journal of Fish and Wildlife Management, North American Fauna](https://www.fws.gov/science/publicationsys.html), and non-Service peer-reviewed journals.
+[Read the requirements](https://www.fws.gov/policy/117fw1.html) for employees publishing scientific information in any outlet, including Service reports, reports for other agencies, [Journal of Fish and Wildlife Management, North American Fauna](https://www.fws.gov/science/publicationsys.html), and non-Service peer-reviewed journals.  You can also review the Journal for Fish and Wildlife Management's [guide for authors](https://www.fws.gov/science/guideforauthors.html).
 
 ## As a FWS employee can I be associated with a University through an affiliate or adjunct appointment?
 
