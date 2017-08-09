@@ -1,41 +1,67 @@
 const xhr = require('xhr');
+const qs = require('query-string');
 
-const abbreviation = document.querySelector('.state-abbreviation').textContent;
-const state = document.querySelector('.state-name').textContent;
+const stateNode = document.querySelector('.state-name');
+const stateName = stateNode ? stateNode.textContent : null;
+const abbreviationNode = document.querySelector('.state-abbreviation');
+const abbreviationName = abbreviationNode ? abbreviationNode.textContent : null;
+
 const threatenedList = document.querySelector('.threatened-species');
 const endangeredList = document.querySelector('.endangered-species');
+const office = threatenedList.getAttribute('data-office');
 const atRiskList = document.querySelector('.at-risk-species');
-const listedUrl = `https://finder.royhewitt.com/listed?state=${abbreviation}`;
-const atRiskUrl = `https://finder.royhewitt.com//query/custom?status%5B%5D=Candidate&status%5B%5D=Petitioned&status%5B%5D=Proposed+for+Listing+as+Endangered&status%5B%5D=Proposed+for+Listing+as+Endangered+due+to+Similarity+of+Appearance&status%5B%5D=Proposed+for+Listing+as+Threatened&status%5B%5D=Proposed+for+Listing+as+Threatened+due+to+Similarity+of+Appearance&status%5B%5D=Substantial+90-day+Finding&range[]=${state}`;
 
-xhr.get(listedUrl,  (err, response, body) => {
-  if (err) console.error(err);
-  const listed = JSON.parse(body);
-  const src = `https://ecos.fws.gov/tess_public/reports/species-listed-by-state-report?status=listed&state=${abbreviation}`;
-  endangeredList.innerHTML = createListedList(listed.endangered, 'Endangered Species');
-  threatenedList.innerHTML = createListedList(listed.threatened, 'Threatened Species');
-});
+const params = {format: 'json'};
 
-xhr.get(atRiskUrl, (err, response, body) => {
-  if (err) console.error(err);
-  const species = JSON.parse(body);
-  atRiskList.innerHTML = createAtRiskList(species);
-});
+const removeNode = el => {
+  el.parentNode.removeChild(el);
+}
 
-function createAtRiskList (species) {
+const listedUrl = `https://ecos-beta.fws.gov/ecp/pullreports/catalog/species/report/species/export?format=json&filter=%2Fspecies%40status_category%20%3D%20'Listed'&filter=%2Fspecies%2Frange_state%40abbrev%20%3D%20'${abbreviationName}'`;
+const atRiskUrl = `https://finder.royhewitt.com/query/custom?range%5B%5D=${stateName}&rangeQueryType=any&regions%5B%5D=Southeast&status%5B%5D=Candidate&status%5B%5D=Lawsuit+to+Challenge+Not+Substantial+90-day+Finding&status%5B%5D=Lawsuit+to+Challenge+Not+Warranted+12-month+Finding&status%5B%5D=Petitioned&status%5B%5D=Proposed+for+Listing+as+Endangered&status%5B%5D=Proposed+for+Listing+as+Endangered+due+to+Similarity+of+Appearance&status%5B%5D=Proposed+for+Listing+as+Threatened&status%5B%5D=Proposed+for+Listing+as+Threatened+due+to+Similarity+of+Appearance&status%5B%5D=Substantial+90-day+Finding`;
+
+const createAtRiskList = species => {
   const speciesList = species.map(animal => {
     const url = `https://www.fws.gov/southeast/finder/#/species/${animal.id}`;
     return `
       <li>
         <a href=${url} target="_blank">
-          ${animal.commonName} <em>${animal.scientificName}</em>
+          ${animal.commonName} (<em>${animal.scientificName}</em>)
         </a>
       </li>`;
   });
   return [`<li> ${species.length} At-Risk Species</li>`, ...speciesList].join('');
 }
 
-function createListedList (species, status) {
-  const list = species.map(s => `<li><a href='${s.ecos}'>${s.common}</a></li>`);
+const createListedSpeciesList = (species, status) => {
+  const list = species.map(animal => `<li><a href='${animal[1].url}'>${animal[0]} (<em>${animal[1].value}</em>)</a></li>`);
   return  [`<li>${species.length} ${status}</li>`, ...list].join('');
 }
+
+xhr.get(listedUrl,  (err, response, body) => {
+  if (err) {
+    console.error(err);
+    removeNode(threatenedList);
+    removeNode(endangeredList);
+    return;
+  }
+  const listed = JSON.parse(body);
+  const threatened = listed.data.filter(s => s[3] === 'Threatened');
+  const endangered = listed.data.filter(s => s[3] === 'Endangered');
+
+  threatenedList.innerHTML = createListedSpeciesList(threatened, 'Threatened Species');
+  endangeredList.innerHTML = createListedSpeciesList(endangered, 'Endangered Species');
+
+  if (!threatened.length) removeNode(threatenedList);
+  if (!endangered.length) removeNode(endangeredList);
+});
+
+xhr.get(atRiskUrl, (err, response, body) => {
+  const species = JSON.parse(body);
+  if (err) {
+    console.error(err);
+    return removeNode(atRiskList)
+  }
+  if (!species.length) return removeNode(atRiskList)
+  atRiskList.innerHTML = createAtRiskList(species);
+});

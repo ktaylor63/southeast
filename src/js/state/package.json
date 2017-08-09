@@ -25,6 +25,7 @@
   "author": "Roy Hewitt <royhewitt07@gmail.com>",
   "license": "SAX-PD",
   "dependencies": {
+    "query-string": "^4.3.4",
     "xhr": "^2.2.0"
   },
   "devDependencies": {
