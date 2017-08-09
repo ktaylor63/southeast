@@ -34,6 +34,7 @@ const index = lunr(function() {
   this.field('url');
   this.field('year');
   this.field('programs', { boost: 3 });
+  this.field('keywords');
   this.ref('id');
 });
 
@@ -106,6 +107,7 @@ const seedIndex = (docs) => {
       type: doc.type,
       year: doc.year,
       url: doc.url,
+      keywords: doc.keywords,
       programs: doc.programs
     });
   });
