@@ -1,6 +1,6 @@
 ---
 title: 'Atlantic pigtoe'
-description: 'The Atlantic Pigtoe is a small freshwater clam found in Virginia, North Carolina, and historically in South Carolina and Georgia.'
+description: 'The Atlantic pigtoe is a small freshwater clam found in Virginia, North Carolina, and historically in South Carolina and Georgia.'
 scientific: 'Fusconaia masoni'
 type: species-profile
 js: /js/species-profile.js
@@ -32,7 +32,7 @@ updated: 'August 10th, 2017'
 
 ## Appearance
 
-The shell of the Atlantic Pigtoe is a chunky, rhombus shape, like that of a pig's hoof/toe. There is a distinct posterior ridge. The outer surface of the shell is yellow to dark brown and parchment-like, while the inner layer is iridescent blue to salmon, white, or orange. Although larger specimens exist, the Atlantic pigtoe rarely exceeds 2 inches in length. 
+The shell of the Atlantic pigtoe is a chunky, rhombus shape, like that of a pig's hoof/toe. There is a distinct posterior ridge. The outer surface of the shell is yellow to dark brown and parchment-like, while the inner layer is iridescent blue to salmon, white, or orange. Although larger specimens exist, the Atlantic pigtoe rarely exceeds 2 inches in length. 
 
 {{< figure class="photo-center" src="/images/pages/atlantic-pigtoe-close-up.jpg" alt="A close up photo of a black and brown striated mussel shell." caption="Atlantic pigtoe. Photo by NCWRC." >}}
 
