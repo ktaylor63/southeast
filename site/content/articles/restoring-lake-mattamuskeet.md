@@ -6,27 +6,27 @@ author: 'Phil Kloer, Public Affairs Specialist'
 date: '2017-06-29'
 tags:
     - 'Lake Mattamuskeet'
-    - 'Lake Mattamuskeet National Wildlife Refuge'
+    - 'Mattamuskeet National Wildlife Refuge'
     - 'North Carolina'
 hero:
     name: lake-mattamuskeet-thousands-of-birds.jpg
     alt: 'Thousands of birds taking flight from a huge lake in winter.'
     caption: 'Tundra swans and snow geese gather at Lake Mattamuskeet. Photo by Michelle Moorman, USFWS.'
     link: 'https://flic.kr/p/V2cTfB'
-updated: 'June 29th, 2017'
+updated: 'August 10th, 2017'
 ---
 
 **Swan Quarter, NC** – Don Nixon grew up hunting, fishing and crabbing in and around Lake Mattamuskeet. It is land his grandfather once owned, and land he intends to pass on, figuratively, to his 12-year-old son Jacob, who loves to fish and hunt.
 
 “It’s important what we hand down,” Nixon said recently. “I want to hand down a good lake to my son.” 
 
-{{< figure class="photo-center" src="/images/pages/lake-mattamuskeet-don-nixon.jpg" alt="A man and his son pose for a photograph in front of tilled farm land." caption="Don Nixon and his 12-year-old son Jacob live a quarter-mile from Lake Mattamuskeet National Wildlife Refuge and enjoy hunting and fishing together. Photo by Phil Kloer, USFWS."  >}}
+{{< figure class="photo-center" src="/images/pages/lake-mattamuskeet-don-nixon.jpg" alt="A man and his son pose for a photograph in front of tilled farm land." caption="Don Nixon and his 12-year-old son Jacob live a quarter-mile from [Mattamuskeet National Wildlife Refuge](https://www.fws.gov/refuge/mattamuskeet/) and enjoy hunting and fishing together. Photo by Phil Kloer, USFWS."  >}}
 
 Lake Mattamuskeet, the largest natural lake in North Carolina, faces serious issues. It has too many nutrients and suspended sediment.  The nutrients - nitrogen and phosphorous - feed single-celled organisms called phytoplankton that cause algal blooms and can wreak havoc with aquatic systems. (A website for the National Oceanic and Atmospheric Administration calls algal blooms “tiny plants with a toxic touch.”)
 
 “The lake is the hub of just about everybody here in Hyde County,” said Nixon, a local farmer and landowner whose brick ranch house sits just a quarter-mile from the refuge. “That’s why there’s been such an uproar to restore the lake.”
 
-So Nixon put his money, or more specifically his land, where his mouth is. Some of his farmland is adjacent to Lake Mattamuskeet National Wildlife Refuge, and water from those lands runs off into the lake. A year ago, he agreed to let researchers from East Carolina University put a testing station on his property. The station measures nitrogen and phosphorous run-offs from fertilizers, and sediment run-off, and the information could help guide the task force that is developing a lake restoration plan. It could also, potentially, point the finger at Nixon as part of the problem, as well as part of the solution.
+So Nixon put his money, or more specifically his land, where his mouth is. Some of his farmland is adjacent to Mattamuskeet National Wildlife Refuge, and water from those lands runs off into the lake. A year ago, he agreed to let researchers from East Carolina University put a testing station on his property. The station measures nitrogen and phosphorous run-offs from fertilizers, and sediment run-off, and the information could help guide the task force that is developing a lake restoration plan. It could also, potentially, point the finger at Nixon as part of the problem, as well as part of the solution.
 
 “I was willing to put my neck on the chopping block,” he said. “I wanted to make sure our commercial fertilizers and farming practices aren’t killing the lake. I felt confident we were not hurting the lake, but at the same time I was afraid they would find that nitrogen was flooding the lake from the fertilizers I used.”
 
