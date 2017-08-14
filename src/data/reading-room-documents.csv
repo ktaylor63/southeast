@@ -555,7 +555,7 @@ Pocosin Lakes National Wildlife Refuge,,Fire Management Plan,https://catalog.dat
 ,Little bluestem,Fire Management Species Profile,fire/little-bluestem-fire-management.pdf,,,
 ,Wiregrass,Fire Management Species Profile,fire/wiregrass-fire-management.pdf,,,
 Ernest F. Hollings Ace Basin National Wildlife Refuge,,General Brochure,brochure/ace-basin-national-wildlife-refuge.pdf,,National Wildlife Refuge System,
-Alligator River National Wildlife Refuge,Endangered Red Wolf Brochure,General Brochure,brochure/red-wolf.pdf,,National Wildlife Refuge System,
+,Endangered Red Wolf Brochure,General Brochure,brochure/red-wolf.pdf,,National Wildlife Refuge System,"Alligator River, Pocosin Lakes, Cedar Island"
 Alligator River National Wildlife Refuge,,General Brochure,brochure/alligator-river-national-wildlife-refuge.pdf,,National Wildlife Refuge System,
 Arthur R. Marshall Loxahatchee National Wildlife Refuge,,General Brochure,brochure/arm-loxahatchee-national-wildlife-refuge.pdf,,National Wildlife Refuge System,
 Atchafalaya National Wildlife Refuge,,General Brochure,brochure/atchafalaya-national-wildlife-refuge.pdf,,National Wildlife Refuge System,
@@ -834,12 +834,12 @@ North Mississippi Refuges Complex,Fishing Regulations,Regulations,regulations/no
 Sam D. Hamilton Noxubee National Wildlife Refuge,Hunting Regulations,Regulations,regulations/noxubee-national-wildlife-refuge-hunt.pdf,,National Wildlife Refuge System,
 Okefenokee National Wildlife Refuge,Hunting Regulations,Regulations,regulations/okefenokee-national-wildlife-refuge-hunt.pdf,,National Wildlife Refuge System,
 Overflow National Wildlife Refuge,Public Use Regulations and Map,Regulations,regulations/overflow-national-wildlife-refuge-public-use.pdf,,National Wildlife Refuge System,
-Pea Island National Wildlife Refuge,Fishing Regulations,Regulations,regulations/pea-island-national-wildlife-refuge-fishing.pdf,,National Wildlife Refuge System,
+Pea Island National Wildlife Refuge,Nighttime Fishing Permit,Regulations,regulations/pea-island-national-wildlife-refuge-fishing.pdf,,National Wildlife Refuge System,
 Pee Dee National Wildlife Refuge,Fishing Regulations,Regulations,regulations/pee-dee-national-wildlife-refuge-fish.pdf,,National Wildlife Refuge System,
 Pee Dee National Wildlife Refuge,Hunting Regulations,Regulations,regulations/pee-dee-national-wildlife-refuge-hunt.pdf,,National Wildlife Refuge System,
 Piedmont National Wildlife Refuge,Hunting and Fishing Regulations,Regulations,regulations/piedmont-national-wildlife-refuge-hunt.pdf,,National Wildlife Refuge System,
 Pinckney Island National Wildlife Refuge,Hunting Regulations,Regulations,regulations/savannah-coastal-refuges-complex-hunting.pdf,,National Wildlife Refuge System,
-Pocosin Lakes National Wildlife Refuge,Hunting Regulations,Regulations,regulations/pocosin-lakes-national-wildlife-refuge-hunt.pdf,,National Wildlife Refuge System,
+Pocosin Lakes National Wildlife Refuge,Hunting and Fishing Regulations,Regulations,regulations/pocosin-lakes-national-wildlife-refuge-hunt.pdf,,National Wildlife Refuge System,
 Pocosin Lakes National Wildlife Refuge,Pungo Unit Regulations,Regulations,regulations/pocosin-lakes-national-wildlife-refuge-pungo-unit.pdf,,National Wildlife Refuge System,
 Pond Creek National Wildlife Refuge,Public Use Regulations and Map,Regulations,regulations/pond-creek-national-wildlife-refuge-public-use.pdf,,National Wildlife Refuge System,
 Red River National Wildlife Refuge,Hunt Regulations and Map,Regulations,regulations/red-river-national-wildlife-refuge-hunt.pdf,,National Wildlife Refuge System,
@@ -902,9 +902,9 @@ St. Vincent National Wildlife Refuge,"Fish, Amphibian, Reptile and Mammal List",
 Ten Thousand Islands National Wildlife Refuge,Amphibian and Reptile List,Species List,species-list/ten-thousand-islands-national-wildlife-refuge.pdf,,National Wildlife Refuge System,
 Tennessee National Wildlife Refuge,"Amphibians, Fish, Mammals and Reptiles List",Species List,species-list/tennessee-national-wildlife-refuge.pdf,,National Wildlife Refuge System,
 ,Range-Wide Conservation Strategy for the Gopher Tortoise,Strategy,strategy/gopher-tortoise-conservation-strategy-v2.pdf,2012,,
-,Black Bear Tearsheet,Tearsheet,tearsheet/black-bear.pdf,,National Wildlife Refuge System,Alligator River
+,Black Bear Tearsheet,Tearsheet,tearsheet/black-bear.pdf,,National Wildlife Refuge System,"Alligator River, Pocosin Lakes, Mattamuskeet"
 Alligator River National Wildlife Refuge,Tearsheet with Map,Tearsheet,tearsheet/alligator-river-national-wildlife-refuge.pdf,,National Wildlife Refuge System,
-Alligator River National Wildlife Refuge,North Carolina Gateway Visitor Center Tearsheet,Tearsheet,tearsheet/north-carolina-gateway-national-wildlife-refuges.pdf,,National Wildlife Refuge System,"Alligator River, Pea Island, Pocosin Lakes, Roanoke River, Mattamuskeet, Cedar Island, Swanquarter, Currituck, Mackay Island, Great Dismal Swamp, Back Bay, Edenton National Fish Hatchery"
+,North Carolina Gateway Visitor Center Tearsheet,Tearsheet,tearsheet/north-carolina-gateway-national-wildlife-refuges.pdf,,National Wildlife Refuge System,"Alligator River, Pea Island, Pocosin Lakes, Roanoke River, Mattamuskeet, Cedar Island, Swanquarter, Currituck, Mackay Island, Great Dismal Swamp, Back Bay, Edenton National Fish Hatchery"
 Arthur R. Marshall Loxahatchee National Wildlife Refuge,,Tearsheet,tearsheet/arm-loxahatchee-national-wildlife-refuge.pdf,,National Wildlife Refuge System,
 Bayou Sauvage National Wildlife Refuge,,Tearsheet,tearsheet/bayou-sauvage-national-wildlife-refuge.pdf,,National Wildlife Refuge System,
 Big Branch Marsh National Wildlife Refuge,,Tearsheet,tearsheet/big-branch-marsh-national-wildlife-refuge.pdf,,National Wildlife Refuge System,
@@ -1065,6 +1065,16 @@ Arthur R. Marshall Loxahatchee National Wildlife Refuge,Rhythms of the Refuge: A
 ,Gulf Restoration Funds: Did you know?,Presentation,presentations/gulf-restoration-funds-did-you-know.pdf,2017,Gulf Restoration Program,
 ,Gulf Restoration Projects: Did you know?,Presentation,presentations/gulf-restoration-projects-did-you-know.pdf,2017,Gulf Restoration Program,
 ,Gulf Restoration Vision: Did you know?,Presentation,presentations/gulf-restoration-vision-did-you-know.pdf,2017,Gulf Restoration Program,
-,North Carolina's National Wildlife Refuges and National Fish Hatcheries,Fact Sheet,fact-sheet/north-carolina-national-wildlife-refuges-and-fish-hatcheries.pdf,2003,"Alligator River, Back Bay, Cedar Island, Currituck, Edenton, Great Dismal Swamp, Mackay Island, Mattamuskeet, Pea Island, Pee Dee, Pocosin Lakes, Roanoke River, Swanquarter",
-,Coloring Book: National Wildlife Refuge System,Workbook,workbook/national-wildlife-refuge-system-coloring-book.pdf,,,
+,North Carolina's National Wildlife Refuges and National Fish Hatcheries,Fact Sheet,fact-sheet/north-carolina-national-wildlife-refuges-and-fish-hatcheries.pdf,2003,,"Alligator River, Back Bay, Cedar Island, Currituck, Edenton, Great Dismal Swamp, Mackay Island, Mattamuskeet, Pea Island, Pee Dee, Pocosin Lakes, Roanoke River, Swanquarter"
+,Coloring Book: National Wildlife Refuge System,Workbook,workbook/national-wildlife-refuge-system-coloring-book.pdf,,,"Alligator River, Back Bay, Cedar Island, Currituck, Edenton, Great Dismal Swamp, Mackay Island, Mattamuskeet, Pea Island, Pee Dee, Pocosin Lakes, Roanoke River, Swanquarter"
 ,Atlantic pigtoe current distribution,Map,map/atlantic-pigtoe-current-distribution.jpg,2017,,
+,Wings Over Water Festival at a Glance,Fact Sheet,fact-sheet/wings-over-water-festival-at-a-glance.pdf,2017,,"Alligator River, Pea Island, Mackay Island, Mattamuskeet, Pocosin Lakes"
+,Treestand safety tips,Fact Sheet,fact-sheet/tree-stand-safety.pdf,,,Pocosin Lakes
+,Field Office Coverage in Florida,Map,map/florida-field-office-coverage.pdf,,,"Panama City, Jacksonville, Vero Beach"
+Mackay Island National Wildlife Refuge,Big/Upland Game Hunt Application,Regulations,regulations/mackay-island-national-wildlife-refuge-upland-bird.jpg,,,
+North Carolina Refuges,Charles Kuralt Trail,General Brochure,brochure/kuralt-trail-north-carolina-refuges.pdf,,,"Back Bay, Mackay Island, Great Dismal Swamp, Currituck, Edenton, Roanoke River, Pea Island, Alligator River, Pocosin Lakes, Mattamuskeet, Swanquarter, Cedar Island"
+Cedar Island National Wildlife Refuge,Hunting Regulations,Regulations,regulations/cedar-island-national-wildlife-refuge.pdf,,,
+Cedar Island National Wildlife Refuge,Refuge Map,Map,map/cedar-island-national-wildlife-refuge.jpg,,,
+Swanquarter National Wildlife Refuge,Refuge Map,Map,map/swanquarter-national-wildlife-refuge.pdf,,,
+Mattamuskeet National Wildlife Refuge,Waterfowl Hunting Blinds,Map,map/mattamuskeet-national-wildlife-refuge-hunting-blinds.pdf,,,
+,"Threatened, endangered, candidate species of Louisiana",Fact Sheet,fact-sheet/louisiana-ecological-services-field-office-t-and-e-species.pdf,,Ecological Services,Louisiana Ecological Services Field Office
