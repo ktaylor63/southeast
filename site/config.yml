@@ -5,6 +5,20 @@ pluralizelisttitles: false
 canonifyurls: true
 publishDir: '../dist'
 
+mediaTypes:
+  application/javascript:
+    suffix: js
+
+outputFormats:
+  js:
+    suffix: js
+    mediaType: application/javascript
+    isPlainText: true
+    isHTML: false
+    noUgly: false
+    baseName: index
+    rel: alternate
+
 googleAnalytics: UA-21323598-1
 
 taxonomies:
@@ -16,13 +30,13 @@ outputs:
   home:
     - html
     - rss
-    - json
+    - js
   page:
     - html
   section:
     - html
     - rss
-    - json
+    - js
 
 # Custom Defined Site Wide Variables
 params:
