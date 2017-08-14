@@ -22,6 +22,10 @@ updated: 'July 25th, 2017'
 
 The field station was established in 1972. We strive for ecosystem sustainability through preservation, conservation, enhancement, and restoration of habitats essential for the long-term viability of the fish, wildlife, and plants in Louisiana. The field office emphasizes an ecosystem approach incorporating Strategic Habitat Conservation to address and prioritize habitat issues through partnerships with other federal and state agencies, conservation organizations, private landowners, and citizens to achieve the greatest possible benefits to fish and wildlife. 
 
+## Threatened and Endangered Species
+
+[Explore a list of threatened and endangered species by parish in Louisiana](/pdf/fact-sheet/louisiana-ecological-services-field-office-t-and-e-species.pdf).
+
 {{< scroller-list tag="Lafayette" section="news" >}}
 
 {{< scroller-list tag="Lafayette" section="articles" >}}

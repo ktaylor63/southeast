@@ -22,6 +22,8 @@ The Endangered Species Act (ESA) is America’s strongest conservation law. Orig
 
 All species of plants and animals, except pest insects, are eligible for listing as endangered or threatened.  [Learn more about how we work to conserve species in the Southeast region.](https://www.fws.gov/southeast/endangered-species-act#endangered-vs-threatened)
 
+**[Download a list of threatened and endangered species by parish in Louisiana](/pdf/fact-sheet/louisiana-ecological-services-field-office-t-and-e-species.pdf).**
+
 ## Habitat Conservation Plan (HCP)
 
 Habitat Conservation Plans (HCPs) under section 10(a)(1)(B) of the Endangered Species Act (ESA) provide for partnerships with non-federal parties to conserve the ecosystems upon which listed species depend, ultimately contributing to their recovery.
