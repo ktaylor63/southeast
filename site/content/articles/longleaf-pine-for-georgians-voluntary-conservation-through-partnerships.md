@@ -19,7 +19,7 @@ tags:
     - 'Longleaf Pine'
     - 'Partners for Fish and Wildlife Program'
     - Partnership
-updated: 'July 18th, 2017'
+updated: 'July 26th, 2017'
 ---
 
 {{< youtube A6YmINq04WY >}}
@@ -48,9 +48,9 @@ Reese Thompson is a sixth-generation Georgian who has been producing timber for 
 
 Thompson believes it is especially important to preserve existing longleaf pine by managing it carefully. That includes thinning it occasionally and setting prescribed (controlled) fires periodically to stimulate the native ground cover, or understory.
 
-He conserves what he calls the three-legged stool of longleaf – the timber; the intact ground cover; and sensitive species, such as the gopher tortoise and the Eastern indigo snake. “The gopher tortoise is referred to as the keystone species because he provides a burrow that’s used by some 300 other species of animals,” Thompson says, adding that “the jewel, the real treasure,” is the native understory because it includes 800 to 900 plant species. 
+He conserves what he calls the three-legged stool of longleaf – the timber; the intact ground cover; and sensitive species, such as the gopher tortoise and the Eastern indigo snake. “The gopher tortoise is referred to as the keystone species because he provides a burrow that’s used by some 300 other species of animals,” Thompson says. He adds that “the jewel, the real treasure,” is the native understory because it includes 800 to 900 plant species. 
 
-Thompson is replacing faster-growing slash pine he has cultivated for decades with new longleaf. Partners Program funding has helped him buy longleaf seedlings. And he has even trademarked a Smokey Bear-like character named Burner Bob, a bobwhite quail designed to spread the message the fire is good for longleaf pine ecosystems and associated wildlife.
+Thompson is replacing faster-growing slash pine he has cultivated for decades with new longleaf. Partners Program funding has helped him buy longleaf seedlings. And he has even trademarked a Smokey Bear-like character named Burner Bob, a bobwhite quail designed to spread the message that fire is good for longleaf pine ecosystems and associated wildlife.
 
 ### His philosophy
 
@@ -58,11 +58,11 @@ Thompson is replacing faster-growing slash pine he has cultivated for decades wi
 
 ## Chuck Leavell / Twiggs County
 
-{{< figure class="photo-center" src="/images/pages/chuck-leavell.jpg" alt="A gentleman with a white beard and hair in front of pine trees." caption="Chuck Leavell is a musician, conservationist and author. “In the past 80 years or so, the loblolly and slash pine have become the pine trees of choice in the South. But the longleaf pine is not forgotten,” he wrote his book *Forever Green*. “Yes, man helped create the problem, but now we are helping to solve it.” Photo by Bill O’Brian, USFWS." >}}
+{{< figure class="photo-center" src="/images/pages/chuck-leavell.jpg" alt="A gentleman with a white beard and hair in front of pine trees." caption="Chuck Leavell is a musician, conservationist and author. “In the past 80 years or so, the loblolly and slash pine have become the pine trees of choice in the South. But the longleaf pine is not forgotten,” he wrote in his book *Forever Green*. “Yes, man helped create the problem, but now we are helping to solve it.” Photo by Bill O’Brian, USFWS." >}}
 
 ### The man and his land
 
-Chuck Leavell is a [world-class pianist](http://www.chuckleavell.com/bio/) who has played with the Rolling Stones, the Allman Brothers and others. He is deeply involved with forest conservation nationally and is author of several books, including [“Forever Green: The History and Hope of the American Forest.”](https://books.google.com/books/about/Forever_Green.html?id=ySsP_b-Bgf0C) He and his wife, Rose Lane, grow timber for harvest and production on Charlane Plantation, land south of Macon they inherited from her grandmother. “This is a family heritage of stewardship of the land. We want to pass the land on to our daughters, and to our grandchildren.” 
+Chuck Leavell is a [world-class pianist](http://www.chuckleavell.com/bio/) who has played with the Rolling Stones, the Allman Brothers and others. He is deeply involved with forest conservation nationally and is author of several books, including “Forever Green: The History and Hope of the American Forest.” He and his wife, Rose Lane, grow timber for harvest and production on Charlane Plantation, land south of Macon they inherited from her grandmother. “This is a family heritage of stewardship of the land. We want to pass the land on to our daughters, and to our grandchildren.” 
 
 ### His conservation practices
 
@@ -94,7 +94,7 @@ Littles and his organization are establishing the community forest as a place of
 
 ### The woman and her land
 
-Patricia McCarthy is a former science teacher and a timber woman who manages her family’s private farm near the Satilla River northwest of Waycross. She takes what might be called holistic approach to her working land. “Longleaf is a part. It’s not the whole. But it’s a part. It was here in the beginning, and it needs to be here,” she says. Besides producing longleaf for straw, she grows pecans and blueberries. 
+Patricia McCarthy is a former science teacher and a timber woman who manages her family’s private farm near the Satilla River northwest of Waycross. She takes what might be called holistic approach to her working land. “Longleaf is a part [of her property]. It’s not the whole. But it’s a part. It was here in the beginning, and it needs to be here,” she says. Besides producing longleaf for straw, she grows pecans and blueberries. 
 
 ### Her conservation practices
 
@@ -117,14 +117,14 @@ Land stewards such as Reese Thompson, Chuck Leavell, John Littles and Patricia M
 
 ## As the South once was
 
-{{< figure class="photo-center" src="/images/pages/longleaf-at-reese-thompson-property.jpg" alt="An open pine forest." caption="Natural longleaf pine stands like one on Reese Thompson’s land are all too rare these days." >}}
+{{< figure class="photo-center" src="/images/pages/longleaf-at-reese-thompson-property.jpg" alt="An open pine forest." caption="Natural longleaf pine stands like this one on Reese Thompson’s land are rare these days.Photo by Bill O’Brian, USFWS." >}}
 
 Longleaf pine trees can live to be 300 years old and grow to 100 feet tall. One reason longleaf is in need of help today is that its timber, which is strong and straight with few knots, was highly valued during the Industrial Revolution. It was used for ship masts, utility poles, even the base of the Brooklyn Bridge.
 The tree gets its name from its needle-like leaves, which can be 18 inches long and to this day are prized and profitable as landscaping straw.
 
 ## More about longleaf pine and related conservation efforts
 
- - [U.S. Fish and Wildlife Service Southeast Region Partners Program](/southeast/our-services/partners-program/)
+ - [U.S. Fish and Wildlife Service Southeast Region Partners Program](/our-services/partners-program/)
  - [U.S. Fish and Wildlife Service Partners Program Facebook page ](https://www.facebook.com/PFWProgram/)
  - [The Longleaf Alliance](http://www.longleafalliance.org/)
  - [USDA Natural Resources Conservation Service](https://plants.usda.gov/core/profile?symbol=PIPA2)

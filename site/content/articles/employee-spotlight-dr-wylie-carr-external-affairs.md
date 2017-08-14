@@ -6,7 +6,7 @@ type: 'Employee Spotlight'
 tags:
     - E-Grits
     - 'Employee Spotlight'
-    - SECAS
+    - Southeast Conservation Adaptation Strategy
     - 'Social Science'
 author: 'Elsie Davis, External Affairs'
 hero:

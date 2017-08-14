@@ -13,7 +13,7 @@ tags:
     - 'Longleaf Pine'
     - Partnership
     - 'Red-Cockaded Woodpecker'
-    - SECAS
+    - Southeast Conservation Adaptation Strategy
 hero:
     name: coastal-headwaters-longleaf.jpg
     alt: 'Wiry pine trees sparsley dot a sandy landscape.'

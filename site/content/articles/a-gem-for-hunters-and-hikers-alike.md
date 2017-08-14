@@ -23,7 +23,7 @@ scrollnav: no-scrollnav
 hero:
     name: altama-plantation.jpg
     alt: 'An open gate surrounded by live oaks covered in Spanish moss.'
-    caption: 'Atama Plantation. Photo by Nicole Vidal, USFWS.'
+    caption: 'Altama Plantation. Photo by Nicole Vidal, USFWS.'
     position: 'bottom center'
 series:
     - 'Conserving Paradise'
