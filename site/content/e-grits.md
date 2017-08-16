@@ -6,12 +6,12 @@ aliases:
   - egrits
 tags:
     - Employees
-    
 hero:
-    name: kentucky-employees-visit-dam-removal-site.jpg
-    alt: 'A large group of employees pose for a photo on the banks of the Green River.'
-    caption: 'Employees stationed in Kentucky gather at the site of the lock and dam number 6 on the Green River near Mammoth Cave National Park.  Photo by Robert Herndon, USFWS.'
-updated: 'May 3rd, 2017'
+    name: proctor-creek.jpg
+    alt: 'A rocky stream bed covered by a canopy of trees.'
+    caption: 'Rocks and boulders line the bottom and banks of this stretch of proctor creek. Photo by Katherine Taylor, USFWS.'
+    position: 'bottom center'
+updated: 'August 15th, 2017'
 ---
 
 ## Where southeast employees get their news
