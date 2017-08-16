@@ -2,13 +2,13 @@
 title: 'They come out at night'
 subtitle: 'Alabama bat count draws biologists, enthusiasts'
 type: feature
-description: 'The 2017 blitz, like those that preceded it, attempted to spread a little bat understanding – and, perhaps, some bat love. Bat experts invited the public to spend a few moments regarding a creature that’s suffered from a PR problem. Most folks just down understand bats, or what they do.'
+description: 'The 2017 blitz, like those that preceded it, attempted to spread a little bat understanding – and, perhaps, some bat love. Bat experts invited the public to spend a few moments regarding a creature that’s suffered from a PR problem. Most folks just don’t understand bats, or what they do.'
 author: 'Mark Davis, Public Affairs Specialist'
 date: '2017-08-10'
 hero:
     name: bat-blitz-alabama.jpg
     alt: 'A bat with a fuzzy head and large round eyes clings to the handler’s gloved hand'
-    caption: 'Robin the bat. Photo by Nicole Vidal, USFWS.'
+    caption: 'Robin is an Egyptian fruit bat. Photo by Nicole Vidal, USFWS.'
 tags:
     - Alabama
     - 'Bat Blitz'
