@@ -1,5 +1,15 @@
 ---
 stories:
+  - title: 'NFWF Announces $5.5 Million in Grants for Longleaf Pine Forest and Ecosystems Across the Southeast'
+    subtitle: 'Partners Celebrate 1 Million Acres of Longleaf Impacted in Program’s Sixth Year'
+    url: 'http://www.nfwf.org/whoweare/mediacenter/pr/Pages/nfwf-announces-grants-for-longleaf-pine-forest-2017-0815.aspx'
+    date: '2017-08-15'
+    summary: 'The National Fish and Wildlife Foundation (NFWF) today announced $5.5 million in grants to support the restoration of the longleaf ecosystem in nine states. Awarded through the Longleaf Stewardship Fund, the grants are expected to generate more than $7 million in matching contributions for a total conservation impact of $12.5 million.'
+    hero:
+      name: longleaf-pine-ocala.jpg
+      alt: 'Tall, narrow, pine trees spaced about 25 feet apart with very sparse, dry grass in the understory.'
+      link: 'https://flic.kr/p/qGYCdR'
+      caption: 'Longleaf pine is a fire-dependent ecosystem that supports gentian pinkroot.'
   - title: 'Gopher frog conservation partners USFWS do an incredible job in their first season of head-starting'
     url: 'http://frogpodblog.blogspot.com/2017/06/gopher-frog-conservation-partners-usfws.html'
     date: '2017-06-30'
