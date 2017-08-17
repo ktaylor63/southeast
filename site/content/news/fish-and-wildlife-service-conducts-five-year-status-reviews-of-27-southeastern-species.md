@@ -13,6 +13,7 @@ tags:
     - 'South Carolina'
     - Kentucky
     - Tennessee
+    - Panama City
 hero:
     name: reticulated-flatwoods-salamander-larva.jpg
     alt: A strange looking salamander with horns.

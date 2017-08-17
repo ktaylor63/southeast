@@ -11,6 +11,7 @@ tags:
     - 'Gentian pinkroot'
     - Florida
     - Alabama
+    - Panama City
 updated: 'October 6th, 2016'
 ---
 

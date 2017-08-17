@@ -11,6 +11,7 @@ tags:
     - 'Loggerhead sea turtle'
     - Florida
     - Georgia
+    - Panama City
 updated: 'October 20th, 2016'
 ---
 

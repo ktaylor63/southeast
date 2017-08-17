@@ -11,6 +11,7 @@ tags:
     - Florida
     - Recovery
     - 'St. Andrew Beach Mouse'
+    - Panama City
 updated: 'March 21st, 2017'
 ---
 

@@ -15,6 +15,7 @@ tags:
     - 'Longleaf Pine'
     - Recovery
     - Reintroduction
+    - Panama City
 updated: 'July 18th, 2017'
 ---
 

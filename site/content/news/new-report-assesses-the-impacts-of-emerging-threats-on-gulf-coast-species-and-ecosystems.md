@@ -11,6 +11,7 @@ tags:
     - 'Kemps Ridley Sea Turtle'
     - Lafayette
     - Louisiana
+    - Panama City
 date: '2015-11-13'
 updated: 'April 21st, 2017'
 ---

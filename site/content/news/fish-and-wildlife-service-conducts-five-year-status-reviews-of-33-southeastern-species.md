@@ -8,6 +8,7 @@ tags:
     - 'Puerto Rico'
     - Mississippi
     - Tennessee
+    - Panama City
 hero:
     name: golden-sedge.jpg
     alt: 'A grass like plant with a large geometric shaped bulb.'

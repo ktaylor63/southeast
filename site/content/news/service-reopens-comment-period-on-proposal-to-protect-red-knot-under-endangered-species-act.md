@@ -10,6 +10,13 @@ hero:
 tags:
     - 'Red knot'
     - 'North Carolina'
+    - Florida
+    - South Carolina
+    - Georgia
+    - Alabama
+    - Athens
+    - Mississippi
+    - Panama City
 updated: 'October 21st, 2016'
 ---
 

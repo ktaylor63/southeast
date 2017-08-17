@@ -13,6 +13,7 @@ tags:
     - Mississippi
     - 'North Carolina'
     - Tennessee
+    - Panama City
 hero:
     name: alabama-beach-mouse.jpg
     alt: 'A small mouse white white belly and sand-colored back hides behind beach vegetation.'

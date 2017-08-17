@@ -16,6 +16,7 @@ tags:
     - 'Tennessee Purple Coneflower'
     - 'Tulotoma Snail'
     - 'Wood Stork'
+    - Panama City
 hero:
     name: brown-pelican.jpg
     alt: 'A large grey bird flying in front of a bright blue sky.'

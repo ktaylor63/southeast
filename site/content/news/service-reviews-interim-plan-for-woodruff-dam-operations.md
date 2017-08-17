@@ -11,6 +11,7 @@ tags:
     - Florida
     - 'Gulf sturgeon'
     - Georgia
+    - Panama City
 updated: 'October 25th, 2016'
 ---
 
