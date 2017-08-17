@@ -14,6 +14,7 @@ tags:
     - Georgia
     - Gulf
     - Mussel
+    - Panama City
 hero:
     name: suwannee-moccasinshell.jpg
     alt: 'Two dark gray mussels with striations on a red towel next to a ruler for scale.'
