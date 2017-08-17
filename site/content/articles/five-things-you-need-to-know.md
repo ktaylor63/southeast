@@ -11,6 +11,10 @@ hero:
 tags:
     - Gulf
     - 'Deepwater Horizon Oil Spill'
+    - Florida
+    - Panama City
+    - Alabama
+    - Mississippi
 updated: 'October 20th, 2016'
 ---
 

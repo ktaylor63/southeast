@@ -14,6 +14,7 @@ tags:
     - Partnership
     - 'Red-Cockaded Woodpecker'
     - Southeast Conservation Adaptation Strategy
+    - Panama City
 hero:
     name: coastal-headwaters-longleaf.jpg
     alt: 'Wiry pine trees sparsley dot a sandy landscape.'

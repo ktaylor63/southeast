@@ -17,6 +17,7 @@ tags:
     - Florida
     - 'Gopher Tortoise'
     - 'Longleaf Pine'
+    - Panama City
     - 'Partners for Fish and Wildlife Program'
     - 'Prescribed Fire'
     - 'Shermans Fox Squirrel'
