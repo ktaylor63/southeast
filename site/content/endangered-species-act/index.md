@@ -1,6 +1,5 @@
 ---
 title: 'Conserving Endangered Species in the Southeast'
-description: null
 url: /endangered-species-act
 nav: 'Endangered Species Act'
 weight: 1
