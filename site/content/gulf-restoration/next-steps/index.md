@@ -12,7 +12,7 @@ hero:
 url: /gulf-restoration/next-steps
 tags:
     - Gulf
-updated: 'April 21st, 2017'
+updated: 'August 17th, 2017'
 ---
 
 The greater Gulf of Mexico ecosystem contains a variety of habitats that support an amazing range of wildlife and provides Americans with abundant seafood, valuable energy resources, extraordinary outdoor recreational activities, and a rich cultural heritage. The U.S. Fish and Wildlife Service (Service) is keenly aware that a long-term, large-scale, watershed-level approach to restoration and conservation is important if we are to achieve a healthy Gulf. 
@@ -29,7 +29,7 @@ The Service recognizes that in order to be an effective partner and to meet our 
 
 _Next Steps_ highlights specific courses of action for the development and implementation of conservation and restoration initiatives in each of the geographic focal areas included in the Service’s _Vision_. _Next Steps_ grows out of themes and action items raised in _Vision_. It also reflects the constantly changing Gulf conservation landscape by updating and including refinements and additions to the earlier document, such as two new focal areas in Florida. It is a “living document” that we intend to revise in the future as conditions change and the results of choices taken become apparent. As such, _Next Steps_ illustrates the Service’s iterative and adaptive approach to conservation and restoration.
 
-{{< figure class="photo-right" src="/images/pages/usfws-biologist-discussing-a-restoration-project-with-partners-on-Anhuac-nwr.jpg" alt="Biologists on an eroded marsh edge look out over open water." caption="USFWS biologist discussing a restoration project design with partners at Anahuac NWR. Photo by Woody Woodrow, USFWS." >}}
+{{< figure class="photo-right" src="/images/pages/usfws-biologist-discussing-a-restoration-project-with-partners-on-Anhuac-nwr.jpg" alt="Biologists on an eroded marsh edge look out over open water." caption="USFWS biologist discussing a restoration project design with partners at Anahuac NWR. Photo by Scott Williams, USFWS." >}}
 
 The actions outlined in this document are not the only options for good conservation in the Gulf. In fact, we are hopeful that by articulating our perspective, we will open the door for conversations with present and future partners focused on discovery and the development of desirable collaborations; creative problem solving; and increased transparency and coordination. We believe such dialogue will also ensure that we are leveraging our contributions in science, conservation, restoration and environmental compliance with that of our partners. Our intention is to present quantitative targets for restoration of natural resources where we have them, and where we do not, to seek a better understanding of which restoration actions will be most broadly supported and most effectively benefit the greatest diversity of fish and wildlife. Those common restoration opportunities are important to the Service. They represent opportunities to garner broad support for restoration and further partnerships intent on far-reaching and sustainable goals, significantly increasing the probability of successful Gulf restoration outcomes.
 

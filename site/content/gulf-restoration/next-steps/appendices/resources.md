@@ -7,7 +7,7 @@ hero:
     name: chenier-plain-abundant-birdlife.jpg
     alt: 'A flock of hundreds birds of various species in a marsh on the Chenier Plain.'
     caption: 'Mixed flock on the Cheneir Plain. Photo by Woody Woodrow, USFWS.'
-updated: 'May 1st, 2017'
+updated: 'August 17th, 2017'
 tags:
     - Gulf
 ---
@@ -38,7 +38,7 @@ tags:
 *   [Texas Parks and Wildlife Department. 1999\. Seagrass Conservation Plan for Texas. Austin, Texas. 84 pages.](http://tpwd.texas.gov/publications/pwdpubs/media/pwd_bk_r0400_0041.pdf)
 *   [Texas Parks and Wildlife Department. 2012\. Texas Conservation Action Plan 2012 – 2016: Gulf Coast Prairies and Marshes Handbook. Editor, Wendy Connally, Texas Conservation Action Plan Coordinator. Austin, Texas. 51 pages.](http://tpwd.texas.gov/landwater/land/tcap/documents/gcpm_tcap_2012.pdf)
 *   Tunnell, J.W. Jr. and F.W. Judd (eds.) 2002\. The Laguna Madre of Texas and Tamaulipas - A Compendium. Texas A&M University Press, College Station.
-*   [U.S. Census Bureau. 2015\. QuickFacts Beta 2.0\. Accessed October 15, 2015\.](http://quickfacts.census.gov/qfd/states)
+*   [U.S. Census Bureau. 2015\. QuickFacts Beta 2.0\. Accessed October 15, 2015\.](https://www.census.gov/quickfacts/)
 *   U.S. Fish and Wildlife Service. 1990\. Northern aplomado falcon recovery plan. U.S. Fish and Wildlife Service. Albuquerque, New Mexico. 56 pages.
 *   U.S. Fish and Wildlife Service. 2010\. Laguna Atascosa National Wildlife Refuge Comprehensive Conservation Plan. U.S. Department of the Interior Fish and Wildlife Service Southwest Regional Office, Albuquerque, New Mexico. 274 pages.
 *   U.S. Fish and Wildlife Service. 2010\. Draft Ocelot (Leopardus pardalis) Recovery Plan, First Revision. U.S. Fish and Wildlife Service, Southwest Region, Albuquerque, New Mexico.

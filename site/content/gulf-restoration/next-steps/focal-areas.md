@@ -8,7 +8,7 @@ hero:
     name: gulf-coast-beach-crowded.jpg
     alt: 'An ATV in a grassy field with sparse pine trees.'
     caption: 'A crowded Gulf Coast beach. Photo by Woody Woodrow, USFWS.'
-updated: 'March 19th, 2017'
+updated: 'August 17th, 2017'
 tags:
     - Gulf
 ---
@@ -19,7 +19,7 @@ The Gulf of Mexico watershed exhibits a great ecological richness due to diverse
 
 In _Vision_, we displayed the focal areas with “fuzzy” boundaries to avoid limiting opportunities for collaboration; our intention was to tap into broad programmatic and partnership synergies across the watershed. At this point, we are beginning the transition to Biological Planning Units in the Gulf because explicit and quantitative biological objectives necessitate explicit boundaries. We compiled and aligned existing lines and boundaries to form these planning units similar to the way we compiled existing biological objectives. The boundaries reflect important ecological, political and legislative divisions. The Biological Planning Units now cover the entire Gulf Coast region, resulting in the addition of two new focal areas, Tampa Bay and Florida Keys. The transition to Biological Planning Units has also led us to redefine focal areas along the Texas Mid-Coast, North-Central Gulf Coast (now Central Gulf Lands), and Panhandle Beaches (now Central Gulf and Florida Panhandle Coast), among others. Again, though, these refinements to our fuzzy boundaries do not reflect “new” lines on the map. Rather, they represent an evolution in our thinking and a convergence to boundaries already recognized by others.
 
-{{< figure class="photo-right" src="/images/pages/coastal-marsh-at-chassahowitzka-nwr.jpg" alt="Aerial photograph of a forested marsh giving way to open water." caption="Coastal marsh at Chassahowitzka NWR, Florida. Photo by Joyce Kleen, USFWS." >}}
+{{< figure class="photo-center" src="/images/pages/coastal-marsh-at-chassahowitzka-nwr.jpg" alt="Aerial photograph of a forested marsh giving way to open water." caption="Coastal marsh at Chassahowitzka NWR, Florida. Photo by Joyce Kleen, USFWS." >}}
 
 > One collaborative science-based effort is the “Gulf Land Conservation Tool” project, also known as the “Strategic Conservation Assessment Framework” project. This three-year effort is being led by the Department through the RESTORE Council and the four LCCs in the Gulf Coast to develop a suite of tools that RESTORE Council members can use to identify and evaluate land conservation opportunities in the Gulf Coast region. Many of the existing land conservation plans are limited to a particular geographic or administrative boundary. The goal of project is to combine these previously existing plans into a set of decision-support tools that span the entire Gulf Coast. This set of tools and the subsequent analyses will provide RESTORE Council members information regarding land conservation actions that could provide the greatest benefit to current and future ecosystem sustainability and resilience within the states and across the Gulf. All RESTORE Council members will participate in the development of these tools, and the four Gulf LCCs will provide the science support for the project.
 
