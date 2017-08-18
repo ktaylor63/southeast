@@ -4,40 +4,46 @@ const moment = require('moment');
 const yaml = require('yamljs');
 const toTitleCase = require('titlecase');
 const chalk = require('chalk');
+
 const error = chalk.bold.red;
 
 // If you want to use something other than lastUpdate change this var
 const propertyName = 'updated';
-const contentDir = 'site/content/**/*.{md,html}';
 const dateFormat = 'MMMM Do, YYYY';
+
+function capitalizeTags(tags, title) {
+  if (!tags || tags === []) {
+    return console.log(error(`You must include at least one tag on ${title}`));
+  }
+  return tags.map(tag => toTitleCase(tag)).sort();
+}
 
 function updateFrontMatter(path, cb) {
   let fm;
   const regex = /^---[\s\S]*?---/;
   try {
     fm = matter.read(path);
-  } catch(err) {
+  } catch (err) {
     return console.log(error('Could not parse YAML: ', err));
   }
 
   fm.data[propertyName] = moment().format(dateFormat);
   fm.data.tags = capitalizeTags(fm.data.tags, fm.data.title);
 
-  const output = '---\n' + yaml.stringify(fm.data) + '---';
+  const output = `---\n${yaml.stringify(fm.data)}---`;
 
-  replace({
-    files: path,
-    from: regex,
-    to: output
-  }, (err, files) => {
-    if (err) return cb(err);
-    if (cb) cb();
-  });
-}
-
-function capitalizeTags(tags, title) {
-  if (!tags || tags === []) return console.log(error(`You must include at least one tag on ${title}`));
-  return tags.map(tag => toTitleCase(tag)).sort();
+  return replace(
+    {
+      files: path,
+      from: regex,
+      to: output,
+    },
+    err => {
+      if (err) return cb(err);
+      if (cb) return cb();
+      return false;
+    },
+  );
 }
 
 module.exports.update = updateFrontMatter;

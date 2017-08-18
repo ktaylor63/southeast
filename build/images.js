@@ -13,20 +13,37 @@ const path = require('path');
 
 const input = 'src/images/pages/';
 const output = 'dist/images/pages/';
-let images;
 
 function copy(done) {
   ncp('src/images/copy', 'dist/images/', done);
 }
 
-function build(done) {
-  rimraf(output + '*', function(err) {
-    if (err) return done(err);
+function getImageSize(filepath) {
+  const pathArray = path.dirname(filepath).split('/');
+  return parseInt(pathArray[pathArray.length - 1]);
+}
 
-    getDirectories(input, (err, directories) => {
-      if (err) return done(err);
-      async.each(directories, processImagesInDirectory, done);
+function minify(buffer, filename, done) {
+  imagemin
+    .buffer(buffer, {
+      plugins: [imageminMozjpeg(), imageminPngquant()]
+    })
+    .then(img => {
+      fs.writeFile(filename, img, 'utf8', err => {
+        if (err) console.error(err);
+        if (done) done();
+      });
     });
+}
+
+function processImage(filepath, size, done) {
+  const imgSize = typeof size !== 'number' ? size : getImageSize(filepath);
+  if (filepath.indexOf('.DS_Store') > -1) return;
+  const outfile = path.join(output, path.basename(filepath));
+  const img = sharp(filepath);
+  img.resize(imgSize).toBuffer((err, buffer) => {
+    if (err) console.error(err);
+    minify(buffer, outfile, done);
   });
 }
 
@@ -36,19 +53,17 @@ function processImagesInDirectory(size, cb) {
     if (err) return cb(err);
     // If there's a DS Store item, remove it
     const i = files.indexOf('.DS_Store');
-    if (i > -1) files.splice(i,1);
-    async.each(files, (name, done) => {
-      const filepath = path.join(input, size, name);
-      const sizeInt = parseInt(size);
-      processImage(filepath, sizeInt, done);
-    }, cb);
-  });
-}
-
-function getDirectories(input, cb) {
-  fs.readdir(input, (err, files) => {
-    if (err) return (err);
-    async.filter(files, filterDirectories, cb);
+    if (i > -1) files.splice(i, 1);
+    async.each(
+      files,
+      (name, done) => {
+        const filepath = path.join(input, size, name);
+        const sizeInt = parseInt(size);
+        processImage(filepath, sizeInt, done);
+      },
+      cb
+    );
+    return true;
   });
 }
 
@@ -60,47 +75,33 @@ function filterDirectories(file, done) {
   });
 }
 
-function processImage(filepath, size, done) {
-  if (filepath.indexOf('.DS_Store') > -1) return;
-  if (typeof size !== 'number') size = getImageSize(filepath);
-  const outfile = path.join( output, path.basename(filepath) );
-  const img = sharp(filepath);
-  img
-    .resize(size)
-    .toBuffer((err, buffer, info) => {
-      if (err) console.error(err);
-      minify(buffer, outfile, done);
-    });
-}
-
-function getImageSize(filepath) {
-  const pathArray = path.dirname(filepath).split('/');
-  return parseInt(pathArray[pathArray.length - 1]);
-}
-
-function minify(buffer, filename, done) {
-  imagemin.buffer(buffer, {
-    plugins: [
-      imageminMozjpeg(),
-      imageminPngquant()
-    ]
-  }).then(buffer => {
-    fs.writeFile(filename, buffer, 'utf8', (err) => {
-      if (err) console.error(err);
-      if (done) done();
-    });
+function getDirectories(inputDir, cb) {
+  fs.readdir(inputDir, (err, files) => {
+    if (err) return err;
+    return async.filter(files, filterDirectories, cb);
   });
 }
 
 function removeImage(filepath) {
-  const fileToDelete = path.join( output + path.basename(filepath) );
-  fs.access(fileToDelete, (err) => {
+  const fileToDelete = path.join(output + path.basename(filepath));
+  fs.access(fileToDelete, err => {
     if (err) console.error(err);
     else {
-      fs.unlink(fileToDelete, (err) => {
-        if (err) console.error(err);
+      fs.unlink(fileToDelete, unlinkErr => {
+        if (unlinkErr) console.error(unlinkErr);
       });
     }
+  });
+}
+
+function build(done) {
+  rimraf(`${output}*`, err => {
+    if (err) return done(err);
+
+    return getDirectories(input, (dirErr, directories) => {
+      if (dirErr) return done(dirErr);
+      return async.each(directories, processImagesInDirectory, done);
+    });
   });
 }
 
