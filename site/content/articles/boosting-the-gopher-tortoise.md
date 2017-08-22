@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 'Boosting the gopher tortoise'
 subtitle: 'Federal, state and private partners raise $150 million to help the much-loved keystone species flourish in the South'
 date: '2017-08-22'
@@ -60,7 +59,7 @@ Beyond their Yoda-like visage, though, the tortoise is much-loved -- and much-ne
 
 “The gopher tortoise, in and of itself, is one of the most amazing animals on the planet,” said Christopher Jenkins, CEO of the Georgia-based Orianne Society, which works to save reptiles, amphibians and the ecosystems in which they live. “By saving the tortoise you can make an argument that you’re saving the entire longleaf pine ecosystem and hundreds of other animals that depend on it.”
 
-Serious efforts to save the tortoise, and keep it off the endangered species list, began in 2008 with the signing of a voluntary “candidate conservation agreement” by Fish and Wildlife, the Pentagon, the U.S. Forest Service, state agencies and nonprofits. 
+Serious efforts to save the tortoise, and keep it off the endangered species list, began in 2008 with the signing of a voluntary [“candidate conservation agreement](/endangered-species-act/voluntary-conservation-tools/#candidate-conservation-agreement-cca-section)” by Fish and Wildlife, the Pentagon, the U.S. Forest Service, state agencies and nonprofits. 
 
 It was designated a candidate for listing three years later. The Gopher Tortoise Council -- yes, a species-specific working group of biologists and other turtle lovers -- began compiling criteria to keep the reptile from being listed. The state and federal scientists later registered 36 permanently protected gopher tortoise populations. Each population contains 250 adult tortoises.
 
