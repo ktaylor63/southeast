@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 'Longleaf pine for Georgians:'
 subtitle: 'Voluntary conservation through partnerships'
 author: 'Bill O’Brian, Writer-Editor for the National Wildlife Refuge System'
@@ -19,7 +18,7 @@ tags:
     - 'Longleaf Pine'
     - 'Partners for Fish and Wildlife Program'
     - Partnership
-updated: 'July 26th, 2017'
+updated: 'August 22nd, 2017'
 ---
 
 {{< youtube A6YmINq04WY >}}
@@ -102,7 +101,7 @@ Patricia McCarthy is a former science teacher and a timber woman who manages her
 
 ### Her philosophy
 
-> “The land becomes a member of the family. And just like if you had a member of the family that was older or could not speak for themselves, or couldn’t do for themselves, you would do for them. And that’s what you do for the land”
+> “The land becomes a member of the family. And just like if you had a member of the family that was older or could not speak for themselves, or couldn’t do for themselves, you would do for them. And that’s what you do for the land.”
 
 ## At-Risk Species
 
