@@ -15,10 +15,11 @@ tags:
     - Rivers
     - 'Shuford Mills Dam'
     - Tennessee
+    - Private John Allen National Fish Hatchery
 updated: 'April 20th, 2017'
 ---
 
-A day after the Fit for the Future of Conservation training workshop wrapped up, Ricky Campbell,  project leader for Private John Allen National Fish Hatchery, headed northeast from Chattanooga, [Tennessee](/tennessee), to just outside Brookford, [North Carolina](/north-carolina), where he and a team of U.S. Fish and Wildlife Service employees would begin to take down the Shuford Mills Dam.
+A day after the Fit for the Future of Conservation training workshop wrapped up, Ricky Campbell, project leader for Private John Allen National Fish Hatchery, headed northeast from Chattanooga, [Tennessee](/tennessee), to just outside Brookford, [North Carolina](/north-carolina), where he and a team of U.S. Fish and Wildlife Service employees would begin to take down the Shuford Mills Dam.
 
 This team was getting ready to put this new vision to work.  During the four-hour drive to Brookford, Campbell couldn’t quit thinking about the discussions triggered by the training around the vision, aligning our work for the future, and setting ourselves up to execute the work needed to make the vision real.  
 
