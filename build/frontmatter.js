@@ -36,13 +36,13 @@ function updateFrontMatter(path, cb) {
     {
       files: path,
       from: regex,
-      to: output,
+      to: output
     },
     err => {
       if (err) return cb(err);
       if (cb) return cb();
       return false;
-    },
+    }
   );
 }
 
