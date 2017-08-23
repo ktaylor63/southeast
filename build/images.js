@@ -37,7 +37,7 @@ function minify(buffer, filename, done) {
 }
 
 function processImage(filepath, size, done) {
-  const imgSize = typeof size !== 'number' ? size : getImageSize(filepath);
+  const imgSize = size || getImageSize(filepath);
   if (filepath.indexOf('.DS_Store') > -1) return;
   const outfile = path.join(output, path.basename(filepath));
   const img = sharp(filepath);
