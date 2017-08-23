@@ -130,7 +130,7 @@ number,status,fed_register
 25612A-1,Issued,Noticed for 30 days
 129703-5,Issued,Noticed for 30 days
 37652B-0,Abandoned,Noticed for 30 days
-117405-3,Awaiting signature,Noticed for 30 days
+117405-3,Issued,Noticed for 30 days
 37659B-0,Issued,N/A
 37530B-0,Abandoned,Noticed for 30 days
 132772-1,Issued,Noticed for 30 days
@@ -517,7 +517,7 @@ number,status,fed_register
 46054C-0,Awaiting Input from Applicant,needs to be drafted
 46056C-0,In RO for Review,needs to be drafted
 40523A-2,Issued,N/A
-46663C-0,Awaiting signature,N/A
+46663C-0,Issued,N/A
 46664C-0,Awaiting Input from Applicant,N/A
 94667A-1,In RO for Review,N/A
 47102C-0,In RO for Review,N/A
