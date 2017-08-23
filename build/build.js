@@ -39,11 +39,11 @@ async.parallel(
         if (err) cb(err);
         cb(null, 'Finished processing hero images.');
       });
-    },
+    }
   },
   (err, results) => {
     if (err) console.log(err);
     console.log(results);
     hugo.build(baseURL);
-  },
+  }
 );
