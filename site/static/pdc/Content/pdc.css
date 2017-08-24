@@ -1,0 +1,213 @@
+﻿a {
+    color:blue;
+}
+.noscript {
+    background-color:yellow;
+    color:black;
+}
+h3.pdcTitle {
+    width:550px;
+    margin:0 auto;
+    text-align:center;
+}
+#species img {
+    border-radius:4px;
+    border:1px solid #333;
+}
+.species-img-large {
+    float:left;
+    width:300px;
+    margin-right:10px;
+}
+.species-img-small {
+     float:left;
+     width:100px;
+     margin-right:20px;
+     cursor:pointer;
+}
+.species-desc {
+    margin:10px;
+}
+.error {
+    color:red;
+    font-weight:bold;
+}
+#panels > div {
+    display:none;
+}
+#panels div.visible {
+    display:block;
+}
+#ok {
+    display:none;
+}
+.center {
+    width:200px;
+    margin:0 auto;
+}
+/* Coordinate systems */
+#map-coordinates {
+    display:inline;
+}
+#systems > div, #mapSystems > div {
+    display:none;
+}
+#systems div.sysvisible, #mapSystems div.sysvisible {
+    display:block;
+}
+/* divs for floating left */
+.label {
+    float:left;
+    width:210px;
+}
+.label-short {
+    float:left;
+    width:100px;
+}
+.box-short {
+    float:left;
+    width:160px;
+}
+.box {
+    float:left;
+    width:200px;
+}
+#dms input, #mapDms input {
+    width:60px;
+}
+.parishColumn {
+    float:left;
+    width:220px;
+}
+/* Map, basemaps */
+#map {
+    position:relative;
+    height:600px;
+    border-radius:4px;
+    border:1px solid #333;
+}
+#map-controls {
+     float:left;
+     width:25%;
+     min-width:300px;
+     max-width:400px;
+}
+#map-controls.fieldset {
+    margin-right:8px;
+}
+.map-panels {
+    position:absolute;
+    background-color:white;
+    width:200px;
+    border:1px solid #333;
+    border-radius:4px;
+    padding:4px;
+    z-index:2000;
+}
+#map .title {
+    font-size:11pt;
+    font-weight:bold;
+}
+/* Styling for AOI checkboxes */
+#aois .item {
+    margin-top:10px;
+}
+#aois .aoi-color {
+    float:left;
+    border-radius:9px 4px;
+    border-bottom-right-radius:0;
+    height:10px;
+    width:10px;
+}
+#basemaps {
+    top:5px;
+    right:5px;
+    width:140px;
+}
+#mapButtons {
+    position:absolute;
+    top:10px;
+    left:55px;
+    z-index:2000;
+}
+/* Report information */
+#agency {
+    width:245px;
+}
+.agency-selected {
+    background-color:lightblue;
+    border:1px ridge #448;
+    border-radius:2px;
+    padding:1px 8px 1px 8px;
+}
+#poc, #address, #city {
+    width:240px;
+}
+/* Spinner and loading components */
+#waiting {
+    visibility:hidden;
+}
+#spinner {
+    border:5px solid #999;
+    border-top:5px solid #222;
+    border-radius:50%;
+    width:20px;
+    height:20px;
+    -moz-animation:spin 1s linear infinite;
+    -o-animation:spin 1s linear infinite;
+    -webkit-animation:spin 1s linear infinite;
+    animation:spin 1s linear infinite;
+}
+@-moz-keyframes spin {
+    0% {-moz-transform:rotate(0deg);}
+    100% {-moz-transform:rotate(360deg);}
+}
+@-o-keyframes spin {
+    0% {-o-transform:rotate(0deg);}
+    100% {-o-transform:rotate(360deg);}
+}
+@-webkit-keyframes spin {
+    0% {-webkit-transform:rotate(0deg);}
+    100% {-webkit-transform:rotate(360deg);}
+}
+@keyframes spin {
+    0% {transform:rotate(0deg);}
+    100% {transform:rotate(360deg);}
+}
+
+/* Adapt PDC panels to FWS Drupal site container */
+.pdc-content {
+    font-size:smaller;
+}
+.parishColumn {
+    font-size:11pt;
+    width:190px;
+}
+#map-controls {
+     font-size:9pt;
+}
+#map-instructions ul, #map-coordinates {
+    font-size:11pt;
+}
+ul li {
+    line-height:100%;
+}
+#aois .aoi-color {
+    width:20px;
+    height:20px;
+    border-width:3px;
+    margin-right:10px;
+}
+#aois .item input {
+    margin-right:10px;
+}
+select {
+    border:2px solid teal;
+}
+.pad-table td {
+    padding:2px;
+}
+.clearAndPad {
+    clear:both;
+    margin-bottom:3px;
+}
