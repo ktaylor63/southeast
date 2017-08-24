@@ -15,7 +15,7 @@ tags:
     - Eclipse
     - 'National Wildlife Refuge System'
     - 'South Carolina'
-updated: 'August 23rd, 2017'
+updated: 'August 24th, 2017'
 ---
 
 {{< figure class="photo-right" src="/images/pages/eclipse-crowd-cape-romain.jpg" alt="About a dozen refuge visitors look to the sky wearing protective glasses." caption="A contingent of state and federal employees were on hand to watch the eclipse make its last North American appearance at Cape Romain National Wildlife Refuge.  Photo by Mark Davis, USFWS.">}}
