@@ -2,6 +2,7 @@
 title: 'Director: Refuge ‘a natural treasure’'
 author: 'Mark Davis, Public Affairs Specialist'
 date: '2017-08-23'
+type: feature
 hero:
     name: cape-romain-greg-sheehan-cindy-dohner.jpg
     alt: 'A man and a woman stand in front of the welcome sign at a South Carolina refuge.'
