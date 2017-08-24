@@ -162,7 +162,7 @@
     "name": "Diadromous fish",
     "acronym": null,
     "description": "Fish that spend portions of their life cycles partially in fresh water and partially in salt water. This category covers both anadromous and catadromous fish.",
-    "related": ["Anadromous fish", "Catadromous fish", "Interjurisdictional fish"]
+    "related": ["Anadromous fish", "Catadromous fish"]
   },
   {
     "name": "Distinct Population Segment",
@@ -315,7 +315,7 @@
   {
     "name": "Interjurisdictional fish",
     "acronym": null,
-    "description": "Fish populations whose management and allocation of use are the collective responsibility of two or more states, tribes and/or other nations. The Gulf menhaden (Brevoortia patronus) is an example of an interjurisdictional fish species, as these fish range during their lifetimes from the Yucatan Peninsula in Mexico, across the western and northern Gulf to Tampa Bay, Florida.",
+    "description": "Fish populations whose management and allocation of use are the collective responsibility of two or more states, tribes and/or other nations. The Gulf menhaden (<em>Brevoortia patronus</em>) is an example of an interjurisdictional fish species, as these fish range during their lifetimes from the Yucatan Peninsula in Mexico, across the western and northern Gulf to Tampa Bay, Florida.",
     "related": []
   },
   {
