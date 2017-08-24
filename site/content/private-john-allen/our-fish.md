@@ -33,7 +33,7 @@ All of the paddlefish are tagged with coded wire tags. When and if the fish are 
 
 {{< figure class="photo-right" src="/images/pages/pvt-john-allen-lake-sturgeon.jpg" alt="A man in yellow rain gear and a personal floatation device holding a very large fish on a boat." caption="Fish biologist Daniel Schwarz holding lake sturgeon caught on the Tennessee River. Photo by USFWS." >}}
 
-In western Tennessee, the lake sturgeon populations have been reduced to less than 1% of their original numbers due to overfishing and habitat alteration. In 1998 the Tennessee Wildlife Resource Agency,  along with the U.S. Fish and Wildlife Service and other partner,s began a long-term restoration program to establish a self-sustaining population of lake sturgeon in Tennessee.  The partnership became known as the Tennessee Lake Sturgeon Working Group.  The Pvt. John Allen NFH plays an important role in rearing lake sturgeon that are hatched from Wisconsin and then distributed to multiple hatcheries until they reach stocking size.
+In western Tennessee, the lake sturgeon populations have been reduced to less than 1% of their original numbers due to overfishing and habitat alteration. In 1998 the Tennessee Wildlife Resource Agency,  along with the U.S. Fish and Wildlife Service (Service) and other partners, began a long-term restoration program to establish a self-sustaining population of lake sturgeon in Tennessee.  The partnership became known as the Tennessee Lake Sturgeon Working Group.  The Pvt. John Allen NFH plays an important role in rearing lake sturgeon that are hatched from Wisconsin and then distributed to multiple hatcheries until they reach stocking size.
 
 ## Alligator gar
 
@@ -46,6 +46,8 @@ The hatchery serves as the Service’s lead for restoring alligator gar througho
 {{< figure class="photo-right" src="/images/pages/pvt-john-allen-striped-bass.jpg" alt="Dozens of small grey and white fish with stripes along their sides." caption="Striped bass taken from hatchery ponds. Photo by Daniel Schwarz, USFWS." >}}
 
 This hatchery is a part of a major nations program to restore striped bass (also known as rockfish). This hatchery produces an average of 320,000 striped bass every year. Some of these striped bass are stocked when they have reached a length of two inches, others are kept for a longer period of time and fed a special diet until they grow to be about four to six inches, and then they are stocked in waters throughout the region.
+
+In 1987, Florida, Georgia, Alabama, and the U. S. Fish and Wildlife Service signed a cooperative agreement to restore striped bass in the Apalachicola-Chattahoochee-Flint (ACF) River basin.  The Service is responsible for the restoration of this species under the Gulf States Marine Fisheries compact and the Mississippi Interstate Cooperative Resource Agreement.  To assist in restoration of Gulf Coast striped bass to their historic range, the hatchery  stocks hatchery reared fish in the ACF river system.  Some of these striped bass are stocked when they have reached a length of two inches, others are kept for a longer period of time and fed a special diet until they grow to be about four to six inches, and then they are stocked throughout their historical range.
 
 ## Walleye
 
@@ -80,3 +82,5 @@ The Pearl Darter was once found in the Pearl and Pascagoula River drainages in M
 ## Mobile logperch
 
 The hatchery produces Mobile logperch because they are a host fish for the southern combshell, an endangered freshwater mussel. Freshwater mussels use the gills of host fish to attached their glochidia, baby mussels. These glochidia remain on the host fish until they transform into fully developed mussels. Once they transform they fall off the fish in the substrate below. The southern combshell is being cultured at the Alabama Aquatic Biodiversity Center in Marion, Alabama. Pvt. John Allen National Fish Hatchery hopes to produce enough Mobile logperch to supply the  center with all the host fish that they require to propagate the freshwater mussel.
+
+{{< figure class="photo-center" src="/images/pages/southern-combshell-with-bee-tag.jpg" alt="A net full of small brown mussels with a tiny yellow tag." caption="Southern combshells ready to be stocked in the Tombigbee River, MS. Photo by Daniel Schwarz, USFWS." >}}

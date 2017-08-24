@@ -2,6 +2,10 @@
 draft: true
 title: 'Frequently Asked Questions'
 description: 'Private John Allen National Fish Hatchery works to recover, restore and enhance threatened, endangered, at-risk and recreational fish populations in the Southeast.'
+hero:
+    name: pvt-john-allen-aquatic-survey.jpg
+    alt: 'Four biologists walk through a shallow stream bed in a forrest looking for fish.'
+    caption: 'Daniel Schwarz, Ryan Theel, Daniel Drennen and Andy Sanderson sampling White Oak Creek for Bayou darter. Photo by Matt Peay, USFWS.'
 tags:
     - 'Endangered Species Act'
     - 'Habitat Restoration'
@@ -16,7 +20,7 @@ updated: 'August 24th, 2017'
 
 ## Where can I purchase a fishing license?
 
-**The U.S. Fish & Wildlife Service does not issue fishing licenses.**
+**The U.S. Fish and Wildlife Service does not issue fishing licenses.**
 
 To review Mississippi fishing regulations and to purchase a license, please contact the Mississippi Department of Wildlife, Fisheries and Parks at 1-800-546-4868 or visit them online at mdwfp.com/wildlife-hunting.
 
