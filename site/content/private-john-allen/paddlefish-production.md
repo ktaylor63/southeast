@@ -40,7 +40,7 @@ Fertilization is completed by mixing the sperm with the eggs and then adding a s
 
 ## Hatching fry from eggs
 
-After seven days the paddlefish fry begin to hatch. The fry are not fully developed when they hatch. During this time are are absorbing nutrients from a yolk sac. The fry are shipped to multiple hatcheries before they need to feed from their mouth.  After a few days the paddlefish are fed plankton, brine shrimp and then transitioned to an artificial diet.  The remain at the hatchery for three months until they are large enough to be released in  the wild. They typically reach eight inches. The larger the paddlefish are,  the greater the chance the will survive in the wild.
+After seven days the paddlefish fry begin to hatch. The fry are not fully developed when they hatch. During this time are are absorbing nutrients from a yolk sac. The fry are shipped to multiple hatcheries before they need to feed from their mouth.  After a few days the paddlefish are fed plankton, brine shrimp and then transitioned to an artificial diet.  The remain at the hatchery for three months until they are large enough to be released in  the wild. They typically reach eight inches. The larger the paddlefish are,  the greater the chance they will survive in the wild.
 
 {{< figure class="photo-center" src="/images/pages/pvt-john-allen-paddlefish-fry.jpg" alt="Tiny fish swim around a small cooler lined with a plastic bag." caption="Paddlefish fry that hatched from the eggs. Photo by Heather Crosby, USFWS." >}}
 

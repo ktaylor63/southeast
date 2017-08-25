@@ -93,7 +93,7 @@ Warmwater fish stocked for recreational fishing such as largemouth bass, bluegil
 
 ## Service Area
 
-The hatchery sends fish as far west as Louisiana, as far east as Florida, and as far north as Illinois. Most of the projects our in the Southeast. Our habitat restoration teams works on projects throughout the entire country.
+The hatchery sends fish as far west as Louisiana, as far east as Florida, and as far north as Illinois. Most of the projects are in the Southeast. Our habitat restoration teams works on projects throughout the entire country.
 
 <iframe src="https://usfws.github.io/southeast-mega-map/?layers=Hatcheries&state=Mississippi&scroll=false" class="state-map"></iframe>
 
