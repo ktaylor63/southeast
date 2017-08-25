@@ -219,7 +219,7 @@ number,status,fed_register
 65550A-1,In FO for Review,N/A
 54578B-0,Issued,Noticed for 30 days
 35313B-2,Issued,Noticed for 30 days
-002412-6,Awaiting Input from Applicant,Noticed for 30 days
+002412-6,Issued,Noticed for 30 days
 54891B-0,Issued,Noticed for 30 days
 89785B-0,Issued,Noticed for 30 days
 096554-3,Issued,Noticed for 30 days
@@ -520,8 +520,8 @@ number,status,fed_register
 46663C-0,Issued,N/A
 46664C-0,Awaiting Input from Applicant,N/A
 94667A-1,In RO for Review,N/A
-47102C-0,In RO for Review,N/A
+47102C-0,Issued,N/A
 25343A-1,In RO for Review,needs to be drafted
-49959C-0,In RO for Review,N/A
-49960C-0,In RO for Review,N/A
+49959C-0,Issued,N/A
+49960C-0,Issued,N/A
 49964C-0,In RO for Review,N/A
