@@ -72,7 +72,7 @@
     "postcss": "^6.0.8",
     "postcss-cli": "^4.1.0",
     "recursive-readdir": "^2.2.1",
-    "replace-in-file": "^2.5.3",
+    "replace-in-file": "^2.6.2",
     "rimraf": "^2.6.0",
     "sharp": "^0.18.2",
     "string": "^3.3.3",
