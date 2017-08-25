@@ -124,6 +124,8 @@ Jeff Glitzenstein (Research Associate with Tall Timbers) worked with The Citadel
 
 Brandi Cannon, Masters Student with Columbia University, is researching the genetic variation of American chaffseed throughout its range.  [Listen to the In Defense of Plants podcast episode, Broomrapes: A celebration of an interesting family of parasitic plants](http://www.indefenseofplants.com/podcast/2016/10/2/ep-76-broomrapes-a-celebration-of-an-interesting-family-of-parasitic-plants).
 
+{{< youtube FEIA3kNAyhM >}}
+
 {{< figure class="photo-center" src="/images/pages/american-chaffseed-lynchburg-savanna-heritage-preserve.jpg" alt="Two men posing for a photo in a grassy field below a pine tree." caption="Lynchburg Savanna Heritage Preserve. Photo by USFWS." >}}
 
 The South Carolina Department of Natural Resources (SCDNR) [has worked hard](http://www.dnr.sc.gov/video/sept_video/septvideo_lynch.html) to restore the Lynchburg Savanna Heritage Preserve using prescribed fire as their management tool to help recover American chaffseed.  Johnny Stowe, Heritage Preserve Land Manager, left a small portion (left side of photo above) of the preserve unburned to demonstrate the important role fire plays in creating and maintaining Longleaf Pine Savannas.  Pictured above (l-r):  Aaron Robinson, intern, South Carolina Department of Natural Resources and Johnny Stowe, Heritage Preserve Manager, South Carolina Department of Natural Resources.
