@@ -260,19 +260,24 @@ $(document).on("change", "#noAOI", function () {
 });
 
 function toggleAOI(e) {
+    console.log(e);
+    console.log(1);
     var layer = e.target;
 
     // Toggle checkbox
     var id = e.target.feature.properties.ID;
 
     if (id) {
+        console.log(2);
         var chk = document.getElementById("aoi" + id);
         if (chk) {
+            console.log(3);
             if (chk.checked) {
                 document.getElementById("aoi" + id).checked = false;
-                
+                console.log(4);
             }
             else {
+                console.log(5);
                 document.getElementById("aoi" + id).checked = true;
 
                 document.getElementById("noAOI").checked = false;
@@ -280,6 +285,7 @@ function toggleAOI(e) {
             }
         }
     }
+    console.log(6);
 
     //toggleLayerColor(layer, id, e.target.options.color);
     toggleLayerOpacity(layer, id, e.target.options.fillOpacity);

@@ -555,7 +555,7 @@ tags:
         url: "https://nwrcwebapps.cr.usgs.gov/USFWS_PDC/api/",
 
         // path must point to directory that hosts the PDC HTML page
-        path: "/pdc/"
+        path: document.body.getAttribute('data-root') + "/pdc/"
     };
 
     // Highslide setup

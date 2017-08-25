@@ -1,7 +1,8 @@
 /* eslint-disable */
 ﻿"use strict";
 
-var baseurl = document.body.getAttribute('data-root');
+
+console.log(app);
 
 // Handles UI events (button clicks)
 
@@ -416,7 +417,7 @@ $(document).on("click", ".species-img-small", function () {
 
     if (info) {
         if (info.image) {
-            html += "<img src='" + baseurl + "Images/" + info.image + "' alt='" + info.name + "' class='species-img-large' />";
+            html += "<img src='" + app.path + "Images/" + info.image + "' alt='" + info.name + "' class='species-img-large' />";
         }
         if (info.desc) {
             html += "<div class='species-desc' style='margin:10px'><p>" + info.desc + "</p></div>";
@@ -490,8 +491,8 @@ app.ui = {
                     nextQuestionText = nextQuestionText.replace(
                         "fill material, etc.) on saline prairies (photo link)?",
                         "fill material, etc.) on saline prairies " +
-                        "(<a href='" + baseurl + "Images/SalinePrairie1.jpg' title='Click to view a saline prairie photo' onclick='return hs.expand(this);'>photo 1</a>, " +
-                        "<a href='" + baseurl + "Images/SalinePrairie2.jpg' title='Click to view a saline prairie photo' onclick='return hs.expand(this);'>photo 2</a>)?");
+                        "(<a href='" + app.path + "Images/SalinePrairie1.jpg' title='Click to view a saline prairie photo' onclick='return hs.expand(this);'>photo 1</a>, " +
+                        "<a href='" + app.path + "Images/SalinePrairie2.jpg' title='Click to view a saline prairie photo' onclick='return hs.expand(this);'>photo 2</a>)?");
                 }
             }
 
@@ -542,7 +543,7 @@ app.ui = {
                             html += "<div>";
 
                             if (info.image) {
-                                html += "<img id='img" + info.id + "' src='" + baseurl + "Images/" + info.image + "' alt='" + info.name + "' class='species-img-small' />";
+                                html += "<img id='img" + info.id + "' src='" + app.path + "Images/" + info.image + "' alt='" + info.name + "' class='species-img-small' />";
                             }
 
                             html += "<h4>" + info.name + "</h4></div><div>(Click image for more details)</div><div style='clear:both'></div><hr />";
@@ -562,7 +563,7 @@ app.ui = {
                             html += "<div>";
 
                             if (info.image) {
-                                html += "<img id='img" + info.id + "' src='" + baseurl + "Images/" + info.image + "' alt='" + info.name + "' class='species-img-small' />";
+                                html += "<img id='img" + info.id + "' src='" + app.path + "Images/" + info.image + "' alt='" + info.name + "' class='species-img-small' />";
                             }
 
                             html += "<h4>" + info.name + "</h4></div><div>(Click image for more details)</div><div style='clear:both'></div><hr />";
@@ -575,7 +576,7 @@ app.ui = {
                         var html = "<div>";
 
                         if (info.image) {
-                            html += "<img id='img" + info.id + "' src='" + baseurl + "Images/" + info.image + "' alt='" + info.name + "' class='species-img-small' />";
+                            html += "<img id='img" + info.id + "' src='" + app.path + "Images/" + info.image + "' alt='" + info.name + "' class='species-img-small' />";
                         }
 
                         html += "<h4>" + info.name + "</h4></div><div>(Click image for more details)</div><div style='clear:both'></div><hr />";
