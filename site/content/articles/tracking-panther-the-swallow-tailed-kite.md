@@ -2,6 +2,8 @@
 title: 'Tracking “Panther,” the swallow-tailed kite'
 author: 'Jess Sutt and Mark Danaher, Florida Panther National Wildlife Refuge'
 date: '2016-11-28'
+lat: 26.183236
+lng: -81.405587
 hero:
     name: swallow-tailed-kite.jpg
     alt: 'A bird on the wing with black feathers on its wings and white breast.'

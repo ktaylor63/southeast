@@ -1,6 +1,8 @@
 ---
 title: 'Dam going, nature returning'
 description: 'On Tuesday, March 28, a large yellow machine with a pile driver affixed to its arm clanked onto the concrete shoulder of lock and dam No. 6 on the Green River. Its operator lifted the driver, a slender length of steel ending in a point. He aimed it at a spot where workers had toiled to build a wall a century earlier.'
+lat: 37.206702
+lng: -86.261292
 author: 'Mark Davis, Public Affairs Specialist'
 type: feature
 hero:
@@ -15,10 +17,10 @@ tags:
     - 'Green River'
     - Kentucky
     - Rivers
-updated: 'April 20th, 2017'
+updated: 'August 28th, 2017'
 ---
 
-**BROWNSVILLE, Ky.** -- A project decades in the planning started with a bang – and that’s in the literal sense.
+**Brownsville, Kentucky** -- A project decades in the planning started with a bang – and that’s in the literal sense.
 
 On Tuesday, March 28, a large yellow machine with a pile driver affixed to its arm clanked onto the concrete shoulder of lock and dam No. 6 on the Green River. Its operator lifted the driver, a slender length of steel ending in a point. He aimed it at a spot where workers had toiled to build a wall a century earlier.
 
@@ -26,13 +28,7 @@ On Tuesday, March 28, a large yellow machine with a pile driver affixed to its a
 
 Thus did the first step in a project to restore the Green to its natural boundaries begin. It likely will continue for a couple of weeks until the dam is gone, the water flows freely again.
 
-<figure class="photo-center">
-  <video controls="" preload="metadata">
-    <source src="/video/green-river-dam-removal.mp4" type="video/mp4">
-    Sorry, your browser does not support HTML5 video.
-  </video>
-  <figcaption><a href="https://flic.kr/p/S4Jevu" target="_blank">Heavy machinery breaking down the concrete dam</a>. Video by Mark Davis, USFWS.</figcaption>
-</figure>
+{{< video name="green-river-dam-removal.mp4" caption="Heavy machinery breaking down the concrete dam Video by Mark Davis, USFWS." link="https://flic.kr/p/S4Jevu" >}}
 
 The U.S. Fish and Wildlife Service (the Service) is conducting the demolition. The U.S. Army Corps of Engineers, which oversees the structure, is assisting.
 

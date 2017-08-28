@@ -1,6 +1,8 @@
 ---
 title: 'New rain garden and outdoor classroom at Wolf Creek'
 author: 'Ashley Buffington, Wolf Creek National Fish Hatchery'
+lat: 36.872826
+lng: -85.144928
 date: '2017-08-01'
 hero:
     name: wolf-creek-rain-garden.jpg

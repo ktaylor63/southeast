@@ -2,6 +2,8 @@
 title: 'Life in Proctor Creek'
 description: 'There’s a stillness that only nature can provide, and the flowing stream is a peaceful break from the sounds of city life. “We’re here to show folks that there’s life in Proctor Creek. That even in urban settings there is nature and wildlife that needs protecting,” Johnson said.'
 author: 'Katherine Taylor, Digital Content Specialist'
+lat: 33.794751
+lng: -84.4753
 date: '2017-08-09'
 tags:
     - Atlanta
@@ -18,7 +20,7 @@ hero:
     alt: 'A rocky stream bed covered by a canopy of trees.'
     caption: 'Rocks and boulders line the bottom and banks of this stretch of proctor creek. Photo by Katherine Taylor, USFWS.'
     position: 'bottom center'
-updated: 'August 9th, 2017'
+updated: 'August 28th, 2017'
 ---
 
 {{< youtube Ar1Wvso2Dqo>}}

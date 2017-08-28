@@ -2,6 +2,8 @@
 title: 'Florida couple dedicates property to conservation'
 author: 'Joseph Prenger, Florida state coordinator, Partners for Fish and Wildlife Program and Jo Anna Emanuel, Partners for Fish and Wildlife biologist'
 date: '2017-07-20'
+lat: 29.684056
+lng: -81.749115
 type: 'Bragging Rights'
 hero:
     name: gopher-tortoise-putnam-county-florida.jpg
@@ -17,12 +19,12 @@ tags:
     - Florida
     - 'Gopher Tortoise'
     - 'Longleaf Pine'
-    - Panama City
+    - 'Panama City'
     - 'Partners for Fish and Wildlife Program'
     - 'Prescribed Fire'
     - 'Shermans Fox Squirrel'
     - 'Spotted Turtle'
-updated: 'July 20th, 2017'
+updated: 'August 28th, 2017'
 ---
 
 Ben and LouAnn Williams own approximately 3,400 acres of pinelands interspersed with bottomland hardwoods in Putnam County, [Florida](/florida), between Jacksonville and Daytona Beach. Their property contributes to conservation on a regional scale because it is adjacent to publicly owned conservation areas, creating an important link in a chain of conservation lands from central Florida to the Georgia state line.
@@ -33,7 +35,7 @@ In 2012, the Williams’ began establishing longleaf pine on their property and 
 
 The U.S. Fish and Wildlife Service’s (Service) [Partners for Fish and Wildlife Program](/our-services/partners-program/) (PFW) helped the Williams’ to expand and enhance their restoration efforts and improve habitat conditions for gopher tortoises and eastern indigo snakes, as well as the state-listed Sherman's fox squirrel.  The cooperative agreement through PFW provided funding for hardwood removal and herbicide treatments that opened up the canopy and allowed native ground cover to be established. 
 
-{{< figure class="photo-right" src="/images/pages/sandhill-after-restoration.jpg" alt="Pine trees growing taller than the underbrush." caption="Sandhill after restoration efforts. Photo by Ben Williams." >}}
+{{< figure class="photo-center" src="/images/pages/sandhill-after-restoration.jpg" alt="Pine trees growing taller than the underbrush." caption="Sandhill after restoration efforts. Photo by Ben Williams." >}}
 
 Some of the larger diameter oaks were spared from timber harvesting and chipping to provide a source of mast for wildlife and to enhance vegetation structure.  Where oaks were removed, herbicide treatment of re-sprouting hardwoods and some mechanical manipulation has established a native grassland, forb-friendly environment. They decided to manage existing slash pines planted by the previous landowner until they reach marketable age prior to thinning. Already, however, the more open canopy and greater light levels are benefitting the many herbaceous species.  Re-establishment of a fire regime is now further enhancing the ground cover diversity.
 

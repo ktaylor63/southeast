@@ -1,6 +1,8 @@
 ---
 title: 'In search of the Bear Necessities'
 subtitle: 'At Alligator River National Wildlife Refuge, families hunt black bears with their cameras'
+lat: 35.817767
+lng: -75.888137
 author: 'Phil Kloer, Public Affairs Specialist'
 type: feature
 date: '2017-07-05'
@@ -15,10 +17,10 @@ hero:
     alt: 'Two children with a camera peer out of the moon roof of a red truck.'
     caption: 'When a bear is spotted in a field, the caravan stops and Jack and Gretchen Boggs are among those taking pictures of the wild animal. Photo by Phil Kloer, USFWS.'
     position: 'top center'
-updated: 'July 5th, 2017'
+updated: 'August 28th, 2017'
 ---
 
-**Dare County, NC** - The caravan of cars crunches slowly, single-file, down a narrow gravel road that leads deeper into Alligator River National Wildlife Refuge in North Carolina. Herons alongside the road stare at the passing cars, and the passengers stare back at the herons. Overhead a gliding hawk catches air drafts. 
+**Dare County, North Carolina** - The caravan of cars crunches slowly, single-file, down a narrow gravel road that leads deeper into Alligator River National Wildlife Refuge in North Carolina. Herons alongside the road stare at the passing cars, and the passengers stare back at the herons. Overhead a gliding hawk catches air drafts. 
 
 Herons and hawks are all well and good. But we are here for bears. Black bears. 
 

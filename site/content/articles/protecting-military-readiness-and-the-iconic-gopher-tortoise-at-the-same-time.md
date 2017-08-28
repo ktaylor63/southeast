@@ -2,6 +2,8 @@
 title: 'Protecting military readiness and the iconic gopher tortoise at the same time'
 subtitle: 'Credit Strategy Looks to Add More Outdoor Recreation Opportunities'
 date: '2017-03-24'
+lat: 31.474270
+lng: -83.530768
 type: feature
 author: 'Dan Chapman, Public Affairs Specialist'
 hero:
@@ -22,7 +24,7 @@ tags:
 updated: 'April 4th, 2017'
 ---
 
-**Tifton, Ga.** – There isn’t a military base for 50 miles, but the Army plays a critical role at the Alapaha River Wildlife Management Area.
+**Tifton, Georgia** – There isn’t a military base for 50 miles, but the Army plays a critical role at the Alapaha River Wildlife Management Area.
 
 A first-in-the-nation [conservation plan](/pdf/strategy/gopher-tortoise-conservation-and-crediting-strategy-department-of-defense.pdf), crafted by the U.S. Department of Defense, U.S. Fish and Wildlife Service (Service) and wildlife agencies in Alabama, Florida, Georgia and South Carolina, protects at-risk gopher tortoises here while helping military bases to continue training and testing missions across the tortoise’s Southern turf.
 

@@ -2,6 +2,8 @@
 title: '20th annual Kids’ Fishing Rodeo is a success'
 author: 'Andrew Currie, Dale Hollow National Fish Hatchery'
 date: '2017-07-19'
+lat: 36.541538
+lng: -85.460523
 hero:
     name: dale-hollow-kiddy-pool.jpg
     alt: 'Two young children fishing in a kiddie pool.'
@@ -17,7 +19,7 @@ tags:
     - 'Rainbow Trout'
     - Tennessee
 type: 'Bragging Rights'
-updated: 'July 20th, 2017'
+updated: 'August 28th, 2017'
 ---
 
 On the morning of June 10, a total of 2,000 nine-inch rainbow and 10 large display rainbow trout and brook trout were released in the creek below the Dale Hollow National Fish Hatchery in Tennessee for the 10th annual Kids’ Fishing Rodeo. 

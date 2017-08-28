@@ -3,6 +3,8 @@ title: 'Saving an endangered southern river'
 date: '2017-03-22'
 author: 'Dan Chapman, Public Affairs Specialist'
 type: feature
+lat: 34.976431
+lng: -84.783110
 hero:
     name: conasauga-river-canopy.jpg
     alt: 'Mature trees form a canopy shading the river from the sun.'
@@ -17,7 +19,7 @@ tags:
 updated: 'March 22nd, 2017'
 ---
 
-**Crandall, Ga.** – The Conasauga River courses through Jimmy Petty’s corn, bean and dairy farm near the Tennessee line.
+**Crandall, Georgia** – The Conasauga River courses through Jimmy Petty’s corn, bean and dairy farm near the Tennessee line.
 
 {{< figure class="photo-right" src="/images/pages/conasauga-river-jimmy-petty.jpg" alt="A map of the Conasauga River in north Georgia" caption="The Conasauga River flows through Jimmy Petty's farm near Crandall, Ga. Photo by Dan Chapman, USFWS." link="https://flic.kr/p/RTuDYL" >}}
 

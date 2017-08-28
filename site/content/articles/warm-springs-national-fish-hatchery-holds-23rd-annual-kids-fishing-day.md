@@ -1,6 +1,8 @@
 ---
 title: 'Warm Springs National Fish Hatchery holds 23rd annual kid’s fishing day'
 date: '2017-07-27'
+lat: 32.884660
+lng: -84.673201
 author: 'Alexander Londono, Warm Springs National Fish Hatchery'
 tags:
     - 'Bragging Rights'

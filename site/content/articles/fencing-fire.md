@@ -5,6 +5,8 @@ subtitle: 'Service combats West Mims blaze'
 type: feature
 author: 'Mark Davis, Public Affairs Specialist'
 date: '2017-05-02'
+lat: 30.687898
+lng: -82.316126
 tags:
     - Florida
     - Georgia
@@ -16,10 +18,10 @@ hero:
     alt: 'A firefighter in protective gear marches through the brush of a pine forest.'
     caption: 'Firefighter in the brush at Okefenokee NWR. Photo by Mark Davis, USFWS.'
     link: 'https://flic.kr/p/TNvdYJ'
-updated: 'May 2nd, 2017'
+updated: 'August 28th, 2017'
 ---
 
-**FARGO, Ga.** -- Smoke rose, a boiling, black reminder that fire stalked the hammocks and islands. It had consumed thousands of acres, and was just getting started.
+**Fargo, Georgia** -- Smoke rose, a boiling, black reminder that fire stalked the hammocks and islands. It had consumed thousands of acres, and was just getting started.
 
 Before it’s finished, the [West Mims fire](/tags/west-mims-fire) will have burned a lot more.
 

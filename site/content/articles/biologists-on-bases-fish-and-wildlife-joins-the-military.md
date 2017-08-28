@@ -1,6 +1,8 @@
 ---
 title: 'Biologists on bases: Fish and Wildlife joins the military'
 description: 'Melanie Kaeser is embedded with the military at Tyndall Air Force Base. She patrols the pine forests and swampy wetlands as F-16s and F-22s maneuver overhead. Her mission: protect those in harm’s way - the gopher tortoises, the St. Andrews Beach mice and the Godfrey’s butterworts.'
+lat: 30.052518
+lng: -85.556931
 date: '2017-04-26'
 author: 'Dan Chapman, Public Affairs Specialist'
 type: feature
@@ -30,10 +32,10 @@ tags:
     - 'Slash Pine'
     - 'St Andrews Beach Mouse'
     - 'US Air Force'
-updated: 'April 28th, 2017'
+updated: 'August 28th, 2017'
 ---
 
-**Panama City, Fla.** -- Melanie Kaeser is embedded with the military at Tyndall Air Force Base. She patrols the pine forests and swampy wetlands as F-16s and F-22s maneuver overhead.
+**Panama City, Florida** -- Melanie Kaeser is embedded with the military at Tyndall Air Force Base. She patrols the pine forests and swampy wetlands as F-16s and F-22s maneuver overhead.
 
 {{< figure class="photo-center" src="/images/pages/tyndall-air-force-base-melanie-kaesor-longleaf-pine.jpg" alt="Service employee crouches next to a longleaf pine seedling." caption="Melanie Kaesor, USFWS ecologist at Tyndall Air Force Base, cradles a young longleaf pine. Photo by USFWS." >}}
 

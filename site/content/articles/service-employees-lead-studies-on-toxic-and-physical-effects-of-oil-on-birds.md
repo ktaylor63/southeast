@@ -2,6 +2,8 @@
 title: 'Service employees lead studies on toxic and physical effects of oil on birds'
 description: 'The USFWS led efforts to assess the injury to bird species caused by the 2010 Deepwater Horizon oil spill in the Gulf of Mexico.'
 author: 'Nanciann Regalado, Natural Resource Damage Assessment'
+lat: 30.530582
+lng: -87.886828
 date: '2016-08-03'
 hero:
     name: biologists-document-dwh-dead-gull-in-gulfport-ms.jpg

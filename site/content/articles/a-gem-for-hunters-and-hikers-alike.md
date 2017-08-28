@@ -1,5 +1,7 @@
 ---
 title: 'A gem for hunters and hikers alike'
+lat: 31.305888
+lng: -81.488152
 author: 'Dan Chapman, Public Affairs Specialist'
 js: /js/preserving-paradise.js
 date: '2017-07-12'
@@ -27,7 +29,7 @@ hero:
     position: 'bottom center'
 series:
     - 'Conserving Paradise'
-updated: 'July 13th, 2017'
+updated: 'August 28th, 2017'
 ---
 
 **Brunswick, Georgia** -- Altama Plantation is perhaps the most critical, and intriguing, piece of property along the entire Altamaha River corridor.

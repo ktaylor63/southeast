@@ -1,6 +1,8 @@
 ---
 title: 'Pocosins restoration partnerships lead to big carbon offset gains'
 description: 'Pocosins, a special type of wetland found in North Carolina, help to capture carbon and mitigate the impacts of climate change.'
+lat: 35.908852
+lng: -76.253098
 tags:
     - 'North Carolina'
     - 'Climate Change'
@@ -8,6 +10,7 @@ tags:
     - Carbon
     - Wetland
     - 'National Wildlife Refuge System'
+    - Pocosin Lakes National Wildlife Refuge
 hero:
     link: 'https://flic.kr/p/cu31wQ'
     caption: 'A healthy pocosin wetland. Photo by Sale Suiter, USFWS.'

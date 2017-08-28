@@ -1,5 +1,5 @@
 ---
-title: 'Longleaf pine for Georgians:'
+title: 'Longleaf pine for Georgians'
 subtitle: 'Voluntary conservation through partnerships'
 author: 'Bill O’Brian, Writer-Editor for the National Wildlife Refuge System'
 date: '2017-08-22'
@@ -18,7 +18,7 @@ tags:
     - 'Longleaf Pine'
     - 'Partners for Fish and Wildlife Program'
     - Partnership
-updated: 'August 22nd, 2017'
+updated: 'August 28th, 2017'
 ---
 
 {{< youtube A6YmINq04WY >}}

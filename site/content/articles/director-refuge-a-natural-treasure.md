@@ -2,6 +2,8 @@
 title: 'Director: Refuge ‘a natural treasure’'
 author: 'Mark Davis, Public Affairs Specialist'
 date: '2017-08-23'
+lat: 32.97469
+lng: -79.66832
 type: feature
 hero:
     name: cape-romain-greg-sheehan-cindy-dohner.jpg
@@ -14,7 +16,7 @@ tags:
     - 'National Wildlife Refuge System'
     - 'Sea Level Rise'
     - 'South Carolina'
-updated: 'August 24th, 2017'
+updated: 'August 28th, 2017'
 ---
 
 **Cape Romain National Wildlife Refuge, South Carolina** – Ask Greg Sheehan what he thinks about the nation’s wildlife refuges and be prepared to wait for his response.

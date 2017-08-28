@@ -1,6 +1,8 @@
 ---
 title: 'Oil spill funds help protect shorebird nesting and improve monarch butterfly habitat'
 author: 'Nanciann Regaldo, Gulf Restoration Team'
+lat: 30.243596
+lng: -87.815493
 hero:
     name: bon-secour-nwr-dunes.jpg
     alt: 'Vegetation grows out of sand dunes at the beach.'

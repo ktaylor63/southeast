@@ -1,6 +1,6 @@
 ---
 title: 'Cecil, Campbell, and the Southeast Region’s vision'
-author: 'Jeffrey Fleming, External Affairs'
+author: 'Jeffrey Fleming, Assistant Regional Director of External Affairs'
 date: '2016-08-22'
 hero:
     name: rick-campbell-heavy-machinery.jpg
@@ -12,11 +12,11 @@ tags:
     - 'Dam Removal'
     - 'Fit for the Future'
     - 'North Carolina'
+    - 'Private John Allen National Fish Hatchery'
     - Rivers
     - 'Shuford Mills Dam'
     - Tennessee
-    - Private John Allen National Fish Hatchery
-updated: 'April 20th, 2017'
+updated: 'August 28th, 2017'
 ---
 
 A day after the Fit for the Future of Conservation training workshop wrapped up, Ricky Campbell, project leader for Private John Allen National Fish Hatchery, headed northeast from Chattanooga, [Tennessee](/tennessee), to just outside Brookford, [North Carolina](/north-carolina), where he and a team of U.S. Fish and Wildlife Service employees would begin to take down the Shuford Mills Dam.

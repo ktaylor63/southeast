@@ -1,6 +1,8 @@
 ---
 title: 'Burning for the birds at Piedmont National Wildlife Refuge'
 description: 'Over a decade of prescribed fire management on a Georgia national wildlife refuge yields big benefits for the protected red-cockaded woodpecker.'
+lat: 33.095588
+lng: -83.70772
 hero:
     link: 'https://flic.kr/p/ciG2q3'
     caption: 'A red-cockaded woodpecker has dinner outside its nesting cavity. Photo by USFWS.'
@@ -10,12 +12,12 @@ hero:
 tags:
     - Georgia
     - 'National Wildlife Refuge System'
-    - Piedmont
+    - 'Piedmont National Wildlife Refuge'
     - 'Prescribed Fire'
     - 'Red-Cockaded Woodpecker'
 date: '2014-03-21'
 author: 'Josh OConnor, regional fuels specialist'
-updated: 'May 24th, 2017'
+updated: 'August 28th, 2017'
 ---
 
 ## Over a decade of prescribed fire management yields big benefits for the red-cockaded woodpecker

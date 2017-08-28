@@ -1,6 +1,8 @@
 ---
 title: 'A harmonious future for profits, pine and at-risk species along the Florida-Alabama line'
 author: 'Dan Chapman, Public Affairs Specialist'
+lat: 30.598771
+lng: -87.163919
 date: '2017-05-09'
 type: feature
 tags:
@@ -11,19 +13,19 @@ tags:
     - Florida
     - 'Gopher Tortoise'
     - 'Longleaf Pine'
+    - 'Panama City'
     - Partnership
     - 'Red-Cockaded Woodpecker'
-    - Southeast Conservation Adaptation Strategy
-    - Panama City
+    - 'Southeast Conservation Adaptation Strategy'
 hero:
     name: coastal-headwaters-longleaf.jpg
     alt: 'Wiry pine trees sparsley dot a sandy landscape.'
     caption: 'A field of young longleaf pine at the Coastal Headwaters Forest. Photo by Dan Chapman, USFWS.'
     position: 'top center'
-updated: 'May 11th, 2017'
+updated: 'August 28th, 2017'
 ---
 
-**Pace, Fla.** &mdash; Longleaf pine forests once covered 90 million acres from Virginia to Texas, a bio-diverse swath of timber prized by shipbuilders and gopher tortoises alike.
+**Pace, Florida** &mdash; Longleaf pine forests once covered 90 million acres from Virginia to Texas, a bio-diverse swath of timber prized by shipbuilders and gopher tortoises alike.
 
 Sprawling cities, large farms and commercial pine plantations, though, replaced much of the longleaf habitat. Today, less than five million acres remain. Conservationists’ goal of eight million acres by 2025 seemed laughable.
 

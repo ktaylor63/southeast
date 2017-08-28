@@ -1,6 +1,8 @@
 ---
 title: 'Refuge staff partners with sportsmen’s group on Earth Day 2017'
 author: 'Steve Henry, Arthur R. Marshall Loxahatchee National Wildlife Refuge'
+lat: 26.502832
+lng: -80.218481
 type: 'Bragging Rights'
 date: '2017-06-05'
 hero:

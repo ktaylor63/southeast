@@ -2,6 +2,8 @@
 title: 'Many partners work together to protect “the Amazon of the South” for generations to come'
 description: 'It meanders 137 miles through the wild heart of Georgia, a blackwater beauty that nourishes longleaf pine forests, cypress swamps, saltwater estuaries and the barrier islands that protect the Atlantic coast and migratory birds alike.'
 js: /js/preserving-paradise.js
+lat: 31.366004
+lng: -81.433429
 author: 'Dan Chapman, Public Affairs Specialist'
 date: '2017-07-12'
 type: feature
@@ -40,7 +42,7 @@ tags:
     - 'Wolf Island National Wildlife Refuge'
 series:
     - 'Conserving Paradise'
-updated: 'July 13th, 2017'
+updated: 'August 28th, 2017'
 ---
 
 {{< youtube wVfDpNAR4XU >}}

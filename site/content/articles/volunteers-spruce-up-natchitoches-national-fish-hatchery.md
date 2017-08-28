@@ -2,6 +2,8 @@
 title: 'Volunteers spruce up Natchitoches National Fish Hatchery'
 author: 'Vannesa Ortiz, Natchitoches National Fish Hatchery'
 date: '2017-05-03'
+lat: 31.739161
+lng: -93.081119
 type: 'Friends and Volunteers'
 tags:
     - E-Grits

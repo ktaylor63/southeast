@@ -22,8 +22,7 @@ Many people were upset as they watched the unfolding devastation of wildlife and
 
 “The spill highlighted our need to do a better job monitoring,” Wilson says. “It was the impetus for us to come together as a group.”
 
-Approximately 20 conservation professionals began to address the situation in November 2013. The group, now known as the Gulf of Mexico Avian Monitoring Network (GOMAMN), has grown
-to include more than 100 individuals from state and federal agencies, nongovernmental organizations, academic institutions and partnerships. Wilson and Gleason lead the network’s coordination committee.
+Approximately 20 conservation professionals began to address the situation in November 2013. The group, now known as the Gulf of Mexico Avian Monitoring Network (GOMAMN), has grown to include more than 100 individuals from state and federal agencies, nongovernmental organizations, academic institutions and partnerships. Wilson and Gleason lead the network’s coordination committee.
 
 GOMAMN provides a forum for conservation partners to collaboratively identify gaps in data, share information, advance standardization, and combine resources and expertise. The common goal is a comprehensive, coordinated, integrated, scientifically rigorous Gulf-wide bird monitoring program. Without such a monitoring program, it is difficult to gauge the effectiveness of management and restoration efforts.
 

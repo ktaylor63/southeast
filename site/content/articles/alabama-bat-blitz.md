@@ -1,6 +1,8 @@
 ---
 title: 'They come out at night'
 subtitle: 'Alabama bat count draws biologists, enthusiasts'
+lat: 33.542183
+lng: -86.705836
 type: feature
 description: 'The 2017 blitz, like those that preceded it, attempted to spread a little bat understanding – and, perhaps, some bat love. Bat experts invited the public to spend a few moments regarding a creature that’s suffered from a PR problem. Most folks just don’t understand bats, or what they do.'
 author: 'Mark Davis, Public Affairs Specialist'
@@ -15,12 +17,12 @@ tags:
     - Bats
     - 'Big Brown Bat'
     - 'White-Nose Syndrome'
-updated: 'August 14th, 2017'
+updated: 'August 28th, 2017'
 ---
 
 {{< youtube IF_Sexib8S0 >}}
 
-**IRONDALE, Alabama** – Was she pregnant? She wasn’t cooperating, so it was hard to tell.
+**Irondale, Alabama** – Was she pregnant? She wasn’t cooperating, so it was hard to tell.
 
 Researchers turned illuminated headgear to a struggling big brown bat, snagged moments earlier in a nearly invisible net.
 

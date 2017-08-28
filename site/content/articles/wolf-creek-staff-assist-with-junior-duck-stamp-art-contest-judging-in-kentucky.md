@@ -2,6 +2,8 @@
 title: 'Wolf Creek staff assist with Junior Duck Stamp Art contest judging in Kentucky'
 author: 'Ashley Buffington, Wolf Creek National Fish Hatchery'
 date: '2017-07-20'
+lat: 38.177146
+lng: -84.923285
 hero:
     name: junior-duck-stamp-wolf-creek.jpg
     alt: 'Jundges pose for a photo with the winning art.'

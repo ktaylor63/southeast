@@ -1,6 +1,8 @@
 ---
 title: 'Barrens topminnow population gets a boost'
 author: 'Sheila Kirk, Wolf Creek National Fish Hatchery'
+lat: 36.872782
+lng: -85.144889
 date: '2017-07-20'
 hero:
     name: barrens-topminnow-grow-tank.jpg
@@ -16,7 +18,7 @@ tags:
     - Kentucky
     - 'Wolf Creek National Fish Hatchery'
 type: 'Bragging Rights'
-updated: 'July 24th, 2017'
+updated: 'August 28th, 2017'
 ---
 
 This spring, Wolf Creek National Fish Hatchery staff members transferred 74 adult Barrens topminnows to personnel from Conservation Fisheries, Inc. (CFI) out of Knoxville, Tennessee.  CFI staff then transported these fish to Coffee County in middle Tennessee to supplement one of the few remaining stable populations.  The Barrens topminnow is an imperiled fish endemic to the Barrens region of the state, and populations exist in only a few sites in the Elk River and Caney Fork systems. 

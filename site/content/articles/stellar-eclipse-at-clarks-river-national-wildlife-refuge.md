@@ -2,6 +2,8 @@
 title: 'Stellar eclipse at Clarks River National Wildlife Refuge'
 author: 'Stacey Hayden, Clarks River National Wildlife Refuge'
 date: '2017-08-24'
+lat: 36.879614
+lng: -88.344603
 hero:
     name: eclipse-corona-clarks-river-nwr.jpg
     alt: 'The sun begins to emerge from behind the moon during a solar eclipse.'

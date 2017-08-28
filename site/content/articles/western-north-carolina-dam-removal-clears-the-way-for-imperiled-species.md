@@ -1,6 +1,8 @@
 ---
 title: 'Western North Carolina dam removal clears the way for imperiled species'
 date: '2010-01-25'
+lat: 35.366626
+lng: -83.249995
 hero:
     name: dillsboro-dam.jpg
     alt: 'A piece of heavy machinery deconstructs a small dam.'

@@ -2,6 +2,8 @@
 title: 'Service partners with Zeta Phi Beta'
 author: 'David Vela, Loxahatchee National Wildlife Refuge'
 date: '2017-06-12'
+lat: 26.499630
+lng: -80.212220
 type: 'Bragging Rights'
 hero:
     name: zeta-phi-beta-usfws.jpg

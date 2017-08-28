@@ -2,6 +2,8 @@
 title: 'Local landowner fights for the Altamaha'
 author: 'Dan Chapman, Public Affairs Specialist'
 js: /js/preserving-paradise.js
+lat: 31.61161
+lng: -81.777325
 date: '2017-07-12'
 tags:
     - 'Altamaha River'
@@ -21,7 +23,7 @@ hero:
     alt: 'A gentlman with gray hair poses for the camera with a smile and his arms crossed.'
     caption: 'Mr. Dink NeSmith has a special relationship with the Altamaha River. Photo by Nicole Vidal, USFWS.'
     position: 'top center'
-updated: 'July 12th, 2017'
+updated: 'August 28th, 2017'
 ---
 
 **Jesup, Georgia** -- “Well now, welcome to the swamp.”

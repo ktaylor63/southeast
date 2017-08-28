@@ -1,5 +1,7 @@
 ---
 title: 'Restoring Lake Mattamuskeet'
+lat: 35.492282
+lng: -76.193653
 type: feature
 subtitle: 'In North Carolina, a local family sees the refuge as a legacy to be handed down, and joins the partnership to help the lake'
 author: 'Phil Kloer, Public Affairs Specialist'

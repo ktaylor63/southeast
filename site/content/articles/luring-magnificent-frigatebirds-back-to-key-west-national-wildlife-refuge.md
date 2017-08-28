@@ -1,6 +1,8 @@
 ---
 title: 'Luring magnificent frigatebirds back to Key West National Wildlife Refuge'
 author: 'Trevor Watts, Florida Keys National Wildlife Refuge Complex'
+lat: 24.571408
+lng: -81.960818
 description: 'While thousands of non-breeding magnificent frigatebirds can be found across the coastlines of Florida and the Caribbean during many months of the year, there is now only one known breeding frigatebird colony in North America.'
 date: '2016-04-03'
 hero:
@@ -9,13 +11,13 @@ hero:
     caption: 'Magnificent frigatebird. Photo by <a href=\"https://www.flickr.com/photos/floridabirds/\" target=\"_blank\">Mark Vance</a> <a href=\"https://creativecommons.org/licenses/by-nc/2.0/\" target=\"_blank\">CC BY-NC 2.0</a>.'
     link: 'https://flic.kr/p/aiwmpv'
 tags:
+    - E-Grits
     - Florida
     - 'Key West National Wildlife Refuge'
     - 'Magnificent Frigatebird'
     - 'National Wildlife Refuge System'
-    - E-Grits
 type: 'Feature Story'
-updated: 'April 20th, 2017'
+updated: 'August 28th, 2017'
 ---
 
 Magnificent frigatebirds are magnificent in many ways. The wingspan of these birds reaches more than seven feet, and has the largest wingspan-to-body weight ratio of any bird in the world.  They also are one of the only seabirds in the world that is unable to get wet, as they lack sufficient oil glands to maintain waterproofing of their feathers.  Because of this trait, magnificent frigatebirds are kleptoparasites, also known as pirates in the animal kingdom, stealing food from other seabirds. These birds will often exhaust other seabirds in-flight until they regurgitate their most recent meal, which the frigatebirds will willingly take.

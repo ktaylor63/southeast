@@ -3,6 +3,8 @@ title: 'Endangered snail not only survives forest fire, but is now found in plac
 date: '2017-07-05'
 author: 'Gary Peeples, Asheville Ecological Services Field Office'
 type: 'Feature Story'
+lat: 35.433766
+lng: -83.553580
 tags:
     - Asheville
     - E-Grits
@@ -17,7 +19,7 @@ hero:
 updated: 'July 20th, 2017'
 ---
 
-**Asheville, NC** - Wildlife biologists scaled the wall of the Nantahala Gorge on hands and knees - more climbing than hiking the steep terrain – searching for one of the rarest animals in the world in the wake of forest fires that burned through its habitat last winter.
+**Asheville, North Carolina** - Wildlife biologists scaled the wall of the Nantahala Gorge on hands and knees - more climbing than hiking the steep terrain – searching for one of the rarest animals in the world in the wake of forest fires that burned through its habitat last winter.
 
 The [noonday globe snail](https://ecos.fws.gov/ecp0/profile/speciesProfile?sId=322) (*Petera clarki nantahala*) was placed on the federal endangered species list in 1978. The only place it was known to exist was a portion of the southern side of the Nantahala River Gorge, in North Carolina’s Swain County.
 

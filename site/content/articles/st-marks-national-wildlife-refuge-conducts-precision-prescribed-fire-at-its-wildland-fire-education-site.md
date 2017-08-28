@@ -1,6 +1,8 @@
 ---
 title: 'St. Marks National Wildlife Refuge conducts precision prescribed fire at its wildland fire education site'
 date: '2016-02-04'
+lat: 30.072662
+lng: -84.172621
 author: 'Tom MacKenzie, Public Affairs Specialist'
 tags:
     - Florida

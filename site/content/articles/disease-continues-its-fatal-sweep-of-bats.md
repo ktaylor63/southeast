@@ -1,6 +1,8 @@
 ---
 title: 'Disease continues its fatal sweep of bats'
 type: feature
+lat: 34.8839
+lng: -83.2846
 hero:
     name: tri-colored-bat-white-nose-syndrome.jpg
     alt: 'A brown bat attached to the roof of a cave with white fuzz around its nose'
@@ -13,7 +15,7 @@ tags:
     - Georgia
     - 'Tri-Colored Bat'
     - 'White Nose Syndrome'
-updated: 'April 20th, 2017'
+updated: 'August 28th, 2017'
 ---
 
 The oars splashed, that slight sound magnified as it echoed off rock walls that led to a distant, black point. With each pull, the tunnel’s illuminated opening got smaller – the darkness, greater.

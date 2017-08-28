@@ -2,6 +2,8 @@
 title: 'Puerto Ricans bring fight to fire'
 author: 'Mark Davis, Public Affairs Specialist'
 date: '2017-05-02'
+lat: 30.819208
+lng: -82.031844
 type: feature
 tags:
     - Florida
@@ -19,7 +21,7 @@ hero:
 updated: 'May 2nd, 2017'
 ---
 
-**FOLKSTON, Ga.** – Martin Ramos will always remember that call: "Report to the Okefenokee".
+**Folkston, Georgia** – Martin Ramos will always remember that call: "Report to the Okefenokee".
 
 That was six years ago, when a fire rose to life in the middle of the Okefenokee National Wildlife Refuge and steadily grew. By the time the 2011 Honey Prairie fire had been extinguished, it had burned more than 300,000 acres.
 

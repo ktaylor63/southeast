@@ -1,5 +1,7 @@
 ---
 title: 'Whats old is new again (New World screwworm, that is)'
+lat: 24.671781
+lng: -81.356888
 hero:
     name: key-deer-screwworm-response.jpg
     alt: 'A small deer with antlers in front of a road sign on the side of a road.'

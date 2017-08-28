@@ -12,6 +12,7 @@ tags:
     - Louisiana
     - Mississippi
     - Partnership
+    - E-Grits
     - Restoration
 author: 'Nadine Siak, Public Affairs Specialist'
 hero:

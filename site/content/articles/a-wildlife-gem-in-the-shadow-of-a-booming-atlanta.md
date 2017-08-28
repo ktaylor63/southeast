@@ -1,5 +1,7 @@
 ---
 title: 'A wildlife gem, in the shadow of a booming Atlanta'
+lat: 33.992551
+lng: -84.940967
 hero:
     name: racoon-creek.jpg
     alt: 'A forrested stream with rocky shores.'
@@ -25,10 +27,10 @@ tags:
     - 'Sheffield Wildlife Management Area'
     - 'Silver Comet Trail'
     - 'White-Tailed Deer'
-updated: 'June 6th, 2017'
+updated: 'August 28th, 2017'
 ---
 
-**Braswell, Ga.** -- It was 1946, a cold night in the Blue Ridge mountains, and the six frustrated deer hunters hunkered down in a glade as the wind howled. Two days spent scrambling over the hills had flushed but one doe. The annual hunt was no longer worth the long drive from Paulding County outside Atlanta. 
+**Braswell, Georgia** -- It was 1946, a cold night in the Blue Ridge mountains, and the six frustrated deer hunters hunkered down in a glade as the wind howled. Two days spent scrambling over the hills had flushed but one doe. The annual hunt was no longer worth the long drive from Paulding County outside Atlanta. 
 
 “What I’m figuring,” said E.F. Corley, a farmer, sawmiller, truck driver and ordained Baptist minister, “is stocking deer in the hills behind home.”
 

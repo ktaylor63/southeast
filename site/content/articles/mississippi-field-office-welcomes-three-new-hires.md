@@ -3,6 +3,8 @@ title: 'Mississippi field office welcomes three new hires'
 author: 'Connie Dickard, Mississippi Ecological Services Field Office'
 type: 'Feature Story'
 date: '2017-05-03'
+lat: 32.399133
+lng: -90.195720
 tags:
     - E-Grits
     - Mississippi

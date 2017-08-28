@@ -1,6 +1,8 @@
 ---
 title: 'A new beginning: Puerto Rican parrots reintroduced into Maricao Commonwealth Forest'
 description: 'The future looks bright for the Puerto Rican parrot. Conservation professionals have been working toward the parrot’s reintroduction to the the Maricao Forest for more than 40 years.'
+lat: 18.156303
+lng: -66.988624
 type: feature
 tags:
     - 'Puerto Rican Parrot'
@@ -13,7 +15,7 @@ hero:
     caption: 'When in flight, some of the PR Parrots show their beautiful blue primary feathers. En español: Algunas cotorras muestran sus bellas plumas primarias azules al volar. Bosque del Estado, Maricao, Puerto Rico. Photo by Jan Paul Zegarra, Biologist, USFWS'
 author: 'Lilibeth Serrano, Public Affairs Specialist'
 date: '2016-11-30'
-updated: 'March 22nd, 2017'
+updated: 'August 28th, 2017'
 ---
 
 Dawn breaks at the west-central mountain region (Cordillera Central) of the tropical island of Puerto Rico. The night dew clings to every surface on the forest floor and makes fern leaves glimmer. At the Maricao Commonwealth Forest, about 1,300 feet above sea level, tropical birds call to one another announcing a new day. Today marks a new beginning for a returning resident of the forest, the Puerto Rican parrot.

@@ -14,9 +14,9 @@ tags:
 updated: 'March 18th, 2017'
 ---
 
-The state of Alabama is No. 3 in the nation in total number of  threatened and endangered species under the Endangered Species Act (ESA). The staff of the Alabama field office of the U.S. Fish and Wildlife Service (Service) works to conserve  these species.
+The state of Alabama is No. 3 in the nation in total number of threatened and endangered species under the Endangered Species Act (ESA). The staff of the Alabama field office of the U.S. Fish and Wildlife Service (Service) works to conserve  these species.
 
-In 2014, the field office’s  workload got even bigger. Due to litigation and petitions from the Center for Biological Diversity  under the ESA, the Service’s Southeast Region was ordered to evaluate more than 400 species and determine whether or not they need federal protection. More than 100 of those species live in Alabama. So in addition to managing the state’s imperiled species, the Alabama Field Office must decide if these additional plants and animals need listing under the ESA.
+In 2014, the field office’s workload got even bigger. Due to litigation and petitions from the Center for Biological Diversity under the ESA, the Service’s Southeast Region was ordered to evaluate more than 400 species and determine whether or not they need federal protection. More than 100 of those species live in Alabama. So in addition to managing the state’s imperiled species, the Alabama Field Office must decide if these additional plants and animals need listing under the ESA.
 
 With the backlog of species growing,  staff  is now looking for voluntary and innovative ways to protect imperiled wildlife that doesn’t require federal listing. Working to conserve species through private and public partnerships is one  pathway to conservation that can help a  species recover so that federal protection isn’t needed.
 

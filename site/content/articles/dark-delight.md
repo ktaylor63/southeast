@@ -4,6 +4,8 @@ description: 'Cape Romain National Wildlife Refuge, South Carolina – The solar
 subtitle: 'Eclipse leaves America at wildlife refuge'
 author: 'Mark Davis, Public Affairs Specialist'
 date: '2017-08-23'
+lat: 32.913616
+lng: -79.578532
 type: feature
 hero:
     name: eclipse-totality.jpg
@@ -15,7 +17,7 @@ tags:
     - Eclipse
     - 'National Wildlife Refuge System'
     - 'South Carolina'
-updated: 'August 24th, 2017'
+updated: 'August 28th, 2017'
 ---
 
 {{< figure class="photo-right" src="/images/pages/eclipse-crowd-cape-romain.jpg" alt="About a dozen refuge visitors look to the sky wearing protective glasses." caption="A contingent of state and federal employees were on hand to watch the eclipse make its last North American appearance at Cape Romain National Wildlife Refuge.  Photo by Mark Davis, USFWS.">}}

@@ -2,6 +2,8 @@
 title: 'Oyster reef project designed to aid pelican island'
 author: 'Ken Warren, South Florida Ecological Services Office'
 date: '2017-03-10'
+lat: 27.798837
+lng: -80.429565
 type: 'Feature Story'
 hero:
     name: pelican-island-oyster-reef.jpg

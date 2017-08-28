@@ -1,5 +1,7 @@
 ---
 title: 'Digging new pools: How an experiment on Georgia granite mountains is increasing endangered and threatened plants'
+lat: 33.664736
+lng: -84.118918
 author: 'Deborah Harris, Georgia Ecological Services Field Office'
 type: 'Feature Story'
 date: '2017-05-22'
@@ -17,7 +19,7 @@ tags:
     - 'Mat-Forming Quillwort'
     - 'Pool Sprite'
     - 'South Carolina'
-updated: 'May 30th, 2017'
+updated: 'August 28th, 2017'
 ---
 
 Since 2007, the U.S. Fish and Wildlife Service’s [Georgia ecological services office](https://www.fws.gov/athens/) started counting the tiny green plants that can only be found in vernal pools on granite outcrops during the rainy season from December through March and during mid-summer rain events.  (Vernal pools are temporary pools of water that provide habitat for distinctive plants and animals.) Stone Mountain, Arabia Mountain and Heggie’s Rock, all in Georgia, are granite outcrops.  Because they are protected, they are some of the only granite outcrops where rare endemic green plants, such as the federally-listed black-spored quillwort, mat-forming quillwort, and pool sprite, can still be found.

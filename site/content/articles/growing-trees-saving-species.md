@@ -19,7 +19,7 @@ tags:
     - 'Longleaf Pine'
     - Recovery
     - 'Red-Cockaded Woodpecker'
-updated: 'August 9th, 2017'
+updated: 'August 28th, 2017'
 ---
 
 If one of the Southeast’s signature species is the gopher tortoise, so, too, is the towering pine that shades its burrow.
@@ -50,7 +50,7 @@ Two are profiled here.
  
 ## Reese Thompson: ‘The real treasure’
  
-**McRAE, Georgia**  -- When he surveys the trees that rise in irregular columns against the Georgia sky, Reese Thompson gets a glimpse of the great beyond.
+**McRae, Georgia**  -- When he surveys the trees that rise in irregular columns against the Georgia sky, Reese Thompson gets a glimpse of the great beyond.
  
 “Trees are as close to immortality as I can get,” said Thompson, a South Georgia farmer whose longleaf holdings stretch into thousands of acres.  “A lot of these trees will outlive me.”
  
@@ -94,7 +94,7 @@ But at the beach he cannot stroll in solitude, nor listen to a quail sounding a 
 
 ## Salem Saloom: ‘American heritage’
  
-**EVERGREEN, Alabama** – The truck was old, a battered Chevy, and it had been places a truck shouldn’t go – through streambeds and down rocky ravines, up hills where tall trees stood in the way.
+**Evergreen, Alabama** – The truck was old, a battered Chevy, and it had been places a truck shouldn’t go – through streambeds and down rocky ravines, up hills where tall trees stood in the way.
  
 The truck belonged to Salem Saloom, and he aimed it toward an opening in the shadows of a south-central Alabama forest. The pickup bounced over a small boulder and back into the sun. Saloom paid no attention to that. He held the steering wheel with one hand. The other he used to point.
  

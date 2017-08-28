@@ -1,6 +1,8 @@
 ---
 title: 'Keeping upbeat'
 subtitle: 'Refuge manager monitors fire fight'
+lat: 30.832419
+lng: -82.145347
 date: '2017-05-02'
 type: feature
 author: 'Mark Davis, Public Affairs Specialist'
@@ -16,10 +18,10 @@ hero:
     alt: 'Entrance sign notifies visitors the refuge is closed due to a fire.'
     caption: 'Okefenokee National Wildlife Refuge is closed as crews battle the West Mims fire. Photo by Mark Davis, USFWS.'
     link: 'https://flic.kr/p/Uo6sXK'
-updated: 'May 2nd, 2017'
+updated: 'August 28th, 2017'
 ---
 
-**FOLKSTON, Ga.** – If he needs a reminder of how to run a wildlife refuge – especially one that’s on fire – all Michael Lusk needs to do is look at the skull in his office.
+**Folkston, Georgia** – If he needs a reminder of how to run a wildlife refuge – especially one that’s on fire – all Michael Lusk needs to do is look at the skull in his office.
 
 That’s an alligator skull, and it came from the U.S. Fish and Wildlife Service’s (Service) [Okefenokee National Wildlife Refuge](https://www.fws.gov/refuge/okefenokee). At one time, it was attached to a beast about 9 feet long. Propped in its gaping mouth is a narrow sign with a message:
 

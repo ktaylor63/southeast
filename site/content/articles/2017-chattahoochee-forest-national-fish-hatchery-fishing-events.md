@@ -1,5 +1,7 @@
 ---
-title: '2017 Chattahoochee Forest National Fish Hatchery Fishing Events'
+title: '2017 Chattahoochee Forest National Fish Hatchery fishing events'
+lat: 34.706067
+lng: -84.150085
 hero:
     name: chattahoochee-forest-nfh-welcome.jpg
     alt: 'Two USFWS employees in uniform standing in front of the welcome sign at the hatchery.'
@@ -15,7 +17,7 @@ tags:
 author: 'Crystal Thomas, Chattahoochee Forest National Fish Hatchery'
 type: 'Bragging Rights'
 date: '2017-05-24'
-updated: 'May 24th, 2017'
+updated: 'August 28th, 2017'
 ---
 
 Fishing events are rain or shine.  Both events will be begin at 9:00am through 12:00 noon.  Please bring your own fishing gear and bait; lunch and prizes will be included free of charge. **Georgia sport fishing regulations apply.**

@@ -1,6 +1,8 @@
 ---
 title: 'Partnering across the Everglades to battle invasives'
 date: '2016-04-13'
+lat: 26.359453
+lng: -80.421920
 description: 'Florida is considered “Ground Zero” in America’s fight against the spread of non-native species with more non-native reptile and amphibian species than anywhere else in the world.'
 hero:
     name: burmese-python.jpg

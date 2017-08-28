@@ -1,6 +1,8 @@
 ---
 title: 'Sea turtle monitoring at Hobe Sound National Wildlife Refuge'
 description: 'Former seasonal biological technician recounts conducting nesting sea turtle surveys on a barrier island in Florida.'
+lat: 27.037442
+lng: -80.111267
 hero:
     name: hobe-sound-nwr-sunrise.jpg
     alt: 'A bright yellow sun rises over the Atlantic Ocean.'

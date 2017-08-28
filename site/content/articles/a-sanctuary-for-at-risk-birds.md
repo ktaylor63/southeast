@@ -1,6 +1,8 @@
 ---
 title: 'A sanctuary for at-risk birds'
 author: 'Dan Chapman, Public Affairs Specialist'
+lat: 31.331024
+lng: -81.307442
 js: /js/preserving-paradise.js
 date: '2017-07-12'
 tags:
@@ -30,7 +32,7 @@ hero:
     caption: 'Wolf Island. Photo by Nicole Vidal, USFWS.'
 series:
     - 'Conserving Paradise'
-updated: 'July 13th, 2017'
+updated: 'August 28th, 2017'
 ---
 
 **Wolf Island National Wildlife Refuge, Georgia** -- It rained heavily the night before, and the puffy white clouds on the horizon presaged more storms heading for the Georgia coast. At 7 am., with the tide receding, Tim Keyes hustled the Carolina Skiff into the Altamaha Sound where the same-name river meets the sea.

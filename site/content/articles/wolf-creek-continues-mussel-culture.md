@@ -1,6 +1,8 @@
 ---
 title: 'Wolf Creek continues mussel culture'
 description: 'Wolf Creek National Fish Hatchery staff decided to expand this year when it came to culturing freshwater mussels in suspended cages in Lake Cumberland in Russell County, Kentucky.'
+lat: 36.878233
+lng: -85.149800
 author: 'Sheila Kirk, Wolf Creek National Fish Hatchery'
 date: '2017-07-19'
 tags:

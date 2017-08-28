@@ -12,9 +12,10 @@ tags:
     - 'Appalachian Landscape Conservation Cooperative'
     - Mussels
     - Partnership
+    - 'Southeast Conservation Adaptation Strategy'
     - Tennessee
     - 'Tennessee Valley Authority'
-updated: 'April 26th, 2017'
+updated: 'August 28th, 2017'
 ---
 
 For Shannon O’Quinn, a watershed specialist at the Tennessee Valley Authority, the Tennessee River provides much more than a livelihood. “It is a special place to my family,” he says. “It is where we live and play and work to ensure the river stays healthy for people and wildlife.”

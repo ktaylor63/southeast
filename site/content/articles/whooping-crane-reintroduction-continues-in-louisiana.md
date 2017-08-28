@@ -1,6 +1,8 @@
 ---
 title: 'Whooping crane reintroduction continues in Louisiana'
 author: 'Brad Rieck, Louisiana Ecological Services Office'
+lat: 29.881745
+lng: -92.521854
 date: '2017-05-03'
 type: 'Bragging Rights'
 tags:

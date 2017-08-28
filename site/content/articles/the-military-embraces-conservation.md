@@ -2,6 +2,8 @@
 title: 'The military embraces conservation'
 author: 'Dan Chapman, Public Affairs Specialist'
 js: /js/preserving-paradise.js
+lat: 31.549371
+lng: -81.579108
 date: '2017-07-12'
 tags:
     - 'Altamaha River'

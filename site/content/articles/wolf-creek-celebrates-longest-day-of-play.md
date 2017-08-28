@@ -3,6 +3,8 @@ title: 'Wolf Creek celebrates Longest Day of Play'
 author: 'Moria Painter, Wolf Creek National Fish Hatchery'
 date: '2017-07-20'
 type: 'Bragging Rights'
+lat: 36.872276
+lng: -85.145968
 hero:
     name: leaping-like-a-frog.jpg
     alt: 'A young boy jumping across a grassy field like a frog.'

@@ -1,6 +1,8 @@
 ---
 title: 'A unique mountain refuge protects endangered wetlands and the wildlife within'
 author: 'Dan Chapman, Public Affairs Specialist'
+lat: 35.277933
+lng: -82.422209
 date: '2017-08-24'
 type: feature
 hero:
@@ -22,7 +24,7 @@ tags:
     - Sphagnum
     - 'Swamp Pink'
     - 'Virginia Big-Eared Bat'
-updated: 'August 22nd, 2017'
+updated: 'August 28th, 2017'
 ---
 
 **East Flat Rock, North Carolina** -- It’s not much to look at really. Nothing about this all-too-familiar stretch of Southern blacktop indicates that a rare, beautiful and endangered flower thrives just beyond the railroad tracks. 

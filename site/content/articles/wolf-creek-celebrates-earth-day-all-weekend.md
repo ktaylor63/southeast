@@ -1,6 +1,8 @@
 ---
 title: 'Wolf Creek celebrates Earth Day all weekend'
 author: 'Moria Painter, Wolf Creek National Fish Hatchery'
+lat: 36.873231
+lng: -85.145408
 date: '2017-07-20'
 type: 'Bragging Rights'
 hero:

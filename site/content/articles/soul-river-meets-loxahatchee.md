@@ -2,6 +2,8 @@
 title: 'Soul River meets Loxahatchee'
 author: 'Hannah LaCava, Loxahatchee NWR student intern'
 date: '2017-07-26'
+lat: 26.499232
+lng: -80.212414
 hero:
     name: loxahatchee-sunrise.jpg
     alt: 'A sunrises over a stream.'
