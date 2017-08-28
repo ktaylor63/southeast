@@ -36,6 +36,7 @@
   },
   "dependencies": {
     "query-string": "^4.3.4",
-    "random-item": "^1.0.0"
+    "random-item": "^1.0.0",
+    "xhr": "^2.4.0"
   }
 }
