@@ -2,7 +2,7 @@
 draft: true
 title: 'Louisiana Endangered Species Act (ESA) project review and guidance for other federal trust resources'
 nav: 'Project Planning'
-updated: 'August 24th, 2017'
+updated: 'August 28th, 2017'
 tags:
     - Consultation
     - 'Endangered Species Act'
@@ -21,14 +21,11 @@ tags:
     <noscript class="noscript">You must enable JavaScript to use this application.</noscript>
     <div id="panels">
         <div class="visible">
-            <h4 class="pdcTitle">
-                Endangered Species Act (ESA) Project Review<br />And Guidance For Other Federal Trust Resources
-            </h4>
         </div>
         <p id="parishName"></p>
         <div id="intro" class="visible">
             <p>This application is designed to streamline the review of projects for potential effects to Federally listed threatened and endangered species and their critical habitat (T&E).</p>
-            <p>You will be able to determine whether any threatened or endangered species or their critical habitats may exist within your project area and if your proposed action may affect them. If your completed T&E review indicates a "no effect" to listed species, print this report for your files. Do not send it to the Louisiana ES Office. If however, your review indicates coordination with the Louisiana ES Office is recommended, you will be provided additional guidance.</p>
+            <p>You will be able to determine whether any threatened or endangered species or their critical habitats may exist within your project area and if your proposed action may affect (potential for negative impacts to federally listed species or critical habitat, if applicable) them. If your completed T&E review indicates a "no effect" (no positive or negative impacts to federally listed species or critical habitat, if applicable) to listed species, print this report for your files. Do not send it to the Louisiana Ecological Services Office. If however, your review indicates coordination with the Louisiana Ecological Services Office is recommended, you will be provided additional guidance.</p>
             <p>In addition, this application will also provide you with Migratory Bird Treaty Act and Bald & Golden Eagle Protection Act guidance.</p>
             <div style="text-align:center">
                 <button id="gotoAck" type="button">CLICK HERE TO BEGIN</button>
@@ -216,7 +213,7 @@ tags:
             </p>
         </div>
         <div id="noEffectMap">
-            <p>We have determined that the proposed project would have no effect on Federally listed species in accordance with the Endangered Species Act (ESA) of 1973 (87 Stat. 884, as amended, 16 U.S.C. 1531 et seq.).</p>
+            <p>We have determined that the proposed project would have no effect (no positive or negative impacts to federally listed species or critical habitat, if applicable) on Federally listed species in accordance with the Endangered Species Act (ESA) of 1973 (87 Stat. 884, as amended, 16 U.S.C. 1531 et seq.).</p>
             <div>
                 <button id="gotoNoEffectReport" type="button">Continue</button>
             </div>
@@ -224,9 +221,9 @@ tags:
         <div id="noEffectReport">
             <p>This finding completes project review by the Service for effects to Federal trust resources under our jurisdiction and currently protected by the ESA.</p>
             <p>For further guidance under the Migratory Bird Treaty Act, please review the recommended guidelines attached to the pre-development coordination report.</p>
-            <p>To generate a pre-development coordination report for your project, click the button below. Please keep a copy of this report for your records. Do not send it to the Lafayette ES Office.</p>
+            <p>To generate a pre-development coordination report for your project, click the button below. Please keep a copy of this report for your records. Do not send it to the Louisiana Ecological Services Office.</p>
             <button class="gotoReport" type="button">Generate Pre-Development Coordination Report</button>
-            <p>If you have additional questions, please contact the Louisiana ES Office at 337/291-3100 for further assistance.</p>
+            <p>If you have additional questions, please contact the Louisiana Ecological Services Office at 337/291-3100 for further assistance.</p>
         </div>
         <div id="sendItInReport">
             <p>Based on the information provided, this project requires further review. You may submit your project information and a request for review via e-mail address <a href="mailto:lafayette@fws.gov">lafayette@fws.gov</a> in order to complete ESA coordination with the Fish and Wildlife Service.</p>
@@ -239,14 +236,14 @@ tags:
                 <li>A copy of the pre-development coordination report</li>
                 <li>Any other information that may be helpful for our review process</li>
             </ul>
-            <p>If you have additional information, please contact the Louisiana ES Office at 337/291-3100 for further assistance.</p>
+            <p>If you have additional information, please contact the Louisiana Ecological Services Office at 337/291-3100 for further assistance.</p>
             <button class="gotoReport" type="button">Generate Pre-Development Coordination Report</button>
         </div>
         <div id="nlaaReport">
             <p>
                 Based on the information provided, this project requires concurrence from the Service. You may submit your project information and a request for review
                 via e-mail address <a href="mailto:lafayette@fws.gov">lafayette@fws.gov</a> in order to complete ESA coordination with the Fish and Wildlife Service.
-                For questions call the Louisiana ES Office at 337/291-3100 for further assistance.
+                For questions call the Louisiana Ecological Services Office at 337/291-3100 for further assistance.
             </p>
             <button class="gotoReport" type="button">Generate Pre-Development Coordination Report</button>
         </div>
@@ -549,21 +546,21 @@ tags:
 <link rel="stylesheet" href="/pdc/Scripts/highslide/highslide.css" />
 
 <script>
-    // SETUP
-    var app = {
-        // Address of API (must end in "api/")
-        url: "https://nwrcwebapps.cr.usgs.gov/USFWS_PDC/api/",
+// SETUP
+const pdcApp = {
+  // Address of API (must end in "api/")
+  url: 'https://nwrcwebapps.cr.usgs.gov/USFWS_PDC/api/',
 
-        // path must point to directory that hosts the PDC HTML page
-        path: document.body.getAttribute('data-root') + "/pdc/"
-    };
+  // path must point to directory that hosts the PDC HTML page
+  path: [document.body.getAttribute('data-root'), 'pdc/'].join('')
+};
 
-    // Highslide setup
-    hs.graphicsDir = app.path + "Scripts/highslide/graphics/";
-    hs.outlineType = "rounded-white";
-    hs.wrapperClassName = "draggable-header";
-    hs.zIndexCounter = 2000;
-    hs.showCredits = false;
+// Highslide setup
+hs.graphicsDir = [pdcApp.path, 'Scripts/highslide/graphics/'].join('');
+hs.outlineType = 'rounded-white';
+hs.wrapperClassName = 'draggable-header';
+hs.zIndexCounter = 2000;
+hs.showCredits = false;
 </script>
 <script src="/pdc/Scripts/leaflet-1.0.3.js"></script>
 
