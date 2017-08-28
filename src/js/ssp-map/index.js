@@ -1,101 +1,97 @@
-(function () {
-  'use strict';
+const L = require('leaflet');
+const clickDownload = require('client-csv');
+const papaparse = require('papaparse');
+require('leaflet-draw');
 
-  var L = require('leaflet');
-  var clickDownload = require('client-csv');
-  var papaparse = require('papaparse');
-  require('leaflet-draw');
+const inside = require('turf-inside');
 
-  var _ = {
-    inside: require('turf-inside')
-  };
+// const template = require('./project-template.jade');
+const sciencebase = require('./sciencebase');
+const layers = require('./layers');
 
-  var template = require('./project-template.jade');
-  var sciencebase = require('./sciencebase');
-  var layers = require('./layers');
+const infoWindow = document.querySelector('.info-window');
+const downloadButton = document.querySelector('.download-button');
+const infoContent = infoWindow.querySelector('.info-window-content');
+const markerPath = `${document.body.getAttribute('data-root')}images/`;
 
-  var infoWindow = document.querySelector('.info-window');
-  var downloadButton = document.querySelector('.download-button');
-  var infoContent = infoWindow.querySelector('.info-window-content');
-  var markerPath = document.body.getAttribute('data-root') + 'images/';
-  L.Icon.Default.imagePath = markerPath;
+L.Icon.Default.imagePath = markerPath;
 
-  var editableLayers = new L.FeatureGroup();
-  var drawOptions = {
-    draw: { circle: false, polyline: false, rectangle: false, marker: false },
-    edit: { featureGroup: editableLayers, edit: false }
-  };
-  var drawControl = new L.Control.Draw(drawOptions);
+const editableLayers = new L.FeatureGroup();
+const drawOptions = {
+  draw: { circle: false, polyline: false, rectangle: false, marker: false },
+  edit: { featureGroup: editableLayers, edit: false }
+};
+const drawControl = new L.Control.Draw(drawOptions);
 
-  var map, projects;
+let map;
 
-  function init() {
-    projects = sciencebase.init(createMap);
-  }
+function template(project) {
+  const props = project.properties;
+  const img = props.img
+    ? `<figure class="photo-right"><img src="${props.img}" alt="A preview image of this project" /></figure>`
+    : '';
+  return `
+    <h2>${props.title}</h2>
+    <p>${props.description}</p>
+    ${img}
+    <p><a href="${props.url}" target="_blank">More details on ScienceBase.gov</a></p>
+  `;
+}
 
-  // Is called with sciencebase data after the init function is finished
-  function createMap(projects) {
-    map = L.map('sciencebase-map', {
-      scrollWheelZoom: false
-    });
-    var geojson = L.geoJSON(projects, {
-      onEachFeature: clickHandler
-    }).addTo(map);
+// Use Turf.js inside function to return an array of markers that
+//  fall inside the user-created polygon
+function pointsInPolygon(points, polygon) {
+  const allMarkers = Object.values(points._layers); // eslint-disable-line no-underscore-dangle
+  return allMarkers.filter(marker => inside(marker.toGeoJSON(), polygon));
+}
 
-    map
-      .addLayer(editableLayers)
-      .fitBounds(geojson.getBounds())
-      .addControl(drawControl);
+function normalizeDataForDownload(markers) {
+  return markers.map(marker => {
+    const normalized = marker.feature.properties;
+    normalized.lat = marker.feature.geometry.coordinates[0];
+    normalized.lon = marker.feature.geometry.coordinates[1];
+    return normalized;
+  });
+}
 
-    map.on(L.Draw.Event.CREATED, function (e) {
-      var markersInPolygon = pointsInPolygon(geojson, e.layer.toGeoJSON() );
-      if (markersInPolygon.length === 0) return;
-      var data = normalizeDataForDownload(markersInPolygon);
-      createDownloadLink(data);
-      editableLayers.addLayer(e.layer);
-    });
-    layers.esriTopo.addTo(map);
-  }
+function createDownloadLink(data) {
+  const string = papaparse.unparse(data);
+  clickDownload(downloadButton, encode => ({
+    filename: 'ssp-projects.csv',
+    contents: encode.text(string)
+  }));
+  downloadButton.classList.add('active');
+}
 
-  // Use Turf.js inside function to return an array of markers that
-  //  fall inside the user-created polygon
-  function pointsInPolygon(points, polygon) {
-    var allMarkers = Object.values(points._layers);
-    return allMarkers.filter( function(marker) {
-      return _.inside(marker.toGeoJSON(), polygon);
-    });
-  }
+function toggleInfoWindow(e) {
+  const project = e.target.feature;
+  infoContent.innerHTML = template({ project });
+  infoWindow.classList.toggle('active');
+}
 
-  function normalizeDataForDownload(markers) {
-    return markers.map(function(marker) {
-      var normalized = marker.feature.properties;
-      normalized.lat = marker.feature.geometry.coordinates[0];
-      normalized.lon = marker.feature.geometry.coordinates[1];
-      return normalized;
-    });
-  }
+function clickHandler(feature, layer) {
+  layer.on({ click: toggleInfoWindow });
+}
 
-  function createDownloadLink(data) {
-    var string = papaparse.unparse(data);
-    clickDownload(downloadButton, function(encode) {
-      return {
-        filename: 'ssp-projects.csv',
-        contents: encode.text(string)
-      };
-    });
-    downloadButton.classList.add('active');
-  }
+// Is called with sciencebase data after the init function is finished
+function createMap(projects) {
+  map = L.map('sciencebase-map', {
+    scrollWheelZoom: false
+  });
+  const geojson = L.geoJSON(projects, {
+    onEachFeature: clickHandler
+  }).addTo(map);
 
-  function clickHandler(feature, layer) {
-    layer.on({ click: toggleInfoWindow });
-  }
+  map.addLayer(editableLayers).fitBounds(geojson.getBounds()).addControl(drawControl);
 
-  function toggleInfoWindow(e) {
-    var project = e.target.feature;
-    infoContent.innerHTML = template({ project: project });
-    infoWindow.classList.toggle('active');
-  }
+  map.on(L.Draw.Event.CREATED, e => {
+    const markersInPolygon = pointsInPolygon(geojson, e.layer.toGeoJSON());
+    if (markersInPolygon.length === 0) return;
+    const data = normalizeDataForDownload(markersInPolygon);
+    createDownloadLink(data);
+    editableLayers.addLayer(e.layer);
+  });
+  layers.esriTopo.addTo(map);
+}
 
-  init();
-
-})();
+sciencebase.init(createMap);
