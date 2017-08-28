@@ -1,8 +1,8 @@
 ﻿"use strict";
 
-// Contains methods in app.api for interacting with API to retrieve list of parishes and sequential questions.
+// Contains methods in pdcApp.api for interacting with API to retrieve list of parishes and sequential questions.
 
-app.api = {
+pdcApp.api = {
     // Queries API for list of parishes. Hides intro DIVs and shows parish DIV along with Continue button.
     getParishes: function () {
         $("#ack").removeClass("visible");
@@ -13,7 +13,7 @@ app.api = {
         document.getElementById("previous").style.display = "none";
 
         $.ajax({
-            url: app.url + "GetParishes",
+            url: pdcApp.url + "GetParishes",
             success: function (parishes) {
                 if (parishes) {
 
@@ -27,10 +27,10 @@ app.api = {
                             html += "<div class='parishColumn'>";
                         }
 
-                        // Check app.model.parishes and populate these with 'checked' status (this is used during a backtrack)
+                        // Check pdcApp.model.parishes and populate these with 'checked' status (this is used during a backtrack)
                         var checked = false;
-                        for (var j = 0; j < app.model.parishes.length; j++) {
-                            if (parishes[i].ParishID === parseInt(app.model.parishes[j])) {
+                        for (var j = 0; j < pdcApp.model.parishes.length; j++) {
+                            if (parishes[i].ParishID === parseInt(pdcApp.model.parishes[j])) {
                                 checked = true;
                                 break;
                             }
@@ -70,18 +70,18 @@ app.api = {
             params =
                 "QuestionID=" + qa.question +
                 "&Answer=" + qa.answer +
-                "&ParishList=" + app.model.parishes;
+                "&ParishList=" + pdcApp.model.parishes;
 
-            if (app.model.speciesCurrent) {
-                params += "&SpeciesID=" + app.model.speciesCurrent;
+            if (pdcApp.model.speciesCurrent) {
+                params += "&SpeciesID=" + pdcApp.model.speciesCurrent;
             }
         }
-        else if (app.model.speciesCurrent) {
-            params = "SpeciesID=" + app.model.speciesCurrent;
+        else if (pdcApp.model.speciesCurrent) {
+            params = "SpeciesID=" + pdcApp.model.speciesCurrent;
         }
 
         // TODO: need to move this logic into question 7 presentation
-        if (app.sendBackAOI) {
+        if (pdcApp.sendBackAOI) {
             var chks = document.getElementsByClassName("aoi-chk");
 
             var selected = [];
@@ -93,66 +93,66 @@ app.api = {
 
             params += "&SelectedAOI=" + selected.toString();
 
-            app.sendBackAOI = false;
+            pdcApp.sendBackAOI = false;
         }
 
         // Call API to get next question, sending it details about the last-answered question so it knows where to route us next.
         // The exception is question 0 which requires no parameters.
         $.ajax({
-            url: app.url + "ProcessQuestion?" + params,
+            url: pdcApp.url + "ProcessQuestion?" + params,
             success: function (api) {
                 if (api) {
                     if (api.ResponseID) {
                         if (api.ResponseID === 1) {
                             // No effect
-                            app.saveSpeciesResponse(api.ResponseID);
+                            pdcApp.saveSpeciesResponse(api.ResponseID);
 
-                            if (app.model.species.length) {
-                                app.popNextSpecies();
-                                app.api.getQuestion();
+                            if (pdcApp.model.species.length) {
+                                pdcApp.popNextSpecies();
+                                pdcApp.api.getQuestion();
                             }
                             else {
-                                app.ui.showBasedOnResponse();
+                                pdcApp.ui.showBasedOnResponse();
                             }
                         }
                         else if (api.ResponseID === 2) {
                             // Send it in (may affect)
-                            app.saveSpeciesResponse(api.ResponseID);
+                            pdcApp.saveSpeciesResponse(api.ResponseID);
 
-                            if (app.model.species.length) {
-                                app.popNextSpecies();
-                                app.api.getQuestion();
+                            if (pdcApp.model.species.length) {
+                                pdcApp.popNextSpecies();
+                                pdcApp.api.getQuestion();
                             }
                             else {
-                                app.ui.showBasedOnResponse();
+                                pdcApp.ui.showBasedOnResponse();
                             }
 
                             return;
                         }
                         else if (api.ResponseID === 3) {
                             // NLAA (not likely to adversely affect)
-                            app.saveSpeciesResponse(api.ResponseID);
+                            pdcApp.saveSpeciesResponse(api.ResponseID);
 
-                            if (app.model.species.length) {
-                                app.popNextSpecies();
-                                app.api.getQuestion();
+                            if (pdcApp.model.species.length) {
+                                pdcApp.popNextSpecies();
+                                pdcApp.api.getQuestion();
                             }
                             else {
-                                app.ui.showBasedOnResponse();
+                                pdcApp.ui.showBasedOnResponse();
                             }
 
                             return;
                         }
                         else if (api.ResponseID === 4) {
                             // NOAA consultation required
-                            app.saveSpeciesResponse(api.ResponseID);
+                            pdcApp.saveSpeciesResponse(api.ResponseID);
 
-                            if (app.model.species.length) {
-                                app.popNextSpecies();
-                                app.api.getQuestion();
+                            if (pdcApp.model.species.length) {
+                                pdcApp.popNextSpecies();
+                                pdcApp.api.getQuestion();
                             }
                             else {
-                                app.ui.showBasedOnResponse();
+                                pdcApp.ui.showBasedOnResponse();
                             }
 
                             return;
@@ -160,13 +160,13 @@ app.api = {
                         else if (api.ResponseID === 10) {
                             // API should send species IDs now (string of comma-delimited values)
                             if (api.SpeciesIDList) {
-                                app.model.species = api.SpeciesIDList.split(",");
+                                pdcApp.model.species = api.SpeciesIDList.split(",");
 
                                 // Now ask Question 0 with SpeciesID x, where x is the first ID from the species list
-                                if (app.model.species.length) {
-                                    app.popNextSpecies();
+                                if (pdcApp.model.species.length) {
+                                    pdcApp.popNextSpecies();
 
-                                    app.api.getQuestion();
+                                    pdcApp.api.getQuestion();
                                 }
                             }
                             else {
@@ -180,13 +180,13 @@ app.api = {
                     }
                     else {
                         if (api.SpecialProcessing && api.SpecialProcessing === "AOI") {
-                            app.ui.startMap(api);
+                            pdcApp.ui.startMap(api);
 
-                            app.apiForLaterUse = api;
+                            pdcApp.apiForLaterUse = api;
                         }
                         else {
                             // normal text question only
-                            app.ui.prepareQuestionForm(api);
+                            pdcApp.ui.prepareQuestionForm(api);
                         }
                     }
                 }

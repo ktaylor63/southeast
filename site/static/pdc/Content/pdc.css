@@ -1,4 +1,5 @@
-﻿a {
+﻿/******** These styles can be edited ********/
+a {
     color:blue;
 }
 .noscript {
@@ -32,6 +33,8 @@ h3.pdcTitle {
     color:red;
     font-weight:bold;
 }
+
+/******** Do not edit below this line ********/
 #panels > div {
     display:none;
 }

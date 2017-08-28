@@ -1,6 +1,6 @@
 ﻿"use strict";
 // Handles conversion and storage of coordinates for maps and reports
-app.coords = {
+pdcApp.coords = {
     WGS84: "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
     UTM15: "+proj=utm +zone=15 +ellps=GRS80 +datum=NAD83 +units=m +no_defs",
     UTM16: "+proj=utm +zone=16 +ellps=WGS84 +datum=WGS84 +units=m +no_defs",
@@ -120,7 +120,7 @@ app.coords = {
         }
     },
 
-    // Saves decimal lat/lon values in app.coords.system
+    // Saves decimal lat/lon values in pdcApp.coords.system
     saveDec: function (lat, lon) {
         this.system = {
             system: "dec",
@@ -131,7 +131,7 @@ app.coords = {
         };
     },
 
-    // Saves lat/lon degrees/minutes/seconds in app.coords.system
+    // Saves lat/lon degrees/minutes/seconds in pdcApp.coords.system
     saveDMS: function (latDeg, latMin, latSec, latNS, lonDeg, lonMin, lonSec, lonWE) {
         this.system = {
             system: "dms",
@@ -148,7 +148,7 @@ app.coords = {
         };
     },
 
-    // Saves UTM Easting, Northing, and Zone in app.coords.system
+    // Saves UTM Easting, Northing, and Zone in pdcApp.coords.system
     saveUTM: function (x, y, zone) {
         this.system = {
             system: "utm",
@@ -160,7 +160,7 @@ app.coords = {
         };
     },
 
-    // Saves State Plane Easting, Northing, and Zone in app.coords.system
+    // Saves State Plane Easting, Northing, and Zone in pdcApp.coords.system
     saveStatePlane: function (x, y, zone) {
         this.system = {
             system: "plane",

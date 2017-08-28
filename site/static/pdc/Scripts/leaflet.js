@@ -2,39 +2,39 @@
 
 // Contains setup and events for Leaflet interactive map and layers
 
-app.leaflet = {};
+pdcApp.leaflet = {};
 
-app.leaflet.view = {
+pdcApp.leaflet.view = {
     latlon: [31, -92],
     zoom: 7
 };
 
-app.leaflet.layers = {};
-app.leaflet.selectedAOI = [];
+pdcApp.leaflet.layers = {};
+pdcApp.leaflet.selectedAOI = [];
 
-app.leaflet.basemaps = [
+pdcApp.leaflet.basemaps = [
     { name: "Streets", url: "https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}" },
     { name: "Satellite", url: "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}" },
     { name: "Topographic", url: "https://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x}" }
 ];
 
-app.leaflet.initialBasemap = 0;
+pdcApp.leaflet.initialBasemap = 0;
 
-app.map = L.map("map").setView(app.leaflet.view.latlon, app.leaflet.view.zoom);
+pdcApp.map = L.map("map").setView(pdcApp.leaflet.view.latlon, pdcApp.leaflet.view.zoom);
 
 // Add first basemap
-app.leaflet.basemap = L.tileLayer(app.leaflet.basemaps[app.leaflet.initialBasemap].url, {
+pdcApp.leaflet.basemap = L.tileLayer(pdcApp.leaflet.basemaps[pdcApp.leaflet.initialBasemap].url, {
     maxZoom: 18,
     minZoom: 6,
     id: "basemap"
-}).addTo(app.map);
+}).addTo(pdcApp.map);
 
 $("#pdcMapHome").on("click", function () {
-    app.map.setView(app.leaflet.view.latlon, app.leaflet.view.zoom);
+    pdcApp.map.setView(pdcApp.leaflet.view.latlon, pdcApp.leaflet.view.zoom);
 });
 
-app.leaflet.findLayerGivenAOI = function (aoiID) {
-    var aoiLayers = app.leaflet.layers.aoi._layers;
+pdcApp.leaflet.findLayerGivenAOI = function (aoiID) {
+    var aoiLayers = pdcApp.leaflet.layers.aoi._layers;
     var keys = Object.keys(aoiLayers);
 
     var keyLen = keys.length;
@@ -50,66 +50,66 @@ app.leaflet.findLayerGivenAOI = function (aoiID) {
     return null;
 };
 
-app.getAOI = function (api) {
-    app.leaflet.removeLayersExceptBasemap();
+pdcApp.getAOI = function (api) {
+    pdcApp.leaflet.removeLayersExceptBasemap();
 
     $.ajax({
-        url: app.url + "GetAOIGeoJSON?ParishList=" + app.model.parishes.toString(),
+        url: pdcApp.url + "GetAOIGeoJSON?ParishList=" + pdcApp.model.parishes.toString(),
         success: function (json) {
             if (json) {
-                app.aoiJSON = JSON.parse(json);
+                pdcApp.aoiJSON = JSON.parse(json);
 
-                app.leaflet.layers.aoi = L.geoJSON(app.aoiJSON, {
+                pdcApp.leaflet.layers.aoi = L.geoJSON(pdcApp.aoiJSON, {
                     style: function (feature) {
                         return { color: feature.properties.color, fillOpacity: 0.2 };
                     },
-                    onEachFeature: onEachAOIFeature
+                    onEachFeature: pdcApp.leaflet.onEachAOIFeature
                 });
 
-                app.leaflet.layers.aoi.addTo(app.map);
+                pdcApp.leaflet.layers.aoi.addTo(pdcApp.map);
 
                 // Flag to tell UI to capture and send AOIs to API
-                app.sendBackAOI = true;
+                pdcApp.sendBackAOI = true;
 
                 // Wait until we have AOI to show map
-                app.ui.prepareQuestionForm(api);
+                pdcApp.ui.prepareQuestionForm(api);
 
                 // "Redraw" map since it may have been hidden
-                app.map.invalidateSize();
+                pdcApp.map.invalidateSize();
 
-                if (app.leaflet.layers.parishes) {
+                if (pdcApp.leaflet.layers.parishes) {
                     // Thinner border with no fill color
-                    app.leaflet.layers.parishes.setStyle({
+                    pdcApp.leaflet.layers.parishes.setStyle({
                         weight: 1,
                         fillOpacity: 0
                     });
 
-                    app.leaflet.layers.parishes.addTo(app.map);
+                    pdcApp.leaflet.layers.parishes.addTo(pdcApp.map);
 
                     // Fit map extent to that of the selected parishes
-                    app.map.fitBounds(app.leaflet.layers.parishes.getBounds(), {
+                    pdcApp.map.fitBounds(pdcApp.leaflet.layers.parishes.getBounds(), {
                         padding: [20, 20]
                     });
 
-                    app.leaflet.layers.aoi.bringToFront();
+                    pdcApp.leaflet.layers.aoi.bringToFront();
                 }
                 else {
                     // Fit map extent to that of the AOI layer
-                    app.map.fitBounds(app.leaflet.layers.aoi.getBounds(), {
+                    pdcApp.map.fitBounds(pdcApp.leaflet.layers.aoi.getBounds(), {
                         padding: [50, 50]
                     });
                 }
 
                 // Create AOI checkboxes
-                app.aois();
+                pdcApp.aois();
 
-                app.ui.hideWaiting();
+                pdcApp.ui.hideWaiting();
             }
             else {
                 // No AOIs were returned, so return a "NO" response to API for this question
-                app.ui.hideWaiting();
+                pdcApp.ui.hideWaiting();
 
-                app.api.getQuestion({
+                pdcApp.api.getQuestion({
                     question: 7,
                     answer: "N"
                 });
@@ -119,39 +119,39 @@ app.getAOI = function (api) {
 };
 
 // Removes all layers except basemap from Leaflet map
-app.leaflet.removeLayersExceptBasemap = function () {
-    app.map.eachLayer(function (layer) {
+pdcApp.leaflet.removeLayersExceptBasemap = function () {
+    pdcApp.map.eachLayer(function (layer) {
         if (!layer.options.id || layer.options.id !== "basemap") {
-            app.map.removeLayer(layer);
+            pdcApp.map.removeLayer(layer);
         }
     });
 }
 
 //  Displays basic map for certain species questions.
-app.showMapForSpecies = function (questionID) {
+pdcApp.showMapForSpecies = function (questionID) {
     $("#mapQuestion").addClass("visible");
 
-    app.leaflet.removeLayersExceptBasemap();
+    pdcApp.leaflet.removeLayersExceptBasemap();
 
     if (questionID === 700) {
         // Manatee consultation zone
         $.ajax({
-            url: app.url + "GetManateeGeoJSON",
+            url: pdcApp.url + "GetManateeGeoJSON",
             success: function (json) {
                 if (json) {
-                    app.leaflet.layers.manatee = L.geoJSON(JSON.parse(json), {
+                    pdcApp.leaflet.layers.manatee = L.geoJSON(JSON.parse(json), {
                         style: function (feature) {
                             return { color: feature.properties.color };
                         }
                     });
 
-                    app.leaflet.layers.manatee.addTo(app.map);
+                    pdcApp.leaflet.layers.manatee.addTo(pdcApp.map);
 
                     // "Redraw" map since it may have been hidden
-                    app.map.invalidateSize();
+                    pdcApp.map.invalidateSize();
 
                     // Fit map extent to that of manatee consultation zone
-                    app.map.fitBounds(app.leaflet.layers.manatee.getBounds(), {
+                    pdcApp.map.fitBounds(pdcApp.leaflet.layers.manatee.getBounds(), {
                         padding: [50, 50]
                     });
                 }
@@ -161,22 +161,22 @@ app.showMapForSpecies = function (questionID) {
     else if (questionID === 1302) {
         // Piping plover consultation zone
         $.ajax({
-            url: app.url + "GetPipingPloverGeoJSON",
+            url: pdcApp.url + "GetPipingPloverGeoJSON",
             success: function (json) {
                 if (json) {
-                    app.leaflet.layers.plover = L.geoJSON(JSON.parse(json), {
+                    pdcApp.leaflet.layers.plover = L.geoJSON(JSON.parse(json), {
                         style: function (feature) {
                             return { color: feature.properties.color };
                         }
                     });
 
-                    app.leaflet.layers.plover.addTo(app.map);
+                    pdcApp.leaflet.layers.plover.addTo(pdcApp.map);
 
                     // "Redraw" map since it may have been hidden
-                    app.map.invalidateSize();
+                    pdcApp.map.invalidateSize();
 
                     // Fit map extent to that of piping plover consultation zone
-                    app.map.fitBounds(app.leaflet.layers.plover.getBounds(), {
+                    pdcApp.map.fitBounds(pdcApp.leaflet.layers.plover.getBounds(), {
                         padding: [50, 50]
                     });
                 }
@@ -188,31 +188,31 @@ app.showMapForSpecies = function (questionID) {
     }
 };
 
-function onEachAOIFeature(feature, layer) {
+pdcApp.leaflet.onEachAOIFeature = function (feature, layer) {
     layer.on({
-        click: toggleAOI
+        click: pdcApp.leaflet.toggleAOI
     });
-}
+};
 
 $(document).on("change", ".aoi-chk", function () {
     // preview aoi layer to try and change style of checked AOI
     var chkValue = this.id.replace("aoi", "");
-    var layer = app.leaflet.findLayerGivenAOI(chkValue);
+    var layer = pdcApp.leaflet.findLayerGivenAOI(chkValue);
 
     if (layer) {
         var opacity = layer.options.fillOpacity;
 
-        toggleLayerOpacity(layer, chkValue, opacity);
+        pdcApp.leaflet.toggleLayerOpacity(layer, chkValue, opacity);
         layer.bringToFront();
     }
 
-    if (app.leaflet.selectedAOI.indexOf(chkValue) !== -1) {
+    if (pdcApp.leaflet.selectedAOI.indexOf(chkValue) !== -1) {
         // remove it
-        app.leaflet.selectedAOI.splice(app.leaflet.selectedAOI.indexOf(chkValue));
+        pdcApp.leaflet.selectedAOI.splice(pdcApp.leaflet.selectedAOI.indexOf(chkValue));
     }
     else {
         // add it
-        app.leaflet.selectedAOI.push(chkValue);
+        pdcApp.leaflet.selectedAOI.push(chkValue);
     }
 
     // Loop through all AOIs to see which are checked
@@ -227,16 +227,16 @@ $(document).on("change", ".aoi-chk", function () {
 
     if (anythingChecked) {
         document.getElementById("noAOI").checked = false;
-        app.ui.enableNextButton();
+        pdcApp.ui.enableNextButton();
     }
     else {
-        app.ui.disableNextButton();
+        pdcApp.ui.disableNextButton();
     }
 });
 
 $(document).on("change", "#noAOI", function () {
     var chks = document.getElementsByClassName("aoi-chk");
-    var aoiLayers = app.leaflet.layers.aoi;
+    var aoiLayers = pdcApp.leaflet.layers.aoi;
     var keys = Object.keys(aoiLayers._layers);
 
     for (var i = 0; i < chks.length; i++) {
@@ -245,21 +245,21 @@ $(document).on("change", "#noAOI", function () {
 
             chks[i].checked = false;
 
-            var layer = app.leaflet.findLayerGivenAOI(id);
+            var layer = pdcApp.leaflet.findLayerGivenAOI(id);
 
-            toggleLayerOpacity(layer, id, 0.9);
+            pdcApp.leaflet.toggleLayerOpacity(layer, id, 0.9);
         }
     }
 
     if (this.checked) {
-        app.ui.enableNextButton();
+        pdcApp.ui.enableNextButton();
     }
     else {
-        app.ui.disableNextButton();
+        pdcApp.ui.disableNextButton();
     }
 });
 
-function toggleAOI(e) {
+pdcApp.leaflet.toggleAOI = function (e) {
     console.log(e);
     console.log(1);
     var layer = e.target;
@@ -281,14 +281,13 @@ function toggleAOI(e) {
                 document.getElementById("aoi" + id).checked = true;
 
                 document.getElementById("noAOI").checked = false;
-                app.ui.enableNextButton();
+                pdcApp.ui.enableNextButton();
             }
         }
     }
     console.log(6);
 
-    //toggleLayerColor(layer, id, e.target.options.color);
-    toggleLayerOpacity(layer, id, e.target.options.fillOpacity);
+    pdcApp.leaflet.toggleLayerOpacity(layer, id, e.target.options.fillOpacity);
 
     layer.bringToFront();
 
@@ -303,11 +302,11 @@ function toggleAOI(e) {
     }
 
     if (!anythingChecked) {
-        app.ui.disableNextButton();
+        pdcApp.ui.disableNextButton();
     }
-}
+};
 
-function toggleLayerOpacity(layer, id, currentOpacity) {
+pdcApp.leaflet.toggleLayerOpacity = function (layer, id, currentOpacity) {
     var selectedOpacity = 0.9;
 
     // decide how to style polygon
@@ -325,17 +324,17 @@ function toggleLayerOpacity(layer, id, currentOpacity) {
             fillOpacity: 0.9
         });
     }
-}
+};
 
-app.getParishGeoJSON = function () {
+pdcApp.getParishGeoJSON = function () {
     var theMap;
-    var params = app.model.parishes.toString();
+    var params = pdcApp.model.parishes.toString();
 
     $.ajax({
-        url: app.url + "GetParishGeoJSON?ParishList=" + params,
+        url: pdcApp.url + "GetParishGeoJSON?ParishList=" + params,
         success: function (json) {
             if (json) {
-                app.leaflet.layers.parishes = L.geoJSON(JSON.parse(json), {
+                pdcApp.leaflet.layers.parishes = L.geoJSON(JSON.parse(json), {
                     style: function (feature) {
                         return { color: feature.properties.color };
                     }
@@ -345,12 +344,12 @@ app.getParishGeoJSON = function () {
     });
 };
 
-app.aois = function () {
+pdcApp.aois = function () {
     var html = "";
-    var aoiLen = app.aoiJSON.length;
+    var aoiLen = pdcApp.aoiJSON.length;
 
     for (var i = 0; i < aoiLen; i++) {
-        var aoi = app.aoiJSON[i].properties;
+        var aoi = pdcApp.aoiJSON[i].properties;
 
         var chk = "<div class='aoi-color' style='border:3px solid " + aoi.color + "'></div><input class='aoi-chk' id='aoi" + aoi.ID + "' type='checkbox' />" +
             "<label for='aoi" + aoi.ID + "'>" + aoi.aoi + "</label>";
@@ -364,11 +363,11 @@ app.aois = function () {
     document.getElementById("aois").innerHTML = "<div>" + html + "</div>";
 };
 
-app.leaflet.makeBasemaps = function (startIndex) {
+pdcApp.leaflet.makeBasemaps = function (startIndex) {
     var html = "";
 
-    for (var i = 0; i < app.leaflet.basemaps.length; i++) {
-        var b = app.leaflet.basemaps[i];
+    for (var i = 0; i < pdcApp.leaflet.basemaps.length; i++) {
+        var b = pdcApp.leaflet.basemaps[i];
         html += "<div><label><input id='basemap" + i + "' class='basemap-option' type='radio' name='b' " + (i === startIndex ? "checked " : "") + "/> " + b.name + "</label></div>";
     }
 
@@ -377,16 +376,16 @@ app.leaflet.makeBasemaps = function (startIndex) {
 
 // When basemap option is changed
 $(document).on("change", ".basemap-option", function () {
-    app.map.removeLayer(app.leaflet.basemap);
+    pdcApp.map.removeLayer(pdcApp.leaflet.basemap);
 
     var basemapIndex = this.id.replace("basemap", "");
 
     // Add basemap
-    app.leaflet.basemap = L.tileLayer(app.leaflet.basemaps[basemapIndex].url, {
+    pdcApp.leaflet.basemap = L.tileLayer(pdcApp.leaflet.basemaps[basemapIndex].url, {
         maxZoom: 18,
         minZoom: 6,
         id: "basemap"
-    }).addTo(app.map);
+    }).addTo(pdcApp.map);
 });
 
 // Zoom into downtown Baton Rouge to display sample coordinates for each system to the user.
@@ -430,16 +429,16 @@ $("#zoomToPoint").on("click", function () {
     var value = ddl.options[ddl.selectedIndex].value;
 
     if (value === "mapDec") {
-        var result = app.coords.convertFromDec(
+        var result = pdcApp.coords.convertFromDec(
             document.getElementById("mapDecLat").value,
             document.getElementById("mapDecLon").value
         );
 
         if (result.success) {
-            app.map.setView([result.lat, result.lon], 14);
+            pdcApp.map.setView([result.lat, result.lon], 14);
 
             // Save coordinates and use them to populate report
-            app.coords.saveDec(result.lat, result.lon);
+            pdcApp.coords.saveDec(result.lat, result.lon);
         }
         else {
             alert(result.message);
@@ -459,13 +458,13 @@ $("#zoomToPoint").on("click", function () {
         var lonSec = document.getElementById("mapLonSec").value;
         var lonWE = _lonDDL.options[_lonDDL.selectedIndex].value;
 
-        var result = app.coords.convertFromDMS(latDeg, latMin, latSec, latNS, lonDeg, lonMin, lonSec, lonWE);
+        var result = pdcApp.coords.convertFromDMS(latDeg, latMin, latSec, latNS, lonDeg, lonMin, lonSec, lonWE);
 
         if (result.success) {
-            app.map.setView([result.lat, result.lon], 14);
+            pdcApp.map.setView([result.lat, result.lon], 14);
 
             // Save coordinates and use them to populate report
-            app.coords.saveDMS(latDeg, latMin, latSec, latNS, lonDeg, lonMin, lonSec, lonWE);
+            pdcApp.coords.saveDMS(latDeg, latMin, latSec, latNS, lonDeg, lonMin, lonSec, lonWE);
         }
         else {
             alert(result.message);
@@ -479,13 +478,13 @@ $("#zoomToPoint").on("click", function () {
         var y = document.getElementById("mapUtmY").value;
         var zone = _zoneDDL.options[_zoneDDL.selectedIndex].value;
 
-        var result = app.coords.convertFromUTM(x, y, zone);
+        var result = pdcApp.coords.convertFromUTM(x, y, zone);
 
         if (result.success) {
-            app.map.setView([result.lat, result.lon], 14);
+            pdcApp.map.setView([result.lat, result.lon], 14);
 
             // Save coordinates and use them to populate report
-            app.coords.saveUTM(x, y, zone);
+            pdcApp.coords.saveUTM(x, y, zone);
         }
         else {
             alert(result.message);
@@ -498,13 +497,13 @@ $("#zoomToPoint").on("click", function () {
         var y = document.getElementById("mapPlaneY").value;
         var zone = _ddlZone.options[_ddlZone.selectedIndex].value;
 
-        var result = app.coords.convertFromStatePlane(x, y, zone);
+        var result = pdcApp.coords.convertFromStatePlane(x, y, zone);
 
         if (result.success) {
-            app.map.setView([result.lat, result.lon], 14);
+            pdcApp.map.setView([result.lat, result.lon], 14);
 
             // Save coordinates and use them to populate report
-            app.coords.saveStatePlane(x, y, zone);
+            pdcApp.coords.saveStatePlane(x, y, zone);
         }
         else {
             alert(result.message);
@@ -516,4 +515,4 @@ $("#zoomToPoint").on("click", function () {
 });
 
 // Create basemap controller
-app.leaflet.makeBasemaps(app.leaflet.initialBasemap);
+pdcApp.leaflet.makeBasemaps(pdcApp.leaflet.initialBasemap);

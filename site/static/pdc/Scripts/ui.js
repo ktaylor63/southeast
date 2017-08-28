@@ -1,13 +1,9 @@
-/* eslint-disable */
 ﻿"use strict";
-
-
-console.log(app);
 
 // Handles UI events (button clicks)
 
 $("#previous").on("click", function () {
-    app.model.previous();
+    pdcApp.model.previous();
 });
 
 $("#next").on("click", function () {
@@ -36,14 +32,14 @@ $("#next").on("click", function () {
         answer = (document.getElementById("radioYes").checked ? "Y" : (document.getElementById("radioNo").checked ? "N" : ""));
     }
 
-    app.model.saveNode({
+    pdcApp.model.saveNode({
         question: questionNum,
         answer: answer,
         questionText: document.getElementById("question").innerHTML,
         additionalText: document.getElementById("additionalText").innerHTML
     });
 
-    app.model.next();
+    pdcApp.model.next();
 });
 
 $("#ok").on("click", function () {
@@ -51,14 +47,14 @@ $("#ok").on("click", function () {
     var answer = "Y";
     var questionNum = document.getElementById("questionNum").value;
 
-    app.model.saveNode({
+    pdcApp.model.saveNode({
         question: questionNum,
         answer: answer,
         questionText: document.getElementById("question").innerHTML,
         additionalText: document.getElementById("additionalText").innerHTML
     });
 
-    app.model.next();
+    pdcApp.model.next();
 });
 
 $("#gotoAck").on("click", function () {
@@ -67,20 +63,20 @@ $("#gotoAck").on("click", function () {
 });
 
 $("#gotoParishes").on("click", function () {
-    app.model.init();
+    pdcApp.model.init();
 });
 
 // Saves the selected parishes into the model. Then hides parish list and fires next() on the model to advanced to the first question.
 $("#saveParishes").on("click", function () {
     var chks = $(".parish");
-    app.model.parishes = [];
+    pdcApp.model.parishes = [];
 
     var names = "";
     var j = 0;
 
     for (var i = 0; i < chks.length; i++) {
         if (chks[i].checked) {
-            app.model.parishes.push(chks[i].value);
+            pdcApp.model.parishes.push(chks[i].value);
             names += (names ? ", " : "") + chks[i].nextSibling.data.trim();
             j++;
         }
@@ -94,15 +90,15 @@ $("#saveParishes").on("click", function () {
     $("#textQuestion").toggleClass("visible");
 
     // Insert zeroth node to represent the first question (parish list)
-    app.model.saveNode({
+    pdcApp.model.saveNode({
         question: 0
     });
 
     // Advance to next question in model
-    app.model.next();
+    pdcApp.model.next();
 
     // Get parish GeoJSON to use for later (maybe?)
-    app.getParishGeoJSON(app.model.parishes.toString());
+    pdcApp.getParishGeoJSON(pdcApp.model.parishes.toString());
 });
 
 // Ensure at least one parish is selected before Continue button is enabled
@@ -123,7 +119,7 @@ $(document).on("change", "#parishList input", function () {
 });
 
 $("#yesNo input").on("change", function () {
-    app.ui.enableNextButton();
+    pdcApp.ui.enableNextButton();
 });
 
 $("#gotoNoEffectReport").on("click", function () {
@@ -155,9 +151,9 @@ $(".gotoReport").on("click", function () {
     }
 
     // If user entered coordinates, try to prefill form with them
-    if (app.coords.system) {
-        var coordSys = app.coords.system.system;
-        var coordLoc = app.coords.system.location;
+    if (pdcApp.coords.system) {
+        var coordSys = pdcApp.coords.system.system;
+        var coordLoc = pdcApp.coords.system.location;
 
         if (coordSys === "dec") {
             document.getElementById("system").selectedIndex = 0;
@@ -205,7 +201,7 @@ $(".gotoReport").on("click", function () {
             document.getElementById("system").selectedIndex = 3;
             document.getElementById("spX").value = coordLoc.spX;
             document.getElementById("spY").value = coordLoc.spY;
-
+            
             // HACK: refactor to set based on selectedValue??
             if (coordLoc.spZone === "north") { document.getElementById("spZone").selectedIndex = 0; }
             else if (coordLoc.spZone === "south") { document.getElementById("spZone").selectedIndex = 1; }
@@ -274,7 +270,7 @@ $("#getReport").on("click", function () {
 
     // ...the rest of the PII need not be sent until the GetReport request
     var allOfGeneralInfo = {
-
+        
         agencyType: reportModel.generalInfo.agencyType,
         agency: reportModel.generalInfo.agency,
         poc: document.getElementById("poc").value.trim(),
@@ -321,12 +317,12 @@ $("#getReport").on("click", function () {
         reportModel.projectInfo.location.spZone = document.getElementById("spZone").value;
     }
 
-    reportModel.parishes = app.model.parishes;
+    reportModel.parishes = pdcApp.model.parishes;
 
     // Send over question and answer (not parent)
     reportModel.questions = [];
-    for (var i = 0; i < app.model.nodes.length; i++) {
-        var q = app.model.nodes[i];
+    for (var i = 0; i < pdcApp.model.nodes.length; i++) {
+        var q = pdcApp.model.nodes[i];
 
         // Don't send question 0 to report-generator
         if (q.question) {
@@ -337,11 +333,11 @@ $("#getReport").on("click", function () {
         }
     }
 
-    reportModel.species = app.model.speciesDone;
+    reportModel.species = pdcApp.model.speciesDone;
 
     $.ajax({
         type: "POST",
-        url: app.url + "PostReportObject",
+        url: pdcApp.url + "PostReportObject",
         data: JSON.stringify(reportModel),
         contentType: "application/json; charset=utf-8",
         success: function (reportID) {
@@ -363,7 +359,7 @@ $("#getReport").on("click", function () {
                         (info.email ? "&email=" + info.email : "");
                 }
 
-                window.location = app.url + "GetReport?reportID=" + reportID + params;
+                window.location = pdcApp.url + "GetReport?reportID=" + reportID + params;
 
             }
             else {
@@ -412,12 +408,12 @@ $(document).on("click", ".species-img-small", function () {
     hs.align = "center";
 
     var speciesID = this.id.replace("img", "");
-    var info = app.speciesInfo[speciesID];
+    var info = pdcApp.speciesInfo[speciesID];
     var html = "";
 
     if (info) {
         if (info.image) {
-            html += "<img src='" + app.path + "Images/" + info.image + "' alt='" + info.name + "' class='species-img-large' />";
+            html += "<img src='" + pdcApp.path + "Images/" + info.image + "' alt='" + info.name + "' class='species-img-large' />";
         }
         if (info.desc) {
             html += "<div class='species-desc' style='margin:10px'><p>" + info.desc + "</p></div>";
@@ -447,7 +443,7 @@ $(document).on("click", ".species-img-small", function () {
     });
 });
 
-app.ui = {
+pdcApp.ui = {
     // Prepares UI based on the incoming question: whether it's a yes/no or OK question, whether it requires the map or additional text, etc.
     prepareQuestionForm: function (question) {
         if (!question) {
@@ -475,11 +471,11 @@ app.ui = {
                 // HACK: show map for two particular questions
                 if (question.NextQuestionID === 700) {
                     // Manatee consultation zone map
-                    app.showMapForSpecies(question.NextQuestionID);
+                    pdcApp.showMapForSpecies(question.NextQuestionID);
                 }
                 else if (question.NextQuestionID === 1302) {
                     // Piping plover critical habitat
-                    app.showMapForSpecies(question.NextQuestionID);
+                    pdcApp.showMapForSpecies(question.NextQuestionID);
                 }
                 else {
                     $("#mapQuestion").removeClass("visible");
@@ -491,8 +487,8 @@ app.ui = {
                     nextQuestionText = nextQuestionText.replace(
                         "fill material, etc.) on saline prairies (photo link)?",
                         "fill material, etc.) on saline prairies " +
-                        "(<a href='" + app.path + "Images/SalinePrairie1.jpg' title='Click to view a saline prairie photo' onclick='return hs.expand(this);'>photo 1</a>, " +
-                        "<a href='" + app.path + "Images/SalinePrairie2.jpg' title='Click to view a saline prairie photo' onclick='return hs.expand(this);'>photo 2</a>)?");
+                        "(<a href='" + pdcApp.path + "Images/SalinePrairie1.jpg' title='Click to view a saline prairie photo' onclick='return hs.expand(this);'>photo 1</a>, " +
+                        "<a href='" + pdcApp.path + "Images/SalinePrairie2.jpg' title='Click to view a saline prairie photo' onclick='return hs.expand(this);'>photo 2</a>)?");
                 }
             }
 
@@ -511,23 +507,23 @@ app.ui = {
                 var q = question.speciesID;
 
                 // If current species !- question.species, push current back onto stack
-                if (q.toString() !== app.model.speciesCurrent) {
-                    app.model.species.push(app.model.speciesCurrent);
+                if (q.toString() !== pdcApp.model.speciesCurrent) {
+                    pdcApp.model.species.push(pdcApp.model.speciesCurrent);
                 }
 
-                app.model.speciesCurrent = q;
+                pdcApp.model.speciesCurrent = q;
 
                 // If current species is in speciesDone, need to delete it
-                for (var d = 0; d < app.model.speciesDone.length; d++) {
-                    var done = app.model.speciesDone[d];
+                for (var d = 0; d < pdcApp.model.speciesDone.length; d++) {
+                    var done = pdcApp.model.speciesDone[d];
 
                     if (done.speciesID === q.toString()) {
-                        app.model.speciesDone.splice(d); // Remove this item
+                        pdcApp.model.speciesDone.splice(d); // Remove this item
                     }
                 }
             }
 
-            var currentSpeciesID = app.model.speciesCurrent;
+            var currentSpeciesID = pdcApp.model.speciesCurrent;
             if (currentSpeciesID) {
 
                 if (currentSpeciesID.toString() === "11") {
@@ -537,13 +533,13 @@ app.ui = {
                     var html = "";
 
                     for (var i = 0; i < arr.length; i++) {
-                        var info = app.speciesInfo[arr[i]];
+                        var info = pdcApp.speciesInfo[arr[i]];
 
                         if (info) {
                             html += "<div>";
 
                             if (info.image) {
-                                html += "<img id='img" + info.id + "' src='" + app.path + "Images/" + info.image + "' alt='" + info.name + "' class='species-img-small' />";
+                                html += "<img id='img" + info.id + "' src='" + pdcApp.path + "Images/" + info.image + "' alt='" + info.name + "' class='species-img-small' />";
                             }
 
                             html += "<h4>" + info.name + "</h4></div><div>(Click image for more details)</div><div style='clear:both'></div><hr />";
@@ -557,13 +553,13 @@ app.ui = {
                     var html = "";
 
                     for (var i = 0; i < arr.length; i++) {
-                        var info = app.speciesInfo[arr[i]];
+                        var info = pdcApp.speciesInfo[arr[i]];
 
                         if (info) {
                             html += "<div>";
 
                             if (info.image) {
-                                html += "<img id='img" + info.id + "' src='" + app.path + "Images/" + info.image + "' alt='" + info.name + "' class='species-img-small' />";
+                                html += "<img id='img" + info.id + "' src='" + pdcApp.path + "Images/" + info.image + "' alt='" + info.name + "' class='species-img-small' />";
                             }
 
                             html += "<h4>" + info.name + "</h4></div><div>(Click image for more details)</div><div style='clear:both'></div><hr />";
@@ -571,12 +567,12 @@ app.ui = {
                     }
                 }
                 else {
-                    var info = app.speciesInfo[currentSpeciesID];
+                    var info = pdcApp.speciesInfo[currentSpeciesID];
                     if (info) {
                         var html = "<div>";
 
                         if (info.image) {
-                            html += "<img id='img" + info.id + "' src='" + app.path + "Images/" + info.image + "' alt='" + info.name + "' class='species-img-small' />";
+                            html += "<img id='img" + info.id + "' src='" + pdcApp.path + "Images/" + info.image + "' alt='" + info.name + "' class='species-img-small' />";
                         }
 
                         html += "<h4>" + info.name + "</h4></div><div>(Click image for more details)</div><div style='clear:both'></div><hr />";
@@ -624,7 +620,7 @@ app.ui = {
 
             if (specialProcessing && specialProcessing === "AOI") {
                 document.getElementById("yesNo").style.display = "none";
-                app.ui.disableNextButton();
+                pdcApp.ui.disableNextButton();
             }
         }
     },
@@ -646,30 +642,30 @@ app.ui = {
     },
 
     startMap: function (api) {
-        app.ui.showWaiting();
-        app.getAOI(api);
+        pdcApp.ui.showWaiting();
+        pdcApp.getAOI(api);
     },
 
     showBasedOnResponse: function () {
-        var responses = app.getResponse();
+        var responses = pdcApp.getResponse();
 
         // If a species had a NOAA response, show it in addition to the "worst" response below
         if (responses.includeNOAA) {
-            app.ui.showNOAA();
+            pdcApp.ui.showNOAA();
         }
 
         switch (responses.worst) {
             case 1:
-                app.ui.showNoEffect();
+                pdcApp.ui.showNoEffect();
                 break;
             case 2:
-                app.ui.showSendItIn();
+                pdcApp.ui.showSendItIn();
                 break;
             case 3:
-                app.ui.showNLAA();
+                pdcApp.ui.showNLAA();
                 break;
             default:
-                app.ui.showSendItIn();
+                pdcApp.ui.showSendItIn();
                 break;
         }
     },
