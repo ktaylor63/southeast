@@ -1,11 +1,9 @@
 const L = require('leaflet');
 const clickDownload = require('client-csv');
 const papaparse = require('papaparse');
+const inside = require('turf-inside');
 require('leaflet-draw');
 
-const inside = require('turf-inside');
-
-// const template = require('./project-template.jade');
 const sciencebase = require('./sciencebase');
 const layers = require('./layers');
 
@@ -65,7 +63,7 @@ function createDownloadLink(data) {
 
 function toggleInfoWindow(e) {
   const project = e.target.feature;
-  infoContent.innerHTML = template({ project });
+  infoContent.innerHTML = template(project);
   infoWindow.classList.toggle('active');
 }
 
