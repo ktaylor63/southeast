@@ -16,6 +16,7 @@
         "optionalDependencies": false,
         "peerDependencies": false
       }
-    ]
+    ],
+    "newline-per-chained-call": [2, { "ignoreChainWithDepth": 3 }]
   }
 }
