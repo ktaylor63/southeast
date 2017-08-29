@@ -8,26 +8,29 @@ const output = document.querySelector('.output');
 const input = document.querySelector('.document-input');
 
 let hasWWW = window.location.href.indexOf('www');
-hasWWW = (hasWWW < 0) ? false : true;
+hasWWW = !(hasWWW < 0);
 const baseURL = document.body.getAttribute('data-root');
 const dataURL = hasWWW ? baseURL : baseURL.replace('www.', '');
 
-const template = ({type, documents: docs}) => {
-  const lastCharacter = type.slice(-1);
+const unique = arrArg => arrArg.filter((elem, pos, arr) => arr.indexOf(elem) === pos);
+
+const template = ({ type, documents: docs }) => {
   const heading = pluralize(type);
   return `
     <h2>${heading}</h2>
-    <ul>${docs.map(d => {
-      const year = d.year ? '(' + d.year + ')' : '';
-      return `<li><a href="${d.url}" target="_blank">${d.office} ${d.name} ${year}</a></li>`
-    }).join('')}
+    <ul>${docs
+    .map(d => {
+      const year = d.year ? `(${d.year})` : '';
+      return `<li><a href="${d.url}" target="_blank">${d.office} ${d.name} ${year}</a></li>`;
+    })
+    .join('')}
     </ul>
   `;
-}
+};
 
 let documents;
 
-const index = lunr(function() {
+const index = lunr(function seedIndex() {
   this.field('name', { boost: 10 });
   this.field('office');
   this.field('type', { boost: 5 });
@@ -38,67 +41,39 @@ const index = lunr(function() {
   this.ref('id');
 });
 
-const init = () => {
-  const value = getQueryStringValue();
-  if (value) input.value = value;
-
-  xhr.get(`${dataURL}data/reading-room-documents.js`, (err, res, body) => {
-    if (err) output.innerHTML = `<h2>An error occurred; could not download documents.</h2>`;
-    documents = JSON.parse(body);
-    seedIndex(documents);
-    value ? search({ target: { value: value }}) : render(documents);
-    input.addEventListener('change', search);
-    input.addEventListener('keyup', search);
-  });
-}
-
 const getQueryStringValue = () => {
   const queries = ['q', 'query', 's', 'search'];
   const parsed = queryString.parse(location.search);
   let value = false;
-  queries.forEach(query => { if (parsed[query]) value = parsed[query]; });
+  queries.forEach(query => {
+    if (parsed[query]) value = parsed[query];
+  });
   return value;
-}
-
-const search = (e) => {
-  const query = e.target.value;
-  if (query.length === 0) {
-    render(documents);
-    return;
-  }
-
-  const results = index.search(query)
-    .sort((a,b) => a.score < b.score)
-    .map(hit => documents[hit.ref]);
-
-  if (results.length === 0) return output.innerHTML = `<h2>Your query did not return any documents.</h2>`;
-
-  return render(results);
-}
+};
 
 const updateUrl = doc => {
   if (isUrl(doc.url)) return doc;
   doc.url = `${baseURL}pdf/${doc.url}`;
   return doc;
-}
+};
 
-const render = (docs) => {
+const render = docs => {
   output.innerHTML = '';
   // Create an array of document types (no duplicates)
-  const types = [...new Set(docs.map(doc => doc.type))].sort();
+  const types = unique(docs.map(doc => doc.type)).sort();
   // Sort by office name, and by date if one exists
   types.forEach(type => {
     const filtered = docs
       .filter(doc => type === doc.type)
       .map(updateUrl)
-      .sort( (a, b) => a.office < b.office)
-      .sort( (a, b) => parseInt(a.year) - parseInt(b.year))
+      .sort((a, b) => a.office < b.office)
+      .sort((a, b) => parseInt(a.year) - parseInt(b.year))
       .reverse();
     output.insertAdjacentHTML('beforeend', template({ type, documents: filtered }));
   });
-}
+};
 
-const seedIndex = (docs) => {
+const seedIndex = docs => {
   docs.forEach((doc, i) => {
     index.add({
       id: i,
@@ -111,6 +86,39 @@ const seedIndex = (docs) => {
       programs: doc.programs
     });
   });
-}
+};
+
+const search = e => {
+  const query = e.target.value;
+  if (query.length === 0) {
+    render(documents);
+    return;
+  }
+
+  const results = index
+    .search(query)
+    .sort((a, b) => a.score < b.score)
+    .map(hit => documents[hit.ref]);
+
+  if (results.length === 0) {
+    output.innerHTML = '<h2>Your query did not return any documents.</h2>';
+  }
+  render(results);
+};
+
+const init = () => {
+  const value = getQueryStringValue();
+  if (value) input.value = value;
+
+  xhr.get(`${dataURL}data/reading-room-documents.js`, (err, res, body) => {
+    if (err) output.innerHTML = '<h2>An error occurred; could not download documents.</h2>';
+    documents = JSON.parse(body);
+    seedIndex(documents);
+    if (value) search({ target: { value } });
+    else render(documents);
+    input.addEventListener('change', search);
+    input.addEventListener('keyup', search);
+  });
+};
 
 init();
