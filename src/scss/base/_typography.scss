@@ -84,6 +84,18 @@ h6 {
   margin-bottom: $leading;
   line-height: $leading;
 }
+
+h1:target,
+h2:target,
+h3:target,
+h4:target,
+h5:target,
+h6:target,
+section:target > h2 {
+  border-bottom: 3px solid $color-accent;
+  text-transform: uppercase;
+}
+
 h1 {
   font-size: 30px;
   line-height: 35px;
