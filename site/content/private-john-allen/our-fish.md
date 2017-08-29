@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 'Our fish'
 description: 'Private John Allen National Fish Hatchery works to recover, restore and enhance threatened, endangered, at-risk and recreational fish populations in the Southeast.'
 tags:
@@ -14,7 +13,7 @@ hero:
 facebook: pvtjohnallennfh
 nav: 'Our Fish'
 weight: 2
-updated: 'August 24th, 2017'
+updated: 'August 29th, 2017'
 ---
 
 Private John Allen National Fish Hatchery is charged with restoring threatened, endangered, at-risk and recreational fish species to achieve self-sustaining populations in the wild and for stocking recreational fish on national wildlife refuges.  Learn more about some of the species of fish we raise:

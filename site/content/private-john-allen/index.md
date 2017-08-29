@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 'Private John Allen National Fish Hatchery'
 description: 'Private John Allen National Fish Hatchery works to recover, restore and enhance threatened, endangered, at-risk and recreational fish populations in the Southeast.'
 tags:
@@ -20,12 +19,16 @@ office: 'Pvt. John Allen National Fish Hatchery'
 js: /js/field-station.js
 url: /private-john-allen
 type: field-station
-updated: 'August 24th, 2017'
+updated: 'August 29th, 2017'
 ---
 
 Private John Allen National Fish Hatchery is a warmwater hatchery established in Tupelo, Mississippi, in 1901.  The hatchery is named after the Congressional  representative who appealed to the Congress in his famous ‘hatchery speech’: “Fish will travel overland for miles to get into the water we have at Tupelo . . . thousands and millions of unborn fish are clamoring to this Congress today for an opportunity to be hatched at the Tupelo hatchery.”
 
 Today, quality water helps ensure a quality brood stock of Gulf Coast walleye. Behemoths like paddlefish, alligator gar, and lake sturgeon are cultured here for restoration projects. Striped bass are also produced and stocked as part of a large national restoration effort. The hatchery develops propagation protocols for smaller fish species like darters and madtoms. National wildlife refuges benefit from the thousands of largemouth and bluegill produced and stocked by the hatchery. Private John Allen NFH raises a variety of fish specifically to host the parasitic stage of mussels as part of a multi-hatchery mussel conservation partnership.
+
+## Visiting hours of operation
+
+7:00am - 3:30pm Monday through Friday.
 
 <!-- {{< scroller-list tag="Private John Allen National Fish Hatchery" section="news" >}} -->
 {{< scroller-list tag="Private John Allen National Fish Hatchery" section="articles" >}}

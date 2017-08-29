@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 'Paddlefish production'
 nav: 'Paddlefish Production'
 weight: 3
@@ -13,7 +12,7 @@ hero:
     caption: 'Paddlefish being stocked in the Leaf River. Photo by Daniel Scwharz, USFWS.'
     position: 'center left'
 facebook: pvtjohnallennfh
-updated: 'August 24th, 2017'
+updated: 'August 29th, 2017'
 ---
 
 Populations of paddlefish in the United States have been on the decline over the past few decades primarily because they are one of three egg-bearing species that are permitted to be commercially fished and exported for their eggs.  With a decline in Caspian Sea sturgeon stocks, which was the main source of caviar, canneries have been using other species of fish, including  paddlefish,  to create caviar.  

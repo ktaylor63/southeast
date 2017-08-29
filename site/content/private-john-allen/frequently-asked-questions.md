@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 'Frequently Asked Questions'
 description: 'Private John Allen National Fish Hatchery works to recover, restore and enhance threatened, endangered, at-risk and recreational fish populations in the Southeast.'
 hero:
@@ -15,14 +14,14 @@ tags:
 facebook: pvtjohnallennfh
 nav: 'Frequently Asked Questions'
 weight: 4
-updated: 'August 24th, 2017'
+updated: 'August 29th, 2017'
 ---
 
 ## Where can I purchase a fishing license?
 
 **The U.S. Fish and Wildlife Service does not issue fishing licenses.**
 
-To review Mississippi fishing regulations and to purchase a license, please contact the Mississippi Department of Wildlife, Fisheries and Parks at 1-800-546-4868 or visit them online at mdwfp.com/wildlife-hunting.
+To review Mississippi fishing regulations and to purchase a license, please contact the Mississippi Department of Wildlife, Fisheries and Parks at 1-800-546-4868 or visit them online at [mdwfp.com/wildlife-hunting](https://www.mdwfp.com/wildlife-hunting/).
 
 ## Why do we need federal hatcheries and who pays for them?
 
