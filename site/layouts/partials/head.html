@@ -24,3 +24,8 @@
 <meta name="twitter:site" content="@usfwssoutheast">
 <meta name="twitter:title" content="{{ .Title }}" />
 <meta name="twitter:description" content="{{ if .Params.description }}{{.Params.description}}{{ else }}{{ .Summary }}{{end}}" />
+
+{{ $baseurl := printf "%s" .Site.BaseURL}}
+{{ if in $baseurl "fws.gov/southeast" }}
+<script async id="_fed_an_ua_tag" type="text/javascript" src="https://www.fws.gov/scripts/js/Universal-Federated-Analytics.js?agency=DOI&amp;subagency=USFWS"></script>
+{{ end }}
