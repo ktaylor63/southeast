@@ -2,24 +2,25 @@
 title: 'Fish and Wildlife Service conducting five-year status reviews of 22 Southeastern species'
 date: '2016-08-30'
 tags:
-    - 'At-Risk Species'
-    - 'Five Year Review'
-    - 'Endangered Species Act'
     - Alabama
+    - 'At-Risk Species'
+    - 'Choctawhatchee Beach Mouse'
+    - 'Endangered Species Act'
+    - 'Five Year Review'
     - Florida
     - Georgia
     - Lafayette
     - Louisiana
     - Mississippi
     - 'North Carolina'
+    - 'Panama City'
     - Tennessee
-    - Panama City
 hero:
     name: alabama-beach-mouse.jpg
     alt: 'A small mouse white white belly and sand-colored back hides behind beach vegetation.'
     link: 'https://flic.kr/p/8FgBkX'
     caption: 'Alabama beach mouse. Photo by USFWS.'
-updated: 'March 18th, 2017'
+updated: 'August 31st, 2017'
 ---
 The U.S. Fish and Wildlife Service will conduct five-year status reviews of 15 endangered and seven threatened species occurring across the southeastern United States.  The public is invited to provide information and comments concerning these species on or before October 31, 2016.
 
