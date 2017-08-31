@@ -16,7 +16,7 @@ function glossaryTerm() {
   // Record each time someone clicks an underlined glossary term
   document.body.addEventListener('click', e => {
     if (e.target.classList.contains('highlight')) {
-      analytics('send', 'event', 'Glossary', 'Clicked term', e.target.textContent);
+      analytics('send', 'event', 'Glossary', 'Clicked term', e.target.textContent.toLowerCase());
     }
   });
 }
