@@ -1,5 +1,5 @@
 require('classlist-polyfill');
-require('window.requestanimationframe')
+require('window.requestanimationframe');
 // Element.matches() polyfill
 if (!Element.prototype.matches) {
   Element.prototype.matches =
@@ -8,7 +8,7 @@ if (!Element.prototype.matches) {
     Element.prototype.msMatchesSelector ||
     Element.prototype.oMatchesSelector ||
     Element.prototype.webkitMatchesSelector ||
-    function(s) {
+    function elMatches(s) {
       const matches = (this.document || this.ownerDocument).querySelectorAll(s);
       let i = matches.length;
       while (--i >= 0 && matches.item(i) !== this) {}
@@ -25,12 +25,13 @@ const glossary = require('fws-glossary');
 const contacts = require('./contacts');
 const shortList = require('./short-list');
 const search = require('./search');
+const analytics = require('./analytics');
 
 const marker = new Marker(document.querySelector('#content'));
 const parallax = new Parallax('.parallax', { speed: 0.5 });
 
 let hasWWW = window.location.href.indexOf('www');
-hasWWW = (hasWWW < 0) ? false : true;
+hasWWW = !(hasWWW < 0);
 const baseURL = document.body.getAttribute('data-root');
 const dataURL = hasWWW ? baseURL : baseURL.replace('www.', '');
 
@@ -40,16 +41,15 @@ const hideScrollnav = document.querySelector('.hide-scrollnav');
 const sectionNav = document.querySelector('.section-nav');
 const h2s = content.querySelectorAll('h2');
 let contactsDownloaded = false;
-let scrollNav;
 let terms;
 
 parallax.animate();
-
+analytics.init();
 shortList.init({
   elements: document.querySelectorAll('.fade-list')
 });
 
-const lunrIndex = function() {
+const lunrIndex = function seedIndex() {
   this.field('name', { boost: 10 });
   this.field('description');
   this.field('related', { boost: 5 });
@@ -61,7 +61,7 @@ const lunrIndex = function() {
 // disable the scrollnav in the content file's frontmatter
 if (content && h2s.length > 0 && !hideScrollnav) {
   nav.init({
-    content: content,
+    content,
     insertTarget: document.querySelector('.side-nav'),
     showHeadline: false,
     scrollOffset: 55
@@ -87,9 +87,7 @@ xhr.get(`${dataURL}/data/terms.js`, (err, res, body) => {
   terms = JSON.parse(body);
   // Highlight words and their acronyms
   const words = terms.map(term => term.name);
-  const acronyms = terms
-    .filter(term => term.acronym)
-    .map(term => term.acronym);
+  const acronyms = terms.filter(term => term.acronym).map(term => term.acronym);
 
   marker.mark([...words, ...acronyms], {
     element: 'span',
@@ -100,13 +98,13 @@ xhr.get(`${dataURL}/data/terms.js`, (err, res, body) => {
     filter: (node, term, i) => {
       // Only highlight the first n occurrences
       if (i > 2) return false;
-      else return true;
+      return true;
     }
   });
 
   glossary.init({
-    terms: terms,
-    lunrIndex: lunrIndex,
+    terms,
+    lunrIndex,
     toggleClass: 'highlight',
     position: 'left'
   });
@@ -116,9 +114,51 @@ xhr.get(`${dataURL}/data/terms.js`, (err, res, body) => {
 
   // Open all links that go somewhere other than our site in a new tab
   anchors.forEach(anchor => {
-    if ( anchor.href.indexOf(document.body.getAttribute('data-root')) === -1 ) anchor.setAttribute('target', '_blank');
+    if (anchor.href.indexOf(document.body.getAttribute('data-root')) === -1) {
+      anchor.setAttribute('target', '_blank');
+    }
   });
 });
+
+// Select all of the url when the user clicks the share url input
+document.querySelector('.share-drawer input').addEventListener('focus', function selectInputText() {
+  this.setSelectionRange(0, this.value.length);
+});
+
+function removeActiveClassFromDrawer(e) {
+  const parent = e.target ? e.target.parentNode : e.parentNode;
+  if (parent) parent.classList.remove('active');
+}
+
+const drawerToggles = Array.from(document.querySelectorAll('.close-drawer'));
+
+function keyupHandler(e) {
+  const key = e.code || e.which || e.keyCode || 0;
+  if (key !== 27) return;
+  const drawers = [
+    document.querySelector('.contact-drawer'),
+    document.querySelector('.share-drawer'),
+    document.querySelector('.info-window')
+  ];
+
+  drawers.forEach(drawer => {
+    if (!drawer) return;
+    const button = drawer.querySelector('.close-drawer');
+    if (drawer.classList.contains('active')) removeActiveClassFromDrawer(button);
+  });
+}
+
+document.body.addEventListener('keyup', keyupHandler);
+
+drawerToggles.forEach(drawer => {
+  drawer.addEventListener('click', removeActiveClassFromDrawer);
+});
+
+function toggleActiveClass(el, theClass) {
+  const activeClass = theClass || 'active';
+  if (el.classList.contains(activeClass)) el.classList.remove(activeClass);
+  else el.classList.add(activeClass);
+}
 
 contactLinks.forEach(link => {
   link.addEventListener('click', () => {
@@ -138,54 +178,12 @@ document.querySelector('.toggle-share').addEventListener('click', () => {
   toggleActiveClass(document.querySelector('.share-drawer'));
 });
 
-// Select all of the url when the user clicks the share url input
-document.querySelector('.share-drawer input').addEventListener('focus', function() {
-  this.setSelectionRange(0, this.value.length)
-});
-
-const drawerToggles = Array.from(document.querySelectorAll('.close-drawer'));
-document.body.addEventListener('keyup', keyupHandler);
-
-drawerToggles.forEach(drawer => { drawer.addEventListener('click', removeActiveClassFromDrawer); });
-
-function removeActiveClassFromDrawer (e) {
-  const parent = (e.target) ? e.target.parentNode : e.parentNode;
-  if (parent) parent.classList.remove('active');
-}
-
-function keyupHandler(e) {
-  const key = e.code || e.which || e.keyCode || 0;
-  if (key !== 27) return;
-  const drawers = [
-    document.querySelector('.contact-drawer'),
-    document.querySelector('.share-drawer'),
-    document.querySelector('.info-window')
-  ];
-
-  drawers.forEach(drawer => {
-    if (!drawer) return;
-    const button = drawer.querySelector('.close-drawer');
-    if ( drawer.classList.contains('active') ) removeActiveClassFromDrawer(button);
-  });
-}
-
-function toggleScrollNav() {
-  if ( scrollNav.classList.contains('open') ) scrollNav.classList.remove('open');
-  else scrollNav.classList.add('open');
-}
-
-function toggleActiveClass(el, theClass) {
-  const activeClass = theClass || 'active';
-  if ( el.classList.contains(activeClass) ) el.classList.remove(activeClass);
-  else el.classList.add(activeClass);
-}
-
 // Supports dropdown menus in the section navigation
 if (sectionNav) {
   const sectionDropdowns = Array.from(sectionNav.querySelectorAll('.dropdown-item'));
 
   sectionDropdowns.forEach(dropdown => {
-    dropdown.addEventListener('click', (e) => {
+    dropdown.addEventListener('click', e => {
       const childList = e.target.parentNode.querySelector('ul');
       childList.classList.toggle('hidden');
     });
@@ -202,10 +200,9 @@ const throttle = require('lodash.throttle');
  * @return {Boolean|Element}  Returns null if not match found
  */
 const closest = (elem, selector) => {
-
   // Get closest match
-  for ( ; elem && elem !== document; elem = elem.parentNode ) {
-    if ( elem.matches( selector ) ) return elem;
+  for (; elem && elem !== document; elem = elem.parentNode) {
+    if (elem.matches(selector)) return elem;
   }
 
   return null;
@@ -213,24 +210,25 @@ const closest = (elem, selector) => {
 
 const scrollerLists = Array.from(document.querySelectorAll('.scroller-list--list'));
 
-scrollerLists.forEach(list => {
-  list.addEventListener('scroll', throttle(lazyLoad, 100));
-});
-
 function lazyLoad(e) {
   const attribute = 'data-src';
   const scrollerList = e.target;
   const nearestLazyImg = scrollerList.querySelector(`[${attribute}]`);
   const nearestLazyItem = closest(nearestLazyImg, '.scroller-list--item');
   if (!nearestLazyItem) return;
-  const lazyImgFromView = nearestLazyItem.offsetTop - scrollerList.clientHeight - scrollerList.scrollTop;
+  const lazyImgFromView =
+    nearestLazyItem.offsetTop - scrollerList.clientHeight - scrollerList.scrollTop;
 
-  if (lazyImgFromView < 500){
+  if (lazyImgFromView < 500) {
     nearestLazyImg.src = nearestLazyImg.getAttribute(attribute);
     nearestLazyImg.removeAttribute(attribute);
   }
 }
 
+scrollerLists.forEach(list => {
+  list.addEventListener('scroll', throttle(lazyLoad, 100));
+});
+
 // SITE SEARCH
 const searchInput = document.querySelector('.site-wide-search-input');
-search.init(searchInput, dataURL)
+search.init(searchInput, dataURL);
