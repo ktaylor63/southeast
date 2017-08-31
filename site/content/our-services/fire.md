@@ -132,6 +132,15 @@ Includes desired vegetation structure and fire components, desired habitat condi
  - [Goodfires.org](http://goodfires.org/), provided by the Southern Group of State Foresters
  - [Wildland Fire in the South](http://www.southernwildfire.net/), provided by the Southern Regional Strategy Committee
 
+## Hurricane Harvey Response
+
+The following maps are intended for use with the response to Hurricane Harvey. These maps are provided "AS IS", without warranty of any kind, expressed or implied. Use these maps at your own risk.
+
+- [Hardin County](/pdf/maps/harvey/hardin-county.pdf)
+- [Jefferson County](/pdf/maps/harvey/jefferson-county.pdf)
+- [Liberty County](/pdf/maps/harvey/liberty-county.pdf)
+- [Orange County](/pdf/maps/harvey/orange-county.pdf)
+
 ## Contact Us
 
 Want to know more about fire management in the southeast? Contact a member of our staff.
