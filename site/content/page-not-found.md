@@ -5,7 +5,7 @@ hero:
     alt: 'A woman dressed in warm clothes in a field with tall grass looks through binoculars.'
     link: 'https://flic.kr/p/bokTbs'
     caption: 'Service biologist Sue Cameron searches for birds. Photo by Gary Peeples, USFWS.'
-updated: 'July 13th, 2017'
+updated: 'August 31st, 2017'
 scrollnav: no-scrollnav
 tags:
     - News
@@ -39,6 +39,6 @@ Explore content by state: [Alabama](/alabama), [Arkansas](/arkansas), [Florida](
 </p>
 
 ## Map of Offices
-<iframe src="https://usfws.github.io/southeast-mega-map/?scroll=false" class="state-map"></iframe>
+<iframe src="/map" class="state-map"></iframe>
 
 <span class="hide-scrollnav"></span>
