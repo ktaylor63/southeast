@@ -20,4 +20,4 @@ updated: 'March 20th, 2017'
 {{< scroller-list tag="US Virgin Islands" number="10" section="wildlife" >}}
 
 ## Map of Offices
-<iframe src="https://usfws.github.io/southeast-mega-map/?state=VI&scroll=false" class="state-map"></iframe>
+<iframe src="/map/?search=Virgin+Islands" class="state-map"></iframe>

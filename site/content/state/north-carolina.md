@@ -11,7 +11,7 @@ hero:
     link: 'https://flic.kr/p/jMESzk'
     caption: 'Mattamuskeet National Wildlife Refuge in North Carolina. Photo by Allie Stewart, USFWS.'
     position: bottom
-updated: 'March 20th, 2017'
+updated: 'August 31st, 2017'
 ---
 
 {{< scroller-list tag="North Carolina" number="10" section="news" >}}
@@ -21,7 +21,7 @@ updated: 'March 20th, 2017'
 {{< scroller-list tag="North Carolina" number="10" section="wildlife" >}}
 
 ## Map of Offices
-<iframe src="https://usfws.github.io/southeast-mega-map/?state=NC&scroll=false" class="state-map"></iframe>
+<iframe src="/map/?search=North+Carolina" class="state-map"></iframe>
 
 ## Frequently Asked Questions
 

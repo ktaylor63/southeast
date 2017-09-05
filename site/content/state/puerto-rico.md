@@ -10,7 +10,7 @@ hero:
     alt: 'A bright green parrot with red markings on its face and an open beak.'
     link: 'https://flic.kr/p/9CZN6H'
     caption: 'Puerto Rican parrot. Photo by Tom MacKenzie, USFWS.'
-updated: 'March 20th, 2017'
+updated: 'August 31st, 2017'
 ---
 
 {{< scroller-list tag="Puerto Rico" number="10" section="news" >}}
@@ -18,4 +18,4 @@ updated: 'March 20th, 2017'
 {{< scroller-list tag="Puerto Rico" number="10" section="wildlife" >}}
 
 ## Map of Offices
-<iframe src="https://usfws.github.io/southeast-mega-map/?state=PR&scroll=false" class="state-map"></iframe>
+<iframe src="/map/?search=Puerto+Rico" class="state-map"></iframe>

@@ -10,7 +10,7 @@ hero:
     alt: 'A river cuts through a colorful forest in fall.'
     link: 'https://flic.kr/p/buzGMg'
     caption: 'Clarks River National Wildlife Refuge in Fall. Photo by Andy Eller, USFWS.'
-updated: 'March 17th, 2017'
+updated: 'August 31st, 2017'
 ---
 
 {{< scroller-list tag="Kentucky" number="10" section="news" >}}
@@ -20,4 +20,4 @@ updated: 'March 17th, 2017'
 {{< scroller-list tag="Kentucky" number="10" section="wildlife" >}}
 
 ## Map of Offices
-<iframe src="https://usfws.github.io/southeast-mega-map/?state=KY&scroll=false" class="state-map"></iframe>
+<iframe src="/map/?search=Kentucky" class="state-map"></iframe>

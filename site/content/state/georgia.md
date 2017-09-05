@@ -20,4 +20,4 @@ updated: 'March 17th, 2017'
 {{< scroller-list tag="Georgia" number="10" section="wildlife" >}}
 
 ## Map of Offices
-<iframe src="https://usfws.github.io/southeast-mega-map/?state=GA&scroll=false" class="state-map"></iframe>
+<iframe src="/map/?search=Georgia" class="state-map"></iframe>

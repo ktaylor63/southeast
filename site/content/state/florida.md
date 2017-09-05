@@ -11,7 +11,7 @@ hero:
     position: bottom
 tags:
     - Florida
-updated: 'April 21st, 2017'
+updated: 'August 31st, 2017'
 ---
 
 {{< figure class="photo-right" src="/images/pages/florida-coast-sunset-egret.jpg" alt="Bright red sunset reflected over water with silhouette of a wading bird." caption="Florida sunset. Photo: Paul Lang, USFWS." >}}
@@ -35,7 +35,7 @@ The U.S. Fish and Wildlife Service is responsible for managing the nation's trus
 {{< scroller-list tag="Florida" number="10" section="wildlife" >}}
 
 ## Map of Offices
-<iframe src="https://usfws.github.io/southeast-mega-map/?state=FL&scroll=false" class="state-map"></iframe>
+<iframe src="/map/?search=Florida" class="state-map"></iframe>
 
 ## Frequently Asked Questions
 

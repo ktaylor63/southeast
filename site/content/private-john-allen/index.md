@@ -19,7 +19,7 @@ office: 'Pvt. John Allen National Fish Hatchery'
 js: /js/field-station.js
 url: /private-john-allen
 type: field-station
-updated: 'August 29th, 2017'
+updated: 'August 31st, 2017'
 ---
 
 Private John Allen National Fish Hatchery is a warmwater hatchery established in Tupelo, Mississippi, in 1901.  The hatchery is named after the Congressional  representative who appealed to the Congress in his famous ‘hatchery speech’: “Fish will travel overland for miles to get into the water we have at Tupelo . . . thousands and millions of unborn fish are clamoring to this Congress today for an opportunity to be hatched at the Tupelo hatchery.”
@@ -98,7 +98,7 @@ Warmwater fish stocked for recreational fishing such as largemouth bass, bluegil
 
 The hatchery sends fish as far west as Louisiana, as far east as Florida, and as far north as Illinois. Most of the projects are in the Southeast. Our habitat restoration teams works on projects throughout the entire country.
 
-<iframe src="https://usfws.github.io/southeast-mega-map/?layers=Hatcheries&state=Mississippi&scroll=false" class="state-map"></iframe>
+<iframe src="/map/?search=Mississippi" class="state-map"></iframe>
 
 ## Contact
 
