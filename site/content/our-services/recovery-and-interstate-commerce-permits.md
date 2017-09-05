@@ -8,14 +8,13 @@ hero:
     alt: 'A grey colored wolf with bright yellow eyes walking low to the ground.'
     link: 'https://flic.kr/p/dPAq8s'
     caption: 'Red wolf at Point Defiance Zoo and Aquarium. Photo by Seth Bynum, PDZA.'
-aliases:
-  /permits
+aliases: /permits
 tags:
+    - 'Endangered Species Act'
     - Permits
     - Recovery
-    - 'Endangered Species Act'
 js: /js/10a1a-permits.js
-updated: 'February 10th, 2017'
+updated: 'August 31st, 2017'
 ---
 
 ## What is the status of my permit?
@@ -77,7 +76,7 @@ For general information about these permits and points of contact, see our fact 
 
 ## How do I apply for a 10(a)(1)(A) Recovery or Interstate Commerce Permit?
 
-One of the first things you need to do to apply for a permit is contact your nearest <a href="https://usfws.github.io/southeast-mega-map/?layers=ecological+services" target="_blank">USFWS Ecological Services Office</a>. U.S. Fish and Wildlife Service staff can help you determine whether your proposed project or action is likely to result in "take," whether a permit is required, or if there are other options to consider. U.S. Fish and Wildlife Service personnel can also provide technical assistance to help you design your project to avoid take.
+One of the first things you need to do to apply for a permit is contact your nearest <a href="/map/?search=Ecological+Services" target="_blank">USFWS Ecological Services Office</a>. U.S. Fish and Wildlife Service staff can help you determine whether your proposed project or action is likely to result in "take," whether a permit is required, or if there are other options to consider. U.S. Fish and Wildlife Service personnel can also provide technical assistance to help you design your project to avoid take.
 
 When and if you decide that a permit is needed, the next thing you will need to do is complete an [application for the permit](http://www.fws.gov/forms/3-200-55.pdf). Please read the instructions on how to fill out the online forms before accessing the forms.
 

@@ -136,10 +136,13 @@ Includes desired vegetation structure and fire components, desired habitat condi
 
 The following maps are intended for use with the response to Hurricane Harvey. These maps are provided "AS IS", without warranty of any kind, expressed or implied. Use these maps at your own risk.
 
-- [Hardin County](/pdf/maps/harvey/hardin-county.pdf)
-- [Jefferson County](/pdf/maps/harvey/jefferson-county.pdf)
-- [Liberty County](/pdf/maps/harvey/liberty-county.pdf)
-- [Orange County](/pdf/maps/harvey/orange-county.pdf)
+- [Port Arthur, Texas](/pdf/map/harvey/port-arthur.pdf)
+- [Beaumont, Texas](/pdf/map/harvey/beaumont.pdf)
+- [City of Orange, Texas](/pdf/map/harvey/city-of-orange-texas.pdf)
+- [Hardin County, Texas](/pdf/map/harvey/hardin-county.pdf)
+- [Jefferson County, Texas](/pdf/map/harvey/jefferson-county.pdf)
+- [Liberty County, Texas](/pdf/map/harvey/liberty-county.pdf)
+- [Orange County, Texas](/pdf/map/harvey/orange-county.pdf)
 
 ## Contact Us
 

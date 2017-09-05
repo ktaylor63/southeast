@@ -10,7 +10,7 @@ hero:
     link: 'https://flic.kr/p/HG5Zki'
     caption: 'Aquatic biologists snorkeling on the Oconaluftee River in North Carolina. Photo by Gary Peeples.'
     position: 'center left'
-updated: 'March 28th, 2017'
+updated: 'August 31st, 2017'
 ---
 
 The U.S. Fish and Wildlife Service Southeast Region issues permits under [various wildlife laws and treaties](http://www.fws.gov/permits/ltr/ltr.html).  Our permits enable the public to engage in legitimate wildlife-related activities that would otherwise be prohibited by law.  Service permit programs ensure that such activities are carried out in a manner that safeguards wildlife.  Additionally, some  permits promote conservation efforts by authorizing scientific research, generating data, or allowing wildlife management and rehabilitation activities to go forward.
@@ -52,7 +52,7 @@ Allows commercial activities on the refuge, such as:
   - Cabins (see also the General Special Use Application and Permit described below);
   - Trapping.
 
-To get a one of these permits, [contact your refuge of interest](https://usfws.github.io/southeast-mega-map/?layers=refuges&layers=Refuge+boundaries), and [complete FWS Form 3-1383-C](http://www.fws.gov/forms/3-1383-C.pdf).
+To get a one of these permits, [contact your refuge of interest](/map/?search=National+Wildlife+Refuge), and [complete FWS Form 3-1383-C](http://www.fws.gov/forms/3-1383-C.pdf).
 
 ### National Wildlife Refuge System Research and Monitoring Special Use Application
 
@@ -60,7 +60,7 @@ Allows activities on the refuge, such as:
 
 - Research and monitoring activities by students, universities, or other non-Service organizations
 
-To get one of these permits, [contact your refuge of interest](https://usfws.github.io/southeast-mega-map/?layers=refuges&layers=Refuge+boundaries), and [complete FWS Form 3-1383-R](https://www.fws.gov/forms/3-1383-R.pdf).
+To get one of these permits, [contact your refuge of interest](/map/?search=National+Wildlife+Refuge), and [complete FWS Form 3-1383-R](https://www.fws.gov/forms/3-1383-R.pdf).
 
 ### National Wildlife Refuge System General Activity Special Use Application
 
@@ -72,4 +72,4 @@ Allows activities on the refuge, such as:
  - Education activity;
  - Other (any activity not mentioned above).
 
-To get one of these permits, [contact your refuge of interest](https://usfws.github.io/southeast-mega-map/?layers=refuges&layers=Refuge+boundaries) and [complete FWS Form 3-1383-G](https://www.fws.gov/forms/3-1383-G.pdf).
+To get one of these permits, [contact your refuge of interest](/map/?search=National+Wildlife+Refuge) and [complete FWS Form 3-1383-G](https://www.fws.gov/forms/3-1383-G.pdf).

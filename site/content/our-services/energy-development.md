@@ -9,14 +9,14 @@ hero:
     position: 'bottom left'
 tags:
     - Energy
-updated: 'March 14th, 2017'
+updated: 'August 31st, 2017'
 ---
 
 Satisfying our nation's need for energy, like many human activities, has the potential to harm fish and wildlife resources. The U.S. Fish and Wildlife Service’s scientists and managers strive to minimize the environmental impacts of energy development on species and their habitats. Assistance to project developers and other agencies may involve endangered species permitting, National Environmental Policy Act (NEPA) review, eagle permitting, consultation and studies for licensing hydroelectric projects, best management practices development, and other technical assistance.
 
 ## I Would Like to Develop an Energy Project
 
-For information about protected plant and animal species that could potentially affected by activities associated with energy production contact your local [ecological services field station](https://usfws.github.io/southeast-mega-map/?layers=ecological+services).
+For information about protected plant and animal species that could potentially affected by activities associated with energy production contact your local [ecological services field station](/map/?search=Ecological+Services).
 
 ## Can I Build in the Wetland in my Backyard?
 
