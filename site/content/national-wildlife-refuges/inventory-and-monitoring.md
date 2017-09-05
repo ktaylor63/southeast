@@ -17,10 +17,10 @@ hero:
 tags:
     - 'Inventory and Monitoring'
     - 'National Wildlife Refuge System'
-updated: 'May 1st, 2017'
+updated: 'August 31st, 2017'
 ---
 
-The Regional Inventory and Monitoring (I&M) branch is designed to address the [National Wildlife Refuge System](https://fws.gov/refuges) (NWRS) critical information needs and to evaluate the effectiveness of conservation strategies on [national wildlife refuges across the Southeast](https://usfws.github.io/southeast-mega-map/?layers=refuges&layers=Refuge+boundaries). I&M assesses the status of NWRS lands, waters, and biota and provides monitoring support, expertise, and advice to refuges and partners in the face of accelerating climate change and threats from other environmental stressors. The primary purpose of the I&M is to provide information support management decisions at multiple geographic scales.
+The Regional Inventory and Monitoring (I&M) branch is designed to address the [National Wildlife Refuge System](https://fws.gov/refuges) (NWRS) critical information needs and to evaluate the effectiveness of conservation strategies on [national wildlife refuges across the Southeast](/map/?search=National+Wildlife+Refuge). I&M assesses the status of NWRS lands, waters, and biota and provides monitoring support, expertise, and advice to refuges and partners in the face of accelerating climate change and threats from other environmental stressors. The primary purpose of the I&M is to provide information support management decisions at multiple geographic scales.
 
 [Learn more about the national I&M program](https://www.fws.gov/Refuges/NaturalResourcePC/IandM/).
 
@@ -162,7 +162,7 @@ In 2015, the IWMM approach became a Service [National Protocol Framework](https:
 
 The [Seabird Ecological Assessment Network (SEANET)](http://www.tufts.edu/vet/seanet/) is a citizen science program conducting standardized beached bird monitoring on the Atlantic coast of the United States. These surveys provide baseline information about bird mortality and can help to detect mass mortality events due to oil spills, algal toxins, and disease outbreaks. In 2011, SEANET beached bird surveys were initiated in North Carolina by the Southeast Region I&M Branch and North Carolina Migratory Birds Field Office, and 17 new routes were established. The surveys consist of walking a beach segment once or twice per month and collecting data on environmental conditions, beach debris, and both dead and live bird sightings.
 
-In 2015, the North Carolina Migratory Bird Office released the first newsletter, [SEANET The Carolinas Edition](http://localhost:3000/pdf/newsletter/seanet-may-2015.pdf). For more information about SEANET surveys, please contact the I&M Branch terrestrial ecologist, [Wendy Stanton, wendy_stanton@fws.gov](mailto:wendy_stanton@fws.gov), or the North Carolina Migratory Bird project leader, [John Stanton, john_stanton@fws.gov](mailto:john_stanton@fws.gov).
+In 2015, the North Carolina Migratory Bird Office released the first newsletter, [SEANET The Carolinas Edition](/pdf/newsletter/seanet-may-2015.pdf). For more information about SEANET surveys, please contact the I&M Branch terrestrial ecologist, [Wendy Stanton, wendy_stanton@fws.gov](mailto:wendy_stanton@fws.gov), or the North Carolina Migratory Bird project leader, [John Stanton, john_stanton@fws.gov](mailto:john_stanton@fws.gov).
 
 ## Habitat Mapping
 

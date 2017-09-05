@@ -14,7 +14,7 @@ hero:
     alt: 'A refuge law enforcement officer in uniform shows a child how to cast a rod.'
     link: 'https://flic.kr/p/aL3SKt'
     caption: 'Zone Officer Butler teaching Cub Scouts how to fish at a summer camp in Brunswick, GA. Photo by USFWS.'
-updated: 'February 10th, 2017'
+updated: 'August 31st, 2017'
 ---
 
 In addition to the conservation of wildlife and habitat, many national wildlife refuges offer a wide variety of quality fishing opportunities. Every year, about 7 million anglers visit national wildlife refuges, where they can find knowledgeable staff and thousands of volunteers.
@@ -23,7 +23,7 @@ In addition to the conservation of wildlife and habitat, many national wildlife 
 
 Fishing on national wildlife refuges is permitted on a case-by-case basis taking into account local factors including fish species and abundance, feasibility, effects on other refuge programs, and public demand.  If your local refuge allows fishing make sure you pick up a state  fishing license; your local refuge does not issue fishing licenses.
 
-Find your local national wildlife refuge using our [interactive map](https://usfws.github.io/southeast-mega-map/?layers=refuges&layers=Refuge+boundaries).
+Find your local national wildlife refuge using our [interactive map](/map/?search=National+Wildlife+Refuge).
 
 ## Refuges by State and Type of Fish
 
