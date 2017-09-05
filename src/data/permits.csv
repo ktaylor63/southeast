@@ -158,7 +158,7 @@ number,status,fed_register
 41707B-0,Issued,N/A
 41705B-0,No permit needed,Noticed for 30 days
 084054-3,Issued,Noticed for 30 days
-070846-3,Awaiting signature,Noticed for 30 days
+070846-3,Issued,Noticed for 30 days
 171518-1,In FO for Review,Noticed for 30 days
 108584-6,Issued,Noticed for 30 days
 41910B-0,Issued,Noticed for 30 days
@@ -216,7 +216,7 @@ number,status,fed_register
 146761-3,Awaiting Input from Applicant,Noticed for 30 days
 54106B-0,Issued,N/A
 092945-3,Issued,Noticed for 30 days
-65550A-1,Awaiting signature,N/A
+65550A-1,Issued,N/A
 54578B-0,Issued,Noticed for 30 days
 35313B-2,Issued,Noticed for 30 days
 002412-6,Issued,Noticed for 30 days
@@ -420,7 +420,7 @@ number,status,fed_register
 11925C-0,Issued,N/A
 81756A-2,In FO for Review,Noticed for 30 days
 12242C-0,Issued,N/A
-59798B-1,Awaiting signature,Noticed for 30 days
+59798B-1,Issued,Noticed for 30 days
 142294-4,Issued,N/A
 13194C-0,Issued,N/A
 13193C-0,Issued,N/A
@@ -446,8 +446,8 @@ number,status,fed_register
 18508C-0,Issued,N/A
 18731C-0,Issued,N/A
 18836C-0,Issued,N/A
-18986C-0,Awaiting signature,Noticed for 30 days
-68616B-1,Awaiting signature,Noticed for 30 days
+18986C-0,Issued,Noticed for 30 days
+68616B-1,Issued,Noticed for 30 days
 106708-3,In RO for Review,N/A
 62778B-1,Issued,Noticed for 30 days
 19771C-0,Issued,N/A
@@ -459,15 +459,15 @@ number,status,fed_register
 98424B-2,Awaiting Input from Applicant,Noticed for 30 days
 20763C-0,Issued,N/A
 075916-5,In FO for Review,Noticed for 30 days
-121059-3,Awaiting signature,Noticed for 30 days
+121059-3,Issued,Noticed for 30 days
 56430B-1,Issued,N/A
 21570C-0,In FO for Review,Noticed for 30 days
 129703-6,In RO for Review,Noticed for 30 days
 23537C-0,In FO for Review,Noticed for 30 days
-78919A-2,Awaiting signature,N/A
+78919A-2,Issued,N/A
 148282-5,Issued,N/A
 26554C-0,Issued,N/A
-102292-12,In FO for Review,N/A
+102292-12,Awaiting signature,N/A
 069280-5,In RO for Review,on 30 day notice period
 125521-3,Needs Drafting,on current draft
 27450C-0,Issued,N/A
@@ -490,7 +490,7 @@ number,status,fed_register
 206872-8,Issued,N/A
 34387C-0,In FO for Review,on 30 day notice period
 34429C-0,In RO for Review,on 30 day notice period
-051429-6,Awaiting signature,N/A
+051429-6,Issued,N/A
 35281C-0,In RO for Review,N/A
 36080C-0,Issued,N/A
 36084C-0,Issued,N/A
@@ -527,3 +527,4 @@ number,status,fed_register
 49964C-0,In RO for Review,N/A
 50673C-0,In RO for Review,N/A
 50676C-0,In RO for Review,N/A
+132409-2,In RO for Review,needs to be drafted
