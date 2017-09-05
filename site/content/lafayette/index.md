@@ -17,7 +17,7 @@ tags:
     - 'Endangered Species Act'
     - Lafayette
     - Louisiana
-updated: 'July 25th, 2017'
+updated: 'August 31st, 2017'
 ---
 
 The field station was established in 1972. We strive for ecosystem sustainability through preservation, conservation, enhancement, and restoration of habitats essential for the long-term viability of the fish, wildlife, and plants in Louisiana. The field office emphasizes an ecosystem approach incorporating Strategic Habitat Conservation to address and prioritize habitat issues through partnerships with other federal and state agencies, conservation organizations, private landowners, and citizens to achieve the greatest possible benefits to fish and wildlife. 
@@ -42,7 +42,7 @@ Our Five-Year Strategic Plan details the strategies needed to achieve our goals.
 
 The Louisiana Ecological Service field office service all of Louisiana. Our main office is located in Lafayette, with sub-offices in New Orleans and Fort Polk.
 
-<iframe src="https://usfws.github.io/southeast-mega-map/?layers=Ecological+Services&state=Louisiana&scroll=false" class="state-map"></iframe>
+<iframe src="/map/?search=Louisiana" class="state-map"></iframe>
 
 ## Contact
 
