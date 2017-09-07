@@ -17,10 +17,14 @@ tags:
     - 'Endangered Species Act'
     - Lafayette
     - Louisiana
-updated: 'August 31st, 2017'
+updated: 'September 7th, 2017'
 ---
 
 The field station was established in 1972. We strive for ecosystem sustainability through preservation, conservation, enhancement, and restoration of habitats essential for the long-term viability of the fish, wildlife, and plants in Louisiana. The field office emphasizes an ecosystem approach incorporating Strategic Habitat Conservation to address and prioritize habitat issues through partnerships with other federal and state agencies, conservation organizations, private landowners, and citizens to achieve the greatest possible benefits to fish and wildlife. 
+
+## Suggested Streamlined Coordination for Oil and Natural Gas Exploration, Drilling and Production in Louisiana Shale Plays
+
+[This document](/pdf/guidelines/suggested-streamlined-coordination-oil-and-gas-exploration-drilling-production.pdf) was prepared by the U.S. Fish and Wildlife Service’s (Service) Louisiana Ecological Services Office (LESO) and partners to protect and conserve important public resources such as wildlife and plants, and their habitats (including waterbodies) within areas of Louisiana with a high potential for new or continued oil and natural gas drilling and production.
 
 ## Threatened and Endangered Species
 
