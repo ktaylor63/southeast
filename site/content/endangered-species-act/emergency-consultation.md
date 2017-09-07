@@ -12,7 +12,7 @@ tags:
     - Fire
     - Hurricane
     - 'Oil Spill'
-updated: 'September 6th, 2017'
+updated: 'September 7th, 2017'
 ---
 
 Occasionally, Federal Agencies must respond to emergency situations where human life and  property are in danger. In these situations, compliance with the Endangered Species Act must be a lower priority until the Federal Agency completes their response to the emergency situation.
@@ -27,7 +27,7 @@ The links below are provided to assist you in understanding  emergency provision
 
   - [Explanation of emergency response process](/pdf/guidelines/emergency-consultation-process.pdf)
   - [Endangered Species Act Exemptions in Presidentially Declared Disaster Areas](/pdf/guidelines/endangered-species-act-exemptions-for-disasters.pdf)
-  - [Section 7 Flowchart- Emergency Procedures](/pdf/guidelines/section-7-flowchart-emergency.pdf)
+  - [Section 7 Flowchart-Emergency Procedures](/pdf/guidelines/section-7-flowchart-emergency.pdf)
   - [Sample to Request Emergency Consultation](/pdf/guidelines/request-emergency-consultation-sample.pdf)
 
 ## Hurricane response
