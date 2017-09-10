@@ -7,14 +7,16 @@ hero:
     caption: 'Hurricane Irma mid-day on September 6, 2017 off the east coast of Puerto Rico. Satellite Image by NOAA GOES-16.'
     link: 'https://flic.kr/p/XcPJxQ'
 tags:
+    - Alabama
     - Florida
     - Georgia
+    - Gulf
     - Hurricane
     - 'Hurricane Irma'
     - 'North Carolina'
     - 'Puerto Rico'
     - 'South Carolina'
-updated: 'September 7th, 2017'
+updated: 'September 10th, 2017'
 ---
 
 Hurricane Irma, the second most powerful Atlantic basin hurricane in recorded history, has killed at least nine people in the Caribbean region, and is projected to be heading for Florida and the southeastern United States soon.
@@ -45,7 +47,7 @@ Staffers from the Service and other agencies under Incident Command will make re
 
 Since the Service is charged with maintaining wildlife refuges and helping to preserve endangered, threatened and at-risk species, we will also start assessing how Irma affected wildlife populations, such as the Key deer, the Florida panther, the Cape Sable seaside sparrow and the Puerto Rican parrot.
 
-We will continue to update this website regularly with news about the Service’s response to Hurricane Irma.
+Stay up to date with the [Southeast Region and Hurricane Irma](/tags/hurricane-irma).
 
 ## Contact
 
