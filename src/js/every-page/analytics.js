@@ -32,11 +32,24 @@ function navItem() {
   });
 }
 
+function relatedContent() {
+  // Record each time someone clicks on a related content link
+  const related = document.querySelector('.related-content');
+  if (!related) return;
+  related.addEventListener('click', e => {
+    if (e.target && e.target.nodeName === 'A') {
+      const linkText = e.target.textContent;
+      analytics('send', 'event', 'Related Content', 'Clicked related content', linkText);
+    }
+  });
+}
+
 function init() {
   if (baseUrl.indexOf('fws.gov/southeast')) {
     pageView();
     glossaryTerm();
     navItem();
+    relatedContent();
   }
 }
 
