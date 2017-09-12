@@ -25,7 +25,7 @@
   @include container(1200px);
 
   .main {
-    margin: $leading auto;
+    margin: $leading auto 0;
     max-width: $container-width;
 
     @media (min-width: $break-xl) {
