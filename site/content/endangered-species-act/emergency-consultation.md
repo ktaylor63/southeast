@@ -21,7 +21,7 @@ It is the U.S. Fish and Wildlife Service’s policy to assist federal agencies w
 
 ## Contact
 
-In general, we encourage agencies and the public to contact the field office in the State where their project is located.  [A list of State offices and their contact information can be found online](https://www.fws.gov/offices/).  
+In general, we encourage agencies and the public to contact the field office in the State where their project is located. [A list of State offices and their contact information can be found online](https://www.fws.gov/offices/).  
 
 If you have general questions, multi-state projects, or need additional information, please contact the Southeast Region’s Division of Environmental Review.
 
@@ -44,7 +44,6 @@ The links below are provided to assist you in understanding emergency provisions
 
 ### Hurricane response
 
-  - [Sample Hurricane Response Letter](/pdf/guidelines/hurricane-response-letter.pdf)
   - [Sample Timber Salvage Response Letter](/pdf/guidelines/salvage-timber-mississippi.pdf)
 
 ### Fire response
