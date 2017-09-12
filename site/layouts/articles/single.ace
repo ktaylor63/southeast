@@ -22,12 +22,12 @@
 
     = include partials/news-mission-links.html .
 
-  ul.chapter-links
-    {{ if .NextInSection }}
-      li.last-chapter
-        a href="{{ .NextInSection.Permalink }}" {{ .NextInSection.Title }}
-    {{end}}
-    {{ if .PrevInSection }}
-      li.next-chapter
-        a href="{{ .PrevInSection.Permalink }}" {{ .PrevInSection.Title }}
-    {{end}}
+  {{ $related := .Site.RegularPages.Related . | first 3 }}
+  {{ with $related }}
+  .related-content
+    h3 Related content
+    ul.article-gallery
+      {{ range . }}
+        {{ .Render "gallery" }}
+      {{ end }}
+  {{ end }}
