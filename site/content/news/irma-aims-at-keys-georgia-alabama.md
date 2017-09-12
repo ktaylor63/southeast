@@ -41,3 +41,8 @@ As it whirls west into Georgia, say meteorologists, Irma should dwindle to a tro
 Atlanta will not be spared. The city’s metro area should be visited by 40 mph winds, with gusts of 60 mph. The wind is expected to be most intense north and east of Atlanta.
  
 Irma will bring rain as well as wind. Its storm surge is estimated between 5 to 12 feet. Rain totals will be anywhere between 10 and 20 inches.
+
+## Contact
+
+Mark Davis, Public Affairs Specialist 
+[mark_r_davis@fws.gov](mailto:mark_r_davis@fws.gov)
