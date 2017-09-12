@@ -1,7 +1,7 @@
 ---
 title: 'Emergency consultation'
-aliases: 
-  - /es/emergency_consult.html
+aliases:
+    - /es/emergency_consult.html
 hero:
     name: hurricane-irma.jpg
     alt: 'A massive hurricane threatens Puerto Rico and the Virgin Islands.'
@@ -12,35 +12,47 @@ tags:
     - Fire
     - Hurricane
     - 'Oil Spill'
-updated: 'September 7th, 2017'
+updated: 'September 12th, 2017'
 ---
 
-Occasionally, Federal Agencies must respond to emergency situations where human life and  property are in danger. In these situations, compliance with the Endangered Species Act must be a lower priority until the Federal Agency completes their response to the emergency situation.
+Occasionally, federal agencies must respond to emergency situations where human life and property are in danger.  Examples include oil spills, wildland fire, and hurricanes such as Hurricane Harvey and Irma.  The Endangered Species Act (ESA) and its implementing regulations recognize the need to respond immediately to emergencies and provide special procedures that allow federal agencies the latitude to complete their emergency responses in order to secure human life and property without delay, while still providing them with protections that normal compliance under the ESA would have afforded them.
 
-The Endangered Species Act and its implementing regulations recognize the necessity to respond immediately to  emergencies and provide special procedures that allow Federal Agencies the latitude necessary to complete their emergency  responses in order to secure human life and property without  delay while still providing them with protections that normal compliance under the Endangered Species Act would have afforded them.
+It is the U.S. Fish and Wildlife Service’s policy to assist federal agencies with their  ESA compliance issues during an emergency response, but to never delay the necessary response to secure human life and property.
 
-It is the Fish and Wildlife Service&rsquo;s policy to assist Federal Agencies with their Endangered Species  Act compliance issues during an emergency response, but to never delay the necessary response to secure human  life and property.
+## Contact
 
-The links below are provided to assist you in understanding  emergency provisions under the Endangered Species Act, to provide access to  pre-existing policies and guidance for emergency responses, and to illustrate  typical emergency responses that the Southeast Region has provided in the past:
+In general, we encourage agencies and the public to contact the field office in the State where their project is located.  [A list of State offices and their contact information can be found online](https://www.fws.gov/offices/).  
 
-## Procedures
+If you have general questions, multi-state projects, or need additional information, please contact the Southeast Region’s Division of Environmental Review.
+
+Christine Willis, Regional Energy Coordinator  
+[christine_willis@fws.gov](mailto:christine_willis@fws.gov), (404) 679-7310 
+
+Rob Tawes, Chief, Division of Environmental Review  
+[robert_tawes@fws.gov](mailto:robert_tawes@fws.gov) (404) 679-7142
+
+## Understanding emergency provisions under the ESA
+
+The links below are provided to assist you in understanding emergency provisions under the ESA, to provide access to pre-existing policies and guidance for emergency responses, and to illustrate typical emergency responses that the Southeast Region has provided in the past:
+
+### Procedures
 
   - [Explanation of emergency response process](/pdf/guidelines/emergency-consultation-process.pdf)
   - [Endangered Species Act Exemptions in Presidentially Declared Disaster Areas](/pdf/guidelines/endangered-species-act-exemptions-for-disasters.pdf)
   - [Section 7 Flowchart-Emergency Procedures](/pdf/guidelines/section-7-flowchart-emergency.pdf)
   - [Sample to Request Emergency Consultation](/pdf/guidelines/request-emergency-consultation-sample.pdf)
 
-## Hurricane response
+### Hurricane response
 
   - [Sample Hurricane Response Letter](/pdf/guidelines/hurricane-response-letter.pdf)
   - [Sample Timber Salvage Response Letter](/pdf/guidelines/salvage-timber-mississippi.pdf)
 
-## Fire response
+### Fire response
 
   - [Guidelines for Aerial Delivery of Retardant or Foam near Waterways](/pdf/guidelines/retardant-use-plan.pdf)
   - [Prevention of Wildfires &ndash; Streamlining Section 7 Consultation on Hazardous Fuels Treatment Projects](/pdf/guidelines/streamlining-hazardous-fuels-reduction.pdf)
 
-## Oil spills and other hazardous materials
+### Oil spills and other hazardous materials
 
   - [Interagency Memorandum of Agreement Regarding Oil Spill Planning and Response Activities Under the Federal Water Pollution Control Act's National Oil and Hazardous Substances Pollution Contingency Plan and the Endangered Species Act](/pdf/memo/oil-spill-contingency.pdf)
   - [Spill Responses - A Selection Guide for Oil Spill Applied Technologies](/pdf/guidelines/selection-guide-oil-spill-applied-technologies-volume-I.pdf)
