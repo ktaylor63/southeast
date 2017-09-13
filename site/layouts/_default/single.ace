@@ -27,14 +27,14 @@
       {{ end }}
     {{ end }}
 
-  {{ if (or (eq .Section "articles") (eq .Section "news")) }}
-  {{ $related := .Site.RegularPages.Related . | first 3 }}
-  {{ with $related }}
-  .related-content
-    h3 Related content
-    ul.article-gallery
-      {{ range . }}
+  {{ if eq .Section "articles" }}
+    {{ $related := .Site.RegularPages.Related . | first 3 }}
+    {{ with $related }}
+    .related-content
+      h3 Related content
+      ul.article-gallery
+        {{ range . }}
         {{ .Render "gallery" }}
-      {{ end }}
-  {{ end }}
+        {{ end }}
+    {{ end }}
   {{ end }}

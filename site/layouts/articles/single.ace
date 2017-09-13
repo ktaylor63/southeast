@@ -28,6 +28,6 @@
     h3 Related content
     ul.article-gallery
       {{ range . }}
-        {{ .Render "gallery" }}
+      {{ .Render "gallery" }}
       {{ end }}
   {{ end }}
