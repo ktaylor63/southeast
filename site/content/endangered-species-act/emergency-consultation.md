@@ -21,15 +21,18 @@ It is the U.S. Fish and Wildlife Service’s policy to assist federal agencies w
 
 ## Contact
 
-In general, we encourage agencies and the public to contact the field office in the State where their project is located. [A list of State offices and their contact information can be found online](https://www.fws.gov/offices/).  
+In general, we encourage agencies and the public to contact the field office in the State where their project is located.  [A list of State offices and their contact information can be found online](https://www.fws.gov/offices/)  If your project is in a marine environment, please [contact the National Marine Fisheries Service](http://sero.nmfs.noaa.gov/protected_resources/section_7/emergency_consultation/index.html).
 
-If you have general questions, multi-state projects, or need additional information, please contact the Southeast Region’s Division of Environmental Review.
+For anything else including general questions, consultation on multi-state projects, or if you simply need additional information, please contact the Southeast Region’s Division of Environmental Review.
 
-Christine Willis, Regional Energy Coordinator  
-[christine_willis@fws.gov](mailto:christine_willis@fws.gov), (404) 679-7310 
+**Christine Willis, Regional Energy Coordinator**  
+[christine_willis@fws.gov](mailto:christine_willis@fws.gov), (404) 679-7310  
 
-Rob Tawes, Chief, Division of Environmental Review  
-[robert_tawes@fws.gov](mailto:robert_tawes@fws.gov) (404) 679-7142
+**Jerry Ziewitz, Regional Consultation Coordinator**  
+[jerry_ziewitz@fws.gov](mailto:jerry_ziewitz@fws.gov), (850) 877-6513
+
+**Rob Tawes, Chief, Division of Environmental Review**  
+[robert_tawes@fws.gov](mailto:robert_tawes@fws.gov), (404) 679-7142
 
 ## Understanding emergency provisions under the ESA
 
