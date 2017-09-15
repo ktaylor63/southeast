@@ -12,7 +12,7 @@
     {{ end }}
     <div class='card-text'>
       <p>
-        <span class='card-text-date'>{{ dateFormat "January 2, 2006" .date }}</span>
+        <span class='card-text-date'>{{ dateFormat "January 2, 2006" .date }}{{ if gt .ReadingTime 0 }} | {{ .ReadingTime }} minute read{{ end }}</span>
         <a href="{{ .url }}">{{ .title }}</a>
       </p>
     </div>

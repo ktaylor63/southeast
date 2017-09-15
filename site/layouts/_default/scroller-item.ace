@@ -5,6 +5,6 @@ li.scroller-list--item
       img src="{{ .Site.BaseURL }}images/hero/small/{{ .Params.hero.name }}" alt="{{ .Params.hero.alt }}"
       {{ end }}
       {{ if not .Date.IsZero }}
-      span {{ .Date.Format "Jan 2, 2006"}}
+      span {{ .Date.Format "Jan 2, 2006"}}{{ if gt .ReadingTime 0 }} | {{ .ReadingTime }} minute read{{ end }}
       {{ end }}
     p {{ .Title}}

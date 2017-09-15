@@ -27,7 +27,7 @@
             <iframe width="150px" src="https://www.youtube.com/embed/{{ .Page.Params.hero.video }}" frameborder="0" allowfullscreen></iframe>
             {{ end }}
             {{ if not .Page.Date.IsZero }}
-            <span>{{ .Page.Date.Format "Jan 2, 2006"}}</span>
+            <span>{{ .Page.Date.Format "Jan 2, 2006"}}{{ if gt .Page.ReadingTime 0 }} | {{ .Page.ReadingTime }} minute read{{ end }}</span>
             {{ end }}
           </div>
           <p>{{ .Page.Title }}</p>

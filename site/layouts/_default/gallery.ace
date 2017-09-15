@@ -11,6 +11,6 @@ li.card
   .card-text
     p
       {{ if not .Date.IsZero }}
-      span.card-text-date {{ .Date.Format "January 2, 2006" }}
+      span.card-text-date {{ .Date.Format "January 2, 2006" }}{{ if gt .ReadingTime 0 }} | {{ .ReadingTime }} minute read{{ end }}
       {{ end }}
       a href="{{ .Permalink }}" {{ .Title }}

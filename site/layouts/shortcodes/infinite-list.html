@@ -24,7 +24,7 @@
         <img {{ if lt $index $lazyLoadLimit }}src{{ else }}data-src{{ end }}='{{ $.Site.BaseURL }}images/hero/small/{{ $element.Params.hero.name }}' alt='{{ $element.Params.hero.alt }}'/>
         {{ end }}
         {{ if not $element.Date.IsZero }}
-        <span class="infinite-list--date">{{ $element.Date.Format "Jan 2, 2006"}}</span>
+        <span class="infinite-list--date">{{ $element.Date.Format "Jan 2, 2006"}}{{ if gt $element.ReadingTime 0 }} | {{ $element.ReadingTime }} minute read{{ end }}</span>
         {{ end }}
       </div>
       <div class='infinite-list--title'>

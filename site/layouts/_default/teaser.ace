@@ -3,7 +3,7 @@ li class="teaser teaser-{{ .Type }}"
     h3
       a href={{ .Permalink }} {{ .Title }}
     {{ if not .Date.IsZero }}
-    p {{ .Date.Format "January 2, 2006" }}
+    p {{ .Date.Format "January 2, 2006" }}{{ if gt .ReadingTime 0 }} | {{ .ReadingTime }} minute read{{ end }}
     {{ end }}
     p {{ if .Params.description }}{{ .Params.description }}{{ else }}{{ .Summary }}{{ end }}
     p
