@@ -3,7 +3,7 @@ title: '‘I had to do something’'
 subtitle: 'Carpenter, others rally to rescue stranded manatees'
 description: 'He was sick of watching the televised radar images, that big red storm heading steadily his way. With Hurricane Irma still hours south of his Bradenton home, Marcelo Clavijo said he’d had enough.'
 aliases:
-  - /news/2017/09/have-tarp-will-save/
+    - /news/2017/09/have-tarp-will-save/
 date: '2017-09-11'
 hero:
     name: manatee-silhouettes.jpg
@@ -13,10 +13,11 @@ hero:
 tags:
     - 'Endangered Species Act'
     - Florida
+    - Gulf
     - Hurricane
     - 'Hurricane Irma'
     - Manatee
-updated: 'September 11th, 2017'
+updated: 'September 14th, 2017'
 ---
 
 {{< youtube zsMaPMXRb24 >}}
@@ -65,5 +66,5 @@ Clavijo’s reaction? A native Floridian – “I have played and swam in that b
 
 ## Contact
 
-Mark Davis, Public Affairs Specialist 
+Mark Davis, Public Affairs Specialist  
 [mark_r_davis@fws.gov](mailto:mark_r_davis@fws.gov)
