@@ -9,12 +9,13 @@ tags:
     - Alabama
     - Florida
     - Georgia
+    - Gulf
     - Hurricane
     - 'Hurricane Irma'
     - 'Puerto Rico'
     - 'South Carolina'
     - 'US Virgin Islands'
-updated: 'September 12th, 2017'
+updated: 'September 14th, 2017'
 ---
 
 Hurricane Irma, once a category 5 storm, has nearly played itself out.

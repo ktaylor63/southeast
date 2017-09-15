@@ -2,7 +2,7 @@
 title: 'Irma continues its assault on Southeast'
 date: '2017-09-11'
 aliases:
-  - /news/2017/09/tropical-storm-irma-continues-assault-on-southeast
+    - /news/2017/09/tropical-storm-irma-continues-assault-on-southeast
 hero:
     name: irma-rainbow.jpg
     alt: 'Radar or Irma.'
@@ -11,12 +11,13 @@ tags:
     - Alabama
     - Florida
     - Georgia
+    - Gulf
     - Hurricane
     - 'Hurricane Irma'
     - 'North Carolina'
     - 'South Carolina'
     - Tennessee
-updated: 'September 11th, 2017'
+updated: 'September 14th, 2017'
 ---
 
 Hurricane Irma pushed north from Florida early Monday morning leaving behind miles of downed trees and power lines with Georgia and Alabama next in her dangerous sites.

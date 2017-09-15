@@ -5,6 +5,7 @@ tags:
     - Alabama
     - Florida
     - Georiga
+    - Gulf
     - Hurricane
     - 'Hurricane Irma'
     - Mississippi
@@ -18,7 +19,7 @@ hero:
     alt: 'A swirling cloud mass south of Florida.'
     caption: 'Hurricane Irma from space. Satellite image by NOAA/NASA.'
     link: 'https://www.nasa.gov/sites/default/files/thumbnails/image/image_2_-irma-goes-9917.jpg'
-updated: 'September 10th, 2017'
+updated: 'September 14th, 2017'
 ---
 
 Hurricane Irma sped up early Sunday morning before hitting the Florida Keys, returning to Category 4 status with top speeds of 130 mph. And, for the first time ever, Atlanta was placed under a tropical storm warning.

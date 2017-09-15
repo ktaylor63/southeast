@@ -54,6 +54,8 @@ Fish and Wildlife officials say they’re ready for this very busy hurricane sea
 
 Stay up to date with the [Southeast Region and Hurricane Irma](/tags/hurricane-irma).
 
+{{< tweet 908406945928957952 >}}
+
 ## Contact
 
 Jeff Fleming, External Affairs  

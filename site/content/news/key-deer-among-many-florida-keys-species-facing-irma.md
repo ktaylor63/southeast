@@ -12,6 +12,7 @@ tags:
     - Florida
     - 'Florida Keys National Wildlife Refuge Complex'
     - Georgia
+    - Gulf
     - Hurricane
     - 'Hurricane Irma'
     - 'Key Deer'
@@ -20,7 +21,7 @@ tags:
     - 'Puerto Rico'
     - 'South Carolina'
     - 'US Virgin Islands'
-updated: 'September 12th, 2017'
+updated: 'September 14th, 2017'
 ---
 
 Less than a year after surviving a rugged screwworm infestation, the Florida Keys’ Key deer now must contend with Hurricane Irma.  Some fans of the endangered species are worried.  
@@ -55,11 +56,15 @@ As soon as Clark and his biologists are cleared to return, the assessments of wi
 
 “The good news is that we know sub-tropical habitats are really resilient and typically bounce back.”  
 
-## Update
+## Updates
 
 David Sutta of CBS Miami captures a video of several key deer on Big Pine Key after Hurricane Irma passed:
 
 {{< tweet 907259579427377157 >}}
+
+Daniel Clark, refuge manager at Florida Keys National Wildlife Refuges Complex will be joining Ira Plato on Science Friday to discuss the Hurricane Irma's impacts on wildlife. The refuge complex includes Crocodile Lake National Wildlife Refuge, National Key Deer Refuge, Great White Heron National Wildlife Refuge and Key West National Wildlife Refuge 
+
+{{< tweet 908029338536247296 >}}
 
 ## Contact
 
