@@ -1,6 +1,6 @@
 ---
 title: 'FWS crew gives state partners at Stephen C. Foster a lift speeding up its reopening'
-date: '2017-09-14'
+date: '2017-09-15'
 tags:
     - Florida
     - Georgia

@@ -2,7 +2,7 @@
 title: 'Service employees joining Irma response effort'
 subtitle: '3 teams of employees securing FWS assets, supporting local citizens and communities in Florida'
 description: 'Big Pine Key, Florida – It had all the makings of a thankless, dangerous and depressing task, but Jon Wallace knew – or thought he knew – what he was facing.'
-date: '2017-09-14'
+date: '2017-09-15'
 tags:
     - Florida
     - 'Florida Keys'
