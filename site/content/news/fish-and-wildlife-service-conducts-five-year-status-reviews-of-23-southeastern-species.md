@@ -2,19 +2,20 @@
 title: 'Fish and Wildlife Service conducts five-year status reviews of 23 Southeastern species'
 date: '2009-06-06'
 tags:
-    - 'Five Year Review'
     - Alabama
     - Arkansas
+    - 'Five Year Review'
     - Georgia
     - Mississippi
     - 'North Carolina'
+    - 'Tar River Spinymussel'
     - Tennessee
 hero:
     name: etowah-darter.jpg
     alt: 'A small brown fish caught in a stream sitting in a plastic bin for measurement.'
     link: 'https://flic.kr/p/8SkfaF'
     caption: 'Endangered Etowah darter. Photo by USFWS.'
-updated: 'October 20th, 2016'
+updated: 'September 19th, 2017'
 ---
 
 The Service [plans to conduct five-year status reviews](http://www.fws.gov/policy/library/E9-15918.html) of 15 endangered and 8 threatened species occurring in one or more of 10 states.
