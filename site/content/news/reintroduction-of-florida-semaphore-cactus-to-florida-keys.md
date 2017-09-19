@@ -14,7 +14,7 @@ updated: 'October 20th, 2016'
 
 David Bender is the type of guy who doesn’t mind getting his hands dirty, in fact, he wants to - - as long as plants are involved, particularly those that are threatened or endangered.
 
-In May 2014, Bender, a botanist with the [South Florida Ecological Services Office](http://www.fws.gov/verobeach/), traveled to Crocodile Lake and Key Deer National Wildlife Refuges in the Florida Keys with co-workers Anthony Sowers and Brian Powell to plant 350 Florida semaphore cacti.
+In May 2014, Bender, a botanist with the [South Florida Ecological Services Office](https://www.fws.gov/verobeach/), traveled to Crocodile Lake National Wildlife Rrfuge and National Key Deer Refuge in the Florida Keys with co-workers Anthony Sowers and Brian Powell to plant 350 Florida semaphore cacti.
 
 “We chose the refuges because public federal lands, especially national wildlife refuges and national parks, offer the best protection for listed plants,” Bender said. 
 
