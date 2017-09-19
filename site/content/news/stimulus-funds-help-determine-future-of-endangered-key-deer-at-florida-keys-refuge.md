@@ -12,7 +12,7 @@ tags:
 updated: 'October 26th, 2016'
 ---
 
-The petite Key deer is dependent on fresh water in a place where fresh water can sometimes be scarce – the Florida Keys, the only place where the Key deer lives. At Key Deer National Wildlife Refuge, fresh water collects in small ponds that form in the limestone, known as solution holes, providing life for the refuge’s federally listed Key deer population.
+The petite Key deer is dependent on fresh water in a place where fresh water can sometimes be scarce – the Florida Keys, the only place where the Key deer lives. At National Key Deer Refuge, fresh water collects in small ponds that form in the limestone, known as solution holes, providing life for the refuge’s federally listed Key deer population.
 
 But are the solution holes plentiful enough, and fresh enough, to support the refuge’s deer? That question is being answered by two interns from the Student Conservation Association, whose project is being funded by the American Recovery and Reinvestment Act, popularly known as stimulus funds. Postgraduate student scientists Kristie Killam and Joshua Albritton are splitting a $50,000 stimulus contract to study the salinity and biodiversity of the refuge’s resource holes.
 
