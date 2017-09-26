@@ -1,5 +1,14 @@
 ---
 stories:
+  - title: 'The Effort to Replant the “Amazon of the South”'
+    subtitle: 'These Southerners are bringing the longleaf pine forest back—with some love, seeds, fire, and snakes.'
+    url: 'https://www.nrdc.org/stories/effort-replant-amazon-south'
+    date: '2017-09-25'
+    summary: 'For decades, Reese Thompson didn’t fully appreciate the ground beneath his feet. As a sixth-generation tree farmer, he valued his thousands of acres in Wheeler County, Georgia, mostly for its output—the saw timber, chip-n-saw, and pulpwood provided by the fast-growing slash pines on his land. But all that changed about 13 years ago when a botanist friend of his knelt amid an untouched stand of longleaf pines on Thompson’s farm and quickly counted off 29 plant species within a square yard.'
+    hero:
+      name: 'reese-thompson-longleaf.jpg'
+      alt: 'A man in a straw hat in front of longleaf pine trees.'
+      caption: 'Reese Thompson says the understory, or native ground cover, is “the real treasure” of the natural longleaf pine ecosystem. Photo by Bill O’Brian, USFWS.'
   - title: 'NFWF Announces Over $1 Million in Funding to Restore and Improve Cumberland Plateau Forestlands'
     url: 'http://www.nfwf.org/whoweare/mediacenter/pr/Pages/nfwf-announces-funding-to-restore-improve-cumberland-plateau-forestlands.aspx'
     date: '2017-09-25'
