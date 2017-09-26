@@ -3,7 +3,7 @@ title: 'Endangered species and recovery'
 js: /js/state.js
 url: /lafayette/endangered-species-and-recovery
 nav: 'Endangered Species and Recovery'
-weight: 2
+weight: 3
 facebook: Louisiana-Ecological-Services-Office-364376830424514
 hero:
     name: louisiana-black-bear-in-tree-with-cub.jpg
@@ -13,7 +13,7 @@ tags:
     - 'Endangered Species Act'
     - 'Louisiana Black Bear'
     - Recovery
-updated: 'July 25th, 2017'
+updated: 'September 20th, 2017'
 ---
 
 One of the primary responsibilities of the U.S. Fish and Wildlife Service (Service) is to protect and recover imperiled species and the ecosystems upon which they depend. Congress defined “species” to include subspecies, varieties, and, for vertebrates, distinct population segments.

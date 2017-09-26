@@ -3,7 +3,7 @@ title: 'Outreach and education'
 description: 'The Louisiana field office offers information and programs to the public concerning threatened and endangered species, biodiversity, and wildlife ecology, as well as other natural resource-oriented issues in Louisiana. We provide educational and interpretational programs to a wide variety of audiences including public and private schools, scouts, conservation groups, and more.'
 nav: 'Outreach and Education'
 facebook: Louisiana-Ecological-Services-Office-364376830424514
-weight: 10
+weight: 11
 tags:
     - 'Connecting People With Nature'
     - 'Environmental Education'

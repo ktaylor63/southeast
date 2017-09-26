@@ -1,7 +1,7 @@
 ---
 title: 'For coastal communities'
 nav: 'For Coastal Communities'
-weight: 3
+weight: 4
 url: /lafayette/for-coastal-communities
 facebook: Louisiana-Ecological-Services-Office-364376830424514
 js: /js/state.js
@@ -15,7 +15,7 @@ tags:
     - Lafayette
     - Louisiana
     - 'Private Landowners'
-updated: 'July 27th, 2017'
+updated: 'September 20th, 2017'
 ---
 
 ## Coastal program in Louisiana

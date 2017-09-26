@@ -2,7 +2,7 @@
 title: 'Environmental contaminants'
 nav: 'Environmental Contaminants'
 facebook: Louisiana-Ecological-Services-Office-364376830424514
-weight: 4
+weight: 5
 hero:
     name: oil-spill-brown-pelicans.jpg
     alt: 'Birds flying around boom floating in the water to contain an oil spill.'
@@ -12,7 +12,7 @@ hero:
 tags:
     - 'Environmental Contaminants'
     - Louisiana
-updated: 'July 27th, 2017'
+updated: 'September 20th, 2017'
 ---
 
 Pollution is one of America's greatest environmental concerns. The U.S. Fish and Wildlife Service (Service) is the primary federal agency dedicated to protecting wildlife and their habitats from pollution's harmful effects.

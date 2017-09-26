@@ -452,11 +452,11 @@ pdcApp.ui = {
         else {
             // Convert values from API to standard naming
             var specialProcessing = question.SpecialProcessing;
-            var nextQuestionID =    question.question       || question.NextQuestionID;
-            var nextQuestionText =  question.questionText   || question.NextQuestionText;
-            var answer =            question.answer         || question.Answer;
-            var addText =           question.additionalText || question.AdditionalText;
-            var type =              question.questionType   || question.QuestionType;
+            var nextQuestionID =    parseInt(question.question)  || question.NextQuestionID;
+            var nextQuestionText =  question.questionText        || question.NextQuestionText;
+            var answer =            question.answer              || question.Answer;
+            var addText =           question.additionalText      || question.AdditionalText;
+            var type =              question.questionType        || question.QuestionType;
 
             if (specialProcessing && specialProcessing === "AOI") {
                 // Show map interface
@@ -468,20 +468,24 @@ pdcApp.ui = {
                 document.getElementById("aois").innerHTML = "";
                 document.getElementById("map-instructions").style.display = "none";
 
-                // HACK: show map for two particular questions
-                if (question.NextQuestionID === 700) {
+                // HACK: show map for three particular questions
+                if (nextQuestionID === 700) {
                     // Manatee consultation zone map
-                    pdcApp.showMapForSpecies(question.NextQuestionID);
+                    pdcApp.showMapForSpecies(nextQuestionID);
                 }
-                else if (question.NextQuestionID === 1302) {
+                else if (nextQuestionID === 1302) {
                     // Piping plover critical habitat
-                    pdcApp.showMapForSpecies(question.NextQuestionID);
+                    pdcApp.showMapForSpecies(nextQuestionID);
+                }
+                else if (nextQuestionID === 1607) {
+                    // Atlantic sturgeon critical habitat
+                    pdcApp.showMapForSpecies(nextQuestionID);
                 }
                 else {
                     $("#mapQuestion").removeClass("visible");
                 }
 
-                if (question.NextQuestionID === 400) {
+                if (nextQuestionID === 400) {
                     // Inject links to saline prairie photos
 
                     nextQuestionText = nextQuestionText.replace(

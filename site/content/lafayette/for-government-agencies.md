@@ -7,8 +7,8 @@ hero:
     alt: 'Biologists team up to inspect oil impacts to marsh grasses.'
     caption: 'Louisiana Department of Wildlife and Fisheries; U.S. Fish and Wildlife Service biologists on Bird Island One, a rookery colony for shorebirds in Barataria Bay conduct first ground reconasasance since the oil hit the bay. Photo by Tom MacKenzie, USFWS.'
     link: 'https://flic.kr/p/8Dc3bd'
-    postion: top center
-weight: 6
+    postion: 'top center'
+weight: 7
 tags:
     - 'Clean Water Act'
     - 'Coastal Barrier Resources Act'
@@ -16,7 +16,7 @@ tags:
     - 'Fish and Wildlife Coordination Act'
     - 'Migratory Bird Treaty Act'
     - 'National Environmental Policy Act'
-updated: 'July 27th, 2017'
+updated: 'September 20th, 2017'
 ---
 
 ## Civil Works

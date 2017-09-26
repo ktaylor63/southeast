@@ -9,32 +9,35 @@ js: /js/field-station.js
 url: /lafayette
 type: field-station
 hero:
-    name: louisiana-pinesnake.jpg
-    alt: 'A patterned black and gray snake blends in to the strewn, dark pine needles on the forest floor.'
-    link: 'https://flic.kr/p/fPrvJQ'
-    caption: 'Louisiana pinsnake, one of the rarest snake species in the world. Photo by USFWS.'
+    name: lafayette-office.jpg
+    alt: 'A brick building behind a waving American flag.'
+    caption: 'The Louisiana Ecological Services Field Office. Photo by USFWS.'
 tags:
     - 'Endangered Species Act'
     - Lafayette
     - Louisiana
-updated: 'September 7th, 2017'
+updated: 'September 26th, 2017'
 ---
 
 The field station was established in 1972. We strive for ecosystem sustainability through preservation, conservation, enhancement, and restoration of habitats essential for the long-term viability of the fish, wildlife, and plants in Louisiana. The field office emphasizes an ecosystem approach incorporating Strategic Habitat Conservation to address and prioritize habitat issues through partnerships with other federal and state agencies, conservation organizations, private landowners, and citizens to achieve the greatest possible benefits to fish and wildlife. 
 
-## Suggested Streamlined Coordination for Oil and Natural Gas Exploration, Drilling and Production in Louisiana Shale Plays
-
-[This document](/pdf/guidelines/suggested-streamlined-coordination-oil-and-gas-exploration-drilling-production.pdf) was prepared by the U.S. Fish and Wildlife Service’s (Service) Louisiana Ecological Services Office (LESO) and partners to protect and conserve important public resources such as wildlife and plants, and their habitats (including waterbodies) within areas of Louisiana with a high potential for new or continued oil and natural gas drilling and production.
-
 ## Threatened and Endangered Species
 
 [Explore a list of threatened and endangered species by parish in Louisiana](/pdf/fact-sheet/louisiana-ecological-services-field-office-t-and-e-species.pdf).
+
+## Louisiana Endangered Species Act (ESA) project review and guidance for other federal trust resources
+
+[The application](/lafayette/project-review/) is designed to streamline the review of projects for potential effects to federally listed threatened and endangered species (T&E) and their critical habitat (CH).
 
 {{< scroller-list tag="Lafayette" section="news" >}}
 
 {{< scroller-list tag="Lafayette" section="articles" >}}
 
 {{< scroller-list tag="Lafayette" section="wildlife" >}}
+
+## Suggested Streamlined Coordination for Oil and Natural Gas Exploration, Drilling and Production in Louisiana Shale Plays
+
+[This document](/pdf/guidelines/suggested-streamlined-coordination-oil-and-gas-exploration-drilling-production.pdf) was prepared by the U.S. Fish and Wildlife Service’s (Service) Louisiana Ecological Services Office (LESO) and partners to protect and conserve important public resources such as wildlife and plants, and their habitats (including waterbodies) within areas of Louisiana with a high potential for new or continued oil and natural gas drilling and production.
 
 ## Five Year Strategic Plan
 

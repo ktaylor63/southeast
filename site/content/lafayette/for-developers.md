@@ -1,7 +1,7 @@
 ---
 title: 'For developers: Conservation planning assistance'
 nav: 'For Developers'
-weight: 5
+weight: 6
 facebook: Louisiana-Ecological-Services-Office-364376830424514
 hero:
     name: heavy-machinery.jpg
@@ -13,7 +13,7 @@ tags:
     - 'Conservation Planning Assistance'
     - Lafayette
     - Louisiana
-updated: 'July 27th, 2017'
+updated: 'September 20th, 2017'
 ---
 
 ## Conserving habitat for fish and wildlife in Louisiana

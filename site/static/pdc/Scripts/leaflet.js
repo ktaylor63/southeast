@@ -114,6 +114,9 @@ pdcApp.getAOI = function (api) {
                     answer: "N"
                 });
             }
+        },
+        error: function (err) {
+            alert("We're sorry, but an internal error has occurred when building the Area of Interest map.");
         }
     });
 };
@@ -155,11 +158,14 @@ pdcApp.showMapForSpecies = function (questionID) {
                         padding: [50, 50]
                     });
                 }
+            },
+            error: function (err) {
+                alert("We're sorry, but an internal error has occurred with the manatee consultation zone map.");
             }
         });
     }
     else if (questionID === 1302) {
-        // Piping plover consultation zone
+        // Piping plover critical habitat
         $.ajax({
             url: pdcApp.url + "GetPipingPloverGeoJSON",
             success: function (json) {
@@ -175,11 +181,42 @@ pdcApp.showMapForSpecies = function (questionID) {
                     // "Redraw" map since it may have been hidden
                     pdcApp.map.invalidateSize();
 
-                    // Fit map extent to that of piping plover consultation zone
+                    // Fit map extent to that of piping plover critical habitat
                     pdcApp.map.fitBounds(pdcApp.leaflet.layers.plover.getBounds(), {
                         padding: [50, 50]
                     });
                 }
+            },
+            error: function (err) {
+                alert("We're sorry, but an internal error has occurred with the piping plover critical habitat map.");
+            }
+        });
+    }
+    else if (questionID === 1607) {
+        // Atlantic sturgeon critical habitat
+        $.ajax({
+            url: pdcApp.url + "GetAtlanticSturgeonGeoJSON",
+            success: function (json) {
+                if (json) {
+                    pdcApp.leaflet.layers.atlantic = L.geoJSON(JSON.parse(json), {
+                        style: function (feature) {
+                            return { color: feature.properties.color };
+                        }
+                    });
+
+                    pdcApp.leaflet.layers.atlantic.addTo(pdcApp.map);
+
+                    // "Redraw" map since it may have been hidden
+                    pdcApp.map.invalidateSize();
+
+                    // Fit map extent to that of atlantic sturgeon critical habitat
+                    pdcApp.map.fitBounds(pdcApp.leaflet.layers.atlantic.getBounds(), {
+                        padding: [50, 50]
+                    });
+                }
+            },
+            error: function (err) {
+                alert("We're sorry, but an internal error has occurred with the Atlantic sturgeon critical habitat map.");
             }
         });
     }
@@ -260,24 +297,18 @@ $(document).on("change", "#noAOI", function () {
 });
 
 pdcApp.leaflet.toggleAOI = function (e) {
-    console.log(e);
-    console.log(1);
     var layer = e.target;
 
     // Toggle checkbox
     var id = e.target.feature.properties.ID;
 
     if (id) {
-        console.log(2);
         var chk = document.getElementById("aoi" + id);
         if (chk) {
-            console.log(3);
             if (chk.checked) {
                 document.getElementById("aoi" + id).checked = false;
-                console.log(4);
             }
             else {
-                console.log(5);
                 document.getElementById("aoi" + id).checked = true;
 
                 document.getElementById("noAOI").checked = false;
@@ -285,7 +316,6 @@ pdcApp.leaflet.toggleAOI = function (e) {
             }
         }
     }
-    console.log(6);
 
     pdcApp.leaflet.toggleLayerOpacity(layer, id, e.target.options.fillOpacity);
 
@@ -340,6 +370,9 @@ pdcApp.getParishGeoJSON = function () {
                     }
                 });
             }
+        },
+        error: function (err) {
+            alert("We're sorry, but an internal error has occurred when retrieving the parish list.");
         }
     });
 };

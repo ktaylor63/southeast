@@ -1,7 +1,7 @@
 ---
 title: 'Migratory birds'
 nav: 'Migratory Birds'
-weight: 9
+weight: 10
 facebook: Louisiana-Ecological-Services-Office-364376830424514
 hero:
     name: flock-of-geese-louisiana.jpg
@@ -12,7 +12,7 @@ tags:
     - Louisiana
     - 'Migratory Bird Treaty Act'
     - 'Migratory Birds'
-updated: 'July 27th, 2017'
+updated: 'September 20th, 2017'
 ---
 
 The Migratory Bird Treaty Act was passed in 1918.  That Act prohibits the taking, killing, possession, transportation, and importation of migratory birds, their eggs, parts, and nests; except when specifically authorized by the U.S. Department of the Interior.   While the Act has no provision for allowing unauthorized take, the Service realizes that some birds may be harmed or killed as a result of project implementation even when reasonable measures to protect birds are implemented.  The Service’s Office of Law Enforcement (LE) carries out its mission to protect migratory birds through investigations and enforcement, as well as by fostering relationships with individuals, companies, and industries that have taken effective steps to minimize their impacts on migratory birds, and by encouraging others to enact such programs.  As such, LE focuses its resources on investigating and prosecuting individuals and entities that take migratory birds without regard for their actions or without effort to implement Service recommendations or conservation measures.
