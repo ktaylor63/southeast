@@ -1,6 +1,11 @@
 ---
 title: 'Tips for rebuilding'
 subtitle: 'Service not likely to hinder plans'
+hero:
+    name: steve-ricks-key-deer-refuge.jpg
+    alt: 'Two men attach a tarp onto a damaged roof.'
+    caption: 'Steve Ricks and Jeff Van Vracken, an aquatic ecologist at the Panama City office, lay down a tarp on a National Key Deer Refuge home. Photo by Dan Chapman, USFWS.'
+    position: 'top right'
 date: '2017-09-08'
 tags:
     - Alabama
@@ -15,7 +20,7 @@ tags:
     - 'South Carolina'
     - Tennessee
     - 'US Virgin Islands'
-updated: 'September 10th, 2017'
+updated: 'September 20th, 2017'
 ---
 
 Some property owners facing the daunting task of rebuilding homes or businesses damaged by Hurricane Irma don’t have to worry about the U.S. Fish and Wildlife Service (Service) slowing things  down.
@@ -40,4 +45,9 @@ The storm, anticipated to make landfall in Florida at 8 a.m. Sunday, will roll a
 
 Among the threatened species: the American crocodile and the eastern indigo snake. The Cape Sable seaside sparrow is one of species considered endangered. At-risk creatures include the gopher tortoise and alligator snapping turtle.
  
-For more information, see https://www.fws.gov/endangered/laws-policies/section-7.html
+For more information, visit our [emergency consultation page](/endangered-species-act/emergency-consultation/), or learn more about [how the Service handles Section 7 consultations](https://www.fws.gov/endangered/laws-policies/section-7.html).
+
+## Contact
+
+Mark Davis, Public Affairs Specialist  
+[mark_r_davis@fws.gov](mailto:mark_r_davis@fws.gov), (404) 679-7291
