@@ -37,9 +37,9 @@ The public is invited to provide new information on the pearl darter, as well as
 
 Comments may be submitted by one of the two following methods:
 
-1.  Electronically:  Go to the Federal eRulemaking Portal: [regulations.gov](http://www.regulations.gov/)   In the Search box, enter FWS–R4–ES–2016–0037, which is the docket number for this rulemaking.  Then, in the Search panel on the left side of the screen, under the Document Type heading, click on the Proposed Rules link to locate this document.  You may submit a comment by clicking on “Comment Now!”
+1.  Electronically:  Go to the Federal eRulemaking Portal: [regulations.gov](https://www.regulations.gov/document?D=FWS-R4-ES-2016-0037-0013)   In the Search box, enter FWS–R4–ES–2016–0037, which is the docket number for this rulemaking.  Then, in the Search panel on the left side of the screen, under the Document Type heading, click on the Proposed Rules link to locate this document.  You may submit a comment by clicking on “Comment Now!”
 2.  By hard copy:  Submit by U.S. mail or hand-delivery to:  Public Comments Processing, Attn: FWS–R4–ES–2016–0037; U.S. Fish & Wildlife Headquarters, MS: BPHC, 5275 Leesburg Pike, Falls Church, VA 22041-3803.
 
-Only send comments by the methods described above.  All comments will be posted on [http://www.regulations.gov](http://www.regulations.gov/)  including any personal information provided.
+Only send comments by the methods described above.  All comments will be posted on [regulations.gov](https://www.regulations.gov/document?D=FWS-R4-ES-2016-0037-0013)  including any personal information provided.
 
-Requests for a public hearing must be made in writing by November 7, 2016, to: Stephen Ricks, Field Supervisor, U.S. Fish and Wildlife Service, Mississippi Ecological Services Field Office, 6578 Dogwood Parkway, Jackson, Mississippi 39213, phone 601-321-1122 or by facsimile 601-965-4340\.  Persons who use a telecommunications device for the deaf (TDD) may call the Federal Information Relay Service (FIRS) at 800–877–8339.
+Requests for a public hearing must be made in writing by November 7, 2016, to: Stephen Ricks, Field Supervisor, U.S. Fish and Wildlife Service, Mississippi Ecological Services Field Office, 6578 Dogwood Parkway, Jackson, Mississippi 39213, phone 601-321-1122 or by facsimile 601-965-4340.  Persons who use a telecommunications device for the deaf (TDD) may call the Federal Information Relay Service (FIRS) at 800–877–8339.
