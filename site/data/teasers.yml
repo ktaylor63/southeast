@@ -1,5 +1,19 @@
 ---
 stories:
+  - title: 'NFWF Announces Over $1 Million in Funding to Restore and Improve Cumberland Plateau Forestlands'
+    url: 'http://www.nfwf.org/whoweare/mediacenter/pr/Pages/nfwf-announces-funding-to-restore-improve-cumberland-plateau-forestlands.aspx'
+    date: '2017-09-25'
+    summary: 'The National Fish and Wildlife Foundation (NFWF) today announced more than $1 million in grants to support forestland restoration and working forests throughout the Cumberland Plateau of Tennessee, Kentucky and Alabama. Grantee organizations have committed more than $1.5 million in match, generating a total conservation impact of more than $2.5 million.'
+  - title: 'Dozens of endangered tortoises released at Camp Shelby'
+    url: 'http://www.wdam.com/story/36413475/dozens-of-nursery-raised-endangered-tortoises-released-at-camp-shelby'
+    date: '2017-09-13'
+    summary: 'The Mississippi Military Department, the Nature Conservancy and several state and federal agencies have teamed up to boost the numbers of endangered gopher tortoises at Camp Shelby and the DeSoto National Forest.'
+    hero:
+        name: gopher-tortoise-released-at-eglin-afb.jpg
+        alt: 'A military officer in uniform releases a gopher tortoise next to a burrow.'
+        caption: 'Col. Matthew Higer, 96th Test Wing vice commander, bends down to release a gopher tortoise into its new home deep within the Eglin Air Force Base. Photo by Samuel King Jr., U.S. Air Force.'
+        link: 'https://flic.kr/p/QeDvpN'
+        position: 'bottom left'
   - title: 'What hurricanes can teach us about building better coastlines with benefits for fish and wildlife'
     url: 'http://www.trcp.org/2017/09/13/hurricanes-can-teach-us-building-better-coastlines-benefits-fish-wildlife/'
     date: '2017-09-13'
