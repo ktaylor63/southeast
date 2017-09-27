@@ -18,7 +18,7 @@ if (!Element.prototype.matches) {
 
 const xhr = require('xhr');
 const Parallax = require('parallax-scroll');
-const Marker = require('./mark');
+const Marker = require('mark.js');
 const menu = require('fws-navigation');
 const nav = require('fws-scrollnav');
 const glossary = require('fws-glossary');
@@ -61,7 +61,7 @@ const lunrIndex = function seedIndex() {
 // disable the scrollnav in the content file's frontmatter
 if (content && h2s.length > 0 && !hideScrollnav) {
   nav.init({
-    content,
+    content: document.querySelector('main'),
     insertTarget: document.querySelector('.side-nav'),
     showHeadline: false,
     scrollOffset: 55
