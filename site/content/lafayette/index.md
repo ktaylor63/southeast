@@ -16,7 +16,7 @@ tags:
     - 'Endangered Species Act'
     - Lafayette
     - Louisiana
-updated: 'September 26th, 2017'
+updated: 'September 27th, 2017'
 ---
 
 The field station was established in 1972. We strive for ecosystem sustainability through preservation, conservation, enhancement, and restoration of habitats essential for the long-term viability of the fish, wildlife, and plants in Louisiana. The field office emphasizes an ecosystem approach incorporating Strategic Habitat Conservation to address and prioritize habitat issues through partnerships with other federal and state agencies, conservation organizations, private landowners, and citizens to achieve the greatest possible benefits to fish and wildlife. 
@@ -43,7 +43,7 @@ The field station was established in 1972. We strive for ecosystem sustainabilit
 
 Our Five-Year Strategic Plan details the strategies needed to achieve our goals. An annual review of each program's accomplishments will be completed under the direction of the project leader with each program coordinator. In that review, field office priority areas, partnership opportunities, program focus, personnel development opportunities will be evaluated.
 
-[Download the Strategic Plan](/pdf/strategy/lafayette-five-year-strategic-plan-2015-2019.pdf).
+[Download the Strategic Plan](/pdf/strategic-plan/louisiana-es-strategic-work-plan-2015-2019.pdf).
 
 ## Service Area
 
