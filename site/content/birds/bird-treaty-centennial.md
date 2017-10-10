@@ -50,9 +50,6 @@ Check out a [list of bird festivals](http://abcbirds.org/wp-content/uploads/2016
 **January** <br>
 [Festival of the Cranes](http://alabama.travel/upcoming-events/festival-of-the-cranes ), January 9 - 10
 
-**October** <br>
-[Alabama Coastal Birding Festival](http://www.alabamacoastalbirdfest.com/ ), 10/5-10/8/16
-
 **December** <br>
 [Audubon Christmas Bird Counts](https://www.audubon.org/conservation/science/christmas-bird-count) (typically the end of December)
 
@@ -79,12 +76,9 @@ Check out a [list of bird festivals](http://abcbirds.org/wp-content/uploads/2016
 **January** <br>
 [Everglades Birding Festival](http://www.evergladesbirdingfestival.com/index.html), January 14 - 18
 
-[Southwest Florida Nature Festival](https://rookerybay.org/learn/swfl-nature-festival.html), January 15 - 17
-
 [Space Coast Birding Festival](http://spacecoastbirdingandwildlifefestival.org/), January 20 - 25
 
 **February** <br>
-[Birds of a Feather Festival](http://www.palmcoastgov.com/events/birding-fest), February 5 - 7
 
 [Raptor Fest, Boyd Hill Nature Preserve](http://raptorfest.org/), February 6
 
@@ -96,12 +90,8 @@ Check out a [list of bird festivals](http://abcbirds.org/wp-content/uploads/2016
 
 [Orlando Wetlands Festival](http://www.cityoforlando.net/wetlands/wetlands-festival/), February 20
 
-[Burrowing Owl Festival](http://www.ccfriendsofwildlife.org/), February 27
-
 **March** <br>
 [Big O Birding Festival](http://www.bigobirdingfestival.com/), March 11 - 16
-
-[Pelican Island Wildlife Festival](http://firstrefuge.org/events/wildlifefestival/), March 12
 
 [Nature Coast Birding & Wildlife Festival](https://www.facebook.com/NatureCoastBirdingandWildlifeFestival), TBD
 
@@ -110,18 +100,9 @@ Check out a [list of bird festivals](http://abcbirds.org/wp-content/uploads/2016
 
 [Florida Birding and Photo Festival](http://www.floridasbirdingandphotofest.com/), April 27 - May 1
 
-**September** <br>
-[Florida Keys Birding and Wildlife Festival](http://keysbirdingfest.org/)
-
 **October** <br>
-[Wings and Wildflowers Festival](https://www.wingsandwildflowers.com/)
 
 [Fairchild Tropical Gardens Birding Festival](http://www.fairchildgarden.org/bird-festival)
-
-[Ding Darling Days](http://dingdarlingsociety.org/dingdarlingdays.php)
-
-**November** <br>
-[Owl Fest, Avian Reconditioning Center](http://www.arc4raptors.org/owlfest), November 12, 2016
 
 **December** <br>
 [Audubon Christmas Bird Counts](https://www.audubon.org/conservation/science/christmas-bird-count) (typically the end of December)
@@ -159,14 +140,11 @@ Wings Over the Swamp Wildlife Festival (2nd weekend annually)
 ### Louisiana
 
 **January** <br>
-[Baton Rouge Audubon Winter Hummingbird Tour date](http://www.braudubon.org/index.php) TBD
 
 **April** <br>
 [Bayou Teche Black Bear and Birding Festival](http://www.bayoutechebearfest.org/), last dates: April 17 - 19, 2016
 
 [Great Louisiana Birding Festival, North Lake Nature](http://northlakenature.org/birdfest/) Center, April 15 - 17, 2016
-
-[Grand Isle Birding Festival](http://grandisle.btnep.org/GrandIsleHome.aspx), April 15 - 17
 
 **October** <br>
 [Audubon’s Yellow Rails and Rice Festival](http://www.snowyegretenterprises.com/Snowy_Egret_Enterprises/Yellow_Rails_%26_Rice_Festival.html)

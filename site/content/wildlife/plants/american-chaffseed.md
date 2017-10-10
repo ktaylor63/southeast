@@ -159,10 +159,8 @@ There is no designated critical habitat for the species.
 
 ## Other Scientific Resources
 
-  - [U.S. Fish and Wildlife Service Environmental Conservation Online System](http://ecos.fws.gov/speciesProfile/profile/speciesProfile.action?spcode=Q2I4)
+  - [U.S. Fish and Wildlife Service Environmental Conservation Online System Species Profile](https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=Q2I4)
   - [U.S. Department of Agriculture Natural Resource Conservation Service Plants Database](http://plants.usda.gov/java/profile?symbol=SCAM)
-  - [Center for Plant Conservation species profile](http://www.centerforplantconservation.org/collection/cpc_viewprofile.asp?CPCNum=3877)
-  - [North Carolina Natural Heritage Program](http://www.ncnhp.org/Images/73.pdf)
 
 ##  Historical News
 

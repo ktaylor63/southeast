@@ -11,6 +11,8 @@ tags:
     - 'Endangered Species Act'
     - Florida
     - 'Key Deer'
+    - 'Florida Keys National Wildlife Refuges Complex'
+    - Vero Beach
     - 'New World Screwworm'
 date: '2017-02-01'
 author: 'Jennifer Koches, South Carolina Ecological Services Field Office'

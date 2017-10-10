@@ -77,7 +77,7 @@ Paid internship.
 Throughout the United States.
 
 **How to Apply** <br>
-Create an account on Usajobs.gov and visit [usajobs.gov/Search/GetResults?Internship=Yes](https://www.usajobs.gov/Search/GetResults?Internship=Yes) to search for opportunities.
+Create an account on Usajobs.gov and visit [usajobs.gov](https://www.usajobs.gov/Search/Results?hp=student) to search for opportunities.
 
 **For More Information** <br>
 Visit the internship program information page on [opm.gov](https://opm.gov).
@@ -102,7 +102,7 @@ Paid internship.
 Throughout the United States.
 
 **How to Apply** <br>
-Create an account on Usajobs.gov and visit https://www.usajobs.gov/Search/GetResults?RecentGrad=Yes to search for opportunities.
+Create an account on Usajobs.gov and visit [usajobs.gov](https://www.usajobs.gov/Search/Results?hp=student) to search for opportunities.
 
 **For More Information** <br>
 Visit the recent graduate program information page on opm.gov.

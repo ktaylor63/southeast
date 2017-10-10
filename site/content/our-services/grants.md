@@ -31,7 +31,7 @@ The Wildlife Restoration Program is available for state/territory fish and wildl
 
 Funding for this grant comes from the Wildlife Restoration Trust Fund, which includes revenues from excise taxes on sporting arms and ammunitions (firearms, archery equipment).
 
-[Download the fact sheet to learn more about grant requirements](https://wsfrprograms.fws.gov/Subpages/GrantPrograms/WR/QR-WR.pdf).
+[Download the fact sheet to learn more about grant requirements](https://wsfrprograms.fws.gov/subpages/grantprograms/wr/wr.htm).
 
 ## Sport Fish Restoration Program
 
@@ -48,7 +48,7 @@ Projects that are eligible for funding include:
 
 Funding for this program accounts for 57% of the Sport Fish Restoration and Boating Trust Fund, which is derived from excise taxes on sport fishing equipment, electric motors, sonar, import duties on fishing tackle, yachts, and pleasure craft.  A portion of gasoline tax attributable to motorboats and small engines and the interest earned on the Trust Fund is also made available through this grant.
 
-[Download the fact sheet to learn more about grant requirements](https://wsfrprograms.fws.gov/Subpages/GrantPrograms/SFR/QR-SFR.pdf).
+[Download the fact sheet to learn more about grant requirements](https://wsfrprograms.fws.gov/subpages/grantprograms/SFR/SFR.htm).
 
 ## Boating Infrastructure Grant (BIG)
 
@@ -72,7 +72,7 @@ Any agency of a coastal state designated by the governor as having a responsibil
 
 Annually, 15% of the 18.5% distributed to Coastal Wetlands Planning, Protection and Restoration Act comes from the Sport Fish Restoration and Boating Trust Fund  The Fund includes revenues from excise taxes on sport fishing equipment, electric motors, sonar, import duties on fishing tackle, yachts, pleasure craft, a portion of gasoline tax attributable to motorboats and small engines as well as the interest earned on the Trust Fund.
 
-[Learn more about the National Coastal Wetlands Program](https://wsfrprograms.fws.gov/Subpages/GrantPrograms/CW/QR-CW.pdf)
+[Learn more about the National Coastal Wetlands Program](https://wsfrprograms.fws.gov/subpages/grantprograms/cw/cw.htm)
 
 ## State Wildlife Grants
 
@@ -80,7 +80,7 @@ State Wildlife Grants are made available by the Land and Water Conservation Fund
 
 The Land and Water Conservation Fund includes revenues from outer continental shelf oil and gas and the general treasury since 2006.
 
-[Learn more about State Wildlife Grants](https://wsfrprograms.fws.gov/Subpages/GrantPrograms/SWG/QR-SWG.pdf).
+[Learn more about State Wildlife Grants](https://wsfrprograms.fws.gov/subpages/grantprograms/SWG/SWG.htm).
 
 ## Multi-State Grant Program
 
@@ -88,4 +88,4 @@ This grant program is awarded through cooperative process with the Association o
 
 Funding for this grant is $3 million from the Sport Fish Restoration and Boating Trust Fund, which includes revenues from excise taxes on sport fishing equipment, electric motors, sonar, import duties on fishing tackle, yachts, pleasure craft, a portion of gasoline tax attributable to motorboats and small engines as well as the interest earned on the Trust Fund.
 
-[Learn more about the Multi-State Grant Program](https://wsfrprograms.fws.gov/Subpages/GrantPrograms/MultiState/QR-MS.pdf).
+[Learn more about the Multi-State Grant Program](https://wsfrprograms.fws.gov/subpages/grantprograms/multistate/ms.htm).

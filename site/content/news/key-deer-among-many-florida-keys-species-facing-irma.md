@@ -10,7 +10,8 @@ hero:
 tags:
     - Alabama
     - Florida
-    - 'Florida Keys National Wildlife Refuge Complex'
+    - Vero Beach
+    - 'Florida Keys National Wildlife Refuges Complex'
     - Georgia
     - Gulf
     - Hurricane

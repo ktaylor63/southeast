@@ -11,7 +11,8 @@ date: '2017-09-16'
 tags:
     - Florida
     - 'Florida Keys'
-    - 'Florida Keys National Wildlife Refuge Complex'
+    - Vero Beach
+    - 'Florida Keys National Wildlife Refuges Complex'
     - Gulf
     - Hurricane
     - 'Hurricane Irma'

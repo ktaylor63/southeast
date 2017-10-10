@@ -122,8 +122,9 @@ Black bears are adaptable and opportunistic. They can survive in locations near 
 Bear conflicts are primarily the result of the bears being attracted to a food source. Never leave garbage in the woods are at campsites. Leave food at home or sealed in your vehicle.
 
 Review these resources provided by your local state agencies for further information on living safely with bears:
+
  - [Louisiana](http://www.wlf.louisiana.gov/louisiana-black-bear-brochures)
- - [Mississippi](https://www.mdwfp.com/media/43760/mdwfp_bearpamphlet.pdf)
+ - [Mississippi](https://www.mdwfp.com/media/news/wildlife-hunting/living-with-black-bears-in-mississippi/)
 
 ## Recovery from Threatened Status
 
@@ -135,7 +136,7 @@ Since the listing of the Louisiana black bear in 1992, voluntary habitat restora
 
 From 2001 to 2009, we worked with partners to implement a Louisiana black bear reintroduction project on publicly owned forested lands. That effort led to the establishment of a new subpopulation that adds to the overall size and viability of the overall bear population, and also facilitates exchange between existing subpopulations.  Large-scale restoration and protection of key habitats, coupled with the benefits of that reintroduction program, have been instrumental in stabilizing and expanding the Louisiana black bear population.
 
-Download the [Recovery Plan](http://www.fws.gov/ecos/ajax/docs/recovery_plan/950927.pdf)
+Download the [Recovery Plan](https://ecos.fws.gov/docs/recovery_plan/950927.pdf)
 
 ## Keeping Populations Healthy
 
@@ -164,9 +165,9 @@ Want to learn more from our biologists? Contact one of our subject matter expert
 ### Non-profit
  - [Black Bear Conservation Coalition (BBCC)](http://www.bbcc.org/)
  - [Bear Education and Restoration Group of Mississippi (BEaR)](http://www.msbear.org/)
- - [East Texas Black Bear Task Force](http://www.facebook.com/EastTexasBlackBearTaskForce)
- - [The Nature Conservancy, Louisiana](http://www.nature.org/ourinitiatives/regions/northamerica/unitedstates/louisiana/)
- - [The Nature Conservancy, Mississippi](http://www.nature.org/ourinitiatives/regions/northamerica/unitedstates/mississippi/)
+ - [East Texas Black Bear Task Force](https://www.facebook.com/EastTexasBlackBearTaskForce)
+ - [The Nature Conservancy, Louisiana](https://www.nature.org/ourinitiatives/regions/northamerica/unitedstates/louisiana/)
+ - [The Nature Conservancy, Mississippi](https://www.nature.org/ourinitiatives/regions/northamerica/unitedstates/mississippi/)
 
 ## Critical Habitat
 

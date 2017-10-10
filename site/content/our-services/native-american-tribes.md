@@ -40,13 +40,13 @@ Working with tribes in the Southeast, the Service has
 - [Coushatta Tribe of Louisiana, Elton, LA](http://www.koasatiheritage.org/pages/tribal-history/)
 - [Eastern Band of Cherokee Indians, Cherokee, NC](http://visitcherokeenc.com/eastern-band-of-the-cherokee/)
 - [Jena Band of Choctaw Indians, Jena, LA](http://www.jenachoctaw.org/)
-- [Miccosukee Tribe of Indians of Florida, Miami, FL](http://www.miccosukee.com/tribe.htm)
+- [Miccosukee Tribe of Indians of Florida, Miami, FL](http://www.miccosukee.com/tribe/)
 - [Mississippi Band of Choctaw Indians, Philadelphia, MS](http://www.choctaw.org/)
 - [Poarch Creek Indians, Atmore, AL](http://pci-nsn.gov/westminster/index.html)
 - [Seminole Tribe of Florida, Hollywood, FL](http://www.seminoletribe.com/)
-- [Tunica-Biloxi Tribe of Louisiana, Marksville, LA](http://www.tunica.org/)
+- [Tunica-Biloxi Tribe of Louisiana, Marksville, LA](https://www.tunicabiloxi.org/)
 
-For more information on American Indian tribes, visit the [Bureau of Indian Affairs FAQ](http://www.bia.gov/FAQs/).
+For more information on American Indian tribes, visit the [Bureau of Indian Affairs website](https://www.bia.gov/about-us).
 
 ## Grants
 

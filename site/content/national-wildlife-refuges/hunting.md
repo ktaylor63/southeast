@@ -43,8 +43,7 @@ Fishing licenses are provided by state wildlife agencies. Select your state agen
 - [Hunting Licenses](http://www.outdooralabama.com/hunting-license)
 
 ### Arkansas Game & Fish Commission
-- [About Hunting Licenses](http://www.agfc.com/licenses/Pages/LicensesHunting.aspx)
-- [Buy a License](http://www.agfc.com/licenses/Pages/LicensesBuy.aspx)
+- [Hunting Licenses](https://www.agfc.com/en/resources/licensing/huntinglicenses/)
 
 ### Florida Florida Fish and Wildlife Conservation Commission
 - [Hunting Licenses and Fee Information](http://myfwc.com/license/recreational/hunting/)
@@ -59,11 +58,11 @@ Fishing licenses are provided by state wildlife agencies. Select your state agen
 - [Online License and Permit Agent](https://app.fw.ky.gov/license/waonlinefront.aspx)
 
 ### Louisiana Department of Wildlife and Fisheries
-- [Hunting License Information](http://www.wlf.louisiana.gov/licenses/hunting-licenses)
+- [Hunting License Information](http://www.wlf.louisiana.gov/hunting-licenses)
 - [Purchase Your License Online](https://www.la.wildlifelicense.com/start.php)
 
 ### Mississippi Wildlife, Fisheries & Parks
-- [Hunting License Types](http://www.mdwfp.com/license/hunting-license.aspx)
+- [Hunting License Types](https://www.ms.gov/mdwfp/hunting_fishing/faq_info.aspx)
 - [Purchase a Hunting License](https://www.ms.gov/mdwfp/hunting_fishing/)
 
 ### North Carolina Wildlife Resources Commission

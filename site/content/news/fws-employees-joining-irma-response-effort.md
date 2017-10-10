@@ -6,12 +6,13 @@ date: '2017-09-15'
 tags:
     - Florida
     - 'Florida Keys'
-    - 'Florida Keys National Wildlife Refuge Complex'
+    - 'Florida Keys National Wildlife Refuges Complex'
     - Gulf
     - Hurricane
     - 'Hurricane Irma'
     - 'Key Deer'
     - 'National Key Deer Refuge'
+    - Vero Beach
 hero:
     name: irma-cudjoe-key.jpg
     alt: 'Palm and mangrove trees snapped like twigs.'

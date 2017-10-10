@@ -14,7 +14,7 @@ tags:
     - Louisiana
     - 'Louisiana Pinsnake'
     - Texas
-updated: 'October 5th, 2017'
+updated: 'October 10th, 2017'
 ---
 
 One of the rarest snakes in North America, the [Louisiana pinesnake](https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=C02C), is found only in isolated, mostly longleaf pine forests in Louisiana and Texas.
@@ -32,7 +32,7 @@ The public may submit comments by one of the following methods:
   1. Federal eRulemaking Portal: https://www.regulations.gov. In the Search box, enter the docket number for this proposed rule, which is R4–ES–2016–0121; 4500030113.  Then click on the Search button.  You may submit a comment by clicking on “Comment Now!'' Please ensure that you have found the correct rulemaking before submitting your comment.
   2. U.S. mail or hand delivery: Public Comments Processing, Attn: Docket No.  FWS–R4–ES–2016–0121; 4500030113, U.S. Fish and Wildlife Service, MS: BPHC; 5275 Leesburg Pike; Falls Church, VA 22041–3803.
 
-For further information, contact Joseph Ranson, Field Supervisor, U.S. Fish and Wildlife Service, [Louisiana Ecological Services Office](/lafayette), 646 Cajundome Blvd., Suite 400, Lafayette, LA; telephone 337-291-3101; facsimile 337-291-3139.  Persons who use a telecommunications device for the deaf (TDD) may call the Federal Information Relay Service (FIRS) at 800–877–8339.
+For further information, contact Joseph Ranson, Field Supervisor, U.S. Fish and Wildlife Service, [Louisiana Ecological Services Office](/lafayette), 646 Cajundome Blvd., Suite 400, Lafayette, LA; telephone 337-291-3100; facsimile 337-291-3139.  Persons who use a telecommunications device for the deaf (TDD) may call the Federal Information Relay Service (FIRS) at 800–877–8339.
 
 ## More information
 

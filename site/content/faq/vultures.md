@@ -44,7 +44,7 @@ If you have a question about obtaining a depredation permit in the Southeast, pl
 
  - [U.S. Fish and Wildlife Service Permit Application for Depredating Birds](https://www.fws.gov/permits/applicationforms/ApplicationLM.html#MBTA)
  - [Depredation regulations (50 CFR 21.41)](http://www.ecfr.gov/cgi-bin/text-idx?SID=4e85855d9ec62738db16ffd95473a375&node=se50.9.21_141&rgn=div8)
- - [USDA Wildlife Services Fact Sheet: Managing Depredation and Nuisance Problems Caused by Vultures](https://www.aphis.usda.gov/wildlife_damage/nwrc/research/invasive_wildlife/content/Managing%20Depredation%20and%20Nuisance%20Problems%20Caused%20by%20Vultures.pdf)
+ - [USDA Wildlife Services Fact Sheet: Managing Depredation and Nuisance Problems Caused by Vultures](https://www.aphis.usda.gov/wildlife_damage/reports/Wildlife%20Damage%20Management%20Technical%20Series/FINAL_MS%20Publisher%20Layout_Vultures_October%202016.pdf)
  - [USDA Wildlife Services Fact Sheet: Reducing Damage Caused by Vultures](https://www.aphis.usda.gov/wildlife_damage/nwrc/downloads/vulture%20brochure_FINAL.pdf)
  - [USDA Wildlife Services Fact Sheet: Vulture Damage Management](https://www.aphis.usda.gov/publications/wildlife_damage/content/printable_version/fs_vulture_damage_man.pdf)
- - [USDA Wildlife Services Guidelines for Using Effigies to Disperse Nuisance Vulture Roosts](https://www.aphis.usda.gov/wildlife_damage/nwrc/research/invasive_wildlife/content/VultureEffigy%20Guidelines-revisedMar2010.pdf)
+ - [USDA Wildlife Services Guidelines for Using Effigies to Disperse Nuisance Vulture Roosts](https://www.aphis.usda.gov/wildlife_damage/nwrc/research/invasive_wildlife/content/VultureEffigyGuidelines-Mar2010.pdf)

@@ -8,6 +8,8 @@ tags:
     - 'Sea Level Rise'
     - 'Endangered Species Act'
     - 'Key Deer'
+    - 'Florida Keys National Wildlife Refuges Complex'
+    - Vero Beach
 hero:
     link: 'https://flic.kr/p/9nytdu'
     caption: 'A Key deer on Big Pine Key in Florida. Photo by Garry Tucker, USFWS.'

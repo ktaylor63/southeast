@@ -12,6 +12,8 @@ tags:
     - E-Grits
     - Florida
     - 'Key Deer'
+    - 'Florida Keys National Wildlife Refuges Complex'
+    - Vero Beach
     - 'New World Screwworm'
 updated: 'May 4th, 2017'
 ---

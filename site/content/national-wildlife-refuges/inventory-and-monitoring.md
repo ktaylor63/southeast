@@ -44,8 +44,9 @@ Regional I&M branch staff are developing, testing, and using a number of data ma
 
 Informed planning and resource management requires information about status, trends, and changes in fish, wildlife, plant populations, and their habitats. The National Wildlife Refuge System (NWRS) Inventory & Monitoring (I&M) Initiative and Southeast Region I&M Branch efforts are focused on both [biotic](#biotic-resources) and [abiotic resources](#abiotic-resources).
 
-<span id="abiotic-resources"></span>
-## Coastal Wetland Elevation Monitoring
+<span id="abiotic-resources">
+  <h2>Coastal Wetland Elevation Monitoring</h2>
+</span>
 
 Sea level rise and its potential impacts to habitats and species are a concern for the refuges across the United States. Rising sea levels can lead to wetland loss, saltwater intrusion, habitat conversion, and inland migration of marsh and forested ecosystems. The average mean elevation of these wetland surfaces must increase to keep pace with the annual rise in sea level and land subsidence of organic substrates. Understanding rates of wetland elevation change and relative sea-level rise is important to help refuge managers answer critical questions and adjust management techniques for wetlands towards future conditions.
 
@@ -117,8 +118,9 @@ Water plays an incredibly important role throughout the National Wildlife Refuge
 
 [Search Water Resource Inventory and Assessments from refuges in the Southeast](/reading-room?q=Water+Resource+Inventory+and+Assessment) or [download the WIRA fact sheet](/pdf/fact-sheets/water-resources-inventory-and-assessment.pdf).
 
-<span id="abiotic-resources"></span>
-## Amphibian Community Monitoring
+<span id="biotic-resources">
+  <h2>Amphibian Community Monitoring</h2>
+</span>
 
 There is growing concern about the worldwide decline of amphibian populations.  The southeastern U.S. represents one of the world's most diverse regions for amphibians. Amphibians are good indicators of ecosystem health due to their dependence on various wetland habitats and sensitivity to environmental stressors.
 
@@ -234,11 +236,8 @@ Okefenokee NWR, Folkston, GA	(912) 496-7366 ext. 224
 [Tim Fotinos](mailto:timothy_fotinos@fws.gov), Plant Ecologist  
 Red River NWR, Bossier City, LA	(318) 742-1219 ext. 104
 
-[Grant Graves](mailto:grant_graves@fws.gov), Hydrologist  
-Wapanocca NWR, Turrell, AR	(870) 343-8695
-
-[Nicole Rankin](mailto:nicole_rankin@fws.gov),	Coastal Ecologist  
-Cape Romain NWR, Awendaw, SC	(843) 928-3264 ext. 211
+[Amanda Bessler](mailto:amanda_bessler@fws.gov), Terrestrial Ecologist  
+St. Marks NWR, St. Marks, FL (850) 491-8457
 
 [David Richardson](mailto:david_richardson@fws.gov), Terrestrial Ecologist  
 North Mississippi Refuge Complex, Grenada, MS	(662) 226-8286

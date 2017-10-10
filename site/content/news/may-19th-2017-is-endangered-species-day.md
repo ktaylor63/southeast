@@ -45,7 +45,7 @@ For recent examples of success stories, click below for information on the recen
   <li class="card">
     <div class="card-hero">
       <a href="/news/2016/03/the-teddy-bear-is-back-us-fish-and-wildlife-service-delists-louisiana-black-bear-due-to-recovery/">
-        <img class="gallery-hero" src="/images/hero/louisiana-black-bear-cubs-three.jpg" srcset="/images/hero/small/louisiana-black-bear-cubs-three.jpg 450w, /images/hero/medium/louisiana-black-bear-cubs-three.jpg 850w" alt="Three small black bear cubs yawning in unison." />
+        <img class="gallery-hero" src="/images/hero/louisiana-black-bear-cubs-three.jpg" srcset="/images/hero/small/louisiana-black-bear-cubs-three.jpg 450w, /images/hero/medium/louisiana-black-bear-cubs-three.jpg 850w" alt="Three small black bear cubs yawning in unison." sizes="100vw" />
       </a>
     </div>
     <div class="card-text">
@@ -58,7 +58,7 @@ For recent examples of success stories, click below for information on the recen
   <li class="card">
     <div class="card-hero">
       <a href="/news/2016/10/successful-recovery-and-removal-from-endangered-species-act-of-native-kentucky-plant-a-victory-for-conservation-partners/">
-        <img class="gallery-hero" src="/images/hero/white-haired-goldenrod.jpg" srcset="/images/hero/small/white-haired-goldenrod.jpg 450w, /images/hero/medium/white-haired-goldenrod.jpg 850w" alt="Green leafy vegetation with bright yellow flowers climbs a rock face." />
+        <img class="gallery-hero" src="/images/hero/white-haired-goldenrod.jpg" srcset="/images/hero/small/white-haired-goldenrod.jpg 450w, /images/hero/medium/white-haired-goldenrod.jpg 850w" alt="Green leafy vegetation with bright yellow flowers climbs a rock face."  sizes="100vw" />
       </a>
     </div>
     <div class="card-text">
@@ -71,7 +71,7 @@ For recent examples of success stories, click below for information on the recen
   <li class="card">
     <div class="card-hero">
       <a href="/news/2017/03/manatee-reclassified-from-endangered-to-threatened-as-habitat-improves-and-population-expands-existing-federal-protections-remain-in-place/">
-        <img class="gallery-hero" src="/images/hero/manatees-crystal-river.jpg" srcset="/images/hero/small/manatees-crystal-river.jpg 450w, /images/hero/medium/manatees-crystal-river.jpg 850w" alt="Four manatees and a school of fish assemble under crystal clear water." />
+        <img class="gallery-hero" src="/images/hero/manatees-crystal-river.jpg" srcset="/images/hero/small/manatees-crystal-river.jpg 450w, /images/hero/medium/manatees-crystal-river.jpg 850w" alt="Four manatees and a school of fish assemble under crystal clear water."  sizes="100vw" />
       </a>
     </div>
     <div class="card-text">

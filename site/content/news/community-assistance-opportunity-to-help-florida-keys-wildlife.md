@@ -10,7 +10,8 @@ hero:
 tags:
     - Florida
     - 'Florida Keys'
-    - 'Florida Keys National Wildlife Refuge Complex'
+    - 'Florida Keys National Wildlife Refuges Complex'
+    - Vero Beach
     - Hurricane
     - 'Hurricane Irma'
     - 'Key Deer'

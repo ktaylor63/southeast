@@ -13,6 +13,8 @@ tags:
     - Hurricane
     - 'Hurricane Irma'
     - 'Key Deer'
+    - Vero Beach
+    - 'Florida Keys National Wildlife Refuges Complex'
 updated: 'September 14th, 2017'
 ---
 

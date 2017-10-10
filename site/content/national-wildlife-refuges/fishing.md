@@ -62,7 +62,7 @@ Find your local national wildlife refuge using our [interactive map](/map/?searc
   - Bass, catfish, sunfish
  - [Cedar Keys National Wildlife Refuge](https://www.fws.gov/refuge/cedar_keys/), Cedar Key, FL
   - Redfish
- - [Chassahowitzka National Wildlife Refuge](https://www.fws.gov/refuge/chassahowitzka/), Homosassa, FL
+ - [Chassahowitzka National Wildlife Refuge](https://www.fws.gov/chassahowitzka/), Homosassa, FL
   - Bass, redfish, sunfish
  - [Hobe Sound National Wildlife Refuge](https://www.fws.gov/hobesound/), Jupiter Island, FL
   - Redfish
@@ -218,8 +218,7 @@ Fishing licenses are provided by state wildlife agencies. Select your state agen
  - [Non-resident Freshwater Fishing Licenses](http://www.outdooralabama.com/nonresident-freshwater-fishing-license-and-application-packets)
 
 ### Arkansas Game & Fish Commission
- - [About Fishing Licenses](http://www.agfc.com/licenses/Pages/LicensesFishing.aspx)
- - [Buy a License](https://www.ar.wildlifelicense.com/start.php)
+ - [About Fishing Licenses](https://www.agfc.com/en/resources/licensing/fishinglicenses/)
 
 ### Florida Florida Fish and Wildlife Conservation Commission
  - [Freshwater Fishing Licenses and Fees](http://myfwc.com/license/recreational/freshwater-fishing/)
@@ -228,18 +227,17 @@ Fishing licenses are provided by state wildlife agencies. Select your state agen
 ### Georgia Department of Natural Resources, Wildlife Resources Division
  - [Sport Fishing Regulations](http://www.georgiawildlife.com/fishing/regulations)
  - [Fishing License Requirements](http://www.georgiawildlife.org/node/1300)
- - [Free Fishing Days](http://www.georgiawildlife.com/Fishing/FreeFishingDays)
  - [Purchase a License](https://www.gooutdoorsgeorgia.com/)
 
 ### Kentucky Department of Fish & Wildlife Resources
  - [Online License and Permit Agent](https://app.fw.ky.gov/license/waonlinefront.aspx)
 
 ### Louisiana Department of Wildlife and Fisheries
- - [Fishing License Information](http://www.wlf.louisiana.gov/licenses/fishing)
- - [Purchase Your License Online](https://www.la.wildlifelicense.com/start.php)
+ - [Fishing License Information](http://www.wlf.louisiana.gov/licenses-and-permits)
+ - [Purchase Your License Online](https://www.la.wildlifelicense.com/info.php)
 
 ### Mississippi Wildlife, Fisheries & Parks
- - [Fishing License Types and Regulations](https://www.mdwfp.com/license/fishing-license.aspx)
+ - [Fishing License Types and Regulations](https://www.ms.gov/mdwfp/hunting_fishing/faq_info.aspx#Fishing)
  - [Purchase a Fishing License](https://www.ms.gov/mdwfp/hunting_fishing/)
 
 ### North Carolina Wildlife Resources Commission

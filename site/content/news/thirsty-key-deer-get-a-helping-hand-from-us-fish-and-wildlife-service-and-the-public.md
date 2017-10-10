@@ -11,7 +11,8 @@ tags:
     - 'Endangered Species Act'
     - Florida
     - 'Florida Keys'
-    - 'Florida Keys National Wildlife Refuge Complex'
+    - Vero Beach
+    - 'Florida Keys National Wildlife Refuges Complex'
     - Hurricane
     - 'Hurricane Irma'
     - 'Key Deer'

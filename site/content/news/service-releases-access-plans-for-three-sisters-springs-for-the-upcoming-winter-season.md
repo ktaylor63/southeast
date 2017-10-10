@@ -18,7 +18,7 @@ The U.S. Fish and Wildlife Service has established updated, science-based protoc
 
 These variables are represented in two separate protocol flowcharts: 
 
-1. [Flowchart of predictable environmental and biological](https://fws.gov/southeast/news/pdf/biological-guidelines-flowchart-to-determine-closure-status-of-three-sisters-springs.pdf) factors (e.g., manatee population dynamics associated with weather and tides); and, 
+1. [Flowchart of predictable environmental and biological](/pdf/guidelines/biological-guidelines-flowchart-to-determine-closure-status-of-three-sisters-springs.pdf) factors (e.g., manatee population dynamics associated with weather and tides); and, 
 2. Flowchart of unpredictable environmental and biological factors (e.g. water clarity, specific manatee behaviors, and manatee distribution inside the springs). 
 
 In addition to implementing the two protocol flowcharts, the refuge staff will continue last year’s measures from the 2014-2015 Three Sisters Springs Environmental Assessment, which include: the closure of the western and eastern spring lobes, restriction of paddlecraft access, and the requirement for commercial special use permit holders to guide/escort their visitors into the springs. The Service also will increase the refuge staff’s presence at the springs during the winter and will continue to conduct additional research at the springs. 
@@ -49,7 +49,7 @@ Daily updates of Three Sisters Springs’ closures and openings will be availabl
 
 ## Documents
 
-*   [Three Sisters Springs Closure Protocol](https://fws.gov/southeast/news/pdf/three-sister-springs-closure-protocol.pdf)
-*   [Environmental Guidelines Flowchart to predict next day closure status of Three Sisters Springs](https://fws.gov/southeast/news/pdf/environmental-guidelines-flowchart-to-predict-next-day-closure-of-three-sisters-springs.pdf)
-*   [Biological Guidelines Flowchart to predict next day closure status of Three Sisters Springs](https://fws.gov/southeast/news/pdf/biological-guidelines-flowchart-to-determine-closure-status-of-three-sisters-springs.pdf)
-*   [Frequently Asked Questions for Winter Opening/Closing Protocol at Three Sisters Springs](https://fws.gov/southeast/news/pdf/frequently-asked-questions-winter-protocol-for-closing-opening-three-sisters-springs.pdf)
+  - [Three Sisters Springs Closure Protocol](/pdf/guidelines/three-sister-springs-closure-protocol.pdf)
+  - [Environmental Guidelines Flowchart to predict next day closure status of Three Sisters Springs](/pdf/guidelines/environmental-guidelines-flowchart-to-predict-next-day-closure-of-three-sisters-springs.pdf)
+  - [Biological Guidelines Flowchart to predict next day closure status of Three Sisters Springs](/pdf/guidelines/biological-guidelines-flowchart-to-determine-closure-status-of-three-sisters-springs.pdf)
+  - [Frequently Asked Questions for Winter Opening/Closing Protocol at Three Sisters Springs](/pdf/guidelines/frequently-asked-questions-winter-protocol-for-closing-opening-three-sisters-springs.pdf)
