@@ -37,7 +37,7 @@ Designation of critical habitat **does not**:
 
 ## For Federal Agencies
 
-Under Section 7 of the ESA, all federal agencies are required to use their authorities to help conserve imperiled species. The helps to ensure that the Federal government does not contribute to the decline of endangered and threatened species or their potential for recovery.
+Under Section 7 of the ESA, all federal agencies are required to use their authorities to help conserve imperiled species. The ESA helps to ensure that the Federal government does not contribute to the decline of endangered and threatened species or their potential for recovery.
 
 Federal agencies are prohibited from destroying or adversely modifying designated critical habitat. This means they must consult with the Service about actions that they carry out, fund, or authorize to ensure that they will not destroy or adversely modify critical habitat.
 
