@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 'Secretary Zinke announces boost to wetland, waterfowl conservation, access to public lands through conservation grants, federal duck stamp funds'
 subtitle: '$21.9 million approved for wetland conservation projects; $5.4 million to conserve 2,259 acres on national wildlife refuges and open thousands of additional acres to public hunting'
 date: '2017-09-07'
