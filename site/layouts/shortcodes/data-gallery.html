@@ -5,7 +5,7 @@
     <div class='card-hero'>
       <a href="{{ .url }}">
         {{ if .hero.name }}
-        <img srcset="{{ .Site.BaseURL }}images/hero/small/{{ .hero.name }} 450w, {{ .Site.BaseURL }}images/hero/medium/{{ .hero.name }} 850w" src="{{ .Site.BaseURL }}images/hero/small/{{ .hero.name }}" alt="{{ .hero.alt }}" class='gallery-hero'/>
+        <img srcset="{{ .Site.BaseURL }}images/hero/small/{{ .hero.name }} 450w, {{ .Site.BaseURL }}images/hero/medium/{{ .hero.name }} 850w" src="{{ .Site.BaseURL }}images/hero/small/{{ .hero.name }}" alt="{{ .hero.alt }}" class='gallery-hero' sizes="100vw" />
         {{ end }}
       </a>
     </div>
