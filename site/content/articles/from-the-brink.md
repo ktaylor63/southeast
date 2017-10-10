@@ -1,5 +1,4 @@
 ---
-draft: true
 title: '‘From the brink’'
 subtitle: 'Purple cat’s paw mussel claws back'
 author: 'Mark Davis, Public Affairs Specialist'
