@@ -37,7 +37,7 @@ Notify the U.S. Geological Survey, [Bird Banding Lab](http://www.pwrc.usgs.gov/b
 
 The lab does not track every band such as plastic covered aluminum bands on pigeons or bands on falconry birds.  Contact the [American Racing Pigeon Union, Inc.](http://www.pigeon.org/) or the [National Pigeon Association](http://www.npausa.com/) to find out more about bands on pigeons or your State Natural Resource Department for further information on falconry bands.  The more information you can provide, the more likely the individual bird or marking project can be identified.
 
-**Important information to note include:** <br>
+**Important information to note include:**  
 
  - Size, shape, color of marker, color of codes, shape and placement of codes on the marker (a sketch can be more useful than a written description),
  - Age and sex of the bird if available,
@@ -49,7 +49,7 @@ The lab does not track every band such as plastic covered aluminum bands on pige
 
 If you encounter a bird on the ground with no apparent injuries, especially during the spring time, you have most likely found a young bird of "fledgling" that is learning to fly.  Young birds often leave the nest before they are capable of flight. They spend a few pre-flight days hopping on the ground and flapping their wings. The parents keep an eye on it and feed it when necessary. The best thing to do with this bird is to leave it alone if it is in a safe area.  Bring your cats or dogs indoors for the day.  It can be placed up on a tree branch or in a shrub if in a dangerous situation but must remain in the same area so its parents can find it.  Do not believe the myth that if you handle a nestling, the parents will smell your scent and abandon the chick.  Mammalian predators do follow scents though.  If you approach a nest too often, or too closely, you may actually be leading a predator to it.
 
-To find a rehabilitator in your area visit [The National Wildlife Rehabilitators Association](http://www.nwrawildlife.org/content/finding-rehabilitator).
+To find a rehabilitator in your area visit [The National Wildlife Rehabilitators Association](http://www.nwrawildlife.org/?page=find_a_rehabilitator).
 
 ## What should I feed backyard birds?
 

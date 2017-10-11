@@ -35,16 +35,11 @@
 
 .scroller-list--item {
   border-bottom: 1px solid darken($color-muted, 5);
-  background: $color-muted;
   margin: 0;
   padding: .5em;
 
   a {
     display: flex;
-  }
-
-  &:hover {
-    background: white;
   }
 
   .icon-date {

@@ -19,7 +19,7 @@ Every year, more than half of the Service's annual budget in the Southeast Regio
 
 ## Information on Federal Grants
 
-All grant opportunities are posted on [Grants.gov](http://www.grants.gov/). You can [filter all of the available grants to “Department of  the Interior”](http://www.grants.gov/search-grants.html?agencies%3DDOI%7CDepartment%20of%20the%20Interior).
+All grant opportunities are posted on [Grants.gov](https://www.grants.gov/). You can [filter all of the available grants to “Department of  the Interior”](http://www.grants.gov/search-grants.html?agencies%3DDOI%7CDepartment%20of%20the%20Interior).
 
 ## Wildlife Restoration Program
 

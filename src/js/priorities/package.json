@@ -23,7 +23,7 @@
   "license": "SAX-PD",
   "dependencies": {
     "events": "^1.1.1",
-    "fws-scrollnav": "^1.9.0",
+    "fws-scrollnav": "^1.13.0",
     "image-comparison": "^1.1.2",
     "is-dom": "^1.0.9",
     "lodash.debounce": "^4.0.8",

@@ -30,4 +30,3 @@ The U.S. Fish and Wildlife Service is working with landowners and other partners
 - [Dam Removal Fact Sheet](/pdf/fact-sheet/dam-removal.pdf)
 - [Georgia's Stream Crossing Handbook](/pdf/georgia-stream-crossing-handbook.pdf)
 - [Shuford Dam Removal in Brookford, North Carolina](https://www.americanrivers.org/2016/08/shuford-dam-removal/)
-- [Smitherman's Mill Dam Removal in Montgomery County, NC](http://www.piedmontconservation.org/smithermans)

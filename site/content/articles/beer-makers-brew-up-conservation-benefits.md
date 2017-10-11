@@ -83,4 +83,4 @@ That’s worth a toast.
 Mark Davis, Public Affairs Specialist 
 [mark_r_davis@fws.gov](mailto:mark_r_davis@fws.gov?subject=Re:+Beer+makers+brew+up+conservation+benefits)
 
-*[Reference to any specific commercial product, process, or service, or the use of any trade, firm or corporation name is for the information and convenience of the public, and does not constitute endorsement, recommendation, or favoring by the Department of the Interior.](https://www.doi.gov/disclaimer)*
+*Reference to any specific commercial product, process, or service, or the use of any trade, firm or corporation name is for the information and convenience of the public, and does not constitute endorsement, recommendation, or favoring by the Department of the Interior.*

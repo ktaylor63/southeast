@@ -22,7 +22,7 @@ These majestic birds, the tallest in North America, left Necedah refuge on Octob
 
 “I hope all Americans appreciate this monumental and inspiring project to save this species for future generations,” said Cindy Dohner, the U.S. Fish and Wildlife Service’s Southeast Regional Director.
 
-A public flyover is planned at San Marcos de Apalache State Park in St. Marks, Florida. For more information, call St. Marks National Wildlife Refuge at (850) 925-6121, or visit: [http://www.operationmigration.org_Field_Journal.html](http://www.operationmigration.org_Field_Journal.html&linkname=Operation Migration). Another event is planned at Dunnellon Airport, in between Crystal River and Ocala, Florida. For more information on that event, call (352) 563-2088 x213
+A public flyover is planned at San Marcos de Apalache State Park in St. Marks, Florida. For more information, call St. Marks National Wildlife Refuge at (850) 925-6121, or visit [Operation Migration's Field Journal](http://operationmigration.org/InTheField/?n=field-journal-operationmigration). Another event is planned at Dunnellon Airport, in between Crystal River and Ocala, Florida. For more information on that event, call (352) 563-2088 x213
 
 There are now 85 migratory whooping cranes in the wild in eastern North America -- including the first whooping crane chick to hatch in the wild in Wisconsin in more than a century. One crane from an earlier cohort was recently shot and killed in Indiana.
 
@@ -54,9 +54,9 @@ Whooping Crane Eastern Partnership founding members are the International Crane 
 
 Many other flyway states, provinces, private individuals and conservation groups have joined forces with and support WCEP by donating resources, funding and personnel. More than 60 percent of the project’s estimated $1.6 million annual budget comes from private sources in the form of grants, public donations and corporate sponsorship.
 
-A Wisconsin Whooping Crane Management Plan that describes project goals and management and monitoring strategies shared and implemented by the partners is online at: [http://www.bringbackthecranes.org](http://dnr.wi.gov/org/land/er/birds/wcrane/wcraneplan.htm).
+A Wisconsin Whooping Crane Management Plan that describes project goals and management and monitoring strategies shared and implemented by the partners is online at: [http://www.bringbackthecranes.org](http://dnr.wi.gov/files/pdf/pubs/er/er0650.pdf).
 
-The U.S. Fish and Wildlife Service is the principal federal agency responsible for conserving, protecting and enhancing fish, wildlife and plants and their habitats for the continuing benefit of the American people. Visit the Service’s website at [http://www.fws.gov](http://www.fws.gov/) or [http://www.fws.gov/southeast](http://www.fws.gov/southeast).
+The U.S. Fish and Wildlife Service is the principal federal agency responsible for conserving, protecting and enhancing fish, wildlife and plants and their habitats for the continuing benefit of the American people. Visit the Service’s website at [fws.gov](http://www.fws.gov/) or [fws.gov/southeast](http://www.fws.gov/southeast).
 
 ## Contact
 

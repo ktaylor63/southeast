@@ -21,7 +21,7 @@ hero:
 updated: 'September 15th, 2017'
 ---
 
-{{< figure class="photo-right" src="/images/pages/john-wallace.jpg" alt="Two men wearing hardhats." caption="Jon Wallace and Chris Lewzader, a biotech at Wheeler NWR, watch crews clear a field. Photo by Dan Chapman, USFWS." link="https://flic.kr/p/XsLd8N">}} 
+{{< figure class="photo-right" src="/images/pages/john-wallace.jpg" alt="Two men wearing hardhats." caption="Jon Wallace and Chris Lewzader, a biotech at Wheeler NWR, watch crews clear a field. Photo by Dan Chapman, USFWS." >}} 
 
 **Big Pine Key, Florida** – It had all the makings of a thankless, dangerous and depressing task, but Jon Wallace knew – or thought he knew – what he was facing.
 

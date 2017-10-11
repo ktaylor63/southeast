@@ -6,13 +6,13 @@
 <div class='scroller-list'>
   <header>
     {{ if eq "wildlife" $section }}
-    <h2 class="scroller-list--heading">Species Profiles</h2>
+    <h2 id="species-profiles" class="scroller-list--heading">Species Profiles</h2>
     {{ else if eq "news" $section }}
-    <h2 class="scroller-list--heading">Press Releases</h2>
+    <h2 id="press-releases" class="scroller-list--heading">Press Releases</h2>
     {{ else if eq "articles" $section }}
-    <h2 class="scroller-list--heading">Stories</h2>
+    <h2 id="stories" class="scroller-list--heading">Stories</h2>
     {{ else }}
-    <h2 class="scroller-list--heading">{{ title $section }}</h2>
+    <h2 id="{{ $section }}"class="scroller-list--heading">{{ title $section }}</h2>
     {{ end }}
   </header>
   <ol class="scroller-list--list">

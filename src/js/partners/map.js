@@ -64,6 +64,7 @@
   function pointToLayer(feat, latlng) {
     return L.marker(latlng, {
       icon: icon,
+      alt: 'Circle icon representing a project',
       bounceOnAdd: true
     });
   }
@@ -98,7 +99,10 @@
     layerGroup = L.layerGroup().addTo(map);
     stateGroup = L.layerGroup().addTo(map);
 
-    L.tileLayer('https://{s}.tile.openstreetmap.se/hydda/full/{z}/{x}/{y}.png').addTo(map);
+    var basemap = L.tileLayer('https://{s}.tile.openstreetmap.se/hydda/full/{z}/{x}/{y}.png').addTo(map);
+    basemap.on('tileload', function (tileEvent) {
+        tileEvent.tile.setAttribute('alt', 'Map tile image');
+    });
   }
 
   function addStates(states) {

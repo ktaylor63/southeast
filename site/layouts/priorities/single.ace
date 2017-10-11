@@ -20,7 +20,7 @@
     p We live and work in an amazing part of the country. The Southeastern United States is among the most biologically diverse hotspots in the world. Our Region includes Caribbean and coastal islands, marshes, coral reefs, the Appalachian and Ozark Mountains, caves, and longleaf and shortleaf pine and bottomland hardwood forests. Our work ensures that fish and wildlife populations continue in those places for the benefit of the American people.
 
     .species-chart
-      img.reveal src="/images/svg/southeastern-species-chart.svg"
+      img.reveal src="/images/svg/southeastern-species-chart.svg" alt="A chart showing the Southeast's leading share of flora and fauna nation-wide."
 
     p.caption.reveal Sources: NatureServe, &nbsp;
       a href="http://srs.fs.usda.gov/futures/technical-report/14.html#top" target="_blank" U.S. Forest Service&rsquo;s Southern Research Station in Asheville.
@@ -123,35 +123,35 @@
 
     .center
       h3 Communication
-      img.reveal.icon src="/images/svg/comment.svg"
+      img.reveal.icon src="/images/svg/comment.svg" alt="Speach bubble icon"
       p Our actions are based on open and honest dialogue.
 
       h3 Science
-      img.reveal.icon src="/images/svg/flask.svg"
+      img.reveal.icon src="/images/svg/flask.svg" alt="Science flask icon"
       p Our work is grounded in credible, objective science.
 
       h3 Stewardship
-      img.reveal.icon src="/images/svg/leaf.svg"
+      img.reveal.icon src="/images/svg/leaf.svg" alt="Leaf icon"
       p Our commitment is to conserve natural resources for future generations.
 
       h3 Service
-      img.reveal.icon src="/images/svg/flag.svg"
+      img.reveal.icon src="/images/svg/flag.svg" alt="Flag icon"
       p It is our privilege to serve the American people.
 
       h3 Professionalism
-      img.reveal.icon src="/images/svg/briefcase.svg"
+      img.reveal.icon src="/images/svg/briefcase.svg" alt="Briefcase icon"
       p We hold ourselves to the highest ethical standards, strive for excellence, and respect others.
 
       h3 Partnerships
-      img.reveal.icon src="/images/svg/user.svg"
+      img.reveal.icon src="/images/svg/user.svg" alt="Person icon"
       p We emphasize partnerships using creative and innovative approaches, where needed.
 
       h3 People
-      img.reveal.icon src="/images/svg/users.svg"
+      img.reveal.icon src="/images/svg/users.svg" alt="Group of people icon"
       p We recognize our employees, volunteers, and partners as critical to our conservation success.
 
       h3 Legacy
-      img.reveal.icon src="/images/svg/globe.svg"
+      img.reveal.icon src="/images/svg/globe.svg" alt="Globe icon"
       p Our goal is to ensure the future of natural resource conservation by connecting people with nature.
 
     blockquote Our reputation and credibility will be based on our vision, our conservation principles, our priorities and the discipline to make them real. These will be the foundation for shaping our future, and drive decisions about where we should allocate the majority of our people and resources.
@@ -181,34 +181,34 @@
 
   .layout.center
     p.inline-image-caption Time is urgent. We must act now.
-    img.reveal.icon src="/images/svg/clock.svg"
+    img.reveal.icon src="/images/svg/clock.svg" alt="Clock icon"
 
     p.inline-image-caption Cities are getting bigger.
-    img.reveal.icon src="/images/svg/building.svg"
+    img.reveal.icon src="/images/svg/building.svg" alt="Building icon"
 
     p.inline-image-caption Rural communities are getting smaller.
-    img.reveal.icon src="/images/svg/home.svg"
+    img.reveal.icon src="/images/svg/home.svg" alt="Home icon"
 
     p.inline-image-caption Sea levels are rising.
-    img.reveal.icon src="/images/svg/anchor.svg"
+    img.reveal.icon src="/images/svg/anchor.svg" alt="Anchor icon"
 
     p.inline-image-caption Storms are becoming shorter and more intense.
-    img.reveal.icon src="/images/svg/lightning.svg"
+    img.reveal.icon src="/images/svg/lightning.svg" alt="Lightning bolt icon"
 
     p.inline-image-caption Land use changes are occurring rapidly.
-    img.reveal.icon src="/images/svg/map.svg"
+    img.reveal.icon src="/images/svg/map.svg" alt="Map icon"
 
     p.inline-image-caption The pace of habitat loss and fragmentation is increasing.
-    img.reveal.icon src="/images/svg/graph.svg"
+    img.reveal.icon src="/images/svg/graph.svg" alt="Graph icon"
 
     p.inline-image-caption The increased occurrence and abundance of invasive species are consuming natural resources at an alarming rate.
-    img.reveal.icon src="/images/svg/paw.svg"
+    img.reveal.icon src="/images/svg/paw.svg" alt="Paw icon"
 
     p.inline-image-caption Poor water quality and competing demands for water are a growing challenge for our Region's people and its fish and wildlife simultaneously.
-    img.reveal.icon src="/images/svg/warning.svg"
+    img.reveal.icon src="/images/svg/warning.svg" alt="Warning icon"
 
     p.inline-image-caption And finally the pressures of society have disconnected large chunks of our region’s population from nature and the outdoors.
-    img.reveal.icon src="/images/svg/binoculars.svg"
+    img.reveal.icon src="/images/svg/binoculars.svg" alt="Binoculars icon"
 
   .layout
 

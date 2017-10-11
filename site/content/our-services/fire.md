@@ -129,7 +129,7 @@ Includes desired vegetation structure and fire components, desired habitat condi
 ### Training and Education
  - [Prescribed Fire Training Center](https://www.fws.gov/fire/pftc/) in Tallahassee, Florida
  - [Firescience.gov](http://www.firescience.gov/), science provided by the Joint Fire Science Program
- - [Goodfires.org](http://goodfires.org/), provided by the Southern Group of State Foresters
+ - [Goodfires.org](https://goodfires.org/), provided by the Southern Group of State Foresters
  - [Wildland Fire in the South](http://www.southernwildfire.net/), provided by the Southern Regional Strategy Committee
 
 ## Hurricane Harvey Response

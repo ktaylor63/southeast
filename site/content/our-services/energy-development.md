@@ -40,7 +40,7 @@ National Service biologists may also work with other federal agencies to complet
 
 ### [Migratory Bird Treaty Act (MBTA)](https://www.fws.gov/laws/lawsdigest/migtrea.html)
 
-Service biologists may provide information on migratory birds and impacts to their habitats under the MBTA, and may work with project proponents to develop plans that identify and address impacts to migratory birds. The Service has signed memorandums of understanding with several agencies including the [Bureau of Land Management](http://www.blm.gov/wo/st/en.html), the [National Marine Fisheries Service](http://www.nmfs.noaa.gov/) and FERC addressing the responsibilities of federal agencies to protect migratory birds under the MBTA.
+Service biologists may provide information on migratory birds and impacts to their habitats under the MBTA, and may work with project proponents to develop plans that identify and address impacts to migratory birds. The Service has signed memorandums of understanding with several agencies including the [Bureau of Land Management](https://www.blm.gov/programs/energy-and-minerals), the [National Marine Fisheries Service](http://www.nmfs.noaa.gov/) and FERC addressing the responsibilities of federal agencies to protect migratory birds under the MBTA.
 
 ### [Bald and Golden Eagle Act](https://www.fws.gov/migratorybirds/mbpermits/regulations/BGEPA.PDF)
 

@@ -52,7 +52,7 @@ The [course descriptions](/maps/course-descriptions) should help you get a bette
 ### State Data
 
 - [Geological Survey of Alabama and State Oil and Gas Board](http://www.gsa.state.al.us/)
-- [Arkansas GIS Office](http://www.gis.state.ar.us/)
+- [Arkansas GIS Office](https://gis.arkansas.gov/)
 - [Florida Geographic Data Library](http://www.fgdl.org/download/)
 - [Florida Department of Environmental Protection](http://www.dep.state.fl.us/gis/)
 - [Florida Land Boundary Information System](http://www.labins.org/)

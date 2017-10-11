@@ -75,8 +75,6 @@ A genetic restoration plan was implemented in 1995 with the release of eight fem
 
 Recovery efforts to-date have successfully contributed to a significant increase in the panther population, which now occupies most available habitat south of Caloosahatchee River. Currently, the only known breeding population of panthers is south of the Caloosahatchee River.  However, in November 2016 the Florida Fish and Wildlife Conservation Commission Panther Team collected strong evidence of a female Florida panther north the river.  This is the first evidence of a wild female panther north of the river since 1973.  Male panthers continue to periodically disperse out of the breeding range and have been confirmed as far north as Georgia.
 
-[View panther telemetry map data](http://atoll.floridamarine.org/Quickmaps/QM_wildlifehab.html).
-
 ## Southeastern Wildlife Refuges that Provide Habitat
 
 - Current breeding range habitat: [Florida Panther National Wildlife Refuge](https://www.fws.gov/refuge/florida_panther/)
@@ -139,7 +137,7 @@ If you see a Florida panther and can collect evidence such as pictures of the an
 To report a wildlife/human interaction contact the Florida Fish and Wildlife Conservation Commission’s wildlife hotline: 1-888-404-FWCC (3922).
 
 ### Aid Injured and Orphaned Panthers
-The Florida Panther Fund was established by The Wildlife Foundation of Florida to aid in the recovery of injured or orphaned Florida panthers, as well as other panther conservation needs. The fund is an important resource that gives the Florida Fish and Wildlife Conservation Commission flexibility to deal with rare, unplanned, and non-budgeted events. Visit the [Help Injured Panthers Return to the Wild](http://www.fishwildlifeflorida.org/product/panthers/) website.
+The Florida Panther Fund was established by The Wildlife Foundation of Florida to aid in the recovery of injured or orphaned Florida panthers, as well as other panther conservation needs. The fund is an important resource that gives the Florida Fish and Wildlife Conservation Commission flexibility to deal with rare, unplanned, and non-budgeted events. Visit the [Help Injured Panthers Return to the Wild](http://myfwc.com/panther) website.
 
 ### Support Panther Research
 

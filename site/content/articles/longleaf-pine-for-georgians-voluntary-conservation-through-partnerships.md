@@ -61,7 +61,7 @@ Thompson is replacing faster-growing slash pine he has cultivated for decades wi
 
 ### The man and his land
 
-Chuck Leavell is a [world-class pianist](http://www.chuckleavell.com/bio/) who has played with the Rolling Stones, the Allman Brothers and others. He is deeply involved with forest conservation nationally and is author of several books, including “Forever Green: The History and Hope of the American Forest.” He and his wife, Rose Lane, grow timber for harvest and production on Charlane Plantation, land south of Macon they inherited from her grandmother. “This is a family heritage of stewardship of the land. We want to pass the land on to our daughters, and to our grandchildren.” 
+Chuck Leavell is a world-class pianist who has played with the Rolling Stones, the Allman Brothers and others. He is deeply involved with forest conservation nationally and is author of several books, including “Forever Green: The History and Hope of the American Forest.” He and his wife, Rose Lane, grow timber for harvest and production on Charlane Plantation, land south of Macon they inherited from her grandmother. “This is a family heritage of stewardship of the land. We want to pass the land on to our daughters, and to our grandchildren.” 
 
 ### His conservation practices
 
@@ -77,7 +77,7 @@ Recognizing that two faster-growing pine species – loblolly and slash – have
 
 ### The man and his land
 
-John Littles, a native Georgian, is executive director of nonprofit [McIntosh SEED](http://mcintoshseed.org). The organization’s mission is “to create and sustain healthy and diverse rural communities through community and economic development, community organizing, conservation, and direct services across the Southeast.” McIntosh is a coastal county, and SEED stands for Sustainable Environment and Economic Development. In 2015, with help from the [Conservation Fund](http://www.conservationfund.org/projects/mcintosh-seed-community-forest), McIntosh SEED purchased 1,148 acres of land in neighboring Long County as a community forest. 
+John Littles, a native Georgian, is executive director of nonprofit [McIntosh SEED](http://mcintoshseed.org). The organization’s mission is “to create and sustain healthy and diverse rural communities through community and economic development, community organizing, conservation, and direct services across the Southeast.” McIntosh is a coastal county, and SEED stands for Sustainable Environment and Economic Development. In 2015, with help from the [Conservation Fund](https://www.conservationfund.org/projects/mcintosh-seed-community-forest), McIntosh SEED purchased 1,148 acres of land in neighboring Long County as a community forest. 
 
 ### His conservation practices
 

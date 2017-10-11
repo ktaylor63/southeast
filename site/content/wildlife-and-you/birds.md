@@ -27,7 +27,7 @@ While feeders serve as great focal points to observe our avian neighbors, they c
 7. **Act early:** Don't wait to act until you see sick or dead birds.  With good prevention you'll seldom find sick or dead birds at your feeders.
 8. **Share the knowledge:** Encourage your neighbors who feed birds to follow the same precautions.  Birds are likely move among feeders in a neighborhood, and disease can spread as they go.
 
-For more information concerning avian diseases, visit the [USGS, National Wildlife Health Center site(http://www.nwhc.usgs.gov/)].
+For more information concerning avian diseases, visit the [USGS, National Wildlife Health Center site](https://www.nwhc.usgs.gov/).
 
 ## Feeding Hummingbirds
 
