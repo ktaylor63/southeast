@@ -2,6 +2,6 @@
   .content-centered
     h1 {{ .Title }}
     {{ if .Params.subtitle }}
-    h2.page-subtitle {{ .Params.subtitle}}
+    h2.page-subtitle id="{{ urlize .Params.subtitle }}" {{ .Params.subtitle}}
     {{ end }}
     {{ .Content }}

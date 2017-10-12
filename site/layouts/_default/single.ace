@@ -3,7 +3,7 @@
     {{ if ne .Type "index" }}
     h1.page-title {{ .Title }}
     {{ if .Params.subtitle }}
-    h2.page-subtitle {{ .Params.subtitle}}
+    h2.page-subtitle id="{{ urlize .Params.subtitle }}" {{ .Params.subtitle}}
     {{ end }}
     p.byline {{ if .Params.author }}By {{ .Params.author }}{{ end }}
       {{ if not .Date.IsZero }}
