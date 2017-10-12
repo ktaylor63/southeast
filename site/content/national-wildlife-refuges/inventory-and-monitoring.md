@@ -44,9 +44,8 @@ Regional I&M branch staff are developing, testing, and using a number of data ma
 
 Informed planning and resource management requires information about status, trends, and changes in fish, wildlife, plant populations, and their habitats. The National Wildlife Refuge System (NWRS) Inventory & Monitoring (I&M) Initiative and Southeast Region I&M Branch efforts are focused on both [biotic](#biotic-resources) and [abiotic resources](#abiotic-resources).
 
-<span id="abiotic-resources">
-  <h2>Coastal Wetland Elevation Monitoring</h2>
-</span>
+<span id="abiotic-resources">&nbsp;</span>
+## Coastal Wetland Elevation Monitoring
 
 Sea level rise and its potential impacts to habitats and species are a concern for the refuges across the United States. Rising sea levels can lead to wetland loss, saltwater intrusion, habitat conversion, and inland migration of marsh and forested ecosystems. The average mean elevation of these wetland surfaces must increase to keep pace with the annual rise in sea level and land subsidence of organic substrates. Understanding rates of wetland elevation change and relative sea-level rise is important to help refuge managers answer critical questions and adjust management techniques for wetlands towards future conditions.
 
@@ -118,9 +117,8 @@ Water plays an incredibly important role throughout the National Wildlife Refuge
 
 [Search Water Resource Inventory and Assessments from refuges in the Southeast](/reading-room?q=Water+Resource+Inventory+and+Assessment) or [download the WIRA fact sheet](/pdf/fact-sheets/water-resources-inventory-and-assessment.pdf).
 
-<span id="biotic-resources">
-  <h2>Amphibian Community Monitoring</h2>
-</span>
+<span id="biotic-resources">&nbsp;</span>
+## Amphibian Community Monitoring
 
 There is growing concern about the worldwide decline of amphibian populations.  The southeastern U.S. represents one of the world's most diverse regions for amphibians. Amphibians are good indicators of ecosystem health due to their dependence on various wetland habitats and sensitivity to environmental stressors.
 
