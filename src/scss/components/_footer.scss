@@ -11,6 +11,10 @@ footer {
     font-size: 15px;
     margin: 0;
     padding: $leading/2;
+
+    a {
+      text-decoration: underline;
+    }
   }
 
   a {
