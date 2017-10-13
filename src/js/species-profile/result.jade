@@ -4,10 +4,6 @@ each result in results
   li.card.card-text
     span.card-ribbon
       span.card-type= result.type
-      a(href=result.pdf_url target="_blank")
-        svg.icon
-          title| Download #{result.type} as a PDF
-          use(xlink:href="#pdf")
     span.card-date= date
     p.card-text
-      a(href=result.html_url, target="_blank")= result.title
+      a(href=result.html_url, target="_blank", aria-label=result.html_url)= result.title
