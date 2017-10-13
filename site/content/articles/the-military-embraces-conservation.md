@@ -62,6 +62,6 @@ The Marines and their partners, though, hope to resurrect the salamander, as wel
 
 ## Explore more from this series
 
-<section id='map' style="height: 60vh;"></section>
+<div id='map' style="height: 60vh;"></div>
 
 ***Note:** Green areas on the map represent protected local, state and federal lands.

@@ -69,6 +69,6 @@ Mid-morning, Keyes turned the boat landward. Two porpoises gamboled in the surf 
 
 ## Explore more from this series
 
-<section id='map' style="height: 60vh;"></section>
+<div id='map' style="height: 60vh;"></div>
 
 ***Note:** Green areas on the map represent protected local, state and federal lands.

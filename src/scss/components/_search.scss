@@ -93,3 +93,14 @@
 .search-item-content-text {
   flex: 3;
 }
+
+#search-description {
+  color: white;
+  margin: auto;
+  max-width: 800px;
+  text-align: center;
+
+  a {
+    color: white;
+  }
+}

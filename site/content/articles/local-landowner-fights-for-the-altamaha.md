@@ -60,6 +60,6 @@ Nothing, though, seems to give him as much pleasure as riding the oxbows in a jo
 
 ## Explore more from this series
 
-<section id='map' style="height: 60vh;"></section>
+<div id='map' style="height: 60vh;"></div>
 
 ***Note:** Green areas on the map represent protected local, state and federal lands.

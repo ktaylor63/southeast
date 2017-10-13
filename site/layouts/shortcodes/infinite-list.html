@@ -32,7 +32,7 @@
       </div>
     </header>
     </a>
-    <p class='infinite-list--summary'>{{ if $element.Description }}{{ $element.Description }}{{ else }}{{ $element.Summary }}{{ end }} <a href='{{ $element.Permalink }}'>Read the full story...</a></p>
+    <p class='infinite-list--summary'>{{ if $element.Description }}{{ $element.Description }}{{ else }}{{ $element.Summary }}{{ end }} <a href='{{ $element.Permalink }}' aria-label="{{ $element.Title }}">Read the full story...</a></p>
   </li>
 {{ end }}
 </ol>

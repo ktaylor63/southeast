@@ -1,4 +1,7 @@
 .infinite-list {
+  a {
+    text-decoration: underline;
+  }
 
   &--header {
     @media (min-width: $break-lg) {
@@ -21,7 +24,6 @@
   }
 
   &--img-date {
-
     img {
       display: block;
       margin: auto;
