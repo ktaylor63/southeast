@@ -1,5 +1,15 @@
 ---
 stories:
+  - title: 'Mississippi Flyway Public Waterfowl Hunting Hotspots for 2017-2018'
+    subtitle: '5 public hunting destinations you may want to explore'
+    url: 'http://www.ducks.org/hunting/waterfowl-hunting-destinations/mississippi-flyway-public-waterfowl-hunting-hotspots-for-2017-2018'
+    date: '2017-10-13'
+    summary: 'Located in the legendary Mississippi Delta, 40,000-acre Panther Swamp National Wildlife Refuge (NWR) is among the largest public waterfowl hunting areas in the Southeast. The sprawling tract is one of the seven refuges in the 100,000-acre Theodore Roosevelt National Wildlife Refuge Complex, which is owned and managed by the U.S. Fish and Wildlife Service. Panther Swamp’s diverse habitats, which include seasonally flooded bottomland hardwood forest, bayous, and cypress-tupelo swamps, make the refuge a major wintering area for mallards, wood ducks, and other dabbling ducks.'
+    hero:
+      name: 'grasses-at-panther-swamp-national-wildlife-refuge.jpg'
+      alt: 'Tall grass with a light purple tone.'
+      caption: 'Muhly grass at Panther Swamp National Wildlife Refuge, MS. Photo by USFWS'
+      link: https://flic.kr/p/a8wHsC
   - title: 'The Effort to Replant the “Amazon of the South”'
     subtitle: 'These Southerners are bringing the longleaf pine forest back—with some love, seeds, fire, and snakes.'
     url: 'https://www.nrdc.org/stories/effort-replant-amazon-south'
