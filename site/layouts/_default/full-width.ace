@@ -6,7 +6,6 @@ html lang="en-US"
   body data-root="{{ .Site.BaseURL }}"
     a#skip-to-content href=#content skip to content
     .homepage
-      = include partials/sprite.svg .
       = include partials/hero.html .
       = include partials/navigation.html .
 

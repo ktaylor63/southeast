@@ -1,4 +1,4 @@
-section class="card"
+article class="card"
   {{ if .Params.hero.video }}
     iframe width="100%" height="100%" src="https://www.youtube.com/embed/{{ .Params.hero.video }}" frameborder="0" allowfullscreen="true"
   {{ else if .Params.hero.name }}
@@ -15,7 +15,7 @@ section class="card"
       {{ end }}
       {{ if .Params.description }}{{ .Params.description }}{{ else }}{{ .Summary }}{{ end }}
       span &nbsp;
-        a href="{{ .Permalink }}" {{ if eq .Section "news"}}Read the full story...{{ else if eq .Section "wildlife" }}Visit the species profile...{{ else if eq .Section "article" }}Read the full article...{{ else }}Learn more...{{ end }}
+        a href="{{ .Permalink }}" aria-label="{{ .Title }}" {{ if eq .Section "news"}}Read the full story...{{ else if eq .Section "wildlife" }}Visit the species profile...{{ else if eq .Section "article" }}Read the full article...{{ else }}Learn more...{{ end }}
     {{ if .Params.hero.caption }}
     p
       small {{ .Params.hero.caption | safeHTML }}

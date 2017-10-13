@@ -16,7 +16,7 @@
     ul.tag-list
       {{ range .Params.tags }}
       li.tag
-        a href=/tags/{{ . | urlize }} {{ . }}
+        a aria-label="Find more content tagged with {{ . }}" href="/tags/{{ . | urlize }}" {{ . }}
       {{ end }}
     {{ end }}
 
