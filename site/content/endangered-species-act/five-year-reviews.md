@@ -6,8 +6,8 @@ nav: '5-Year Reviews'
 weight: 4
 tags:
     - 'Endangered Species Act'
-    - Science
     - Monitoring
+    - Science
 aliases:
     - /5yearreviews/5yearreviews
     - /5yearreviews
@@ -16,7 +16,7 @@ hero:
     alt: 'A white/gray butterfly with black spots blends into a flower bloom of similar color and markings.'
     link: 'https://flic.kr/p/bJQ2s4'
     caption: 'The endangered Miami blue butterfly feeds on a flower. © Holly Salvato. Used with permission.'
-updated: 'June 13th, 2017'
+updated: 'October 12th, 2017'
 ---
 
 To make sure that all species listed as threatened or endangered under the Endangered Species Act continue to have the appropriate level of protection, we conduct assessments of their status once every five years. We call these **five-year reviews**.
@@ -67,9 +67,7 @@ Instructions for submitting information are provided in the notices announcing t
 <label for="review-search">Search:</label>
 <div class="search-group">
   <input type="search" class="five-year-review-search" placeholder="Filter documents eg: &ldquo;Fish,&rdquo; &ldquo;Endangered,&rdquo; etc." id="review-search">
-  <svg class="search-icon">
-    <use xlink:href="#search"></use>
-  </svg>
+  <svg class="search-icon" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M15.5 14h-.79l-.28-.27A6.471 6.471 0 0 0 16 9.5 6.5 6.5 0 1 0 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/><path d="M0 0h24v24H0z" fill="none"/></svg>
 </div>
 <ul class="five-year-review-list"></ul>
 

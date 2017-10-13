@@ -19,7 +19,7 @@ The Migratory Bird Treaty Act was passed in 1918.  That Act prohibits the taking
 
 The Louisiana ES Office works with project proponents to develop measures to protect nesting bald eagles, colonial water birds, and habitat that is important for birds of conservation concern to the Service.  Construction time restrictions and bird abatement plans are two measures that we use to avoid impacts to nesting migratory birds.  We have also worked with regulatory agencies in securing monetary contributions from developers to offset losses of bird nesting habitat. 
 
-Under the authorities of the Migratory Bird Treaty Act and the [Bald and Golden Eagle Protection Act](https://www.fws.gov/midwest/Eagle/guidelines/bgepa.html), the U.S. Fish and Wildlife Service (Service) is the lead Federal agency for managing and conserving migratory birds in the United States. The Service’s [Migratory Bird Program’s Division of Migratory Bird Management](https://www.fws.gov/migratorybirds) and [Division of Bird Habitat Conservation](https://www.fws.gov/migratorybirds/PartnershipsAndIniatives.html) have many programs that are actively involved in migratory bird conservation activities. Together these programs and initiatives are working to provide leadership in the conservation of bird habitat and conservation and management of birds for future generations.
+Under the authorities of the Migratory Bird Treaty Act and the [Bald and Golden Eagle Protection Act](/our-services/permits/eagles/), the U.S. Fish and Wildlife Service (Service) is the lead Federal agency for managing and conserving migratory birds in the United States. The Service’s [Migratory Bird Program’s Division of Migratory Bird Management](https://www.fws.gov/migratorybirds) and [Division of Bird Habitat Conservation](https://www.fws.gov/migratorybirds/PartnershipsAndIniatives.html) have many programs that are actively involved in migratory bird conservation activities. Together these programs and initiatives are working to provide leadership in the conservation of bird habitat and conservation and management of birds for future generations.
 
 ## Permit, regulatory information
 
@@ -36,7 +36,7 @@ Under the authorities of the Migratory Bird Treaty Act and the [Bald and Golden 
   - [Migratory Bird Data Center](https://migbirdapps.fws.gov/)
   - [Searchable Species Database: ebird.org](http://ebird.org/ebird/eBirdReports?cmd=Start)
   - [Christmas Bird Count: Audubon](http://birds.audubon.org/christmas-bird-count)
-  - [Partners in Flight Land-bird Population Estimate Database](http://rmbo.org/pif_db/laped/PED1.aspx)
+  - [Partners in Flight Land-bird Population Estimate Database](http://pif.birdconservancy.org/PopEstimates/)
   - [Patuxent Wildlife Research Center Colonial Waterbird Monitoring Partnership Database](https://www.pwrc.usgs.gov/cwb/database/)
   - [North American Breeding Bird Survey](http://www.pwrc.usgs.gov/BBS/)
   - [National Wildlife Health Center bird die-offs](http://www.nwhc.usgs.gov/)

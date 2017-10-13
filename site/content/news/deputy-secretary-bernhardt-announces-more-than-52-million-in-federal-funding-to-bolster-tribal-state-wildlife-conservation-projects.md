@@ -19,7 +19,7 @@ tags:
 updated: 'August 16th, 2017'
 ---
 
-**WASHINGTON D.C.** – U.S. Deputy Secretary of the Interior David Bernhardt today announced more than $52 million in funding to Native American tribes and state wildlife agencies through the Tribal Wildlife Grant (TWG) program and the State Wildlife Grants (SWG) program. The funds, which are provided by the U.S. Fish and Wildlife Service, give critical support for a diverse array of species and habitats across the country.
+**Washington, D.C.** – U.S. Deputy Secretary of the Interior David Bernhardt today announced more than $52 million in funding to Native American tribes and state wildlife agencies through the Tribal Wildlife Grant (TWG) program and the State Wildlife Grants (SWG) program. The funds, which are provided by the U.S. Fish and Wildlife Service, give critical support for a diverse array of species and habitats across the country.
 
 Under the SWG program, more than $48 million will support imperiled species and habitats listed in approved state wildlife action plans. All 50 state and U.S. territorial wildlife agencies have these plans, which proactively protect species in greatest conservation need. Projects funded through SWG involve research, monitoring, wildlife surveys, species and habitat management and other activities.
 
@@ -50,7 +50,7 @@ The wide variation in the types of projects funded with TWG dollars is highlight
 
 TWG funds are provided exclusively to fund wildlife conservation by federally recognized Native American tribal governments, and are made possible under the Related Agencies Appropriations Act of 2002 through the State and Tribal Wildlife Grants Program. Proposals for the 2018 grant cycle are due Sept. 1, 2017.
 
-For additional information about Native American conservation projects and the Tribal Wildlife Grants application process, visit http://www.fws.gov/nativeamerican/grants.html or http://www.grants.gov/.
+For additional information about Native American conservation projects and the Tribal Wildlife Grants application process, visit https://www.fws.gov/nativeamerican/grants.html or https://www.grants.gov/.
 
 ## Contact
 

@@ -11,7 +11,7 @@ tags:
     - 'Apalachicola River'
     - 'At-Risk Species'
     - 'Barbours Map Turtle'
-    - 'Big Blug Springs Cave Crayfish'
+    - 'Big Blue Springs Cave Crayfish'
     - 'Chattahoochee River'
     - 'Endangered Species Act'
     - 'Flint River'

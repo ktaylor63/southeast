@@ -11,7 +11,7 @@ tags:
     - 'Coosa River'
     - 'Endangered Species Act'
     - Georgia
-    - Tennesee
+    - Tennessee
     - 'Trispot Darter'
 updated: 'October 3rd, 2017'
 ---

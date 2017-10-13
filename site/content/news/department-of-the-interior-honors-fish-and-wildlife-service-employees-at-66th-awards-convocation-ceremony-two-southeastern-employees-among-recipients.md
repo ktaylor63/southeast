@@ -9,7 +9,7 @@ hero:
     caption: 'Southeast Regional Director Cindy Dohner stands between Midwest Regional Director Tom Melius (left), and agency Director Dan Ashe (right). Photo by Tom MacKenzie, USFWS.'
     position: 'top right'
 tags:
-    - Awards
+    - Award
 updated: 'October 20th, 2016'
 ---
 

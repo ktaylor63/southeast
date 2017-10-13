@@ -12,7 +12,7 @@ tags:
 updated: 'October 20th, 2016'
 ---
 
-**HOUMA, LA** - With large numbers of birds being rescued, treated, and relocated in the Gulf States as a result of the BP oil spill, people seeing banded birds are asked to report sightings. As part of this unprecedented unified response to the BP oil spill, we are asking the public to help report oiled wildlife, as well. A large percentage of captured birds are being successfully treated and released back into the wild. These birds are being fitted with leg bands that provide identifying information to assist Federal scientists from the U.S. Fish and Wildlife Service, U.S. Geological Survey and other organizations in studying these birds after release.
+**Houma, Louisiana** - With large numbers of birds being rescued, treated, and relocated in the Gulf States as a result of the BP oil spill, people seeing banded birds are asked to report sightings. As part of this unprecedented unified response to the BP oil spill, we are asking the public to help report oiled wildlife, as well. A large percentage of captured birds are being successfully treated and released back into the wild. These birds are being fitted with leg bands that provide identifying information to assist Federal scientists from the U.S. Fish and Wildlife Service, U.S. Geological Survey and other organizations in studying these birds after release.
 
 Scientific information being collected from this oil spill will expand the scope of knowledge that bird researchers and other scientists will have in the future to help ensure the health of migratory birds. Among other information, scientists will learn the extent to which released birds return to their original habitat.
 
@@ -25,7 +25,7 @@ Birds from the BP oil spill are banded with metal federal leg bands with a uniqu
 - Red bands with identifying numbers and letters.
 - Pink bands with identifying numbers and letters.
 
-People who see the birds are asked to report sightings to the National Bird Banding Lab online: [www.pwrc.usgs.gov/bbl/default.htm](http://www.pwrc.usgs.gov/bbl/default.htm&linkname=National Bird Banding Lab) Reporting the band number and the bird’s location will help biologists understand the movements and survival of the birds after their release.
+People who see the birds are asked to report sightings to the National Bird Banding Lab online: [pwrc.usgs.gov/bbl/](https://www.pwrc.usgs.gov/bbl/) Reporting the band number and the bird’s location will help biologists understand the movements and survival of the birds after their release.
 
 ## Contact
 

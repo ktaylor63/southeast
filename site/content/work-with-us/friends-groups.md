@@ -5,8 +5,8 @@ js: /js/friends.js
 nav: 'Friends Groups'
 weight: 3
 tags:
-    - Volunteer
     - 'Friends Group'
+    - Volunteer
 aliases:
     - /friends
     - /friends/ar-friends.html
@@ -24,7 +24,7 @@ hero:
     alt: 'A flower with pink petals with orange tips.'
     link: 'https://flic.kr/p/fD9CBj'
     caption: 'A blanket flower blossom at Lake Woodruff National Wildlife Refuge in Florida. Photo by Eileen Tramontana, USFWS.'
-updated: 'March 17th, 2017'
+updated: 'October 12th, 2017'
 ---
 
 “Friends” are private, independent, nonprofit organizations that build links between communities and national wildlife refuges and fish hatcheries. Friends Group members partner with refuges and hatcheries and undertake a variety of activities that support the station, including:
@@ -45,9 +45,7 @@ There are <span class="total-groups">48</span> Friends Groups supporting <span c
 <label for="friends-group-search">Search:</label>
 <div class="search-group">
   <input class="friends-search" type="search" placeholder="eg: Piedmont National Wildlife Refuge" id="friends-group-search">
-  <svg class="search-icon">
-    <use xlink:href="#search"></use>
-  </svg>
+  <svg class="search-icon" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M15.5 14h-.79l-.28-.27A6.471 6.471 0 0 0 16 9.5 6.5 6.5 0 1 0 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/><path d="M0 0h24v24H0z" fill="none"/></svg>
 </div>
 
 <ul class="friends-group-list card-list"></ul>

@@ -7,16 +7,17 @@ hero:
     link: 'https://flic.kr/p/jME5QX'
     caption: 'Lake Mattamuskeet NWR attracts more than 200,000 ducks, geese and swans from November to February. Photo by Allie Stewart, USFWS.'
 tags:
-    - 'North Carolina'
+    - 'Mattamuskeet National Wildlife Refuge'
     - 'National Wildlife Refuge System'
-updated: 'October 26th, 2016'
+    - 'North Carolina'
+updated: 'October 12th, 2017'
 ---
 
-**RALEIGH, NC** - The U.S. Fish and Wildlife Service and the North Carolina Wildlife Resources Commission today announced additional steps to strengthen their long-standing conservation partnership and said the lake at [Mattamuskeet National Wildlife Refuge](https://www.fws.gov/refuge/mattamuskeet/) in Swan Quarter, North Carolina, will be the big winner.
+**Raleigh, North Carolina** - The U.S. Fish and Wildlife Service and the North Carolina Wildlife Resources Commission today announced additional steps to strengthen their long-standing conservation partnership and said the lake at [Mattamuskeet National Wildlife Refuge](https://www.fws.gov/refuge/mattamuskeet/) in Swan Quarter, North Carolina, will be the big winner.
 
 Today’s announcement builds on [a commitment put in place in December 2014](https://www.fws.gov/news/ShowNews.cfm?ID=1C47E6D1-EF27-EBB9-0D67D85C206533B6) to collaborate more closely on efforts to improve Lake Mattamuskeet’s ecosystem and enhance public access.  
 
-At the same time, this new [Memorandum of Understanding](http://fws.gov/southeast/news/pdf/signed-mou-ncwrc-usfws-lake-mattamuskeet-national-wildlife-refuge-2-11-2016.pdf) signed on Thursday clearly outlines the distinct roles of the two agencies and the lands they manage, and it identifies specific programs they will work closely together to fulfill the purpose of the Refuge and objectives of its Comprehensive Conservation Plan.  
+At the same time, this new [Memorandum of Understanding](/pdf/memo/signed-mou-ncwrc-usfws-lake-mattamuskeet-national-wildlife-refuge.pdf) signed on Thursday clearly outlines the distinct roles of the two agencies and the lands they manage, and it identifies specific programs they will work closely together to fulfill the purpose of the Refuge and objectives of its Comprehensive Conservation Plan.  
 
 This understanding paves the way for stronger collaboration, co-managing more than a dozen projects aimed at addressing the health of the lake’s ecosystem, identifying research needs and habitat restoration opportunities and putting in place facilities and infrastructure improvements for enhanced public access.
 
@@ -24,7 +25,7 @@ This understanding paves the way for stronger collaboration, co-managing more th
 
 “The health of Lake Mattamuskeet is of utmost importance to both agencies and the public,” said Gordon Myers, Executive Director of the Wildlife Resources Commission.
 
-{{< figure class="photo-center" src="http://fws.gov/southeast/news/images/lake-mattamuskeet-mou-signing-md.jpg" alt="Cindy Dohner of USFWS and Gordon Myers signing the MOU." caption="From left to right, Cindy Dohner, the Service's Southeast Regional Director, David Viker (standing), Regional Chief of the Service's National Wildlife Refuge System, John Litton Clark, Wildlife Commission Chairman, Kyle Briggs (standing), Chief Deputy Director, and Gordon Myers, the Wildlife Resources Commission's Executive Director." >}}
+{{< figure class="photo-center" src="/images/pages/lake-mattamuskeet-mou-signing-md.jpg" alt="Cindy Dohner of USFWS and Gordon Myers signing the MOU." caption="From left to right, Cindy Dohner, the Service's Southeast Regional Director, David Viker (standing), Regional Chief of the Service's National Wildlife Refuge System, John Litton Clark, Wildlife Commission Chairman, Kyle Briggs (standing), Chief Deputy Director, and Gordon Myers, the Wildlife Resources Commission's Executive Director." >}}
 
 “This increased collaboration between partner agencies will provide priority attention and support to sustain waterfowl and other wildlife dependent upon this unique and complex ecosystem.”
 

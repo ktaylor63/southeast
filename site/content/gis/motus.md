@@ -1,6 +1,6 @@
 ---
 title: 'Automated Telemetry Detections'
-description: null
+description: Check out our interactive map with initial tagging locations of migratory animals detected by radio telemetry towers operated by the Service's Southeast Region National Wildlife Refuge System.
 js: /js/modus.js
 aliases:
     - /maps/motus
@@ -35,11 +35,11 @@ The Service’s objective of mapping automated telemetry detections is to produc
 
 This interactive map is an ongoing effort consisting of data additions, updates, and other data modifications. This map visualizes an approximate tagging location of individual animals detected by automated telemetry stations operated by the National Wildlife Refuge System in the southeast region. The information contained in the map is dynamic and changes over time. It is the responsibility of the user to use the map appropriately and consistently within the limits of the data. Conclusions drawn from use of this map and data are the user's responsibility. The U.S. Fish and Wildlife Service shall not be held liable for improper or incorrect use of the data described, visualized, and/or contained herein. These data and maps are not legal documents and are not intended to be used as such.
 
-Please note that according to the [Motus Collaboration Policy, January 2016](http://motus-wts.org/wp-content/uploads/2016/01/MotusCollaborationPolicy.January2016.pdf), the location data belongs to those individuals or organizations deploying the transmitters, and that:
+Please note that according to the [Motus Collaboration Policy, January 2016](https://motus.org/wp-content/uploads/2016/01/MotusCollaborationPolicy.January2016.pdf), the location data belongs to those individuals or organizations deploying the transmitters, and that:
 
 > "All investigators and other users of Motus data are expected to exhibit professional courtesy and utilize the data within the bounds of the highest scientific integrity. In particular, information about foreign tags beyond that which is obtainable from the public visualizations should not be used in unpublished technical reports or popular or scientific publications without the permission of the principle investigator. The process for requesting such permission will be managed through the Motus web-site." Cited from Motus Collaboration Policy, January 2016.
 
-These data are not designed to stand alone and are the property of the individuals or organizations deploying the transmitters. Individuals interested in the projects, investigators, or data behind this interactive map should contact [Motus Wildlife Tracking System](http://motus.org/) for more information.
+These data are not designed to stand alone and are the property of the individuals or organizations deploying the transmitters. Individuals interested in the projects, investigators, or data behind this interactive map should contact [Motus Wildlife Tracking System](https://motus.org/) for more information.
 
 ## Contact
 

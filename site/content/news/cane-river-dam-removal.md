@@ -7,7 +7,7 @@ hero:
     caption: 'Cane River dam removal in process.'
     link: 'https://flic.kr/p/Nv6b6A'
 tags:
-    - 'Appalachian Elktoe Mussel'
+    - 'Appalachian Elktoe'
     - Asheville
     - 'Dam Removal'
     - 'North Carolina'

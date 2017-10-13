@@ -4,6 +4,9 @@ subtitle: 'Restoration efforts already underway must happen faster to protect wa
 date: '2016-07-22'
 tags:
     - Florida
+    - Cape Sable Seaside Sparrow
+    - Everglades
+    - Endangered Species Act
 hero:
     name: cape-sable-seaside-sparrow.jpg
     alt: 'Small bird with dark olive-gray and the tail and wings are olive-brown.'
@@ -25,7 +28,7 @@ The U.S. Army Corps of Engineers echoed the importance of state and federal part
 
 "We’re moving forward with restoration efforts and operational modifications that will ultimately provide beneficial conditions to the many species that call the Everglades home," said Col. Jason Kirk, U.S. Army Corps of Engineers Jacksonville District Commander. “We have been coordinating closely with the U.S. Fish and Wildlife Service to determine what measures can be taken to improve the habitat of the Cape Sable seaside sparrow and ensure we are able to operate our water management system in compliance with the Endangered Species Act. Nonetheless, multiple environmental factors continue to threaten the survival of this rare species. Successful recovery of the Cape Sable seaside sparrow requires continued collaborative efforts among our federal and state partnering agencies and we look forward to this ongoing dialogue.”
 
-Prior to Hurricane Andrew in 1992, there were 6,576 sparrows inhabiting Everglades National Park. Hurricane Andrew was followed by several wet years and high discharges of water through water control structures, causing several years of poor conditions for the Cape Sable seaside sparrow. This reduced the sparrow’s ability to recover from the impact of the hurricane and its total population declined to 3,312 in 1993\. The Service began consulting with the Corps on the ERTP in 2015\. Due to many factors, including loss of habitat, the sparrow’s population dropped to 2,720 in 2014\. After one of the wettest nesting periods on record current preliminary results for 2016 indicate the population may have decreased to approximately 2,400 birds, the lowest on record.
+Prior to Hurricane Andrew in 1992, there were 6,576 sparrows inhabiting Everglades National Park. Hurricane Andrew was followed by several wet years and high discharges of water through water control structures, causing several years of poor conditions for the Cape Sable seaside sparrow. This reduced the sparrow’s ability to recover from the impact of the hurricane and its total population declined to 3,312 in 1993\. The Service began consulting with the Corps on the ERTP in 2015. Due to many factors, including loss of habitat, the sparrow’s population dropped to 2,720 in 2014\. After one of the wettest nesting periods on record current preliminary results for 2016 indicate the population may have decreased to approximately 2,400 birds, the lowest on record.
 
 The biological opinion also addresses potential impacts to two other federally listed species—American wood storks and Everglade snail kites. Current water operations are not likely to impact these birds.
 
@@ -42,8 +45,8 @@ Conservation efforts on behalf of the Cape Sable seaside sparrow include annual 
 
 Listen to a recording of the teleconference.
 
-<audio controls=""><source src="https://fws.gov/southeast/audio/everglades-restoration-transition-plan.mp3" type="audio/mpeg"> Your browser does not support the `audio` element.</audio>
+<audio controls=""><source src="/audio/everglades-restoration-transition-plan.mp3" type="audio/mpeg"> Your browser does not support the `audio` element.</audio>
 
-Download the [transcript](https://fws.gov/southeast/audio/transcripts/everglades-restoration-transition-plan.pdf).
+Download the [transcript](/audio/transcripts/everglades-restoration-transition-plan.pdf).
 
 For more information, please visit: [https://www.fws.gov/verobeach/20160722NRERTPJeopardyBO.html](https://www.fws.gov/verobeach/20160722NRERTPJeopardyBO.html)

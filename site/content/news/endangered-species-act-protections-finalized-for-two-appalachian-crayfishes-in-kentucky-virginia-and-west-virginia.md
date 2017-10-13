@@ -5,7 +5,11 @@ date: '2016-04-06'
 tags:
     - Crayfish
     - 'Big Sandy Crayfish'
+    - Guyandotte River Crayfish
+    - Endangered Species Act
     - Kentucky
+    - Virginia
+    - West Virginia
 hero:
     name: big-sandy-crayfish-in-hand.jpg
     alt: 'A lobster-shaped crayfish held by a biologist'
@@ -34,9 +38,8 @@ For the past 40 years, the ESA has been successful in preventing the extinction 
 
 The ESA requires the Service to review the species’ range and identify areas that are essential for its conservation and may need special management or protection. These critical habitat designations have no impact on landowner activities that do not involve federal funding or require federal permits. The Service expects to propose critical habitat for both crayfishes for public review and comment later in 2016 after completing the required review of economic considerations.
 
-**Additional Information:**
+## More information
 
-*   [Questions and Answers](http://fws.gov/southeast/wildlife/crustacean/big-sandy-crayfish/pdf/two-appalachian-crayfish-q-and-a.pdf)
-*   [Big Sandy Crayfish and Guyandotte River Crayfish Fact Sheet](http://fws.gov/southeast/wildlife/crustacean/big-sandy-crayfish/pdf/big-sandy-crayfish-guyandotte-river-crayfish-factsheet.pdf)
-
-*   [Photos, maps, rule and more information](https://www.fws.gov/northeast/crayfish)
+  - [Questions and Answers](/faq/endangered-species-act-protects-two-appalachian-crayfish)
+  - [Big Sandy Crayfish and Guyandotte River Crayfish Fact Sheet](/pdf/fact-sheet/big-sandy-crayfish-guyandotte-river-crayfish.pdf)
+  - [Photos, maps, rule and more information](https://www.fws.gov/northeast/crayfish)

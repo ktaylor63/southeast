@@ -30,7 +30,7 @@ The LCCs received support and guidance for the assessment from many partners, in
 
 The GCVA will guide future conservation and restoration efforts by helping conservation partners across the Gulf identify vulnerable areas where they can focus critical resources. In addition, the document pinpoints additional research needed to better anticipate impacts to coastal ecosystems and species along the northern Gulf of Mexico. 
 
-To learn more about the GCVA visit: [http://gulfcoastprairielcc.org/science/science-projects/gulf-coast-vulnerability-assessment/](http://gulfcoastprairielcc.org/science/science-projects/gulf-coast-vulnerability-assessment/). To learn more about the Landscape Conservation Cooperative Network visit: [http://lccnetwork.org/](http://lccnetwork.org/).
+To learn more about the GCVA visit: [https://lccnetwork.org/news/GCVA](https://lccnetwork.org/news/GCVA). To learn more about the Landscape Conservation Cooperative Network visit: [https://lccnetwork.org/](https://lccnetwork.org/).
 
 ## Contact
 

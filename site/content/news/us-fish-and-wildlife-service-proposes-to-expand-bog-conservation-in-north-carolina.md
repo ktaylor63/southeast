@@ -13,8 +13,10 @@ tags:
   - Mountain Bogs
   - National Wildlife Refuge System
   - Tennessee
+  - Asheville
 ---
-**ASHEVILLE, NC** – The U.S. Fish and Wildlife Service seeks public input on its proposal to expand the acquisition boundary for [Mountain Bogs National Wildlife Refuge](https://www.fws.gov/refuge/mountain_bogs/). 
+
+**Asheville, North Carolina** – The U.S. Fish and Wildlife Service seeks public input on its proposal to expand the acquisition boundary for [Mountain Bogs National Wildlife Refuge](https://www.fws.gov/refuge/mountain_bogs/). 
 
 “Since Mountain Bogs National Wildlife Refuge was established in 2015, we’ve heard from numerous private landowners interested in supporting the refuge through land sales and donations,” said Andrew Hammond, Refuge Manager. “If approved, this proposed expansion would increase opportunities to work with those landowners. It also brings some keys sites into our focus areas.”
 

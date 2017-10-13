@@ -20,7 +20,7 @@ There are now 23 Coastal Program offices throughout the United States including 
 
 Despite the numerous gains made in conserving coastal habitat by the Coastal Program and other similar voluntary, incentive-based programs, threats to coastal ecosystems have become even more challenging.  Climate change poses numerous and complex threats to coastal wetlands and the fish and wildlife they support throughout the United States, including sea level rise, more invasive species, and increases in ocean temperatures and acidity.  In addition, scientists predict increased flooding of populated coastal areas and further decreases in water quality, changes that will severely impact not only fish and wildlife species, but humans as well.  Given the magnitude of these threats, there is now more than ever a strong need for public-private partnerships to protect and restore coastal wetland habitats.    
 
-To learn more about the Service’s Coastal Program and to find an office near you, please visit:  [fws.gov/coastal/contactUs.html](http://www.fws.gov/coastal/contactUs.html).  For Southeast Regional coastal contacts,  please see [fws.gov/coastal/contactInfo4.html](http://www.fws.gov/coastal/contactInfo4.html)
+To learn more about the Service’s Coastal Program and to find an office near you, please visit:  [fws.gov/coastal](https://www.fws.gov/coastal/).  For Southeast Regional coastal contacts,  please see [https://www.fws.gov/southeast/our-services/coastal-conservation/#work-with-us-section](/our-services/coastal-conservation/#work-with-us-section)
 
 ## Contact
 

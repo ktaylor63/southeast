@@ -13,7 +13,7 @@ tags:
     - 'Conservation Planning Assistance'
     - Lafayette
     - Louisiana
-updated: 'September 20th, 2017'
+updated: 'October 13th, 2017'
 ---
 
 ## Conserving habitat for fish and wildlife in Louisiana
@@ -39,8 +39,18 @@ We actively participate in the Corps of Engineers’ Wetland Mitigation Bank Rev
 ## Coastal Barrier Resources Act (CBRA)
 
 In the early 1980s, Congress recognized that certain actions and programs of the Federal Government have historically subsidized and encouraged development on [coastal barriers](https://www.fws.gov/CBRA/Coastal-Barriers.html), resulting in the loss of natural resources; threats to human life, health, and property; and the expenditure of millions of tax dollars each year.  To remove the federal incentive to develop these areas, the [Coastal Barrier Resources Act (CBRA)](https://www.fws.gov/CBRA/Legislation.html) of 1982 and subsequent amendments designated relatively undeveloped coastal barriers along the Atlantic, Gulf of Mexico, Great Lakes, U.S. Virgin Islands, and Puerto Rico coasts as part of the [John H. Chafee Coastal Barrier Resources System (CBRS)](https://www.fws.gov/CBRA/Act.html#CBRS), and made these areas ineligible for most new federal expenditures and financial assistance. CBRA encourages the conservation of hurricane prone, biologically rich coastal barriers by restricting federal expenditures that encourage development, such as federal flood insurance. Areas within the CBRS can be developed provided that private developers or other non-federal parties bear the full cost.
- 
-## Contact 
+
+To have a CBRA determination performed for your project, please send your determination request and relevant project information to [cbradeterminations@fws.gov](mailto:cbradeterminations@fws.gov) addressed to:
+
+Jonathan Phinney, PhD
+Chief, Branch of Geospatial Mapping and Technical Support
+U.S. Fish and Wildlife Service
+5275 Leesburg Pike; MS:ES
+Falls Church, VA 22041
+
+(Please do not include any personally identifiable information in your request.)
+
+## Contact
 
 David Soileau, Conservation Planning Assistance Coordinator  
 [david_soileau@fws.gov](mailto:david_soileau@fws.gov), (337) 291-3109

@@ -17,7 +17,7 @@ tags:
     - Kentucky
 updated: 'March 18th, 2017'
 ---
-**COOKEVILLE, TN** – The U.S. Fish and Wildlife Service is adding the white fringeless orchid to the federal list of threatened and endangered species, as a threatened species to protect and conserve the rare plant.
+**Cookeville, Tennessee** – The U.S. Fish and Wildlife Service is adding the white fringeless orchid to the federal list of threatened and endangered species, as a threatened species to protect and conserve the rare plant.
 
 While the orchid is found in six Southern states – Kentucky, Tennessee, Georgia, Alabama, South Carolina, and Mississippi - populations are small, isolated, and face a wide array of threats across their range. Because of the threat of collection, the Service is not designating critical habitat for this plant.
 
@@ -37,6 +37,6 @@ Habitat destruction and modification from development, forestry practices, alter
 
 The orchid’s listing is part of the Service’s effort to implement a court-approved work plan addressing this listing workload and resolving a series of lawsuits concerning the agency’s Endangered Species Act (ESA) listing program.
 
-The Service’s final rule listing the orchid as threatened appears in the September 13, 2016 _Federal Register_. Protection for this plant under the ESA becomes effective on October 13, 2016**,** 30 days after the rule is published in the _Federal Register_.  For threatened plants, it is illegal under the ESA to take, damage, or destroy any such plants, from areas under federal jurisdiction or in knowing violation of any law or regulation of any            state, or to possess, import, export or conduct interstate or international commerce without authorization from the Service. The ESA also requires all federal agencies to ensure actions they authorize, fund, or undertake do not jeopardize the existence of listed species.
+The Service’s final rule listing the orchid as threatened appears in the September 13, 2016 _Federal Register_. Protection for this plant under the ESA becomes effective on October 13, 2016**,** 30 days after the rule is published in the _Federal Register_.  For threatened plants, it is illegal under the ESA to take, damage, or destroy any such plants, from areas under federal jurisdiction or in knowing violation of any law or regulation of any state, or to possess, import, export or conduct interstate or international commerce without authorization from the Service. The ESA also requires all federal agencies to ensure actions they authorize, fund, or undertake do not jeopardize the existence of listed species.
 
-The Service initially proposed to protect the orchid and sought public comment on September 15, 2015, and again sought public input on April 14, 2016\. All comments received are posted at http://www.regulations.gov and are addressed in the final listing rule. For more information about this plant and the final rule visit http://www.fws.gov/cookeville or the _Federal Register_ at http://www.regulations.gov, docket number FWS-R4-ES-2015-0129.
+The Service initially proposed to protect the orchid and sought public comment on September 15, 2015, and again sought public input on April 14, 2016\. All comments received are posted at https://www.regulations.gov and are addressed in the final listing rule. For more information about this plant and the final rule visit https://www.fws.gov/cookeville or the _Federal Register_ at https://www.regulations.gov, docket number FWS-R4-ES-2015-0129.

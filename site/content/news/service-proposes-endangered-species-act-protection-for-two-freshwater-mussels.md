@@ -31,12 +31,12 @@ It is illegal under the ESA to kill, harm or otherwise “take” a listed speci
 ## Submit your Comments
 
 Comments may be submitted using one of the following methods:   
- - Federal eRulemaking Portal: [http://www.regulations.gov](http://www.regulations.gov/).  Follow the instructions for submitting comments on docket number FWS-R3-ES-2010-0050.  
+ - Federal eRulemaking Portal: [regulations.gov](https://www.regulations.gov/).  Follow the instructions for submitting comments on docket number FWS-R3-ES-2010-0050.  
  - U.S. mail or hand-delivery: Public Comments Processing, Attn:  FWS-R3-ES-2010-0050; Division of Policy and Directives Management; U.S. Fish and Wildlife Service; 4401 N. Fairfax Drive, Suite 222; Arlington, VA 22203\.    
 
 In particular, the Service is looking for information on distribution, status, population size or trends; life history; and threats to these species.  The comment period ends on March 21, 2011.    
 
-More information on mussels and endangered wildlife can be found at [www.midwest.fws.gov/endangered](http://www.midwest.fws.gov/endangered).
+More information on mussels and endangered wildlife can be found at [fws.gov/midwest/endangered](https://www.fws.gov/midwest/endangered/).
 
 ## Contact
 

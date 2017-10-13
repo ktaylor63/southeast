@@ -42,9 +42,9 @@ Those expressing support generally either supported the interim measures as prop
 
 Some comments that were outside the scope of this Environmental Assessment were not responded to, but were noted for future reference during the formulation of the Crystal River National Wildlife Refuge Comprehensive Conservation Plan.   The Service expects to complete that planning effort with the support and input from the community in 2015.
 
-[The Final Environmental Assessment](http://fws.gov/southeast/news/pdf/SignedManateeEnvironmentalAssessment.pdf) (PDF, 2.1MB)  
-[Finding of No Significant Impact to Manatee](http://fws.gov/southeast/news/pdf/SignedFindingOfNoSignificantImpactManatee.pdf) (PDF, 300KB)
-[Higher Quality Version of Image](http://www.fws.gov/southeast/news/images/three-sisters-springs-manatee-closure-areas.jpg)
+  - [The Final Environmental Assessment](/pdf/environmental-assessment/manatee-wildlife-viewing-crystal-river-national-wildlife-refuge.pdfTh) (PDF, 2.1MB)  
+  - [Finding of No Significant Impact to Manatee](/pdf/environmental-assessment/finding-of-no-significant-impact-manatee-wildlife-viewing-on-crystal-river-national-wildlife-refuge.pdf) (PDF, 300KB)
+  - [Higher Quality Version of Image](/pdf/map/three-sisters-springs-manatee-closure-areas.jpg)
 
 ## Contacts
 

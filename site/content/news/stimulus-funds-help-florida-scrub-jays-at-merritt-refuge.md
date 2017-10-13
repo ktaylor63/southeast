@@ -7,7 +7,8 @@ hero:
     link: 'https://flic.kr/p/B86Db3'
     caption: 'Florida scrub jay. Photo by Gail Hendricks, USDA NRCS.'
 tags:
-    - 'Florida scrub jay'
+    - 'Florida Scrub Jay'
+    - Merritt Island National Wildlife Refuge
     - 'National Wildlife Refuge System'
     - Florida
 updated: 'October 3rd, 2016'
@@ -29,7 +30,7 @@ Merritt National Wildlife Refuge was established in 1963 as an overlay of NASA�
 
 The Recovery Act provides $280 million for the U.S. Fish and Wildlife Service - which includes $115 million for construction, repair and energy efficiency retrofit projects at Service facilities, and $165 million for habitat restoration, deferred maintenance and capital improvement projects. Projects help create local jobs in the communities where they are located and around the United States, while stimulating long-term employment and economic opportunities for the American public. Recovery Act projects address long-standing priority needs identified by the Service through its capital planning process. The agency worked through a rigorous merit-based process to identify and prioritize investments meeting the criteria put forth in the Recovery Act: namely, that a project addresses the Department’s highest priority mission needs; generates the largest number of jobs in the shortest period of time; and creates lasting value for the American public.
 
-For a full list of funded projects nationwide, go to the Department’s Recovery web site at [http://recovery.doi.gov/](http://recovery.doi.gov). For a list of Service projects, click on the Service's logo at the bottom of the page or visit [http://recovery.doi.gov/press/bureaus/us-fish-and-wildlife-service](http://recovery.doi.gov/press/bureaus/us-fish-and-wildlife-service). The public will be able to follow the progress of each project on the recovery web site, which includes an interactive map that allows the public to track where and how the Department's recovery dollars are being spent. In addition, the public can submit questions, comments or concerns at [recoveryact@fws.gov](mailto:recoveryact@fws.gov).
+For a full list of funded projects nationwide, go to the Department’s Recovery web site at [doi.gov/recovery](https://www.doi.gov/recovery). For a list of Service projects, click on the Service's logo at the bottom of the page or visit [doi.gov/recovery/recovery-in-action](https://www.doi.gov/recovery/recovery-in-action). The public will be able to follow the progress of each project on the recovery web site, which includes an interactive map that allows the public to track where and how the Department's recovery dollars are being spent. In addition, the public can submit questions, comments or concerns at [recoveryact@fws.gov](mailto:recoveryact@fws.gov).
 
 ## Contact
 

@@ -22,7 +22,7 @@ On April 9, 2015, two bald eagles, four coyotes, one opossum and three black vul
 
 Julia Breaux, Louisiana state director for The HSUS, said: “There are humane and effective methods for resolving conflicts with coyotes that don’t involve poisoning animals, which can cause significant suffering and a slow death. We’re grateful to the U.S. Fish and Wildlife Service and the Louisiana Department of Wildlife and Fisheries for their determination to find those responsible.”
 
-For more information on humane solutions to problems with coyotes, visit [humanesociety.org/coyotes](file:///C:/AppData/Local/Microsoft/Windows/Temporary%20Internet%20Files/Content.Outlook/WF2UAM0N/humanesociety.org/coyotes).
+For more information on humane solutions to problems with coyotes, visit [www.humanesociety.org/animals/coyotes/tips/solving-problems-with-coyotes.html](http://www.humanesociety.org/animals/coyotes/tips/solving-problems-with-coyotes.html).
 
 LDWF is the lead agency and is being supported by the U.S. Fish and Wildlife Service and the Environmental Protection Agency. 
 

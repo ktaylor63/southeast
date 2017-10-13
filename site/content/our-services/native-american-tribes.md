@@ -19,13 +19,13 @@ Conserving this nation’s fish and other aquatic resources cannot be successful
 
 The Service plays an important role in providing help and support to tribes as they exercise their sovereignty in the management of their fish and wildlife resources on more than 55 million acres of Federal Indian trust land and in treaty-reserved areas.
 
-The Service is committed to working with tribes to continue this legacy of conservation andrenewed this commitment in 2016 with the release of the revised [Native American Policy](http://www.fws.gov/nativeamerican/pdf/Policy-revised-2016.pdf).
+The Service is committed to working with tribes to continue this legacy of conservation and renewed this commitment in 2016 with the release of the revised [Native American Policy](http://www.fws.gov/nativeamerican/pdf/Policy-revised-2016.pdf).
 
 The [Native American Liaison](https://docs.google.com/document/d/1dg2-u1kgFHt1Xbndjo4vAQv3gjxTK8QYKdvOif6TceY/edit#heading=h.g97mys1ul19n) provides communication and support to tribes and tribal organizations to promote cooperative fish and wildlife activities. The liaison also works with Service staff in our field offices to facilitate government-to-government consultation.
 
 Working with tribes in the Southeast, the Service has
 
-- Restored river- and streambanks;
+- Restored river and stream banks;
 - Restored land to native vegetations;
 - Repaired and provided fish for a tribal trout hatchery;
 - Increased boat access;

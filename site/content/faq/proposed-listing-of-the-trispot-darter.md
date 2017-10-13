@@ -8,7 +8,7 @@ tags:
     - Alabama
     - 'Coosa River'
     - Georgia
-    - Tennesee
+    - Tennessee
     - 'Trispot Darter'
 updated: 'October 3rd, 2017'
 ---

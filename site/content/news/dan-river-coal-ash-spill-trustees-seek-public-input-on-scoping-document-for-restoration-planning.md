@@ -11,7 +11,7 @@ tags:
 updated: 'March 21st, 2017'
 ---
 
-The natural resource trustees for the[ February 2, 2014 Dan River coal ash spill ](http://epa.gov/region4/duke-energy/index.html)([U.S. Fish and Wildlife Service](http://www.fws.gov/), [North Carolina Department of Environmental and Natural Resources](http://portal.ncdenr.org/web/guest), and [Virginia Department of Environmental Quality](http://www.deq.virginia.gov/)) are seeking public review and comment on potential restoration opportunities in the Dan River watershed area.
+The natural resource trustees for the [February 2, 2014 Dan River coal ash spill](https://www.epa.gov/dukeenergy-coalash)([U.S. Fish and Wildlife Service](http://www.fws.gov/), [North Carolina Department of Environmental and Natural Resources](http://portal.ncdenr.org/web/guest), and [Virginia Department of Environmental Quality](http://www.deq.virginia.gov/)) are seeking public review and comment on potential restoration opportunities in the Dan River watershed area.
 
 The [_Dan River Scoping Document for Restoration Planning_](/pdf/dan-river-scoping-document.pdf) was released today to enable the public to review it and provide ideas to restore the river.  The scoping document also includes information on the spill, the potential natural resource injuries resulting from the spill, restoration project concepts for the resources affected by the spill, and an explanation of the restoration planning process. Review of the projects described in the scoping document is intended to promote public and stakeholder engagement early in restoration planning. 
 
@@ -42,7 +42,6 @@ For any restoration projects or proposals submitted to the trustees, please incl
 ## For more about the NRDAR
 
  - [NRDAR](http://www.fws.gov/northeast/ecologicalservices/nrdarprocess.html)
- - [Frequently Asked Questions](http://www.fws.gov/contaminants/Info/FAQsNRDA.cfm)
 
 ## Contacts
 

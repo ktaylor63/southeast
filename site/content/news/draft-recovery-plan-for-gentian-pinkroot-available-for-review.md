@@ -25,9 +25,9 @@ The objective of this draft recovery plan is to provide a framework for the reco
 
 Please send written comments about the Technical/Agency Draft Recovery Plan for the Gentian Pinkroot to: U.S. Fish and Wildlife Service, Panama City Ecological Services Field Office, 1601 Balboa Ave, Panama City, Florida 32405. Please note that your entire comment, including personal identifying information, may be made publicly available at any time. Please do not include any information you wish to remain private.
 
-To view the draft recovery plan on the Internet, please visit the Service’s recovery plan website at [http://ecos.fws.gov/speciesProfile/profile/speciesProfile.action?spcode=Q21W#recovery](http://ecos.fws.gov/speciesProfile/profile/speciesProfile.action?spcode=Q21W#recovery)
+To view the draft recovery plan on the Internet, please visit the Service’s recovery plan website at [https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=Q21WW#recovery](https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=Q21W#recovery)
 
-A written copy of the draft plan can be obtained by calling (850) 769–0552, ext. 231, or by sending a request for a paper copy to the [Panama City Ecological Services Field Office](http://www.fws.gov/panamacity/).
+A written copy of the draft plan can be obtained by calling (850) 769–0552, ext. 231, or by sending a request for a paper copy to the [Panama City Ecological Services Field Office](https://www.fws.gov/panamacity/).
 
 ## Contact
 

@@ -8,7 +8,7 @@ hero:
     caption: 'Louisiana black bear cubs. Photo by Brad Young, Mississippi Department of Wildlife, Fisheries and Parks.'
 tags:
     - 'Louisiana Black Bear'
-    - 'Bottomland Hardwood'
+    - 'Bottomland Hardwoods'
     - Recovery
     - Lafayette
     - Louisiana
