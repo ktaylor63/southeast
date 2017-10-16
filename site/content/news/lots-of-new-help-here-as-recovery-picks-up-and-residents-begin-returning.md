@@ -68,7 +68,7 @@ There are other challenges. Nasty rashes – much worse than poison ivy -- from 
 
 And then there’s the Key deer. Refuge staffers have received a handful of calls about dead deer in need of burial or live deer in need of water, food or shelter. Neither request, though, is out of the ordinary. Cars and trucks alone kill about 135 deer annually. Dan Clark, the refuge manager, advises concerned citizens to leave the deer alone. 
 
-{{< figure class="photo-center" src="/images/pages/key-deer-after-irma.jpg" alt="A small brown deer next to some denuded vegetation." caption="This Key deer was wandering alongside a damaged home owned by National Key Deer Refuge after Hurricane Irma." link="https://flic.kr/p/YM8Kb2">}}
+{{< figure class="photo-center" src="/images/pages/key-deer-after-irma.jpg" alt="A small brown deer next to some denuded vegetation." caption="This Key deer was wandering alongside a damaged home owned by National Key Deer Refuge after Hurricane Irma. Photo by Dan Chapman, USFWS." link="https://flic.kr/p/YM8Kb2">}}
 
 Gray and her staff help the community as well. They’ve cleared county roads and undertaken “wellness checks” on local residents. They donated, temporarily, the refuge’s brand new visitor center on U.S. 1 to the national guard to set up a water and food distribution point. They also hooked up two generators to power much-needed air conditioning so the guardsmen can sleep comfortably. In exchange, the guard gives the Service all the water, ice and MREs needed to satisfy its own army of workers.
 
