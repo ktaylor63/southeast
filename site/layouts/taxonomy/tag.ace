@@ -5,7 +5,9 @@
 
     {{ $paginator := .Paginate .Data.Pages }}
     {{ range  $paginator.Pages.GroupBy "Section" }}
+      {{ if .Key }}
       h2 {{ title .Key }}
+      {{ end }}
       {{ range .Pages }}
         {{ .Render "summary"}}
       {{ end }}
