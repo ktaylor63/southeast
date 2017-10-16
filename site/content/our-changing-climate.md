@@ -12,7 +12,7 @@ tags:
     - Carbon
     - 'Climate Change'
     - 'Sea Level Rise'
-updated: 'April 24th, 2017'
+updated: 'October 13th, 2017'
 ---
 
 In the southeastern United States, changes to the climate are having profound impacts on our nation’s wildlife and habitats. In aquatic environments, evidence is growing that higher water temperatures resulting from climate change are negatively impacting cold- and cool-water fish populations across the country. Warmer winters are changing some birds’ migratory patterns. Sooty terns, which nest in the Dry Tortugas off Key West, Florida, are showing up earlier and earlier. Roseate spoonbills, which generally stay in Florida, the Gulf Coast and points south, are now regularly spotted in South Carolina. Record warm seawater is linked to [coral reef bleaching](http://coralreefwatch.noaa.gov/satellite/index.php) in the Florida Keys and Puerto Rico.
@@ -21,7 +21,7 @@ There are 67 southeastern national wildlife refuges from Louisiana to North Caro
 
 ## Video: There’s Nothing Level About Sea Level
 
-{{< youtube 6H_7fTsNiFk >}}
+{{< youtube id="6H_7fTsNiFk" title="There’s Nothing Level About Sea Level" >}}
 
 ## How We’re Responding
 
