@@ -25,7 +25,7 @@ hero:
     link: 'https://flic.kr/p/JioDEh'
     caption: 'American chaffseed © Robert Sincliar. Copyright release form S://EA/Photo Permissions/american-chaffseed.pdf'
     position: 'bottom center'
-updated: 'June 29th, 2017'
+updated: 'October 13th, 2017'
 ---
 
 **Taxon:** Plant  
@@ -124,7 +124,7 @@ Jeff Glitzenstein (Research Associate with Tall Timbers) worked with The Citadel
 
 Brandi Cannon, Masters Student with Columbia University, is researching the genetic variation of American chaffseed throughout its range.  [Listen to the In Defense of Plants podcast episode, Broomrapes: A celebration of an interesting family of parasitic plants](http://www.indefenseofplants.com/podcast/2016/10/2/ep-76-broomrapes-a-celebration-of-an-interesting-family-of-parasitic-plants).
 
-{{< youtube FEIA3kNAyhM >}}
+{{< youtube id="FEIA3kNAyhM" title="Learn more about the American chaffseed" >}}
 
 {{< figure class="photo-center" src="/images/pages/american-chaffseed-lynchburg-savanna-heritage-preserve.jpg" alt="Two men posing for a photo in a grassy field below a pine tree." caption="Lynchburg Savanna Heritage Preserve. Photo by USFWS." >}}
 
