@@ -13,7 +13,7 @@ tags:
     - 'Endangered Species Act'
     - 'Louisiana Black Bear'
     - Recovery
-updated: 'September 20th, 2017'
+updated: 'October 13th, 2017'
 ---
 
 One of the primary responsibilities of the U.S. Fish and Wildlife Service (Service) is to protect and recover imperiled species and the ecosystems upon which they depend. Congress defined “species” to include subspecies, varieties, and, for vertebrates, distinct population segments.
@@ -48,7 +48,7 @@ A Safe Harbor Agreement (SHA) is a voluntary agreement involving private or othe
 
 [Learn more about safe harbor agreements.](https://www.fws.gov/endangered/landowners/safe-harbor-agreements.html)
 
-{{< youtube htd4xCljx9I >}}
+{{< youtube id="htd4xCljx9I" title="Learn more about Safe Harbor agreements" >}}
 
 ## Listed and at-risk species in Louisiana
 

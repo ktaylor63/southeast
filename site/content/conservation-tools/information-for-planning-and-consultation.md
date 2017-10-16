@@ -8,11 +8,11 @@ hero:
     position: top
 tags:
     - 'Data Management'
-    - Science
     - Development
     - 'Endangered Species Act'
     - Energy
-updated: 'March 10th, 2017'
+    - Science
+updated: 'October 13th, 2017'
 ---
 
 [IPaC](https://ecos.fws.gov/ipac/) is a project planning tool which streamlines the environmental review process by providing information on the location of listed species and other USFWS trust resources which could potentially be affected by a project.
@@ -39,4 +39,4 @@ IPaC recently added in the ability to determine if a project qualifies for a pro
 
 ## What's New with IPaC
 
-{{< youtube mDWazJTZk9Q >}}
+{{< youtube id="mDWazJTZk9Q" title="Learn more about the new features of IPaC" >}}

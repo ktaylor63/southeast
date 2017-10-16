@@ -11,7 +11,7 @@ tags:
     - 'Hurricane Maria'
     - 'Puerto Rico'
     - 'US Virgin Islands'
-updated: 'September 19th, 2017'
+updated: 'October 13th, 2017'
 ---
 
 Puerto Rico, still staggering from [Hurricane Irma](https://www.fws.gov/hurricane/irma), is now likely to get knocked down by [Hurricane Maria](https://www.fws.gov/hurricane/irma). The category 4 storm is headed its way.
@@ -20,7 +20,7 @@ Maria, with occasional wind gusts up to 190 mph, is expected to reach Puerto Ric
  
 Expect “extensive damage,” said Kevin Scasny, a meteorologist for the U.S. Fish and Wildlife Service (Service).  
 
-{{< youtube acj37j6sONQ >}}
+{{< youtube id="acj37j6sONQ" title="An video from a satellite showing Hurricanes Irma, Maria and Jose in the Atlantic Ocean" >}}
  
 “It is not a good time” for Puerto Rico, he said in a Tuesday morning conference call with representatives of various Service divisions. The Service, as it did with Irma, is preparing to respond after the storm whips over the island.
  

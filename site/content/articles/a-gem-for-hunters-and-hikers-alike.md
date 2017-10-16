@@ -56,7 +56,7 @@ DNR tallied 182 gopher tortoises on Altama this spring. Lee expects the numbers 
 
 Corridors, of course, offer benefits to species beyond those at-risk. Altama Plantation, outside of Brunswick and along Interstate 95, is fast becoming a recreational gem. Hunters, for years, have taken deer, boar and wild turkeys. Anglers know its riverine sweet spots. Hikers, bikers, birders and kayakers are flocking to Altama’s oak-shrouded lanes, cypress swamps and historic homes and gardens.
 
-{{< youtube yfo5Gv97NKA >}}
+{{< youtube id="yfo5Gv97NKA" title="A video about recreation opportunities on the Altamaha River" >}}
 
 Corridors, as laid out in the Southeast Conservation Adaptation Strategy (SECAS), a cooperative blueprint for the region’s long-term health, defend against over-development and climate change. The Atlantic Ocean’s minimum 3-foot rise by 2100, as predicted by NOAA and other agencies, will bring a surge of saltwater miles inland. The two corridors, though, will slow the onslaught while giving the flora and fauna time to adapt to a warming climate.
 

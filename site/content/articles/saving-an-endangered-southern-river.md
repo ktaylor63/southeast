@@ -4,7 +4,7 @@ date: '2017-03-22'
 author: 'Dan Chapman, Public Affairs Specialist'
 type: feature
 lat: 34.976431
-lng: -84.783110
+lng: -84.78311
 hero:
     name: conasauga-river-canopy.jpg
     alt: 'Mature trees form a canopy shading the river from the sun.'
@@ -16,7 +16,7 @@ tags:
     - 'Conasauga River'
     - Georgia
     - Rivers
-updated: 'March 22nd, 2017'
+updated: 'October 13th, 2017'
 ---
 
 **Crandall, Georgia** – The Conasauga River courses through Jimmy Petty’s corn, bean and dairy farm near the Tennessee line.
@@ -48,7 +48,7 @@ Three federally listed fish (including the Conasauga logperch) also make the end
 
 The Tennessee Aquarium and the University of Georgia recently analyzed nearly 300 Southeastern watersheds across 11 states to determine which were most imperiled and in need of help. [The study](http://southeastfreshwater.org/wp-content/uploads/2015/05/web_SE_Aquatic_Biodiv_Strat_Body_Apdx1_Apdx2.pdf), funded by the National Fish and Wildlife Foundation, was based on a simple calculus: 3 points were assigned for each endangered species in the watershed; 2 points for each threatened species; and 1 point for each vulnerable, or potentially, at-risk, species.
 
-{{< youtube iywHkOTNqpI >}}
+{{< youtube id="iywHkOTNqpI" title="Learn about the biodiversity study conducted on 300 southeastern watersheds" >}}
 
 The Conasauga ranked as the seventh most imperiled watershed.
 

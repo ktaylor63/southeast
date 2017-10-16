@@ -1,5 +1,6 @@
 ---
 title: 'Service and its partners remove another dam in greater Birmingham area, improves aquatic habitat'
+description: 'Big Canoe Creek is home to some of America’s rarest aquatic species. A project sponsored by the U.S. Fish and Wildlife Service (Service) is already dramatically improving water quality and habitat of the creek, giving those imperiled species a better chance at recovery.'
 author: 'Denise Rowell, Public Affairs Specialist'
 date: '2013-11-22'
 tags:
@@ -17,10 +18,10 @@ tags:
     - 'Strategic Habitat Units'
     - 'Triangular Kidneyshell'
     - 'Trispot Darter'
-updated: 'August 16th, 2017'
+updated: 'October 13th, 2017'
 ---
 
-{{< youtube pI1fL3delYE >}}
+{{< youtube id="pI1fL3delYE" title="Learn more about the Goodwin's mill dam removal" >}}
 
 Big Canoe Creek is home to some of America’s rarest aquatic species. A project sponsored by the U.S. Fish and Wildlife Service (Service) is already dramatically improving water quality and habitat of the creek, giving those imperiled species a better chance at recovery.
 

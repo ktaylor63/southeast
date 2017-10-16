@@ -42,10 +42,10 @@ tags:
     - 'Wolf Island National Wildlife Refuge'
 series:
     - 'Conserving Paradise'
-updated: 'August 28th, 2017'
+updated: 'October 13th, 2017'
 ---
 
-{{< youtube wVfDpNAR4XU >}}
+{{< youtube id="wVfDpNAR4XU" title="Learn all about the wildlife and recreation resources on the Altamaha River" >}}
 
 **Darien, Georgia** — It meanders 137 miles through the wild heart of Georgia, a blackwater beauty that nourishes longleaf pine forests, cypress swamps, saltwater estuaries and the barrier islands that protect the Atlantic coast and migratory birds alike.
  
@@ -108,7 +108,7 @@ In 2011, the Service designated the Altamaha a “critical habitat.” The Natur
 
 “The Altamaha corridor is spectacular, with such a range of species and habitats: tidal areas with forests; salt marshes; longleaf pine forests; and the wonderful delta,” said Christi Lambert, who has spent 25 years protecting the river for the Nature Conservancy. “I love the river. It’s such a special place. It takes care of us.”
 
-{{< youtube HZ2VeVXq6AE >}}
+{{< youtube id="HZ2VeVXq6AE" title="Learn abou the Altamaha River from The Nature Conservancy" >}}
 
 Most of the land bordering the Altamaha was once slash and loblolly pine bought from Rayonier, International Paper and other timber companies and set aside for hunting and fishing.The timber companies work diligently with the state, the Service and others to make sure the deals work in a timely fashion. Increasingly, though, Georgia’s DNR and the Service seek new “customers” keen on different recreational activities. Altama Plantation, for example, a 4,000-acre state-owned tract outside Brunswick, offers hikers, bikers and birders miles of carriage roads and sandy trails wending through an old rice plantation steeped in history.
 

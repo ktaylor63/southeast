@@ -20,10 +20,10 @@ hero:
     alt: 'A rocky stream bed covered by a canopy of trees.'
     caption: 'Rocks and boulders line the bottom and banks of this stretch of proctor creek. Photo by Katherine Taylor, USFWS.'
     position: 'bottom center'
-updated: 'August 28th, 2017'
+updated: 'October 13th, 2017'
 ---
 
-{{< youtube Ar1Wvso2Dqo>}}
+{{< youtube id="Ar1Wvso2Dqo" title="Follow the team of USFWS biologists and student interns on their survey of Proctor Creek">}}
 
 It’s a hot and humid central Georgia morning when I meet up with U.S. Fish and Wildlife Service (Service) Biologist Tamara Johnson at a library parking lot in Northwest Atlanta. Today’s mission is to survey Proctor Creek, an urban watershed, for aquatic wildlife. As anyone who’s embarked on a large project knows, it takes a village. Tamara’s village includes fellow Service biologists, interns, graduate students, and members of the community surrounding Proctor Creek. Together, they’ve been surveying the stream all summer. (If you’ve experienced Georgia heat you know that’s no easy feat while wearing waders.)
 

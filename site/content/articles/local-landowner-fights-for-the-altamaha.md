@@ -23,7 +23,7 @@ hero:
     alt: 'A gentlman with gray hair poses for the camera with a smile and his arms crossed.'
     caption: 'Mr. Dink NeSmith has a special relationship with the Altamaha River. Photo by Nicole Vidal, USFWS.'
     position: 'top center'
-updated: 'August 28th, 2017'
+updated: 'October 13th, 2017'
 ---
 
 **Jesup, Georgia** -- “Well now, welcome to the swamp.”
@@ -36,7 +36,7 @@ To NeSmith, it’s an open-air cathedral in all its natural “majesty.”
 
 NeSmith, 68, grew up in nearby Jesup, the son of an undertaker whose friends carried him into the woods and swamps to hunt and fish. He now owns the twice-weekly Jesup Press-Sentinel and two dozen other small newspapers in Georgia, Florida and North Carolina -- as well as 4,000 acres along the Altamaha River.
 
-{{< youtube B-6_tsd3l2Y >}}
+{{< youtube id="B-6_tsd3l2Y" title="Get to know Dink NeSmith, a private landowner and conservationist living on the Altamaha River" >}}
 
 A former Georgia Nature Conservancy board member, NeSmith built cabins from long-submerged cypress logs that never made it downriver to Darien. He turned an old turpentine commissary into a bunkhouse. He burns his pine tree stands to provide nourishment for gopher tortoises, indigo snakes and red cockaded woodpeckers. He put two-thirds of his land into conservation easements to keep it protected forever.
 

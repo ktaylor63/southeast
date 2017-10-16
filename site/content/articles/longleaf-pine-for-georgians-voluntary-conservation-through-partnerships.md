@@ -1,6 +1,7 @@
 ---
 title: 'Longleaf pine for Georgians'
 subtitle: 'Voluntary conservation through partnerships'
+description: 'Longleaf pine trees once blanketed the landscape from southern Virginia to east Texas. They were majestic hallmarks of the Southeast.'
 author: 'Bill O’Brian, Writer-Editor for the National Wildlife Refuge System'
 date: '2017-08-22'
 type: feature
@@ -18,10 +19,10 @@ tags:
     - 'Longleaf Pine'
     - 'Partners for Fish and Wildlife Program'
     - Partnership
-updated: 'August 28th, 2017'
+updated: 'October 13th, 2017'
 ---
 
-{{< youtube A6YmINq04WY >}}
+{{< youtube id="A6YmINq04WY" title="Learn about the longleaf pine ecosystem in Georgia" >}}
 
 Longleaf pine trees once blanketed the landscape from southern Virginia to east Texas. They were majestic hallmarks of the Southeast. They are perfectly suited for the region. They are drought-resistant, fire-resistant, disease-resistant, insect-resistant, even hurricane-resistant. The longleaf pine ecosystem is vital to many other native plants and animals, including the gopher tortoise and the Eastern indigo snake.
 

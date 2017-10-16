@@ -17,7 +17,7 @@ tags:
     - 'North Carolina'
     - 'South Carolina'
     - Tennessee
-updated: 'September 14th, 2017'
+updated: 'October 13th, 2017'
 ---
 
 Hurricane Irma pushed north from Florida early Monday morning leaving behind miles of downed trees and power lines with Georgia and Alabama next in her dangerous sites.
@@ -30,7 +30,7 @@ But Kevin Scasny, meteorologist for the Service, cautioned that high winds, coas
 
 “The main story now is the winds,” he said. “Tropical storm winds extend a whopping 80 miles from the center of the storm into South Carolina.”
 
-{{< youtube ZKg4DHRcQ-0 >}}
+{{< youtube id="ZKg4DHRcQ-0" title="A satellite video of Hurricane Irma moving into Florida" >}}
 
 Scasny expects the tropical storm, downgraded early Monday from a Category 1 hurricane, to hit the Valdosta, Georgia, region by 2 p.m. Monday and exit Georgia via Columbus approximately six hours later. Birmingham can expect gusts of 50 mph Tuesday about 8 a.m.
 

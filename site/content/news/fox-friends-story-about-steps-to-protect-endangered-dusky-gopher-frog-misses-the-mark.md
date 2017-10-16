@@ -12,7 +12,7 @@ tags:
     - Lafayette
     - Louisiana
     - Mississippi
-updated: 'June 5th, 2017'
+updated: 'October 13th, 2017'
 ---
 
 On Monday, June 18th, Fox & Friends [broadcast a story](http://video.foxnews.com/v/1694640237001/frog-fight-landowner-disputes-frog-habitat-on-his-land/?playlist_id=87937) about the U.S. Fish and Wildlife Service’s designation of critical habitat for the dusky gopher frog.  The gopher frog is protected under the Endangered Species Act and is listed as endangered.  The agency’s action designates 6,477 acres across four counties in Mississippi and one parish in Louisiana.
@@ -21,7 +21,7 @@ The story focused on one private landowner who owns 45,000 acres in St. Tammany 
 
 The Service released the final designation and its economic analysis the week of June 11th.  For additional information please [review the critical habitat designation](/news/2012/06/us-fish-and-wildlife-service-announces-critical-habitat-designation-for-dusky-gopher-frog).
 
-{{< youtube HSN74a9i0Dk >}}
+{{< youtube id="HSN74a9i0Dk" title="Leo Miranda shares a response to an innacurate report on Fox &amp; Friends" >}}
 
 **Steve Doocy, _Fox & Friends_: “Our next guest says it (critical habitat) could cost him over $30 million….”**
 

@@ -32,7 +32,7 @@ hero:
     caption: 'Wolf Island. Photo by Nicole Vidal, USFWS.'
 series:
     - 'Conserving Paradise'
-updated: 'August 28th, 2017'
+updated: 'October 13th, 2017'
 ---
 
 **Wolf Island National Wildlife Refuge, Georgia** -- It rained heavily the night before, and the puffy white clouds on the horizon presaged more storms heading for the Georgia coast. At 7 am., with the tide receding, Tim Keyes hustled the Carolina Skiff into the Altamaha Sound where the same-name river meets the sea.
@@ -41,7 +41,7 @@ Destination: the low-lying barrier islands off limits to the public, but teeming
 
 “The mouth of the Altamaha is just a spectacular location with a high tidal range and very healthy oyster beds that provide huge amounts of foraging habitat for seabirds and shorebirds,” said Keyes, a wildlife biologist with the state’s Department of Natural Resources. “It’s the whole package, really, and about as remote as you can get on the Georgia coast, maybe the entire Atlantic coast.”
 
-{{< youtube ro4SAwnO180 >}}
+{{< youtube id="ro4SAwnO180" title="A prolific nesting spot for the red knot" >}}
 
 Wolf Island, for centuries, was a favorite bird-hunting spot. In the 1700s, it served as a quarantine area for sailors sick with yellow fever. A lighthouse on the island’s north end operated as far back as 1822, but was destroyed by hurricanes and, ultimately, Confederate soldiers who didn’t want to aid Union ships. Another lighthouse was built after the war, but the terrible 1898 hurricane leveled it and killed several island residents as well.
 

@@ -17,7 +17,7 @@ tags:
     - 'Red-Cockaded Woodpecker'
 date: '2014-03-21'
 author: 'Josh OConnor, regional fuels specialist'
-updated: 'August 28th, 2017'
+updated: 'October 13th, 2017'
 ---
 
 ## Over a decade of prescribed fire management yields big benefits for the red-cockaded woodpecker
@@ -28,7 +28,7 @@ It began with a hot fire – trees scorched to the top, a mile long stretch of h
 
 Red-cockaded woodpeckers are endangered because they are specialists. Their nesting habitat is large diameter, old pine trees with little to no woody mid-story vegetation. A breeding pair excavates a cluster of cavity trees at one site. The large old pine trees are mostly gone because they’re compatible with neither pine plantations nor subdivisions. The woody mid-story is thick due to fire suppression. This is where prescribed fire comes in.
 
-{{< youtube 6-3fETrOYho >}}
+{{< youtube id="6-3fETrOYho" title="Learn more about the prescribed fire program at Piedmont National Wildlife Refuge" >}}
 
 Prescribed burning is fire, applied under exacting weather conditions, designed to achieve specific objectives. That’s what the refuge does to reduce wildfire potential and provide habitat for the woodpecker. There is a reason it’s not called controlled burning: fire managers don’t control all the variables influencing fire. They cannot because there are too many. These unaccountable variables lined up such that one of the refuge’s prescribed fires “over-achieved.” Usually “over-achieved” prescribed fires generate negative outcomes.
 

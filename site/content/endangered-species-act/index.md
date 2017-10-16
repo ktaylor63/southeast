@@ -11,7 +11,7 @@ hero:
     link: 'https://flic.kr/p/atdbxY'
     caption: 'Green sea turtle hatchling at Archie Carr National Wildlife Refuge. Photo by Keenan Adams, USFWS.'
     position: 'right center'
-updated: 'June 13th, 2017'
+updated: 'October 13th, 2017'
 ---
 
 One of the primary responsibilities of the U.S. Fish and Wildlife Service is to **protect and recover imperiled species and the ecosystems upon which they depend**. Congress defined “species” to include subspecies, varieties, and, for vertebrates, distinct population segments.
@@ -22,7 +22,7 @@ All species of plants and animals, except pest insects, are eligible for listing
 
 > "Nothing is more priceless and more worthy of preservation than the rich array of animal life with which our country has been blessed.  It is a many-faceted treasure, of value to scholars, scientists, and nature lovers alike, and it forms a vital part of the heritage we all share as Americans." - President Nixon
 
-{{< youtube Y6wJpGO8j4Q >}}
+{{< youtube id="Y6wJpGO8j4Q" title="Learn the basics of the Endangered Species Act" >}}
 
 ## Endangered vs. Threatened
 
@@ -67,7 +67,7 @@ Federal agencies consult with the Service to make sure the projects they carry o
 
 ## 40 Years at the Forefront of Wildlife Conservation
 
-{{< youtube DojGPBV4U0w >}}
+{{< youtube id="DojGPBV4U0w" title="Celebrating 40 years of the Endangered Species Act" >}}
 
 ## Contacts
 

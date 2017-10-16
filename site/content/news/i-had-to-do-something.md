@@ -17,10 +17,10 @@ tags:
     - Hurricane
     - 'Hurricane Irma'
     - Manatee
-updated: 'September 14th, 2017'
+updated: 'October 13th, 2017'
 ---
 
-{{< youtube zsMaPMXRb24 >}}
+{{< youtube id="zsMaPMXRb24" title="Watch as local citizens rescue a stranded manatee" >}}
 
 He was sick of watching the televised radar images, that big red storm heading steadily his way.
  
