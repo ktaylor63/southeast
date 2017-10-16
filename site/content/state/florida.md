@@ -35,7 +35,7 @@ The U.S. Fish and Wildlife Service is responsible for managing the nation's trus
 {{< scroller-list tag="Florida" number="10" section="wildlife" >}}
 
 ## Map of Offices
-<iframe src="/map/?search=Florida" class="state-map"></iframe>
+<iframe src="/map/?search=Florida" class="state-map" title="List of offices in the Southeast Region of the U.S. Fish and Wildlife Service"></iframe>
 
 ## Frequently Asked Questions
 

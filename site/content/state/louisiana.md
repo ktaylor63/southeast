@@ -20,7 +20,7 @@ updated: 'July 25th, 2017'
 {{< scroller-list tag="Louisiana" number="10" section="wildlife" >}}
 
 ## Map of Offices
-<iframe src="/map/?search=Louisiana" class="state-map"></iframe>
+<iframe src="/map/?search=Louisiana" class="state-map" title="List of offices in the Southeast Region of the U.S. Fish and Wildlife Service"></iframe>
 
 ## Ecological Services Field Office
 

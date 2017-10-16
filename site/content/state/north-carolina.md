@@ -21,7 +21,7 @@ updated: 'August 31st, 2017'
 {{< scroller-list tag="North Carolina" number="10" section="wildlife" >}}
 
 ## Map of Offices
-<iframe src="/map/?search=North+Carolina" class="state-map"></iframe>
+<iframe src="/map/?search=North+Carolina" class="state-map" title="List of offices in the Southeast Region of the U.S. Fish and Wildlife Service"></iframe>
 
 ## Frequently Asked Questions
 

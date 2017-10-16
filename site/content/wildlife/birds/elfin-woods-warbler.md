@@ -24,7 +24,7 @@ tags:
     - Recovery
     - Reinita
     - 'Reinita De Bosque Enano'
-updated: 'May 1st, 2017'
+updated: 'October 13th, 2017'
 ---
 
 - **Taxon**: Bird
@@ -33,7 +33,7 @@ updated: 'May 1st, 2017'
 
 The elfin-woods warbler is one of over 120 species of New World warblers, or wood-warblers, found only in Puerto Rico. It was discovered in 1968 and has been a candidate for Endangered Species Act  (ESA) listing  since 1999, which means listing was warranted but precluded by higher priority listing actions for other species.  In 2016, the elfin-woods warbler was listed as threatened under the ESA with a Section 4(d) rule providing exemptions for certain agriculture and forestry activities that may benefit the species.
 
-{{< youtube qK9zckkv25w >}}
+{{< youtube id="qK9zckkv25w" title="Learn more about the elfin-woods warbler" >}}
 
 {{< scroller-list tag="Elfin-Woods Warbler" section="news" >}}
 

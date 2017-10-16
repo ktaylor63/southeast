@@ -29,4 +29,4 @@ Locations throughout the state are crucial for ducks and other migrating waterfo
 {{< scroller-list tag="Arkansas" number="10" section="wildlife" >}}
 
 ## Map of Offices
-<iframe src="/map/?search=Arkansas" class="state-map"></iframe>
+<iframe src="/map/?search=Arkansas" class="state-map" title="List of offices in the Southeast Region of the U.S. Fish and Wildlife Service"></iframe>

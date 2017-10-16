@@ -21,7 +21,7 @@ hero:
     caption: 'A Carolina northern flying squirrel in the hands of a biologist. Photo by Gary Peeples, USFWS.'
     link: 'https://flic.kr/p/cE8uD7'
     position: 'top center'
-updated: 'May 12th, 2017'
+updated: 'October 13th, 2017'
 ---
 
 - **Taxa:** Mammal
@@ -42,8 +42,7 @@ Northern flying squirrels are about one-third larger than the very common southe
 ## Habitat
 Northern flying squirrels are typically found in high elevation mixed red spruce-northern hardwood and spruce-fir forests. These habitats are often moist and cool.  Southern flying squirrels are most often found in the warmer and drier hardwood and mixed pine-hardwood forests of low and mid elevations.
 
-### Related Video: [Restoring Red Spruce in the Southern Appalachians](https://youtu.be/fhvVonNUex4?list=PL5225C01A38A652EA)
-{{< youtube fhvVonNUex4 >}}
+{{< youtube id="fhvVonNUex4" title="Restoring red spruce in the Southern Appalachians" >}}
 
 ## Diet
 Northern flying squirrels principally feed on certain fungi and lichens, though they also eat fruits, seeds, insects, and some animal matter.
