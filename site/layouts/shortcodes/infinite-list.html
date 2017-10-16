@@ -21,7 +21,7 @@
     <header class='infinite-list--header'>
       <div class='infinite-list--img-date'>
         {{ if $element.Params.hero.name }}
-        <img {{ if lt $index $lazyLoadLimit }}src{{ else }}data-src{{ end }}='{{ $.Site.BaseURL }}images/hero/small/{{ $element.Params.hero.name }}' alt='{{ $element.Params.hero.alt }}'/>
+        <img {{ if lt $index $lazyLoadLimit }}src{{ else }}src="/images/svg/picture.svg" data-src{{ end }}='{{ $.Site.BaseURL }}images/hero/small/{{ $element.Params.hero.name }}' alt='{{ $element.Params.hero.alt }}'/>
         {{ end }}
         {{ if not $element.Date.IsZero }}
         <span class="infinite-list--date">{{ $element.Date.Format "Jan 2, 2006"}}{{ if gt $element.ReadingTime 0 }} | {{ $element.ReadingTime }} minute read{{ end }}</span>
