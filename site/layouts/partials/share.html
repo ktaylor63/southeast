@@ -1,7 +1,7 @@
-<aside class="share-drawer share-left" aria-label="Share dialog">
+<section class="share-drawer share-left" aria-labelledby="share-this-page">
   <button class="close-drawer">Close</button>
   <div>
-    <h2>Share This Page</h2>
+    <h2 id="share-this-page">Share This Page</h2>
 
     <label>Search:
       <input type="text" value="{{ .Permalink }}">
@@ -17,4 +17,4 @@
 
     {{ partial "social-links.html" . }}
   </div>
-</aside>
+</section>
