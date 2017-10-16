@@ -2,7 +2,7 @@
 {{ if .IsNamedParams }}
 <div {{ if .Get "class" }}class="{{ .Get "class" }}"{{ else }}style="position: relative; padding-bottom: 56.25%; overflow: hidden;"{{ end }}>
   <iframe src="//www.youtube.com/embed/{{ .Get "id" }}?{{ with .Get "autoplay" }}{{ if eq . "true" }}autoplay=1{{ end }}{{ end }}"
-  {{ if not (.Get "class") }}style="position: absolute; width: 100%; height: 100%;" {{ end }}allowfullscreen frameborder="0"></iframe>
+  {{ if not (.Get "class") }}style="position: absolute; width: 100%; height: 100%;" {{ end }}allowfullscreen frameborder="0" {{ if .Get "title" }}title="{{ .Get "title" }}"{{ end }}></iframe>
 </div>
 {{ else }}
 <div {{ if len .Params | eq 2 }}class="{{ .Get 1 }}"{{ else }}style="position: relative; padding-bottom: 56.25%; overflow: hidden;"{{ end }}>
