@@ -3,6 +3,7 @@
   bottom: 0;
   border-bottom-right-radius: $border-radius;
   border-bottom-left-radius: $border-radius;
+  display: none;
   overflow-y: scroll;
   padding: 2em 1em;
   position: fixed;
@@ -12,6 +13,7 @@
 
   &.active {
     @include shadow(3);
+    display: block;
     max-width: $drawer-width;
   }
 
