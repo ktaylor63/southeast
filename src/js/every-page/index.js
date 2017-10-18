@@ -116,6 +116,7 @@ xhr.get(`${dataURL}/data/terms.js`, (err, res, body) => {
   anchors.forEach(anchor => {
     if (anchor.href.indexOf(document.body.getAttribute('data-root')) === -1) {
       anchor.setAttribute('target', '_blank');
+      anchor.setAttribute('rel', 'noopener');
     }
   });
 });
