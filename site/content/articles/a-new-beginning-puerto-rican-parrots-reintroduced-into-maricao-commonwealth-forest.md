@@ -15,7 +15,7 @@ hero:
     caption: 'When in flight, some of the PR Parrots show their beautiful blue primary feathers. En español: Algunas cotorras muestran sus bellas plumas primarias azules al volar. Bosque del Estado, Maricao, Puerto Rico. Photo by Jan Paul Zegarra, Biologist, USFWS'
 author: 'Lilibeth Serrano, Public Affairs Specialist'
 date: '2016-11-30'
-updated: 'August 28th, 2017'
+updated: 'October 16th, 2017'
 ---
 
 Dawn breaks at the west-central mountain region (Cordillera Central) of the tropical island of Puerto Rico. The night dew clings to every surface on the forest floor and makes fern leaves glimmer. At the Maricao Commonwealth Forest, about 1,300 feet above sea level, tropical birds call to one another announcing a new day. Today marks a new beginning for a returning resident of the forest, the Puerto Rican parrot.
@@ -26,8 +26,7 @@ Why so much interest? The Puerto Rican parrot is an endemic species of Puerto Ri
 
 Finally, the gates gently swing open, and the Puerto Rican parrots are set free. For a few seconds, everyone watching is enthralled as the parrots’ instincts take over and the birds spread their wings and fly away. Other wild birds here have been expecting this moment too, as they have witnessed this flock’s preparation; parrots perched and flying for over a year inside the towering cage. A confined existence wild animals most likely find intolerable was a necessary transition for the parrots to acclimate and develop fidelity to the release site. These released parrots were born and cared for at other locations. The parrots were transferred from the José L. Vivaldi Aviary located at Rio Abajo Commonwealth Forest and the Iguaca Aviary located at El Yunque National Forest (see figure 1); two facilities exclusively dedicated to captive breeding and veterinary care for Puerto Rican parrots.
 
-
-{{< figure class="photo-center" src="/images/pages/puerto-rican-parrot-distribution.jpg" alt="A map of the three forests supporting Puerto Rican parrots." caption="The three sites that support Puerto Rican parrots: (1) El Yunque National Forest, (2)	Rio Abajo Commonwealth Forest, (3)	Maricao Commonwealth Forest." >}}
+{{< figure class="photo-center" src="/images/pages/puerto-rican-parrot-distribution.jpg" alt="A map of the three forests supporting Puerto Rican parrots." caption="The three sites that support Puerto Rican parrots: (1) El Yunque National Forest, (2)	Rio Abajo Commonwealth Forest, (3)	Maricao Commonwealth Forest.">}}
 
 Monitoring the parrots’ dispersal, survival rate, and habitat use will be a priority for the coming weeks. The parrots are fitted with radio-collared transmitters. Four people embedded throughout the forest will track the parrot’s signal for the next year. In anticipation, an old trail system was rehabilitated to allow biologists access to secluded areas.
 
@@ -41,6 +40,6 @@ We encourage visitors and residents within the municipalities adjacent to the fo
 
 Be prepared to provide the following information:
 
- - Town and location where the individual was observed
- - How many individuals were observed
- - General condition and behavior.
+  - Town and location where the individual was observed
+  - How many individuals were observed
+  - General condition and behavior.
