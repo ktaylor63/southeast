@@ -15,7 +15,7 @@ tags:
 updated: 'September 12th, 2017'
 ---
 
-Occasionally, federal agencies must respond to emergency situations where human life and property are in danger.  Examples include oil spills, wildland fire, and hurricanes such as Hurricane Harvey and Irma.  The Endangered Species Act (ESA) and its implementing regulations recognize the need to respond immediately to emergencies and provide special procedures that allow federal agencies the latitude to complete their emergency responses in order to secure human life and property without delay, while still providing them with protections that normal compliance under the ESA would have afforded them.
+Occasionally, federal agencies must respond to emergency situations where human life and property are in danger.  Examples include oil spills, wildland fire, and weather events such as Hurricane Harvey, Irma, and Maria.  The Endangered Species Act (ESA) and its implementing regulations recognize the need to respond immediately to emergencies and provide special procedures that allow federal agencies the latitude to complete their emergency responses in order to secure human life and property without delay, while still providing them with protections that normal compliance under the ESA would have afforded them.
 
 It is the U.S. Fish and Wildlife Service’s policy to assist federal agencies with their  ESA compliance issues during an emergency response, but to never delay the necessary response to secure human life and property.
 
@@ -38,6 +38,7 @@ The links below are provided to assist you in understanding emergency provisions
   - [Bartram’s scrub-hairstreak and Florida leafwing hurricane response best management practices](/pdf/best-management-practice/bartrams-scrub-and-florida-leafwing-hurricane-response.pdf)
   - [Key deer hurricane response](/pdf/best-management-practice/key-deer-hurricane-response.pdf)
   - [Stock Island tree snail hurricane response](/pdf/best-management-practice/stock-island-tree-snail-hurricane-response.pdf)
+  - [BMPs for Emergency Road Work in Puerto Rico](/pdf/guidelines/puerto-rico-emergency-road-repair.pdf)
 
 ### Fire response
 
@@ -50,6 +51,7 @@ The links below are provided to assist you in understanding emergency provisions
   - [Spill Responses - A Selection Guide for Oil Spill Applied Technologies](/pdf/guidelines/selection-guide-oil-spill-applied-technologies-volume-I.pdf)
   - [Regional Consultation Pre-authorizing of Solidifier Use in the northeast Gulf of Mexico](/pdf/guidelines/solidifiers.pdf)
   - [Deepwater Horizon Oil Spill best management practices](/pdf/best-management-practice/deepwater-horizon-appendix-e.pdf)
+  - [NOAA Environmental Sensitivity Index (ESI) Maps](https://response.restoration.noaa.gov/esi)
 
 ## Contact
 
