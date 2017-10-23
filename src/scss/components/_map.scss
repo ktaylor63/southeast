@@ -1,3 +1,8 @@
+#map:focus {
+  outline-color: rgb(59, 153, 252);
+  outline-width: 5px;
+}
+
 .full-width-map {
   height: 70vh;
 }
@@ -9,7 +14,7 @@
 .leaflet-popup-content h3 {
   font-size: 18px !important;
   line-height: 22px !important;
-  margin: 0 0 .5em;
+  margin: 0 0 0.5em;
 }
 
 .leaflet-popup-content img {
@@ -21,9 +26,11 @@
   font-weight: bold;
   width: 100px;
   text-align: center;
-  text-shadow:
-    -1px -1px 0 #000,
-    1px -1px 0 #000,
-    -1px 1px 0 #000,
-    1px 1px 0 #000;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
+
+.leaflet-control-attribution {
+  a {
+    text-decoration: underline;
+  }
 }
