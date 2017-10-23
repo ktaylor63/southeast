@@ -64,7 +64,7 @@ The elfin-woods warbler forages for insects at heights between 10 and 50 feet; i
 
 When the species was discovered in 1968, the elfin-woods warbler was thought to occur only in the Luquillo Mountains at El Yunque National Forest in eastern Puerto Rico.  During the early 1970s the warbler was reported in the Maricao Commonwealth Forest in western Puerto Rico, Toro Negro Commonwealth Forest in the central mountain range of the Island, and in the Carite Commonwealth Forest in east-central Puerto Rico. Only one record of the elfin-woods warbler exists for the Toro Negro Commonwealth Forest, and more than 15 years have passed since the warbler was seen in the Carite Commonwealth Forest.
 
-{{< figure class="photo-center" src="/images/pages/elfin-woods-warbler-historic-range.jpg" alt="A map showing the historic range of the elfin woods warbler in two public lands on either side of the island." caption="Historic range of elfin-woods warbler. Map by Roy Hewitt, USFWS." link="https://flic.kr/p/U2wBCU" >}}
+{{< figure class="photo-center" src="/images/pages/elfin-woods-warbler-historic-range.jpg" alt="A map showing the historic range of the elfin woods warbler in two public lands on either side of the island." caption="Historic range of elfin-woods warbler. Map by Roy Hewitt, USFWS." link="https://flic.kr/p/TFwGCG" >}}
 
 ## Current Range
 
