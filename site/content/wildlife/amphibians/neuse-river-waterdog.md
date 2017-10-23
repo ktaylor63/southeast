@@ -112,5 +112,5 @@ The North Carolina Department of Environmental Quality has special nutrient mana
 
 ## Useful Resources
 
-- [Partners in Amphibian and Reptile Conservation (PARC)](http://www.ncparc.org/WG-EO/NCWRC%20species%20profiles/Amphibians/waterdogneuse.pdf)
+- [Partners in Amphibian and Reptile Conservation (PARC)](http://ncparc.org/parcas-priority-amphibian-and-reptile-conservation-areas/)
 - [Photos on Flickr](https://www.flickr.com/photos/usfwssoutheast/sets/72157680894663622/)
