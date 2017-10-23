@@ -153,7 +153,7 @@ number,status,fed_register
 40178B-0,Issued,Noticed for 30 days
 061005-3,Issued,Noticed for 30 days
 40367B-0,Issued,N/A
-056510-5,In FO for Review,Noticed for 30 days
+056510-5,Issued,Noticed for 30 days
 41750B-0,Issued,N/A
 41707B-0,Issued,N/A
 41705B-0,No permit needed,Noticed for 30 days
@@ -351,7 +351,7 @@ number,status,fed_register
 91704B-0,No permit needed,N/A
 079883-4,Issued,Noticed for 30 days
 075925-3,Withdrawn,N/A
-91733B-0,Awaiting signature,Noticed for 30 days
+91733B-0,Issued,Noticed for 30 days
 807672-17,Issued,N/A
 63633A-4,Issued,Noticed for 30 days
 810274-12,Issued,Noticed for 30 days
@@ -388,7 +388,7 @@ number,status,fed_register
 220923-1,In FO for Review,N/A
 02165C-0,Issued,Noticed for 30 days
 02166C-0,Issued,Noticed for 30 days
-02167C-0,Awaiting Input from Applicant,Noticed for 30 days
+02167C-0,Issued,Noticed for 30 days
 03427C-0,Issued,N/A
 06337C-0,Issued,Noticed for 30 days
 06338C-0,Issued,Noticed for 30 days
@@ -526,26 +526,30 @@ number,status,fed_register
 49960C-0,Issued,N/A
 49964C-0,Awaiting signature,N/A
 50673C-0,Awaiting Input from Applicant,N/A
-50676C-0,In RO for Review,N/A
+50676C-0,Issued,N/A
 132409-2,In RO for Review,on current draft
 56430B-2,In RO for Review,on current draft
 53970C-0,Issued,N/A
 53971C-0,Issued,N/A
 14105A-2,In RO for Review,on current draft
-55831C-0,In RO for Review,N/A
+55831C-0,Issued,N/A
 139474-9,In FO for Review,N/A
-55883C-0,In RO for Review,N/A
+55883C-0,Awaiting signature,N/A
 065972-2,In RO for Review,needs to be drafted
 56827C-0,In RO for Review,on current draft
 084047-4,In FO for Review,N/A
-57020C-0,In RO for Review,N/A
+57020C-0,Awaiting Input from Applicant,N/A
 57118C-0,In RO for Review,N/A
 57120C-0,In RO for Review,N/A
 57122C-0,Issued,N/A
 171488-4,No permit needed,N/A
-57754C-0,In RO for Review,N/A
+57754C-0,Issued,N/A
 121400-6,In RO for Review,needs to be drafted
 22311A-1,In RO for Review,needs to be drafted
 57873C-0,In RO for Review,needs to be drafted
 57902C-0,In RO for Review,N/A
 102292-13,In RO for Review,needs to be drafted
+58848C-0,In RO for Review,N/A
+59010C-0,In RO for Review,N/A
+066980-5,In RO for Review,needs to be drafted
+56749B-2,In RO for Review,needs to be drafted
