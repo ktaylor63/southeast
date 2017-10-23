@@ -40,7 +40,7 @@
   "license": "SAX-PD",
   "devDependencies": {
     "async": "^2.5.0",
-    "autoprefixer": "^7.1.5",
+    "autoprefixer": "^7.1.6",
     "browser-sync": "^2.18.13",
     "browserify": "^14.4.0",
     "chai": "^4.0.2",
@@ -85,6 +85,7 @@
     "yamljs": "^0.2.10"
   },
   "dependencies": {
+    "gray-matter": "^3.1.0",
     "replace-in-file": "^2.5.4"
   },
   "repository": {
