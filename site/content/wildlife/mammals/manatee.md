@@ -246,7 +246,7 @@ In 2008, the Service was petitioned to revise critical habitat for this species.
  - November 1, 2002 [Service Finalizes Designation of manatee protection areas in eight Florida counties](http://www.fws.gov/northflorida/Releases-02/011-02-Final-MPA-design-110102.htm)
  - September 16, 2002 [Service extends emergency manatee protection to seven areas in three Florida counties](http://www.fws.gov/northflorida/Releases-02/010-02-mpa-emergency-design-092002.htm)
  - July 31, 2002 [USFWS issues statement on today's U.S. District Court manatee settlement ruling](http://www.fws.gov/northflorida/Releases-02/008-02-court-ruling-statement-073102.htm)
- - July 2, 2002 [USFWS Law Enforcement focuses manatee protection area enforcement in Brevard County this weekend](http://www.fws.gov/northflorida/Releases-02/006-02-le-federal-activity-Sarasota.htm)
+ - July 2, 2002 [USFWS Law Enforcement focuses manatee protection area enforcement in Brevard County this summer weekend](http://www.fws.gov/northflorida/Releases-02/006-02-le-federal-activity-Sarasota.htm)
  - June 14, 2002 [USFWS Law Enforcement focuses manatee protection area enforcement in Sarasota County next weekend](http://www.fws.gov/northflorida/Releases-02/006-02-le-federal-activity-Sarasota.htm)
  - June 10, 2002 [USFWS Seeking Public Input on a Process to Conserve Florida Manatees](http://www.fws.gov/northflorida/Releases-02/005-02-NOI-draft-mmpa-EIS.htm)
  - May 8, 2002 [Enforcement of federal manatee protection areas in Brevard County to go into effect soon](http://www.fws.gov/northflorida/Releases-02/004-02-le-federal-mpa-brevard.htm)
@@ -278,7 +278,6 @@ In 2008, the Service was petitioned to revise critical habitat for this species.
 - [U.S. Fish and Wildlife Service, Caribbean Ecological Services Field Office](http://www.fws.gov/caribbean/es/)
 - [United Nations Environmental Programme](http://www.cep.unep.org/meetings-events/regional-workshop-gis-marine-mammals/regional-management-plan-for-the-west-indian.pdf/view)
 - [Belize Department of the Environment Ministry of Forestry, Fisheries and Sustainable Development](http://www.doe.gov.bz/)
-- [Sea to Shore Alliance](http://sea2shore.org/)
 - [Sirenian International](http://www.sirenian.org/)
 
 ## Federal Register Documents
