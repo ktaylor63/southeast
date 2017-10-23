@@ -12,7 +12,7 @@ tags:
 updated: 'October 3rd, 2016'
 ---
 
-NASHVILLE, TN - The Tennessee Wildlife Resources Agency (TWRA) has received confirmation that two bats have tested positive for White Nose Syndrome (WNS), a white fungus that is responsible for the deaths of thousands of bats in the Eastern United States.
+**Nashville, Tennessee** - The Tennessee Wildlife Resources Agency (TWRA) has received confirmation that two bats have tested positive for White Nose Syndrome (WNS), a white fungus that is responsible for the deaths of thousands of bats in the Eastern United States.
 
 This is the first record of White Nose Syndrome in Tennessee. The bats were hibernating in Worley’s cave in Sullivan County. Three tri-colored bats were collected by the TWRA and submitted to the National Wildlife Health Center (NWHC) in Madison, Wis. for testing last week.
 
@@ -34,11 +34,7 @@ The disease causes bats to use up their fat reserves rapidly during hibernation.
 
 State and federal agency biologists and non-governmental organizations are currently surveying caves in east Tennessee and other portions of the state. These surveys are being conducted as annual bat population surveys and to monitor for WNS.
 
-Links to more information: [http://www.fws.gov/northeast/white_nose.html](http://www.fws.gov/northeast/white_nose.html)
-
-Podcast available at [http://www.fws.gov/southeast/http://www.fws.gov/southwest/video/](http://www.fws.gov/southeast/video)
-
-Photo available at [Newsroom">http://news.tennesseeanytime.org/node/4596](http://news.tennesseeanytime.org/node/4596&linkname=Tennessee.gov). This is one of two two-colored bats collected last week showing signs of White Nose Syndrome. Photo by Sterling Daniels, TWRA.
+Links to more information: [fws.gov/northeast/white_nose.html](https://www.fws.gov/northeast/white_nose.html)
 
 ## Contact
 

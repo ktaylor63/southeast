@@ -54,7 +54,7 @@ For every dollar spent on Federal Duck Stamps, ninety-eight cents goes directly 
 
 The U.S. Fish and Wildlife Service will host the First Day of Sale for the 2010-2011 Federal Duck Stamp and Junior Duck Stamp on June 25, 2010, at the Bass Pro Shops Outdoor World retail store at the Arundel Mills Mall in Hanover, Maryland. Doors will open at 9:00 a.m., and the ceremony will begin at 10:00 a.m. The event is free and open to the public.  
 
-More information about the approved NAWCA grant programs and projects is available on the Web at: [http://www.fws.gov/birdhabitat/Grants/NAWCA/index.shtm](http://www.fws.gov/birdhabitat/Grants/NAWCA/index.shtm).
+More information about the approved NAWCA grant programs and projects is available on the Web at: [fws.gov/birds/grants/north-american-wetland-conservation-act.php](https://www.fws.gov/birds/grants/north-american-wetland-conservation-act.php).
 
 ## Contact
 

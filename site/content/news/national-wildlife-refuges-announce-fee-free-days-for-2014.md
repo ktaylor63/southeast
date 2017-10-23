@@ -29,7 +29,7 @@ National wildlife refuges also help support local communities, pumping $2.4 bill
 
 Of the nation’s 562 national wildlife refuges, 460 are open to the public. Of those, only 35 refuges charge an entrance fee, generally ranging from $3 to $5\. Admission to the others is free. The entrance fee waiver does not cover concessionaire or license fees for some activities such as hunting, fishing or special tours.  
 
-Other federal land management agencies that will offer fee-free days in 2014 are: the [National Park Service](http://www.nps.gov/), the [Bureau of Land Management](http://www.blm.gov/), the [Bureau of Reclamation](http://www.usbr.gov), the [U.S. Forest Service](http://www.fs.fed.us) and the [Army Corps of Engineers](http://www.usace.army.mil). Please contact each for details.  
+Other federal land management agencies that will offer fee-free days in 2014 are: the [National Park Service](http://www.nps.gov/), the [Bureau of Land Management](https://www.blm.gov/), the [Bureau of Reclamation](http://www.usbr.gov), the [U.S. Forest Service](http://www.fs.fed.us) and the [Army Corps of Engineers](http://www.usace.army.mil). Please contact each for details.  
 
 The U.S. Fish and Wildlife Service, the National Park Service, the Bureau of Land Management, the Bureau of Reclamation and the U.S. Forest Service also participate in the America the Beautiful National Parks Pass and Federal Recreational Lands Pass programs. These passes provide access to more than 2,000 national parks, forests, wildlife refuges, grasslands and other federal lands.  
 

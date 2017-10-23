@@ -24,7 +24,7 @@ In the Southeast, projects in Arkansas, Louisiana, Tennessee, North Carolina, an
 
 Nationally, of the total funds approved by the commission, $24.6 million will be provided through North American Wetlands Conservation Act grants to conserve more than 127,000 acres of wetlands and adjoining areas in 16 states. Eight of the 24 grants will target species or areas affected by the Deepwater Horizon oil spill in the Gulf of Mexico.
 
-Grants made through this program require matching investments; the projects approved today will leverage an additional $54.4 million in non-federal matching funds. More information about these grant projects is available at: http://www.fws.gov/birdhabitat/Grants/NAWCA/index.shtm
+Grants made through this program require matching investments; the projects approved today will leverage an additional $54.4 million in non-federal matching funds. More information about these grant projects is available at: [https://www.fws.gov/birds/grants/north-american-wetland-conservation-act.php](https://www.fws.gov/birds/grants/north-american-wetland-conservation-act.php).
 
 “Many people don’t realize how important swamps, bogs, marshes and other wetlands are to maintaining the populations of birds we see flying overhead and visiting our backyards,” said Service Director Dan Ashe. “These habitats play a crucial role in breeding, migration and other parts of migratory bird life cycles.”
 

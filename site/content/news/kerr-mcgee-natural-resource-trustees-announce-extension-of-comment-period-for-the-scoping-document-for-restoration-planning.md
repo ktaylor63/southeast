@@ -17,7 +17,7 @@ Comments will be accepted through November 4, 2015.
 
 The scoping document details the environmental injuries from the wood treatment operation in Navassa, a small town in southeastern North Carolina. The scoping document also describes concepts for restoring the resources, criteria for identifying suitable restoration projects, and an explanation of the restoration planning process.
 
-The restoration scoping document, and information about the comment process, can be found at: [darrp.noaa.gov/hazardous-waste/kerr-mcgee-chemical-corp/scoping-document](http://darrp.noaa.gov/hazardous-waste/kerr-mcgee-chemical-corp/scoping-document).  
+The restoration scoping document, and information about the comment process, can be found at: [darrp.noaa.gov/hazardous-waste/kerr-mcgee-chemical-corp](https://darrp.noaa.gov/hazardous-waste/kerr-mcgee-chemical-corp).
 
 For questions or comments regarding the scoping document, contact Howard Schnabolk, NOAA Habitat Restoration Specialist, at [843-740-1328](tel:843-740-1328) or [kerrmcgee.restoration@noaa.gov](mailto:kerrmcgee.restoration@noaa.gov).
 

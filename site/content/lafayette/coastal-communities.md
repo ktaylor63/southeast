@@ -76,7 +76,7 @@ The Louisiana Ecological Services Office, in its [Strategic Habitat Conservation
   - Coordinate with the research community to assist in project development and evaluation.
   - Use the principles of adaptive management to assist in developing, evaluating, and managing coastal restoration projects.
 
-[Learn more about what the southeast region is doing in coastal communities.](https://www.fws.gov/our-services/coastal-conservation)
+[Learn more about what the southeast region is doing in coastal communities.](/our-services/coastal-conservation/).
 
 ## Completed CWPPRA projects 
 

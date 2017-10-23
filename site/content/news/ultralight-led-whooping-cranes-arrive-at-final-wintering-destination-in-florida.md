@@ -41,9 +41,9 @@ Whooping Crane Eastern Partnership founding members are the International Crane 
 
 Many other flyway states, provinces, private individuals and conservation groups have joined forces with and support WCEP by donating resources, funding and personnel. More than 60 percent of the project’s budget comes from private sources in the form of grants, public donations and corporate sponsors.
 
-To report whooping crane sightings, visit the WCEP whooping crane observation webpage at: [http://www.fws.gov/midwest/whoopingcrane/sightings/sightingform.cfm](http://www.fws.gov/midwest/whoopingcrane/sightings/sightingform.cfm).
+To report whooping crane sightings, visit the WCEP whooping crane observation webpage at: [fws.gov/midwest/whoopingcrane/sightings/sightingform.cfm](https://www.fws.gov/midwest/whoopingcrane/sightings/sightingform.cfm).
 
-For more information on the project and its partners, visit the WCEP website at: [http://www.bringbackthecranes.org](http://www.bringbackthecranes.org&linkname=Bring Back the Cranes).
+For more information on the project and its partners, visit the WCEP website at: [bringbackthecranes.org](https://www.bringbackthecranes.org/).
 
 ## Contact
 

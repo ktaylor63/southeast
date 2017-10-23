@@ -1,6 +1,6 @@
 ---
 title: 'Luring magnificent frigatebirds back to Key West National Wildlife Refuge'
-author: 'Trevor Watts, Florida Keys National Wildlife Refuge Complex'
+author: 'Trevor Watts, Florida Keys National Wildlife Refuges Complex'
 lat: 24.571408
 lng: -81.960818
 description: 'While thousands of non-breeding magnificent frigatebirds can be found across the coastlines of Florida and the Caribbean during many months of the year, there is now only one known breeding frigatebird colony in North America.'

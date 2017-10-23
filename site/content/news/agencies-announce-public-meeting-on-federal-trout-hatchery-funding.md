@@ -13,11 +13,11 @@ tags:
 updated: 'March 21st, 2017'
 ---
 
-**KNOXVILLE, TN** – Representatives from the Tennessee Valley Authority, the U.S. Fish & Wildlife Service, Tennessee Wildlife Resources Agency and Georgia Department of Natural Resources (the Agencies) will host a public meeting on Tuesday, May 27, 2014, to receive input on long-term funding recommendations under consideration by the Agencies that will continue popular trout stocking programs in reservoirs and tailwaters of certain TVA dams across the region.
+**Knoxville, Tennessee** – Representatives from the Tennessee Valley Authority, the U.S. Fish & Wildlife Service, Tennessee Wildlife Resources Agency and Georgia Department of Natural Resources (the Agencies) will host a public meeting on Tuesday, May 27, 2014, to receive input on long-term funding recommendations under consideration by the Agencies that will continue popular trout stocking programs in reservoirs and tailwaters of certain TVA dams across the region.
 
 The Agencies are seeking ideas and input from angling groups, local and regional businesses, tourism organizations and the local governments that realize the direct and indirect benefits of having fishable trout waters in their communities.
 
-The public meeting will run from 6:00 pm to 7:30 pm at TVA headquarters, 400 W. Summit Hill Dr., Knoxville, TN in the East Tower Library auditorium. The public can attend the meeting either in person or by webinar that you can sign up for at [http://www.tva.com/trout](http://www.tva.com/trout).   
+The public meeting will run from 6:00 pm to 7:30 pm at TVA headquarters, 400 W. Summit Hill Dr., Knoxville, TN in the East Tower Library auditorium. The public can attend the meeting either in person or by webinar.
 
 The session will include a brief presentation summarizing the issue and the Trout Hatchery Funding Stakeholder Working Group recommendations. Attendees can ask questions and provide comments on the recommendations. The meeting will be recorded and posted to the Agencies websites where additional comments may be posted via the internet.
 

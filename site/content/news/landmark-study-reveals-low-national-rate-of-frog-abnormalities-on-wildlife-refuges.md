@@ -35,7 +35,7 @@ Although this study was not designed to investigate the reasons behind amphibian
 
 The complete dataset from the study is being made available online at the [Dryad Digital Repository](http://doi.org/10.5061/dryad.dc25r) to facilitate future research to aid in the conservation of amphibians and their habitats. To view the journal article, please visit [http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0077467](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0077467).  
 
-For more information on this study, including images for use by media, visit [www.fws.gov/contaminants/Issues/Amphibians.cfm](http://www.fws.gov/contaminants/Issues/Amphibians.cfm).  
+[Download a report on the study](https://ecos.fws.gov/ServCat/DownloadFile/23083?Reference=24631).
 
 The Service would like to thank our co-authors from the University of Colorado – Boulder, University of California – Davis, and Indiana University School of Medicine for their outstanding contributions to this study.
 

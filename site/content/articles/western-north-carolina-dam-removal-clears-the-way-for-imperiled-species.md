@@ -33,9 +33,9 @@ To protect the endangered elktoe mussel during demolition, teams of biologists c
 
 Another short-term concern has been addressing the 100,000 cubic yards of sediment estimated to rest behind the dam. The Service tested the sediment, finding no contaminants of concern. 63,000 cubic yards of sediment were dredged and deposited at an upland site, with more to be removed during demolition. Most of the sediment not dredged will be stabilized in place on the newly exposed riverbanks, secured by landscaping using native plants. Some minor amounts sediment will be gradually released during demolition, eventually settling into the next reservoir downstream, one of the largest in North Carolina, where it will not have a noticeable impact.
 
-For photos and additional information, visit: [http://www.fws.gov/asheville/htmls/projectreview/DillsboroDam.html](http://www.fws.gov/asheville/htmls/projectreview/DillsboroDam.html)
+For photos and additional information, visit [our album on flickr](https://www.flickr.com/photos/usfwssoutheast/sets/72157629183708928/).
 
-**Contact:**
+## Contact
 
 Division of Public Affairs  
 External Affairs  

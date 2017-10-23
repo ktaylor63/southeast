@@ -31,7 +31,7 @@ The Service’s habitat restoration efforts will also support the Migratory Bird
 
 Through two components – one available on private agricultural lands and the second on Wetlands Reserve Program (WRP) easement lands -- NRCS will work in cooperation with private landowners and other partners to establish habitat and food sources as well as improve the overall habitat management on participating lands.
 
-More information about the NRCS Migratory Bird Habitat Initiative is at [http://www.nrcs.usda.gov/news/nrcs_migratory_birds.html](http://www.nrcs.usda.gov/news/nrcs_migratory_birds.html&linkname=NRCS Migratory Bird Habitat Initiative).
+Learn more about the [NRCS Migratory Bird Habitat Initiative](https://www.nrcs.usda.gov/wps/portal/nrcs/detailfull/national/programs/initiatives/?cid=steldevb1027669).
 
 ## Contact
 

@@ -27,7 +27,7 @@ updated: 'September 14th, 2017'
 
 Less than a year after surviving a rugged screwworm infestation, the Florida Keys’ Key deer now must contend with Hurricane Irma.  Some fans of the endangered species are worried.  
 
-Catastrophic storms like Irma raise questions about wildlife, nature and impacts to their populations.  At the U.S. Fish and Wildlife Service’s [Florida Keys National Wildlife Refuge Complex](https://www.fws.gov/refuge/National_Key_Deer_Refuge/About_the_Complex.html), there are nearly 25 threatened and endangered wildlife and plants.  
+Catastrophic storms like Irma raise questions about wildlife, nature and impacts to their populations.  At the U.S. Fish and Wildlife Service’s [Florida Keys National Wildlife Refuges Complex](https://www.fws.gov/refuge/National_Key_Deer_Refuge/About_the_Complex.html), there are nearly 25 threatened and endangered wildlife and plants.
 
 “When you know there are 130 mile-per-hour winds and 10 feet of storm surge shoving into the Keys, that’s big,” said Dan Clark, project leader for the complex. “Ten feet of storm surge would overwash Big Pine Key.  The good thing about this area is that the storm surge that comes in will likely go away pretty quickly for us.  There will be damage, but the water won’t persist.” 
 

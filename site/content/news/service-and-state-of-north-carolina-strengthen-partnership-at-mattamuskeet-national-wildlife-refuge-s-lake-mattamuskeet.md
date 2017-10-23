@@ -13,7 +13,7 @@ tags:
 updated: 'October 20th, 2016'
 ---
 
-**SWAN QUARTER, NC** – Tomorrow Cindy Dohner, Southeast Regional Director of the U.S. Fish and Wildlife Service and Gordon Myers, Executive Director of the N.C. Wildlife Resources Commission, will strengthen a joint commitment to the conservation of fish and wildlife and their habitats on Mattamuskeet National Wildlife Refuge and its centerpiece Lake Mattamuskeet in Hyde County, North Carolina. 
+**Swan Quarter, North Carolina** – Tomorrow Cindy Dohner, Southeast Regional Director of the U.S. Fish and Wildlife Service and Gordon Myers, Executive Director of the N.C. Wildlife Resources Commission, will strengthen a joint commitment to the conservation of fish and wildlife and their habitats on Mattamuskeet National Wildlife Refuge and its centerpiece Lake Mattamuskeet in Hyde County, North Carolina. 
 
 The two agencies will announce details of this commitment at 12:30 p.m. Saturday during [Swan Days](https://www.fws.gov/refuge/mattamuskeet/about/swan_days.html) at the Refuge.  It marks the latest action the two agencies have taken in the past 18 months to strengthen their conservation partnership.
 
@@ -25,7 +25,7 @@ This memorandum establishes a Mattamuskeet Collaboration Team.  This team will 
 
 “We are excited to formalize our longstanding partnership by establishing a shared management philosophy to address the conservation challenges facing both our agencies,” Myers said.
 
-The signing of the memorandum coincides with the Refuge’s 80<sup>th</sup> anniversary as well as [Swan Days](http://www.fws.gov/mattamuskeet/swandays), a weekend event of wildlife related activities and arts and crafts celebrating the return of tundra swans and other migratory wildlife to the area. More than 200,000 migrating and wintering waterfowl spend time at the Refuge, which is strategically located along the Atlantic Flyway. A diverse population of wildlife also inhabits the refuge, including deer, bobcat, gray fox, black bear, largemouth bass and other popular game fish, blue crab, American eel, 31 species of snakes and 240 resident and migratory birds.
+The signing of the memorandum coincides with the Refuge’s 80<sup>th</sup> anniversary as well as [Swan Days](https://www.fws.gov/refuge/mattamuskeet/about/swan_days.html), a weekend event of wildlife related activities and arts and crafts celebrating the return of tundra swans and other migratory wildlife to the area. More than 200,000 migrating and wintering waterfowl spend time at the Refuge, which is strategically located along the Atlantic Flyway. A diverse population of wildlife also inhabits the refuge, including deer, bobcat, gray fox, black bear, largemouth bass and other popular game fish, blue crab, American eel, 31 species of snakes and 240 resident and migratory birds.
 
 ## Contacts
 

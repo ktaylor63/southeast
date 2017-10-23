@@ -15,7 +15,7 @@ tags:
 updated: 'October 6th, 2016'
 ---
 
-The U.S. Fish and Wildlife Service announces it is conducting a five-year status review for the [roseate tern](http://ecos.fws.gov/speciesProfile/profile/speciesProfile.action'spcode=B07O) throughout the entire area where it is listed.
+The U.S. Fish and Wildlife Service announces it is conducting a five-year status review for the [roseate tern](https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B07O) throughout the entire area where it is listed.
 
 A prior notice, issued in 2008, indicated that the Service was only conducting a status review of the roseate tern’s northeastern population. However, the Service is actually reviewing the species’ status throughout its entire range. The roseate tern is currently listed as endangered in the United States along the Atlantic Coast south to North Carolina, and includes Canada (in Newfoundland, Nova Scotia, and Quebec) and Bermuda, as well. The roseate tern is listed as threatened in Florida, Puerto Rico, the U.S. Virgin Islands and adjacent oceans.
 
@@ -29,7 +29,7 @@ Written comments and information on the roseate tern where listed as threatened 
 
 Written comments and information on the roseate tern where listed as endangered may be e-mailed to [Michael_Amaral@fws.gov](mailto:Michael_Amaral@fws.gov), or sent via regular mail to Michael Amaral, New England Field Office, U.S. Fish and Wildlife Service, 70 Commercial Street, Suite 300, Concord, New Hampshire, 03301.
 
-The mission of the U.S. Fish and Wildlife Service is working with others to conserve, protect and enhance fish, wildlife, plants and their habitats for the continuing benefit of the American people. Please visit the Service’s websites at [http://www.fws.gov/">](http://www.fws.gov/), [http://www.fws.gov/southeast/](http://www.fws.gov/southeast/), or [http://www.fws.gov/northeast/ma/ro.html](http://www.fws.gov/northeast/ma/ro.html)
+The mission of the U.S. Fish and Wildlife Service is working with others to conserve, protect and enhance fish, wildlife, plants and their habitats for the continuing benefit of the American people. Please visit the Service’s websites at [fws.gov](https://www.fws.gov/), [fws.gov/southeast](https://www.fws.gov/southeast/), or [fws.gov/northeast/ma/ro.html](https://www.fws.gov/northeast/ma/ro.html)
 
 ## Contact
 

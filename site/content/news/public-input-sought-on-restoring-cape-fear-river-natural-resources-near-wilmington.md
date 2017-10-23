@@ -10,7 +10,7 @@ tags:
 updated: 'October 20th, 2016'
 ---
 
-**NAVASSA, NC** – State and federal agencies are seeking public participation to identify opportunities to restore natural resources damaged due to decades of contamination from a former wood treatment operation near Wilmington.
+**Navassa, North Carolina** – State and federal agencies are seeking public participation to identify opportunities to restore natural resources damaged due to decades of contamination from a former wood treatment operation near Wilmington.
 
 The agencies released a restoration scoping document today that details the environmental injuries from the wood treatment operation in Navassa, a small town in southeastern North Carolina. The scoping document describes concepts for restoring the resources, criteria for identifying suitable restoration projects, and an explanation of the restoration planning process.
 
@@ -24,7 +24,7 @@ Creosote was used to treat the wood and this practice released polycyclic aromat
 
 In January, a settlement was reached that provides the trustees with approximately $23 million to restore the natural resources harmed by the contamination at the site. This was part of one of the largest environmental settlements executed by the federal and state governments in U.S. history, resolving claims arising from the Comprehensive Environmental Response Compensation and Liability Act.
 
-The restoration scoping document, and information about the comment process, can be found at: [darrp.noaa.gov/hazardous-waste/kerr-mcgee-chemical-corp/scoping-document](http://darrp.noaa.gov/hazardous-waste/kerr-mcgee-chemical-corp/scoping-document). Comments will be accepted through September 4, 2015.
+The restoration scoping document, and information about the comment process, can be found at: [darrp.noaa.gov/hazardous-waste/kerr-mcgee-chemical-corp](https://darrp.noaa.gov/hazardous-waste/kerr-mcgee-chemical-corp). Comments will be accepted through September 4, 2015.
 
 For questions or comments regarding the scoping document, contact Howard Schnabolk, NOAA Habitat Restoration Specialist, at 843-740-1328 or kerrmcgee.restoration@noaa.gov.
 

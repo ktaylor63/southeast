@@ -30,7 +30,7 @@ Armies of police, fire, utility and emergency workers swarm the 120-mile long ch
 
 The refuge took a major blow from Irma with miles of trees downed or denuded, roads blocked, equipment trashed and numerous buildings and employees’ homes damaged. Recovery, though, has been swift as the 50-person response team hailing from all corners of the Southeast clears roads, inspects homes, cuts trees and supplies generators. 
 
-{{< figure class="photo-center" src="/images/pages/irma-keys-complex.jpg" alt="The sign at the refuge complex hangs perilously." caption="Florida Keys National Wildlife Refuge Complex after Hurricane Irma. Photo by Dan Chapman, USFWS." link="https://flic.kr/p/Xx9qgX" >}}
+{{< figure class="photo-center" src="/images/pages/irma-keys-complex.jpg" alt="The sign at the refuge complex hangs perilously." caption="Florida Keys National Wildlife Refuges Complex after Hurricane Irma. Photo by Dan Chapman, USFWS." link="https://flic.kr/p/Xx9qgX" >}}
 
 “It’s all gone very, very smoothly,” said Sami Gray, the incident commander in charge of the Service’s Florida recovery work. “You always encounter setbacks. Nothing ever works as planned, so you just deal with it.”
 

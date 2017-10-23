@@ -21,7 +21,7 @@ hero:
 updated: 'October 17th, 2017'
 ---
 
-**El Junque National Forest, Puerto Rico** – They’re old, parenthood behind them, but that hardly means the two senior citizens serve no purpose. 
+**El Yunque National Forest, Puerto Rico** – They’re old, parenthood behind them, but that hardly means the two senior citizens serve no purpose. 
 
 They like to talk. Others, sometimes, show up to listen.
 

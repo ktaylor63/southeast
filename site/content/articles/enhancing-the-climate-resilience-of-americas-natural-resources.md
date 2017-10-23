@@ -1,6 +1,6 @@
 ---
 title: 'Enhancing the climate resilience of America’s natural resources'
-author: 'By Todd Hopkins, Ph.D., Peninsular Florida Landscape Conservation Cooperative'
+author: 'Todd Hopkins, Ph.D., Peninsular Florida Landscape Conservation Cooperative'
 date: '2017-05-03'
 type: 'Bragging Rights'
 tags:

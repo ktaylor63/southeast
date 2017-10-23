@@ -1,6 +1,6 @@
 ---
 title: 'Fifth annual Wilderness Day Camp'
-author: 'Andrew Currie Dale Hollow National Fish Hatchery'
+author: 'Andrew Currie, Dale Hollow National Fish Hatchery'
 date: '2017-07-31'
 hero:
     name: dale-hollow-wilderness-day-camp.jpg

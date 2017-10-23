@@ -16,7 +16,7 @@ tags:
     - 'Prescribed Fire'
     - 'Red-Cockaded Woodpecker'
 date: '2014-03-21'
-author: 'Josh OConnor, regional fuels specialist'
+author: 'Josh O’Connor, regional fuels specialist'
 updated: 'October 13th, 2017'
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 'Do me a FAVOR: friends and volunteers of the refuges are critical link in wildlife conservation'
-subtitle: 'Sent on behalf of US Fish and Wildlife Service’s Florida Keys National Wildlife Refuge Complex and their Friends group FAVOR'
+subtitle: 'Sent on behalf of US Fish and Wildlife Service’s Florida Keys National Wildlife Refuges Complex and their Friends group FAVOR'
 date: '2016-02-18'
 hero:
     name: great-white-hero-nwr-outdoor-fest.jpg

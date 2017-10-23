@@ -5,7 +5,7 @@ hero:
     name: bay-skipper.jpg
     alt: 'An orange and brown butterfly specimen.'
     link: 'https://www.forestryimages.org/browse/detail.cfm?imgnum=2191055'
-    caption: 'Female bay skipper. Photo by Charles T. and John R. Bryson <a href=\"http://creativecommons.org/licenses/by/3.0/us/deed.en\">CC BY 3.0 us</a>, <a href=\"https://www.forestryimages.org/browse/detail.cfm?imgnum=2191055\">via Wikimedia Commons</a>.'
+    caption: 'Female bay skipper. Photo by Charles T. and John R. Bryson <a href="http://creativecommons.org/licenses/by/3.0/us/deed.en">CC BY 3.0 us</a>, <a href="https://www.forestryimages.org/browse/detail.cfm?imgnum=2191055">via Wikimedia Commons</a>.'
 tags:
     - 'Bay skipper'
     - Mississippi

@@ -28,7 +28,7 @@ Pelican National Wildlife Refuge was the nation’s first wildlife refuge, estab
 
 The birds will be released by Dr. Sharon K. Taylor, a veterinarian and the Service’s Environmental Contaminants division chief.
 
-Directions to the refuge are available at: [http://www.fws.gov/pelicanisland/visiting/directions.html](http://www.fws.gov/pelicanisland/visiting/directions.html)
+[Download directions to the refuge](https://www.fws.gov/refuge/Pelican_Island/visit/plan_your_visit.html)
 
 ## Contact
 
