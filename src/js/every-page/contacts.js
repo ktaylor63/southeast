@@ -1,7 +1,5 @@
 const xhr = require('xhr');
 
-const template = require('./contact.pug');
-
 const input = document.querySelector('.contact-list-search');
 const output = document.querySelector('.contact-list');
 
@@ -16,6 +14,12 @@ function insert(str, index, value) {
   return str.substr(0, index) + value + str.substr(index);
 }
 
+function sortByStation(a, b) {
+  if (a.station.toLowerCase() > b.station.toLowerCase()) return 1;
+  if (a.station.toLowerCase() < b.station.toLowerCase()) return -1;
+  return 0;
+}
+
 function normalizePhoneNumber(number) {
   let phone = number.replace(/\D/g, '');
   // This pauses for a second to dial an extension
@@ -23,15 +27,38 @@ function normalizePhoneNumber(number) {
   return `tel:+1${phone}`;
 }
 
-function sortByStation(a, b) {
-  if (a.station.toLowerCase() > b.station.toLowerCase()) return 1;
-  if (a.station.toLowerCase() < b.station.toLowerCase()) return -1;
-  return 0;
+function createContact(person, email, name, phone) {
+  const telephone = phone === 'tel+1' ? person.phone : `<a href="${phone}">${person.phone}</a>`;
+  return `
+    <li class="card card-text-small">
+      <ul>
+        <li><a href="${email}">${name}</a> ${person.title}</li>
+        <li>${person.station}, ${person.state}</li>
+        <li>${telephone}</li>
+      </ul>
+    </li>
+  `;
+}
+
+function template(persons) {
+  console.log(persons);
+  return `
+    <ul class="card-list contact-list">
+    ${persons
+    .map(person => {
+      const email = `mailto:${person.email}`;
+      const phone = normalizePhoneNumber(person.phone);
+      const name = person.name ? person.name : person.station;
+      return createContact(person, email, name, phone);
+    })
+    .join('')}
+    </ul>
+  `;
 }
 
 function render(theContacts) {
   const sortedContacts = theContacts.slice(0).sort(sortByStation);
-  output.innerHTML = template({ contacts: sortedContacts, getPhone: normalizePhoneNumber });
+  output.innerHTML = template(sortedContacts);
 }
 
 function search(e) {
