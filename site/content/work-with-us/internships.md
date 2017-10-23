@@ -20,7 +20,7 @@ The U.S. Fish and Wildlife Service offers a large variety of internship opportun
 
 ### Career Discovery Internship Program (CDIP)
 
-This partnership with the Student Conservation Association is designed to introduce culturally and ethnically diverse college freshman and sophomores from all over the United States to careers with the U.S. Fish and Wildlife Service.
+This partnership with the **Student Conservation Association** is designed to introduce culturally and ethnically diverse college freshman and sophomores from all over the United States to careers with the U.S. Fish and Wildlife Service.
 
 **Who Should Apply** <br>
 College freshman and sophomores interested in careers with the U.S. Fish and Wildlife Service.
@@ -83,6 +83,15 @@ Create an account on Usajobs.gov and visit [usajobs.gov](https://www.usajobs.gov
 Visit the internship program information page on [opm.gov](https://opm.gov).
 
 {{< figure class="photo-center" src="/images/pages/intern-searches-for-spiders.jpg" alt="An intern searches through soil and moss on a rock for spiders" caption="An intern searches for the endangered spruce-fir moss spider. Photo by Gary Peeples, USFWS." link="https://flic.kr/p/do3Kpw" >}}
+
+## Pathways to Science
+
+The mission of the [Institute for Broadening Participation](http://www.pathwaystoscience.org/) is to increase diversity in the Science, Technology, Engineering and Mathematics (STEM) workforce. IBP designs and implements strategies to increase access to STEM education, funding, and careers, with special emphasis on reaching and supporting individuals from underserved communities and underrepresented groups, including underrepresented minorities, women, persons with disabilities, first-generation college students, and students from underserved communities. The Institute for Broadening Participation is a 501(c)(3) organization, tax ID #20-1891162.
+
+- [Undergraduate Scholarships](http://www.pathwaystoscience.org/programs.aspx?u=Undergrads_Undergraduate+Students&r=&s=&i=&sa=either&p=YesPortable&o=either&c=either&f=&dd=&ft=&submit=y&adv=adv)
+- [Graduate Fellowships](http://pathwaystoscience.org/Grad.aspx)
+- [Postdoc Positions](http://pathwaystoscience.org/Postdocs_Portal.aspx)
+- [Follow Pathways to Science on Facebook](https://www.facebook.com/Pathways-to-Science-120825625433/)
 
 ## For Recent College Graduates
 
