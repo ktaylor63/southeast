@@ -1,0 +1,67 @@
+title: "Southeast Region | U.S. Fish and Wildlife Service"
+
+baseUrl: "http://127.0.0.1:3000/"
+
+watch: true
+buildDrafts: true
+buildFuture: true
+source: site
+contentDir: content
+dataDir: data
+layoutDir: layouts
+staticDir: static
+publishDir: '../dist'
+
+MetaDataFormat: yaml
+pluralizelisttitles: false
+canonifyurls: true
+
+mediaTypes:
+  application/javascript:
+    suffix: js
+
+outputFormats:
+  js:
+    suffix: js
+    mediaType: application/javascript
+    isPlainText: true
+    isHTML: false
+    noUgly: false
+    baseName: index
+    rel: alternate
+
+googleAnalytics: UA-21323598-1
+
+taxonomies:
+  tag: "tags"
+  category: "categories"
+  series: "series"
+
+outputs:
+  home:
+    - html
+    - rss
+    - js
+  page:
+    - html
+  section:
+    - html
+    - rss
+    - js
+
+# Custom Defined Site Wide Variables
+params:
+  hero:
+  twitter: usfwssoutheast
+  github:  usfws
+  facebook: usfwssoutheast
+  flickr: usfwssoutheast
+  snapchat: usinterior
+  instagram: usfws
+  youtube: https://www.youtube.com/playlist?list=PL5225C01A38A652EA&feature=plcp
+  webmaster:
+    primary: roy_hewitt@fws.gov
+    backup: katherine_taylor@fws.gov
+
+permalinks:
+  news: /:section/:year/:month/:filename/
