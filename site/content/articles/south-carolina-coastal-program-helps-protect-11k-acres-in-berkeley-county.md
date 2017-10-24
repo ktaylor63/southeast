@@ -1,30 +1,32 @@
 ---
-title: South Carolina Coastal Program helps protect 11,000 acres in Berkeley County
+title: 'South Carolina Coastal Program helps protect 11,000 acres in Berkeley County'
 date: '2017-09-26'
-author: Jason Ayers, South Carolina Ecological Services Field Office
+author: 'Jason Ayers, South Carolina Ecological Services Field Office'
 hero:
-  name: oakland-club-entrance.jpg
-  alt: An entrance gate with a historical marker.
-  caption: Entry road to Revolutionary War hero General Francis Marion’s grave and Oakland Club. Photo by Jason Ayers, USFWS.
+    name: oakland-club-entrance.jpg
+    alt: 'An entrance gate with a historical marker.'
+    caption: 'Entry road to Revolutionary War hero General Francis Marion’s grave and Oakland Club. Photo by Jason Ayers, USFWS.'
 tags:
-  - E-Grits
-  - Charleston
-  - South Carolina Ecological Services Field Office
-  - South Carolina
-  - Bobwhite Quail
-  - American Chaffseed
-  - Estern Diamondback Rattlesnake
-  - Red-Cockaded Woodpecker
-  - Swallow-Tailed Kite
-  - Swainsons Warbler
-  - Southern Hognose Snake
-  - Santee National Wildlife Refuge
-  - Coastal Program
-  - Prescribed Fire
-  - American Wood Stork
-  - Carolina-Birds-In-A-Nest
-  - Gopher Frog
-  - Boykins Lobelia
+    - 'American Chaffseed'
+    - 'American Wood Stork'
+    - 'Bobwhite Quail'
+    - 'Boykins Lobelia'
+    - Carolina-Birds-in-a-Nest
+    - Charleston
+    - 'Coastal Program'
+    - E-Grits
+    - 'Estern Diamondback Rattlesnake'
+    - 'Gopher Frog'
+    - 'Prescribed Fire'
+    - 'Red-Cockaded Woodpecker'
+    - 'Santee National Wildlife Refuge'
+    - 'South Carolina'
+    - 'South Carolina Ecological Services Field Office'
+    - 'Southern Hognose Snake'
+    - 'Swainsons Warbler'
+    - 'Swallow-Tailed Kite'
+type: 'Feature Story'
+updated: 'October 24th, 2017'
 ---
 
 The 11,000-acre, privately-owned Oakland Club, located in Berkeley County, South Carolina, is now a permanently protected site for several state species of concern and federally protected species.  These species include bobwhite quail, American chaffseed, Eastern diamondback rattlesnakes, red-cockaded woodpeckers, swallow-tailed kites, Swainson’s warblers, and Southern hognose snakes.
