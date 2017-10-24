@@ -12,13 +12,12 @@ tags:
     - Fire
     - Hurricane
     - 'Oil Spill'
-updated: 'September 12th, 2017'
+updated: 'October 24th, 2017'
 ---
 
 Occasionally, federal agencies must respond to emergency situations where human life and property are in danger.  Examples include oil spills, wildland fire, and weather events such as Hurricane Harvey, Irma, and Maria.  The Endangered Species Act (ESA) and its implementing regulations recognize the need to respond immediately to emergencies and provide special procedures that allow federal agencies the latitude to complete their emergency responses in order to secure human life and property without delay, while still providing them with protections that normal compliance under the ESA would have afforded them.
 
 It is the U.S. Fish and Wildlife Service’s policy to assist federal agencies with their  ESA compliance issues during an emergency response, but to never delay the necessary response to secure human life and property.
-
 
 ## Understanding emergency provisions under the ESA
 
@@ -33,6 +32,8 @@ The links below are provided to assist you in understanding emergency provisions
 
 ### Hurricane response
 
+{{< figure class="photo-right" src="/images/pages/removing-hurricane-shelters-roberto-trincado.jpg" alt="A man removing a wooden shutter from a home." caption="Roberto Trincado removing hurricane shutters on St. Croix, USVI.  Photo by USFWS.">}}
+
   - [Sample Timber Salvage Response Letter](/pdf/guidelines/salvage-timber-mississippi.pdf)
   - [Miami blue butterfly hurricane response best management practices](/pdf/best-management-practice/miami-blue-butterfly-hurricane-response.pdf)
   - [Bartram’s scrub-hairstreak and Florida leafwing hurricane response best management practices](/pdf/best-management-practice/bartrams-scrub-and-florida-leafwing-hurricane-response.pdf)
@@ -44,6 +45,8 @@ The links below are provided to assist you in understanding emergency provisions
 
   - [Guidelines for Aerial Delivery of Retardant or Foam near Waterways](/pdf/guidelines/retardant-use-plan.pdf)
   - [Prevention of Wildfires &ndash; Streamlining Section 7 Consultation on Hazardous Fuels Treatment Projects](/pdf/guidelines/streamlining-hazardous-fuels-reduction.pdf)
+
+{{< figure class="photo-right" src="/images/pages/west-mims-firefighter.jpg" alt="A firefighter walks through the underbrush with his eye on the fire." caption="Firefighter in the brush at Okefenokee NWR fighting the West Mims fire.  Photo by Mark Davis, USFWS.">}}
 
 ### Oil spills and other hazardous materials
 
