@@ -9,7 +9,8 @@ const fs = require('fs');
 const path = require('path');
 
 const input = 'src/images/hero/';
-const output = 'dist/images/hero/';
+const output = 'site/static/images/hero/';
+// const output = 'dist/images/hero/';
 
 const outSizes = [
   {

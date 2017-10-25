@@ -7,7 +7,8 @@ const fs = require('fs');
 const path = require('path');
 
 const jsonSrc = 'src/data/**/*.json';
-const dist = 'dist/data/';
+const dist = 'site/static/data/';
+// const dist = 'dist/data/';
 
 function minifyJSON(filepath, cb) {
   fs.readFile(filepath, 'utf8', (err, json) => {

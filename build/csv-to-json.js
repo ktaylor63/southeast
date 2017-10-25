@@ -7,7 +7,8 @@ const fs = require('fs');
 const path = require('path');
 
 const csvSrc = 'src/data/**/*.csv';
-const dist = 'dist/data/';
+const dist = 'site/static/data/';
+// const dist = 'dist/data/';
 
 function toJSON(filePath, cb) {
   const data = [];

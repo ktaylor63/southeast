@@ -12,10 +12,12 @@ const fs = require('fs');
 const path = require('path');
 
 const input = 'src/images/pages/';
-const output = 'dist/images/pages/';
+const output = 'site/static/images/pages/';
+// const output = 'dist/images/pages/';
 
 function copy(done) {
-  ncp('src/images/copy', 'dist/images/', done);
+  ncp('src/images/copy', 'site/static/images/', done);
+  // ncp('src/images/copy', 'dist/images/', done);
 }
 
 function getImageSize(filepath) {
@@ -33,7 +35,8 @@ function minify(buffer, filename, done) {
         if (err) console.error(err);
         if (done) done();
       });
-    });
+    })
+    .catch(console.log);
 }
 
 function processImage(filepath, size, done) {
@@ -54,8 +57,9 @@ function processImagesInDirectory(size, cb) {
     // If there's a DS Store item, remove it
     const i = files.indexOf('.DS_Store');
     if (i > -1) files.splice(i, 1);
-    async.each(
+    async.eachLimit(
       files,
+      5,
       (name, done) => {
         const filepath = path.join(input, size, name);
         const sizeInt = parseInt(size);
