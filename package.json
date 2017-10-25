@@ -14,15 +14,14 @@
     "static": "ncp src/static dist",
     "watch": "node build/watch",
     "data": "node build/processData",
-    "watch:sass": "node-sass -w src/scss/styles.scss dist/css/styles.css",
+    "watch:sass": "node-sass -w src/scss/styles.scss site/static/css/styles.css",
     "build:sass":
-      "node-sass --output-style compressed src/scss/styles.scss | postcss -c build/postcss.config.js -o dist/css/styles.css",
+      "node-sass --output-style compressed src/scss/styles.scss | postcss -c build/postcss.config.js -o site/static/css/styles.css",
     "mkdist": "node build/create-dist",
     "hugo:stage": "node build/stageHugo",
     "prehugo:deploy": "npm run mkdist && npm run build:sass && npm run static",
     "hugo:deploy": "node build/deployHugo",
-    "serve":
-      "hugo server --config site/config.dev.yml -p 3000 --renderToDisk -s site --navigateToChanged",
+    "serve": "hugo server --config site/config.dev.yml -p 3000 -s site --navigateToChanged",
     "prestart": "npm run mkdist && npm run build:sass && npm run static",
     "start": "npm run watch & npm run watch:sass & npm run serve",
     "build": "node build/build",
