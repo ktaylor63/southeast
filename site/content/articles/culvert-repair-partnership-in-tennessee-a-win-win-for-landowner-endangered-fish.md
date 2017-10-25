@@ -11,10 +11,11 @@ tags:
     - E-Grits
     - 'Endangered Species Act'
     - 'Fish Passage'
+    - 'Laurel Dace'
     - 'Partners for Fish and Wildlife Program'
     - Tennessee
 type: 'Bragging Rights'
-updated: 'October 24th, 2017'
+updated: 'October 25th, 2017'
 ---
 
 The little [laurel dace](https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E0AR), which grows to less than two inches long, is a freshwater minnow found in only six small streams on Walden’s Ridge, part of the Cumberland Plateau in central Tennessee.
@@ -25,7 +26,7 @@ During their breeding season in May and June, both males and females exhibit stu
 
 [In 2011, the U.S. Fish and Wildlife Service (Service) listed the fish as endangered](https://www.fws.gov/news/ShowNews.cfm?ref=endangered-status-for-five-southeastern-fish-species&_ID=29810) under the [Endangered Species Act](/endangered-species-act).
 
-Damaged and degraded culverts and road crossings in rural areas like Walden Ridge can impede water flow and make life difficult for the laurel dace and other aquatic species. Repairing these culverts was once thought to be an expensive endeavor, but new partnerships, such as the Southeast Aquatic Connectivity Program, are helping to achieve more of these repair projects by providing improved tools to project managers. Funding and technical expertise, such as those found in the [Service’s National Fish Passage Program](http://southeastaquatics.net/sarps-programs/southeast-aquatic-connectivity-assessment-program-seacap) and Aquatic Habitat Restoration Team, can assist to reduce costs of these projects for private landowners.
+Damaged and degraded culverts and road crossings in rural areas like Walden Ridge can impede water flow and make life difficult for the laurel dace and other aquatic species. Repairing these culverts was once thought to be an expensive endeavor, but new partnerships, such as the [Southeast Aquatic Connectivity Program](http://southeastaquatics.net/sarps-programs/southeast-aquatic-connectivity-assessment-program-seacap), are helping to achieve more of these repair projects by providing improved tools to project managers. Funding and technical expertise, such as those found in the [Service’s National Fish Passage Program](https://www.fws.gov/fisheries/whatwedo/nfpp/nfpp.html) and Aquatic Habitat Restoration Team, can assist to reduce costs of these projects for private landowners.
 
 {{< figure class="photo-center" src="/images/pages/damaged-culvert-tennessee.jpg" alt="A partially squished culvert under a pile of rocks." caption="Looking upstream into a partially blocked culvert a few days before the construction of the new road crossing.  Photo by Emily Granstaff, USFWS." >}}
 
