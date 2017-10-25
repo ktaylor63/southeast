@@ -4,6 +4,10 @@ npm-debug.log
 
 # Generated
 dist
+site/static/css
+site/static/js
+site/static/images
+site/static/data
 
 # Mac stuff
 .DS_Store
