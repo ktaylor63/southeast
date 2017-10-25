@@ -1,7 +1,7 @@
 // Colors
 $light-green: #a5d6a7;
 $dark-green: #006358;
-$tennessee-orange: #F77F00;
+$tennessee-orange: #f77f00;
 $dark-gray: #333;
 $white: #fff;
 
@@ -11,8 +11,8 @@ $color-text: $dark-gray;
 $color-white: $white;
 $color-muted: lighten($color-text, 70);
 
-$color-facebook: #3B5998;
-$color-twitter: darken(#1DA1F3, 5);
+$color-facebook: #3b5998;
+$color-twitter: darken(#1da1f3, 5);
 
 $primary-gradient: linear-gradient($color-accent, darken($color-accent, 10));
 
@@ -45,7 +45,7 @@ $break-xl: 1200px;
 $break-scrollnav: $break-xl;
 
 // Transitions
-$transition-duration: .3s;
+$transition-duration: 0.3s;
 
 // Borders
 $border-radius: 5px;
