@@ -16,8 +16,8 @@
     ]
   },
   "scripts": {
-    "browserify": "browserify index.js | uglifyjs -mc > ../../../dist/js/infinite-scroll.js",
-    "watchify": "watchify index.js -o ../../../dist/js/infinite-scroll.js -dv",
+    "browserify": "browserify index.js | uglifyjs -mc > ../../../site/static/js/infinite-scroll.js",
+    "watchify": "watchify index.js -o ../../../site/static/js/infinite-scroll.js -dv",
     "start": "npm run watchify",
     "build": "npm run browserify"
   },
@@ -26,7 +26,7 @@
   "license": "SAX-PD",
   "devDependencies": {
     "babel-preset-es2015": "^6.24.1",
-    "babelify": "^7.3.0",
+    "babelify": "^8.0.0",
     "browserify": "^14.4.0",
     "uglifyjs": "^2.4.11",
     "watchify": "^3.9.0"

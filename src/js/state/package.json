@@ -9,7 +9,7 @@
         "babelify",
         {
           "presets": [
-            "es2015"
+            "env"
           ]
         }
       ]
@@ -17,8 +17,8 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "browserify": "browserify index.js | uglifyjs -mc > ../../../dist/js/state.js",
-    "watchify": "watchify index.js -o ../../../dist/js/state.js -dv",
+    "browserify": "browserify index.js | uglifyjs -mc > ../../../site/static/js/state.js",
+    "watchify": "watchify index.js -o ../../../site/static/js/state.js -dv",
     "start": "npm run watchify",
     "build": "npm run browserify"
   },
@@ -29,8 +29,8 @@
     "xhr": "^2.2.0"
   },
   "devDependencies": {
-    "babel-preset-es2015": "^6.24.1",
-    "babelify": "^7.3.0",
+    "babel-preset-env": "^1.6.1",
+    "babelify": "^8.0.0",
     "browserify": "^13.0.0",
     "uglifyjs": "^2.4.10",
     "watchify": "^3.7.0"

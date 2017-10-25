@@ -8,19 +8,18 @@
       [
         "babelify",
         {
-          "presets": [
-            "es2015"
-          ]
+          "presets": ["env"]
         }
       ]
     ]
   },
   "scripts": {
     "csv2geojson": "npm run towers & npm run detections",
-    "towers": "csv2geojson modus-towers.csv > ../../../dist/data/modus-towers.js",
-    "detections": "csv2geojson modus-detections.csv > ../../../dist/data/modus-detections.js",
-    "browserify": "browserify index.js | uglifyjs -mc > ../../../dist/js/modus.js",
-    "watchify": "watchify index.js -o ../../../dist/js/modus.js -dv",
+    "towers": "csv2geojson modus-towers.csv > ../../../site/static/data/modus-towers.js",
+    "detections":
+      "csv2geojson modus-detections.csv > ../../../site/static/data/modus-detections.js",
+    "browserify": "browserify index.js | uglifyjs -mc > ../../../site/static/js/modus.js",
+    "watchify": "watchify index.js -o ../../../site/static/js/modus.js -dv",
     "start": "npm run csv2geojson && npm run watchify",
     "build": "npm run csv2geojson && npm run browserify"
   },
@@ -28,12 +27,10 @@
   "author": "@r0yhewitt <roy_hewitt@fws.gov>",
   "license": "SAX-PD",
   "devDependencies": {
-    "async": "^2.4.1",
-    "babel-preset-es2015": "^6.24.1",
-    "babelify": "^7.3.0",
+    "babel-preset-env": "^1.6.1",
+    "babelify": "^8.0.0",
     "browserify": "^14.4.0",
     "csv2geojson": "^5.0.2",
-    "leaflet.markercluster": "^1.0.5",
     "uglifyjs": "^2.4.11",
     "watchify": "^3.9.0"
   },

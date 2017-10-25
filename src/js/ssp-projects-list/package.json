@@ -8,17 +8,15 @@
       [
         "babelify",
         {
-          "presets": [
-            "es2015"
-          ]
+          "presets": ["env"]
         }
-      ],
-      "pugify"
+      ]
     ]
   },
   "scripts": {
-    "browserify": "browserify index.js | uglifyjs -mc > ../../../dist/js/ssp-project-list.js",
-    "watchify": "watchify index.js -o ../../../dist/js/ssp-project-list.js -dv",
+    "browserify":
+      "browserify index.js | uglifyjs -mc > ../../../site/static/js/ssp-project-list.js",
+    "watchify": "watchify index.js -o ../../../site/static/js/ssp-project-list.js -dv",
     "start": "npm run watchify",
     "build": "npm run browserify",
     "inspect": "browserify --full-paths index.js | uglifyjs -mc | Discify --open"
@@ -27,14 +25,10 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "babel-preset-es2015": "^6.18.0",
-    "babelify": "^7.3.0",
+    "babel-preset-env": "^1.6.1",
+    "babelify": "^8.0.0",
     "browserify": "^13.1.1",
     "disc": "^1.3.2",
-    "pug": "^2.0.0-beta6",
-    "pug-lint": "^2.3.0",
-    "pug-lint-config-clock": "^2.0.0",
-    "pugify": "^2.1.0",
     "uglifyify": "^3.0.4",
     "uglifyjs": "^2.4.10",
     "watchify": "^3.8.0"

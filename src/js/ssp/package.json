@@ -8,18 +8,15 @@
       [
         "babelify",
         {
-          "presets": [
-            "es2015"
-          ]
+          "presets": ["env"]
         }
-      ],
-      "jadeify"
+      ]
     ]
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "browserify": "browserify index.js | uglifyjs -mc > ../../../dist/js/ssp.js",
-    "watchify": "watchify index.js -o ../../../dist/js/ssp.js -dv",
+    "browserify": "browserify index.js | uglifyjs -mc > ../../../site/static/js/ssp.js",
+    "watchify": "watchify index.js -o ../../../site/static/js/ssp.js -dv",
     "inspect": "browserify --full-paths index.js | uglifyjs -mc | Discify --open",
     "start": "npm run watchify",
     "build": "npm run browserify"
@@ -28,9 +25,9 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "babel-preset-env": "^1.6.1",
+    "babelify": "^8.0.0",
     "browserify": "^14.4.0",
-    "jade": "^1.11.0",
-    "jadeify": "^4.7.0",
     "uglifyjs": "^2.4.10",
     "watchify": "^3.7.0"
   },
