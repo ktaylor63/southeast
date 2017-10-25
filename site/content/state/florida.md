@@ -3,6 +3,8 @@ title: 'Conservation in Florida'
 state: Florida
 abbreviation: FL
 url: /florida
+aliases:
+  /maps/fl.html
 hero:
     name: sunrise-at-florida-panther.jpg
     alt: 'Sunrise photo with a deep blue to bright orange gradient and pine trees in the background'

@@ -3,6 +3,8 @@ title: 'Conservation in Kentucky'
 abbreviation: KY
 state: Kentucky
 url: /kentucky
+aliases:
+  /maps/ky.html
 tags:
     - Kentucky
 hero:

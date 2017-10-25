@@ -3,6 +3,8 @@ title: 'Conservation in Puerto Rico'
 abbreviation: PR
 state: 'Puerto Rico'
 url: /puerto-rico
+aliases:
+  /maps/pr.html
 tags:
     - 'Puerto Rico'
 hero:

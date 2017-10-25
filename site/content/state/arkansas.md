@@ -2,6 +2,8 @@
 title: 'Conservation in Arkansas'
 state: Arkansas
 abbreviation: AR
+aliases:
+  /maps/ar.html
 url: /arkansas
 hero:
     name: arkansas-sunset.jpg

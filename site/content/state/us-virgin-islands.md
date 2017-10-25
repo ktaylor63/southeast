@@ -3,6 +3,8 @@ title: 'Conservation in the U.S. Virgin Islands'
 abbreviation: VI
 state: 'U.S. Virgin Islands'
 url: /us-virgin-islands
+aliases:
+  /maps/vi.html
 tags:
     - 'US Virgin Islands'
 hero:

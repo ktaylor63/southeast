@@ -3,6 +3,8 @@ title: 'Conservation in Tennessee'
 abbreviation: TN
 state: Tennessee
 url: /tennessee
+aliases:
+  /maps/tn.html
 tags:
     - Tennessee
 hero:

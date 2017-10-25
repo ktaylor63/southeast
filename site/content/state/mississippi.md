@@ -3,6 +3,8 @@ title: 'Conservation in Mississippi'
 abbreviation: MS
 state: Mississippi
 url: /mississippi
+aliases:
+  /maps/ms.html
 tags:
     - Mississippi
 hero:

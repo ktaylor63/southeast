@@ -3,6 +3,8 @@ title: 'Conservation in South Carolina'
 abbreviation: SC
 state: 'South Carolina'
 url: /south-carolina
+aliases:
+  /maps/sc.html
 tags:
     - 'South Carolina'
 hero:

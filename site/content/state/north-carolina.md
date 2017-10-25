@@ -3,6 +3,8 @@ title: 'Conservation in North Carolina'
 abbreviation: NC
 state: 'North Carolina'
 url: /north-carolina
+aliases:
+  /maps/nc.html
 tags:
     - 'North Carolina'
 hero:

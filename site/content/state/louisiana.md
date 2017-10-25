@@ -3,6 +3,8 @@ title: 'Conservation in Louisiana'
 abbreviation: LA
 state: Louisiana
 url: /louisiana
+aliases:
+  /maps/la.html
 tags:
     - Louisiana
 hero:

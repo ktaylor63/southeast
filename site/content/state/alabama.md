@@ -2,6 +2,8 @@
 title: 'Conservation in Alabama'
 state: Alabama
 abbreviation: AL
+aliases:
+  /maps/al.html
 url: /alabama
 tags:
     - Alabama

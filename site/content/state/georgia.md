@@ -3,6 +3,8 @@ title: 'Conservation in Georgia'
 url: /georgia
 state: Georgia
 abbreviation: GA
+aliases:
+  /maps/ga.html
 tags:
     - Georgia
 hero:
