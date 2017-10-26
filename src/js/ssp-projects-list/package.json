@@ -8,14 +8,15 @@
       [
         "babelify",
         {
-          "presets": ["env"]
+          "presets": [
+            "env"
+          ]
         }
       ]
     ]
   },
   "scripts": {
-    "browserify":
-      "browserify index.js | uglifyjs -mc > ../../../site/static/js/ssp-project-list.js",
+    "browserify": "browserify index.js | uglifyjs -mc > ../../../site/static/js/ssp-project-list.js",
     "watchify": "watchify index.js -o ../../../site/static/js/ssp-project-list.js -dv",
     "start": "npm run watchify",
     "build": "npm run browserify",
@@ -29,14 +30,12 @@
     "babelify": "^8.0.0",
     "browserify": "^13.1.1",
     "disc": "^1.3.2",
-    "uglifyify": "^3.0.4",
-    "uglifyjs": "^2.4.10",
+    "uglifyjs": "^2.4.11",
     "watchify": "^3.8.0"
   },
   "dependencies": {
-    "fecha": "^2.3.0",
     "moment": "^2.17.1",
-    "query-string": "^4.2.3",
+    "query-string": "^5.0.1",
     "xhr": "^2.3.2"
   }
 }

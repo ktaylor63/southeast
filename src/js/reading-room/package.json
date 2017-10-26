@@ -36,8 +36,7 @@
     "is-url-superb": "^2.0.0",
     "lunr": "^1.0.0",
     "pluralize": "^7.0.0",
-    "pug": "^2.0.0-rc.1",
-    "query-string": "^4.3.4",
+    "query-string": "^5.0.1",
     "xhr": "^2.4.0"
   }
 }

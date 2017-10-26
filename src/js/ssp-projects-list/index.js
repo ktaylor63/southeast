@@ -2,7 +2,7 @@ const xhr = require('xhr');
 const qs = require('query-string');
 const moment = require('moment');
 
-const baseUrl = 'https://www.sciencebase.gov/catalog/items';
+const baseUrl = 'https://cors-anywhere.herokuapp.com/https://www.sciencebase.gov/catalog/items';
 const query = qs.stringify({
   q: ['SSPQR', 'FWSR4'],
   max: 200,
@@ -32,38 +32,44 @@ function extractDates(project) {
 function createContactList(contacts, title) {
   return `
     <ul>
-      ${contacts.map(contact => {
-        const type = contact.type ? `${contact.type}: ` : '';
-        const html = contact.email
-          ? `<li><strong>${type}</strong> <a href="mailto:${contact.email}?subject=${title}">${contact.name}</a>`
-          : `<li><strong>${type} ${contact.name}</strong></li>`;
-        return html;
-      }).join('')}
+      ${contacts
+    .map(contact => {
+      const type = contact.type ? `${contact.type}: ` : '';
+      const html = contact.email
+        ? `<li><strong>${type}</strong> <a href="mailto:${contact.email}?subject=${title}">${contact.name}</a>`
+        : `<li><strong>${type} ${contact.name}</strong></li>`;
+      return html;
+    })
+    .join('')}
     </ul>
   `;
 }
 
 function showResults(projects) {
-  return projects.map(project => {
-    const dates = project.dates ? extractDates(project) : [];
-    const purpose = project.purpose ? `<p><strong>Purpose:</strong> ${project.purpose}</p>` : '';
-    const summary = project.summary ? `<p><strong>Summary:</strong> ${project.summary}</p>` : '';
-    const contacts = project.contacts
-      ? `<p><strong>Contacts:</strong> ${createContactList(project.contacts, project.title)}</p>`
-      : '';
-    return `
+  return projects
+    .map(project => {
+      const dates = project.dates ? extractDates(project) : [];
+      const purpose = project.purpose ? `<p><strong>Purpose:</strong> ${project.purpose}</p>` : '';
+      const summary = project.summary ? `<p><strong>Summary:</strong> ${project.summary}</p>` : '';
+      const contacts = project.contacts
+        ? `<p><strong>Contacts:</strong> ${createContactList(project.contacts, project.title)}</p>`
+        : '';
+      return `
       <li class='card card-text'>
         <h2 class='card-list-heading'><a href='${project.link.url}'>${project.title}</a></h2>
-          ${dates.map(date => {
-            const dateString = moment(date.dateString).format('MMMM Do, YYYY');
-            return `<p><span><strong>${date.label}</strong>: ${dateString}</span></p>`;
-          }).join('')}
+          ${dates
+    .map(date => {
+      const dateString = moment(date.dateString).format('MMMM Do, YYYY');
+      return `<p><span><strong>${date.label}</strong>: ${dateString}</span></p>`;
+    })
+    .join('')}
         ${purpose}
         ${summary}
         ${contacts}
     </li>
     `;
-  }).join('');
+    })
+    .join('');
 }
 
 function searchContacts(contacts, regex) {
@@ -72,7 +78,6 @@ function searchContacts(contacts, regex) {
 }
 
 function render(filtered = []) {
-  console.log(filtered);
   numResults.innerHTML = `Showing ${filtered.length} of ${projects.items.length}`;
   list.innerHTML = showResults(filtered);
 }

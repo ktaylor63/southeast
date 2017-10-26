@@ -3,7 +3,7 @@ const qs = require('query-string');
 const random = require('random-item');
 
 const output = document.querySelector('.featured-project');
-const baseURL = 'https://www.sciencebase.gov/catalog/items';
+const baseURL = 'https://cors-anywhere.herokuapp.com/https://www.sciencebase.gov/catalog/items';
 
 const params = qs.stringify({
   format: 'json',
@@ -13,7 +13,6 @@ const params = qs.stringify({
 });
 
 function template(project) {
-  console.log(project);
   const figure = project.previewImage.original
     ? `<figure class="photo-right"><img src="${project.previewImage.original
       .viewUri}" alt="Preview image for project"/>`

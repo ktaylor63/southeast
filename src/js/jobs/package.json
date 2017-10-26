@@ -8,7 +8,9 @@
       [
         "babelify",
         {
-          "presets": ["env"]
+          "presets": [
+            "env"
+          ]
         }
       ]
     ]
@@ -21,12 +23,14 @@
     "start": "npm run watchify",
     "build": "npm run browserify"
   },
-  "keywords": ["USAjobs"],
+  "keywords": [
+    "USAjobs"
+  ],
   "author": "Roy Hewitt <royhewitt07@gmail.com>",
   "license": "SAX-PD",
   "dependencies": {
     "date-and-time": "^0.3.0",
-    "query-string": "^4.3.4",
+    "query-string": "^5.0.1",
     "xhr": "^2.4.0"
   },
   "devDependencies": {

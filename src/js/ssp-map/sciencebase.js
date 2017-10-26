@@ -2,7 +2,7 @@ const xhr = require('xhr');
 const geojson = require('geojson');
 const qs = require('query-string');
 
-const baseURL = 'https://www.sciencebase.gov/catalog/items';
+const baseURL = 'https://cors-anywhere.herokuapp.com/https://www.sciencebase.gov/catalog/items';
 const params = qs.stringify({
   format: 'json',
   q: 'SSPQR, storymap',
