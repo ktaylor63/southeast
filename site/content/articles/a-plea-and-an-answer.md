@@ -54,8 +54,6 @@ Since then, Puerto Rico has risen a little bit each day. An estimated 30 Service
 
 Service law enforcement got here first, arriving on government planes on Sept. 23, before commercial flights resumed. Officers came from South Florida to check on Service workers, their families and communities. They also turned their attention to other residents, keeping order at a tenuous time.
 
-{{< figure class="photo-center" src="/images/pages/bruce-butler-water-in-vieques.jpg" alt="A law enforcement officer speaking with a resident outside of her home." caption="Bruce Butler, a Service law enforcement officer, stops along a Puerto Rican highway to share a few cases of water. Photo by Mark Davis, USFWS." link="https://flic.kr/p/CpUhXW" >}}
-
 Other Service workers weren’t far behind. With satellite-phone and chainsaw, with truck and machete, they got things going with the stuff of life: water and MREs (military meals ready to eat), a reassuring smile saying, yes, things will get better.
 
 They came across an 8-year-old girl needing leukemia treatments – her hospital had closed – and got her help. 

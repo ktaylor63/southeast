@@ -44,7 +44,7 @@ Wallace refocused. “To Walmart.”
  
 The Jeep stopped at a Walmart parking lot. It was, at that time, one of the few places outside San Juan where cell service was easily available. Before making his daily call to the Service’s morning update in Atlanta, Wallace paused to give Maria its due.
 
-{{< figure class="photo-center" src="/images/pages/jon-wallace-supplies-puerto-rico.jpg" alt="A man looking over a table full of food and supplies." caption="Jon Wallace, who oversaw emergency response operations for the Service, surveys supplies before they are given to those who need it. Photo by Bruce Butler, USFWS." >}}
+{{< figure class="photo-center" src="/images/pages/jon-wallace-supplies-puerto-rico.jpg" alt="A man looking over a table full of food and supplies." caption="Jon Wallace, who oversaw emergency response operations for the Service, surveys supplies before they are given to those who need it. Photo by USFWS." >}}
  
 It was a bad storm, said Wallace, who also responded to [Hurricane Katrina](https://www.fws.gov/hurricane/katrina), the 2005 tempest that crippled New Orleans. Maria was like Katrina – with one exception: The 2017 storm hit an island. Every logistical consideration – bringing repair crews to right fallen power poles, clearing roadways, delivering food – became a challenge.
  
@@ -80,30 +80,28 @@ There was Vieques, where the deputy mayor pleaded with workers to send additiona
  
 And there was that memorable encounter, somewhere on the highway leading to Cabo Rojo. A Service officer making a delivery to the southwestern city stopped to offer some women a precious commodity: water.  For a moment, none of the women spoke.
 
-{{< figure class="photo-center" src="/images/pages/bruce-butler-water-in-vieques.jpg" alt="A law enforcement officer speaking with a resident outside of her home." caption="Bruce Butler, a Service law enforcement officer, stops along a Puerto Rican highway to share a few cases of water. Photo by Mark Davis, USFWS." link="https://flic.kr/p/CpUhXW" >}}
- 
 “God bless,” one managed.
- 
+
 Not all endeavors appeared to have had a divine presence.
- 
+
 For example, a planned flight to Vieques, a 10-minute hop east from mainland Puerto Rico, was canceled after Wallace and a Service pilot decided a late-morning wind was too stiff for the single-engine airplane.
- 
+
 With a few raindrops hitting the ground, Wallace shrugged. “We’ll try again tomorrow.”
- 
+
 The next day, sunny and warm, was perfect for the flight. Wallace and Trincado got to Vieques to install a telephone and internet receptor at the refuge’s headquarters. They then flew from Vieques to St. Croix, U.S. Virgin Islands, where they performed the same task.
 
 {{< figure class="photo-center" src="/images/pages/jon-wallace-robert-trincado-restoring-communications-puerto-rico.jpg" alt="Three men installing communications equipment." caption="Robert Trincado (left) works with U.S. Fish and Wildlife Services colleague Jon Wallace to restore phone and Internet services atop the headquarters of Vieques National Wildlife Refuge, Puerto Rico. Watching is Service pilot Steve Earsom. Photo by Mark Davis, USFWS." link="https://flic.kr/p/ZtdKBE" >}}
 
 Another challenge: getting crews on and off the island. Wallace spent a half-day working with different federal agencies to ensure that some Service workers wanting to go home caught a military supply flight from Puerto Rico to Florida. If the island had had cell service, the snafu would have taken an hour to clear up; instead, it took four.
- 
+
 The sun was dipping into the west when Wallace. He watched as the workers walked into a hangar, duffel bags and other equipment slung over their shoulders. They sat on the floor, waiting for a big, gray airplane headed back to the states.
- 
+
 Wallace slid into the rider’s seat. He cast Trincado a quick look.
- 
+
 “Today,” he said, “has been a challenge.”
- 
+
 The Jeep picked up speed and eased into traffic that moved without benefit of stop lights. Wallace reached for the “Captain’s Log” and read the results. He sighed. Not the greatest day.
- 
+
 Then he nodded. “Tomorrow,” he said, “we’ll hit it hard.”
 
 ## Contact
