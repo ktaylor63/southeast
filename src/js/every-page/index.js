@@ -82,7 +82,7 @@ menu.init({
   position: 'left'
 });
 
-xhr.get(`${dataURL}/data/terms.js`, (err, res, body) => {
+xhr.get(`${dataURL}data/terms.js`, (err, res, body) => {
   if (err) console.error(err);
   terms = JSON.parse(body);
   // Highlight words and their acronyms
