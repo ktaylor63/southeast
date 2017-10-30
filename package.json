@@ -25,7 +25,7 @@
     "prestart": "npm run mkdist && npm run build:sass && npm run static",
     "start": "npm run watch & npm run watch:sass & npm run serve",
     "build": "node build/build",
-    "predeploy": "npm run mkdist && npm run build:sass && npm run static",
+    "predeploy": "npm run mkdist && npm run build:sass",
     "deploy": "node build/build https://www.fws.gov/southeast/",
     "prestage": "npm run mkdist && npm run build:sass && npm run static",
     "stage": "node build/build https://intranet.fws.gov/region4/demo/"
