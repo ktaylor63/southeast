@@ -34,8 +34,8 @@
     "watchify": "^3.7.0"
   },
   "dependencies": {
+    "jsonp": "^0.2.1",
     "query-string": "^5.0.1",
-    "random-item": "^1.0.0",
-    "xhr": "^2.4.0"
+    "random-item": "^1.0.0"
   }
 }

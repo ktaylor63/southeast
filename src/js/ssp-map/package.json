@@ -36,6 +36,7 @@
   "dependencies": {
     "client-csv": "0.0.4",
     "geojson": "^0.4.0",
+    "jsonp": "^0.2.1",
     "leaflet": "^1.0.2",
     "leaflet-draw": "^0.4.10",
     "papaparse": "^4.3.3",

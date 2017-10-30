@@ -1,10 +1,10 @@
-const xhr = require('xhr');
+const jsonp = require('jsonp');
 const geojson = require('geojson');
 const qs = require('query-string');
 
-const baseURL = 'https://cors-anywhere.herokuapp.com/https://www.sciencebase.gov/catalog/items';
+const baseURL = 'https://www.sciencebase.gov/catalog/items';
 const params = qs.stringify({
-  format: 'json',
+  format: 'jsonp',
   q: 'SSPQR, storymap',
   fields: 'title,spatial,body,summary,previewImage,purpose',
   max: 200
@@ -26,24 +26,20 @@ function normalizeProject(project) {
   };
 }
 
-function formatResult(body, cb) {
-  const data = JSON.parse(body);
-  const filtered = data.items.filter(project => project.spatial).map(normalizeProject);
-
-  projects = geojson.parse(filtered, { Point: ['lat', 'lon'] });
-  cb(projects);
-}
-
 function getProjects() {
   // Should be able to return only the projects we need
   return projects;
 }
 
 function init(cb) {
-  xhr.get(url, (err, res, body) => {
-    if (err) console.log(err);
+  jsonp(url, (err, data) => {
     // Should check res for 200 response code
-    formatResult(body, cb);
+    if (err) console.log(err);
+
+    const filtered = data.items.filter(project => project.spatial).map(normalizeProject);
+
+    projects = geojson.parse(filtered, { Point: ['lat', 'lon'] });
+    cb(projects);
   });
 }
 

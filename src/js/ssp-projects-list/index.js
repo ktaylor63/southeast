@@ -1,20 +1,20 @@
-const xhr = require('xhr');
+const jsonp = require('jsonp');
 const qs = require('query-string');
 const moment = require('moment');
 
-const baseUrl = 'https://cors-anywhere.herokuapp.com/https://www.sciencebase.gov/catalog/items';
+const baseUrl = 'https://www.sciencebase.gov/catalog/items';
 const query = qs.stringify({
   q: ['SSPQR', 'FWSR4'],
   max: 200,
   fields: 'title,summary,purpose,contacts,dates',
-  format: 'json'
+  format: 'jsonp'
 });
 
 const url = [baseUrl, query].join('?');
-let projects;
 const list = document.querySelector('.card-list');
 const numResults = document.querySelector('.num-results');
 const input = document.getElementById('filter-projects');
+let projects;
 
 function displayError() {
   return `
@@ -99,14 +99,13 @@ function search(e) {
   render(filtered);
 }
 
-function handleResponse(err, res, body) {
-  if (err || res.statusCode !== 200) return displayError();
+function handleResponse(err, data) {
+  if (err) return displayError();
   input.addEventListener('keyup', search);
   input.addEventListener('change', search);
-  projects = JSON.parse(body);
-  console.log(res);
+  projects = data;
   return render(projects.items);
 }
 
 // Download projects on page load
-xhr.get(url, handleResponse);
+jsonp(url, handleResponse);
