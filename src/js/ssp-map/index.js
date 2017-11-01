@@ -71,16 +71,24 @@ function clickHandler(feature, layer) {
   layer.on({ click: toggleInfoWindow });
 }
 
+function pointToLayer(feat, latlng) {
+  return L.marker(latlng, { alt: 'Map marker icon' });
+}
+
 // Is called with sciencebase data after the init function is finished
 function createMap(projects) {
   map = L.map('sciencebase-map', {
     scrollWheelZoom: false
   });
   const geojson = L.geoJSON(projects, {
-    onEachFeature: clickHandler
+    onEachFeature: clickHandler,
+    pointToLayer
   }).addTo(map);
 
-  map.addLayer(editableLayers).fitBounds(geojson.getBounds()).addControl(drawControl);
+  map
+    .addLayer(editableLayers)
+    .fitBounds(geojson.getBounds())
+    .addControl(drawControl);
 
   map.on(L.Draw.Event.CREATED, e => {
     const markersInPolygon = pointsInPolygon(geojson, e.layer.toGeoJSON());
