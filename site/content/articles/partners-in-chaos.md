@@ -94,7 +94,7 @@ The next day, sunny and warm, was perfect for the flight. Wallace and Trincado g
 
 Another challenge: getting crews on and off the island. Wallace spent a half-day working with different federal agencies to ensure that some Service workers wanting to go home caught a military supply flight from Puerto Rico to Florida. If the island had had cell service, the snafu would have taken an hour to clear up; instead, it took four.
 
-The sun was dipping into the west when Wallace. He watched as the workers walked into a hangar, duffel bags and other equipment slung over their shoulders. They sat on the floor, waiting for a big, gray airplane headed back to the states.
+The sun was dipping into the west. Wallace watched as the workers walked into a hangar, duffel bags and other equipment slung over their shoulders. They sat on the floor, waiting for a big, gray airplane headed back to the states.
 
 Wallace slid into the rider’s seat. He cast Trincado a quick look.
 
