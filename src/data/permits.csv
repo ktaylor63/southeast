@@ -525,7 +525,7 @@ number,status,fed_register
 49959C-0,Issued,N/A
 49960C-0,Issued,N/A
 49964C-0,Issued,N/A
-50673C-0,Awaiting Input from Applicant,N/A
+50673C-0,Issued,N/A
 50676C-0,Issued,N/A
 132409-2,In RO for Review,on current draft
 56430B-2,In RO for Review,on current draft
@@ -555,4 +555,6 @@ number,status,fed_register
 56749B-2,In RO for Review,needs to be drafted
 59548C-0,In RO for Review,needs to be drafted
 206872-9,In RO for Review,needs to be drafted
-60330C-0,In RO for Review,N/A
+60330C-0,Issued,N/A
+60950C-0,In RO for Review,N/A
+60951C-0,In RO for Review,N/A
