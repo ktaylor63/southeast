@@ -19,7 +19,7 @@
       "node-sass --output-style compressed src/scss/styles.scss | postcss -c build/postcss.config.js -o site/static/css/styles.css",
     "mkdist": "node build/create-dist",
     "hugo:stage": "node build/stageHugo",
-    "prehugo:deploy": "npm run mkdist && npm run build:sass && npm run static",
+    "prehugo:deploy": "npm run mkdist && npm run build:sass",
     "hugo:deploy": "node build/deployHugo",
     "serve": "hugo server --config site/config.dev.yml -p 3000 -s site --navigateToChanged",
     "prestart": "npm run mkdist && npm run build:sass && npm run static",
