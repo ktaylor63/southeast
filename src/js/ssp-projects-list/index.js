@@ -29,14 +29,14 @@ function extractDates(project) {
   return project.dates.filter(date => date.type === 'Start' || date.type === 'End');
 }
 
-function createContactList(contacts, title) {
+function createContactList(contacts, title, id) {
   return `
     <ul>
       ${contacts
     .map(contact => {
       const type = contact.type ? `${contact.type}: ` : '';
       const html = contact.email
-        ? `<li><strong>${type}</strong> <a href="mailto:${contact.email}?subject=${title}">${contact.name}</a>`
+        ? `<li><strong>${type}</strong> <a href="mailto:${contact.email}?subject=${title}" aria-labelledby="project-${id}">${contact.name}</a>`
         : `<li><strong>${type} ${contact.name}</strong></li>`;
       return html;
     })
@@ -47,16 +47,21 @@ function createContactList(contacts, title) {
 
 function showResults(projects) {
   return projects
-    .map(project => {
+    .map((project, i) => {
       const dates = project.dates ? extractDates(project) : [];
       const purpose = project.purpose ? `<p><strong>Purpose:</strong> ${project.purpose}</p>` : '';
       const summary = project.summary ? `<p><strong>Summary:</strong> ${project.summary}</p>` : '';
       const contacts = project.contacts
-        ? `<p><strong>Contacts:</strong> ${createContactList(project.contacts, project.title)}</p>`
+        ? `<p><strong>Contacts:</strong> ${createContactList(
+          project.contacts,
+          project.title,
+          i
+        )}</p>`
         : '';
       return `
       <li class='card card-text'>
-        <h2 class='card-list-heading'><a href='${project.link.url}'>${project.title}</a></h2>
+        <h2 class='card-list-heading' id="project-${i}"><a href='${project.link
+  .url}'>${project.title}</a></h2>
           ${dates
     .map(date => {
       const dateString = moment(date.dateString).format('MMMM Do, YYYY');
