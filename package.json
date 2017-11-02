@@ -1,13 +1,11 @@
 {
   "name": "southeast",
   "version": "1.0.0",
-  "description":
-    "Source code the the Southeast Region website of the U.S. Fish and Wildlife Service",
+  "description": "Source code the the Southeast Region website of the U.S. Fish and Wildlife Service",
   "main": "index.js",
   "scripts": {
     "test": "mocha",
-    "accessibility":
-      "pa11y-ci --sitemap http://localhost:3000/sitemap.xml --json pa11y.json > test/results/pa11y.json",
+    "accessibility": "pa11y-ci --sitemap http://localhost:3000/sitemap.xml --json pa11y.json > test/results/pa11y.json",
     "hero": "node build/hero build",
     "images": "node build/images build",
     "copy": "node build/images copy",
@@ -15,8 +13,7 @@
     "watch": "node build/watch",
     "data": "node build/processData",
     "watch:sass": "node-sass -w src/scss/styles.scss site/static/css/styles.css",
-    "build:sass":
-      "node-sass --output-style compressed src/scss/styles.scss | postcss -c build/postcss.config.js -o site/static/css/styles.css",
+    "build:sass": "node-sass --output-style compressed src/scss/styles.scss | postcss -c build/postcss.config.js -o site/static/css/styles.css",
     "mkdist": "node build/create-dist",
     "hugo:stage": "node build/stageHugo",
     "prehugo:deploy": "npm run mkdist && npm run build:sass",
@@ -30,7 +27,10 @@
     "prestage": "npm run mkdist && npm run build:sass && npm run static",
     "stage": "node build/build https://intranet.fws.gov/region4/demo/"
   },
-  "keywords": ["Government", "USFWS"],
+  "keywords": [
+    "Government",
+    "USFWS"
+  ],
   "author": "Roy Hewitt, @r0yhewitt",
   "license": "SAX-PD",
   "devDependencies": {
