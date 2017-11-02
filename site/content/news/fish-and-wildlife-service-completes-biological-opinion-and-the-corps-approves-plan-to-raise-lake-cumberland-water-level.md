@@ -8,10 +8,11 @@ hero:
 date: '2014-03-25'
 tags:
     - Kentucky
+    - Wolf Creek National Fish Hatchery
 updated: 'October 6th, 2016'
 ---
 
-NASHVILLE, TN – Working closely with the U.S. Army Corps of Engineers over the past few months, the U.S. Fish and Wildlife Service on Monday finalized the Biological Opinion that clears the way for the Corps to resume normal operations at Lake Cumberland immediately.
+**Nashville, Tennessee** – Working closely with the U.S. Army Corps of Engineers over the past few months, the U.S. Fish and Wildlife Service on Monday finalized the Biological Opinion that clears the way for the Corps to resume normal operations at Lake Cumberland immediately.
 
 With formal consultation complete, today Brig. Gen. Margaret Burcham, commanding general, Great Lakes and Ohio River Division, made the decision to allow Lake Cumberland to rise to a target elevation of 723 feet this summer, which is the normal elevation at the beginning of the recreation season. The Corps and staff from the Service’s Kentucky Field Office implemented an expedited review and analysis process to complete the Biological Opinion in less than 45 days. The normal consultation process allows up to 135 days. [The Biological Opinion is posted](http://www.fws.gov/southeast/news/WolfCreekBO-Final.pdf).
 

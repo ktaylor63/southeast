@@ -2,7 +2,7 @@
 title: 'March happenings at Wolf Creek National Fish Hatchery'
 tags:
     - Kentucky
-    - 'Wolf Creek'
+    - 'Wolf Creek National Fish Hatchery'
 hero:
     name: wolf-creek-stocking.jpg
     alt: 'A uniformed employee upturns a net of fish into a white bucket.'
@@ -12,7 +12,7 @@ date: '2016-02-23'
 updated: 'October 27th, 2016'
 ---
 
-**JAMESTOWN, KY** – Wolf Creek National Fish Hatchery is the place to be in March with a multitude of environmental education activities to participate in. Most of the events are located at the Wolf Creek NFH Visitor Center.
+**Jamestown, Kentucky** – Wolf Creek National Fish Hatchery is the place to be in March with a multitude of environmental education activities to participate in. Most of the events are located at the Wolf Creek NFH Visitor Center.
 
 Thursday, March 3rd, 4:30 – 6 pm CST – Join us in the Environmental Education Classroom for a Shiitake Mushroom Log workshop.  The cost of this event is $10/log, checks can be made payable to Friends of Wolf Creek NFH, Inc. Preregistration is required by March 1st.  From this workshop you will take home your own Shiitake Mushroom Log.  Log-grown shiitakes are more nutritious than commercial shiitakes grown on sawdust blocks.  Shiitakes are low in fat, high in protein, vitamins, and minerals.  The workshop will also include recipes for delicious meals and maybe some sampling.  
 

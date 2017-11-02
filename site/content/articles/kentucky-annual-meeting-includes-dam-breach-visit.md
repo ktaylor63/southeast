@@ -9,6 +9,7 @@ tags:
     - E-Grits
     - 'Green River'
     - Kentucky
+    - Wolf Creek National Fish Hatchery
 hero:
     name: kentucky-employees-visit-dam-removal-site.jpg
     alt: 'A large group of employees pose for a photo on the banks of the Green River.'

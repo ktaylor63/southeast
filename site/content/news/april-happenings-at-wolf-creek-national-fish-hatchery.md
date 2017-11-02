@@ -3,7 +3,7 @@ title: 'April happenings at Wolf Creek National Fish Hatchery'
 date: '2016-03-24'
 tags:
     - Kentucky
-    - 'Wolf Creek'
+    - 'Wolf Creek National Fish Hatchery'
 hero:
     name: wolf-creek-stocking.jpg
     alt: 'A uniformed employee upturns a net of fish into a white bucket.'
@@ -11,7 +11,7 @@ hero:
     caption: 'Wolf Creek NFH staff member Chris Murphy is shown filling buckets with trout. Photo by Alex Hoover, USFWS.'
 updated: 'October 27th, 2016'
 ---
-**JAMESTOWN, KY** – Break out your running shoes for the exciting events at Wolf Creek National Fish Hatchery (NFH) in April. Wolf Creek is happy to announce that the new catch and release section of Hatchery Creek will be open to the public on April 29th; we will be commemorating the historic milestone with a Trout Trot 5k on Saturday, April 30th .
+**Jamestown, Kentucky** – Break out your running shoes for the exciting events at Wolf Creek National Fish Hatchery (NFH) in April. Wolf Creek is happy to announce that the new catch and release section of Hatchery Creek will be open to the public on April 29th; we will be commemorating the historic milestone with a Trout Trot 5k on Saturday, April 30th .
 
 April 12 – Friends of Wolf Creek NFH monthly meeting, 1-2 pm CDT at the Lake Cumberland Tourist Commission.
 
