@@ -1,5 +1,14 @@
 ---
 stories:
+  - title: 'Georgia’s barrier islands get important shorebird designation'
+    url: 'http://jacksonville.com/news/georgia/2017-11-01/georgia-s-barrier-islands-get-important-shorebird-designation'
+    date: '2017-11-01'
+    summary: 'An international shorebird conservation network designated Georgia’s barrier islands a landscape of hemispheric importance for shorebirds that fly between North and South America. The Western Hemisphere Shorebird Reserve Network, or WHSRN, voted in October to designate Georgia’s chain of coastal islands its 100th site for recognition, said 100 Miles, a coastal conservation organization.'
+    hero:
+      name: 'red-knot.jpg'
+      alt: 'A red breasted shorebird with black and white markings on its back.'
+      link: 'https://flic.kr/p/79wtdr'
+      caption: 'Tagged Red Knot Mispillion Harbor, Delaware. Photo by Gregory Breese, USFWS.'
   - title: 'Mississippi Flyway Public Waterfowl Hunting Hotspots for 2017-2018'
     subtitle: '5 public hunting destinations you may want to explore'
     url: 'http://www.ducks.org/hunting/waterfowl-hunting-destinations/mississippi-flyway-public-waterfowl-hunting-hotspots-for-2017-2018'
