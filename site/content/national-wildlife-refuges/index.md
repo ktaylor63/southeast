@@ -13,7 +13,7 @@ hero:
 url: /national-wildlife-refuges
 tags:
     - 'National Wildlife Refuge System'
-updated: 'August 31st, 2017'
+updated: 'November 6th, 2017'
 ---
 
 Animals have many of the same needs we do. They need space to rest, safe areas to raise their young, and access to healthy food.  National wildlife refuges are places where many of our nation’s animals can find the habitat they need to survive.
@@ -27,3 +27,7 @@ National Wildlife Refuges are America's public lands and waters set aside to con
 In 1903 President Theodore Roosevelt created the first National Wildlife Refuge at Pelican Island in Sebastian, Florida to protect brown pelican breeding grounds. The refuge system has since grown to more than 553 refuges across the nation, protecting more than 150 million acres.
 
 [Find a wildlife refuge near you](/map/?search=National+Wildlife+Refuge)!
+
+## Infographic
+
+{{< figure class="photo-center" src="/images/pages/nwrs-infographic.jpg" alt="An infographic describing the impact of the National Wildlife Refuge System in the Southeast" >}}
