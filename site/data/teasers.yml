@@ -1,5 +1,14 @@
 ---
 stories:
+  - title: 'Former USFWS Leader Receives Highest Honor from Regional Wildlife Agencies'
+    url: 'http://www.seafwa.org/news/e_2060/News/2017/11/Former_USFWS_Leader_Receives_Highest_Honor_from_Regional_Wildlife_Agencies.htm'
+    date: '2017-11-06'
+    summary: 'The Southeastern Association of Fish and Wildlife Agencies (SEAFWA) named the U.S. Fish and Wildlife Service’s former Southeast Regional Director Cindy Dohner the 2017 C. W. Watson Award winner at their annual meeting in Louisville this week. The award is the highest honor bestowed by the Association.'
+    hero:
+      name: 'cindy-dohner-with-hawk.jpg'
+      alt: 'A woman in a pink shirt holding a hawk with a gloved hand'
+      link: 'https://flic.kr/p/dfQGAS'
+      caption: 'Former regional director for the USFWS Southeast region, Cindy Dohner. Photo by USFWS.'
   - title: 'Georgia’s barrier islands get important shorebird designation'
     url: 'http://jacksonville.com/news/georgia/2017-11-01/georgia-s-barrier-islands-get-important-shorebird-designation'
     date: '2017-11-01'
