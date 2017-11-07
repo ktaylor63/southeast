@@ -15,16 +15,18 @@ a {
 }
 
 #skip-to-content {
-  background: white;
-  border: 2px solid $color-accent;
+  background: $color-accent;
+  border: 2px solid darken($color-accent, 10);
   border-radius: $border-radius;
+  color: white;
   height: 0;
   left: 1em;
-  padding: .5em;
+  padding: 0.5em;
   position: absolute;
   top: 1em;
   opacity: 0;
   width: 0;
+  transition: all 0.3s ease-in;
 
   &:focus {
     height: auto;
@@ -34,14 +36,14 @@ a {
   }
 }
 
-a[href$=".pdf"] {
+a[href$='.pdf'] {
   &:after {
     content: url('../images/pdf.png');
     margin-left: 5px;
   }
 }
 
-a.button[href$=".pdf"] {
+a.button[href$='.pdf'] {
   &:after {
     content: '';
   }
