@@ -14,9 +14,9 @@ tags:
     - Delist
     - Downlist
     - 'Endangered Species Act'
-    - Recovery
     - 'Endangered Species Act'
-updated: 'June 13th, 2017'
+    - Recovery
+updated: 'November 7th, 2017'
 ---
 
 The goal of the U.S. FIsh and Wildlife Service  under the Endangered Species Act (ESA) is to conserve plants and animals listed as endangered or threatened, as well as the ecosystems upon which they depend. The Service also works to improve the status of those species to the point that protection under the ESA is no longer necessary. This process is called **recovery**.
@@ -26,6 +26,10 @@ Recovering any species is a challenge that takes time. In some cases we, are att
 Achieving recovery for threatened and endangered species requires cooperative conservation efforts. The collaborative efforts of the Service and its many partners, including states, tribes, not-for-profit organizations, universities, researchers, private individuals, and other federal agencies, are critical to the recovery of listed species.
 
 {{< figure class="photo-center" src="/images/pages/wood-stork-chicks.jpg" alt="Two fluffy wood stork chicks in a nest at the top of a tree" caption="Two wood stork chicks at Harris Neck National Wildlife Refuge in Georgia. Photo by Mary Ellen Urbanski" link="https://flic.kr/p/nCBbeJ" >}}
+
+{{< scroller-list tag="Recovery" number="10" section="articles" >}}
+
+{{< scroller-list tag="Recovery" number="10" section="news" >}}
 
 ## How we recover species
 
