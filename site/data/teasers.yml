@@ -1,5 +1,15 @@
 ---
 stories:
+  - title: 'Anatomy of a Weir'
+    subtitle: 'Keeping a finger on the pulse of Alaska’s salmon runs'
+    url: 'https://medium.com/conservation-service-in-action/anatomy-of-a-weir-383f25fb1c8c'
+    date: '2017-11-04'
+    summary: 'During a routine physical exam, your doctor checks your vitals, right? Weight, heart rate, blood pressure etcetera. Annual visits establish a baseline of personal health against which unhealthy trends can be detected before they become risk factors. We need baselines for the health of our salmon runs too. Weirs help us to establish those baselines and then detect changes in populations over time. They also help fisheries managers evaluate and adjust their management actions, reconstruct past salmon abundances, and forecast future salmon returns.'
+    hero:
+      name: 'alaska-salmon-restoration.jpg'
+      alt: 'A USFWS employee holding a large trout just below the water’s surface.'
+      caption: 'This chum salmon swam up the Yukon River and passed through our East Fork Andreafsky River weir on the way to its spawning grounds in Alaska’s Yukon Delta National Wildlife Refuge. Photo by Ryan Hagerty, USFWS.'
+      position: bottom center
   - title: 'Former USFWS Leader Receives Highest Honor from Regional Wildlife Agencies'
     url: 'http://www.seafwa.org/news/e_2060/News/2017/11/Former_USFWS_Leader_Receives_Highest_Honor_from_Regional_Wildlife_Agencies.htm'
     date: '2017-11-06'
