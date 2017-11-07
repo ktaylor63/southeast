@@ -26,9 +26,9 @@ The Louisiana field office of the U.S. Fish and Wildlife Service offers informat
   - October 21: T.E.C.H.E. Project [Shake Your Trail Feather](http://www.techeproject.org/events/shake-your-trail-feather/) - 
   - October 28: Atelier de la Nature [Halloween Art & Nature Festival](https://www.facebook.com/events/1394392184007349)
 
-### January 2018
+### February 2018
 
-  - LEDA Career Connections
+  - LEDA Career Connections - February 7
 
 ### March 2018
 
