@@ -7,9 +7,9 @@ hero:
     link: 'https://flic.kr/p/8znoym'
     caption: 'A Key deer in velvet. Photo by USFWS.'
 tags:
-    - NWRS
     - Florida
-updated: 'October 26th, 2016'
+    - NWRS
+updated: 'November 7th, 2017'
 ---
 
 The petite Key deer is dependent on fresh water in a place where fresh water can sometimes be scarce – the Florida Keys, the only place where the Key deer lives. At National Key Deer Refuge, fresh water collects in small ponds that form in the limestone, known as solution holes, providing life for the refuge’s federally listed Key deer population.
@@ -40,7 +40,9 @@ For a full list of funded projects nationwide, go to the [Department’s Recover
 
 For more information [visit the National Key Deer Refuge website](https://www.fws.gov/refuge/National_Key_Deer_Refuge/).
 
-The U.S. Fish and Wildlife Service is the principal Federal agency responsible for conserving, protecting and enhancing fish, wildlife and plants and their habitats for the continuing benefit of the American people. The Service manages the 95-million-acre National Wildlife Refuge System, which encompasses 547 national wildlife refuges, thousands of small wetlands and other special management areas. It also operates 69 national fish hatcheries, 64 fishery resources offices and 81 ecological services field stations. The agency enforces federal wildlife laws, administers the Endangered Species Act, manages migratory bird populations, restores nationally significant fisheries, conserves and restores wildlife habitat such as wetlands, and helps foreign and Native American tribal governments with their conservation efforts. It also oversees the Federal Assistance program, which distributes hundreds of millions of dollars in excise taxes on fishing and hunting equipment to state fish and wildlife agencies.
+The U.S. Fish and Wildlife Service is the principal Federal agency responsible for conserving, protecting and enhancing fish, wildlife and plants and their habitats for the continuing benefit of the American people. The Service manages the 95-million-acre National Wildlife Refuge System, which encompasses 547 national wildlife refuges[^1], thousands of small wetlands and other special management areas. It also operates 69 national fish hatcheries, 64 fishery resources offices and 81 ecological services field stations. The agency enforces federal wildlife laws, administers the Endangered Species Act, manages migratory bird populations, restores nationally significant fisheries, conserves and restores wildlife habitat such as wetlands, and helps foreign and Native American tribal governments with their conservation efforts. It also oversees the Federal Assistance program, which distributes hundreds of millions of dollars in excise taxes on fishing and hunting equipment to state fish and wildlife agencies.
+
+[^1]: November 7, 2017 update: The refuge system has grown to more than 566 national wildlife refuges spanning approximately 100 million acres of lands and 750 million acres of oceans in the United States.
 
 ## Contact
 

@@ -12,10 +12,10 @@ tags:
     - Florida
     - Gulf
     - 'National Wildlife Refuge System'
-updated: 'April 21st, 2017'
+updated: 'November 7th, 2017'
 ---
 
-**MEMPHIS, TN** &mdash; Secretary of the Interior Ken Salazar today unveiled a special edition Federal Duck Stamp envelope, or cachet, which hunters, birding enthusiasts, stamp collectors and other conservationists, can purchase for $25 -- or $10 more than the cost of a regular Duck Stamp &mdash; to help conservation efforts in the Gulf of Mexico. The funds will be used to acquire wetlands for inclusion in national wildlife refuges along the Gulf Coast.  
+**Memphis, Tennessee** &mdash; Secretary of the Interior Ken Salazar today unveiled a special edition Federal Duck Stamp envelope, or cachet, which hunters, birding enthusiasts, stamp collectors and other conservationists, can purchase for $25 -- or $10 more than the cost of a regular Duck Stamp &mdash; to help conservation efforts in the Gulf of Mexico. The funds will be used to acquire wetlands for inclusion in national wildlife refuges along the Gulf Coast.  
 
 “When the Dust Bowl of the 1930s destroyed many wetlands, our nation’s sportsmen lobbied Congress to support the creation of the Duck Stamp for wetland acquisition and conservation,” Salazar said. “Today, the wildlife of the Gulf Coast faces new threats – from the current oil spill to disappearing wetlands – that we must rise to confront. This special edition duck stamp cachet will provide hunters and other conservationists the opportunity to once again go beyond the call of duty by conserving disappearing wetlands for generations to come.”  
 
@@ -25,7 +25,7 @@ The cachet features a silk rendering of an award-winning photograph of St. Marks
 
 All migratory bird hunters must buy a $15 Federal Duck Stamp, formally known as the Migratory Bird Hunting and Conservation Stamp, each year in addition to state licenses, stamps and permits. The design of the stamp is determined by an annual art competition, and the stamps have become popular with stamp collectors and wildlife art enthusiasts as well as those who simply want to contribute to wetland conservation.
 
-Since 1934, Federal Duck Stamp sales have raised more than $750 million to acquire and protect more than 5.3 million acres of wetlands, including habitat on hundreds of the 552 National Wildlife Refuges spread across all 50 states and U.S. territories.  
+Since 1934, Federal Duck Stamp sales have raised more than $750 million to acquire and protect more than 5.3 million acres of wetlands, including habitat on hundreds of the 552 National Wildlife Refuges[^1] spread across all 50 states and U.S. territories.  
 
 The public can purchase the special edition Federal Duck Stamp cachet from Amplex Corporation, the U.S. Fish and Wildlife Service’s distributor, by dialing 1-800-852-4897 or at [duckstamp.com](www.duckstamp.com).
 
@@ -38,6 +38,8 @@ Nearly $4 million in construction projects are underway at the complex under the
 Six other ARRA projects at the complex will help maintain wildlife habitat and provide improved recreational boating facilities for the public.
 
 The U.S. Fish and Wildlife Service is the principal federal agency responsible for conserving, protecting and enhancing fish, wildlife and plants and their habitats for the continuing benefit of the American people. Visit the Service’s website at [fws.gov/](https://fws.gov/) or [fws.gov/southeast/](https://fws.gov/southeast/).
+
+[^1]: November 7, 2017 update: The refuge system has grown to more than 566 national wildlife refuges spanning approximately 100 million acres of lands and 750 million acres of oceans in the United States.
 
 ## Contact
 

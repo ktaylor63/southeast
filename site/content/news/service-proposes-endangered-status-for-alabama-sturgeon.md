@@ -1,15 +1,16 @@
 ---
-title: Service proposes endangered status for Alabama sturgeon
+title: 'Service proposes endangered status for Alabama sturgeon'
 date: '2014-03-11'
 hero:
-  name: cahaba-river-lillies.jpg
-  alt: Bright white flowers with a river in the background.
-  link: https://flic.kr/p/9EAgB1
-  caption: Lilies at Cahaba River National Wildlife Refuge. Photo by Garry Tucker, USFWS.
+    name: cahaba-river-lillies.jpg
+    alt: 'Bright white flowers with a river in the background.'
+    link: 'https://flic.kr/p/9EAgB1'
+    caption: 'Lilies at Cahaba River National Wildlife Refuge. Photo by Garry Tucker, USFWS.'
 tags:
- - Alabama
- - Alabama sturgeon
- - Mississippi
+    - Alabama
+    - 'Alabama Sturgeon'
+    - Mississippi
+updated: 'November 7th, 2017'
 ---
 
 The U.S. Fish and Wildlife Service this week is proposing that the Alabama sturgeon, a freshwater fish that once inhabited extensive portions of the Mobile River system, be listed as endangered on the federal list of endangered and threatened species. A species is endangered when it is at risk of becoming extinct in the foreseeable future.
@@ -40,7 +41,9 @@ These species share similar threats with the Alabama sturgeon and their presence
 
 The Service is inviting public comments on its proposal to list the Alabama sturgeon as an endangered species. Comments may be directed to the Field Supervisor, U.S. Fish and Wildlife Service, 6578 Dogwood View Parkway, Jackson, MS, 39213, and will be accepted through May 24, 1999\. Requests for a public hearing must be submitted to the same address by May 9, 1999\. For more information, contact the address above or call (601) 965-4900.
 
-The U.S. Fish and Wildlife Service is the principal federal agency responsible for conserving, protecting, and enhancing fish and wildlife and their habitats for the continuing benefit of the American people. The Service manages the 93-million-acre National Wildlife Refuge System comprised of more than 500 national wildlife refuges, thousands of small wetlands, and other special management areas. It also operates 66 national fish hatcheries and 78 Ecological Services field stations. The agency enforces Federal wildlife laws, administers the Endangered Species Act, manages migratory bird populations, restores nationally significant fisheries, conserves and restores wildlife habitat such as wetlands, and helps foreign governments with their conservation efforts. It also oversees the Federal Aid program that distributes hundreds of millions of dollars in excise taxes on fishing and hunting equipment to state fish and wildlife agencies.
+The U.S. Fish and Wildlife Service is the principal federal agency responsible for conserving, protecting, and enhancing fish and wildlife and their habitats for the continuing benefit of the American people. The Service manages the 93-million-acre National Wildlife Refuge System comprised of more than 500 national wildlife refuges[^1], thousands of small wetlands, and other special management areas. It also operates 66 national fish hatcheries and 78 Ecological Services field stations. The agency enforces Federal wildlife laws, administers the Endangered Species Act, manages migratory bird populations, restores nationally significant fisheries, conserves and restores wildlife habitat such as wetlands, and helps foreign governments with their conservation efforts. It also oversees the Federal Aid program that distributes hundreds of millions of dollars in excise taxes on fishing and hunting equipment to state fish and wildlife agencies.
+
+[^1]: November 7, 2017 update: The refuge system has grown to more than 566 national wildlife refuges spanning approximately 100 million acres of lands and 750 million acres of oceans in the United States.
 
 ## Contact
 

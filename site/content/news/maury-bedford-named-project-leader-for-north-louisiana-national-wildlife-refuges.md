@@ -7,9 +7,9 @@ hero:
     caption: 'Project leader Maury Bedford. Photo by USFWS.'
     position: 'top center'
 tags:
-    - 'National Wildlife Refuge System'
     - Louisiana
-updated: 'October 20th, 2016'
+    - 'National Wildlife Refuge System'
+updated: 'November 7th, 2017'
 ---
 
 The U.S. Fish and Wildlife Service has appointed Louisiana native Maury Bedford as the new leader for the five National Wildlife Refuges in North Louisiana.
@@ -34,7 +34,9 @@ He was born in Lincoln Parish and grew up in Grambling, Louisiana.  He holds a 
 
 Maury and his wife Melissa, who relocated to North Louisiana in September, enjoy bike riding, hiking, canoeing, hunting, and fishing.  They have two grown sons, Shawn, 26, and Maurtin, 21, and two grandsons and look forward to passing along hunting and fishing traditions to the next generation. 
 
-A hundred years in the making, the National Wildlife Refuge system is a network of habitats that benefits wildlife, provides unparalleled outdoor experiences for all Americans, and protects a healthy environment.  Today, there are more than 560 national wildlife refuges and 38 wetland management districts, including one within an hour's drive of most major metropolitan areas.  The refuges provide habitat for more than 700 species of birds, 220 species of mammals, 250 reptile and amphibian species and more than 1,000 species of fish.  More than 380 threatened or endangered plants or animals are protected on wildlife refuges. Each year, millions of migrating birds use refuges as stepping stones while they fly thousands of miles between their summer and winter homes.
+A hundred years in the making, the National Wildlife Refuge system is a network of habitats that benefits wildlife, provides unparalleled outdoor experiences for all Americans, and protects a healthy environment.  Today, there are more than 560 national wildlife refuges[^1] and 38 wetland management districts, including one within an hour's drive of most major metropolitan areas.  The refuges provide habitat for more than 700 species of birds, 220 species of mammals, 250 reptile and amphibian species and more than 1,000 species of fish.  More than 380 threatened or endangered plants or animals are protected on wildlife refuges. Each year, millions of migrating birds use refuges as stepping stones while they fly thousands of miles between their summer and winter homes.
+
+[^1]: November 7, 2017 update: The refuge system has grown to more than 566 national wildlife refuges spanning approximately 100 million acres of lands and 750 million acres of oceans in the United States.
 
 ## Contacts
 
@@ -42,4 +44,4 @@ Phil Kloer, 404-679-7299
 [phillip_kloer@fws.gov](mailto:phillip_kloer@fws.gov)
 
 Maury Bedford, 318-726-4222  
-maury_bedford@fws.gov 
+[maury_bedford@fws.gov](mailto:maury_bedford@fws.gov)

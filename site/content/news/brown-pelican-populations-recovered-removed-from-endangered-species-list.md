@@ -39,7 +39,7 @@ In the southwest, the Texas Parks and Wildlife Department, The Nature Conservanc
 
 Louisiana, long known as the “pelican state,” and the Florida Game and Fresh Water Fish Commission jointly implemented a restoration project. A total of 1,276 young pelicans were captured in Florida and released at three sites in southeastern Louisiana during the 13 years of the project.
 
-Past efforts to protect the brown pelican actually led to the birth of the National Wildlife Refuge System more than a century ago in central Florida. German immigrant Paul Kroegel, appalled by the indiscriminate slaughter of pelicans for their feathers, approached President Theodore Roosevelt. This led Roosevelt to create the first National Wildlife Refuge at Pelican in 1903, when Kroegel was named the first refuge manager. Today, the system has grown to 550 national wildlife refuges, many of which have played key roles in the recovery of the brown pelican.
+Past efforts to protect the brown pelican actually led to the birth of the National Wildlife Refuge System more than a century ago in central Florida. German immigrant Paul Kroegel, appalled by the indiscriminate slaughter of pelicans for their feathers, approached President Theodore Roosevelt. This led Roosevelt to create the first National Wildlife Refuge at Pelican in 1903, when Kroegel was named the first refuge manager. Today, the system has grown to 550 national wildlife refuges[^1], many of which have played key roles in the recovery of the brown pelican.
 
 With removal of the brown pelican from the list of threatened and endangered species, federal agencies will no longer be required to consult with the Service to ensure any action they authorize, fund, or carry out will not harm the species. However, additional federal laws, such as the Migratory Bird Treaty Act and the Lacey Act, will continue to protect the brown pelican, its nests and its eggs.
 
@@ -48,6 +48,8 @@ The Service has developed a Post-Delisting Monitoring Plan, designed to monitor 
 The monitoring will be done in cooperation with the State resource agencies, the Commonwealth of Puerto Rico, U.S. Virgin Islands, Mexico, other federal agencies, non-governmental organizations, and individuals. Further, the Service is working with state natural resource agencies where the brown pelican occurs to develop cooperative management agreements to ensure that the species continues to be monitored.
 
 The final rule removing the bird from the list of threatened and endangered species will be published in the Federal Register and will take effect 30 days after publication.
+
+[^1]: November 7, 2017 update: The refuge system has grown to more than 566 national wildlife refuges spanning approximately 100 million acres of lands and 750 million acres of oceans in the United States.
 
 ## Contact
 

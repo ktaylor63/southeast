@@ -8,7 +8,7 @@ hero:
 date: '2013-12-23'
 tags:
     - 'National Wildlife Refuge System'
-updated: 'October 20th, 2016'
+updated: 'November 7th, 2017'
 ---
 
 **WASHINGTON, D.C.** – Seeing wildlife conservation in action just gained even more appeal. America’s national wildlife refuges will offer free admission to visitors on these days in 2014:  
@@ -27,7 +27,7 @@ You can plan a refuge visit around a bird festival, wildlife tour or other speci
 
 National wildlife refuges also help support local communities, pumping $2.4 billion into the national economy and supporting more than 35,000 jobs, according to a recent [federal report](http://www.fws.gov/refuges/about/RefugeReports/). More than 45 million people visit refuges every year.  
 
-Of the nation’s 562 national wildlife refuges, 460 are open to the public. Of those, only 35 refuges charge an entrance fee, generally ranging from $3 to $5\. Admission to the others is free. The entrance fee waiver does not cover concessionaire or license fees for some activities such as hunting, fishing or special tours.  
+Of the nation’s 562 national wildlife refuges[^1], 460 are open to the public. Of those, only 35 refuges charge an entrance fee, generally ranging from $3 to $5\. Admission to the others is free. The entrance fee waiver does not cover concessionaire or license fees for some activities such as hunting, fishing or special tours.  
 
 Other federal land management agencies that will offer fee-free days in 2014 are: the [National Park Service](http://www.nps.gov/), the [Bureau of Land Management](https://www.blm.gov/), the [Bureau of Reclamation](http://www.usbr.gov), the [U.S. Forest Service](http://www.fs.fed.us) and the [Army Corps of Engineers](http://www.usace.army.mil). Please contact each for details.  
 
@@ -40,7 +40,9 @@ Four passes are available:
  - $10 lifetime senior pass for those aged 62 and over
  - $80 annual pass for the general public.
 
-[Learn how you can buy a pass online](http://store.usgs.gov/pass/index.html).
+[Learn how you can buy a pass online](http://store.usgs.gov/pass/).
+
+[^1]: November 7, 2017 update: The refuge system has grown to more than 566 national wildlife refuges spanning approximately 100 million acres of lands and 750 million acres of oceans in the United States.
 
 ## Contact
 
