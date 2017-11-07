@@ -24,7 +24,7 @@ National Wildlife Refuges are America's public lands and waters set aside to con
 
 ## History of National Wildlife Refuges
 
-In 1903 President Theodore Roosevelt created the first National Wildlife Refuge at Pelican Island in Sebastian, Florida to protect brown pelican breeding grounds. The refuge system has since grown to more than 553 refuges across the nation, protecting more than 150 million acres.
+In 1903 President Theodore Roosevelt created the first National Wildlife Refuge at Pelican Island in Sebastian, Florida to protect brown pelican breeding grounds. The refuge system has since grown to more than 566 national wildlife refuges spanning approximately 100 million acres of lands and 750 million acres of oceans in the United States.
 
 [Find a wildlife refuge near you](/map/?search=National+Wildlife+Refuge)!
 
