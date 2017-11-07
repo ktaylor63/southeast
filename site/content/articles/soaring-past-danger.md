@@ -6,7 +6,7 @@ author: 'Mark Davis, Public Affairs Specialist'
 type: feature
 tags:
     - Aviary
-    - 'El Junque National Forest'
+    - 'El Yunque National Forest'
     - 'Endangered Species Act'
     - Hurricane
     - 'Hurricane Maria'
@@ -18,7 +18,7 @@ hero:
     alt: 'Three green parrots standing on a perch in a cage.'
     caption: 'Jafet Velez, a Service biologist, checks in on Puerto Rican parrots in their aviary home. Despite damage from Hurricane Maria, “We are confident we will have an awesome 2018 breeding season,” he says. Photo by Mark Davis, USFWS.'
     link: 'https://flic.kr/p/YrxReL'
-updated: 'October 17th, 2017'
+updated: 'November 7th, 2017'
 ---
 
 **El Yunque National Forest, Puerto Rico** – They’re old, parenthood behind them, but that hardly means the two senior citizens serve no purpose. 
@@ -59,7 +59,7 @@ He began working for the Service as a young man wanting to set aside cash to pay
 
 He may be Puerto Rico’s No. 1 parrot cheerleader. Velez sometimes wanders among the cages, thinking: _Is that bird ready for mating? Should I change this one’s diet_? Other times he’s a torrent of facts – that parrots can live to be 40; that they’re territorial; that they mate for life.
 
-{{< figure class="photo-center" src="/images/pages/puerto-rican-parrots-after-maria.jpg" alt="Three bright green parrots in a cage." caption="Puerto Rican parrots rode out Hurricane Maria recently in their U.S. Fish and Wildlife Service aviary in [El Junque National Forest](https://www.fs.usda.gov/elyunque). In the ‘70s only about 13 parrots were known to exist; last year more than 100 were hatched. Photo by Mark Davis, USFWS." link="https://flic.kr/p/ZhUiD7" >}}
+{{< figure class="photo-center" src="/images/pages/puerto-rican-parrots-after-maria.jpg" alt="Three bright green parrots in a cage." caption="Puerto Rican parrots rode out Hurricane Maria recently in their U.S. Fish and Wildlife Service aviary in [El Yunque National Forest](https://www.fs.usda.gov/elyunque). In the ‘70s only about 13 parrots were known to exist; last year more than 100 were hatched. Photo by Mark Davis, USFWS." link="https://flic.kr/p/ZhUiD7" >}}
 
 Well, not always for life. One couple recently had “marital difficulties,” Velez said. “I separated them for counseling,”
 
