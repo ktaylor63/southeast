@@ -35,8 +35,10 @@ function getGrade(lowGrade, highGrade) {
   return lowGrade === highGrade ? lowGrade : `${lowGrade}/${highGrade}`;
 }
 
-function getCompensation(minRange, maxRange) {
-  return `${Number(minRange).toLocaleString()} - ${Number(maxRange).toLocaleString()}`;
+function getCompensation(salary) {
+  return `${Number(salary.minRange).toLocaleString()} - ${Number(
+    salary.maxRange
+  ).toLocaleString()}`;
 }
 
 function createJobSeries(category) {
@@ -52,17 +54,20 @@ function createCard(data) {
   const details = data.UserArea.Details;
   const grade = getGrade(details.LowGrade, details.HighGrade);
   const salary = data.PositionRemuneration[0];
-  const compensation = getCompensation(salary.MinimumRange, salary.MaxiumRange);
+  const compensation = getCompensation(salary);
+  console.log(salary);
   return `
     <li class="card card-text">
-      <h3><a href="${data.PositionURI}" target="_blank">${data.PositionTitle} (${data.JobGrade[0].Code} ${grade})</a></h3>
+      <h3><a href="${data.PositionURI}" target="_blank">${data.PositionTitle} (${data.JobGrade[0]
+  .Code} ${grade})</a></h3>
       <p><strong>Key Details:</strong></p>
       <ul>
         <li>Application Close Date: ${closeDate}</li>
         <li>Compensation: ${compensation}</li>
-        <li>Position Type: ${data.PositionSchedule[0].Name} ${data.PositionOfferingType[0].Name}</li>
-        ${data.JobCategory.map(createJobSeries)}
-        ${data.PositionLocation.map(createLocationList)}
+        <li>Position Type: ${data.PositionSchedule[0].Name} ${data.PositionOfferingType[0]
+  .Name}</li>
+        ${data.JobCategory.map(createJobSeries).join('')}
+        ${data.PositionLocation.map(createLocationList).join('')}
       </ul>
       <p>${details.JobSummary}</p>
       <p><a href="${data.ApplyURI[0]}" target="_blank">Apply online</a></p>
@@ -73,12 +78,14 @@ function createCard(data) {
 
 function render(err, message, results) {
   if (err) return showError(err, message);
-  results.map(result => {
-    const data = result.MatchedObjectDescriptor;
-    const html = createCard(data);
-    output.innerHTML = html;
-    return html;
-  });
+  results
+    .map(result => {
+      const data = result.MatchedObjectDescriptor;
+      const html = createCard(data);
+      output.innerHTML = html;
+      return html;
+    })
+    .join('');
 }
 
 function expandSearch() {
