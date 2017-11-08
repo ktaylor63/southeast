@@ -1,13 +1,13 @@
 ---
-draft: true
 title: 'Refuges reach out to urban visitors'
 author: 'By Dan Chapman, Public Affairs Specialist'
+type: feature
 hero:
     name: pinckney-island-nwr-marsh.jpg
     alt: 'Bright green grass emerges from a huge marsh.'
     caption: 'Pinckney Island National Wildlife Refuge in South Carolina is a kayaker’s paradise. Photo by Eric Horan, USFWS.'
     link: 'https://flic.kr/p/8Nz9fW'
-date: '2017-11-03'
+date: '2017-11-08'
 tags:
     - 'Bayou Sauvage National Wildlife Refuge'
     - Florida
