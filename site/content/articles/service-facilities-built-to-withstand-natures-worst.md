@@ -1,8 +1,7 @@
 ---
-draft: true
 title: 'Service facilities built to withstand nature’s worst'
 description: 'Hurricanes are never welcome, but they can prompt changes in buildings to make them better, stronger, and more capable of handling high water and even higher winds.'
-date: '2017-11-02'
+date: '2017-11-09'
 author: 'Mark Davis and Dan Chapman'
 type: feature
 hero:
@@ -39,7 +38,7 @@ tags:
     - Tennessee
     - Texas
     - 'US Virgin Islands'
-updated: 'November 2nd, 2017'
+updated: 'November 9th, 2017'
 ---
 
 Hurricanes are never welcome, but they can prompt changes in buildings to make them better, stronger, and more capable of handling high water and even higher winds.
@@ -80,6 +79,12 @@ The refuge did not escape without injury. Irma damaged a handful of refuge-owned
 
 “You have to rebuild correctly,” Clark said. “You can’t pick the cheap option and run the risk of hurting people and losing buildings.”
 
+The Service is committed to smart expenditures, said Mike Oetker, the Southeast Region’s acting regional director.
+
+"Our managers and leaders for more than 20 years have perfected response to big storms like Irma and Maria," he said. "They've also built a strong track record for smart recovery rebuilding facilities to the strongest hurricane standards and in some cases also relocating them to more secure areas.  
+
+“The result is that we save a lot money because we don't have to rebuild those structures later."
+
 Other refurbished/rebuilt structures include:
 
   - Replacement staff housing at [J.N. “Ding” Darling NWR](https://www.fws.gov/refuge/jn_ding_darling/) in Sanibel, Florida. The storms of 2005 swept away the original bunkhouse, built in the 1960s. The Service replaced it with two buildings. They were erected to avoid storm surges, and feature impact-resistant doors and windows. Each is built of concrete.
@@ -96,3 +101,11 @@ The Service has overseen other projects in hurricane-prone areas, and is ready t
 If necessary, it’s ready to repeat the process.
 
 {{< figure class="photo-center" src="/images/pages/bon-secour-residence-1-mile-inland.jpg" alt="A newly constructed home." caption="Residence at Bon Secour National Wildlife Refuge. The home was rebuilt one mile inland to mitigate the risk of flooding from storm surge. Photo by USFWS." >}}
+
+## Contact
+
+Mark Davis, Public Affairs Specialist  
+[mark_r_davis@fws.gov](mailto:mark_r_davis@fws.gov), (404) 679-7291
+
+Dan Chapman, Public Affairs Specialist  
+[daniel_chapman@fws.gov](mailto:daniel_chapman@fws.gov), (404) 679-4028
