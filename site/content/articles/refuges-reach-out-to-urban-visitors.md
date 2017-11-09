@@ -1,6 +1,6 @@
 ---
 title: 'Refuges reach out to urban visitors'
-author: 'By Dan Chapman, Public Affairs Specialist'
+author: 'Dan Chapman, Public Affairs Specialist'
 type: feature
 hero:
     name: pinckney-island-nwr-marsh.jpg

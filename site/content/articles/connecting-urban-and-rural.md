@@ -6,7 +6,7 @@ hero:
     caption: 'Nancy Fernandez and Monica Harris share a moment at the Pinckney Island National Wildlife Refuge in South Carolina. Photo by Dan Chapman, USFWS.'
     position: 'top center'
 description: 'Nancy Fernandez’s job is to lure more Americans into the great outdoors. Sounds simple enough. But here’s what she’s up against:'
-author: 'By Dan Chapman, Public Affairs Specialist'
+author: 'Dan Chapman, Public Affairs Specialist'
 type: feature
 date: '2017-11-08'
 tags:
