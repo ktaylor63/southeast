@@ -35,10 +35,10 @@ function getGrade(lowGrade, highGrade) {
   return lowGrade === highGrade ? lowGrade : `${lowGrade}/${highGrade}`;
 }
 
-function getCompensation(salary) {
-  return `${Number(salary.minRange).toLocaleString()} - ${Number(
-    salary.maxRange
-  ).toLocaleString()}`;
+function getCompensation({ MinimumRange: min, MaximumRange: max, RateIntervalCode: type }) {
+  return `$${Number(min).toLocaleString()} - $${Number(
+    max
+  ).toLocaleString()} ${type.toLowerCase()}`;
 }
 
 function createJobSeries(category) {
@@ -55,7 +55,6 @@ function createCard(data) {
   const grade = getGrade(details.LowGrade, details.HighGrade);
   const salary = data.PositionRemuneration[0];
   const compensation = getCompensation(salary);
-  console.log(salary);
   return `
     <li class="card card-text">
       <h3><a href="${data.PositionURI}" target="_blank">${data.PositionTitle} (${data.JobGrade[0]
