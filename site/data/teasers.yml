@@ -1,5 +1,15 @@
 ---
 stories:
+  - title: 'TNC protects land essential to the Florida panther on the northern bank of the Caloosahatchee River'
+    url: 'https://www.nature.org/ourinitiatives/regions/northamerica/unitedstates/florida/newsroom/florida-caloosahatchee-river-panther-habitat-protected.xml'
+    date: '2017-11-09'
+    summary: 'The Nature Conservancy announces protection of land along the northern bank of the Caloosahatchee River that is essential to the future expansion of the federally endangered Florida panther population. The new conservation easement marks a series of firsts for the organization and a strong step in panther conservation. The 460-acre Cypress Creek Grove property in Glades County has been forever safeguarded from urban development and is the first protected tract within the identified panther corridor on the northern bank of the river.'
+    hero:
+      link: 'https://flic.kr/p/8So6zm'
+      caption: 'A Florida panther. Photo by Larry W. Richardson, USFWS.'
+      alt: 'A Florida panther walking on a gravel road with a slash pine forest in the background'
+      name: florida-panther.jpg
+      position: 'left center'
   - title: 'Anatomy of a Weir'
     subtitle: 'Keeping a finger on the pulse of Alaska’s salmon runs'
     url: 'https://medium.com/conservation-service-in-action/anatomy-of-a-weir-383f25fb1c8c'
