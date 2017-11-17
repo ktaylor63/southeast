@@ -5,7 +5,7 @@
     {{ if .Params.subtitle }}
     h2.page-subtitle id="{{ urlize .Params.subtitle }}" {{ .Params.subtitle}}
     {{ end }}
-    p.byline {{ if .Params.author }}By {{ .Params.author }}{{ end }}
+    p.byline {{ if .Params.author }}By {{ .Params.author | safeHTML }}{{ end }}
       {{ if not .Date.IsZero }}
         span.article-date {{ .Date.Format "January 2, 2006" }}
       {{ end }}
