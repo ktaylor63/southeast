@@ -13,10 +13,24 @@ aliases:
 tags:
     - GIS
     - Map
-updated: 'March 28th, 2017'
+updated: 'November 17th, 2017'
 ---
 
 How does the Southeast region of the U.S. Fish and Wildlife Service use GIS?  Check out a curated list of GIS projects below!
+
+## South Atlantic LCC Blueprint 2.2
+
+{{< figure class="photo-center" src="/images/pages/south-atlantic-lcc-blueprint-2.2.jpg" alt="Logo for the South Atlantic Landscape Conservation Cooperative" >}}
+
+The [South Atlantic Conservation Blueprint](http://www.southatlanticlcc.org/blueprint/) is a living spatial plan to conserve natural and cultural resources for future generations. It identifies opportunities for shared conservation action in the face of future changes like sea-level rise and urban growth.
+
+The latest update to the Blueprint, Version 2.2, was released in November 2017. The Blueprint is totally data-driven, prioritizing the lands and waters of the South Atlantic based on the current condition of terrestrial, freshwater, marine, and cross-ecosystem indicators. Through a connectivity analysis, the Blueprint also identifies corridors that link coastal and inland areas and span climate gradients. So far, more than 500 people from 150 different organizations have actively participated in developing the Blueprint. The South Atlantic Blueprint also integrates with a broader Southeast-wide plan as part of the [Southeast Conservation Adaptation Strategy](http://secassoutheast.org/) (SECAS).
+
+The Blueprint has been used in more than thirty different projects, helping members of the cooperative bring national fire resilience funding to the region, compete for coastal wetlands protection grants, provide landscape-scale context for public lands planning, plan for major disasters, and prioritize fish passage efforts. Through a transparent process, a science-based plan, and a user-friendly product, the South Atlantic LCC intends the Blueprint to eventually become a "gold standard" for guiding large landscape conservation.
+
+The Blueprint is available online through two mapping viewers: the [Simple Viewer](http://blueprint.southatlanticlcc.org/) and the [Conservation Planning Atlas](http://salcc.databasin.org/). The Simple Viewer summarizes Blueprint priorities, indicator status, and supporting information within subwatersheds and marine lease blocks. The Conservation Planning Atlas allows users to overlay additional datasets, view indicator layers, and download Blueprint data.
+
+If you have questions or would like help incorporating the Blueprint into your conservation work, please reach out to Hilary Morris at [hilary_morris@fws.gov](mailto:hilary_morris@fws.gov).
 
 ## Mapping Beach Mice Habitat
 
@@ -31,26 +45,6 @@ To that end we are attempting to map the coastal dune system with respect to the
 By employing object-based image analysis (OBIA) on high-resolution aerial imagery we are able to look at the diversity of the coastal dune habitat, defined by the mosaic of sand and vegetation.  Defining these objects then allows us to ​map areas of habitat with similar characteristics of this mosaic.  Once the objects are identified​ they are then classified as primary, secondary or scrub dune habitat based on ​the ​​characteristics of the pixels​ of the imagery within each of these objects.
 
 We are also using highly-accurate laser-based, remotely sensed data, known as [LiDAR](https://lta.cr.usgs.gov/lidar_digitalelevation), to help ​us ​a create 3-D view (called digital terrain models​ or DTM) of the coastal dune system​.  ​Because ​we ​can "see" the dunes in 3-D, we are able to do some really cool things like map​ping​ dune footprints​ and dune fields​; identifying areas that do not get inundated during tropical storm events​, etc​​.  All of this put together helps us to get a better understanding of beach mice habitat across the landscape and as a result better address recovery of these species​.
-
-## South Atlantic LCC Blueprint 2.1
-
-{{< figure class="photo-right" src="/images/pages/south-atlantic-lcc-logo.jpg" alt="Logo for the South Atlantic Landscape Conservation Cooperative" >}}
-
-The South Atlantic Conservation Blueprint is a living spatial plan to conserve natural and cultural resources for future generations. It identifies opportunities for shared conservation action, prioritizing the lands and waters of the South Atlantic based on natural and cultural resource indicator models and a connectivity analysis.
-
-Blueprint 2.1, released in August 2016, is a totally data-driven plan based on terrestrial, freshwater, marine, cultural and cross-ecosystem indicators. It uses the current condition of those indicators to prioritize the most important areas for shared action to to sustain natural and cultural resources across the South Atlantic geography. Through a connectivity analysis, the Blueprint also identifies corridors that link coastal and inland areas and span climate gradients. So far, more than 400 people from over 100 organizations have actively participated in developing the Blueprint. To learn more about the Blueprint, visit [the Blueprint page](http://www.southatlanticlcc.org/blueprint/). To learn more about the indicators, visit [the indicator page](http://www.southatlanticlcc.org/page/indicators).
-
-{{< figure class="photo-center" src="/images/pages/south-atlantic-lcc-blueprint-2.1.jpg" alt="A map of the Southeastern United States showing priority areas for conservation." caption="South Atlantic Landscape Conservation Cooperative, Conservation Blueprint 2.1." link="http://www.southatlanticlcc.org/wp-content/uploads/2015/09/Blueprint_2_1_small-1.jpg">}}
-
-The lands and waters of the South Atlantic are changing rapidly. Climate change, urban growth, and increasing human demands on resources are reshaping the landscape. While these forces cut across political and jurisdictional boundaries, the conservation community does not have a consistent cross-boundary, cross-organization plan for how to respond. The South Atlantic Conservation Blueprint is that plan.
-
-In Blueprint 2.1, we’ve worked especially hard to improve the overall Blueprint documentation. Here are just a few of those improvements in the documentation:
-
- - All the intermediary layers (indicators, ecosystem scores, corridors, etc.) are available with metadata on the Conservation Planning Atlas (CPA) in the [Blueprint 2.1 Data Gallery](https://salcc.databasin.org/galleries/b6f85b2c958243f8b385fa1159ce912c).
- - All the indicator layers now have a known issues section. Did you find a problem with an indicator during a review session or as part of a revision team? If it couldn’t be fixed, then it’s in the known issues session. If you don’t see it, or would like to point out a new issue, feel free to email the South Atlantic LCC Science Coordinator at [rua@southatlanticlcc.org](mailto:mailto:rua@southatlanticlcc.org?subject=Blueprint 2.1).
- - Improved legends for all Blueprint layers on the Conservation Planning Atlas. Based on your feedback and review by multiple staff of your cooperative, we’ve improved the wording for all legends.
- - All the changes and improvements in documentation have been reviewed by multiple people to ensure they’re both technically correct and easily understood.
- - Want to see everything in one place? All this improved documentation on the Blueprint is also available as [a single pdf](https://www.sciencebase.gov/catalog/file/get/5798dda4e4b0589fa1c72954?name=Blueprint_2_1_Development_Process.pdf). If you find any problems with the pdf, email our user support and communications expert at [hilary_morris@fws.gov](mailto:hilary_morris@fws.gov?subject=Blueprint 2.1)
 
 ## Mottled Duck Decision Support Tool
 
