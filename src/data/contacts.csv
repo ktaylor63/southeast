@@ -163,7 +163,7 @@ Florida,Refuge,SWFL Gulf Coast Refuge Complex,Cass Palmer,cass_palmer@fws.gov,23
 Florida,Refuge,SWFL Gulf Coast Refuge Complex,Greg Suszek,greg_suszek@fws.gov,239-877-9545,Fuels Specialist
 Florida,Refuge,SWFL Gulf Coast Refuge Complex,Bobby Scott,bobby_schat@fws.gov,239-986-0166,Forestry Tech
 Florida,Refuge,Florida Panther National Wildlife Refuge,Main Office,floridapanther@fws.gov,239-657-8001,Refuge Manager Kevin Godsea
-Florida,Fisheries Office,Peninsular Florida Fish and Wildlife Conservation Office,Dr. John Galvez,John_Galvez@fws.gov,772-469-4314,Project Leader
+Florida,Fish and Wildlife Conservation Office,Peninsular Florida Fish and Wildlife Conservation Office,Dr. John Galvez,John_Galvez@fws.gov,772-469-4314,Project Leader
 Florida,Hatchery,Welaka National Fish Hatchery,Ken Blick,ken_blick@fws.gov,386-467-2374,Project Leader
 Florida,Hatchery,Welaka National Fish Hatchery,Tony Brady,tony_brady@fws.gov,386-467-2375,Deputy Project Leader
 Florida,Hatchery,Welaka National Fish Hatchery,Allen Walker,allen_walker@fws.gov,386-467-2376,Maintenance Mechanic
@@ -366,9 +366,9 @@ Georgia,Refuge,Piedmont National Wildlife Refuge,Toby Price,toby_price@fws.gov,4
 Georgia,Refuge,Piedmont National Wildlife Refuge,Nathan Herron,nathan_herron@fws.gov,478-986-5441,Prescribed Fire/Fuels Technician
 Georgia,Refuge,Piedmont National Wildlife Refuge,Matthew Smith,matthew_smith@fws.gov,478-986-5441,Forestry Technician (Fire)
 Colorado,Regional Office,Deepwater Horizon Natural Damage Assessment and Restoration (NRDAR),Debora McClain,debora_mcclain@fws.gov,303-236-4338,Deputy DWH NRDAR Case Manager
-Alabama,Field Office (Fairhope),Deepwater Horizon Natural Damage Assessment and Restoration (NRDAR),Debbie DeVore,debbie_devore@fws.gov,251-6041383,Gulf Coast Restoration Manager
-Alabama,Field Office (Fairhope),Deepwater Horizon Natural Damage Assessment and Restoration (NRDAR),Benjamin Frater,benjamin_frater@fws.gov,251-517-8019,Assistant Gulf Coast Restoration Manager
-Alabama,Field Office (Fairhope),Deepwater Horizon Natural Damage Assessment and Restoration (NRDAR),Jon M. Hemming,jon_hemming@fws.gov,251-517-8018,Field Supervisor
+Alabama,Field Office,Deepwater Horizon Natural Damage Assessment and Restoration (NRDAR)  (Fairhope),Debbie DeVore,debbie_devore@fws.gov,251-6041383,Gulf Coast Restoration Manager
+Alabama,Field Office,Deepwater Horizon Natural Damage Assessment and Restoration (NRDAR)  (Fairhope),Benjamin Frater,benjamin_frater@fws.gov,251-517-8019,Assistant Gulf Coast Restoration Manager
+Alabama,Field Office,Deepwater Horizon Natural Damage Assessment and Restoration (NRDAR)  (Fairhope),Jon M. Hemming,jon_hemming@fws.gov,251-517-8018,Field Supervisor
 Georgia,Regional Office,Deepwater Horizon Natural Damage Assessment and Restoration (NRDAR),Kevin Reynolds,kevin_reynolds@fws.gov,404-679-7292,DWH NRDAR Case Manager
 Georgia,Regional Office,Deepwater Horizon Natural Damage Assessment and Restoration (NRDAR),Naciann Regalado,nanciann_regalado@fws.gov,678-296-6805,Media/Public Outreach Coordinator
 Georgia,Regional Office,Gulf Restoration Program,Nadine Siak,nadine_siak@fws.gov,404-679-7290,Public Affairs Specialist
@@ -732,7 +732,7 @@ North Carolina,Refuge,Pea Island National Wildlife Refuge,Cindy Heffley,cindy_he
 North Carolina,Refuge,Pea Island National Wildlife Refuge,Tracey Rock,tracey_rock@fws.gov,252-473-1131 ext. 227,Volunteer Coordinator
 North Carolina,Refuge,Pea Island National Wildlife Refuge,Mary Grindlay,mary_grindlay@fws.gov,252-473-1131 ext. 226,Gift Shop Manager
 North Carolina,Refuge,Pea Island National Wildlife Refuge,Steve Brumfield,steve_brumfield@fws.gov,252-473-1131 ext. 224,"Program Registration, Wings Over Water Coordinator"
-North Carolina,,Landscape Conservation Cooperative (Raleigh),Amy Keister,amy_keister@fws.gov,919-707-0278,"GIS Coordinator, South Atlantic Landscape Conservation Cooperative"
+North Carolina,LCC,Landscape Conservation Cooperative (Raleigh),Amy Keister,amy_keister@fws.gov,919-707-0278,"GIS Coordinator, South Atlantic Landscape Conservation Cooperative"
 Puerto Rico / U.S. Virgin Islands,Refuge,"Buck Island, Green Cay, Sandy Point National Wildlife Refuges",Michael Evans,michael_evans@fws.gov,340-773-4554,Refuge Manager
 Puerto Rico / U.S. Virgin Islands,Refuge,Culebra National Wildlife Refuge,Ricardo Colon-Merced,ricardo_colon-merced@fws.gov,787-742-0115,Wildlife Biologist
 Puerto Rico / U.S. Virgin Islands,Refuge,Culebra National Wildlife Refuge,Elizabeth Arizmendi,elizabeth_arizmendi@fws.gov,787-742-0115,Maintenance Worker
@@ -780,7 +780,7 @@ Puerto Rico / U.S. Virgin Islands,Field Office,Caribbean Ecological Services Fie
 Puerto Rico / U.S. Virgin Islands,Field Office,Caribbean Ecological Services Field Office,Damaris Roman,damaris_roman@fws.gov,787-888-1810 ext 5535,"Biological Science Technician, Puerto Rican Parrot Recovery Program"
 Puerto Rico / U.S. Virgin Islands,Field Office,Caribbean Ecological Services Field Office,Joel Arroyo,joel_arroyo@fws.gov,787-851-7297 ext 208,Office Support Student Trainee
 Puerto Rico / U.S. Virgin Islands,Field Office,Caribbean Ecological Services Field Office,Alexandra Galindo,alexandra_galindo@fws.gov,787-851-7297 ext 223,Fisheries Biologist
-Puerto Rico / U.S. Virgin Islands,Caribbean LCC,San Juan,Miguel A. Garcia-Bermudez,miguel_garcia-bermudez@fws.gov,787-396-5943,Fish and Wildlife Administrator
+Puerto Rico / U.S. Virgin Islands,LCC,Caribbean LCC: San Juan,Miguel A. Garcia-Bermudez,miguel_garcia-bermudez@fws.gov,787-396-5943,Fish and Wildlife Administrator
 Puerto Rico / U.S. Virgin Islands,Refuge,Vieques National Wildlife Refuge,Martin Ramos,martin_ramos@fws.gov,787-741-2138,Forestry Technician (Fire)
 Puerto Rico / U.S. Virgin Islands,Refuge,Vieques National Wildlife Refuge,Francisco Figueroa,francisco_figueroa@fws.gov,787-741-2138,Engineering Equipment Operator
 Puerto Rico / U.S. Virgin Islands,Refuge,Vieques National Wildlife Refuge,Michael Barandiaran,mike_barandiaran@fws.gov,787-741-2138 ,Refuge Manager
@@ -890,3 +890,8 @@ Tennessee,Hatchery,Erwin National Fish Hatchery,Scott Sellers,larry_sellers@fws.
 Tennessee,Hatchery,Erwin National Fish Hatchery,David Teague,david_teague@fws.gov,423-743-4712,Fish Biologist
 Tennessee,Hatchery,Erwin National Fish Hatchery,Richard Wilson,richard_wilson@fws.gov,423-743-4712,Electrician
 Tennessee,Hatchery,Erwin National Fish Hatchery,Anthony Garland,anthony_garland@fws.gov,423-743-4712,Facility Operations Specialist
+Louisiana,Hatchery,Natchitoches National Fish Hatchery,Grant Webber,grant_webber@fws.gov,318-352-5324 ext. 203,Hatchery Manager
+Louisiana,Hatchery,Natchitoches National Fish Hatchery,Lana Litton,lana_litton@fws.gov,318-352-5324 ext. 201,Administrative Assistant
+Louisiana,Hatchery,Natchitoches National Fish Hatchery,Aaron Frater-Schmidt,aaron_frater@fws.gov,318-352-5324 ext. 202,Fish Biologist
+Louisiana,Hatchery,Natchitoches National Fish Hatchery,Vannesa Ortiz,vannesa_ortiz@fws.gov,318-352-5324 ext. 204,Biological Technician
+Louisiana,Hatchery,Natchitoches National Fish Hatchery,Wade Scarbrough,wade_scarbrough@fws.gov,318-352-5324 ext. 215,Automotive Mechanic
