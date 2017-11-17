@@ -1,9 +1,9 @@
 ---
 draft: true
 title: 'The woodpecker’s journey'
+author: 'Dan Chapman <br>Video by Nicole Vidal'
 subtitle: 'Translocating endangered birds from one forest to another helps speed species recovery'
 description: 'It was getting dark. A light rain fell. Distant thunder rolled across the steamy, late-summer sky. The hunters were apprehensive. Their prey: endangered red-cockaded woodpeckers.'
-author: 'Dan Chapman and Nicole Vidal, videographer'
 date: '2017-11-11'
 tags:
     - Alabama
@@ -111,7 +111,7 @@ By 9:30 p.m. the Eglin birds were re-tagged and readied for the five-hour, overn
 
 ## “We started pumping birds in”
 
-Jonathan Stober and his precious cargo drove nearly 300 miles through the night to the Talladega forest and the RCWs’ new home. Stober, a U.S. Forest Service biologist, arrived at 3 a.m., unloaded the quiet, yet confused birds into a heated maintenance shed and bunked down in a nearby office for a short nap.
+Jonathan Stober and his precious cargo drove nearly 300 miles through the night to the Talladega forest and the RCWs’ new home. Stober, a U.S. Forest Service biologist, arrived at 3 a.m., left the quiet, yet confused birds in the truck and bunked down in a nearby office for a short nap.
 
 {{< figure class="photo-center" src="/images/pages/jonathon-stober-red-cockaded-woodpecker.jpg" alt="A man in a fleece jacket standing in the forest." caption="Jonathan Stober, biologist with the U.S. Forest Service. Photo by Nicole Vidal, USFWS." >}}
 
@@ -133,14 +133,14 @@ Stober released his birds below manmade cavities. He had awoken at 5:30 a.m., dr
 
 Stober released a female at 6:36 a.m. and a male a minute later. They flew to the same tree and began a heated discussion. You can imagine what they said:
 
-_He: Where the hell are we?_
-_She: I have no idea._
-_He: What a night. Cooped up in a box for 12 hours. And no grubs._
-_She: I’m hungry. These trees look promising. (She begins pecking away.)_
-_He: Hey, look at that?_
-_She: What?_
-_He: Looks like a roost._
-_She: Weirdest roost I’ve ever seen. Let’s check it out._
+_He: Where the hell are we?_  
+_She: I have no idea._  
+_He: What a night. Cooped up in a box for 12 hours. And no grubs._  
+_She: I’m hungry. These trees look promising. (She begins pecking away.)_  
+_He: Hey, look at that?_  
+_She: What?_  
+_He: Looks like a roost._  
+_She: Weirdest roost I’ve ever seen. Let’s check it out._  
 
 That, at least, is the conversation Stober hoped the woodpeckers were having. He drove to another spot, released two more birds and, at 7:11 a.m., was done translocating. (A colleague set free the other four birds in another section of the forest.) He walked back uphill, placed the empty boxes in the truck bed and crested the mountain as the sky brightened and a beautiful day beckoned.
 
