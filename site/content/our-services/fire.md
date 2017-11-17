@@ -12,7 +12,7 @@ tags:
     - 'Land Management'
     - 'National Wildlife Refuge System'
     - 'Prescribed Fire'
-updated: 'March 23rd, 2017'
+updated: 'November 14th, 2017'
 ---
 
 For thousands of years, fire has influenced the southeastern landscape. Today, a broad range of plants, animals and their habitats have developed a harmonious relationship with fire.
@@ -95,13 +95,15 @@ Make sure your driveway is well marked and wide enough for fire equipment to ent
 
 ## Fire News
 
-[Check out a complete list of content tagged with prescribed fire](/tags/prescribed-fire)
+{{< scroller-list tag="Prescribed Fire" section="articles" >}}
 
 For the latest news in fire, follow us on Twitter [@USFWSFireSE](http://www.twitter.com/USFWSFireSE/)
 
 {{< twitter-timeline >}}
 
-{{< content-by-tag tag="prescribed fire" view="teaser" number="3" >}}
+### Interagency Fuel Treatments help reduce West Mims Fire size and cost
+
+Every year the U.S. Fish and Wildlife Service, U.S. Forest Service and Florida Forest Service collaborate to conduct prescribed fires around the Okefenokee Wilderness to help reduce wildfire growth potential. Each agency shares resources to implement these treatments regardless of jurisdiction, to help reduce the risk of large fire growth outside of the Okefenokee Wilderness. [Learn more about how these treatments help protect the communities around Okefenokee Swamp](https://arcg.is/1mmnTD).
 
 ## Jobs in Fire
 
@@ -162,6 +164,3 @@ Want to know more about fire management in the southeast? Contact a member of ou
 
 **Sue Wilder**, Southeast Regional Fire Ecologist <br>
 (958) 882-2008, [Sue_Wilder@fws.gov](mailto:Sue_Wilder@fws.gov)
-
-**Mike Duiett**, Director, Prescribed Fire Training Center <br>
-(850) 523-8633, [Michael_Dueitt@fws.gov](mailto:Michael_Dueitt@fws.gov)
