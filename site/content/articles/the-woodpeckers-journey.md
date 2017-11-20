@@ -1,10 +1,10 @@
 ---
-draft: true
 title: 'The woodpecker’s journey'
 author: 'Dan Chapman <br>Video by Nicole Vidal'
 subtitle: 'Translocating endangered birds from one forest to another helps speed species recovery'
 description: 'It was getting dark. A light rain fell. Distant thunder rolled across the steamy, late-summer sky. The hunters were apprehensive. Their prey: endangered red-cockaded woodpeckers.'
-date: '2017-11-11'
+date: '2017-11-20'
+type: feature
 tags:
     - Alabama
     - Arkansas
@@ -133,14 +133,14 @@ Stober released his birds below manmade cavities. He had awoken at 5:30 a.m., dr
 
 Stober released a female at 6:36 a.m. and a male a minute later. They flew to the same tree and began a heated discussion. You can imagine what they said:
 
-_He: Where the hell are we?_  
-_She: I have no idea._  
-_He: What a night. Cooped up in a box for 12 hours. And no grubs._  
-_She: I’m hungry. These trees look promising. (She begins pecking away.)_  
-_He: Hey, look at that?_  
-_She: What?_  
-_He: Looks like a roost._  
-_She: Weirdest roost I’ve ever seen. Let’s check it out._  
+**He:** _Where the hell are we?_  
+**She:** _I have no idea._  
+**He:** _What a night. Cooped up in a box for 12 hours. And no grubs._  
+**She:** _I’m hungry. These trees look promising. (She begins pecking away.)_  
+**He:** _Hey, look at that?_  
+**She:** _What?_  
+**He:** _Looks like a roost._  
+**She:** _Weirdest roost I’ve ever seen. Let’s check it out._  
 
 That, at least, is the conversation Stober hoped the woodpeckers were having. He drove to another spot, released two more birds and, at 7:11 a.m., was done translocating. (A colleague set free the other four birds in another section of the forest.) He walked back uphill, placed the empty boxes in the truck bed and crested the mountain as the sky brightened and a beautiful day beckoned.
 
