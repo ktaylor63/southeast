@@ -17,7 +17,7 @@ hero:
 tags:
     - 'Inventory and Monitoring'
     - 'National Wildlife Refuge System'
-updated: 'August 31st, 2017'
+updated: 'November 20th, 2017'
 ---
 
 The Regional Inventory and Monitoring (I&M) branch is designed to address the [National Wildlife Refuge System](https://fws.gov/refuges) (NWRS) critical information needs and to evaluate the effectiveness of conservation strategies on [national wildlife refuges across the Southeast](/map/?search=National+Wildlife+Refuge). I&M assesses the status of NWRS lands, waters, and biota and provides monitoring support, expertise, and advice to refuges and partners in the face of accelerating climate change and threats from other environmental stressors. The primary purpose of the I&M is to provide information support management decisions at multiple geographic scales.
@@ -220,6 +220,9 @@ For more information download [the Carolina Vegetation Survey Fact Sheet](/pdf/f
 
 [Dale Bumpers White River National Wildlife Refuge](https://www.fws.gov/refuge/white_river/) embarked on a new and intensive forest monitoring effort in 1999. Over the next eight years, the refuge established and sampled an extensive network of permanent forest monitoring plots (CFI). The refuge has recently teamed up with the Southeast Region I&M Branch and Louisiana Tech University to thoroughly analyze these valuable and complex data as well as evaluate the power of the CFI monitoring design. These monitoring data will provide a better understanding of long-term forest dynamics and habitat structure across the refuge. Permanent plots like CFI have greater power to detect changes in forest structure and composition (because of their static location) than the typical cruise data collected during forest inventories. These analyses will also inform area refuges about the value of CFI plots as part of a comprehensive forest management program. For more information about this project, please contact I&M Branch plant ecologist, [Tim Fotinos, timothy_fotinos@fws.gov](mailto:timothy_fotinos@fws.gov).
 
+## Newsletters
+
+[Stay up to date with the inventory and monitoring program's newsletter.](/reading-room?q=Inventory+and+monitoring+newsletter)
 
 ## Contact
 
