@@ -20,6 +20,10 @@ updated: 'March 28th, 2017'
 
 In the Southeast region we use Geographic Information Systems (GIS) and location data to perform spatial analysis and to produce maps.  Spatial data plays a very important role in decision making.  For example, the Service uses location data on threatened and endangered species to consult with developers in order to avoid impacts to these species.  We use environmental data to create models that predict the locations of rare species or to prioritize locations for restoration. The [Southeast Region's GIS Steering Committee](#regional-gis-steering-committee) meets several times each year to facilitate data collection, sharing, and spatial analysis.  [Learn more about GIS projects in the Southeast](/gis/projects).
 
+## Southeast Region GIS Newsletter
+
+[Download the Fall 2017 GIS Newsletter from the Southeast Region.](/pdf/newsletter/gis-newsletter-fall-2017.pdf)
+
 ## Training Opportunities
 
 The committee also provides an annual GIS training opportunity each summer in Cookeville, TN.  The National Conservation Training Center in Shepherdstown, WV provides GIS [training opportunities](https://training.fws.gov/NCTCWeb/catalog/CourseSearch.aspx) throughout the year.
@@ -30,7 +34,7 @@ We are excited to announce our 2017 Regional GIS Training at Tennessee Technolog
 
 If you are interested in attending, please send an e-mail to [Matthew Snider](mailto:matthew_snider@fws.gov?subject=Annual%20GIS%20Training) or [Jason Duke](mailto:jason_duke@fws.gov?subject=Annual%20GIS%20Training) with the name, job title, office, phone, and e-mail of EACH attendee from your office. We need an accurate head count by April 14, 2017. Course lists will be e-mailed to everyone we have on record as of that date to allow you to pre-register for the course offerings. A detailed agenda will be sent at that time.
 
-The training will open with a general 4 hour plenary session to be followed by multiple tracks of courses. There will be an Intro track, an Intermediate and an Advanced track. Caty McCurdy will lead the Intro to GIS course for a full 3-day period and a team of instructors will lead the Intermediate track. All courses are hands-on and will be taught using ArcGIS 10.4.1 and extensions. We are targeting different training opportunities for all levels of GIS knowledge and skill.
+The training will open with a general 4 hour plenary session to be followed by multiple tracks of courses. There will be an Intro track, an Intermediate and an Advanced track. All courses are hands-on and will be taught using either ArcGIS Pro or ArcGIS 10.x and extensions. We are targeting different training opportunities for all levels of GIS knowledge and skill.
 
 The [course descriptions](/gis/course-descriptions) should help you get a better idea of which classes to sign up for. We look forward to seeing you in Cookeville!
 
