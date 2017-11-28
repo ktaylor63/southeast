@@ -29,6 +29,12 @@ The field station was established in 1972. We strive for ecosystem sustainabilit
 
 [The application](/lafayette/project-review/) is designed to streamline the review of projects for potential effects to federally listed threatened and endangered species (T&E) and their critical habitat (CH).
 
+### Emergency Consultations
+
+Occasionally, federal agencies must respond to emergency situations where human life and property are in danger. Examples include oil spills, wildland fire and hurricanes. The Endangered Species Act and its implementing regulations recognize the need to respond immediately to emergencies and provide special procedures that allow federal agencies the latitude to complete their emergency responses in order to secure human life and property without delay, while still providing them with protections that normal compliance under the ESA would have afforded them.
+
+[Learn more about emergency consultations.](/endangered-species-act/emergency-consultation/)
+
 {{< scroller-list tag="Lafayette" section="news" >}}
 
 {{< scroller-list tag="Lafayette" section="articles" >}}
@@ -37,7 +43,7 @@ The field station was established in 1972. We strive for ecosystem sustainabilit
 
 ## Suggested Streamlined Coordination for Oil and Natural Gas Exploration, Drilling and Production in Louisiana Shale Plays
 
-[This document](/pdf/guidelines/suggested-streamlined-coordination-oil-and-gas-exploration-drilling-production.pdf) was prepared by the U.S. Fish and Wildlife Service’s (Service) Louisiana Ecological Services Office (LESO) and partners to protect and conserve important public resources such as wildlife and plants, and their habitats (including waterbodies) within areas of Louisiana with a high potential for new or continued oil and natural gas drilling and production.
+[This document](/pdf/guidelines/suggested-streamlined-coordination-oil-and-gas-exploration-drilling-production.pdf) was prepared by the U.S. Fish and Wildlife Service’s (Service) Louisiana Ecological Services Office (LESO) and partners to protect and conserve important public resources such as wildlife and plants, and their habitats (including waterbodies) within areas of Louisiana with a high potential for new or continued oil and natural gas drilling and production. 
 
 ## Five Year Strategic Plan
 
