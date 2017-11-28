@@ -12,6 +12,13 @@ html {
   margin: auto;
 }
 
+.warning {
+  background: red;
+  color: white;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
 @import 'variables';
 @import 'vendor/manifest';
 @import 'helpers/manifest';
