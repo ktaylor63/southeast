@@ -31,7 +31,7 @@ An economic analysis estimates the cost of consultations with the Service when a
 
 The Service published proposals in the Federal Register to list the glade cress as threatened and designate critical habitat for it on May 23, 2013.  At that time, the Service opened a 60-day public comment period and requested information on distribution, status, population size or trends, life history, and threats to this plant. With the species listed under the ESA, the Service will continue to work cooperatively with partners to develop a recovery plan and conserve its habitat. The listing and designation of critical habitat for this plant are part of the Service’s efforts to implement a court-approved work plan aimed at addressing a series of lawsuits concerning the agency’s ESA listing program. The intent of the agreement is to significantly reduce a litigation-driven workload.
 
-The Service offers willing landowners a number of voluntary and non-regulatory conservation programs to help the glade cress survive as they live and work on their lands.  Landowners interested in helping the Service recover the Kentucky glade cress, or seeking more information about the implications of the listing and critical habitat designation, please contact the Service’s Kentucky Field Office at 330 W. Broadway, Suite 265, Frankfort, Kentucky, 40601, or contact Jennifer Garland at 502/695-0468 ext. 115, or via e-mail at [Jennifer_garland@fws.gov](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=Jennifer_garland@fws.gov).
+The Service offers willing landowners a number of voluntary and non-regulatory conservation programs to help the glade cress survive as they live and work on their lands.  Landowners interested in helping the Service recover the Kentucky glade cress, or seeking more information about the implications of the listing and critical habitat designation, please contact the Service’s Kentucky Field Office at 330 W. Broadway, Suite 265, Frankfort, Kentucky, 40601, or contact Jennifer Garland at 502/695-0468 ext. 115, or via e-mail at [Jennifer_garland@fws.gov](mailto:Jennifer_garland@fws.gov).
 
 ## Additional Resources
 
@@ -41,9 +41,8 @@ The Service offers willing landowners a number of voluntary and non-regulatory c
 ## Contacts
 
 Phil Kloer, USFWS  
-404-679-7299  
-[phillip_kloer@fws.gov](mailto:phillip_kloer@fws.gov)
+[phillip_kloer@fws.gov](mailto:phillip_kloer@fws.gov), 404-679-7299  
+
 
 Lee Andrews, Jr., USFWS  
-(502) 695-0468, ext. 108  
-[Lee_Andrews@fws.gov](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=Lee_Andrews@fws.gov)
+[Lee_Andrews@fws.gov](mailto:Lee_Andrews@fws.gov), (502) 695-0468, ext. 108  
