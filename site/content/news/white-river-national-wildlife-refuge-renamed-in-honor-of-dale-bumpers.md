@@ -34,10 +34,4 @@ The White River National Wildlife Refuge was established in 1935 by President Fr
 ## Contact(s)
 
 Charles “Bo” Sloan, USFWS Refuge Manager  
-870-282-8200  
-[charles_sloan@fws.gov](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=charles_sloan@fws.gov)
-
-Stacy Shelton, USFWS Public Affairs Specialist  
-404-679-7290  
-678-575-7796 (m)  
-[stacy_shelton@fws.gov](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=stacy_shelton@fws.gov)
+[charles_sloan@fws.gov](mailto:charles_sloan@fws.gov), 870-282-8200  
