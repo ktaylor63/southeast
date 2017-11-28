@@ -13,7 +13,7 @@ hero:
 updated: 'May 16th, 2017'
 ---
 
-**WASHINGTON D.C.** – U.S. Fish and Wildlife Service Director Dan Ashe yesterday praised a collaborative effort across the lower Mississippi River Basin with the U.S. Army Corps of Engineers (USACE) that has helped advance conservation for three endangered species.
+**Washington D.C.** – U.S. Fish and Wildlife Service Director Dan Ashe yesterday praised a collaborative effort across the lower Mississippi River Basin with the U.S. Army Corps of Engineers (USACE) that has helped advance conservation for three endangered species.
 
 The collaboration highlights the responsibility and opportunity for all federal agencies to conserve endangered and threatened species under the Endangered Species Act (ESA). This joint effort by the Corps and the Service proves that by working to incorporate the needs of threatened and endangered species in the work that they do, federal agencies can help species recover.
 
@@ -50,4 +50,4 @@ Phil Kloer, USFWS
 
 Gene Pawlik, USACE  
 202-761-7690  
-[Eugene.A.Pawlik@usace.army.mil](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=Eugene.A.Pawlik@usace.army.mil)
+[Eugene.A.Pawlik@usace.army.mil](mailto:Eugene.A.Pawlik@usace.army.mil)
