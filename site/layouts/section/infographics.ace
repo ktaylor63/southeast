@@ -1,0 +1,17 @@
+= content main
+  .content-centered
+    br
+    h1.page-title {{ .Title }}
+
+    {{ $section := lower .Title }}
+
+    p Click on an infographic for more information and to view the graphic at full size.
+
+    ul.masonry-grid
+      {{ range where .Data.Pages "Section" $section }}
+      li.masonry-item
+        a href="{{ .Permalink }}"
+          img src="/pdf/infographic/{{ .Params.name }}" alt="{{ .Params.alt }}"
+      {{ end }}
+
+    script src="/js/infographics.js"
