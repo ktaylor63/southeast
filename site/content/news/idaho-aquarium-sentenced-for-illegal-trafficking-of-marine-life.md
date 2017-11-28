@@ -27,4 +27,4 @@ A copy of this press release may be found on the website of the United States At
 
 Annette Castillo, USDOJ  
 305-961-9174  
-[annette.castillo@usdoj.gov](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=annette.castillo@usdoj.gov)
+[annette.castillo@usdoj.gov](mailto:annette.castillo@usdoj.gov)
