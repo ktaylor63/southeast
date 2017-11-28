@@ -14,7 +14,7 @@ hero:
     link: 'https://flic.kr/p/xQKcvj'
     caption: 'Baby loggerhead sea turtle. Photo by Orsulak, USFWS.'
     position: 'bottom left'
-updated: 'September 10th, 2017'
+updated: 'November 27th, 2017'
 ---
 
 As [Hurricane Irma](https://www.fws.gov/hurricane/irma) heads toward Florida, there is the possibility that some sea turtle nests along the coasts may be harmed or disrupted.
@@ -29,4 +29,4 @@ If you see exposed sea turtle eggs or a nest that appears distressed, please rep
 
 Nearly 90 percent of sea turtle nesting in the United States occurs in Florida from March through October.  
 
-{{< figure class="photo-center" src="/images/pages/sea-trutle-infograph-2.jpg" alt="An infographic outlining the information above." >}}
+{{< figure class="photo-center" src="/images/pages/sea-turtle-infograph-2.jpg" alt="An infographic outlining the information above." >}}
