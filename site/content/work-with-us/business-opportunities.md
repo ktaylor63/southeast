@@ -70,7 +70,7 @@ The following tips should be remembered when selling to the government. Addition
 3. Become known to the Business Utilization and Development Specialist, Nijua Heard, (404) 679-4146.
 4. Become familiar with the Federal Business Opportunities website, [http://www.fedbizopps.gov](https://www.fbo.gov/).
 5. Register on the [System for Award Management](https://www.sam.gov) (SAM).
-6. Complete our [Bidder Registration Form](https://drive.google.com/open?id=0B47JX4r1gw3fY0JhV2E2S3JPY2M).
+6. Complete our [Bidder Registration Form](/pdf/form/bidder-registration-form.pdf).
 
 ### What is the System for Award Management?
 The System for Award Management (SAM) is an official U.S. Government central database that contains a vendor’s business and banking information. Registration streamlines the issuing of contracts and payments from all federal agencies to their vendors, and is required of contractors doing business with the government.
