@@ -25,14 +25,12 @@ The 309,200-acre Honey Prairie Fire burned for nearly a year, from April, 2011 -
 
 The Safety Award evaluation panel of local, regional and national experts in fire operations and safety rated nominees from across the Service using a standardized scoring system. Among Chesser’s noted accomplishments were calm, consistent leadership supporting wildland fire operations during more than 30 years of service.
 
-The Service wildland fire management program has maintained an exemplary safety record, with no deaths in the line of duty since 1981\.  For more information about the award, contact Ted Mason at 208-387-5831, [Theodore_Mason@fws.gov](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=Theodore_Mason@fws.gov).
+The Service wildland fire management program has maintained an exemplary safety record, with no deaths in the line of duty since 1981\.  For more information about the award, contact Ted Mason at 208-387-5831, [Theodore_Mason@fws.gov](mailto:Theodore_Mason@fws.gov).
 
 ## Contacts
 
 Karen Miranda, USFWS  
-208-387-5891  
-[karen_miranda@fws.gov](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=karen_miranda@fws.gov)
+[karen_miranda@fws.gov](mailto:karen_miranda@fws.gov), 208-387-5891
 
 Phil Kloer, USFWS  
-404-679-7299  
-[phillip_kloer@fws.gov](mailto:phillip_kloer@fws.gov)
+[phillip_kloer@fws.gov](mailto:phillip_kloer@fws.gov), 404-679-7299  
