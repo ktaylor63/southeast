@@ -1,24 +1,30 @@
 require('es6-promise').polyfill();
 const axios = require('axios');
 
-// Q: Best way to display a group of documents?
-//  Examples:
-//   - Species Status Assessments
-//   - Five Year Reviews
-//   - Comprehensive Conservation Plan
-//
-// Is the answer a Published Report Series?
-// How do we limit results by Region?
+// How's a Collection different from a Published Report Series
+//  => Report Series is a "container" with metadata, can only have related published reports
+//  => Collection is a different "container", much more liberal rules
 
 const SSA_ID = '75903';
-const url = `https://ecos.fws.gov/ServCatServices/servcat/v4/rest/Profile/${SSA_ID}?format=json`;
+const url = `https://ecos.fws.gov/ServCatServices/servcat/v4/rest/Profile/${SSA_ID}`;
 const list = document.querySelector('.card-list');
+
+// Orgcode: Third and fourth digit together represent the region
+// We only want documents pertinent to Region 4
+const isSoutheasternDocument = orgcode => {
+  const region = orgcode.slice(2, 4);
+  return region === '04';
+};
+
+// Filter out documents that apply only to other regions
+// If one or more of the 'units' occurr in R4 keep the document
+const filterSoutheasternDocuments = docs =>
+  docs.filter(doc => doc.units.filter(isSoutheasternDocument).length);
 
 const createLinkedResource = res =>
   `<li><a href="${res.url}" target="_blank" aria-label="${res.fileName}">Download species status assessment &raquo;</a></li>`;
 
 const createListItem = doc => {
-  console.log(doc);
   if (doc.referenceType === 'Published Report Series') return '';
   return `
     <li class="card card-text">
@@ -31,11 +37,13 @@ const createListItem = doc => {
 };
 
 const handleSuccess = res => {
-  console.log(res.data);
-  list.innerHTML = res.data.children.map(createListItem).join('');
+  const docs = filterSoutheasternDocuments(res.data.children);
+  list.innerHTML = docs.map(createListItem).join('');
 };
 
-const handleError = err => {};
+const handleError = err => {
+  if (err) console.log(err);
+};
 
 axios
   .get(url)
