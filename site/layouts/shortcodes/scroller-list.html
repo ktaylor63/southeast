@@ -3,6 +3,8 @@
 {{ $pages := where (index .Site.Taxonomies.tags $tag) "Page.Section" $section }}
 {{ $lazyLoadLimit := 5 }}
 
+{{ if gt (len $pages) 0 }}
+
 <div class='scroller-list'>
   <header>
     {{ if eq "wildlife" $section }}
@@ -49,3 +51,5 @@
   {{ end }}
   </ol>
 </div>
+
+{{ end }}
