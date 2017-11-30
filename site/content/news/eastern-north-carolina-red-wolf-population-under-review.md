@@ -1,5 +1,5 @@
 ---
-title: 'Eastern North Carolina Rrd wolf population under review'
+title: 'Eastern North Carolina Red wolf population under review'
 subtitle: 'Focus group sessions scheduled'
 date: '2014-08-29'
 tags:
@@ -7,7 +7,7 @@ tags:
     - Recovery
     - 'Red Wolf'
     - Virginia
-updated: 'April 25th, 2017'
+updated: 'November 29th, 2017'
 hero:
     name: red-wolf-zoo.jpg
     alt: 'A wolf with grey and brown fur and tan eyes in front of a rock wall.'

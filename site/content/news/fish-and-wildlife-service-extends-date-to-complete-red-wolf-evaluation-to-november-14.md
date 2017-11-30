@@ -2,14 +2,15 @@
 title: 'Fish and Wildlife Service extends date to complete red wolf evaluation to November 14'
 date: '2014-10-07'
 hero:
-    name: red-wolf-crouching.jpg
-    alt: 'A grey colored wolf with bright yellow eyes walking low to the ground.'
-    link: 'https://flic.kr/p/dPAq8s'
-    caption: 'Red wolf at Point Defiance Zoo and Aquarium. Photo by Seth Bynum, PDZA.'
+    name: red-wolf-father-and-pups.jpg
+    alt: 'A male red wolf looks on as two pups play'
+    caption: 'Red wolf (<em>Canis rufus</em>) with pups. Photo by <a href="https://www.flickr.com/photos/ucumari/">Valerie</a>, <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/legalcode">CC BY-NC-ND 2.0.</a>'
+    link: 'https://flic.kr/p/VCa36Q'
+    position: 'top left'
 tags:
     - 'North Carolina'
     - 'Red Wolf'
-updated: 'April 21st, 2017'
+updated: 'November 29th, 2017'
 ---
 
 The deadline to complete a peer-reviewed evaluation of the Service’s Red Wolf Recovery Program and its non-essential, experimental population of red wolves in Eastern North Carolina has been extended to November 14, 2014.

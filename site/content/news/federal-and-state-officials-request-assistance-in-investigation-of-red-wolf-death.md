@@ -2,15 +2,15 @@
 title: 'Federal and state officials request assistance in investigation of red wolf death'
 date: '2016-04-22'
 tags:
+    - 'Law Enforcement'
     - 'North Carolina'
     - 'Red Wolf'
-    - 'Law Enforcement'
 hero:
-    name: red-wolf-crouching.jpg
-    alt: 'A grey colored wolf with bright yellow eyes walking low to the ground.'
-    link: 'https://flic.kr/p/dPAq8s'
-    caption: 'Red wolf at Point Defiance Zoo and Aquarium. Photo by Seth Bynum, PDZA.'
-updated: 'November 9th, 2016'
+    name: red-wolf-with-collar.jpg
+    alt: 'A small reddish-brown wolf with a large collar around its neck'
+    caption: 'Red wolf (<em>Canis rufus</em>) with radio collar. Photo by Ryan Nordsven, USFWS.'
+    link: 'https://flic.kr/p/dcdox9'
+updated: 'November 29th, 2017'
 ---
 
 The U.S. Fish and Wildlife Service and the North Carolina Wildlife Resources Commission are requesting assistance with an investigation involving a gunshot death of a red wolf.  A federally-protected red wolf was found dead Nov. 12, 2015, near Fairfield in Hyde County, North Carolina. Based on the condition of the body and other evidence, the actual date of death is estimated to be Oct. 31, 2015\. The necropsy results recently received indicate the cause of death by gunshot.
