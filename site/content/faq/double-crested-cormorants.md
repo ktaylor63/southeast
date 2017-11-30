@@ -1,5 +1,5 @@
 ---
-title: 'Double-Crested Cormorants'
+title: 'Double-crested cormorants'
 description: 'The double-crested cormorant is a goose-sized waterbird native to North America. It is one of six species of cormorants in North America and one of 38 species worldwide.'
 hero:
     name: double-crested-cormorant.jpg
@@ -9,7 +9,7 @@ hero:
 tags:
     - Arkansas
     - 'Double-Crested Cormorants'
-updated: 'November 15th, 2017'
+updated: 'November 29th, 2017'
 ---
 
 The double-crested cormorant is a goose-sized waterbird native to North America. It is one of six species of cormorants in North America and one of 38 species worldwide. This black or grayish-black bird is about three feet long with a wingspan of 4.5 feet and has a hooked bill and powerful webbed feet that are used for swimming underwater. An adult weighs about five pounds. This species gets its name from the tufted feathers on both sides of the head, referred to as “crests,” that are present only during nesting season.
