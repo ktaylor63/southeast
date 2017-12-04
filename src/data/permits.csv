@@ -472,7 +472,7 @@ number,status,fed_register
 125521-3,Needs Drafting,Awaiting publication
 27450C-0,Issued,N/A
 28831C-0,Issued,N/A
-28975C-0,Awaiting Input from Applicant,Noticed for 30 days
+28975C-0,In FO for Review,Noticed for 30 days
 055241-3,Issued,Noticed for 30 days
 30622C-0,Issued,N/A
 148282-5,In RO for Review,N/A
@@ -540,7 +540,7 @@ number,status,fed_register
 084047-4,In FO for Review,N/A
 57020C-0,Awaiting Input from Applicant,N/A
 57118C-0,Issued,N/A
-57120C-0,In RO for Review,N/A
+57120C-0,In FO for Review,N/A
 57122C-0,Issued,N/A
 171488-4,No permit needed,N/A
 57754C-0,Issued,N/A
@@ -566,3 +566,5 @@ number,status,fed_register
 94704A-2,In RO for Review,needs to be drafted
 56746B-3,In RO for Review,needs to be drafted
 64767C-0,In RO for Review,needs to be drafted
+94849B-1,In RO for Review,needs to be drafted
+148282-5,In RO for Review,needs to be drafted
