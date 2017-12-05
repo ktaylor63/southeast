@@ -6,7 +6,7 @@ hero:
     alt: 'Three tiny orange mussels with short pointy protruberances.'
     caption: 'Tar River spinymussels. Photo by Chris Eads, NC State University.'
 type: species-profile
-scientific: 'Parvaspina steinstansana'
+scientific: 'Elliptio steinstansana'
 js: /js/species-profile.js
 aliases:
     - /wildlife/mussel/tar-river-spinymussel
@@ -68,7 +68,7 @@ A collaborative effort to recover the Tar River spinymussel involves biologists 
   - [Press release](http://www.tarriver.org/endangered-mussels-released/)
   - [Five year review](/pdf/five-year-reviews/tar-river-spinymussel.pd)
 
-  ## How You Can Help
+## How You Can Help
 
   - Individuals can do a number of things to help protect freshwater species, including:
   - Conserving water to allow more water to remain in streams.
