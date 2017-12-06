@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 'Endangered Species Act protections not needed for Southeastern fish and crayfish'
 description: 'A crayfish found in sinkholes and freshwater spring caves in the Florida panhandle and a small fish found in clear headwater streams of the Upper Barren River System in Kentucky and Tennessee, do not warrant listing under the Endangered Species Act.'
 date: '2017-12-05'
@@ -14,9 +13,14 @@ tags:
     - 'Blackfin Sucker'
     - 'Endangered Species Act'
     - Florida
+    - 'Jacksonville Ecological Services Field Station'
     - Kentucky
+    - 'Kentucky Ecological Services Field Station'
+    - 'Panama City Ecological Services Field Station'
     - 'Species Status Assessment'
     - Tennessee
+    - 'Tennessee Ecological Services Field Station'
+    - 'Vero Beach Ecological Services Field Station'
     - 'Woodville Karst Cave Crayfish'
 updated: 'December 5th, 2017'
 ---
