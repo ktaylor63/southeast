@@ -5,6 +5,10 @@
 
     {{ $section := lower .Title }}
 
+    p An infographic is a visual presentation of information in the form of a chart, graph, or other image that is accompanied by minimal text and is intended to give an easily understood overview of a subject. The best infographics transform complex information and data into graphics that are both easy to grasp and visually appealing.
+
+    p You might think that an infographic is a communication tool that was developed relatively recently, alongside the evolution of the Internet and social media. The fact is, however, that we have been conveying information visually since prehistoric times. You could say that our Stone Age ancestors created the first infographics -- cave paintings.
+
     p Click on an infographic for more information and to view the graphic at full size.
 
     ul.masonry-grid
