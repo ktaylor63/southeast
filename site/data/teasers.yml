@@ -1,5 +1,23 @@
 ---
 stories:
+  - title: 'Georgia piecing together network of protected wild lands'
+    url: 'https://www.wabe.org/georgia-piecing-together-network-protected-wild-lands/'
+    date: '2017-12-06'
+    summary: 'Georgia’s Altamaha River is big. It’s one of the largest flowing into the Atlantic Ocean on the eastern seaboard. Over the past couple decades, piece by piece, the state of Georgia has bought up land along either side of it, creating a network of protected forests, marshes and streams called the Altamaha River Corridor.'
+    hero:
+      name: altamaha-sunset.jpg
+      alt: 'An aerial photograph of a sunset over the Altamaha River.'
+      caption: 'Altamaha River sunset. Photo by Nicole Vidal, USFWS.'
+  - title: 'Georgia initiative brings business to the table to save a rare animal'
+    url: 'https://www.wabe.org/georgia-initiative-brings-business-table-save-rare-animal/'
+    date: '2017-12-06'
+    summary: 'In Georgia, instead of fighting the potential listing, businesses are working with wildlife agencies on what’s called the Georgia Gopher Tortoise Initiative, to save the gopher tortoise – before they’re forced to by federal regulation.'
+    hero:
+      name: baby-gopher-tortoise.jpg
+      alt: 'A tiny beige tortoise walking on sandy soil.'
+      caption: 'Baby gopher tortoise. Photo by Randy Browning, USFWS.'
+      link: 'https://flic.kr/p/a5Hrx2'
+      position: 'bottom left'
   - title: 'TNC protects land essential to the Florida panther on the northern bank of the Caloosahatchee River'
     url: 'https://www.nature.org/ourinitiatives/regions/northamerica/unitedstates/florida/newsroom/florida-caloosahatchee-river-panther-habitat-protected.xml'
     date: '2017-11-09'
