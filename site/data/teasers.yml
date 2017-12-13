@@ -1,5 +1,23 @@
 ---
 stories:
+  - title: 'Effort begins to restore habitat of imperiled Canby’s dropwort plant, in SW Georgia'
+    url: 'https://saportareport.com/effort-begins-restore-habitat-imperiled-canbys-dropwort-plant-sw-georgia/'
+    date: '2017-12-09'
+    summary: 'Federal and state efforts are underway to save a plant in southwest Georgia that’s so rare its global status is listed as, “imperiled – at high risk of extinction.”'
+    hero:
+      name: 'canbys-dropwort-search.jpg'
+      alt: 'Biologists search for a tall grass-like plant in a flooded forest.'
+      link: 'https://flic.kr/p/CBD8uK'
+      caption: 'Georgia DNR botanist Lisa Kruse and landowner Kyle Smith look for Canby’s dropwort on a Neyami Savanna tract.'
+  - title: 'Georgia’s barrier islands recognized for their ecological importance'
+    url: 'https://www.wabe.org/georgias-barrier-islands-recognized-ecological-importance/'
+    date: '2017-12-07'
+    summary: 'Georgia’s barrier islands recently gained recognition for their importance for shorebirds. Environmental advocates say it’s a testament to how much natural land on the coast has been protected.'
+    hero:
+      name: red-knot.jpg
+      alt: 'A red breasted shorebird with black and white markings on its back.'
+      link: 'https://flic.kr/p/79wtdr'
+      caption: 'Tagged Red Knot Mispillion Harbor, Delaware. Photo by Gregory Breese, USFWS.'
   - title: 'Georgia piecing together network of protected wild lands'
     url: 'https://www.wabe.org/georgia-piecing-together-network-protected-wild-lands/'
     date: '2017-12-06'
