@@ -18,8 +18,12 @@ hero:
     alt: 'A small fish with dark stripes on a yellow tinged back and white belly.'
     caption: 'Blackfin sucker. Photo by Matthew Thomas, KDFWR.'
     position: 'center left'
-updated: 'November 13th, 2017'
+updated: 'December 12th, 2017'
 ---
+
+{{< scroller-list tag="Blackfin Sucker" section="news" >}}
+
+{{< scroller-list tag="Blackfin Sucker" section="articles" >}}
 
 ## Appearance and Life History
 
@@ -33,7 +37,7 @@ Blackfin suckers are found in clear headwater streams near bedrock ledges, slabr
 
 ## Diet
 
-The blackfin’s primary food item is larval midges.  Other items include crustaceans, larval black flies, larval fishflies and hellgrammites, and larval caddisflies. 
+The blackfin’s primary food item is larval midges.  Other items include crustaceans, larval black flies, larval fishflies and hellgrammites, and larval caddisflies.
 
 ## Historic Range
 
@@ -157,7 +161,7 @@ Degradation, caused primarily by agricultural uses in the Upper Barren River Bas
 
 The effects of climate change also may impact blackfin populations.  An increase in mean temperature and average annual rainfall within the species’ range, combined with increases in the frequency, duration, and intensity of droughts, could be detrimental.
 
-## Reasons for “Not Warranted For Listing” Finding 
+## Reasons for “Not Warranted For Listing” Finding
 
 The blackfin sucker was one of [404 aquatic, riparian, and wetland species, petitioned to be listed under Endangered Species Act](/pdf/petition/404-aquatic.pdf) by the Center for Biological Diversity and others on April 20, 2010.
 
@@ -178,8 +182,8 @@ Climate change, such as an increase in annual temperatures and rainfall, intensi
 ### The blackfin sucker’s resiliency and ability to survive catastrophic events are estimated as moderate to high
 
 There is a relatively high abundance of blackfin suckers observed in multiple streams during recent (2007-2016) surveys (observations ranging from one to 36, with a median of eight). The blackfin’s resiliency was further demonstrated by the presence of multiple age classes (evidence of recruitment) at many collection sites. All of these observations suggest that there are multiple, self-sustaining, moderately large populations across the species range. The Service’s moderate to high estimate of redundancy is based on the blackfin’s relatively high number of 27 occupied streams that are distributed across nine separate sub-basins in the Upper Barren River watershed. These streams provide a margin of safety for the species to reduce the risk of extirpation from a single catastrophic event. Representation can be measured through genetic diversity within and among populations and the ecological diversity of populations across the blackfin’s range.
- 
-The blackfin sucker is extant or likely extant in 27 of 29 streams with previous collection records.  It also is extant in nine of the 10 sub-basins with historical records. The blackfin’s status is unknown in the remaining two streams and one sub-basin. The Fish and Wildlife Service cannot conclude that the blackfin sucker is currently extirpated from any portion of its historical range. 
+
+The blackfin sucker is extant or likely extant in 27 of 29 streams with previous collection records.  It also is extant in nine of the 10 sub-basins with historical records. The blackfin’s status is unknown in the remaining two streams and one sub-basin. The Fish and Wildlife Service cannot conclude that the blackfin sucker is currently extirpated from any portion of its historical range.
 
 ## Federal Register Documents
 
