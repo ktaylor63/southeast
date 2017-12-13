@@ -112,3 +112,11 @@ Since most exotic pet birds, including parrots, cockatoos, and macaws (but excep
 Our federal wildlife officers carry a dual role of enforcing wildlife laws as well as ensuring the safety of all visitors on national wildlife refuges. Wildlife officers work closely with federal, state, local and tribal law enforcement agencies. Because of their diverse skill set, officers have responded to numerous national and local emergencies, including hurricanes, tornados, floods and wildfires.
 
 [Learn more about National Wildlife Refuge Law Enforcement](http://www.fws.gov/refuges/lawEnforcement/), including how to start your career as a federal wildlife officer.
+
+## Careers in Law Enforcement
+
+  - [Land Management Law Enforcement Officer (recent grad, GL 5/7)](https://www.usajobs.gov/GetJob/ViewDetails/486181800)
+  - [Land Management Law Enforcement Officer (GL 5/7)](https://www.usajobs.gov/GetJob/ViewDetails/486183200)
+  - [Land Management Law Enforcement Officer (GL 5)](https://www.usajobs.gov/GetJob/ViewDetails/486183700)
+  - [Land Management Law Enforcement Officer (GL 7/9)](https://www.usajobs.gov/GetJob/ViewDetails/486183800)
+  - [Land Management Law Enforcement Officer (GL 7/9)](https://www.usajobs.gov/GetJob/ViewDetails/486184500)
