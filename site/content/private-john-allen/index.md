@@ -19,7 +19,7 @@ office: 'Pvt. John Allen National Fish Hatchery'
 js: /js/field-station.js
 url: /private-john-allen
 type: field-station
-updated: 'August 31st, 2017'
+updated: 'December 14th, 2017'
 ---
 
 Private John Allen National Fish Hatchery is a warmwater hatchery established in Tupelo, Mississippi, in 1901.  The hatchery is named after the Congressional  representative who appealed to the Congress in his famous ‘hatchery speech’: “Fish will travel overland for miles to get into the water we have at Tupelo . . . thousands and millions of unborn fish are clamoring to this Congress today for an opportunity to be hatched at the Tupelo hatchery.”
@@ -30,16 +30,16 @@ Today, quality water helps ensure a quality brood stock of Gulf Coast walleye. B
 
 7:00am - 3:30pm Monday through Friday.
 
-<!-- {{< scroller-list tag="Private John Allen National Fish Hatchery" section="news" >}} -->
+{{< scroller-list tag="Private John Allen National Fish Hatchery" section="news" >}}
 {{< scroller-list tag="Private John Allen National Fish Hatchery" section="articles" >}}
-<!-- {{< scroller-list tag="Private John Allen National Fish Hatchery" section="wildlife" >}} -->
+{{< scroller-list tag="Private John Allen National Fish Hatchery" section="wildlife" >}}
 
 ## What we do
 
 ### Fish production
 
 The hatchery is supported by your federal tax dollars. Fish raised by federal hatcheries are stocked in public waters to support federal fishery responsibilities mandated by law including:
- 
+
   - fish for restoration where, for example, habitat degradation has altered a stream’s natural reproductive capability;
   - to recover threatened or endangered populations;
   - to preclude listing of certain species under the Endangered Species Act; and
@@ -98,18 +98,18 @@ Warmwater fish stocked for recreational fishing such as largemouth bass, bluegil
 
 The hatchery sends fish as far west as Louisiana, as far east as Florida, and as far north as Illinois. Most of the projects are in the Southeast. Our habitat restoration teams works on projects throughout the entire country.
 
-<iframe src="/map/?search=Mississippi" class="state-map" title="Find a local field station"></iframe>
+<iframe src="/map/#/map/?search=Mississippi" class="state-map" title="Find a local field station"></iframe>
 
 ## Contact
 
-Ricky Campbell, Hatchery Manager  
-Private John Allen National Fish Hatchery  
-P.O. Box 7317  
-111 Elizabeth Street  
-Tupelo, MS 38802  
-Phone: 662-842-1341  
-Fax: 662-842-3215  
-[pvtjohnallen@fws.gov](mailto:pvtjohnallen@fws.gov)  
+Ricky Campbell, Hatchery Manager
+Private John Allen National Fish Hatchery
+P.O. Box 7317
+111 Elizabeth Street
+Tupelo, MS 38802
+Phone: 662-842-1341
+Fax: 662-842-3215
+[pvtjohnallen@fws.gov](mailto:pvtjohnallen@fws.gov)
 
 <br>
 

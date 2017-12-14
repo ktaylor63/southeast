@@ -3,8 +3,7 @@ title: 'Conservation in Louisiana'
 abbreviation: LA
 state: Louisiana
 url: /louisiana
-aliases:
-  /maps/la.html
+aliases: /maps/la.html
 tags:
     - Louisiana
 hero:
@@ -12,7 +11,7 @@ hero:
     alt: 'An alligator basking in the sun on the shore of a water body.'
     link: 'https://flic.kr/p/buc8MR'
     caption: 'Bell City, Louisiana: Alligator looking for fun. Photo by Corey Douglas.'
-updated: 'July 25th, 2017'
+updated: 'December 14th, 2017'
 ---
 
 {{< scroller-list tag="Louisiana" number="10" section="news" >}}
@@ -22,7 +21,7 @@ updated: 'July 25th, 2017'
 {{< scroller-list tag="Louisiana" number="10" section="wildlife" >}}
 
 ## Map of Offices
-<iframe src="/map/?search=Louisiana" class="state-map" title="List of offices in the Southeast Region of the U.S. Fish and Wildlife Service"></iframe>
+<iframe src="/map/#/map/?search=Louisiana" class="state-map" title="List of offices in the Southeast Region of the U.S. Fish and Wildlife Service"></iframe>
 
 ## Ecological Services Field Office
 

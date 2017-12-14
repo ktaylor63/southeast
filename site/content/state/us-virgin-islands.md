@@ -3,8 +3,7 @@ title: 'Conservation in the U.S. Virgin Islands'
 abbreviation: VI
 state: 'U.S. Virgin Islands'
 url: /us-virgin-islands
-aliases:
-  /maps/vi.html
+aliases: /maps/vi.html
 tags:
     - 'US Virgin Islands'
 hero:
@@ -12,7 +11,7 @@ hero:
     alt: 'A large adult sea turtle on a sandy beach.'
     link: 'https://flic.kr/p/9U4vvD'
     caption: 'Leatherback sea turtle at Tinglar, U.S. Virgin Islands. Photo by Claudia Lombard, USFWS'
-updated: 'March 20th, 2017'
+updated: 'December 14th, 2017'
 ---
 
 {{< scroller-list tag="US Virgin Islands" number="10" section="news" >}}
@@ -22,4 +21,4 @@ updated: 'March 20th, 2017'
 {{< scroller-list tag="US Virgin Islands" number="10" section="wildlife" >}}
 
 ## Map of Offices
-<iframe src="/map/?search=Virgin+Islands" class="state-map" title="List of offices in the Southeast Region of the U.S. Fish and Wildlife Service"></iframe>
+<iframe src="/map/#/map/?search=Virgin+Islands" class="state-map" title="List of offices in the Southeast Region of the U.S. Fish and Wildlife Service"></iframe>

@@ -3,8 +3,7 @@ title: 'Conservation in Florida'
 state: Florida
 abbreviation: FL
 url: /florida
-aliases:
-  /maps/fl.html
+aliases: /maps/fl.html
 hero:
     name: sunrise-at-florida-panther.jpg
     alt: 'Sunrise photo with a deep blue to bright orange gradient and pine trees in the background'
@@ -13,7 +12,7 @@ hero:
     position: bottom
 tags:
     - Florida
-updated: 'August 31st, 2017'
+updated: 'December 14th, 2017'
 ---
 
 {{< figure class="photo-right" src="/images/pages/florida-coast-sunset-egret.jpg" alt="Bright red sunset reflected over water with silhouette of a wading bird." caption="Florida sunset. Photo: Paul Lang, USFWS." >}}
@@ -37,11 +36,11 @@ The U.S. Fish and Wildlife Service is responsible for managing the nation's trus
 {{< scroller-list tag="Florida" number="10" section="wildlife" >}}
 
 ## Map of Offices
-<iframe src="/map/?search=Florida" class="state-map" title="List of offices in the Southeast Region of the U.S. Fish and Wildlife Service"></iframe>
+<iframe src="/map/#/map/?search=Florida" class="state-map" title="List of offices in the Southeast Region of the U.S. Fish and Wildlife Service"></iframe>
 
 ## Frequently Asked Questions
 
-### Do I need a fishing license or hunting permit in Florida?  
+### Do I need a fishing license or hunting permit in Florida?
 
 Licenses are provided by our state partners, the Florida Fish and Wildlife Conservation Commission. Visit their [Recreational Hunting, Fishing Licenses and Permits web site](http://myfwc.com/license/recreational/), or call (850) 265-3676.
 
@@ -75,4 +74,4 @@ The Everglades is recognized both nationally and internationally as one of the w
 
 The Service is addressing an unprecedented workload to assure that an Everglades restoration plan provides maximum benefits to the diverse fish and wildlife resources of south Florida. The restoration plan as a whole and each of its components will require the Service's evaluation under the authorities of the Fish and Wildlife Coordination Act, Endangered Species Act, Migratory Bird Treaty Act, Clean Water Act and the National Environmental Policy Act.
 
-Learn more at [EvergladesRestoration.gov](http://www.evergladesrestoration.gov/)  
+Learn more at [EvergladesRestoration.gov](http://www.evergladesrestoration.gov/)

@@ -3,8 +3,7 @@ title: 'Conservation in Kentucky'
 abbreviation: KY
 state: Kentucky
 url: /kentucky
-aliases:
-  /maps/ky.html
+aliases: /maps/ky.html
 tags:
     - Kentucky
 hero:
@@ -12,7 +11,7 @@ hero:
     alt: 'A river cuts through a colorful forest in fall.'
     link: 'https://flic.kr/p/buzGMg'
     caption: 'Clarks River National Wildlife Refuge in Fall. Photo by Andy Eller, USFWS.'
-updated: 'August 31st, 2017'
+updated: 'December 14th, 2017'
 ---
 
 {{< scroller-list tag="Kentucky" number="10" section="news" >}}
@@ -22,4 +21,4 @@ updated: 'August 31st, 2017'
 {{< scroller-list tag="Kentucky" number="10" section="wildlife" >}}
 
 ## Map of Offices
-<iframe src="/map/?search=Kentucky" class="state-map" title="List of offices in the Southeast Region of the U.S. Fish and Wildlife Service"></iframe>
+<iframe src="/map/#/map/?search=Kentucky" class="state-map" title="List of offices in the Southeast Region of the U.S. Fish and Wildlife Service"></iframe>

@@ -2,8 +2,7 @@
 title: 'Conservation in Arkansas'
 state: Arkansas
 abbreviation: AR
-aliases:
-  /maps/ar.html
+aliases: /maps/ar.html
 url: /arkansas
 hero:
     name: arkansas-sunset.jpg
@@ -13,7 +12,7 @@ hero:
     position: top
 tags:
     - Arkansas
-updated: 'August 31st, 2017'
+updated: 'December 14th, 2017'
 ---
 
 ## The Natural State
@@ -31,4 +30,4 @@ Locations throughout the state are crucial for ducks and other migrating waterfo
 {{< scroller-list tag="Arkansas" number="10" section="wildlife" >}}
 
 ## Map of Offices
-<iframe src="/map/?search=Arkansas" class="state-map" title="List of offices in the Southeast Region of the U.S. Fish and Wildlife Service"></iframe>
+<iframe src="/map/#/map/?search=Arkansas" class="state-map" title="List of offices in the Southeast Region of the U.S. Fish and Wildlife Service"></iframe>

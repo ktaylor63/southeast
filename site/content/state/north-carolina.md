@@ -3,8 +3,7 @@ title: 'Conservation in North Carolina'
 abbreviation: NC
 state: 'North Carolina'
 url: /north-carolina
-aliases:
-  /maps/nc.html
+aliases: /maps/nc.html
 tags:
     - 'North Carolina'
 hero:
@@ -13,7 +12,7 @@ hero:
     link: 'https://flic.kr/p/jMESzk'
     caption: 'Mattamuskeet National Wildlife Refuge in North Carolina. Photo by Allie Stewart, USFWS.'
     position: bottom
-updated: 'August 31st, 2017'
+updated: 'December 14th, 2017'
 ---
 
 {{< scroller-list tag="North Carolina" number="10" section="news" >}}
@@ -23,7 +22,7 @@ updated: 'August 31st, 2017'
 {{< scroller-list tag="North Carolina" number="10" section="wildlife" >}}
 
 ## Map of Offices
-<iframe src="/map/?search=North+Carolina" class="state-map" title="List of offices in the Southeast Region of the U.S. Fish and Wildlife Service"></iframe>
+<iframe src="/map/#/map/?search=North+Carolina" class="state-map" title="List of offices in the Southeast Region of the U.S. Fish and Wildlife Service"></iframe>
 
 ## Frequently Asked Questions
 

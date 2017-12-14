@@ -16,10 +16,10 @@ tags:
     - 'Endangered Species Act'
     - Lafayette
     - Louisiana
-updated: 'September 27th, 2017'
+updated: 'December 14th, 2017'
 ---
 
-The field station was established in 1972. We strive for ecosystem sustainability through preservation, conservation, enhancement, and restoration of habitats essential for the long-term viability of the fish, wildlife, and plants in Louisiana. The field office emphasizes an ecosystem approach incorporating Strategic Habitat Conservation to address and prioritize habitat issues through partnerships with other federal and state agencies, conservation organizations, private landowners, and citizens to achieve the greatest possible benefits to fish and wildlife. 
+The field station was established in 1972. We strive for ecosystem sustainability through preservation, conservation, enhancement, and restoration of habitats essential for the long-term viability of the fish, wildlife, and plants in Louisiana. The field office emphasizes an ecosystem approach incorporating Strategic Habitat Conservation to address and prioritize habitat issues through partnerships with other federal and state agencies, conservation organizations, private landowners, and citizens to achieve the greatest possible benefits to fish and wildlife.
 
 ## Threatened and Endangered Species
 
@@ -27,7 +27,7 @@ The field station was established in 1972. We strive for ecosystem sustainabilit
 
 ## Louisiana Endangered Species Act (ESA) project review and guidance for other federal trust resources
 
-[The application](/lafayette/project-review/) is designed to streamline the review of projects for potential effects to federally listed threatened and endangered species (T&E) and their critical habitat (CH).
+[The application](/lafayette/project-review/) is designed to streamline the review of projects for potential effects to federally listed threatened and endangered species (T&amp;E) and their critical habitat (CH).
 
 ### Emergency Consultations
 
@@ -43,7 +43,7 @@ Occasionally, federal agencies must respond to emergency situations where human 
 
 ## Suggested Streamlined Coordination for Oil and Natural Gas Exploration, Drilling and Production in Louisiana Shale Plays
 
-[This document](/pdf/guidelines/suggested-streamlined-coordination-oil-and-gas-exploration-drilling-production.pdf) was prepared by the U.S. Fish and Wildlife Service’s (Service) Louisiana Ecological Services Office (LESO) and partners to protect and conserve important public resources such as wildlife and plants, and their habitats (including waterbodies) within areas of Louisiana with a high potential for new or continued oil and natural gas drilling and production. 
+[This document](/pdf/guidelines/suggested-streamlined-coordination-oil-and-gas-exploration-drilling-production.pdf) was prepared by the U.S. Fish and Wildlife Service’s (Service) Louisiana Ecological Services Office (LESO) and partners to protect and conserve important public resources such as wildlife and plants, and their habitats (including waterbodies) within areas of Louisiana with a high potential for new or continued oil and natural gas drilling and production.
 
 ## Five Year Strategic Plan
 
@@ -55,7 +55,7 @@ Our Five-Year Strategic Plan details the strategies needed to achieve our goals.
 
 The Louisiana Ecological Service field office service all of Louisiana. Our main office is located in Lafayette, with sub-offices in New Orleans and Fort Polk.
 
-<iframe src="/map/?search=Louisiana" class="state-map" title="Find a local field station"></iframe>
+<iframe src="/map/#/map/?search=Louisiana" class="state-map" title="Find a local field station"></iframe>
 
 ## Contact
 
@@ -68,8 +68,8 @@ The Louisiana Ecological Service field office service all of Louisiana. Our main
   <a href="mailto:lafayette@fws.gov">lafayette@fws.gov</a>
 </address>
 
-## Directions 
+## Directions
 
-[Download directions to our office](https://www.google.com/maps/dir//646+Cajundome+Blvd+%23400,+Lafayette,+LA+70506/@30.225719,-92.0450797,17z/data=!4m16!1m7!3m6!1s0x86249c723bf09351:0xaa90334ddf2887ef!2s646+Cajundome+Blvd+%23400,+Lafayette,+LA+70506!3b1!8m2!3d30.225719!4d-92.042891!4m7!1m0!1m5!1m1!1s0x86249c723bf09351:0xaa90334ddf2887ef!2m2!1d-92.042891!2d30.225719).  
+[Download directions to our office](https://www.google.com/maps/dir//646+Cajundome+Blvd+%23400,+Lafayette,+LA+70506/@30.225719,-92.0450797,17z/data=!4m16!1m7!3m6!1s0x86249c723bf09351:0xaa90334ddf2887ef!2s646+Cajundome+Blvd+%23400,+Lafayette,+LA+70506!3b1!8m2!3d30.225719!4d-92.042891!4m7!1m0!1m5!1m1!1s0x86249c723bf09351:0xaa90334ddf2887ef!2m2!1d-92.042891!2d30.225719).
 
 <br><br>

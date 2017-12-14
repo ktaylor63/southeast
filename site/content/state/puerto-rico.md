@@ -3,8 +3,7 @@ title: 'Conservation in Puerto Rico'
 abbreviation: PR
 state: 'Puerto Rico'
 url: /puerto-rico
-aliases:
-  /maps/pr.html
+aliases: /maps/pr.html
 tags:
     - 'Puerto Rico'
 hero:
@@ -12,7 +11,7 @@ hero:
     alt: 'A bright green parrot with red markings on its face and an open beak.'
     link: 'https://flic.kr/p/9CZN6H'
     caption: 'Puerto Rican parrot. Photo by Tom MacKenzie, USFWS.'
-updated: 'August 31st, 2017'
+updated: 'December 14th, 2017'
 ---
 
 {{< scroller-list tag="Puerto Rico" number="10" section="news" >}}
@@ -20,4 +19,4 @@ updated: 'August 31st, 2017'
 {{< scroller-list tag="Puerto Rico" number="10" section="wildlife" >}}
 
 ## Map of Offices
-<iframe src="/map/?search=Puerto+Rico" class="state-map" title="List of offices in the Southeast Region of the U.S. Fish and Wildlife Service"></iframe>
+<iframe src="/map/#/map/?search=Puerto+Rico" class="state-map" title="List of offices in the Southeast Region of the U.S. Fish and Wildlife Service"></iframe>
