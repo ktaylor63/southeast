@@ -22,7 +22,9 @@ const filterSoutheasternDocuments = docs =>
   docs.filter(doc => doc.units.filter(isSoutheasternDocument).length);
 
 const createLinkedResource = res =>
-  `<li><a href="${res.url}" target="_blank" aria-label="${res.fileName}">Download species status assessment &raquo;</a></li>`;
+  `<li><a href="${res.url}" target="_blank" aria-label="${
+    res.fileName
+  }">Download species status assessment &raquo;</a></li>`;
 
 const createListItem = doc => {
   if (doc.referenceType === 'Published Report Series') return '';
@@ -41,11 +43,7 @@ const handleSuccess = res => {
   list.innerHTML = docs.map(createListItem).join('');
 };
 
-const handleError = err => {
-  if (err) console.log(err);
-};
-
 axios
   .get(url)
   .then(handleSuccess)
-  .catch(handleError);
+  .catch(console.log);
