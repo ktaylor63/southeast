@@ -35,7 +35,7 @@
   "license": "SAX-PD",
   "devDependencies": {
     "async": "^2.5.0",
-    "autoprefixer": "^7.2.1",
+    "autoprefixer": "^7.2.3",
     "axe-cli": "^1.1.1",
     "chai": "^4.0.2",
     "chalk": "^1.1.3",
