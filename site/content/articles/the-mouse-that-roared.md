@@ -26,7 +26,7 @@ updated: 'December 12th, 2017'
 
 **Pensacola, Florida** -- Pity the big-eared, bug-eyed Perdido Key Beach mouse.
 
-Buffeted by hurricanes, threatened by development, and stalked by cats, the thumb-sized mouse had all but disappeared from the sliver of beach outside this bustling Gulf Coast town. A decade ago, only 35 of the federally endangered mice were tallied by the U.S. Fish and Wildlife Service.
+Buffeted by hurricanes, threatened by development, and stalked by cats, the thumb-sized mouse had all but disappeared from the sliver of beach outside this bustling Gulf Coast town. A decade ago, the U.S. Fish and Wildlife Service feared extinction.
 
 {{< figure class="photo-right" src="/images/pages/perdido-key-beach-mouse-footprints.jpg" alt="Tiny paw prints dot the white sand beach." caption="Paw prints from a Perdido Key beach mouse. Photo by USFWS." link="https://flic.kr/p/Hu2aHP" >}}
 
@@ -34,12 +34,13 @@ Today?
 
 “The mouse is doing pretty well right now,” said Kristi Yanchis, a Service biologist and beach mouse expert. “Their numbers have bounced back and their population is at the highest levels since they were first listed in 1985. But they still face significant threats to their long-term survival.”
 
-Maybe 3,500 mice roam a 17-mile stretch of sand dune and sea oat along the barrier island shared by Florida and Alabama. But revitalizing the Perdido Key mouse population -- at least until the next major hurricane -- hasn’t been easy, cheap or universally applauded.
+Maybe 3,500 mice roam a 17-mile stretch of sand dune and sea oat along the barrier island shared by Florida and Alabama, though the rodent’s overall numbers rise and fall with the seasons. But recovery the Perdido Key mouse population -- at least until the next major hurricane -- hasn’t been easy, cheap or universally applauded.
+
 Single-home builders bristled at new regulations intended to boost mouse habitat. Developers decried a permitting process that threatened to take years. A conservation group sued.
 
 “My initial reaction was shock,” said Greg Jones, a senior project manager for Perdido Key’s largest residential development. “We had all our permits intact and [then] we had to jump through a lot of hoops. There was a pretty lengthy period where we all had to educate each other about what we were doing. It was definitely something greatly different than what we expected.”
 
-The frustrations and delays, though, came with a silver lining. The mouse’s endangered species status prompted Escambia County to craft a habitat conservation plan that guides development. In essence, the Endangered Species Act (ESA) was used by the local community as a land-use tool to fight over-development and clogged roads.
+The frustrations and delays, though, came with a silver lining. The mouse’s endangered species status prompted Escambia County to craft a habitat conservation plan that guides development. In essence, the Endangered Species Act (ESA) was used by the local community as a land-use tool to guide development and manage traffic.
 
 {{< figure class="photo-center" src="/images/pages/perdido-key-beach-mouse-on-sleeve.jpg" alt="A biologist holds a tiny white and brown mouse with large black eyes." caption="Perdido Key beach mouse. Photo by USFWS." link="https://flic.kr/p/Hu2cdH" >}}
 
@@ -59,7 +60,7 @@ Recovery efforts appeared to be working. In early 2004, biologists estimated tha
 
 {{< figure class="photo-center" src="/images/pages/perdido-key-beach-mouse-in-hand.jpg" alt="A tiny mouse held by two hands." caption="Perdido Key beach mouse in hand. Photo by USFWS." link="https://flic.kr/p/Hu2axZ" >}}
 
-A year later, after another brutal hurricane season, only 25 mice were believed alive, according to a 2014 study by the Service. Another survey, in March 2007, turned up only one (dead) mouse at Perdido Key State Park.
+A year later, after another brutal hurricane season, few mice were found. Another survey, in March 2007, turned up only one (dead) mouse at Perdido Key State Park.
 
 The Great Recession couldn’t have come at a better time for the mouse’s sake. Virtually all development came to a halt. Escambia County crafted its habitat conservation plan (HCP) dictating the placement of homes, shops, parking lots and more.
 
@@ -83,17 +84,17 @@ The driveway was narrow and permeable to allow rainwater to seep into the ground
 
 Perdido Key State Park straddles 292. Four mice-friendly culverts were built by the Florida Department of Transportation to allow mice to cross the road. Road crews worked during the day to avoid hassling the night-loving mice.
 
-The Service was also busy propagating the hairy-tailed critters in captivity. Forty-eight mice bred at zoos in Gainesville and West Palm Beach were released at Gulf State Park in spring 2010. (Fifteen were found dead a few days later in a red fox den.)
+The Service and its partners were also busy propagating the hairy-tailed critters in captivity. Forty-eight mice bred at zoos in Gainesville and West Palm Beach were released at Gulf State Park in spring 2010. (Fifteen were found dead a few days later in a red fox den.)
 
 In September of that year, 51 mice were tallied and, for the first time since they were listed in 1985, located in all three parks.
 
 But with the recession’s end, and home-building kicking into gear, Yanchis and others say privately owned property is the focus. No project loomed larger than the Lost Key Golf and Beach Club, a 413-acre condo and townhome community along 292.
 
-A decade ago the key’s largest residential project sought federal permission, including a wetlands fill-in permit from the U.S. Army Corps of Engineers, to build 1,900 residences. Fish and Wildlife determined that 59 acres were beach mouse habitat and, after much negotiation, allowed only 26 acres to be built on.
+A decade ago the key’s largest residential project sought federal permission, including a wetlands fill-in permit from the U.S. Army Corps of Engineers, to build 1,900 residences. Fish and Wildlife determined that 59 acres were beach mouse habitat and, after much negotiation, agreed that 26 acres could be built on.
 
 Defenders of Wildlife, a conservation nonprofit, sued the Service and the Corps in January 2014 alleging the permit violated the ESA by harming mouse habitat.
 
-The Service went back to the Corps and the developer who ultimately agreed to add native plants, dry retention ponds, better lighting and curb cuts (so mice and other animals could more readily access suitable habitat). WCI Communities also clustered homes closer together, which conserved more land, rerouted roads and killed a beachside parking lot. The company also contributed $1.9 million to conserve habitat.
+The Service went back to the Corps and the developer who ultimately agreed to add native plants, dry retention ponds, better lighting and curb cuts (so mice and other animals could more readily access suitable habitat). WCI Communities also clustered homes closer together, which conserved more land, rerouted roads and dropped a beachside parking lot. The company also contributed $1.9 million to conserve habitat.
 
 {{< figure class="photo-center" src="/images/pages/perdido-key-beach-mouse-with-tag.jpg" alt="A tiny mouse with a tag on its ear for identification." caption="The tag on this Perdido Key beach mouse's ear helps to identify the animal. Photo by USFWS." link="https://flic.kr/p/22nxrQQ" >}}
 
@@ -105,7 +106,7 @@ Other condo projects are on the books. Single-family homes too are being built. 
 
 The tiny mouse that roared, thankful for all who rallied to his side, is being heard loud and clear.
 
-“It now appears that we are heading towards recovery,” Yanchis said. “But it’ll probably take another hurricane to see if the mouse can bounce back from the safeguards we are putting in place.”
+“It now appears that we are heading towards recovery,” Yanchis said. “But it’ll probably take another hurricane to see if the mouse can bounce back with from the safeguards we are putting in place.”
 
 ## Contact
 
