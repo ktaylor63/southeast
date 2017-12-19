@@ -5,6 +5,7 @@ tags:
     - 'Bald Eagle'
     - 'Bald and Golden Eagle Protection Act'
     - 'Golden Eagle'
+    - 'Native American'
     - Permits
 url: /our-services/permits/eagles
 aliases:
@@ -15,7 +16,7 @@ hero:
     alt: 'A brown eagle with a very sharp curved beak flying through the air.'
     link: 'https://flic.kr/p/qGpPKT'
     caption: 'Golden eagle. Photo by Tom Koerner, USFWS.'
-updated: 'March 28th, 2017'
+updated: 'December 19th, 2017'
 ---
 
 > Regional Announcement: Our mailing address has changed. For all written bald eagle or golden eagle permit correspondence please use 1875 Century Boulevard,  Atlanta, GA 30345.
