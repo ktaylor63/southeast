@@ -1,0 +1,23 @@
+{{ $lazyLoadLimit := 7 }}
+{{ $stories := sort .Site.Data.teasers.stories "date" "desc" }}
+
+<ol class='infinite-list card-list'>
+{{ range $index, $element := $stories }}
+  <li class='infinite-list--item card card-text'>
+    <header class='infinite-list--header'>
+      <div class='infinite-list--img-date'>
+        {{ if $element.hero.name }}
+        <img {{ if lt $index $lazyLoadLimit }}src{{ else }}src="/images/svg/picture.svg" data-src{{ end }}='{{ $.Site.BaseURL }}images/hero/small/{{ $element.hero.name }}' alt='{{ $element.hero.alt }}'/>
+        {{ end }}
+        {{ if $element.date }}
+        <span class="infinite-list--date">{{ dateFormat "January 2, 2006" $element.date }}</span>
+        {{ end }}
+      </div>
+      <div class='infinite-list--title'>
+        <h3 id="story-{{$index}}"><a href='{{ $element.url }}'>{{ $element.title }}</a></h3>
+      </div>
+    </header>
+    <p class='infinite-list--summary'>{{ $element.summary }} <a href='{{ $element.url }}' aria-labelledby="story-{{$index}}">Read the full story &raquo;</a></p>
+  </li>
+{{ end }}
+</ol>
