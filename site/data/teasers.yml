@@ -1,5 +1,14 @@
 ---
 stories:
+  - title: 'NFWF Announces $700,000 in Grants to Help At-Risk Aquatic Species in the Southeast'
+    url: 'http://www.nfwf.org/whoweare/mediacenter/pr/Pages/nfwf-announces-grants-to-help-at-risk-aquatic-species-in-the-southeast-2017-1219.aspx'
+    date: '2017-12-19'
+    summary: 'The National Fish and Wildlife Foundation (NFWF) today announced $700,000 in grants to conserve and restore habitats for at-risk aquatic species within targeted freshwater ecosystems of the Southeast. The grants will generate $1.71 million in match for a total conservation impact of $2.41 million.'
+    hero:
+        name: pigeon-mountain-salamander.jpg
+        link: 'https://flic.kr/p/eLEEwc'
+        alt: 'A brownish-yellow salamander sanding on a mossy rock with large round eyes.'
+        caption: 'The Pigeon Mountain salamander is no longer at-risk of needing federal protection. Photo by John P. Clare, CC BY-NC-ND 2.0.'
   - title: 'Is the coast clear for tricolored bats?'
     url: 'https://usfwsnortheast.wordpress.com/2017/11/21/is-the-coast-clear-for-tricolored-bats/'
     date: '2017-11-21'
