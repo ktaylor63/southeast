@@ -1,5 +1,15 @@
 ---
 stories:
+  - title: 'Is the coast clear for tricolored bats?'
+    url: 'https://usfwsnortheast.wordpress.com/2017/11/21/is-the-coast-clear-for-tricolored-bats/'
+    date: '2017-11-21'
+    summary: 'This winter two scientists will set out to learn  whether tricolored bats that use winter roosts other than caves and mines are susceptible to a deadly bat disease in the coastal plains and forests of North and South Carolina — two of 38 states in the bats’ range.'
+    hero:
+        name: tri-colored-bat-white-nose-syndrome.jpg
+        alt: 'A brown bat attached to the roof of a cave with white fuzz around its nose'
+        caption: 'In this 2016 photo, a tri-colored bat with evidence of White Nose Syndrome (WNS) hibernates on the wall of the Black Diamond Tunnel in the North Georgia mountains. Photo by Pete Pattavina/USFWS.'
+        link: 'https://flic.kr/p/SQZDWw'
+        position: 'right center'
   - title: 'Effort begins to restore habitat of imperiled Canby’s dropwort plant, in SW Georgia'
     url: 'https://saportareport.com/effort-begins-restore-habitat-imperiled-canbys-dropwort-plant-sw-georgia/'
     date: '2017-12-09'
