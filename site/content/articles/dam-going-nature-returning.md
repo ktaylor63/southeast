@@ -16,8 +16,9 @@ tags:
     - 'Dam Removal'
     - 'Green River'
     - Kentucky
+    - 'Native American'
     - Rivers
-updated: 'August 28th, 2017'
+updated: 'December 19th, 2017'
 ---
 
 **Brownsville, Kentucky** -- A project decades in the planning started with a bang – and that’s in the literal sense.
@@ -77,5 +78,5 @@ When it’s done, the place where a dam once stretched will feature a rocky shor
 
 ## Contact
 
-Mark Davis, Public Affairs Specialist  
+Mark Davis, Public Affairs Specialist
 [mark_r_davis@fws.gov](mailto:mark_r_davis@fws.gov), (404) 679 7291

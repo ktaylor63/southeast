@@ -7,9 +7,14 @@ hero:
     link: 'https://flic.kr/p/8znoym'
     caption: 'A Key deer in velvet. Photo by USFWS.'
 tags:
+    - 'Endangered Species Act'
     - Florida
-    - NWRS
-updated: 'November 7th, 2017'
+    - 'Florida Keys'
+    - 'Florida Keys National Wildlife Refuges Complex'
+    - 'Key Deer'
+    - 'National Key Deer Refuge'
+    - 'Native American'
+updated: 'December 19th, 2017'
 ---
 
 The petite Key deer is dependent on fresh water in a place where fresh water can sometimes be scarce – the Florida Keys, the only place where the Key deer lives. At National Key Deer Refuge, fresh water collects in small ponds that form in the limestone, known as solution holes, providing life for the refuge’s federally listed Key deer population.
@@ -46,7 +51,7 @@ The U.S. Fish and Wildlife Service is the principal Federal agency responsible f
 
 ## Contact
 
-Division of Public Affairs  
-External Affairs  
-Telephone: 703-358-2220  
+Division of Public Affairs
+External Affairs
+Telephone: 703-358-2220
 Website: [https://www.fws.gov/external-affairs/public-affairs/](https://www.fws.gov/external-affairs/public-affairs/)

@@ -8,7 +8,8 @@ hero:
 tags:
     - 'Bo Ginn National Fish Hatchery'
     - Georgia
-updated: 'October 26th, 2016'
+    - 'Native American'
+updated: 'December 19th, 2017'
 ---
 
 The U.S. Fish and Wildlife Service will re-open Bo Ginn National Fish Hatchery in Millen, Georgia. The transfer occurred through an agreement negotiated in December 2009 with the Georgia Department of Natural Resources, which has overseen the hatchery since 1996.
@@ -33,7 +34,7 @@ The National Fish Hatchery System has a unique responsibility in helping to reco
 
 ## Contact
 
-Division of Public Affairs  
-External Affairs  
-Telephone: 703-358-2220  
+Division of Public Affairs
+External Affairs
+Telephone: 703-358-2220
 Website: [https://www.fws.gov/external-affairs/public-affairs/](https://www.fws.gov/external-affairs/public-affairs/)

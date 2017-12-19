@@ -34,6 +34,7 @@ tags:
     - 'Longleaf Pine'
     - Manatee
     - Military
+    - 'Native American'
     - 'Piping Plover'
     - Recreation
     - 'Red Knot'
@@ -42,13 +43,13 @@ tags:
     - 'Wolf Island National Wildlife Refuge'
 series:
     - 'Conserving Paradise'
-updated: 'October 13th, 2017'
+updated: 'December 19th, 2017'
 ---
 
 {{< youtube id="wVfDpNAR4XU" title="Learn all about the wildlife and recreation resources on the Altamaha River" >}}
 
 **Darien, Georgia** — It meanders 137 miles through the wild heart of Georgia, a blackwater beauty that nourishes longleaf pine forests, cypress swamps, saltwater estuaries and the barrier islands that protect the Atlantic coast and migratory birds alike.
- 
+
 The Altamaha River — “the Amazon of the South” — flows free with few latter-day intrusions like bridges or factories. It’s a biodiverse playground for [West Indian manatees](https://www.fws.gov/southeast/wildlife/mammals/manatee/), piping plovers, eastern indigo snakes, gopher tortoises, the hairy rattleweed and dozens of [at-risk species](/endangered-species-act/at-risk-species/). It’s a recreational oasis, too, for deer and turkey hunters, fresh and saltwater anglers and, increasingly, kayakers, birders and hikers. Its history fascinates; its culture abounds.
 
 <aside class="explainer">
@@ -58,7 +59,7 @@ The Altamaha River — “the Amazon of the South” — flows free with few lat
 </aside>
 
 It’s also a river corridor under siege.
- 
+
 A paper mill, municipal wastewater and agricultural runoff pollute the Altamaha. Development, anything from a 10-acre subdivision to a 5,000-acre horse farm, gobbles up precious buffer lands. Rising seas, warmer temperatures and killer droughts harm flora and fauna.
 
 The river, though, benefits from one of the nation’s most ambitious, successful and little-known conservation efforts. Nearly $100 million has been spent the last dozen years buying up huge swaths of land along the Altamaha. A 40-mile-long corridor, from Jesup to [Wolf Island National Wildlife Refuge](https://www.fws.gov/refuge/Wolf_Island/), has been protected — along both sides of the river.
@@ -86,13 +87,13 @@ The Southeast Conservation Adaptation Strategy (SECAS), a coalition of governmen
 
 ## Pelicans and plantations
 
-Wolf Island is fast eroding. Shifting sands and rising seas have lopped hundreds of feet of beach and marsh from its seaward side. The refuge, though, remains quite popular with migrating birds who traverse the Atlantic Flyway. And, as the easternmost reach of the Altamaha River basin, Wolf Island is an ideal spot to begin a recent, 40-mile upriver sojourn.  
+Wolf Island is fast eroding. Shifting sands and rising seas have lopped hundreds of feet of beach and marsh from its seaward side. The refuge, though, remains quite popular with migrating birds who traverse the Atlantic Flyway. And, as the easternmost reach of the Altamaha River basin, Wolf Island is an ideal spot to begin a recent, 40-mile upriver sojourn.
 
 A handful of piping plovers, a species threatened with extinction, waddle along the beach before heading back north for the summer. Hundreds of red knots fly from ocean to beach to marsh and back again in search of clams, oysters and mussels. Orange-beaked American oystercatchers, lumbering brown pelicans, least and royal terns, black skimmers, godwits and any number of ducks parade and preen along the shore.
 
 {{< figure class="photo-center" src="/images/pages/piping-plover-on-beach.jpg" alt="A small white bird with gray back standing on a debris strewn beach." caption="Piping plover. Photo by USFWS." link="https://flic.kr/p/9U6URh">}}
 
-The Altamaha dumps 100,000 gallons of water into the sound each second, concocting a hearty fresh-salt water cocktail that nurtures everything from tiny food-source plankton to endangered Atlantic and shortnose sturgeons. Clams, sea worms, snails, crabs, black drum, croaker and spotted sea trout all depend on the watery mix. Pickerelweed, a plant favorite of threatened West Indian manatees, grows in the marsh. White shrimp -- a commercial fishing stalwart -- spawn offshore, migrate upstream into tidal creeks before returning downriver as adults to the estuary and open waters to spawn or get scooped up in nets. 
+The Altamaha dumps 100,000 gallons of water into the sound each second, concocting a hearty fresh-salt water cocktail that nurtures everything from tiny food-source plankton to endangered Atlantic and shortnose sturgeons. Clams, sea worms, snails, crabs, black drum, croaker and spotted sea trout all depend on the watery mix. Pickerelweed, a plant favorite of threatened West Indian manatees, grows in the marsh. White shrimp -- a commercial fishing stalwart -- spawn offshore, migrate upstream into tidal creeks before returning downriver as adults to the estuary and open waters to spawn or get scooped up in nets.
 
 “You need to keep the river clean for the fishing and all the tourists and the yachts and the kayakers coming through,” said Benton Wilson, while gutting flounder and whiting for a wholesaler along the docks of Darien. A nearby shrimp boat readied for a five-night trawl. An American alligator sunned along the banks of the river below the U.S. 17 bridge.
 
@@ -142,7 +143,7 @@ The gopher tortoise is considered a keystone species, without which the entire e
 
 “We pride ourselves on what we call proactive conservation: trying to protect species while they’re still abundant,” said Lee, a landscape ecologist. “It’s a way to identify habitat and prevent those species from being federally listed. The Altamaha corridor is a perfect spot to protect the gopher tortoise.”
 
-DNR, in its 1978 land-use study, said the corridor must be protected. Tracts were added piecemeal over the years. Since 2005, though, public and private groups have spent $93 million protecting the river via fee-simple purchases or permanent easements. Typically, TNC or the Conservation Fund would buy a tract of forest land and hold it until the Service or the state -- leveraging NGO, DOD or private foundation dollars -- came up with enough money to take control of the land. 
+DNR, in its 1978 land-use study, said the corridor must be protected. Tracts were added piecemeal over the years. Since 2005, though, public and private groups have spent $93 million protecting the river via fee-simple purchases or permanent easements. Typically, TNC or the Conservation Fund would buy a tract of forest land and hold it until the Service or the state -- leveraging NGO, DOD or private foundation dollars -- came up with enough money to take control of the land.
 
 Georgia and non-military federal partners put up about $23 million each, with the Service contributing the lion’s share of the federal cost, largely through bird and wetlands conservation grants.
 
@@ -161,15 +162,15 @@ The Altamaha corridor is critical habitat for the U.S. Marine Corps too. F-18s, 
   <p>Send comments to <a href='mailto:daniel_chapman@fws.gov?subject=Preserving+Paradise%3A+The+Altamaha+River'>daniel_chapman@fws.gov</a>.</p>
 </aside>
 
-The range today is 5,200 acres. Soon it will expand to 34,000 acres -- with thousands of acres re-planted in longleaf pine. Numerous threatened, endangered or candidate species, including the gopher tortoise, indigo snake and frosted flatwoods salamander, live seemingly in harmony with the bombs.  
+The range today is 5,200 acres. Soon it will expand to 34,000 acres -- with thousands of acres re-planted in longleaf pine. Numerous threatened, endangered or candidate species, including the gopher tortoise, indigo snake and frosted flatwoods salamander, live seemingly in harmony with the bombs.
 
 “We’ll be managing an entire ecosystem,” said Gary Herndon, a natural resource manager at the USMC air station in Beaufort, S.C. “We’ll enhance the habitat, preserve and promote a diversity of species all while protecting our mission.”
 
-One day the bombing range will link with Fort Stewart to the north, creating an even larger wildlife corridor and further buffering the two military installations. Lee, the DNR ecologist, is also cobbling together a 120-mile corridor from Florida through the [Okefenokee National Wildlife Refuge](https://www.fws.gov/refuge/okefenokee/) and up to Fort Stewart. 
+One day the bombing range will link with Fort Stewart to the north, creating an even larger wildlife corridor and further buffering the two military installations. Lee, the DNR ecologist, is also cobbling together a 120-mile corridor from Florida through the [Okefenokee National Wildlife Refuge](https://www.fws.gov/refuge/okefenokee/) and up to Fort Stewart.
 
 Corridors, in essence, are what SECAS is all about: conserving public or private lands now so that the ravages of urbanization, industrialization and climate change don’t harm flora and fauna in the future.
 
-NeSmith, the newspaperman, sees the river’s threats firsthand. Pollution from a paper mill coloring the river an unnatural brown. Toxic chemicals seeping from factories in Brunswick. Herbicide running off from pine plantations. Saltwater creeping upstream killing live oaks. 
+NeSmith, the newspaperman, sees the river’s threats firsthand. Pollution from a paper mill coloring the river an unnatural brown. Toxic chemicals seeping from factories in Brunswick. Herbicide running off from pine plantations. Saltwater creeping upstream killing live oaks.
 
 A Jesup native, NeSmith began buying up Altamaha River property in the early 80s. Nearly 3,000 acres of his land -- oxbow lakes, cypress swamps and hardwood forests -- has been placed in everlasting conservation easements with TNC and the U.S. Department of Agriculture. That translates into five miles of protected riverfront.
 

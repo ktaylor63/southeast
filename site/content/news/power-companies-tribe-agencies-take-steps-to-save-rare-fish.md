@@ -2,18 +2,18 @@
 title: 'Power companies, tribe, agencies take steps to save rare fish'
 date: '2016-02-23'
 tags:
-    - Tribes
-    - 'North Carolina'
     - Georgia
+    - 'Native American'
+    - 'North Carolina'
+    - 'Sicklefin Redhorse'
     - Tennessee
-    - Sicklefin Redhorse
 hero:
     name: sicklefin-redhorse.jpg
     alt: 'A NC biologist holding a sicklefin redhorse on a river bank in front of a hydroelectric dam.'
     link: 'https://flic.kr/p/paZsUy'
     caption: 'North Carolina biologist TR Russ holding an sicklefin redhorse. Photo by Mark Cantrell, USFWS.'
     position: 'bottom right'
-updated: 'October 26th, 2016'
+updated: 'December 19th, 2017'
 ---
 
 Power companies, the Eastern Band of Cherokee Indians, and state and federal agencies have come together to conserve the [sicklefin redhorse](http://fws.gov/southeast/wildlife/fish/sicklefin-redhorse), a fish found in only six Appalachian counties worldwide and being considered for the federal endangered species list. 
@@ -51,20 +51,20 @@ In addition to those annual actions, several broader measures will be undertaken
 
 ## Contacts
 
-Gary Peeples, U.S. Fish and Wildlife Service  
+Gary Peeples, U.S. Fish and Wildlife Service
 828/258-3939, ext. 234; gary_peeples@fws.gov
 
-Mike LaVoie, Eastern Band of Cherokee Indians  
+Mike LaVoie, Eastern Band of Cherokee Indians
 828/554-6113; michlavo@nc-cherokee.com
 
-Steve Fraley, N.C. Wildlife Resources Commission  
+Steve Fraley, N.C. Wildlife Resources Commission
 828/558-6015; stephen.fraley@ncwildlilfe.org
 
-Steve Johnson, Duke Energy Carolinas  
+Steve Johnson, Duke Energy Carolinas
 704/382-4240; steve.johnson@duke-energy.com
 
-Jessica Coleman, Tennessee Valley Authority  
+Jessica Coleman, Tennessee Valley Authority
 423/751-4480; jlcoeman@tva.gov
 
-Rick Lavender, Georgia Department of Natural Resources  
+Rick Lavender, Georgia Department of Natural Resources
 706/557-3327; Rick.Lavender@dnr.state.ga.us

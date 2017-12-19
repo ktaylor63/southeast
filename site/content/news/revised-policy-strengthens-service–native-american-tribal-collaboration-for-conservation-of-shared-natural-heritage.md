@@ -1,14 +1,14 @@
 ---
 title: 'Revised policy strengthens Service–Native American tribal collaboration for conservation of shared natural heritage'
 tags:
-    - Tribes
+    - 'Native American'
 hero:
     name: native-american-clothing.jpg
     link: 'https://flic.kr/p/5PQ2bm'
     caption: 'A participant in the Miccosukee Indian Festival. Photo by Matthew Hoelscher, CC by SA 2.0.'
     position: 'top center'
 date: '2016-01-20'
-updated: 'October 26th, 2016'
+updated: 'December 19th, 2017'
 ---
 
 Native American leaders and U.S. Fish and Wildlife Service (Service) officials gathered today to recognize new measures to strengthen the agency’s 20-year-old policy guiding government-to-government relations between tribes and the agency. Service Director Dan Ashe signed the updated Native American Policy (NAP) during a Washington, D.C., ceremony attended by Principal Deputy Assistant Secretary for Fish and Wildlife and Parks Michael Bean and numerous tribal representatives. The Service manages lands and resources of great importance to tribes.
