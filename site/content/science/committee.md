@@ -19,9 +19,9 @@ The Southeast Region Science Committee is comprised of employees from throughout
 
 {{< figure class="photo-right" src="/images/pages/forbes-boyle-bio.jpg" alt="A service biologist wearing a bright orange hat kneeling in tall wetland vegetation." >}}
 
-**Okefenokee National Wildlife Refuge, Georgia**  
-[maxwell_boyle@fws.gov](mailto:maxwell_boyle@fws.gov)  
-[Job Series: 0430](https://www.usajobs.gov/Search/?keyword=0430)  
+**Okefenokee National Wildlife Refuge, Georgia**
+[maxwell_boyle@fws.gov](mailto:maxwell_boyle@fws.gov)
+[Job Series: 0430](https://www.usajobs.gov/Search/?keyword=0430)
 
 ### Expertise
 
@@ -51,9 +51,9 @@ Don’t be afraid to make mistakes, and don’t let the fear of making them keep
 
 {{< figure class="photo-right" src="/images/pages/laura-brand-bio.jpg" alt="A biologist with a headlamp taking measurements from a captured alligator." >}}
 
-**Davie, Florida**  
-[Laura_brandt@fws.gov](mailto:Laura_brandt@fws.gov)  
-[Job Series: 0486](https://www.usajobs.gov/Search/?keyword=0486)  
+**Davie, Florida**
+[Laura_brandt@fws.gov](mailto:Laura_brandt@fws.gov)
+[Job Series: 0486](https://www.usajobs.gov/Search/?keyword=0486)
 
 ### Expertise
 
@@ -83,9 +83,9 @@ Take advantage of the opportunities the Service offers for learning while making
 
 {{< figure class="photo-right" src="/images/pages/john-faustini-bio.jpg" alt="Two biologists on a stream bank take a look at a map." >}}
 
-**Atlanta, Georgia**  
-[John_Faustini@fws.gov](mailto:john_faustini@fws.gov)  
-[Job Series: 1315](https://www.usajobs.gov/Search/?keyword=1315)  
+**Atlanta, Georgia**
+[John_Faustini@fws.gov](mailto:john_faustini@fws.gov)
+[Job Series: 1315](https://www.usajobs.gov/Search/?keyword=1315)
 
 ### Expertise
 
@@ -112,7 +112,7 @@ Wading in Citico Creek in Cherokee National Forest as the leading edge of a spaw
 Seize any opportunity to get out in the field. Take full advantage of the many training, detail, and other opportunities the Service provides to expand your horizons. And don’t let perceived obstacles hold you back; most fall away in the face of creative thinking and persistence.
 
 ## Jeff Gleason, Gulf of Mexico Migratory Bird Coordinator
-**Lacombe, Louisiana**  
+**Lacombe, Louisiana**
 [Jeffrey_Gleason@fws.gov](mailto:Jeffrey_Gleason@fws.gov)
 
 ### Field of Study
@@ -127,36 +127,9 @@ After that, I accepted a position as a Wildlife Biologist at the Kulm Wetland Ma
 
 Presently, I am the U.S. Fish and Wildlife Service’s Gulf of Mexico Migratory Bird Coordinator with the Service’s Migratory Bird and Gulf Programs. I am stationed at the [Southeast Louisiana (SELA) National Wildlife Refuge Complex](https://www.fws.gov/refuge/Bayou_Sauvage/About/About_the_Complex.html) in Lacombe, LA. With these more recent positions, the focus has been on value, relevance, and rigor of monitoring and clear linkages to decision-making. I have been involved with the structured decision making (SDM) efforts of the Gulf of Mexico Avian Monitoring Network (GoMAMN); serving as Co-Chair. Even more recently, the U.S. Fish and Wildlife Service was ‘awarded’ the lead responsible for seabird monitoring, as part of the Gulf of Mexico Marine Assessment Program for Protected Species (GoMMAPPS); an effort funded by BOEM. This effort will monitor seabirds, marine mammals, and sea turtles over the next several years (2017-2020) and this effort will provide much needed data to inform decision-makers related offshore oil and gas development in the GoM.
 
-## Robin Goodloe, Supervisory Fish and Wildlife Biologist
-**Athens, Georgia**  
-[robin_goodloe@fws.gov](mailto:robin_goodloe@fws.gov)  
-[Job Series: 0401](https://www.usajobs.gov/Search/?keyword=0401)  
-
-### Expertise
-
-<span class="tag">Endangered Species Act</span>
-
-### What does a typical day involve?
-
-There is no typical day! On any given day, I could be conducting a site visit to look at a stream restoration project, drafting a research proposal, meeting with partners to plan conservation actions -- and better yet, implementing those actions, or working on drudge paperwork. New FY17 office initiatives mean I get to do more fish sampling and to work more closely with NRCS and agricultural producers to improve water quality in one of the Southeast’s most diverse river basins, the Conasauga.
-
-### Field of Study
-
-Wildlife.
-
-### What led you to the Service?
-
-Pure luck.
-
-### Most memorable day on the job
-
-My first time snorkeling the Conasauga, where the water is so clear and the fish community so diverse that it’s like swimming in an aquarium.
-
-I first worked for the Service’s (long-moved-to-USGS) research arm at the [Patuxent Wildlife Research Center](https://www.pwrc.usgs.gov/), where my division worked to propagate various rare species for release to the wild and managed field stations throughout the country for research on endangered and threatened species. Patuxent sent me back to school as a co-op student (now morphed into the [Pathways program](/work-with-us/internships#pathways-internship-program)), and I’ve worked for the Service full time since 1991, when I finished my doctorate at the University of Georgia. My research at UGA focused on population dynamics of the feral horses of [Cumberland Island National Seashore](https://www.nps.gov/cuis/index.htm), including evaluation of an immunocontraceptive to manage the herd (it failed miserably). I worked at [Loxahatchee National Wildlife Refuge](https://www.fws.gov/refuge/arm_loxahatchee/), on the Everglades lawsuit for a year, then transferred to Georgia Ecological Services’ coastal office, where I spent the next 5 years working on consultation and recovery actions for sea turtles, wood storks, Eastern indigo snakes, and bald eagles. In 1997, I moved to Athens to open the new north [Georgia ES office](https://fws.gov/athens) and entered a whole new world of freshwater [fishes](/wildlife/fishes) and [mussels](/wildlife/mussels). They are fascinating!  I work closely with The Nature Conservancy, USGS, various Georgia universities, Georgia DNR, and other partners to better link science and management.
-
 ## Todd Jones-Farrand, Science Coordinator
-**Gulf Coast Plains and Ozarks Landscape Conservation Cooperative**  
-[david_jones-farrand@fws.gov](mailto:david_jones-farrand@fws.gov)  
+**Gulf Coast Plains and Ozarks Landscape Conservation Cooperative**
+[david_jones-farrand@fws.gov](mailto:david_jones-farrand@fws.gov)
 [Job Series: 0480](https://www.usajobs.gov/Search/?keyword=0480)
 
 ### Expertise
@@ -184,9 +157,9 @@ Being in the field with a graduate student working on clapper rails in Grand Bay
 Slow down (just a wee bit).
 
 ## John Stanton, Supervisory Wildlife Biologist
-**Columbia, North Carolina**  
-[john_stanton@fws.gov](mailto:john_stanton@fws.gov)  
-[Job Series: 0486](https://www.usajobs.gov/Search/?keyword=0401)  
+**Columbia, North Carolina**
+[john_stanton@fws.gov](mailto:john_stanton@fws.gov)
+[Job Series: 0486](https://www.usajobs.gov/Search/?keyword=0401)
 
 {{< figure class="photo-right" src="/images/pages/john-stanton.jpg" alt="A male biologist holding a Canada goose." >}}
 
@@ -206,7 +179,7 @@ I received a Bachelor of Science degree in Wildlife Management from the Universi
 
 ### What led you to the Service?
 
-During my undergraduate studies, I worked on Moosehorn NWR as field technician on an American Black Duck nesting study and assisted refuge staff with night-lighting American Woodcock. Later in my college career, I was a student conservation association biological technician station at Stillwater NWR and was responsible for waterbird surveys and avian botulism monitoring refuge-wide.  These experiences strengthened my interested in the U.S Fish and Wildlife Service as a career path. 
+During my undergraduate studies, I worked on Moosehorn NWR as field technician on an American Black Duck nesting study and assisted refuge staff with night-lighting American Woodcock. Later in my college career, I was a student conservation association biological technician station at Stillwater NWR and was responsible for waterbird surveys and avian botulism monitoring refuge-wide.  These experiences strengthened my interested in the U.S Fish and Wildlife Service as a career path.
 
 ### Most memorable day on the job
 
@@ -214,18 +187,18 @@ One of my most memorable days on the job was being selected as the first refuge 
 
 ### If you could go back in time to your first day on the job what advice would give yourself?
 
-Begin networking the first day on the job.  Reach out to others in the conservation and research communities to ensure our collective efforts will result in efficiencies of scale. Doing so will also greatly increase your knowledge and skills. Take notes and keep good records to maximize the usefulness of your work. 
+Begin networking the first day on the job.  Reach out to others in the conservation and research communities to ensure our collective efforts will result in efficiencies of scale. Doing so will also greatly increase your knowledge and skills. Take notes and keep good records to maximize the usefulness of your work.
 
 ## Carrie A. Straight, Fish and Wildlife Biologist
-**Athens, Georgia**  
-[carrie_straight@fws.gov](mailto:carrie_straight@fws.gov)  
-[Job Series: 0401](https://www.usajobs.gov/Search/?keyword=0401)  
+**Athens, Georgia**
+[carrie_straight@fws.gov](mailto:carrie_straight@fws.gov)
+[Job Series: 0401](https://www.usajobs.gov/Search/?keyword=0401)
 
 {{< figure class="photo-right" src="/images/pages/carrie-straight-bio.jpg" alt="A female biologist wearing waders walks through a stream." link="https://www.flickr.com/gp/usfwssoutheast/BZ0D13" >}}
 
 ### Expertise
 
-<span class="tag">ESA Section 7</span> <span class="tag">Aquatic Species</span> <span class="tag">Bats</span> <span class="tag">Transportation</span> <span class="tag">GIS</span>  
+<span class="tag">ESA Section 7</span> <span class="tag">Aquatic Species</span> <span class="tag">Bats</span> <span class="tag">Transportation</span> <span class="tag">GIS</span>
 
 ### What does a typical day involve?
 
@@ -248,9 +221,9 @@ I don’t have one specific day that has been the most memorable.  Some of the m
 For someone new to the Service or any job really, I would stress the need to be a good communicator. Being able to communicate well among coworkers, with partners, and the public are keys to being successful at the work we do.
 
 ## William Wayman, Supervisory Fishery Biologist
-**Warm Springs, Georgia**  
-[william_wayman@fws.gov](mailto:william_wayman@fws.gov)  
-[Job Series: 0482](https://www.usajobs.gov/Search/?keyword=0482)  
+**Warm Springs, Georgia**
+[william_wayman@fws.gov](mailto:william_wayman@fws.gov)
+[Job Series: 0482](https://www.usajobs.gov/Search/?keyword=0482)
 
 ### Expertise
 
@@ -275,20 +248,3 @@ One of my most memorable days (and there are many) was working with Lake Sturgeo
 ### If you could go back in time to your first day on the job what advice would give yourself?
 
 Take advantage of all that the Service has to offer.  Through my job, I have traveled all across the country and have been able to work with numerous endangered species. I even traveled to China as part of a Service program.  I have done field work in 5 of the 8 Regions and traveled to an additional 2 Regions for meetings (still trying to get to Alaska).  The Service offers availability to things that can’t be found anywhere else.
-
-## Christine Willis, Energy Coordinator
-**Atlanta, Georgia**  
-[christine_willis@fws.gov](mailto:christine_willis@fws.gov)  
-[Job Series: 0401](https://www.usajobs.gov/Search/?keyword=0401)  
-
-### Expertise
-
-<span class="tag">Permits</span> <span class="tag">Clean Water Act</span> <span class="tag">ESA Section 7</span> <span class="tag">FERC</span> <span class="tag">NEPA</span>
-
-### What does a typical day involve?
-
-My current responsibilities include regional program coordination for large infrastructure projects including Regional support for Army Corps of Engineers’ permits under the [Clean Water Act](https://www.epa.gov/laws-regulations/summary-clean-water-act), and permits require the [Federal Energy Regulatory Commission (FERC)](https://www.ferc.gov/) that regulates the interstate transmission of electricity, natural gas, and oil.
-
-Prior to my current position, I worked in the Wildlife and Sport Fish Restoration Program (2001-2011), while there I was responsible for the administration of [grants](/our-services/grants) to States in the Southeast under the Wildlife Restoration Program, Hunter Education, ESA Section 6 Grants, and the State Wildlife Grant program.  I also served on the Regional Review Team for the State Wildlife Action Plans, which included providing technical assistance to southeast states for development of the State Action Plans as well as the national approval of these Plans for the Fish and Wildlife Service.
-
-From 1999-2001, I worked in Headquarters, in the Division of Endangered Species.  During my time in Washington I reviewed listing packages, [critical habitat](/endangered-species-act/critical-habitat) designation and provided litigation support.  From 1993-1999, I worked in the [Honolulu Field Office](https://www.fws.gov/pacificislands/).  My program responsibilities included; NEPA, Clean Water Act, the Service’s Partners Program, and NRCS’s [Wildlife and Habitat Incentives Programs](https://www.nrcs.usda.gov/wps/portal/nrcs/main/national/programs/financial/whip/).  I also served on several State Technical Committees tasked with the development of a State Water Permit Program, State Watershed Focus Groups, and a Water Quality Monitoring Program.  I started my career with the Service in 1991 in the [Sacramento Field Office](https://www.fws.gov/sacramento/) where I worked in the Branch of Federal Projects on Bureau of Reclamation water development projects including review and preparation of environmental assessment documents and Fish and Wildlife Coordination Act Reports.
