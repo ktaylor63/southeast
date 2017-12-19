@@ -5,10 +5,12 @@
     h2.page-subtitle id="{{ urlize .Params.subtitle }}" {{ .Params.subtitle}}
     {{ end }}
 
+    {{ if or (isset .Params "author") (not .Date.IsZero) }}
     p.byline {{ if .Params.author }}By {{ .Params.author | safeHTML }}{{ end }}
       {{ if not .Date.IsZero }}
         span.article-date {{ .Date.Format "January 2, 2006" }}
       {{ end }}
+    {{ end }}
 
     {{ .Content }}
 
