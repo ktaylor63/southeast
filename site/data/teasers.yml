@@ -1,5 +1,14 @@
 ---
 stories:
+  - title: 'Hunters, anglers drive conservation efforts in Alabama'
+    url: 'http://www.montgomeryadvertiser.com/story/news/2017/12/17/hunters-anglers-drive-conservation-efforts/942039001/'
+    date: '2017-12-18'
+    summary: 'If you enjoy the outdoors in Alabama, and the nation for that matter, thank a hunter or angler. Through federally levied excise taxes on everything from guns and ammo to fish finders and boat motors, more than $18 billion dollars have been given to the states to aid conservation efforts, according to the U.S. Fish and Wildlife Service.'
+    hero:
+        name: white-tailed-deer-silhouette.jpg
+        link: 'https://flic.kr/p/ntVfxb'
+        alt: 'The silhouette of a white-tailed deer buck.'
+        caption: 'White-tailed deer at sunrise on Lacreek National Wildlife Refuge. Photo by Tom Koerner, USFWS.'
   - title: 'NFWF Announces $700,000 in Grants to Help At-Risk Aquatic Species in the Southeast'
     url: 'http://www.nfwf.org/whoweare/mediacenter/pr/Pages/nfwf-announces-grants-to-help-at-risk-aquatic-species-in-the-southeast-2017-1219.aspx'
     date: '2017-12-19'
