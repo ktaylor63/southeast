@@ -42,9 +42,13 @@ Wicker was a co-chair of a committee that more than a decade ago compiled an inv
 {{< figure class="photo-center" src="/images/pages/milburnie-dam-neuse-river-map.jpg" alt="A restored stream and floodplain." caption="The Milburnie Dam was the latest of six structures removed from North Carolina waterways in less than two decades. Map by USFWS." >}}
 
 It was a hazard, too. The dam, and a sandy beach adjacent to it, was a tourist spot where at least 15 people had drowned over the years. The site also was notorious for a double-homicide 45 years earlier.
-Working with other agencies, the Service oversaw the dam’s $1.2 million demolition. Restoration Systems LLC, a Raleigh-based company whose services include dam removals, went at the concrete structure with backhoe and bulldozer. It freed the river in a week.
+
+Working with other agencies, the Service oversaw the dam’s demolition. Restoration Systems LLC, a Raleigh-based company whose services include dam removals, went at the concrete structure with backhoe and bulldozer. It freed the river in a week.
 
 “It just kind of crumbled,” said Tiffani Bylow, who managed the project.
+
+Restoration Systems spent $1.2 million dismantling the dam, and will spend more on landscaping and monitoring the Neuse. It will recoup its money through mitigation banking – selling credits to governments or developers whose proposed developments elsewhere may harm streambeds or wetlands.
+In the case of the Milburnie Dam, the N.C. Department of Transportation may be paying Restoration Systems. It has plans to build a highway south of the river, and will destroy streams and other habitat in the process.
 
 The Milburnie Dam joins a growing list of structures that no longer exist. Nearly 1,400 dams have been removed since the 1990s, according to American Rivers, a nonprofit dedicated to restoring the nation’s waterways.
 
@@ -63,3 +67,7 @@ Fish have been waiting even longer to return to their traditional spawning groun
 
 Mark Davis, Public Affairs Specialist
 [Mark_r_Davis@fws.gov](mailto:Mark_r_Davis@fws.gov), (404) 679-7291
+
+## Correction
+
+On December 20th this story was updated to include information about how the dam removal was funded.
