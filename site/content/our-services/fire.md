@@ -134,17 +134,17 @@ Includes desired vegetation structure and fire components, desired habitat condi
  - [Goodfires.org](https://goodfires.org/), provided by the Southern Group of State Foresters
  - [Wildland Fire in the South](http://www.southernwildfire.net/), provided by the Southern Regional Strategy Committee
 
-## Hurricane Harvey Response
+### Southeast Region Annual Narratives
 
-The following maps are intended for use with the response to Hurricane Harvey. These maps are provided "AS IS", without warranty of any kind, expressed or implied. Use these maps at your own risk.
+Annual narratives detailing the Southeast Region’s Fire Management fiscal year events broken down by each of the Fire Management Zones.
 
-- [Port Arthur, Texas](/pdf/map/harvey/port-arthur.pdf)
-- [Beaumont, Texas](/pdf/map/harvey/beaumont.pdf)
-- [City of Orange, Texas](/pdf/map/harvey/city-of-orange-texas.pdf)
-- [Hardin County, Texas](/pdf/map/harvey/hardin-county.pdf)
-- [Jefferson County, Texas](/pdf/map/harvey/jefferson-county.pdf)
-- [Liberty County, Texas](/pdf/map/harvey/liberty-county.pdf)
-- [Orange County, Texas](/pdf/map/harvey/orange-county.pdf)
+- [FY2016](/pdf/report/fire-report-2016.pdf)
+- [FY2015](/pdf/report/fire-report-2015.pdf)
+- [FY2014](/pdf/report/fire-report-2014.pdf)
+- [FY2013](/pdf/report/fire-report-2013.pdf)
+- [FY2012](/pdf/report/fire-report-2012.pdf)
+- [FY2011](/pdf/report/fire-report-2011.pdf)
+- [FY2010](/pdf/report/fire-report-2010.pdf)
 
 ## Contact Us
 
