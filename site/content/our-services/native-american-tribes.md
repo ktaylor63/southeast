@@ -54,13 +54,14 @@ For more information on American Indian tribes, visit the [Bureau of Indian Affa
 
 The Service provides a competitive funding opportunity for federally recognized tribal governments to develop and implement programs for the benefit of wildlife and their habitat, including species of Native American cultural or traditional importance and species that may or may not be not hunted or fished.
 
-- [Learn more about Tribal Wildlife Grants](http://www.fws.gov/nativeamerican/grants.html)
+- [Learn more about Tribal Wildlife Grants](https://www.fws.gov/nativeamerican/grants.html)
 
-## Migratory Bird Permits
+## Migratory Bird and Eagle Permits
 
 For hundreds of years, Native Americans have used eagle parts and feathers for religious and cultural purposes, including healing, marriage, and naming ceremonies. Recognizing the significance of eagles to Native Americans, the Service established the National Eagle Repository to provide Native Americans with the carcasses, parts and feathers of golden and bald eagles for religious purposes.
 
-- [See all bald and golden eagle permits](http://www.fws.gov/permits/applicationforms/ApplicationB.html#BGEPA)
+- [See all bald and golden eagle permits](https://www.fws.gov/permits/applicationforms/ApplicationB.html#BGEPA)
+- [See all migratory bird permits](https://www.fws.gov/birds/policies-and-regulations/permits.php)
 
 ## Policies
 
