@@ -11,7 +11,7 @@ hero:
     alt: 'A USFWS biologist holding a fuzzy orange Mississippi Sandhill crane chick to take measurements.'
     caption: 'A U.S. Fish and Wildlife Service employee gently examines a Mississippi sandhill crane chick. Photo by USFWS.'
     position: 'bottom center'
-updated: 'December 14th, 2017'
+updated: 'December 22nd, 2017'
 ---
 
 {{< scroller-list tag="Mississippi" number="10" section="news" >}}
@@ -21,4 +21,4 @@ updated: 'December 14th, 2017'
 {{< scroller-list tag="Mississippi" number="10" section="wildlife" >}}
 
 ## Map of Offices
-<iframe src="/map/#/map/?search=Mississippi" class="state-map" title="List of offices in the Southeast Region of the U.S. Fish and Wildlife Service"></iframe>
+<iframe src="https://usfws.github.io/southeast-mega-map/?state=Mississippi" class="state-map" title="List of offices in the Southeast Region of the U.S. Fish and Wildlife Service"></iframe>

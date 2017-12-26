@@ -11,7 +11,7 @@ hero:
     alt: 'An alligator basking in the sun on the shore of a water body.'
     link: 'https://flic.kr/p/buc8MR'
     caption: 'Bell City, Louisiana: Alligator looking for fun. Photo by Corey Douglas.'
-updated: 'December 14th, 2017'
+updated: 'December 22nd, 2017'
 ---
 
 {{< scroller-list tag="Louisiana" number="10" section="news" >}}
@@ -21,7 +21,7 @@ updated: 'December 14th, 2017'
 {{< scroller-list tag="Louisiana" number="10" section="wildlife" >}}
 
 ## Map of Offices
-<iframe src="/map/#/map/?search=Louisiana" class="state-map" title="List of offices in the Southeast Region of the U.S. Fish and Wildlife Service"></iframe>
+<iframe src="https://usfws.github.io/southeast-mega-map/?state=Louisiana" class="state-map" title="List of offices in the Southeast Region of the U.S. Fish and Wildlife Service"></iframe>
 
 ## Ecological Services Field Office
 

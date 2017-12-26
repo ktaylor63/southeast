@@ -22,4 +22,4 @@ updated: 'August 31st, 2017'
 {{< scroller-list tag="Alabama" number="10" section="wildlife" >}}
 
 ## Map of Offices
-<iframe src="/map/#/map?search=Alabama" class="state-map" title="List of offices in the Southeast Region of the U.S. Fish and Wildlife Service"></iframe>
+<iframe src="https://usfws.github.io/southeast-mega-map/?state=Alabama" class="state-map" title="List of offices in the Southeast Region of the U.S. Fish and Wildlife Service"></iframe>
