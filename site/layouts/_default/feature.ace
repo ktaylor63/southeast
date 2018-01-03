@@ -9,7 +9,7 @@ article class="feature-{{ if eq .Section "articles" }}article{{ else }}news{{ en
     {{ end }}
 
   .feature-article-summary__teaser
-    {{ if .Params.hero.video }}
+    {{ if not .Params.hero }}
     h2 {{ .Title }}
     {{ end }}
     {{ if .Params.subtitle }}
