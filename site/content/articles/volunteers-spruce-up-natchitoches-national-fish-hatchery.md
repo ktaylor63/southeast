@@ -8,12 +8,13 @@ type: 'Friends and Volunteers'
 tags:
     - E-Grits
     - 'Friends and Volunteers'
+    - Louisiana
     - 'Natchitoches National Fish Hatchery'
 hero:
     name: natchitoches-friends-and-volunteers.jpg
     alt: 'A female volunteer adding fish food to a pond.'
     caption: 'Macey Canerday feeds the fishes.  Photo by USFWS.'
-updated: 'May 4th, 2017'
+updated: 'December 28th, 2017'
 ---
 
 Natchitoches National Fish Hatchery had the luxury of having several amazing volunteers recently donate their time at our facility:  Bonnie Stevens, Sharon Hucks, Aaron Ruud, Cindy Wright, and Macey Canerday.

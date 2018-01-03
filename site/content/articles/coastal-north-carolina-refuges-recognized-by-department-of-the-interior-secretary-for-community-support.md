@@ -2,6 +2,8 @@
 title: 'Coastal North Carolina refuges recognized by Department of the Interior Secretary for community support'
 subtitle: 'Quick response by U.S. Fish and Wildlife Service staff assisted power-starved communities on Hatteras and Ocracoke Islands'
 date: '2017-09-07'
+lat: 35.21847
+lng: -75.690674
 author: 'Bonnie Strawser'
 tags:
     - Community
@@ -9,7 +11,7 @@ tags:
     - 'North Carolina'
     - 'Secretary of the Interior'
 type: 'Feature Story'
-updated: 'September 7th, 2017'
+updated: 'December 28th, 2017'
 ---
 
 Earlier today, Acting Southeast Regional Director Michael Oetker presented the *Secretary’s Commendation Award* to local refuge staff, Art Beyer, Rebekah Martin, Becky Harrison, and Scott Lanier, on behalf of US Department of the Interior, Secretary Ryan Zinke. These individuals led the refuge effort to expedite permissions for needed work to restore power to Hatteras and Ocracoke Islands.

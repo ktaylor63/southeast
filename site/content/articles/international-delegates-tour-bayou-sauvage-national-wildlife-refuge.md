@@ -2,6 +2,8 @@
 title: 'International delegates tour Bayou Sauvage National Wildlife Refuge'
 author: 'Rebecca Larkins, Southeast Louisiana National Wildlife Refuges Complex'
 date: '2017-09-26'
+lat: 30.089682
+lng: -89.865641
 hero:
     name: bayou-sauvage-delegates.jpg
     alt: 'A dozen visitors sitting at picknic tables listen to the refuge manager.'
@@ -13,7 +15,7 @@ tags:
     - Louisiana
     - 'Southeast Louisiana National Wildlife Refuges Complex'
 type: 'Bragging Rights'
-updated: 'September 26th, 2017'
+updated: 'December 28th, 2017'
 ---
 
 Twenty-six delegates from around the world  participated in a guided tour of Bayou Sauvage National Wildlife Refuge on Friday, September 2, as part of the State Department’s International Visitor Leadership program. The delegates were interested in the restoration projects at Bayou Sauvage and learning about how community partnerships assist with the refuge’s projects.

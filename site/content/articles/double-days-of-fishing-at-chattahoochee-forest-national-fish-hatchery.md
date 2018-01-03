@@ -1,6 +1,8 @@
 ---
 title: 'Double days of fishing at Chattahoochee Forest National Fish Hatchery'
 author: 'Crystal Thomas, Chattahoochee Forest National Fish Hatchery'
+lat: 34.706292
+lng: -84.150196
 description: 'Chattahoochee Forest National Fish Hatchery near Suches, Georgia, hosted a Seniors Fishing Rodeo for adults aged 55 and older on June 2 and a Family Fishing Festival for youth aged 16 and under on June 3. Both of the events drew large crowds.'
 date: '2017-07-20'
 hero:
@@ -20,7 +22,7 @@ tags:
     - 'Senior Fishing Rodeo'
     - Volunteer
 type: 'Friends and Volunteers'
-updated: 'July 20th, 2017'
+updated: 'December 28th, 2017'
 ---
 
 {{< figure class="photo-right" src="/images/pages/brother-and-sister-show-off-their-catch.jpg" alt="A father with two children showing off the fish they caught." caption="Family shows their catches.  Photo by Crystal Thomas, USFWS." >}}

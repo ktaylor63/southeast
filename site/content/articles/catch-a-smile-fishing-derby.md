@@ -1,5 +1,7 @@
 ---
 title: 'Catch a Smile Fishing Derby'
+lat: 36.879506
+lng: -85.144042
 hero:
     name: senior-fishing-derby-wolfcreek.jpg
     alt: 'A senior holding a fishing pole with a wide smile.'
@@ -15,7 +17,7 @@ tags:
     - Kentucky
     - 'Wolf Creek National Fish Hatchery'
 type: 'Bragging Rights'
-updated: 'October 11th, 2017'
+updated: 'December 28th, 2017'
 ---
 
 On September 26, 2017, [Wolf Creek National Fish Hatchery](https://www.fws.gov/wolfcreek/) in Kentucky hosted its annual Catch a Smile Senior Fishing Derby, inviting anyone 62 years or older to participate. This year marked the 10th anniversary of the event, which was  established to promote outdoor activity and connect senior citizens with nature.

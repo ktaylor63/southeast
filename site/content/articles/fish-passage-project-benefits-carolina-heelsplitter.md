@@ -1,20 +1,22 @@
 ---
-title: Fish passage project benefits Carolina heelsplitter
-author: Morgan Wolf, South Carolina Ecological Services Field Office
+title: 'Fish passage project benefits Carolina heelsplitter'
+author: 'Morgan Wolf, South Carolina Ecological Services Field Office'
 date: '2017-10-13'
+lat: 34.735813
+lng: -80.681267
 hero:
-  name: carolina-heelsplitter-culvert-replaced.jpg
-  alt: Water flows freely under a new bridge.
-  caption: Gills Creek Drive crossing at Gills Creek after replacement  Photo by USFWS.
+    name: carolina-heelsplitter-culvert-replaced.jpg
+    alt: 'Water flows freely under a new bridge.'
+    caption: 'Gills Creek Drive crossing at Gills Creek after replacement  Photo by USFWS.'
 tags:
-  - E-Grits
-  - Bragging Rights
-  - North Carolina
-  - Carolina Heelsplitter
-  - Charleston
-  - South Carolina
-type: Bragging Rights
-updated: 'October 13th, 2017'
+    - 'Bragging Rights'
+    - 'Carolina Heelsplitter'
+    - Charleston
+    - E-Grits
+    - 'North Carolina'
+    - 'South Carolina'
+type: 'Bragging Rights'
+updated: 'December 28th, 2017'
 ---
 
 In Lancaster County, South Carolina, more than three miles of critical habitat has been cleared for the Carolina heelsplitter, a mussel federally listed as endangered.

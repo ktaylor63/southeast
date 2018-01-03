@@ -3,6 +3,8 @@ title: 'Soaring past danger'
 subtitle: 'Puerto Rican parrots weather Hurricane Maria'
 date: '2017-10-17'
 author: 'Mark Davis, Public Affairs Specialist'
+lat: 18.33368
+lng: -65.7742
 type: feature
 tags:
     - Aviary
@@ -18,7 +20,7 @@ hero:
     alt: 'Three green parrots standing on a perch in a cage.'
     caption: 'Jafet Velez, a Service biologist, checks in on Puerto Rican parrots in their aviary home. Despite damage from Hurricane Maria, “We are confident we will have an awesome 2018 breeding season,” he says. Photo by Mark Davis, USFWS.'
     link: 'https://flic.kr/p/YrxReL'
-updated: 'November 7th, 2017'
+updated: 'December 28th, 2017'
 ---
 
 **El Yunque National Forest, Puerto Rico** – They’re old, parenthood behind them, but that hardly means the two senior citizens serve no purpose. 

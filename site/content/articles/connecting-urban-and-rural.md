@@ -1,5 +1,7 @@
 ---
 title: 'Connecting urban and rural'
+lat: 32.172957
+lng: -81.075917
 hero:
     name: nancy-fernandez-urban-outreach-coordinator.jpg
     alt: 'Two USFWS employees chatting in front of a marsh.'
@@ -13,7 +15,7 @@ tags:
     - 'Connected Constituency'
     - Georgia
     - 'Savannah National Wildlife Refuge'
-updated: 'November 3rd, 2017'
+updated: 'December 28th, 2017'
 ---
 
 {{< figure class="photo-right" src="/images/pages/nancy-fernandez-plastic-bottles.jpg" alt="A young woman in a U.S. Fish and Wildlife Service uniform." caption="Nancy Fernandez at the under-construction, all-recycled material greenhouse at the Savannah National Wildlife Refuge. Photo by Dan Chapman, USFWS." >}}

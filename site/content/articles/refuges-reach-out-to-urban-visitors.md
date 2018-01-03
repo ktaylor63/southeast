@@ -1,6 +1,8 @@
 ---
 title: 'Refuges reach out to urban visitors'
 author: 'Dan Chapman, Public Affairs Specialist'
+lat: 32.245455
+lng: -80.760085
 type: feature
 hero:
     name: pinckney-island-nwr-marsh.jpg
@@ -18,7 +20,7 @@ tags:
     - 'Savannah Coastal Refuges Complex'
     - 'Savannah National Wildlife Refuge'
     - 'South Carolina'
-updated: 'November 6th, 2017'
+updated: 'December 28th, 2017'
 ---
 
 **Hilton Head Island, South Carolina** -- The hiker was in bad shape. Overweight and exhausted, she had crumpled into a sitting position along the Ibis Pond Trail at the [Pinckney Island National Wildlife Refuge](https://www.fws.gov/refuge/pinckney_island/).

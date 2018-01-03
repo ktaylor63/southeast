@@ -3,6 +3,8 @@ title: 'Moonlighting in Alabama'
 subtitle: 'Volunteers help U.S. Fish and Wildlife Service with sea turtle nest hatchlings'
 description: 'Lisa was keeping a watchful eye on a sea turtle nest, which laid beneath the sand.  A Share the Beach volunteer for more than 16 years, Graham knew the routine: a female sea turtle nested in that spot two months ago, which meant the eggs could hatch at any time.'
 author: 'Denise Rowell, Public Affairs Specialist'
+lat: 30.26805
+lng: -87.586058
 date: '2017-11-06'
 type: feature
 hero:
@@ -21,7 +23,7 @@ tags:
     - Recovery
     - 'Sea Turtle'
     - Volunteer
-updated: 'November 6th, 2017'
+updated: 'December 28th, 2017'
 ---
 
 {{< youtube id="wX-OpXS43kM" title="A video highlighting the work of Share the Beach who helps sea turtle hatchlings find the ocean" >}}

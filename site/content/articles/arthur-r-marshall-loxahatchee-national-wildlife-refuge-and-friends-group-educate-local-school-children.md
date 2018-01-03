@@ -1,6 +1,8 @@
 ---
 title: 'Arthur R. Marshall Loxahatchee National Wildlife Refuge and Friends group educate local school children'
-date: 2017-11-30T00:00:00.000Z
+date: '2017-11-30'
+lat: 26.502119
+lng: -80.215378
 author: 'Steve Henry, Arthur R. Marshall Loxahatchee NWR'
 tags:
     - 'Arthur R. Marshall Loxahatchee National Wildlife Refuge'
@@ -11,7 +13,7 @@ tags:
     - 'Friends and Volunteers'
     - Grant
 type: 'Friends and Volunteers'
-updated: 'November 30th, 2017'
+updated: 'December 28th, 2017'
 ---
 
 The [Friends of Arthur R. Marshall Loxahatchee National Wildlife Refuge](https://loxahatcheefriends.com/) was recently awarded a $12,420 Great Ideas Initiative grant from the Children's Services Council of Palm Beach County, Florida.  The grant will fund an intern to work with refuge staff members to enhance and expand the educational programs at the [Arthur R. Marshall Loxahatchee National Wildlife Refuge](https://www.fws.gov/refuge/arm_loxahatchee/).

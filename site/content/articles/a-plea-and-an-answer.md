@@ -4,6 +4,8 @@ subtitle: 'U.S. Fish and Wildlife Service responds to help stricken island'
 description: 'Hurricane Maria had hardly passed over the small island of Vieques, which is about 10 miles east of Puerto Rico. The land, normally in the full green of early fall, was brown, trees stripped of leaves. The town of Vieques was dark, the houses in the hills just as dark.'
 author: 'By Mark Davis, Public Affairs Specialist'
 date: '2017-10-19'
+lat: 18.14199
+lng: -65.397585
 type: feature
 hero:
     name: puerto-rican-mountain-after-maria.jpg
@@ -17,7 +19,7 @@ tags:
     - 'Puerto Rico'
     - 'US Virgin Islands'
     - Vieques
-updated: 'October 19th, 2017'
+updated: 'January 2nd, 2018'
 ---
 
 {{< figure class="photo-right" src="/images/pages/mitsuka-bermudz-vieques.jpg" alt="A close up photograph of a woman wearing grey glasses." caption="Mitsuka Bermudez heard the chainsaws and knew help was on the way. Crews from the U.S. Fish and Wildlife Service sawed their way through fallen trees to her native Vieques, Puerto Rico. Photo by Mark Davis, USFWS." >}}

@@ -2,6 +2,8 @@
 title: 'A tough woman gets the job done'
 subtitle: 'Incident Commander Sami Gray’s training in wildfires prepared her for Hurricane Irma'
 author: 'Dan Chapman, Public Affairs Specialist'
+lat: 24.679358
+lng: -81.357206
 date: '2017-10-16'
 hero:
     name: sami-gray-incident-commander.jpg
@@ -18,7 +20,7 @@ tags:
     - 'Mississippi Sandhill Crane National Wildlife Refuge'
     - 'National Key Deer Refuge'
     - 'Southeast Louisiana Refuges Complex'
-updated: 'October 16th, 2017'
+updated: 'December 28th, 2017'
 ---
 
 **Big Pine Key, Florida** -- It was hot already at 8 a.m. with temperatures expected to soar under a cloudless, tropical sky. The men and few women gathered at the Nut Farm, a former coconut tree plantation tucked amid downed trees and storm-wracked buildings, were receiving their daily marching orders.

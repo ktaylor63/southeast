@@ -2,6 +2,8 @@
 title: 'Boosting the gopher tortoise'
 subtitle: 'Federal, state and private partners raise $150 million to help the much-loved keystone species flourish in the South'
 date: '2017-08-22'
+lat: 33.763589
+lng: -84.380343
 author: 'Dan Chapman, Public Affairs Specialist'
 type: feature
 hero:
@@ -21,7 +23,7 @@ tags:
     - 'Longleaf Pine'
     - Military
     - 'South Carolina'
-updated: 'August 17th, 2017'
+updated: 'December 28th, 2017'
 ---
 
 **Atlanta, Georgia** -- Typically, animals like the [Florida panther](/wildlife/mammals/florida-panther) lose their Southern habitat, dwindle perilously close to extinction and end up on the [endangered species list](/endangered-species-act). Federal, state and non-profit groups hustle to raise money and conserve land to bolster the populations with the chance, one day, of delisting it.

@@ -2,6 +2,8 @@
 title: 'Partners in chaos'
 subtitle: 'Service duo brings hope to Puerto Rico'
 author: 'Mark Davis, Public Affairs Specialist'
+lat: 18.453543
+lng: -66.091696
 hero:
     name: el-yunque-forest-damage-to-breeding-cages.jpg
     alt: 'Fallen trees crushed many of the Puerto Rican parrot breeding cages.'
@@ -15,7 +17,7 @@ tags:
     - 'Puerto Rico'
     - 'US Virgin Islands'
     - 'Vieques National Wildlife Refuge'
-updated: 'October 25th, 2017'
+updated: 'December 28th, 2017'
 ---
 
 **San Juan, Puerto Rico** -- The Jeep was pretty new, but battered already. It was dusty, and someone had stolen the spare wheel from the rear. Flying debris knocked a hole in the top, too.

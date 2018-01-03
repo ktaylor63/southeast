@@ -2,6 +2,8 @@
 title: 'Lake sturgeon restoration in the Upper Tennessee River'
 date: '2017-06-07'
 type: 'Feature Story'
+lat: 32.885399
+lng: -84.674391
 tags:
     - 'Coosa River'
     - E-Grits
@@ -15,7 +17,7 @@ hero:
     name: lake-sturgeon-netting.jpg
     alt: 'Biologists in cold weather gear and waders collect lake sturgeon next to a dam.'
     caption: 'Wisconsin Department of Natural Resources employees and university students net lake sturgeon for sampling. Photo by USFWS.'
-updated: 'June 7th, 2017'
+updated: 'December 28th, 2017'
 ---
 
 The Warm Springs National Fish Hatchery works cooperatively with partners that include numerous states, non-governmental organizations, universities, and federal agencies to achieve restoration goals for lake sturgeon in the upper Tennessee and Coosa Rivers in the southeastern United States.

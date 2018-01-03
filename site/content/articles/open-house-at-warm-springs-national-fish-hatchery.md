@@ -1,6 +1,8 @@
 ---
 title: 'Open house at Warm Springs National Fish Hatchery'
 author: 'Alexander Londono, Warm Springs National Fish Hatchery'
+lat: 32.884648
+lng: -84.673151
 date: '2017-10-24'
 hero:
     name: warm-springs-open-house.jpg
@@ -16,7 +18,7 @@ tags:
     - 'Striped Bass'
     - 'Warm Springs National Fish Hatchery'
 type: 'Bragging Rights'
-updated: 'October 24th, 2017'
+updated: 'December 28th, 2017'
 ---
 
 A cool October day welcomed visitors to the annual Open House held at the Warm Springs National Fish Hatchery in Georgia on Saturday, Oct. 14. The event was sponsored by the fisheries programs on site: the [National Fish Hatchery](https://www.fws.gov/warmsprings/), [Fish Technology Center](https://www.fws.gov/warmsprings/FishTechno/), and the [Fish Health Center](https://www.fws.gov/warmsprings/FishHealth/).

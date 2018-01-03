@@ -2,6 +2,8 @@
 title: 'Partners for Fish and Wildlife goes “wild”'
 date: '2017-05-22'
 type: 'Feature Story'
+lat: 32.786768
+lng: -79.935713
 author: 'Jennifer Koches, South Carolina Ecological Services'
 tags:
     - Charleston
@@ -13,7 +15,7 @@ hero:
     name: whitney-wiest-with-corn-snake.jpg
     alt: 'A biologist in a red shirt poses in front of a display with a corn snake.'
     caption: 'Whitney Wiest, South Carolina Field Office’s Fish and Wildlife Biologist, with Penny, the corn snake.  Photo, Chris Hernandez, USFWS.'
-updated: 'May 19th, 2017'
+updated: 'December 28th, 2017'
 ---
 
 For the past 35 years, Charleston, South Carolina, has gone wild during the month of February.  In what has become known as the largest event of its kind in the nation, the Southeastern Wildlife Exposition never fails to disappoint.  The three-day  art and wildlife exposition exceeded attendance records this year with over 43,000 attendees.

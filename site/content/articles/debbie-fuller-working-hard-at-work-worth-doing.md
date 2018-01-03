@@ -1,6 +1,8 @@
 ---
 title: 'Debbie Fuller: working hard at work worth doing'
 description: 'Endangered Species Coordinator Debbie Fuller reflects on the opportunity to work hard at work worth doing: to help the threatened Louisiana black bear population recover.'
+lat: 30.224271
+lng: -92.044098
 tags:
     - Employees
     - Lafayette
@@ -14,7 +16,7 @@ hero:
     caption: 'Louisiana black bear cubs. Photo by Brad Young, Mississippi Department of Wildlife, Fisheries and Parks.'
 author: 'Nadine Siak, USFWS Gulf Restoration Program'
 date: '2016-03-10'
-updated: 'March 8th, 2017'
+updated: 'December 28th, 2017'
 ---
 
 {{< figure class="photo" src="/images/pages/louisiana-black-bear-debbie-fuller.jpg" alt="Debbie fuller holding a Louisiana black bear cub" caption="The Service’s Debbie Fuller holding a Louisiana black bear cub and enjoying one of those moments that “makes all the paperwork worth it.” Photo by USFWS." >}}
