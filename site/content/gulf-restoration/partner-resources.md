@@ -53,3 +53,15 @@ Below are several restoration strategies proposed by governmental and nongovernm
 - [Restoring the Gulf for Coastal Waterbirds: A Long-term Vision](http://www.audubon.org/sites/default/files/documents/restoring_the_gulf_for_coastal_waterbirds_nov12lr.pdf) (2012, PDF 30 pages)
 
 For further information, please visit [“Next Steps for a Healthy Gulf of Mexico.”](/gulf-restoration/next-steps/)
+
+## Gulf of Mexico Avian Monitoring Network (GoMAMN)
+
+Recognizing the need to incorporate additional stakeholders, partners, expertise, and a more formalized means of coordinating and integrating avian monitoring activities across the Gulf of Mexico, the initial working group has evolved into the [Gulf of Mexico Avian Monitoring Network](https://gomamn.org/). The Network aims to provide a forum by which conservation partners can collaborate and implement a coordinated monitoring system that recognizes and builds upon established monitoring programs to connect, leverage, and integrate existing efforts into a comprehensive Gulf-wide avian monitoring program to address contemporary and long-term conservation needs of avian populations and their habitats within the Gulf of Mexico.
+
+Contact Randy Wilson ([randy_wilson@fws.gov](randy_wilson@fws.gov)) for more information.
+
+## Gulf of Mexico Marine Assessment Program for Protected Species (GoMMAPPS)
+
+The Gulf of Mexico (GoM) region is critically important in affording breeding, staging, and wintering habitats for North America’s migratory avian resources. Unfortunately, limited information is available to quantitatively characterize species composition, distribution, and abundance of birds Gulfwide, and particularly for seabirds. The number of platforms and cumulative level of oil and gas activity in the northern GoM region exceeds all other Bureau of Ocean Energy Management regions combined. As a result, such information is important for assisting decision-making related to offshore resource extraction in an effort to mitigate potential effects to avian resources. The [GoMMAPPS Seabird Project](https://www.boem.gov/GOMMAPPS/) is anticipated to be the most spatially and temporally extensive avian research effort in the northern GoM, intended to document the distribution, abundance, and diversity of birds for the purposes of better informing regulatory decisions that influence the conservation of migratory birds. A key component of this project includes identifying and determining how natural and anthropogenic variables of the northern GoM influence avian species in nearshore and pelagic environments of this region.
+
+Contact Jeff Gleason ([jeffrey_gleason@fws.gov](mailto:jeffrey_gleason@fws.gov)) for more information.
