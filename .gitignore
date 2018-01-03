@@ -2,6 +2,9 @@
 node_modules
 npm-debug.log
 
+# Roy's content
+blog
+
 # Generated
 dist
 site/static/css
