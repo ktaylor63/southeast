@@ -1,4 +1,6 @@
+{{ if ne .Type "map" }}
 {{ partial "social-links.html" . }}
+{{ end }}
 <footer>
   {{ if .Params.hero.caption }}
   {{ if .Params.hero.link }}<a href="{{ .Params.hero.link }}">{{ end }}
