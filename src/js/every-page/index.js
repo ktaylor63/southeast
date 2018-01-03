@@ -39,7 +39,7 @@ const content = document.getElementById('content');
 const contactLinks = Array.from(document.querySelectorAll('.toggle-contact'));
 const hideScrollnav = document.querySelector('.hide-scrollnav');
 const sectionNav = document.querySelector('.section-nav');
-const h2s = content.querySelectorAll('h2');
+const h2s = content ? content.querySelectorAll('h2') : null;
 let contactsDownloaded = false;
 let terms;
 
@@ -66,7 +66,7 @@ if (content && h2s.length > 0 && !hideScrollnav) {
     showHeadline: false,
     scrollOffset: 55
   });
-} else {
+} else if (content) {
   // if there scroll nav isn't initialized, center the content on the page.
   const mainContent = content.querySelector('.main');
   const pageTitle = content.querySelector('.page-title');
