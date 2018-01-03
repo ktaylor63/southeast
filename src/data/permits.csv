@@ -384,7 +384,7 @@ number,status,fed_register
 00868C-0,Abandoned,Noticed for 30 days
 00862C-0,Issued,N/A
 108990-3,Issued,N/A
-33465A-1,Awaiting signature,Noticed for 30 days
+33465A-1,Issued,Noticed for 30 days
 220923-1,In FO for Review,N/A
 02165C-0,Issued,Noticed for 30 days
 02166C-0,Issued,Noticed for 30 days
@@ -456,12 +456,12 @@ number,status,fed_register
 20269C-0,Issued,N/A
 20288C-0,Abandoned,Noticed for 30 days
 20308C-0,No permit needed,Noticed for 30 days
-98424B-2,Awaiting Input from Applicant,Noticed for 30 days
+98424B-2,Abandoned,Noticed for 30 days
 20763C-0,Issued,N/A
 075916-5,In FO for Review,Noticed for 30 days
 121059-3,Issued,Noticed for 30 days
-56430B-1,Issued,N/A
-21570C-0,In FO for Review,Noticed for 30 days
+21570C-0,Issued,Noticed for 30 days
+,,
 129703-6,Awaiting Input from Applicant,Noticed for 30 days
 23537C-0,Issued,Noticed for 30 days
 78919A-2,Issued,N/A
@@ -538,7 +538,7 @@ number,status,fed_register
 065972-2,Awaiting Input from Applicant,needs to be drafted
 56827C-0,In RO for Review,Awaiting publication
 084047-4,In FO for Review,N/A
-57020C-0,Awaiting Input from Applicant,N/A
+57020C-0,Abandoned,N/A
 57118C-0,Issued,N/A
 57120C-0,Issued,N/A
 57122C-0,Issued,N/A
@@ -574,3 +574,5 @@ number,status,fed_register
 69217C-0,In RO for Review,N/A
 48579B-3,In RO for Review,on current draft
 80381A-1,In RO for Review,on current draft
+049654-7,Awaiting signature,N/A
+051429-7,Awaiting signature,N/A
