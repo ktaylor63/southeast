@@ -17,7 +17,7 @@ tags:
     - 'Endangered Species Act'
     - 'Monito Gecko'
     - 'Puerto Rico'
-updated: 'April 20th, 2017'
+updated: 'January 9th, 2018'
 ---
 
 {{< figure class="photo-right" src="/images/pages/monito-island-locator-map.jpg" alt="" caption="Monito Island off the eastern coast of Puerto Rico. Map by Roy Hewitt, USFWS." link="https://flic.kr/p/TJRR3r" >}}
@@ -45,5 +45,5 @@ Today, PRDNER continues to manage Monito Island as a natural reserve, protecting
 
 ## Contact
 
-Phil Kloer, [philip_kloer@fws.gov](mailto:philip_kloer@fws.gov)  
-(404) 679-7299
+Phil Kloer, Public Affairs Specialist  
+[philip_kloer@fws.gov](mailto:philip_kloer@fws.gov), (404) 679-7299

@@ -16,7 +16,7 @@ hero:
     caption: 'Miami blue butterflies. <a href=''https://flic.kr/p/eWVERD''>Photo</a> by <a href=''https://www.flickr.com/photos/theactionitems/''>Mark Yokoyama</a>, <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">CC BY-NC-ND 2.0</a>.'
 author: 'Kate Watts, Florida Keys National Wildlife Refuges Complex'
 date: '2016-06-02'
-updated: 'April 10th, 2017'
+updated: 'January 5th, 2018'
 ---
 
 Two adult Miami blue butterflies were detected fluttering on host plants, one of them ovipositing, or laying eggs, as they were spotted at [Great White Heron National Wildlife Refuge](https://www.fws.gov/refuge/great_white_heron/). Eggs were also found on host plants along the beach berm of several additional islands during the search, documenting the first time that this rare butterfly has been detected within the refuge.

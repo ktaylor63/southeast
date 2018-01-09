@@ -1,6 +1,7 @@
 ---
 title: 'Wolf Creek staff assist with Junior Duck Stamp Art contest judging in Kentucky'
 author: 'Ashley Buffington, Wolf Creek National Fish Hatchery'
+description: 'After studying waterfowl anatomy and habitat through this educational program, students may express their knowledge by drawing, painting or sketching an eligible North American waterfowl species and submitting it to the Junior Duck Stamp Art Contest for a chance to be selected as the next Junior Duck Stamp.'
 date: '2017-07-20'
 lat: 38.177146
 lng: -84.923285
@@ -16,7 +17,7 @@ tags:
     - Kentucky
     - 'Wolf Creek National Fish Hatchery'
 type: 'Bragging Rights'
-updated: 'July 21st, 2017'
+updated: 'January 3rd, 2018'
 ---
 
 In March, Wolf Creek administrative assistant Teresa Devore and environmental education and outreach specialist Ashley Buffington, travelled to the Kentucky Department of Fish and Wildlife Resource Salato Center in Frankfort to assist in the judging process of the 2017 Junior Duck Stamp Art Contest in Kentucky. 
