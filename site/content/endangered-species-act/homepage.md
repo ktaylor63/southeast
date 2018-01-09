@@ -11,7 +11,7 @@ hero:
     link: 'https://flic.kr/p/atdbxY'
     caption: 'Green sea turtle hatchling at Archie Carr National Wildlife Refuge. Photo by Keenan Adams, USFWS.'
     position: 'right center'
-updated: 'October 13th, 2017'
+updated: 'January 5th, 2018'
 ---
 
 One of the primary responsibilities of the U.S. Fish and Wildlife Service is to **protect and recover imperiled species and the ecosystems upon which they depend**. Congress defined “species” to include subspecies, varieties, and, for vertebrates, distinct population segments.

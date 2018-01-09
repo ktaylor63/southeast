@@ -4,8 +4,8 @@ nav: 'BiT Home'
 weight: 1
 url: /biologist-in-training
 aliases:
-  - /fisheries/BiT/
-updated: 'April 28th, 2017'
+    - /fisheries/BiT/
+updated: 'January 5th, 2018'
 hero:
     name: north-toe-river-kids.jpg
     alt: 'A group of children runs through shallow water with a net in the foreground.'

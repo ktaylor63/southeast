@@ -12,7 +12,7 @@ hero:
 url: /gulf-restoration/next-steps
 tags:
     - Gulf
-updated: 'August 17th, 2017'
+updated: 'January 5th, 2018'
 ---
 
 The greater Gulf of Mexico ecosystem contains a variety of habitats that support an amazing range of wildlife and provides Americans with abundant seafood, valuable energy resources, extraordinary outdoor recreational activities, and a rich cultural heritage. The U.S. Fish and Wildlife Service (Service) is keenly aware that a long-term, large-scale, watershed-level approach to restoration and conservation is important if we are to achieve a healthy Gulf. 

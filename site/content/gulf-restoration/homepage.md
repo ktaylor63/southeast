@@ -11,7 +11,7 @@ hero:
     caption: 'Alligator sunning at St. Marks National Wildlife Refuge.  Photo by Steve Hillebrand.'
     link: 'https://flic.kr/p/7Zmwbs'
     position: 'left center'
-updated: 'June 6th, 2017'
+updated: 'January 5th, 2018'
 ---
 
 ## Restoring the Gulf of Mexico and its Wild Inhabitants
