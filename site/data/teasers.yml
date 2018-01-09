@@ -1,5 +1,14 @@
 ---
 stories:
+  - title: 'FWC monitoring sea turtles, manatees during cold weather'
+    url: 'http://myfwc.com/news/news-releases/2018/january/03/cold/'
+    date: '2018-01-03'
+    summary: 'Sea turtles are one species that can be affected by cold weather. When the water temperatures drop, stunned sea turtles may float listlessly in the water on or near shore. Although these turtles may appear to be dead, they are often still alive. It is important to report these turtles to the FWC Wildlife Alert Hotline as soon as possible.'
+    hero:
+        name: 'kemps-ridley-sea-turtle.jpg'
+        alt: 'Kemps ridley sea turtle laying in the sand. Large with grey shell and yellow body with grey speckles.'
+        link: 'https://flic.kr/p/bnBsyZ'
+        caption: 'Kemps ridley sea turtle. Photo by NER Sea Turtle Stranding Network.'
   - title: 'Hunters, anglers drive conservation efforts in Alabama'
     url: 'http://www.montgomeryadvertiser.com/story/news/2017/12/17/hunters-anglers-drive-conservation-efforts/942039001/'
     date: '2017-12-18'
