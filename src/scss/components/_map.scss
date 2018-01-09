@@ -26,11 +26,188 @@
   font-weight: bold;
   width: 100px;
   text-align: center;
-  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000,
+    1px 1px 0 #000;
 }
 
 .leaflet-control-attribution {
   a {
     text-decoration: underline;
+  }
+}
+
+.map-wrapper {
+  display: flex;
+  position: relative;
+
+  .mapboxgl-map {
+    flex-grow: 5;
+  }
+
+  .infowindow-content {
+    max-height: 80vh;
+    overflow: scroll;
+    padding: 2%;
+  }
+
+  .infowindow {
+    flex-basis: 0;
+    height: 80vh;
+    position: relative;
+    transition: all 0.5s cubic-bezier(0.68, -0.55, 0.27, 1.55);
+    width: 0;
+
+    .tag {
+      font-size: 15px;
+      line-height: 21px;
+    }
+
+    img {
+      display: block;
+      margin: auto;
+    }
+
+    h2 {
+      font-size: 24px;
+      line-height: 28px;
+    }
+
+    p {
+      font-size: 18px;
+      line-height: 24px;
+    }
+
+    ul {
+      margin: 1rem 0;
+      padding: 0;
+      text-align: center;
+
+      li {
+        margin-top: 0.25rem;
+      }
+    }
+
+    button {
+      background: white;
+      border: 2px solid $color-text;
+      color: $color-text;
+      font-size: 16px;
+      left: -28px;
+      line-height: 20px;
+      position: absolute;
+      right: auto;
+      top: 2rem;
+      transition: all 0.5s;
+      transform: rotate(0);
+
+      &::after {
+        content: '\25C0';
+      }
+
+      &:hover {
+        text-shadow: none;
+      }
+
+      @media (min-width: $break-lg) {
+      }
+    }
+
+    &.open {
+      flex-basis: 100%;
+      width: auto;
+
+      button {
+        left: auto;
+        right: 2em;
+        transform: rotate(180deg);
+
+        &::after {
+          content: '\00d7';
+        }
+
+        @media (min-width: $break-md) {
+          border-right: 0;
+          border-bottom-right-radius: 0;
+          border-top-right-radius: 0;
+          left: -26px;
+          right: auto;
+          transform: rotate(0);
+
+          &::after {
+            content: '\25b6';
+          }
+        }
+      }
+
+      @media (min-width: $break-md) {
+        flex-basis: 50%;
+      }
+
+      @media (min-width: $break-lg) {
+        flex-basis: 40%;
+        max-width: 500px;
+      }
+    }
+  }
+
+  .autocomplete-form {
+    box-shadow: 3px 3px 3px rgba(25, 25, 25, 0.8);
+    left: 1rem;
+    max-width: 300px;
+    position: absolute;
+    top: 1rem;
+    z-index: 5;
+
+    .autocomplete-input {
+      background: rgba(255, 255, 255, 0.85);
+      color: $color-accent;
+      font-size: 16px;
+      font-weight: bold;
+      line-height: 22px;
+      width: 100%;
+    }
+
+    .autocomplete-results {
+      border: 2px solid $color-accent;
+      border-top: none;
+      list-style: none;
+      margin: 0;
+      max-height: 70vh;
+      overflow-y: scroll;
+      padding: 0;
+
+      &:empty {
+        border: none;
+      }
+
+      li {
+        margin: 0;
+        padding: 0;
+      }
+
+      button {
+        background: rgba(255, 255, 255, 0.85);
+        border: none;
+        border-radius: 0;
+        color: $color-text;
+        font-size: 16px;
+        line-height: 22px;
+        font-weight: normal;
+        display: block;
+        padding: 0.25rem;
+        text-align: left;
+        transition: background 0.5s;
+        width: 100%;
+
+        &:hover {
+          background: darken(white, 15);
+          text-shadow: none;
+        }
+      }
+    }
+
+    label {
+      @extend .sr-only;
+    }
   }
 }

@@ -2,6 +2,12 @@
   padding: 0 3%;
 }
 
+.map-wrapper {
+  @media (min-width: $break-md) {
+    margin-left: $nav-width;
+  }
+}
+
 .content-centered {
   margin: auto;
   max-width: $container-width;
