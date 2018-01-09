@@ -8,7 +8,7 @@ hero:
     name: gulf-coast-beach-crowded.jpg
     alt: 'An ATV in a grassy field with sparse pine trees.'
     caption: 'A crowded Gulf Coast beach. Photo by Woody Woodrow, USFWS.'
-updated: 'August 17th, 2017'
+updated: 'January 5th, 2018'
 tags:
     - Gulf
 ---

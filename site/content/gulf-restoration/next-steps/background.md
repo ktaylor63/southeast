@@ -10,7 +10,7 @@ hero:
     caption: 'Flaring off <em>Deepwater Horizon</em> gas. Photo by Petty Officer 1<sup>st</sup> Class Matthew Belson, U.S. Coast Guard.'
 tags:
     - Gulf
-updated: 'April 21st, 2017'
+updated: 'January 5th, 2018'
 ---
 
 When the _Deepwater Horizon_ oil rig exploded off the coast of Louisiana on April 20, 2010, the Service’s response was robust and included taking on myriad responsibilities, incident command work, wildlife reconnaissance and recovery, sensitive habitat and endangered species protection, finance and other administrative tasks, safety and more. But the Service has been active in the Gulf watershed for years; we see ourselves as one of the many stakeholders in Gulf restoration, and we are thoroughly engaged within the communities and landscapes of the Gulf. For example, the Service has been managing millions of acres on 235 national wildlife refuges (NWRs) in the Gulf watershed, with the 45 located in the Gulf Coast states covering more than 2.15 million acres of managed lands alone. In fact, the first NWR established anywhere was located in the Gulf states with the establishment of Pelican Island NWR in Vero Beach, Florida, in 1903. The first refuge on the Gulf Coast itself followed soon afterwards with the establishment of Breton Island Reservation (now Breton NWR) to protect important bird-nesting islands located off the coast of Louisiana. Additionally, the Service has field and regional representation in all 31 states in the Gulf of Mexico watershed. Throughout the watershed, the Service has long provided a combination of planning and on-the-ground contributions to natural resource protection and conservation.

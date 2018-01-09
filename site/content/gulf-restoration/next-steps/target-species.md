@@ -8,7 +8,7 @@ hero:
     name: long-billed-curlew.jpg
     alt: 'A light brown bird with dark markings on it''s back and a long curved beak.'
     caption: 'Long-billed curlew. Photo by Woody Woodrow, USFWS.'
-updated: 'April 21st, 2017'
+updated: 'January 5th, 2018'
 tags:
     - Gulf
 ---
