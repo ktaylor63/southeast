@@ -15,7 +15,7 @@ hero:
     alt: 'A brown salamander with bright white spots walks across a lichen covered rock'
     name: caddo-mountain-salamander.jpg
     caption: 'A petition to list the Caddo Mountain salamander was found to be “not substantial” in June 2015. Photo by <a href="https://www.flickr.com/photos/38984611@N03/">Aposematic herpetologist</a>, <a href="https://creativecommons.org/licenses/by-nc/2.0/legalcode">CC-BY-NC 2.0</a>.'
-updated: 'June 13th, 2017'
+updated: 'January 5th, 2018'
 ---
 
 The public may petition the U.S. Fish and Wildlife Service to consider modifying the existing federal laws to protect a species under the Endangered Species Act (ESA). A 90-day finding is our formal evaluation of the claims made within a petition.

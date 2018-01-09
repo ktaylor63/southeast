@@ -15,7 +15,7 @@ hero:
     link: 'https://flic.kr/p/eLEEwc'
     alt: 'A brownish-yellow salamander sanding on a mossy rock with large round eyes.'
     caption: 'The Pigeon Mountain salamander is no longer at-risk of needing federal protection. Photo by John P. Clare, CC BY-NC-ND 2.0.'
-updated: 'June 28th, 2017'
+updated: 'January 5th, 2018'
 ---
 
 **Update:** [Download the Draft Programmatic Candidate Conservation Agreement with Assurances for Louisiana pinesnake in Louisiana](/pdf/agreement/candidate-conservation-agreement-with-assurances/draft-programmatic-ccaa-for-louisiana-pinesnake-in-louisiana.pdf).
