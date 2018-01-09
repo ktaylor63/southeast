@@ -7,7 +7,7 @@ hero:
     alt: 'A dozen school children look for invertebrates in a shallow stretch of river.'
     caption: 'Shad in the Classroom Program on the Eno River, 2016. Photo by NC Museum of Natural History.'
     link: 'https://flic.kr/p/L4nz8d'
-updated: 'April 28th, 2017'
+updated: 'January 5th, 2018'
 tags:
     - 'Biologist in Training'
     - 'Environmental Education'
