@@ -12,7 +12,7 @@ hero:
     link: 'https://flic.kr/p/EgwW37'
     caption: 'Acting Regional Director Mike Oetker speaking at a ceremony in Cherokee, North Carolina where partners signed a Candidate Conservation Agreement for the sicklefin redhorse. Photo by Gary Peeples, USFWS.'
     position: 'top right'
-updated: 'August 31st, 2017'
+updated: 'January 4th, 2018'
 ---
 
 Nationally, the U.S. Fish and Wildlife Service is led by a Director, a team of Assistant Directors and eight Regional Directors. (See our [headquarters organizational chart.](http://www.fws.gov/offices/orgcht.html))
@@ -77,7 +77,7 @@ Jackie began her federal career with the U.S. Navy, serving in a number of field
 
 Jackie spent her childhood in rural Maryland where her family was active in scouting, camping, fishing, and hunting.  As a young teen her family moved to Florence, South Carolina, where Jackie first realized her passion to help others by volunteering her evenings and weekends tutoring disadvantaged, minority students to help them to pursue their academic and career goals.  After high school, she attended the U.S. Naval Academy in Annapolis, Maryland, graduating in 1985 with a B.S. in Chemistry.
 
-Jackie and her children live in Suwanee, Georgia where they active in their Church and Georgia Christian Dance Theater.  She enjoys running and hiking with her children.
+Jackie and her children live in Suwanee, Georgia where they are active in their Church and Georgia Christian Dance Theater.  She enjoys running and hiking with her children.
 
 ## Jeffrey Fleming
 ### Assistant Regional Director, External Affairs
