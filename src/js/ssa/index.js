@@ -9,6 +9,8 @@ const SSA_ID = '75903';
 const url = `https://ecos.fws.gov/ServCatServices/servcat/v4/rest/Profile/${SSA_ID}`;
 const list = document.querySelector('.card-list');
 
+const isNewestVersion = doc => !doc.newestVersion;
+
 // Orgcode: Third and fourth digit together represent the region
 // We only want documents pertinent to Region 4
 const isSoutheasternDocument = orgcode => {
@@ -39,7 +41,9 @@ const createListItem = doc => {
 };
 
 const handleSuccess = res => {
-  const docs = filterSoutheasternDocuments(res.data.children);
+  const docs = filterSoutheasternDocuments(res.data.children).filter(
+    isNewestVersion
+  );
   list.innerHTML = docs.map(createListItem).join('');
 };
 
