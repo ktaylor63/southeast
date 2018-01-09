@@ -1,20 +1,23 @@
 ---
 title: 'Phi Beta Sigma Fraternity, Inc. and U.S. Fish and Wildlife Service join forces to engage urban youth in outdoor education and recreation at Bayou Sauvage National Wildlife Refuge'
 date: '2015-05-19'
+lat: 30.32
+lng: -89.94
 hero:
     name: phi-beta-sigma-planting-trees.jpg
     alt: 'Phi beta sigma members plant trees with Fish and Wildlife Service employees.'
     link: 'https://flic.kr/p/shztaK'
     caption: 'Planting trees commemorates partnership Photo by Tom MacKenzie, USFWS.'
 tags:
+    - 'Bayou Sauvage National Wildlife Refuge'
+    - Louisiana
+    - 'National Wildlife Refuge System'
     - Partnership
     - 'Urban Initiative'
-    - 'National Wildlife Refuge System'
-    - Louisiana
-updated: 'October 20th, 2016'
+updated: 'January 3rd, 2018'
 ---
 
-**NEW ORLEANS, LA** -  U.S. Fish and Wildlife Service and Phi Beta Sigma Fraternity, Inc. signed the first local agreement implementing a partnership to encourage urban youth to learn more about conservation, the natural world, and biological sciences. The certificate declares Bayou Sauvage National Wildlife Refuge, which lies within and on the boundary of New Orleans East, a model partner site for the efforts with Phi Beta Sigma Fraternity, Inc.
+**New Orleans, Louisiana** -  U.S. Fish and Wildlife Service and Phi Beta Sigma Fraternity, Inc. signed the first local agreement implementing a partnership to encourage urban youth to learn more about conservation, the natural world, and biological sciences. The certificate declares Bayou Sauvage National Wildlife Refuge, which lies within and on the boundary of New Orleans East, a model partner site for the efforts with Phi Beta Sigma Fraternity, Inc.
 
 Signatories included: Steve Guertin, Deputy Director, U.S. Fish and Wildlife Service, Arthur Thomas, President of the National Sigma Beta Club Foundation, and Stacy Armitage, Project Leader, Southeast Louisiana National Wildlife Refuges. The leadership was joined by Sigma Beta members, who helped plant a grove of twenty cypress trees at the refuge to dedicate the blossoming partnership.  The trees were donated by Thom Pepper, Executive Director, Common Ground Relief, Inc. The trees that once grew there had been destroyed by the saltwater intrusion from Hurricane Katrina.  
 

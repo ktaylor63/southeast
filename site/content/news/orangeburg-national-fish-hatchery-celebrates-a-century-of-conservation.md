@@ -1,18 +1,20 @@
 ---
 title: 'Orangeburg National Fish Hatchery celebrates a century of conservation'
 date: '2011-09-19'
+lat: 33.46894
+lng: -80.85589
 hero:
     name: orangeburg-hatchery-sign.jpg
     alt: 'Sign at the entrance of the hatchery.'
     link: 'https://flic.kr/p/dcwqi9'
     caption: 'Orangeburg National Fish Hatchery. Photo by Robert Pos, USFWS.'
 tags:
-    - National Fish Hatchery
-    - South Carolina
-updated: 'October 20th, 2016'
+    - 'Orangeburg National Fish Hatchery'
+    - 'South Carolina'
+updated: 'January 3rd, 2018'
 ---
 
-**ORANGEBURG, SC** — Mules and pond scoops led the way with the first excavation work to build the Orangeburg National Fish Hatchery 100 years ago this month. Today the hatchery is an integral part of the community in Orangeburg, South Carolina, near Lakes Marion and Moultrie. The U. S. Fish and Wildlife Service will host a public celebration at the hatchery on Wednesday, September 28, 2011, at 10 a. m. to rededicate the century-old facility. “It’s an honor to witness a huge milestone of one of the real gems in the Service's National Fish Hatchery System, ” says Cindy Dohner, Southeast Regional Director of the U. S. Fish and Wildlife Service. “Orangeburg has served a critical role in fisheries conservation in our Region, and its good work will become even more critical in the century to come. ”  
+**Orangeburg, South Carolina** — Mules and pond scoops led the way with the first excavation work to build the Orangeburg National Fish Hatchery 100 years ago this month. Today the hatchery is an integral part of the community in Orangeburg, South Carolina, near Lakes Marion and Moultrie. The U. S. Fish and Wildlife Service will host a public celebration at the hatchery on Wednesday, September 28, 2011, at 10 a. m. to rededicate the century-old facility. “It’s an honor to witness a huge milestone of one of the real gems in the Service's National Fish Hatchery System, ” says Cindy Dohner, Southeast Regional Director of the U. S. Fish and Wildlife Service. “Orangeburg has served a critical role in fisheries conservation in our Region, and its good work will become even more critical in the century to come. ”  
 
 Service representatives, other organizations and agencies, and the community are invited to attend the free event, followed by a luncheon and hatchery tours. Students from a local elementary school will plant a pollinator garden at the hatchery to commemorate the milestone.  
 

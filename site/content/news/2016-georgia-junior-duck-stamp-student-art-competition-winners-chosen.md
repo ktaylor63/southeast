@@ -1,16 +1,18 @@
 ---
 title: '2016 Georgia junior duck stamp student art competition winners chosen'
 date: '2016-04-07'
+lat: 33.111262
+lng: -83.678237
 hero:
     name: junior-duck-stamp-winnder-2016.jpg
     alt: 'Two ducks with large round, feathered heads in swirling blue water.'
     link: 'https://flic.kr/p/FXKQrn'
     caption: 'An acrylic rendition of a hooded merganser pair by 16-year-old Rayen Kang of Johns Creek.'
-updated: 'November 9th, 2016'
+updated: 'January 3rd, 2018'
 tags:
-    - 'Junior Duck Stamp'
     - Florida
     - Georgia
+    - 'Junior Duck Stamp'
 ---
 Rayen Kang, a 16-year-old student at the First Fine Art & Design Academy in Johns Creek, has been announced as the winner of the annual 2016 Georgia Junior Duck Stamp Art Competition held yesterday at the Piedmont National Wildlife Refuge in Juliette.  Five judges unanimously selected this acrylic rendition of a hooded merganser pair as the Georgia Best of Show. 
 

@@ -1,18 +1,20 @@
 ---
 title: 'Fish and Wildlife Service partners with Rosalynn Carter Butterfly Trail to save the monarch butterfly'
 date: '2015-06-15'
+lat: 32.034045
+lng: -84.392608
 hero:
     name: monarch-on-purple-flower.jpg
     alt: 'A butterfly covered in white spots with orange and yellow wings perched on a purple flower.'
     link: 'https://flic.kr/p/tJrJXf'
     caption: 'A monarch butterfly on a purple plant with bright colors in the background. Photo by Christine Lisiewski.'
 tags:
-    - Monarch
     - Georgia
-updated: 'October 20th, 2016'
+    - Monarch
+updated: 'January 3rd, 2018'
 ---
 
-**PLAINS, GA** – The Monarch butterfly got a boost today.
+**Plains, Georgia** – The Monarch butterfly got a boost today.
 
 As part of a broad, national effort to conserve habitat for the declining Monarch butterfly, the U.S. Fish and Wildlife Service is joining forces with former President Jimmy Carter and Rosalynn Carter and investing $130,000 to expand the Rosalynn Carter Butterfly Trail.
 

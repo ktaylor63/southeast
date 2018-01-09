@@ -1,6 +1,8 @@
 ---
 title: 'FWS crew gives state partners at Stephen C. Foster a lift speeding up its reopening'
 date: '2017-09-15'
+lat: 30.824074
+lng: -82.363539
 tags:
     - Florida
     - Georgia
@@ -11,7 +13,7 @@ hero:
     name: irma-okefenokee-heavy-equipment.jpg
     alt: 'A yellow backhoe moves a large pine tree from a road.'
     caption: 'Grant Lovato, a fire equipment operator from Louisiana, uses a backhoe to remove a tree that was blocking a public road at Okefenokee National Wildlife Refuge. Photo by Phil Kloer, USFWS.'
-updated: 'September 15th, 2017'
+updated: 'January 3rd, 2018'
 ---
 
 **Okefenokee National Wildlife Refuge, Georgia** - Sometimes the best tool for the job is a large backhoe.

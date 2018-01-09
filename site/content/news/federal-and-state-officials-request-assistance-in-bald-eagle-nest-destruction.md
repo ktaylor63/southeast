@@ -1,6 +1,8 @@
 ---
 title: 'Federal and state officials request assistance in investigation of bald eagle nest destruction'
 date: '2017-07-20'
+lat: 33.016901
+lng: -80.080061
 hero:
     name: bald-eagle-perched-noxubee.jpg
     alt: 'A mature bald eagle with white head and dark brown feathers perched on a dead tree limb just over a giant nest.'
@@ -14,10 +16,10 @@ tags:
     - 'Migratory Bird Treaty Act'
     - Reward
     - 'South Carolina'
-updated: 'July 21st, 2017'
+updated: 'January 3rd, 2018'
 ---
 
-The U.S. Fish and Wildlife Service (Service) and the South Carolina Department of Natural Resources (SCDNR) are requesting assistance with an investigation of the destruction of a bald eagle nest.  An active bald eagle nest was destroyed in Berkeley County, South Carolina, in June 2017. The nest was in an area of woods being logged near the junction of Crowfield Boulevard and Corporate Parkway. in Goose Creek, S.C. 
+The U.S. Fish and Wildlife Service (Service) and the South Carolina Department of Natural Resources (SCDNR) are requesting assistance with an investigation of the destruction of a bald eagle nest.  An active bald eagle nest was destroyed in Berkeley County, South Carolina, in June 2017. The nest was in an area of woods being logged near the junction of Crowfield Boulevard and Corporate Parkway in Goose Creek, S.C. 
 
 The Service is offering a reward of $1,000 for information that leads to successful prosecution in this case.  
 

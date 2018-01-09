@@ -8,13 +8,13 @@ hero:
     caption: 'Juvenile bald eagle. Photo by Ken Thomas.'
     position: 'top right'
 tags:
+    - 'Bald Eagle'
     - Reward
-    - 'Bald eagle'
     - Tennessee
-updated: 'October 20th, 2016'
+updated: 'January 3rd, 2018'
 ---
 
-**DANDRIDGE, TN** &mdash; The Tennessee Wildlife Resources Agency and the U.S. Fish and Wildlife Service are investigating the shooting of a bald eagle in Jefferson County in the area of Elliots Shoals on Douglas Lake near Dandridge, Tennessee.  A reward of up to $12,500 is being offered for information leading to a conviction of the person or persons responsible for shooting the eagle.
+**Dandridge, Tennessee** &mdash; The Tennessee Wildlife Resources Agency and the U.S. Fish and Wildlife Service are investigating the shooting of a bald eagle in Jefferson County in the area of Elliots Shoals on Douglas Lake near Dandridge, Tennessee.  A reward of up to $12,500 is being offered for information leading to a conviction of the person or persons responsible for shooting the eagle.
 
 The wounded eagle was discovered alive on June 8, 2015, approximately 7.5 miles southeast of Dandridge and approximately seven tenths (.7) of a mile south of Hidden Cove Campground on Old Chisolm Trail on the north side of Douglas Lake.  An examination by a veterinarian at the University of Tennessee Veterinary Hospital determined that the eagle may have been shot a few days prior. It was transferred to the American Eagle Foundation in Pigeon Forge for rehabilitation. The eagle is a juvenile with mottled dark brown feathers overlaid with a few messy white streaked feathers.  It typically takes an eagle four-to-five years to reach maturity and have adult plumage with the iconic white head and tail feathers.
 

@@ -1,13 +1,16 @@
 ---
 title: 'Norfork National Fish Hatchery begins project to replace raceway drain lines'
+lat: 36.251502
+lng: -92.243818
 hero:
     name: norfork-national-fish-hatchery.jpg
     alt: 'Entrance sign at the hatchery.'
     caption: 'Norfork National Fish Hatchery. Photo by Jon Casey.'
 tags:
-  - Arkansas
+    - Arkansas
+    - 'Norfork National Fish Hatchery'
 date: '2015-03-04'
-updated: 'October 20th, 2016'
+updated: 'January 3rd, 2018'
 ---
 
 Norfork National Fish Hatchery, near Mountain Home, Arkansas, will begin replacing the hatchery’s drain lines to reduce erosion, but will remain open to the public during that time.  The first phase of the project starts around March 18, and will take four or five months to complete

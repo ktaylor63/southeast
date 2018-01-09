@@ -10,10 +10,10 @@ date: '2011-02-08'
 tags:
     - Lafayette
     - Louisiana
-updated: 'October 20th, 2016'
+updated: 'January 3rd, 2018'
 ---
 
-**WASHINGTON, D.C.** — The U. S. Fish and Wildlife Service has cleared the way for the reintroduction of whooping cranes in Louisiana a half century after these endangered birds were last seen in the state, Secretary of the Interior Ken Salazar announced today.
+**Washington, D.C.** — The U. S. Fish and Wildlife Service has cleared the way for the reintroduction of whooping cranes in Louisiana a half century after these endangered birds were last seen in the state, Secretary of the Interior Ken Salazar announced today.
 
 The Interior Department’s U. S. Fish and Wildlife Service published a regulation designating a potential Louisiana’s population as a non-essential, experimental population under the Endangered Species Act. This designation would allow the Service to effectively manage a reintroduced population. The reintroduction of whooping cranes to Louisiana could begin later this month.  
 

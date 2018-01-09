@@ -9,10 +9,10 @@ hero:
 tags:
     - 'Critical Habitat'
     - Florida
-updated: 'October 20th, 2016'
+updated: 'January 3rd, 2018'
 ---
 
-**VERO BEACH, FL** – The U.S. Fish and Wildlife Service is seeking public comment on its proposal to designate critical habitat for the Florida semaphore cactus and the aboriginal prickly-apple under the Endangered Species Act (ESA).  Both plants were listed as endangered on November 25, 2013.
+**Vero Beach, Florida** – The U.S. Fish and Wildlife Service is seeking public comment on its proposal to designate critical habitat for the Florida semaphore cactus and the aboriginal prickly-apple under the Endangered Species Act (ESA).  Both plants were listed as endangered on November 25, 2013.
 
 At the same time, the Service has prepared a draft economic analysis for the proposed critical habitat designations.  The public is invited to submit comments on the proposed critical habitat designations and/or the draft economic analysis through a 60-day comment period ending March 23, 2015.
 

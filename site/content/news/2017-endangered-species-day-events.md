@@ -1,5 +1,5 @@
 ---
-title: 2017 Endangered Species Day Events
+title: '2017 Endangered Species Day Events'
 date: '2017-05-19'
 hero:
     name: louisiana-black-bear-cubs-three.jpg
@@ -7,16 +7,17 @@ hero:
     link: 'https://flic.kr/p/bECJNP'
     caption: 'Louisiana black bear cubs. Photo by Brad Young, Mississippi Department of Wildlife, Fisheries and Parks.'
 tags:
-  - Endangered Species Act
-  - Endangered Species Day
-  - Alabama
-  - Arkansas
-  - Florida
-  - Georgia
-  - Louisiana
-  - North Carolina
-  - Puerto Rico
-  - Panama City
+    - Alabama
+    - Arkansas
+    - 'Endangered Species Act'
+    - 'Endangered Species Day'
+    - Florida
+    - Georgia
+    - Louisiana
+    - 'North Carolina'
+    - 'Panama City'
+    - 'Puerto Rico'
+updated: 'January 3rd, 2018'
 ---
 
 The Service is helping out in many parts of the Southeast Region. Here are a few examples:

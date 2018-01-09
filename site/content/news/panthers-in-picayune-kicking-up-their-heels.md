@@ -1,14 +1,16 @@
 ---
 title: 'Panthers in picayune kicking up their heels'
 date: '2010-03-31'
+lat: 26.071008
+lng: -81.557244
 hero:
     name: florida-panthers-from-plane.jpg
     alt: 'Photograph of female florida panther trailed by two cubs.'
     caption: 'Panther #170 and kittens walking in the northeastern portion on Picayune Strand Restoration Project on March 1, 2010. By Darrell Land, Panther Team Leader, FWC.'
 tags:
     - Florida
-    - 'Florida panther'
-updated: 'October 20th, 2016'
+    - 'Florida Panther'
+updated: 'January 3rd, 2018'
 ---
 
 A rare photograph taken earlier this month of a [Florida panther](/wildlife/mammals/florida-panther) and her two kittens is making the e-mail rounds among wildlife biologists and conservation partners who have toiled for decades to restore the big cat’s habitat.

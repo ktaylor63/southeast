@@ -1,6 +1,8 @@
 ---
 title: 'Florida Fish and Wildlife Conservation Commission, partners offer reward for information about suspicious panther death'
 date: '2013-12-19'
+lat: 25.892479
+lng: -81.046204
 hero:
     name: florida-panther-shot-dead.jpg
     alt: 'A dead florida panther laid out in the bed of a pickup truck.'
@@ -8,10 +10,10 @@ hero:
     position: 'bottom left'
 tags:
     - Florida
-    - 'Florida panther'
-    - 'Law Enforcement'
+    - 'Florida Panther'
     - Georgia
-updated: 'October 20th, 2016'
+    - 'Law Enforcement'
+updated: 'January 3rd, 2018'
 ---
 
 The Florida Fish and Wildlife Conservation Commission (FWC), National Park Service (NPS) and U.S. Fish and Wildlife Service (USFWS) are looking for help from the public with an investigation involving the suspected illegal take of a [Florida panther](/wildlife/mammals/florida-panther) that was recently found dead in the Turner River Unit of Big Cypress National Preserve in Collier County.

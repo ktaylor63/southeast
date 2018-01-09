@@ -2,6 +2,8 @@
 title: '‘I had to do something’'
 subtitle: 'Carpenter, others rally to rescue stranded manatees'
 description: 'He was sick of watching the televised radar images, that big red storm heading steadily his way. With Hurricane Irma still hours south of his Bradenton home, Marcelo Clavijo said he’d had enough.'
+lat: 27.345852
+lng: -82.571687
 aliases:
     - /news/2017/09/have-tarp-will-save/
 date: '2017-09-11'
@@ -17,7 +19,7 @@ tags:
     - Hurricane
     - 'Hurricane Irma'
     - Manatee
-updated: 'October 13th, 2017'
+updated: 'January 3rd, 2018'
 ---
 
 {{< youtube id="zsMaPMXRb24" title="Watch as local citizens rescue a stranded manatee" >}}

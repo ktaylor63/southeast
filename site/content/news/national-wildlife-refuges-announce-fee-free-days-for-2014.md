@@ -8,10 +8,10 @@ hero:
 date: '2013-12-23'
 tags:
     - 'National Wildlife Refuge System'
-updated: 'November 7th, 2017'
+updated: 'January 3rd, 2018'
 ---
 
-**WASHINGTON, D.C.** – Seeing wildlife conservation in action just gained even more appeal. America’s national wildlife refuges will offer free admission to visitors on these days in 2014:  
+**Washington, D.C.** – Seeing wildlife conservation in action just gained even more appeal. America’s national wildlife refuges will offer free admission to visitors on these days in 2014:  
 
  - January 20: Martin Luther King Jr. Day
  - February 15-17: Presidents’ Day weekend

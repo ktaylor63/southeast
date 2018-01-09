@@ -9,12 +9,12 @@ hero:
     caption: 'Longleaf pine seedling. Photo by USDA.'
 tags:
     - Grants
-    - Partnership
     - 'Longleaf Pine'
-updated: 'October 20th, 2016'
+    - Partnership
+updated: 'January 3rd, 2018'
 ---
 
-**WASHINGTON, D.C.** — The National Fish and Wildlife Foundation (NFWF) today announced $4.6 million in grants to support the longleaf ecosystem and advance the objectives of the Range-Wide Conservation Plan for Longleaf Pine. Funding was awarded to [22 projects](http://www.nfwf.org/longleaf/Documents/lsf_2015_project-list.pdf) across the historic longleaf range that ultimately will restore more than 11,600 acres and enhance more than 163,000 additional acres of longleaf pine habitat, while leveraging over $6.4 million in additional funds from grant partners.
+**Washington, D.C.** — The National Fish and Wildlife Foundation (NFWF) today announced $4.6 million in grants to support the longleaf ecosystem and advance the objectives of the Range-Wide Conservation Plan for Longleaf Pine. Funding was awarded to [22 projects](http://www.nfwf.org/longleaf/Documents/lsf_2015_project-list.pdf) across the historic longleaf range that ultimately will restore more than 11,600 acres and enhance more than 163,000 additional acres of longleaf pine habitat, while leveraging over $6.4 million in additional funds from grant partners.
 
 The grants are administered by NFWF’s [Longleaf Stewardship Fund](http://www.nfwf.org/longleaf), a landmark public-private partnership that includes the U.S. Department of Agriculture’s (USDA) Forest Service and Natural Resources Conservation Service, the U.S. Department of Defense (DoD), the U.S. Fish and Wildlife Service (FWS), and private funding from Southern Company, International Paper’s Forestland Stewards Initiative and Altria Group. The fund, now in its fourth year, combines the financial and technical resources of the partnership to accelerate restoration of the longleaf pine ecosystem and implementation of the Range-Wide Conservation Plan for Longleaf Pine as part of America’s Longleaf Restoration Initiative.
 

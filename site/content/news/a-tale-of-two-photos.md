@@ -1,6 +1,8 @@
 ---
 title: 'A tale of two photos'
 subtitle: 'Storms deliver different hits to Puerto Rico'
+lat: 18.33276
+lng: -65.774585
 date: '2017-10-06'
 tags:
     - Hurricane
@@ -14,7 +16,7 @@ hero:
     name: puerto-rican-parrot-aviary-gate-towards-entrance-irma.jpg
     alt: 'A biologist looks out at the destruction and fallen vegetation outside the gate of the aviary.'
     caption: 'Looking out at Aviary gate towards the facility entrance. Photo by USFWS.'
-updated: 'October 6th, 2017'
+updated: 'January 3rd, 2018'
 ---
 
 To appreciate how one hurricane gave Puerto Rico only a glancing blow, while the next delivered a hit that left the island prone, you need only look at the two photos.

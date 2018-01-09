@@ -1,6 +1,8 @@
 ---
 title: 'Bald eagle killed in Grand Rivers, Kentucky $2,500 reward offered for information leading to a conviction'
 date: '2016-03-08'
+lat: 37.110049
+lng: -88.273053
 tags:
     - Kentucky
     - 'Law Enforcement'
@@ -9,7 +11,7 @@ hero:
     alt: 'A bald eagle perched with its wings spread.'
     link: 'https://flic.kr/p/8kSVSY'
     caption: 'A bald eagle prepares for flight. Photo by Richard Keen / RMA.'
-updated: 'March 21st, 2017'
+updated: 'January 3rd, 2018'
 ---
 
 {{< figure class="photo-right" src="/images/pages/bald-eagle-killed-grand-rivers-ky.jpg" alt="A dead bald eagle with blood on its beak face down on leaf covered grass." caption="Bald eagle found dead along Paradise Road, in Grand Rivers, Kentucky. Photo by KY Dept. of Fish and Wildlife Resources." link="https://flic.kr/p/ERwao3" >}}

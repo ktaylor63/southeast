@@ -1,6 +1,8 @@
 ---
 title: 'Agencies conserve imperiled species in eastern Kentucky'
 subtitle: 'Propose delisting for one plant, and positive steps for a darter'
+lat: 36.9585
+lng: -84.34604
 date: '2015-08-31'
 hero:
     name: white-haired-goldenrod.jpg
@@ -11,10 +13,10 @@ tags:
     - Kentucky
     - 'Kentucky Arrow Darter'
     - 'White-Haired Goldenrod'
-updated: 'March 21st, 2017'
+updated: 'January 3rd, 2018'
 ---
 
-Stanton, KY – State and Federal conservation agencies came together here today to celebrate partnerships that are delivering conservation successes in eastern Kentucky. 
+**Stanton, Kentucky** – State and Federal conservation agencies came together here today to celebrate partnerships that are delivering conservation successes in eastern Kentucky. 
 
 After more than two decades of collaboration and conservation work in the Daniel Boone National Forest, the U.S. Fish and Wildlife Service is proposing to remove the [white-haired goldenrod](http://fws.gov/southeast/wildlife/plant/white-haired-goldenrod) – a plant unique to eastern Kentucky – from the list of threatened and endangered species under the Endangered Species Act (ESA).
 

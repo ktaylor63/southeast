@@ -1,5 +1,5 @@
 ---
-title: 'Black pinesnake added to rhreatened and endangered species list'
+title: 'Black pinesnake added to threatened and endangered species list'
 subtitle: 'Timber management activities exempted & decision on critical habitat delayed to 2016'
 date: '2015-10-05'
 hero:
@@ -12,7 +12,7 @@ tags:
     - Alabama
     - 'Black Pinesnake'
     - Mississippi
-updated: 'April 11th, 2017'
+updated: 'January 3rd, 2018'
 ---
 
 The black pinesnake, which can grow to six feet in length and is now only found in parts of Mississippi and Alabama, will be protected as a threatened species under the Endangered Species Act (ESA).

@@ -1,6 +1,8 @@
 ---
 title: 'Cane river dam removal'
 date: '2017-04-13'
+lat: 35.903938
+lng: -82.331915
 hero:
     name: cane-river-dam-removal.jpg
     alt: 'Heavy equipment works away at a decrepit concrete dam.'
@@ -11,7 +13,7 @@ tags:
     - Asheville
     - 'Dam Removal'
     - 'North Carolina'
-updated: 'October 13th, 2017'
+updated: 'January 3rd, 2018'
 ---
 
 In the fall of 2016, the final piece of concrete was removed from the Cane River Dam, in North Carolina’s Yancey County, completing a process started eight years earlier. Built in the early 20th century, it’s hydropower generating house once provided all the electricity used in the county, but decades ago it was damaged, fell into disrepair, and has deteriorated ever since.

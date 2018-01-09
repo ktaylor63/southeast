@@ -2,6 +2,8 @@
 title: 'Okefenokee reopens main entrance'
 subtitle: 'Wildfire activity reduced in the Okefenokee'
 date: '2017-06-02'
+lat: 30.739676
+lng: -82.103051
 hero:
     name: west-mims-helicopter.jpg
     alt: 'A helicopter drops a load of water on pine trees.'
@@ -12,10 +14,10 @@ tags:
     - 'Okefenokee National Wildlife Refuge'
     - 'West Mims Fire'
     - Wildfire
-updated: 'June 5th, 2017'
+updated: 'January 3rd, 2018'
 ---
 
-**Folkston, GA** – Decreased fire activity will allow officials to partially reopen the Main Entrance to the Okefenokee National Wildlife Refuge (Suwannee Canal Recreation Area) near Folkston on Friday, June 2. While the West Mims wildfire is still an active fire with 65% containment, fire officials and refuge staff have confidence that the public can access a portion of the visitor facilities at this time. Beginning Friday, the Main Entrance will be open during normal operational hours of 30 minutes before sunrise to 7:30 p.m. Due to extremely low water levels in the swamp and firefighting equipment still in place, there will be very limited visitor opportunities at this time.
+**Folkston, Georgia** – Decreased fire activity will allow officials to partially reopen the Main Entrance to the Okefenokee National Wildlife Refuge (Suwannee Canal Recreation Area) near Folkston on Friday, June 2. While the West Mims wildfire is still an active fire with 65% containment, fire officials and refuge staff have confidence that the public can access a portion of the visitor facilities at this time. Beginning Friday, the Main Entrance will be open during normal operational hours of 30 minutes before sunrise to 7:30 p.m. Due to extremely low water levels in the swamp and firefighting equipment still in place, there will be very limited visitor opportunities at this time.
 
 The following will be available to visitors beginning on Friday, June 2, 2017  
 

@@ -1,17 +1,20 @@
 ---
-title: Alligator takes deer to lunch in south Georgia
+title: 'Alligator takes deer to lunch in south Georgia'
+lat: 31.635464
+lng: -81.282755
 hero:
-  name: gator-with-deer.jpg
-  alt: A large alligator with an adult deer in its mouth underwater.
-  caption: An alligator caught an adult deer. Photo by Terri Jenkins, USFWS.
-  position: top center
+    name: gator-with-deer.jpg
+    alt: 'A large alligator with an adult deer in its mouth underwater.'
+    caption: 'An alligator caught an adult deer. Photo by Terri Jenkins, USFWS.'
+    position: 'top center'
 date: '2004-08-23'
 aliases:
-  - /news/2004/r04-073.html
+    - /news/2004/r04-073.html
 tags:
-  - Alligator
-  - Harris Neck National Wildlife Refuge
-  - Georgia
+    - Alligator
+    - Georgia
+    - 'Harris Neck National Wildlife Refuge'
+updated: 'January 3rd, 2018'
 ---
 
 The sight of a 12 to 14 foot-long alligator is something south Georgia folks see occasionally, but few have seen one take an adult deer out to lunch. Actually -- for lunch.

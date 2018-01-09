@@ -1,6 +1,8 @@
 ---
 title: 'October 16 ribbon cutting ceremony to be held at Sansavilla Wildlife Management Area'
 date: '2017-10-16'
+lat: 31.434776
+lng: -81.678191
 tags:
     - 'Altamaha River'
     - Boating
@@ -10,7 +12,7 @@ tags:
     - Hunting
     - 'Sansavilla Wildlife Management Area'
     - 'Small Game'
-updated: 'October 16th, 2017'
+updated: 'January 3rd, 2018'
 ---
 
 **Mt. Pleasant, Georgia** – On Monday, October 16, the Department of Natural Resources will hold a ribbon cutting ceremony to announce the acquisition of the final phase of more than 19,000 acres purchased for the Sansavilla Wildlife Management Area.

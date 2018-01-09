@@ -1,6 +1,8 @@
 ---
 title: 'Fish and Wildlife, the military and state of Florida boost conservation at Camp Blanding'
 description: 'The U.S. Fish and Wildlife Service joined Florida conservation and military officials Thursday in a voluntary effort to keep the striped newt, gopher tortoise and 20 other at-risk species from being federally listed as endangered.'
+lat: 29.969623
+lng: -81.983207
 hero:
     name: striped-newt-juvenile.jpg
     alt: 'A light orange salamander with a bright orange stripe'
@@ -16,7 +18,7 @@ tags:
     - Military
     - 'Striped Newt'
 date: '2017-04-06'
-updated: 'April 6th, 2017'
+updated: 'January 3rd, 2018'
 ---
 
 {{< figure class="photo-right" src="/images/pages/gopher-tortoise-heading-for-burrow.jpg" alt="A large tortoise heading into a small hole in the sandy soil." caption="Gopher tortoise heading for a burrow. Photo by FWC." link="https://flic.kr/p/bu2Krq" >}}

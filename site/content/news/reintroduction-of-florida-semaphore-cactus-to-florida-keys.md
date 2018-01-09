@@ -1,20 +1,24 @@
 ---
 title: 'Reintroduction of Florida semaphore cactus to Florida Keys'
 date: '2015-08-25'
+lat: 25.191708
+lng: -80.356564
 hero:
     name: florida-semaphore-cactus.jpg
     alt: 'Bright red and yellow flowers emerge from a spiky cactus.'
     link: 'https://flic.kr/p/7HBz98'
     caption: 'Blooming cactus.  Photo by <a href=\"https://www.flickr.com/photos/wiredwitch/\" target=\"_blank\">Ketzirah Lesser</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\" target=\"_blank\">CC BY-SA 2.0</a>.'
 tags:
+    - 'Crocodile Lake National Wildlife Refuge'
     - Florida
-    - 'Florida semaphore cactus'
-updated: 'October 20th, 2016'
+    - 'Florida Semaphore Cactus'
+    - 'National Key Deer Refuge'
+updated: 'January 3rd, 2018'
 ---
 
 David Bender is the type of guy who doesn’t mind getting his hands dirty, in fact, he wants to - - as long as plants are involved, particularly those that are threatened or endangered.
 
-In May 2014, Bender, a botanist with the [South Florida Ecological Services Office](https://www.fws.gov/verobeach/), traveled to Crocodile Lake National Wildlife Rrfuge and National Key Deer Refuge in the Florida Keys with co-workers Anthony Sowers and Brian Powell to plant 350 Florida semaphore cacti.
+In May 2014, Bender, a botanist with the [South Florida Ecological Services Office](https://www.fws.gov/verobeach/), traveled to Crocodile Lake National Wildlife Refuge and National Key Deer Refuge in the Florida Keys with co-workers Anthony Sowers and Brian Powell to plant 350 Florida semaphore cacti.
 
 “We chose the refuges because public federal lands, especially national wildlife refuges and national parks, offer the best protection for listed plants,” Bender said. 
 

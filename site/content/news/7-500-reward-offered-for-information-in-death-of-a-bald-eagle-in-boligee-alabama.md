@@ -1,7 +1,10 @@
 ---
 title: '$7,500 reward offered for information in death of a bald eagle in Boligee, Alabama'
+lat: 32.75781
+lng: -88.027584
 tags:
     - Alabama
+    - 'Bald Eagle'
     - 'Law Enforcement'
 hero:
     name: bald-eagle-ready-for-flight.jpg
@@ -9,7 +12,7 @@ hero:
     link: 'https://flic.kr/p/8kSVSY'
     caption: 'A bald eagle prepares for flight. Photo by Richard Keen / RMA.'
 date: '2016-04-29'
-updated: 'November 9th, 2016'
+updated: 'January 3rd, 2018'
 ---
 The U.S. Fish and Wildlife Service is offering a reward of $2,500 to help find who shot a bald eagle in Boligee, Alabama. The Humane Society of the United States and the Humane Society Wildlife Land Trust are adding $5,000 to the reward for information leading to the identification, arrest and conviction of the person or persons responsible.
 

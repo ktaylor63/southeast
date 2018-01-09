@@ -1,19 +1,19 @@
 ---
 title: 'Fish and Wildlife Service emergency lists Miami blue butterfly as endangered'
 tags:
-    - 'Miami Blue butterfly'
     - 'Endangered Species Act'
     - Florida
+    - 'Miami Blue Butterfly'
 hero:
     name: miami-blue-butterfly.jpg
     alt: 'A white/gray butterfly with black spots blends into a flower bloom of similar color and markings.'
     link: 'https://flic.kr/p/bJQ2s4'
     caption: 'The endangered Miami blue butterfly feeds on a flower. © Holly Salvato. Used with permission.'
 date: '2011-08-09'
-updated: 'October 20th, 2016'
+updated: 'January 3rd, 2018'
 ---
 
-**VERO BEACH, FL** – The U.S. Fish and Wildlife Service (Service) announced today that it is taking emergency action to protect the Miami blue butterfly. Upon publication of the emergency rule on Aug. 10, 2011 in the _Federal Register_, the Miami blue becomes listed as endangered under the Endangered Species Act (ESA). The emergency listing immediately protects the butterfly for 240 days. Concurrently, the Service is issuing a proposed rule to permanently put into place the protections for the Miami blue beyond the 240-day emergency period.
+**Vero Beach, Florida** – The U.S. Fish and Wildlife Service (Service) announced today that it is taking emergency action to protect the Miami blue butterfly. Upon publication of the emergency rule on Aug. 10, 2011 in the _Federal Register_, the Miami blue becomes listed as endangered under the Endangered Species Act (ESA). The emergency listing immediately protects the butterfly for 240 days. Concurrently, the Service is issuing a proposed rule to permanently put into place the protections for the Miami blue beyond the 240-day emergency period.
 
 The Miami blue is a small, coastal, non-migratory butterfly endemic to south Florida. Its geographic range once extended from the Dry Tortugas north along the Florida coasts to about St. Petersburg and Daytona, but it is now restricted to a few, small, remote islands within the Florida Keys. In making this emergency listing determination, the Service has carefully assessed the best scientific and commercial information available regarding the past, present, and future threats faced by the Miami blue butterfly.
 

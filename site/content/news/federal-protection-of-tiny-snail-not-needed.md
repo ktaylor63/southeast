@@ -1,5 +1,7 @@
 ---
 title: 'Federal protection of tiny snail not needed'
+lat: 29.951942
+lng: -82.769906
 date: '2016-07-05'
 hero:
     name: ichetucknee-siltsnail.jpg
@@ -8,7 +10,7 @@ hero:
     caption: 'Adult Ichetucknee siltsnails. Photo by Erin Gawera, USFWS.'
 tags:
     - Florida
-updated: 'November 9th, 2016'
+updated: 'January 3rd, 2018'
 ---
 The [Ichetucknee siltsnail](http://ecos.fws.gov/tess_public/profile/speciesProfile.action?spcode=G036), a species whose shell is only nine one-hundredths of an inch in size, does not warrant listing under the Endangered Species Act (ESA) according to federal biologists. The snail is found in a single Florida spring in Ichetucknee River State Park.
 

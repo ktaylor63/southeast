@@ -10,10 +10,10 @@ date: '2017-03-23'
 tags:
     - Florida
     - 'Vero Beach'
-updated: 'March 23rd, 2017'
+updated: 'January 3rd, 2018'
 ---
 
-**VERO BEACH, Fla.** – The U.S. Fish and Wildlife Service is seeking public comments on a developer’s plan to avoid, minimize, and mitigate impacts to eight threatened, endangered, and at-risk species in Miami-Dade County. The plan is part of a process to clear the way for construction to begin on a 137-acre residential and commercial project in south Miami.
+**Vero Beach, Florida** – The U.S. Fish and Wildlife Service is seeking public comments on a developer’s plan to avoid, minimize, and mitigate impacts to eight threatened, endangered, and at-risk species in Miami-Dade County. The plan is part of a process to clear the way for construction to begin on a 137-acre residential and commercial project in south Miami.
 
 Public comments will be considered on the draft Habitat Conservation Plan (HCP) and associated Environmental Assessment (EA) for the proposed Coral Reef Commons development over the next 60 days. A final decision to issue incidental take permit (ITP) to the applicants will follow.
 

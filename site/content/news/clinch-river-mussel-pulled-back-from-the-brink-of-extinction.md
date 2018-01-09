@@ -1,6 +1,8 @@
 ---
 title: 'Clinch River mussel pulled back from the brink of extinction'
 subtitle: 'A chemical spill, innovative science and a McDonald’s parking lot'
+lat: 37.09449
+lng: -81.812341
 date: '2017-10-16'
 hero:
     name: golden-riffleshell-placed-in-clinch-river.jpg
@@ -17,7 +19,7 @@ tags:
     - Recovery
     - Tennessee
     - Virginia
-updated: 'October 16th, 2017'
+updated: 'January 3rd, 2018'
 ---
 
 **Richlands, Virginia** - In late August, 1998, a tanker truck carrying a chemical used to make foam rubber overturned on U.S. route 460 spilling its contents into Virginia’s Clinch River. That spill killed stream animals for miles, including more than 7,000 mussels, mainly between the towns of Cedar Bluff and Richlands.

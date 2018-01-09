@@ -2,6 +2,8 @@
 title: 'Service employees joining Irma response effort'
 subtitle: '3 teams of employees securing FWS assets, supporting local citizens and communities in Florida'
 description: 'Big Pine Key, Florida – It had all the makings of a thankless, dangerous and depressing task, but Jon Wallace knew – or thought he knew – what he was facing.'
+lat: 24.67
+lng: -81.36
 date: '2017-09-15'
 tags:
     - Florida
@@ -12,13 +14,13 @@ tags:
     - 'Hurricane Irma'
     - 'Key Deer'
     - 'National Key Deer Refuge'
-    - Vero Beach
+    - 'Vero Beach'
 hero:
     name: irma-cudjoe-key.jpg
     alt: 'Palm and mangrove trees snapped like twigs.'
     caption: 'Damaged palm trees and mangroves on Cudjoe Key, Florida. Photo by Glenn Fawcett, U.S. Customs and Border Protection.'
     link: 'https://flic.kr/p/XrQ6RB'
-updated: 'September 15th, 2017'
+updated: 'January 3rd, 2018'
 ---
 
 {{< figure class="photo-right" src="/images/pages/john-wallace.jpg" alt="Two men wearing hardhats." caption="Jon Wallace and Chris Lewzader, a biotech at Wheeler NWR, watch crews clear a field. Photo by Dan Chapman, USFWS." >}} 

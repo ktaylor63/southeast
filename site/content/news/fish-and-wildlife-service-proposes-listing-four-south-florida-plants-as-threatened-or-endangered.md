@@ -10,10 +10,10 @@ hero:
     alt: 'Very sandy soil with sparse grassy vegetation and short palms.'
     link: 'https://flic.kr/p/Ce3mzn'
     caption: 'Pine rockland habitat in Florida. Photo by Jonathon Mays, FWC.'
-updated: 'October 20th, 2016'
+updated: 'January 3rd, 2018'
 ---
 
-**VERO BEACH, FL** &mdash; Four plants only found in Miami-Dade and Monroe Counties are being proposed by the U.S. Fish and Wildlife Service for listing as endangered or threatened under the Endangered Species Act (ESA).  A shrub, Big Pine partridge pea, and two herbs, wedge spurge and sand flax, are being proposed for endangered status.   Another shrub, Blodgett’s silverbush, is being proposed for threatened status.
+**Vero Beach, Florida** &mdash; Four plants only found in Miami-Dade and Monroe Counties are being proposed by the U.S. Fish and Wildlife Service for listing as endangered or threatened under the Endangered Species Act (ESA).  A shrub, Big Pine partridge pea, and two herbs, wedge spurge and sand flax, are being proposed for endangered status.   Another shrub, Blodgett’s silverbush, is being proposed for threatened status.
 
 “The populations of these four plants have declined about 80 percent over the past two decades,” said Cindy Dohner, Southeast Region Director for the U.S. Fish and Wildlife Service.  “Habitat loss and habitat modification are the primary threats these plants face.”
 

@@ -2,6 +2,8 @@
 title: 'Fish and Wildlife Service proposes winter restrictions on swimming, paddling with manatees at Florida’s Three Sisters Springs'
 subtitle: 'Public Invited to Comment on Proposed changes to maintain safe environment for wintering manatees and people'
 date: '2015-08-05'
+lat: 28.888609
+lng: -82.58925
 hero:
     name: manatees-grazing.jpg
     alt: 'Two florida manatees grazing on the rocky bottom of a lagoon.'
@@ -9,10 +11,10 @@ hero:
     caption: 'Florida manatees grazing. Photo by Jim Reid, USFWS.'
     position: 'bottom center'
 tags:
+    - Florida
     - Manatee
     - 'Three Sisters Springs'
-    - Florida
-updated: 'October 20th, 2016'
+updated: 'January 3rd, 2018'
 ---
 
 New long-term management steps are being proposed to address record numbers of manatees wintering in Three Sisters Springs and substantial increases in the number of people wanting to see these endangered animals in their natural habitat.

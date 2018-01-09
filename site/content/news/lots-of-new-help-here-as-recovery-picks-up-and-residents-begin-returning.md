@@ -8,10 +8,11 @@ hero:
     caption: 'Fallen tree at National Key Deer Refuge. Photo by USFWS.'
     link: 'https://flic.kr/p/YuaXmu'
 date: '2017-09-16'
+lat: 24.679304
+lng: -81.357166
 tags:
     - Florida
     - 'Florida Keys'
-    - Vero Beach
     - 'Florida Keys National Wildlife Refuges Complex'
     - Gulf
     - Hurricane
@@ -21,7 +22,8 @@ tags:
     - Mississippi
     - 'North Mississippi National Wildlife Refuges Complex'
     - 'St Marks National Wildlife Refuge'
-updated: 'September 17th, 2017'
+    - 'Vero Beach'
+updated: 'January 3rd, 2018'
 ---
   
 **Big Pine Key, Florida** – [Hurricane Irma](https://www.fws.gov/hurricane/irma) hammered the Florida Keys a week ago Sunday and the recovery has been a whirl of progress and promise.

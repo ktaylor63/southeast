@@ -7,12 +7,12 @@ hero:
     link: 'https://flic.kr/p/nhHAVt'
     caption: 'Cindy Dohner. Photo by John Stark, USFWS.'
 tags:
-    - 'Regional Office'
     - Director
-updated: 'March 18th, 2017'
+    - 'Regional Office'
+updated: 'January 3rd, 2018'
 ---
 
-**ATLANTA, GA** - U.S. Fish and Wildlife Service Director Sam Hamilton announced today the selection of Cynthia K. Dohner as regional director for the Southeast Region.  
+**Atlanta, Georgia** - U.S. Fish and Wildlife Service Director Sam Hamilton announced today the selection of Cynthia K. Dohner as regional director for the Southeast Region.  
 
 “Cindy is an outstanding choice with a proven track record when it comes to solution-oriented conservation in the Southeast region,” Hamilton said. “She has built a rich career in fish and wildlife conservation with experience that cuts across both the public and private sectors that will benefit us greatly.”  
 

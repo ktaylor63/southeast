@@ -10,10 +10,10 @@ tags:
     - Lafayette
     - Louisiana
     - 'National Wildlife Refuge System'
-updated: 'October 20th, 2016'
+updated: 'January 3rd, 2018'
 ---
 
-**MONROE, LA** - Due to high water on the Ouachita River and flooding of the 16,000-acre Mollicy Unit, the East Side of Upper Ouachita National Wildlife Refuge, near Bastrop, Louisiana, is closed to ensure public safety.  
+**Monroe, Louisiana** - Due to high water on the Ouachita River and flooding of the 16,000-acre Mollicy Unit, the East Side of Upper Ouachita National Wildlife Refuge, near Bastrop, Louisiana, is closed to ensure public safety.  
 
 The unusually high river level is overtopping the obsolete 30-foot tall levee at the refuge that has been targeted for partial removal. Overtopping or even catastrophic failure of the levee does not pose any threat to surrounding communities, and has nothing to do with the flood control levee system protecting the area.  
 

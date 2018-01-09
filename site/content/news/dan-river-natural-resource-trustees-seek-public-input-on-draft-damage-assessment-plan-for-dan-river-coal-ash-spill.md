@@ -1,15 +1,18 @@
 ---
-title: Dan River natural resource trustees seek public input on draft damage assessment plan for Dan River coal ash spill
+title: 'Dan River natural resource trustees seek public input on draft damage assessment plan for Dan River coal ash spill'
 date: '2015-06-16'
+lat: 36.488
+lng: -79.717
 hero:
-  name: dan-river-coal-ash-spill.jpg
-  alt: A collapsed field of gray and black ash cut through by a stream.
-  link: https://flic.kr/p/jXsnfH
-  caption: Dan River coal ash spill. Photo by Rick Dove, <a href='https://www.flickr.com/photos/waterkeeperalliance/'>Waterkeeper Alliance Inc.</a> <a href='https://creativecommons.org/licenses/by-nc/2.0/legalcode'>CC BY-NC 2.0</a>.
+    name: dan-river-coal-ash-spill.jpg
+    alt: 'A collapsed field of gray and black ash cut through by a stream.'
+    link: 'https://flic.kr/p/jXsnfH'
+    caption: 'Dan River coal ash spill. Photo by Rick Dove, <a href="https://www.flickr.com/photos/waterkeeperalliance/">Waterkeeper Alliance Inc.</a> <a href="https://creativecommons.org/licenses/by-nc/2.0/legalcode">CC BY-NC 2.0</a>.'
 tags:
- - Coal Ash Spill
- - North Carolina
- - Dan River
+    - 'Coal Ash Spill'
+    - 'Dan River'
+    - 'North Carolina'
+updated: 'January 4th, 2018'
 ---
 
 State and federal partners are seeking public feedback on a plan to assess potential natural resource injuries resulting from the release of hazardous substances into the Dan River and associated habitats downstream.   

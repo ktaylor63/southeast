@@ -1,5 +1,7 @@
 ---
 title: 'A tiny town hit hard by Irma'
+lat: 25.856755
+lng: -81.387919
 date: '2017-09-17'
 subtitle: 'A U.S. Fish and Wildlife Service task force wades into the gray mud to help families in Everglades City, Florida'
 hero:
@@ -12,7 +14,7 @@ tags:
     - Gulf
     - Hurricane
     - 'Hurricane Irma'
-updated: 'September 17th, 2017'
+updated: 'January 3rd, 2018'
 ---
 
 **Everglades City, Florida** - Billy Snyder stood in mud-caked boots in his mud-caked living room, or what used to be his living room before Hurricane Irma roared in.

@@ -1,15 +1,17 @@
 ---
 title: 'New manager at Chassahowitzka National Wildlife Refuge Complex'
 date: '2009-08-24'
+lat: 28.75
+lng: -82.55
 hero:
     name: chassahowitzka-aerial.jpg
     alt: 'Aerial photograph of the refuge where forested wetlands yield to open water.'
     link: 'https://flic.kr/p/czmmcd'
     caption: 'Aerial of Chassahowitzka National Wildlife Refuge. Photo by Joyce Kleen, USFWS.'
 tags:
-    - 'National Wildlife Refuge System'
     - Florida
-updated: 'October 20th, 2016'
+    - 'National Wildlife Refuge System'
+updated: 'January 3rd, 2018'
 ---
 
 Michael Lusk, a 14-year veteran of the U.S. Fish and Wildlife Service, is the new refuge manager at the Chassahowitzka National Wildlife Refuge Complex in Crystal River, Florida. He began his new duties on August 2, 2009\. As manager, he oversees activities at three refuges, Chassahowitzka, Crystal River, and the Tampa Bay National Wildlife Refuges.

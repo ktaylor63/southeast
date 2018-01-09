@@ -1,6 +1,8 @@
 ---
 title: 'Mattamuskeet National Wildlife Refuge takes action to assist neighboring landowners impacted by excessive rainfall'
 date: '2016-03-04'
+lat: 35.45
+lng: -76.18
 hero:
     name: lake-mattamuskeet-sunset.jpg
     alt: 'Sun setting amongst clouds and blue skies over the lake. A tree in the middle of the lake is casting a mirrored reflection on the lake.'
@@ -8,7 +10,7 @@ hero:
     caption: 'Sunset on Lake Mattamuskeet. Photo by Keith Ramos, USFWS.'
 tags:
     - 'North Carolina'
-updated: 'October 26th, 2016'
+updated: 'January 3rd, 2018'
 ---
 
 Mattamuskeet National Wildlife Refuge is a beautiful place to visit, but it's much, much more.  Mattamuskeet is a place for wildlife and a place for people to enjoy wildlife and wildlands.  Mattamuskeet is also a good neighbor.

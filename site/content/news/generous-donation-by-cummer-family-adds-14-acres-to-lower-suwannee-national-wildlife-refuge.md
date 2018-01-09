@@ -1,6 +1,8 @@
 ---
 title: 'Generous donation by Cummer family adds 14 Acres to Lower Suwannee National Wildlife Refuge'
 date: '2011-02-14'
+lat: 29.37
+lng: -83.04
 hero:
     name: lower-suwannee-nwr.jpg
     alt: 'A single cabbage palm tree emerges from a vast grassland with a deciduous forest in the background.'
@@ -8,9 +10,9 @@ hero:
     caption: 'Lower Suwannee National Wildlife Refuge. Photo by <a href=\"https://www.flickr.com/photos/82257969@N00/\" target=\"_blank\">C. Houder</a> <a href=\"https://creativecommons.org/licenses/by-nc-nd/2.0/\" target=\"_blank\">CC BY-NC-ND 2.0</a>.'
     position: 'bottom center'
 tags:
-    - 'National Wildlife Refuge System'
     - Florida
-updated: 'October 20th, 2016'
+    - 'National Wildlife Refuge System'
+updated: 'January 3rd, 2018'
 ---
 
 Fourteen acres on the bank of the [Lower Suwannee National Wildlife Refuge](http://www.fws.gov/lowersuwannee/) now are within refuge boundaries, thanks to a generous donation by members of the Cummer Family.

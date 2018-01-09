@@ -1,19 +1,21 @@
 ---
 title: 'First two birds, oiled from the Gulf spill, readied for release at Pelican National Wildlife Refuge'
 date: '2010-05-09'
+lat: 27.810489
+lng: -80.425769
 hero:
     name: northern-gannet-oil-spill.jpg
     alt: 'Two gloved workers wearing protective glasses soap up and clean an oiled bird.'
     link: 'https://flic.kr/p/8jBSnQ'
     caption: 'Two workers clean an oiled northern gannet. Photo by Bonnie Strawser, USFWS.'
 tags:
-    - 'Oil Spill'
-    - Florida
     - 'Brown Pelican'
-    - 'Northern Gannet'
+    - Florida
     - Lafayette
     - Louisiana
-updated: 'October 6th, 2016'
+    - 'Northern Gannet'
+    - 'Oil Spill'
+updated: 'January 3rd, 2018'
 ---
 
 The first two oiled birds found in the Deepwater Horizon oil spill have been cleaned and are now recovered and ready for release.

@@ -2,20 +2,22 @@
 title: 'Conservation effort in northern Louisiana is something to quack about'
 subtitle: 'Public-private partnership protects and enhances vital migratory lands at Upper Ouachita National Wildlife Refuge'
 date: '2012-04-20'
+lat: 32.914773
+lng: -92.091252
 hero:
     name: upper-ouachita-waterfowl.jpg
     alt: 'Thousands of ducks taking flight out of a marsh nearly cover the sky.'
     link: 'https://flic.kr/p/bAaxgL'
     caption: 'Ducks at Upper Ouachita. Photo by Joseph McGowan, USFWS.'
 tags:
-    - Louisiana
-    - Lafayette
-    - Partnership
     - Arkansas
-updated: 'October 3rd, 2016'
+    - Lafayette
+    - Louisiana
+    - Partnership
+updated: 'January 3rd, 2018'
 ---
 
-**MOREHOUSE PARISH, LA** – The U.S. Fish and Wildlife Service (Service) and The Conservation Fund announced today the completion of a multi-year project to add nearly 4,000 acres of mixed farmland and timberland to [Upper Ouachita National Wildlife Refuge](http://www.fws.gov/upperouachita/) (NWR) in northeastern Louisiana. This action secures the largest remaining inholding for the Refuge, enabling more effective management of the area for wildlife habitat and public recreation.
+**Morehouse Parish, Louisiana** – The U.S. Fish and Wildlife Service (Service) and The Conservation Fund announced today the completion of a multi-year project to add nearly 4,000 acres of mixed farmland and timberland to [Upper Ouachita National Wildlife Refuge](http://www.fws.gov/upperouachita/) (NWR) in northeastern Louisiana. This action secures the largest remaining inholding for the Refuge, enabling more effective management of the area for wildlife habitat and public recreation.
 
 Located along the Ouachita River at the Louisiana-Arkansas border, the Upper Ouachita NWR provides a seasonal haven for tens of thousands of migratory ducks and geese, including mallards, pintails, wood ducks and snow geese, which visit the refuge every year for resting, foraging and breeding. The permanent conservation of this bottomland area as part of the Refuge will also offer new opportunities for hunting and bird-watching on designated sections. 
 

@@ -1,6 +1,8 @@
 ---
 title: 'Desecheo National Wildlife Refuge safe from invasive mammals after nearly 100 years'
 date: '2017-06-27'
+lat: 18.38328
+lng: -67.481737
 tags:
     - 'Bridled Tern'
     - 'Brown Booby'
@@ -19,7 +21,7 @@ hero:
     alt: 'A tall rocky island emerging from a calm blue sea.'
     link: 'https://flic.kr/p/VUJwFS'
     caption: 'Desecheo Island, Puerto Rico. Photo © Claudio Uribe, Island Conservation. Used with permission: S://EA/Photo Permissions/desecheo-island-conservation.pdf.'
-updated: 'June 29th, 2017'
+updated: 'January 3rd, 2018'
 ---
 
 [Lea en español.](https://www.fws.gov/news/ShowNews.cfm?ref=desecheo-national-wildlife-refuge-safe-from-invasive-mammals-after-nearly-&_ID=36064&Lang=ESP)

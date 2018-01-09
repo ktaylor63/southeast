@@ -7,12 +7,12 @@ hero:
     link: 'https://flic.kr/p/Ce3mzn'
     caption: 'Pine rockland habitat in Florida. Photo by Jonathon Mays, FWC.'
 tags:
-    - Florida
     - 'Endangered Species Act'
-updated: 'November 9th, 2016'
+    - Florida
+updated: 'January 3rd, 2018'
 ---
 
-**VERO BEACH, FL** - Four plants only found in Miami-Dade, Collier, and Monroe Counties are being proposed by the U.S. Fish and Wildlife Service for listing as threatened or endangered under the Endangered Species Act (ESA).
+**Vero Beach, Florida** - Four plants only found in Miami-Dade, Collier, and Monroe Counties are being proposed by the U.S. Fish and Wildlife Service for listing as threatened or endangered under the Endangered Species Act (ESA).
 
 A shrub, Everglades bully, a grass, Florida pineland crabgrass, and an herb, pineland sandmat, are being proposed for listing as threatened, meaning these plants are considered likely to become endangered species within the foreseeable future throughout all or a significant portion of their range.  In addition, another shrub, Florida prairie-clover, is being proposed for listing as endangered, meaning the prairie-clover is considered in danger of extinction throughout all or a significant portion of its range.  
 

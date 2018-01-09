@@ -7,11 +7,11 @@ hero:
     link: 'https://flic.kr/p/Ce3mzn'
     caption: 'Pine rockland habitat in Florida. Photo by Jonathon Mays, FWC.'
 tags:
-    - Florida
     - 'Endangered Species Act'
-updated: 'November 9th, 2016'
+    - Florida
+updated: 'January 3rd, 2018'
 ---
-**VERO BEACH, FL** - Four plants only found in Miami-Dade and Monroe Counties are being listed by the U.S. Fish and Wildlife Service as endangered or threatened under the Endangered Species Act (ESA).  
+**Vero Beach, Florida** - Four plants only found in Miami-Dade and Monroe Counties are being listed by the U.S. Fish and Wildlife Service as endangered or threatened under the Endangered Species Act (ESA).  
 
 A shrub, Big Pine partridge pea, and two herbs, wedge spurge and sand flax, are being given endangered status, meaning these plants are in danger of extinction within the foreseeable future throughout all or a significant portion of their range.
 

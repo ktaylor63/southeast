@@ -1,5 +1,7 @@
 ---
 title: 'Fish and Wildlife Service selects new manager for Eufaula National Wildlife Refuge'
+lat: 32.01
+lng: -85.09
 hero:
     name: wood-duck-female.jpg
     alt: 'A brown bird with purple wing tips floats on semi-frozen water.'
@@ -8,9 +10,9 @@ hero:
     position: 'bottom right'
 date: '2009-07-29'
 tags:
-    - 'National Wildlife Refuge System'
     - Alabama
-updated: 'October 20th, 2016'
+    - 'National Wildlife Refuge System'
+updated: 'January 3rd, 2018'
 ---
 
 John Earle is the new refuge manager for Eufaula National Wildlife Refuge in Eufaula, Alabama, the U.S. Fish and Wildlife Service announced today. He begins his new duties on August 4, 2009.

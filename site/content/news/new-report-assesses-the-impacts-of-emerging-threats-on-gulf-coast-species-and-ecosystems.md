@@ -4,16 +4,16 @@ hero:
     name: kemps-ridley-sea-turtle.jpg
     alt: 'Kemps ridley sea turtle laying in the sand. Large with grey shell and yellow body with grey speckles.'
     link: 'https://flic.kr/p/bnBsyZ'
-    caption: 'Kemp''s ridley sea turtle. Photo by NER Sea Turtle Stranding Network.'
+    caption: 'Kemps ridley sea turtle. Photo by NER Sea Turtle Stranding Network.'
 tags:
     - Florida
     - Gulf
     - 'Kemps Ridley Sea Turtle'
     - Lafayette
     - Louisiana
-    - Panama City
+    - 'Panama City'
 date: '2015-11-13'
-updated: 'April 21st, 2017'
+updated: 'January 5th, 2018'
 ---
 
 The U.S. Fish and Wildlife Service today released its Gulf Coast Vulnerability Assessment (GCVA), a comprehensive report that evaluates the effects of climate change, sea level rise and urbanization on four Gulf Coast ecosystems and 11 species that depend on them. The ecosystems are mangrove, oyster reef, tidal emergent marsh and barrier islands. The species are roseate spoonbill, blue crab, clapper rail, mottled duck, spotted seatrout, eastern oyster, American oystercatcher, red drum, black skimmer, Kemp’s ridley sea turtle and Wilson’s plover.

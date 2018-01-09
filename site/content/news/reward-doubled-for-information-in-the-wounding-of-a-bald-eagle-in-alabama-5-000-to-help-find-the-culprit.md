@@ -3,13 +3,13 @@ title: 'Reward doubled for information in the wounding of a bald eagle in Alabam
 date: '2012-02-24'
 hero:
     name: bald-eagle-wounded-tuscaloosa.jpg
-    alt: 'Injured bald eagle with blue bandage on it''s right wing.'
+    alt: 'Injured bald eagle with blue bandage on its right wing.'
     caption: 'Wounded bald eagle in Alabama. Photo by Auburn Raptor Center.'
 tags:
-    - 'Bald eagle'
-    - 'Law Enforcement'
     - Alabama
-updated: 'October 20th, 2016'
+    - 'Bald Eagle'
+    - 'Law Enforcement'
+updated: 'January 3rd, 2018'
 ---
 
 Wildlife investigators are now offering a reward of $5,000 to help find out who shot a bald eagle in Tuscaloosa County, Ala.

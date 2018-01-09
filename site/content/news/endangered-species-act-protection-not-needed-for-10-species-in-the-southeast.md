@@ -8,16 +8,16 @@ hero:
     link: 'https://flic.kr/p/ansceK'
     caption: 'American eel.  Illustration by Duane Raver, USFWS.'
 tags:
-    - 'Shawnee darter'
-    - 'Sequatchie caddisfly'
-    - 'American eel'
-    - 'Cave beetle'
+    - 'American Eel'
+    - 'Cave Beetle'
     - Kentucky
+    - 'Sequatchie Caddisfly'
+    - 'Shawnee Darter'
     - Tennessee
-updated: 'October 6th, 2016'
+updated: 'January 3rd, 2018'
 ---
 
-Atlanta, GA – The Cumberland arrow darter, Shawnee darter, Sequatchie caddisfly, American eel, and six Tennessee cave beetles do not need protection under the Endangered Species Act.
+**Atlanta, Georgia** – The Cumberland arrow darter, Shawnee darter, Sequatchie caddisfly, American eel, and six Tennessee cave beetles do not need protection under the Endangered Species Act.
 
 The U.S. Fish and Wildlife Service – upon reviewing the status of these 10 species – found their status to be stable, and in some cases much better than expected. The Service’s close partnership with the Kentucky Department of Fish and Wildlife Resources and the Tennessee Wildlife Resources Agency were crucial to this positive announcement.
 

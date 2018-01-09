@@ -1,21 +1,23 @@
 ---
 title: 'First captive-bred Florida grasshopper sparrow chicks hatched'
 subtitle: 'Among North America’s Most Endangered Birds'
+lat: 26.683203
+lng: -80.277047
 date: '2016-05-11'
 tags:
+    - 'Captive Breeding'
+    - 'Endangered Species Act'
     - Florida
-    - Florida Grasshopper Sparrow
-    - Endangered Species Act
+    - 'Florida Grasshopper Sparrow'
     - Recovery
-    - Captive Breeding
-    - Vero Beach
+    - 'Vero Beach'
 hero:
     name: florida-grasshopper-sparrow-with-chicks.jpg
     alt: 'Small bird with brown and white feathering. Yellow feathering on its head.'
     link: 'https://flic.kr/p/GE6idu'
     caption: 'Florida grasshopper sparrow and chicks. Photo by rarespecies.org.'
-    position: top center
-updated: 'November 9th, 2016'
+    position: 'top center'
+updated: 'January 3rd, 2018'
 ---
 **Vero Beach, Florida** - Conservation history was made May 9 when the first captive-bred [Florida grasshopper sparrow chicks](https://www.flickr.com/photos/usfwssoutheast/26685331040/in/dateposted-public/) hatched at the Rare Species Conservatory Foundation (RSCF) in Loxahatchee, Florida -- a major breakthrough for one of North America’s most endangered birds.
 

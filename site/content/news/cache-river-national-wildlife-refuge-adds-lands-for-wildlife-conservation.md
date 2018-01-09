@@ -1,14 +1,17 @@
 ---
 title: 'Cache River National Wildlife Refuge adds lands for wildlife conservation'
 date: '2016-05-04'
+lat: 35.08
+lng: -91.36
 hero:
     name: cache-river-basin.jpg
     alt: 'Wetlands with lots of tress and plants.'
     link: 'https://flic.kr/p/dK5TfP'
     caption: 'Bayou DeView in Spring Bloom. Photo by Eric S. Johnson, USFWS.'
-updated: 'November 9th, 2016'
+updated: 'January 3rd, 2018'
 tags:
     - Arkansas
+    - 'Cache River National Wildlife Refuge'
 ---
 The U.S Fish and Wildlife Service is improving wildlife habitat conservation capacity at [Cache River National Wildlife Refuge](https://www.fws.gov/cacheriver/) by acquiring lands from willing landowners. This will benefit wintering waterfowl, migratory birds and other native fish and wildlife, and also increase opportunities for public access.
 

@@ -1,6 +1,8 @@
 ---
 title: 'Community assistance opportunity to help Florida Keys wildlife'
 date: '2017-09-20'
+lat: 24.671908
+lng: -81.357163
 hero:
     name: irma-key-deer-refuge-salinity.jpg
     alt: 'An USFWS employee in uniform looks at a small screen to register the salinity level of a small pond.'
@@ -11,12 +13,12 @@ tags:
     - Florida
     - 'Florida Keys'
     - 'Florida Keys National Wildlife Refuges Complex'
-    - Vero Beach
     - Hurricane
     - 'Hurricane Irma'
     - 'Key Deer'
     - 'National Key Deer Refuge'
-updated: 'September 20th, 2017'
+    - 'Vero Beach'
+updated: 'January 3rd, 2018'
 ---
 
 The U.S. Fish and Wildlife Service (Service) completed surveys of areas known to provide fresh water to wildlife in the National Key Deer Refuge (No Name and Big Pine Keys west to Sugarloaf Key) following Hurricane Irma. Due to the storm surge from Hurricane Irma, salinity levels in fresh water wetlands are on average higher than acceptable levels for most wildlife species, including the [endangered Key deer](https://www.fws.gov/refuge/National_Key_Deer_Refuge/wildlife_and_habitat/key_deer.html), resident and migratory birds, rabbits, butterflies, and other species. There are areas on Cudjoe Key that have fresher water suitable for wildlife needs.

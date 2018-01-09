@@ -1,5 +1,7 @@
 ---
 title: 'Fish and Wildlife Service, North Carolina Wildlife Resources Commission strengthen collaboration to improve the lake’s health and boost outdoor recreation at Mattamuskeet National Wildlife Refuge'
+lat: 35.500555
+lng: -76.190131
 date: '2016-02-11'
 hero:
     name: lake-mattamuskeet-mixed-flock.jpg
@@ -10,7 +12,7 @@ tags:
     - 'Mattamuskeet National Wildlife Refuge'
     - 'National Wildlife Refuge System'
     - 'North Carolina'
-updated: 'October 12th, 2017'
+updated: 'January 3rd, 2018'
 ---
 
 **Raleigh, North Carolina** - The U.S. Fish and Wildlife Service and the North Carolina Wildlife Resources Commission today announced additional steps to strengthen their long-standing conservation partnership and said the lake at [Mattamuskeet National Wildlife Refuge](https://www.fws.gov/refuge/mattamuskeet/) in Swan Quarter, North Carolina, will be the big winner.
