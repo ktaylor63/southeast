@@ -3,6 +3,8 @@ title: 'The dirt road connection'
 subtitle: 'Arkansas multi-partner project benefits residents, endangered and at-risk species'
 author: 'Phil Kloer, Public affairs specialist'
 type: feature
+lat: 35.856329
+lng: -92.173991
 date: '2017-08-29'
 hero:
     name: unpaved-road.jpg
