@@ -1,0 +1,15 @@
+= doctype html
+html lang="en-US"
+  head
+    = include partials/head.html .
+    = include partials/css.html .
+  body data-root="{{ .Site.BaseURL }}"
+    a#skip-to-content href=#content skip to content
+    = include partials/navigation.html .
+    .map-wrapper
+      {{ .Content }}
+    = include partials/footer.html .
+    = include partials/contact.html .
+    = include partials/share.html .
+    = include partials/search.html .
+    = include partials/scripts.html .

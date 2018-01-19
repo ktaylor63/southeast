@@ -1,0 +1,53 @@
+{
+  "name": "articles-map",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "browserify": {
+    "transform": [
+      [
+        "babelify",
+        {
+          "presets": [
+            "env"
+          ],
+          "plugins": [
+            "transform-object-assign",
+            "transform-object-rest-spread"
+          ]
+        }
+      ]
+    ]
+  },
+  "scripts": {
+    "browserify": "browserify index.js | uglifyjs -mc comparisons=false > ../../../site/static/js/articles-map.js",
+    "watchify": "watchify index.js -o ../../../site/static/js/articles-map.js -dv",
+    "inspect": "browserify --full-paths index.js | uglifyjs -mc comparisons=false | discify --open",
+    "start": "npm run watchify",
+    "build": "npm run browserify"
+  },
+  "keywords": [],
+  "author": "@r0yhewitt <roy_hewitt@fws.gov>",
+  "license": "SAX-PD",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-plugin-transform-object-assign": "^6.22.0",
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "babelify": "^8.0.0",
+    "browserify": "^14.5.0",
+    "disc": "^1.3.3",
+    "uglify-js": "^3.3.2",
+    "watchify": "^3.9.0"
+  },
+  "dependencies": {
+    "array.prototype.find": "^2.0.4",
+    "axios": "^0.17.1",
+    "date-fns": "^1.29.0",
+    "es6-promise": "^4.2.2",
+    "geojson": "^0.5.0",
+    "lunr": "^0.7.2",
+    "mapbox-gl": "^0.43.0",
+    "underscore.string": "^3.3.4"
+  }
+}
