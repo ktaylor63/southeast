@@ -1,6 +1,7 @@
 ---
 title: 'Clinch River mussel pulled back from the brink of extinction'
 subtitle: 'A chemical spill, innovative science and a McDonald’s parking lot'
+description: 'The plight of the golden riffleshell, which is listed as endangered under the Endangered Species Act, took a leap forward on September 21, as 700 captively-reared individuals were released into three sites – on Indian Creek, and on the Clinch River on the edge of Richlands, Virginia, and further upstream at a site owned by The Nature Conservancy.'
 lat: 37.09449
 lng: -81.812341
 date: '2017-10-16'
@@ -19,7 +20,7 @@ tags:
     - Recovery
     - Tennessee
     - Virginia
-updated: 'January 3rd, 2018'
+updated: 'January 9th, 2018'
 ---
 
 **Richlands, Virginia** - In late August, 1998, a tanker truck carrying a chemical used to make foam rubber overturned on U.S. route 460 spilling its contents into Virginia’s Clinch River. That spill killed stream animals for miles, including more than 7,000 mussels, mainly between the towns of Cedar Bluff and Richlands.
