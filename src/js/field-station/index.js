@@ -5,7 +5,7 @@ const officeName = contactList.getAttribute('data-office');
 const input = document.querySelector('.contact-input');
 
 let hasWWW = window.location.href.indexOf('www');
-hasWWW = (hasWWW < 0) ? false : true;
+hasWWW = hasWWW < 0;
 const baseURL = document.body.getAttribute('data-root');
 const dataURL = hasWWW ? baseURL : baseURL.replace('www.', '');
 
@@ -14,14 +14,17 @@ let contacts;
 const createContact = contact => {
   return `
     <li class="card card-text">
-      <p><a href="mailto:${contact.email}">${contact.name}</a>, ${contact.title}</p>
-      <p>Phone: ${contact.phone}<br>Email: <a href="mailto:${contact.email}">${contact.email}</a></p>
+      <p><a href="mailto:${contact.email}">${contact.name}</a>, ${
+    contact.title
+  }</p>
+      <p>Phone: ${contact.phone}<br>Email: <a href="mailto:${contact.email}">${
+    contact.email
+  }</a></p>
     </li>
   `;
-}
+};
 
 const search = e => {
-
   const query = e.target.value;
   const regex = new RegExp(query, 'gi');
   if (query.length === 0) render(contacts);
@@ -33,7 +36,7 @@ const search = e => {
   });
 
   render(filtered);
-}
+};
 
 const render = contacts => {
   const noResults = `<li class="card card-text"><h3>Your query did not match any contacts.</h3></li>`;
@@ -41,10 +44,8 @@ const render = contacts => {
     contactList.innerHTML = noResults;
     return;
   }
-  contactList.innerHTML = contacts
-    .map(createContact)
-    .join('');
-}
+  contactList.innerHTML = contacts.map(createContact).join('');
+};
 
 xhr.get(`${dataURL}data/contacts.js`, (err, res, body) => {
   if (err) console.log(err);
