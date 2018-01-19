@@ -20,7 +20,7 @@ tags:
 updated: 'January 9th, 2018'
 ---
 
-{{< figure class="photo-right" src="/images/pages/monito-island-locator-map.jpg" alt="" caption="Monito Island off the eastern coast of Puerto Rico. Map by Roy Hewitt, USFWS." link="https://flic.kr/p/TJRR3r" >}}
+{{< figure class="photo-right" src="/images/pages/monito-island-locator-map.jpg" alt="" caption="Monito Island off the western coast of Puerto Rico. Map by Roy Hewitt, USFWS." link="https://flic.kr/p/TJRR3r" >}}
 
 Bombs and artillery shells rained down on them for years, but they survived.
 
