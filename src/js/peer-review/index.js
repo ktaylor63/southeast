@@ -13,22 +13,33 @@ let reviews;
 const getYearFromDocket = r => r.split('-')[3];
 
 const byYear = (a, b) => {
-  const yearA = getYearFromDocket(a.docket) || a.fiscalYear;
-  const yearB = getYearFromDocket(b.docket) || b.fiscalYear;
+  const yearA = a.docket ? getYearFromDocket(a.docket) : a.fiscalYear;
+  const yearB = b.docket ? getYearFromDocket(b.docket) : b.fiscalYear;
   return parseInt(yearB) - parseInt(yearA);
 };
 
 const createListItem = r => {
   const url = ['https://www.regulations.gov/docket', r.docket].join('?D=');
-  const message = `The SSA for ${r.species} will be peer reviewed in ${r.fiscalYear}.`;
+  const message = `The SSA for ${r.species} will be peer reviewed in ${
+    r.fiscalYear
+  }.`;
   const anchor = `<a href="${url}" target="_blank">Species: ${r.species}</a>`;
+  const peerReviewPlan = r.peerReviewPlan
+    ? `<li><a href="${baseURL}pdf/peer-review/${
+        r.peerReviewPlan
+      }" target="_blank">Peer review plan</a></li>`
+    : '';
   return `
     <li class="card card-text">
       <span class="card-ribbon">${r.type}</span>
-      <span class="card-date">${getYearFromDocket(r.docket) || r.fiscalYear}</span>
-      <p class="card-text">
-        ${r.docket ? anchor : message}
-      </p>
+      <span class="card-date">${getYearFromDocket(r.docket) ||
+        r.fiscalYear}</span>
+      <div class="card-text">
+        <ul>
+          <li>${r.docket ? anchor : message}</li>
+          ${peerReviewPlan}
+        </ul>
+      </div>
     </li>
   `;
 };
