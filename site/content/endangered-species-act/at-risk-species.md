@@ -15,7 +15,7 @@ hero:
     link: 'https://flic.kr/p/eLEEwc'
     alt: 'A brownish-yellow salamander sanding on a mossy rock with large round eyes.'
     caption: 'The Pigeon Mountain salamander is no longer at-risk of needing federal protection. Photo by John P. Clare, CC BY-NC-ND 2.0.'
-updated: 'January 5th, 2018'
+updated: 'January 9th, 2018'
 ---
 
 **Update:** [Download the Draft Programmatic Candidate Conservation Agreement with Assurances for Louisiana pinesnake in Louisiana](/pdf/agreement/candidate-conservation-agreement-with-assurances/draft-programmatic-ccaa-for-louisiana-pinesnake-in-louisiana.pdf).
@@ -33,6 +33,8 @@ A plant or animal is considered **“at-risk”** when:
 Learn more about the [Southeast Region's at-risk species strategy](/pdf/fact-sheet/at-risk-species-overview.pdf).
 
 {{< figure class="photo-center" src="/images/pages/baby-gopher-tortoise.jpg" alt="A small beige turtle with dark brown spots on it's shell standing on sandy sparsly vegetated ground." caption="A baby gopher tortoise. Photo by Randy Browning, USFWS." link="https://flic.kr/p/a5Hrx2" >}}
+
+{{< scroller-list tag="At-Risk Species" section="articles" >}}
 
 ## Online Tool for Tracking At-Risk Species
 
