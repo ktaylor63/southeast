@@ -18,7 +18,7 @@ hero:
 updated: 'August 10th, 2017'
 ---
 
-**Swan Quarter, NC** – Don Nixon grew up hunting, fishing and crabbing in and around Lake Mattamuskeet. It is land his grandfather once owned, and land he intends to pass on, figuratively, to his 12-year-old son Jacob, who loves to fish and hunt.
+**Swan Quarter, North Carolina** – Don Nixon grew up hunting, fishing and crabbing in and around Lake Mattamuskeet. It is land his grandfather once owned, and land he intends to pass on, figuratively, to his 12-year-old son Jacob, who loves to fish and hunt.
 
 “It’s important what we hand down,” Nixon said recently. “I want to hand down a good lake to my son.” 
 
