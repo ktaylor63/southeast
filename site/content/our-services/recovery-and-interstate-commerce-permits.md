@@ -98,7 +98,7 @@ Note that, if your project is determined to have “no effect” or a “not lik
 
 ## Who do I contact if I have a question regarding the permit process?
 
-If you have questions that have not been addressed on this website, or any of the web-links provided here-in, contact the [Region 4 Permit Coordinator](mailto:permitsR4es@fws.gov?subject=Recovery+and+Interstate+Commerce+Permits). Please include your permit number (TE XXXXXX), name, and daytime telephone number on all correspondence. If you have not yet received a permit number, include the business name or individual name listed on your application.
+If you have questions that have not been addressed on this website, or any of the web-links provided here-in, contact the [Region 4 Permit Coordinator](mailto:permitsr4es@fws.gov?subject=Recovery+and+Interstate+Commerce+Permits) (permitsr4es@fws.gov). Please include your permit number (TE XXXXXX), name, and daytime telephone number on all correspondence. If you have not yet received a permit number, include the business name or individual name listed on your application.
 
 ## What are the minimum qualifications that need to be met to obtain a 10(a)(1)(A) Recovery Permit?
 
