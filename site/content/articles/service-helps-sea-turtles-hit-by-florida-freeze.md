@@ -18,7 +18,7 @@ updated: 'January 8th, 2018'
 
 The U.S. Fish and Wildlife Service helped rescue hundreds of near-frozen sea turtles during Florida’s recent cold snap.
 
-Roughly 900 threatened or endangered turtles, including Kemp’s Ridleys and loggerheads, were pulled from the Gulf of Mexico and the Atlantic Ocean as water temperatures dropped below 50 degrees. 
+Roughly 900 threatened or endangered turtles, mostly green turtles, but including Kemp’s Ridleys and loggerheads, were pulled from the Gulf of Mexico and the Atlantic Ocean as water temperatures dropped below 50 degrees.
 
 Most were taken to the Gulf World Marine Institute in Panama City Beach where they were warmed up and fed, according to the Florida Fish and Wildlife Conservation Commission. They’ll be tagged and returned to the now-warming waters in coming days, said spokeswoman Michelle Kerr.
 
