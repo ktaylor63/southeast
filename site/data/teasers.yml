@@ -1,5 +1,14 @@
 ---
 stories:
+  - title: 'SCDNR urging catch and release to help spotted seatrout recover'
+    url: 'http://www.dnr.sc.gov/news/2018/jan/jan18_seatrout.html'
+    date: '2018-01-18'
+    summary: 'Unusually cold weather has gripped South Carolina this January, lowering water temperatures along the coast to levels that can be deadly for many marine animals. As South Carolina Department of Natural Resources (SCDNR) biologists work to understand the severity of this winter weather’s impacts on important fisheries, they’re also asking the public to help – by practicing catch and release of spotted seatrout, one of the fish hardest hit by the low temperatures.'
+    hero:
+        name: 'spotted-seatrout.jpg'
+        alt: 'A life-like illustration of a fish with dark spots all along its back'
+        link: 'https://commons.wikimedia.org/wiki/File:Spotted_seatrout_fish_cynoscion_nebulosus.jpg'
+        caption: 'Spotted seatrout.'
   - title: 'FWC monitoring sea turtles, manatees during cold weather'
     url: 'http://myfwc.com/news/news-releases/2018/january/03/cold/'
     date: '2018-01-03'
