@@ -138,6 +138,7 @@ Includes desired vegetation structure and fire components, desired habitat condi
 
 Annual narratives detailing the Southeast Region’s Fire Management fiscal year events broken down by each of the Fire Management Zones.
 
+- [FY2017](/pdf/report/fire-report-2017-508.pdf)
 - [FY2016](/pdf/report/fire-report-2016.pdf)
 - [FY2015](/pdf/report/fire-report-2015.pdf)
 - [FY2014](/pdf/report/fire-report-2014.pdf)
