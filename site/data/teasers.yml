@@ -1,5 +1,13 @@
 ---
 stories:
+  - title: 'Refuge makes festival fly high'
+    url: 'http://www.decaturdaily.com/opinion/editorials/refuge-makes-festival-fly-high/article_ec2542d2-ca5e-57cb-925f-d22af44f0acc.html'
+    date: '2018-01-19'
+    summary: 'Even those with little interest in bird watching can appreciate the thousands of sandhill cranes that winter at Wheeler National Wildlife Refuge. The rows of gray birds stretch for several football fields at various spots on the refuge, making it look like one of those exotic locales for migrating wildlife. This past weekend, the refuge shared the sandhill cranes and their more rare relatives, the 22 whooping cranes wintering in north Alabama, during the sixth annual Festival of the Cranes.'
+    hero:
+        name: 'rise-raptor-with-curt-cearly.jpg'
+        alt: 'A representative from Rise Raptor Project, Inc. holding an owl.'
+        caption: 'A representative from Rise Raptor Project, Inc. showing a live owl. Photo by USFWS.'
   - title: 'SCDNR urging catch and release to help spotted seatrout recover'
     url: 'http://www.dnr.sc.gov/news/2018/jan/jan18_seatrout.html'
     date: '2018-01-18'
