@@ -40,6 +40,8 @@ These decisions bring the total of “wildlife wins” in the Service’s Southe
 
 Another 15 species protected by the ESA now require less protection or no protection at all as a result of recovery actions. 
 
+Learn more with [_The Dynamic Darters: A private lands conservation success story_](http://nrcs.maps.arcgis.com/apps/Cascade/index.html?appid=6dfd24e203514987a3b7a8fe41dd5bfe)
+
 ## Contacts
 
 Denise Rowell, [Denise_Rowell@fws.gov](mailto:Denise_Rowell@fws.gov), 251-441-6630  
