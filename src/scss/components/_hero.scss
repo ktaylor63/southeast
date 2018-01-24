@@ -37,3 +37,14 @@
   margin: 0 auto !important;
   max-height: 80vh;
 }
+
+.hero-caption {
+  background: linear-gradient(to right, rgba(0, 0, 0, 0.4) 0%, rgba(0, 0, 0, 0.8) 100%);
+  bottom: 0;
+  color: white;
+  font-size: 13px;
+  line-height: 1.5;
+  padding-left: 1em;
+  position: absolute;
+  right: 0;
+}

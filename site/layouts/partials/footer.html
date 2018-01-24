@@ -2,11 +2,6 @@
 {{ partial "social-links.html" . }}
 {{ end }}
 <footer>
-  {{ if .Params.hero.caption }}
-  {{ if .Params.hero.link }}<a href="{{ .Params.hero.link }}">{{ end }}
-  <p class="hero-caption">Banner image: {{ .Params.hero.caption | safeHTML }}</p>
-  {{ if .Params.hero.link }}</a>{{ end }}
-  {{ end}}
 
   {{ if .Params.updated }}<p class="last-update">Last updated: {{ .Params.updated }}</p>{{ end }}
 

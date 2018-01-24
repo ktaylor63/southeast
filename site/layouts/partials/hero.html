@@ -6,6 +6,7 @@
   {{if .Params.hero.link }}<a href="{{ .Params.hero.link }}" target="_blank">{{ end }}
     <div class="hero-parallax parallax" style="background-image: url({{ .Site.BaseURL }}images/hero/{{ .Params.hero.name }});{{ if .Params.hero.position }} background-position: {{ .Params.hero.position }};{{ end }}">
       {{ if .Params.hero.heading }}<h1>{{ .Params.hero.heading | safeHTML }}</h1>{{ end }}
+      <div class="hero-caption">{{ .Params.hero.caption | safeHTML }}</div>
     </div>
   {{ if .Params.hero.link }}</a>{{ end }}
   {{ end }}

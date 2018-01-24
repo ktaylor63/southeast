@@ -4,17 +4,7 @@ footer {
   text-align: center;
 
   .last-update {
-    margin: 0;
-  }
-
-  .hero-caption {
-    font-size: 15px;
-    margin: 0;
-    padding: $leading/2;
-
-    a {
-      text-decoration: underline;
-    }
+    margin: $leading auto;
   }
 
   a {
@@ -40,14 +30,14 @@ footer {
 .footer-links {
   list-style: none;
   margin: 0;
-  padding: 2em;
+  padding: $leading;
 
   li {
     display: inline-block;
     margin: 5px 0;
 
     &::after {
-      content: ' • '
+      content: ' • ';
     }
 
     &:last-child::after {
@@ -86,7 +76,7 @@ footer {
     fill: $color-twitter;
   }
 
-  @media(min-width: $break-md) {
+  @media (min-width: $break-md) {
     margin-left: $nav-width;
   }
 }
