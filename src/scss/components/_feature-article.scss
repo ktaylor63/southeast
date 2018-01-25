@@ -1,11 +1,11 @@
 .feature-article-summary,
 .feature-news-summary {
-
   &__hero {
     background-size: cover;
     background-position: center center;
     display: flex;
     height: 50vh;
+    position: relative;
     text-align: center;
 
     h2 {
@@ -21,10 +21,10 @@
         content: 'Feature Story';
         display: block;
         font-family: $serif;
-        padding-top: .25em;
+        padding-top: 0.25em;
         position: relative;
         text-transform: uppercase;
-        top: .25em;
+        top: 0.25em;
       }
     }
   }
@@ -40,7 +40,7 @@
   }
 }
 
-.feature-news-summary  h2::after {
+.feature-news-summary h2::after {
   content: 'Latest News';
 }
 

@@ -1,11 +1,9 @@
 article class="feature-{{ if eq .Section "articles" }}article{{ else }}news{{ end }}-summary"
   a href="{{ .Permalink }}"
     {{ if .Params.hero.name }}
-    div.feature-article-summary__hero style="background-image: url({{ .Site.BaseURL }}images/hero/{{ .Params.hero.name }});{{ if .Params.hero.position }} background-position: {{ .Params.hero.position }};{{ end }}"
+    .feature-article-summary__hero style="background-image: url({{ .Site.BaseURL }}images/hero/{{ .Params.hero.name }});{{ if .Params.hero.position }} background-position: {{ .Params.hero.position }};{{ end }}"
       h2 {{ .Title }}
-    {{ else if .Params.hero.video }}
-      div.feature-article-summary__hero
-        iframe width="100%" height="100%" src="https://www.youtube.com/embed/{{ .Params.hero.video }}" frameborder="0" allowfullscreen="true"
+      .hero-caption {{ .Params.hero.caption }}
     {{ end }}
 
   .feature-article-summary__teaser
