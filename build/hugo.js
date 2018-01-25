@@ -7,15 +7,14 @@ const liveBaseUrl = 'fws.gov/southeast';
 function build(baseURL) {
   const base = baseURL || process.argv[2];
   console.log(chalk.yellow(`Base URL: ${base} ${endOfLine}`));
-  const buildDrafts = baseURL.includes(liveBaseUrl) ? '--buildDrafts=false' : '--buildDrafts=true';
-  const buildFuture = baseURL.includes(liveBaseUrl) ? '--buildFuture=false' : '--buildFuture=true';
+  const isProduction = baseURL.includes(liveBaseUrl);
   const command = [
     'hugo',
     '--config=site/config.yml',
     '--source=site/',
     `--baseURL=${base}`,
-    buildDrafts,
-    buildFuture
+    `--buildDrafts=${isProduction ? 'false' : 'true'}`,
+    `--buildFuture=${isProduction ? 'false' : 'true'}`
   ].join(' ');
 
   exec(command, (err, stdout, stderr) => {
