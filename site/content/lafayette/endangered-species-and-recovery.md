@@ -70,6 +70,7 @@ In 2016, the Service removed the [Louisiana black bear](/wildlife/mammals/louisi
   - [Post-Delisting Conservation Considerations Fact Sheet](/pdf/fact-sheet/louisiana-black-bear-post-delisting-consultation.pdf)
   - [Post-Delisting Monitoring Plan](https://www.regulations.gov/document?D=FWS-R4-ES-2015-0014-0078)
   - [1st Annual Post-Delisting Monitoring Report](/pdf/report/louisiana-black-bear-1st-annual-post-delisting-monitoring-report.pdf)
+  - [2nd Annual Post-Delisting Monitoring Report](/pdf/report/louisiana-black-bear-2nd-annual-post-delisting-monitoring-report.pdf)
   - [Combined 1993 - 2008 - 2014 LA Black Bear Breeding Habitat Map](/pdf/map/louisiana-black-bear-breeding-habitat-map.pdf)
 
 ## Louisiana black bear content
