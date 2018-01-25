@@ -11,7 +11,6 @@ function build(baseURL) {
   const buildFuture = baseURL.includes(liveBaseUrl) ? '--buildFuture=false' : '--buildFuture=true';
   const command = [
     'hugo',
-    '--buildFuture=true',
     '--config=site/config.yml',
     '--source=site/',
     `--baseURL=${base}`,
