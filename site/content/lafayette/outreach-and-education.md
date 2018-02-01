@@ -20,19 +20,13 @@ The Louisiana field office of the U.S. Fish and Wildlife Service offers informat
 
 ## Upcoming events
 
-### October 2017
-
-  - October 13: Lafayette Parish School System College and Career Day
-  - October 21: T.E.C.H.E. Project [Shake Your Trail Feather](http://www.techeproject.org/events/shake-your-trail-feather/) - 
-  - October 28: Atelier de la Nature [Halloween Art & Nature Festival](https://www.facebook.com/events/1394392184007349)
-
 ### February 2018
 
-  - LEDA Career Connections - February 7
+  - LEDA [Career Connections](http://www.lafayette.org/site433.php) - February 7
 
 ### March 2018
 
-  - Healing House Family Adventure Day - March 10
+  - Healing House [Family Adventure Day 2018](http://healing-house.org/PageDisplay.asp?p1=4016) - March 10
 
 ### May 2018
 
