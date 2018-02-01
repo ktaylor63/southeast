@@ -31,6 +31,7 @@
   height: 100%;
   margin: auto;
   max-width: 1400px;
+  overflow: hidden;
 }
 
 .hero-video {
@@ -39,22 +40,57 @@
 }
 
 .hero-caption {
-  background: linear-gradient(to right, rgba(0, 0, 0, 0.4) 0%, rgba(0, 0, 0, 0.8) 100%);
+  background: linear-gradient(to right, rgba(25, 25, 25, 0.8), rgba(0, 0, 0, 0.8));
+  border-bottom-left-radius: 3px;
+  border-top-left-radius: 3px;
   bottom: 0;
   color: white;
-  font-size: 13px;
-  line-height: 1.5;
-  padding-left: 1em;
+  display: flex;
+  font-size: 13px !important;
+  line-height: 1.4;
+  padding: 0.25rem;
   position: absolute;
-  right: 0;
+  right: 30px;
+  transform: translateX(100%);
+  transition: all 0.3s;
 
-  a,
-  a:visited,
-  a:active {
+  a {
     color: white;
+
+    &:visited,
+    &:hover,
+    &:active {
+      color: white;
+    }
   }
 
-  a:hover {
-    text-decoration: underline;
+  &.active {
+    right: 0;
+    transform: translateX(0);
+
+    .caption-content {
+      height: auto;
+      opacity: 1;
+    }
   }
+}
+
+.info-icon {
+  fill: white;
+  flex: 1 0 20px;
+  height: 20px;
+  margin-right: 0.25rem;
+  width: 20px;
+
+  &:hover {
+    cursor: pointer;
+  }
+}
+
+.caption-content {
+  display: block;
+  height: 0;
+  overflow: hidden;
+  opacity: 0;
+  transition: opacity 0.3s;
 }

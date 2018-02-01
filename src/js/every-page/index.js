@@ -40,8 +40,17 @@ const contactLinks = Array.from(document.querySelectorAll('.toggle-contact'));
 const hideScrollnav = document.querySelector('.hide-scrollnav');
 const sectionNav = document.querySelector('.section-nav');
 const h2s = content ? content.querySelectorAll('h2') : null;
+const captionIcons = document.querySelectorAll('.info-icon');
 let contactsDownloaded = false;
 let terms;
+
+if (captionIcons) {
+  [].forEach.call(captionIcons, i => {
+    i.addEventListener('click', function toggleCaption() {
+      this.parentElement.classList.toggle('active');
+    });
+  });
+}
 
 parallax.animate();
 analytics.init();
