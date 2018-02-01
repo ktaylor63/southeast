@@ -13,10 +13,20 @@ aliases:
 tags:
     - GIS
     - Map
-updated: 'November 17th, 2017'
+updated: 'January 29th, 2018'
 ---
 
 How does the Southeast region of the U.S. Fish and Wildlife Service use GIS?  Check out a curated list of GIS projects below!
+
+## Red-cockaded woodpecker geographic variation in habitat from LiDAR
+
+Leveraging the statewide LiDAR data collection in North Carolina, the Raleigh Field Office has been processing the 360 billion points of LiDAR data collected in the eastern 60 counties to generate vegetation metrics such as canopy height and understory vegetation distribution and density. The LiDAR data was processed at a resolution of 20ft ( 6.096m) to give a fine scale look at localized vegetative habitat. Since this data has been collected at a broad geographic scale, it allows for a broader analysis of specieshabitat interaction. This allows one to see the overall vegetative habitat preferences of species , as well as extracting geographic variation in preferences of habitat. Ongoing work involves obtaining species observations from databases such as the Global Biological Information Facility, [gbif.org](https://www.gbif.org) or the North Carolina Natural Heritage Program to compare the locations to the vegetation structure metrics in the immediate vicinity. 
+
+{{< figure class="photo-center" src="/images/pages/rcw-canopy-height.jpg" alt="A map of eastern North Carolina showing forest maturity based on canopy height." caption="Canopy heights in feet, 20m resolution. Map by Doug Newcomb, USFWS.">}}
+
+Initial results indicate that different canopy structure data sets will be useful in working with our partners to further our understanding of species - habitat interactions for multiple species and improving conservation planning efforts.
+
+{{< figure class="photo-center" src="/images/pages/rcw-lidar-forest-vs-non-forest.jpg" alt="A map of eastern North Carolina showing areas of forest vs. non-forest." caption="Forest (1) vs. Non-forest (2). Map by Doug Newcomb, USFWS.">}}
 
 ## South Atlantic LCC Blueprint 2.2
 
