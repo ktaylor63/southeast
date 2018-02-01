@@ -18,20 +18,24 @@ tags:
     - 'Native American'
     - 'Partners for Fish and Wildlife Program'
     - 'Red-Cockaded Woodpecker'
-updated: 'January 23rd, 2018'
+updated: 'February 1st, 2018'
 ---
 
 Before the United States was settled by Europeans, longleaf pine forests covered about 90 million acres of the Southeast. Most of these forests were logged for turpentine and lumber, and by 1975 they had been reduced to about 5 million acres.
 
 The U.S. Fish and Wildlife Service (Service) is working with countless private landowners, state and federal agencies and conservation groups, to restore the glory of the longleaf. The motivation for many of these conservationists is to help the many at-risk and endangered birds and wildlife that thrive in longleaf forests from the red-cockaded woodpecker to the gopher tortoise.
 
+{{< figure class="photo-center" src="/images/pages/coushatta-tribe-weaving-longleaf-baskets.jpg" alt="Three younger women look on as an elder female member of the tribe demonstrates technique." caption="Left to right,  Barbara “Barb” Langley, Heather Williams, Joy Robinson and  Crystal Williams work on a basket made from longleaf pine needles. The U.S. Fish and Wildlife Service partners with the tribe to restore longleaf habitat on lad it owns, which benefits the tribe and many species. Photo by the Coushatta Tribe.">}}
+
 The Sovereign Nation of the Coushatta Tribe of Louisiana has an additional motive: basket-weaving, a part of its heritage. Coushatta elders weave beautiful, intricate baskets from longleaf pine needles that are collected worldwide and are included in Native art collections in the Smithsonian and other museums.
 
-{{< figure class="photo-center" src="/images/pages/coushatta-tribe-finished-baskets.jpg" alt="Several colorful woven baskets." caption="Elders in the Coushatta Tribe weave baskets from longleaf pine needles, some of which are in the collections of art museums. Photo by Gardner Rose, Coushatta Tribe.">}}
+{{< figure class="photo-center" src="/images/pages/coushatta-tribe-finished-baskets.jpg" alt="An older male member of the tribe gathers pine straw before beginning to weave a basket." caption="Delson “Dan” Sylestine gathers longleaf pine needles to weave a basket. Elders of the Sovereign Nation of the Coushatta Tribe of Louisiana have been weaving these highly prized baskets for years. Photo courtesy of the Coushatta Tribe.">}}
 
 So a partnership between the Coushatta Tribe and the Service to plant more longleaf pine seedlings is as natural as a walk in the woods.
 
 “It’s an important part of our culture. My grandmother was born around 1918,” said Gardner Rose, natural resources manager for the tribe. “She started when she was five years old. Some of the men weave river cane baskets but she said the river cane would cut your fingers, so she chose the longleaf pine needles. They would trade them for food.”
+
+{{< figure class="photo-right" src="/images/pages/coushatta-tribe-elder-weaving-basket.jpg" alt="Several colorful woven baskets." caption="Elders in the Coushatta Tribe weave baskets from longleaf pine needles, some of which are in the collections of art museums. Photo by Gardner Rose, Coushatta Tribe.">}}
 
 Rose said that today about 25-30 elders, out of a tribe of about 800-plus, weave longleaf pine needle baskets. A basket takes about a week to make, and can sell for $300 or more.
 
@@ -44,6 +48,8 @@ The Coushatta and the Service started as partners in 2009, and have restored hab
 {{< figure class="photo-center" src="/images/pages/longleaf-pine-seedlings-in-louisiana.jpg" alt="Several narrow, bright green seedlings emerge from tall dormant grasses." caption="The U.S. Fish and Wildlife Service and the Sovereign Nation of the Coushatta Tribe of Louisiana worked together to plant longleaf pine seedlings on several hundred acres of tribal land in central Louisiana. Photo by Andrew Dolan, USFWS.">}}
 
 The partnership continued with a second tract, then a third, with work ongoing. This collaboration has also included the creation of sloughs, or wetlands, which attract many species of waterbirds. Some tribe members hunt deer and ducks on the land, but the land is not open to non-tribal members of the public.
+
+{{< figure class="photo-right" src="/images/pages/coushatta-tribe-female-member-weaving-basket.jpg" alt="A female member of the tribe in a bright pink shirt weaves a basket." caption="Heather Williams of the Sovereign Nation of the Coushatta Tribe of Louisiana weaves a longleaf basket. Photo courtesy of the Coushatta Tribe.">}}
 
 Birds and wildlife that have benefitted from the work include grassland and forest songbirds, raptors, wading birds, shorebirds, and pollinator insects. Red-cockaded woodpeckers, listed as endangered under the Endangered Species Act, have not yet moved in, but Dolan said they are as close as 10 miles away and may take refuge in the pines in the future. 
 
