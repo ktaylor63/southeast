@@ -1,5 +1,13 @@
 ---
 stories:
+  - title: 'Venus Flytraps Don’t Eat The Insects That Pollinate Them'
+    url: 'https://news.ncsu.edu/2018/02/venus-flytraps-2018/'
+    date: '2018-02-06'
+    summary: 'While most people are familiar with Venus flytraps and their snapping jaws, there is still a lot that scientists don’t know about the biology of these carnivorous plants. Researchers have for the first time discovered which insects pollinate the rare plants in their native habitat – and discovered that the flytraps don’t dine on these pollinator species.'
+    hero:
+        name: venus-flytrap.jpg
+        alt: 'A cluster of carnivorious plant heads with bright red/orange mouths.'
+        caption: 'Venus flytrap. Photo by Jennifer Koches, USFWS.'
   - title: 'Refuge makes festival fly high'
     url: 'http://www.decaturdaily.com/opinion/editorials/refuge-makes-festival-fly-high/article_ec2542d2-ca5e-57cb-925f-d22af44f0acc.html'
     date: '2018-01-19'
