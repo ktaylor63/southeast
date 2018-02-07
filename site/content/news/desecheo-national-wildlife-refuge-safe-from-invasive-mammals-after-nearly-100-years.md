@@ -16,6 +16,7 @@ tags:
     - 'Puerto Rico'
     - 'Red Footed Booby'
     - 'Sooty Tern'
+    - Caribbean Ecological Services Field Office
 hero:
     name: desecheo.jpg
     alt: 'A tall rocky island emerging from a calm blue sea.'

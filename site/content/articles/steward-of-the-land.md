@@ -16,7 +16,7 @@ tags:
     - Hunting
     - Recovery
     - 'Red-Cockaded Woodpecker'
-updated: 'January 30th, 2018'
+updated: 'January 31st, 2018'
 ---
 
 It started with quail, and then the woodpeckers upped the stakes. 
@@ -43,6 +43,8 @@ At their peak before European settlement, there may have been 1 million to 1.6 m
 Those efforts have been very successful, due in part to translocation: carefully moving RCWs from large healthy populations to small or new populations in suitable habitat, so they can start a new family group.
  
 New RCW clusters have been successfully established throughout the Southeast; at Lanier’s two plantations, there were 36 active clusters and 33 potential breeding groups found in a 2017 survey.  While there is still an aggressive artificial cavity provisioning program at Enon and Sehoy, intensive efforts like translocation are no longer necessary to support the growing population.
+
+As part of the Endangered Species Act process, the Service is evaluating the RCW’s status and will make a recommendation later this year to potentially change its status as a result of conservation successes like those here.
  
 Lanier, chief executive officer of ITC Holding Company, grew up on an Alabama cattle ranch, and his family instilled in him the idea of stewardship of the land, that his responsibility is to look after the land for a short time and then pass it on to the next generation in better condition better than he found it.
  

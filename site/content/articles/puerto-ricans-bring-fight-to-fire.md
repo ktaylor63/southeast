@@ -13,6 +13,7 @@ tags:
     - 'Puerto Rico'
     - 'West Mims Fire'
     - Wildfire
+    - Caribbean Ecological Services Field Office
 hero:
     name: west-mims-fire-martin-ramos.jpg
     alt: 'A man wearing a hard hat and protective gear yeilds an axe.'

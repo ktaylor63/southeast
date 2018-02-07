@@ -10,6 +10,9 @@ tags:
     - 'Puerto Rico'
     - 'US Virgin Islands'
     - 'Five Year Review'
+    - Caribbean Ecological Services Field Office
+    - Endangered Species Act
+    - Recovery
 updated: 'November 9th, 2016'
 ---
 The U.S. Fish and Wildlife Service will conduct five-year status reviews of 12 endangered and two threatened species occurring in the Commonwealth of Puerto Rico or the U.S. Virgin Islands.  The public is invited to provide information and comments concerning these species on or before October 18, 2016.

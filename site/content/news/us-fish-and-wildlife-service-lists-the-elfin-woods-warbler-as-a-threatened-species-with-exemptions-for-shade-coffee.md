@@ -11,6 +11,7 @@ tags:
     - 'Elfin-Woods Warbler'
     - 'Endangered Species Act'
     - 'Puerto Rico'
+    - Caribbean Ecological Services Field Office
 updated: 'April 27th, 2017'
 ---
 Faced with fewer suitable habitat areas, coupled with a declining population, the elfin-woods warbler is now listed as a threatened species under the Endangered Species Act (ESA), the U.S. Fish and Wildlife Service announced today.  This action takes effect July 22, 2016, 30 days after its publication in the [_Federal Register_](https://www.federalregister.gov/)_._

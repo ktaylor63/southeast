@@ -8,6 +8,8 @@ tags:
     - 'Puerto Rican Parrot'
     - 'Puerto Rico'
     - Recovery
+    - Caribbean Ecological Services Field Office
+    - Endangered Species Act
 hero:
     name: puerto-rican-parrot-flight.jpg
     alt: 'A bright green parrot with red markings on its face and blue flight feathers.'

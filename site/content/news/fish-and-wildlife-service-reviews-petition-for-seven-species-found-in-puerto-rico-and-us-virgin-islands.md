@@ -5,6 +5,8 @@ tags:
     - 'At-Risk Species'
     - 'Puerto Rico'
     - 'US Virgin Islands'
+    - Caribbean Ecological Services Field Office
+    - Endangered Species Act
 hero:
     name: greater-saint-croix-skink.jpg
     alt: 'A small amphibian with a striped back.'

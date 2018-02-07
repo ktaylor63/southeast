@@ -12,6 +12,7 @@ tags:
     - 'Puerto Rican Parrot Aviary'
     - 'Puerto Rico'
     - 'US Virgin Islands'
+    - Caribbean Ecological Services Field Office
 hero:
     name: puerto-rican-parrot-aviary-gate-towards-entrance-irma.jpg
     alt: 'A biologist looks out at the destruction and fallen vegetation outside the gate of the aviary.'

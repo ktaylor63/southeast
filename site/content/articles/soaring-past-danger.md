@@ -15,6 +15,7 @@ tags:
     - 'Puerto Rican Parrot'
     - 'Puerto Rico'
     - Recovery
+    - Caribbean Ecological Services Field Office
 hero:
     name: puerto-rican-parrots-after-maria-with-jafet-velez.jpg
     alt: 'Three green parrots standing on a perch in a cage.'
