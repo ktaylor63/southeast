@@ -48,7 +48,7 @@ Venus flytrap occupies distinct longleaf pine habitats in two regions of the Car
 
 ## Diet
 
-Most carnivorous plants selectively feed on specific prey. This selection is due to the available prey and the type of trap used by the organism. With the Venus flytrap, prey is limited to beetles, spiders and other crawling arthropods.  In fact, the Dionaea diet is 33 percent ants, 30 percent spiders, 10 percent beetles, and 10 percent grasshoppers, with fewer than five percent flying insects.[^1]
+Most carnivorous plants selectively feed on specific prey. This selection is due to the available prey and the type of trap used by the organism. With the Venus flytrap, prey is limited to beetles, spiders and other crawling arthropods.  In fact, the Dionaea diet is 33 percent ants, 30 percent spiders, 10 percent beetles, and 10 percent grasshoppers, with fewer than five percent flying insects.[^1] It turns out that[ Venus flytraps don’t eat the insects that pollinate them](https://news.ncsu.edu/2018/02/venus-flytraps-2018/), according to N.C. State University[^2].
 
 {{< figure class="photo-center" src="/images/pages/venus-flytrap-bloom.jpg" alt="A bright orange and black beetle on a white flower with five petals." caption="Checkered beetle on venus flytrap blooms. Photo by Jennifer Koches, USFWS." >}}
 
@@ -118,6 +118,7 @@ Critical habitat may be designated if the species is listed under the ESA.
 
 
 [^1]: Ellison, DM; Gotelli, NJ (2009). "Energetics and the evolution of carnivorous plants—Darwin's 'Most Wonderful plants in the world'" (PDF). Experiment Botany. 60 (1): 19–42. doi:10.1093/jxb/ern179. PMID 19213724.]
+[^2]: Elsa Youngsteadt, Rebecca E. Irwin, Alison Fowler, Matthew A. Bertone, Sara June Giacomini, Michael Kunz, Dale Suiter, and Clyde E. Sorenson, "Venus Flytrap Rarely Traps Its Pollinators," [The American Naturalist](http://www.journals.uchicago.edu/doi/abs/10.1086/696124).
 
 
 ## Federal Register Documents
