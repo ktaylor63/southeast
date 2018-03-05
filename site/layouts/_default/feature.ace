@@ -13,4 +13,4 @@ article class="feature-{{ if eq .Section "articles" }}article{{ else }}news{{ en
     {{ if .Params.subtitle }}
     h3 {{ .Params.subtitle }}
     {{ end }}
-    p {{ if .Params.description }}{{ .Params.description }}{{ else }}{{ .Summary | markdownify }}{{ end }}
+    p {{ if .Params.description }}{{ .Params.description | safeHTML }}{{ else }}{{ .Summary }}{{ end }}
