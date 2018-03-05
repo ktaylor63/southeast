@@ -9,9 +9,9 @@ hero:
     caption: 'Participants enjoy FAVOR’s monthly Full Moon Kayak adventure, a trip that goes north into Great White Heron National Wildlife Refuge.  Photo by Mary Lou Dickson.'
 tags:
     - Florida
-updated: 'October 26th, 2016'
+updated: 'February 15th, 2018'
 ---
-**BIG PINE, FL** - Sea turtles nesting, dolphins frolicking, birds wading and migrating—at any given moment, something naturally spectacular is happening in the over 400,000 acres of wildlife that make up the subtropical Florida Keys National Wildlife Refuges.
+**Big Pine Key, Florida** - Sea turtles nesting, dolphins frolicking, birds wading and migrating—at any given moment, something naturally spectacular is happening in the over 400,000 acres of wildlife that make up the subtropical Florida Keys National Wildlife Refuges.
 
 From east to west, [Crocodile Lake NWR](https://www.fws.gov/refuge/crocodile_lake/), [National Key Deer Refuge](https://www.fws.gov/refuge/National_Key_Deer_Refuge/), [Great White Heron NWR](https://www.fws.gov/refuge/great_white_heron/) and [Key West NWR](https://www.fws.gov/refuge/key_west/) are home to some of the world’s most endangered habitats, plants, and wildlife species.  And for nearly twenty years, a group of volunteers has helped make certain that the Florida Keys National Wildlife Refuges retain their status as some of the most beautiful and unique natural resources in the world.
 
