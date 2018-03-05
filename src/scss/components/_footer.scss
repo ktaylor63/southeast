@@ -3,6 +3,11 @@ footer {
   color: $color-white;
   text-align: center;
 
+  address {
+    margin: 0;
+    padding: 1rem;
+  }
+
   .last-update {
     margin: $leading auto;
   }
