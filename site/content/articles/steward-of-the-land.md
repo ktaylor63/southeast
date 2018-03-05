@@ -1,22 +1,21 @@
 ---
-draft: true
 title: 'Steward of the land'
 subtitle: 'Cam Lanier bought his Alabama land to hunt quail and ended up helping endangered woodpeckers'
-date: '2018-01-31'
+date: '2018-02-14'
 type: feature
 author: 'Phil Kloer, Public Affairs Specilist'
 hero:
     name: red-cockaded-woodpecker-on-sehoy.jpg
     alt: 'A small woodpecker perched on a pine tree.'
     caption: 'In 2017, there were 36 active clusters of endangered red-cockaded woodpeckers on Cam Lanier’s land in Alabama, thriving there under a Safe Harbor Agreement. Photo courtesy of Cam Lanier.'
-    position: 'center right'
+    position: '77% 66%'
 tags:
     - Alabama
     - 'Endangered Species Act'
     - Hunting
     - Recovery
     - 'Red-Cockaded Woodpecker'
-updated: 'January 31st, 2018'
+updated: 'February 14th, 2018'
 ---
 
 It started with quail, and then the woodpeckers upped the stakes. 
@@ -55,7 +54,7 @@ The Service’s Spadgenske works closely with Lanier and his forest manager, Joh
 
 “Prescribed burning is the number one tool for habitat management and the woodpeckers here today are benefitting from nearly a century of regular prescribed fire,” Spadgenske said.  “As a biologist, it is a treat to visit a property with an abundance of native ground cover, Bachman’s sparrows, and wild quail.”
 
-“As a collateral benefit, a botanist discovered [American chaffseed](/wildlife/plants/american-chaffseed/), which is endangered as well, in about a dozen locations at Sehoy plantation. Those are the only known species of the plant in the state of Alabama,” he added.
+“As a collateral benefit, a botanist discovered [American chaffseed](/wildlife/plants/american-chaffseed/), which is endangered as well, in about a dozen locations at Sehoy plantation. Those are the only known populations of the plant in the state of Alabama,” he added.
 
 {{< figure class="photo-center" src="/images/pages/american-chaffseed-april-punsalan.jpg" alt="A grassy plant with bright purple flowers and a fuzzy stalk." caption="American chaffseed. Photo by April Punsalan, USFWS." >}}
 
