@@ -2,6 +2,8 @@
 title: 'Musseling back from near extinction'
 author: 'Jennifer Koches, Charleston Field Office'
 date: '2017-06-12'
+lat: 34.733463
+lng: -80.718632
 hero:
     name: carolina-heelsplitter-propagation.jpg
     alt: 'A dozen dark mussels in a propagation tank with sandy substrate.'
