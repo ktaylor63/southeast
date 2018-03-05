@@ -21,7 +21,7 @@ hero:
     alt: 'Three green parrots standing on a perch in a cage.'
     caption: 'Jafet Velez, a Service biologist, checks in on Puerto Rican parrots in their aviary home. Despite damage from Hurricane Maria, “We are confident we will have an awesome 2018 breeding season,” he says. Photo by Mark Davis, USFWS.'
     link: 'https://flic.kr/p/YrxReL'
-updated: 'December 28th, 2017'
+updated: 'March 1st, 2018'
 ---
 
 **El Yunque National Forest, Puerto Rico** – They’re old, parenthood behind them, but that hardly means the two senior citizens serve no purpose. 
@@ -34,7 +34,7 @@ The couple is among about 240 birds that weathered the tempest when it struck Pu
 
 {{< figure class="photo-center" src="/images/pages/puerto-rican-parrot-hurricane-room.jpg" alt="A sign on a metal door to the hurricane room." caption="Entrance to the concrete room designed to withstand hurricane force winds. Photo by Roy Hewitt, USFWS." link="https://flic.kr/p/NczFVT" >}}
 
-While 150 mph winds ripped the jungle apart, two Service workers remained at the aviary to await the storm’s passage. With them were parrots in cages, brought inside before hell came howling.
+While 150 mph winds ripped the jungle apart, two Service workers, Thomas White and Arelis Johnson, remained at the aviary to await the storm’s passage. With them were parrots in cages, brought inside before hell came howling.
 
 The birds did well. None died during the storm, though nine succumbed to heat and stress afterward. 
 
