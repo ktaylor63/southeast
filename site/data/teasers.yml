@@ -1,5 +1,15 @@
 ---
 stories:
+  - title: 'Sensitive Coastal Habitat Added To Bon Secour National Wildlife Refuge'
+    subtitle: 'Acquisition supports economic vitality of local communities through added recreational access'
+    url: 'https://www.conservationfund.org/news-resources/press-releases/1782-coastal-protection-at-bon-secour-national-wildlife-refuge'
+    date: '2018-02-13'
+    summary: 'Today The Conservation Fund, the State of Alabama and the U.S. Fish and Wildlife Service announced the protection of 251 acres at the Little Point Clear Unit of the Bon Secour National Wildlife Refuge thanks to funding from the National Fish and Wildlife Foundation’s (NFWF) Gulf Environmental Benefit Fund.'
+    hero:
+      name: bon-secour-nwr-dunes.jpg
+      alt: 'Vegetation grows out of sand dunes at the beach.'
+      caption: 'Dunes on Perdue Unit at Bon Secour National Wildlife Refuge. Photo by USFWS.'
+      link: 'https://flic.kr/p/eyRz9F'
   - title: 'Venus Flytraps Don’t Eat The Insects That Pollinate Them'
     url: 'https://news.ncsu.edu/2018/02/venus-flytraps-2018/'
     date: '2018-02-06'
