@@ -5,7 +5,7 @@ hero:
     name: key-deer-pair.jpg
     alt: 'Two small deer walking across a street.'
     caption: 'Pair of Key deer. Photo by <a href="https://www.flickr.com/photos/soulsurvivor08/">Bree McGhee</a>, <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/legalcode">CC BY-NC-ND 2.0</a>.'
-    position: 'center left'
+    position: '9% 11%'
     link: 'https://flic.kr/p/2199UEx'
 tags:
     - 'Crocodile Lake National Wildlife Refuge'
@@ -17,7 +17,7 @@ tags:
     - 'Hurricane Irma'
     - 'Key West National Wildlife Refuge'
     - 'National Key Deer Refuge'
-updated: 'November 30th, 2017'
+updated: 'February 15th, 2018'
 ---
 
 The [Florida Keys National Wildlife Refuges Complex](http://www.fws.gov/refuge/National_Key_Deer_Refuge/About_the_Complex.html) Visitor Center located at 179 Key Deer Blvd. in the Big Pine Key shopping plaza has now re-opened with modified hours and days on Tuesday, Wednesday, Thursday and Saturdays from 10 am- 3 pm.  This Visitor Center serves the [National Key Deer Refuge](https://www.fws.gov/refuge/National_Key_Deer_Refuge/), [Crocodile Lake NWR](https://www.fws.gov/refuge/crocodile_lake/), [Great White Heron NWR](https://www.fws.gov/refuge/great_white_heron/) and [Key West NWR](https://www.fws.gov/refuge/key_west/).  Residents and visitors are welcome to come on in, say hello and take advantages of the opportunities offered.  Learn about the [Key deer](https://www.fws.gov/refuge/National_Key_Deer_Refuge/wildlife_and_habitat/key_deer.html) and other amazing wildlife and habitats.  We hope to return to normal business hours seven days a week beginning in January; however this will depend on volunteer availability and continued progress on Hurricane Irma recovery efforts
