@@ -40,15 +40,7 @@ We actively participate in the Corps of Engineers’ Wetland Mitigation Bank Rev
 
 In the early 1980s, Congress recognized that certain actions and programs of the Federal Government have historically subsidized and encouraged development on [coastal barriers](https://www.fws.gov/CBRA/Coastal-Barriers.html), resulting in the loss of natural resources; threats to human life, health, and property; and the expenditure of millions of tax dollars each year.  To remove the federal incentive to develop these areas, the [Coastal Barrier Resources Act (CBRA)](https://www.fws.gov/CBRA/Legislation.html) of 1982 and subsequent amendments designated relatively undeveloped coastal barriers along the Atlantic, Gulf of Mexico, Great Lakes, U.S. Virgin Islands, and Puerto Rico coasts as part of the [John H. Chafee Coastal Barrier Resources System (CBRS)](https://www.fws.gov/CBRA/Act.html#CBRS), and made these areas ineligible for most new federal expenditures and financial assistance. CBRA encourages the conservation of hurricane prone, biologically rich coastal barriers by restricting federal expenditures that encourage development, such as federal flood insurance. Areas within the CBRS can be developed provided that private developers or other non-federal parties bear the full cost.
 
-To have a CBRA determination performed for your project, please send your determination request and relevant project information to [cbradeterminations@fws.gov](mailto:cbradeterminations@fws.gov) addressed to:
-
-Jonathan Phinney, PhD
-Chief, Branch of Geospatial Mapping and Technical Support
-U.S. Fish and Wildlife Service
-5275 Leesburg Pike; MS:ES
-Falls Church, VA 22041
-
-(Please do not include any personally identifiable information in your request.)
+To evaluate your project for consistency with CBRA regulations please use our [CBRA Consultation Flowchart](https://www.fws.gov/cbra/documents/CBRA_Consultation_Flowchart_2018_02_01.pdf).  [Learn more about the CBRA consultation process](https://www.fws.gov/cbra/Consultations.html) (e.g., the CBRA consultation template, our interactive mapper, and federal regulations referencing the CBRS).
 
 ## Contact
 
