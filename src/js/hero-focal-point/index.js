@@ -3,6 +3,7 @@ const Draggable = require('draggable');
 const svg = require('./handle');
 
 const hero = document.querySelector('.hero');
+const parallax = hero.querySelector('.hero-parallax');
 const output = document.querySelector('.output strong');
 const light = document.querySelector('.light');
 const dark = document.querySelector('.dark');
@@ -13,7 +14,9 @@ hero.appendChild(svg);
 const onDragEnd = (el, x, y) => {
   const left = (x / hero.offsetWidth).toLocaleString(undefined, { style: 'percent' });
   const top = (y / hero.offsetHeight).toLocaleString(undefined, { style: 'percent' });
-  output.innerHTML = `${left} ${top}`;
+  const position = `${left} ${top}`;
+  parallax.style.backgroundPosition = position;
+  output.innerHTML = position;
 };
 
 const circle = new Draggable(svg, { onDragEnd });
