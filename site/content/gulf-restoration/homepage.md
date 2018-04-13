@@ -34,6 +34,8 @@ Restoring this vital area will ensure America continues to thrive well into and 
 
 {{< scroller-list tag="Gulf" section="articles" >}}
 
+Download the [Efforts of the U.S. Department of Interior and partners in gulf restoration after the *Deepwater Horizon* oil spill in Mississippi](/pdf/report/mississippi-doi-gulf-restoration.pdf).
+
 Learn more about what's happening in your state: [Alabama](/alabama), [Florida](/florida), [Georgia](/georgia), [Louisiana](/louisiana), [Mississippi](/mississippi), [Texas](/tags/texas).
 
 ## The Gulf of Mexico: Fast Facts
