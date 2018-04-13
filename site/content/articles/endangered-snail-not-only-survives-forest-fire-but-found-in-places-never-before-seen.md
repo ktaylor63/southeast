@@ -6,7 +6,7 @@ type: 'Feature Story'
 lat: 35.433766
 lng: -83.553580
 tags:
-    - Asheville
+    - Asheville Ecological Services Field Office
     - E-Grits
     - 'Endangered Species Act'
     - 'Noonday Globe Snail'
