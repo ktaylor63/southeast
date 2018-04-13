@@ -101,7 +101,7 @@ xhr.get(`${dataURL}data/terms.js`, (err, res, body) => {
   marker.mark([...words, ...acronyms], {
     element: 'span',
     className: 'highlight',
-    exclude: ['h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'a'],
+    exclude: ['h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'a', '.hero-caption'],
     accuracy: 'exactly',
     separateWordSearch: false,
     filter: (node, term, i) => {
