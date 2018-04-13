@@ -12,7 +12,7 @@ tags:
     - 'Georgia Aster'
     - 'North Carolina'
     - 'South Carolina'
-    - Asheville
+    - Asheville Ecological Services Field Office
 updated: 'March 21st, 2017'
 ---
 
