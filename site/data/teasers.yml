@@ -1,5 +1,14 @@
 ---
 stories:
+  - title: 'Wild Life: Volunteer helps care for Pinckney Island, the refuge that raised her'
+    summary: 'A quarter of a million people visit Pinckney Island National Wildlife Refuge every year. But Alice Boyd remembers a time when visitors to Pinckney Island — the largest of five islands in the 4,053-acre refuge, and the only one open to the public — could be counted in the dozens, the island was accessible only by boat and she and her brother were the only children for miles around.'
+    date: '2018-04-13'
+    url: 'http://www.hiltonheadmonthly.com/living/nature/5077-wild-life'
+    hero:
+        name: pinckney-island-nwr-marsh.jpg
+        alt: 'Bright green grass emerges from a huge marsh.'
+        caption: 'Pinckney Island National Wildlife Refuge in South Carolina is a kayaker’s paradise. Photo by Eric Horan, USFWS.'
+        link: 'https://flic.kr/p/8Nz9fW'
   - title: 'Service and partners celebrate remarkable conservation victory as once critically imperiled songbird declared saved from threat of extinction'
     subtitle: 'Kirtland’s warbler populations continue to soar; prompting proposal by Service to remove it from Endangered Species Act'
     summary: 'Amidst catastrophic population declines leaving fewer than 200 known pairs in existence in the early 1970s, the Kirtland’s warbler seemed to be rapidly heading towards extinction. But after decades of partnership efforts among federal and state agencies, industry and conservation groups, this songbird has rebounded, and the U.S. Fish and Wildlife Service is now proposing to remove the Kirtland’s warbler from the list of endangered and threatened species. The proposal opens a 90-day public comment period that will help inform a final decision.'
