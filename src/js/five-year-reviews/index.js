@@ -1,5 +1,6 @@
 const moment = require('moment');
 const xhr = require('xhr');
+const isUrl = require('is-url-superb');
 
 const list = document.querySelector('.five-year-review-list');
 const input = document.querySelector('.five-year-review-search');
@@ -11,13 +12,11 @@ const dataURL = hasWWW ? baseURL : baseURL.replace('www.', '');
 
 let species;
 
-function sortByDate(a, b) {
-  return new Date(b.reviewDate) - new Date(a.reviewDate);
-}
+const sortByDate = (a, b) => new Date(b.reviewDate) - new Date(a.reviewDate);
 
 function createListItem(animal) {
   const date = moment(animal.reviewDate).format('MM/DD/YYYY');
-  const url = [baseURL, animal.url].join('');
+  const url = (isUrl(animal.url)) ? animal.url : [baseURL, animal.url].join('');
   return animal.url
     ? `<li>${date}: <a href="${url}" target="_blank">${animal.commonName} (${animal.status})</a><br><strong>Recommendation: ${animal.recommendation}</strong></li>`
     : `<li>${date}: ${animal.commonName} (${animal.status})<br><strong>Recommendation: ${animal.recommendation}</strong></li>`;
