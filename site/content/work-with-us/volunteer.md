@@ -4,8 +4,8 @@ description: 'Volunteers help the U.S. Fish and Wildlife Service with almost eve
 nav: Volunteer
 weight: 4
 tags:
-    - 'Work With Us'
     - Volunteer
+    - 'Work With Us'
 aliases:
     - /volunteers
     - /volunteers/distance.html
@@ -18,7 +18,7 @@ hero:
     link: 'https://flic.kr/p/aUmGo2'
     alt: 'A young woman wearing a USFWS volunteer hat and shirt with a temporary from tattoo on her cheek.'
     caption: 'Nancy, a volunteer, attends the 2011 grand opening of our Caribbean offices in Boquerón, Puerto Rico. Photo by USFWS.'
-updated: 'March 17th, 2017'
+updated: 'March 16th, 2018'
 ---
 
 Volunteers help the U.S. Fish and Wildlife Service with almost everything we do. From wildlife monitoring to leading school programs or maintaining trails, our volunteers make it happen. In addition, [volunteering has been proven to provide benefits to your mental and physical health](http://www.helpguide.org/articles/work-career/volunteering-and-its-surprising-benefits.htm)!
