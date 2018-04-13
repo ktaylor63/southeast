@@ -8,6 +8,7 @@ hero:
     caption: 'Louisiana black bear cubs. Photo by Brad Young, Mississippi Department of Wildlife, Fisheries and Parks.'
 tags:
     - Alabama
+    - Asheville Ecological Services Field Office
     - Arkansas
     - 'Endangered Species Act'
     - 'Endangered Species Day'
