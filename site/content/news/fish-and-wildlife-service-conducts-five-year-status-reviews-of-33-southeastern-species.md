@@ -3,6 +3,7 @@ title: 'Fish and Wildlife Service conducts five-year status reviews of 33 southe
 tags:
     - 'Five Year Review'
     - Alabama
+    - Asheville Ecological Services Field Office
     - Arkansas
     - Florida
     - 'Puerto Rico'
@@ -51,7 +52,7 @@ Written comments and information on the specific species may be e-mailed, faxed,
 
 ## Appalachian elktoe
 
-- Asheville Ecological Services Field Office, U.S. Fish & Wildlife Service, 160 Zillicoa Street, Asheville, NC 28801, fax 828-258-5330\. For information on this species, contact John Fridell at the Ecological Services Field Office (828-258-3939, ext 225, [john_fridell@fws.gov](mailto:john_fridell@fws.gov)).
+- Asheville Ecological Services Field Office, U.S. Fish & Wildlife Service, 160 Zillicoa Street, Asheville, NC 28801, fax 828-258-5330. For information on this species, contact John Fridell at the Ecological Services Field Office (828-258-3939, ext 225, [john_fridell@fws.gov](mailto:john_fridell@fws.gov)).
 
 ## Southern combshell, black clubshell, flat pigtoe, heavy pigtoe, and stirrupshell
 
