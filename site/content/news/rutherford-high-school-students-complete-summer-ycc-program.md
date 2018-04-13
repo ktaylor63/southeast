@@ -1,6 +1,6 @@
 ---
 title: 'Rutherford High School students complete summer YCC program'
-date: '2017-08-23'
+date: 2017-08-23
 tags:
     - Florida
     - Internship
