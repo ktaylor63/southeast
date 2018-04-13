@@ -1,5 +1,34 @@
 ---
 stories:
+  - title: 'Service and partners celebrate remarkable conservation victory as once critically imperiled songbird declared saved from threat of extinction'
+    subtitle: 'Kirtland’s warbler populations continue to soar; prompting proposal by Service to remove it from Endangered Species Act'
+    summary: 'Amidst catastrophic population declines leaving fewer than 200 known pairs in existence in the early 1970s, the Kirtland’s warbler seemed to be rapidly heading towards extinction. But after decades of partnership efforts among federal and state agencies, industry and conservation groups, this songbird has rebounded, and the U.S. Fish and Wildlife Service is now proposing to remove the Kirtland’s warbler from the list of endangered and threatened species. The proposal opens a 90-day public comment period that will help inform a final decision.'
+    date: '2018-04-11'
+    url: 'https://www.fws.gov/midwest/news/878.html'
+    hero:
+        name: kirtlands-warbler.jpg
+        alt: 'A small yellow breasted bird with grey feathers.'
+        link: 'https://flic.kr/p/97xaNJ'
+        caption: Kirtland&rsquo;s warblers nest exclusively in jack pine stands. Photo by Joel Trick, USFWS.
+  - title: 'Recovery plan draft for dwindling population of endangered fish released for public comment'
+    url: 'http://www.timesfreepress.com/news/local/story/2018/apr/09/recovery-pldraft-dwindling-populatiendangered/467860/'
+    date: '2018-04-09'
+    summary: 'A plan released for public comment would help recover a dwindling population of an endangered fish in Tennessee and Kentucky while restoring a critical part of the region’s freshwater ecosystem, but some argue it comes at a hefty price.'
+    hero:
+        name: cumberland-darter.jpg
+        alt: 'A small, straw-yellow colored fish with brown markings'
+        caption: 'Photo by Jeremy Shute, Conservation Fisheries, Inc.'
+        position: 'left bottom'
+  - title: 'Invasive carp endanger region’s freshwater ecosystem, recreational water users'
+    url: 'http://www.timesfreepress.com/news/local/story/2018/apr/02/invasive-carp-heading-toward-chattanoogpose-r/467341/'
+    date: '2018-04-02'
+    summary: 'Invasive carp are heading toward Chattanooga, threatening the region’s renowned freshwater ecosystem and posing risk to recreational water users and fishermen. The non-native fish are making their way through the U.S.’s main river systems via locks, and biologists, federal officials and fishermen are working to combat them as they spread.'
+    hero:
+      name: silver-carp-jumping-fox-river.jpg
+      alt: 'A half dozen large silver fish jumping out of the water to a height of six feet.'
+      caption: 'School of jumping silver carp. Photo by Ryan Hagerty, USFWS.'
+      link: 'https://flic.kr/p/MFyYsU'
+      position: '70% 35%'
   - title: 'Sensitive Coastal Habitat Added To Bon Secour National Wildlife Refuge'
     subtitle: 'Acquisition supports economic vitality of local communities through added recreational access'
     url: 'https://www.conservationfund.org/news-resources/press-releases/1782-coastal-protection-at-bon-secour-national-wildlife-refuge'
