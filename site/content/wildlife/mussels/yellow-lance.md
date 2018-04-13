@@ -24,7 +24,7 @@ updated: 'May 12th, 2017'
 
 - **Taxon:** Freshwater mussel. Bivalve, Unionidae
 - **Range:** Patuxent, Rappahannock, York, James, Chowan, Tar, and Neuse River basins in Maryland, Virginia, and [North Carolina](/north-carolina).
-- **Status:** At-risk species, Proposed for listing as a threatened species.
+- **Status:** Listed as threatened
 
 [Download the Species Status Assessment](https://fws.gov/raleigh/pdfs/YellowLanceSSA.pdf).
 
@@ -156,6 +156,7 @@ Individuals can do a number of things to help protect freshwater species, includ
 
 ## Useful Resources
 
+  - [Yellow lance species status assessment](http://ecos.fws.gov/ServCat/DownloadFile/138974)
   - [Yellow lance species profile by the North Carolina Wildlife Resources Commission](http://www.ncwildlife.org/Learning/Species/Mollusks/Yellow-Lance)
   - [Freshwater Mussels &amp; Endangered Fish Glossary by the North Carolina Wildlife Resources Commission](http://www.ncwildlife.org/Learning/Species/Mollusks/Mussels-Glossary)
   - [Freshwater mussel activity book and learning resource](http://www.aeclab.org/modules/info/files/files_4c7572d0c81cf.pdf)
