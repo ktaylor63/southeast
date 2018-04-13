@@ -17,6 +17,8 @@ updated: 'January 5th, 2018'
 
 Employees within the U.S. Fish and Wildlife Service use science on a daily basis as the foundation for carrying out our mission.
 
+For more information on our mission and activities see our [FY2018 update](/pdf/regional-science-committee-fy2018-update.pdf).
+
 Science-based natural resource conservation requires that our employees have timely access to:
 
   - Scientific research, information, and state-of-the-art scientific tools
@@ -45,6 +47,9 @@ Since the inception of the Southeast Region I&amp;M Branch in 2011, there has be
 Recently, the I&amp;M Branch [has been archiving the project proposals, reports and data sets into the Service Catalog to provide a centralized location for reference](https://ecos.fws.gov/ServCat/Reference/Profile/66785).
 
 For more information about the RFP process or to provide outstanding materials, contact David Richardson ([david_richardson@fws.gov](mailto:david_richardson@fws.gov)).
+
+{{< scroller-list tag="Science" section="news" >}}
+{{< scroller-list tag="Science" section="articles" >}}
 
 ### Featured project
 
