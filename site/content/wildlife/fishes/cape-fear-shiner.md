@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 'Cape Fear shiner'
 scientific: 'Notropis mekistocholas'
 description: 'The Cape Fear shiner is a freshwater fish in the minnow family found in the central part of North Carolina, in the Upper Cape Fear River Basin.'
