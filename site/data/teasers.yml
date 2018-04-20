@@ -1,5 +1,13 @@
 ---
 stories:
+  - title: 'Six defendants charged with collectively trafficking over four hundred migratory birds'
+    summary: 'A slew of state and federal agencies announce the filing of federal charges against 6 defendants in 6 separate cases for their involvement with the trafficking of over 400 migratory birds.'
+    date: '2018-04-16'
+    url: 'https://www.justice.gov/usao-sdfl/pr/six-defendants-charged-collectively-trafficking-over-four-hundred-migratory-birds'
+    hero:
+        name: free-birds-ornery.jpg
+        alt: 'Blue birds with outstretched wings take flight'
+        caption: 'Birds recovered during Operation Ornery Birds are released at Everglades National Park in Florida.'
   - title: 'Wild Life: Volunteer helps care for Pinckney Island, the refuge that raised her'
     summary: 'A quarter of a million people visit Pinckney Island National Wildlife Refuge every year. But Alice Boyd remembers a time when visitors to Pinckney Island — the largest of five islands in the 4,053-acre refuge, and the only one open to the public — could be counted in the dozens, the island was accessible only by boat and she and her brother were the only children for miles around.'
     date: '2018-04-13'
