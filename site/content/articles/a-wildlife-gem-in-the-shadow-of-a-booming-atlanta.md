@@ -6,6 +6,7 @@ hero:
     name: racoon-creek.jpg
     alt: 'A forrested stream with rocky shores.'
     caption: 'Raccoon Creek. Photo by Brett Albanese, Georgia DNR.'
+    position: '50% 35%'
     link: 'https://flic.kr/p/BXKxuR'
 type: feature
 date: '2017-06-07'
@@ -27,16 +28,16 @@ tags:
     - 'Sheffield Wildlife Management Area'
     - 'Silver Comet Trail'
     - 'White-Tailed Deer'
-updated: 'August 28th, 2017'
+updated: 'April 30th, 2018'
 ---
 
-**Braswell, Georgia** -- It was 1946, a cold night in the Blue Ridge mountains, and the six frustrated deer hunters hunkered down in a glade as the wind howled. Two days spent scrambling over the hills had flushed but one doe. The annual hunt was no longer worth the long drive from Paulding County outside Atlanta. 
+**Braswell, Georgia** -- It was 1946, a cold night in the Blue Ridge mountains, and the six frustrated deer hunters hunkered down in a glade as the wind howled. Two days spent scrambling over the hills had flushed but one doe. The annual hunt was no longer worth the long drive from Paulding County outside Atlanta.
 
 “What I’m figuring,” said E.F. Corley, a farmer, sawmiller, truck driver and ordained Baptist minister, “is stocking deer in the hills behind home.”
 
 His buddies thought him crazy. Locals would “shoot ‘em before they could be put out of a truck,” one later recounted to Outdoor Life magazine.
 
-Corley, though, ultimately convinced his friends and dozens of other Paulding County farmers, townsfolk and government officials that a hunting reserve would work. They raised $1,400,  created a “conservation club,” pooled 12,000 of their own acres and made everybody promise not to hunt the land for five years.
+Corley, though, ultimately convinced his friends and dozens of other Paulding County farmers, townsfolk and government officials that a hunting reserve would work. They raised $1,400, created a “conservation club,” pooled 12,000 of their own acres and made everybody promise not to hunt the land for five years.
 
 Twenty deer (imported from South Carolina) soon bounded into the hills of northwest Paulding County, author Charles Elliott wrote. One-hundred wild turkey eggs and 20,000 fingerling rainbow trout were added and -- just like that -- a brand new wildlife reserve was created.
 
@@ -54,19 +55,19 @@ A key priority for the Service is the creation of a “conservation constituency
 
 “People aren’t going to want to protect the land unless they have access to the land so they can understand the benefits it provides,” said Robin Goodloe, a supervisory biologist with the Service in Athens, Georgia. “And the recreation in Paulding is not just hunting and fishing. It’s hiking, birdwatching, wildlife picture-taking and more. More people should avail themselves of it.”
 
-Paulding has been important to the Service since the late 1940s, when money raised via the Wildlife Restoration Act (aka Pittman-Robertson) delivered a truckload of Wisconsin whitetail deer to the still-young reserve. Federal programs have since funneled more than $20 million to expand the WMA’s borders, protect its at-risk fish and birds and support the state wildlife agency. 
+Paulding has been important to the Service since the late 1940s, when money raised via the Wildlife Restoration Act (aka Pittman-Robertson) delivered a truckload of Wisconsin whitetail deer to the still-young reserve. Federal programs have since funneled more than $20 million to expand the WMA’s borders, protect its at-risk fish and birds and support the state wildlife agency.
 
-In all, nearly $70 million has been raised from the federal government, the state of Georgia, the county, the Nature Conservancy and family foundations to turn Paulding into the region’s premier WMA. 
+In all, nearly $70 million has been raised from the federal government, the state of Georgia, the county, the Nature Conservancy and family foundations to turn Paulding into the region’s premier WMA.
 
-“Hopefully we’ll keep this beautiful green swath the way it is forever as Atlanta sprawls this way,” said Tim Pugh, the environmental coordinator for Paulding County’s water system. “People are blown away at how pretty it is. It’s one of the best kept secrets in Georgia.” 
+“Hopefully we’ll keep this beautiful green swath the way it is forever as Atlanta sprawls this way,” said Tim Pugh, the environmental coordinator for Paulding County’s water system. “People are blown away at how pretty it is. It’s one of the best kept secrets in Georgia.”
 
 ## Plenty of fish and deer
 
-The Blue Ridge Mountains, the Piedmont plateau and the coastal plain all come together at the Paulding Forest and Sheffield WMAs, creating a rich tableau of flora and fauna. Remnants of a “montane” longleaf pine forest overlay the wildlife area and stretch into Alabama. Fox squirrels, Bachman’s sparrows and Northern long-eared bats, as well as other at-risk species, populate the WMAs. 
+The Blue Ridge Mountains, the Piedmont plateau and the coastal plain all come together at the Paulding Forest and Sheffield WMAs, creating a rich tableau of flora and fauna. Remnants of a “montane” longleaf pine forest overlay the wildlife area and stretch into Alabama. Fox squirrels, Bachman’s sparrows and Northern long-eared bats, as well as other at-risk species, populate the WMAs.
 
 {{< figure class="photo-right" src="/images/pages/racoon-creek-longleaf-pine.jpg" alt="Brown and orange pine leaves extend from a young tree." caption="Young, old and recently burned longleaf pine in the Paulding Wildlife Management Area. Photo by Dan Chapman, USFWS." >}}
 
-Raccoon Creek teems with wildlife. Relatively clean -- agriculture, industry and development are located a few miles from the headwaters -- the stream is home to 43 native fish species. The famed Columbia River in the Pacific Northwest tallies 31 native species. 
+Raccoon Creek teems with wildlife. Relatively clean -- agriculture, industry and development are located a few miles from the headwaters -- the stream is home to 43 native fish species. The famed Columbia River in the Pacific Northwest tallies 31 native species.
 
 The Raccoon Creek watershed is the only known habitat for the federally endangered Etowah darter below Lake Allatoona. The largest known population of the Cherokee darter, a threatened species, is also found in the creek’s watershed. Etowah crayfish, a state threatened species, have been collected at several sites throughout the basin.
 
@@ -80,7 +81,7 @@ Womack, on a recent, sun-dappled tour, pointed out the Paulding watershed’s na
 
 “This is my favorite shot right here,” Womack said marching uphill through a healthy, newly burned longleaf patch. “We want to apply this thinning, burning and replanting scheme to thousands of acres here. That’s our goal.”
 
-Forests, and then tree farms, covered much of the land cobbled together to create the two WMAs. Deer and wild turkeys, most imported from nearby Berry College, were stocked through the 1990s. A state fish hatchery in Summerville, Georgia, supplied most of the trout, bream and redeye bass. 
+Forests, and then tree farms, covered much of the land cobbled together to create the two WMAs. Deer and wild turkeys, most imported from nearby Berry College, were stocked through the 1990s. A state fish hatchery in Summerville, Georgia, supplied most of the trout, bream and redeye bass.
 
 Meanwhile, Atlanta edged closer and closer. The abandoned railroad tracks (now the Silver Comet) steered ATVs into the wildlife area where they tore up trails and eroded stream banks. Residential, commercial and industrial development marched out U.S. 278 from Atlanta and threatened to turn Paulding County into another Cobb or Fulton. (Paulding was the nation’s fifth fastest growing county in 2010.)
 
@@ -94,10 +95,10 @@ Millions of dollars are also being spent removing culverts and dams, rebuilding 
 
 ## Access: Getting it right
 
-More land will likely be added to Paulding Forest and Sheffield, but managing the WMAs -- protecting at-risk species, maintaining deer and turkey populations, planting and burning longleaf -- is now of paramount importance. With metro Atlanta edging ever-closer, though, state, federal and county officials must determine how much access to grant the public. 
+More land will likely be added to Paulding Forest and Sheffield, but managing the WMAs -- protecting at-risk species, maintaining deer and turkey populations, planting and burning longleaf -- is now of paramount importance. With metro Atlanta edging ever-closer, though, state, federal and county officials must determine how much access to grant the public.
 Unlike national parks, WMAs aren’t in the tourism business. Paulding Forest, for example, doesn’t have a bathroom.
 
-While birders and hikers are welcome, no designated trails run through the WMA. Access to the best fishing holes on Raccoon Creek isn’t easy. 
+While birders and hikers are welcome, no designated trails run through the WMA. Access to the best fishing holes on Raccoon Creek isn’t easy.
 
 “Recreation is going to happen and it should happen,” Womack said. “There are opportunities here for other user-groups like hikers and maybe some mountain biking and horseback riding. But that would take a level of management above what’s currently available.”
 
