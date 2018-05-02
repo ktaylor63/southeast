@@ -8,7 +8,7 @@
   box-sizing: border-box;
   color: $color-accent;
   margin: 0;
-  width: 90%
+  width: 90%;
 }
 
 .site-search-label {
@@ -33,7 +33,7 @@
   transition: all $transition-duration;
   visibility: hidden;
   width: 100%;
-  z-index: 5001;
+  z-index: -1;
 
   a,
   li {
@@ -50,6 +50,7 @@
     transform: translateY(0);
     transition: all $transition-duration;
     visibility: visible;
+    z-index: 5001;
   }
 
   @media (min-width: $break-lg) {
@@ -96,7 +97,6 @@
     transition: background $transition-duration;
     white-space: nowrap;
     width: 100%;
-
 
     &:hover,
     &:focus {
