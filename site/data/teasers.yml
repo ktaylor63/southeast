@@ -1,5 +1,35 @@
 ---
 stories:
+  - title: 'Camp Lejeune joining effort to protect endangered woodpecker'
+    summary: 'Camp Lejeune will partner with several groups to keep the animals away from training grounds. Several agencies gathered at Stones Creek Game Lands in Sneads Ferry on Monday for a groundbreaking ceremony. It’s part of the partnership to help protect the red-cockaded woodpecker. The partnership aims to enhance training flexibility at Camp Lejeune while also managing the habitat of the woodpecker.'
+    date: '2018-04-30'
+    url: 'http://wcti12.com/news/local/new-partnership-between-ncwrc-camp-lejeune-will-protect-endangered-woodpecker'
+  - title: 'Deer trafficking case helps limit spread of chronic wasting disease'
+    summary: 'The U.S. Attorney’s Office for the Northern District of Alabama recently sentenced a licensed Alabama deer breeder and his associate for illegally transporting captive-bred and raised white-tailed deer from a facility in Indiana to his deer breeder facility in Alabama. Lewis H. Skinner, 56, and his associate Franklin Banks Loden, 56, both of Northport, Alabama were found guilty of knowingly transporting and receiving white-tailed deer in interstate commerce on April 11, 2018. These actions violated both Alabama State law and the federal Lacey Act.'
+    date: '2018-04-24'
+    url: 'https://www.fws.gov/midwest/news/DeerTraffickingCase.html'
+    hero:
+        name: white-tailed-deer-steve-gifford.jpg
+        alt: 'Four brown deer blend in to the dry vegetation'
+        caption: 'White-tailed deer. Photo © <a href="https://flic.kr/p/jYdMvj" target="_blank">Steve Gifford</a>.'
+        link: https://flic.kr/p/jYdMvj
+  - title: 'Rare Gems: Volunteers help make Little Pend Orielle NWR sparkle'
+    summary: 'Our dedicated U.S. Fish and Wildlife Service 9,242 volunteers in the Pacific Region gave an incredible 197,917 hours of their time to conservation in 2017. That is the equivalent of 24,739 eight-hour work days and 95 full-time staff members! '
+    date: '2018-04-20'
+    url: 'http://usfwspacific.tumblr.com/post/173129985815/rare-gems-volunteers-help-make-little-pend'
+    hero:
+        name: bob-and-krysti-stengle.jpg
+        alt: 'A couple of volunteers'
+        caption: 'Husband-and-wife volunteer team of Bob and Krysti Stengle. Photo by USFWS.'
+  - title: 'Interior and U.S. Fish and Wildlife Service Announce Winner of National Junior Duck Stamp Art Contest'
+    summary: 'A talented young artist from Johns Creek, Ga., has taken top honors at the National Junior Duck Stamp Art Contest. An emperor goose painted by 18-year-old Rayen Kang will grace the 2018-2019 Junior Duck Stamp, which raises funds to educate and engage our nation’s youth in wildlife and wetlands conservation, and outdoor recreation.'
+    date: '2018-04-20'
+    url: 'https://www.fws.gov/news/ShowNews.cfm?ref=interior-and-u.s.-fish-and-wildlife-service-announce-winner-of-national-&_ID=36262'
+    hero:
+        name: 2018-GA-junior-duck-best-of-show-rayen-kang.jpg
+        alt: 'A painting of a bird witch a white head and black white and brown feathers along its wings and back.'
+        caption: 'Rayen Kang’s acrylic rendition of an emperor goose took home the Georgia Junior Duck Stamp Best of Show. Painting by Rayen Kang.'
+        position: '60% 29%'
   - title: 'Six defendants charged with collectively trafficking over four hundred migratory birds'
     summary: 'A slew of state and federal agencies announce the filing of federal charges against 6 defendants in 6 separate cases for their involvement with the trafficking of over 400 migratory birds.'
     date: '2018-04-16'
