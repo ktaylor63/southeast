@@ -26,9 +26,7 @@ tags:
 updated: 'April 17th, 2018'
 ---
 
-<div style="position: relative; padding-bottom: 56.25%; overflow: hidden;">
-  <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fusfwssoutheast%2Fvideos%2F1803027593068901%2F&show_text=0" style="position: absolute; width: 100%; height: 100%;border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
-</div>
+{{< youtube id="poCVXe1OqTc" title="A video about Operation Ornery Birds and their release in Everglades National Park" >}}
 
 **Everglades National Park, Florida** — Once they were locked up and abused. Now they are free.
 
@@ -97,6 +95,10 @@ At the event, Deputy Superintendent Unger thanked all of the federal and state l
 “It takes dedication,” he said, “from the men and women working along the thin green line to ensure that our ecosystem remains healthy and intact.”
 
 {{< figure class="photo-center" src="/images/pages/ornery-birds-pharo-release.jpg" alt="A man in a dark suit pulls out one side of a bird cage allowing birds to escape." caption="Migratory birds, such as painted bunting and house finches, which are native to south Florida, flew from their temporary cages into the Everglades. Photo by Dan Chapman, USFWS." >}}
+
+<div style="position: relative; padding-bottom: 56.25%; overflow: hidden;">
+  <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fusfwssoutheast%2Fvideos%2F1803027593068901%2F&show_text=0" style="position: absolute; width: 100%; height: 100%;border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+</div>
 
 ## Contact
 
