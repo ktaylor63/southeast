@@ -20,7 +20,7 @@ The [Endangered Species Act](https://www.fws.gov/endangered/esa-library/pdf/ESAa
 
 All species of plants and animals, except pest insects, are eligible for listing as endangered or threatened. Check out [a list of all species protected under the Act in the United States](https://www.fws.gov/endangered/species/us-species.html).
 
-> "Nothing is more priceless and more worthy of preservation than the rich array of animal life with which our country has been blessed.  It is a many-faceted treasure, of value to scholars, scientists, and nature lovers alike, and it forms a vital part of the heritage we all share as Americans." - President Nixon
+> "Nothing is more priceless and more worthy of preservation than the rich array of animal life with which our country has been blessed. It is a many-faceted treasure, of value to scholars, scientists, and nature lovers alike, and it forms a vital part of the heritage we all share as Americans." - President Nixon
 
 {{< youtube id="Y6wJpGO8j4Q" title="Learn the basics of the Endangered Species Act" >}}
 
@@ -30,7 +30,7 @@ All species of plants and animals, except pest insects, are eligible for listing
 
 “Threatened” means a species is likely to become endangered within the foreseeable future throughout all or a significant portion of its range.
 
-The goal of the Service is to take plants and animals off the endangered and threatened species list when they have fully recovered, meaning their survival no longer depends on the  the ESA protections.
+The goal of the Service is to take plants and animals off the endangered and threatened species list when they have fully recovered, meaning their survival no longer depends on the the ESA protections.
 
 {{< figure class="photo-center" src="/images/pages/louisiana-black-bear-and-cubs-in-tree.jpg" alt="A female black bear and her cubs in a tree." caption="Louisiana black bears in a tree. Photo by Clint Turnage, USDA." >}}
 
@@ -42,18 +42,18 @@ Nearly 80% of the land in the southeastern United States is privately owned. We 
 
 ### State Wildlife Agencies
 
-Section 6 of the ESA, also known as **Cooperation with States**, recognizes the key role that states play in conserving native wildlife and plants.  The Section 6 program provides funding to states and territories for species and habitat conservation actions on non-federal lands.  Through **cooperative agreements** states can receive funding from the Service for a variety of conservation actions that contribute toward listed species recovery.
+Section 6 of the ESA, also known as **Cooperation with States**, recognizes the key role that states play in conserving native wildlife and plants. The Section 6 program provides funding to states and territories for species and habitat conservation actions on non-federal lands. Through **cooperative agreements** states can receive funding from the Service for a variety of conservation actions that contribute toward listed species recovery.
 
-1. **Conservation Grants** provide financial assistance to states and territories to implement conservation projects for listed and candidate species.
-2. **Habitat Conservation Planning Assistance Grants** provide funds to states and territories to support the development of Habitat Conservation Plans (HCPs) through support of baseline surveys, document preparation, outreach, and similar planning activities.
-3. **Habitat Conservation Plan Land Acquisition Grants** provide financial assistance to states and territories to acquire land associated with approved HCPs.
-4. **Recovery Land Acquisition Grants** provide financial assistance to support states and territories to acquire habitat in support of draft and approved recovery plans.
+1.  **Conservation Grants** provide financial assistance to states and territories to implement conservation projects for listed and candidate species.
+2.  **Habitat Conservation Planning Assistance Grants** provide funds to states and territories to support the development of Habitat Conservation Plans (HCPs) through support of baseline surveys, document preparation, outreach, and similar planning activities.
+3.  **Habitat Conservation Plan Land Acquisition Grants** provide financial assistance to states and territories to acquire land associated with approved HCPs.
+4.  **Recovery Land Acquisition Grants** provide financial assistance to support states and territories to acquire habitat in support of draft and approved recovery plans.
 
 [Learn more about State partnerships.](https://www.fws.gov/endangered/grants/)
 
 ### Non-Profit and Non-Governmental Organizations
 
-The Service partners with many non-profit and non-governmental organizations to conserve species across the globe.  Typically the Service will enter into a memorandum of understanding (MOU) with a partner organization outlining shared interest and the expectations for each organization.  For example, the Service entered into a [MOU with Bat Conservation International](https://www.fws.gov/endangered/what-we-do/bci-memo.html) to conserve Federally listed or proposed for listing as endangered or threatened species.  The two organizations will:
+The Service partners with many non-profit and non-governmental organizations to conserve species across the globe. Typically the Service will enter into a memorandum of understanding (MOU) with a partner organization outlining shared interest and the expectations for each organization. For example, the Service entered into a [MOU with Bat Conservation International](https://www.fws.gov/endangered/what-we-do/bci-memo.html) to conserve Federally listed or proposed for listing as endangered or threatened species. The two organizations will:
 
 > "... cooperate in activities necessary to maintain or increase the productivity of bats and their habitat on lands managed by the FWS, and on other lands as appropriate."
 
@@ -64,6 +64,10 @@ The Service partners with many non-profit and non-governmental organizations to 
 Section 7 of the ESA calls upon the entire U.S. federal government to participate in the conservation of species listed as threatened and endangered. Federal agencies working together, reduce costs to taxpayers and increase overall positive impacts for wildlife and habitats.
 
 Federal agencies consult with the Service to make sure the projects they carry out do not jeopardize the continued existence of protected species. Agencies can make modifications to the way they carry out business in order to support the conservation of threatened and endangered species.
+
+## Guidance on Determining Need for Incidental Take Permit under ESA Section 10(a)(1)(B)
+
+Are you unsure whether you need an incidental take permit? Download the [questionnaire](/pdf/guidelines/questionnaire-for-potential-applicants-under-section-10.pdf) or [decision tree](/pdf/guidelines/section-10-trigger-graphic.pdf) to learn more.
 
 ## 40 Years at the Forefront of Wildlife Conservation
 
