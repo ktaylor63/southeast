@@ -9,12 +9,12 @@ hero:
     position: 'top left'
 tags:
     - 'Endangered Species Act'
-    - Lafayette
     - Louisiana
+    - 'Louisiana Ecological Services Field Office'
     - Mississippi
     - 'Pearl Darter'
     - 'Pearl River'
-updated: 'September 19th, 2017'
+updated: 'May 7th, 2018'
 ---
 
 ## What action is the U.S. Fish and Wildlife Service (Service) taking?
@@ -22,6 +22,7 @@ updated: 'September 19th, 2017'
 [The Service is protecting the Pearl darter under the Endangered Species Act (ESA) as a threatened species](/news/2017/09/us-fish-and-wildlife-service-extends-endangered-species-act-protection-to-rare-fish/).  Threatened status means this fish may become endangered throughout a significant part of its range in the foreseeable future if steps are not taken to conserve it and its habitat.
 
 ## What is the Pearl darter?
+
 The Pearl darter is a freshwater fish measuring about two and a half inches in length. It has a blunt snout, a horizontal mouth, and large eyes situated high on its head.
 
 ## How did the Service determine that the Pearl darter is threatened?
@@ -56,12 +57,12 @@ Current population estimates are not available for the Pearl darter.  Reproduci
 
 A number of actions can help conserve the Pearl darter including:
 
-  - Don’t dump chemicals into streams and rivers.
-  - Do report spills to state environmental protection agencies.
-  - During timber harvest, construction or other projects, implement certified best management practices for sediment and erosion control.
-  - Start a watershed group or assist in stream and water quality monitoring efforts.
-  - Plant trees and other native woody vegetation along stream banks to help restore and preserve water quality.
-  - Replace or remove culverts and low-water bridge crossings that are barriers to passage for this species and other fishes and aquatic organisms.
+* Don’t dump chemicals into streams and rivers.
+* Do report spills to state environmental protection agencies.
+* During timber harvest, construction or other projects, implement certified best management practices for sediment and erosion control.
+* Start a watershed group or assist in stream and water quality monitoring efforts.
+* Plant trees and other native woody vegetation along stream banks to help restore and preserve water quality.
+* Replace or remove culverts and low-water bridge crossings that are barriers to passage for this species and other fishes and aquatic organisms.
 
 ## Who should you contact for more information?
 
