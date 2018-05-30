@@ -6,44 +6,44 @@ hero:
     alt: 'A mussel with brownish outer shell and a glossy white inner shell that resembles a baked potato.'
     caption: 'Threatened rabbitsfoot mussel. Photo by Bob Butler, USFWS.'
 tags:
-    - 'Neosho mucket'
-    - Rabbitsfoot
     - Alabama
     - Arkansas
     - Georgia
-    - Lafayette
-    - Louisiana
-    - Mississippi
     - Kentucky
+    - Louisiana
+    - 'Louisiana Ecological Services Field Office'
+    - Mississippi
+    - 'Neosho Mucket'
+    - Rabbitsfoot
     - Tennessee
-updated: 'October 21st, 2016'
+updated: 'May 7th, 2018'
 ---
 
 Current evidence suggests that the Neosho mucket mussel is in danger of becoming extinct and the rabbitsfoot mussel may become threatened with extinction in the foreseeable future, the U.S. Fish and Wildlife Service announced today.  As a result, the Service has proposed to protect the species under the Endangered Species Act, and is seeking new information from the public and the scientific community that will assist the agency in making a final determination.
 
 The Neosho mucket historically occurred in river systems within four states and the rabbitsfoot within 15 states.  The Neosho mucket is only found in eight rivers and creeks within Arkansas, Kansas, Missouri, and Oklahoma.  The rabbitsfoot is now found in 51 rivers and creeks in 13 states (Alabama, Arkansas, Illinois, Indiana, Kansas, Kentucky, Louisiana, Mississippi, Missouri, Ohio, Oklahoma, Pennsylvania, and Tennessee).  It disappeared from Georgia and West Virginia.  Survey data since 1985 shows dramatic declines in historic ranges and population sizes for both mussels.  The Service is proposing to list the Neosho Mucket as endangered and the rabbitsfoot as threatened and designate critical habitat for both mussels.
 
-The Service first identified the Neosho mucket as a candidate for ESA protection in 1984.  The rabbitsfoot was first identified as a candidate for ESA protection in 1994.  The historical range for the Neosho mucket has been reduced by an estimated 62 percent, while the rabbitsfoot’s historic range has been reduced by an estimated 64 percent.  They both continue to experience habitat loss due to degradation of stream and river habitats from impoundments, channelization, chemical contaminants, mining, oil and natural gas development, and increasing sedimentation.  Since freshwater mussels require clean water, their decline often signals a decline in the water quality of the streams and rivers they inhabit. 
+The Service first identified the Neosho mucket as a candidate for ESA protection in 1984.  The rabbitsfoot was first identified as a candidate for ESA protection in 1994.  The historical range for the Neosho mucket has been reduced by an estimated 62 percent, while the rabbitsfoot’s historic range has been reduced by an estimated 64 percent.  They both continue to experience habitat loss due to degradation of stream and river habitats from impoundments, channelization, chemical contaminants, mining, oil and natural gas development, and increasing sedimentation.  Since freshwater mussels require clean water, their decline often signals a decline in the water quality of the streams and rivers they inhabit.
 
 Service biologists have identified 2,138 miles of stream channels in 12 states (Alabama, Arkansas, Kansas, Kentucky, Illinois, Indiana, Mississippi, Missouri, Ohio, Oklahoma, Pennsylvania, and Tennessee) that may contain stream channel habitat essential to the conservation of these species. The proposed critical habitat for the Neosho mucket is located in:
 
-*   Benton and Washington Counties, Arkansas;
-*   Allen, Chase, Cherokee, Coffey, Elk, Greenwood, Labette, Montgomery, Neosho, Wilson, and Woodson Counties, Kansas;
-*   Jasper, Lawrence, McDonald, and Newton Counties, Missouri; and
-*   Adair, Cherokee, and Delaware Counties, Oklahoma. 
+* Benton and Washington Counties, Arkansas;
+* Allen, Chase, Cherokee, Coffey, Elk, Greenwood, Labette, Montgomery, Neosho, Wilson, and Woodson Counties, Kansas;
+* Jasper, Lawrence, McDonald, and Newton Counties, Missouri; and
+* Adair, Cherokee, and Delaware Counties, Oklahoma.
 
 The proposed critical habitat for the rabbitsfoot is located in:
 
-*   Colbert, Jackson, Madison, and Marshall Counties, Alabama;
-*   Arkansas, Ashley, Bradley, Clark, Cleveland, Dallas, Drew, Fulton, Grant, Hot Spring, Independence, Izard, Jackson, Lawrence, Little River, Marion, Monroe, Montgomery, Newton, Ouachita, Randolph, Saline, Searcy, Sevier, Sharp, Van Buren, White, and Woodruff Counties, Arkansas;
-*   Allen and Cherokee Counties, Kansas;
-*   Ballard, Green, Hart, Livingston, Logan, Marshall, and McCracken Counties, Kentucky;
-*   Massac, Pulaski, and Vermilion Counties, Illinois; Carroll, Pulaski, Tippecanoe, and White Counties, Indiana;
-*   Hinds, Sunflower, Toshimingo, and Warren Counties, Mississippi;
-*   Jasper, Madison, and Wayne Counties, Missouri;
-*   Coshocton, Madison, Union, and Williams Counties, Ohio;
-*   McCurtain and Rogers Counties, Oklahoma; Crawford, Erie, Mercer, and Venango Counties, Pennsylvania; and
-*   Hardin, Hickman, Marshall, Maury, and Robertson Counties, Tennessee.
+* Colbert, Jackson, Madison, and Marshall Counties, Alabama;
+* Arkansas, Ashley, Bradley, Clark, Cleveland, Dallas, Drew, Fulton, Grant, Hot Spring, Independence, Izard, Jackson, Lawrence, Little River, Marion, Monroe, Montgomery, Newton, Ouachita, Randolph, Saline, Searcy, Sevier, Sharp, Van Buren, White, and Woodruff Counties, Arkansas;
+* Allen and Cherokee Counties, Kansas;
+* Ballard, Green, Hart, Livingston, Logan, Marshall, and McCracken Counties, Kentucky;
+* Massac, Pulaski, and Vermilion Counties, Illinois; Carroll, Pulaski, Tippecanoe, and White Counties, Indiana;
+* Hinds, Sunflower, Toshimingo, and Warren Counties, Mississippi;
+* Jasper, Madison, and Wayne Counties, Missouri;
+* Coshocton, Madison, Union, and Williams Counties, Ohio;
+* McCurtain and Rogers Counties, Oklahoma; Crawford, Erie, Mercer, and Venango Counties, Pennsylvania; and
+* Hardin, Hickman, Marshall, Maury, and Robertson Counties, Tennessee.
 
 Of the total miles of rivers, streams, and creeks identified for the Neosho mucket, one percent is adjacent to state lands, four percent adjacent to federal lands, and 95 percent adjacent to private lands.  Of the total miles identified for the rabbitsfoot, five percent is located adjacent to state lands, 13 percent adjacent to federal lands, and 82 percent adjacent to private lands.  Three critical habitat units proposed for the Neosho mucket and rabbitsfoot are currently designated under the ESA for the oyster mussel and Cumberlandian combshell encompassing 46 river miles of the Duck River, Tennessee, and 25 river miles of Bear Creek, Alabama and Mississippi.
 
@@ -61,8 +61,8 @@ The Service will open a 60-day public comment period on the proposal to list the
 
 Comments should be submitted by one of the following methods:
 
-- **Federal eRulemaking Portal:**  [http://www.regulations.gov](http://www.regulations.gov/).  Follow the instructions for submitting comments on Attn: FWS–ES–R4–2012–0031
-- **U.S. mail or hand-delivery:**  Public Comments Processing, Attn: Attn: FWS–R4–ES–2012–0031, Division of Policy and Directives Management; U.S. Fish and Wildlife Service; 4401 North Fairfax Drive, Suite 222, Arlington, VA 22203.  All comments, including personal information, will be available on [http://www.regulations.gov](http://www.regulations.gov/).
+* **Federal eRulemaking Portal:**  [http://www.regulations.gov](http://www.regulations.gov/).  Follow the instructions for submitting comments on Attn: FWS–ES–R4–2012–0031
+* **U.S. mail or hand-delivery:**  Public Comments Processing, Attn: Attn: FWS–R4–ES–2012–0031, Division of Policy and Directives Management; U.S. Fish and Wildlife Service; 4401 North Fairfax Drive, Suite 222, Arlington, VA 22203.  All comments, including personal information, will be available on [http://www.regulations.gov](http://www.regulations.gov/).
 
 Public hearings on this proposal must be requested by November 30, 2012, within 45 days of this announcement.   Please contact Mr. Chris Davidson, Arkansas Ecological Services Field Office, 110 South Amity Road, Suite 300, Conway, Arkansas 72032, telephone 501/513-4470.
 

@@ -8,17 +8,17 @@ hero:
     link: 'https://flic.kr/p/84HicP'
     caption: 'Brown pelicans sitting on nests at Breton Island National Wildlife Refuge. Photo by Greg Thompson, USFWS.'
 tags:
-    - 'Brown pelican'
-    - Delist
-    - Recovery
     - Alabama
+    - 'Brown Pelican'
+    - Delist
     - Florida
     - Georgia
-    - 'Puerto Rico'
     - Louisiana
-    - Lafayette
-    - US Virgin Islands
-updated: 'October 3rd, 2016'
+    - 'Louisiana Ecological Services Field Office'
+    - 'Puerto Rico'
+    - Recovery
+    - 'US Virgin Islands'
+updated: 'May 7th, 2018'
 ---
 
 **WASHINGTON, D.C.** - Secretary of the Interior Ken Salazar, Assistant Secretary for Fish and Wildlife and Parks Tom Strickland and U.S. Fish and Wildlife Service Director Sam Hamilton today announced that the brown pelican, a species once decimated by the pesticide DDT, has recovered and is being removed from the list of threatened and endangered species under the Endangered Species Act.
@@ -49,7 +49,9 @@ The monitoring will be done in cooperation with the State resource agencies, the
 
 The final rule removing the bird from the list of threatened and endangered species will be published in the Federal Register and will take effect 30 days after publication.
 
-[^1]: November 7, 2017 update: The refuge system has grown to more than 566 national wildlife refuges spanning approximately 100 million acres of lands and 750 million acres of oceans in the United States.
+[^1]:
+
+  November 7, 2017 update: The refuge system has grown to more than 566 national wildlife refuges spanning approximately 100 million acres of lands and 750 million acres of oceans in the United States.
 
 ## Contact
 

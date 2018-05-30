@@ -7,17 +7,17 @@ hero:
     link: 'https://flic.kr/p/bryvJt'
     caption: 'Two juvenile Whooping cranes released from their holding pen fly around on Wheeler National Wildlife Refuge, Decatur, AL. Photo by Bill Gates, USFWS.'
 tags:
-    - 'Whooping crane'
-    - NWRS
     - Alabama
     - Florida
     - Georgia
-    - Lafayette
     - Louisiana
+    - 'Louisiana Ecological Services Field Office'
+    - NWRS
     - 'North Carolina'
-    - South Carolina
+    - 'South Carolina'
     - Tennessee
-updated: 'October 3rd, 2016'
+    - 'Whooping Crane'
+updated: 'May 7th, 2018'
 ---
 
 The nine whooping cranes led by ultralight aircraft have been released from a holding pen at [Wheeler National Wildlife Refuge](http://www.fws.gov/wheeler/) after Whooping Crane Eastern Partnership biologists attached marking bands and transmitters to help track their movements.
@@ -26,9 +26,9 @@ The nine whooping cranes led by ultralight aircraft have been released from a ho
 
 Gates said most of the cranes came out of the pen this morning and were foraging nearby.
 
-[Operation Migration](http://www.operationmigration.org/ "Link to non-FWS site")’s Brooke Penneypacker, in whooping crane attire, was encouraging them to fly, and several have taken wing on short flights.
+[Operation Migration](http://www.operationmigration.org/ 'Link to non-FWS site')’s Brooke Penneypacker, in whooping crane attire, was encouraging them to fly, and several have taken wing on short flights.
 
-Eva Szyszkoski, from the [International Crane Foundation](http://www.savingcranes.org/ "Link to non-FWS site"), hopes the young cranes will link up with sandhill cranes and three whooping cranes about 400-500 yards from the pen site. She has been tracking the whooping cranes on this project for the past five years. There are four other whooping cranes also at the refuge in other areas.
+Eva Szyszkoski, from the [International Crane Foundation](http://www.savingcranes.org/ 'Link to non-FWS site'), hopes the young cranes will link up with sandhill cranes and three whooping cranes about 400-500 yards from the pen site. She has been tracking the whooping cranes on this project for the past five years. There are four other whooping cranes also at the refuge in other areas.
 
 The original plan when the migration began on October 9, 2011, was to have the pilots of Operation Migration guide the cranes to [St. Marks](http://www.fws.gov/saintmarks/) and [Chassahowitzka](http://www.fws.gov/chassahowitzka/) National Wildlife Refuges in Florida. While it is sometimes difficult to interpret why birds do what they do, they did not follow the ultralights further south from Alabama, where they had waited as weather and issues with the FAA grounded them for over a month. The FAA later provided a waiver for the pilots, but weather, then the cranes, did not cooperate.
 

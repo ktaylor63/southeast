@@ -6,14 +6,14 @@ hero:
     alt: 'An injured bald eagle crouched in a field.'
     caption: 'The gunshot wounds to the eagle were too severe for survival so this representative of our national symbol had to be euthanized. Photo by Adam Caughern.'
 tags:
-    - Reward
     - 'Bald Eagle'
-    - Lafayette
     - Louisiana
-updated: 'October 20th, 2016'
+    - 'Louisiana Ecological Services Field Office'
+    - Reward
+updated: 'May 7th, 2018'
 ---
 
-**SHREVEPORT, LA** - The U.S. Fish and Wildlife Service and the Louisiana Department of Wildlife and Fisheries are seeking information on the shooting of a bald eagle that was found near Cavett River Road in Gilliam, Louisiana.   
+**SHREVEPORT, LA** - The U.S. Fish and Wildlife Service and the Louisiana Department of Wildlife and Fisheries are seeking information on the shooting of a bald eagle that was found near Cavett River Road in Gilliam, Louisiana.
 
 The Humane Society of the United States, The Humane Society Wildlife Land Trust, and the U.S. Fish and Wildlife Service are offering a reward of up to $7,500 for information leading to a conviction of the person or persons responsible for this unlawful act.
 

@@ -7,14 +7,14 @@ hero:
     link: 'https://flic.kr/p/jPjf9e'
     caption: 'Shovelnose sturgeon. Photo by Eli Cureton, USFWS.'
 tags:
-    - 'Shovelnose sturgeon'
     - Arkansas
-    - Lafayette
-    - Louisiana
-    - Mississippi
     - Kentucky
+    - Louisiana
+    - 'Louisiana Ecological Services Field Office'
+    - Mississippi
+    - 'Shovelnose Sturgeon'
     - Tennessee
-updated: 'October 20th, 2016'
+updated: 'May 7th, 2018'
 ---
 
 The Fish and Wildlife Service (Service) is proposing to treat the shovelnose sturgeon as a threatened species under the Endangered Species Act (Act) due to its similarity of appearance to the endangered pallid sturgeon. The Service is also proposing a special rule that would prohibit harvest of flesh or roe of shovelnose sturgeon and shovelnose–pallid sturgeon hybrids when associated with a commercial fishing activity.
@@ -37,7 +37,7 @@ This proposed rule is not expected to impact recreational fishing or other non-c
 
 Section 4(e) of the Endangered Species Act authorizes the treatment of a species as endangered or threatened if (a) the species so closely resembles in appearance a listed species that law enforcement personnel would have substantial difficulty in attempting to differentiate between the listed and unlisted species; (b) the effects of this substantial difficulty is an additional threat to an endangered or threatened species; and (c) such treatment of an unlisted species will substantially facilitate the enforcement and further purposes of the Act. With regard to the shovelnose sturgeon, the Service believes each of these factors applies.
 
-This proposal is published in today’s *Federal Register*.
+This proposal is published in today’s _Federal Register_.
 
 ## Contact
 

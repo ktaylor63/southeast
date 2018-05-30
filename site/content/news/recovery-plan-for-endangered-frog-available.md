@@ -7,13 +7,13 @@ hero:
     link: 'https://flic.kr/p/ehrcz3'
     caption: 'Mississippi gopher frog. Photo by John A. Tupy, Western Carolina University.'
 tags:
-    - Recovery
-    - 'Dusky gopher frog'
-    - Mississippi
     - Alabama
-    - Lafayette
+    - 'Dusky Gopher Frog'
     - Louisiana
-updated: 'October 20th, 2016'
+    - 'Louisiana Ecological Services Field Office'
+    - Mississippi
+    - Recovery
+updated: 'May 7th, 2018'
 ---
 
 The U.S. Fish and Wildlife Service is announcing the availability of the final recovery plan for the dusky gopher frog, federally listed as endangered.
@@ -34,7 +34,7 @@ As presented in the recovery plan, the six genetically viable populations across
 
 The dusky gopher frog’s disappearance from much of its historical range was primarily due to habitat destruction and alteration of the frog’s longleaf pine upland and breeding habitats.  Continuing threats to the species’ habitat include fire suppression and habitat modification due to land uses, such as urbanization, forestry and agriculture.  Additionally, small population sizes and vulnerability to catastrophic events, such as droughts, threaten the frog.
 
-To view the recovery plan on the web, please visit_ [http://www.fws.gov/endangered/species/recovery-plans.html](http://www.fws.gov/endangered/species/recovery-plans.html).  Request a paper copy of the plan by contacting the Service’s Mississippi Ecological Services Field Office at 601-321-1126.
+To view the recovery plan on the web, please visit\_ [http://www.fws.gov/endangered/species/recovery-plans.html](http://www.fws.gov/endangered/species/recovery-plans.html).  Request a paper copy of the plan by contacting the Service’s Mississippi Ecological Services Field Office at 601-321-1126.
 
 ## Contact
 

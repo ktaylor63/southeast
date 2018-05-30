@@ -8,17 +8,17 @@ hero:
     link: 'https://flic.kr/p/tJrJXf'
     caption: 'A monarch butterfly on a purple plant with bright colors in the background. Photo by Christine Lisiewski.'
 tags:
-    - At-Risk Species
-    - Monarch
-    - Grants
+    - Alabama
+    - 'At-Risk Species'
     - Florida
     - Georgia
-    - Alabama
-    - Lafayette
+    - Grants
     - Louisiana
+    - 'Louisiana Ecological Services Field Office'
     - Mississippi
+    - Monarch
     - 'South Carolina'
-updated: 'October 21st, 2016'
+updated: 'May 7th, 2018'
 ---
 
 **Washington, D.C.** –The monarch butterfly, Topeka shiner and gopher tortoise are among the imperiled species that will benefit from $5.7 million in grants to 11 states through the U.S. Fish and Wildlife Service’s Competitive State Wildlife Grants program. The grants focus on large-scale conservation projects to conserve and recover species of greatest conservation need and their habitats. They will be matched by more than $2.9 million in non-federal funds from states and their partners.

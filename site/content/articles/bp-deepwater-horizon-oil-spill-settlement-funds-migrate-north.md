@@ -8,9 +8,10 @@ hero:
     caption: 'The Prairie pothole region is also known as the "Duck Factory".  Photo by Krista Lundgren, USFWS.'
 tags:
     - Gulf
-    - Lafayette
+    - Louisiana
+    - 'Louisiana Ecological Services Field Office'
     - 'Oil Spill'
-updated: 'April 7th, 2017'
+updated: 'May 7th, 2018'
 ---
 
 Most of us, if given a choice, would steer clear of potholes. Many migratory birds, however, actively seek out potholes -- provided you’re talking about the thousands of temporary, seasonal, and semi- permanent wetlands wetlands known as “potholes” that are found in the prairies of the Northern Great Plains. Despite their importance to wildlife, these shallow wetland “potholes” are often drained, filled, or degraded by development and agricultural practices. With its mission focus on wetlands restoration and conservation, the Service naturally has placed a priority on enhancing, restoring and acquiring bird habitat in what’s known as the Prairie Pothole Region. What might come as a surprise, however, is that projects in the region are being funded with legal settlement money from the 2010 oil spill that took place in the Gulf of Mexico.

@@ -9,8 +9,8 @@ tags:
     - 'Five Year Review'
     - Florida
     - Georgia
-    - Lafayette
     - Louisiana
+    - 'Louisiana Ecological Services Field Office'
     - Mississippi
     - 'North Carolina'
     - 'Panama City'
@@ -20,19 +20,20 @@ hero:
     alt: 'A small mouse white white belly and sand-colored back hides behind beach vegetation.'
     link: 'https://flic.kr/p/8FgBkX'
     caption: 'Alabama beach mouse. Photo by USFWS.'
-updated: 'August 31st, 2017'
+updated: 'May 7th, 2018'
 ---
+
 The U.S. Fish and Wildlife Service will conduct five-year status reviews of 15 endangered and seven threatened species occurring across the southeastern United States.  The public is invited to provide information and comments concerning these species on or before October 31, 2016.
 
-These reviews will ensure listing classifications under the Endangered Species Act (ESA) reflect the latest available information and data.  In addition to reviewing the classification of these species, a five-year review presents an opportunity to track the species’ recovery progress, and may benefit species by providing valuable information to guide future conservation efforts.  
+These reviews will ensure listing classifications under the Endangered Species Act (ESA) reflect the latest available information and data.  In addition to reviewing the classification of these species, a five-year review presents an opportunity to track the species’ recovery progress, and may benefit species by providing valuable information to guide future conservation efforts.
 
 Information gathered during a review can influence funding decisions, considerations related to reclassifying species status, conducting interagency consultations, making permitting decisions, and determining whether to update recovery plans and other actions.
 
-The  notice covers 15 endangered mussels, mice, plants, snails, a fish, and a woodrat listed here:  Alabama beach mouse, Choctawhatchee beach mouse, Key Largo woodrat, Boulder darter, Oyster mussel, Turgid blossom, Georgia pigtoe, Interrupted rocksnail, Rough hornsnail, Alabama leather flower, Appalachicola rosemary, Crenulate lead-plant, Black-spored quillwort, Mat-forming quillwort,andGentian pinkroot.  
+The  notice covers 15 endangered mussels, mice, plants, snails, a fish, and a woodrat listed here:  Alabama beach mouse, Choctawhatchee beach mouse, Key Largo woodrat, Boulder darter, Oyster mussel, Turgid blossom, Georgia pigtoe, Interrupted rocksnail, Rough hornsnail, Alabama leather flower, Appalachicola rosemary, Crenulate lead-plant, Black-spored quillwort, Mat-forming quillwort,andGentian pinkroot.
 
 It also includes seven threatened species including a mussel, a snail, and plants identified here:  Louisiana pearlshell, Tulotoma snail, Little amphianthus, Lyrate bladderpod, Godfrey’s butterwort, Garber’s spurge, and Seabeach amaranth.
 
-Specifically, this review seeks information on: (1) species biology, including population trends, distribution, abundance, demographics, and genetics; (2) habitat conditions, including amount, distribution, and suitability; (3) conservation measures that have been implemented; (4) threat status and trends; and, (5) other new information, data, or corrections, including taxonomic or nomenclatural changes; identification of erroneous information contained in the ESA list; and improved analytical methods.  
+Specifically, this review seeks information on: (1) species biology, including population trends, distribution, abundance, demographics, and genetics; (2) habitat conditions, including amount, distribution, and suitability; (3) conservation measures that have been implemented; (4) threat status and trends; and, (5) other new information, data, or corrections, including taxonomic or nomenclatural changes; identification of erroneous information contained in the ESA list; and improved analytical methods.
 
 Comments and materials received will be available for public inspection by appointment.
 
@@ -52,7 +53,7 @@ Panama City Ecological Services Field Office, U.S. Fish and Wildlife Service, 16
 
 ### Key Largo woodrat
 
-South Florida Ecological Services Field Office, U.S. Fish and Wildlife Service, 1339 20th Street, Vero Beach, Florida, 32960; fax 772-469-4265.  For information, contact Sandra Sneckenberger at the Ecological Services Field Office by telephone at 772-469-4321, or by e-mail at [sandra_sneckenberger@fws.gov](mailto:sandra_sneckenberger@fws.gov).   
+South Florida Ecological Services Field Office, U.S. Fish and Wildlife Service, 1339 20th Street, Vero Beach, Florida, 32960; fax 772-469-4265.  For information, contact Sandra Sneckenberger at the Ecological Services Field Office by telephone at 772-469-4321, or by e-mail at [sandra_sneckenberger@fws.gov](mailto:sandra_sneckenberger@fws.gov).
 
 ## Fishes, Clams, and Snails
 

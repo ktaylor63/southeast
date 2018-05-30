@@ -7,14 +7,14 @@ hero:
     link: 'https://flic.kr/p/9jamnr'
     caption: 'Long-necked and slim, the Northern Pintail is a graceful, elegant bird. Photo by Dan Cox, USFWS.'
 tags:
-    - Grants
     - Arkansas
     - Florida
-    - Lafayette
+    - Grants
     - Louisiana
+    - 'Louisiana Ecological Services Field Office'
     - Mississippi
-    - South Carolina
-updated: 'October 20th, 2016'
+    - 'South Carolina'
+updated: 'May 7th, 2018'
 ---
 
 Secretary of the Interior Ken Salazar announced on September 9, 2009, the Migratory Bird Conservation Commission has approved the expenditure of nearly $8 million in Federal Duck Stamp funds to add more than 4,000 wetland acres to seven units of the National Wildlife Refuge System. The Commission also approved $33.4 million in federal funding to conserve more than 190,000 acres of wetlands and associated habitat in the United States under the North American Wetlands Conservation Act (NAWCA).
@@ -73,14 +73,14 @@ $7,696: The project’s second phase protects five tracts, including wetlands an
 
 The Commission also approved the purchase of wetlands that will be added to seven units of the National Wildlife Refuge System to secure breeding, resting, and feeding habitat. These acquisitions include:
 
-- Tulare Basin Wildlife Management Area, Kern and Tulare Counties, CaliforniaAcquisition of 1,042 acres of easement to protect wetlands and uplands to stop the gradual erosion of habitat and to support Central Valley and Pacific Flyway waterfowl populations.
-- Blackwater National Wildlife Refuge, Dorchester County, Maryland – Acquisition of 823 acres to preserve marsh, shoreline, wooded swamp and forested upland habitat for migratory waterfowl.
-- Bombay Hook National Wildlife Refuge, Kent County, Delaware – Acquisition of 273 acres to promote and enhance habitat for a diversity of waterfowl, particularly American black ducks.
-- Silvio O. Conte National Wildlife Refuge, Pondicherry and Mohawk River Divisions, Coos County, New Hampshire – Acquisition of 761 acres to preserve and protect important migratory waterfowl and provide feeding, nesting, and resting habitat.
-- Bear River National Wildlife Refuge, Box Elder County, Utah – Acquisition of 700 acres to allow for more efficient use of water resources on adjacent refuge lands which are critical for managing wetland habitat for migratory waterfowl.
-- Lake Umbagog National Wildlife Refuge, Coos County, New Hampshire and Oxford County, Maine – Acquisition of 430 acres of old river channels, oxbow ponds, marsh backwaters and bordering shrub to provide nesting and brood-rearing habitat for migratory waterfowl.
-- Lost Trail National Wildlife Refuge, Flathead County, Montana – Renewal of the lease of 240 acres from the State of Montana for the protection and management of wetland and riparian habitat for waterfowl and other migratory birds.
-- These acquisitions are funded with the proceeds from sales of the . The website provides waterfowl enthusiasts, biologists and agency administrators with the most up-to-date waterfowl habitat and waterfowl population information.
+* Tulare Basin Wildlife Management Area, Kern and Tulare Counties, CaliforniaAcquisition of 1,042 acres of easement to protect wetlands and uplands to stop the gradual erosion of habitat and to support Central Valley and Pacific Flyway waterfowl populations.
+* Blackwater National Wildlife Refuge, Dorchester County, Maryland – Acquisition of 823 acres to preserve marsh, shoreline, wooded swamp and forested upland habitat for migratory waterfowl.
+* Bombay Hook National Wildlife Refuge, Kent County, Delaware – Acquisition of 273 acres to promote and enhance habitat for a diversity of waterfowl, particularly American black ducks.
+* Silvio O. Conte National Wildlife Refuge, Pondicherry and Mohawk River Divisions, Coos County, New Hampshire – Acquisition of 761 acres to preserve and protect important migratory waterfowl and provide feeding, nesting, and resting habitat.
+* Bear River National Wildlife Refuge, Box Elder County, Utah – Acquisition of 700 acres to allow for more efficient use of water resources on adjacent refuge lands which are critical for managing wetland habitat for migratory waterfowl.
+* Lake Umbagog National Wildlife Refuge, Coos County, New Hampshire and Oxford County, Maine – Acquisition of 430 acres of old river channels, oxbow ponds, marsh backwaters and bordering shrub to provide nesting and brood-rearing habitat for migratory waterfowl.
+* Lost Trail National Wildlife Refuge, Flathead County, Montana – Renewal of the lease of 240 acres from the State of Montana for the protection and management of wetland and riparian habitat for waterfowl and other migratory birds.
+* These acquisitions are funded with the proceeds from sales of the . The website provides waterfowl enthusiasts, biologists and agency administrators with the most up-to-date waterfowl habitat and waterfowl population information.
 
 ## Contact
 

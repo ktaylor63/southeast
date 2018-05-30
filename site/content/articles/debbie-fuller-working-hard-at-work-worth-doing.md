@@ -5,9 +5,9 @@ lat: 30.224271
 lng: -92.044098
 tags:
     - Employees
-    - Lafayette
     - Louisiana
     - 'Louisiana Black Bear'
+    - 'Louisiana Ecological Services Field Office'
     - Recovery
 hero:
     name: louisiana-black-bear-cubs-three.jpg
@@ -16,7 +16,7 @@ hero:
     caption: 'Louisiana black bear cubs. Photo by Brad Young, Mississippi Department of Wildlife, Fisheries and Parks.'
 author: 'Nadine Siak, USFWS Gulf Restoration Program'
 date: '2016-03-10'
-updated: 'December 28th, 2017'
+updated: 'May 7th, 2018'
 ---
 
 {{< figure class="photo" src="/images/pages/louisiana-black-bear-debbie-fuller.jpg" alt="Debbie fuller holding a Louisiana black bear cub" caption="The Service’s Debbie Fuller holding a Louisiana black bear cub and enjoying one of those moments that “makes all the paperwork worth it.” Photo by USFWS." >}}

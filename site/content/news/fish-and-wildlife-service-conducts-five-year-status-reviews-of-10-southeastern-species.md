@@ -8,15 +8,15 @@ hero:
 date: '2010-04-09'
 tags:
     - Alabama
-    - 'Mississippi Sandhill Crane'
     - 'Alabama Lampmussel'
-    - Pondberry
-    - 'Louisiana Quillwort'
-    - Lafayette
     - Louisiana
+    - 'Louisiana Ecological Services Field Office'
+    - 'Louisiana Quillwort'
     - Mississippi
-    - 'Yellow-blotched Map Turtle'
-updated: 'October 6th, 2016'
+    - 'Mississippi Sandhill Crane'
+    - Pondberry
+    - 'Yellow-Blotched Map Turtle'
+updated: 'May 7th, 2018'
 ---
 
 The U.S. Fish and Wildlife Service plans to conduct five-year status reviews of seven endangered and three threatened species occurring in one or more of 10 states.
@@ -25,14 +25,11 @@ These five-year reviews are conducted to ensure that listing classifications und
 
 This notice covers the following seven species federally listed as endangered:
 
- -[Mississippi sandhill crane](https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B04I)
- -[Alabama lampmussel](https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F00A)
- -[Pondberry](https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=Q2CO)
- -[Louisiana quillwort](https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=S00T)
+-[Mississippi sandhill crane](https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B04I) -[Alabama lampmussel](https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F00A) -[Pondberry](https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=Q2CO) -[Louisiana quillwort](https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=S00T)
 
 This notice also announces our active review of three species that are currently listed as threatened:
 
- - [Yellow-blotched map turtle](https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=C025)
+* [Yellow-blotched map turtle](https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=C025)
 
 Specifically, this review seeks information on: (1) species biology, including population trends, distribution, abundance, demographics, and genetics; (2) habitat conditions, including amount, distribution, and suitability; (3) conservation measures that have been implemented; (4) threat status and trends; and (5) other new information, data, or corrections, including taxonomic or nomenclatural changes; identification of erroneous information contained in the ESA list; and improved analytical methods. Comments and materials received will be available for public inspection by appointment.
 

@@ -11,6 +11,7 @@ tags:
     - 'Rusty Patched Bumble Bee'
     - 'South Carolina'
     - Tennessee
+    - Tennessee Ecological Services Field Office
 hero:
     name: rusty-patched-bumble-bee.jpg
     alt: 'A yellow and black bumble bee perched on a white flower.'
@@ -41,12 +42,12 @@ Rusty patched bumble bee colonies rely on survival of their queen bee, the only 
 
 More information about the rusty patched bumble bee, the rule listing it as endangered, and ways to help this species and other pollinators is available at https://www.fws.gov/midwest/endangered/insects/rpbb/.
 
-The final rule listing the rusty patched bumble bee as endangered appears in the January 11, 2017 *Federal Register* and takes effect on February 10, 2017.
+The final rule listing the rusty patched bumble bee as endangered appears in the January 11, 2017 _Federal Register_ and takes effect on February 10, 2017.
 
 ## Contacts
 
-  - [Georgia Parham](mailto:Georgia_Parham@fws.gov),  812-334-4261 x 1203
-  - [Tamara Smith](mailto:Tamara_Smith@fws.gov), 952-252-0092 ext. 219
-  - [Gary Peeples](mailto:Gary_Peeples@fws.gov), 828-258-3939, ext.234 (NC and TN, KY and GA historic populations)
-  - [Jennifer Koches](mailto:Jennifer_Koches@fws.gov), 843-727-4707, ext. 214 (SC historic population)
-  - [Lilibeth Serrano](mailto:Lilibeth_Serrano@fws.gov), 252-933-2255 (eastern NC historic population)
+* [Georgia Parham](mailto:Georgia_Parham@fws.gov), 812-334-4261 x 1203
+* [Tamara Smith](mailto:Tamara_Smith@fws.gov), 952-252-0092 ext. 219
+* [Gary Peeples](mailto:Gary_Peeples@fws.gov), 828-258-3939, ext.234 (NC and TN, KY and GA historic populations)
+* [Jennifer Koches](mailto:Jennifer_Koches@fws.gov), 843-727-4707, ext. 214 (SC historic population)
+* [Lilibeth Serrano](mailto:Lilibeth_Serrano@fws.gov), 252-933-2255 (eastern NC historic population)

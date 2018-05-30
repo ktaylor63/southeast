@@ -8,14 +8,14 @@ type: 'Bragging Rights'
 tags:
     - 'Bragging Rights'
     - E-Grits
-    - Lafayette
     - Louisiana
+    - 'Louisiana Ecological Services Field Office'
     - 'Whooping Crane'
 hero:
     name: whooping-crane-release-in-louisiana.jpg
     alt: 'Biologists wearing white gowns head-to-toe walking through nets in a marsh holding whooping cranes.'
     caption: 'Biologists tend to whooping cranes in one of the release pens at White Lake Wetlands Conservation Area. Photo by Louisiana Department of Wildlife and Fisheries.'
-updated: 'May 4th, 2017'
+updated: 'May 7th, 2018'
 ---
 
 The whooping crane reintroduction effort is well underway in southwestern Louisiana. Since 2011, 10-16 hatched juveniles have been released annually here into the non-essential experimental population (NEP). The original release pens are located at White Lake Wetlands Conservation Area, and in 2016 a new release area was added 19 miles to the south at Rockefeller Wildlife Refuge. The expanded release areas allow the NEP to receive more juvenile cranes for release into the wild. This will bring us closer to the recovery plan’s goal of achieving a self-sustaining population of 25 breeding pairs for 10 years.

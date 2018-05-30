@@ -8,12 +8,12 @@ hero:
     link: 'https://flic.kr/p/bECJNP'
     caption: 'Louisiana black bear cubs. Photo by Brad Young, Mississippi Department of Wildlife, Fisheries and Parks.'
 tags:
-    - Recovery
-    - Lafayette
-    - 'Louisiana Black Bear'
     - Louisiana
+    - 'Louisiana Black Bear'
+    - 'Louisiana Ecological Services Field Office'
     - Mississippi
-updated: 'October 20th, 2016'
+    - Recovery
+updated: 'May 7th, 2018'
 ---
 
 **BATON ROUGE, LA** – Thanks to a highly successful public-private partnership spanning more than two decades, U.S. Secretary of the Interior Sally Jewell and Louisiana Governor Bobby Jindal announced today that the U.S. Fish and Wildlife Service is proposing to remove the [Louisiana black bear](/wildlife/mammals/louisiana-black-bear/) – the inspiration for the “Teddy Bear” – from the list of threatened and endangered species under the Endangered Species Act (ESA).
@@ -53,8 +53,8 @@ Phil Kloer, USFWS
 
 Shannon Bates, Governor’s Office  
 225-342-8006  
-[shannon.bates@la.gov](mailto:shannon.bates@la.gov)  
+[shannon.bates@la.gov](mailto:shannon.bates@la.gov)
 
 Bo Boehringer, LADWF  
-225-765-5115   
+225-765-5115
 [bboehringer@wlf.la.gov](mailto:bboehringer@wlf.la.gov)

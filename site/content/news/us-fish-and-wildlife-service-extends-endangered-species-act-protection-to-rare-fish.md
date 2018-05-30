@@ -10,16 +10,16 @@ hero:
 tags:
     - 'Endangered Species Act'
     - Louisiana
-    - Lafayette
+    - 'Louisiana Ecological Services Field Office'
     - Mississippi
     - 'Pearl Darter'
     - 'Pearl River'
-updated: 'September 19th, 2017'
+updated: 'May 7th, 2018'
 ---
 
 It has been more than 40 years since the Pearl darter – a small, snub-nosed fish – lived in the Pearl River system in Louisiana and Mississippi.  Today, it is only found in the Pascagoula River system in Mississippi and poor water quality is taking a toll on the tiny fish.
 
-To safeguard this species, the Service has added the Pearl darter to the list of protected wildlife under the Endangered Species Act (ESA).  Following a rigorous evaluation of the best science available on the fish, it is listed as a threatened species, which means it is considered likely to become endangered within the foreseeable future.  The Pearl darter’s listing will help spur attention to the threats it faces and focus resources and partnerships on its recovery. The listing will become effective on October 20, 2017, 30 days after publication of this final determination in the *Federal Register*.
+To safeguard this species, the Service has added the Pearl darter to the list of protected wildlife under the Endangered Species Act (ESA).  Following a rigorous evaluation of the best science available on the fish, it is listed as a threatened species, which means it is considered likely to become endangered within the foreseeable future.  The Pearl darter’s listing will help spur attention to the threats it faces and focus resources and partnerships on its recovery. The listing will become effective on October 20, 2017, 30 days after publication of this final determination in the _Federal Register_.
 
 “In this review we note the improvements and progress land and timber managers are making in Mississippi by incorporating certified best management practices into their operations,” said Mike Oetker, acting regional director for the U.S. Fish and Wildlife Service’s Southeast region. “They help minimize impacts on the darter’s habitat, ensure cleaner water, and keep working lands working.”
 

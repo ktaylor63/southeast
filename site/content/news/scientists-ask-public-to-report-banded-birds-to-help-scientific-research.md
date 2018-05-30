@@ -7,9 +7,9 @@ hero:
     link: 'https://flic.kr/p/8Dc2bJ'
     caption: 'Brown pelicans flying near Queen Bess Island off Grand Isle, LA during BP oil spill response.  Photo by Tom MacKenzie USFWS.'
 tags:
-    - Lafayette
     - Louisiana
-updated: 'October 20th, 2016'
+    - 'Louisiana Ecological Services Field Office'
+updated: 'May 7th, 2018'
 ---
 
 **Houma, Louisiana** - With large numbers of birds being rescued, treated, and relocated in the Gulf States as a result of the BP oil spill, people seeing banded birds are asked to report sightings. As part of this unprecedented unified response to the BP oil spill, we are asking the public to help report oiled wildlife, as well. A large percentage of captured birds are being successfully treated and released back into the wild. These birds are being fitted with leg bands that provide identifying information to assist Federal scientists from the U.S. Fish and Wildlife Service, U.S. Geological Survey and other organizations in studying these birds after release.
@@ -22,8 +22,8 @@ All birds released from rehabilitation are banded for identification purposes. U
 
 Birds from the BP oil spill are banded with metal federal leg bands with a unique ID number. In addition, brown pelicans also receive a large color leg band. Three colors of leg bands are being used:
 
-- Red bands with identifying numbers and letters.
-- Pink bands with identifying numbers and letters.
+* Red bands with identifying numbers and letters.
+* Pink bands with identifying numbers and letters.
 
 People who see the birds are asked to report sightings to the National Bird Banding Lab online: [pwrc.usgs.gov/bbl/](https://www.pwrc.usgs.gov/bbl/) Reporting the band number and the bird’s location will help biologists understand the movements and survival of the birds after their release.
 

@@ -4,15 +4,15 @@ description: 'A U.S. Fish and Wildlife Service biologist-turned-project leader r
 tags:
     - Arkansas
     - Employees
-    - Lafayette
     - Louisiana
     - 'Louisiana Black Bear'
+    - 'Louisiana Ecological Services Field Office'
     - 'National Wildlife Refuge System'
     - Recovery
     - 'Tensas River'
 author: 'Nadine Siak, USFWS Gulf Restoration Program'
 date: '2016-03-10'
-updated: 'April 20th, 2017'
+updated: 'May 7th, 2018'
 ---
 
 {{< figure class="photo" src="/images/pages/louisiana-black-bear-keith-weaver.jpg" alt="Keith Weaver posing for a photo in uniform in front of a mountainous landscape" caption="The Service’s Keith Weaver enjoys time in the great outdoors, away from the trappings of modern office life." >}}
@@ -33,7 +33,7 @@ In fact, between 1988 and 1991, Weaver and his colleagues trapped, released, and
 
 Weaver confesses that, although it’s frowned upon in some scientific circles, he and his co-workers gave the bears names in alphabetic order, by when they were trapped. His favorites were “Betty Bear,” and “Xeres” -- the last one caught. They never made it to Z.
 
-Even though almost 30 years have passed, Weaver remembers how he felt catching  the first bear for the endangered status assessment.
+Even though almost 30 years have passed, Weaver remembers how he felt catching the first bear for the endangered status assessment.
 
 “We’d been trying to trap a bear for about a week, without any luck,” he says. “We had had a couple of snares that had been sprung, so we were a bit discouraged. And, of course, expectations were high. People were waiting. The pressure was on.”
 

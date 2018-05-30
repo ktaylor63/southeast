@@ -7,12 +7,12 @@ hero:
     link: 'https://flic.kr/p/61DaUQ'
     caption: 'Pearl darter. Photo by Conservation Fisheries, Inc.'
     position: 'top left'
-updated: 'November 9th, 2016'
+updated: 'May 7th, 2018'
 tags:
     - 'Endangered Species Act'
-    - Mississippi
-    - Lafayette
     - Louisiana
+    - 'Louisiana Ecological Services Field Office'
+    - Mississippi
 ---
 
 The U.S. Fish and Wildlife Service has determined the pearl darter is likely to be at risk of becoming endangered within the foreseeable future throughout all or a significant portion of its range. Therefore, the Service proposes to add this small, snub-nosed fish to the list of protected wildlife as threatened under the Endangered Species Act (ESA).
@@ -25,7 +25,7 @@ Historically, the pearl darter was found in 16 parishes and counties in northeas
 
 Currently, the pearl darter only lives in the Pascagoula River drainage of southeast Mississippi, occurring sporadically within about 279 miles within the Pascagoula, Bouie, Leaf, Chickasawhay, and Chunky rivers, and Okatoma and Black creeks.  Reproducing populations have been documented in recent years in the Leaf and Chickasawhay rivers and populations in the Pascagoula River appear stable.  However, collections have been sparse in the remaining drainages, and consequently, the pearl darter’s present population status in those drainages is mostly unknown.
 
-The Service assessed the best available scientific and commercial data regarding its status, along with present and future threats to the species and recommends listing the pearl darter as threatened.  The primary danger to this fish is water quality degradation caused by pollution.  
+The Service assessed the best available scientific and commercial data regarding its status, along with present and future threats to the species and recommends listing the pearl darter as threatened.  The primary danger to this fish is water quality degradation caused by pollution.
 
 The pearl darter occupies much of the same area as two other listed species, the threatened Gulf sturgeon and yellow-blotched map turtle.  Several state-owned wildlife management areas and lands owned by The Nature Conservancy protect a small portion of the shoreline within the darter’s range, as well as parcels of uplands within the drainage basin.
 
@@ -37,8 +37,8 @@ The public is invited to provide new information on the pearl darter, as well as
 
 Comments may be submitted by one of the two following methods:
 
-1.  Electronically:  Go to the Federal eRulemaking Portal: [regulations.gov](https://www.regulations.gov/document?D=FWS-R4-ES-2016-0037-0013)   In the Search box, enter FWS–R4–ES–2016–0037, which is the docket number for this rulemaking.  Then, in the Search panel on the left side of the screen, under the Document Type heading, click on the Proposed Rules link to locate this document.  You may submit a comment by clicking on “Comment Now!”
-2.  By hard copy:  Submit by U.S. mail or hand-delivery to:  Public Comments Processing, Attn: FWS–R4–ES–2016–0037; U.S. Fish & Wildlife Headquarters, MS: BPHC, 5275 Leesburg Pike, Falls Church, VA 22041-3803.
+1.  Electronically:  Go to the Federal eRulemaking Portal: [regulations.gov](https://www.regulations.gov/document?D=FWS-R4-ES-2016-0037-0013)   In the Search box, enter FWS–R4–ES–2016–0037, which is the docket number for this rulemaking.  Then, in the Search panel on the left side of the screen, under the Document Type heading, click on the Proposed Rules link to locate this document.  You may submit a comment by clicking on “Comment Now!”
+2.  By hard copy:  Submit by U.S. mail or hand-delivery to:  Public Comments Processing, Attn: FWS–R4–ES–2016–0037; U.S. Fish & Wildlife Headquarters, MS: BPHC, 5275 Leesburg Pike, Falls Church, VA 22041-3803.
 
 Only send comments by the methods described above.  All comments will be posted on [regulations.gov](https://www.regulations.gov/document?D=FWS-R4-ES-2016-0037-0013)  including any personal information provided.
 

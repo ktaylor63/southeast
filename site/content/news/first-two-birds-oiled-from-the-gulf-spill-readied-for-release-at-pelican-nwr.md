@@ -11,11 +11,11 @@ hero:
 tags:
     - 'Brown Pelican'
     - Florida
-    - Lafayette
     - Louisiana
+    - 'Louisiana Ecological Services Field Office'
     - 'Northern Gannet'
     - 'Oil Spill'
-updated: 'January 3rd, 2018'
+updated: 'May 7th, 2018'
 ---
 
 The first two oiled birds found in the Deepwater Horizon oil spill have been cleaned and are now recovered and ready for release.

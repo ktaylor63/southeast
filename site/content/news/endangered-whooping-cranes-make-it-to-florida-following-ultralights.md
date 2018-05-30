@@ -12,12 +12,13 @@ tags:
     - Florida
     - Georgia
     - Kentucky
-    - Lafayette
     - Louisiana
+    - 'Louisiana Ecological Services Field Office'
     - Tennessee
     - 'Whooping Crane'
-updated: 'January 3rd, 2018'
+updated: 'May 7th, 2018'
 ---
+
 Eight young whooping cranes that began their aircraft-led migration on October 2, 2013, from the White River Marsh State Wildlife Area in Green Lake County, Wisconsin, today made it to Leon County, Florida, their last layover before reaching their new winter home at St. Marks National Wildlife Refuge.
 
 Terry Peacock, refuge manager for St. Marks National Wildlife Refuge, says it is 70-80% likely that there will be a flyover at the City of St. Marks field tomorrow, Wed. Jan. 1, 2014.
@@ -54,8 +55,8 @@ To report whooping crane sightings, visit the WCEP whooping crane observation we
 
 ## Additional Resources
 
-- For more information on the project and its partners visit: [Bring back the cranes](http://www.bringbackthecranes.org/) , and [Operation migration](http://operationmigration.org/InTheField/)
-- [Whooping Crane, photo gallery](http://www.flickr.com/photos/usfwssoutheast/10961767675/)**
+* For more information on the project and its partners visit: [Bring back the cranes](http://www.bringbackthecranes.org/) , and [Operation migration](http://operationmigration.org/InTheField/)
+* [Whooping Crane, photo gallery](http://www.flickr.com/photos/usfwssoutheast/10961767675/)\*\*
 
 ## Contact
 

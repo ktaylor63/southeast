@@ -8,21 +8,21 @@ hero:
     link: 'https://flic.kr/p/8M7kX8'
 tags:
     - Alabama
+    - 'Caribbean Ecological Services Field Office'
     - 'Endangered Species Act'
     - Florida
     - Georgia
     - Gulf
-    - Lafayette
     - Louisiana
+    - 'Louisiana Ecological Services Field Office'
     - Manatee
     - Mississippi
     - 'Puerto Rico'
     - Raleigh
     - 'South Carolina'
     - 'US Virgin Islands'
-    - Caribbean Ecological Services Field Office
 date: '2017-03-30'
-updated: 'April 21st, 2017'
+updated: 'May 7th, 2018'
 ---
 
 [Read the release in Spanish](/pdf/espanol/manatee-reclassified-from-endangered-to-threatened-as-habitat-improves-and-population-expands-existing-federal-protections-remain-in-place.pdf).
@@ -44,13 +44,13 @@ Although the downlisting represents a milestone for the manatee, the agency unde
 
 Today’s estimated population of 6,620 Florida manatees is a dramatic turnaround from the 1970s, when just a few hundred individuals remained. Actions by the FWS, Florida Fish and Wildlife Conservation Commission (FWC), local communities, and industry on behalf of the manatee include:
 
-  - Retrofitting water control devices such as those found at locks and levees, resulting in significant decreases in manatee fatalities.
-  - Power companies working cooperatively with federal and state conservation managers to address future loss of warm water outflows where manatees winter.
-  - Florida counties implementing manatee protection plans and reducing boater impacts.
-  - Increasing manatee access to several Florida natural springs while establishing sanctuaries for the wintering manatees in those areas during winter cold snaps.
-  - FWS working with the U.S. Coast Guard and FWC to minimize manatee collisions with vessels during high­speed marine events and other activities.
-  - Fishing gear clean­up and recycling programs reducing the threat from fishing gear entanglements.
-  - Rescue, rehabilitation and release efforts that help save dozens of manatees annually.
+* Retrofitting water control devices such as those found at locks and levees, resulting in significant decreases in manatee fatalities.
+* Power companies working cooperatively with federal and state conservation managers to address future loss of warm water outflows where manatees winter.
+* Florida counties implementing manatee protection plans and reducing boater impacts.
+* Increasing manatee access to several Florida natural springs while establishing sanctuaries for the wintering manatees in those areas during winter cold snaps.
+* FWS working with the U.S. Coast Guard and FWC to minimize manatee collisions with vessels during high­speed marine events and other activities.
+* Fishing gear clean­up and recycling programs reducing the threat from fishing gear entanglements.
+* Rescue, rehabilitation and release efforts that help save dozens of manatees annually.
 
 Outside the United States, manatee population and abundance estimates are less certain. There are likely as many as 6,300 Antillean manatees spread over a much broader range, from the Mexican Gulf coast to northern Brazil and the Caribbean.
 

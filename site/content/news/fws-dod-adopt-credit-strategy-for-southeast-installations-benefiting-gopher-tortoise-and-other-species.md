@@ -11,10 +11,10 @@ tags:
     - Alabama
     - Georgia
     - 'Gopher Tortoise'
-    - Lafayette
+    - 'Louisiana Ecological Services Field Office'
     - Military
     - 'South Carolina'
-updated: 'April 7th, 2017'
+updated: 'May 7th, 2018'
 ---
 
 {{< figure class="photo-right" src="/images/pages/gopher-tortoise-crediting-strategy-signing.jpg" alt="Leaders from conservation agencies sign the new strategy." caption="From left to right: Rusty Garrison (GADNR), Kipp Frolich (FWC), Fred Harders (ALDCNR), Will Dillman (SCDNR), Ryan Orndorff (DoD), Cindy Dohner (USFWS). Photo by Chuck Underwood, USFWS." >}}
@@ -23,7 +23,7 @@ updated: 'April 7th, 2017'
 
 The Gopher Tortoise Conservation and Crediting Strategy – think of a savings account where the military can make deposits now (tortoise credits) that will be available for future use – will be officially unveiled at a ceremony in this Southwest Georgia community near the state’s newest WMA. The credit strategy was signed this morning in Tifton.
 
-The goal is to keep the tortoise from being listed under the Endangered Species Act, a designation that could complicate the military’s training or bombing exercises.  This strategy encourages conservation investments first that will help keep the tortoise off that list.  If it makes the list in the future, the credit strategy will allow the military to continue its mission without new conservation requirements because of those early deposits it already invested in voluntary conservation. 
+The goal is to keep the tortoise from being listed under the Endangered Species Act, a designation that could complicate the military’s training or bombing exercises.  This strategy encourages conservation investments first that will help keep the tortoise off that list.  If it makes the list in the future, the credit strategy will allow the military to continue its mission without new conservation requirements because of those early deposits it already invested in voluntary conservation.
 
 “It’s a unique approach to help the military balance mission activities with conservation responsibilities,” said Maureen Sullivan, Deputy Assistant Secretary of Defense for Environment, Safety and Occupational Health. “We hope this innovative approach can serve as a model for similar initiatives for other species and in other regions of the country.”
 

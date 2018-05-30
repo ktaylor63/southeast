@@ -7,16 +7,16 @@ hero:
     link: 'https://flic.kr/p/fF5CiY'
     caption: 'Red-cockaded woodpecker. Photo by Martjan Lammertink, U.S. Forest Service.'
 tags:
-    - 'Safe Harbor'
-    - 'Red-cockaded woodpecker'
     - Alabama
     - Florida
     - Georgia
-    - Lafayette
     - Louisiana
+    - 'Louisiana Ecological Services Field Office'
     - 'North Carolina'
-    - South Carolina
-updated: 'October 25th, 2016'
+    - 'Red-Cockaded Woodpecker'
+    - 'Safe Harbor'
+    - 'South Carolina'
+updated: 'May 7th, 2018'
 ---
 
 More than 400 private landowners across nine states are voluntarily managing their forests through the U.S. Fish and Wildlife Service’s Safe Harbor Program to benefit the endangered red-cockaded woodpecker.  The eight State agencies administering the program to landowners received special recognition this week at the Annual Conference of the Southeastern Association Fish and Wildlife Agencies meeting in Asheville, North Carolina.
@@ -31,17 +31,17 @@ Word of the Safe Harbor Program’s success with red-cockaded woodpecker conserv
 
 Landowners interested in red-cockaded woodpecker conservation through the Safe Harbor Program may contact the Service’s Red-cockaded Woodpecker Coordinator Will McDearman for information about the program in their state   His e-mail is [Will_McDearman@fws.gov](mailto:Will_McDearman@fws.gov), telephone:  601-321-1124.
 
-“We administer the program because of its importance to our landowners and the red-cockaded woodpecker; but, it also is beneficial to a wide variety of native wildlife and plants as well.” said Caroline Causey, South Carolina Department of Natural Resources Safe Harbor Program biologist. “Landowners agree to provide management that can include prescribed low-intensity fire, thinning dense forest stands, and controlling fire-intolerant hardwoods to maintain and restore the open pine forest.” 
+“We administer the program because of its importance to our landowners and the red-cockaded woodpecker; but, it also is beneficial to a wide variety of native wildlife and plants as well.” said Caroline Causey, South Carolina Department of Natural Resources Safe Harbor Program biologist. “Landowners agree to provide management that can include prescribed low-intensity fire, thinning dense forest stands, and controlling fire-intolerant hardwoods to maintain and restore the open pine forest.”
 
 Red-cockaded woodpeckers live in distinct social groups. Each group usually consists of a breeding male and female and one or more non-breeding helpers with a cluster of cavity trees. Each bird has its own cavity, excavated in living pines, and the group forages mostly for invertebrates on the bark of pines in their territory around their cavity tree cluster.  The number of active red-cockaded woodpecker clusters represents a baseline responsibility when a landowner enrolls in the Program.  Any additional red-cockaded woodpecker clusters as a result of voluntary management are considered above-baseline.  As authorized by a U.S. Fish and Wildlife permit under the Endangered Species Act, a landowner enrolled in the Safe Harbor Program can manage the forest or property for an above-baseline woodpecker cluster in any lawful manner, even if it harms or injures the woodpecker group.  There are 160 above-baseline woodpecker groups now on private lands enrolled in the Safe Harbor Program.
 
-“Only a couple of landowners have ever used their federal permit authority, and only to take two above-baseline woodpecker groups”, said Will McDearman, the Fish and Wildlife Service’s red-cockaded woodpecker recovery coordinator. 
+“Only a couple of landowners have ever used their federal permit authority, and only to take two above-baseline woodpecker groups”, said Will McDearman, the Fish and Wildlife Service’s red-cockaded woodpecker recovery coordinator.
 
 The original success of the first red-cockaded woodpecker Safe Harbor Program in the North Carolina Sandills also led the Fish and Wildlife Service to establish a national program.  Other endangered or threatened wildlife helped by Safe Harbor Agreements include the Utah prairie dog, Florida scrub jay, Lahontan cutthroat trout, Houston toad, and Karner blue butterfly.  Safe Harbor agreements with private landowners now benefit more than 100 federally listed species on 5.2 million acres in 26 states.
 
 ## Public invited to Family Field Day celebration
 
-To celebrate the Safe Harbor Program’s 20<sup>th</sup> Anniversary, a family field day will be held Saturday, November 7, in the North Carolina Sandhills. The event is open to the public from 1 p.m. to 4 p.m. at the Walthour-Moss Foundation property, one mile from Southern Pines, North Carolina, and north of Aiken Road. 
+To celebrate the Safe Harbor Program’s 20<sup>th</sup> Anniversary, a family field day will be held Saturday, November 7, in the North Carolina Sandhills. The event is open to the public from 1 p.m. to 4 p.m. at the Walthour-Moss Foundation property, one mile from Southern Pines, North Carolina, and north of Aiken Road.
 
 Hosted by the Foundation, the North Carolina Sandhills Conservation Partnership, and the Service, the family field day features demonstrations and information about longleaf pine ecology, red-cockaded woodpecker biology, and the Safe Harbor program. Children can enjoy a scavenger hunt.  For more information about the family field day, please contact Caroline George at 919-812-2954, or [caroline_george@fws.gov](mailto:caroline_george@fws.gov).
 

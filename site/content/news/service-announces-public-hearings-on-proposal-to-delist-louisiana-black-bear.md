@@ -1,22 +1,23 @@
 ---
-title: Service announces public hearings on proposal to delist Louisiana black bear
+title: 'Service announces public hearings on proposal to delist Louisiana black bear'
 date: '2015-06-12'
 hero:
     name: louisiana-black-bear.jpg
     alt: 'A Louisiana black bear standing in a grassy clearing'
     caption: 'Louisiana black bear. Credit: Pam McIlhenny, used with permission.'
 tags:
-  - Lafayette
-  - Louisiana Black Bear
-  - Recovery
-  - Delist
-  - Louisiana
-  - Mississippi
+    - Delist
+    - Louisiana
+    - 'Louisiana Black Bear'
+    - 'Louisiana Ecological Services Field Office'
+    - Mississippi
+    - Recovery
+updated: 'May 7th, 2018'
 ---
 
 The U.S. Fish and Wildlife Service is holding two public hearings in Louisiana to give the public opportunities to comment on its May 21, proposal to delist the [Louisiana black bear](/wildlife/mammals/louisiana-black-bear/).
 
-The Service is seeking comments regarding biological data, relevant data concerning any threats, and the extent of federal and state protection and management that would be provided to the bear as a delisted species.  Other requested comments concern current or planned activities that may impact or benefit the bear. 
+The Service is seeking comments regarding biological data, relevant data concerning any threats, and the extent of federal and state protection and management that would be provided to the bear as a delisted species.  Other requested comments concern current or planned activities that may impact or benefit the bear.
 
 The first public hearing will be held in Tallulah on June 23, 2015, from 7:00 to 9:00 p.m. (Central Time) at the Tallulah Community Center, 800 North Beech Street, Tallulah, Louisiana, 71282.
 
@@ -28,7 +29,7 @@ The U.S. Fish and Wildlife Service is committed to providing access to this meet
 
 For more information about the Louisiana black bear and the proposal to delist it, please see the [species profile](/wildlife/mammals/louisiana-black-bear/).
 
-Once on the brink of becoming endangered, the Louisiana black bear is unique to Louisiana, western Mississippi, and eastern Texas.  When it was listed in 1992 because of habitat loss and other threats, the three known breeding subpopulations were confined to the bottomland hardwood forests of Louisiana in the Tensas, Upper and Lower Atchafalaya Rivers Basins.  Today, those original subpopulations have all increased in number and have stable to increasing growth rates.  A fourth breeding subpopulation in Louisiana, located between the Tensas and Upper Atchafalaya subpopulations, is facilitating movement among the other two subpopulations.  This has substantially increased the long-term outlook for the Louisiana black bear.  Additionally, many other breeding subpopulations are forming in Louisiana and Mississippi. 
+Once on the brink of becoming endangered, the Louisiana black bear is unique to Louisiana, western Mississippi, and eastern Texas.  When it was listed in 1992 because of habitat loss and other threats, the three known breeding subpopulations were confined to the bottomland hardwood forests of Louisiana in the Tensas, Upper and Lower Atchafalaya Rivers Basins.  Today, those original subpopulations have all increased in number and have stable to increasing growth rates.  A fourth breeding subpopulation in Louisiana, located between the Tensas and Upper Atchafalaya subpopulations, is facilitating movement among the other two subpopulations.  This has substantially increased the long-term outlook for the Louisiana black bear.  Additionally, many other breeding subpopulations are forming in Louisiana and Mississippi.
 
 Thanks to federal, state, and private efforts, the threat of habitat loss has been significantly reduced, and in many cases, reversed.  A large proportion of habitat supporting and connecting breeding subpopulations has been protected and restored voluntarily through private landowner restoration efforts.
 

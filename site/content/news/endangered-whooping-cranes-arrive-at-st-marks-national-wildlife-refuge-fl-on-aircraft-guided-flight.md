@@ -13,12 +13,12 @@ tags:
     - Florida
     - Georgia
     - Kentucky
-    - Lafayette
     - Louisiana
+    - 'Louisiana Ecological Services Field Office'
     - 'National Wildlife Refuge System'
     - Tennessee
     - 'Whooping Crane'
-updated: 'January 3rd, 2018'
+updated: 'May 7th, 2018'
 ---
 
 Eight young whooping cranes that began their aircraft-led migration on October 2, 2013, from the White River Marsh State Wildlife Area in Green Lake County, Wisconsin, made it to their destination at St. Marks National Wildlife Refuge in Wakulla County, Florida. These cranes are the 13th group to be guided by ultralight aircraft from central Wisconsin to the Gulf coast of Florida. The Whooping Crane Eastern Partnership (WCEP), an international coalition of public and private organizations, is conducting the reintroduction project in an effort to restore this endangered species to part of its historic range in eastern North America. There are now 109 whooping cranes in the wild in eastern North America thanks to WCEP’s efforts.
@@ -41,8 +41,8 @@ To report whooping crane sightings, visit the WCEP whooping crane observation we
 
 ## Additional Resources
 
- - For more information on the project and its partners visit: [Bring back the cranes](http://www.bringbackthecranes.org/) , and [Operation migration](http://operationmigration.org/InTheField/)
- - [Whooping Crane, photo gallery on Flickr](http://www.flickr.com/photos/usfwssoutheast/10961767675/)
+* For more information on the project and its partners visit: [Bring back the cranes](http://www.bringbackthecranes.org/) , and [Operation migration](http://operationmigration.org/InTheField/)
+* [Whooping Crane, photo gallery on Flickr](http://www.flickr.com/photos/usfwssoutheast/10961767675/)
 
 ## Contact
 

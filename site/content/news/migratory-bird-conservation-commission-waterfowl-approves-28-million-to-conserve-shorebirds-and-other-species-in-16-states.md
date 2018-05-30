@@ -7,15 +7,15 @@ hero:
     link: 'https://flic.kr/p/8TDenk'
     caption: 'American bittern takes flight. Photo by Steve Brooks.'
 tags:
-    - Grants
     - Arkansas
-    - Lafayette
+    - Grants
     - Louisiana
+    - 'Louisiana Ecological Services Field Office'
     - Mississippi
-    - North Carolina
-    - South Carolina
+    - 'North Carolina'
+    - 'South Carolina'
     - Tennessee
-updated: 'October 20th, 2016'
+updated: 'May 7th, 2018'
 ---
 
 The Migratory Bird Conservation Commission today approved $28 million in funding for the U.S. Fish and Wildlife Service and its partners to purchase, lease, restore or otherwise conserve more than 128,000 acres of wetland habitats for ducks, bitterns, sandpipers and other birds in the United States.
@@ -28,9 +28,9 @@ Grants made through this program require matching investments; the projects appr
 
 “Many people don’t realize how important swamps, bogs, marshes and other wetlands are to maintaining the populations of birds we see flying overhead and visiting our backyards,” said Service Director Dan Ashe. “These habitats play a crucial role in breeding, migration and other parts of migratory bird life cycles.”
 
-The commission also recognized the contributions of Rep. John Dingell, who is retiring after an unprecedented 45 years of service as a member.  
+The commission also recognized the contributions of Rep. John Dingell, who is retiring after an unprecedented 45 years of service as a member.
 
-“Our nation’s efforts to conserve migratory birds have no better supporter than Congressman Dingell, who has worked tirelessly over more than four decades to protect and restore the wetland and upland habitat so vital to them,” Jewell said. “Today, during his final meeting, we continued this legacy with the acquisition and conservation of vital habitat so important not only to birds but to countless other species of wildlife.”  
+“Our nation’s efforts to conserve migratory birds have no better supporter than Congressman Dingell, who has worked tirelessly over more than four decades to protect and restore the wetland and upland habitat so vital to them,” Jewell said. “Today, during his final meeting, we continued this legacy with the acquisition and conservation of vital habitat so important not only to birds but to countless other species of wildlife.”
 
 The commission also announced the approval of more than $3.5 million for fee title land acquisitions of more than 1,700 acres on four national wildlife refuges. These funds were raised largely through the sale of Federal Migratory Bird Hunting and Conservation Stamps, commonly known as “Duck Stamps.”  For every dollar spent on Federal Duck Stamps, 98 cents go directly to acquire habitat for protection in the National Wildlife Refuge System. This year the federal Duck Stamp celebrates its 80th anniversary.
 
@@ -42,6 +42,6 @@ Laury Parramore, USFWS National
 703-358-2541,  
 [laury_parramore@fws.gov ](mailto:laury_parramore@fws.gov)
 
-Phil Kloer, USFWS Southeast    
+Phil Kloer, USFWS Southeast
 404-679-7299  
-[phillip_kloer@fws.gov](mailto:phillip_kloer@fws.gov) 
+[phillip_kloer@fws.gov](mailto:phillip_kloer@fws.gov)

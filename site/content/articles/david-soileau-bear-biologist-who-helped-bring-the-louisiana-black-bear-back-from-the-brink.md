@@ -3,9 +3,9 @@ title: 'David Soileau: bringing the Louisiana black bear back from the brink'
 description: 'The Louisiana black bear recovery work of people like biologist/land conservation specialist David Soileau has been so successful that sightings of the species is no longer such an uncommon occurrence.'
 tags:
     - Employees
-    - Lafayette
     - Louisiana
     - 'Louisiana Black Bear'
+    - 'Louisiana Ecological Services Field Office'
     - 'Private Lands'
     - Recovery
     - 'Voluntary Conservation'
@@ -16,7 +16,7 @@ hero:
     position: 'top center'
 author: 'Nadine Siak, USFWS Gulf Restoration Program'
 date: '2016-03-10'
-updated: 'April 7th, 2017'
+updated: 'May 7th, 2018'
 ---
 
 David Soileau job title at the Service’s [Louisiana Ecological Services Office](http://www.fws.gov/lafayette/) is quite a mouthful: “Conservation Planning Assistance Coordinator.” What does it mean, exactly?

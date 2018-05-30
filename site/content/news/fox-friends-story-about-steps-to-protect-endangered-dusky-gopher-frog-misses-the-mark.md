@@ -9,35 +9,35 @@ hero:
 tags:
     - 'Critical Habitat'
     - 'Dusky Gopher Frog'
-    - Lafayette
     - Louisiana
+    - 'Louisiana Ecological Services Field Office'
     - Mississippi
-updated: 'October 13th, 2017'
+updated: 'May 7th, 2018'
 ---
 
 On Monday, June 18th, Fox & Friends [broadcast a story](http://video.foxnews.com/v/1694640237001/frog-fight-landowner-disputes-frog-habitat-on-his-land/?playlist_id=87937) about the U.S. Fish and Wildlife Service’s designation of critical habitat for the dusky gopher frog.  The gopher frog is protected under the Endangered Species Act and is listed as endangered.  The agency’s action designates 6,477 acres across four counties in Mississippi and one parish in Louisiana.
 
-The story focused on one private landowner who owns 45,000 acres in St. Tammany Parrish. The proposed designation would include 1,544 acres the total acreage he owns.  It contained significant factual inaccuracies by the host and its guest related to the law and the designation’s impact.  
+The story focused on one private landowner who owns 45,000 acres in St. Tammany Parrish. The proposed designation would include 1,544 acres the total acreage he owns.  It contained significant factual inaccuracies by the host and its guest related to the law and the designation’s impact.
 
 The Service released the final designation and its economic analysis the week of June 11th.  For additional information please [review the critical habitat designation](/news/2012/06/us-fish-and-wildlife-service-announces-critical-habitat-designation-for-dusky-gopher-frog).
 
 {{< youtube id="HSN74a9i0Dk" title="Leo Miranda shares a response to an innacurate report on Fox &amp; Friends" >}}
 
-**Steve Doocy, _Fox & Friends_: “Our next guest says it (critical habitat) could cost him over $30 million….”**
+**Steve Doocy, *Fox & Friends*: “Our next guest says it (critical habitat) could cost him over $30 million….”**
 
-This designation does not stop future development or land uses.  This figure comes from an economic analysis the Service is required to conduct for these kinds of actions and in this case the range is from $0 to $30 million over 30 years.  If planned development does not require federal funding or permitting, the cost of this designation will be zero.  If federal funds or permitting are needed, we expect that future real estate development can be accommodated across a significant portion of the land designated. 
+This designation does not stop future development or land uses.  This figure comes from an economic analysis the Service is required to conduct for these kinds of actions and in this case the range is from $0 to $30 million over 30 years.  If planned development does not require federal funding or permitting, the cost of this designation will be zero.  If federal funds or permitting are needed, we expect that future real estate development can be accommodated across a significant portion of the land designated.
 
-**Steve Doocy, _Fox & Friends_: “And what they would like to do is, the Fish and Wildlife folks, Edward, would like to designate 1,650 of your acres as a habitat for that endangered frog. What would that mean for you?”**
+**Steve Doocy, *Fox & Friends*: “And what they would like to do is, the Fish and Wildlife folks, Edward, would like to designate 1,650 of your acres as a habitat for that endangered frog. What would that mean for you?”**
 
-**Edward Poitevent: “Well that would mean basically that our land is taken out of commerce; we would not be allowed to develop it….”** 
+**Edward Poitevent: “Well that would mean basically that our land is taken out of commerce; we would not be allowed to develop it….”**
 
-This designation does not take lands out of business.  The property in question has been used for timber production and hunting for decades.  In fact, those 1,544 acres are part of the land currently being leased to Weyerhauser through 2043.  We are working with willing landowners in Mississippi to conserve this extraordinarily rare frog and look forward to working with willing landowners in Louisiana.  The Service has a number of voluntary, partner-based programs that make funding available to do this work and there are other partners as well doing this kind of work.  We’ve recently provided Mr. Poitevent contact information to learn more about conservation banking in Louisiana, for example.  
+This designation does not take lands out of business.  The property in question has been used for timber production and hunting for decades.  In fact, those 1,544 acres are part of the land currently being leased to Weyerhauser through 2043.  We are working with willing landowners in Mississippi to conserve this extraordinarily rare frog and look forward to working with willing landowners in Louisiana.  The Service has a number of voluntary, partner-based programs that make funding available to do this work and there are other partners as well doing this kind of work.  We’ve recently provided Mr. Poitevent contact information to learn more about conservation banking in Louisiana, for example.
 
-**Steve Doocy, _Fox & Friends_: “So they want to grab your land, essentially as a habitat.”**
+**Steve Doocy, *Fox & Friends*: “So they want to grab your land, essentially as a habitat.”**
 
-We don’t.  It remains his land to manage.  We’ve identified this land as critical habitat because it’s important to the recovery of the gopher frog.  The Service offers a wide variety of tools to help from easements that would allow landowners to protect habitat and preserve a working landscape to working with partners to potentially purchase lands at fair market value from willing sellers.  We have a number of other programs that make financial and technical assistance available to willing landowners on a voluntary basis to pursue conservation work on their lands.  If a landowner doesn’t want to work with these opportunities, he doesn’t have to at all. 
+We don’t.  It remains his land to manage.  We’ve identified this land as critical habitat because it’s important to the recovery of the gopher frog.  The Service offers a wide variety of tools to help from easements that would allow landowners to protect habitat and preserve a working landscape to working with partners to potentially purchase lands at fair market value from willing sellers.  We have a number of other programs that make financial and technical assistance available to willing landowners on a voluntary basis to pursue conservation work on their lands.  If a landowner doesn’t want to work with these opportunities, he doesn’t have to at all.
 
-**Steve Doocy, _Fox & Friends_: “Why are they picking on you (the landowner)?”** 
+**Steve Doocy, *Fox & Friends*: “Why are they picking on you (the landowner)?”**
 
 We have been talking with Mr. Poitevent.  We want to work with him and look forward to working through his concerns together.  We have designated this site as critical habitat because the frog historically occurred there and it is essential to the frog’s future conservation.  Again, the Service is currently working with other private landowners in Mississippi to protect habitat that can sustain these frogs, and we hope to do that in Louisiana as well, with willing landowners.
 

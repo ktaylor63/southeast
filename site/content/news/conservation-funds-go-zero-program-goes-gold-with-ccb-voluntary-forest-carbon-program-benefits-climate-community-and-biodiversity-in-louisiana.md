@@ -1,6 +1,6 @@
 ---
 title: 'Conservation funds GO ZERO® program goes gold with CCB'
-subtitle: ;Voluntary forest carbon program benefits climate, community and biodiversity in Louisiana'
+subtitle: 'Voluntary forest carbon program benefits climate, community and biodiversity in Louisiana'''
 date: '2009-06-01'
 hero:
     name: green-winged-teal-red-river-nwr.jpg
@@ -10,8 +10,8 @@ hero:
 tags:
     - Climate
     - Louisiana
-    - Lafayette
-updated: 'October 20th, 2016'
+    - 'Louisiana Ecological Services Field Office'
+updated: 'May 7th, 2018'
 ---
 
 The U.S. Fish & Wildlife Service and Environmental Synergy Inc. (ESI) announced today that a 1,182-acre forest carbon sequestration project along Louisiana’s Red River has received Gold Level Validation, the highest level available under the [Go Zero®](http://www.climate-standards.org) standards.
@@ -37,6 +37,7 @@ The Conservation Fund’s Red River Restoration Initiative was validated by Scie
 The Conservation Fund’s Go Zero program works with a diverse group of partners to develop solutions to climate change and habitat loss. Go Zero supporters include leading companies such as Dell, Delta, Gaiam, Land Rover Portland, New Jersey Resources, The North Face, Philadelphia Eagles, Travelocity and U-Haul as well as thousands of individual donors across the globe.
 
 ## About the Partners
+
 [The Conservation Fund is dedicated to advancing America’s land and water legacy. With our partners, we conserve land, train leaders and invest in conservation at home. Since 1985, we have helped protect more than 6 million acres, sustaining wild havens, working lands and vibrant communities. We’re a top-ranked conservation organization, effective and efficient.](http://www.conservationfund.org/gozero/red_river_restoration) [http://www.conservationfund.org](http://www.conservationfund.org)
 
 Environmental Synergy, Inc. (ESI) provides project development and carbon monitoring services for carbon based forestry projects. In the past 10 years, ESI has planted over 24 million trees on 81,000 acres in the U.S., which are expected to remove approximately 26 million metric tons of carbon dioxide from the atmosphere. [http://www.SCScertified.com](http://www.environmental-synergy.com).

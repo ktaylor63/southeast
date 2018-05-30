@@ -7,19 +7,19 @@ hero:
     link: 'https://flic.kr/p/jzDUnp'
     caption: 'People enjoying a boat. Photo by Greg Workman, FWC.'
 tags:
-    - Grants
-    - 'Wildlife and Sport Fish Restoration'
     - Alabama
     - Arkansas
     - Florida
     - Georgia
-    - Lafayette
+    - Grants
+    - Kentucky
     - Louisiana
+    - 'Louisiana Ecological Services Field Office'
     - Mississippi
     - 'North Carolina'
-    - Kentucky
     - Tennessee
-updated: 'October 20th, 2016'
+    - 'Wildlife and Sport Fish Restoration'
+updated: 'May 7th, 2018'
 ---
 
 Department of the Interior Secretary Ken Salazar today announced that $14.6 million will be awarded to 28 states under the Clean Vessel Act grant program in 2009. The grants will be used to fund the construction and installation of sewage pumpout facilities and floating restrooms, to purchase pumpout boats and provide educational programs for recreational boaters.
@@ -115,12 +115,15 @@ A listing of grant awards made today include:
 **$1,270,007** –The New York Department of Environmental Conservation plans to purchase 31 stationary sewage pumpout units, three sewage pumpout boats, and 31 dump facilities for portable toilets; and to install two floating restrooms throughout the state’s inland and coastal waters. In addition, the state plans to provide operation and maintenance funds for existing facilities to ensure their availability for recreational boaters.
 
 ## North Carolina
+
 **$194,875** – The North Carolina Department of Environment and Natural Resources plans to install four new sewage pumpout facilities and twelve dual purpose sewage pumpout-dump facilities throughout the state’s coastal waters and continue efforts to inform boaters about the importance of proper sewage disposal.
 
 ## Ohio
+
 **$248,625** – The Ohio Department of Natural Resources, Division of Watercraft, plans to install sewage pumpout facilities at five locations throughout the state.
 
 ## Oregon
+
 **$1,111,650** – The Oregon State Marine Board plans to purchase and install 22 sewage pumpout stations and 28 dump stations for coastal and inland waters throughout the state and to provide funding for the operation and maintenance of existing facilities. The agency will also continue its efforts to educate boaters about the importance of proper sewage disposal and its benefits to aquatic ecosystems.
 
 ## Rhode Island

@@ -7,14 +7,14 @@ hero:
     link: 'https://flic.kr/p/HXUHaP'
     caption: 'Monarch fueling up for migration. Photo by Lilibeth Serrano, USFWS.'
 tags:
-    - Monarch
     - Alabama
     - Florida
     - Georgia
-    - Lafayette
     - Louisiana
+    - 'Louisiana Ecological Services Field Office'
+    - Monarch
     - 'North Carolina'
-updated: 'October 6th, 2016'
+updated: 'May 7th, 2018'
 ---
 
 Monarch populations have drastically declined over the past several years.  To advance efforts to save this beautiful orange and black butterfly and its habitat, the U.S. Fish and Wildlife Service and the Wildlife Habitat Council (WHC) are joining forces with a new cooperative agreement over the next two years to benefit the Monarch butterfly.

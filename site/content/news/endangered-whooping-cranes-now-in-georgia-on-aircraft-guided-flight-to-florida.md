@@ -7,15 +7,15 @@ hero:
     alt: 'Airborne ultralight with whooping cranes following.'
     caption: 'Class of 2013 by Operation Migration. Photo by Heather Ray, Operation Migration.'
 tags:
-    - Georgia
-    - Florida
     - Alabama
-    - 'Whooping Crane'
-    - Lafayette
-    - Louisiana
+    - Florida
+    - Georgia
     - Kentucky
+    - Louisiana
+    - 'Louisiana Ecological Services Field Office'
     - Tennessee
-updated: 'March 18th, 2017'
+    - 'Whooping Crane'
+updated: 'May 7th, 2018'
 ---
 
 Eight young whooping cranes that began their aircraft-led migration on October 2, 2013, from the White River Marsh State Wildlife Area in Green Lake County, Wisconsin, today made it to Decatur County, Georgia.
@@ -44,8 +44,9 @@ The public is invited to follow the aircraft-guided Whooping cranes on Operation
 
 ## Additional Resources
 
-- For more information on the project and its partners visit: [Bring back the cranes](http://www.bringbackthecranes.org/) , and [Operation migration](http://operationmigration.org/InTheField/)
-- [Whooping Crane, photo gallery](http://www.flickr.com/photos/usfwssoutheast/10961767675/)
+* For more information on the project and its partners visit: [Bring back the cranes](http://www.bringbackthecranes.org/) , and [Operation migration](http://operationmigration.org/InTheField/)
+* [Whooping Crane, photo gallery](http://www.flickr.com/photos/usfwssoutheast/10961767675/)
+
 ## Contact
 
 Division of Public Affairs  

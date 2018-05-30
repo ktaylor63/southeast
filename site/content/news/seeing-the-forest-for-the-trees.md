@@ -5,14 +5,14 @@ description: 'More than 30 animal species that depend on longleaf pine forests a
 type: feature
 tags:
     - Alabama
+    - E-Grits
     - Florida
     - Gulf
-    - Lafayette
     - 'Longleaf Pine'
     - Louisiana
+    - 'Louisiana Ecological Services Field Office'
     - Mississippi
     - Partnership
-    - E-Grits
     - Restoration
 author: 'Nadine Siak, Public Affairs Specialist'
 hero:
@@ -20,7 +20,7 @@ hero:
     alt: 'Bright green needles emerge from a central cone of a longleaf pine tree'
     caption: 'Longleaf pine needles. Photo by Dot Paul, USDA NRCS.'
 date: '2016-04-06'
-updated: 'April 7th, 2017'
+updated: 'May 7th, 2018'
 ---
 
 The longleaf pine was once so abundant that it seemed like an inexhaustible resource – an ocean of green -- to early American settlers. In the Southeast, longleaf pine forests once covered more than 90 million acres. By the mid-1990s, however, only three percent or so of that acreage remained, much of it in parts of the Gulf Coast states such as the Florida Panhandle and sections of southern Alabama, Mississippi, and Louisiana. Not only has the bulk of the historic acreage been lost, but also much of the longleaf pine habitat that remains is fragmented, degraded, and of limited ecological, cultural and socio-economic value.
@@ -35,4 +35,4 @@ In addition to reaching a consensus on these key areas for restoration, the Long
 
 The restoration work based on these and similar efforts by the Service and its partners are making a difference. Recent monitoring reveals approximately 4.7 million acres of longleaf pine can now be found in Southeast, up from the low of 3.4 million that existed before the restoration plan was put into action.
 
-*Originally published in [E-Grits, March-April 2016 issue](https://issuu.com/usfwssoutheast/docs/egrits-marapr2016)*
+_Originally published in [E-Grits, March-April 2016 issue](https://issuu.com/usfwssoutheast/docs/egrits-marapr2016)_

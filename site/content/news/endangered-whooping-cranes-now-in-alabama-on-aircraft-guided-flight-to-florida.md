@@ -10,12 +10,12 @@ hero:
 tags:
     - Alabama
     - Florida
-    - 'Whooping Crane'
-    - Lafayette
-    - Louisiana
     - Kentucky
+    - Louisiana
+    - 'Louisiana Ecological Services Field Office'
     - Tennessee
-updated: 'October 6th, 2016'
+    - 'Whooping Crane'
+updated: 'May 7th, 2018'
 ---
 
 Eight young whooping cranes that began their aircraft-led migration on October 2, 2013 from the White River Marsh State Wildlife Area in Green Lake County, Wisconsin, today made it to Winston County, Alabama.
@@ -58,8 +58,8 @@ To report whooping crane sightings, visit the WCEP whooping crane observation we
 
 ## Additional Resources
 
-- For more information on the project and its partners visit: [Bring back the cranes](http://www.bringbackthecranes.org/) , and [Operation migration](http://operationmigration.org/InTheField/)
-- [Whooping Crane, photo gallery](http://www.flickr.com/photos/usfwssoutheast/10961767675/)**
+* For more information on the project and its partners visit: [Bring back the cranes](http://www.bringbackthecranes.org/) , and [Operation migration](http://operationmigration.org/InTheField/)
+* [Whooping Crane, photo gallery](http://www.flickr.com/photos/usfwssoutheast/10961767675/)\*\*
 
 ## Contact
 

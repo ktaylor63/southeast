@@ -7,13 +7,13 @@ hero:
     link: 'https://flic.kr/p/ehrcz3'
     caption: 'Mississippi gopher frog. Photo by John A. Tupy, Western Carolina University.'
 tags:
-    - Mississippi
-    - 'Mississippi gopher frog'
-    - 'Critical Habitat'
     - Alabama
-    - Lafayette
+    - 'Critical Habitat'
     - Louisiana
-updated: 'October 20th, 2016'
+    - 'Louisiana Ecological Services Field Office'
+    - Mississippi
+    - 'Mississippi Gopher Frog'
+updated: 'May 7th, 2018'
 ---
 
 In today’s Federal Register, the U.S. Fish and Wildlife Service proposes critical habitat designation for the Mississippi gopher frog, the only federally listed frog in the continental southeastern United States.

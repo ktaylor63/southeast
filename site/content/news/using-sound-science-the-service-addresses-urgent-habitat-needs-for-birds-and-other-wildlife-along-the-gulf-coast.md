@@ -9,10 +9,10 @@ hero:
 tags:
     - Florida
     - Gulf
-    - Lafayette
     - Louisiana
+    - 'Louisiana Ecological Services Field Office'
     - Mississippi
-updated: 'April 21st, 2017'
+updated: 'May 7th, 2018'
 ---
 
 The U.S. Fish and Wildlife Service is coordinating efforts along the Gulf Coast to safeguard wildlife such as shorebirds, waterfowl, marsh birds, sea birds, and sea turtles from the effects of oil. Working closely with state, federal and non-government partners, the Service is identifying the most pressing habitat needs of these at-risk species, recommending strategic habitat conservation activities to address those needs, and helping to implement projects along the coast from Florida to Texas.

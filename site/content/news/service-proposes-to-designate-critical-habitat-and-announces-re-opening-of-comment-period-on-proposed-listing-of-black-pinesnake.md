@@ -12,9 +12,9 @@ tags:
     - 'Black Pinesnake'
     - 'Critical Habitat'
     - 'Endangered Species Act'
-    - Lafayette
+    - 'Louisiana Ecological Services Field Office'
     - Mississippi
-updated: 'April 11th, 2017'
+updated: 'May 7th, 2018'
 ---
 
 The U.S. Fish and Wildlife Service proposes to designate critical habitat for the black pinesnake under the Endangered Species Act (ESA).  A proposed rule to list the black pinesnake as threatened was published in the _Federal Register_ on October 7, 2014.
@@ -23,17 +23,17 @@ At the same time, the Service also announces the availability of a draft economi
 
 The public is invited to submit comments on all of these actions through a 60-day comment period ending May 11, 2015.
 
-This harmless snake is native to the longleaf pine forests, an ecosystem that is also in peril.  Longleaf forests once covered over 90 million acres -- about the size of Montana -- from the South Atlantic Coastal Plain of southern Virginia to the West Gulf Coastal Plain of Texas.  Today, less than four percent -- about the size of Massachusetts -- remain.  The longleaf pine ecosystem is one of the most ecologically diverse in the world, with more than 900 plant species that are found nowhere else. 
+This harmless snake is native to the longleaf pine forests, an ecosystem that is also in peril.  Longleaf forests once covered over 90 million acres -- about the size of Montana -- from the South Atlantic Coastal Plain of southern Virginia to the West Gulf Coastal Plain of Texas.  Today, less than four percent -- about the size of Massachusetts -- remain.  The longleaf pine ecosystem is one of the most ecologically diverse in the world, with more than 900 plant species that are found nowhere else.
 
 “The black pinesnake is an important part of the longleaf pine ecosystem in southern Alabama and Mississippi,” said Cindy Dohner, the Service’s Southeast Regional Director.  “Identifying critical habitat will highlight areas important to the pinesnake, complementing the proposed listing and enhancing some of the conservation efforts that are also already underway for other wildlife.”
 
 Black pinesnakes are non-venomous, egg-laying constrictors.  Adults range in size from four- to six-feet long.  They are dark brown to black on both their upper and lower body surfaces, have disproportionately small heads with pointed snouts, and are good burrowers.  Habitat for these snakes consists of sandy, well-drained soils with an open-canopied overstory of longleaf pine, a reduced shrub layer, and a dense herbaceous ground cover.
 
-There are currently 11 populations of the black pinesnake known in 12 counties in Mississippi (Forrest, George, Greene, Harrison, Jackson, Jones, Lamar, Lawrence, Marion, Perry, Stone, and Wayne) and three counties in Alabama (Clarke, Mobile, and Washington).  Some populations span areas in multiple adjacent counties.  There has not been a confirmed record of this snake in Louisiana in over 30 years, and it is considered extirpated in the state.  The black pinesnake’s decline is attributed to the loss and degradation of the longleaf pine ecosystem.  Factors influencing this threat include increases in road density, which causes habitat fragmentation as well as direct mortality of pinesnakes by vehicles and intentional killing; fire suppression; and conversion of natural pine forests to pine plantations, agriculture, and urban areas. 
+There are currently 11 populations of the black pinesnake known in 12 counties in Mississippi (Forrest, George, Greene, Harrison, Jackson, Jones, Lamar, Lawrence, Marion, Perry, Stone, and Wayne) and three counties in Alabama (Clarke, Mobile, and Washington).  Some populations span areas in multiple adjacent counties.  There has not been a confirmed record of this snake in Louisiana in over 30 years, and it is considered extirpated in the state.  The black pinesnake’s decline is attributed to the loss and degradation of the longleaf pine ecosystem.  Factors influencing this threat include increases in road density, which causes habitat fragmentation as well as direct mortality of pinesnakes by vehicles and intentional killing; fire suppression; and conversion of natural pine forests to pine plantations, agriculture, and urban areas.
 
 ## Proposed Listing with 4(d) Rule
 
-The Service has proposed listing the black pinesnake as threatened with a 4(d) rule.  A 4(d) rule allows for “incidental take” of the species during timber and land management activities that are beneficial to the snake.  Activities, such as riparian and longleaf pine restoration, herbicide treatment, burning, and thinning, may be exempted from the prohibitions of “take” under the ESA, meaning those activities could continue to take place if the conservation measures in the rule are followed.  The 4(d) rule ensures private landowners and citizens are not unduly burdened by regulations that do not further the conservation of the snake.  
+The Service has proposed listing the black pinesnake as threatened with a 4(d) rule.  A 4(d) rule allows for “incidental take” of the species during timber and land management activities that are beneficial to the snake.  Activities, such as riparian and longleaf pine restoration, herbicide treatment, burning, and thinning, may be exempted from the prohibitions of “take” under the ESA, meaning those activities could continue to take place if the conservation measures in the rule are followed.  The 4(d) rule ensures private landowners and citizens are not unduly burdened by regulations that do not further the conservation of the snake.
 
 ## Proposed Critical Habitat
 
@@ -47,11 +47,11 @@ The economic analysis for the black pinesnake estimates the incremental impacts 
 
 The proposed listing and critical habitat designation for the black pinesnake and the associated draft economic analysis are part of the Service’s efforts to implement a court-approved work plan under a Multi-District Listing Agreement aimed at addressing a series of lawsuits concerning the agency’s ESA listing program.  The intent of the agreement is to significantly reduce a litigation-driven workload.  For more information, please see [http://www.fws.gov/southeast/candidateconservation/](http://www.fws.gov/southeast/candidateconservation/)
 
-The complete proposal can be obtained by visiting the Federal eRulemaking Portal: [http://www.regulations.gov](http://www.regulations.gov) at Docket Number FWS–R4–ES–2014 -0065 or FWS–R4–ES–2014 -0046.   A copy also can be obtained by contacting U.S. Fish and Wildlife Service, 6578 Dogwood View Parkway, Suite A, Jackson, Mississippi 39213; phone 601-321-1121. 
+The complete proposal can be obtained by visiting the Federal eRulemaking Portal: [http://www.regulations.gov](http://www.regulations.gov) at Docket Number FWS–R4–ES–2014 -0065 or FWS–R4–ES–2014 -0046.   A copy also can be obtained by contacting U.S. Fish and Wildlife Service, 6578 Dogwood View Parkway, Suite A, Jackson, Mississippi 39213; phone 601-321-1121.
 
 Comments and information may be submitted by one of two ways: (1) online at [http://www.regulations.gov](http://www.regulations.gov)  by entering FWS-R4-ES-2014-0065 or FWS-R4-ES-2014-0046 in the search box and then clicking on “Comment Now”; or (2) mail or hand deliver to U.S. Fish and Wildlife Service, Public Comments Processing, Attn: FWS-R4-ES-2014-0065 or FWS-R4-ES-2014-0046, U.S. Fish and Wildlife Headquarters, MS: BPHC, 5275 Leesburg Pike, Falls Church, VA 22041-3803.  All comments must be received on or before May 11, 2015.  Requests for a public hearing must be made in writing by April 27, 2015, to the Falls Church, VA, address.
 
-All relevant information received during the open comment period from the public, government agencies, the scientific community, industry, or any other interested parties will be considered and addressed in the Service’s final listing determination for the black pinesnake and the identification of habitat essential to its conservation. 
+All relevant information received during the open comment period from the public, government agencies, the scientific community, industry, or any other interested parties will be considered and addressed in the Service’s final listing determination for the black pinesnake and the identification of habitat essential to its conservation.
 
 ## Questions and Answers
 
@@ -65,7 +65,7 @@ The Service is proposing to designate a total of 338,100 acres (136,824 hectares
 
 The black pinesnake is a large, non-venomous snake, and one of three subspecies of pinesnakes in the southeastern United States. These snakes are typically all black and may reach up to six feet in length.  They are also known as gopher snakes, due to their overlapping range with the gopher tortoise and tendency to use underground stump holes and tunnels.
 
-Today, they inhabit the upland longleaf pine forests of south Mississippi and southwestern Alabama. 
+Today, they inhabit the upland longleaf pine forests of south Mississippi and southwestern Alabama.
 
 ### Why did the Service propose listing of the black pinesnake as threatened?
 
@@ -77,19 +77,19 @@ The ESA requires federal agencies to consult with the Service to ensure that any
 
 ### What does a listing mean for the private landowner?
 
-The basic responsibility of private landowners having black pinesnake populations on their lands is to avoid “take” of the species.  Take means to harass, harm, kill, trap, capture, or collect a species listed under the ESA.  This definition includes land use activities that result in death or harm to the species.  For example, direct destruction of the pinesnake’s habitat by clearing the pine uplands for agriculture, pasture, or development would likely result in harm to, or death of black pinesnakes.  In such instances, the Service can work with the landowner to develop a voluntary Habitat Conservation Plan (HCP) and associated measures designed to avoid, reduce, and/or mitigate those impacts.  Some activities are also proposed for exemption from the “take” prohibitions for this proposed listing under the ESA through a 4(d) rule (see questions below). 
+The basic responsibility of private landowners having black pinesnake populations on their lands is to avoid “take” of the species.  Take means to harass, harm, kill, trap, capture, or collect a species listed under the ESA.  This definition includes land use activities that result in death or harm to the species.  For example, direct destruction of the pinesnake’s habitat by clearing the pine uplands for agriculture, pasture, or development would likely result in harm to, or death of black pinesnakes.  In such instances, the Service can work with the landowner to develop a voluntary Habitat Conservation Plan (HCP) and associated measures designed to avoid, reduce, and/or mitigate those impacts.  Some activities are also proposed for exemption from the “take” prohibitions for this proposed listing under the ESA through a 4(d) rule (see questions below).
 
 ### What is a 4(d) rule and which activities are proposed for exemption from take?
 
-A 4(d) rule is one of many tools provided by the ESA to allow for flexibility in the ESA’s implementation and to tailor prohibitions to those that make the most sense for protecting and managing for threatened species. 
+A 4(d) rule is one of many tools provided by the ESA to allow for flexibility in the ESA’s implementation and to tailor prohibitions to those that make the most sense for protecting and managing for threatened species.
 
-The 4(d) rule ensures private landowners and citizens are not unduly burdened by regulations that do not further the conservation of the species, and that they are exempted from “take” prohibitions when conducting activities that benefit conservation of the species. A 4 (d) rule is often used to clarify what forms of “take” are, and are not, prohibited for a threatened species. Without a 4(d) rule, threatened wildlife species automatically get the same protections as endangered species under Section 9 of the ESA. 
+The 4(d) rule ensures private landowners and citizens are not unduly burdened by regulations that do not further the conservation of the species, and that they are exempted from “take” prohibitions when conducting activities that benefit conservation of the species. A 4 (d) rule is often used to clarify what forms of “take” are, and are not, prohibited for a threatened species. Without a 4(d) rule, threatened wildlife species automatically get the same protections as endangered species under Section 9 of the ESA.
 
-Activities which are expected to provide for the conservation of the black pinesnake and have been proposed for exemption under a 4 (d) rule include: herbicide treatments, prescribed burning, longleaf pine restoration, restoration along river banks and stream buffers, and some intermediate timber treatments.  This provides more flexibility in implementing these actions than would be allowed under the ESA without the 4(d) rule. The Service is specifically seeking comments concerning the appropriateness and scope of the proposed section 4(d) rule provisions.   In particular, we are interested in input regarding timber and forest management and restoration practices that would be appropriately addressed through such a rule.  This includes those practices that may adjust the timing or methods to minimize impacts to the black pinesnake or its habitat. 
+Activities which are expected to provide for the conservation of the black pinesnake and have been proposed for exemption under a 4 (d) rule include: herbicide treatments, prescribed burning, longleaf pine restoration, restoration along river banks and stream buffers, and some intermediate timber treatments.  This provides more flexibility in implementing these actions than would be allowed under the ESA without the 4(d) rule. The Service is specifically seeking comments concerning the appropriateness and scope of the proposed section 4(d) rule provisions.   In particular, we are interested in input regarding timber and forest management and restoration practices that would be appropriately addressed through such a rule.  This includes those practices that may adjust the timing or methods to minimize impacts to the black pinesnake or its habitat.
 
 ### How would the proposed listing impact the timber industry?
 
-Many partners of the Service, including the forest products industry, are already working on conservation activities in the longleaf pine ecosystem.  In general, the Service expects this proposed listing would have negligible impact on the forest products industry within the range of this species.  Because some of the activities, such as stumping and clear-cutting stands, can impact the species where it is listed, the Service recommends that forestry professionals and landowners contact the Service directly about ways to avoid impacts to the species in areas where it is known to occur. However, it should also be noted that the species does not occur throughout each of the counties in the known range; therefore, many areas in these counties are considered outside the range of the species.  Currently, about 73 percent of the known range is on state and federal lands. Also, the Service is proposing specific activities for exemption from the “take” prohibitions of the ESA, including some timber management activities (please see Question 6 above). 
+Many partners of the Service, including the forest products industry, are already working on conservation activities in the longleaf pine ecosystem.  In general, the Service expects this proposed listing would have negligible impact on the forest products industry within the range of this species.  Because some of the activities, such as stumping and clear-cutting stands, can impact the species where it is listed, the Service recommends that forestry professionals and landowners contact the Service directly about ways to avoid impacts to the species in areas where it is known to occur. However, it should also be noted that the species does not occur throughout each of the counties in the known range; therefore, many areas in these counties are considered outside the range of the species.  Currently, about 73 percent of the known range is on state and federal lands. Also, the Service is proposing specific activities for exemption from the “take” prohibitions of the ESA, including some timber management activities (please see Question 6 above).
 
 ### What is critical habitat?
 
@@ -111,13 +111,13 @@ The Service is proposing to designate a total of 338,100 acres (136,824 hectares
 
 ### Does a 'critical habitat' designation mean an area is considered a wildlife refuge or sanctuary?
 
-No. The designation of critical habitat does not affect land ownership or establish a refuge, wilderness, reserve, preserve, or other conservation area. A critical habitat designation identifies areas that are important to the conservation of federally listed threatened or endangered species. This designation does not allow the government or public to access private lands, nor does it require implementation of restoration, recovery, or enhancement measures by non-federal landowners.  
+No. The designation of critical habitat does not affect land ownership or establish a refuge, wilderness, reserve, preserve, or other conservation area. A critical habitat designation identifies areas that are important to the conservation of federally listed threatened or endangered species. This designation does not allow the government or public to access private lands, nor does it require implementation of restoration, recovery, or enhancement measures by non-federal landowners.
 
 ### What does a critical habitat designation do?
 
 Section 7(a)(2) of the ESA requires federal agencies, including the Service, to ensure that any action they fund, authorize, or carry out is not likely to jeopardize the continued existence of any endangered or threatened species or result in the destruction or adverse modification of its designated critical habitat.
 
-In addition, Section 7(a)(4) of the ESA requires federal agencies to consult with the Service on any of their actions that may affect critical habitat in designated areas. The Service would then advise agencies whether the permitted actions would likely jeopardize the continued existence of the species or adversely modify critical habitat and recommend ways to minimize any adverse effects. 
+In addition, Section 7(a)(4) of the ESA requires federal agencies to consult with the Service on any of their actions that may affect critical habitat in designated areas. The Service would then advise agencies whether the permitted actions would likely jeopardize the continued existence of the species or adversely modify critical habitat and recommend ways to minimize any adverse effects.
 
 ### How will the designation of critical habitat affect private landowners?
 
@@ -151,7 +151,7 @@ Silvicultural activities that limit or eliminate suitable habitat, including con
 
 Silvicultural activities that limit or eliminate the abundant herbaceous native groundcover, including broad-scale herbicide application that is not specifically targeted to eliminate hardwoods, reduce hazardous fuels, or control invasive species.
 
-This list only applies to those areas identified as part of the critical habitat_._  Even in those areas, entirely private activities that do not involve federal permits, funding, or approval do not require consultation. 
+This list only applies to those areas identified as part of the critical habitat*.*  Even in those areas, entirely private activities that do not involve federal permits, funding, or approval do not require consultation.
 
 ### Are all areas within the critical habitat boundaries for the black pinesnake considered critical habitat?
 
@@ -165,7 +165,7 @@ The economic analysis for the black pinesnake estimates the incremental impacts 
 
 ### What impacts will these rules have to military readiness or training on Camp Shelby?
 
-Currently, military training activities occur on Camp Shelby in areas with listed species, specifically the gopher tortoise and red-cockaded woodpecker which use virtually identical habitat as the black pinesnake.  Therefore, we expect there to be little additional impact to military readiness or training from these rules, as the existing precautions and policy surrounding activities in occupied gopher tortoise habitat (e.g., any potential ground disturbance associated with training) would be acceptable for occupied black pinesnake habitat as well.  In addition, we are proposing to exempt lands covered under the Mississippi Army National Guard’s Integrated Natural Resources Management Plan (INRMP) from critical habitat designation, and are considering the exclusion of other installation lands due to national security concerns. 
+Currently, military training activities occur on Camp Shelby in areas with listed species, specifically the gopher tortoise and red-cockaded woodpecker which use virtually identical habitat as the black pinesnake.  Therefore, we expect there to be little additional impact to military readiness or training from these rules, as the existing precautions and policy surrounding activities in occupied gopher tortoise habitat (e.g., any potential ground disturbance associated with training) would be acceptable for occupied black pinesnake habitat as well.  In addition, we are proposing to exempt lands covered under the Mississippi Army National Guard’s Integrated Natural Resources Management Plan (INRMP) from critical habitat designation, and are considering the exclusion of other installation lands due to national security concerns.
 
 ### Who should you contact for more information?
 
@@ -175,7 +175,7 @@ Matt Hinderliter at 601-321-1132 or Connie Light Dickard at 601-321-1121, both a
 
 Connie Dickard, USFWS  
 601-321-1121  
-[connie_dickard@fws.gov](mailto:connie_dickard@fws.gov)  
+[connie_dickard@fws.gov](mailto:connie_dickard@fws.gov)
 
 Phil Kloer, USFWS  
 404-679-7299  
