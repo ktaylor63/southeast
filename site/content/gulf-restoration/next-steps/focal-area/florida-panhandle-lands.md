@@ -5,14 +5,14 @@ type: next-steps
 scrollnav: no-scrollnav
 hero:
     name: frosted-flatwoods-salamander-in-st-marks-nwr.jpg
-    alt: 'An orange and brown salamander on a log with large tufts behind it''s eyes.'
+    alt: 'An orange and brown salamander on a log with large tufts behind its eyes.'
     caption: 'Frosted flatwoods salamander at St. Marks National Wildlife Refuge. Photo by US Geological Service.'
     position: 'center left'
 tags:
     - Gulf
 categories:
     - 'Focal Area'
-updated: 'March 15th, 2017'
+updated: 'May 18th, 2018'
 ---
 
 ## Landscape at a Glance
