@@ -14,9 +14,9 @@ hero:
     caption: 'The Louisiana Ecological Services Field Office. Photo by USFWS.'
 tags:
     - 'Endangered Species Act'
-    - Lafayette
     - Louisiana
-updated: 'March 1st, 2018'
+    - 'Louisiana Ecological Services Field Office'
+updated: 'May 7th, 2018'
 ---
 
 The field station was established in 1972. We strive for ecosystem sustainability through preservation, conservation, enhancement, and restoration of habitats essential for the long-term viability of the fish, wildlife, and plants in Louisiana. The field office emphasizes an ecosystem approach incorporating Strategic Habitat Conservation to address and prioritize habitat issues through partnerships with other federal and state agencies, conservation organizations, private landowners, and citizens to achieve the greatest possible benefits to fish and wildlife.
@@ -35,11 +35,11 @@ Occasionally, federal agencies must respond to emergency situations where human 
 
 [Learn more about emergency consultations.](/endangered-species-act/emergency-consultation/)
 
-{{< scroller-list tag="Lafayette" section="news" >}}
+{{< scroller-list tag="Louisiana Ecological Services Field Office" section="news" >}}
 
-{{< scroller-list tag="Lafayette" section="articles" >}}
+{{< scroller-list tag="Louisiana Ecological Services Field Office" section="articles" >}}
 
-{{< scroller-list tag="Lafayette" section="wildlife" >}}
+{{< scroller-list tag="Louisiana Ecological Services Field Office" section="wildlife" >}}
 
 ## Suggested Streamlined Coordination for Oil and Natural Gas Exploration, Drilling and Production in Louisiana Shale Plays
 
