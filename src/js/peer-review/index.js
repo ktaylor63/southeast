@@ -20,24 +20,26 @@ const byYear = (a, b) => {
 
 const createListItem = r => {
   const url = ['https://www.regulations.gov/docket', r.docket].join('?D=');
-  const message = `The SSA for ${r.species} will be peer reviewed in ${
-    r.fiscalYear
-  }.`;
+  const tense = r.peerReviewReportStatus === 'Complete' ? 'was' : 'will be';
+  const message = `The SSA for ${r.species} ${tense} peer reviewed in fiscal year ${r.fiscalYear}.`;
   const anchor = `<a href="${url}" target="_blank">Species: ${r.species}</a>`;
+  const ssaDoc = r.ssaReport
+    ? `<li><a href="${r.ssaReport}">${r.species} species status assessment</a></li>`
+    : '';
   const peerReviewPlan = r.peerReviewPlan
     ? `<li><a href="${baseURL}pdf/peer-review/${
-        r.peerReviewPlan
-      }" target="_blank">Peer review plan</a></li>`
+      r.peerReviewPlan
+    }" target="_blank">Peer review plan</a></li>`
     : '';
   return `
     <li class="card card-text">
       <span class="card-ribbon">${r.type}</span>
-      <span class="card-date">${getYearFromDocket(r.docket) ||
-        r.fiscalYear}</span>
+      <span class="card-date">FY${r.fiscalYear}</span>
       <div class="card-text">
         <ul>
           <li>${r.docket ? anchor : message}</li>
           ${peerReviewPlan}
+          ${ssaDoc}
         </ul>
       </div>
     </li>
@@ -58,10 +60,9 @@ const search = e => {
   if (query.length === 0) render(reviews);
 
   const filtered = reviews.filter(r => {
-    const year = getYearFromDocket(r.docket);
     const isSpecies = regex.test(r.species);
     const isType = regex.test(r.type);
-    const isYear = regex.test(year);
+    const isYear = regex.test(r.fiscalYear);
     const isDocket = regex.test(r.docket);
     return isSpecies || isType || isYear || isDocket;
   });
