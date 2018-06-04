@@ -3,9 +3,9 @@ title: 'Easement program a win-win for landowners and black bears'
 description: 'The rapid expansion of agriculture in the state of Louisiana was one of the factors pushing the Louisiana black bear to the edge of extinction. USDA’s Kevin Norton plays a key role in ensuring the bear has habitat while farmers benefit from restoring and conserving their land.'
 tags:
     - Agriculture
-    - Lafayette
     - Louisiana
     - 'Louisiana Black Bear'
+    - 'Louisiana Ecological Services Field Office'
     - NRCS
     - Partnership
     - Recovery
@@ -17,7 +17,7 @@ hero:
     name: louisiana-black-bear-kevin-norton.jpg
 author: 'Nadine Siak, USFWS Gulf Restoration program'
 date: '2016-03-10'
-updated: 'April 20th, 2017'
+updated: 'May 7th, 2018'
 ---
 
 According to the U.S. Department of Agriculture (USDA), there were 308,000 acres in agricultural use in the delta region of Louisiana in 1960; by 1980, the amount of agricultural land had grown more than tenfold, to more than 3.4 million acres. But the expansion of agriculture land production to meet the nation’s food supply also pushed the Louisiana black bear to the edge of extinction.
@@ -32,7 +32,7 @@ Louisiana leads the nation in the total number of acres in the program – from 
 
 While Norton can roll off numbers with ease, what really gets him excited is the “multi-agency” partnership that ensured the success of the USDA program, and thus the recovery of the Louisiana black bear. He praises the state and federal agencies, non-governmental agencies, and more than 958 private landowners involved.
 
-Clearly, the willingness of private landowners to offer their lands for the restoration of wetlands and related habitat was critical.  They still own the land, pay taxes, and are allowed some recreation related benefits, but the key is the habitats are protected in perpetuity.
+Clearly, the willingness of private landowners to offer their lands for the restoration of wetlands and related habitat was critical. They still own the land, pay taxes, and are allowed some recreation related benefits, but the key is the habitats are protected in perpetuity.
 
 Norton has been working with various partners on Louisiana black bear issues since arriving in Louisiana in 2007.
 
