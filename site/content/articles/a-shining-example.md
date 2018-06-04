@@ -32,7 +32,7 @@ Shine, a man of few words who shuns the limelight, downplayed the significance o
 
 But make no mistake: Shine is passionate about saving the world, or at least his little corner of it.
 
-“We’re doing damage to the land and to the planet and it’s important to me to do whatever I can to reverse the damage,” he said. 
+“We’re doing damage to the land and to the planet and it’s important to me to do whatever I can to reverse the damage,” he said.
 
 ## Saving land for posterity
 
@@ -43,7 +43,7 @@ He, along with wife Betty, founded SAMTEC, Inc. in 1976, renting two rooms behin
 Shine targeted companies overlooked by large manufacturers for his connectors and cables. Attention to the customer, learned from his father Ira, transformed SAMTEC into a $713 million (in 2017 revenues) manufacturing juggernaut with 5,000 employees scattered across factories and sales offices in Indiana, Asia, Europe and Latin America. A privately held company with workers given ownership stakes, SAMTEC’s website boasts a lofty 96 percent retention rate for employees.
 
 Sam Shine created an eponymous foundation in 1995 as he turned his attention toward conservation. He largely retired a few years later, turning the corporate helm over to son John. Southern Indiana and northern Florida became his philanthropic focus.
- 
+
 Shine chipped in for the Ohio River Greenway. He donated 40 acres to Purdue University for a research park. He helped purchase 339 acres for a land trust in Bloomington. He donated $1 million to the Louisville botanical gardens.
 
 “In my lifetime I’ve seen the community where I live go from a wonderful place to a developed, not wonderful place,” Shine said. “So I’m just trying to save the pieces I can save for posterity in Indiana and Florida.”
@@ -51,14 +51,14 @@ Shine chipped in for the Ohio River Greenway. He donated 40 acres to Purdue Univ
 His work in Florida was on a grander scale. He typically, bought up large tracts of pine tree plantations near the Big Bend area, harvested the commercial pine and replanted with longleaf pine. He’d work with The Nature Conservancy (TNC) or other private investors and sell off chunks of the land at reduced prices to the Service, the Florida Fish and Wildlife Conservation Commission or nonprofits.
 
 Shine and M.C. Davis, a more renowned (now deceased) private landowner and conservationist, did several land deals together, including the transfer of 50,000 acres to the Suwannee River Water Management District. Shine helped Davis create the 54,000-acre Nokuse Plantation, a nature preserve near Panama City considered the largest chunk of privately held conservation land in the Southeast.
- 
+
 The Shine foundation also put up money for the ecologically critical Apalachicola Bluffs and Ravines Preserve, a TNC-owned refuge famed for its rare evergreen trees, mountain laurel, Bachman’s sparrows and, now, Eastern indigo snakes.
 
 “Sam has a long history of making good decisions to get these important parcels into protection while the state and federal governments worked out the deals on their end,” said David Printiss, program manager for TNC in North Florida. “He is an incredibly generous philanthropist and needs to get a whole lot of credit for all his work in Florida. I sure wish we had more like him.”
 
 ## A 100-mile conservation corridor
 
-It was Davis, a former pool and poker hustler turned commodities trader and ardent environmentalist, who turned Shine on to the Flint Rock tract adjoining the St. Marks refuge. Shine and TNC each purchased 10,000 acres of former St. Joe’s paper company pine plantation in 2008. 
+It was Davis, a former pool and poker hustler turned commodities trader and ardent environmentalist, who turned Shine on to the Flint Rock tract adjoining the St. Marks refuge. Shine and TNC each purchased 10,000 acres of former St. Joe’s paper company pine plantation in 2008.
 
 “We bought it to keep it from being developed and chopped up into hunt camps and ranchettes,” Shine said. “It’s coastal, gulf Florida with all these wonderful river systems. I wanted it to go to Fish and Wildlife, but I didn’t count on it taking 10 years.”
 
@@ -68,7 +68,7 @@ In January Shine told the Service he wanted to donate the rest of his property &
 
 {{< figure class="photo-center" src="/images/pages/longleaf-pine-camp-blanding.jpg" alt="A forest of mature longleaf pine trees with limited understory vegetation." caption="Longleaf pine habitat in Eastern Florida at Camp Blanding. Photo by Leo Miranda, USFWS." link="https://flic.kr/p/Tqd1Vn" >}}
 
-“It rarely happens that we get large tracts of land, especially land that’s already started to be restored,” said Dan Frisk, project leader for St. Marks and other North Florida refuges. “And, since it joins our property, we now own all the land from the gulf up to the coastal highway. So that’s pretty cool.” 
+“It rarely happens that we get large tracts of land, especially land that’s already started to be restored,” said Dan Frisk, project leader for St. Marks and other North Florida refuges. “And, since it joins our property, we now own all the land from the gulf up to the coastal highway. So that’s pretty cool.”
 
 St. Marks now encompasses more than 80,000 acres. The Shine property lets the refuge connect with TNC land (which the Service hopes to buy next), which connects to the Aucilla Wildlife Management Area. Three WMAs, one national forest, one state forest and the refuge translates into a near-seamless 100-mile long conservation corridor along the Gulf Coast.
 
