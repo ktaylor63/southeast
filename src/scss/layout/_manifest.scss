@@ -17,6 +17,12 @@
   margin: auto;
 }
 
+.full-width {
+  @media(min-width: $break-lg) {
+    margin-left: $nav-width;
+  }
+}
+
 .layout {
   @include container($container-width);
 }
