@@ -1,0 +1,9 @@
+{{ if .Params.video }}
+<div class="hero">
+  {{ if .Params.video.name }}
+  <div class='hero-parallax parallax'>
+    <video src='/video/{{ .Params.video.name }}' autoplay="true" muted="true" loop="true"></video>
+  </div>
+  {{ end }}
+</div>
+{{ end }}
