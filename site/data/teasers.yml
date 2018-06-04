@@ -1,5 +1,61 @@
 ---
 stories:
+  - title: 'Everglades National Park and FWC to expand python removal efforts'
+    summary: 'Everglades National Park and the Florida Fish and Wildlife Conservation Commission (FWC) are partnering together to expand efforts to remove Burmese pythons from within the park. The partnership will expand the park’s Python Removal Authorized Agent Program by allowing paid FWC contractors to remove pythons in Everglades National Park. The expansion will triple the maximum allowed number of participants in the park from 40 to 120, allow FWC contractors to use firearms or other humane methods to euthanize pythons in the wild, and qualify additional trained NPS personnel to live capture and turn in pythons.'
+    date: '2018-05-31'
+    url: 'http://myfwc.com/news/news-releases/2018/may/31/python-removal/'
+    hero:
+        name: burmese-python.jpg
+        alt: 'A large snake with a black and brown pattern on its back moving through the grass.'
+        caption: 'Burmese python. Photo by Liz Barraco, FWC.'
+  - title: 'Video: The endangered reticulated flatwoods salamander at Hurlburt Field and Eglin Air Force Base'
+    summary: 'Hurlburt Field, Eglin Air Force Base, and the U.S. Fish and Wildlife Service continue to work together to try and save the endangered reticulated flatwoods salamander. Increasing the numbers of this little salamander means more possibilities for our airmen, training and for our environment. Video by Florida Fish and Wildlife Conservation Commission.'
+    date: '2018-05-13'
+    url: 'https://www.facebook.com/HurlburtFieldOfficial/videos/1836046046416960/?hc_ref=ARQzB2aCYzZnXqvLiaJAL2qvFemS2Tv3_81qA4Fu-YP1yVD4nbzHkmUPt7sGJSc47Zw&fref=nf'
+  - title: 'US cities losing 36 million trees a year, researchers find'
+    summary: 'Scientists warn of environmental threats rising from trend that is ‘likely to continue unless policies are altered’'
+    date: '2018-05-10'
+    url: 'https://www.theguardian.com/cities/2018/may/10/us-cities-losing-millions-of-trees-a-year'
+  - title: 'Rare whooping cranes hatch at Florida wildlife refuge'
+    summary: 'Like many spring phenomena this year, sea turtle nesting season in South Carolina was slightly behind schedule. The season’s official May 1 start date came and went with no sign of nesting turtles, likely due to cooler-than-normal water temperatures resulting from an abnormally cold winter.'
+    date: '2018-05-09'
+    url: 'http://www.dnr.sc.gov/news/2018/may/may9_seaturtles.html'
+    hero:
+        name: sc-dnr-loggerhead-nesting-sign.jpg
+        alt: 'A bright orange sign identifies a Loggerhead Turtle Nesting Area'
+        caption: 'A South Carolina DNR sign identifying a loggerhead turtle nesting area. Photo by E. Weeks, SCDNR.'
+  - title: 'Rare whooping cranes hatch at Florida wildlife refuge'
+    summary: 'Matchmaking efforts by a North Florida wildlife refuge that paired up two endangered whooping cranes two years ago have finally paid off. On Tuesday, biologists at White Oak announced that the cranes, Grasshopper and Hemlock, had hatched a pair of fuzzy brown chicks, a rare captive-bred love story for the state. The birds, brought to the Yulee refuge in 2016, were being groomed to be a future couple, but surprised wildlife managers with the hatchlings this spring.'
+    date: '2018-05-09'
+    url: 'http://www.miamiherald.com/news/local/environment/article210719714.html'
+    hero:
+        name: whooping-crane-duo.jpg
+        alt: 'Two bright white birds with red patches on their face and long slender legs standing in the a dormant grassy field.'
+        caption: 'Whooping cranes. Photo by D. Serverson, USFWS.'
+  - title: 'Loggerhead nest on Cumberland marks season start'
+    summary: 'Sea turtle nesting season is on in Georgia. National Park Service staff documented the first loggerhead nest of 2018 on Cumberland Island Tuesday morning, the fifth straight year that honor went to Georgia’s southernmost barrier island.'
+    date: '2018-05-09'
+    url: 'http://georgiawildlife.com/loggerhead-nest-cumberland-marks-season-start-0'
+    hero:
+      name: loggerhead-closeup.jpg
+      alt: A wide-eyed turtle’s face inches away from the camera.
+      caption: Loggerhead in tank at the Tybee Island Marine Science Center. Photo by Joe Pfaller.
+  - title: 'Searching For The ‘Salmon Of The South’'
+    summary: 'Georgia is a hotspot for fish. There are more species of fish in Georgia’s rivers and streams than almost any other state in the nation. There’s one that scientists didn’t even realize existed until the 1990s. It’s called the sicklefin redhorse, and now that scientists know that it’s out there, they’re trying to protect it.'
+    date: '2018-04-30'
+    url: 'https://www.wabe.org/searching-sicklefin-redhorse/'
+    hero:
+      name: sicklefin-redhorse-brett-albanese.jpg
+      alt: A biologist standing in a stream holds a scaly green fish.
+      caption: Brett Albanese, biologist with the Georgia Department of Natural Resources, holds a sicklefin redhorse. Photo by Peter Dimmick, Georgia Department of Natural Resources.
+  - title: 'Georgia refuge helped save wood stork from extincton'
+    summary: 'Thirty-five years ago, wildlife scientists feared that the wood stork, a large wading bird of Southeast swamps, would be extinct by 2000 unless the species made a remarkable recovery. The lanky, bald-headed bird, North America’s only breeding stork species, was put on the federal Endangered Species List. State and federal wildlife managers in Georgia and elsewhere then undertook intense conservation efforts to prevent the bird from passing into oblivion. Those efforts paid off. The wood stork was upgraded in 2014 from endangered to threatened, an indication that it no longer faces extinction — another great success story of the Endangered Species Act.'
+    date: '2018-05-04'
+    url: 'https://www.myajc.com/lifestyles/environment/georgia-refuge-helped-save-wood-stork-from-extincton/kTiiefId1Ha3YKlgpspg5K/'
+    hero:
+      name: wood-stork-rookery.jpg
+      alt: hundreds of bright white birds nest in trees around a pond.
+      caption: Wood stork rookery at Harris Neck NWR. Photo by Mary Ellen Urbanski.
   - title: 'Camp Lejeune joining effort to protect endangered woodpecker'
     summary: 'Camp Lejeune will partner with several groups to keep the animals away from training grounds. Several agencies gathered at Stones Creek Game Lands in Sneads Ferry on Monday for a groundbreaking ceremony. It’s part of the partnership to help protect the red-cockaded woodpecker. The partnership aims to enhance training flexibility at Camp Lejeune while also managing the habitat of the woodpecker.'
     date: '2018-04-30'
