@@ -5,6 +5,7 @@ url: /work-with-us
 aliases:
     - /work-with-us/jobs
     - /jobs
+    - /hr
 nav: Jobs
 weight: 1
 js: /js/jobs.js
@@ -20,7 +21,7 @@ type: no-scrollnav
 updated: 'November 17th, 2016'
 ---
 
-This page searches [USAJOBS - The Federal Government's Official Jobs Site](https://www.usajobs.gov/).  The **results are limited to USFWS jobs within the Southeast Region** including Alabama, Arkansas, Florida, Georgia, Kentucky, Mississippi, North Carolina, Puerto Rico, South Carolina, Tennessee, and the U.S. Virgin Islands.
+This page searches [USAJOBS - The Federal Government's Official Jobs Site](https://www.usajobs.gov/). The **results are limited to USFWS jobs within the Southeast Region** including Alabama, Arkansas, Florida, Georgia, Kentucky, Mississippi, North Carolina, Puerto Rico, South Carolina, Tennessee, and the U.S. Virgin Islands.
 
 Please check back periodically for updates, or create a custom search at [usajobs.gov](http://usajobs.gov).
 
