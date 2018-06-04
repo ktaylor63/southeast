@@ -18,7 +18,7 @@ tags:
     - Fish
     - 'North Carolina'
     - Recovery
-updated: 'March 21st, 2018'
+updated: 'May 31st, 2018'
 ---
 
 - **Taxon:** Freshwater fish
@@ -73,7 +73,7 @@ The North Carolina Wildlife Resources Commission and the Service translocated ab
 
 ### 2007
 
-Chatham County established the Charter for the Chatham Conservation Partnership, which brought together more than 30 state, federal, and local government organizations, non-profits, universities, and private landowners to plan and implement natural resources conservation. The Service's facilitated information about the Cape Fear shiner’s needs, which led to the development of Chatham Park. We continued to provide technical assistance though the development phase.
+The Chatham Conservation Partnership (CCP) was established, bringing together more than 30 state, federal, and local government organizations, non-profits, universities, and private landowners to plan and implement natural resources conservation in Chatham County.  The Service provides information about the Cape Fear Shiner's needs, which have been used for technical assistance as new projects come along, such as the development phase of Chatham Park.
 
 ### 2000 - 2006
 
