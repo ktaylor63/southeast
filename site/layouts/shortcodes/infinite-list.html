@@ -13,26 +13,26 @@
   {{ $.Scratch.Add "pages" $tagPages }}
 {{ end }}
 
-<ol class='infinite-list card-list'>
+<ol class="infinite-list card-list">
 {{ range $index, $element := $.Scratch.Get "pages" }}
-  <li class='infinite-list--item card card-text'>
-    {{ if (in $element.Params.tags "E-Grits") }}<p class='infinite-list--type'>{{ $element.Params.type }}</p>{{ end }}
-    <a href='{{ $element.Permalink }}'>
-    <header class='infinite-list--header'>
-      <div class='infinite-list--img-date'>
+  <li class="infinite-list--item card card-text">
+    {{ if (in $element.Params.tags "E-Grits") }}<p class="infinite-list--type">{{ $element.Params.type }}</p>{{ end }}
+    <a href="{{ $element.Permalink }}">
+    <header class="infinite-list--header">
+      <div class="infinite-list--img-date">
         {{ if $element.Params.hero.name }}
-        <img {{ if lt $index $lazyLoadLimit }}src{{ else }}src="/images/svg/picture.svg" data-src{{ end }}='{{ $.Site.BaseURL }}images/hero/small/{{ $element.Params.hero.name }}' alt='{{ $element.Params.hero.alt }}'/>
+        <img {{ if lt $index $lazyLoadLimit }}src{{ else }}src="/images/svg/picture.svg" data-src{{ end }}="{{ $.Site.BaseURL }}images/hero/small/{{ $element.Params.hero.name }}" alt="{{ $element.Params.hero.alt }}"/>
         {{ end }}
         {{ if not $element.Date.IsZero }}
         <span class="infinite-list--date">{{ $element.Date.Format "Jan 2, 2006"}}{{ if gt $element.ReadingTime 0 }} | {{ $element.ReadingTime }} minute read{{ end }}</span>
         {{ end }}
       </div>
-      <div class='infinite-list--title'>
+      <div class="infinite-list--title">
         <h3>{{ $element.Title }}</h3>
       </div>
     </header>
     </a>
-    <p class='infinite-list--summary'>{{ if $element.Description }}{{ $element.Description | markdownify }}{{ else }}{{ $element.Summary | markdownify }}{{ end }} <a href='{{ $element.Permalink }}' aria-label="{{ $element.Title }}">Read the full story &raquo;</a></p>
+    <p class="infinite-list--summary">{{ if $element.Description }}{{ $element.Description | markdownify }}{{ else }}{{ $element.Summary | markdownify }}{{ end }} <a href="{{ $element.Permalink }}" aria-label="{{ $element.Title }}">Read the full story &raquo;</a></p>
   </li>
 {{ end }}
 </ol>
