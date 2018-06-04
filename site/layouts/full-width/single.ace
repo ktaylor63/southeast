@@ -1,0 +1,4 @@
+= content main
+  .full-width
+    h1 {{ .Title }}
+    {{ .Content }}

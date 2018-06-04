@@ -1,0 +1,24 @@
+= doctype html
+html lang="en-US"
+  head
+    = include partials/head.html .
+    = include partials/css.html .
+  body data-root="{{ .Site.BaseURL }}"
+    a#skip-to-content href=#content skip to content
+    = include partials/navigation.html .
+    {{ if .Params.hero }}
+    = include partials/hero.html .
+    {{ end }}
+    {{ if .Params.nav }}
+    = include partials/section-navigation.html .
+    {{ end }}
+    .wrapper
+      = yield main
+    = include partials/footer.html .
+    = include partials/contact.html .
+    = include partials/share.html .
+    = include partials/search.html .
+    {{ if isset .Params "scrollnav" }}
+    span.hide-scrollnav
+    {{ end }}
+    = include partials/scripts.html .
