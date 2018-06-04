@@ -17,6 +17,8 @@ site/static/data
 .DS_Store
 Thumbs.db
 
+# Testing
+test/results
 
 # Refuges
 planning/
