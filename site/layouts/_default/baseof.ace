@@ -6,7 +6,12 @@ html lang="en-US"
   body data-root="{{ .Site.BaseURL }}"
     a#skip-to-content href=#content skip to content
     = include partials/navigation.html .
+    {{ if .Params.hero }}
     = include partials/hero.html .
+    {{ end }}
+    {{ if .Params.video }}
+    = include partials/video-banner.html .
+    {{ end }}
     {{ if .Params.nav }}
     = include partials/section-navigation.html .
     {{ end }}
