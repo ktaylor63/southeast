@@ -1,0 +1,23 @@
+{{ $data := getJSON "../dist/data/reading-room-documents.js" }}
+{{ $keyword := .Get "keyword" }}
+<div class="scroller-list">
+<header>
+  <h2 id="documents" class="scroller-list--heading">Documents</h2>
+</header>
+  <ol class="scroller-list--list">
+    {{ range sort $data "year" "desc" }}
+      {{ if in .keywords $keyword }}
+      <li class="scroller-list--item">
+        <a href="/pdf/{{ .url }}">
+          <div class="con-date">
+            {{ if .year }}
+            <span>{{ .year }}</span>
+            {{ end }}
+          </div>
+          <p>{{ .name }}</p>
+        </a>
+      </li>
+      {{ end }}
+    {{ end }}
+  </ol>
+</div>
