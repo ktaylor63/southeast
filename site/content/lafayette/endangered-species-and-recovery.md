@@ -20,9 +20,13 @@ One of the primary responsibilities of the U.S. Fish and Wildlife Service (Servi
 
 The Endangered Species Act (ESA) is America’s strongest conservation law. Originally passed by Congress in 1973, the ESA is jointly administered by the Service and the [National Marine Fisheries Service](http://www.nmfs.noaa.gov/) (NMFS). The Service has primary responsibility for terrestrial and freshwater organisms, while the responsibilities of NMFS are mainly marine wildlife such as whales and anadromous fish like salmon.
 
-All species of plants and animals, except pest insects, are eligible for listing as endangered or threatened.  [Learn more about how we work to conserve species in the Southeast region.](https://www.fws.gov/southeast/endangered-species-act#endangered-vs-threatened)
+All species of plants and animals, except pest insects, are eligible for listing as endangered or threatened. [Learn more about how we work to conserve species in the Southeast region.](https://www.fws.gov/southeast/endangered-species-act#endangered-vs-threatened)
 
 **[Download a list of threatened and endangered species by parish in Louisiana](/pdf/fact-sheet/louisiana-ecological-services-field-office-t-and-e-species.pdf).**
+
+## Guidance on Determining Need for Incidental Take Permit under ESA Section 10(a)(1)(B)
+
+Are you unsure whether you need an incidental take permit? Download the [questionnaire](/pdf/guidelines/questionnaire-for-potential-applicants-under-section-10.pdf) or [decision tree](/pdf/guidelines/section-10-trigger-graphic.pdf) to learn more.
 
 ## Habitat Conservation Plan (HCP)
 
@@ -31,16 +35,16 @@ HCPs are planning documents required as part of an application for an incidental
 
 ## HCP documents
 
-  - [Habitat Conservation Plan Handbook](http://training.fws.gov/EC/Resources/HCP/HCP/HCPbook.pdf)
-  - [Executive Summary of the HCP Handbook](https://www.fws.gov/endangered/esa-library/pdf/Executive_Summary.pdf)
-  - [HCP Questions and Answers](https://www.fws.gov/endangered/esa-library/pdf/Final_Addendum_QandA.pdf)
-  - [HCP Fact Sheet](https://www.fws.gov/endangered/esa-library/pdf/hcp.pdf)
+* [Habitat Conservation Plan Handbook](http://training.fws.gov/EC/Resources/HCP/HCP/HCPbook.pdf)
+* [Executive Summary of the HCP Handbook](https://www.fws.gov/endangered/esa-library/pdf/Executive_Summary.pdf)
+* [HCP Questions and Answers](https://www.fws.gov/endangered/esa-library/pdf/Final_Addendum_QandA.pdf)
+* [HCP Fact Sheet](https://www.fws.gov/endangered/esa-library/pdf/hcp.pdf)
 
 ## Incidental Take Permits
 
 Private landowners, corporations, state or local governments, or other non-federal landowners who wish to conduct activities on their land that might incidentally harm (or "take") a species [listed as threatened or endangered](http://ecos.fws.gov/tess_public/pub/stateListingAndOccurrenceIndividual.jsp?state=AL&s8fid=112761032792&s8fid=112762573902) must first obtain an incidental take permit from the Service.
 
- - [Federal Fish and Wildlife License / Permit Application Form](https://www.fws.gov/lafayette/hcp/Section%2010%20form.pdf)
+* [Federal Fish and Wildlife License / Permit Application Form](https://www.fws.gov/lafayette/hcp/Section%2010%20form.pdf)
 
 ## Safe Harbor Agreements
 
@@ -64,14 +68,14 @@ In 2016, the Service removed the [Louisiana black bear](/wildlife/mammals/louisi
 
 ### Louisiana black bear recovery and delisting resources
 
-  - [Delisting Press Release](/news/2016/03/the-teddy-bear-is-back-us-fish-and-wildlife-service-delists-louisiana-black-bear-due-to-recovery/)
-  - [Federal Register Notice](https://www.regulations.gov/document?D=FWS-R4-ES-2015-0014-0075)
-  - [Delisting Frequently Asked Questions](/faq/louisiana-black-bear-removal-from-the-lists-of-threatened-and-endangered-species-due-to-recovery/)
-  - [Post-Delisting Conservation Considerations Fact Sheet](/pdf/fact-sheet/louisiana-black-bear-post-delisting-consultation.pdf)
-  - [Post-Delisting Monitoring Plan](https://www.regulations.gov/document?D=FWS-R4-ES-2015-0014-0078)
-  - [1st Annual Post-Delisting Monitoring Report](/pdf/report/louisiana-black-bear-1st-annual-post-delisting-monitoring-report.pdf)
-  - [2nd Annual Post-Delisting Monitoring Report](/pdf/report/louisiana-black-bear-2nd-annual-post-delisting-monitoring-report.pdf)
-  - [Combined 1993 - 2008 - 2014 LA Black Bear Breeding Habitat Map](/pdf/map/louisiana-black-bear-breeding-habitat-map.pdf)
+* [Delisting Press Release](/news/2016/03/the-teddy-bear-is-back-us-fish-and-wildlife-service-delists-louisiana-black-bear-due-to-recovery/)
+* [Federal Register Notice](https://www.regulations.gov/document?D=FWS-R4-ES-2015-0014-0075)
+* [Delisting Frequently Asked Questions](/faq/louisiana-black-bear-removal-from-the-lists-of-threatened-and-endangered-species-due-to-recovery/)
+* [Post-Delisting Conservation Considerations Fact Sheet](/pdf/fact-sheet/louisiana-black-bear-post-delisting-consultation.pdf)
+* [Post-Delisting Monitoring Plan](https://www.regulations.gov/document?D=FWS-R4-ES-2015-0014-0078)
+* [1st Annual Post-Delisting Monitoring Report](/pdf/report/louisiana-black-bear-1st-annual-post-delisting-monitoring-report.pdf)
+* [2nd Annual Post-Delisting Monitoring Report](/pdf/report/louisiana-black-bear-2nd-annual-post-delisting-monitoring-report.pdf)
+* [Combined 1993 - 2008 - 2014 LA Black Bear Breeding Habitat Map](/pdf/map/louisiana-black-bear-breeding-habitat-map.pdf)
 
 ## Louisiana black bear content
 
