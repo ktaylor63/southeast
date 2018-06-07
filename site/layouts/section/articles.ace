@@ -1,8 +1,10 @@
 = content main
   .content-centered
     h1.page-title {{ .Title }}
-
     {{ $section := lower .Title }}
+
+    p.text-centered
+      a href="/{{ $section }}/index.xml" Subscribe to an RSS feed
 
     {{ $paginator := .Paginate (where .Data.Pages "Section" $section) 7 }}
     {{ range $paginator.Pages }}
