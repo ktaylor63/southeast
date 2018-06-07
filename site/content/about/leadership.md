@@ -12,7 +12,7 @@ hero:
     link: 'https://flic.kr/p/EgwW37'
     caption: 'Acting Regional Director Mike Oetker speaking at a ceremony in Cherokee, North Carolina where partners signed a Candidate Conservation Agreement for the sicklefin redhorse. Photo by Gary Peeples, USFWS.'
     position: 'top right'
-updated: 'January 4th, 2018'
+updated: 'June 6th, 2018'
 ---
 
 Nationally, the U.S. Fish and Wildlife Service is led by a Director, a team of Assistant Directors and eight Regional Directors. (See our [headquarters organizational chart.](http://www.fws.gov/offices/orgcht.html))
@@ -100,6 +100,15 @@ He is a graduate of the University of Tennessee, Knoxville, and is married with 
 Kevin Reynolds leads the Department of the Interior’s Gulf restoration efforts resulting from the Deepwater Horizon oil spill in 2010. He provides leadership, direction, and coordination across the Department for all restoration efforts funded primarily by the Deepwater Horizon Natural Resource Damage Assessment and Restoration, the Gulf Coast Ecosystem Restoration Council and the National Fish and Wildlife Foundation’s Gulf Environmental Benefit Fund.
 
 Kevin earned a B.A. in Neuroscience from Hamilton College, and a Masters and Ph.D. in Environmental Toxicology from Clemson and Texas Tech University, respectively. His first job with the Service was in the Arizona Ecological Services Field Office, and he also worked in Headquarters prior to joining the Southeast Region in 2011. He and his wife Leah live in Johns Creek, Georgia with their three children, Kelly, Nick and Caitlin.
+
+## Laurel Barnhill
+### Chief, Migratory Bird Program
+
+{{< figure class="photo-right" src="/images/pages/laurel-barnhill.jpg" alt="Portrait shot of a woman with a brown pet dog." >}}
+
+Laurel Barnhill serves as the Chief of the Migratory Bird Program for the U.S. Fish and Wildlife Service-Southeast Region.  She joined the Service in 2011 as Southeast Region National Wildlife Refuge System Inventory and Monitoring Coordinator.  Laurel’s prior positions were as the Bird Conservation Coordinator for South Carolina Department of Natural Resources, Wildlife Biologist for the USDA Forest Service – Savannah River, and Passerine Bird Coordinator for Arkansas Game and Fish Commission.
+
+Laurel earned a M.S. in Zoology from the University of Arkansas and a B.S. in Wildlife and Fisheries Biology from the University of Vermont.
 
 ## Leopoldo "Leo" Miranda
 ### Assistant Regional Director, Ecological Services
