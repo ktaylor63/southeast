@@ -653,7 +653,7 @@ Florida Panther National Wildlife Refuge,,General Brochure,,brochure/florida-pan
 Grand Cote National Wildlife Refuge,,General Brochure,,brochure/grand-cote-national-wildlife-refuge.pdf,,National Wildlife Refuge System,,
 Great White Heron National Wildlife Refuge,,General Brochure,,brochure/great-white-heron-national-wildlife-refuge.pdf,,National Wildlife Refuge System,,
 Harris Neck National Wildlife Refuge,,General Brochure,,brochure/harris-neck-national-wildlife-refuge.pdf,,National Wildlife Refuge System,,
-Harris Neck National Wildlife Refuge,Trail Guide,General Brochure,,brochure/harris-neck-national-wildlife-refuge-trail-guide.pdf,,National Wildlife Refuge System,,
+Harris Neck National Wildlife Refuge,Trail Guide,General Brochure,TRUE,brochure/harris-neck-national-wildlife-refuge-trail-guide.pdf,,National Wildlife Refuge System,,
 Hatchie National Wildlife Refuge,,General Brochure,,brochure/hatchie-national-wildlife-refuge.pdf,,National Wildlife Refuge System,,
 Holla Bend National Wildlife Refuge,,General Brochure,,brochure/holla-bend-national-wildlife-refuge.pdf,,National Wildlife Refuge System,,
 Holt Collier National Wildlife Refuge,Guiding Roosevelt through the Mississippi Canebreaks,General Brochure,,brochure/holt-collier-national-wildlife-refuge-guiding-roosevelt.pdf,,National Wildlife Refuge System,,
@@ -1147,8 +1147,7 @@ Chassahowitzka National Wildlife Refuge,,Tearsheet,,tearsheet/chassahowitzka-nat
 Cross Creeks National Wildlife Refuge,,Tearsheet,,tearsheet/cross-creeks-national-wildlife-refuge.pdf,,National Wildlife Refuge System,,
 Crystal River National Wildlife Refuge,,Tearsheet,,tearsheet/crystal-river-national-wildlife-refuge.pdf,,National Wildlife Refuge System,,
 Eufaula National Wildlife Refuge,,Tearsheet,,tearsheet/eufaula-national-wildlife-refuge.pdf,,National Wildlife Refuge System,,
-Florida Keys National Wildlife Refuges Complex,,Tearsheet,,tearsheet/florida-keys-national-wildlife-refuges-complex.pdf,,National Wildlife Refuge System,,
-Florida Keys National Wildlife Refuges Complex,,Tearsheet,,tearsheet/key-west-and-great-white-heron-national-wildlife-refuges.pdf,,National Wildlife Refuge System,,
+Florida Keys National Wildlife Refuges Complex,,Tearsheet,TRUE,tearsheet/florida-keys-national-wildlife-refuges-complex.pdf,,National Wildlife Refuge System,,
 Grand Cote National Wildlife Refuge,,Tearsheet,,tearsheet/grand-cote-national-wildlife-refuge.pdf,,National Wildlife Refuge System,,
 Holla Bend National Wildlife Refuge,,Tearsheet,,tearsheet/holla-bend-national-wildlife-refuge.pdf,,National Wildlife Refuge System,,
 Lake Ophelia National Wildlife Refuge,,Tearsheet,,tearsheet/lake-ophelia-national-wildlife-refuge.pdf,,National Wildlife Refuge System,,
@@ -1522,3 +1521,6 @@ Merritt Island National Wildlife Refuge,Fishing and Boating Regulations,Regulati
 ,National Wildlife Refuge System,Infographic,,infographic/national-wildlife-refuge-system.jpg,2018,,Gulf Restoration Program,"Florida, Alabama, Georgia, Mississippi, North Carolina, South Carolina, Tennessee, Kentucky, Arkansas, Louisiana, Puerto Rico, US Virgin Islands"
 ,The Deepwater Horizon oil spill in the Gulf of Mexico and the North American Wetlands Conservation Fund,Infographic,,infographic/nawca-deepwater-horizon.jpg,2018,,Gulf Restoration Program,"Florida, Alabama, Mississippi, Louisiana"
 ,Southeast Region snapshot,Infographic,,infographic/southeast-snapshot.jpg,2018,,Gulf Restoration Program,"Florida, Alabama, Georgia, Mississippi, North Carolina, South Carolina, Tennessee, Kentucky, Arkansas, Louisiana, Puerto Rico, US Virgin Islands"
+,Center for Biological Diversity letter to withdraw 24 species from petition,Letter,,letter/cbd-withdrawal-of-24-species-june-2018.pdf,2018,,"At-risk species, Endangered Species",
+Caribbean Islands National Wildlife Refuges,Summer 2018 Newsletter,Newsletter,TRUE,newsletter/caribben-islands-nwr-bilingual-summer-2018.pdf,2018,,"Navassa, Desecheo, Cabo Rojo, Laguna Cartagena, Vieques,
+Culebra, Green Cay, Buck Island and Sandy Point","Caribbean, Puerto Rico, U.S. Virgin Islands"
