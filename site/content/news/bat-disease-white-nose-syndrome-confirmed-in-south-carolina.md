@@ -37,8 +37,7 @@ Bats play a critical role in maintaining healthy ecosystems and have an enormous
 
 “The news that white-nose syndrome has been confirmed in South Carolina is devastating for these very important mammals,” Bunch said. “We will continue to work closely with our partners to understand the spread of this deadly disease and to help minimize its impacts to affected bat species.”
 
-{{< youtube id="8Dlt6lCNfh0" title="White-nose syndrome is a disease caused by a fungus that has killed millions of hibernating bats across North America. Join U.S. Fish and Wildlife Service biologists and a researcher from the University of New Hampshire as they catch and tag little brown bats in a Charlestown, New Hampshire maternity colony to search for clues about the potential for persistence of these survivors.
-" >}}
+{{< youtube id="8Dlt6lCNfh0" title="White-nose syndrome is a disease caused by a fungus that has killed millions of hibernating bats across North America. Join U.S. Fish and Wildlife Service biologists and a researcher from the University of New Hampshire as they catch and tag little brown bats in a Charlestown, New Hampshire maternity colony to search for clues about the potential for persistence of these survivors." >}}
 
 ## Contact
 
