@@ -10,7 +10,6 @@ tags:
     - Florida
     - Louisiana
     - 'Louisiana Ecological Services Field Office'
-    - 'Louisiana Ecological Services Field Office'
     - 'Non-Essential Population'
     - Recovery
     - 'Whooping Crane'
@@ -33,14 +32,14 @@ Public comments will be accepted until **April 7, 2018 (the comment period has c
 
 The public may submit comments, or requests for or more information, by any of the following methods:
 
-* Email: [Lafayette@fws.gov](mailto:lafayette@fws.gov?subject=Whooping+Crane+EA). Include “Whooping Crane EA” in the subject line
-* Fax: [ATTN: Joseph Ranson], (337) 291-3139
-* U.S. Mail: 646 Cajundome Blvd, Suite 400, Lafayette, LA 70506
-* In-person drop-off, viewing, or pickup: Call (337) 291-3100 to make an appointment (necessary for view/pickup only) during regular business hours at 646 Cajundome Blvd, Suite 400, Lafayette, LA, 70506
-* In person viewing: Vermilion Parish Library, 405 E. Victor St. Abbeville, LA 70510
+- Email: [Lafayette@fws.gov](mailto:lafayette@fws.gov?subject=Whooping+Crane+EA). Include “Whooping Crane EA” in the subject line
+- Fax: [ATTN: Joseph Ranson], (337) 291-3139
+- U.S. Mail: 646 Cajundome Blvd, Suite 400, Lafayette, LA 70506
+- In-person drop-off, viewing, or pickup: Call (337) 291-3100 to make an appointment (necessary for view/pickup only) during regular business hours at 646 Cajundome Blvd, Suite 400, Lafayette, LA, 70506
+- In person viewing: Vermilion Parish Library, 405 E. Victor St. Abbeville, LA 70510
 
 ## Contact
 
-Phil Kloer, Public Affairs Specialist, (404) 644-7299  
-Joseph Ranson, Field Supervisor, (337) 291-3100  
+Phil Kloer, Public Affairs Specialist, (404) 644-7299
+Joseph Ranson, Field Supervisor, (337) 291-3100
 David A. Oster, Fish and Wildlife Biologist, (337) 291-3121
