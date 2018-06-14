@@ -45,11 +45,11 @@ We request that you send comments only by the methods described above. We will p
 
 ## Additional information
 
-* [Download the Programmatic Candidate Conservation Agreement with Assurances with the Louisiana Department of Wildlife and Fisheries](/pdf/agreement/programmatic-ccaa-for-louisiana-pinesnake-in-louisiana.pdf)
-* [Read the frequently asked questions associated with this decision](/faq/listing-of-the-louisiana-pinesnake-under-the-esa-and-the-louisiana-pinesnake-proposed-4d-rule)
-* [Visit the Louisiana pinesnake species profile](https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=C02C)
+- [Download the Programmatic Candidate Conservation Agreement with Assurances with the Louisiana Department of Wildlife and Fisheries](/pdf/agreement/candidate-conservation-agreement-with-assurances/programmatic-ccaa-for-louisiana-pinesnake-in-louisiana.pdf)
+- [Read the frequently asked questions associated with this decision](/faq/listing-of-the-louisiana-pinesnake-under-the-esa-and-the-louisiana-pinesnake-proposed-4d-rule)
+- [Visit the Louisiana pinesnake species profile](https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=C02C)
 
 ## Contact
 
-Contact: Phil Kloer, (404) 679-7299, [Philip_kloer@fws.gov](mailto:Philip_kloer@fws.gov)  
+Contact: Phil Kloer, (404) 679-7299, [Philip_kloer@fws.gov](mailto:Philip_kloer@fws.gov)
 Lesli Gray, (972) 439-4542, [lesli_gray@fws.gov](mailto:lesli_gray@fws.gov)

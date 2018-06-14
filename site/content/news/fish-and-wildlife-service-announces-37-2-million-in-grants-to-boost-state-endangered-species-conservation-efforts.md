@@ -14,13 +14,14 @@ tags:
     - 'North Carolina'
     - Tennessee
     - Grants
-    - Panama City
+    - 'Panama City Ecological Services Field Office'
+    - 'Tennessee Ecological Services Field Office'
 updated: 'October 6th, 2016'
 ---
 
 The U.S. Fish and Wildlife Service today announced $37.2 million in grants to 20 states to support conservation planning and acquisition of vital habitat for threatened and endangered species across the nation. The grants, awarded through the Cooperative Endangered Species Conservation Fund, will benefit numerous species, ranging from the Cahaba shiner to the red-cockaded woodpecker.
 
-Five southeasterm states received a combined total of $4,112,981 in grants - - Alabama, Arkansas, Florida, North Carolina, and Tennessee.  Project descriptions are listed below.  For a nationwide list of the 2015 grant awards under these programs visit the [Endangered Species program's grants website](http://www.fws.gov/endangered/grants/index.html).
+Five southeasterm states received a combined total of $4,112,981 in grants - - Alabama, Arkansas, Florida, North Carolina, and Tennessee.  Project descriptions are listed below.  For a nationwide list of the 2015 grant awards under these programs visit the [Endangered Species program's grants website](http://www.fws.gov/endangered/grants/).
 
 “Private landowners and natural resource managers play a vital role in conserving our nation’s most imperiled wildlife,”said Service Director Dan Ashe. “By cultivating partnerships between federal, state and local governments, private organizations and individuals, we can establish creative and effective solutions to some of the greatest conservation challenges of our time. These grants are one of many tools available under the Endangered Species Act, and we look forward to providing continued guidance and support for these programs.”
 
@@ -47,14 +48,14 @@ The Endangered Species Act and its flexibility to support creative conservation 
 ## Alabama
 
 ### Six Mile Creek Recovery Land Acquisition to Benefit the Recovery of Federally-Listed, Fish, Mussels, Snails and Bats
-**Bibb County $795,900**  
+**Bibb County $795,900**
 
 This grant will enable acquisition of approximately 583 acres with four miles of frontage on the Six Mile Creek for the recovery of endangered and threatened species like the round rocksnail, orange nacre mucket (mussel), fine-lined pocketbook (mussel) and the Cahaba shiner.   Acquisition will protect important habitat for federally-listed bats such as the endangered gray bat.  This parcel contains numerous cave systems, and protecting it has importance to the whole recharge area.  Also, this acquisition will allow for protection of the northern long-eared bat, federally-listed as threatened, and the recently petitioned Cahaba pebblesnail.
 
 ## Arkansas
 
 ### Land Acquisition along the Saline River for the Recovery of Winged Mapleleaf (mussel); Pink Mucket (mussel); Red-cockaded Woodpecker; and Rabbitsfoot (mussel)
-**Ashley County $901,791**  
+**Ashley County $901,791**
 
 This grant will enable the acquisition of 1,073 acres of important riparian and upland habitat adjacent to the Saline River to directly benefit the recovery of two federally-listed freshwater mussel species, and the red-cockaded woodpecker.  This tract contains the largest population of winged mapleleaf range-wide and one of the largest populations of pink mucket, both endangered.  This acquisition will help further woodpecker recovery by reconnecting populations at Felsenthal National Wildlife Refuge and Warren Prairie State Natural Area. Securing this site also will grow the Longview Saline State Natural Area that is adjacent to it along the Saline River and allow for protection of at risk species including three petitioned mussels
 
@@ -68,18 +69,18 @@ This grant will assist in the ninth and concluding year of this HCP planning eff
 ## North Carolina
 
 ### Red-cockaded Woodpecker Longleaf Pine Ecosystem Protection and Corridors
-**Richmond and Scotland counties $275,076**  
+**Richmond and Scotland counties $275,076**
 
 This grant will enable the acquisition of up to 526 acres of longleaf pine habitat used by red-cockaded woodpeckers in the Sandhills region of North Carolina.  Acquisition of this property will promote connectivity among woodpecker groups to expand managed areas in and around the Fort Bragg and Camp Mackall woodpecker populations and throughout the North Carolina Sandhills.
 
 ### Land Acquisition to Benefit Plant Recovery at Bat Fork Bog for the Endangered Bunched Arrowhead and Threatened Swamp Pink
-**Henderson County $41,746**  
+**Henderson County $41,746**
 
 This grant will enable the acquisition of 7.6 acres of mountain bog habitat for the recovery of two federally-listed plants.  This important site will also secure critical bog habitat that will allow for reintroduction efforts of the federally-listed endangered mountain sweet pitcher plant and the white fringeless orchid, a candidate species.  North Carolina along with Botanical Garden partners will initiate proactive restoration of this site as soon as it is acquired.
 
 ### Protection of North Carolina’s Only Canby’s Dropwort Site-Mcintosh Bays
 
-**Scotland County $37,479**  
+**Scotland County $37,479**
 
 This grant will enable the acquisition of 211 acres of Carolina bay habitat for the recovery of Canby’s dropwort, an endangered plant species.  This important site also will secure significant Carolina bay habitat that will allow for possible reintroduction efforts, restoration, and management activities.  This grant will also permanently protect nine state-listed species.
 
@@ -87,20 +88,20 @@ This grant will enable the acquisition of 211 acres of Carolina bay habitat for 
 
 ### Development of Habitat Conservation Plans for the Cumberlands Region, Tennessee
 
-**Cumberland County $511,890**  
+**Cumberland County $511,890**
 
 This grant will assist in the ongoing development of the Cumberlands region-wide HCPs to protect aquatic and forest resources.  Several mammals, mussels, reptiles, amphibians, fish and aquatic invertebrates would benefit from this pre-emptive attempt to develop protective measures in an ecologically diverse region that is beginning to experience increased development and resource extraction issues.  The HCP will provide management prescriptions and regulatory guidelines to minimize and mitigate development effects on the target species and habitats.  With the plan in operation, regulatory processes for the covered municipalities will be streamlined.   Listed species include the Indiana bat, gray bat, spotfin chub (a fish species), purple bean (a freshwater mussel), and Cumberland rosemary and Virginia spiraea (plants).
 
 ### Sherwood Forest Land Acquisition
 
-**(Franklin County) $800,000**  
+**(Franklin County) $800,000**
 
 This grant will enable the acquisition of 1,056 acres of Sherwood Forest in Franklin County to benefit the federally-listed Morefield’s leather flower and painted snake coiled forest snail.  This entire area will be designated as a Tennessee State Natural Area.  Permanent protection of this tract will provide a huge leap forward in recovery for the snail because nearly half of its habitat would be protected in conservation in perpetuity and will provide critical bat foraging and roosting areas for the northern long-eared bat, recently proposed for listing.
 
 ## Contacts
 
-Christina Meister, 703-358-2284  
+Christina Meister, 703-358-2284
 [Christina_Meister@fws.gov](mailto:Christina_Meister@fws.gov)
 
-Phil Kloer, 404-679-7299  
+Phil Kloer, 404-679-7299
 [phillip_kloer@fws.gov](mailto:phillip_kloer@fws.gov)
