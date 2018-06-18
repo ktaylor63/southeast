@@ -536,7 +536,7 @@ number,status,fed_register
 139474-9,Abandoned,N/A
 55883C-0,Issued,N/A
 065972-2,In FO for Review,on 30 day notice period
-56827C-0,In FO for Review,Noticed for 30 days
+56827C-0,Awaiting Input from Applicant,Noticed for 30 days
 084047-4,Issued,N/A
 57020C-0,Abandoned,N/A
 57118C-0,Issued,N/A
@@ -571,7 +571,7 @@ number,status,fed_register
 68680C-0,Issued,N/A
 94728A-1,In RO for Review,Noticed for 30 days
 69217C-0,Issued,N/A
-48579B-4,In FO for Review,Noticed for 30 days
+48579B-4,Awaiting signature,Noticed for 30 days
 80381A-1,Awaiting Input from Applicant,Noticed for 30 days
 049654-7,Issued,N/A
 051429-7,Issued,N/A
@@ -600,7 +600,7 @@ number,status,fed_register
 54578B-2,In RO for Review,on 30 day notice period
 63633A-5,In RO for Review,on 30 day notice period
 75560C-0,In RO for Review,on 30 day notice period
-183402-1,In FO for Review,Noticed for 30 days
+183402-1,Awaiting Input from Applicant,Noticed for 30 days
 75578C-0,Awaiting Input from Applicant,N/A
 810274-13,Withdrawn,N/A
 76455C-0,In RO for Review,on 30 day notice period
@@ -611,7 +611,7 @@ number,status,fed_register
 48386B-1,In RO for Review,N/A
 824723-10,In RO for Review,on 30 day notice period
 78085C-0,Issued,N/A
-20269C-1,In RO for Review,N/A
+20269C-1,In FO for Review,N/A
 78148C-0,Issued,N/A
 78273C-0,Issued,N/A
 78383C-0,In RO for Review,on 30 day notice period
@@ -657,3 +657,4 @@ number,status,fed_register
 97394A-3,In RO for Review,needs to be drafted
 02200B-1,In RO for Review,needs to be drafted
 171577-4,In FO for Review,N/A
+35313B-3,In RO for Review,N/A
