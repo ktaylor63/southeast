@@ -1,5 +1,13 @@
 ---
 stories:
+  - title: 'Endangered darter’s habitat in Birmingham gets a boost'
+    summary: 'The endangered watercress darter is known to survive in just a handful of Birmingham-area springs, and one of them just got a major boost to help ensure the rare fish sticks around for the long haul. The Freshwater Land Trust announced this week it has completed a habitat enhancement project at Roebuck Springs, in Birmingham’s Don Hawkins Park, working in collaboration with the U.S. Fish and Wildlife Service and the city of Birmingham.'
+    date: '2018-06-15'
+    url: 'https://www.al.com/news/index.ssf/2018/06/birminghams_endangered_darter.html'
+    hero:
+        name: watercress-darter.jpg
+        alt: 'A smal brown fish with bright blue and orange markings on its fins'
+        caption: 'Watercress darter. Photo USFWS.'
   - title: 'Everglades National Park and FWC to expand python removal efforts'
     summary: 'Everglades National Park and the Florida Fish and Wildlife Conservation Commission (FWC) are partnering together to expand efforts to remove Burmese pythons from within the park. The partnership will expand the park’s Python Removal Authorized Agent Program by allowing paid FWC contractors to remove pythons in Everglades National Park. The expansion will triple the maximum allowed number of participants in the park from 40 to 120, allow FWC contractors to use firearms or other humane methods to euthanize pythons in the wild, and qualify additional trained NPS personnel to live capture and turn in pythons.'
     date: '2018-05-31'
