@@ -571,7 +571,7 @@ number,status,fed_register
 68680C-0,Issued,N/A
 94728A-1,In RO for Review,Noticed for 30 days
 69217C-0,Issued,N/A
-48579B-4,Awaiting signature,Noticed for 30 days
+48579B-4,Issued,Noticed for 30 days
 80381A-1,Awaiting Input from Applicant,Noticed for 30 days
 049654-7,Issued,N/A
 051429-7,Issued,N/A
@@ -658,3 +658,5 @@ number,status,fed_register
 02200B-1,In RO for Review,needs to be drafted
 171577-4,In FO for Review,N/A
 35313B-3,In RO for Review,N/A
+35594A-3,In RO for Review,needs to be drafted
+069754-6,In RO for Review,N/A
