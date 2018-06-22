@@ -1,7 +1,7 @@
 <section class="share-drawer share-left" aria-labelledby="share-this-page">
   <button class="close-drawer">Close</button>
   <div>
-    <h2 id="share-this-page">Share This Page</h2>
+    <h2 id="share-this-page">Share this page</h2>
 
     <label>Copy URL:
       <input type="text" value="{{ .Permalink }}">
@@ -9,15 +9,23 @@
 
     <h2 class="twitter-title">Twitter</h2>
 
-    <p><a href='https://twitter.com/share?url={{ .Permalink }}&amp;text={{ .Title }}&amp;via={{ .Site.Params.twitter }}'>Tweet this page on Twitter</a> or <a href="https://twitter.com/usfwssoutheast" >follow @USFWSsoutheast</a></p>
+    <p>
+      <a href='https://twitter.com/share?url={{ .Permalink }}&amp;text={{ .Title }}&amp;via={{ .Site.Params.twitter }}'>Tweet this page on Twitter</a> or
+      <a href="https://twitter.com/usfwssoutheast">follow @USFWSsoutheast</a>
+    </p>
 
     <h2 class="facebook-title">Facebook</h2>
 
-    <p><a href='https://www.facebook.com/sharer.php?u={{ .Permalink }}'>Share this page on Facebook</a> or <a href='https://www.facebook.com/usfwssoutheast'>follow USFWSsoutheast.</a></p>
+    <p>
+      <a href='https://www.facebook.com/sharer.php?u={{ .Permalink }}'>Share this page on Facebook</a> or
+      <a href='https://www.facebook.com/usfwssoutheast'>follow USFWSsoutheast.</a>
+    </p>
 
     <h2 class="linkedin-title">LinkedIn</h2>
 
-    <p><a href='https://www.linkedin.com/shareArticle?url={{ .Permalink }}&title={{ .Title }}&source=U.S.+Fish+and+Wildlife+Service+Southeast+Region&description={{ if .Params.description }}{{ .Params.description}}{{ else }}{{ .Summary }}{{ end }}'>Share this page on LinkedIn</a></p>
+    <p>
+      <a href='https://www.linkedin.com/shareArticle?url={{ .Permalink }}&title={{ .Title }}&source=U.S.+Fish+and+Wildlife+Service+Southeast+Region&description={{ if .Params.description }}{{ .Params.description}}{{ else }}{{ .Summary }}{{ end }}'>Share this page on LinkedIn</a>
+    </p>
 
     {{ partial "social-links.html" . }}
   </div>
