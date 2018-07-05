@@ -22,7 +22,7 @@ tags:
     - 'North Carolina'
     - Recovery
     - 'Red Wolf'
-updated: 'April 23rd, 2018'
+updated: 'July 3rd, 2018'
 ---
 
 * **Taxon**: Mammal
@@ -48,7 +48,7 @@ The last red wolves were found in coastal prairie and marsh habitat because this
 
 ## Range
 
-{{< figure class="photo-center" src="/images/pages/red-wolf-historic-range-with-ssp-locations.jpg" alt="The historic range of the red wolf covers the southeast from Texas to New York to Florida." caption="Red wolf historic range with species survival plan facility locations. Map by Jose Barrios, USFWS." link="https://flic.kr/p/H4bjyg" >}}
+{{< figure class="photo-center" src="/images/pages/red-wolf-current-and-historic-range-map.jpg" alt="The historic range of the red wolf covers the southeast from Texas to New York to Florida." caption="Red wolf historic range with non-essential experimental population management area. Map by Jose Barrios, USFWS." link="https://flic.kr/p/H4bjyg" >}}
 
 ## Diet
 
