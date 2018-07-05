@@ -3,7 +3,7 @@
   {{ if .Params.hero.video }}
   <iframe width="100%" height="100%" src="https://www.youtube.com/embed/{{ .Params.hero.video }}" frameborder="0" allowfullscreen></iframe>
   {{ else }}
-  {{if .Params.hero.link }}<a href="{{ .Params.hero.link }}" target="_blank">{{ end }}
+  {{if .Params.hero.link }}<a href="{{ .Params.hero.link }}">{{ end }}
     <div class="hero-parallax parallax" style="background-image: url({{ .Site.BaseURL }}images/hero/{{ .Params.hero.name }});{{ if .Params.hero.position }} background-position: {{ .Params.hero.position }};{{ end }}">
       {{ if .Params.hero.heading }}<h1>{{ .Params.hero.heading | safeHTML }}</h1>{{ end }}
       <div class="hero-caption {{ if .Params.hero.link }}active{{ end }}">{{ if not .Params.hero.link }}<img class="info-icon" src="/images/svg/info.svg" alt="Information icon"/>{{ end }}<span class='caption-content'>{{ .Params.hero.caption | safeHTML }}</span></div>
