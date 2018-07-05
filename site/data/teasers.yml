@@ -1,5 +1,13 @@
 ---
 stories:
+  - title: 'U.S. Fish and Wildlife Service staffers honored with Science Awards'
+    summary: 'The U.S. Fish and Wildlife Service has recognized three staff members for their extraordinary work by awarding them the Service’s 2017 Science Awards. The Science Awards were established to recognize that effective wildlife management and conservation is founded on innovative scientific inquiry and principles. They are awarded to recognize the outstanding efforts of the agency’s scientists and technical staff.'
+    date: '2018-06-28'
+    url: 'http://wildlife.org/usfws-staffers-honored-with-science-awards/'
+    hero:
+        name: science-award-winners.jpg
+        alt: 'A collage of three men smiling.'
+        caption: 'Science award winners for the U.S. Fish and Wildlife Service. Photo USFWS.'
   - title: 'Endangered darter’s habitat in Birmingham gets a boost'
     summary: 'The endangered watercress darter is known to survive in just a handful of Birmingham-area springs, and one of them just got a major boost to help ensure the rare fish sticks around for the long haul. The Freshwater Land Trust announced this week it has completed a habitat enhancement project at Roebuck Springs, in Birmingham’s Don Hawkins Park, working in collaboration with the U.S. Fish and Wildlife Service and the city of Birmingham.'
     date: '2018-06-15'
