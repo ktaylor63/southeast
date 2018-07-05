@@ -1,0 +1,30 @@
+= content main
+  main.main
+    h1.page-title {{ .Title }}
+    {{ if .Params.subtitle }}
+    h2.page-subtitle id="{{ urlize .Params.subtitle }}" {{ .Params.subtitle}}
+    {{ end }}
+
+    {{ if not .Date.IsZero }}
+      span.article-date {{ .Date.Format "January 2, 2006" }}
+    {{ end }}
+
+    {{ .Content }}
+
+    {{ if ne .Params.tags nil}}
+    ul.tag-list
+      {{ range .Params.tags }}
+      li.tag
+        a aria-label="Find more content tagged with {{ . }}" href="/tags/{{ . | urlize }}" {{ . }}
+      {{ end }}
+    {{ end }}
+
+  {{ $related := .Site.RegularPages.Related . | first 3 }}
+  {{ with $related }}
+  .related-content
+    h3 Related content
+    ul.article-gallery
+      {{ range . }}
+      {{ .Render "gallery" }}
+      {{ end }}
+  {{ end }}
