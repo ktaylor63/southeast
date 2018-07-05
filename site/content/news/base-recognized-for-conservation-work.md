@@ -59,7 +59,7 @@ Roughly 55 stream crossings have been reinforced, with more than 8,000 tons of g
 
 "We appreciate how Camp Blanding has managed the complexities of balancing fish and wildlife conservation, public hunting and fishing opportunities, and the training and readiness of our national military," said Dr. Thomas Eason, Assistant  Executive Director of the FWC. "The FWC congratulates Camp Blanding for the thoughtful planning, hard work, and conservation successes recognized by this significant award.”
 
-Ever since passage of the Sikes Act in 1960, the Service has worked even more closely with the military to conserve fish, wildlife and land on 30 million acres managed by the U.S. Department of Defense.  
+Ever since passage of the Sikes Act in 1960, the Service has worked even more closely with the military to conserve fish, wildlife and land on approximately 25 million acres managed by the U.S. Department of Defense.
 
 ## Contacts
 
