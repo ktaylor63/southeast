@@ -18,7 +18,7 @@
 }
 
 .full-width {
-  @media(min-width: $break-lg) {
+  @media(min-width: $break-md) {
     margin-left: $nav-width;
   }
 }
