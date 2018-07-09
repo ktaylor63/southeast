@@ -35,7 +35,7 @@
   "license": "SAX-PD",
   "devDependencies": {
     "async": "^2.6.1",
-    "autoprefixer": "^8.6.4",
+    "autoprefixer": "^8.6.5",
     "axe-cli": "^3.0.0",
     "chai": "^4.1.2",
     "chalk": "^2.4.1",
@@ -59,7 +59,7 @@
     "mocha": "^5.2.0",
     "moment": "^2.22.2",
     "ncp": "^2.0.0",
-    "node-sass": "^4.9.1",
+    "node-sass": "^4.9.2",
     "postcss": "^6.0.23",
     "postcss-cli": "^5.0.1",
     "recursive-readdir": "^2.2.2",
