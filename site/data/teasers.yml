@@ -1,5 +1,15 @@
 ---
 stories:
+  - title: 'How Florida landowners can get paid to restore longleaf pine forests'
+    subtitle: 'We lost more than we lost in wetlands of pine forests in Industrial Revolution'
+    summary: 'Southeastern longleaf pines were the backbone of the Industrial Revolution. That building boom, continued development and many other factors is what conservation groups say caused the longleaf pine forest population to dwindle down to less than five percent of its original landscape.'
+    date: '2018-07-05'
+    url: 'https://www.clickorlando.com/news/how-florida-landowners-can-get-paid-to-restore-longleaf-pine-forests'
+    hero:
+        name: longleaf-pine-ocala.jpg
+        alt: 'Tall, narrow, pine trees spaced about 25 feet apart with very sparse, dry grass in the understory.'
+        link: 'https://flic.kr/p/qGYCdR'
+        caption: 'Longleaf pine is a fire-dependent ecosystem that supports gentian pinkroot.'
   - title: 'U.S. Fish and Wildlife Service staffers honored with Science Awards'
     summary: 'The U.S. Fish and Wildlife Service has recognized three staff members for their extraordinary work by awarding them the Service’s 2017 Science Awards. The Science Awards were established to recognize that effective wildlife management and conservation is founded on innovative scientific inquiry and principles. They are awarded to recognize the outstanding efforts of the agency’s scientists and technical staff.'
     date: '2018-06-28'
