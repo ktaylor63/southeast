@@ -7,7 +7,7 @@ publishDir: '../dist'
 
 mediaTypes:
   application/javascript:
-    suffix: js
+    suffixes: ["js"]
 
 outputFormats:
   js:
