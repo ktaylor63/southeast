@@ -22,7 +22,7 @@ tags:
     - 'North Carolina'
     - Recovery
     - 'Red Wolf'
-updated: 'July 3rd, 2018'
+updated: 'July 13th, 2018'
 ---
 
 * **Taxon**: Mammal
@@ -48,7 +48,7 @@ The last red wolves were found in coastal prairie and marsh habitat because this
 
 ## Range
 
-{{< figure class="photo-center" src="/images/pages/red-wolf-current-and-historic-range-map.jpg" alt="The historic range of the red wolf covers the southeast from Texas to New York to Florida." caption="Red wolf historic range with non-essential experimental population management area. Map by Jose Barrios, USFWS." link="https://flic.kr/p/H4bjyg" >}}
+{{< figure class="photo-center" src="/images/pages/red-wolf-historic-range.jpg" alt="The historic range of the red wolf covers the southeast from Texas to New York to Florida." caption="Red wolf historic range with non-essential experimental population management area. Map by Jose Barrios, USFWS." link="https://flic.kr/p/2971AcK" >}}
 
 ## Diet
 
@@ -181,6 +181,12 @@ Also in April, the Service said it is moving to begin work with an independent o
 ### 2018
 
 * The Service published a [Species Status Assessment](http://ecos.fws.gov/ServCat/DownloadFile/147196) and [5-year review](/pdf/five-year-reviews/red-wolf-2018.pdf) for the red wolf. The latter recommended no change in the endangered status of the red wolf under the Endangered Species Act.
+
+* [Service proposes new management rule for non-essential, experimental population of red wolves in North Carolina](/news/2018/06/service-proposes-new-management-rule-for-non-essential-experimental-population-of-red-wolves-in-north-carolina/)
+
+{{< figure class="photo-center" src="/images/pages/red-wolf-historic-range-and-nep.jpg" alt="The historic range of the red wolf covers the southeast from Texas to New York to Florida and the non-essential experimental population management area." caption="Red wolf historic range and proposed non-essential experimental population. Map by Jose Barrios, USFWS." link="https://flic.kr/p/H4bjyg" >}}
+
+{{< figure class="photo-center" src="/images/pages/red-wolf-current-and-proposed-nep-july-2018.jpg" alt="Current 5 county non-essential experimental population management area compared to the proposal." caption="Red wolf current and proposed non-essential experimental population. Map by Jose Barrios, USFWS." link="https://flic.kr/p/2971zta" >}}
 
 ## Contact
 
