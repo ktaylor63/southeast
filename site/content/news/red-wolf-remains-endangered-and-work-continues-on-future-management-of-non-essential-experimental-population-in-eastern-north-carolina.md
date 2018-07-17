@@ -30,7 +30,7 @@ Currently, there are about 40 red wolves in the wild in eastern North Carolina i
 
 * Maintain a sufficient captive breeding population;
 * Propose, through public notice, comment and rulemaking, to reduce the NEP management area to [Alligator River National Wildlife Refuge](https://www.fws.gov/refuge/alligator_river/) and the Dare County Bombing Range in eastern North Carolina; this will include a Section 7 consultation, National Environmental Policy Act requirements, and any other environmental compliance actions that may be needed;
-* Complete a [comprehensive SSA]() for the red wolf to guide the Service’s recovery planning in the future; and
+* Complete a [comprehensive SSA](http://ecos.fws.gov/ServCat/DownloadFile/147196) for the red wolf to guide the Service’s recovery planning in the future; and
 * Complete a [five-year status review](/pdf/five-year-reviews/red-wolf-2018.pdf) of the red wolf.
 
 ## Learn more
