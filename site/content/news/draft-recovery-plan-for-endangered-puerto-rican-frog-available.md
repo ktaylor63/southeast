@@ -29,6 +29,8 @@ Some of the recovery actions needed to accomplish these goals are monitoring, ma
 
 To obtain a copy of the [draft recovery plan](/pdf/recovery-plan/coqui-llanero-draft.pdf) for coquí llanero or to submit written comments, please contact Jan Zegarra, U.S. Fish and Wildlife Service, [Caribbean Ecological Services Field Office](https://www.fws.gov/caribbean/ES/), Post Office Box 491, Boquerón, Puerto Rico 00622; telephone. (787) 851-7297; fax (787) 851-7440, e-mail Marelisa_Rivera@fws.gov.  If sending an e-mail, please include "Coquí llanero Draft Recovery Plan Comments" on the subject line.
 
+Download the [recovery implementation strategy](/pdf/recovery-plan/coqui-llanero-recovery-implementation-strategy.pdf) or the [species biological report](/pdf/recovery-plan/coqui-llanero-species-biological-report.pdf).
+
 ## Contact
 
 Elsie Davis, Public affairs specialist  
