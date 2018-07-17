@@ -5,6 +5,10 @@ table {
   th {
     padding: .25em;
   }
+
+  .footnote-ref a {
+    color: white;
+  }
 }
 
 thead {
@@ -13,6 +17,11 @@ thead {
   font-family: $serif;
   padding: 1em !important;
   text-align: left;
+
+  a,
+  a:visited {
+    color: white;
+  }
 }
 
 .striped-table {
