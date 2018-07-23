@@ -1,5 +1,17 @@
 ---
 stories:
+  - title: 'Passage cleared on Middle Oconee River as dam is removed'
+    summary: 'Workers with an elite federal team are removing most of a century-old dam across the Middle Oconee River this week. The University of Georgia-owned White Dam is just above the confluence of the Middle and North Oconee Rivers. It is managed by UGA’s Warnell School of Forestry and Natural Resources.'
+    date: '2018-07-18'
+    url: 'http://www.onlineathens.com/news/20180718/passage-cleared-on-middle-oconee-river-as-dam-is-removed'
+  - title: 'Lionfish challenge: 2018'
+    summary: 'Participants compete in either the recreational or commercial category, but may only qualify for one category. All participants who have an active Saltwater Products License and who have commercial lionfish sales within the past year will automatically be included in the commercial category.'
+    date: '2018-07-18'
+    url: 'http://myfwc.com/fishing/saltwater/recreational/lionfish/challenge/'
+    hero:
+        name: lionfish-fwc.jpg
+        alt: A colorful, brown and orange fish with long wavy fins.
+        caption: 'Lionfish are a non-native, invasive species that threaten Florida’s native fish and wildlife. Photo by Amanda Nalley, FWC.'
   - title: 'Service announces public scoping process for American Electric Power’s proposed conservation plan for the American burying beetle'
     summary: ''
     date: '2018-07-05'
