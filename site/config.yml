@@ -2,7 +2,7 @@ title: "Southeast Region | U.S. Fish and Wildlife Service"
 
 MetaDataFormat: yaml
 pluralizelisttitles: false
-canonifyurls: true
+relativeURLS: true
 publishDir: '../dist'
 
 mediaTypes:
@@ -54,3 +54,4 @@ params:
 
 permalinks:
   news: /:section/:year/:month/:filename/
+  podcasts: /:section/:year/:month/:filename/

@@ -14,7 +14,7 @@ publishDir: '../dist'
 
 MetaDataFormat: yaml
 pluralizelisttitles: false
-canonifyurls: true
+relativeURLS: true
 
 mediaTypes:
   application/javascript:
@@ -65,3 +65,4 @@ params:
 
 permalinks:
   news: /:section/:year/:month/:filename/
+  podcasts: /:section/:year/:month/:filename/
