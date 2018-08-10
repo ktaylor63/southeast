@@ -1,11 +1,11 @@
 <br/>
 {{ if .IsNamedParams }}
-
 <div class='youtube-embed{{ with .Get "class" }} {{ .Get "class" }}{{ end }}'>
   <iframe src="//www.youtube.com/embed/{{ .Get "id" }}?start={{ .Get "time" }}{{ with .Get "autoplay" }}{{ if eq . "true" }}autoplay=1{{ end }}{{ end }}" class="youtube-iframe" allowfullscreen frameborder="0" {{ if .Get "title" }}title='{{ .Get "title" }}'{{ end }}></iframe>
 </div>
+{{ if .Get "credit" }}<p class="video-caption">{{ .Get "credit" }}</p>{{ end }}
 {{ else }}
 <div class='youtube-embed{{ if len .Params | eq 2 }} {{ .Get 2 }}{{ end }}'>
   <iframe class="youtube-iframe" src="//www.youtube.com/embed/{{ .Get 0 }}" allowfullscreen frameborder="0" {{ if len .Params | eq 3 }}title="{{ .Get 3 }}"{{ end }}></iframe>
- </div>
+</div>
 {{ end }}
