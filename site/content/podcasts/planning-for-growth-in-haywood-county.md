@@ -1,8 +1,8 @@
 ---
 title: 'Planning for growth in Haywood County'
-updated: 'August 1st, 2018'
+updated: 'August 8th, 2018'
 author: 'Gary Peeples'
-date: 2008-09-22T00:00:00.000Z
+date: 2008-09-15T00:00:00.000Z
 audio: /audio/podcast/creature-feature/2008/haywood-county-planning-for-growth.mp3
 transcript: /audio/transcripts/creature-feature/haywood-planning-efforts.pdf
 hero:
@@ -13,6 +13,7 @@ hero:
 tags:
     - 'Asheville Ecological Services Field Office'
     - 'North Carolina'
+    - Podcast
     - 'Southern Appalachian Creature Feature'
 ---
 

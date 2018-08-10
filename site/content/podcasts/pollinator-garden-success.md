@@ -13,9 +13,10 @@ tags:
     - 'Asheville Ecological Services Field Office'
     - Monarch
     - 'North Carolina'
+    - Podcast
     - Pollinators
     - 'Southern Appalachian Creature Feature'
-updated: 'August 1st, 2018'
+updated: 'August 8th, 2018'
 ---
 
 ## Transcript

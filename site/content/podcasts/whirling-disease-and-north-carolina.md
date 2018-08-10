@@ -11,9 +11,10 @@ hero:
 tags:
     - 'Asheville Ecological Services Field Office'
     - 'North Carolina'
+    - Podcast
     - 'Southern Appalachian Creature Feature'
     - 'Whirling Disease'
-updated: 'August 1st, 2018'
+updated: 'August 8th, 2018'
 ---
 
 ## Transcript

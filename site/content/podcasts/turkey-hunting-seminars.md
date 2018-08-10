@@ -14,9 +14,10 @@ tags:
     - 'Asheville Ecological Services Field Office'
     - Hunting
     - 'North Carolina'
+    - Podcast
     - 'Southern Appalachian Creature Feature'
     - Turkey
-updated: 'August 1st, 2018'
+updated: 'August 8th, 2018'
 ---
 
 ## Transcript

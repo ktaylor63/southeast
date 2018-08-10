@@ -14,8 +14,9 @@ tags:
     - 'Bald Eagle'
     - 'Law Enforcement'
     - 'North Carolina'
+    - Podcast
     - 'Southern Appalachian Creature Feature'
-updated: 'August 1st, 2018'
+updated: 'August 8th, 2018'
 ---
 
 ## Transcript

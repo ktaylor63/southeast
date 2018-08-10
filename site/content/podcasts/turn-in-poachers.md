@@ -13,9 +13,10 @@ tags:
     - 'Asheville Ecological Services Field Office'
     - 'North Carolina'
     - Poaching
+    - Podcast
     - 'Southern Appalachian Creature Feature'
     - 'Wildlife Trafficking'
-updated: 'August 1st, 2018'
+updated: 'August 8th, 2018'
 ---
 
 ## Transcript

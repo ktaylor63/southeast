@@ -7,8 +7,9 @@ date: 2015-07-25T00:00:00.000Z
 tags:
     - 'Asheville Ecological Services Field Office'
     - 'North Carolina'
+    - Podcast
     - 'Southern Appalachian Creature Feature'
-updated: 'August 1st, 2018'
+updated: 'August 8th, 2018'
 ---
 
 ## Transcript

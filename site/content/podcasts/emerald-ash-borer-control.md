@@ -14,9 +14,10 @@ tags:
     - 'Emerald Ash Borer'
     - 'Invasive Species'
     - 'North Carolina'
+    - Podcast
     - 'Southern Appalachian Creature Feature'
     - 'White Nose Syndrome'
-updated: 'August 1st, 2018'
+updated: 'August 8th, 2018'
 ---
 
 ## Transcript

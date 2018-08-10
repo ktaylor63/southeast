@@ -14,9 +14,10 @@ tags:
     - 'Asheville Ecological Services Field Office'
     - Fishing
     - 'North Carolina'
+    - Podcast
     - 'Southern Appalachian Creature Feature'
     - Trout
-updated: 'August 1st, 2018'
+updated: 'August 8th, 2018'
 ---
 
 ## Transcript
