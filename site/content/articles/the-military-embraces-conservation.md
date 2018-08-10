@@ -23,7 +23,7 @@ hero:
     name: townsend-bombing-range-tank.jpg
     alt: 'Two men standing in front of a beige tank riddled with bullet holes.'
     caption: 'A tank littered with bullet holes at Townsend bombing range. Photo by Nicolve Vidal, USFWS.'
-updated: 'October 13th, 2017'
+updated: 'July 30th, 2018'
 ---
 
 **Townsend, Georgia** -- U.S. Marine Corps jets and helicopters rain thousand-pound bombs and 30-caliber bullets on a slice of the Altamaha River corridor. Gopher tortoises, flatwood salamanders and eastern indigo snakes benefit mightily.
@@ -40,7 +40,7 @@ The Department of Defense is also the second largest financial contributor to th
  
 “The bombing range is an example of how different agencies can work together to preserve some good wildlife habitat,” said Robert Brooks, a biologist with the U.S. Fish and Wildlife Service in Townsend. “It prevents habitat fragmentation. It’s not good for species when you have a block of land here and another there and development in between.”
 
-{{< youtube id="D5K4_hljybA" title="Learn more about conservation efforts at Townsend bombing range" >}}
+{{< youtube id="D5K4_hljybA" title="Learn more about conservation efforts at Townsend bombing range" caption="Video by Nicole Vidal, USFWS." >}}
  
 Only a wide grassy field separated Brooks from Ground Zero, where the F-18s, A-10s and Apache helicopters drop their bombs and spray their heavy-caliber machine guns at immobile targets made from old shipping containers and the husks of tanks, Humvees and armored personnel carriers. The so-called “village” is made to look like a roundabout in an Iraqi town with containers as buildings and a couple of weapons-toting mannequins masquerading as bad guys.
  
