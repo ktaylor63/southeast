@@ -4,7 +4,7 @@ article class="card"
   {{ else if .Params.hero.name }}
   div.card-hero
     a href="{{ .Permalink }}"
-      img sizes="100vw" srcset="{{ .Site.BaseURL }}images/hero/small/{{ .Params.hero.name }} 450w, {{ .Site.BaseURL }}images/hero/medium/{{ .Params.hero.name }} 850w" src="{{ .Site.BaseURL }}images/hero/small/{{ .Params.hero.name }}" alt="{{ .Params.hero.alt }}"
+      img sizes="100vw" srcset="/images/hero/small/{{ .Params.hero.name }} 450w, /images/hero/medium/{{ .Params.hero.name }} 850w" src="/images/hero/small/{{ .Params.hero.name }}" alt="{{ .Params.hero.alt }}"
   {{ end }}
   div.card-text
     h3
