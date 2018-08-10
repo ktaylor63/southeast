@@ -12,7 +12,7 @@ site/static/css
 site/static/js
 site/static/images
 site/static/data
-site/static/resources
+site/resources
 
 # Mac stuff
 .DS_Store
