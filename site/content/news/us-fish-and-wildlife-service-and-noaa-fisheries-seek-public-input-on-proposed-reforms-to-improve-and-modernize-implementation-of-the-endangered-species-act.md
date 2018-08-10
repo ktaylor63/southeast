@@ -5,10 +5,11 @@ hero:
     alt: 'A bright green parrot with red markings on its face and blue flight feathers.'
     link: 'https://flic.kr/p/NufrjB'
     caption: 'When in flight, some of the PR Parrots show their beautiful blue primary feathers. En español: Algunas cotorras muestran sus bellas plumas primarias azules al volar. Bosque del Estado, Maricao, Puerto Rico. Photo by Jan Paul Zegarra, Biologist, USFWS'
+    position: '50% 60%'
 date: 2018-07-19T00:00:00.000Z
 tags:
     - 'Endangered Species Act'
-updated: 'July 19th, 2018'
+updated: 'August 1st, 2018'
 ---
 
 Continuing efforts to improve how the Endangered Species Act (ESA) is implemented, the U.S. Fish and Wildlife Service and National Oceanic Atmospheric Administration (NOAA) Fisheries today [proposed revisions](https://www.fws.gov/endangered/improving_ESA/regulation-revisions.html) to certain regulations to ensure clarity and consistency. The changes incorporate public input, best science and best practices to improve reliability, regulatory efficiency and environmental stewardship.
