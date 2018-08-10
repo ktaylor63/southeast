@@ -5,13 +5,14 @@ hero:
     name: coqui-llanero.jpg
     alt: 'A tiny yellow/orange frog with big round eyes.'
     link: 'https://flic.kr/p/dRd6aq'
-    caption: 'Coqui Llanero. Photo by <a href="https://www.flickr.com/photos/ljvillanueva/">Luis J. Villanueva</a> <a href="https://creativecommons.org/licenses/by-nc-sa/2.0/#">CC BY-NC-SA 2.0.</a>'
+    caption: 'Coqui Llanero. <a href="https://flic.kr/p/dRd6aq">Photo</a> by <a href="https://www.flickr.com/photos/ljvillanueva/">Luis J. Villanueva</a> <a href="https://creativecommons.org/licenses/by-nc-sa/2.0/#">CC BY-NC-SA 2.0.</a>'
+    position: '65% 60%'
 tags:
     - 'Coqui Llanero'
     - 'Endangered Species Act'
     - 'Puerto Rico'
     - Recovery
-updated: 'July 6th, 2018'
+updated: 'August 1st, 2018'
 ---
 
 “Kee, kee,” a male coquí llanero softly sings from dusk to dawn in a Puerto Rican wetland.  Hearing its high-pitched call is rare because the tiny frog is only found in one freshwater wetland in the municipality of Toa Baja, Puerto Rico.  
