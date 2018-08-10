@@ -6,6 +6,7 @@ hero:
     name: cumberland-combshell-wolf-creek.jpg
     alt: 'A hand holding eight endangered Cumberland bean mussels.'
     caption: 'Cumberlandian combshell mussels.  Photo by USFWS.'
+    position: '55% 40%'
 tags:
     - 'At-Risk Species'
     - 'Bragging Rights'
@@ -20,7 +21,7 @@ tags:
     - Recovery
     - 'Wolf Creek National Fish Hatchery'
 type: 'Bragging Rights'
-updated: 'January 30th, 2018'
+updated: 'August 2nd, 2018'
 ---
 
 Expectations were high on Nov. 15, 2017, when personnel from the Wolf Creek National Fish Hatchery and the Kentucky Department of Fish and Wildlife Resources Center for Mollusk Conservation anxiously harvested 15 cages that had been suspended in Lake Cumberland earlier in the spring.  Each cage contained infested host fish and substrate suitable for juvenile mussels when transformation was complete.
