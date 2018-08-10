@@ -2,13 +2,12 @@ require('classlist-polyfill');
 require('window.requestanimationframe');
 // Element.matches() polyfill
 if (!Element.prototype.matches) {
-  Element.prototype.matches =
-    Element.prototype.matchesSelector ||
-    Element.prototype.mozMatchesSelector ||
-    Element.prototype.msMatchesSelector ||
-    Element.prototype.oMatchesSelector ||
-    Element.prototype.webkitMatchesSelector ||
-    function elMatches(s) {
+  Element.prototype.matches = Element.prototype.matchesSelector
+    || Element.prototype.mozMatchesSelector
+    || Element.prototype.msMatchesSelector
+    || Element.prototype.oMatchesSelector
+    || Element.prototype.webkitMatchesSelector
+    || function elMatches(s) {
       const matches = (this.document || this.ownerDocument).querySelectorAll(s);
       let i = matches.length;
       while (--i >= 0 && matches.item(i) !== this) {}
@@ -26,6 +25,7 @@ const contacts = require('./contacts');
 const shortList = require('./short-list');
 const search = require('./search');
 const analytics = require('./analytics');
+const ObjectFitFallback = require('./object-fit-fallback');
 
 const marker = new Marker(document.querySelector('#content'));
 const parallax = new Parallax('.parallax', { speed: 0.5 });
@@ -226,8 +226,7 @@ function lazyLoad(e) {
   const nearestLazyImg = scrollerList.querySelector(`[${attribute}]`);
   const nearestLazyItem = closest(nearestLazyImg, '.scroller-list--item');
   if (!nearestLazyItem) return;
-  const lazyImgFromView =
-    nearestLazyItem.offsetTop - scrollerList.clientHeight - scrollerList.scrollTop;
+  const lazyImgFromView = nearestLazyItem.offsetTop - scrollerList.clientHeight - scrollerList.scrollTop;
 
   if (lazyImgFromView < 500) {
     nearestLazyImg.src = nearestLazyImg.getAttribute(attribute);
@@ -242,3 +241,12 @@ scrollerLists.forEach(list => {
 // SITE SEARCH
 const searchInput = document.querySelector('.site-wide-search-input');
 search.init(searchInput, dataURL);
+
+// Fallback if Object-fit is not supported
+const noObjectFit = document.documentElement.classList.contains('no-object-fit');
+
+if (noObjectFit) {
+  const featureImages = [].slice.call(document.querySelectorAll('.hero-parallax'));
+  const fallback = new ObjectFitFallback({ elements: featureImages });
+  fallback.update();
+}
