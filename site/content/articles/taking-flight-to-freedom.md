@@ -1,7 +1,7 @@
 ---
 title: 'Taking flight to freedom'
 subtitle: 'Federal and state law enforcement officials release birds seized in Operation Ornery Birds into the Everglades'
-description: About 130 birds were released April 14 into Florida’s River of Grass by U.S. Fish and Wildlife Service officials and partners at Everglades National Park headquarters near Homestead, Florida. The birds had been bought by undercover agents from illegal trappers and traffickers, and seized in a series of arrests in the days leading up to the release.
+description: 'About 130 birds were released April 14 into Florida’s River of Grass by U.S. Fish and Wildlife Service officials and partners at Everglades National Park headquarters near Homestead, Florida. The birds had been bought by undercover agents from illegal trappers and traffickers, and seized in a series of arrests in the days leading up to the release.'
 author: 'Phil Kloer, public affairs specialist'
 date: 2018-04-17T00:00:00.000Z
 type: feature
@@ -23,10 +23,10 @@ tags:
     - 'Painted Bunting'
     - 'Rose-Breasted Grosbeak'
     - 'Wildlife Trafficking'
-updated: 'April 17th, 2018'
+updated: 'July 30th, 2018'
 ---
 
-{{< youtube id="poCVXe1OqTc" title="A video about Operation Ornery Birds and their release in Everglades National Park" >}}
+{{< youtube id="poCVXe1OqTc" title="A video about Operation Ornery Birds and their release in Everglades National Park" caption="Video by Nicole Vidal, USFWS." >}}
 
 **Everglades National Park, Florida** — Once they were locked up and abused. Now they are free.
 
