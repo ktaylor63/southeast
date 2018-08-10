@@ -7,7 +7,7 @@ author: 'Phil Kloer, Public Affairs Specilist'
 hero:
     name: red-cockaded-woodpecker-on-sehoy.jpg
     alt: 'A small woodpecker perched on a pine tree.'
-    caption: 'In 2017, there were 36 active clusters of endangered red-cockaded woodpeckers on Cam Lanier’s land in Alabama, thriving there under a Safe Harbor Agreement. Photo courtesy of Cam Lanier.'
+    caption: 'In 2018, there were 38 active clusters of endangered red-cockaded woodpeckers on this property in Alabama, thriving there under a Safe Harbor Agreement. Composite photo by Mark Bailey.'
     position: '77% 66%'
 tags:
     - Alabama
@@ -15,7 +15,7 @@ tags:
     - Hunting
     - Recovery
     - 'Red-Cockaded Woodpecker'
-updated: 'February 14th, 2018'
+updated: 'August 7th, 2018'
 ---
 
 It started with quail, and then the woodpeckers upped the stakes. 
