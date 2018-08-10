@@ -12,9 +12,9 @@ tags:
 hero:
     name: prescribed-fire-st-marks.jpg
     alt: 'Bright orange flames engulf low-lying scrub in a pine tree stand.'
-    caption: 'Prescribed fire in the Panacea Unit of St. Marks National Wildlife Refuge June 2013. Photo by Jennifer Hinckley, USFWS.'
+    caption: 'Prescribed fire in the Panacea Unit of St. Marks National Wildlife Refuge June 2013. <a href="https://flic.kr/p/oiYTik">Photo</a> by Jennifer Hinckley, USFWS.'
     link: 'https://flic.kr/p/oiYTik'
-updated: 'April 10th, 2017'
+updated: 'August 3rd, 2018'
 ---
 
 While the fire crew at St. Marks National Wildlife Refuge regularly applies prescribed fire treatments on hundreds of acres at a time, they also scientifically maintain an area of the forest near the visitor center to show the public why prescribed fire is needed.
