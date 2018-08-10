@@ -19,10 +19,10 @@ tags:
     - 'Longleaf Pine'
     - 'Partners for Fish and Wildlife Program'
     - Partnership
-updated: 'October 13th, 2017'
+updated: 'July 30th, 2018'
 ---
 
-{{< youtube id="A6YmINq04WY" title="Learn about the longleaf pine ecosystem in Georgia" >}}
+{{< youtube id="A6YmINq04WY" title="Learn about the longleaf pine ecosystem in Georgia" caption="Video by Nicole Vidal, USFWS." >}}
 
 Longleaf pine trees once blanketed the landscape from southern Virginia to east Texas. They were majestic hallmarks of the Southeast. They are perfectly suited for the region. They are drought-resistant, fire-resistant, disease-resistant, insect-resistant, even hurricane-resistant. The longleaf pine ecosystem is vital to many other native plants and animals, including the gopher tortoise and the Eastern indigo snake.
 
