@@ -1,10 +1,9 @@
 ---
-draft: true
 title: 'On the front lines'
 subtitle: 'Wildland firefighters training program pulls diverse youth into service'
 author: 'Dan Chapman, Public Affairs Specialist'
 description: 'Austin Griffin and Stephen McGuin are training to become wildland firefighters, an odd career choice given their unusual, at-times troubled backgrounds. Yet they’re perfect fits for a still-new training program crafted by The Nature Conservancy (TNC) to put a diverse and economically disadvantaged cadre of young men and women on the front firefighting lines.'
-date: 2018-07-23T00:00:00.000Z
+date: 2018-07-27T00:00:00.000Z
 type: feature
 hero:
     name: stephen-mcguin-wildland-firefighter-training.jpg
@@ -22,16 +21,16 @@ tags:
     - 'North Carolina'
     - 'Prescribed Fire'
     - 'South Carolina'
-updated: 'July 20th, 2018'
+updated: 'August 1st, 2018'
 ---
 
-{{< youtube id="4UaSQ9DqqQ4" title="On the front lines: Wildland firefighters training program pulls diverse youth into service" >}}
+{{< youtube id="4UaSQ9DqqQ4" title="On the front lines: Wildland firefighters training program pulls diverse youth into service" credit="Video by Nicole Vidal, USFWS." >}}
 
 **Box Springs, Georgia** &mdash; Austin Griffin “never had a father figure” and his mom has been in and out of jail most of his life. Stephen McGuin’s little brother was shot and killed last year in Atlanta.
 
 Fire might yet be the young men’s salvation.
 
-Griffin and McGuin are training to become wildland firefighters, an odd career choice given their unusual, at-times troubled backgrounds. Yet they’re perfect fits for a still-new training program crafted by The Nature Conservancy (TNC) to put a diverse and economically disadvantaged cadre of young men and women on the front firefighting lines.
+Griffin and McGuin are training to become wildland firefighters, an odd career choice given their at-times troubled backgrounds. Yet they’re perfect fits for a still-new training program crafted by The Nature Conservancy (TNC) to put a diverse and economically disadvantaged cadre of young men and women on the front firefighting lines.
 
 Everybody seems to benefit. The Conservancy gets help propagating longleaf pine forests while introducing a hard-to-reach demographic to careers in nature. Firefighting groups like the U.S. Fish and Wildlife Service (Service) get a pipeline of potential recruits. And young adults like Griffin and McGuin get training, job leads and, possibly, one-way tickets out of dead-end situations.
 
@@ -59,7 +58,7 @@ The Conservancy has raised $1 million for the program since 2015, about half fro
 
 “We’re watching the TNC program very closely because of its diversity,” said Jon Wallace, the Service’s deputy fire management coordinator in the Southeast. “Let’s face it, most wildland firefighters are white males. We’re trying to figure out how to hire folks who reflect the communities we serve. We hope to use the TNC program as a recruiting tool. It’s a great program.”
 
-Then he got the phone call
+## He got the call
 
 McGuin &mdash; nicknamed Smokey Bear “because of my beard” &mdash; was born in Louisiana and moved to Atlanta as a lad. He played fullback and linebacker for the Norcross Blue Devils and, like so many kids, kicked around after high school trying to figure out what’s next. College and the military held  little appeal. So he installed water meters. He trained as a carpenter. But he wanted something more.
 
@@ -69,7 +68,7 @@ McGuin &mdash; nicknamed Smokey Bear “because of my beard” &mdash; was born 
 
 The Conservancy’s Ettel discovered McGuin at the Job Corps in Brunswick, Georgia. McGuin was intrigued. He’d hunted and fished back in Louisiana and enjoyed the outdoors. Why not give firefighting a try? Ettel put him on a crew working in Osceola last year.
 
-“When I first went out I said, ‘Hell, I’m in the woods. I got no Facetime. I need fast food. I need McDonald’s,’ ” McGuin recalled, chuckling. “I just had to get out of my comfort zone and do it. Here, you never know what the outcome will be.”
+“When I first went out I said, ‘Hell, I’m in the woods. I got no Facetime. I need fast food. I need McDonald’s,’” McGuin recalled, chuckling. “I just had to get out of my comfort zone and do it. Here, you never know what the outcome will be.”
 
 And then he got the phone call.
 
@@ -85,19 +84,17 @@ The fire crew didn’t receive a burn permit one recent, windless summer morning
 
 “And you have 10 minutes to do it,” he said.
 
-Chop, chop, chop went the hoes as they hit hard-packed dirt. Sweat poured in the 90-degree heat. Breathing grew more labored. Five minutes later, they’d connected the fire line to the black top.
+*Chop, chop, chop* went the hoes as they hit hard-packed dirt. Sweat poured in the 90-degree heat. Breathing grew more labored. Five minutes later, they’d connected the fire line to the black top.
 
 “Well done,” Carpenter said.
 
-The conservancy owns or manages 24,000 acres here along the Chattahoochee Fall Line, a biodiverse swath of land that arcs from Augusta through Macon and Columbus and into Alabama. The Atlantic Ocean lapped at the fall line’s edge 65 million years ago. Today, the red clay soil of north Georgia gives way to the sandy soil of the coastal plain. The region is home to gopher tortoises, red-cockaded woodpeckers, pitcher plants and wild orchids &mdash; all species beloved by conservationists.
+The conservancy owns or manages 24,000 acres here along the Chattahoochee Fall Line, a biodiverse swath of land that arcs from Augusta through Macon and Columbus and into Alabama. The Atlantic Ocean lapped at the fall line’s edge 65 million years ago. Today, the red clay soil of north Georgia gives way to the sandy soil of the coastal plain. The region is home to gopher tortoises, red-cockaded woodpeckers, pitcher plants and wild orchids -- all species beloved by conservationists.
 
 {{< figure class="photo-center" src="/images/pages/prescribed-fire-burning.jpg" alt="Light smoke rises between the trees." caption="Smoke rises through the forest during a prescribed fire. Photo by Nicole Vidal, USFWS." >}}
 
 The Service, the Conservancy, the state of Georgia and a slew of nonprofits and landowners are cobbling together a corridor of protected lands along the Fall Line. Fort Benning, the ever-growing Army base nearby, is critical to the corridor’s success. The Department of Defense has purchased thousands of acres outside the base’s eastern perimeter as a buffer to keep subdivisions and sprawl from impacting the military’s ability to train. The land is permanently protected and allows conservation groups to plant longleaf pine which requires prescribed fire.
 
 “This work helps a lot, helps the gopher tortoises, the woodpeckers and the longleaf pine, the native habitat and all sorts of ecological stuff,” said Griffin, a self-described redneck from Cayce, South Carolina. “It’s a good thing to do.”
-
-{{< figure class="photo-center" src="/images/pages/austin-griffin-firefighter-working.jpg" alt="A man in firefighting gear preparing supplies in a black crate." caption="Austin Griffin readies supplies for the prescribed burn.  Photo by Nicole Vidal, USFWS." >}}
 
 His nickname, written in block letters on his firefighting helmet, is “Big Country.” He was raised by his grandmother, a sweet but, when necessary, stern woman. He fished and hunted. He earned a GED and drifted from roofing to construction to truck repair jobs.
 
@@ -113,9 +110,9 @@ Griffin and McGuin are hoping to hook up with crews fighting fires out west this
 
 “It’s disappointing our federal partners haven’t hired many folks from our crews, especially since they have diversity goals and want to bring on young people,” Ettel said.
 
-Wallace, the Service’s No. 2 fire guy in the Southeast, said dwindling budgets precluded hiring. A decade ago, for example, the region employed 134 firefighters. Today: 77.  
+Wallace, the Service’s No. 2 fire guy in the Southeast, said dwindling budgets have made hiring difficult. A decade ago, for example, the region employed 134 firefighters. Today: 77.
 
-“We haven’t hired many folks the last five years, but the future looks more promising,” Wallace said. “Some of these guys would be a good fit.”
+“We haven’t hired many folks the last five years, but the future looks more promising,” Wallace said.
 
 Maybe five of the 60 firefighters trained by TNC are still in the business, Ettel said. Griffin, one day, hopes to apply his firefighting skills to the U.S. Navy. McGuin, near-term, isn’t going anywhere.
 
