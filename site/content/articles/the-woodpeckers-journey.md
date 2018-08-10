@@ -28,10 +28,10 @@ hero:
     name: red-cockaded-woodpecker-dinner.jpg
     alt: 'A woodpecker perched on a tree with a bug in its mouth'
     position: 'top center'
-updated: 'November 17th, 2017'
+updated: 'July 30th, 2018'
 ---
 
-{{< youtube id="20VqXVpZxW4" title="Relocating the endangered red-cockaded woodpecker to support recovery efforts" >}}
+{{< youtube id="20VqXVpZxW4" title="Relocating the endangered red-cockaded woodpecker to support recovery efforts" caption="Video by Nicole Vidal, USFWS." >}}
 
 {{< figure class="photo-right" src="/images/pages/red-cockaded-woodpecker-translocation.jpg" alt="A biologist checks a tree cavity for a bird." caption="Searching for red-cockaded woodpeckers. Photo by Dexter Sowell, FWC." link="https://flic.kr/p/gXDJrp" >}}
 
