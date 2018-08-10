@@ -1,5 +1,7 @@
 @mixin card($level: 1) {
   @include shadow(1);
+  border-radius: 4px;
+  border-top: 6px solid $color-accent;
   display: block;
   margin: $leading 0;
   position: relative;

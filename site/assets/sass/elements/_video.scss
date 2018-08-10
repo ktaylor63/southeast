@@ -8,3 +8,9 @@ video {
   margin: 0 auto;
   object-fit: cover;
 }
+
+.video-caption {
+  color: $color-accent;
+  margin: 0 auto 1rem;
+  text-align: center;
+}

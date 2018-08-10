@@ -9,7 +9,8 @@ $color-primary: $light-green;
 $color-accent: $dark-green;
 $color-text: $dark-gray;
 $color-white: $white;
-$color-muted: lighten($color-text, 70);
+$color-muted: lighten($color-text, 30);
+$off-grey: lighten($color-text, 70);
 
 $color-facebook: #3b5998;
 $color-twitter: darken(#1da1f3, 5);

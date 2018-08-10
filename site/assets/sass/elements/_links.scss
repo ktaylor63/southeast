@@ -38,7 +38,7 @@ a {
 
 a[href$='.pdf'] {
   &:after {
-    content: url('../images/pdf.png');
+    content: url('/images/pdf.png');
     margin-left: 5px;
   }
 }

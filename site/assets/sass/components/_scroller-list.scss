@@ -1,5 +1,5 @@
 .scroller-list {
-  border: 2px solid darken($color-muted, 10);
+  border: 2px solid darken($off-grey, 10);
   box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.3);
   background: white;
   border-top-left-radius: 5px;
@@ -34,12 +34,12 @@
 }
 
 .scroller-list--item {
-  border-bottom: 1px solid darken($color-muted, 5);
+  border-bottom: 1px solid darken($off-grey, 5);
   margin: 0;
   padding: 0.5em;
 
   &:nth-child(even) {
-    background: lighten($color-muted, 5);
+    background: lighten($off-grey, 5);
   }
 
   a {
