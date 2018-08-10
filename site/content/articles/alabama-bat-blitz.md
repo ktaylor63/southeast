@@ -17,10 +17,10 @@ tags:
     - Bats
     - 'Big Brown Bat'
     - 'White-Nose Syndrome'
-updated: 'October 13th, 2017'
+updated: 'July 30th, 2018'
 ---
 
-{{< youtube id="IF_Sexib8S0" title="Learn about the threats facing bats" >}}
+{{< youtube id="IF_Sexib8S0" title="Learn about the threats facing bats" caption="Video by Nicole Vidal, USFWS." >}}
 
 **Irondale, Alabama** – Was she pregnant? She wasn’t cooperating, so it was hard to tell.
 
