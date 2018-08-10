@@ -14,7 +14,7 @@ hero:
     name: whooping-crane-release.jpg
     alt: 'Two large, white, Whooping cranes flying in for a landing on a small pond.'
     link: 'https://flic.kr/p/bryvJt'
-    caption: 'Two juvenile Whooping cranes released from their holding pen fly around on Wheeler National Wildlife Refuge, Decatur, AL. Photo by Bill Gates, USFWS.'
+    caption: 'Two juvenile Whooping cranes released from their holding pen fly around on Wheeler National Wildlife Refuge, Decatur, AL. <a href="https://flic.kr/p/bryvJt">Photo</a> by Bill Gates, USFWS.'
 updated: 'March 10th, 2017'
 ---
 
