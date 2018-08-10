@@ -1,5 +1,21 @@
 ---
 stories:
+  - title: 'Six years ago, about four of these butterflies existed. This is how science saved them.'
+    summary: 'In 2012, there were only about four Schaus swallowtail butterflies left in their natural habitat of Southeast Florida and the Florida Keys. Through conservation efforts, captive breeding and rearing at the University of Florida and subsequently reintroducing the butterflies into the wild, surveys conducted in 2015 and 2016 showed hundreds of naturally occurring Schaus swallowtails were alive and well in Elliott Key and Key Largo.'
+    date: '2018-07-23'
+    url: 'https://www.miamiherald.com/news/local/community/florida-keys/article215330270.html'
+    hero:
+        name: schaus-swallowtail.jpg
+        alt: 'A brown and yellow butterfly perched on a green plant.'
+        caption: 'Schaus swallowtail butterfly. University of Florida/Institute of Food and Agricultural Sciences.'
+  - title: 'Event highlights why birds matter to The Everglades'
+    summary: 'Workers with an elite federal team are removing most of a century-old dam across the Middle Oconee River this week. The University of Georgia-owned White Dam is just above the confluence of the Middle and North Oconee Rivers. It is managed by UGA’s Warnell School of Forestry and Natural Resources.'
+    date: '2018-07-17'
+    url: 'http://wlrn.org/post/event-highlights-why-birds-matter-everglades'
+    hero:
+        name: wood-stork-rookery.jpg
+        alt: 'Hundreds of fluffy white birds perched in trees surrounded by water.'
+        caption: 'A wood stork rookery at Harris Neck National Wildlife Refuge in Georgia. Photo by Mary Ellen Urbanski.'
   - title: 'Passage cleared on Middle Oconee River as dam is removed'
     summary: 'Workers with an elite federal team are removing most of a century-old dam across the Middle Oconee River this week. The University of Georgia-owned White Dam is just above the confluence of the Middle and North Oconee Rivers. It is managed by UGA’s Warnell School of Forestry and Natural Resources.'
     date: '2018-07-18'
