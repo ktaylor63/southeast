@@ -1,5 +1,5 @@
 = content main
-  .js-Parallaxify style="background-image: url('{{ .Site.BaseURL }}/images/hero/hero-intro.jpg');"
+  .js-Parallaxify style="background-image: url('/images/hero/hero-intro.jpg');"
     img.logo src="/images/svg/logo.svg" alt="Official logo of the U.S. Fish and Wildlife Service"
   aside.side-nav
 
@@ -13,7 +13,7 @@
 
   h2.section-heading#our-story Our Story
 
-  figure.js-Parallaxify.hero-our-story style="background-image: url('{{ .Site.BaseURL }}/images/hero/hero-story.jpg');"
+  figure.js-Parallaxify.hero-our-story style="background-image: url('/images/hero/hero-story.jpg');"
 
   .layout
     p We live and work in an amazing part of the country. The Southeastern United States is among the most biologically diverse hotspots in the world. Our Region includes Caribbean and coastal islands, marshes, coral reefs, the Appalachian and Ozark Mountains, caves, and longleaf and shortleaf pine and bottomland hardwood forests. Our work ensures that fish and wildlife populations continue in those places for the benefit of the American people.
@@ -92,7 +92,7 @@
 
   h2.section-heading#our-mission Our Mission
 
-  figure.js-Parallaxify.hero-our-story style="background-image: url('{{ .Site.BaseURL }}/images/hero/hero-mission.jpg');"
+  figure.js-Parallaxify.hero-our-story style="background-image: url('/images/hero/hero-mission.jpg');"
 
   .layout
     blockquote The mission of the United States Fish and Wildlife Service is, "... working with others to conserve, protect, and enhance fish, wildlife, and plants and their habitats for the continuing benefit of the American people."
@@ -115,7 +115,7 @@
 
   h2.section-heading#our-conservation-principles Our Conservation Principles
 
-  figure.js-Parallaxify.hero-our-story style="background-image: url('{{ .Site.BaseURL }}/images/hero/hero-principles.jpg');"
+  figure.js-Parallaxify.hero-our-story style="background-image: url('/images/hero/hero-principles.jpg');"
 
   .layout
     p For nearly a decade, our Region has followed the following guiding principles we all hold as professional resource managers and ethical public servants.
@@ -157,7 +157,7 @@
 
   h2.section-heading#our-business-approach-to-conservation Our Business Approach to Conservation
 
-  figure.js-Parallaxify.hero-our-story style="background-image: url('{{ .Site.BaseURL }}/images/hero/usfws-firefighter.jpg');"
+  figure.js-Parallaxify.hero-our-story style="background-image: url('/images/hero/usfws-firefighter.jpg');"
 
   .layout
     p Whether your position is in a biological, administrative or any other series, the adaptive management approach (also called lessons learned) applies to your position. The Service’s framework for adaptive management is called Strategic Habitat Conservation which helped put focus on our foundational business approach (plan, design, implement, and monitor) to achieve landscape and watershed scale conservation.
@@ -176,7 +176,7 @@
 
   h2.section-heading#our-conservation-goal Our Conservation Goal
 
-  figure.js-Parallaxify style="background-image: url('{{ .Site.BaseURL }}/images/hero/hero-goal.jpg');"
+  figure.js-Parallaxify style="background-image: url('/images/hero/hero-goal.jpg');"
 
   .layout.center
     p.inline-image-caption Time is urgent. We must act now.
@@ -238,7 +238,7 @@
 
   h2.section-heading#our-regional-priorities Our Regional Priorities
 
-  figure.js-Parallaxify.hero-our-story style="background-image: url('{{ .Site.BaseURL }}/images/hero/southeast-satellite.jpg');"
+  figure.js-Parallaxify.hero-our-story style="background-image: url('/images/hero/southeast-satellite.jpg');"
 
   .layout
     p Building on more than a century of conservation, the Southeast Region continues to refine and adapt our complex and innovative portfolio of conservation tools to deal with the challenges of the 21st century. The following three broad priorities and components are intended to focus our efforts for furthering our mission and conservation goals. Programs will use these priorities to develop goals and activities.
@@ -411,7 +411,7 @@
 
   h2.section-heading#conclusion Conclusion
 
-  figure.js-Parallaxify.hero-our-story style="background-image: url('{{ .Site.BaseURL }}/images/hero/hero-conclusion.jpg');"
+  figure.js-Parallaxify.hero-our-story style="background-image: url('/images/hero/hero-conclusion.jpg');"
 
   .layout
     p The people who make up the Service's Southeast Region draw great strength and promise from a broad, partner-driven approach to conservation. From the Caribbean north to the Appalachians, west to the Ozarks, and then south to the bottomland hardwoods of the Lower Mississippi Valley and the Gulf Coast, we have the charge to work with our partners to conserve some of the world's richest and most diverse fish and wildlife habitat.
