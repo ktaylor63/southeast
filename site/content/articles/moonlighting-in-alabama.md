@@ -23,10 +23,10 @@ tags:
     - Recovery
     - 'Sea Turtle'
     - Volunteer
-updated: 'December 28th, 2017'
+updated: 'July 30th, 2018'
 ---
 
-{{< youtube id="wX-OpXS43kM" title="A video highlighting the work of Share the Beach who helps sea turtle hatchlings find the ocean" >}}
+{{< youtube id="wX-OpXS43kM" title="A video highlighting the work of Share the Beach who helps sea turtle hatchlings find the ocean" caption="Video by Nicole Vidal, USFWS." >}}
 
 It was a warm and breezy night on the dunes of Orange Beach, Alabama, and Lisa Graham had a special babysitting assignment.  While most folks were getting ready for bed, Lisa sat on a fold-out chair plopped firmly into the sand.  In front of her were four wooden stakes, with neon tape cordoning off curious onlookers.
 
