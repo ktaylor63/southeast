@@ -559,7 +559,7 @@ number,status,fed_register
 60950C-0,Issued,N/A
 60951C-0,Issued,N/A
 61573C-0,Issued,Noticed for 30 days
-64393C-0,Awaiting Input from Applicant,Noticed for 30 days
+64393C-0,In FO for Review,Noticed for 30 days
 64574C-0,Issued,N/A
 37524B-1,No permit needed,N/A
 94704A-2,Issued,Noticed for 30 days
@@ -576,7 +576,7 @@ number,status,fed_register
 049654-7,Issued,N/A
 051429-7,Issued,N/A
 37490B-1,Issued,Noticed for 30 days
-37492B-1,In FO for Review,Noticed for 30 days
+37492B-1,Awaiting signature,Noticed for 30 days
 37663B-1,Issued,Noticed for 30 days
 022468-5,Issued,Noticed for 30 days
 119937-4,Issued,Noticed for 30 days
@@ -584,7 +584,7 @@ number,status,fed_register
 48049B-0,Issued,Noticed for 30 days
 73104C-0,Issued,Noticed for 30 days
 088889-3,Issued,Noticed for 30 days
-108990-4,In RO for Review,Noticed for 30 days
+108990-4,Awaiting signature,Noticed for 30 days
 171493-2,In FO for Review,Noticed for 30 days
 237548-3,Issued,Noticed for 30 days
 73593C-0,Issued,N/A
