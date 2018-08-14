@@ -5,7 +5,6 @@ hero:
     name: red-wolf-father-and-pups.jpg
     alt: 'A male red wolf looks on as two pups play'
     caption: 'Red wolf (<em>Canis rufus</em>) with pups. Photo by <a href="https://www.flickr.com/photos/ucumari/">Valerie</a>, <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/legalcode">CC BY-NC-ND 2.0.</a>'
-    link: 'https://flic.kr/p/VCa36Q'
     position: '35% 28%'
 tags:
     - '10j Rule'
