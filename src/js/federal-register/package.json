@@ -30,11 +30,12 @@
   "license": "SAX-PD",
   "devDependencies": {
     "babel": "^6.23.0",
+    "babel-core": "^6.26.3",
     "babel-preset-es2015": "^6.24.1",
     "babelify": "^8.0.0",
     "browserify": "^14.4.0",
     "disc": "^1.3.2",
-    "uglifyjs": "^2.4.10",
+    "uglify-es": "^3.3.9",
     "watchify": "^3.9.0"
   },
   "dependencies": {
