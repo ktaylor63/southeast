@@ -8,15 +8,16 @@
       [
         "babelify",
         {
-          "presets": ["env"]
+          "presets": [
+            "env"
+          ]
         }
       ],
       "brfs"
     ]
   },
   "scripts": {
-    "browserify":
-      "browserify index.js | uglifyjs -mc > ../../../site/static/js/preserving-paradise.js",
+    "browserify": "browserify index.js | uglifyjs -mc > ../../../site/static/js/preserving-paradise.js",
     "watchify": "watchify index.js -o ../../../site/static/js/preserving-paradise.js -dv",
     "start": "npm run watchify",
     "build": "npm run browserify"
@@ -28,11 +29,12 @@
     "leaflet": "^1.1.0"
   },
   "devDependencies": {
+    "babel-core": "^6.26.3",
     "babel-preset-env": "^1.6.1",
     "babelify": "^8.0.0",
     "brfs": "^1.4.3",
     "browserify": "^14.4.0",
-    "uglifyjs": "^2.4.11",
+    "uglify-es": "^3.3.9",
     "watchify": "^3.9.0"
   }
 }

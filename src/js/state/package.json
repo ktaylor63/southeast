@@ -25,14 +25,14 @@
   "author": "Roy Hewitt <royhewitt07@gmail.com>",
   "license": "SAX-PD",
   "dependencies": {
-    "babel-core": "^6.26.0",
+    "babel-core": "^6.26.3",
     "xhr": "^2.2.0"
   },
   "devDependencies": {
-    "babel-preset-env": "^1.6.1",
+    "babel-preset-env": "^1.7.0",
     "babelify": "^8.0.0",
     "browserify": "^13.0.0",
-    "uglifyjs": "^2.4.11",
-    "watchify": "^3.7.0"
+    "uglify-es": "^3.3.9",
+    "watchify": "^3.11.0"
   }
 }

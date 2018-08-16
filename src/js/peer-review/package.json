@@ -8,7 +8,9 @@
       [
         "babelify",
         {
-          "presets": ["env"]
+          "presets": [
+            "env"
+          ]
         }
       ]
     ]
@@ -23,10 +25,11 @@
   "author": "Roy Hewitt <Roy_Hewitt@fws.gov>",
   "license": "SAX-PD",
   "devDependencies": {
+    "babel-core": "^6.26.3",
     "babel-preset-env": "^1.6.1",
     "babelify": "^8.0.0",
     "browserify": "^14.4.0",
-    "uglifyjs": "^2.4.11",
+    "uglify-es": "^3.3.9",
     "watchify": "^3.9.0"
   },
   "dependencies": {
