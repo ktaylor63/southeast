@@ -1,5 +1,13 @@
 ---
 stories:
+  - title: 'Was Smokey Bear wrong? How a beloved character may have helped fuel catastrophic fires.'
+    summary: 'This month Smokey is popping champagne bottles in celebration of his 74th birthday. But the milestone comes as the bear’s legacy is sunk in doubt. Right now 110 wildfires are blazing through Western states, charring more than 5.7 million acres, The Washington Post reported this week. The current damage total has already overlapped past years, syncing with a wider pattern of larger fires and longer fire seasons, according to The Post.'
+    date: '2018-08-15'
+    url: 'https://www.washingtonpost.com/news/morning-mix/wp/2018/08/15/was-smokey-bear-wrong-how-a-beloved-character-may-have-helped-fuel-catastrophic-fires/'
+    hero:
+        name: smoky-bear-fire-danger-sign.jpg
+        alt: 'A severe fire danger sign featuring Smoky Bear'
+        caption: 'Severe fire danger sign. <a href="https://commons.wikimedia.org/wiki/Category:Smokey_Bear#/media/File:Beaver_Creek_Fire_2013_fire_danger_sign_2.jpg">Photo</a> by Lance Cheung, U.S. Department of Agriculture, CC-BY 2.0.'
   - title: 'Six years ago, about four of these butterflies existed. This is how science saved them.'
     summary: 'In 2012, there were only about four Schaus swallowtail butterflies left in their natural habitat of Southeast Florida and the Florida Keys. Through conservation efforts, captive breeding and rearing at the University of Florida and subsequently reintroducing the butterflies into the wild, surveys conducted in 2015 and 2016 showed hundreds of naturally occurring Schaus swallowtails were alive and well in Elliott Key and Key Largo.'
     date: '2018-07-23'
