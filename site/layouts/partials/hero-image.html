@@ -2,7 +2,9 @@
   <img class="hero-image" src="/images/hero/{{ .Params.hero.name }}" alt="{{ .Params.hero.alt }}" srcset="/images/hero/small/{{ .Params.hero.name }} 450w, /images/hero/medium/{{ .Params.hero.name }} 850w, /images/hero/{{ .Params.hero.name }} 1400w" sizes="100vw" {{ if .Params.hero.position }}style="object-position: {{.Params.hero.position }};" {{ end }}>
 {{ if .Params.hero.link }}</a>{{ end }}
 {{ if .Params.hero.heading }}<h1>{{ .Params.hero.heading | safeHTML }}</h1>{{ end }}
+{{ if .Params.hero.caption }}
 <div class="hero-caption {{ if .Params.hero.link }}active{{ end }}">
  {{ if not .Params.hero.link }} <img class="info-icon" src="/images/svg/info.svg" alt="Information icon" />{{ end }}
   <span class='caption-content'>{{ .Params.hero.caption | safeHTML }}</span>
 </div>
+{{ end }}
