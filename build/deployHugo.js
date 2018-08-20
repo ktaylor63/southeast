@@ -1,5 +1,5 @@
 const hugo = require('./hugo');
 
-const baseUrl = 'https://www.fws.gov/southeast/';
+const environment = 'production';
 
-hugo.build(baseUrl);
+hugo.build(environment);

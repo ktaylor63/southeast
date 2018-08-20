@@ -6,7 +6,7 @@ const images = require('./images');
 const hero = require('./hero');
 const hugo = require('./hugo');
 
-const baseURL = process.argv[2] ? process.argv[2] : 'http://localhost:3000/';
+const environment = process.argv[2] ? process.argv[2] : 'development';
 
 async.parallel(
   {
@@ -44,6 +44,6 @@ async.parallel(
   (err, results) => {
     if (err) console.log(err);
     console.log(results);
-    hugo.build(baseURL);
+    hugo.build(environment);
   }
 );

@@ -4,15 +4,14 @@ const chalk = require('chalk');
 
 const liveBaseUrl = 'fws.gov/southeast';
 
-function build(baseURL) {
-  const base = baseURL || process.argv[2];
-  console.log(chalk.yellow(`Base URL: ${base} ${endOfLine}`));
-  const isProduction = baseURL.includes(liveBaseUrl);
+function build(env) {
+  const environment = env || process.argv[2];
+  console.log(chalk.yellow(`Environment: ${environment} ${endOfLine}`));
+  const isProduction = environment === 'production';
   const command = [
     'hugo',
     '--config=site/config.yml',
     '--source=site/',
-    `--baseURL=${base}`,
     `--buildDrafts=${isProduction ? 'false' : 'true'}`,
     `--buildFuture=${isProduction ? 'false' : 'true'}`
   ].join(' ');

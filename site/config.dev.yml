@@ -1,7 +1,5 @@
 title: "Southeast Region | U.S. Fish and Wildlife Service"
 
-baseUrl: "http://127.0.0.1:3000/"
-
 watch: true
 buildDrafts: true
 buildFuture: true

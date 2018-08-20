@@ -20,9 +20,9 @@
     "start": "run-p watch serve",
     "build": "node build/build",
     "predeploy": "npm run mkdist",
-    "deploy": "node build/build https://www.fws.gov/southeast/",
+    "deploy": "node build/build production",
     "prestage": "npm run mkdist",
-    "stage": "node build/build https://intranet.fws.gov/region4/demo/"
+    "stage": "node build/build development"
   },
   "keywords": [
     "Government",
