@@ -1,0 +1,40 @@
+{
+  "name": "lafayette-foia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "browserify": {
+    "transform": [
+      [
+        "babelify",
+        {
+          "presets": [
+            "babel-preset-env"
+          ]
+        }
+      ]
+    ]
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "browserify": "browserify index.js | uglifyjs -mc > ../../../site/static/js/foia.js",
+    "watchify": "watchify index.js -o ../../../site/static/js/foia.js -dv",
+    "start": "npm run watchify",
+    "build": "npm run browserify"
+  },
+  "keywords": [],
+  "author": "@r0yhewitt <roy_hewitt@fws.gov>",
+  "license": "SAX-PD",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "babelify": "^8.0.0",
+    "browserify": "^16.2.2",
+    "uglify-es": "^3.3.9",
+    "watchify": "^3.11.0"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "es6-promise": "^4.2.4"
+  }
+}
