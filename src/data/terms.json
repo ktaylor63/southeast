@@ -56,6 +56,12 @@
     "related": []
   },
   {
+    "name": "Biodiversity",
+    "acronym": null,
+    "description": "The variety of life and its processes, including the variety of living organisms, the genetic differences among them, and the communities and ecosystems in which they occur. Related terms: Biological diversity",
+    "related": []
+  },
+  {
     "acronym": "BO",
     "name": "Biological Opinion",
     "description": "A document produced for a specific purpose. It includes: <ol><li>The opinion of the Fish and Wildlife Service or the National Marine Fisheries Service as to whether or not a federal action is likely to jeopardize the continued existence of listed species, or result in the destruction or adverse modification of designated critical habitat;</li><li>A summary of the information on which the opinion is based;</li><li>A detailed discussion of the effects of the action on listed species or designated critical habitat.</li></ol>",
@@ -101,6 +107,18 @@
     "acronym": null,
     "description": "Special category of marine fishes who spend most of their adult lives in fresh water, but return to the sea to spawn.",
     "related": ["Anadromous fish", "Diadromous fish"]
+  },
+  {
+    "name": "Consultation",
+    "acronym": null,
+    "description": "The process required of a federal agency under section 7 of the Endangered Species Act when any activity authorized, carried out, or conducted by that agency may affect a listed species or designated critical habitat; consultation is with the Service or NOAA Fisheries and may be either informal or formal.",
+    "related": ["Endangered Species Act"]
+  },
+  {
+    "name": "Convention on International Trade in Endangered Species of Wild Fauna and Flora",
+    "acronym": "CITES",
+    "description": "A 1973 multilateral treaty that regulates or prohibits international commerce of plant and animal species believed to be harmed by, or that may be harmed by, international trade. The authority to implement this is under section 8 of the Endangered Species Act.",
+    "related": ["Endangered Species Act"]
   },
   {
     "name": "Cooperative Ecosystem Studies Units",
@@ -189,6 +207,12 @@
     "related": ["Conservation", "Critical Habitat"]
   },
   {
+    "name": "Ecosystem",
+    "acronym": null,
+    "description": "A dynamic and interrelating complex of plant and animal communities and their associated nonliving (such as physical and chemical) environment.",
+    "related": ["Ecosystem Services"]
+  },
+  {
     "name": "Ecosystem services",
     "acronym": null,
     "description": "Function performed by an ecosystem that benefit other natural resources and/or the public. Examples of ecosystem services include (but are not limited to) nutrient cycling, water purification, pollination, food production for other species, and habitat provision",
@@ -222,6 +246,18 @@
     "related": []
   },
   {
+    "name": "Essential experimental population",
+    "acronym": "EEP",
+    "description": "An experimental population whose loss would appreciably reduce the prospect of survival of the species in the wild. All other experimental populations are &ldquo;non-essential&rdquo;.",
+    "related": ["Experimental population", "Non-essential experimental population", "Endangered Species Act"]
+  },
+  {
+    "name": "Experimental population",
+    "acronym": null,
+    "description": "A population (including its offspring) of a listed species designated by rule published in the Federal Register that is wholly separate geographically from other populations of the same species. An experimental population may be subject to less stringent prohibitions than are applied to the remainder of the species to which it belongs.",
+    "related": ["Essential experimental population", "Federal Register", "Non-essential experimental population", "Endangered Species Act"]
+  },
+  {
     "name": "Environmental Impact Statement",
     "acronym": "EIS",
     "description": "An analysis of the environmental risks of an action, and of its alternatives, proposed by a federal agency. This type of evaluation is required for all major federal actions under the National Environmental Policy Act of 1968.",
@@ -232,6 +268,18 @@
     "acronym": null,
     "description": "The enrichment of an ecosystem with chemical nutrients (e.g., compounds containing nitrogen, phosphorus, or both). The process often results in the explosion in the number of algae in a body of water referred to as an algal bloom.  When conditions change and the algae dies and sinks in the water and decompose resulting in the depletion of dissolved oxygen in the water.<br><br>Runoff from agriculture and development, pollution from septic systems and sewers, and other human-related activities can lead to eutrophication.",
     "related": ["Hypoxia", "Anoxia"]
+  },
+  {
+    "name": "Extirpated",
+    "acronym": null,
+    "description": "A species that no longer survives in regions that were once part of its range, but that still exists elsewhere in the wild or in captivity.",
+    "related": ["Extinct", "Endangered Species Act"]
+  },
+  {
+    "name": "Extinct",
+    "acronym": null,
+    "description": "A species that no longer exists. For the Endangered Species Act, a species currently believed to be extinct.",
+    "related": ["Extirpated", "Endangered Species Act"]
   },
   {
     "acronym": "FERC",
@@ -295,16 +343,40 @@
     ]
   },
   {
+    "name": "Harass",
+    "acronym": null,
+    "description": "To intentionally or negligently, through act or omission, create the likelihood of injury to wildlife by annoying it to such an extent as to significantly disrupt normal behavior patterns such as breeding, feeding, and sheltering.",
+    "related": ["Endangered Species Act", "Harm"]
+  },
+  {
+    "name": "Harm",
+    "acronym": null,
+    "description": "To perform an act that kills or injures wildlife; may include significant habitat modification or degradation when it kills or injures wildlife by significantly impairing essential behavioral patterns including breeding, feeding, or sheltering.",
+    "related": ["Endangered Species Act", "Harass"]
+  },
+  {
     "name": "Herbivore",
     "acronym": null,
     "description": "An animal that only eats plants.",
     "related": ["Carnivore", "Omnivore"]
   },
   {
+    "name": "Historic Range",
+    "acronym": null,
+    "description": "The geographic area where a species was known to, or believed to, occur within historic time.",
+    "related": ["Range"]
+  },
+  {
     "name": "Hypoxia",
     "acronym": null,
     "description": "An environmental phenomenon where the concentration of dissolved oxygen in the water decreases to a level that can no longer support aquatic life. Hypoxia can be caused by a variety of factors, including excess nutrients (primarily nitrogen and phosphorus), and waterbody stratification (layering) due to saline or temperature gradients. With excess nutrients, the problem begins when they overstimulate algal growth. As the algae die, they decompose, and oxygen is consumed in the process. This results in low levels of oxygen in the water.",
     "related": ["Eutrophication", "Nutrient load"]
+  },
+  {
+    "name": "Incidental take",
+    "acronym": null,
+    "description": "Take that results from, but is not the purpose of, carrying out an otherwise lawful activity.",
+    "related": ["Endangered Species Act", "Take", "Section 7"]
   },
   {
     "name": "Indicator species",
@@ -401,9 +473,21 @@
     "acronym": null,
     "description": "A plant or animal that receives federal protections under the Endangered Species Act. Species can be protected as endangered or threatened.<br><br><a href='http://ecos.fws.gov/tess_public/reports/ad-hoc-species-report?kingdom=V&kingdom=I&status=E&status=T&status=EmE&status=EmT&status=EXPE&status=EXPN&status=SAE&status=SAT&mapstatus=3&fcrithab=on&fstatus=on&fspecrule=on&finvpop=on&fgroup=on&header=Listed+Animals'>See listed animals</a><br><a href='http://ecos.fws.gov/tess_public/reports/ad-hoc-species-report?kingdom=P&status=E&status=T&status=EmE&status=EmT&status=EXPE&status=EXPN&status=SAE&status=SAT&mapstatus=3&fcrithab=on&fstatus=on&fspecrule=on&finvpop=on&fgroup=on&ffamily=on&header=Listed+Plants'>See listed plants</a>",
     "related": [
+      "Endangered",
       "Endangered Species Act",
-      "Threatened",
-      "Endangered"
+      "Listing",
+      "Threatened"
+    ]
+  },
+  {
+    "name": "Listing",
+    "acronym": null,
+    "description": "The formal process through which the Service or NOAA Fisheries adds species to the federal list of endangered and threatened wildlife and plants",
+    "related": [
+      "Endangered",
+      "Endangered Species Act",
+      "Listed Species",
+      "Threatened"
     ]
   },
   {
@@ -501,6 +585,12 @@
     ]
   },
   {
+    "name": "National Oceanic and Atmospheric Administration",
+    "acronym": "NOAA",
+    "description": "The National Oceanic and Atmospheric Administration is an American scientific agency within the United States Department of Commerce that focuses on the conditions of the oceans, major waterways, and the atmosphere.",
+    "related": ["Endangered Species Act"]
+  },
+  {
     "name": "Non-Governmental Organization",
     "acronym": "NGO",
     "description": "Non-governmental organizations are nonprofit entities independent of governmental influence (although they may receive government funding). NGO activities include, but are not limited to, environmental, social, advocacy and human rights work. They can work to promote social or political change on a broad scale or very locally.",
@@ -545,6 +635,12 @@
     ]
   },
   {
+    "name": "Permit",
+    "acronym": null,
+    "description": "Permits enable the public to engage in legitimate wildlife-related activities that would otherwise be prohibited by law. Under the Endangered Species Act (ESA), a permit is a document issued by the Service or NOAA Fisheries under authority of section 10 of the ESA that allows an action otherwise prohibited under section 9. The Service has two different programs that issue ESA permits. The Endangered Species Program issues ESA permits for native species (except for permits to import/export native species). The Division of Management Authority issues ESA permits for non-native species and also for the import/export of both non-native and native species. NOAA Fisheries issues ESA permits for marine species, and the Service and NOAA have joint responsibilities for some species such as sea turtles.",
+    "related": ["Take", "Endangered Species Act", "NOAA"]
+  },
+  {
     "name": "Policy for Evaluation of Conservation Efforts",
     "acronym": "PECE",
     "description": "Policy that identifies criteria the Service will use to determine whether conservation efforts that have yet to be implemented or have yet to show effectiveness contribute to making listing a species as threatened or endangered unnecessary.  This is a key test for Candidate Conservation Agreements and Candidate Conservation Agreements with Assurances where proactive conservation efforts are put in place to prevent a species from needing to be listed under the Endangered Species Act.<br><br><a href='https://www.fws.gov/endangered/esa-library/pdf/PECE-final.pdf' target='_blank'>Learn more about the Policy in the Federal Register</a>.",
@@ -576,6 +672,12 @@
     ]
   },
   {
+    "name": "Range",
+    "acronym": null,
+    "description": "The geographic area a species is known to, or believed to, occupy.",
+    "related": ["Historic range"]
+  },
+  {
     "name": "Recovery",
     "acronym": null,
     "description": "An improvement in the status of a listed species to the point at which listing is no longer appropriate under the criteria set out in section 4(a)(1) of the Endangered Species Act.",
@@ -586,10 +688,16 @@
     ]
   },
   {
+    "name": "Recovery permit",
+    "acronym": null,
+    "description": "A permit issued under section 10(a)(1)(A) of the Endangered Species Act for scientific research and other activities benefiting the recovery of federally listed species; allows for research pertaining to species recovery, such as taking blood samples from a peregrine falcon for genetic analysis, or conducting surveys of freshwater mussel beds to determine species status and distribution.",
+    "related": ["Recovery", "Recovery team", "Endangered Species Act"]
+  },
+  {
     "name": "Recovery plan",
     "acronym": null,
     "description": "A &ldquo;road map&rdquo; drafted by the Service, NOAA Fisheries, or other knowledgeable individuals or groups that serves as a guide for activities to be undertaken to recover and conserve endangered or threatened species. A recovery plan includes a description of the needed management actions; objective, measurable criteria which when met would lead to the species being removed from federal protection; and an estimate of the time required and cost to carry out those measures. Recovery plans may include brief discussions of the species&rsquo; biology, life history and threats to it.",
-    "related": ["Recovery", "Recovery team", "Endangered Species Act"]
+    "related": ["Recovery", "Recovery team", "Recovery plan", "Endangered Species Act"]
   },
   {
     "name": "Recovery team",
@@ -604,6 +712,12 @@
     "related": []
   },
   {
+    "name": "Scientific name",
+    "acronym": null,
+    "description": "A formal Latin or latinized name applied to a taxonomic group of animals or plants. A species' scientific name is a two-part combination consisting of the genus followed by the species. The name is italicized or underlined. For example, the scientific name of the little brown bat is <em>Myotis lucifugus</em>. The genus name is Myotis, and the species name is lucifugus. If an animal species has been further divided into subspecies, or a plant species further divided into varieties, a third part is added to the scientific name. The Arizona bat is <em>Myotis lucifugus occultus</em>; &ldquo;occultus&rdquo; distinguishes the Arizona subspecies from other subspecies of the little brown bat.",
+    "related": ["Species"]
+  },
+  {
     "name": "Southeastern Conservation Adaptation Strategy",
     "acronym": "SECAS",
     "description": "A regional, multi-partner initiative led by members of the Southeastern Association of Fish and Wildlife Agencies, supported by federal leaders in the Southeast Natural Resources Leadership Group, and developed through partners comprising the southeastern network of Landscape Conservation Cooperatives (South Atlantic, Peninsular Florida, Appalachians, Gulf Coastal Plains & Ozarks, Caribbean and Gulf Coast Prairies LCCs). These existing forums bring together landowners, businesses, and governmental and conservation organizations to collectively develop and implement a compelling conservation strategy for each Landscape Conservation Cooperative region. The goal of SECAS is to collaboratively define the conservation landscape of the Southeast United States of the future.<br><br>Learn more at <a href='http://secassoutheast.org' target='_blank'>SECASsoutheast.org</a>.",
@@ -616,10 +730,22 @@
     "related": ["Carnivore", "Omnivore", "Herbivore", "At-risk species", "Endangered", "Threatened"]
   },
   {
+    "name": "Species of concern",
+    "acronym": null,
+    "description": "An informal term referring to a species that might be in need of conservation action. This may range from a need for periodic monitoring of populations and threats to the species and its habitat, to the necessity for listing as threatened or endangered. Species of concern receive no legal protection and use of the term does not necessarily imply that a species will eventually be proposed for listing. A similar term is &ldquo;species at risk,&rdquo; which is a general term for listed species as well as unlisted ones that are declining in population.",
+    "related": ["At-risk species", "Endangered", "Threatened", "Endangered Species Act"]
+  },
+  {
     "name": "Species of Greatest Conservation Need",
     "acronym": null,
     "description": "A category identified in state Wildlife Action Plans that includes animal species whose populations are rare, declining or vulnerable. This set is dynamic and can change over time as new information becomes available or the status of a species changes.",
     "related": ["At-risk species", "Endangered species", "Threatened species"]
+  },
+  {
+    "name": "Stakeholder",
+    "acronym": null,
+    "description": "Any person or organization who has an interest in the actions discussed or is affected by the resulting outcomes of a project or action.",
+    "related": []
   },
   {
     "name": "State Wildlife Action Plan",
@@ -648,8 +774,8 @@
   {
     "name": "Tailwater",
     "acronym": null,
-    "description": "Dams that hold back water to create large reservoirs can have a big impact on the temperature of water.  In summer months heat from the sun reaches the reservoir, which warms the upper layers of the water while deeper water remains much colder.  When water is released from a dam comes from lower, cooler water it changes the habitat below the dam.",
-    "related": []
+    "description": "Dams that hold back water to create large reservoirs can have a big impact on the temperature of water.  In summer months heat from the sun reaches the reservoir, which warms the upper layers of the water while deeper water remains much colder.  When water is released from a dam it comes from the lower, cooler water, which changes the habitat and ecosystem below the dam.",
+    "related": ["Mitigation", "Dam"]
   },
   {
     "name": "Trust resources",
@@ -690,6 +816,12 @@
     "related": [
       "Species"
     ]
+  },
+  {
+    "name": "Warranted but precluded",
+    "acronym": null,
+    "description": "A 12-month petition finding that a petitioned action should be undertaken, but cannot because the resources necessary to do so are being devoted to actions with higher priority.",
+    "related": ["Endangered Species Act", "Listing", "Petition"]
   },
   {
     "name": "Wildlife cooridor",
