@@ -19,7 +19,7 @@
   {{ end }}
   {{ end }}
   <li {{ if not $pag.HasNext }}class="disabled"{{ end }}>
-    <a href="{{ if $pag.HasNext }}{{ $pag.Next.URL }}{{ end }}" aria-label="Next">
+    <a href="{{ if $pag.HasNext }}{{ $pag.Next.URL }}{{ end }}" aria-label="Next" class="pagination-next">
       <span aria-hidden="true">&raquo;</span>
     </a>
   </li>

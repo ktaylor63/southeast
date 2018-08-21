@@ -8,10 +8,12 @@
       {{ if .Key }}
       h2 {{ title .Key }}
       {{ end }}
-      {{ range .Pages }}
-        {{ .Render "summary"}}
-      {{ end }}
+      ul.card-list
+        {{ range .Pages }}
+          {{ .Render "summary"}}
+        {{ end }}
     {{ end }}
     {{ partial "pagination.html" . }}
 
     span.hide-scrollnav
+    script src="/js/infinite-scroll.js"

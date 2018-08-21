@@ -5,8 +5,11 @@
     p The species profiles below are a one-stop-shop for information about the animals that the Southeast region of the U.S. Fish and Wildlife Service is responsible for protecting and/or recovering.
 
     {{ $paginator := .Paginate (where .Data.Pages "Type" "species-profile") 7 }}
-    {{ range $paginator.Pages }}
-      {{ .Render "summary" }}
-    {{ end }}
+    ul.card-list
+      {{ range $paginator.Pages }}
+        {{ .Render "summary" }}
+      {{ end }}
 
     {{ partial "pagination.html" . }}
+
+    script src="/js/infinite-scroll.js"

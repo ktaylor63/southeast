@@ -7,8 +7,11 @@
       a href="/{{ $section }}/index.xml" Subscribe to an RSS feed
 
     {{ $paginator := .Paginate (where .Data.Pages "Section" $section) 7 }}
-    {{ range $paginator.Pages }}
-      {{ .Render "summary" }}
-    {{ end }}
+    ul.card-list
+      {{ range $paginator.Pages }}
+        {{ .Render "summary" }}
+      {{ end }}
 
     {{ partial "pagination.html" . }}
+
+    script src="/js/infinite-scroll.js"

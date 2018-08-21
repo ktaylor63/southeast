@@ -1,5 +1,5 @@
 {
-  "name": "infinite-scroll",
+  "name": "infinite-scroller",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -32,6 +32,7 @@
   },
   "dependencies": {
     "babel-core": "^6.26.3",
+    "infinite-scroll": "^3.0.4",
     "lodash.throttle": "^4.1.1",
     "uglify-es": "^3.3.9"
   }
