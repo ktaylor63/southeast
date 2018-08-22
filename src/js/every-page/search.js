@@ -32,8 +32,8 @@ const createListItem = p => {
           <p>${section}</p>
         </div>
         <div class="search-item-content-text">
-          <h3><a href=${p.uri}>${p.title}</a></h3>
-          <p>${p.summary} <a href="${p.uri}">Read more...</a></p>
+          <h3><a href="${baseURL}${p.uri}">${p.title}</a></h3>
+          <p>${p.summary} <a href="${baseURL}${p.uri}">Read more...</a></p>
         </div>
       </div>
     </li>`;
