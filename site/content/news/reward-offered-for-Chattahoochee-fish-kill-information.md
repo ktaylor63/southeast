@@ -4,13 +4,13 @@ date: 2018-06-06T00:00:00.000Z
 hero:
     name: chattahoochee-forest-nfh-welcome.jpg
     alt: 'Two USFWS employees in uniform standing in front of the welcome sign at the hatchery.'
-    caption: 'Chattahoochee Forest National Fish Hatchery  in Suches, GA. Photo by USFWS.'
+    caption: 'Chattahoochee Forest National Fish Hatchery in Suches, GA. Photo by USFWS.'
     link: 'https://flic.kr/p/ejHQ33'
 tags:
     - 'Chattahoochee Forest National Fish Hatchery'
     - Georgia
     - Reward
-updated: 'June 6th, 2018'
+updated: 'August 22nd, 2018'
 ---
 
 **Suches, Georgia** &mdash; In the early hours of June 4, the main water line to the Chattahoochee Forest National Fish Hatchery was cut off, killing about 52,000 trout worth $62,000.
