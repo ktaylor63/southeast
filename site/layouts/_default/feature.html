@@ -1,9 +1,11 @@
+{{ if .Params.hero }}
 <div class="inline-hero">
   <a href="{{ .Permalink }}" class="permalink">
     {{ partial "hero-image.html" . }}
     <h2 class="feature-{{ .Section | singularize }}">{{ .Title }}</h2>
   </a>
 </div>
+{{ end }}
 
 <div class="hero-teaser">
   {{ if not .Params.hero }}<h2>{{ .Title }}</h2>{{ end }}
