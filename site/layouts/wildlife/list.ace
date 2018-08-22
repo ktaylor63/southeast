@@ -11,7 +11,7 @@
 
     {{ $profiles := where .Site.Pages "Type" "species-profile" }}
     {{ $taxonContent := (index .Site.Taxonomies.tags (lower $taxon)).Pages }}
-    {{ $pages := intersect $profiles $taxonContent}}
+    {{ $pages := intersect $profiles $taxonContent }}
 
     {{ $paginator := .Paginate $pages 7 }}
     ul.card-list
