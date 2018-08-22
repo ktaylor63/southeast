@@ -10,7 +10,7 @@ hero:
     caption: 'Tarver, who grew up in Alabama, is a longleaf fan. His property, 200 miles south of Atlanta, is named Longleaf Plantation. Photo by Mark Davis, USFWS.'
     position: 'top center'
 tags:
-    - 'Eglin Airforce Base'
+    - 'Eglin Air Force Base'
     - 'Endangered Species Act'
     - Florida
     - 'Fort Stewart'
