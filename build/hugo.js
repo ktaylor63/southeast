@@ -2,8 +2,6 @@ const exec = require('child_process').exec;
 const endOfLine = require('os').EOL;
 const chalk = require('chalk');
 
-const liveBaseUrl = 'fws.gov/southeast';
-
 function build(env) {
   const environment = env || process.argv[2];
   console.log(chalk.yellow(`Environment: ${environment} ${endOfLine}`));
