@@ -18,7 +18,7 @@
   <li class="infinite-list--item card">
     <!-- {{ if (in $element.Params.tags "E-Grits") }}<p class="infinite-list--type">{{ $element.Params.type }}</p>{{ end }} -->
     <div class="infinite-list--header {{ if .Params.hero }}infinite-list--header__img{{ end }}" {{ if .Params.hero.position }}style="object-position: {{ .Params.hero.position }};"{{ else }} {{ end }}>{{ if $element.Params.hero.name }}
-        <img class="infinite-list--img" {{ if lt $index $lazyLoadLimit }}src{{ else }}src="/images/svg/picture.svg" data-src{{ end }}="{{ $.Site.BaseURL }}images/hero/{{ $element.Params.hero.name }}" alt="{{ $element.Params.hero.alt }}"/>
+        <img class="infinite-list--img" {{ if lt $index $lazyLoadLimit }}src{{ else }}src="/images/svg/picture.svg" data-src{{ end }}="/images/hero/{{ $element.Params.hero.name }}" alt="{{ $element.Params.hero.alt }}"/>
     {{ end }}</div>
     <div class="infinite-list--text card-text">
       {{ if not $element.Date.IsZero }}

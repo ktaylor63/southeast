@@ -3,7 +3,7 @@ html lang="en-US"
   head
     = include partials/head.html .
     = include partials/css.html .
-  body data-root="{{ .Site.BaseURL }}"
+  body data-root="{{ .Site.Params.base }}"
     a#skip-to-content href=#content skip to content
     = include partials/navigation.html .
     {{ if .Params.hero }}

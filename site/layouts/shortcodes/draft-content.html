@@ -1,4 +1,4 @@
-{{ $baseurl := printf "%s" .Site.BaseURL}}
+{{ $baseurl := printf "%s" .Site.Params.base }}
 {{ if not (in $baseurl "fws.gov/southeast") }}
 <ul class="content-centered card-list">
   {{ range  where .Site.Pages "Params.draft" true }}
