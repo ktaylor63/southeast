@@ -49,6 +49,7 @@ outputs:
 
 # Custom Defined Site Wide Variables
 params:
+  base: //localhost:3000/
   hero:
   twitter: usfwssoutheast
   github:  usfws

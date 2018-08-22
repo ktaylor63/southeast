@@ -40,6 +40,7 @@ outputs:
 
 # Custom Defined Site Wide Variables
 params:
+  base: https://www.fws.gov/southeast/
   hero:
   twitter: usfwssoutheast
   github:  usfws
