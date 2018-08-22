@@ -7,8 +7,8 @@ author: 'Gary Peeples'
 hero:
     name: rainbow-trout-in-hand.jpg
     alt: 'A colorful yellow and red trout covered in small black spots.'
-    link: 'http://digitalmedia.fws.gov/cdm/singleitem/collection/natdiglib/id/4507/rec/1'
-    caption: 'A wildlife biologist holds a rainbow trout. Photo by Mark Lisac, USFWS.'
+    caption: 'A wildlife biologist holds a rainbow trout. <a href="http://digitalmedia.fws.gov/cdm/singleitem/collection/natdiglib/id/4507/rec/1">Photo</a> by Mark Lisac, USFWS.'
+    position: '90% 50%'
 tags:
     - 'Asheville Ecological Services Field Office'
     - Fishing
@@ -16,7 +16,7 @@ tags:
     - Podcast
     - 'Southern Appalachian Creature Feature'
     - Trout
-updated: 'August 8th, 2018'
+updated: 'August 22nd, 2018'
 ---
 
 ## Transcript
