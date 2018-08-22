@@ -11,7 +11,7 @@ type: field-station
 tags:
     - 'Endangered Species Act'
     - Georgia
-updated: 'June 25th, 2018'
+updated: 'August 22nd, 2018'
 ---
 
 Chattahoochee Forest National Fish Hatchery is nestled deep in the heart of the North Georgia mountains, approximately 75 miles north of Atlanta. Surrounded by the 749,444 acre [Chattahoochee National Forest](https://www.fs.usda.gov/conf), the hatchery occupies a 44.8 acre tract of land straddling Mill Creek and Rock Creek, which are tributaries of the Toccoa River.
@@ -19,10 +19,6 @@ Chattahoochee Forest National Fish Hatchery is nestled deep in the heart of the 
 The hatchery produces about one million rainbow trout each year. These fish are stocked into tailwaters, streams and lakes of Northern Georgia in cooperation with the Georgia Department of Natural Resources, Corps of Engineers, Tennessee Valley Authority, and the U.S. Forest Service.
 
 [Learn more about how the U.S. Fish and Wildlife Service propagates fish.](https://fws.gov/southeast/our-services/fish-production)
-
-{{< scroller-list tag="Chattahoochee Forest National Fish Hatchery" section="news" >}}
-{{< scroller-list tag="Chattahoochee Forest National Fish Hatchery" section="articles" >}}
-{{< scroller-list tag="Chattahoochee Forest National Fish Hatchery" section="wildlife" >}}
 
 ## Station goals
 
