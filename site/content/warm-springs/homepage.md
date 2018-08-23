@@ -1,7 +1,12 @@
 ---
-draft: false
+draft: true
 title: 'Warm Springs National Fish Hatchery'
 description: 'Warm Springs National Fish Hatchery is a warmwater facility that propagates species including striped bass, lake sturgeon, robust redhorse and alligator gar.'
+hero:
+    name: warm-springs-boardwalk-wetland-exhibit.jpg
+    alt: 'Trees begin to change to fall colors on the edge of a pond surrounded by a boardwalk.'
+    photo: 'The boardwalk wetland exhibit at Warm Springs National Fish Hatchery. Photo by USFWS.'
+    position: '50% 20%'
 nav: Home
 weight: 1
 office: 'Warm Springs National Fish Hatchery'
@@ -13,18 +18,14 @@ tags:
     - Georgia
     - Recovery
     - 'Warm Springs National Fish Hatchery'
-updated: 'June 18th, 2018'
+updated: 'August 23rd, 2018'
 ---
 
 Warm Springs National Fish Hatchery was authorized by the U.S. Congress in 1898 and was established in 1899 as a warmwater hatchery. The species propagated here do best in spring and summer water temperatures of 60-85 degrees Fahrenheit. Species such as striped bass, lake sturgeon, robust redhorse and alligator gar are vital fishery resources of the southeastern United States and are managed in cooperation with state game and fish agencies.
 
 The hatchery consists of 56 acres with 40 ponds totaling 18.23 acres of water, and is managed by a staff that includes four biologists and an electrician. The hatchery’s primary work area is Georgia, but also benefits species throughout the 10-state U.S. Fish and Wildlife Service Southeast Region.
 
-{{< scroller-list tag="Warm Springs National Fish Hatchery" section="news" >}}
-
-{{< scroller-list tag="Warm Springs National Fish Hatchery" section="articles" >}}
-
-{{< scroller-list tag="Warm Springs National Fish Hatchery" section="wildlife" >}}
+{{< figure class="photo-center" src="/images/pages/warm-springs-nfh-map.jpg" alt="A map showing the different parts of the hatchery." caption="Map of Warm Springs National Fish Hatchery. Map by USFWS." >}}
 
 ## Public use opportunities
 
@@ -64,4 +65,6 @@ Warm Spring National Fish Hatchery services all of Georgia, but many of our serv
 
 ## Directions
 
-[Download directions to Warm Springs National Fish Hatchery.](https://www.google.com/maps/dir//Warm+Springs+National+Fish+Hatchery,+5308+Spring+St,+Warm+Springs,+GA+31830/@32.8846674,-84.6753886,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x88f35eb09d505cc9:0x7c27f02104358da1!2m2!1d-84.6731999!2d32.8846674)
+[Download directions to Warm Springs National Fish Hatchery.](https://www.google.com/maps/dir//Warm+Springs+National+Fish+Hatchery,+5308+Spring+St,+Warm+Springs,+GA+31830/@32.8846674,-84.6753886,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x88f35eb09d505cc9:0x7c27f02104358da1!2m2!1d-84.6731999!2d32.8846674)  
+
+<br><br>
