@@ -3,11 +3,16 @@ draft: true
 title: 'Predicting the location of aquatic species'
 subtitle: 'A tool for helping conserve and protect'
 nav: 'Aquatic species'
-draft: true
+hero:
+    name: eastern-hellbender.jpg
+    alt: 'A small, slimy, green salamander in hand.'
+    caption: 'Eastern hellbender. <a href="https://flic.kr/p/EjNh96">Photo</a> by Will Parson, Chesapeake Bay Program, <a href="https://creativecommons.org/licenses/by-nc/2.0/">CC BY-NC 2.0</a>.'
+    link: 'https://flic.kr/p/EjNh96'
+    position: '40% 50%'
 tags:
     - 'Geographic Information Systems'
     - 'North Carolina'
-updated: 'July 13th, 2018'
+updated: 'August 23rd, 2018'
 ---
 
 To better understand the geographic distributions of aquatic species in North Carolina, we created predictive habitat maps for 247 aquatic species using geographic information systems and maximum entropy (Maxent) modeling (Maxent is a machine learning technique that can be used to predict the geographic distribution of any spatial phenomena, including plants or animals). These maps were derived by comparing known species occurrences with a suite of stream or landcover derived environmental variables. They provide a coarse-scale look at the potential stream suitability of many aquatic animals present and hope our mapping efforts help efforts to prioritize stream systems and help educate people on the spatial distributions and conservation needs of North Carolina aquatic species and habitats.

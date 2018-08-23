@@ -1,11 +1,17 @@
 ---
 draft: true
 title: 'For private landowners'
+nav: 'For Private Landowners'
+hero:
+    name: netted-chain-fern.jpg
+    alt: 'Bright green ferns shot from above cover the forest floor.'
+    caption: 'Netted chain fern. <a href="https://flic.kr/p/86RQrC">Photo</a> by Gary Peeples, USFWS.'
+    link: 'https://flic.kr/p/86RQrC'
 tags:
     - 'North Carolina'
     - 'Partners for Fish and Wildlife Program'
-updated: 'July 12th, 2018'
---- 
+updated: 'August 23rd, 2018'
+---
 
 Through its Partners for Fish and Wildlife Program, the U.S. Fish and Wildlife Service provides financial and technical assistance to private landowners, and local and tribal governments to improve habitat on their land.
 

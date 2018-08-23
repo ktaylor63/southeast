@@ -9,11 +9,17 @@ office: 'Asheville Ecological Services Field Office'
 js: /js/field-station.js
 url: /asheville
 type: field-station
+hero:
+    name: mountain-sweet-pitcher-plant-henderson-county.jpg
+    alt: 'Bright red flowers emerge from a bog with a forest in the background.'
+    caption: 'Mountain sweet pitcher plant patch in Butt CPA. Photo by Gary Peeples, USFWS.'
+    link: 'https://flic.kr/p/H3SC2u'
+    position: 'bottom center'
 tags:
     - 'Asheville Ecological Services Field Office'
     - 'Endangered Species Act'
     - 'North Carolina'
-updated: 'July 30th, 2018'
+updated: 'August 23rd, 2018'
 ---
 
 The Asheville ecological services field office was established in the late 1970s.

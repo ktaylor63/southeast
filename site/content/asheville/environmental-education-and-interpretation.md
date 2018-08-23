@@ -1,12 +1,18 @@
 ---
 draft: true
 title: 'Environmental education and interpretation'
-nav: 'Environmental education'
+nav: 'Environmental Education'
+hero:
+    name: pigeon-river-students-with-instructor.jpg
+    alt: 'Students in waders standing in a shallow river looking at insects with an instructor.'
+    caption: 'Students circle around to see insects on a rock. Photo by Gary Peeples, USFWS.'
+    link: 'https://flic.kr/p/puCwY1'
+    position: 'top right'
 tags:
     - 'Environmental Education'
     - 'Environmental Interpretation'
     - 'North Carolina'
-updated: 'July 12th, 2018'
+updated: 'August 23rd, 2018'
 ---
 
 Due to limited resources and efforts to focus those resources where conservation need is greatest, we are generally only able to offer classroom and field programs in Macon, Jackson, Graham, Swain, Haywood, Henderson, Transylvania, Yancey, and Mitchell counties.
