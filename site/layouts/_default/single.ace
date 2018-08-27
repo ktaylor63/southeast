@@ -39,4 +39,5 @@
         {{ .Render "gallery" }}
         {{ end }}
     {{ end }}
+    span.hide-scrollnav
   {{ end }}
