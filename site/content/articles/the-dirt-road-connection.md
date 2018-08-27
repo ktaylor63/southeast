@@ -16,11 +16,12 @@ tags:
     - 'Arkansas Fatmucket'
     - 'At-Risk Species'
     - 'Endangered Species Act'
+    - 'Greers Ferry National Fish Hatchery'
     - 'Ozark Chub'
     - 'Ozark Shiner'
     - 'Speckled Pocketbook'
     - 'Water Quality'
-updated: 'August 29th, 2017'
+updated: 'August 27th, 2018'
 ---
 
 Judge Stacey Avey has been serving on the bench for 17 years in Arkansas’ Stone County, a rural county in the Ozarks a little south of the Arkansas-Missouri state line. There are 13,000 people there, and a lot of unpaved dirt and gravel roads.
