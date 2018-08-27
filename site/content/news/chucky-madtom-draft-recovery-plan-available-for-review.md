@@ -7,12 +7,12 @@ hero:
     link: 'https://flic.kr/p/8xgXAv'
     caption: 'Services biologists search through a seine for signs of Chucky madtom. Photo by Gary Peeples, USFWS.'
 tags:
-    - Tennessee
     - 'Chucky Madtom'
-    - Tennessee Ecological Services Field Office
-    - Endangered Species Act
+    - 'Endangered Species Act'
     - Recovery
-updated: 'November 9th, 2016'
+    - Tennessee
+    - 'Tennessee Ecological Services Field Office'
+updated: 'August 24th, 2018'
 ---
 
 The Chucky madtom’s recovery now has a road map and the U.S. Fish and Wildlife Service is looking for your input before it is finalized to be sure it gives conservationists the best chance to ensure the rare catfish once again thrives in East Tennessee.
