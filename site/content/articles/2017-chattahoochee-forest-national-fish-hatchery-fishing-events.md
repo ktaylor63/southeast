@@ -17,7 +17,7 @@ tags:
 author: 'Crystal Thomas, Chattahoochee Forest National Fish Hatchery'
 type: 'Bragging Rights'
 date: '2017-05-24'
-updated: 'August 28th, 2017'
+updated: 'August 27th, 2018'
 ---
 
 Fishing events are rain or shine.  Both events will be begin at 9:00am through 12:00 noon.  Please bring your own fishing gear and bait; lunch and prizes will be included free of charge. **Georgia sport fishing regulations apply.**
