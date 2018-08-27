@@ -7,10 +7,11 @@ hero:
     caption: 'Yellowcheek darter. Photo by J.R. Shute, Conservation Fisheries, Inc.'
     position: 'bottom right'
 tags:
+    - Arkansas
+    - 'Greers Ferry National Fish Hatchery'
     - Recovery
     - 'Yellowcheek Darter'
-    - Arkansas
-updated: 'March 19th, 2017'
+updated: 'August 27th, 2018'
 ---
 The U.S. Fish and Wildlife Service [announces the availability of the draft recovery plan for the yellowcheek darter](https://www.federalregister.gov/documents/2017/03/06/2017-04279/endangered-and-threatened-wildlife-and-plants-technicalagency-draft-recovery-plan-for-the), afish federally-listed as endangered.  The public is invited to submit written comments concerning the recovery plan through May 5, 2017.
 

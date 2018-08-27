@@ -5,6 +5,7 @@ tags:
     - Arkansas
     - 'Arkansas Ecological Services Field Office'
     - 'Endangered Species Act'
+    - 'Greers Ferry National Fish Hatchery'
     - Recovery
     - 'Recovery Plan'
     - 'Yellowcheek Darter'
@@ -13,7 +14,7 @@ hero:
     alt: 'A light brown fish with bright orange markings on the tops of its fins.'
     caption: 'Yellowcheek darter. Photo by J.R. Shute, Conservation Fisheries, Inc.'
     position: 'bottom right'
-updated: 'July 5th, 2018'
+updated: 'August 27th, 2018'
 ---
 
 The U.S. Fish and Wildlife Service is announcing the availability of the [final recovery plan for the yellowcheek darter](https://ecos.fws.gov/docs/recovery_plan/Final%202018%20Yellowcheek%20darter%20RP_1.pdf), a fish listed as endangered under the Endangered Species Act (ESA).

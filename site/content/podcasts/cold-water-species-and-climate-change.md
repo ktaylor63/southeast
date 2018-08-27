@@ -11,12 +11,13 @@ hero:
     position: '90% 50%'
 tags:
     - 'Asheville Ecological Services Field Office'
+    - 'Brook Trout'
     - 'Climate Change'
-    - 'Eastern Brook Trout'
+    - 'Greers Ferry National Fish Hatchery'
     - 'North Carolina'
     - Podcast
     - 'Southern Appalachian Creature Feature'
-updated: 'August 22nd, 2018'
+updated: 'August 27th, 2018'
 ---
 
 ## Transcript

@@ -1,23 +1,25 @@
 ---
 title: 'Fish and Wildlife Service conducts five-year status reviews of 33 southeastern species'
 tags:
-    - 'Five Year Review'
     - Alabama
-    - Asheville Ecological Services Field Office
     - Arkansas
+    - 'Asheville Ecological Services Field Office'
+    - 'Five Year Review'
     - Florida
-    - 'Puerto Rico'
+    - 'Greers Ferry National Fish Hatchery'
     - Mississippi
+    - 'Panama City'
+    - 'Perdido Key Beach Mouse'
+    - 'Puerto Rico'
+    - 'Speckled Pocketbook'
     - Tennessee
-    - Panama City
-    - Perdido Key Beach Mouse
 hero:
     name: golden-sedge.jpg
     alt: 'A grass like plant with a large geometric shaped bulb.'
     link: 'https://flic.kr/p/ePDbFY'
     caption: 'Golden sedge (<em>Carex lutea</em>) growing next to a pond cypress tree in Pender County, NC. Photo by Dale Suiter, USFWS.'
 date: '2014-05-19'
-updated: 'October 20th, 2016'
+updated: 'August 27th, 2018'
 ---
 
 The U.S. Fish and Wildlife Service will conduct five-year status reviews of 25 endangered and eight threatened species occurring in one or more of the 10 states in the Southeast and the Commonwealth of Puerto Rico. The public is invited to provide written information and comments concerning these species on or before May 27, 2014.

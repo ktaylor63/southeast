@@ -6,10 +6,11 @@ hero:
     alt: 'A brown fish with red fins.'
     caption: 'Yellowcheek darter. Photo &copy; J.R. Shute, Conservation Fisheries International.'
 tags:
-    - 'Yellowcheek darter'
-    - 'Critical Habitat'
     - Arkansas
-updated: 'October 26th, 2016'
+    - 'Critical Habitat'
+    - 'Greers Ferry National Fish Hatchery'
+    - 'Yellowcheek Darter'
+updated: 'August 27th, 2018'
 ---
 
 The U.S. Fish and Wildlife Service announces a public information meeting to share information and answer questions about a proposal to designate  critical habitat for the endangered yellowcheek darter.  

@@ -9,9 +9,10 @@ hero:
     position: 'top left'
 tags:
     - 'Endangered Species Act'
+    - 'Greers Ferry National Fish Hatchery'
     - Mitigation
     - 'National Fish Hatchery'
-updated: 'June 21st, 2018'
+updated: 'August 27th, 2018'
 ---
 
 National fish hatcheries play an important role in managing and restoring America’s fisheries. Hatcheries across the Southeast produce both game and non-game species, which contributes to habitat conservation, endangered species recovery, and provides recreation opportunities to the nation’s anglers.

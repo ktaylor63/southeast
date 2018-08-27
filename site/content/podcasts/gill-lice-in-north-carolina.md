@@ -11,12 +11,14 @@ hero:
     position: '90% 50%'
 tags:
     - 'Asheville Ecological Services Field Office'
+    - 'Brook Trout'
     - 'Gill Lice'
+    - 'Greers Ferry National Fish Hatchery'
     - 'North Carolina'
     - Podcast
     - 'Rainbow Trout'
     - 'Southern Appalachian Creature Feature'
-updated: 'August 22nd, 2018'
+updated: 'August 27th, 2018'
 ---
 
 ## Transcript

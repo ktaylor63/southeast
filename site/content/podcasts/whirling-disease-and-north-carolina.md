@@ -10,11 +10,12 @@ hero:
     caption: 'A wildlife biologist holds a small eastern brook trout. Photo by Steve Droter, Chesapeake Bay Program.'
 tags:
     - 'Asheville Ecological Services Field Office'
+    - 'Greers Ferry National Fish Hatchery'
     - 'North Carolina'
     - Podcast
     - 'Southern Appalachian Creature Feature'
     - 'Whirling Disease'
-updated: 'August 8th, 2018'
+updated: 'August 27th, 2018'
 ---
 
 ## Transcript

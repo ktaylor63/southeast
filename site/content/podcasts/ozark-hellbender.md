@@ -11,15 +11,17 @@ hero:
     link: 'https://flic.kr/p/9bz2ee'
     position: '80% 40%'
 tags:
+    - Arkansas
     - 'Asheville Ecological Services Field Office'
     - 'At-Risk Species'
     - 'Chytrid Fungus'
     - 'Eastern Hellbender'
+    - 'Greers Ferry National Fish Hatchery'
     - 'North Carolina'
     - 'Ozark Hellbender'
     - Podcast
     - 'Southern Appalachian Creature Feature'
-updated: 'August 8th, 2018'
+updated: 'August 27th, 2018'
 ---
 
 ## Transcript
