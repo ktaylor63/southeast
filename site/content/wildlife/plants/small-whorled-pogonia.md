@@ -7,7 +7,7 @@ js: /js/species-profile.js
 hero:
     name: small-whorled-pogonia.jpg
     alt: 'A leafy green plant emerging from the leaf-littered forest floor.'
-    caption: 'Small-whorled pogonia on the forest floor. <a href="https://flic.kr/p/GVybTb">Photo<a> by Gary Peeples, USFWS.'
+    caption: 'Small-whorled pogonia on the forest floor. <a href=https://flic.kr/p/GVybTb">Photo</a> by Gary Peeples, USFWS.'
     link: 'https://flic.kr/p/GVybTb'
     position: '25% 15%'
 tags:
