@@ -5,6 +5,7 @@ author: 'Dan Chapman, Public Affairs Specialist'
 description: 'Austin Griffin and Stephen McGuin are training to become wildland firefighters, an odd career choice given their unusual, at-times troubled backgrounds. Yet they’re perfect fits for a still-new training program crafted by The Nature Conservancy (TNC) to put a diverse and economically disadvantaged cadre of young men and women on the front firefighting lines.'
 date: 2018-07-27T00:00:00.000Z
 type: feature
+series: 'Prescribed fire'
 hero:
     name: stephen-mcguin-wildland-firefighter-training.jpg
     alt: 'A man wearing a yellow hard hat and firefighting gear'
@@ -21,7 +22,7 @@ tags:
     - 'North Carolina'
     - 'Prescribed Fire'
     - 'South Carolina'
-updated: 'August 1st, 2018'
+updated: 'August 24th, 2018'
 ---
 
 {{< youtube id="4UaSQ9DqqQ4" title="On the front lines: Wildland firefighters training program pulls diverse youth into service" credit="Video by Nicole Vidal, USFWS." >}}
