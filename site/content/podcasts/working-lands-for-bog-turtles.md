@@ -1,5 +1,5 @@
 ---
-title: 'Works lands for bog turtles'
+title: 'Working lands for bog turtles'
 audio: /audio/podcast/creature-feature/2015/working-farms-for-bog-turtles.mp3
 transcript: /audio/transcripts/creature-feature/bog-turtles-and-working-lands.pdf
 author: 'Gary Peeples'
@@ -16,7 +16,7 @@ tags:
     - 'North Carolina'
     - Podcast
     - 'Southern Appalachian Creature Feature'
-updated: 'August 8th, 2018'
+updated: 'August 23rd, 2018'
 ---
 
 ## Transcript
