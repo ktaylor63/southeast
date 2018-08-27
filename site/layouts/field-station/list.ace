@@ -15,6 +15,9 @@
     {{ $paginator := .Paginate $pages 7 }}
 
     ul.card-list
+      {{ if eq (len $pages) 0 }}
+      li.card.card-text Sorry, there is no {{ $section | pluralize }} from {{ $tag }} yet
+      {{ end }}
       {{ range $paginator.Pages }}
         {{ .Render "summary" }}
       {{ end }}
