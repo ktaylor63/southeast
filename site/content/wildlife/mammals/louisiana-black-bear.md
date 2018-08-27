@@ -22,7 +22,7 @@ hero:
     alt: 'A Louisiana black bear standing in a grassy clearing'
     caption: 'Louisiana black bear. Credit: Pam McIlhenny, used with permission.'
 description: 'The Louisiana black bear is the state mammal for Louisiana, and it is one of 16 subspecies of the American black bear. While the American black bear can be found across North America, the Louisiana black bear subspecies is only known to occur in Louisiana, East Texas and western Mississippi.  Compared to other black bears, the Louisiana black bears skull is longer, narrower and flatter, with larger molar teeth.'
-updated: 'May 7th, 2018'
+updated: 'August 23rd, 2018'
 ---
 
 * **Taxa:** [Mammal](/tags/mammal)
@@ -38,8 +38,8 @@ On March 10, 2016 the Service removed this species from the Lists of Threatened 
 Currently we estimate that between 500 and 750 Louisiana black bears roam the United States, approximately double the population size at the time of listing. We have used techniques such as live trapping, winter den inspections, radio telemetry monitoring, and DNA sampling to determine population size.
 
 {{< scroller-list tag="Louisiana Black Bear" section="news" >}}
-
 {{< scroller-list tag="Louisiana Black Bear" section="articles" >}}
+{{< scroller-list tag="Louisiana Black Bear" section="podcasts" >}}
 
 ## Appearance
 
@@ -63,13 +63,13 @@ Although they are classified as carnivores (meat-eaters), black bears are opport
 
 Black bears spend a lot of their time foraging for food, and the type of plant food eaten largely depends upon the seasons. In the spring and summer black bears may eat dewberries, blackberries, wild grapes, elderberries, persimmon, pawpaw, pokeweed, devils walking stick, thistle, palmetto, and a variety of fruited vines and soft mast producing shrubs. In the fall they eat acorns, pecans, corn, oats, and wheat, and some bears in southern coastal Louisiana have been documented visiting sugar cane fields. They also may occasionally eat animal remains.
 
-## Historic Range
+## Historic range
 
 {{< figure class="photo-center" src="/images/pages/louisiana-black-bear-historic-and-breeding-range.jpg" alt="A map depicting historic range and current breeding range. Current breeding range is substantially smaller and limited to Louisiana for the most part. The historic range covers east Texas, all of Louisiana, southern Mississippi and Arkansas." caption="Credit: Robert Greco, USFWS." >}}
 
 The Louisiana black bear once roamed throughout southern Mississippi, all of Louisiana, and eastern Texas. The historic range included all Texas counties east of and including Cass, Marion, Harrison, Upshur, Rusk, Cherokee, Anderson, Leon, Robertson, Burleson, Washington, Lavaca, Victoria, Refugio, and Arkansas; all of Louisiana, and the southern Mississippi counties south of and including Washington, Humphreys, Holmes, Attala, Neshoba, and Lauderdale.
 
-## Current Range
+## Current range
 
 Currently, most Louisiana black bears live within four areas of Louisiana, including:
 
@@ -80,7 +80,7 @@ Currently, most Louisiana black bears live within four areas of Louisiana, inclu
 
 Bears may be occasionally encountered in other areas within their range, as male bears sometimes wander long distances from the area of their birth. Bears have been sighted in recent years within many parishes throughout Louisiana, as well as in western and southern Mississippi. Public-access lands that provide the best opportunity of potentially seeing a Louisiana black bear include Bayou Teche National Wildlife Refuge, Richard K. Yancey Wildlife Management Area, Big Lake Wildlife Management Area, and Tensas River National Wildlife Refuge. Please consult, and adhere to, the respective public-land regulations prior to accessing those sites.
 
-## Wildlife Refuges That Provide Habitat
+## Wildlife Refuges that provide habitat
 
 * [Atchafalaya National Wildlife Refuge](http://www.fws.gov/atchafalaya/)
 * [Bayou Cocodrie National Wildlife Refuge](http://www.fws.gov/refuge/bayou_cocodrie/)
@@ -94,11 +94,11 @@ Bears may be occasionally encountered in other areas within their range, as male
 * [Tensas River National Wildlife Refuge\*](http://www.fws.gov/refuge/tensas_river/)
 * [Theodore Roosevelt National Wildlife Refuges Complex](http://www.fws.gov/refuge/Panther_Swamp/About_the_Complex.html)
 
-\*\*Bayou Teche National Wildlife Refuge is the only refuge whose primary mission is to preserve and manage habitat for the threatened Louisiana black bear.
+Bayou Teche National Wildlife Refuge is the only refuge whose primary mission is to preserve and manage habitat for the threatened Louisiana black bear.
 
-\*Tensas River National Wildlife Refuge is managed in consideration of Louisiana black bear needs and is a core area for the bear population. The State of Louisiana’s Big Lake Wildlife Management Area (WMA) is adjacent to the refuge and contributes crucial bear habitat.
+Tensas River National Wildlife Refuge is managed in consideration of Louisiana black bear needs and is a core area for the bear population. The State of Louisiana’s Big Lake Wildlife Management Area (WMA) is adjacent to the refuge and contributes crucial bear habitat.
 
-## Efforts Contributing to Conservation
+## Efforts contributing to conservation
 
 {{< figure class="photo-center" src="/images/pages/louisiana-black-bear-cubs-service-employee.jpg" alt="A Service biologist holding four tiny Louisiana black bear cubs." caption="A Service biologist holds black bear cubs. Credit: USFWS." >}}
 
@@ -107,7 +107,7 @@ Bears may be occasionally encountered in other areas within their range, as male
 * Research funded by the Fish and Wildlife Service and our partners
 * Proactive forest management by many large and small private landowners.
 
-## Challenges
+## Conservation challenges
 
 Like all wild animals, bears can die due to both natural and human causes. The most important natural factor regulating Louisiana black bear populations appears to be changes in food supply.
 
@@ -115,7 +115,7 @@ Other natural causes include disease, cannibalism, drowning, maternal care, and 
 
 In Louisiana and Mississippi, the most significant causes of death are poaching and road kills. Roads split up bear habitat and may cause vehicle collisions, increase human contact, decrease habitat use, or restrict bears’ movement to other areas.
 
-## Tips for Living with Bears
+## Tips for living with bears
 
 Black bears are adaptable and opportunistic. They can survive in locations near humans if there are places of retreat, such as forested land, nearby. As bear populations continue to increase, bear sightings and encounters will become more common. Therefore, it is important to know how to live alongside bears.
 
@@ -126,7 +126,7 @@ Review these resources provided by your local state agencies for further informa
 * [Louisiana](http://www.wlf.louisiana.gov/louisiana-black-bear-brochures)
 * [Mississippi](https://www.mdwfp.com/media/news/wildlife-hunting/living-with-black-bears-in-mississippi/)
 
-## Recovery from Threatened Status
+## Recovery from threatened status
 
 The Louisiana black bear has improved in status due to the active partnerships of many private landowners, state and Federal agencies, universities, and non-governmental organizations. On May 20, 2015 we proposed to delist the Louisiana black bear due to successful recovery.
 
@@ -138,18 +138,18 @@ From 2001 to 2009, we worked with partners to implement a Louisiana black bear r
 
 Download the [Recovery Plan](https://ecos.fws.gov/docs/recovery_plan/950927.pdf)
 
-## Keeping Populations Healthy
+## Keeping populations healthy
 
 In coordination with the Louisiana Department of Wildlife and Fisheries, we have developed a draft post-delisting monitoring plan for the Louisiana black bear that will guide us in monitoring the Louisiana black bear population for seven years after it is delisted. That plan has details about monitoring methods, reporting procedures, and agency responsibilities. Multiple monitoring strategies will be used in order to assure that population trends and habitat status will be captured at various time periods and scales. There will also be a habitat-based monitoring, including an assessment of habitat abundance, persistence, and any changes in protection. The plan is designed to detect declines in Louisiana black bear populations at extremely early stages, allowing time for corrective actions to be taken. The draft plan will be available for public review along with the proposed delisting rule.
 
-## Agency Experts on This Species
+## Subject matter experts
 
 Want to learn more from our biologists? Contact one of our subject matter experts.
 
 * [David Soileau Jr.](mailto:david_soileau@fws.gov&subject?Louisiana%20black%20bear)
 * [Keith Weaver](keith_weaver@fws.gov&subject?Louisiana%20black%20bear)
 
-## Other Organizations Contributing to Conservation
+## Other organizations contributing to conservation
 
 {{< figure class="photo-center" src="/images/pages/louisiana-black-bear-cub-in-tree-den.jpg" alt="A Louisiana black bear cub in the cavity of a tree." caption="Agency personnel and partners pause for a photo with a baby black bear. Photo: USFWS" >}}
 
@@ -172,10 +172,10 @@ Want to learn more from our biologists? Contact one of our subject matter expert
 * [The Nature Conservancy, Louisiana](https://www.nature.org/ourinitiatives/regions/northamerica/unitedstates/louisiana/)
 * [The Nature Conservancy, Mississippi](https://www.nature.org/ourinitiatives/regions/northamerica/unitedstates/mississippi/)
 
-## Critical Habitat
+## Designated critical habitat
 
 Louisiana black bear populations have been proposed for delisting. This means they may have recovered to the point that they may no longer require federal protection under the Endangered Species Act. If the species is delisted, it will no longer require designated critical habitat.
 
-## Federal Register Documents
+## Federal Register notices
 
 The following Federal Register documents were automatically gathered by searching the [Federal Register Official API](https://www.federalregister.gov/blog/learn/developers) with this species' scientific name **ordered by relevance**. You can conduct your own search on the [Federal Register website](https://www.federalregister.gov/articles/search).

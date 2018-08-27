@@ -18,7 +18,7 @@ hero:
     name: trispot-darter.jpg
     alt: 'A small fish with bright blue fins and orange coloring on its back.'
     caption: 'Trispot darter. Photo by Pat O''Neil, Geological Survey of Alabama.'
-updated: 'October 3rd, 2017'
+updated: 'August 23rd, 2018'
 ---
 
 - **Taxon:** Freshwater Fish
@@ -26,8 +26,8 @@ updated: 'October 3rd, 2017'
 - **Status:** Proposed Threatened
 
 {{< scroller-list tag="Trispot Darter" section="news" >}}
-
 {{< scroller-list tag="Trispot Darter" section="articles" >}}
+{{< scroller-list tag="Trispot Darter" section="podcasts" >}}
 
 ## Appearance
 
@@ -63,7 +63,7 @@ Hydrologic alteration (changes in the water flow) has two components: increases 
 
 ### Channel modification
 
-Channel modification can refer to a number of activities such as: channelization, piping, in-stream construction, in-stream mining, and reservoir creation. Channelization includes straightening, deepening, or widening of streams and rivers for flood control, drainage improvement, navigation, and relocation. Channel modification can lead to a loss of essential trispot habitat components, or completely destroy the habitat. 
+Channel modification can refer to a number of activities such as: channelization, piping, in-stream construction, in-stream mining, and reservoir creation. Channelization includes straightening, deepening, or widening of streams and rivers for flood control, drainage improvement, navigation, and relocation. Channel modification can lead to a loss of essential trispot habitat components, or completely destroy the habitat.
 
 ### Urbanization
 
@@ -83,25 +83,25 @@ A wide range of activities can lead to sedimentation within streams that can inc
 
 Contaminants, including metals, hydrocarbons, pesticides and other potentially harmful organic and inorganic compounds, are common in urban streams and may be partially responsible for the absence of sensitive fish in those systems. These include wastewater treatment plants, mines, and industrial facilities. Non-point sources are more difficult to pinpoint. Pesticides are frequently found in streams draining agricultural lands, with herbicides being the most commonly detected.
 
-### Poultry Litter
+### Poultry litter
 
 Poultry litter is a mixture of chicken manure, feathers, spilled food, and bedding material that frequently is used to fertilize pastureland or row crops. A broiler house containing 20,000 birds will produce approximately 150 tons of litter a year. Surface-spreading of litter allows runoff from heavy rains to carry nutrients from manure into nearby streams. Repeated or over application of poultry litter, in addition, can result in phosphorus buildup in the soil.
 
-## Partnerships, Research and Projects 
+## Partnerships, research and projects
 
-  - Georgia Department of Natural Resources is performing a comprehensive conservation status assessment  by compiling and summarize existing distribution data.  Information needed for an assessment of threats to spawning habitats will also be provided.
-  - University of West Florida and Auburn University are collaborating to conduct environmental, or eDNA, studies on the trispot darter in Alabama.
-  - The Geological Survey of Alabama is carrying out a threats analysis for the trispot darter and collecting microhabitat data.  Their work will also include known collection information and a distribution map depicting geographic regions, hydrologic units, and general land use.
-  - The U.S. Fish and Wildlife Service, as part of the Alabama Rivers and Streams Network, have been identifying a list of potential barriers (primarily road crossings) throughout much of the Trispot Darter range in Alabama
-  - Private entities have assisted researchers with trispot darter status surveys.
-  - Natural Resource Conservation Service’s Working Lands for Wildlife partnership within the basin will help farmers develop and implement strategies to improve water quality.
+- Georgia Department of Natural Resources is performing a comprehensive conservation status assessment  by compiling and summarize existing distribution data.  Information needed for an assessment of threats to spawning habitats will also be provided.
+- University of West Florida and Auburn University are collaborating to conduct environmental, or eDNA, studies on the trispot darter in Alabama.
+- The Geological Survey of Alabama is carrying out a threats analysis for the trispot darter and collecting microhabitat data.  Their work will also include known collection information and a distribution map depicting geographic regions, hydrologic units, and general land use.
+- The U.S. Fish and Wildlife Service, as part of the Alabama Rivers and Streams Network, have been identifying a list of potential barriers (primarily road crossings) throughout much of the Trispot Darter range in Alabama
+- Private entities have assisted researchers with trispot darter status surveys.
+- Natural Resource Conservation Service’s Working Lands for Wildlife partnership within the basin will help farmers develop and implement strategies to improve water quality.
 
-## Subject Matter Experts
+## Subject matter experts
 
-  - Jennifer Grunewald Alabama Field Office, 251-441-6633, [jennifer_grunewald@fws.gov](mailto:jennifer_grunewald@fws.gov)
-  - Dr. Patrick O’Neil, Geological Survey of Alabama, 205-247-3586, [poneil@gsa.state.al.us](mailto:poneil@gsa.state.al.us)
-  - Dr. Brett Albanese, Georgia Department of Natural Resources, 706-557-3223, [Brett.Albanese@dnr.state.ga.us](mailto:Brett.Albanese@dnr.state.ga.us)
+- Jennifer Grunewald Alabama Field Office, 251-441-6633, [jennifer_grunewald@fws.gov](mailto:jennifer_grunewald@fws.gov)
+- Dr. Patrick O’Neil, Geological Survey of Alabama, 205-247-3586, [poneil@gsa.state.al.us](mailto:poneil@gsa.state.al.us)
+- Dr. Brett Albanese, Georgia Department of Natural Resources, 706-557-3223, [Brett.Albanese@dnr.state.ga.us](mailto:Brett.Albanese@dnr.state.ga.us)
 
-## Federal Register Documents
+## Federal Register notices
 
 The following Federal Register documents were automatically gathered by searching the [Federal Register Official API](https://www.federalregister.gov/blog/learn/developers) with this species' scientific name **ordered by relevance**. You can conduct your own search on the [Federal Register website](https://www.federalregister.gov/articles/search).

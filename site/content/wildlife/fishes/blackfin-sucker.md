@@ -18,14 +18,18 @@ hero:
     alt: 'A small fish with dark stripes on a yellow tinged back and white belly.'
     caption: 'Blackfin sucker. Photo by Matthew Thomas, KDFWR.'
     position: 'center left'
-updated: 'December 12th, 2017'
+updated: 'August 23rd, 2018'
 ---
 
+- **Taxon:** Freshwater fish
+- **Range:** Upper Barren River system, north-central Tennessee and south-central Kentucky
+- **Status:** Not listed
+
 {{< scroller-list tag="Blackfin Sucker" section="news" >}}
-
 {{< scroller-list tag="Blackfin Sucker" section="articles" >}}
+{{< scroller-list tag="Blackfin Sucker" section="podcasts" >}}
 
-## Appearance and Life History
+## Appearance and life history
 
 A small fish averaging about five and a half inches in length, the blackfin sucker has a body patterned with two dark, brownish-black horizontal lines below the lateral line (a faint line of sense organs extending from the gill cover to the tail) and six or seven additional lines in the back and the side of the body, with intervening olive-gold stripes. The lower body surface to the lowest lateral stripe and the belly are white. The top of the blackfin’s body, the single belly fin near the tail, and pelvic, paired belly fins near the head fins are white; the back fin has a conspicuous black blotch on the distal half of the front five or six rays. The paired side fins near the head are pinkish olive. Blackfins reach sexual maturity by three years old with some males maturing by age two.  The fish has a maximum lifespan of five years.  Female blackfins spawn in March and April.
 
@@ -39,7 +43,7 @@ Blackfin suckers are found in clear headwater streams near bedrock ledges, slabr
 
 The blackfin’s primary food item is larval midges.  Other items include crustaceans, larval black flies, larval fishflies and hellgrammites, and larval caddisflies.
 
-## Historic Range
+## Historic range
 
 According to pre-2007 data, the blackfin sucker was historically found in 23 streams in the Upper Barren River Basin.
 
@@ -77,7 +81,7 @@ According to pre-2007 data, the blackfin sucker was historically found in 23 str
 | Rhoden Creek           | Rhoden Creek           |     5.0       | extant        |     Allen, KY              |
 | Walnut Creek           | Walnut Creek           |     4.2       | extant        |     Allen, KY              |
 
-## Current Range
+## Current range
 
 According to historical and present survey data, the blackfin sucker is extant in 24 streams, likely extant in three streams, and of unknown status in two streams within the Upper Barren River Basin.
 
@@ -153,7 +157,7 @@ Summary of recent Blackfin sucker surveys (2007-2016). Streams are organized by 
 [^7]: TDEC (2017).
 [^*]: P = Indicates record of presence with no recorded number of individuals.
 
-## Conservation Challenges
+## Conservation challenges
 
 The blackfin sucker is only found in habitat with rock ledges, crevices, and boulder slabs, and these features are susceptible to sedimentation (built-up material that sinks to the bottom of the water).  Excess sediment can bury blackfin habitat, damage fish gills and eggs, and kill or affect the blackfin sucker’s prey.
 
@@ -161,7 +165,7 @@ Degradation, caused primarily by agricultural uses in the Upper Barren River Bas
 
 The effects of climate change also may impact blackfin populations.  An increase in mean temperature and average annual rainfall within the species’ range, combined with increases in the frequency, duration, and intensity of droughts, could be detrimental.
 
-## Reasons for “Not Warranted For Listing” Finding
+## Reasons for “Not Warranted For Listing” finding
 
 The blackfin sucker was one of [404 aquatic, riparian, and wetland species, petitioned to be listed under Endangered Species Act](/pdf/petition/404-aquatic.pdf) by the Center for Biological Diversity and others on April 20, 2010.
 
@@ -185,6 +189,6 @@ There is a relatively high abundance of blackfin suckers observed in multiple st
 
 The blackfin sucker is extant or likely extant in 27 of 29 streams with previous collection records.  It also is extant in nine of the 10 sub-basins with historical records. The blackfin’s status is unknown in the remaining two streams and one sub-basin. The Fish and Wildlife Service cannot conclude that the blackfin sucker is currently extirpated from any portion of its historical range.
 
-## Federal Register Documents
+## Federal Register notices
 
 The following Federal Register documents were automatically gathered by searching the [Federal Register Official API](https://www.federalregister.gov/blog/learn/developers) with this species' scientific name **ordered by relevance**. You can conduct your own search on the [Federal Register website](https://www.federalregister.gov/articles/search).

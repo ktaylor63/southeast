@@ -22,7 +22,7 @@ tags:
     - 'North Carolina'
     - Recovery
     - 'Red Wolf'
-updated: 'July 13th, 2018'
+updated: 'August 23rd, 2018'
 ---
 
 * **Taxon**: Mammal
@@ -31,6 +31,7 @@ updated: 'July 13th, 2018'
 
 {{< scroller-list tag="Red Wolf" section="news" >}}
 {{< scroller-list tag="Red Wolf" section="articles" >}}
+{{< scroller-list tag="Red Wolf" section="podcasts" >}}
 
 The red wolf is one of the world’s most endangered wolves. Once common throughout the Eastern and South Central United States, red wolf populations were decimated by the early 20th century as a result of intensive predator control programs and the degradation and alteration of the species' habitat. When the red wolf was designated endangered in 1967, the U.S. Fish and Wildlife Service initiated efforts to conserve and recover the species. Today, about 40 red wolves roam their native habitats in eastern North Carolina as a non-essential, experimental population (NEP), and more than 200 red wolves are maintained in captive breeding facilities throughout the United States.
 
@@ -188,11 +189,10 @@ Also in April, the Service said it is moving to begin work with an independent o
 
 {{< figure class="photo-center" src="/images/pages/red-wolf-current-and-proposed-nep-july-2018.jpg" alt="Current 5 county non-essential experimental population management area compared to the proposal." caption="Red wolf current and proposed non-essential experimental population. Map by Jose Barrios, USFWS." link="https://flic.kr/p/2971zta" >}}
 
-## Contact
+## Subject matter experts
 
-Emily Weller, Red Wolf Regional Recovery Lead  
-[emily_weller@fws.gov](mailto:emily_weller@fws.gov), (337) 291-3090
+- Emily Weller, Red Wolf Regional Recovery Lead, [emily_weller@fws.gov](mailto:emily_weller@fws.gov), (337) 291-3090
 
-## Federal Register Documents
+## Federal Register notices
 
 The following Federal Register documents were automatically gathered by searching the [Federal Register Official API](https://www.federalregister.gov/blog/learn/developers) with this species' scientific name **ordered by relevance**. You can conduct your own search on the [Federal Register website](https://www.federalregister.gov/articles/search).

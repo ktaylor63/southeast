@@ -28,19 +28,20 @@ tags:
     - 'Seabeach Amaranth'
     - 'South Carolina'
     - Virginia
-updated: 'March 7th, 2018'
+updated: 'August 23rd, 2018'
 ---
 
 - **Taxon:** [Plant](/wildlife/plants)
 - **Range:** [South Carolina](/south-carolina), [North Carolina](/north-carolina), [Virginia](/tags/virginia), [Maryland](/tags/virginia), [New Jersey](/tags/new-jersey), [New York](/tags/new-york), [Rhode Island](/tags/rhode-island) (historic) and [Massachusetts](/massachusetts) (recently reintroduced).
 - **Status:** Threatened; listed April 7, 1993
 
-Seabeach amaranth is an annual plant found along Atlantic Coast barrier beaches.  Originally known from Massachusetts to South Carolina, it has not been observed north of Long Island, New York, in many years until [a reintroduction to Nantucket Island and Monomoy National Wildlife Refuge on Cape Cod, Massachusetts in 2017](/articles/from-massachusetts-to-south-carolina-recovering-seabeach-amaranth/).  Based on a rangewide decline of the species, it was listed as threatened on April 7, 1993. 
+Seabeach amaranth is an annual plant found along Atlantic Coast barrier beaches.  Originally known from Massachusetts to South Carolina, it has not been observed north of Long Island, New York, in many years until [a reintroduction to Nantucket Island and Monomoy National Wildlife Refuge on Cape Cod, Massachusetts in 2017](/articles/from-massachusetts-to-south-carolina-recovering-seabeach-amaranth/).  Based on a rangewide decline of the species, it was listed as threatened on April 7, 1993.
 
 {{< scroller-list tag="Seabeach Amaranth" section="news" >}}
 {{< scroller-list tag="Seabeach Amaranth" section="articles" >}}
+{{< scroller-list tag="Seabeach Amaranth" section="podcasts" >}}
 
-## Appearance 
+## Appearance
 
 Seabeach amaranth has stems that are fleshy and pinkish-red or red, with small rounded leaves that are 0.5 – 1 inch (in) (1.3 - 2.5 centimeters; cm) in diameter. The leaves, with indented veins, are clustered toward the tip of the stem and have a small notch at the rounded tip. Flowers and fruits are relatively inconspicuous, borne in clusters along the stems. Germination occurs over a relatively long period of time, generally from April to July. Upon germination, the species forms a small unbranched sprig, but soon begins to branch profusely into a clump. This clump often reaches 30 cm in diameter and consists of five to 20 branches. Occasionally, a plant may grow as large as a meter or more across.
 
@@ -52,7 +53,7 @@ Flowering begins as soon as plants have reached sufficient size, sometimes as ea
 
 Seabeach amaranth occurs on barrier beaches, where its primary habitat consists of overwash flats at the ends of islands that are accumulating more sand and lower developing dunes and upper strands of non-eroding beaches. It occasionally establishes small temporary populations in other habitats, including sound-side beaches, overwash areas in developing dunes, and sand and shell material placed as beach replenishment or dredge spoil. Seabeach amaranth appears to be intolerant of competition and does not occur on well-vegetated sites. The species appears to need extensive areas of barrier island beaches and inlets that arenot stabilized by perennial vegetation.  These characteristics allow it to move around in the landscape as a fugitive species, occupying suitable habitat as it becomes available.  The species is an effective sand binder, building small dunes where it grows.
 
-## Historic range 
+## Historic range
 
 Historically, Seabeach amaranth occurred in nine states along the northeast and mid-Atlantic coast from Massachusetts to South Carolina (excluding Connecticut).
 
@@ -62,11 +63,11 @@ Natural populations of Seabeach amaranth currently occur in New York, New Jersey
 
 ## Conservation challenges
 
-Threats to the species include coastal development, sea level rise, beach stabilization structures and recreation such as beach driving  and pedestrian traffic.  Herbivory by native and non-native species (such as webworms, white-tailed deer, sika deer and feral horses) may harm Seabeach amaranth plants. 
+Threats to the species include coastal development, sea level rise, beach stabilization structures and recreation such as beach driving  and pedestrian traffic.  Herbivory by native and non-native species (such as webworms, white-tailed deer, sika deer and feral horses) may harm Seabeach amaranth plants.
 
 {{< figure class="photo-center" src="/images/pages/seabeach-amaranth-dale-suiter.jpg" alt="Two biologists take a close look at a plant growing in the sand." caption="Dale Suiter, Endangered Species Biologist shared his knowledge about the threatened Seabeach Amaranth (Amaranthus pumilus) with fellow biologist, Ann Marie Lauritsen. Photo by Lilibeth Serrano, USFWS." >}}
 
-Natural disasters such as tropical storms and nor’easters can inundate or wash away plants before they set seeds. 
+Natural disasters such as tropical storms and nor’easters can inundate or wash away plants before they set seeds.
 
 ## Recovery plan
 
@@ -84,13 +85,13 @@ Avoid stepping on or driving over beach and dune vegetation.  Avoid walking in a
 
 Please report locations of seabeach amaranth to the Service’s lead recovery biologist, [Dale_Suiter@fws.gov](mailto:Dale_Suiter@fws.gov), and the appropriate state natural heritage program.
 
-## Subject matter experts 
+## Subject matter experts
 
-  - Dale Suiter, Fish and Wildlife Biologist, 919-856-4520 ext. 18, [Dale_Suiter@fws.gov](mailto:Dale_Suiter@fws.gov?subject=Seabeach+amaranth)
-  - Wendy Walsh, Fish and Wildlife Biologist, 609) 382-5274 , [Wendy_Walsh@fws.gov](mailto:Wendy_Walsh@fws.gov?subject=Seabeach+amaranth)
-  - April Punsalan, Botanist, 843-727-4707 ext. 218, [April_Punsalan@fws.gov](mailto:April_Punsalan@fws.gov?subject=Seabeach+amaranth)
+- Dale Suiter, Fish and Wildlife Biologist, 919-856-4520 ext. 18, [Dale_Suiter@fws.gov](mailto:Dale_Suiter@fws.gov?subject=Seabeach+amaranth)
+- Wendy Walsh, Fish and Wildlife Biologist, 609) 382-5274 , [Wendy_Walsh@fws.gov](mailto:Wendy_Walsh@fws.gov?subject=Seabeach+amaranth)
+- April Punsalan, Botanist, 843-727-4707 ext. 218, [April_Punsalan@fws.gov](mailto:April_Punsalan@fws.gov?subject=Seabeach+amaranth)
 
-## Designated Critical Habitat 
+## Designated critical habitat
 
 Critical habitat has not been designated for this species.
 

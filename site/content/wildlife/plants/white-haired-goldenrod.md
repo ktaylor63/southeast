@@ -4,9 +4,9 @@ type: species-profile
 scientific: 'Solidago albopilosa'
 js: /js/species-profile.js
 tags:
-    - 'White-Haired Goldenrod'
     - Kentucky
     - Plant
+    - 'White-Haired Goldenrod'
 aliases:
     - /wildlife/plant/white-haired-goldenrod
     - /species/plant/white-haired-goldenrod
@@ -17,7 +17,7 @@ hero:
     alt: 'Leafy green vegetation with bright yellow flowers'
     caption: 'White-haired goldenrod. Photo: John MacGregor, Kentucky Dept. of Fish and Wildlife Resources'
 description: 'The white-haired goldenrod is a unique plant to the Red River Gorge region of eastern Kentucky.  The Red River Gorge is well known for its unique geology, scenic beauty, and outdoor recreational opportunities, and much of the area is located within the Daniel Boone National Forest.'
-updated: 'January 26th, 2017'
+updated: 'August 23rd, 2018'
 ---
 
 - **Taxon:** Plant
@@ -33,8 +33,8 @@ Currently, there are nearly 120 occurrences of white-haired goldenrod in eastern
 Download the [Fact Sheet](/pdf/fact-sheet/white-haired-goldenrod.pdf)
 
 {{< scroller-list tag="White-Haired Goldenrod" section="news" >}}
-
 {{< scroller-list tag="White-Haired Goldenrod" section="articles" >}}
+{{< scroller-list tag="White-Haired Goldenrod" section="podcasts" >}}
 
 ## Appearance
 
@@ -50,7 +50,7 @@ White-haired goldenrod is restricted to sandstone outcroppings in the rugged Red
 
 The white-haired goldenrod’s range is limited to the Red River Gorge region of eastern Kentucky.  The plant occurs in three Kentucky counties: Menifee, Powell, and Wolfe. Almost all of its known occurrences are located on the Daniel Boone National Forest, with the remaining occurring on private land.
 
-## Efforts Contributing to Conservation
+## Efforts contributing to conservation
 
 Cooperative recovery efforts by the Service and its partners, the U.S. Forest Service and the Kentucky State Nature Preserves Commission, substantially increased the known number and distribution of white-haired goldenrod occurrences rangewide.  Efforts also addressed threats and provided adequate protection and management to ensure the plant’s recovery and survival.
 
@@ -64,7 +64,7 @@ The Kentucky State Nature Preserves Commission completed multiple status surveys
 
 When the plant was listed, identified threats included ground disturbance and trampling associated with unlawful artifact collection and recreational activities, such as camping, hiking, rock climbing, and rappelling. The Red River Gorge is a heavily visited, popular recreational area, and many of these activities take place in or near rock shelters occupied by the white-haired goldenrod. Other identified threats included a proposed reservoir project; overutilization for recreational purposes; no state law protecting rare plants in Kentucky; and potential vegetational shifts in forests surrounding the plant’s habitats.
 
-## Recovery from Threatened Status
+## Recovery from threatened status
 
 The white-haired goldenrod has improved in status due to the successful conservation efforts by the U.S. Fish and Wildlife Service and our partners.  On September 1, 2015, we proposed to delist the white-haired goldenrod due to successful recovery.
 
@@ -76,22 +76,20 @@ All of the threats to the plant have been eliminated or significantly reduced, a
 
 Download the [Recovery Plan](http://ecos.fws.gov/docs/recovery_plan/930928.pdf) (PDF)
 
-## Keeping Populations Healthy
+## Keeping populations healthy
 
 The Service has developed a draft post-delisting monitoring plan for the white-haired goldenrod that will guide us in monitoring the plant for five years after it is delisted. That plan summarizes the species’ status at the time of delisting, defines thresholds or triggers for potential monitoring outcomes and conclusions, lays out frequency and duration of monitoring, articulates monitoring methods including sampling considerations, outlines compilation and reporting procedures and responsibilities, and proposes a post-delisting monitoring implementation schedule including timing and responsible parties. The draft plan is available for public review along with the proposed delisting rule.
 
-## Agency Experts on This Species
-
-Want to learn more from our biologists?
+## Subject matter experts
 
 Contact our Kentucky Ecological Services Field Office:
 (502) 695-0468 or visit [fws.gov/frankfort](www.fws.gov/frankfort/).
 
-## Other Organizations Contributing to Conservation
+## Other organizations contributing to conservation
 
 - [Daniel Boone National Forest](http://www.fs.usda.gov/main/dbnf/home)
 - [Kentucky State Nature Preserves Commission](http://naturepreserves.ky.gov/Pages/default.aspx)
 
-## Federal Register Documents
+## Federal Register notices
 
 The following Federal Register documents were automatically gathered by searching the [Federal Register Official API](https://www.federalregister.gov/blog/learn/developers) with this species' scientific name **ordered by relevance**. You can conduct your own search on the [Federal Register website](https://www.federalregister.gov/articles/search).

@@ -21,12 +21,16 @@ hero:
     caption: 'A young Neuse River waterdog from the Little River, Johnston County, North Carolina, by Jeff Beane.'
     link: 'https://flic.kr/p/U6bSnC'
     position: 'bottom left'
-updated: 'May 12th, 2017'
+updated: 'August 23rd, 2018'
 ---
 
  - **Taxon:** Freshwater salamander
  - **Range:** Neuse and Tar River basins, [North Carolina](/north-carolina)
  - **Status:** Candidate Species
+
+{{< scroller-list tag="Neuse River Waterdog" section="news" >}}
+{{< scroller-list tag="Neuse River Waterdog" section="articles" >}}
+{{< scroller-list tag="Neuse River Waterdog" section="podcasts" >}}
 
 ## Appearance
 
@@ -50,19 +54,19 @@ The Neuse River waterdog specific habitat characteristics include low to moderat
 
 {{< figure class="photo-center" src="/images/pages/neuse-river-greenway.jpg" alt="A view down the Neuse River from a bridge with no leaves on the trees.." caption="A portion of the Neuse River banked by trees. Photo by James Willamor, CC BY-SA 2.0." link="https://flic.kr/p/iD5LwL" >}}
 
-The species thrives in cold water, and is much more active in colder seasons and when water is near-freezing.  Researchers have documented activity decreasing after the water temperature rises above 18ºC.  waterdogs spend about 85% of the time under large granite rocks or in burrows.  In early spring they move into leaf beds over mud banks on the low-energy sides of riffles and where leaves were intact or only slightly decomposed and many small critters are in the leaf litter. 
+The species thrives in cold water, and is much more active in colder seasons and when water is near-freezing.  Researchers have documented activity decreasing after the water temperature rises above 18ºC.  waterdogs spend about 85% of the time under large granite rocks or in burrows.  In early spring they move into leaf beds over mud banks on the low-energy sides of riffles and where leaves were intact or only slightly decomposed and many small critters are in the leaf litter.
 
 ## Diet
 
 Neuse River waterdogs are sight and scent feeders, with prey consisting of aquatic arthropods (primarily ostracods and copepods), hellgrammites, mayflies, caddisflies, crayfish, beetles, caterpillars, snails, spiders, earthworms, centipedes, millipedes, slugs) and some small fish like darters and pirate perch. All prey are ingested whole, and larger items are sometimes regurgitated and then re-swallowed.
 
-## Historic Range
+## Historic range
 
 The Neuse River waterdog is endemic to the Tar-Pamlico and Neuse River basins in North Carolina.  Its historical distribution includes the Piedmont and Coastal Plain regions of North Carolina within all major tributary systems of the Tar and Neuse, including the Trent River Basin.
 
 {{< figure class="photo-center" src="/images/pages/neuse-river-waterdog-historical-occupancy.jpg" alt="A map of east-central North Carolina showing occupied river basins in red." caption="River basins occupied or thought to be occupied by the Neuse River waterdog. Map by USFWS." link="https://flic.kr/p/TqKxkm" >}}
 
-## Current Range
+## Current range
 
 Today, the species is known to occupy the Neuse and the Tar River basins of North Carolina. The species is not known to migrate.
 
@@ -70,47 +74,51 @@ Today, the species is known to occupy the Neuse and the Tar River basins of Nort
 
 Counties where the Neuse River waterdog is known or believed to occur:
 
- - Craven
- - Durham
- - Edgecombe
- - Franklin
- - Granville
- - Greene
- - Halifax
- - Johnston
- - Jones
- - Lenoir
- - Nash
- - Orange
- - Pitt
- - Vance
- - Wake
- - Warren
- - Wayne
- - Wilson
+- Craven
+- Durham
+- Edgecombe
+- Franklin
+- Granville
+- Greene
+- Halifax
+- Johnston
+- Jones
+- Lenoir
+- Nash
+- Orange
+- Pitt
+- Vance
+- Wake
+- Warren
+- Wayne
+- Wilson
 
-## Conservation Challenges
+## Conservation challenges
 
 The Neuse River waterdog is extremely susceptible to the effects of siltation, or the deposit of sediments in freshwater. The major threats to this species arise from water development projects such as the construction of impoundments and stream channelization. Pollution from industrial and urban development can also cause loss of habitat by lowering dissolved oxygen levels and increasing suspended solids and sediments in streams.  
 
 Other nonpoint sources of pollution carried into the streams by water, or runoff also affects the Neuse River waterdog.  Natural and human-made substances like animal waste, fertilizers, pesticides, herbicides, and chemicals associated with coal mining can all cause changes in water chemistry that severely impact aquatic species. Increased levels of nitrogen and phosphorus, excessive algal growth, instream oxygen deficiencies, increased acidity, and conductivity can all have adverse effects on the health of river dwelling species.
 
-## How You Can Help
+## How you can help
 
 Individuals can do a number of things to help protect freshwater species, including: 
 
- - Conserving water to allow more water to remain in streams.
- - Using pesticides responsibly, especially around streams and lakes, to prevent runoff into mussel habitats.
- - Controlling soil erosion by planting trees and plants to avoid runoff of sediments into freshwater areas. 
- - Supporting practices for construction and maintenance of unpaved, rural dirt and gravel roads that minimize erosion and connectivity to our rivers and lakes.
+- Conserving water to allow more water to remain in streams.
+- Using pesticides responsibly, especially around streams and lakes, to prevent runoff into mussel habitats.
+- Controlling soil erosion by planting trees and plants to avoid runoff of sediments into freshwater areas. 
+- Supporting practices for construction and maintenance of unpaved, rural dirt and gravel roads that minimize erosion and connectivity to our rivers and lakes.
 
-## Partnerships, Research and Projects 
+## Partnerships, research and projects
 
 The Service and state wildlife agencies are working with numerous partners to conserve the Neuse River waterdog and restore its habitat while meeting the socioeconomic, political and cultural needs of current and future generations. Land trusts are targeting key parcels for acquisition. Federal, state, and university biologists are surveying and monitoring species occurrences, and recently there has been increased interest in efforts to consider captive propagation and species population restoration via augmentation, expansion, and reintroduction efforts.
 
-The North Carolina Department of Environmental Quality has special nutrient management plans for the Tar-Pamlico River Basin and the Neuse River Basin to help reduce nutrients that cause excessive growth of microscopic or macroscopic vegetation and lead to extremely low levels of dissolved oxygen in the water. 
+The North Carolina Department of Environmental Quality has special nutrient management plans for the Tar-Pamlico River Basin and the Neuse River Basin to help reduce nutrients that cause excessive growth of microscopic or macroscopic vegetation and lead to extremely low levels of dissolved oxygen in the water.
 
-## Useful Resources
+## Useful resources
 
 - [Partners in Amphibian and Reptile Conservation (PARC)](http://ncparc.org/parcas-priority-amphibian-and-reptile-conservation-areas/)
 - [Photos on Flickr](https://www.flickr.com/photos/usfwssoutheast/sets/72157680894663622/)
+
+## Federal Register notices
+
+The following Federal Register documents were automatically gathered by searching the [Federal Register Official API](https://www.federalregister.gov/blog/learn/developers) with this species' scientific name **ordered by relevance**. You can conduct your own search on the [Federal Register website](https://www.federalregister.gov/articles/search).

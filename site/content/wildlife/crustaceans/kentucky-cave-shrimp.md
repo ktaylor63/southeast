@@ -18,7 +18,7 @@ hero:
     alt: 'A translucent shrimp walking along a rocky surface under water'
     caption: 'A Kentucky cave shrimp. Photo by John MacGregor, Kentucky Department of Fish and Wildlife Resources.'
     position: 'center bottom'
-updated: 'May 12th, 2017'
+updated: 'August 23rd, 2018'
 ---
 
 - **Taxa: Crustacea**
@@ -26,8 +26,8 @@ updated: 'May 12th, 2017'
 - **Status: Endangered**
 
 {{< scroller-list tag="Kentucky Cave Shrimp" section="news" >}}
-
 {{< scroller-list tag="Kentucky Cave Shrimp" section="articles" >}}
+{{< scroller-list tag="Kentucky Cave Shrimp" section="podcasts" >}}
 
 ## Appearance
 
@@ -42,12 +42,14 @@ The Kentucky cave shrimp only lives in underground streams. They typically inhab
 ## Diet
 This crustacean feeds by grazing the surface of sediments in caves, consuming protozoans, algal cells, fungi, and other organic materials.
 
-## Historic Range
+## Historic range
+
 The Kentucky cave shrimp is found exclusively in Kentucky. It has only been observed in underground streams in and surrounding Mammoth Cave National Park in central Kentucky.
 
 Before it was listed as an endangered species, the Kentucky cave shrimp was known from five localities, including four within the Echo River Spring Groundwater Basin and one from the Pike Spring Groundwater Basin.
 
-## Current Range
+## Current range
+
 Currently, the Kentucky cave shrimp is restricted to nine groundwater basins in the Mammoth Cave National Park region of central Kentucky:
 
 - Echo River Spring
@@ -66,18 +68,20 @@ Counties Where the Species is Known or Believed to Occur
 
 {{< figure class="photo-center" src="/images/pages/ky-cave-shrimp-current-range.jpg" alt="Map showing the current range for KY cave shrimp in south central Kentucky" caption="Current range map by USFWS." >}}
 
-## Conservation Challenges
+## Conservation challenges
+
 The main threats for this species are poor water quality and habitat deterioration resulting from groundwater contamination, siltation caused by poor land use practices, and other non-point source pollutants. Small population size and isolation of populations makes the Kentucky cave shrimp vulnerable to random or stochastic events (e.g. toxic chemical spills).
 
-## Subject Matter Experts
-Michael A. Floyd, PhD, Fish and Wildlife Biologist, Kentucky. mike_floyd@fws.gov
+## Subject matter experts
 
-## Designated Critical Habitat
-Critical habitat for this species was designated in October 1983, and consists of a stream in a base level cave passage in Mammoth Cave.
-Read the critical habitat designation notice.
+- Michael A. Floyd, PhD, Fish and Wildlife Biologist, Kentucky. [mike_floyd@fws.gov](mailto:mike_floyd@fws.gov)
+
+## Designated critical habitat
+
+[Critical habitat for this species](https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=K01X#crithab) was designated in October 1983, and consists of a stream in a base level cave passage in Mammoth Cave.
 
 {{< figure class="photo-center" src="/images/pages/ky-cave-shrimp-critical-habitat.jpg" alt="Map showing KY cave shrimps' critical habitat in Mammoth Cave National Park" caption="Critical habitat map by USFWS." >}}
 
-## Federal Register Documents
+## Federal Register notices
 
 The following Federal Register documents were automatically gathered by searching the [Federal Register Official API](https://www.federalregister.gov/blog/learn/developers) with this species' scientific name **ordered by relevance**. You can conduct your own search on the [Federal Register website](https://www.federalregister.gov/articles/search).

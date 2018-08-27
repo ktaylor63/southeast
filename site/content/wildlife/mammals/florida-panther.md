@@ -20,7 +20,7 @@ hero:
     alt: 'A Florida panther walking on a gravel road with a slash pine forest in the background'
     name: florida-panther.jpg
     position: 'left center'
-updated: 'May 12th, 2017'
+updated: 'August 23rd, 2018'
 ---
 
 - **Taxon:** Mammal
@@ -34,8 +34,8 @@ Under the current Recovery Plan, established in 2008, the Service will consider 
 In 2013, the Service formed a [Florida Panther Recovery Implementation Team](http://www.fws.gov/verobeach/FloridaPantherRIT.html) consisting of members representing the Service, [National Park Service](http://www.nps.gov/), [Florida Fish and Wildlife Conservation Commission](http://myfwc.com/), and other stakeholders, with a mandate to prioritize and facilitate management and research activities that are crucial to the achieving the recovery goals identified in the 2008 Recovery Plan.
 
 {{< scroller-list tag="Florida Panther" section="news" >}}
-
 {{< scroller-list tag="Florida Panther" section="articles" >}}
+{{< scroller-list tag="Florida Panther" section="podcasts" >}}
 
 {{< figure class="photo-center" src="/images/pages/florida-panther-kittens-in-den.jpg" alt="Three young Florida panther kittens in a den with bright blue eyes" caption="Florida panther kittens in a den. Photo by David Shindle." link="https://flic.kr/p/GaVyow" >}}
 
@@ -57,7 +57,7 @@ Telemetry monitoring and ground tracking indicate that panthers select forested 
 
 Florida panthers are carnivores, which means they only eat meat. They primarily eat white-tailed deer and  wild hogs, but smaller mammals such as raccoons, armadillos, and rabbits are also an important part of their diet. Panthers are opportunistic predators and unfortunately they will also prey upon unsecured livestock and pets.
 
-## Historic Range
+## Historic range
 
 Historically, this subspecies occurred throughout the southeastern United States from Arkansas and Louisiana eastward across Mississippi, Alabama, Georgia, Florida and parts of South Carolina. Today, the panther is presently restricted to less than five percent of its historic range in a single breeding population in southern Florida. The panther population size within the occupied breeding range south of Caloosahatchee River has increased from approximately 20 in the early 1970s to an upper bound of approximately 230 adult and subadult panthers in 2015. (These population numbers do not represent a complete or true population estimate and do not included newborn kittens or older kittens that are traveling with their dams.)  However, the panther continues to face numerous threats due to an increasing human population and development in panther habitat that negatively impacts recovery.
 
@@ -71,21 +71,21 @@ A genetic restoration plan was implemented in 1995 with the release of eight fem
 
 {{< figure class="photo-center" src="/images/pages/florida-panther-scratching-post.jpg" alt="Florida panther caught on a trail camera using a fallen tree as a scratching post" caption="An adult Florida panther uses a tree as a scratching post at Florida Panther National Wildlife Refuge. Photo by USFWS." link="https://flic.kr/p/cEB4qC" >}}
 
-## Current Range
+## Current range
 
 Recovery efforts to-date have successfully contributed to a significant increase in the panther population, which now occupies most available habitat south of Caloosahatchee River. Currently, the only known breeding population of panthers is south of the Caloosahatchee River.  However, in November 2016 the Florida Fish and Wildlife Conservation Commission Panther Team collected strong evidence of a female Florida panther north the river.  This is the first evidence of a wild female panther north of the river since 1973.  Male panthers continue to periodically disperse out of the breeding range and have been confirmed as far north as Georgia.
 
-## Southeastern Wildlife Refuges that Provide Habitat
+## Southeastern Wildlife Refuges that provide habitat
 
 - Current breeding range habitat: [Florida Panther National Wildlife Refuge](https://www.fws.gov/refuge/florida_panther/)
 - South-Central Florida habitat for population expansion: [Everglades Headwaters National Wildlife Refuge](http://www.fws.gov/southeast/evergladesheadwaters/)
 - Habitat within the Historic Range: [Okefenokee National Wildlife Refuge](http://www.fws.gov/refuge/okefenokee/) and [Felsenthal National Wildlife Refuge](http://www.fws.gov/refuge/felsenthal/)
 
-## Living with Panthers
+## Living with panthers
 
 Florida panthers are reclusive and rarely seen by people. They normally live in remote, undeveloped areas. However, as the number of people in southern Florida grows, there is an increased chance of an encounter with a Florida panther. This [brochure by the Florida Fish and Wildlife Conservation Commission](http://myfwc.com/media/152454/LivingWithPanthers.pdf) contains some guidelines to help you live safely in Florida panther country.
 
-## Conservation Challenges
+## Conservation challenges
 
 Potential panther habitat throughout the Southeast continues to be affected by urbanization, residential development, road construction, conversion to agriculture,  and mining. Land use planning that takes into account the habitat requirements of Florida panthers continues to be a challenge for recovery. Additionally, panther mortality resulting from vehicle collisions threatens the potential for population expansion.
 
@@ -96,13 +96,15 @@ Potential panther habitat throughout the Southeast continues to be affected by u
 The recovery goal is to achieve viability of the Florida panther to a point where it can be reclassified from endangered to threatened, and then removed from the Federal list of endangered and threatened species.
 
 The current Recovery Plan establishes that the Service will consider delisting the panther when three populations of at least 240 individuals each (excluding dependent-aged kittens) have been established and sufficient habitat to support these populations is secured.
+
 The panther depends upon habitat of sufficient quantity, quality, and spatial configuration for long-term persistence. Range expansion and reintroduction of additional populations are recognized as essential for recovery. Similarly, fostering greater public understanding and support is necessary to achieve panther conservation and recovery. Public support and developing incentives for private landowners that retain and manage panther habitat are both critical to achieve recovery. Political and social issues will invariably be some of the most challenging aspects of panther recovery.
 
 Download the [complete Florida Panther Recovery Plan](https://www.fws.gov/uploadedFiles/Panther%20Recovery%20Plan.pdf) (revised November 1, 2008.)
 
-## Partnerships, Research and Projects
+## Partnerships, research and projects
 
-### Our Partners
+### Our partners
+
 - [Florida Fish and Wildlife Conservation Commission](http://myfwc.com/)
 - [Conservancy of Southwest Florida](https://www.conservancy.org/)
 - [Defenders of Wildlife](http://www.defenders.org/)
@@ -126,37 +128,39 @@ Download the [complete Florida Panther Recovery Plan](https://www.fws.gov/upload
 
 {{< figure class="photo-center" src="/images/pages/florida-panther-family-trail-cam.jpg" alt="A family of Florida panthers scurries into the darkness" caption="A Florida panther family. Photo by David Shindle." link="https://flic.kr/p/8So73J" >}}
 
-## How You Can Help
+## How you can help
 
-### Drive Slow in Panther Country
+### Drive slowly in panther country
+
 Panther activity is greatest between dusk and dawn, so when driving in panther country, be mindful and alert. Slow down and increase your distance between other cars. This allows you time to react.
 
-### Report Panther Sightings and Interactions
+### Report panther sightings and interactions
 If you see a Florida panther and can collect evidence such as pictures of the animal or its tracks, please share the information with the [Florida Fish and Wildlife Conservation Commission](https://public.myfwc.com/hsc/panthersightings/Default.aspx). Reporting your observations can help biologists address panther conservation needs by identifying the areas used by these large cats.
 
 To report a wildlife/human interaction contact the Florida Fish and Wildlife Conservation Commission’s wildlife hotline: 1-888-404-FWCC (3922).
 
-### Aid Injured and Orphaned Panthers
+### Aid injured and orphaned panthers
+
 The Florida Panther Fund was established by The Wildlife Foundation of Florida to aid in the recovery of injured or orphaned Florida panthers, as well as other panther conservation needs. The fund is an important resource that gives the Florida Fish and Wildlife Conservation Commission flexibility to deal with rare, unplanned, and non-budgeted events. Visit the [Help Injured Panthers Return to the Wild](http://myfwc.com/panther) website.
 
-### Support Panther Research
+### Support panther research
 
-Florida panther research and management conducted by the Florida Fish and Wildlife Conservation Commission is funded almost entirely through the Florida Panther Research and Management Trust Fund. This fund receives its monies from the purchase and annual renewal of the Protect the Panther specialty license plate. Tag holders give an annual $25.00 donation into the fund when they renew their registrations. Visit the [Protect the Panther license plate website](http://www.buyaplate.com/Protect%2520The%2520Panther) to learn more.
+Florida panther research and management conducted by the Florida Fish and Wildlife Conservation Commission is funded almost entirely through the Florida Panther Research and Management Trust Fund. This fund receives its monies from the purchase and annual renewal of the Protect the Panther specialty license plate. Tag holders give an annual $25.00 donation into the fund when they renew their registrations. Visit the [Protect the Panther license plate website](http://www.buyaplate.com/Protect%2520The%2520Panther) to learn more.
 
-## Agency Experts on this Species
+## Subject matter experts
 
 Want to learn more from our biologists? Contact one of our subject matter experts.
 
-- **[David Shindle](mailto:david_shindle@fws.gov?subject=Florida+panther)**, Panther Coordinator
-- **[Kevin Godsea](mailto:kevin_godsea@fws.gov?subject=Florida+panther)**, Project Leader, Southwest Florida Gulf Coast Refuge Complex
+- [David Shindle](mailto:david_shindle@fws.gov?subject=Florida+panther), Panther Coordinator
+- [Kevin Godsea](mailto:kevin_godsea@fws.gov?subject=Florida+panther), Project Leader, Southwest Florida Gulf Coast Refuge Complex
 
-## Designated Critical Habitat
+## Designated critical habitat
 
 Because the Florida panther was listed prior to the [1978 amendments to the Endangered Species Act](http://www.fws.gov/endangered/laws-policies/esa-1978.html), the Secretary of the Department of the Interior has the discretion whether to designate critical habitat. A challenge to that discretion relative to panthers was upheld in Federal appeals court as recently as 2012. If at any time in the future we determine that designating critical habitat is in the best interest of the Florida panther, we will proceed accordingly without delay.
 
 {{< figure class="photo-center" src="/images/pages/florida-panther-on-forest-trail.jpg" alt="A Florida panther on a sandy trail in a forest" caption="An adult male Florida panther at Florida Panther National Wildlife Refuge. Photo by David Shindle." link="https://flic.kr/p/H6qKW6" >}}
 
-## Historic News
+## Historic news
 
 - September 23, 2015: [USFWS Statement of Support for FWC Florida Panther Management Strategy](http://www.fws.gov/verobeach/20150923FWSsupportsFWCpantherpaper.html)
 - April 20, 2015: [Improving Prospects for Florida’s Panthers](http://www.fws.gov/endangered/news/episodes/bu-spring2015/story1/index.html)
@@ -169,6 +173,6 @@ Because the Florida panther was listed prior to the [1978 amendments to the Enda
 - December 17, 2008: [Florida Panther Recovery Plan, Third Revision Available; Media Teleconference Set for Dec. 18 at 11 a.m.](http://www.fws.gov/verobeach/NewsReleasesPDFs/20081217FloridaPantherRecoveryPlanNewsRelease.pdf)
 - October 14, 2008: [Agencies Partner to Push for More Wildlife Crossings in Southwest Florida](http://www.fws.gov/verobeach/NewsReleasesPDFs/20081014PantherCrossingsNewsRelease.pdf)
 
-## Federal Register Documents
+## Federal Register notices
 
 The following Federal Register documents were automatically gathered by searching the [Federal Register Official API](https://www.federalregister.gov/blog/learn/developers) with this species' scientific name **ordered by relevance**. You can conduct your own search on the [Federal Register website](https://www.federalregister.gov/articles/search).

@@ -1,27 +1,28 @@
 ---
 title: 'Sicklefin redhorse'
 scientific: 'Moxostoma sp.'
+description: 'The sicklefin redhorse, a freshwater fish, can grow to 25 inches long. It has a sickle-shaped back fin that is olive-colored, sometimes partly red. Its body is also olive, with a coppery or brassy sheen; its lower fins are primarily dusky to dark, often tinted yellow or orange and pale edged; the tail fin is mostly red.'
 type: species-profile
 js: /js/species-profile.js
 aliases:
     - /wildlife/fish/sicklefin-redhorse
     - /species/fish/sicklefin-redhorse
     - /species/fishes/sicklefin-redhorse
-tags:
-    - 'Sicklefin redhorse'
-    - Fish
-    - 'North Carolina'
-    - Georgia
-    - 'At-Risk Species'
-    - Asheville Ecological Services Field Office
 hero:
     link: 'https://flic.kr/p/paZsUy'
     name: sicklefin-redhorse.jpg
     alt: 'A biologist holding a yellow/brown fish on a river bank in front of a dam'
     caption: 'North Carolina Biologist with Sicklefin redhorse. Photo: Mark Cantrell, USFWS.'
     position: 'bottom right'
-description: 'The sicklefin redhorse, a freshwater fish, can grow to 25 inches long. It has a sickle-shaped back fin that is olive-colored, sometimes partly red. Its body is also olive, with a coppery or brassy sheen; its lower fins are primarily dusky to dark, often tinted yellow or orange and pale edged; the tail fin is mostly red.'
-updated: 'November 2nd, 2016'
+tags:
+    - 'Asheville Ecological Services Field Office'
+    - 'At-Risk Species'
+    - Fish
+    - Georgia
+    - 'North Carolina'
+    - 'Sicklefin Redhorse'
+    - 'Warm Springs National Fish Hatchery'
+updated: 'August 23rd, 2018'
 ---
 
 - Taxa: Fish
@@ -30,8 +31,8 @@ updated: 'November 2nd, 2016'
 - [Download the Fact Sheet](/pdf/sicklefin-redhorse-factsheet.pdf)
 
 {{< scroller-list tag="Sicklefin Redhorse" section="news" >}}
-
 {{< scroller-list tag="Sicklefin Redhorse" section="articles" >}}
+{{< scroller-list tag="Sicklefin Redhorse" section="podcasts" >}}
 
 ## Appearance
 
@@ -49,11 +50,11 @@ The fish are believed to mature at around 5-8 years-old and migrate from reservo
 
 The sicklefin redhorse, like other redhorses, is a bottom feeding, gleaning aquatic invertebrates, such as insect larvae, from surfaces of clean gravel, rocks, sticks, logs, and sometimes nibbling tufts of riverweed.
 
-## Historic Range
+## Historic range
 
 Collection records indicate that the sicklefin redhorse once inhabited the majority, if not all, of the rivers and large creeks in the Blue Ridge portion of the Hiwassee and Little Tennessee River systems.
 
-## Current Range
+## Current range
 
 {{< figure class="photo-center" src="/images/pages/sicklefin-redhorse-map.jpg" alt="Digital map depicting the range of Sicklefin redhorse in western North Carolina and northern Georgia." caption="Sicklefin redhorse range map. Credit: USFWS." >}}
 
@@ -84,7 +85,7 @@ Today, the sicklefin redhorse is known from portions of these two river systems:
 - The Service has been working with biologists with the Tennessee Valley Authority; the states of North Carolina and Georgia; personnel with Roanoke College and North - Carolina State University; and other partners to monitor the surviving populations and to identify specific threats and other potential recovery measures for the sicklefin redhorse.
 - The Service has included the sicklefin redhorse's listing determination as part of its 2015 workload, and by the end of the year will either determine that the fish does not need to be on the endangered species list, or begin the process for placing it on the list.
 
-## Conservation Challenges
+## Conservation challenges
 
 The sicklefin redhorse is threatened by factors that commonly imperil river animals in the southern Appalachians:
 
@@ -94,21 +95,21 @@ The sicklefin redhorse is threatened by factors that commonly imperil river anim
 - Stream changes from straightening streams, dredging, and in-stream mining;
 - Predation and habitat impacts by non-native animals.
 
-## Partnerships, Research and Projects 
+## Partnerships, research and projects
 
 Biologists are researching more about population size, spawning migrations, habitat and food requirements, reproductive biology and early life history. This research is a cooperative effort between the N.C. Wildlife Resources Commission and Roanoke College, N.C. State University, U.S. Fish and Wildlife Service, Eastern Band of Cherokee Indians, Tennessee Valley Authority, Duke Energy, and Conservation Fisheries Incorporated.  Biologists are using results from the research to conserve and enhance habitat and explore expansion of populations in the Tuckasegee River system.
 
-## How You Can Help
+## How you can help
 
 - Plant native trees and shrubs along streams and allow these areas to grow naturally. Theroot systems help hold stream bank soil in place and a lush diversity of plants serves as a filter, catching polluted runoff before it can enter the stream.
 - Look for ways to move rainwater off paved surfaces and allow it to soak into the ground. When channeled off paved surfaces and into streams, rainwater carries pollution (like oil) picked up while flowing over pavement and erodes stream banks and bottom not shaped to handle the excess water. Helpful techniques include using pervious pavement, rainbarrels, and installing rain gardens — gardens where rainwater is channeled and allowed to soak into the ground.
 - Look for opportunities to restore degraded, eroding streams. Local soil and water conservation district offices may be able to offer assistance. The Service has a program that can provide technical and occasionally financial assistance to landowners who want to improve stream conditions on their land. For more information, call (828) 258-3939.
 
-## Agency Experts on this Species
+## Subject matter experts
 
-[Jason Mays](mailto:Jason_mays@fws.gov?subject=Sicklefin+redhorse), (828) 258-3939, ext. 226
+- [Jason Mays](mailto:Jason_mays@fws.gov?subject=Sicklefin+redhorse), (828) 258-3939, ext. 226
 
-## Other Organizations Contributing to Conservation
+## Other organizations contributing to conservation
 
 - Conservation Fisheries, Inc.
 - Duke Energy
@@ -117,7 +118,7 @@ Biologists are researching more about population size, spawning migrations, habi
 - N.C. Wildlife Resources Commission
 - Tennessee Valley Authority
 
-## Other Scientific Resources
+## Other scientific resources
 
 - Favrot, S.D. 2008. Sicklefin redhorse (Catostomidae) reproductive and habitat ecology in the upper Hiwassee River basin of the southern Appalachian Mountains. Master of Science Thesis, North Carolina State University, Raleigh.
 - Harris, P.M., R.L. Mayden, H.S. Espinosa Perez, and F. Garcia de Leon. 2002. Phylogenetic relationships of Moxostoma and Scartomyzon (Catostomidae) based on mitochrondrial cytochrome b sequence data. Journal of Fish Biology 61:1433 1452.
@@ -126,6 +127,6 @@ Biologists are researching more about population size, spawning migrations, habi
 - Russ, T.R. 2012. Personal Communication. North Carolina Wildlife Resources Commission. Marion, North Carolina. 2012.
 - Stowe, K.A. 2012. Movement patterns and habitat use by juvenile and adult sicklefin redhorse (Moxostoma sp.) in the Tuckasegee River Basin. Master of Science Thesis, Western Carolina University, Cullowhee, North Carolina. 70 pp.
 
-## Federal Register Documents
+## Federal Register notices
 
 The following Federal Register documents were automatically gathered by searching the [Federal Register Official API](https://www.federalregister.gov/blog/learn/developers) with this species' scientific name **ordered by relevance**. You can conduct your own search on the [Federal Register website](https://www.federalregister.gov/articles/search).

@@ -14,13 +14,13 @@ tags:
     - Georgia
     - Gulf
     - Mussel
-    - Panama City
+    - 'Panama City'
 hero:
     name: suwannee-moccasinshell.jpg
     alt: 'Two dark gray mussels with striations on a red towel next to a ruler for scale.'
     caption: 'Suwannee moccasinshells. Photo by USFWS.'
     position: bottom
-updated: 'May 12th, 2017'
+updated: 'August 23rd, 2018'
 ---
 
 - **Taxon:** Bivalve, Unionidae
@@ -28,8 +28,8 @@ updated: 'May 12th, 2017'
 - **Status:** Listed as Threatened
 
 {{< scroller-list tag="Suwannee Moccasinshell" section="news" >}}
-
 {{< scroller-list tag="Suwannee Moccasinshell" section="articles" >}}
+{{< scroller-list tag="Suwannee Moccasinshell" section="podcasts" >}}
 
 ## Appearance
 
@@ -45,17 +45,17 @@ Unionid mussels live in the bottom substrates of streams and lakes where they ge
 
 Adult freshwater mussels obtain food items both from the water column and from the sediments. They filter feed by taking water in through the incurrent siphon and across four gills that are specialized for respiration and food collection. They can also move sediment material into the shell by using cilia (hairlike structures) on the foot or through currents created by cilia. Juvenile mussels typically burrow completely beneath the substrate surface for the first several months of their life. During this time, they feed primarily with their ciliated foot which they sweep through the sediment to extract material, until the structures for filter feeding are more fully developed. Mussels feed on a variety of microscopic food particles that include algae, diatoms, bacteria, and fine detritus (disintegrated organic debris).
 
-## Historic Range
+## Historic range
 
 The Suwannee moccasinshell’s historical range includes the lower and middle Suwannee River mainstem and the Santa Fe River sub-basin in Florida, and the lower reach of the Withlacoochee River in Georgia and Florida.
 
-## Current Range
+## Current range
 
 Presently, the Suwannee moccasinshell occurs in the lower Santa Fe River, and the lower and middle Suwannee River mainstem in Madison, Suwannee, Lafayette, Gilchrist, Dixie, Levy, Columbia, Alachua, Union, and Bradford Counties, Florida
 
 {{< figure class="photo-center" src="/images/pages/suwannee-moccasinshell-distribution.jpg" alt="A map showing the location of Suwannee moccasinshell in Northern Florida and Southeastern Georgia." caption="Suwannee moccasinshell distribution. Map by USFWS." link="/pdf/map/suwannee-moccasinshell-distribution.pdf" >}}
 
-## Conservation Challenges
+## Conservation challenges
 
 The primary reason for the Suwannee moccasinshell’s decline is the degradation of its stream habitat due to polluted runoff from agricultural lands, discharges from industrial and municipal wastewater sources and from mining operations, and decreased flows due to groundwater extraction and drought. These threats occur throughout its range, but are more intense in the two tributaries, the Withlacoochee and Santa Fe River systems. In portions its range, sedimentation has also impacted its habitat. Other threats to the species include contaminant spills as a result of transportation accidents or from industrial, agricultural, and municipal facilities; increased drought frequency and temperatures in the future as a result of climate change; greater vulnerability to certain threats because of its small population size and range; and competition and disturbance from the introduced Asian clam.
 
@@ -63,20 +63,20 @@ The primary reason for the Suwannee moccasinshell’s decline is the degradation
 
 The Service has coordinated with Federal and State agencies including the Florida Fish and Wildlife Conservation Commission, the Georgia Department of Natural Resources (GDNR), and the U.S. Geological Survey (USGS). The FWC and GDNR have conducted recent surveys within the Florida portions of the Suwannee River basin, and their assistance has provided critical information on the current status and distribution of the species. The Service has collaborated with the USGS to fund life history research on the Suwannee moccasinshell and the preliminary information from that research is presented in the proposed listing rule.
 
-## How You Can Help
+## How you can help
 
 Actions that reduce pollution and siltation into surface and groundwater will help any river stay clean. Landowners who wish to help this species recover should consider best management practices when applying pesticides, fertilizers, and irrigation water. Also, keeping or planting buffering vegetation along stream corridors will help filter runoff. This can also serve to reduce lost soil to erosion, an added benefit. Agricultural practices that reduce pollution and conserve water and soil also increase productivity and save farmers and ranchers money in the long run. Cities and towns in the basin can work to retain buffers and greenspaces along streams.
 
-## Subject Matter Experts
+## Subject matter experts
 
- - [Sandra Pursifull](mailto:Sandra_pursifull@fws.gov?subject=Suwannee+moccasinshell), Ecologist, Panama City Field Office, 850-769-0552 ext. 240
- - [Catherine Phillips](mailto:Catherine_phillips@fws.gov?subject=Suwannee+moccasinshell), Project Leader, Panama City Field Office, 850- 769-0552 ext. 242
+- [Sandra Pursifull](mailto:Sandra_pursifull@fws.gov?subject=Suwannee+moccasinshell), Ecologist, Panama City Field Office, 850-769-0552 ext. 240
+- [Catherine Phillips](mailto:Catherine_phillips@fws.gov?subject=Suwannee+moccasinshell), Project Leader, Panama City Field Office, 850- 769-0552 ext. 242
 
-## Partnerships, Research and Projects
+## Partnerships, research and projects
 
 - The [Florida Fish and Wildlife Conservation Commission’s Fish and Wildlife Research Institute in (FWRI) in Gainesville](http://myfwc.com/research/about/information/welcome/)
 - The [U.S. Geological Survey’s Southeast Ecological Science Center in Gainesville](http://fl.biology.usgs.gov/)
 
-## Federal Register Documents
+## Federal Register notices
 
 The following Federal Register documents were automatically gathered by searching the [Federal Register Official API](https://www.federalregister.gov/blog/learn/developers) with this species' scientific name **ordered by relevance**. You can conduct your own search on the [Federal Register website](https://www.federalregister.gov/articles/search).

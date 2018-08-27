@@ -21,7 +21,7 @@ hero:
     alt: 'A Florida manatee calf sticks close to its mother in shallow water'
     caption: 'A Florida manatee calf sticks close to its mother in shallow water. Photo: Keith Ramos, USFWS'
 description: 'Manatees are large, elongated marine mammals with paired flippers and a large round or spoon-shaped tail.  They can reach lengths of over 14 feet and weights of over 3,000 pounds'
-updated: 'May 7th, 2018'
+updated: 'August 23rd, 2018'
 ---
 
 * **Taxon**: Mammal
@@ -35,8 +35,8 @@ Manatees are protected under the Endangered Species Act and under the [Marine Ma
 Today, the range-wide population is estimated to be at least 13,000 manatees, with more than 6,500 in the southeastern United States and Puerto Rico. When aerial surveys began in 1991, there were an estimated 1,267 manatees in Florida. Today there are more than 6,300 in Florida, representing a significant increase over the past 25 years. [Learn more about the manatee’s road to recovery](#recovery-plans).
 
 {{< scroller-list tag="Manatee" section="news" >}}
-
 {{< scroller-list tag="Manatee" section="articles" >}}
+{{< scroller-list tag="Manatee" section="podcasts" >}}
 
 ## Appearance
 
@@ -55,11 +55,11 @@ During the summer manatees expand their range, and on rare occasions are seen as
 
 Manatees feed on plants. They prefer submergent vegetation, such as turtle and manatee grass, and will feed on floating and emergent plants as well. Manatees also require freshwater for drinking.
 
-## Historic Range
+## Historic range
 
 Historically, West Indian manatees were found along the U.S. Atlantic and Gulf of Mexico coasts, throughout the Caribbean, and as far south as Brazil's Atlantic coastline. However, due to hunting, habitat fragmentation and loss, and other factors, manatees have disappeared from various parts of their range. For example, manatee hunts were common until the early 1900s, and as a result the species is no longer found in Guadeloupe and other islands in the Lesser Antilles.
 
-## Current Range
+## Current range
 
 Today manatees are found in the southeastern U.S., eastern Mexico, Guatemala, Belize, Honduras, Costa Rica, Panamá, Nicaragua, Colombia, Venezuela, Guyana, Suriname, French Guiana, Brazil, Trinidad and Tobago, Jamaica, Cuba, Haiti, the Dominican Republic, Puerto Rico, and in the Bahamas.
 
@@ -71,7 +71,7 @@ In the U.S, good places to see manatees include [Blue Spring State Park](https:/
 
 For other places to view manatees visit [myfwc.com/education/wildlife/manatee/where-to-see](http://myfwc.com/education/wildlife/manatee/where-to-see/). Before you encounter a manatee be sure to brush up on the FWC’s [viewing guidelines](http://myfwc.com/education/wildlife/manatee/viewing-guidelines/) to ensure the safety of both yourself and the manatees.
 
-### Manatee Protection Areas
+### Manatee protection areas
 
 {{< figure class="photo" src="/images/pages/manate-protection-area-sign.jpg" alt="A sign in a canal advising boaters to proceed with caution." caption="A manatee protection zone sign, photo by Jim Valade, USFWS." >}}
 
@@ -80,7 +80,7 @@ Within the U.S., the most significant causes of death and injury for manatees ar
 * Federal Manatee Protection Areas
 * Florida Fish and Wildlife Conservation Commission Protection Zones
 
-## Wildlife Refuges that Provide Habitat
+## Wildlife Refuges that provide habitat
 
 * [Aransas National Wildlife Refuge](http://www.fws.gov/refuge/aransas/)
 * [Archie Carr National Wildlife Refuge](http://www.fws.gov/archiecarr/)
@@ -129,13 +129,13 @@ Within the U.S., the most significant causes of death and injury for manatees ar
 * [Wassaw National Wildlife Refuge](http://www.fws.gov/wassaw/)
 * [Wolf Island National Wildlife Refuge](http://www.fws.gov/wolfisland/)
 
-## Recovery Plans
+## Recovery plans
 
 Following extensive review of the threats the manatee faces as well as the conservation actions currently in place to help recover it, the [Service reclassified the species as threatened on March 30, 2017](/news/2017/03/manatee-reclassified-from-endangered-to-threatened-as-habitat-improves-and-population-expands-existing-federal-protections-remain-in-place/).
 
-### Florida Manatees
+### Florida manatees
 
-#### Actions Needed for Recovery
+#### Actions needed for recovery
 
 * Minimize causes of manatee disturbance, harassment, injury and mortality
 * Determine and monitor the status of the manatee population.
@@ -144,9 +144,9 @@ Following extensive review of the threats the manatee faces as well as the conse
 
 [View the Recovery Plan](http://www.fws.gov/northflorida/Manatee/Recovery%20Plan/manatee-recovery-plan.htm)
 
-### Antillean Manatees in Puerto Rico
+### Antillean manatees in Puerto Rico
 
-#### Actions Needed for Recovery
+#### Actions needed for recovery
 
 * Identify, assess and reduce human-related manatee mortality.
 * Identify and minimize alteration, degradation, and destruction of habitats important to the survival and recovery of the Puerto Rico manatee population.
@@ -154,13 +154,13 @@ Following extensive review of the threats the manatee faces as well as the conse
 
 [United Nations Environment Program Regional Management Plan for the West Indian Manatee (_Trichechus manatus_)](https://www.fws.gov/caribbean/PDF/ManateeManagementPlan.pdf)
 
-## Conservation Challenges
+## Conservation challenges
 
 Primary threats to the West Indian manatee include habitat loss and fragmentation, entanglements in fishing gear, collisions with boats, and others.
 
 The most significant problems presently faced by Florida manatees is the loss of warm water habitat, and death and injury from boat strikes. Natural threats can include harmful algal blooms, cold weather, tropical storms and hurricanes, tidal entrapments, and disease.
 
-## Partnerships, Research and Projects
+## Partnerships, research and projects
 
 Whether capturing manatees for health checks, research purposes or rescuing stranded/distressed animals, doing so is a challenging effort requiring a dedicated team of public and private manatee conservation partners.
 
@@ -180,19 +180,19 @@ We work with federal, state, academic and non-profit organizations across the so
 * [Sea to Shore Alliance](http://sea2shore.org/focal-species/manatees/united-states/manatee-rehabilitation-partnership-mrp/)
   A member of the Manatee Rescue and Rehabilitation Partnership, Sea to Shore is responsible for tracking and monitoring rescued and rehabilitated animals to ensure that it is properly adjusting to life in the wild.
 
-## How You Can Help
+## How you can help
 
-### Be Mindful of Manatees while Boating
+### Be mindful of manatees while boating
 
 This is one of the most important things you can do to help manatees. Boaters should obey posted manatee protection area restrictions. When you travel slowly through these areas, you give manatees a chance to safely get out of your way. In addition, when you travel slowly, they‘re easier to see. Watching manatees has become a national pastime – enjoy! (You will improve your ability to see manatees if you wear sunglasses with brown, polarized lenses.)
 
 For more tips, read the Florida Fish and Wildlife Conservation Commission’s “[A Boater‘s Guide to Living with Florida Manatees](http://myfwc.com/media/2559124/Manatee-Marina-Brochure.pdf),” and bring it with you on your next trip.
 
-### Help Keep Wild Creatures Wild
+### Help keep wild creatures wild
 
 It is best for humans to minimize interactions with manatees. You should never initiate contact with a manatee. Crystal River National Wildlife Refuge has produced a series of videos called “Manatee Manners” that provides tips on how swimmers, boaters, photographers and paddlers at the refuge should behave when sharing waters with manatees. [View Manatee Manners online](http://www.fws.gov/refuge/Crystal_River/Multimedia/Manatee_Manners_Videos.html).
 
-## Subject Matter Experts
+## Subject matter experts
 
 There are many agencies and organizations with people who can talk to you about manatees. You may want to contact:
 
@@ -201,7 +201,7 @@ There are many agencies and organizations with people who can talk to you about 
 * U.S. Fish and Wildlife Service, North Florida Ecological Services Office: (904) 731-3332
 * U.S. Fish and Wildlife Service, Caribbean Ecological Services Field Office: (787) 851-7297
 
-## Designated Critical Habitat
+## Designated critical habitat
 
 {{< figure class="photo-center" src="/images/pages/florida-manatee-critical-habitat-map.jpg" alt="A digital map of South Florida showing critical habitat on both the Gulf and Atlantic coasts" caption="Critical Habitat for the Florida manatee, Jane Cooke, USFWS" >}}
 
@@ -209,11 +209,11 @@ Critical habitat for the West Indian manatee was described in 1976 in [50 CFR 17
 
 > Crystal River and its headwaters known as King’s Bay, Citrus County; the Little Manatee River downstream from the U.S. Highway 301 bridge, Hillsborough County; the Manatee River downstream from the Lake Manatee Dam, Manatee County; the Myakka River downstream from Myakka River State Park, Sarasota and Charlotte Counties; the Peace River downstream from the Florida State Highway 760 bridge, De Soto and Charlotte Counties; Charlotte Harbor north of the Charlotte-Lee County line, Charlotte County; Caloosahatchee River downstream from the Florida State Highway 31 bridge, Lee County; all U.S. territorial waters adjoining the coast and islands of Lee County; all U.S. territorial waters adjoining the coast and islands and all connected bays, estuaries , and rivers from Gordon”s Pass, near Naples, Collier County, southward to and including Whitewater Bay, Monroe County; all waters of Card, Barnes, Blackwater, Little Blackwater, Manatee, and Buttonwood Sounds between Key Largo, Monroe County, and the mainland of Dade County; Biscayne Bay, and all adjoining and connected lakes, rivers, canals, and waterways from the southern tip of Key Biscayne northward to and including Maule Lake, Dade County; all of Lake Worth, from its northernmost point immediately south of the intersection of U.S. Highway 1 and Florida State Highway A1A southward to its southernmost point immediately north of the town of Boynton Beach, Palm Beach County; the Loxahatchee River and its headwaters, Martin and West Palm Beach Counties; that section of the intracoastal waterway from the town of Seawalls Point, Martin County to Jupiter Inlet, Palm Beach County; the entire inland section of water known as the Indian River, from its northernmost point immediately south of the intersection of U.S. Highway I and Florida State Highway 3, Volusia County, southward to its southernmost point near the town of Sewalls Point, Martin County, and the entire inland section of water known as the Banana River and all waterways between Indian and Banana Rivers, Brevard County; the St. Johns River including Lake George, and including Blue Springs and Silver Glen Springs from their points of origin to their confluences with the St. Johns River; that section of the Intracoastal Waterway from its confluences with the St. Marys River on the Georgia-Florida border to the Florida State Highway A1A bridge south of Coastal City, Nassau and Duval Counties.
 
-### Petition for Critical Habitat Revision
+### Petition for critical habitat revision
 
 In 2008, the Service was petitioned to revise critical habitat for this species. In 2010, [we found that a revision was warranted but precluded due to other priorities](http://www.fws.gov/northflorida/manatee/2009_CH_Petition/20100112_frn_Manatee_CH_12-mo_notice.htm).
 
-## Historic News
+## Historic news
 
 * July 2, 2014 [Service announces 90-day petition finding for West Indian manatee, to move forward with status review](Service announces 90-day petition finding for West Indian manatee, to move forward with status review)
 * March 11, 2013 [Federal and State Officials say red tide killing manatees](http://www.fws.gov/northflorida/Releases-13/20130311_nr_Federal%20and%20State%20Officials%20say%20Red%20tide%20killing%20manatees.html)
@@ -271,7 +271,7 @@ In 2008, the Service was petitioned to revise critical habitat for this species.
 * November 30, 2000 [Manatee Revised Recovery Plan Availability](http://www.fws.gov/northflorida/Releases-00/Man-rev-plan-113000.htm)
 * November 27, 2000 [Manatee Refuges & Sanctuaries Public Workshops](http://www.fws.gov/northflorida/Releases-00/man-mtgs-112700.htm)
 
-## Additional Resources
+## Additional resources
 
 * [Crystal River National Wildlife Refuge: the Florida Manatee](http://www.fws.gov/refuge/Crystal_River/wildlife_and_habitat/Florida_Manatee.html)
 * [Departamento de Recursos Naturales y Ambientales (Puerto Rico)](http://www.drna.gobierno.pr/)
@@ -282,6 +282,6 @@ In 2008, the Service was petitioned to revise critical habitat for this species.
 * [Belize Department of the Environment Ministry of Forestry, Fisheries and Sustainable Development](http://www.doe.gov.bz/)
 * [Sirenian International](http://www.sirenian.org/)
 
-## Federal Register Documents
+## Federal Register notices
 
 The following Federal Register documents were automatically gathered by searching the [Federal Register Official API](https://www.federalregister.gov/blog/learn/developers) with this species' scientific name **ordered by relevance**. You can conduct your own search on the [Federal Register website](https://www.federalregister.gov/articles/search).

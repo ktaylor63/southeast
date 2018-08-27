@@ -17,7 +17,7 @@ hero:
     name: black-warrior-waterdog.jpg
     alt: 'A light purple salamander with dark spots and tufts above its front legs.'
     caption: 'Black Warrior waterdog. Photo by Joseph Jenkins, Alabama Natural Heritage Program.'
-updated: 'January 2nd, 2018'
+updated: 'August 23rd, 2018'
 ---
 
 - **Taxon:** Amphibian, Proteidae (Mudpuppies, Olms, Waterdogs)
@@ -25,8 +25,8 @@ updated: 'January 2nd, 2018'
 - **Status:** Endangered
 
 {{< scroller-list tag="Black Warrior Waterdog" section="news" >}}
-
 {{< scroller-list tag="Black Warrior Waterdog" section="articles" >}}
+{{< scroller-list tag="Black Warrior Waterdog" section="podcasts" >}}
 
 ## Appearance
 

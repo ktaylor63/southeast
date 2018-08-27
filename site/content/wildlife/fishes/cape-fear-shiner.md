@@ -18,7 +18,7 @@ tags:
     - Fish
     - 'North Carolina'
     - Recovery
-updated: 'May 31st, 2018'
+updated: 'August 23rd, 2018'
 ---
 
 - **Taxon:** Freshwater fish
@@ -28,8 +28,8 @@ updated: 'May 31st, 2018'
 The Cape Fear shiner is a North American species of freshwater fish in the minnow family. It is only found in the central part of North Carolina, in the Upper Cape Fear River Basin. Listed as endangered, the species has benefited from successful captive breeding.  It has also benefited from removal of some of the dams that once led to low population numbers.  Experts are hopeful that by implementing strategic efforts and habitat conservation, the Cape Fear shiner can be recovered throughout its range.
 
 {{< scroller-list tag="Cape Fear Shiner" section="news" >}}
-
 {{< scroller-list tag="Cape Fear Shiner" section="articles" >}}
+{{< scroller-list tag="Cape Fear Shiner" section="podcasts" >}}
 
 ## Appearance
 
@@ -105,19 +105,19 @@ Sarah McRae, Fish and Wildlife Biologist, 919-856-4520 ext. 16
 
 Critical habitat is defined under the Endangered Species Act as the specific areas within the geographical area occupied by a species which have physical or biological features essential to the conservation of the species and that may require special management considerations or protection, or specific areas outside the geographical area occupied by a species but for which those areas are essential for the conservation of the species.
 
-  - Chatham County, NC. Approximately 4.1 miles of the Rocky River from North Carolina State Highway 902 Bridge downstream to Chatham County Road 1010 Bridge;
-  - Chatham and Lee Counties, NC. Approximately 0.5 river mile of Bear Creek, from Chatham County Road 2156 Bridge downstream to the Rocky River, then downstream in the Rocky River (approximately 4.2 river miles) to the Deep River, then downstream in the Deep River (approximately 2.6 river miles) to a point 0.3 river mile below the Moncure, North Carolina, U.S. Geological Survey Gaging Station; and,
-  - Randolph and Moore Counties, NC. Approximately 1.5 miles of Fork Creek, from a point 0.1 river mile upstream of Randolph County Road 2873 Bridge downstream to the Deep River then downstream approximately 4.1 river miles of the Deep River in Randolph and Moore Counties, North Carolina, to a point 2.5 river miles below Moore County Road 1456 Bridge.
+- Chatham County, NC. Approximately 4.1 miles of the Rocky River from North Carolina State Highway 902 Bridge downstream to Chatham County Road 1010 Bridge;
+- Chatham and Lee Counties, NC. Approximately 0.5 river mile of Bear Creek, from Chatham County Road 2156 Bridge downstream to the Rocky River, then downstream in the Rocky River (approximately 4.2 river miles) to the Deep River, then downstream in the Deep River (approximately 2.6 river miles) to a point 0.3 river mile below the Moncure, North Carolina, U.S. Geological Survey Gaging Station; and,
+- Randolph and Moore Counties, NC. Approximately 1.5 miles of Fork Creek, from a point 0.1 river mile upstream of Randolph County Road 2873 Bridge downstream to the Deep River then downstream approximately 4.1 river miles of the Deep River in Randolph and Moore Counties, North Carolina, to a point 2.5 river miles below Moore County Road 1456 Bridge.
 
 {{< figure class="photo-center" src="/images/pages/cape-fear-shiner-critical-habitat.jpg" alt="Critical habitat stretches along the Rocky and Deep rivers." caption="Critical habitat for the Cape Fear shiner. Map by Doug Newcomb, USFWS." >}}
 
 ## What you can do to help
 
-  - Support measures related to keeping our streams clean, such as land-use planning that maintains naturally forested river shore buffers and high water quality.
-  - Maintain native forests along streams and creeks. These forested buffers prevent the erosion of soil and sediments into the water after heavy rains, keeping the stream clear and clean.
-  - Do not dispose of toxic substances such as motor oil, pesticides, fertilizers, and other chemicals near creeks and streams. Always follow the instructions for chemical use, and properly dispose of any remaining material and the container.
-  - Keep livestock out of rivers and streams. Livestock can damage the stream banks by eating the bank vegetation and causing erosion of the bank. Livestock and their waste can also pollute the water.
-  - Watch for fish kills, illegal dumping of waste, unusual water color or smell, and other changes in the river’s condition. Report environmental emergencies (e.g., fish kills, oil or chemical spills) affecting water resources to the N.C. Division of Emergency Management at 1-800-858-0368.
+- Support measures related to keeping our streams clean, such as land-use planning that maintains naturally forested river shore buffers and high water quality.
+- Maintain native forests along streams and creeks. These forested buffers prevent the erosion of soil and sediments into the water after heavy rains, keeping the stream clear and clean.
+- Do not dispose of toxic substances such as motor oil, pesticides, fertilizers, and other chemicals near creeks and streams. Always follow the instructions for chemical use, and properly dispose of any remaining material and the container.
+- Keep livestock out of rivers and streams. Livestock can damage the stream banks by eating the bank vegetation and causing erosion of the bank. Livestock and their waste can also pollute the water.
+- Watch for fish kills, illegal dumping of waste, unusual water color or smell, and other changes in the river’s condition. Report environmental emergencies (e.g., fish kills, oil or chemical spills) affecting water resources to the N.C. Division of Emergency Management at 1-800-858-0368.
 
 ## Federal register notices
 

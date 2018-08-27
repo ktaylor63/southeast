@@ -19,7 +19,7 @@ hero:
     name: yellow-lance.jpg
     alt: 'A group of about a dozen small triangular shellfish in shallow water.'
     caption: 'Yellow lance in the Tar River in North Carolina.  Photo by Sarah McRae, USFWS.'
-updated: 'May 12th, 2017'
+updated: 'August 23rd, 2018'
 ---
 
 - **Taxon:** Freshwater mussel. Bivalve, Unionidae
@@ -29,8 +29,8 @@ updated: 'May 12th, 2017'
 [Download the Species Status Assessment](https://ecos.fws.gov/ServCat/Reference/Profile/91825).
 
 {{< scroller-list tag="Yellow Lance" section="news" >}}
-
 {{< scroller-list tag="Yellow Lance" section="articles" >}}
+{{< scroller-list tag="Yellow Lance" section="podcasts" >}}
 
 ## Appearance
 
@@ -54,70 +54,73 @@ Like many freshwater mussels, the yellow lance grows rapidly during the first fe
 
 Freshwater mussels are living filters, known as suspension feeders because they eat algae and other microscopic matter and other particles, such as leaf debris, they filter out of the water. Juveniles likely pedal-feed in the sediment, whereas adults filter-feed from the water column. A recent nutrition study found that probiotic bacteria (*Bacillus subtilis*) enhanced early juvenile growth and survival. When they feed, they help keep the water clean by removing pollutants that could potentially harm aquatic animals, birds, land-dwelling animals, and people who may drink the water.
 
-## Historical Range
+## Historical range
 
 Historically, the yellow lance ranged from the Patuxent River Basin in Maryland,  to the Potomac River Basin in Maryland/Virginia, the Rappahannock, York, James, and Chowan River basins in Virginia, and the Tar and Neuse River basins in North Carolina.
 
 {{< figure class="photo-center" src="/images/pages/yellow-lance-historical-range.jpg" alt="A map showing river basins historically occupied by yellow lance in MD, VA, and NC." caption="Yellow lance historical range. Map by Sarah McRae, USFWS." link="https://flic.kr/p/TusYq3" >}}
 
-### Counties Where the Species has been Known to Occur
+### Counties where the species has been known to occur
 
 #### Maryland
-  - Howard
-  - Montgomery
-  - Anne Arundel
-  - Prince George’s
+
+- Howard
+- Montgomery
+- Anne Arundel
+- Prince George’s
 
 #### Virginia
-  - Madison
-  - Greene
-  - Albemarle
-  - Craig
-  - Giles
-  - Prince Edward
-  - Lunenburg
-  - Faquier
-  - Arlington
-  - Fairfax
-  - Rappahannock
-  - Culpeper
-  - Stafford
-  - Orange
-  - Spotsylvania
-  - Fredericksburg
-  - King George
-  - Caroline
-  - Louisa
-  - Hanover
-  - Nottoway
-  - Dinwiddie
-  - Sussex
-  - Brunswick
-  - Southampton
-  - Greensville
-  - Emporia
+
+- Madison
+- Greene
+- Albemarle
+- Craig
+- Giles
+- Prince Edward
+- Lunenburg
+- Faquier
+- Arlington
+- Fairfax
+- Rappahannock
+- Culpeper
+- Stafford
+- Orange
+- Spotsylvania
+- Fredericksburg
+- King George
+- Caroline
+- Louisa
+- Hanover
+- Nottoway
+- Dinwiddie
+- Sussex
+- Brunswick
+- Southampton
+- Greensville
+- Emporia
 
 #### North Carolina
-  - Vance
-  - Granville
-  - Person
-  - Franklin
-  - Wake
-  - Johnston
-  - Warren
-  - Halifax
-  - Nash
-  - Edgecombe
-  - Martin
-  - Wilson
 
-## Current Range
+- Vance
+- Granville
+- Person
+- Franklin
+- Wake
+- Johnston
+- Warren
+- Halifax
+- Nash
+- Edgecombe
+- Martin
+- Wilson
+
+## Current range
 
 The yellow lance is still found in seven of the eight river basins it used to occupy. No records exist of the species in the Potomac River in recent years and experts presume it extirpated from that river.  Number and distribution of populations range occupying the remaining seven rivers have declined over the past 60 years.
 
 {{< figure class="photo-center" src="/images/pages/yellow-lance-current-distribution.jpg" alt="A map showing yellow lance occurrence data along rivers in MD, VA, and NC." caption="Yellow lance current range. Map by Sarah McRae, USFWS." link="https://flic.kr/p/TusYjb" >}}
 
-## Conservation Challenges
+## Conservation challenges
 
 ### Pollution
 
@@ -133,34 +136,34 @@ Dams affect both upstream and downstream mussel populations by disrupting natura
 
 Yellow lance depend on their host fish as a means of moving upstream. Because dams are barriers that prevent fish from moving upstream they also prevent mussels from moving upstream. Upstream mussel populations then become isolated from downstream populations. This isolation leads to small unstable populations which are more likely to die out.
 
-## How You Can Help
+## How you can help
 
 Individuals can do a number of things to help protect freshwater species, including:
 
-  - Conserving water to allow more water to remain in streams.
-  - Using pesticides responsibly, especially around streams and lakes, to prevent runoff into mussel habitats.
-  - Controlling soil erosion by planting trees and plants to avoid runoff of sediments into freshwater areas.
-  - If you live near a stream, be careful not to disturb the stream bottom; you may be damaging a freshwater mussel’s home.
-  - Don’t pick up any mussels that you may see in a stream. It may be one of the last few members of its species on the planet.
-  - Help your family find ways to reduce the amount of chemicals that you pour down the drain in your home or possibly use on your lawn or garden.
-  - Check to see if the water draining off your roof or driveway flushes directly into a stream. Plant a garden to catch the water before it enters the stream. The garden will act like a filter and help purify the water.
-  - Recycle as much as you can to reduce the amount of waste you place in the garbage.
-  - Support conservation efforts that protect these unique animals and the habitats they live in.
-  - Become a biologist and discover new ways to help protect freshwater mussels and other wildlife.
-  - Learn more about how the destruction of habitat leads to loss of endangered and threatened species and our nation’s plant and animal diversity. Discuss with others what you have learned.
-  - Support local and State initiatives for watershed and water quality protection and improvement.
+- Conserving water to allow more water to remain in streams.
+- Using pesticides responsibly, especially around streams and lakes, to prevent runoff into mussel habitats.
+- Controlling soil erosion by planting trees and plants to avoid runoff of sediments into freshwater areas.
+- If you live near a stream, be careful not to disturb the stream bottom; you may be damaging a freshwater mussel’s home.
+- Don’t pick up any mussels that you may see in a stream. It may be one of the last few members of its species on the planet.
+- Help your family find ways to reduce the amount of chemicals that you pour down the drain in your home or possibly use on your lawn or garden.
+- Check to see if the water draining off your roof or driveway flushes directly into a stream. Plant a garden to catch the water before it enters the stream. The garden will act like a filter and help purify the water.
+- Recycle as much as you can to reduce the amount of waste you place in the garbage.
+- Support conservation efforts that protect these unique animals and the habitats they live in.
+- Become a biologist and discover new ways to help protect freshwater mussels and other wildlife.
+- Learn more about how the destruction of habitat leads to loss of endangered and threatened species and our nation’s plant and animal diversity. Discuss with others what you have learned.
+- Support local and State initiatives for watershed and water quality protection and improvement.
 
-## Subject Matter Experts
+## Subject matter experts
 
- - Sarah McRae, Fish and Wildlife Biologist, Raleigh. [Sarah_McRae@fws.gov](mailto:Sarah_McRae@fws.gov?subject=Yellow+lance)
+- Sarah McRae, Fish and Wildlife Biologist, Raleigh. [Sarah_McRae@fws.gov](mailto:Sarah_McRae@fws.gov?subject=Yellow+lance)
 
-## Useful Resources
+## Useful resources
 
-  - [Yellow lance species status assessment](http://ecos.fws.gov/ServCat/DownloadFile/138974)
-  - [Yellow lance species profile by the North Carolina Wildlife Resources Commission](http://www.ncwildlife.org/Learning/Species/Mollusks/Yellow-Lance)
-  - [Freshwater Mussels &amp; Endangered Fish Glossary by the North Carolina Wildlife Resources Commission](http://www.ncwildlife.org/Learning/Species/Mollusks/Mussels-Glossary)
-  - [Freshwater mussel activity book and learning resource](http://www.aeclab.org/modules/info/files/files_4c7572d0c81cf.pdf)
+- [Yellow lance species status assessment](http://ecos.fws.gov/ServCat/DownloadFile/138974)
+- [Yellow lance species profile by the North Carolina Wildlife Resources Commission](http://www.ncwildlife.org/Learning/Species/Mollusks/Yellow-Lance)
+- [Freshwater Mussels &amp; Endangered Fish Glossary by the North Carolina Wildlife Resources Commission](http://www.ncwildlife.org/Learning/Species/Mollusks/Mussels-Glossary)
+- [Freshwater mussel activity book and learning resource](http://www.aeclab.org/modules/info/files/files_4c7572d0c81cf.pdf)
 
-## Federal Register Documents
+## Federal Register notices
 
 The following Federal Register documents were automatically gathered by searching the [Federal Register Official API](https://www.federalregister.gov/blog/learn/developers) with this species' scientific name **ordered by relevance**. You can conduct your own search on the [Federal Register website](https://www.federalregister.gov/articles/search).

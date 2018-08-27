@@ -9,12 +9,12 @@ aliases:
     - /species/mussel/fanshell
     - /species/mussels/fanshell
 tags:
-    - Mussel
-    - 'Endangered Species Act'
     - Alabama
+    - 'Endangered Species Act'
     - Illinois
     - Indiana
     - Kentucky
+    - Mussel
     - Ohio
     - Tennessee
     - Virginia
@@ -23,7 +23,7 @@ hero:
     name: fanshell-mussel.jpg
     alt: 'Three brownish yellow mussels the smallest of which has a small white protrusion which the mussel uses to attach to a rock.'
     caption: 'Photo by Monte McGregor, Center Mollusk Conservation, Kentucky DFWR.'
-updated: 'November 2nd, 2016'
+updated: 'August 23rd, 2018'
 ---
 
 - **Taxon**: Bivalve
@@ -31,8 +31,8 @@ updated: 'November 2nd, 2016'
 - **Status**: Endangered. Some populations in the French Broad and Holston Rivers are experimental.
 
 {{< scroller-list tag="Fanshell" section="news" >}}
-
 {{< scroller-list tag="Fanshell" section="articles" >}}
+{{< scroller-list tag="Fanshell" section="podcasts" >}}
 
 ## Appearance
 
@@ -48,11 +48,11 @@ This mussel species inhabits medium to large rivers. It has been reported primar
 
 Mussels are filter feeders; they mainly eat phytoplankton, zooplankton, and bacteria suspended in the water. By drawing water inside their shells through a siphon, their gills filter out food and take in oxygen.
 
-## Historic Range
+## Historic range
 
 The fanshell historically occurred in the Ohio River and many of its large tributaries in Pennsylvania, West Virginia, Ohio, Indiana, Illinois, Kentucky, Tennessee, Alabama and Virginia.
 
-## Current Range
+## Current range
 
 It is believed that reproductively viable populations are now only found in the following three rivers:
 
@@ -60,7 +60,7 @@ It is believed that reproductively viable populations are now only found in the 
   2. the Green River in Hart and Edmonson counties, Kentucky; and
   3. the Licking River in Kenton, Campbell and Pendleton counties, Kentucky.
 
-### Counties Where the Species is Present or Believed to Occur
+### Counties where the species is present or believed to occur
 
  - **Kentucky**: Green River in Hart and Edmonson counties; Licking River in Kenton, Campbell, and Pendleton counties; Tygarts Creek in Greenup and Carter counties; Barren River in Allen and Barren counties.
  - **Tennessee**: Clinch River in Hancock County; Cumberland River in Smith County; Tennessee River in Rhea, Meigs, and Hardin counties.
@@ -70,11 +70,11 @@ It is believed that reproductively viable populations are now only found in the 
  - **Indiana**: Wabash River in Posey and Wabash counties; East Fork of White River in Martin County; Tippecanoe River in Tippecanoe County.
  - **West** Virginia: Kanawha River in Fayette County.
 
-## Conservation Challenges
+## Conservation challenges
 
 The distribution and reproductive capacity of this species has been seriously impacted by the construction of impoundments and navigation facilities, dredging for channel maintenance, sand and gravel mining, and water pollution.
 
-## How You Can Help
+## How you can help
 
 Individuals can do a number of things to help protect mussels, such as:
 
@@ -84,16 +84,18 @@ Individuals can do a number of things to help protect mussels, such as:
 - Supporting practices for construction and maintenance of unpaved, rural dirt and gravel roads that minimize erosion and connectivity to our rivers and lakes.
 - Supporting and follow zebra mussel quarantine, inspection, and decontamination programs to prevent the spread of zebra mussels, an invasive species that competes with native mussels.
 
-## Subject Matter Experts
+## Subject matter experts
 
- - **[Leroy Koch](mailto:leroy_koch@fws.gov?subject=Fanshell)**, Fish and Wildlife Biologist, Kentucky.
- - **[Bob Butler](mailto:bob_butler@fws.gov?subject=Fanshell)**, Fish and Wildlife Biologist, North Carolina.
- - **[Stephanie Chance](mailto:stephanie_chance@fws.gov?subject=Fanshell)**, Fish and Wildlife Biologist, Tennessee.
+- **[Leroy Koch](mailto:leroy_koch@fws.gov?subject=Fanshell)**, Fish and Wildlife Biologist, Kentucky.
+- **[Bob Butler](mailto:bob_butler@fws.gov?subject=Fanshell)**, Fish and Wildlife Biologist, North Carolina.
+- **[Stephanie Chance](mailto:stephanie_chance@fws.gov?subject=Fanshell)**, Fish and Wildlife Biologist, Tennessee.
 
-## Designated Critical Habitat
+## Designated critical habitat
+
 No critical habitat is designated for this species.
 
-## Additional Resources
+## Additional resources
+
 - [Mussels and Aquatic Snails, Kentucky Department of Fish and Wildlife Resources](http://fw.ky.gov/Wildlife/Pages/Freshwater-Mussels-and-Aquatic-Snails.aspx): biology and conservation information related to mussels and aquatic snails in Kentucky.
 - [Freshwater Mollusk Society](http://molluskconservation.org/): the Freshwater Mollusk Conservation Society (FMCS) is dedicated to the conservation of and advocacy of freshwater mollusks, North America's most imperiled animals.
 - [The Nature Conservancy in Kentucky](http://www.nature.org/ourinitiatives/regions/northamerica/unitedstates/kentucky/): conserving nature to ensure Kentuckians have clean air and water, healthy soils and open spaces to enjoy forever.
@@ -101,6 +103,6 @@ No critical habitat is designated for this species.
 - [Walkerana](http://molluskconservation.org/Walkerana_BackIssues.html) — The Journal of the Freshwater Mollusk Conservation Society
 - [Ellipsiana](http://molluskconservation.org/Ellipsaria-archive.html) — Newsletter of the Freshwater Mollusk Conservation Society
 
-## Federal Register Notices
+## Federal Register notices
 
 The following Federal Register documents were automatically gathered by searching the [Federal Register Official API](https://www.federalregister.gov/blog/learn/developers) with this species' scientific name **ordered by relevance**. You can conduct your own search on the [Federal Register website](https://www.federalregister.gov/articles/search).

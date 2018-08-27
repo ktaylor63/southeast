@@ -12,17 +12,17 @@ aliases:
     - /species/amphibian/coqui-guajon
     - /species/amphibians/coqui-guajon
 tags:
-    - 'Endangered Species Act'
     - Amphibian
-    - 'Puerto Rico'
     - Caribbean
+    - 'Endangered Species Act'
+    - 'Puerto Rico'
 hero:
     link: 'https://en.wikipedia.org/wiki/Puerto_Rican_rock_frog#/media/File:Female_guajon_frog_on_tree.jpg'
     name: puerto-rican-rock-frog.jpg
     alt: 'A brownish peach colored frog with big round eyes'
     caption: 'A female frog on a tree branch. Photo by JP Zegarra, USFWS.'
 description: 'The Puerto Rican rock frog is known by several names: Puerto Rican cave frog, guajón, and the Puerto Rican demon. It is found exclusively in southeastern Puerto Rico.'
-updated: 'January 26th, 2017'
+updated: 'August 23rd, 2018'
 ---
 
 - **Taxon:** Amphibian
@@ -36,8 +36,8 @@ Oddly for a frog, it sings mainly during the day while hidden within rocks and c
 Coquíes in general are cherished in Puerto Rico. The sounds of singing males are a distinctive feature of the Puerto Rican landscape and a valued symbol of the island’s natural and cultural heritage.
 
 {{< scroller-list tag="Puerto Rican Rock Frog" section="news" >}}
-
 {{< scroller-list tag="Puerto Rican Rock Frog" section="articles" >}}
+{{< scroller-list tag="Puerto Rican Rock Frog" section="podcasts" >}}
 
 ## Appearance
 
@@ -57,19 +57,19 @@ Caves are dark inside, although some light enters through gaps formed from the u
 
 In streams, the species has been found only in patches of rock in the streambed. The streams are surrounded by secondary forest and can be a perennial, or an ephemeral stream, which forms with heavy rain. Rocks in the streambed form crevices and grottoes. Streams provide a wide variety of retreat sites for the species, such as vegetation over rocks (e.g., moss, ferns and liverworts) that help in the conservation of humidity. Temperature and relative humidity at streams vary within the year.
 
-## Current Range
+## Range
 The guajón occurs at low and intermediate elevations from 18 to 1,183 feet above sea level where they inhabit caves formed by large boulders of granite rock known as “guajonales” or streams with patches of rocks without cave systems.
 
 The guajón is extremely restricted in geographical distribution and occurs only on privately-owned lands. See [Designated Critical Habitat](#designated-critical-habitat).
 
-## Conservation Challenges
+## Conservation challenges
 The guajón was listed primarily due to its highly restricted geographical distribution and habitat requirements. Being a habitat specialist, the guajón is adapted to particular environmental conditions, and abrupt changes in these conditions could result in population declines.
 
 The destruction, modification, or curtailment of the species habitat or range continues to be an important factor threatening the survival and recovery of this species. The immediacy of this threat is high because the guajón’s habitat is naturally fragmented and the majority of the known populations are on private lands, where an increased level of land development may further reduce and fragment the species habitat, alter their distribution, and affect their chances of survival.
 
 Amphibians are less adaptable than other animals to habitat changes because of physiological constraints. The maintenance of highly permeable, moist, cool skin that allows for efficient respiration generally requires habitats that are humid with low evaporation rate. In addition, small size and slow movement result in relatively poor dispersal capabilities and small home ranges. These physiological factors cause amphibians to be especially sensitive to the abrupt transitions impacting their microclimate and microhabitat (Demaynadier and Hunter 1998).
 
-## Recovery Plan
+## Recovery plan
 
 The recovery criteria for the guajón are as follows:
 
@@ -80,7 +80,7 @@ The recovery criteria for the guajón are as follows:
 
 For more information, [download the complete Recovery Plan for the guajón](/pdf/recovery-plan/coqui-guajon.pdf).
 
-## Subject Matter Experts
+## Subject matter experts
 
 For more information about this species, please contact:
 
@@ -89,7 +89,7 @@ For more information about this species, please contact:
 Boquerón, Puerto Rico <br>
 (787) 851-7297, extension 219. <br>**
 
-## Designated Critical Habitat
+## Designated critical habitat
 
 All of the units designated as critical habitat for the guajón are privately owned and adjacent to agricultural lands, roads, trails, homes, or other manmade structures.
 
@@ -97,11 +97,11 @@ Management considerations and protections include management of non-native preda
 
 {{< figure class="photo-center" src="/images/pages/puerto-rican-rock-frog-critical-habitat.jpg" alt="A map showing Critical Habitat for guajón" caption="Critical habitat units. Map by USFWS." link="https://flic.kr/p/9U6HGy" >}}
 
-## Historical News
+## Historic news
 
  - October 23, 2007: [Critical Habitat Designated for the Coqui Guajón](https://www.fws.gov/southeast/news/2007/r07-108.html)
  - June 19, 2007: [Draft Economic Analysis and Additional Critical Habitat Units Proposed for the Coqui Guajón](https://www.fws.gov/southeast/news/2007/r07-073.html)
 
-## Federal Register Documents
+## Federal Register notices
 
 The following Federal Register documents were automatically gathered by searching the [Federal Register Official API](https://www.federalregister.gov/blog/learn/developers) with this species' scientific name **ordered by relevance**. You can conduct your own search on the [Federal Register website](https://www.federalregister.gov/articles/search).

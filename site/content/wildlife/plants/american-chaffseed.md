@@ -25,7 +25,7 @@ hero:
     link: 'https://flic.kr/p/JioDEh'
     caption: 'American chaffseed © Robert Sincliar. Copyright release form S://EA/Photo Permissions/american-chaffseed.pdf'
     position: 'bottom center'
-updated: 'October 13th, 2017'
+updated: 'August 23rd, 2018'
 ---
 
 **Taxon:** Plant  
@@ -45,16 +45,16 @@ American chaffseed was selected as an indicator species for the South Atlantic L
 http://www.southatlanticlcc.org/indicators-roadmap/
 
 {{< scroller-list tag="American Chaffseed" section="news" >}}
-
 {{< scroller-list tag="American Chaffseed" section="articles" >}}
+{{< scroller-list tag="American Chaffseed" section="podcasts" >}}
 
-## Appearance 
+## Appearance
 
 American chaffseed is an erect perennial herb with stems that branch only at the base.  The leaves are alternate, have no outgrowths at their base, and are fixed and ascend in an overlapping spiral.  The leaves, stems, and flowers are hairy throughout (villous-puberulent).  The five-lobed flowers are reddish-purple and mature into capsules that burst open, containing numerous linear, yellowish-tan seeds.  The showy flowers have a high degree of bilateral symmetry, elaborated for pollination by bees.  Flowering occurs from April to June in the southern part of the species’ range, and from June to mid-July in the northern part of its range.  Fruits start to mature in early summer in the South and October in the North. 
 
 {{< figure class="photo-center" src="/images/pages/american-chaffseed-april-punsalan.jpg" alt="A grassy plant with bright purple flowers and a fuzzy stalk." caption="American chaffseed. Photo by April Punsalan, USFWS." >}}
 
-## Life History
+## Life history
 
 ### Parasitism
 
@@ -84,33 +84,33 @@ American chaffseed occurs in fire-maintained longleaf pine flatwoods and savanna
 
 Most of the surviving populations, and all of the most vigorous populations, are in areas that are still subject to frequent fire.  These fire-maintained habitats include plantations where prescribed fire is part of a management regime for quail and other game species, army base impact zones that burn regularly because of artillery shelling, forest management areas that are burned to maintain habitat for wildlife (such as the red-cockaded woodpecker), and various other private lands that are burned to maintain open fields.  Fire may be important to the species in ways that are not yet understood, such as for germination of seed, or in the formation of the connection to the host plant.
 
-## Historic Range
+## Historic range
 
-States with historic records only are Massachusetts, Connecticut, New York, Delaware, Maryland, Virginia, Mississippi, Louisiana, Texas, Tennessee, and Kentucky. 
+States with historic records only are Massachusetts, Connecticut, New York, Delaware, Maryland, Virginia, Mississippi, Louisiana, Texas, Tennessee, and Kentucky.
 
-## Current Range
+## Current range
 
 Currently, American chaffseed occurs in New Jersey, North Carolina, South Carolina, Georgia, Florida, Alabama, and Louisiana.  American chaffseed was never considered to be common, but populations have declined and the range has seriously contracted in recent decades.
 
-## Conservation Challenges
+## Conservation challenges
 
 Fire suppression and competition from other plant species across the Atlantic and Gulf Coast regions remain the greatest threats to American chaffseed.  Across this species range, the largest, healthiest populations are ones that are burned annually by quail plantation managers.  Fort Bragg supports the largest populations on federal land due to 2-year fire return intervals from the military trainings.  The high fire-return interval (1-3 years) needed to support viable populations can be difficult to maintain long-term due to fluctuations in funding and personnel.  Other threats include habitat destruction due to development and an increase in the urban-wildlife interface that results in fire suppression.  However, since effective management techniques (i.e. fire prescription) are known and the species occurs in a wide-ranging habitat (longleaf pine savannas and flatwoods), restoration can be achieved with the right management regime, giving American chaffseed a high recovery potential.
 
-## Recovery Plan
+## Recovery plan
 
 American chaffseed was listed as an endangered species under the Endangered Species Act in 1992.  [Download the recovery plan](http://ecos.fws.gov/docs/recovery_plan/950929c.pdf).
 
-### Actions Needed for Recovery
+### Actions needed for recovery
 
-  - Protect existing populations and manage habitat with a high fire return interval (1-3 years).  
-  - Reintroduce American chaffseed into the northern and southern portion of the current range.  
-  - Conduct research to determine species life history traits such as germination ecology.  
-  - Determine if mowing can effectively serve as a surrogate for fire in populations that cannot be adequately managed with fire.   
-  - Seek opportunities to include American chaffseed protection into Safe Harbor Agreements or Habitat Conservation Plans developed for red cockaded-woodpecker where the species co-exist.
+- Protect existing populations and manage habitat with a high fire return interval (1-3 years).  
+- Reintroduce American chaffseed into the northern and southern portion of the current range.  
+- Conduct research to determine species life history traits such as germination ecology.  
+- Determine if mowing can effectively serve as a surrogate for fire in populations that cannot be adequately managed with fire.   
+- Seek opportunities to include American chaffseed protection into Safe Harbor Agreements or Habitat Conservation Plans developed for red cockaded-woodpecker where the species co-exist.
 
-## Partnerships, Research and Projects 
+## Partnerships, research and projects
 
-The Service works with federal, state, academic and non-profit organizations and private landowners across the southeastern United States to conserve American chaffseed. 
+The Service works with federal, state, academic and non-profit organizations and private landowners across the southeastern United States to conserve American chaffseed.
 
 {{< figure class="photo-center" src="/images/pages/american-chaffseed-ex-situ-plants.jpg" alt="Dozens of small plants in circular canisters for propagation." caption="The South Carolina Botanical Garden is safeguarding American chaffseed populations ex situ (off-site) and will help with future reintroduction efforts in South Carolina. Photo by Patrick McMillan, Clemson University." >}}
 
@@ -134,9 +134,9 @@ The South Carolina Department of Natural Resources (SCDNR) [has worked hard](htt
 
 Due to the decline of American chaffseed across its range, the [Alabama Plant Conservation Alliance](http://www.auburn.edu/cosam/arboretum/links_resources/apca/index.htm) and [South Carolina Plant Conservation Alliance](https://www.facebook.com/SouthCarolinaPlantConservationAlliance/) have identified American chaffseed as a priority species for conservation.
 
-## How You Can Help
+## How you can help
 
-### Education and Outreach
+### Education and outreach
 
 Education and outreach are powerful recovery tools and could lead to the discovery of new American chaffseed populations.  Agencies and private landowners that manage longleaf pine forests on a frequent fire-return interval (1-3 years) should be aware of the potential for American chaffseed.  
 
@@ -144,30 +144,30 @@ Education and outreach are powerful recovery tools and could lead to the discove
 
 The Service needs more eyes and boots on the ground looking for American chaffseed!  Surveys in some areas where American chaffseed had never been documented before have revealed additional populations.  Several American chaffseed populations were found in powerline rights-of-ways in the 1990s in South Carolina.  The likelihood still exists for undocumented American chaffseed populations persisting in powerline rights-of-ways, along roadsides, or within longleaf pine habitat that is being actively managed with fire within the species historic and current range.  
 
-### Burn, Burn, Burn
+### Burn, burn, burn
 
 For existing populations, the most important thing one could do to help recover American chaffseed is to burn on annual rotation or 1-3 year fire-return interval.  
 
-## Subject Matter Experts 
+## Subject matter experts
 
-  - April Punsalan, Botanist, 843-727-4707 ext. 218, [april_punsalan@fws.gov](mailto:april_punsalan@fws.gov)  
-  - Dale Suiter, Fish and Wildlife Biologist, 919-856-4520 ext. 18, [dale_suiter@fws.gov](mailto:dale_suiter@fws.gov)
+- April Punsalan, Botanist, 843-727-4707 ext. 218, [april_punsalan@fws.gov](mailto:april_punsalan@fws.gov)  
+- Dale Suiter, Fish and Wildlife Biologist, 919-856-4520 ext. 18, [dale_suiter@fws.gov](mailto:dale_suiter@fws.gov)
 
-## Designated Critical Habitat
+## Designated critical habitat
 
 There is no designated critical habitat for the species.
 
-## Other Scientific Resources
+## Other scientific resources
 
-  - [U.S. Fish and Wildlife Service Environmental Conservation Online System Species Profile](https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=Q2I4)
-  - [U.S. Department of Agriculture Natural Resource Conservation Service Plants Database](http://plants.usda.gov/java/profile?symbol=SCAM)
+- [U.S. Fish and Wildlife Service Environmental Conservation Online System Species Profile](https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=Q2I4)
+- [U.S. Department of Agriculture Natural Resource Conservation Service Plants Database](http://plants.usda.gov/java/profile?symbol=SCAM)
 
-##  Historical News
+##  Historic news
 
-  - [Restoration work for the red-cockaded woodpecker (RCW) in southeast Alabama benefits American chaffseed.](http://www.alfrc.org/EnonSehoySummary2005_2011.pdf)
-  - [Jay Kelly gives a presentation on New Jersey ex situ efforts to the Philadelphia Botanical Club.](https://forums.njpinebarrens.com/threads/pbc-event-chaffseed.6084/)
-  - [Species Biology and Life History of the Federally Endangered Schwalbea Americana L. (Scrophulariaceae) by Amy Heather Norden, B.S., Florida State University, 1998](https://getd.libs.uga.edu/pdfs/norden_amy_h_200212_ms.pdf)
+- [Restoration work for the red-cockaded woodpecker (RCW) in southeast Alabama benefits American chaffseed.](http://www.alfrc.org/EnonSehoySummary2005_2011.pdf)
+- [Jay Kelly gives a presentation on New Jersey ex situ efforts to the Philadelphia Botanical Club.](https://forums.njpinebarrens.com/threads/pbc-event-chaffseed.6084/)
+- [Species Biology and Life History of the Federally Endangered Schwalbea Americana L. (Scrophulariaceae) by Amy Heather Norden, B.S., Florida State University, 1998](https://getd.libs.uga.edu/pdfs/norden_amy_h_200212_ms.pdf)
 
-## Federal Register Documents
+## Federal Register notices
 
 The following Federal Register documents were automatically gathered by searching the [Federal Register Official API](https://www.federalregister.gov/blog/learn/developers) with this species' scientific name **ordered by relevance**. You can conduct your own search on the [Federal Register website](https://www.federalregister.gov/articles/search).

@@ -19,7 +19,7 @@ hero:
     name: orangefoot-pimpleback.jpg
     alt: 'A brown mussel with orangish brown striations'
     caption: 'An orangefoot pimpleback mussel. Photo by Monte McGregor, Center Mollusk Conservation, Kentucky DFWR.'
-updated: 'May 12th, 2017'
+updated: 'August 23rd, 2018'
 ---
 
 - **Taxon:** [Bivalve](/tag/bivalve)
@@ -27,8 +27,8 @@ updated: 'May 12th, 2017'
 - **Status:** Endangered. Some populations in the French Broad and Holston Rivers are experimental.
 
 {{< scroller-list tag="Orangefoot Pimpleback" section="news" >}}
-
 {{< scroller-list tag="Orangefoot Pimpleback" section="articles" >}}
+{{< scroller-list tag="Orangefoot Pimpleback" section="podcasts" >}}
 
 ## Appearance
 
@@ -42,26 +42,27 @@ This mussel species inhabits medium to large rivers.
 
 Mussels are filter feeders; they mainly eat phytoplankton, zooplankton, and bacteria suspended in the water. By drawing water inside their shells through a siphon, their gills filter out food and take in oxygen.
 
-## Historic Range
+## Historic range
 
 It historically occurred in the Ohio, Cumberland, and Tennessee River systems, including the lower French Broad and Holston Rivers.
 
-## Current Range
+## Current range
 
 The species persists in the lower Ohio, Tennessee, and Cumberland Rivers.
 
-### Counties Where the Species is Present or Believed to Occur
+### Counties where the species is present or believed to occur
 
 - **Alabama**: Colbert and Lauderdale counties
 - **Illinois**: Massac and Pulaski counties
 - **Kentucky**: Ballard, Livingston, Marshall, and McCracken counties
 - **Tennessee**: Anderson, Bedford, Benton, Bledsoe, Blount, Campbell, Cheatman, Claiborne, Davidson, Decatur, Dickson, Giles, Hamilton, Hancock, Hardin, Henderson, Hickman, Houston, Humphreys, Jefferson, Knox, Lewis, Loudon, Macon, Marion, Marshall, Maury, McMinn, McNairy, Meigs, Monroe, Perry, Rhea, Roane Robertson, Rutherford, Sequatchie, Sevier, Smith, Stewart, Sumner, Trousdale, Union, Wayne, Williamson, and Wilson counties
 
-## Conservation Challenges
+## Conservation challenges
 
 The primary threat to this species is impoundment of rivers for flood control, navigation, and hydroelectric power generation. Siltation and pollution of rivers have also contributed to the decline of the orangefoot pimpleback.
 
-## How You Can Help
+## How you can help
+
 - Individuals can do a number of things to help protect mussels, such as:
 - Conserving water to allow more water to remain in streams.
 - Using pesticides responsibly, especially around streams and lakes, to prevent runoff into mussel habitats.
@@ -69,16 +70,17 @@ The primary threat to this species is impoundment of rivers for flood control, n
 - Supporting practices for construction and maintenance of unpaved, rural dirt and gravel roads that minimize erosion and connectivity to our rivers and lakes.
 - Supporting and follow zebra mussel quarantine, inspection, and decontamination programs to prevent the spread of zebra mussels, an invasive species that competes with native mussels.
 
-## Subject Matter Experts
-- **[Leroy Koch](mailto:leroy_koch@fws.gov?subject=Orangefoot+pimpleback+mussel)**, Fish and Wildlife Biologist, Kentucky.
-- **[Bob Butler](mailto:bob_butler@fws.gov?subject=Orangefoot+pimpleback+mussel)**, Fish and Wildlife Biologist, North Carolina.
-- **[Stephanie Chance](mailto:stephanie_chance@fws.gov?subject=Orangefoot+pimpleback+mussel)**, Fish and Wildlife Biologist, Tennessee.
+## Subject matter experts
 
-## Designated Critical Habitat
+- [Leroy Koch](mailto:leroy_koch@fws.gov?subject=Orangefoot+pimpleback+mussel), Fish and Wildlife Biologist, Kentucky.
+- [Bob Butler](mailto:bob_butler@fws.gov?subject=Orangefoot+pimpleback+mussel), Fish and Wildlife Biologist, North Carolina.
+- [Stephanie Chance](mailto:stephanie_chance@fws.gov?subject=Orangefoot+pimpleback+mussel), Fish and Wildlife Biologist, Tennessee.
+
+## Designated critical habitat
 
 No critical habitat is designated for this species.
 
-## Additional Resources
+## Additional resources
 
 - [Mussels and Aquatic Snails, Kentucky Department of Fish and Wildlife Resources](http://fw.ky.gov/Wildlife/Pages/Freshwater-Mussels-and-Aquatic-Snails.aspx): biology and conservation information related to mussels and aquatic snails in Kentucky.
 - [Freshwater Mollusk Society](http://molluskconservation.org/): the Freshwater Mollusk Conservation Society (FMCS) is dedicated to the conservation of and advocacy of freshwater mollusks, North America's most imperiled animals.
@@ -87,6 +89,6 @@ No critical habitat is designated for this species.
 - [Walkerana](http://molluskconservation.org/Walkerana_BackIssues.html) — The Journal of the Freshwater Mollusk Conservation Society
 - [Ellipsiana](http://molluskconservation.org/Ellipsaria-archive.html) — Newsletter of the Freshwater Mollusk Conservation Society
 
-## Federal Register Documents
+## Federal Register notices
 
 The following Federal Register documents were automatically gathered by searching the [Federal Register Official API](https://www.federalregister.gov/blog/learn/developers) with this species' scientific name **ordered by relevance**. You can conduct your own search on the [Federal Register website](https://www.federalregister.gov/articles/search).

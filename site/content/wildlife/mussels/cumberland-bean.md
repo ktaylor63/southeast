@@ -9,17 +9,17 @@ aliases:
     - /species/mussel/cumberland-bean
     - /species/mussels/cumberland-bean
 tags:
-    - Mussel
+    - Alabama
     - 'Endangered Species Act'
     - Kentucky
+    - Mussel
     - 'North Carolina'
-    - Alabama
     - Virginia
 hero:
     name: cumberland-bean.jpg
     alt: 'A small black mussel with brownish yellow striations extends a small white appendage from its shell'
     caption: 'Cumberland bean juveniles reared at the Center for Mollusk Conservation in Frankfort, Kentucky. Photo by Monte McGregor, Center Mollusk Conservation, Kentucky DFWR.'
-updated: 'November 2nd, 2016'
+updated: 'August 23rd, 2018'
 ---
 
 - **Taxon:** Bivalve
@@ -27,8 +27,8 @@ updated: 'November 2nd, 2016'
 - **Status:** Endangered
 
 {{< scroller-list tag="Cumberland Bean" section="news" >}}
-
 {{< scroller-list tag="Cumberland Bean" section="articles" >}}
+{{< scroller-list tag="Cumberland Bean" section="podcasts" >}}
 
 ## Appearance
 
@@ -70,7 +70,7 @@ Remnant populations of the Cumberland bean can still be found in river systems w
 
 For more detailed information on the current range for the Cumberland bean, please see our latest [five-year review](https://ecos.fws.gov/docs/five_year_review/doc3244.pdf) (PDF) for this species.
 
-### Counties Where the Species is Present or Believed to Occur
+### Counties where the species is present or believed to occur
 
 - **Alabama**: Jackson and Marshall
 - **Kentucky**: Jackson, Laurel, McCreary, Pulaski, and Rockcastle
@@ -78,31 +78,31 @@ For more detailed information on the current range for the Cumberland bean, plea
 - **Tennessee**: Clay, Cocke, Cumberland, DeKalb, Fentress, Greene, Hamblen, Hancock, Hawkins, Jefferson, McMinn, Monroe, Morgan, Overton, Pickett, Polk, Putman, Scott, Smith, Sullivan, Washington, and Wilson
 - **Virginia**: Bland, Buchanan, Dickerson, Lee, Norton, Russell, Scott, Smyth, Tazewell, Washington, Wise, and Wythe
 
-
-## Conservation Challenges
+## Conservation challenges
 
 Impoundments, siltation, and pollution are major threats to the Cumberland bean. Acidic mine waste in the Little South Fork, Big South Fork, and Rockcastle River Drainages are known to affect the species.
 
-## How You Can Help
+## How you can help
 
 Individuals can do a number of things to help protect mussels, such as:
+
 - Conserving water to allow more water to remain in streams.
 - Using pesticides responsibly, especially around streams and lakes, to prevent runoff into mussel habitats.
 - Controlling soil erosion by planting trees and plants to avoid runoff of sediments into freshwater areas.
 - Supporting practices for construction and maintenance of unpaved, rural dirt and gravel roads that minimize erosion and connectivity to our rivers and lakes.
 - Supporting and follow zebra mussel quarantine, inspection, and decontamination programs to prevent the spread of zebra mussels, an invasive species that competes with native mussels.
 
-## Subject Matter Experts
+## Subject matter experts
 
-- **[Leroy Koch](mailto:leroy_koch@fws.gov?subject=Cumberland+bean)**, Fish and Wildlife Biologist, Kentucky.
-- **[Bob Butler](mailto:bob_butler@fws.gov?subject=Cumberland+bean)**, Fish and Wildlife Biologist, North Carolina.
-- **[Stephanie Chance](mailto:stephanie_chance@fws.gov?subject=Cumberland+bean)**, Fish and Wildlife Biologist, Tennessee.
+- [Leroy Koch](mailto:leroy_koch@fws.gov?subject=Cumberland+bean), Fish and Wildlife Biologist, Kentucky.
+- [Bob Butler](mailto:bob_butler@fws.gov?subject=Cumberland+bean), Fish and Wildlife Biologist, North Carolina.
+- [Stephanie Chance](mailto:stephanie_chance@fws.gov?subject=Cumberland+bean), Fish and Wildlife Biologist, Tennessee.
 
-## Designated Critical Habitat
+## Designated critical habitat
 
 No critical habitat is designated for this species.
 
-## Additional Resources
+## Additional resources
 
 - [Mussels and Aquatic Snails, Kentucky Department of Fish and Wildlife Resources](http://fw.ky.gov/Wildlife/Pages/Freshwater-Mussels-and-Aquatic-Snails.aspx): biology and conservation information related to mussels and aquatic snails in Kentucky.
 - [Freshwater Mollusk Society](http://molluskconservation.org/): the Freshwater Mollusk Conservation Society (FMCS) is dedicated to the conservation of and advocacy of freshwater mollusks, North America's most imperiled animals.
@@ -111,6 +111,6 @@ No critical habitat is designated for this species.
 - [Walkerana](http://molluskconservation.org/Walkerana_BackIssues.html) — The Journal of the Freshwater Mollusk Conservation Society
 - [Ellipsiana](http://molluskconservation.org/Ellipsaria-archive.html) — Newsletter of the Freshwater Mollusk Conservation Society
 
-## Federal Register Documents
+## Federal Register notices
 
 The following Federal Register documents were automatically gathered by searching the [Federal Register Official API](https://www.federalregister.gov/blog/learn/developers) with this species' scientific name **ordered by relevance**. You can conduct your own search on the [Federal Register website](https://www.federalregister.gov/articles/search).

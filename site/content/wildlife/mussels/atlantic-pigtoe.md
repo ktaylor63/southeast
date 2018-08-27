@@ -19,7 +19,7 @@ hero:
     name: atlantic-pigtoe-ready-for-release.jpg
     alt: 'Seven small brownish-yellow mussels held in open hands by a biologist.'
     caption: 'Atlantic pigtoes ready for release. Photo by USFWS.'
-updated: 'August 10th, 2017'
+updated: 'August 23rd, 2018'
 ---
 
 - **Taxon:** Freshwater mussel
@@ -27,8 +27,8 @@ updated: 'August 10th, 2017'
 - **Status:** At-Risk Species
 
 {{< scroller-list tag="Atlantic Pigtoe" section="news" >}}
-
 {{< scroller-list tag="Atlantic Pigtoe" section="articles" >}}
+{{< scroller-list tag="Atlantic Pigtoe" section="podcasts" >}}
 
 ## Appearance
 
@@ -54,122 +54,122 @@ Freshwater mussels are living filters, known as suspension feeders because they 
 
 ## Historic range
 
-This species originally ranged from the James and Chowan River basins in Virginia, the Roanoke, Tar, Neuse, Cape Fear, Pee Dee, and Catawba River basins in North Carolina, the Edisto River Basin in South Carolina, and the Savannah, Ogeechee, and Altamaha River basins in Georgia. 
+This species originally ranged from the James and Chowan River basins in Virginia, the Roanoke, Tar, Neuse, Cape Fear, Pee Dee, and Catawba River basins in North Carolina, the Edisto River Basin in South Carolina, and the Savannah, Ogeechee, and Altamaha River basins in Georgia.
 
 ### Counties where the species has been known to occur
 
 #### Virginia
 
-  - Augusta
-  - Greene
-  - Albemarle
-  - Bath
-  - Rockbridge
-  - Fluvanna
-  - Amherst
-  - Botetourt
-  - Buckingham
-  - Cumberland
-  - Craig
-  - Appomattox
-  - Giles
-  - Prince Edward
-  - Charlotte
-  - Pittsylvania
-  - Lunenburg
-  - Halifax
-  - Mecklenburg
-  - Henry
-  - Danville
-  - Orange
-  - Goochland
-  - Henrico
-  - Powhatan
-  - Richmond
-  - Nottoway
-  - Dinwiddie
-  - Sussex
-  - Brunswick
-  - Southampton
-  - Greensville
-  - Emporia
+- Augusta
+- Greene
+- Albemarle
+- Bath
+- Rockbridge
+- Fluvanna
+- Amherst
+- Botetourt
+- Buckingham
+- Cumberland
+- Craig
+- Appomattox
+- Giles
+- Prince Edward
+- Charlotte
+- Pittsylvania
+- Lunenburg
+- Halifax
+- Mecklenburg
+- Henry
+- Danville
+- Orange
+- Goochland
+- Henrico
+- Powhatan
+- Richmond
+- Nottoway
+- Dinwiddie
+- Sussex
+- Brunswick
+- Southampton
+- Greensville
+- Emporia
 
 #### North Carolina
 
-  - Vance
-  - Rockingham
-  - Granville
-  - Person
-  - Caswell
-  - Franklin
-  - Forsyth
-  - Orange
-  - Durham
-  - Wake
-  - Davidson
-  - Randolph
-  - Chatham
-  - Johnston
-  - Harnett
-  - Lincoln
-  - Moore
-  - Mecklenburg
-  - Montgomery
-  - Stanly
-  - Gaston
-  - Sampson
-  - Cumberland
-  - Anson
-  - Union
-  - Richmond
-  - Bladen
-  - Northampton
-  - Warren
-  - Halifax
-  - Nash
-  - Edgecombe
-  - Martin
-  - Wilson
-  - Wayne
-  - Beaufort
-  - Pender
+- Vance
+- Rockingham
+- Granville
+- Person
+- Caswell
+- Franklin
+- Forsyth
+- Orange
+- Durham
+- Wake
+- Davidson
+- Randolph
+- Chatham
+- Johnston
+- Harnett
+- Lincoln
+- Moore
+- Mecklenburg
+- Montgomery
+- Stanly
+- Gaston
+- Sampson
+- Cumberland
+- Anson
+- Union
+- Richmond
+- Bladen
+- Northampton
+- Warren
+- Halifax
+- Nash
+- Edgecombe
+- Martin
+- Wilson
+- Wayne
+- Beaufort
+- Pender
 
 #### South Carolina
 
-  - York
-  - Chesterfield
-  - Edgefield
-  - Aiken
-  - Dorchester
-  - Charleston
-  - Colleton
+- York
+- Chesterfield
+- Edgefield
+- Aiken
+- Dorchester
+- Charleston
+- Colleton
  
 #### Georgia
 
-  - Greene
-  - Taliaferro
-  - Columbia
-  - Warren
-  - Richmond
-  - Hancock
-  - Glascock
-  - Jefferson
-  - Burke
-  - Washington
-  - Screven
-  - Jenkins
-  - Emanuel
-  - Johnson
-  - Bulloch
-  - Effingham
-  - Toombs
-  - Montgomery
-  - Wheeler
-  - Telfair
-  - Jeff Davis
-  - Appling
-  - Ben Hill
-  - Coffee
+- Greene
+- Taliaferro
+- Columbia
+- Warren
+- Richmond
+- Hancock
+- Glascock
+- Jefferson
+- Burke
+- Washington
+- Screven
+- Jenkins
+- Emanuel
+- Johnson
+- Bulloch
+- Effingham
+- Toombs
+- Montgomery
+- Wheeler
+- Telfair
+- Jeff Davis
+- Appling
+- Ben Hill
+- Coffee
 
 ## Current range
 
@@ -181,7 +181,7 @@ The Atlantic pigtoe can be found today in seven of 12 river basins the mussel us
 
 ### Pollution
 
-Adult mussels are easily harmed by toxins and declines in water quality from pollution because they stay in one place. Pollution may come from specific, identifiable sources such as factories, sewage treatment plants and solid waste disposal sites or from diffuse sources (non-point pollution sources) like runoff from cultivated fields, pastures, cattle feedlots, poultry farms, mines, construction sites, private wastewater discharges, and road drainage. Pollutants can cause changes in water chemistry that seriously impact aquatic species by reducing water quality and may directly kill mussels, reduce the ability of surviving mussels to have young, or result in poor health or disappearance of host fish.  A 2003 study revealed that levels of ammonia far below EPA maximum allowed concentrations caused the death of glochidia after only 24 hours of exposure, which led to a change in allowable ammonia concentrations in surface waters. 
+Adult mussels are easily harmed by toxins and declines in water quality from pollution because they stay in one place. Pollution may come from specific, identifiable sources such as factories, sewage treatment plants and solid waste disposal sites or from diffuse sources (non-point pollution sources) like runoff from cultivated fields, pastures, cattle feedlots, poultry farms, mines, construction sites, private wastewater discharges, and road drainage. Pollutants can cause changes in water chemistry that seriously impact aquatic species by reducing water quality and may directly kill mussels, reduce the ability of surviving mussels to have young, or result in poor health or disappearance of host fish.  A 2003 study revealed that levels of ammonia far below EPA maximum allowed concentrations caused the death of glochidia after only 24 hours of exposure, which led to a change in allowable ammonia concentrations in surface waters.
 
 ### Sedimentation
 
@@ -190,24 +190,24 @@ Sediment is material suspended in water that usually is moved as the result of e
 ### Dams
 
 Dams affect both upstream and downstream mussel populations by disrupting natural flow patterns, scouring river bottoms, changing water temperatures, and eliminating habitat. The Atlantic pigtoe, a mussel adapted to living in river currents, cannot survive in the still water impounded behind dams.
- 
+
 Atlantic pigtoe also depend on their host fish as a means of moving upstream. Because dams are barriers that prevent fish from moving upstream, they prevent mussels from moving upstream. Upstream mussel populations then become isolated from downstream populations. This isolation leads to small, unstable populations that are more likely to die out.
 
-## How You Can Help
+## How you can help
 
-  - Individuals can do a number of things to help protect freshwater species, including: 
-  - Conserving water to allow more water to remain in streams.
-  - Using pesticides responsibly (especially around streams and lakes) to prevent runoff into mussel habitats.
-  - Controlling soil erosion by planting trees and plants to avoid runoff of sediments into freshwater areas. 
-  - If you live near a stream, be careful not to disturb the stream bottom; you may be damaging a freshwater mussel’s home.
-  - Don’t pick up any mussels that you may see in a stream. It may be one of the last few members of its species on the planet. 
-  - Help your family find ways to reduce the amount of chemicals that you pour down the drain in your home or use on your lawn or garden.
-  - Check to see if the water draining off your roof or driveway flushes directly into a stream. Plant a garden to catch the water before it enters the stream. The garden will act like a filter and help purify the water.
-  - Recycle as much as you can to reduce the amount of waste you place in the garbage. 
-  - Support conservation efforts that protect these unique animals and the habitats they live in. 
-  - Become a biologist and discover new ways to help protect freshwater mussels and other wildlife.
-  - Learn more about how the destruction of habitat leads to loss of endangered and threatened species and our nation’s plant and animal diversity. Discuss with others what you have learned.
-  - Support local and state initiatives for watershed and water quality protection and improvement.
+- Individuals can do a number of things to help protect freshwater species, including: 
+- Conserving water to allow more water to remain in streams.
+- Using pesticides responsibly (especially around streams and lakes) to prevent runoff into mussel habitats.
+- Controlling soil erosion by planting trees and plants to avoid runoff of sediments into freshwater areas. 
+- If you live near a stream, be careful not to disturb the stream bottom; you may be damaging a freshwater mussel’s home.
+- Don’t pick up any mussels that you may see in a stream. It may be one of the last few members of its species on the planet. 
+- Help your family find ways to reduce the amount of chemicals that you pour down the drain in your home or use on your lawn or garden.
+- Check to see if the water draining off your roof or driveway flushes directly into a stream. Plant a garden to catch the water before it enters the stream. The garden will act like a filter and help purify the water.
+- Recycle as much as you can to reduce the amount of waste you place in the garbage. 
+- Support conservation efforts that protect these unique animals and the habitats they live in. 
+- Become a biologist and discover new ways to help protect freshwater mussels and other wildlife.
+- Learn more about how the destruction of habitat leads to loss of endangered and threatened species and our nation’s plant and animal diversity. Discuss with others what you have learned.
+- Support local and state initiatives for watershed and water quality protection and improvement.
 
 ## Additional resources
 
@@ -217,6 +217,6 @@ Atlantic pigtoe also depend on their host fish as a means of moving upstream. Be
   - [Georgia DNR factsheet](http://georgiawildlife.com/sites/default/files/wrd/pdf/fact-sheets/atlantic_pigtoe_2008.pdf)
   - [Freshwater mussel activity book and learning resource](http://www.aeclab.org/modules/info/files/files_4c7572d0c81cf.pdf)
 
-## Federal Register Documents
+## Federal Register notices
 
 The following Federal Register documents were automatically gathered by searching the [Federal Register Official API](https://www.federalregister.gov/blog/learn/developers) with this species' scientific name **ordered by relevance**. You can conduct your own search on the [Federal Register website](https://www.federalregister.gov/articles/search).
