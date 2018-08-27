@@ -24,10 +24,6 @@ updated: 'August 23rd, 2018'
 
 The Asheville ecological services field office was established in the late 1970s.
 
-{{< scroller-list tag="Asheville Ecological Services Field Office" section="news" >}}
-{{< scroller-list tag="Asheville Ecological Services Field Office" section="articles" >}}
-{{< scroller-list tag="Asheville Ecological Services Field Office" section="wildlife" >}}
-
 ## Service area
 
 Forty-one counties make up the Asheville ecological services field office core work area in western North Carolina, which includes many publicly owned conservation lands, especially in the higher elevations, as well as the metropolitan areas of Charlotte, Winston Salem, and Asheville. This area primarily encompasses portions of the Blue Ridge and Piedmont physiographic provinces. In addition to our core work area, the responsibilities of certain staff members extend beyond its boundaries and into adjacent states and other Service regions.

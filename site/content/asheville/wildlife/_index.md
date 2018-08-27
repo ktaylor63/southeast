@@ -3,11 +3,11 @@ draft: true
 title: Wildlife
 description: 'Wildlife at Asheville Ecological Services Field Office.'
 hero:
-    name: mountain-golden-heather.jpg
-    alt: 'A low-growing shrub on a rocket mountain with bright yellow flowers.'
-    caption: 'Mountain golden heather near Linville Gorge. <a href="https://flic.kr/p/uB8YQe">Photo</a> by Gary Peeples, USFWS.'
-    link: 'https://flic.kr/p/uB8YQe'
-    position: '75% 15%'
+    name: rainbow-trout-angler.jpg
+    alt: 'A colorful trout in hand with a smiling angler in the background.'
+    caption: 'Beautiful rainbow trout. <a href="https://flic.kr/p/8QET9A">Photo</a> by <a href="https://www.flickr.com/photos/palmit/">Cale Bruckner</a>, <a href="https://creativecommons.org/licenses/by-nc/2.0/">CC BY-NC 2.0</a>.'
+    link: 'https://flic.kr/p/8QET9A'
+    position: '75% 40%'
 query: 'Asheville Ecological Services Field Office'
 section: wildlife
 type: field-station
