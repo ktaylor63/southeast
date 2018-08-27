@@ -6,15 +6,15 @@ hero:
     caption: 'Threatened rabbitsfoot mussel. Photo by Bob Butler, USFWS.'
 date: '2013-05-08'
 tags:
-    - 'Critical Habitat'
-    - 'Neosho mucket'
-    - Rabbitsfoot
     - Alabama
     - Arkansas
-    - Mississippi
+    - 'Critical Habitat'
     - Kentucky
+    - Mississippi
+    - 'Neosho Mucket'
+    - Rabbitsfoot
     - Tennessee
-updated: 'October 21st, 2016'
+updated: 'August 27th, 2018'
 ---
 
 The U.S. Fish and Wildlife Service is releasing the estimated cost and economic impacts and draft environmental assessment of the proposed critical habitat designation of two freshwater mussels, and is seeking public comment.
@@ -27,7 +27,7 @@ The majority of these costs are administrative and may be borne by federal and s
 
 Critical habitat refers to specific geographic areas that are essential to the conservation of a threatened or endangered species.  The designation of critical habitat will help ensure that federal agencies and the public are aware of the mussels' habitat needs and proper consultation is conducted by federal agencies when required by law.  A critical habitat designation does not set up a preserve or refuge and only applies to situations where federal funding or a federal permit is involved. It does not allow government or public access to private land. Federal agencies that undertake, fund, or permit activities that may affect critical habitat are required to consult with the Service to ensure such actions do not adversely modify or destroy designated critical habitat.
 
-Seventy-two miles, or four percent of the proposed critical habitat, is currently already designated critical habitat for two other species (yellowcheek darter and oyster mussel - now called the Duck River dartersnapper). 
+Seventy-two miles, or four percent of the proposed critical habitat, is currently already designated critical habitat for two other species (yellowcheek darter and oyster mussel - now called the Duck River dartersnapper).
 
 The Service has completed a draft environmental assessment of the proposed critical habitat designation, as required under the National Environmental Policy Act.  The draft environmental assessment found the preferred alternative of designating critical habitat for the Neosho mucket and rabbitsfoot at the 43 proposed locations would not have significant impacts to people or their activities.   More details on the methods used to assess impacts to the human environment are available in the draft environmental assessment.
 
