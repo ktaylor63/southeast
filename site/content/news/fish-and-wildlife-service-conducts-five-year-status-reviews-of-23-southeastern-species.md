@@ -3,21 +3,36 @@ title: 'Fish and Wildlife Service conducts five-year status reviews of 23 Southe
 date: '2009-06-06'
 tags:
     - Alabama
+    - 'Alabama Sturgeon'
+    - 'Amber Darter'
+    - 'Anthonys Riversnail'
     - Arkansas
-    - Asheville Ecological Service Field Office
+    - 'Asheville Ecological Service Field Office'
+    - 'Bluemask Darter'
+    - 'Bunched Arrowhead'
+    - 'Cahaba Shiner'
+    - 'Cape Fear Shiner'
+    - 'Caribbean Ecological Services Field Office'
+    - 'Etowah Darter'
     - 'Five Year Review'
     - Georgia
     - Mississippi
+    - 'Mississippi Gopher Frog'
+    - 'Mountain Sweet Pitcher Plant'
     - 'North Carolina'
+    - 'Saint Francis Satyr Butterfly'
+    - 'Spring Creek Bladderpod'
+    - 'Tar River Spinymussel'
     - 'Tar River Spinymussel'
     - Tennessee
-    - Caribbean Ecological Services Field Office
+    - 'Tennessee Yellow-Eyed Grass'
+    - 'White Irisette'
 hero:
     name: etowah-darter.jpg
     alt: 'A small brown fish caught in a stream sitting in a plastic bin for measurement.'
     link: 'https://flic.kr/p/8SkfaF'
     caption: 'Endangered Etowah darter. Photo by USFWS.'
-updated: 'September 19th, 2017'
+updated: 'August 27th, 2018'
 ---
 
 The Service [plans to conduct five-year status reviews](http://www.fws.gov/policy/library/E9-15918.html) of 15 endangered and 8 threatened species occurring in one or more of 10 states.
