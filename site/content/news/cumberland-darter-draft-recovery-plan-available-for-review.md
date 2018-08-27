@@ -1,21 +1,21 @@
 ---
-title: Cumberland darter draft recovery plan available for review
-date: 2018-04-02
+title: 'Cumberland darter draft recovery plan available for review'
+date: 2018-04-02T00:00:00.000Z
 hero:
     name: cumberland-darter.jpg
     alt: 'A small, straw-yellow colored fish with brown markings'
     caption: 'Photo by Jeremy Shute, Conservation Fisheries, Inc.'
     position: 'left bottom'
 tags:
-  - Cumberland Darter
-  - Endangered Species Act
-  - Recovery
-  - Recovery Plan
-  - Fish
-  - Kentucky
-  - Tennessee
-  - Tennessee Ecological Services Field Office
-updated: April 2nd, 2018
+    - 'Cumberland Darter'
+    - 'Endangered Species Act'
+    - Fish
+    - Kentucky
+    - Recovery
+    - 'Recovery Plan'
+    - Tennessee
+    - 'Tennessee Ecological Services Field Office'
+updated: 'August 24th, 2018'
 ---
 
 The [Cumberland darter](/wildlife/fishes/cumberland-darter/) is a pencil-sized fish that lives in the Upper Cumberland River Basin in Kentucky and Tennessee. It is endangered and protected under the [Endangered Species Act](/endangered-species-act) (ESA).
