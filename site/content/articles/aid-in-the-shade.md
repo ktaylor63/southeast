@@ -3,7 +3,7 @@ title: 'Aid in the shade'
 subtitle: 'Partners for Fish and Wildlife works with Puerto Rican plantation to benefit endangered species and make a good cup of coffee'
 author: 'Phil Kloer, Public Affairs Specialist'
 date: 2018-08-09T00:00:00.000Z
-type: 'feature'
+type: feature
 hero:
     name: coffee-plantation-after-maria-post-restoration.jpg
     alt: 'A hillside with debris and trees snapped in half like twigs.'
@@ -22,7 +22,7 @@ tags:
     - 'Puerto Rico'
     - 'Shade Grown Coffee'
     - 'Sharp-Shinned Hawk'
-updated: 'August 9th, 2018'
+updated: 'August 24th, 2018'
 ---
 
 In September 2017, Puerto Rico was already reeling from Hurricane Irma, which had doused it with torrential rains and caused widespread damage. Then, two weeks later, Hurricane Maria roared through, killing hundreds of residents, wiping out buildings, entire landscapes of vegetation, and practically the entire electrical grid. It was the worst natural disaster on record for the U.S. commonwealth island, which is still recovering from the Category 4 storm.
