@@ -28,7 +28,7 @@ tags:
     - 'Sheffield Wildlife Management Area'
     - 'Silver Comet Trail'
     - 'White-Tailed Deer'
-updated: 'April 30th, 2018'
+updated: 'August 27th, 2018'
 ---
 
 **Braswell, Georgia** -- It was 1946, a cold night in the Blue Ridge mountains, and the six frustrated deer hunters hunkered down in a glade as the wind howled. Two days spent scrambling over the hills had flushed but one doe. The annual hunt was no longer worth the long drive from Paulding County outside Atlanta.
@@ -39,7 +39,7 @@ His buddies thought him crazy. Locals would “shoot ‘em before they could be 
 
 Corley, though, ultimately convinced his friends and dozens of other Paulding County farmers, townsfolk and government officials that a hunting reserve would work. They raised $1,400, created a “conservation club,” pooled 12,000 of their own acres and made everybody promise not to hunt the land for five years.
 
-Twenty deer (imported from South Carolina) soon bounded into the hills of northwest Paulding County, author Charles Elliott wrote. One-hundred wild turkey eggs and 20,000 fingerling rainbow trout were added and -- just like that -- a brand new wildlife reserve was created.
+Twenty deer (imported from South Carolina) soon bounded into the hills of northwest Paulding County, author Charles Elliott wrote. One-hundred wild turkey eggs and 20,000 fingerling rainbow trout were added and &mdash; just like that &mdash; a brand new wildlife reserve was created.
 
 {{< figure class="photo-right" src="/images/pages/racoon-creek.jpg" alt="A small stream with overhanging tree limbs." caption="A little-known fishing hole along Raccoon Creek. Photo by Dan Chapman, USFWS." >}}
 
