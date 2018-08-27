@@ -10,7 +10,8 @@ tags:
     - 'Laurel Dace'
     - Recovery
     - Tennessee
-updated: 'March 21st, 2017'
+    - 'Tennessee Ecological Services Field Office'
+updated: 'August 24th, 2018'
 ---
 
 The U.S. Fish and Wildlife Service is seeking public comment on the [Technical/Agency Draft Recovery Plan for the laurel dace](http://www.fws.gov/southeast/news/2015/20150114_Laurel-Dace-Recovery-Plan.pdf), a federally listed, endangered fish.  Public comments will be accepted on this draft recovery plan until March 16, 2015.

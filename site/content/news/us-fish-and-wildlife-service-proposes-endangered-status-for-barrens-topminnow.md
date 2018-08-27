@@ -16,9 +16,9 @@ tags:
     - Recovery
     - 'Species Status Assessment'
     - Tennessee
+    - 'Tennessee Ecological Services Field Office'
     - 'Tennessee National Wildlife Refuge'
-    - Tennessee Ecological Services Field Office
-updated: 'January 3rd, 2018'
+updated: 'August 24th, 2018'
 ---
 
 The Barrens Plateau is home to a beautiful, iridescent fish that rarely grows longer than four inches and is found in only a few creeks and springs in four Tennessee counties. That little fish is now in trouble, and the U.S. Fish and Wildlife Service is proposing to help protect it as an endangered species under the [Endangered Species Act](/endangered-species-act) (ESA).

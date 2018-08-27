@@ -2,17 +2,17 @@
 title: 'Recovery plan available for endangered laurel dace'
 date: '2016-11-10'
 tags:
-    - Tennessee
+    - 'Endangered Species Act'
     - 'Laurel Dace'
-    - Tennessee Ecological Services Field Office
-    - Endangered Species Act
     - Recovery
+    - Tennessee
+    - 'Tennessee Ecological Services Field Office'
 hero:
     name: laurel-dace-habitat.jpg
     alt: 'A sloped, rocky stream in winter.'
     link: 'https://flic.kr/p/BAqg4'
     caption: 'Stream in Rhea, TN. Photo by <a href=\"https://www.flickr.com/photos/79666107@N00/\">Chris Morris</a> <a href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY 2.0.</a>'
-updated: 'November 10th, 2016'
+updated: 'August 24th, 2018'
 ---
 
 The U.S. Fish and Wildlife Service is announcing the final Recovery Plan for the laurel dace, a federally listed endangered fish.
