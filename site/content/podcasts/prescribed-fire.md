@@ -11,12 +11,13 @@ hero:
     link: 'https://flic.kr/p/oiYTik'
 tags:
     - 'Asheville Ecological Services Field Office'
+    - 'Green Pitcher Plant'
     - 'Hellers Blazing Star'
     - 'North Carolina'
     - Podcast
     - 'Prescribed Fire'
     - 'Southern Appalachian Creature Feature'
-updated: 'August 8th, 2018'
+updated: 'August 27th, 2018'
 ---
 
 ## Transcript
