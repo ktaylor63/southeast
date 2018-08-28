@@ -15,18 +15,11 @@ tags:
 updated: 'August 23rd, 2018'
 ---
 
-The Warm Springs National Fish Hatchery offers several opportunities for your family or class to enjoy nature and get outdoors. Throughout the year, we provide events including Kids Fish for Fun (June) and an open house (September). Come visit our facility and enjoy a hike on our nature trail, bird watching, view wildlife in our display ponds, and learn about fish and wildlife in our public aquarium.
-
-## Biologist in training program
-
-The hatchery is presenting an exciting new program that offers children a chance to interact with fish and their aquatic habitats. The [Biologist-in-Training](/biologist-in-training/) (BiT) program is an environmental education curriculum that utilizes national fish hatcheries and streams, lakes, ponds and rivers as outdoor classrooms.
+The Warm Springs National Fish Hatchery offers several opportunities for your family or class to enjoy nature and get outdoors. Throughout the year, we provide events including Kids Fish for Fun in June and an open house in October. Come visit our facility and enjoy a hike on our nature trail, bird watching, view wildlife in our display ponds, and learn about fish and wildlife in our public aquarium.
 
 ## Scout troops
-The hatchery also offers scout troops an opportunity to earn patches and learn about fish and wildlife. We will work with scout troops to help achieve their goals of volunteer service. A new opportunity to earn patches is offered by [Take Me Fishing](https://www.takemefishing.org/) and three new patches are available for scouts to earn:
 
-- Passport Patch- introduction to fishing and boating for scouts ages 6 to 11
-- First Catch Patch- real-life fishing trip for scouts ages 6 to 11
-- Mentor Patch- mentor newcomers to fishing for scouts ages 12 to 17
+Please contact the hatchery to coordinate so that we can help your troop achieve your goals of volunteer service.
 
 ## Additional resources
 
