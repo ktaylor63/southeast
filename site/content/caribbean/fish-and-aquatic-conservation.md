@@ -12,7 +12,7 @@ hero:
 tags:
     - 'Fish and Aquatic Conservation'
     - Fisheries
-updated: 'June 19th, 2018'
+updated: 'August 27th, 2018'
 ---
 
 The U.S. Fish and Wildlife Service’s Fish and Aquatic Conservation (FAC) Initiative in the Caribbean focuses on the conservation, restoration and enhancement of aquatic habitats. The initiative’s projects a benefit focal native species by augmenting the species abundance and available habitat, and maintaining stable populations and habitat suitability. These actions also benefit public health, safety and recreation.
@@ -31,8 +31,11 @@ The Caribbean Ecological Services Office includes Puerto Rico and the U. S. Virg
 ## More information
 
 - [Caribbean Fish and Aquatic Conservation Initiative](/pdf/fact-sheet/caribbean-fish-and-aquatic-conservation-initiative.pdf)
+- [Iniciativa de Pesca y Conservación de Hábitat Acuático en el Caribe](/pdf/fact-sheet/fish-and-aquatic-conservation-spanish.pdf)
 - [Caribbean freshwater fish fact sheet](/pdf/fact-sheet/caribbean-freshwater-fish.pdf)
+- [Peces de Agua Dulce del Caribe](fact-sheet/caribbean-fish-spanish.pdf)
 - [Caribbean freshwater crustaceans fact sheet](/pdf/fact-sheet/caribbean-freshwater-crustaceans.pdf)
+- [Crustáceos de Agua Dulce del Caribe](fact-sheet/caribbean-crustaceans-spanish.pdf)
 - [National Fish and Aquatic Conservation Program website](https://www.fws.gov/fisheries/)
 
 ## Related partnerships

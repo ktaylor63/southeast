@@ -23,10 +23,6 @@ The Caribbean Ecological Services Field Office was established in 1974. We striv
 
 The field office emphasizes an ecosystem approach incorporating Strategic Habitat Conservation to address and prioritize habitat issues through partnerships with other federal, state and local agencies, conservation organizations, private landowners, and citizens to achieve the greatest possible benefits to fish and wildlife. We promote healthy wildlife and their habitat through a diverse group of programs: Endangered Species, Partners for Fish and Wildlife, Contaminants Program, Coastal Program and Project Evaluation.
 
-{{< scroller-list tag="Caribbean Ecological Services Field Office" section="news" >}}
-{{< scroller-list tag="Caribbean Ecological Services Field Office" section="articles" >}}
-{{< scroller-list tag="Caribbean Ecological Services Field Office" section="wildlife" >}}
-
 ## Station goals
 
 - Promote strategic conservation to protect, conserve and enhance wildlife and ecosystems
