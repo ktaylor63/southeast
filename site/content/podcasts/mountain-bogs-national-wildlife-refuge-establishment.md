@@ -12,11 +12,16 @@ hero:
     position: 'bottom center'
 tags:
     - 'Asheville Ecological Services Field Office'
+    - 'Bog Turtle'
+    - 'Bunched Arrowhead'
+    - 'Green Pitcher Plant'
     - 'Mountain Bogs National Wildlife Refuge'
+    - 'Mountain Sweet Pitcher Plant'
     - 'North Carolina'
     - Podcast
     - 'Southern Appalachian Creature Feature'
-updated: 'August 8th, 2018'
+    - 'Swamp Pink'
+updated: 'August 27th, 2018'
 ---
 
 ## Transcript
