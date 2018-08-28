@@ -19,13 +19,13 @@ National fish hatcheries play an important role in managing and restoring Americ
 
 {{< youtube id="7Br3eQMJw0Q" title="Producing trout at Wolf Creek National Fish Hatchery in Jamestown, Kentucky.">}}
 
-## Broodstock Hatcheries
+## Broodstock hatcheries
 
 The majority of national fish hatcheries across the Southeast region do not typically keep adult fish for breeding purposes. Instead, a select few broodstock hatcheries produce and provide disease-free, fertilized fish eggs to federal, state, and tribal hatcheries to support their fishery management efforts. Broodstock hatcheries also provide eggs to research centers, classrooms, and universities. While producing millions of eggs annually these facilities focus on preserving genetic diversity to support healthy populations of fish into the future. A small number of eggs produced in broodstock hatcheries are hatched and reared on site so the facility can continue to produce eggs year in and year out.
 
 [Learn more about broodstock from Erwin National Fish Hatchery](https://www.fws.gov/erwin/aboutus.html).
 
-## Mitigation of Federal Water Development Projects
+## Mitigation of federal water development projects
 
 Federal water development projects, such as Army Corps of Engineers (COE) and Tennessee Valley Authority (TVA) dams provide benefits to people including energy production, recreational opportunities, and flood control. Water releases from the operation of these dams create cold tailwaters, which can have unintended impacts on native fish species and their habitat. Water temperatures of large reservoirs stratify near the dam and forms layers of warm, cool, and cold water.
 
@@ -35,7 +35,7 @@ In summer months, heat from the sun reaches the reservoir and warms the upper la
 
 {{< figure class="photo-center" src="/images/pages/wolf-creek-stocking.jpg" alt="Large number of visitors of all ages crowd around a stream with fishing gear." caption="Stocking Hatchery Creek at Wolf Creek National Fish Hatchery. Photo by Alex Hoover, USFWS." link="https://flic.kr/p/89eH6p" >}}
 
-## Coldwater Fish Culture
+## Coldwater fish culture
 
 {{< figure class="photo-right" src="/images/pages/emerging-fry.jpg" alt="A tiny, translucent fish emerges from an egg." caption="A sac fry emerging from an egg. Photo by Sherri Shoults, USFWS." >}}
 
