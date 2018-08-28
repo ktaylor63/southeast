@@ -13,7 +13,7 @@ aliases:
     - /species/amphibians/coqui-guajon
 tags:
     - Amphibian
-    - Caribbean
+    - 'Caribbean Ecological Services Field Office'
     - 'Endangered Species Act'
     - 'Puerto Rico'
 hero:
@@ -22,7 +22,7 @@ hero:
     alt: 'A brownish peach colored frog with big round eyes'
     caption: 'A female frog on a tree branch. Photo by JP Zegarra, USFWS.'
 description: 'The Puerto Rican rock frog is known by several names: Puerto Rican cave frog, guajón, and the Puerto Rican demon. It is found exclusively in southeastern Puerto Rico.'
-updated: 'August 23rd, 2018'
+updated: 'August 27th, 2018'
 ---
 
 - **Taxon:** Amphibian
