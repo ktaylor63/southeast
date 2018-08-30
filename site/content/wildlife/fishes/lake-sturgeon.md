@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 'Lake sturgeon'
 scientific: 'Acipenser fulvescens'
 type: species-profile
