@@ -12,6 +12,7 @@ hero:
     name: pvt-john-allen-alligator-gar.jpg
     alt: 'Three biologists work together to lift a large grey fish with an alligator-like snout.'
     caption: 'Kayla Kimmel, Cory Gullett and Brady Barr holding a nice alligator gar. Photo by Richard Campbell, USFWS.'
+    position: '50% 90%'
 facebook: pvtjohnallennfh
 nav: Home
 weight: 1
@@ -19,10 +20,10 @@ office: 'Pvt. John Allen National Fish Hatchery'
 js: /js/field-station.js
 url: /private-john-allen
 type: field-station
-updated: 'January 5th, 2018'
+updated: 'August 30th, 2018'
 ---
 
-Private John Allen National Fish Hatchery is a warmwater hatchery established in Tupelo, Mississippi, in 1901.  The hatchery is named after the Congressional  representative who appealed to the Congress in his famous ‘hatchery speech’: “Fish will travel overland for miles to get into the water we have at Tupelo . . . thousands and millions of unborn fish are clamoring to this Congress today for an opportunity to be hatched at the Tupelo hatchery.”
+Private John Allen National Fish Hatchery is a warmwater hatchery established in Tupelo, Mississippi, in 1901.  The hatchery is named after the Congressional  representative who appealed to the Congress in his famous ‘hatchery speech’: “Fish will travel overland for miles to get into the water we have at Tupelo... thousands and millions of unborn fish are clamoring to this Congress today for an opportunity to be hatched at the Tupelo hatchery.”
 
 Today, quality water helps ensure a quality brood stock of Gulf Coast walleye. Behemoths like paddlefish, alligator gar, and lake sturgeon are cultured here for restoration projects. Striped bass are also produced and stocked as part of a large national restoration effort. The hatchery develops propagation protocols for smaller fish species like darters and madtoms. National wildlife refuges benefit from the thousands of largemouth and bluegill produced and stocked by the hatchery. Private John Allen NFH raises a variety of fish specifically to host the parasitic stage of mussels as part of a multi-hatchery mussel conservation partnership.
 
@@ -30,20 +31,16 @@ Today, quality water helps ensure a quality brood stock of Gulf Coast walleye. B
 
 7:00am - 3:30pm Monday through Friday.
 
-{{< scroller-list tag="Private John Allen National Fish Hatchery" section="news" >}}
-{{< scroller-list tag="Private John Allen National Fish Hatchery" section="articles" >}}
-{{< scroller-list tag="Private John Allen National Fish Hatchery" section="wildlife" >}}
-
 ## What we do
 
 ### Fish production
 
 The hatchery is supported by your federal tax dollars. Fish raised by federal hatcheries are stocked in public waters to support federal fishery responsibilities mandated by law including:
 
-  - fish for restoration where, for example, habitat degradation has altered a stream’s natural reproductive capability;
-  - to recover threatened or endangered populations;
-  - to preclude listing of certain species under the Endangered Species Act; and
-  - to restore interjurisdictional fish populations, or to support depleted recreational fish populations in federal and state waters.
+- fish for restoration where, for example, habitat degradation has altered a stream’s natural reproductive capability;
+- to recover threatened or endangered populations;
+- to preclude listing of certain species under the Endangered Species Act; and
+- to restore interjurisdictional fish populations, or to support depleted recreational fish populations in federal and state waters.
 
 Private John Allen is considered a warmwater hatchery because the species of fish raised in our ponds have optimal growth rates in water between 75 and 85 degrees Fahrenheit. The hatchery raises fish that are important to the fishery resources of Mississippi, the Lower Mississippi River Alluvial Valley and the Gulf Coast, and stocks fish in cooperation with state game and fish agencies. The water for the hatchery comes from three separate wells. The well water maintains a temperature around 65 degrees, which allows for cool water species, like the lake sturgeon, to be raised in our holding house building. The hatchery continuously develops new culture system to propagated at-risk species such as the Yazoo darter, Pearl darter and piebald madtom.
 
@@ -102,14 +99,14 @@ The hatchery sends fish as far west as Louisiana, as far east as Florida, and as
 
 ## Contact
 
-Ricky Campbell, Hatchery Manager
-Private John Allen National Fish Hatchery
-P.O. Box 7317
-111 Elizabeth Street
-Tupelo, MS 38802
-Phone: 662-842-1341
-Fax: 662-842-3215
-[pvtjohnallen@fws.gov](mailto:pvtjohnallen@fws.gov)
+Ricky Campbell, Hatchery Manager  
+Private John Allen National Fish Hatchery  
+P.O. Box 7317  
+111 Elizabeth Street  
+Tupelo, MS 38802  
+Phone: 662-842-1341  
+Fax: 662-842-3215  
+[pvtjohnallen@fws.gov](mailto:pvtjohnallen@fws.gov)  
 
 <br>
 
