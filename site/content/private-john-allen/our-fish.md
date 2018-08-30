@@ -13,7 +13,7 @@ hero:
 facebook: pvtjohnallennfh
 nav: 'Our Fish'
 weight: 2
-updated: 'August 29th, 2017'
+updated: 'August 29th, 2018'
 ---
 
 Private John Allen National Fish Hatchery is charged with restoring threatened, endangered, at-risk and recreational fish species to achieve self-sustaining populations in the wild and for stocking recreational fish on national wildlife refuges.  Learn more about some of the species of fish we raise:
@@ -77,9 +77,3 @@ In 2004, scientists separated the piebald madtom and the northern madtom into se
 The Pearl Darter was once found in the Pearl and Pascagoula River drainages in Mississippi. Due to habitat lost the Pearl Darter is now believed to be extirpated from the entire Pearl River System. It has not been collect in this system since 1973. Remaining population of Pearl Darters in the Pascagoula River system are going to be used to develop propagation protocols at the Hatchery. Once more research on the pearl darter’s life history, genetics and habitat preference is completed we hope that we can one day reintroduce this species back into the Pearl River System. 
 
 {{< figure class="photo-center" src="/images/pages/pvt-john-allen-pearl-darter.jpg" alt="A small brown and white fish in an aquarium." caption="Pearl darter. Photo by Conservation Fisheries Inc." >}}
-
-## Mobile logperch
-
-The hatchery produces Mobile logperch because they are a host fish for the southern combshell, an endangered freshwater mussel. Freshwater mussels use the gills of host fish to attached their glochidia, baby mussels. These glochidia remain on the host fish until they transform into fully developed mussels. Once they transform they fall off the fish in the substrate below. The southern combshell is being cultured at the Alabama Aquatic Biodiversity Center in Marion, Alabama. Pvt. John Allen National Fish Hatchery hopes to produce enough Mobile logperch to supply the  center with all the host fish that they require to propagate the freshwater mussel.
-
-{{< figure class="photo-center" src="/images/pages/southern-combshell-with-bee-tag.jpg" alt="A net full of small brown mussels with a tiny yellow tag." caption="Southern combshells ready to be stocked in the Tombigbee River, MS. Photo by Daniel Schwarz, USFWS." >}}
