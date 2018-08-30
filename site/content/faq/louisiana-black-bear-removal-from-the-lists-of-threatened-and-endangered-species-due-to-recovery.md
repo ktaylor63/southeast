@@ -1,5 +1,5 @@
 ---
-title: 'Louisiana black bear removal from the lists of threatened and endangered species due to recovery'
+title: 'Louisiana black bear removed from the list of threatened and endangered species due to recovery'
 date: '2016-03-10'
 hero:
     name: louisiana-black-bear-in-tree-with-cub.jpg
@@ -87,7 +87,7 @@ Of the U.S. species for which the Service has the lead, 31 plants and animals ha
 
 ## How can I read the final rule or find more information about the Louisiana black bear?
 
-For more information about the Louisiana black bear, visit our [species profile page](/southeast/wildlife/mammals/louisiana-black-bear/) or the [ECOS database](https://ecos.fws.gov/tess_public/profile/speciesProfile.action?spcode=A08F). You can find the final rule and supporting documents at [regulations.gov](https://www.regulations.gov/document?D=FWS-R4-ES-2015-0014) (FWS-R4-ES-2015-0014). Related documents also are at our [Louisiana Field Office website](https://www.fws.gov/lafayette/).
+For more information about the Louisiana black bear, visit our [species profile page](/southeast/wildlife/mammals/louisiana-black-bear/) or the [ECOS database](https://ecos.fws.gov/tess_public/profile/speciesProfile.action?spcode=A08F). You can find the final rule and supporting documents at [regulations.gov](https://www.regulations.gov/document?D=FWS-R4-ES-2015-0014) (FWS-R4-ES-2015-0014). Related documents also are at our [Louisiana Field Office website](/lafayette/).
 
 ## Where can I go to see a Louisiana black bear?
 

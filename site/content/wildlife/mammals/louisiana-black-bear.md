@@ -21,6 +21,7 @@ hero:
     name: louisiana-black-bear.jpg
     alt: 'A Louisiana black bear standing in a grassy clearing'
     caption: 'Louisiana black bear. Credit: Pam McIlhenny, used with permission.'
+    position: 35% 30%
 description: 'The Louisiana black bear is the state mammal for Louisiana, and it is one of 16 subspecies of the American black bear. While the American black bear can be found across North America, the Louisiana black bear subspecies is only known to occur in Louisiana, East Texas and western Mississippi.  Compared to other black bears, the Louisiana black bears skull is longer, narrower and flatter, with larger molar teeth.'
 updated: 'August 23rd, 2018'
 ---
@@ -29,11 +30,11 @@ updated: 'August 23rd, 2018'
 * **Range:** [Louisiana](/louisiana), [Mississippi](/mississippi), Texas
 * **Status:** Recovered
 
-The Louisiana black bear is the state mammal for Louisiana, and it is one of 16 subspecies of the American black bear. While the American black bear can be found across North America, the Louisiana black bear subspecies is only known to occur in Louisiana, East Texas and western Mississippi. Compared to other black bears, the Louisiana black bear’s skull is longer, narrower and flatter, with larger molar teeth.
+The Louisiana black bear is the state mammal for Louisiana, and it is one of 16 subspecies of the American black bear. While the American black bear can be found across North America, the Louisiana black bear subspecies is only known to occur in Louisiana, east Texas and western Mississippi. Compared to other black bears, the Louisiana black bear’s skull is longer, narrower and flatter, with larger molar teeth.
 
 By 1980, more than 80 percent of the Louisiana black bear’s habitat had been modified or destroyed, and on January 7, 1992, the bear was listed as threatened within its historic range.
 
-On March 10, 2016 the Service removed this species from the Lists of Threatened and Endangered Wildlife under the Endangered Species Act due to recovery. Recovery was made possible thanks to the active partnerships of many private landowners, state and federal agencies, universities and non-governmental organizations. Since the Louisiana black bear was listed in 1992, voluntary landowner-incentive-based habitat restoration programs and environmental regulations have not only stopped the net loss of forested lands in the Lower Mississippi River Alluvial River Valley, but have resulted in significant habitat gains. A major factor in this positive habitat trend is the success of incentive-based private land restoration programs, such as the Wetland reserve program. Since 1992, more than 148,000 ac of habitat has been permanently protected and/or restored through the WRP program. Additional private lands have been restored through the efforts of private landowners and organizations. Over 65,000 additional acres of bottomland hardwood forest has been protected and restored through the efforts of such groups as Wildlife Mississippi, Mississippi Land Trust Mississippi River Trust, Black Bear Conservation Coalition, Bear Education and restoration Group of Mississippi and the East Texas Black Bear Task Force.
+On March 10, 2016 the Service removed this species from the List of Threatened and Endangered Wildlife under the Endangered Species Act due to recovery. Recovery was made possible thanks to the active partnerships of many private landowners, state and federal agencies, universities and non-governmental organizations. Since the Louisiana black bear was listed in 1992, voluntary landowner-incentive-based habitat restoration programs and environmental regulations have not only stopped the net loss of forested lands in the Lower Mississippi River Alluvial River Valley, but have resulted in significant habitat gains. A major factor in this positive habitat trend is the success of incentive-based private land restoration programs, such as the Wetland reserve program. Since 1992, more than 148,000 ac of habitat has been permanently protected and/or restored through the WRP program. Additional private lands have been restored through the efforts of private landowners and organizations. Over 65,000 additional acres of bottomland hardwood forest has been protected and restored through the efforts of such groups as Wildlife Mississippi, Mississippi Land Trust Mississippi River Trust, Black Bear Conservation Coalition, Bear Education and restoration Group of Mississippi and the East Texas Black Bear Task Force.
 
 Currently we estimate that between 500 and 750 Louisiana black bears roam the United States, approximately double the population size at the time of listing. We have used techniques such as live trapping, winter den inspections, radio telemetry monitoring, and DNA sampling to determine population size.
 
@@ -94,7 +95,7 @@ Bears may be occasionally encountered in other areas within their range, as male
 * [Tensas River National Wildlife Refuge\*](http://www.fws.gov/refuge/tensas_river/)
 * [Theodore Roosevelt National Wildlife Refuges Complex](http://www.fws.gov/refuge/Panther_Swamp/About_the_Complex.html)
 
-Bayou Teche National Wildlife Refuge is the only refuge whose primary mission is to preserve and manage habitat for the threatened Louisiana black bear.
+Bayou Teche National Wildlife Refuge is the only refuge whose primary mission is to preserve and manage habitat for the Louisiana black bear.
 
 Tensas River National Wildlife Refuge is managed in consideration of Louisiana black bear needs and is a core area for the bear population. The State of Louisiana’s Big Lake Wildlife Management Area (WMA) is adjacent to the refuge and contributes crucial bear habitat.
 
@@ -130,13 +131,8 @@ Review these resources provided by your local state agencies for further informa
 
 The Louisiana black bear has improved in status due to the active partnerships of many private landowners, state and Federal agencies, universities, and non-governmental organizations. On May 20, 2015 we proposed to delist the Louisiana black bear due to successful recovery.
 
-Our review shows that threats to the survival of the Louisiana black bear have been eliminated or reduced, and adequate government regulations exist. The best available science indicates that healthy sub populations of this species will be viable for at least the next 100 years, with enough protected habitat to support breeding and movement of individuals between subpopulations so that the subspecies is not currently, and is not likely to again become, a threatened species.
-
-Since the listing of the Louisiana black bear in 1992, voluntary habitat restoration programs combined with environmental regulations have not only stopped the net loss of forested lands in the Lower Mississippi River Alluvial River Valley, they have resulted in significant habitat gains. Public management areas such as National Wildlife Refuges (NWRs), Wildlife Management Areas (WMAs), and Corps of Engineers lands supporting Louisiana black bear subpopulations are also protected and managed in a way that benefits the Louisiana black bear.
-
-From 2001 to 2009, we worked with partners to implement a Louisiana black bear reintroduction project on publicly owned forested lands. That effort led to the establishment of a new subpopulation that adds to the overall size and viability of the overall bear population, and also facilitates exchange between existing subpopulations. Large-scale restoration and protection of key habitats, coupled with the benefits of that reintroduction program, have been instrumental in stabilizing and expanding the Louisiana black bear population.
-
-Download the [Recovery Plan](https://ecos.fws.gov/docs/recovery_plan/950927.pdf)
+* [Learn more about Louisiana black bear recovery](/faq/louisiana-black-bear-removal-from-the-lists-of-threatened-and-endangered-species-due-to-recovery/)
+* [Download the Recovery Plan](https://ecos.fws.gov/docs/recovery_plan/950927.pdf)
 
 ## Keeping populations healthy
 
@@ -174,7 +170,7 @@ Want to learn more from our biologists? Contact one of our subject matter expert
 
 ## Designated critical habitat
 
-Louisiana black bear populations have been proposed for delisting. This means they may have recovered to the point that they may no longer require federal protection under the Endangered Species Act. If the species is delisted, it will no longer require designated critical habitat.
+The louisiana black bear was removed from the endangered species list due to recovery. The species no longer has designated critical habitat.
 
 ## Federal Register notices
 
