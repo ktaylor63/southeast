@@ -374,7 +374,7 @@ number,status,fed_register
 99265B-0,Issued,N/A
 40523A-1,Issued,Noticed for 30 days
 060988-3,Issued,Noticed for 30 days
-31141A-2,Awaiting Input from Applicant,Noticed for 30 days
+31141A-2,No permit needed,Noticed for 30 days
 99474B-0,Abandoned,N/A
 98424B-1,Issued,N/A
 009638-11,Issued,Noticed for 30 days
@@ -508,7 +508,7 @@ number,status,fed_register
 37219B-1,Issued,Noticed for 30 days
 79580A-3,Issued,Noticed for 30 days
 034476-4,Issued,Noticed for 30 days
-077258-3,In FO for Review,N/A
+077258-3,Issued,N/A
 43639C-0,Issued,N/A
 28025A-3,In FO for Review,N/A
 44504C-0,Issued,N/A
@@ -678,5 +678,5 @@ number,status,fed_register
 02321D-0,In RO for Review,N/A
 02332D-0,In RO for Review,needs to be drafted
 02423D-0,Awaiting Input from Applicant,N/A
-02972D-0,In RO for Review,N/A
+02972D-0,Issued,N/A
 04434D-0,Awaiting Input from Applicant,N/A
