@@ -1,5 +1,5 @@
 ---
-title: 'Biologist-in-Training Development Team'
+title: 'Biologist-in-Training development team'
 nav: 'Development Team'
 weight: 6
 hero:

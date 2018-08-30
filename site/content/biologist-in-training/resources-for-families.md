@@ -1,5 +1,5 @@
 ---
-title: 'Resources for Families'
+title: 'Resources for families'
 nav: 'For Families'
 weight: 4
 hero:

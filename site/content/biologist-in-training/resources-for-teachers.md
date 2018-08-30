@@ -1,5 +1,5 @@
 ---
-title: 'Resources for Educators'
+title: 'Resources for educators'
 nav: 'For Educators'
 weight: 4
 hero:
@@ -23,7 +23,7 @@ The activity card also contains information to families on the importance of pro
 
 A series of group [extension activities](/biologist-in-training/extension-activities) based on nationally-recognized environmental education curricula serve to supplement these BiT materials.
 
-The extension activities address differing learning styles and offer added depth of information. They include activities such as games, role-playing, art and stream studies. These extension activities along with all the materials necessary to conduct them are contained in BiT Bins available for loan at no cost through <a href="http://www.fws.gov/southeast/fisheries/hatcheryindex.html">21 Fisheries field stations</a> across the Southeast.
+Supplemental extension activities are available to download and print. These activities include a list of materials and instructions necessary to complete the exercises.
 
  - [Extension Activities](/biologist-in-training/extension-activities)
  - [Letter to Teachers](/pdf/workbook/biologist-in-training-letter-to-educators.pdf)
