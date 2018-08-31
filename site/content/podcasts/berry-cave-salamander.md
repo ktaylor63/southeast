@@ -19,7 +19,7 @@ tags:
     - Podcast
     - 'Southern Appalachian Creature Feature'
     - Tennessee
-updated: 'August 8th, 2018'
+updated: 'August 30th, 2018'
 ---
 
 ## Transcript
