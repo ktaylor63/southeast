@@ -7,13 +7,15 @@ hero:
     link: 'https://flic.kr/p/rWP7zZ'
     caption: 'The proposed expansion would allow a population of the endangered bunched arrowhead to be conserved as part of Mountain Bogs National Wildlife Refuge. Photo by Gary Peeples, USFWS.'
     position: 'top left'
-updated: 'November 28th, 2016'
+updated: 'August 31st, 2018'
 tags:
-  - North Carolina
-  - Mountain Bogs
-  - National Wildlife Refuge System
-  - Tennessee
-  - Asheville Ecological Services Field Office
+    - 'Asheville Ecological Services Field Office'
+    - 'Bunched Arrowhead'
+    - 'Mountain Bogs'
+    - 'Mountain Sweet Pitcher Plant'
+    - 'National Wildlife Refuge System'
+    - 'North Carolina'
+    - Tennessee
 ---
 
 **Asheville, North Carolina** – The U.S. Fish and Wildlife Service seeks public input on its proposal to expand the acquisition boundary for [Mountain Bogs National Wildlife Refuge](https://www.fws.gov/refuge/mountain_bogs/). 
