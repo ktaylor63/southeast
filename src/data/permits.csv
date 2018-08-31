@@ -247,7 +247,7 @@ number,status,fed_register
 59647B-0,Issued,N/A
 59646B-0,Issued,N/A
 763742-5,No permit needed,N/A
-59645B-0,In RO for Review,Noticed for 30 days
+59645B-0,Awaiting signature,Noticed for 30 days
 59798B-0,Issued,Noticed for 30 days
 59943B-0,Withdrawn,N/A
 60238B-0,Issued,Noticed for 30 days
@@ -680,3 +680,4 @@ number,status,fed_register
 02423D-0,Awaiting Input from Applicant,N/A
 02972D-0,Issued,N/A
 04434D-0,Awaiting Input from Applicant,N/A
+05528D-0,In RO for Review,needs to be drafted
