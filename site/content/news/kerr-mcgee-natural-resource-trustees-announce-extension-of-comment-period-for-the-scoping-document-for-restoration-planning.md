@@ -24,7 +24,7 @@ For questions or comments regarding the scoping document, contact Howard Schnabo
 ## Contacts
 
 Phil Kloer, 404-679-7299  
-[phillip_kloer@fws.gov](mailto:phillip_kloer@fws.gov)
+[Philip_Kloer@fws.gov](mailto:Philip_Kloer@fws.gov)
 
 Kim Amendola, 727-551-5707  
 [kim.amendola@noaa.gov](mailto:kim.amendola@noaa.gov)

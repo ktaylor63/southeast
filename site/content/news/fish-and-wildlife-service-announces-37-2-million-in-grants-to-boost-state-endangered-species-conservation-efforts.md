@@ -10,13 +10,16 @@ date: '2015-08-13'
 tags:
     - Alabama
     - Arkansas
+    - 'Bunched Arrowhead'
     - Florida
-    - 'North Carolina'
-    - Tennessee
     - Grants
+    - 'Mountain Sweet Pitcher Plant'
+    - 'North Carolina'
     - 'Panama City Ecological Services Field Office'
+    - 'Swamp Pink'
+    - Tennessee
     - 'Tennessee Ecological Services Field Office'
-updated: 'October 6th, 2016'
+updated: 'August 31st, 2018'
 ---
 
 The U.S. Fish and Wildlife Service today announced $37.2 million in grants to 20 states to support conservation planning and acquisition of vital habitat for threatened and endangered species across the nation. The grants, awarded through the Cooperative Endangered Species Conservation Fund, will benefit numerous species, ranging from the Cahaba shiner to the red-cockaded woodpecker.
@@ -104,4 +107,4 @@ Christina Meister, 703-358-2284
 [Christina_Meister@fws.gov](mailto:Christina_Meister@fws.gov)
 
 Phil Kloer, 404-679-7299
-[phillip_kloer@fws.gov](mailto:phillip_kloer@fws.gov)
+[Philip_Kloer@fws.gov](mailto:Philip_Kloer@fws.gov)

@@ -53,4 +53,4 @@ Stay up to date with the [Southeast Region and Hurricane Irma](/tags/hurricane-i
 ## Contact
 
 Phil Kloer, 404-679-7299  
-[Phillip_Kloer@fws.gov](mailto:Phillip_Kloer@fws.gov)
+[Philip_Kloer@fws.gov](mailto:Philip_Kloer@fws.gov)

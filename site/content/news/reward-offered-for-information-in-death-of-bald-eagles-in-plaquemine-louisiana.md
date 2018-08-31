@@ -36,7 +36,7 @@ _The Humane Society of the United States is the nation’s largest animal protec
 
 Phil Kloer, USFWS  
 404-679-7299  
-[phillip_kloer@fws.gov](mailto:phillip_kloer@fws.gov)
+[Philip_Kloer@fws.gov](mailto:Philip_Kloer@fws.gov)
 
 Adam Einck 225-765-2465  
 [aeinck@wlf.la.gov](mailto:aeinck@wlf.la.gov)

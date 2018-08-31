@@ -45,7 +45,7 @@ They may prefer longleaf habitat and are found in all types of pine forest.  Th
 
 The black pinesnake final listing becomes effective on November 5, 2015 which is 30 days after its publication in the _Federal Register_ on October 6, 2015.  The Service published a proposed rule to list the black pinesnake as threatened on October 7, 2014.  The black pinesnake was added to the Service’s list of candidates for federal protection in 1999.  
 
-The complete final rule can be obtained by visiting the Federal eRulemaking Portal: [http://www.regulations.gov](http://www.regulations.gov) at Docket Number FWS–R4–ES–2014–0046.   A copy also can be obtained by contacting U.S. Fish and Wildlife Service, 6578 Dogwood View Parkway, Suite A, Jackson, Mississippi, 39213; phone: 601-321-1121. 
+The complete final rule can be obtained by visiting the Federal eRulemaking Portal: [http://www.regulations.gov](http://www.regulations.gov) at Docket Number FWS–R4–ES–2014–0046.   A copy also can be obtained by contacting U.S. Fish and Wildlife Service, 6578 Dogwood View Parkway, Suite A, Jackson, Mississippi, 39213; phone: 601-321-1121.
 
 [Read the Questions and Answers](/pdf/black-pinesnake-final-listing-faq.pdf)
 
@@ -54,8 +54,8 @@ The complete final rule can be obtained by visiting the Federal eRulemaking Port
 Connie Dickard, 601-321-1121 (MS)  
 [Connie_Dickard@fws.gov](mailto:Connie_Dickard@fws.gov)
 
-Denise Rowell, 251-441-6630 (AL)   
+Denise Rowell, 251-441-6630 (AL)  
 [Denise_Rowell@fws.gov](mailto:Denise_Rowell@fws.gov)
 
 Phil Kloer, 404-679-7299  
-[Phillip_Kloer@fws.gov](mailto:Phillip_Kloer@fws.gov)
+[Philip_Kloer@fws.gov](mailto:Philip_Kloer@fws.gov)

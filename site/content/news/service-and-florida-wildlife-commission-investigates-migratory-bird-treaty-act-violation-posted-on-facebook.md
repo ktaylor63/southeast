@@ -8,10 +8,10 @@ hero:
     caption: 'A Great Horned Owl at Cape Romain National Wildlife Refuge in South Carolina. Photo by Garry Tucker, USFWS.'
 date: '2015-04-01'
 tags:
-    - 'Migratory Bird Treaty Act'
-    - 'Law Enforcement'
     - Florida
-updated: 'October 20th, 2016'
+    - 'Law Enforcement'
+    - 'Migratory Bird Treaty Act'
+updated: 'August 31st, 2018'
 ---
 
 Stervenson Benjamin, 28, of West Palm Beach, Florida, has been charged with a violation of the Migratory Bird Treaty Act, for allegedly capturing, possessing, and transporting a great horned owl on March 16, 2015 in West Palm Beach, Florida.
@@ -26,8 +26,7 @@ No jail time is being sought by the Department of Justice.
 
 The Service wants to thank the Florida Fish and Wildlife Commission (FWC) officers for their initiation of the joint investigation which resulted in these charges.
 
-**Contact(s):**  
+## Contact
 
-Phil Kloer, USFWS  
-404-679-7299  
-[phillip_kloer@fws.gov](mailto:phillip_kloer@fws.gov)
+Phil Kloer, Public Affairs Specialist  
+[Philip_Kloer@fws.gov](mailto:Philip_Kloer@fws.gov), (404) 679-7299

@@ -48,7 +48,7 @@ Alabama: Denise Rowell, USFWS
 
 Georgia: Phil Kloer, USFWS  
 404-679-7291  
-[phillip_kloer@fws.gov](mailto:phillip_kloer@fws.gov)
+[Philip_Kloer@fws.gov](mailto:Philip_Kloer@fws.gov)
 
 North Carolina: Gary Peeples, USFWS  
 828-258-3939, ext. 234  

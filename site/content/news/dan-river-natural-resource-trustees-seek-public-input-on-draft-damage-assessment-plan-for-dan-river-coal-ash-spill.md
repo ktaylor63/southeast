@@ -28,7 +28,7 @@ Public participation is an important part of the natural resource damage assessm
 ## Contacts
 
 Phil Kloer, USFWS Southeast Region External Affairs  
-(404) 679-7306, [phillip_kloer@fws.gov](mailto:phillip_kloer@fws.gov)
+(404) 679-7306, [Philip_Kloer@fws.gov](mailto:Philip_Kloer@fws.gov)
 
 Meagan Racey, USFWS Northeast Region External Affairs  
 (o) 413-253-8558, (m) 413-658-4386, [Meagan_Racey@fws.gov](mailto:Meagan_Racey@fws.gov)

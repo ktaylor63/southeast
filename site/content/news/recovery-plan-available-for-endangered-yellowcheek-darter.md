@@ -33,4 +33,4 @@ Chris Davidson, Deputy field supervisor
 [chris_davidson@fws.gov](mailto:chris_davidson@fws.gov), (501) 513-4481
 
 Phil Kloer, Public affairs specialist  
-[phillip_kloer@fws.gov](mailto:phillip_kloer@fws.gov), (404) 679-7299
+[Philip_Kloer@fws.gov](mailto:Philip_Kloer@fws.gov), (404) 679-7299

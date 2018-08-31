@@ -3,19 +3,19 @@ title: 'Fish and Wildlife Service designates Critical Habitat for two freshwater
 subtitle: 'Shrinks designation by nearly 30 percent in Arkansas & nearly 220 river miles overall'
 date: '2015-04-29'
 tags:
-    - 'Critical habitat'
-    - 'Neosho mucket'
-    - Rabbitsfoot
     - Alabama
     - Arkansas
-    - Mississippi
+    - 'Critical Habitat'
     - Kentucky
+    - Mississippi
+    - 'Neosho Mucket'
+    - Rabbitsfoot
     - Tennessee
 hero:
     name: rabbitsfoot.jpg
     alt: 'A mussel with brownish outer shell and a glossy white inner shell that resembles a baked potato.'
     caption: 'Threatened rabbitsfoot mussel. Photo by Bob Butler, USFWS.'
-updated: 'October 20th, 2016'
+updated: 'August 31st, 2018'
 ---
 
 The U.S. Fish and Wildlife Service has finalized critical habitat designations for the Neosho mucket and rabbitsfoot mussels in rivers of 12 states under the Endangered Species Act (ESA).
@@ -50,9 +50,9 @@ The final rule for the critical habitat designations will be published in the _
 
 For more information about the Neosho mucket and its critical habitat, please visit [http://www.fws.gov/southeast/species/invertebrate/neosho_mucket.html](http://www.fws.gov/southeast/species/invertebrate/neosho_mucket.html).  For more information about the rabbitsfoot and its critical habitat, please visit [http://www.fws.gov/southeast/species/invertebrate/rabbitsfoot.html](http://www.fws.gov/southeast/species/invertebrate/rabbitsfoot.html).
 
-**Contact(s):**  
+## Contacts
 
-Phil Kloer, 404-679-7299, phillip_kloer@fws.gov (AL, AR, MS, KY, TN)
+Phil Kloer, 404-679-7299, Philip_Kloer@fws.gov (AL, AR, MS, KY, TN)
 
 Georgia Parham, 812-334-4261 x 1203, georgia_parham@fws.gov (IN, IL, MO, OH)  
 

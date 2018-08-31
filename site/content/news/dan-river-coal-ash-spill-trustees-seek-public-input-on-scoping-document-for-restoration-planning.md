@@ -47,7 +47,7 @@ For any restoration projects or proposals submitted to the trustees, please incl
 
 Phil Kloer, U.S. Fish and Wildlife Service Southeast Region External Affairs  
 (m) 404-679-7299  
-[phillip_kloer@fws.gov](mailto:phillip_kloer@fws.gov)
+[Philip_Kloer@fws.gov](mailto:Philip_Kloer@fws.gov)
 
 Meagan Racey, U.S. Fish and Wildlife Service Northeast Region External Affairs  
 (o) 413-253-8558, (m) 413-658-4386  

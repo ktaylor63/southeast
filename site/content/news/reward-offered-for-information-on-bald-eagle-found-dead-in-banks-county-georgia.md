@@ -20,7 +20,7 @@ Information can be provided to the Ranger Hotline at (800) 241-4130 or U.S. Fish
 
 Phil Kloer, USFWS  
 404-679-7299  
-[phillip_kloer@fws.gov](mailto:phillip_kloer@fws.gov)
+[Philip_Kloer@fws.gov](mailto:Philip_Kloer@fws.gov)
 
 Mark McKinnon, GA DNR, 706-557-3106   
 mark.mckinnon@dnr.ga.gov

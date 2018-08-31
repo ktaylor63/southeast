@@ -41,7 +41,7 @@ A hundred years in the making, the National Wildlife Refuge system is a network 
 ## Contacts
 
 Phil Kloer, 404-679-7299  
-[phillip_kloer@fws.gov](mailto:phillip_kloer@fws.gov)
+[Philip_Kloer@fws.gov](mailto:Philip_Kloer@fws.gov)
 
 Maury Bedford, 318-726-4222  
 [maury_bedford@fws.gov](mailto:maury_bedford@fws.gov)

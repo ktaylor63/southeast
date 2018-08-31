@@ -38,7 +38,7 @@ Other sites are protected as Dedicated Nature Preserves.  These agreements are 
 
 Phil Kloer, USFWS  
 404-679-7299  
-[phillip_kloer@fws.gov](mailto:phillip_kloer@fws.gov)
+[Philip_Kloer@fws.gov](mailto:Philip_Kloer@fws.gov)
 
 Dale Suiter  
 919-856-4520, ext. 18  

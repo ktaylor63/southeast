@@ -53,7 +53,7 @@ Art Beyer, USFWS
 
 Phil Kloer, USFWS  
 404-679-7291  
-[phillip_kloer@fws.gov](mailto:phillip_kloer@fws.gov?subject=Gunshot%20red%20wolf%2010%2F17)
+[Philip_Kloer@fws.gov](mailto:Philip_Kloer@fws.gov?subject=Gunshot%20red%20wolf%2010%2F17)
 
 Geoff Cantrell, North Carolina Wildlife Resources Commission  
 919-707-0186  
