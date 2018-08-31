@@ -7,12 +7,13 @@ hero:
     link: 'https://flic.kr/p/61DaUQ'
     caption: 'Pearl darter. Photo by Conservation Fisheries, Inc.'
     position: 'top left'
-updated: 'May 7th, 2018'
+updated: 'August 30th, 2018'
 tags:
     - 'Endangered Species Act'
     - Louisiana
     - 'Louisiana Ecological Services Field Office'
     - Mississippi
+    - 'Private John Allen National Fish Hatchery'
 ---
 
 The U.S. Fish and Wildlife Service has determined the pearl darter is likely to be at risk of becoming endangered within the foreseeable future throughout all or a significant portion of its range. Therefore, the Service proposes to add this small, snub-nosed fish to the list of protected wildlife as threatened under the Endangered Species Act (ESA).
