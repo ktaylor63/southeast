@@ -14,7 +14,8 @@ tags:
     - Mississippi
     - 'Pearl Darter'
     - 'Pearl River'
-updated: 'May 7th, 2018'
+    - 'Private John Allen National Fish Hatchery'
+updated: 'August 30th, 2018'
 ---
 
 It has been more than 40 years since the Pearl darter – a small, snub-nosed fish – lived in the Pearl River system in Louisiana and Mississippi.  Today, it is only found in the Pascagoula River system in Mississippi and poor water quality is taking a toll on the tiny fish.
