@@ -19,10 +19,10 @@ hero:
     name: orangefoot-pimpleback.jpg
     alt: 'A brown mussel with orangish brown striations'
     caption: 'An orangefoot pimpleback mussel. Photo by Monte McGregor, Center Mollusk Conservation, Kentucky DFWR.'
-updated: 'August 23rd, 2018'
+updated: 'August 31st, 2018'
 ---
 
-- **Taxon:** [Bivalve](/tag/bivalve)
+- **Taxon:** Bivalve
 - **Range:** [Alabama](/alabama), Illinois, [Kentucky](/kentucky) and [Tennessee](/tennessee)
 - **Status:** Endangered. Some populations in the French Broad and Holston Rivers are experimental.
 
