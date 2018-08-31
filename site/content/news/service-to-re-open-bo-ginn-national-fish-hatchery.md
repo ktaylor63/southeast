@@ -1,5 +1,5 @@
 ---
-title: 'Service to ee-open Bo Ginn National Fish Hatchery'
+title: 'Service to re-open Bo Ginn National Fish Hatchery'
 date: '2010-05-28'
 hero:
     name: bo-gin-hatchery.jpg
@@ -9,7 +9,7 @@ tags:
     - 'Bo Ginn National Fish Hatchery'
     - Georgia
     - 'Native American'
-updated: 'December 19th, 2017'
+updated: 'August 30th, 2018'
 ---
 
 The U.S. Fish and Wildlife Service will re-open Bo Ginn National Fish Hatchery in Millen, Georgia. The transfer occurred through an agreement negotiated in December 2009 with the Georgia Department of Natural Resources, which has overseen the hatchery since 1996.
