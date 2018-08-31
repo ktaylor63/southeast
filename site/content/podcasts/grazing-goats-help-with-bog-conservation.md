@@ -14,10 +14,11 @@ tags:
     - 'Asheville Ecological Services Field Office'
     - Bog
     - 'Bog Turtle'
+    - 'Mountain Sweet Pitcher Plant'
     - 'North Carolina'
     - Podcast
     - 'Southern Appalachian Creature Feature'
-updated: 'August 8th, 2018'
+updated: 'August 31st, 2018'
 ---
 
 ## Transcript
