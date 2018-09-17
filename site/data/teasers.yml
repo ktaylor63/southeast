@@ -1,5 +1,52 @@
 ---
 stories:
+  - title: 'New fishing regulations proposed in Tennessee to combat Asian carp'
+    summary: 'The Tennessee Wildlife Resources Agency released its 2019-2020 fishing regulation proposals for public comment last week. Among them is a ban on transporting live skipjack herring, gizzard shad and threadfin shad for commercial fishermen. For sport fishermen, a ban would be placed on transporting the three species of live fish from the Mississippi River and Barkley, Kentucky and Pickwick reservoirs, tributaries or oxbows.'
+    date: '2018-09-10'
+    url: 'https://www.timesfreepress.com/news/local/story/2018/sep/10/new-fishing-regulations-proposed/478724/'
+    hero:
+        name: silver-carp-jumping-fox-river.jpg
+        alt: 'A half dozen large silver fish jumping out of the water to a height of six feet.'
+        caption: 'School of jumping silver carp. Photo by Ryan Hagerty, USFWS.'
+        link: 'https://flic.kr/p/MFyYsU'
+        position: '70% 35%'
+  - title: 'How sea level rise threatens our history'
+    summary: 'Sea level rise threatens not just Fort Pulaski National Monument, but historic and cultural sites up and down the Atlantic Coast. Native American history, the places where slaves lived and worked, historic neighborhoods, cemeteries and sites of battles are all at risk.'
+    date: '2018-09-10'
+    url: 'https://www.wabe.org/how-sea-level-rise-threatens-our-history/'
+    hero:
+        name: fort-pulaski-lighthouse.jpg
+        alt: 'A white brick lighthouse on a narrow peninsula'
+        caption: 'Lighthouse at Fort Pulaski National Monument. <a href="https://flic.kr/p/bvvnbW">Photo</a> by <a href="https://www.flickr.com/photos/jstephenconn/">J. Stephen Conn</a>, <a href="https://creativecommons.org/licenses/by-nc/2.0/">CC BY-NC-ND 2.0</a>.'
+  - title: 'InterMiami soccer club crest carries bird that is South Florida’s Own'
+    summary: 'Miami’s new professional soccer team has a name and a crest that features two birds. The birds, great white herons, are unique to South Florida. They even have a national wildlife refuge named after them.'
+    date: '2018-09-04'
+    url: 'http://www.wlrn.org/post/intermiami-soccer-club-crest-carries-bird-south-floridas-own'
+    hero:
+        name: great-white-heron.jpg
+        alt: 'A white bird standing next to water'
+        caption: 'Great white heron. Photo by Kenneth Cole Schneider, CC BY-NC-ND 2.0.'
+  - title: 'The beach, wildlife and you'
+    tags:
+      - Gulf
+    summary: 'The beach is a place to bask in the sun, relax to the rhythm of the surf and tune out for a while. If you tune in, though, there’s more than meets the eye: Piping plovers moving in and out with the waves. Crabs scurrying about. Sea turtle paths tracking to and from the ocean. And the sand itself.'
+    date: '2018-07-11'
+    url: 'https://www.fws.gov/refuges/features/beach/'
+    hero:
+        name: https://www.fws.gov/refuges/features/images/beach/1.jpg
+        alt: 'Two white and grey birds on the beach.'
+        caption: 'Piping plovers at Amagansett National Wildlife Refuge on New York’s Long Island. Photo by USFWS.'
+  - title: 'No Jimmy Buffett here'
+    tags:
+      - Gulf
+    subtitle: 'Salt Bayou home to business, conservation'
+    summary: 'This is the Salt Bayou. The largest coastal wetlands complex along the Texas Gulf Coast, it’s a favorite destination for birders, fishermen, and hunters. It’s home to one of the nation’s most important waterways where migratory birds winter.'
+    date: '2018-07-11'
+    url: 'https://www.fws.gov/natures-good-neighbors/stories/no-jimmy-buffett-here/#feature-image'
+    hero:
+        name: https://www.fws.gov/natures-good-neighbors/images/features/judge-branick.jpg
+        alt: 'A man in a suit standing in front of a desk with leather chairs in a Texas courtroom.'
+        caption: 'Jefferson Country Judge Branick has strongly advocated for the restoration and conservation of the largest coastal marsh in Texas to benefit both people and the fish and wildlife who live there. Photo by USFWS.'
   - title: 'Was Smokey Bear wrong? How a beloved character may have helped fuel catastrophic fires.'
     summary: 'This month Smokey is popping champagne bottles in celebration of his 74th birthday. But the milestone comes as the bear’s legacy is sunk in doubt. Right now 110 wildfires are blazing through Western states, charring more than 5.7 million acres, The Washington Post reported this week. The current damage total has already overlapped past years, syncing with a wider pattern of larger fires and longer fire seasons, according to The Post.'
     date: '2018-08-15'
