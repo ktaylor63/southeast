@@ -38,7 +38,7 @@ The Iguaca, as the Taino Indians named it, is found only in Puerto Rico. There a
 
 ## Additional information
 
-- [Puerto Rican parrot recovery program fact sheets](/reading-room/?q=Puerto+Rican+parrot+fact+sheet)
+- [Puerto Rican parrot recovery program fact sheet](/pdf/fact-sheet/puerto-rican-parrot-recovery.pdf)
 - [Photo gallery](https://www.flickr.com/photos/usfwssoutheast/sets/72157626608243506/)
 - [Research](/reading-room/?q=Puerto+Rican+parrot+publications)
 - August 9, 2011: [U.S. Fish and Wildlife Service seeks comment to begin an Environmental Assessment to select site for a third Puerto Rican parrot population in Puerto Rico](/news/2011/04/us-fish-and-wildlife-service-seeks-comments-to-begin-an-environmental-assessment-to-select-site-for-a-third-puerto-rican-parrot-population-in-puerto-rico/)
