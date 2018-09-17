@@ -1,12 +1,10 @@
 ---
-title: 'Conserving Paradise'
+title: 'Conserving paradise'
 description: 'Take a trip with us down the Altamaha River. The U.S. Fish and Wildlife Service traveled the river from Jesup in Southeast Georgia to the barrier islands where the free-flowing Altamaha empties into the Atlantic Ocean.'
-scrollnav: no-scrollnav
 layout: full-width
 js: /js/preserving-paradise.js
-url: /conserving-paradise
 aliases:
-  - /series/conserving-paradise
+    - /conserving-paradise
 tags:
     - 'Altamaha River'
     - 'At Risk Species'
@@ -14,7 +12,7 @@ tags:
     - Georgia
     - Partnership
     - 'Wolf Island National Wildlife Refuge'
-updated: 'July 12th, 2017'
+updated: 'August 31st, 2018'
 ---
 
 <video class="hero-video" data-src="/video/altamaha-landscape.mp4" src="/video/altamaha-landscape.mp4"autoplay muted loop>
@@ -38,12 +36,14 @@ updated: 'July 12th, 2017'
 <br/><br/>
 
 <article class="feature-article-summary">
-  <a href="/articles/many-partners-work-together-to-protect-the-amazon-of-the-south-for-generations-to-come/">
-    <div class="feature-article-summary__hero" style="background-image: url('https://www.fws.gov/southeast/images/hero/altamaha-river-salt-marsh.jpg'); background-position: center bottom;">
+  <div class="inline-hero">
+    <a href="/articles/many-partners-work-together-to-protect-the-amazon-of-the-south-for-generations-to-come/" class="permalink">
+      <img class="hero-image" src="/images/hero/altamaha-river-salt-marsh.jpg" alt="{{ .Params.hero.alt }}" srcset="/images/hero/small/altamaha-river-salt-marsh.jpg 450w, /images/hero/medium/altamaha-river-salt-marsh.jpg 850w, /images/hero/altamaha-river-salt-marsh.jpg 1400w"
+        sizes="100vw" {{ if .Params.hero.position }}style="object-position: {{.Params.hero.position }};" {{ end }}>
       <h2>Many partners work together to protect “the Amazon of the South” for generations to come</h2>
-    </div>
-  </a>
-  <div class="feature-article-summary__teaser">
+    </a>
+  </div>
+  <div class="feature-article-summary__teaser layout wrapper">
     <p><strong>Darien, Georgia</strong> — It meanders 137 miles through the wild heart of Georgia, a blackwater beauty that nourishes longleaf pine forests, cypress swamps, saltwater estuaries and the barrier islands that protect the Atlantic coast and migratory birds alike.</p>
   </div>
 </article>
@@ -88,7 +88,7 @@ updated: 'July 12th, 2017'
 
 <div id='map' style="height: 90vh;"></div>
 
-<p><strong>*Note:</strong> Green areas on the map represent protected local, state and federal lands.</p>
+<p class='layout wrapper'><strong>*Note:</strong> Green areas on the map represent protected local, state and federal lands.</p>
 <br/><br/>
 
 <div class='layout wrapper' style="text-align: center;">
