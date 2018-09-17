@@ -16,7 +16,6 @@ tags:
     - 'Black Carp'
     - 'Cumberland River'
     - 'Endangered Species Act'
-    - Gulf
     - 'Invasive Species'
     - Kentucky
     - Mississippi
