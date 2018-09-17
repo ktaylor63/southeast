@@ -597,7 +597,7 @@ Private John Allen National Fish Hatchery,,Fact Sheet,,fact-sheet/private-john-a
 ,External Affairs Team Members,Fact Sheet,,fact-sheet/external-affairs-team.pdf,2017,"External Affairs, Public Affairs, Spokesperson",,
 ,2014 Listing actions for the Southeast Region,Fact Sheet,,fact-sheet/2014-listing-actions.pdf,2014,Ecologiacl Services,"Endangered Species Act, At-Risk Species, Candidate Conservation",
 ,Big Sandy crayfish and Guyandotte River crayfish,Fact Sheet,,fact-sheet/big-sandy-crayfish-guyandotte-river-crayfish.pdf,2016,,,
-,Gopher tortoise,Fact Sheet,,fact-sheet/gopher-tortoise.pdf,,Ecological Services,"At-risk species, Mississippi, Florida, Alabama, Georgia, South Carolina, Jacksonville, Daphne, Athens, Lafayette, Louisiana",
+,Gopher tortoise,Fact Sheet,,fact-sheet/gopher-tortoise.pdf,,Ecological Services,"At-risk species, Mississippi, Florida, Alabama, Georgia, South Carolina, Jacksonville, Daphne, Athens, Louisiana Ecological Services Field Office",Louisiana
 South Carolina Low Country Complex,,Fire Management Plan,,https://catalog.data.gov/dataset/south-carolina-low-country-complex-fire-management-plan,2010,National Wildlife Refuge System,,
 Pocosin Lakes National Wildlife Refuge,,Fire Management Plan,,https://catalog.data.gov/dataset/fire-management-plan-for-pocosin-lakes-national-wildlife-refuge,2006,National Wildlife Refuge System,,
 ,Monitoring Hazardous Fuels Treatments,Fire Management Plan,,fire/fuel-treatment-effects-monitoring-plan.pdf,2013,Fire,,
@@ -732,7 +732,7 @@ Panama City Field Office,Suggested contents for biological evaluations and biolo
 Panama City Field Office,Stepwise section 7 proccess,Guidelines,,guidelines/stepwise-consultation-process.pdf,,Ecological Services,Panama City,
 Panama City Field Office,Guidance on preparing an initiation package for Endangered Species Act consultation,Guidelines,,guidelines/preparing-an-initiation-package-for-endangered-species-act-consultation.pdf,2007,Ecological Services,Panama City,
 ,Conservation measures for dune walkover construction,Guidelines,,guidelines/conservation-measures-for-dune-walkover-construction.pdf,2017,Ecological Services,Panama City,
-,Stream obstruction removal guidelines,Guidelines,,guidelines/stream-obstruction-removal-guidelines.pdf,1983,Ecological Services,Lafayette,
+,Stream obstruction removal guidelines,Guidelines,,guidelines/stream-obstruction-removal-guidelines.pdf,1983,Ecological Services,Louisiana Ecological Services Field Office,
 ,Endangered Species Act emergency response process,Guidelines,,guidelines/emergency-consultation-process.pdf,,Ecological Services,,
 ,Endangered Species Act emergency consultation flow chart,Guidelines,,guidelines/section-7-flowchart-emergency.pdf,,Ecological Services,,
 ,Endangered Species Act emergency consultation optional template,Guidelines,,guidelines/request-emergency-consultation-sample.pdf,,Ecological Services,,
@@ -741,7 +741,7 @@ Panama City Field Office,Guidance on preparing an initiation package for Endange
 ,Prevention of Wildfires - Streamlining Section 7 Consultation on Hazardous Fuels Treatment Projects,Guidelines,,guidelines/streamlining-hazardous-fuels-reduction.pdf,,Ecological Services,,
 ,Spill Responses - A Selection Guide for Oil Spill Applied Technologies,Guidelines,,guidelines/selection-guide-oil-spill-applied-technologies-volume-I.pdf,,Ecological Services,,
 ,Regional Consultation Pre-authorizing of Solidifier Use in the northeast Gulf of Mexico,Guidelines,,guidelines/solidifiers.pdf,,Ecological Services,,
-,"Suggested streamlined coordination for oil and natural gas exploration, drilling and production in Louisiana shale plays",Guidelines,,guidelines/suggested-streamlined-coordination-oil-and-gas-exploration-drilling-production.pdf,2017,Ecological Services,Lafayette,
+,"Suggested streamlined coordination for oil and natural gas exploration, drilling and production in Louisiana shale plays",Guidelines,,guidelines/suggested-streamlined-coordination-oil-and-gas-exploration-drilling-production.pdf,2017,Ecological Services,Louisiana Ecological Services Field Office,
 ,U.S. Fish and Wildlife Service-Endangered Species Act Emergency Section 7 Consultation Best Management Practices (BMPs) for Federally Listed Species in Relation to Emergency Works on Various Roadways in Puerto Rico due to Hurricanes Irma and Maria,Guidelines,,guidelines/puerto-rico-emergency-road-repair.pdf,2017,,"Emergency consultation, Hurricane",
 ,"For Mr. Christopher Carbone, Parasol West S/D",Habitat Conservation Plan,,hcp/carbone-panama-city.pdf,2011,Ecological Services,Panama City,
 ,"For Coquina Caye Condominium, Perdido Key, Florida",Habitat Conservation Plan,,hcp/coquina-caye-panama-city.pdf,2006,Ecological Services,Panama City,
@@ -1415,7 +1415,7 @@ Dale Hollow National Fish Hatchery,,General Brochure,,brochure/dale-hollow-natio
 Caribbean Ecological Services Field Office,Fish and Aquatic Conservation Initiative,Fact Sheet,TRUE,fact-sheet/caribbean-fish-and-aquatic-conservation-initiative.pdf,,,,
 Caribbean Ecological Services Field Office,Freshwater fishes,Fact Sheet,TRUE,fact-sheet/caribbean-freshwater-fish.pdf,,,,
 Caribbean Ecological Services Field Office,Freshwater crustaceans,Fact Sheet,TRUE,fact-sheet/caribbean-freshwater-crustaceans.pdf,,,,
-Louisiana Ecological Services Field Office,DRAFT: A proposal to translocate whooping cranes from a discontinued non-essential experimental population (NEP) in Central Florida to an ongoing NEP in Southwestern Louisiana,Environmental Assessment,,environmental-assessment/a-proposal-to-translocate-whooping-cranes-from-a-discontinued-non-essential-experimental-population-in-central-florida-to-an-ongoing-nep-in-southwestern-louisiana.pdf,2017,Lafayette,,
+Louisiana Ecological Services Field Office,DRAFT: A proposal to translocate whooping cranes from a discontinued non-essential experimental population (NEP) in Central Florida to an ongoing NEP in Southwestern Louisiana,Environmental Assessment,,environmental-assessment/a-proposal-to-translocate-whooping-cranes-from-a-discontinued-non-essential-experimental-population-in-central-florida-to-an-ongoing-nep-in-southwestern-louisiana.pdf,2017,,Louisiana Ecological Services Field Office,
 ,Technical / Agency draft recovery plan for the Cumberland darter (Etheostoma susanae),Recovery Plan,,recovery-plan//pdf/recovery-plan/cumberland-darter-DRAFT.pdf,2018,Ecological Services,Endangered,
 ,Appalachian elktoe,Fact Sheet,,fact-sheet/appalachian-elktoe.pdf,2011,"Ecological Services, Endangered Species",Asheville Ecological Services Field Office,
 ,Bog turtle,Fact Sheet,,fact-sheet/bog-turtle.pdf,2011,"Ecological Services, Endangered Species",Asheville Ecological Services Field Office,
@@ -1591,3 +1591,51 @@ Greers Ferry National Fish Hatchery,,Fact Sheet,,fact-sheet/greers-ferry-nationa
 ,Careers in Fish and Aquatic Conservation,Fact Sheet,,https://www.fws.gov/fisheries/education/Fact%20Sheet_Careers%20in%20FAC_FINAL.pdf,,Fish and Aquatic Conservation,Greers Ferry National Fish Hatchery,
 Mammoth Spring National Fish Hatchery,,Fact Sheet,,fact-sheet/mammoth-spring-national-fish-hatchery.pdf,,Fish and Aquatic Conservation,,Arkansas
 Mammoth Spring National Fish Hatchery,,General Brochure,,brochure/mammoth-spring-national-fish-hatchery.pdf,2006,Fish and Aquatic Conservation,,Arkansas
+,Puerto Rican parrot recovery,Fact Sheet,,fact-sheet/puerto-rican-parrot-recovery.pdf,2010,Endangered Species,Caribbean Ecological Services Field Office,Puerto Rico
+,Especies amenazadas o en peligro de extinción y hábitats críticos bajo la jurisdicción del Servicio de Pesca y Vida Silvestre de los Estados Unidos,Fact Sheet,,fact-sheet/caribbean-listeed-species-2017.pdf,2017,Endangered Species,Caribbean Ecological Services Field Office,"Puerto Rico, US Virgin Islands"
+,Caribbean threatened and endangered species and critical habitat,Fact Sheet,,fact-sheet/caribbean-listeed-species-2017-english.pdf,2017,Endangered Species,Caribbean Ecological Services Field Office,"Puerto Rico, US Virgin Islands"
+,Listed species in the Caribbean,Map,,map/caribbean-listed-species-2017.pdf,2017,Endangered Species,Caribbean Ecological Services Field Office,"Puerto Rico, US Virgin Islands"
+Caribbean Ecological Services Field Office,Oficina de Servicios Ecológicos del Caribe,Fact Sheet,,fact-sheet/caribbean-ecological-services-field-office.pdf,2018,,Caribbean Ecological Services Field Office,"Puerto Rico, US Virgin Islands"
+Caribbean Ecological Services Field Office,,Fact Sheet,,fact-sheet/caribbean-ecological-services-field-office-english.pdf,2018,,Caribbean Ecological Services Field Office,"Puerto Rico, US Virgin Islands"
+,"Guajón Coquí or Puerto Rican rock or cave frog or Puerto Rican demon",Fact Sheet,,fact-sheet/coqui-guajon-english.pdf,2018,Endangered Species,Caribbean Ecological Services Field Office,Puerto Rico
+,"Guajón Coquí o Rana de rocas o cuevas de Puerto Ricoo Demonio puertorriqueño",Fact Sheet,,fact-sheet/coqui-guajon-spanish.pdf,2018,Endangered Species,Caribbean Ecological Services Field Office,Puerto Rico
+,Coquí dorado (spanish),Fact Sheet,,fact-sheet/coqui-dorado-spanish.pdf,2018,Endangered Species,Caribbean Ecological Services Field Office,Puerto Rico
+,Coquí dorado (english),Fact Sheet,,fact-sheet/coqui-dorado-english.pdf,2018,Endangered Species,Caribbean Ecological Services Field Office,Puerto Rico
+,Coquí llerano (english),Fact Sheet,,fact-sheet/coqui-llanero-english.pdf,2018,Endangered Species,Caribbean Ecological Services Field Office,Puerto Rico
+,Coquí llerano (spanish),Fact Sheet,,fact-sheet/coqui-llanero-spanish.pdf,2018,Endangered Species,Caribbean Ecological Services Field Office,Puerto Rico
+,Puerto Rican crested toad (english),Fact Sheet,,fact-sheet/puerto-rican-crested-toad-english.pdf,2018,Endangered Species,Caribbean Ecological Services Field Office,Puerto Rico
+,Puerto Rican crested toad (spanish),Fact Sheet,,fact-sheet/puerto-rican-crested-toad-spanish.pdf,2018,Endangered Species,Caribbean Ecological Services Field Office,Puerto Rico
+,St. Croix ground lizard (english),Fact Sheet,,fact-sheet/st-croix-ground-lizard-english.pdf,2018,Endangered Species,Caribbean Ecological Services Field Office,US Virgin Islands
+,St. Croix ground lizard (spanish),Fact Sheet,,fact-sheet/st-croix-ground-lizard-spanish.pdf,2018,Endangered Species,Caribbean Ecological Services Field Office,US Virgin Islands
+,Culebra Island giant anole (english),Fact Sheet,,fact-sheet/culebra-island-giant-anole-english.pdf,2018,Endangered Species,Caribbean Ecological Services Field Office,US Virgin Islands
+,Culebra Island giant anole (spanish),Fact Sheet,,fact-sheet/culebra-island-giant-anole-spanish.pdf,2018,Endangered Species,Caribbean Ecological Services Field Office,US Virgin Islands
+,Loggerhead sea turtle (english),Fact Sheet,,fact-sheet/loggerhead-sea-turtle-english.pdf,2018,Endangered Species,Caribbean Ecological Services Field Office,"Puerto Rico, US Virgin Islands"
+,Loggerhead sea turtle (spanish),Fact Sheet,,fact-sheet/loggerhead-sea-turtle-spanish.pdf,2018,Endangered Species,Caribbean Ecological Services Field Office,"Puerto Rico, US Virgin Islands"
+,Green sea turtle (english),Fact Sheet,,fact-sheet/green-sea-turtle-english.pdf,2018,Endangered Species,Caribbean Ecological Services Field Office,"Puerto Rico, US Virgin Islands"
+,Green sea turtle (spanish),Fact Sheet,,fact-sheet/green-sea-turtle-spanish.pdf,2018,Endangered Species,Caribbean Ecological Services Field Office,"Puerto Rico, US Virgin Islands"
+,Mona ground iguana (english),Fact Sheet,,fact-sheet/mona-ground-iguana-english.pdf,2018,Endangered Species,Caribbean Ecological Services Field Office,Puerto Rico
+,Mona ground iguana (spanish),Fact Sheet,,fact-sheet/mona-ground-iguana-spanish.pdf,2018,Endangered Species,Caribbean Ecological Services Field Office,Puerto Rico
+,Leatherback sea turtle (english),Fact Sheet,,fact-sheet/leatherback-sea-turtle-english.pdf,2018,Endangered Species,Caribbean Ecological Services Field Office,"Puerto Rico, US Virgin Islands"
+,Leatherback sea turtle (spanish),Fact Sheet,,fact-sheet/leatherback-sea-turtle-spanish.pdf,2018,Endangered Species,Caribbean Ecological Services Field Office,"Puerto Rico, US Virgin Islands"
+,Hawksbill sea turtle (english),Fact Sheet,,fact-sheet/hawksbill-sea-turtle-english.pdf,2018,Endangered Species,Caribbean Ecological Services Field Office,"Puerto Rico, US Virgin Islands"
+,Hawksbill sea turtle (spanish),Fact Sheet,,fact-sheet/hawksbill-sea-turtle-spanish.pdf,2018,Endangered Species,Caribbean Ecological Services Field Office,"Puerto Rico, US Virgin Islands"
+,Monito gecko (english),Fact Sheet,,fact-sheet/monito-gecko-english.pdf,2018,Endangered Species,Caribbean Ecological Services Field Office,"Puerto Rico, US Virgin Islands"
+,Monito gecko (spanish),Fact Sheet,,fact-sheet/monito-gecko-spanish.pdf,2018,Endangered Species,Caribbean Ecological Services Field Office,"Puerto Rico, US Virgin Islands"
+,Puerto Rican sharp-shinned hawk (english),Fact Sheet,,fact-sheet/puerto-rican-sharp-shinned-hawk-english.pdf,2018,Endangered Species,Caribbean Ecological Services Field Office,"Puerto Rico, US Virgin Islands"
+,Puerto Rican sharp-shinned hawk (spanish),Fact Sheet,,fact-sheet/puerto-rican-sharp-shinned-hawk-spanish.pdf,2018,Endangered Species,Caribbean Ecological Services Field Office,"Puerto Rico, US Virgin Islands"
+,Yellow-shouldered blackbird (english),Fact Sheet,,fact-sheet/yellow-shouldered-blackbird-english.pdf,2018,Endangered Species,Caribbean Ecological Services Field Office,"Puerto Rico, US Virgin Islands"
+,Yellow-shouldered blackbird (spanish),Fact Sheet,,fact-sheet/yellow-shouldered-blackbird-spanish.pdf,2018,Endangered Species,Caribbean Ecological Services Field Office,"Puerto Rico, US Virgin Islands"
+,Puerto Rican parrot (english),Fact Sheet,,fact-sheet/puerto-rican-parrot-english.pdf,2018,Endangered Species,Caribbean Ecological Services Field Office,Puerto Rico
+,Cotorra puertorriqueña (spanish),Fact Sheet,,fact-sheet/puerto-rican-parrot-spanish.pdf,2018,Endangered Species,Caribbean Ecological Services Field Office,Puerto Rico
+,Piping plover (english),Fact Sheet,,fact-sheet/piping-plover-english.pdf,2018,Endangered Species,Caribbean Ecological Services Field Office,Puerto Rico
+,Piping plover (spanish),Fact Sheet,,fact-sheet/piping-plover-spanish.pdf,2018,Endangered Species,Caribbean Ecological Services Field Office,Puerto Rico
+,White-necked crow (english),Fact Sheet,,fact-sheet/white-necked-crow-english.pdf,2018,Endangered Species,Caribbean Ecological Services Field Office,Puerto Rico
+,Cuervo pescueciblanco (spanish),Fact Sheet,,fact-sheet/white-necked-crow-spanish.pdf,2018,Endangered Species,Caribbean Ecological Services Field Office,Puerto Rico
+,Puerto Rico plain pigeon (english),Fact Sheet,,fact-sheet/plain-pigeon-english.pdf,2018,Endangered Species,Caribbean Ecological Services Field Office,Puerto Rico
+,Paloma sabanera (spanish),Fact Sheet,,fact-sheet/plain-pigeon-spanish.pdf,2018,Endangered Species,Caribbean Ecological Services Field Office,Puerto Rico
+,Roseate tern (english),Fact Sheet,,fact-sheet/roseate-tern-english.pdf,2018,Endangered Species,Caribbean Ecological Services Field Office,"Puerto Rico, US Virgin Islands"
+,Palometa (spanish),Fact Sheet,,fact-sheet/roseate-tern-spanish.pdf,2018,Endangered Species,Caribbean Ecological Services Field Office,"Puerto Rico, US Virgin Islands"
+,Antillean manatee (english),Fact Sheet,,fact-sheet/manatee-english.pdf,2018,Endangered Species,Caribbean Ecological Services Field Office,"Puerto Rico, US Virgin Islands, Florida"
+,Manatí antillano (spanish),Fact Sheet,,fact-sheet/manatee-spanish.pdf,2018,Endangered Species,Caribbean Ecological Services Field Office,"Puerto Rico, US Virgin Islands, Florida"
+,Puerto Rican broad-winged hawk (english),Fact Sheet,,fact-sheet/puerto-rican-broad-winged-hawk-english.pdf,2018,Endangered Species,Caribbean Ecological Services Field Office,Puerto Rico
+,Guaraguao de bosque (spanish),Fact Sheet,,fact-sheet/puerto-rican-broad-winged-hawk-spanish.pdf,2018,Endangered Species,Caribbean Ecological Services Field Office,Puerto Rico
