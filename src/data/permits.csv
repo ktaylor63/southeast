@@ -247,7 +247,7 @@ number,status,fed_register
 59647B-0,Issued,N/A
 59646B-0,Issued,N/A
 763742-5,No permit needed,N/A
-59645B-0,Awaiting signature,Noticed for 30 days
+59645B-0,Issued,Noticed for 30 days
 59798B-0,Issued,Noticed for 30 days
 59943B-0,Withdrawn,N/A
 60238B-0,Issued,Noticed for 30 days
@@ -551,7 +551,7 @@ number,status,fed_register
 102292-13,Issued,Noticed for 30 days
 58848C-0,Issued,N/A
 59010C-0,Issued,N/A
-066980-5,In RO for Review,Noticed for 30 days
+066980-5,Issued,Noticed for 30 days
 56749B-2,Issued,Noticed for 30 days
 59548C-0,Issued,N/A
 206872-9,Issued,Noticed for 30 days
@@ -567,7 +567,7 @@ number,status,fed_register
 64767C-0,Issued,Noticed for 30 days
 94849B-0,Issued,N/A
 66523C-0,Issued,N/A
-37900B-1,In RO for Review,Noticed for 30 days
+37900B-1,Issued,Noticed for 30 days
 68680C-0,Issued,N/A
 94728A-1,Issued,Noticed for 30 days
 69217C-0,Issued,N/A
@@ -592,11 +592,11 @@ number,status,fed_register
 65550A-2,Issued,N/A
 27608B-1,Issued,Noticed for 30 days
 74627C-0,Issued,N/A
-237535-3,In FO for Review,Noticed for 30 days
+237535-3,Issued,Noticed for 30 days
 75029C-0,Issued,N/A
-53149B-1,In FO for Review,Noticed for 30 days
+53149B-2,Issued,Noticed for 30 days
 41910B-2,Issued,N/A
-75551C-0,In FO for Review,Noticed for 30 days
+75551C-0,Issued,Noticed for 30 days
 54578B-2,Issued,Noticed for 30 days
 63633A-5,Issued,Noticed for 30 days
 75560C-0,In RO for Review,Noticed for 30 days
@@ -681,3 +681,14 @@ number,status,fed_register
 02972D-0,Issued,N/A
 04434D-0,Awaiting Input from Applicant,N/A
 05528D-0,In RO for Review,needs to be drafted
+65968A-1,In RO for Review,Noticed for 30 days
+06701D-0,In RO for Review,needs to be drafted
+07412D-0,In RO for Review,N/A
+07449D-0,In RO for Review,N/A
+07461D-0,In RO for Review,N/A
+07464D-0,In RO for Review,N/A
+07525D-0,In RO for Review,needs to be drafted
+07556D-0,In RO for Review,N/A
+07787D-0,In RO for Review,N/A
+07817D-0,In RO for Review,N/A
+07830D-0,In RO for Review,needs to be drafted
