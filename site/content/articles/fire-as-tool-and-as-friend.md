@@ -2,7 +2,7 @@
 title: 'Fire as tool, and as friend'
 subtitle: 'In Florida’s Everglades, the Service understands how prescribed burning helps head off larger wildfires'
 type: feature
-series: 'Prescribed fire'
+series: 'Friendly fire'
 description: 'Fire -- prescribed and carefully managed -- can be a wildlands’ best friend. Wildlife officials tout its ecological benefits. Hunters, fishermen and birders laud its cattail-clearing, nutrient-adding attributes. Hydrologists praise unimpeded water flows. Photo by USFWS.'
 date: 2018-08-24T00:00:00.000Z
 author: 'Dan Chapman, Public Affairs Specialist'
@@ -68,6 +68,7 @@ Smokey Bear was wrong. Fire is our friend.
     <img src="/images/hero/small/stephen-mcguin-wildland-firefighter-training.jpg">
     <ul>
         <li><a href="/articles/on-the-front-lines/">On the front lines</a></li>
+        <li><a href="/articles/safe-and-sound-burning/">Safe and sound burning</a></li>
     </ul>
 </div>
 

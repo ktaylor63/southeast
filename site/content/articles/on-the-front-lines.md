@@ -5,7 +5,7 @@ author: 'Dan Chapman, Public Affairs Specialist'
 description: 'Austin Griffin and Stephen McGuin are training to become wildland firefighters, an odd career choice given their unusual, at-times troubled backgrounds. Yet they’re perfect fits for a still-new training program crafted by The Nature Conservancy (TNC) to put a diverse and economically disadvantaged cadre of young men and women on the front firefighting lines.'
 date: 2018-07-27T00:00:00.000Z
 type: feature
-series: 'Prescribed fire'
+series: 'Friendly fire'
 hero:
     name: stephen-mcguin-wildland-firefighter-training.jpg
     alt: 'A man wearing a yellow hard hat and firefighting gear'
@@ -50,6 +50,15 @@ With the recent rise in “green jobs,” though, the Job Corps also began offer
 Once students pass basic firefighting classes and a physical, including completion of a 3-mile hike with a 45-pound pack within 45 minutes, they receive the coveted “red card.” And they’re ready to fight wildfires or prep land so fires, if they do break out, can be more readily contained.
 
 Roughly 60 Job Corps students have been trained to fight fires.
+
+<div class="explainer">
+    <h3>Recent prescribed fire stories</h3>
+    <img src="/images/hero/small/loxahatchee-nwr-prescribed-fire-air-boat.jpg">
+    <ul>
+        <li><a href="/articles/fire-as-tool-and-as-friend/">Fire as tool, and as friend</a></li>
+        <li><a href="/articles/safe-and-sound-burning/">Safe and sound burning</a></li>
+    </ul>
+</div>
 
 “We’re trying to target young people from underserved groups that typically don’t have access to an opportunity like this,” said Troy Ettel, who runs TNC’s longleaf pine program from Atlanta. “If we don’t have a conservation movement that reflects the diversity, age, race and gender of our country then we won’t have people supportive of conservation in the future.”
 
