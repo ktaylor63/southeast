@@ -16,7 +16,7 @@ tags:
     - 'Endangered Species Act'
     - 'Puerto Rico'
     - 'US Virgin Islands'
-updated: 'June 19th, 2018'
+updated: 'September 4, 2018'
 ---
 
 The Caribbean Ecological Services Field Office was established in 1974. We strive for ecosystem sustainability through preservation, conservation, enhancement, and restoration of habitats essential for the long-term viability of the fish, wildlife, and plants in the Caribbean.
@@ -74,3 +74,7 @@ The Caribbean ES Office services Puerto Rico and the U.S. Virgin Islands. Our ma
   Road 191, Kilometer 4.0 <br>
   Río Grande, PR 00745 <br>
 </address>
+
+## More information
+
+- Caribbean Ecological Services Field Office brochure in [English](/pdf/fact-sheet/caribbean-ecological-services-field-office-english.pdf) and [Spanish](/pdf/fact-sheet/caribbean-ecological-services-field-office.pdf)
