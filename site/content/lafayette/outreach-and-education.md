@@ -33,13 +33,11 @@ The Louisiana field office of the U.S. Fish and Wildlife Service offers informat
 - [Endangered Species Day](https://www.fws.gov/endangered/esday/) (at Lafayette Science Museum) - May 19
 - [Step Outside Day](https://www.fws.gov/refuge/atchafalaya/events/) (at Atchafalaya NWR) - May 12
 
-### September 2018
-
-- National Hunting and Fishing Day
-
 ### October 2018
 
 - Lafayette Parish Schools College & Career Day - October 5
+- The Teche Project [Shake your Trail Feather Festival](http://www.techeproject.org/events/shake-your-trail-feather/) - October 20
+- Atelier de la Nature's [Halloween Art and Nature Festival](https://www.facebook.com/events/643391206044537/) - October 27
 
 We also provide educational and interpretational programs to a wide variety of audiences including public and private schools, scouts, conservation groups, and more. We believe education is the key to conserving our natural resources for future generations to enjoy.
 
