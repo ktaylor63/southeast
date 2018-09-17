@@ -1,9 +1,8 @@
 ---
-draft: true
 title: 'Banded together'
 subtitle: 'Duck banding by the Service and volunteers aids conservation and research'
 author: 'Mark Davis, Public Affairs Specialist'
-date: 2018-09-02T00:00:00.000Z
+date: 2018-09-04T00:00:00.000Z
 type: feature
 hero:
     name: wood-duck-released-by-bill-ross.jpg
@@ -127,11 +126,11 @@ The volunteers formed a sort of production line: pick up a duck, ID its gender, 
 
 They were finished in about 45 minutes. The last duck departed in much the same way as the first &mdash; a burst of wings, a sudden gust, the duck moving as fast as possible away from its captors.
 
-{{< figure class="photo-right" src="/images/pages/wood-duck-maryann-ross.jpg" alt="A woman in an orange Tennessee NWR shirt holding a brownish grey duck with both of her hands." caption="MaryAnn Ross, a volunteer, has participated in two duck bandings. “We just love being outside,” she said, “and looking at the birds.” Photo by Mark Davis, USFWS." >}}
+{{< figure class="photo-right" src="/images/pages/wood-duck-maryann-ross.jpg" alt="A woman in an orange Tennessee NWR shirt holding a brownish grey duck with both of her hands." caption="MaryAnn Jay, a volunteer, has participated in two duck bandings. “We just love being outside,” she said, “and looking at the birds.” Photo by Mark Davis, USFWS." >}}
 
-Bill and MaryAnn Ross, former Atlantans who 10 years ago gave up big-city life to go RV-ing across the country, watched that last duck leave. This year marked the second year they’ve come as camper volunteers to work on the refuge helping with a variety of jobs including helping to band ducks. They plan on making it a third time, too.
+Bill and MaryAnn Jay, former Atlantans who 10 years ago gave up big-city life to go RV-ing across the country, watched that last duck leave. This year marked the second year they’ve come as camper volunteers to work on the refuge helping with a variety of jobs including helping to band ducks. They plan on making it a third time, too.
 
-“We just love being outside,” said MaryAnn Ross, “and looking at the birds.”
+“We just love being outside,” said MaryAnn Jay, “and looking at the birds.”
 
 So does Ferrell. Banding complete, he sat on the chute, a bottle of water sweating by his side. In the distance, cicadas struck up a morning chorus. Closer by, an egret lifted from a pond. Thunderheads built in the west.
 
