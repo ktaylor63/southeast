@@ -13,7 +13,6 @@ tags:
     - 'Central Arkansas Refuge Complex'
     - 'Duck Stamp'
     - 'Duck Stamp Act'
-    - Gulf
     - Hunting
     - 'North American Waterfowl Conservation Act'
     - 'North American Waterfowl Management Plan'
