@@ -3,7 +3,7 @@ draft: true
 title: 'Fish and Aquatic Conservation'
 nav: 'Fish and Aquatic Conservation'
 description: 'The U.S. Fish and Wildlife Service’s Fish and Aquatic Conservation (FAC) Initiative in the Caribbean focuses on the conservation, restoration and enhancement of aquatic habitats.'
-weight: 5
+weight: 6
 facebook: USFWSCaribbean
 hero:
     name: caribbean-stream.jpg
@@ -12,7 +12,7 @@ hero:
 tags:
     - 'Fish and Aquatic Conservation'
     - Fisheries
-updated: 'August 27th, 2018'
+updated: 'September 18th, 2018'
 ---
 
 The U.S. Fish and Wildlife Service’s Fish and Aquatic Conservation (FAC) Initiative in the Caribbean focuses on the conservation, restoration and enhancement of aquatic habitats. The initiative’s projects a benefit focal native species by augmenting the species abundance and available habitat, and maintaining stable populations and habitat suitability. These actions also benefit public health, safety and recreation.

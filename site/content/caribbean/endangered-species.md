@@ -2,7 +2,7 @@
 draft: true
 title: 'Overseeing the Endangered Species Act'
 nav: 'Endangered Species'
-weight: 6
+weight: 2
 facebook: USFWSCaribbean
 hero:
     name: caribbean-sea-turtle-on-beach.jpg
@@ -11,7 +11,7 @@ hero:
 tags:
     - 'Endangered Species Act'
     - Recovery
-updated: 'August 3rd, 2018'
+updated: 'September 18th, 2018'
 ---
 
 One of the primary responsibilities of the U.S. Fish and Wildlife Service (Service) is to protect and recover imperiled species and the ecosystems upon which they depend. The Endangered Species Act (ESA) is America’s strongest conservation law. Originally passed by Congress in 1973, the ESA is jointly administered by the Service and the [National Marine Fisheries Service](https://www.fisheries.noaa.gov/) (NMFS). The Service has primary responsibility for terrestrial and freshwater organisms, while the responsibilities of NMFS are mainly marine. Some marine animals like the sea turtles have shared responsibility between the Service and NMFS, while the Service has responsibility for the West Indian manatee.
@@ -20,12 +20,12 @@ All species of plants and animals, except pests insects, are eligible for listin
 
 The Caribbean endangered species program works to protect and recover threatened and endangered species, and to conserve at-risk species so that listing under the ESA is unnecessary. The program uses a variety of tools in partnership with federal agencies, the Commonwealth of Puerto Rico, the U.S. Virgin Islands (USVI) government, municipal governments, private landowners, and other citizens to conserve listed and at-risk species.
 
-Download a complete list of threatened and endangered species in Puerto Rico and the USVI, available in Spanish and English. A species list is also available for each of the Municipalities in Puerto Rico and the USVI.
+Download a complete list of threatened and endangered species in Puerto Rico and the USVI, available in [Spanish](/pdf/fact-sheet/caribbean-listeed-species-2017.pdf) and [English](/pdf/fact-sheet/caribbean-listeed-species-2017-english.pdf). A [species list](/pdf/map/caribbean-listed-species-2017.pdf) is also available for each of the Municipalities in Puerto Rico and the USVI.
 
 Looking for more specific information on a species ? Click on the links below for each threatened and endangered species profile and information fact sheet:
 
-Caribbean listed plants
-Caribbean listed animals
+- Caribbean listed plants
+- Caribbean listed animals
 
 ## Listing Threatened and Endangered Species
 
@@ -35,7 +35,7 @@ Threatened or endangered species receive the full protection of the ESA.
 
 ### Critical Habitat
 
-In the Caribbean, the Service has designated critical habitat for 15 species and the National Marine Fisheries Service (NMFS) designated aquatic critical habitat for the green sea turtle. Download a list of species with designated critical habitat, available in Spanish and English. A more complete description of the 16 critical habitat designations with maps for Puerto Rico and USVI is also available here.
+In the Caribbean,  the Service has designated critical habitat for 15 species and the National Marine Fisheries Service (NMFS) designated aquatic critical habitat for the green sea turtle. A more complete description of the 16 critical habitat designations with maps for Puerto Rico and USVI is also available in the [Environmental Conservation Online System](https://ecos.fws.gov/) (ECOS).
 
 ## At-Risk Species Conservation
 

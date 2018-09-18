@@ -3,7 +3,7 @@ draft: true
 title: 'Coastal Program'
 subtitle: 'Programa Costero'
 nav: 'Coastal Program'
-weight: 8
+weight: 4
 description: 'The Caribbean Ecological Services Field Office promotes healthy wildlife and their habitat through a diverse group of programs:  Endangered Species, Partners for Fish and Wildlife, Contaminants Program, Coastal Program and  Project Evaluation.'
 hero:
     name: caribbean-reefscaping.jpg
@@ -15,7 +15,7 @@ tags:
     - 'Coastal Program'
     - 'Puerto Rico'
     - 'US Virgin Islands'
-updated: 'August 3rd, 2018'
+updated: 'September 18th, 2018'
 ---
 
 The Coastal Program was established in the Caribbean in 2005. It focuses on helping communities, agencies and organizations face the challenge of integrating economic development with the conservation of our coastal resources, combining efforts for their protection and restoration.
@@ -54,7 +54,15 @@ By participating in the Coastal Program, the owner or manager of the property  e
 - Planting native trees in wetlands and other coastal ecosystems areas
 - Restoration and conservation of cays ecosystems, mangrove forests, coastal forests and aquatic resources
 
-<Include before/after pictures of projects>
+## Strengthening the resilience of the north coast of Puerto Rico to extreme weather and climate change through sand dune restoration
+
+{{< figure class="photo-center" src="/images/pages/caribbean-coastal-program-boardwalk.jpg" alt="Workers install a boardwalk along a beach." caption="Vida Marina staff members and members of the sea turtle group “Yo Amo al Tinglar” installing a boardwalk at the Maranto area of the Arecibo site. Photo by Vida Marina." >}}
+
+{{< figure class="photo-center" src="/images/pages/caribbean-coastal-program-sand-dune-restoration.jpg" alt="Workers use a wooden pallet as support for a new sand dune." caption="A volunteer planting beach grapes and beach bean plants in a recently restored area of the Maranto site. Photo by Vida Marina." >}}
+
+{{< figure class="photo-center" src="/images/pages/caribbean-coastal-program-testing-wind-speed.jpg" alt="A professor and student hold up a hand-held wind gague." caption="Dr. Robert J. Mayer and an undergraduate research student monitoring wind speed on the biomimicry set up in the Teodoro area of the Isabela sites. Photo by Vida Marina." >}}
+
+{{< figure class="photo-center" src="/images/pages/caribbean-coastal-program-sand-dune-accretion.jpg" alt="Wooden posts in the sand are more covered in sand after a two month waiting period causing dunes to grow." caption="Sand accumulation only two months later on the Teodoro area. Photo by Vida Marina." >}}
 
 ## More information
 

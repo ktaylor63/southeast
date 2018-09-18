@@ -5,7 +5,7 @@ subtitle: 'Programa Compañeros para la Vida Silvestre'
 description: 'The Caribbean Ecological Services Field Office promotes healthy wildlife and their habitat through a diverse group of programs:  Endangered Species, Partners for Fish and Wildlife, Contaminants Program, Coastal Program and Project Evaluation.'
 nav: 'Partners for Fish and Wildlife Program'
 facebook: USFWSCaribbean
-weight: 4
+weight: 5
 hero:
     name: puerto-rico-mountains.jpg
     alt: 'Puerto Rican mountains covered in vegetation.'
@@ -13,7 +13,7 @@ hero:
 tags:
     - 'Partners for Fish and Wildlife Program'
     - 'Private Landowners'
-updated: 'August 3rd, 2018'
+updated: 'September 18th, 2018'
 ---
 
 Established in 1992, the Partners for Fish and Wildlife Program provides financial and technical assistance to private landowners and other eligible entities for voluntary, on-the-ground habitat restoration and conservation projects.

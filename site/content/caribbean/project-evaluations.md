@@ -2,7 +2,7 @@
 draft: true
 title: 'Project evaluations'
 description: 'The Caribbean Ecological Services Field Office promotes healthy wildlife and their habitat through a diverse group of programs:  Endangered Species, Partners for Fish and Wildlife, Contaminants Program, Coastal Program and Project Evaluation.'
-weight: 7
+weight: 8
 nav: 'Project Evaluations'
 hero:
     name: laguna-cartagena-national-wildlife-refuge.jpg
@@ -14,7 +14,7 @@ tags:
     - 'North Carolina'
     - Recovery
     - 'Red Wolf'
-updated: 'July 2nd, 2018'
+updated: 'September 18th, 2018'
 ---
 
 The Caribbean Ecological Services Field Office offers expertise in environmental planning for projects related to energy, transportation, water supply, development, flood control, communication towers, private development, recreation, streambank and shoreline protection.  We  work directly with federal agencies, state and local partners on infrastructure development projects to conserve natural resources in Puerto Rico and the U.S. Virgin Islands.
@@ -52,23 +52,19 @@ Program Links:
 
 The resources below can help determine if your project location requires special considerations. The maps and inventories below are reference materials and do not make final determinations on possible project impacts to natural resources.  To reach a final determination, these materials are combined with professional assessments and field investigations.
 
-### [Coastal Barrier Resources Maps](https://www.fws.gov/CBRA/)
-
-These maps identify undeveloped coastal areas prone to hurricane damage where federal funds can not be spent.  A task force of professionals representing the Service, the U.S. National Park Service, U.S. Geological Survey, and other agencies  developed these maps.
-
-### [Environmental Sensitivity Index](https://www.fws.gov/caribbean/ES/ESI.html) (ESI)
-
-These maps for Puerto Rico and the U.S. Virgin Islands were developed to be used as a quick reference for the U.S. Coast Guard responses during oil spills events.
-
-### [National Wetlands Inventory Maps](https://www.fws.gov/wetlands/index.html)
-
-[The wetlands mapper](https://www.fws.gov/wetlands/Data/Mapper.html) may help you assess if a project includes or is adjacent to wetland areas. You can also [view wetlands using Google Earth](https://www.fws.gov/wetlands/Data/Google-Earth.html).
-
 ### [Information for Planning and Consultation](https://ecos.fws.gov/ipac/) (IPaC)
 
 The Service has a digital project planning tool called the  Information for Planning and Consultation (IPaC), which helps federal and states agencies, and consultants to identify resources based on user-drawn project locations. IPaC automatically provides resource lists, endangered and threatened species list and information such as conservation measures for the species that might be present in the proposed project area. 
 
-IPaC is a tool to identify potential impacts to endangered and threatened species and provides suggestions for addressing them early in the project development process, helping to save time and money and avoid potential project delays. 
+IPaC is a tool to identify potential impacts to endangered and threatened species and provides suggestions for addressing them early in the project development process, helping to save time and money and avoid potential project delays.
+
+### [Coastal Barrier Resources Maps](https://www.fws.gov/CBRA/)
+
+These maps identify undeveloped coastal areas prone to hurricane damage where federal funds can not be spent.  A task force of professionals representing the Service, the U.S. National Park Service, U.S. Geological Survey, and other agencies  developed these maps.
+
+### [National Wetlands Inventory Maps](https://www.fws.gov/wetlands/index.html)
+
+[The wetlands mapper](https://www.fws.gov/wetlands/Data/Mapper.html) may help you assess if a project includes or is adjacent to wetland areas. You can also [view wetlands using Google Earth](https://www.fws.gov/wetlands/Data/Google-Earth.html).
 
 ### Caribbean ES blanket clearance letters
 
