@@ -17,8 +17,9 @@
 }
 
 .mega-map-button {
-  display: inline-flex !important;
+  display: flex;
   justify-content: center;
+  max-width: 350px;
 
   svg {
     height: 35px;
