@@ -35,12 +35,6 @@ Occasionally, federal agencies must respond to emergency situations where human 
 
 [Learn more about emergency consultations.](/endangered-species-act/emergency-consultation/)
 
-{{< scroller-list tag="Louisiana Ecological Services Field Office" section="news" >}}
-
-{{< scroller-list tag="Louisiana Ecological Services Field Office" section="articles" >}}
-
-{{< scroller-list tag="Louisiana Ecological Services Field Office" section="wildlife" >}}
-
 ## Suggested Streamlined Coordination for Oil and Natural Gas Exploration, Drilling and Production in Louisiana Shale Plays
 
 [This document](/pdf/guidelines/suggested-streamlined-coordination-oil-and-gas-exploration-drilling-production.pdf) was prepared by the U.S. Fish and Wildlife Service’s (Service) Louisiana Ecological Services Office (LESO) and partners to protect and conserve important public resources such as wildlife and plants, and their habitats (including waterbodies) within areas of Louisiana with a high potential for new or continued oil and natural gas drilling and production.
