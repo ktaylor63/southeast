@@ -5,6 +5,7 @@ lat: 32.908850
 lng: -79.580389
 tags:
     - 'South Carolina'
+    - 'South Carolina Ecological Services Field Office'
     - 'Climate Change'
     - 'Sea Level Rise'
     - 'National Wildlife Refuge System'

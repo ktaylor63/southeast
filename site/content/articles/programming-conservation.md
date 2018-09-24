@@ -7,6 +7,7 @@ tags:
     - 'North Carolina'
     - Raleigh
     - 'South Carolina'
+    - 'South Carolina Ecological Services Field Office'
 hero:
     name: northern-long-eared-bat-in-hand.jpg
     alt: 'A small, brown, furry bat in a gloved hand.'

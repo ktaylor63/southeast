@@ -21,6 +21,7 @@ tags:
     - Recovery
     - 'Red-Cockaded Woodpecker'
     - 'South Carolina'
+    - 'South Carolina Ecological Services Field Office'
     - Translocation
 hero:
     link: 'https://flic.kr/p/ciG2q3'

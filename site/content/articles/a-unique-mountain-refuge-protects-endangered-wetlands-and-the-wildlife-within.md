@@ -22,6 +22,7 @@ tags:
     - 'Mountain Sweet Pitcher Plant'
     - 'North Carolina'
     - Sphagnum
+    - 'South Carolina Ecological Services Field Office'
     - 'Swamp Pink'
     - 'Virginia Big-Eared Bat'
 updated: 'August 28th, 2017'

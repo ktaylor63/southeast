@@ -14,6 +14,7 @@ tags:
     - 'Invasive Species'
     - Military
     - 'South Carolina'
+    - 'South Carolina Ecological Services Field Office'
     - Trapping
     - 'Waccamaw National Wildlife Refuge'
     - 'Wounded Warriors'

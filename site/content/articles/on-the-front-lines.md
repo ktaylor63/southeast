@@ -22,6 +22,7 @@ tags:
     - 'North Carolina'
     - 'Prescribed Fire'
     - 'South Carolina'
+    - 'South Carolina Ecological Services Field Office'
 updated: 'August 24th, 2018'
 ---
 

@@ -28,6 +28,7 @@ tags:
     - 'Rhode Island'
     - 'Seabeach Amaranth'
     - 'South Carolina'
+    - 'South Carolina Ecological Services Field Office'
     - Virginia
 updated: 'March 5th, 2018'
 ---

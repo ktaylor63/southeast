@@ -20,14 +20,15 @@ tags:
     - 'Savannah Coastal Refuges Complex'
     - 'Savannah National Wildlife Refuge'
     - 'South Carolina'
+    - 'South Carolina Ecological Services Field Office'
 updated: 'December 28th, 2017'
 ---
 
-**Hilton Head Island, South Carolina** -- The hiker was in bad shape. Overweight and exhausted, she had crumpled into a sitting position along the Ibis Pond Trail at the [Pinckney Island National Wildlife Refuge](https://www.fws.gov/refuge/pinckney_island/).
+**Hilton Head Island, South Carolina** &mdash; The hiker was in bad shape. Overweight and exhausted, she had crumpled into a sitting position along the Ibis Pond Trail at the [Pinckney Island National Wildlife Refuge](https://www.fws.gov/refuge/pinckney_island/).
 
 Her face turned red, almost purple. Sweat poured in torrents. Her breathing was labored. Heat stroke seemed imminent under the searing sun with temperatures nearing 100 degrees.
 
-Monica Harris and Nancy Fernandez -- mercifully -- happened by in their U.S. Fish and Wildlife Service SUV. They ferried the woman, her father and sister to safety.
+Monica Harris and Nancy Fernandez &mdash; mercifully &mdash; happened by in their U.S. Fish and Wildlife Service SUV. They ferried the woman, her father and sister to safety.
 
 {{< figure class="photo-center" src="/images/pages/nancy-fernandez-and-monica-harris.jpg" alt="Two women in uniform chatting in front of a marsh." caption="Nancy Fernandez and Monica Harris share a moment at the Pinckney Island National Wildlife Refuge in South Carolina. Photo by Dan Chapman, USFWS." >}}
 
@@ -35,14 +36,14 @@ The recent encounter with the family from New York underscored the perils, and p
 
 These refuges are critical for the Service’s, and the nation’s, future. Roughly 80 percent of the U.S. population lives in cities. Yet most of the nation’s refuges are located well beyond the bright urban lights and given over to rural pastimes like hunting and fishing.
 
-In addition, most cities lack green spaces to play, exercise, birdwatch or simply commune with nature. And their demographics -- white, black, Hispanic, Asian -- are different than most rural communities.
+In addition, most cities lack green spaces to play, exercise, birdwatch or simply commune with nature. And their demographics &mdash; white, black, Hispanic, Asian &mdash; are different than most rural communities.
 
 {{< figure class="photo-center" src="/images/pages/nancy-fernandez-watches-hawk.jpg" alt="An employee on the bank of a pond looking to a hawk in the blue sky." caption="Nancy Fernandez gazes over a pond at the Pinckney Island National Wildlife Refuge in South Carolina. Photo by Dan Chapman, USFWS." >}}
 
 “We struggle to remain relevant to urban citizens,” reads [a 2011 Fish and Wildlife report](https://www.fws.gov/refuges/pdfs/FinalDocumentConservingTheFuture.pdf).
-Popular refuges translate into more visitors, public support and congressional appropriations. 
+Popular refuges translate into more visitors, public support and congressional appropriations.
 
-“It’s incredibly important to the Fish and Wildlife Service that it has an active constituency with political clout that can go before Congress demanding that their natural values are protected, that the Endangered Species Act is protected and that the Service is adequately funded to achieve its mission,” said Rena Borkhataria, director of the Doris Duke Conservation Scholars Program at the University of Florida. 
+“It’s incredibly important to the Fish and Wildlife Service that it has an active constituency with political clout that can go before Congress demanding that their natural values are protected, that the Endangered Species Act is protected and that the Service is adequately funded to achieve its mission,” said Rena Borkhataria, director of the Doris Duke Conservation Scholars Program at the University of Florida.
 
 ## “Struggle to remain relevant”
 
@@ -52,7 +53,7 @@ Sandwiched between Savannah and Charleston along the busy South Carolina coast, 
 
 Once owned by Maj. Gen. Charles Cotesworth Pinckney, a state legislator, diplomat and military aide to George Washington, the plantation-turned-private-hunting-preserve was donated to the Service in 1975. A popular spot along the Atlantic Flyway for migratory birds, the refuge is nearly two-thirds salt marsh and tidal creeks. The Intracoastal Waterway runs along one side; Mackay Creek the other.
 
-Its [14 miles of hiking and biking trails](/pdf/brochure/pinckney-island-national-wildlife-refuge-map-and-trail-guide.pdf) afford prime [bird-watching opportunities](/pdf/bird-list/savannah-coastal-refuges-complex.pdf) -- ibis, egrets and herons in the spring nesting season; brightly colored painted buntings through the fall. Saltwater fishing is permitted year-round. A one day lottery hunt for white-tailed deer occurs each November. 
+Its [14 miles of hiking and biking trails](/pdf/brochure/pinckney-island-national-wildlife-refuge-map-and-trail-guide.pdf) afford prime [bird-watching opportunities](/pdf/bird-list/savannah-coastal-refuges-complex.pdf) -- ibis, egrets and herons in the spring nesting season; brightly colored painted buntings through the fall. Saltwater fishing is permitted year-round. A one day lottery hunt for white-tailed deer occurs each November.
 
 {{< figure class="photo-center" src="/images/pages/pinckney-island-nwr-bikers.jpg" alt="A man and woman ride bikes down a sandy path." caption="Visitors biking at Pinckney Island National Wildlife Refuge, South Carolina. Photo by USFWS." link="https://flic.kr/p/cCYs9u" >}}
 
@@ -64,11 +65,11 @@ In 2015, roughly 134,000 people entered Pinckney’s main gate, according to tra
 
 “It has ridiculously crazy potential,” Harris added, as fat raindrops and too-close thunder chased visitors from Ibis Pond into their cars.
 
-Pinckney isn’t an urban refuge despite its appeal to city dwellers and proximity to Charleston, South Carolina, Savannah and other towns. The Service set out six years ago to create a slew of “urban wildlife refuges” spread geographically across the country. The criteria were few: the refuges must be within 25 miles of a population of at least 250,000 people. 
+Pinckney isn’t an urban refuge despite its appeal to city dwellers and proximity to Charleston, South Carolina, Savannah and other towns. The Service set out six years ago to create a slew of “urban wildlife refuges” spread geographically across the country. The criteria were few: the refuges must be within 25 miles of a population of at least 250,000 people.
 
-“We face challenges in connecting with all Americans,” reads an October 2011 Service report entitled [_Conserving the Future: Wildlife Refuges and the Next Generation_](https://www.fws.gov/refuges/pdfs/FinalDocumentConservingTheFuture.pdf). “We struggle to remain relevant to urban citizens who have competing priorities and few outside experiences; we strain to find ways to connect with young Americans who are technologically fluent, but deficient in nature experiences; and we toil to recruit and retain a more inclusive workforce that reflects the diversity of America.” 
+“We face challenges in connecting with all Americans,” reads an October 2011 Service report entitled [_Conserving the Future: Wildlife Refuges and the Next Generation_](https://www.fws.gov/refuges/pdfs/FinalDocumentConservingTheFuture.pdf). “We struggle to remain relevant to urban citizens who have competing priorities and few outside experiences; we strain to find ways to connect with young Americans who are technologically fluent, but deficient in nature experiences; and we toil to recruit and retain a more inclusive workforce that reflects the diversity of America.”
 
-In 2015, $1 million was allocated to four newly designated urban refuges. Two -- [Bayou Sauvage](https://www.fws.gov/refuge/bayou_sauvage/) in New Orleans and [Loxahatchee](https://www.fws.gov/refuge/arm_loxahatchee/) in Palm Beach County, Florida -- were designated as “priority” urban refuges in the Southeast. 
+In 2015, $1 million was allocated to four newly designated urban refuges. Two &mdash; [Bayou Sauvage](https://www.fws.gov/refuge/bayou_sauvage/) in New Orleans and [Loxahatchee](https://www.fws.gov/refuge/arm_loxahatchee/) in Palm Beach County, Florida &mdash; were designated as “priority” urban refuges in the Southeast.
 
 {{< figure class="photo-center" src="/images/pages/loxahatchee-nwr-sunset.jpg" alt="The sun dips below the horizon turning the sky pink." caption="Sunset at Loxahatchee National Wildlife Refuge. Photo by Garry Tucker, USFWS." >}}
 
@@ -86,7 +87,7 @@ And the National Park Service, with many iconic and popular public lands in or c
 
 Debate, though, is ongoing about how public the refuges should be.
 
-“It’s in the Service’s mission to provide opportunities for recreation to pretty much all of society,” said Borkhataria who, as a graduate student, worked at Loxahatchee. “Urban refuges are extremely important. When you get to actively experience these natural spaces, you become more invested in preserving them.” 
+“It’s in the Service’s mission to provide opportunities for recreation to pretty much all of society,” said Borkhataria who, as a graduate student, worked at Loxahatchee. “Urban refuges are extremely important. When you get to actively experience these natural spaces, you become more invested in preserving them.”
 
 Borkhataria generally gives the Service credit for its urban outreach. The numbers bear her out. Loxahatchee, for example, welcomed 339,000 visitors in 2014. Last year, 378,000 people visited. Bayou Sauvage nearly doubled its visitation in that time to 89,000.
 

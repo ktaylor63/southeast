@@ -17,6 +17,7 @@ tags:
     - Eclipse
     - 'National Wildlife Refuge System'
     - 'South Carolina'
+    - 'South Carolina Ecological Services Field Office'
 updated: 'August 28th, 2017'
 ---
 

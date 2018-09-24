@@ -16,8 +16,9 @@ tags:
     - 'Partners for Fish and Wildlife Program'
     - Recovery
     - 'South Carolina'
+    - 'South Carolina Ecological Services Field Office'
 date: '2017-06-27'
-author: 'Joe Cockrell and April Punsalan, Charleston Ecological Services Field Office'
+author: 'Joe Cockrell and April Punsalan, South Carolina Ecological Services Field Office'
 updated: 'July 20th, 2017'
 ---
 

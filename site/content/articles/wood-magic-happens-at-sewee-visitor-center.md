@@ -12,6 +12,7 @@ tags:
     - E-Grits
     - 'Environmental Education'
     - 'South Carolina'
+    - 'South Carolina Ecological Services Field Office'
     - 'Wood Magic Forest Fair'
 type: 'Bragging Rights'
 updated: 'December 21st, 2017'
