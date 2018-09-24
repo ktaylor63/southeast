@@ -13,7 +13,7 @@ hero:
 facebook: pvtjohnallennfh
 nav: 'Our Fish'
 weight: 2
-updated: 'August 29th, 2018'
+updated: 'September 19th, 2018'
 ---
 
 Private John Allen National Fish Hatchery is charged with restoring threatened, endangered, at-risk and recreational fish species to achieve self-sustaining populations in the wild and for stocking recreational fish on national wildlife refuges.  Learn more about some of the species of fish we raise:
@@ -46,7 +46,7 @@ The hatchery serves as the Service’s lead for restoring alligator gar througho
 
 This hatchery is a part of a major nations program to restore striped bass (also known as rockfish). This hatchery produces an average of 320,000 striped bass every year. Some of these striped bass are stocked when they have reached a length of two inches, others are kept for a longer period of time and fed a special diet until they grow to be about four to six inches, and then they are stocked in waters throughout the region.
 
-In 1987, Florida, Georgia, Alabama, and the U. S. Fish and Wildlife Service signed a cooperative agreement to restore striped bass in the Apalachicola-Chattahoochee-Flint (ACF) River basin.  The Service is responsible for the restoration of this species under the Gulf States Marine Fisheries compact and the Mississippi Interstate Cooperative Resource Agreement.  To assist in restoration of Gulf Coast striped bass to their historic range, the hatchery  stocks hatchery reared fish in the ACF river system.  Some of these striped bass are stocked when they have reached a length of two inches, others are kept for a longer period of time and fed a special diet until they grow to be about four to six inches, and then they are stocked throughout their historical range.
+In 1987, Florida, Georgia, Alabama, and the U. S. Fish and Wildlife Service signed a cooperative agreement to restore striped bass in the Apalachicola-Chattahoochee-Flint (ACF) River basin.  The Service is responsible for the restoration of this species under the Gulf States Marine Fisheries compact and the Mississippi Interstate Cooperative Resource Agreement.  To assist in restoration of Gulf Coast striped bass to their historical range, the hatchery  stocks hatchery reared fish in the ACF river system.  Some of these striped bass are stocked when they have reached a length of two inches, others are kept for a longer period of time and fed a special diet until they grow to be about four to six inches, and then they are stocked throughout their historical range.
 
 ## Walleye
 

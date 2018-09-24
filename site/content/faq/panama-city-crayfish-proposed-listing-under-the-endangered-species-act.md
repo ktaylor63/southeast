@@ -10,7 +10,7 @@ tags:
     - 'Endangered Species Act'
     - Florida
     - 'Panama City Crayfish'
-updated: 'January 3rd, 2018'
+updated: 'September 19th, 2018'
 ---
 
 ## What is the Panama City crayfish?
@@ -21,7 +21,7 @@ The Panama City crayfish is a small, semi-terrestrial crayfish that grows to abo
 
 The Service’s finding is based primarily on a [species status assessment](https://ecos.fws.gov/ServCat/DownloadFile/136342) (SSA) prepared for the Panama City crayfish. The Service determined the greatest threats to the crayfish are habitat loss and degradation, habitat fragmentation, and isolation of subpopulations due to commercial and residential development. The current conditions, as assessed in the SSA, show only 43 to 54 percent of the original lands historically available to the Panama City crayfish remain potentially available for use by the crayfish. 
 
-The SSA team was composed of Service biologists who consulted with other species experts. The SSA represents a compilation of the best scientific and commercial data available concerning the status of the species, including the impacts of negative and beneficial factors affecting the species. The SSA underwent independent peer review by scientists with expertise in crayfish biology, habitat management, and factors negatively affecting the species. Maps depicting the historic range and current populations are included in the SSA for reference. The SSA report and other materials relating to this proposal can be found on the [Service’s Southeast Region website](https://ecos.fws.gov/ServCat/DownloadFile/136342) 
+The SSA team was composed of Service biologists who consulted with other species experts. The SSA represents a compilation of the best scientific and commercial data available concerning the status of the species, including the impacts of negative and beneficial factors affecting the species. The SSA underwent independent peer review by scientists with expertise in crayfish biology, habitat management, and factors negatively affecting the species. Maps depicting the historical range and current populations are included in the SSA for reference. The SSA report and other materials relating to this proposal can be found on the [Service’s Southeast Region website](https://ecos.fws.gov/ServCat/DownloadFile/136342) 
 and at [regulations.gov](https://www.regulations.gov/document?D=FWS-R4-ES-2017-0061-0001) under Docket No. FWS–R4–ES–2017–0061.
 
 ## What would listing mean for this species?

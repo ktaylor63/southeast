@@ -12,7 +12,7 @@ tags:
     - 'North Carolina'
     - Recovery
     - 'Red Wolf'
-updated: 'November 28th, 2017'
+updated: 'September 19th, 2018'
 ---
 
 ## What are the Service’s future plans for managing the Eastern North Carolina Non-Essential Experimental Red Wolf Population?
@@ -52,7 +52,7 @@ We will consider whether there are management techniques available to sufficient
 
 Are management techniques available sufficient to ensure the red wolf’s genetic makeup?
 
-Are there areas within the historic range suitable for serving as a core red wolf population sites across its historic range?
+Are there areas within the historical range suitable for serving as a core red wolf population sites across its historical range?
 
 Is there enough public and state support in each of these areas for the establishment of three such populations?
 
@@ -68,4 +68,4 @@ Although there is disagreement within the scientific community regarding the tax
 
 ## Why are the Red Wolf Recovery Program and the NEP important to the Service?
 
-Our September 1987, release of red wolves into the Alligator River National Wildlife Refuge marked the first time in this nation’s history that a federally-listed species was reintroduced to the historic range from which it had been extirpated. Prior to this reintroduction, the nation’s remaining red wolf populations existed solely in captivity. Later, other wolf reintroductions, which were modeled on our program, such as that of the gray wolf into the Greater Yellowstone Ecosystem, have occurred as a means to recover wolf species in the wild. We have learned a great deal about the red wolf from the NEP, including, but not limited to, the species’ dispersal patterns and need for large home ranges. We also have acquired knowledge about the extent to which coyotes threaten red wolves through gene introgression and the importance of maintaining intact red wolf breeding pairs to counter hybridization and coyote expansion. We have gained an increased appreciation of the value and necessity of working in partnership with the state and in effectively engaging and supporting private landowners in our reintroduction effort.
+Our September 1987, release of red wolves into the Alligator River National Wildlife Refuge marked the first time in this nation’s history that a federally-listed species was reintroduced to the historical range from which it had been extirpated. Prior to this reintroduction, the nation’s remaining red wolf populations existed solely in captivity. Later, other wolf reintroductions, which were modeled on our program, such as that of the gray wolf into the Greater Yellowstone Ecosystem, have occurred as a means to recover wolf species in the wild. We have learned a great deal about the red wolf from the NEP, including, but not limited to, the species’ dispersal patterns and need for large home ranges. We also have acquired knowledge about the extent to which coyotes threaten red wolves through gene introgression and the importance of maintaining intact red wolf breeding pairs to counter hybridization and coyote expansion. We have gained an increased appreciation of the value and necessity of working in partnership with the state and in effectively engaging and supporting private landowners in our reintroduction effort.

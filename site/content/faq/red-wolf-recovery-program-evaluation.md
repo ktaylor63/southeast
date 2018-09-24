@@ -11,7 +11,7 @@ tags:
     - 'North Carolina'
     - Recovery
     - 'Red Wolf'
-updated: 'November 28th, 2017'
+updated: 'September 19th, 2018'
 ---
 
 ## How is the Service going to use the evaluation findings?
@@ -32,7 +32,7 @@ No. Once a decision is reached regarding the future of the	non-essential experim
 
 ## If the project in Eastern North Carolina ends, is that the end for the red wolf recovery in the wild?
 
-No, our goal and task to recover the species remains the same. So long as the red wolf is listed as an endangered species the Service will continue to work towards the recovery goal in the Red Wolf Recovery Plan that calls for three self-sustaining wild populations distributed through the historic range of the species.
+No, our goal and task to recover the species remains the same. So long as the red wolf is listed as an endangered species the Service will continue to work towards the recovery goal in the Red Wolf Recovery Plan that calls for three self-sustaining wild populations distributed through the historical range of the species.
 
 ## What is the difference between the overall Red Wolf Recovery effort and the non-essential, experimental population in Eastern North Carolina?
 

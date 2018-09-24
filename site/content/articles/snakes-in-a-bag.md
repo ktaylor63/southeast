@@ -2,7 +2,7 @@
 title: 'Snakes in a bag'
 subtitle: 'Service and partners work together to bring back the iconic Eastern indigo snake'
 author: 'Dan Chapman, Public Affairs Specialist'
-date: 2018-05-25
+date: 2018-05-25T00:00:00.000Z
 type: feature
 hero:
     name: eastern-indigo-snake.jpg
@@ -21,7 +21,7 @@ tags:
     - Recovery
     - 'Red-Cockaded Woodpecker'
     - 'Welaka National Fish Hatchery'
-updated: 'May 24th, 2018'
+updated: 'September 19th, 2018'
 ---
 
 **Andalusia, Alabama** &mdash; A gaggle of biologists, zookeepers, college students and government officials traipsed through the Deep South longleaf pine forest one recent, gorgeous spring morning carefully clutching white pillowcases.
@@ -56,7 +56,7 @@ Roughly 600 different plants, insects, birds and mammals &mdash; 30 federally th
 
 They are so-called apex predators who sit atop their local food chain with little fear of being devoured by others. Their appetite &mdash; rodents and venomous snakes like copperheads and rattlesnakes &mdash; ensures a healthy ecological balance for the forest’s many creatures.
 
-Indigos, whose historic range stretches from southeast Mississippi across south Alabama and Florida and up into southeast Georgia, are beautiful, docile snakes. They can reach nine feet in length with lustrous skin covered in iridescent blue-black scales.
+Indigos, whose historical range stretches from southeast Mississippi across south Alabama and Florida and up into southeast Georgia, are beautiful, docile snakes. They can reach nine feet in length with lustrous skin covered in iridescent blue-black scales.
 
 The snakes, though, are elusive. And their home is under siege.
 

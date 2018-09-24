@@ -18,7 +18,7 @@ tags:
     - Tennessee
     - 'Tennessee Ecological Services Field Office'
     - 'Tennessee National Wildlife Refuge'
-updated: 'August 24th, 2018'
+updated: 'September 19th, 2018'
 ---
 
 ## What action is the U.S. Fish and Wildlife Service taking?
@@ -35,7 +35,7 @@ The Barrens Topminnow was initially proposed to be listed in 1977 as endangered.
 
 ## What conservation work has already been done for the topminnow?
 
-Efforts to artificially propagate the Barrens topminnow began in the 1970s and have proved very successful at producing fish for stocking. In addition, the Service worked with landowners to protect and improve Barrens topminnow habitat through fencing-out livestock and increasing the amount of suitable habitat at certain sites by widening and deepening pools. Starting in the 1990s, a concerted effort was made to restock topminnows into 27 springs throughout their historic range with the cooperation of many landowners. One example illustrates the challenge conservationists face.  The Service acquired a parcel of land with a spring on it that was added to the Tennessee National Wildlife Refuge (NWR). This spring had already been invaded by mosquitofish, so the spring was rehabilitated by poisoning out the mosquitofish, widening pools, installing a concrete low-water crossing to act as a barrier to future invasion by mosquitofish, and restocking the spring with barrens topminnow. Unfortunately, the barrier was overtopped in a flood and mosquitofish regained access to the spring resulting in the elimination of the topminnow from the spring in just a few years. 
+Efforts to artificially propagate the Barrens topminnow began in the 1970s and have proved very successful at producing fish for stocking. In addition, the Service worked with landowners to protect and improve Barrens topminnow habitat through fencing-out livestock and increasing the amount of suitable habitat at certain sites by widening and deepening pools. Starting in the 1990s, a concerted effort was made to restock topminnows into 27 springs throughout their historical range with the cooperation of many landowners. One example illustrates the challenge conservationists face.  The Service acquired a parcel of land with a spring on it that was added to the Tennessee National Wildlife Refuge (NWR). This spring had already been invaded by mosquitofish, so the spring was rehabilitated by poisoning out the mosquitofish, widening pools, installing a concrete low-water crossing to act as a barrier to future invasion by mosquitofish, and restocking the spring with barrens topminnow. Unfortunately, the barrier was overtopped in a flood and mosquitofish regained access to the spring resulting in the elimination of the topminnow from the spring in just a few years. 
 
 These conservation actions were coordinated by the Barrens topminnow working group, a partnership of USFWS Hatcheries and Ecological Services, Tennessee Wildlife Resources Agency (TWRA), Researchers from Tennessee Tech University, the Tennessee Aquarium, and Conservation Fisheries Inc. This partnership has worked to conserve the Barrens topminnow and monitor its populations, including rescuing fish from springs at risk of drying up during droughts.
 

@@ -11,7 +11,7 @@ hero:
     alt: 'A close-up photograph of a red wolf face'
     caption: 'Red wolf. Photo by B. Bartel, USFWS.'
     link: 'https://flic.kr/p/egdhkS'
-updated: 'April 24th, 2018'
+updated: 'September 19th, 2018'
 ---
 
 ## What is a red wolf?
@@ -55,11 +55,11 @@ In the case of the red wolf, the Service is maintaining its current classificati
 
 ## Could a red wolf population be introduced somewhere else?
 
-The Service will continue to explore new possible locations for another NEP re-introduction where we have support and will work with landowners and partners across the red wolf’s historic range. At this point no site has been identified that will meet all needs.
+The Service will continue to explore new possible locations for another NEP re-introduction where we have support and will work with landowners and partners across the red wolf’s historical range. At this point no site has been identified that will meet all needs.
 
 ## Is the public able to comment on this proposal?
 
-Citizens and interested organizations are always invited to share their perspective and experience related to this red wolf recovery effort. Although the [5-year review](/pdf/five-year-reviews/red-wolf-2018.pdf) and the [Species Status Assessment](http://ecos.fws.gov/ServCat/DownloadFile/147196) don’t specifically invite public comment and review, other parts of this process will offer opportunities for public review and comment.
+Citizens and interested organizations are always invited to share their perspective and experience related to this red wolf recovery effort. Although the [5-year review](https://ecos.fws.gov/docs/five_year_review/doc5714.pdf) and the [Species Status Assessment](http://ecos.fws.gov/ServCat/DownloadFile/147196) don’t specifically invite public comment and review, other parts of this process will offer opportunities for public review and comment.
 
 ## What can we expect in terms of additional actions related to the red wolf recovery effort?
 

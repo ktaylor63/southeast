@@ -14,7 +14,7 @@ tags:
 facebook: pvtjohnallennfh
 nav: 'Frequently Asked Questions'
 weight: 4
-updated: 'August 29th, 2017'
+updated: 'September 19th, 2018'
 ---
 
 ## Where can I purchase a fishing license?
@@ -37,7 +37,7 @@ No fish have ever been sold at Private John Allen NFH. In the past the hatchery 
 
 ## What kind of fish are raised?
 
-Private John Allen NFH  raises several species of fish, including paddlefish, alligator gar,  striped bass, walleye, largemouth bass, redear sunfish, bluegill bream, channel catfish, and lake sturgeon. The alligator gar are raised to restore depleted populations in the Lower Mississippi River Basin. The paddlefish are raised to augment the population in the Pascagoula River Basin. The striped bass are raised as part of the Gulf Coast Striped Bass Recovery Plan. The walleye are raised for restoration stocking throughout their historic ranges in Alabama and Mississippi. The lake sturgeon are raised for restoration purposes on the upper Tennessee River in Tennessee. The largemouth bass, bluegilll, redear sunfish, and channel catfish are raised to enhance recreational fishing on national wildlife refuges, state lakes and tribal lakes as needed. The hatchery also develops propagation techniques for at-risk species such as the yazoo darter, piebald madtom and pearl darter, with hopes to reintroduce some of these species in their historic ranges where they have disappeared. Mobile logperch are propagated to use as host fish for glochidia of the endangered southern combshell, a freshwater mussel. 
+Private John Allen NFH  raises several species of fish, including paddlefish, alligator gar,  striped bass, walleye, largemouth bass, redear sunfish, bluegill bream, channel catfish, and lake sturgeon. The alligator gar are raised to restore depleted populations in the Lower Mississippi River Basin. The paddlefish are raised to augment the population in the Pascagoula River Basin. The striped bass are raised as part of the Gulf Coast Striped Bass Recovery Plan. The walleye are raised for restoration stocking throughout their historical ranges in Alabama and Mississippi. The lake sturgeon are raised for restoration purposes on the upper Tennessee River in Tennessee. The largemouth bass, bluegilll, redear sunfish, and channel catfish are raised to enhance recreational fishing on national wildlife refuges, state lakes and tribal lakes as needed. The hatchery also develops propagation techniques for at-risk species such as the yazoo darter, piebald madtom and pearl darter, with hopes to reintroduce some of these species in their historical ranges where they have disappeared. Mobile logperch are propagated to use as host fish for glochidia of the endangered southern combshell, a freshwater mussel. 
 
 ## How does the hatchery capture large brood fish such as paddlefish and alligator gar?
 

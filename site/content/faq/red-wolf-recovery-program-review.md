@@ -1,6 +1,6 @@
 ---
 title: 'Red wolf recovery program review'
-updated: 'November 28th, 2017'
+updated: 'September 19th, 2018'
 hero:
     name: red-wolf-father-and-pups.jpg
     alt: 'A male red wolf looks on as two pups play'
@@ -15,7 +15,7 @@ tags:
 
 ## Why did the U.S. Fish and Wildlife Service (Service) conduct a review for the Red Wolf Recovery Program?
 
-The Service recognized a need to gather additional science and research to better guide recovery of the endangered red wolf under the Endangered Species Act (ESA). To that end, the Service initiated a two-year, two-step review of the red wolf recovery program including the non-essential, experimental population in northeastern North Carolina. The review began in 2014 with a peer-reviewed program assessment by the Wildlife Management Institute. It was later expanded in June 2015 to include recovery efforts beyond the program’s wild population in North Carolina to help the Service identify actions necessary to guide red wolf recovery on the landscape. A recovery team was established last fall to examine feasibility of recovery, population viability, the historic range, and human dimensions. Its work led to a report with options for the Service to consider.
+The Service recognized a need to gather additional science and research to better guide recovery of the endangered red wolf under the Endangered Species Act (ESA). To that end, the Service initiated a two-year, two-step review of the red wolf recovery program including the non-essential, experimental population in northeastern North Carolina. The review began in 2014 with a peer-reviewed program assessment by the Wildlife Management Institute. It was later expanded in June 2015 to include recovery efforts beyond the program’s wild population in North Carolina to help the Service identify actions necessary to guide red wolf recovery on the landscape. A recovery team was established last fall to examine feasibility of recovery, population viability, the historical range, and human dimensions. Its work led to a report with options for the Service to consider.
 
 ## What issues did the Service consider in the review of the Red Wolf Recovery Program?
 
@@ -32,7 +32,7 @@ The science now available to the Service shows **the captive population is not s
 
 Relative to the **red wolf’s genetics**, there is disagreement in the scientific community regarding the taxonomy and genetic ancestry of the red wolf. The Service is moving forward with the belief that the red wolf remains a listable entity.
 
-The Wildlife Management Institute (WMI) examined the red wolf’s **historic range** as part of the Service’s review. WMI concluded that an accurate predictor of the red wolf’s range includes all or parts of a significant part of the Southeast United States including North Carolina. The recovery team generally agrees with WMI’s results. 
+The Wildlife Management Institute (WMI) examined the red wolf’s **historical range** as part of the Service’s review. WMI concluded that an accurate predictor of the red wolf’s range includes all or parts of a significant part of the Southeast United States including North Carolina. The recovery team generally agrees with WMI’s results. 
 
 The red wolf is a conservation-reliant species that requires intensive, hands-on management to sustain it in the wild. **Hybridization** with coyotes is an ongoing challenge exacerbated by human-caused mortality particularly when a pack loses breeding adults close to mating season. At this time, the reality is that it may simply not be possible to achieve competitive exclusion of coyotes and hybrids with red wolves in northeastern North Carolina. Therefore, the Service will be focusing its management efforts in Dare County and the federal lands there.
 
@@ -62,10 +62,10 @@ The ultimate goal is to recover the red wolf in the wild. As such, the wild popu
 
 Maintaining a smaller, more manageable wild population that is fully integrated with the captive population would:
 
-  - Allow for animals removed from the wild to support the necessary expansion and improved genetic health of the captive population;
-  - Retain some of the influences of natural selection on the gene pool;
-  - Service as a small stock source for new reintroduction efforts across the red wolf’s historic range; and
-  - Provide a population of continued research on the species’ wild behavior.
+- Allow for animals removed from the wild to support the necessary expansion and improved genetic health of the captive population;
+- Retain some of the influences of natural selection on the gene pool;
+- Service as a small stock source for new reintroduction efforts across the red wolf’s historical range; and
+- Provide a population of continued research on the species’ wild behavior.
 
 ## What are the Service’s future plans for managing the non-essential, experimental red wolf population in northeastern North Carolina?
 
@@ -85,14 +85,14 @@ Red wolves are federally-listed under the ESA and, in the case of the non-essent
 
 ## Why is the non-essential, experimental population in North Carolina important to red wolf recovery?
 
-The September 1987 release of red wolves into the Alligator River National Wildlife Refuge marked the first time in this Nation’s history that a federally-listed species was reintroduced to the historic range from which it had been extirpated. Prior to this reintroduction, the remaining red wolf populations existed solely in captivity. Later, other wolf reintroductions, which were modeled on our program, such as that of the gray wolf into the Greater Yellowstone Ecosystem, have occurred as a means to recover wolf species in the wild. The Service has learned a great deal about the red wolf from the non-essential, experimental population, including, but not limited to, the species’ dispersal patterns and need for large home ranges. We also have acquired knowledge about the extent to which coyotes threaten red wolves through gene introgression and the importance of maintaining intact red wolf breeding pairs to counter hybridization and coyote expansion. The Service has gained an increased appreciation of the value and necessity of working in partnership with the State of North Carolina and in engaging private landowners in our reintroduction effort.
+The September 1987 release of red wolves into the Alligator River National Wildlife Refuge marked the first time in this Nation’s history that a federally-listed species was reintroduced to the historical range from which it had been extirpated. Prior to this reintroduction, the remaining red wolf populations existed solely in captivity. Later, other wolf reintroductions, which were modeled on our program, such as that of the gray wolf into the Greater Yellowstone Ecosystem, have occurred as a means to recover wolf species in the wild. The Service has learned a great deal about the red wolf from the non-essential, experimental population, including, but not limited to, the species’ dispersal patterns and need for large home ranges. We also have acquired knowledge about the extent to which coyotes threaten red wolves through gene introgression and the importance of maintaining intact red wolf breeding pairs to counter hybridization and coyote expansion. The Service has gained an increased appreciation of the value and necessity of working in partnership with the State of North Carolina and in engaging private landowners in our reintroduction effort.
 
 The wild population in North Carolina is biologically important to the overall recovery of the red wolf and is integral to proposed path forward. Wild-born red wolves have the best chance of surviving and successfully establishing territories and reproducing. As such, the Service is proposing to manage a smaller wild population in North Carolina. Maintaining a smaller, more manageable wild population that is fully integrated with the captive population would:
 
-  - Allow for animals removed from the wild to support the necessary expansion and improved genetic health of the captive population;
-  - Retain some of the influences of natural selection on the gene pool;
-  - Service as a small stock source for new reintroduction efforts across the red wolf’s historic range; and
-  - Provide a population of continued research on the species’ wild behavior.
+- Allow for animals removed from the wild to support the necessary expansion and improved genetic health of the captive population;
+- Retain some of the influences of natural selection on the gene pool;
+- Service as a small stock source for new reintroduction efforts across the red wolf’s historical range; and
+- Provide a population of continued research on the species’ wild behavior.
 
 ## Has the Service identified possible sites for future non-essential, experimental projects?
 
@@ -124,7 +124,7 @@ Section 4(f) of the ESA allows for the Service to establish a recovery team of a
 
 ## Why did the Service convene a new red wolf recovery team?
 
-The Service took steps to involve state partners and key stakeholders in the review of the Red Wolf Recovery Program. A multi-faceted recovery team was reconvened in October 2015 to address current and future needs to restore red wolves in the wild. The team—comprised of representatives from federal and state agencies, university scientists, species experts, representatives from non-governmental organizations, county officials, and private landowners—reviewed the implementation of recovery actions and the science of red wolf conservation related to species taxonomy and historic range, population viability, and human dimensions.
+The Service took steps to involve state partners and key stakeholders in the review of the Red Wolf Recovery Program. A multi-faceted recovery team was reconvened in October 2015 to address current and future needs to restore red wolves in the wild. The team—comprised of representatives from federal and state agencies, university scientists, species experts, representatives from non-governmental organizations, county officials, and private landowners—reviewed the implementation of recovery actions and the science of red wolf conservation related to species taxonomy and historical range, population viability, and human dimensions.
 
 ## How did the Service select the red wolf recovery team members?
 

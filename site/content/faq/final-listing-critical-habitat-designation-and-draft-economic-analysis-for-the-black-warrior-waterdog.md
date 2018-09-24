@@ -12,7 +12,7 @@ tags:
     - 'Critical Habitat'
     - 'Endangered Species Act'
     - Salamander
-updated: 'January 2nd, 2018'
+updated: 'September 19th, 2018'
 ---
 
 ## What action is the U.S. Fish and Wildlife Service (Service) taking?
@@ -90,7 +90,7 @@ We will continue to work with landowners, developers, agencies and other partner
 
 ## What areas are proposed as critical habitat for the Black Warrior waterdog?
 
-The Service is designating critical habitat in four units, all within the historic range of the Black Warrior waterdog. The designation is comprised of four tributaries within the Black Warrior River Basin; Sipsey Fork (Lawrence and Winston Counties); Locust Fork (Blount, Etowah, Jefferson, and Marshall Counties); Blackwater Creek (Walker and Winston Counties); and Yellow Creek (Tuscaloosa County). There is no unoccupied habitat included in this final decision.
+The Service is designating critical habitat in four units, all within the historical range of the Black Warrior waterdog. The designation is comprised of four tributaries within the Black Warrior River Basin; Sipsey Fork (Lawrence and Winston Counties); Locust Fork (Blount, Etowah, Jefferson, and Marshall Counties); Blackwater Creek (Walker and Winston Counties); and Yellow Creek (Tuscaloosa County). There is no unoccupied habitat included in this final decision.
 
 TABLE 1. Occupancy of Black Warrior waterdog by critical habitat units and existing overlapping critical habitat designation for Federally listed species.
 
@@ -105,11 +105,11 @@ TABLE 1. Occupancy of Black Warrior waterdog by critical habitat units and exist
 
 {{< figure class="photo-center" src="/images/pages/black-warrior-waterdog-critical-habitat-map.jpg" alt="A map highlighting critical habitat stretches in north central Alabama." caption="Critical habitat for the Black Warrior waterdog. Map by USFWS.">}}
 
-{{< figure class="photo-center" src="/images/pages/black-warrior-waterdog-historic-range.jpg" alt="A map depicting this salamanders historic range in northwestern Alabama." caption="Black Warrior waterdog's Historic Range. Map by Drew Rollman, USFWS." >}}
+{{< figure class="photo-center" src="/images/pages/black-warrior-waterdog-historic-range.jpg" alt="A map depicting this salamanders historical range in northwestern Alabama." caption="Black Warrior waterdog's historical range. Map by Drew Rollman, USFWS." >}}
 
 ## How did the Service select these units for critical habitat? 
 
-The Service looked to see where the Black Warrior waterdog was known to occur based on collections and reports, referred to as the historic range. Then, we determined whether the potential critical habitat designation contains physical or biological features that provide for a species’ life history processes and are essential for its conservation. Finally, we examined the bodies of water that are occupied by the waterdog.
+The Service looked to see where the Black Warrior waterdog was known to occur based on collections and reports, referred to as the historical range. Then, we determined whether the potential critical habitat designation contains physical or biological features that provide for a species’ life history processes and are essential for its conservation. Finally, we examined the bodies of water that are occupied by the waterdog.
 
 ## Is there already existing critical habitat in the Black Warrior River Basin?
 

@@ -10,7 +10,7 @@ tags:
     - 'Endangered Species Act'
     - Florida
     - 'Florida Black Bear'
-updated: 'April 18th, 2017'
+updated: 'September 19th, 2018'
 ---
 
 ## Who petitioned the Service?
@@ -40,7 +40,7 @@ The petition focused primarily on ESA and Service policy claims:
 
 ## What is the estimated Florida black bear population?
 
-In 2016 the Florida Black Bear occupied approximately 45 percent of its historic range with an estimated population of more than 4,000 that is increasing.  That is a significant improvement from 1998, when state estimates reflected only 400 bears throughout  Florida.
+In 2016 the Florida Black Bear occupied approximately 45 percent of its historical range with an estimated population of more than 4,000 that is increasing.  That is a significant improvement from 1998, when state estimates reflected only 400 bears throughout  Florida.
 
 ## The petitioner’s raised concerns regarding the recent 2015 hunting season authorized by the State of Florida. Isn’t that enough to warrant further federal review for possible listing?
 

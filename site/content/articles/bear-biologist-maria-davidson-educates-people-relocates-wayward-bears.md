@@ -15,7 +15,7 @@ hero:
     position: 'top center'
 author: 'Nadine Siak, USFWS Gulf Restoration Program'
 date: '2016-03-10'
-updated: 'May 7th, 2018'
+updated: 'September 19th, 2018'
 ---
 
 If you Google “Maria Davidson” and “black bear,” you’ll get many news reports along the lines of “There’s a bear over there!” That’s because Louisiana black bears occasionally wander out of their normal backwoods habitat into those of humans.
@@ -32,7 +32,7 @@ Davidson says it’s easy to understand why bears can be drawn to residential ar
 
 So part of her job is to be proactive by encouraging communities to take measures not to attract bears in the first place, such as getting into the habit of keeping garbage indoors in a secure shed or garage until time for pick up.
 
-Davidson also plays a significant role in implementing a collaborative effort among federal, state, academic, non-governmental, and private landowner partners to restore the Louisiana black bear to unoccupied portions of its historic range.
+Davidson also plays a significant role in implementing a collaborative effort among federal, state, academic, non-governmental, and private landowner partners to restore the Louisiana black bear to unoccupied portions of its historical range.
 
 “I’m really proud to be part of a recovery effort of a bear species,” she says. “It’s a pretty daunting task in this day and age.”
 

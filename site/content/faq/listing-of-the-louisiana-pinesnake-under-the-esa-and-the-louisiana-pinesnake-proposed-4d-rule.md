@@ -11,7 +11,7 @@ tags:
     - Louisiana
     - 'Louisiana Pinesnake'
     - Texas
-updated: 'April 5th, 2018'
+updated: 'September 19th, 2018'
 ---
 
 ## What action is the U.S. Fish and Wildlife Service (Service) taking?
@@ -26,7 +26,7 @@ The Louisiana pinesnake is well adapted to the longleaf pine ecosystem and is fo
 
 ## Why is the Service listing the Louisiana pinesnake as threatened?
 
-The Service used the best scientific information available to assess the status of and threats to the Louisiana pinesnake and found that it meets the definition of a threatened species. This means that it is likely to become endangered within the foreseeable future throughout all or a significant portion of its range. The pinesnake’s range and numbers have declined primarily due to loss and fragmentation of suitable habitat.  In addition, the pinesnake reproduces slowly, and its populations are already small, isolated, and genetically compromised.  The longleaf pine ecosystem that the pinesnake depends on has disappeared from roughly 90 percent of its historic range.  Conservation agencies, non-profits, and businesses are taking steps to reverse that habitat decline.
+The Service used the best scientific information available to assess the status of and threats to the Louisiana pinesnake and found that it meets the definition of a threatened species. This means that it is likely to become endangered within the foreseeable future throughout all or a significant portion of its range. The pinesnake’s range and numbers have declined primarily due to loss and fragmentation of suitable habitat.  In addition, the pinesnake reproduces slowly, and its populations are already small, isolated, and genetically compromised.  The longleaf pine ecosystem that the pinesnake depends on has disappeared from roughly 90 percent of its historical range.  Conservation agencies, non-profits, and businesses are taking steps to reverse that habitat decline.
 
 An extensive partnership of federal and state agencies, landowners, businesses, zoos, and conservation organizations also has been taking steps to increase conservation efforts and reduce threats to the Louisiana pinesnake.  The partnership effort seeks to reverse the decline of suitable habitat to benefit the Louisiana pinesnake and the hundreds of other species that live in that habitat.  
 
