@@ -36,6 +36,8 @@ Something flashed in the sun &mdash; a small piece of aluminum, slightly curved,
 
 “Go on,” he said. “Go.”
 
+{{< video name="duck-banding-and-release.mp4" title="A biologist is filmed banding and releasing a duck." caption="Biologist Clayton Ferrell banding a duck. Video by Mark Davis, USFWS." >}}
+
 She went. On wings flat and fast, she rose in the late-summer sky &mdash; the first of scores of ducks the U.S. Fish and Wildlife Service (Service) would band that day.
 
 Ferrell smiled as he watched her go. He likes this sort of thing.
