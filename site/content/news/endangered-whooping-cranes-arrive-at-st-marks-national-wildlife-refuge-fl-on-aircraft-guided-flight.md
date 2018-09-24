@@ -18,10 +18,10 @@ tags:
     - 'National Wildlife Refuge System'
     - Tennessee
     - 'Whooping Crane'
-updated: 'May 7th, 2018'
+updated: 'September 19th, 2018'
 ---
 
-Eight young whooping cranes that began their aircraft-led migration on October 2, 2013, from the White River Marsh State Wildlife Area in Green Lake County, Wisconsin, made it to their destination at St. Marks National Wildlife Refuge in Wakulla County, Florida. These cranes are the 13th group to be guided by ultralight aircraft from central Wisconsin to the Gulf coast of Florida. The Whooping Crane Eastern Partnership (WCEP), an international coalition of public and private organizations, is conducting the reintroduction project in an effort to restore this endangered species to part of its historic range in eastern North America. There are now 109 whooping cranes in the wild in eastern North America thanks to WCEP’s efforts.
+Eight young whooping cranes that began their aircraft-led migration on October 2, 2013, from the White River Marsh State Wildlife Area in Green Lake County, Wisconsin, made it to their destination at St. Marks National Wildlife Refuge in Wakulla County, Florida. These cranes are the 13th group to be guided by ultralight aircraft from central Wisconsin to the Gulf coast of Florida. The Whooping Crane Eastern Partnership (WCEP), an international coalition of public and private organizations, is conducting the reintroduction project in an effort to restore this endangered species to part of its historical range in eastern North America. There are now 109 whooping cranes in the wild in eastern North America thanks to WCEP’s efforts.
 
 “With 96 days on the road and 1101 miles of flight,” said Operation Migration spokesperson Liz Condie. “I can’t think of a better way to begin the New Year!”
 

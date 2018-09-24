@@ -14,10 +14,12 @@ tags:
     - Alligator
     - Georgia
     - 'Harris Neck National Wildlife Refuge'
+    - 'South Carolina Ecological Services Field Office'
+    - South Carolina
 updated: 'January 3rd, 2018'
 ---
 
-The sight of a 12 to 14 foot-long alligator is something south Georgia folks see occasionally, but few have seen one take an adult deer out to lunch. Actually -- for lunch.
+The sight of a 12 to 14 foot-long alligator is something south Georgia folks see occasionally, but few have seen one take an adult deer out to lunch. Actually &mdash; for lunch.
 
 The photographs of this deer-eating alligator were taken from the air by Terri Jenkins, a U.S. Fish and Wildlife Service District Fire Management Officer. She was preparing to ignite a prescribed fire at [Harris Neck National Wildlife Refuge](https://www.fws.gov/refuge/harris_neck), about 40 miles south of Savannah, Georgia, on March 4, 2004.
 

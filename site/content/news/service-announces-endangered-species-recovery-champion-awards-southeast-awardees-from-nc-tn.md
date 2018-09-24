@@ -6,13 +6,13 @@ hero:
     alt: 'A mussel with brownish outer shell and a glossy white inner shell that resembles a baked potato.'
     caption: 'Threatened rabbitsfoot mussel. Photo by Bob Butler, USFWS.'
 tags:
-    - Recovery
-    - Asheville Ecological Services Field Office
-    - 'North Carolina'
-    - Tennessee
-    - Recovery Champions
     - Alabama
-updated: 'October 20th, 2016'
+    - 'Asheville Ecological Services Field Office'
+    - 'North Carolina'
+    - Recovery
+    - 'Recovery Champions'
+    - Tennessee
+updated: 'September 19th, 2018'
 ---
 
 The U.S. Fish and Wildlife Service today announced 29 recipients of the 2010 Recovery Champion award honoring Service staff members and their partners-in-mission for conserving endangered and threatened species.
@@ -23,7 +23,7 @@ From the Mauna Loa silversword in Hawaii and Railroad Valley springfish in Nevad
 
 This year, for the first time, an international organization, Japan’s Yamashina Institute for Ornithology, has been selected as a Recovery Champion for achievements on behalf of the short-tailed albatross, a seabird that spends time in Alaska and migrates in the North Pacific.
 
-Restoring streams, breeding species in captivity and releasing them into their historic ranges, conducting field surveys and monitoring programs, and negotiating the complex world of Federal financial standards to administer a land acquisition grant for the Lake Erie watersnake in Ohio are just a few examples from the wide diversity of initiatives receiving this year’s Recovery Champion awards.
+Restoring streams, breeding species in captivity and releasing them into their historical ranges, conducting field surveys and monitoring programs, and negotiating the complex world of Federal financial standards to administer a land acquisition grant for the Lake Erie watersnake in Ohio are just a few examples from the wide diversity of initiatives receiving this year’s Recovery Champion awards.
 
 For information about the 2010 recovery champions, please visit the U.S. Fish and Wildlife Service’s Recovery Champion website at[http://www.fws.gov/endangered/what-we-do/recovery-champions](http://www.fws.gov/endangered/what-we-do/recovery-champions)/.
 

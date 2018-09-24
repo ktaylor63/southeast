@@ -18,18 +18,18 @@ tags:
     - Tennessee
     - 'Tennessee Ecological Services Field Office'
     - 'Tennessee National Wildlife Refuge'
-updated: 'August 24th, 2018'
+updated: 'September 19th, 2018'
 ---
 
 The Barrens Plateau is home to a beautiful, iridescent fish that rarely grows longer than four inches and is found in only a few creeks and springs in four Tennessee counties. That little fish is now in trouble, and the U.S. Fish and Wildlife Service is proposing to help protect it as an endangered species under the [Endangered Species Act](/endangered-species-act) (ESA).
 
 The [Barrens topminnow](https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E05C) has suffered from introduction of the non-native western mosquitofish, which has invaded the minnow’s habitat, outcompeting it for food and directly preying on young topminnows. That and the impact of drought mean the minnow is struggling to survive.
 
-{{< figure class="photo-center" src="/images/pages/barrens-topminnow-current-and-historic-range.jpg" alt="A map of south central Tennesee showing locations of current and historic populations of Barrens topminnow." caption="Current and historic range for Barrens topminnow." >}}
+{{< figure class="photo-center" src="/images/pages/barrens-topminnow-current-and-historic-range.jpg" alt="A map of south central Tennesee showing locations of current and historic populations of Barrens topminnow." caption="Current and historical range for Barrens topminnow." >}}
 
 “There has already been a good deal of successful conservation work on the Barrens topminnow by many partners including the Barrens Topminnow Working Group, Conservation Fisheries Inc., and the Tennessee Aquarium in Chattanooga,” said Leopoldo Miranda, assistant regional director for the Service’s Ecological Services program in the Southeast Region. “Extending protected status is a signal that more work is needed, and we look forward to cooperating with the many organizations and people trying to help this fish.”
 
-Efforts to recover the Barrens topminnow began in the 1970s and have proven successful at producing fish for stocking. In addition, the Service worked with landowners to protect and improve Barrens topminnow habitat. Starting in the 1990s, a concerted effort was made to restock topminnows into 27 springs throughout their historic range with the cooperation of many landowners.
+Efforts to recover the Barrens topminnow began in the 1970s and have proven successful at producing fish for stocking. In addition, the Service worked with landowners to protect and improve Barrens topminnow habitat. Starting in the 1990s, a concerted effort was made to restock topminnows into 27 springs throughout their historical range with the cooperation of many landowners.
 
 In 2001, the Barrens Topminnow Working Group -- consisting of the Service, Tennessee Wildlife Resources Agency, Tennessee Tech University researchers, and nonprofit organizations, including the Tennessee Aquarium, and Conservation Fisheries Inc. -- was created to coordinate actions such as habitat improvement, propagation and stocking. Since the initiation of the stocking program, more than 44,000 Barrens topminnows have been stocked into 27 sites.
 But the prevalence of the Western mosquitofish, an invasive species that preys on and harasses the topminnow, has made recovery challenging. The mosquitofish were apparently introduced into this area in the 1960s in an effort to control mosquito populations. The mosquitofish proved only moderately successful at controlling mosquitoes, but proved to be very efficient at outcompeting Barrens topminnows. Mosquitofish are able to expand their populations rapidly and move into all corners of an available body of water. Once mosquitofish move into an area where Barrens topminnows are present, topminnow reproduction essentially ceases, and their population is eliminated.

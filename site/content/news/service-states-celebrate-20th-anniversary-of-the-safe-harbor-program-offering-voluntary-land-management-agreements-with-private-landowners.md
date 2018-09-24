@@ -16,6 +16,7 @@ tags:
     - 'Red-Cockaded Woodpecker'
     - 'Safe Harbor'
     - 'South Carolina'
+    - 'South Carolina Ecological Services Field Office'
 updated: 'May 7th, 2018'
 ---
 

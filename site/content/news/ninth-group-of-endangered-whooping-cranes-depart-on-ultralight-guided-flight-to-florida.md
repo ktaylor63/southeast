@@ -6,16 +6,16 @@ hero:
     alt: 'Long white birds flying in formation behind a fan powered glider.'
     caption: 'We hope for a tremendous viewing audience for this amazing spectacle! Photo by Nick Baldwin, a refuge volunteer from last years flyover.'
 tags:
-    - 'Whooping crane'
     - Alabama
     - Florida
     - Georgia
     - Kentucky
     - Tennessee
-updated: 'October 20th, 2016'
+    - 'Whooping Crane'
+updated: 'September 19th, 2018'
 ---
 
-Twenty young whooping cranes have begun their ultralight-led migration from central Wisconsin’s Necedah National Wildlife Refuge (NWR). This is the ninth group of birds to take part in a landmark project led by the Whooping Crane Eastern Partnership (WCEP), an international coalition of public and private groups that is reintroducing this highly imperiled species in eastern North America, part of its historic range. There are now approximately 77 whooping cranes in the wild in eastern North America thanks to WCEP’s efforts.
+Twenty young whooping cranes have begun their ultralight-led migration from central Wisconsin’s Necedah National Wildlife Refuge (NWR). This is the ninth group of birds to take part in a landmark project led by the Whooping Crane Eastern Partnership (WCEP), an international coalition of public and private groups that is reintroducing this highly imperiled species in eastern North America, part of its historical range. There are now approximately 77 whooping cranes in the wild in eastern North America thanks to WCEP’s efforts.
 
 Four ultralight aircraft and the juvenile cranes will travel through Wisconsin, Illinois, Kentucky, Tennessee, Alabama, and Georgia to reach the birds’ wintering habitats at Chassahowitzka and St. Marks National Wildlife Refuges along Floridas Gulf Coast.
 

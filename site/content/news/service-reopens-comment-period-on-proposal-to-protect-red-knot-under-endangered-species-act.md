@@ -12,6 +12,7 @@ tags:
     - 'North Carolina'
     - Florida
     - South Carolina
+    - 'South Carolina Ecological Services Field Office'
     - Georgia
     - Alabama
     - Athens
@@ -20,11 +21,11 @@ tags:
 updated: 'October 21st, 2016'
 ---
 
-The _rufa_ red knot (<em>Calidris canutus rufa</em>), a robin-sized shorebird that visits the U.S. on its annual journey between the tips of the Americas, is in trouble.
+The _rufa_ red knot (_Calidris canutus rufa_), a robin-sized shorebird that visits the U.S. on its annual journey between the tips of the Americas, is in trouble.
 
 The knot’s population has declined by about 75 percent in some areas since the 1980s. Changing climate conditions are already affecting the bird’s food supply, the timing of its migration and its breeding habitat in the Arctic. The shorebird also is losing habitat along its range due to sea level rise, shoreline projects and development.
 
-The U.S. Fish and Wildlife Service has reopened the comment period on [its proposal to list the knot as threatened](https://www.fws.gov/news/ShowNews.cfm?ID=60042DE0-FB9E-C978-063157265CB076C1) under the Endangered Species Act (ESA) and will hold two public hearings. The Service proposed to list the knot on September 30, 2013, following an analysis of the best available data in more than 1,400 scientific documents. The public can provide comments on the proposed rule for 45 days through May 19, 2014\. Comments provided during the first comment period need not be resubmitted, as those are already part of the administrative record.  
+The U.S. Fish and Wildlife Service has reopened the comment period on [its proposal to list the knot as threatened](https://www.fws.gov/news/ShowNews.cfm?ID=60042DE0-FB9E-C978-063157265CB076C1) under the Endangered Species Act (ESA) and will hold two public hearings. The Service proposed to list the knot on September 30, 2013, following an analysis of the best available data in more than 1,400 scientific documents. The public can provide comments on the proposed rule for 45 days through May 19, 2014. Comments provided during the first comment period need not be resubmitted, as those are already part of the administrative record.  
 
 During the [initial comment period](https://www.regulations.gov/#!docketBrowser;rpp=25;po=0;D=FWS-R5-ES-2013-0097;dct=PS), the Service received more than 560 individual comments and 19,000 form letters. Additionally, requests were made to hold public hearings specifically in North Carolina and Texas. A public hearing is offered upon request with every federal rulemaking to ensure maximum public participation and awareness of a proposed action. Public hearings, preceded by information sessions and opportunities to ask questions to Service biologists, will be held May 6, 2014, in Morehead City, N.C., and in Corpus Christi, Texas. More information is available at the Service’s [Raleigh, N.C.](https://www.fws.gov/raleigh/), and [Southwest Region](https://www.fws.gov/southwest/) websites.
 
@@ -34,8 +35,8 @@ The Service expects to take final action on the listing rule by the end of Septe
 
 Details on the kinds of information the Service is seeking are available in the comment period reopening notice published in the Federal Register on April 4, 2014. Comments and information can be provided at the hearings or submitted through the following methods:
 
-*   Federal Rulemaking Portal: [regulations.gov](https://www.regulations.gov/). Follow the instructions for submitting information on docket number FWS–R5–ES–2013–0097.
-*   U.S. mail or hand-delivery: Public Comments Processing, Attn: FWS–R5–ES–2013–0097; Division of Policy and Directives Management; U.S. Fish and Wildlife Service; 4401 N. Fairfax Drive, Suite 222; Arlington, Virginia 22203.
+* Federal Rulemaking Portal: [regulations.gov](https://www.regulations.gov/). Follow the instructions for submitting information on docket number FWS–R5–ES–2013–0097.
+* U.S. mail or hand-delivery: Public Comments Processing, Attn: FWS–R5–ES–2013–0097; Division of Policy and Directives Management; U.S. Fish and Wildlife Service; 4401 N. Fairfax Drive, Suite 222; Arlington, Virginia 22203.
 
 The knot is one of the longest-distance migrants in the animal kingdom. While migrating between wintering grounds as far as south as Tierra del Fuego and breeding grounds in the Canadian Arctic, the shorebird can be found in flocks of a few individuals to several thousand along the Atlantic and Gulf coasts.
 

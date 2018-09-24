@@ -14,6 +14,7 @@ tags:
     - 'Hurricane Irma'
     - 'Puerto Rico'
     - 'South Carolina'
+    - 'South Carolina Ecological Services Field Office'
     - 'US Virgin Islands'
 updated: 'September 14th, 2017'
 ---

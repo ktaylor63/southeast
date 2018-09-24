@@ -15,7 +15,7 @@ tags:
     - 'Louisiana Ecological Services Field Office'
     - Tennessee
     - 'Whooping Crane'
-updated: 'May 7th, 2018'
+updated: 'September 19th, 2018'
 ---
 
 Eight young whooping cranes that began their aircraft-led migration on October 2, 2013 from the White River Marsh State Wildlife Area in Green Lake County, Wisconsin, today made it to Winston County, Alabama.
@@ -26,7 +26,7 @@ Only two cranes reluctantly followed their surrogate leaders flying the ultralig
 
 Today they flew 67 miles and have flown at total of 693 miles, having spent about two weeks in Hardin County, Tennessee, on hold due to weather.
 
-This is the 13th group of birds to take part in a project led by the Whooping Crane Eastern Partnership (WCEP), an international coalition of public and private groups that is reintroducing this highly imperilled species in eastern North America, part of its historic range.
+This is the 13th group of birds to take part in a project led by the Whooping Crane Eastern Partnership (WCEP), an international coalition of public and private groups that is reintroducing this highly imperilled species in eastern North America, part of its historical range.
 
 WCEP partner Operation Migration is using two ultralight aircraft to lead the juvenile cranes through Wisconsin, Illinois, Kentucky, Tennessee, Alabama, and Georgia to reach the birds’ wintering habitat at St. Marks National Wildlife Refuge (NWR) along Florida's Gulf Coast.
 

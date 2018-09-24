@@ -10,14 +10,14 @@ hero:
 tags:
     - Florida
     - 'Florida Panther'
-updated: 'January 3rd, 2018'
+updated: 'September 19th, 2018'
 ---
 
 A rare photograph taken earlier this month of a [Florida panther](/wildlife/mammals/florida-panther) and her two kittens is making the e-mail rounds among wildlife biologists and conservation partners who have toiled for decades to restore the big cat’s habitat.
 
 The photo, taken from an airplane above Picayune Strand near Naples, captures the trailing kitten mid-leap, as if euphorically kicking up her heels in delight.
 
-For those who have witnessed the shrinking of the panther’s historic range – now down to five percent of its original size – the snapshot is as sweet as January’s high-profile visit from Washington VIPs for a groundbreaking ceremony at the Strand. It’s proof positive that restoring this part of the Everglades is good for Florida’s iconic animal.
+For those who have witnessed the shrinking of the panther’s historical range – now down to five percent of its original size – the snapshot is as sweet as January’s high-profile visit from Washington VIPs for a groundbreaking ceremony at the Strand. It’s proof positive that restoring this part of the Everglades is good for Florida’s iconic animal.
 
 Picayune Strand, a 55,000-acre chunk of the Everglades, was drained and partially developed decades ago to build a subdivision. The development failed, and over the years the state and federal governments spent $150 million to purchase the land lot by lot. State and federal biologists consider the Picayune Strand an essential piece of remaining panther habitat, connecting other public lands that include the Florida Panther National Wildlife Refuge, Everglades National Park and Fakahatchee Strand Preserve State Park. Since the early 1990s, when the Florida panther was on the brink of extinction, the population in the wild is still less than 100, according to the latest estimates from the U.S. Fish and Wildlife Service (Service).
 

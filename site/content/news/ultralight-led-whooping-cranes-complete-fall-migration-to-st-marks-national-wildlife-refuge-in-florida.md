@@ -7,13 +7,13 @@ hero:
     link: 'https://flic.kr/p/q6kHxY'
     caption: 'Two whooping cranes fly over St. Marks National Wildlife Refuge following the second ultralight aircraft. Photo by Terri Calleson, USFWS.'
 tags:
-    - 'Whooping crane'
-    - 'National Wildlife Refuge System'
     - Florida
     - Georgia
     - Kentucky
+    - 'National Wildlife Refuge System'
     - Tennessee
-updated: 'October 3rd, 2016'
+    - 'Whooping Crane'
+updated: 'September 19th, 2018'
 ---
 
 **ST MARKS, FL** - Early this morning, seven young whooping cranes following two ultralight aircraft during a two-month migration landed at St. Marks National Wildlife Refuge where they will spend the winter.  They traveled 63 days and 1,100 miles from Necedah National Wildlife Refuge in Wisconsin to St. Marks.
@@ -24,7 +24,7 @@ More than 500 people watched as the cranes flew over St. Marks National Wildlife
 
 “Our community gives the refuge and these yearly whooping crane arrivals a huge amount of support.  It’s a working day and a school day, and people stand outside for an hour and a half to see the cranes arrive,” said Robin Will of St. Marks National Wildlife Refuge.  “The Operation Migration pilots are like rock stars, and after the migration, they stay and answer questions and sign autographs.  People come into the Visitor Center and tell us how much our conservation work with the whooping cranes means.”
 
-This is the 14th group of birds to take part in a project led by the Whooping Crane Eastern Partnership (WCEP), an international coalition of public and private groups that is reintroducing this highly imperiled species in eastern North America, part of its historic range.  
+This is the 14th group of birds to take part in a project led by the Whooping Crane Eastern Partnership (WCEP), an international coalition of public and private groups that is reintroducing this highly imperiled species in eastern North America, part of its historical range.  
 
 The two ultralight aircraft led the juvenile cranes from Wisconsin, Tennessee, Alabama, and Georgia to reach the birds’ wintering habitat at St. Marks National Wildlife Refuge along Florida's Gulf Coast. This year the cranes had to be trucked to Tennessee from Wisconsin, through Illinois and Kentucky, due to bad weather.  
 

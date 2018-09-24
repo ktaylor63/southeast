@@ -14,6 +14,7 @@ tags:
     - 'Panama City'
     - 'Puerto Rico'
     - 'South Carolina'
+    - 'South Carolina Ecological Services Field Office'
     - Tennessee
 hero:
     name: reticulated-flatwoods-salamander-larva.jpg

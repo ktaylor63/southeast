@@ -13,6 +13,7 @@ tags:
     - Georgia
     - Mississippi
     - South Carolina
+    - 'South Carolina Ecological Services Field Office'
 updated: 'November 9th, 2016'
 ---
 The U.S. Fish and Wildlife Service is reopening the 60-day public comment period on a proposal to list the white fringeless orchid as threatened under the Endangered Species Act (ESA).  Comments will be accepted through June 13, 2016.  

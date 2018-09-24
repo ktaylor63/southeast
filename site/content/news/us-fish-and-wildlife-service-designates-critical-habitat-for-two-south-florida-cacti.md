@@ -9,7 +9,7 @@ hero:
     alt: 'Bright red and yellow flowers emerge from a spiky cactus.'
     link: 'https://flic.kr/p/7HBz98'
     caption: 'Blooming cactus.  Photo by <a href=\"https://www.flickr.com/photos/wiredwitch/\" target=\"_blank\">Ketzirah Lesser</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\" target=\"_blank\">CC BY-SA 2.0</a>.'
-updated: 'October 26th, 2016'
+updated: 'September 19th, 2018'
 ---
 
 **VERO BEACH, FL** &mdash; The U.S. Fish and Wildlife Service is designating critical habitat for two endangered cacti—the Florida semaphore cactus and aboriginal prickly-apple—under the Endangered Species Act (ESA), totaling 7,855 acres in several Florida counties.
@@ -32,7 +32,7 @@ The current range of aboriginal prickly-apple includes 12 populations in seven p
 
 Land ownership within the critical habitat designations for these two cacti includes federal, state, county and private lands.  The Florida semaphore cactus is found in all four of its critical habitat units.  Of its 4,411- acre critical habitat designation, only about 576 acres are on privately-owned land.  Most of the privately-owned land is owned by The Nature Conservancy, and the rest are small parcels owned by private landowners.  The remaining areas in the designation are state (58 percent), federally-owned (28 percent), or county-owned (1 percent).
 
-The aboriginal prickly-apple is found in nine of its 11 critical habitat units.  Of its almost 3,444-acre critical habitat designation, about half of the lands are state-owned, 26 percent are privately-owned. 15 percent are county-owned, and 11 percent are federally-owned.  Both of the unoccupied critical habitat units are within the prickly-apple’s historic range, and both contain suitable habitat for its reintroduction.
+The aboriginal prickly-apple is found in nine of its 11 critical habitat units.  Of its almost 3,444-acre critical habitat designation, about half of the lands are state-owned, 26 percent are privately-owned. 15 percent are county-owned, and 11 percent are federally-owned.  Both of the unoccupied critical habitat units are within the prickly-apple’s historical range, and both contain suitable habitat for its reintroduction.
 
 Under the ESA, critical habitat identifies geographic areas important to the plants’ survival.  Although some of the areas within the critical habitat designation are located on private land, there are no federal regulations affecting critical habitat on private lands unless the activity is authorized, funded, or carried out by a federal agency.  Designation of critical habitat does not affect land ownership or establish a refuge, reserve, preserve, or other conservation area.  If federal funds are involved in a project in the area, the government agency will need to consult with the Service to help landowners avoid, reduce or mitigate potential impacts to the plant or to ensure actions do not negatively affect these plants or modify their critical habitat.
 

@@ -7,10 +7,10 @@ hero:
     caption: 'Florida panther killed by David Adams in Troup County, GA on Nov. 16, 2008. Photo by Georgia DNR.'
     position: 'bottom left'
 tags:
-    - Georgia
-    - 'Florida panther'
     - Florida
-updated: 'October 3rd, 2016'
+    - 'Florida Panther'
+    - Georgia
+updated: 'September 19th, 2018'
 ---
 
 SOCIAL CIRCLE, GA – Genetic testing by the National Cancer Institute, Laboratory of Genomic Diversity, has indicated that the panther shot by a hunter in Troup County last year came from the resident southern Florida panther population.
@@ -27,7 +27,7 @@ The U.S. Fish and Wildlife Service (USFWS) Office of Law Enforcement is investig
 
 “Finding a Florida panther that far from southwest Florida is out of the ordinary, but male panthers, particularly younger ones, can travel great distances,” said Paul Souza, Field Supervisor of the South Florida Ecological Services Office. “While it’s unusual for panthers to be seen that far north, it is not impossible for a young male to travel so far.”
 
-The Florida panther (_Puma concolor coryi_) is the last subspecies of Puma (also known as mountain lion, cougar, puma, or catamount) still surviving in the eastern United States. Historically occurring throughout the southeastern United States, the estimated 100 to 120 panthers are found in south Florida, in less than five percent of their historic range.
+The Florida panther (_Puma concolor coryi_) is the last subspecies of Puma (also known as mountain lion, cougar, puma, or catamount) still surviving in the eastern United States. Historically occurring throughout the southeastern United States, the estimated 100 to 120 panthers are found in south Florida, in less than five percent of their historical range.
 
 For more information on the Florida panther, visit: [http://www.fws.gov/verobeach/](http://www.fws.gov/verobeach)
 

@@ -16,6 +16,7 @@ tags:
     - 'North Carolina'
     - 'Puerto Rico'
     - 'South Carolina'
+    - 'South Carolina Ecological Services Field Office'
     - Caribbean Ecological Services Field Office
 updated: 'September 10th, 2017'
 ---

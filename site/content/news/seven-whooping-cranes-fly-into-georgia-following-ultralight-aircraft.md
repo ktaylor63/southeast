@@ -14,7 +14,7 @@ tags:
     - 'Louisiana Ecological Services Field Office'
     - Tennessee
     - 'Whooping Crane'
-updated: 'May 7th, 2018'
+updated: 'September 19th, 2018'
 ---
 
 Seven whooping cranes following pilots in two ultralight aircraft lifted off from Pike County, Alabama today and flew 117 miles before landing in Decatur County, Georgia.
@@ -36,7 +36,7 @@ The cranes can fly hundreds of miles in a day, so that snapshot may have change
 
 Florida has about a dozen in a non-migratory flock.  Louisiana has a project underway for a non-migratory flock of 40 whooping cranes.  The western flock has about 300 cranes, and about 130 are in captivity.
 
-This is the 14th group of birds to take part in a project led by the Whooping Crane Eastern Partnership (WCEP), an international coalition of public and private groups that is reintroducing this highly imperiled species in eastern North America, part of its historic range.
+This is the 14th group of birds to take part in a project led by the Whooping Crane Eastern Partnership (WCEP), an international coalition of public and private groups that is reintroducing this highly imperiled species in eastern North America, part of its historical range.
 
 WCEP partner Operation Migration is using two ultralight aircraft to lead the juvenile cranes from Wisconsin, Tennessee, Alabama, and Georgia to reach the birds’ wintering habitat at [St. Marks National Wildlife Refuge](http://www.fws.gov/refuge/st_marks/) (NWR) along Florida's Gulf Coast.  This year the cranes had to be trucked to Tennessee from Wisconsin, through Illinois and Kentucky, due to bad weather.
 

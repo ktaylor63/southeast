@@ -7,13 +7,13 @@ hero:
     link: 'https://flic.kr/p/bryvJt'
     caption: 'Two juvenile Whooping cranes released from their holding pen fly around on Wheeler National Wildlife Refuge, Decatur, AL. Photo by Bill Gates, USFWS.'
 tags:
-    - 'Whooping crane'
-    - NWRS
     - Florida
-updated: 'October 3rd, 2016'
+    - NWRS
+    - 'Whooping Crane'
+updated: 'September 19th, 2018'
 ---
 
-Nine young whooping cranes were released October 24 on central Wisconsin’s Necedah National Wildlife Refuge. The cranes are part of the Direct Autumn Release (DAR) project conducted by the Whooping Crane Eastern Partnership (WCEP), an international coalition of public and private groups that is reintroducing this highly imperiled species in eastern North America, part of its historic range. There are approximately 77 whooping cranes in the wild in eastern North America thanks to WCEP’s efforts.
+Nine young whooping cranes were released October 24 on central Wisconsin’s Necedah National Wildlife Refuge. The cranes are part of the Direct Autumn Release (DAR) project conducted by the Whooping Crane Eastern Partnership (WCEP), an international coalition of public and private groups that is reintroducing this highly imperiled species in eastern North America, part of its historical range. There are approximately 77 whooping cranes in the wild in eastern North America thanks to WCEP’s efforts.
 
 Whooping crane chicks for DAR are reared at Necedah NWR by biologists from the International Crane Foundation and the U.S. Fish and Wildlife Service. The juvenile birds are released in the company of older cranes after fledging, or developing their flight feathers. The young cranes learn the migration route from these older birds. This is the fifth year WCEP has used this Direct Autumn Release method.
 

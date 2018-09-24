@@ -8,14 +8,14 @@ hero:
     link: 'https://flic.kr/p/pFiF8L'
     caption: 'Interrupted rocksnail. Photo by Tom Tarpley, Alabama Department of Conservation and Natural Resources.'
 tags:
-    - 'Interrupted rocksnail'
-    - 'Rough hornsnail'
-    - 'Georgia pigtoe'
     - Alabama
     - Georgia
-    - Tennessee
+    - 'Georgia Pigtoe'
+    - 'Interrupted Rocksnail'
     - Recovery
-updated: 'October 20th, 2016'
+    - 'Rough Hornsnail'
+    - Tennessee
+updated: 'September 19th, 2018'
 ---
 
 The interrupted rocksnail, rough hornsnail, and Georgia pigtoe mussel have disappeared from 90 percent or more of their historical ranges, primarily due to impoundment, or damming of riverine habitats.  All three species are endemic to the Coosa River drainage of the Mobile River Basin in Alabama and Georgia.  The Georgia pigtoe also occurs in a Coosa River tributary in Tennessee.
@@ -28,7 +28,7 @@ According to the recovery plan, downlisting of the interrupted rocksnail and rou
 
 Recovery criteria for the Georgia pigtoe will be developed after the Service completes critical recovery actions and gains a greater understanding of the mussel species. Meanwhile, the Service identifies the following actions necessary to help prevent the extinction of this animal: (1) maintain and where possible implement habitat restoration activities and improve the Conasauga River population of the Georgia pigtoe; (2) develop and implement a monitoring plan to help ensure that the Conasauga River population does not decline further; and, (3) develop a captive propagation program and establish an ark population to help support the Conasauga River population of the Georgia pigtoe; (4) conduct research, such as, identification of an appropriate fish host, that is important to gain better understanding of this mussel’s life history; and,
 
-(5) identify, monitor, and where possible improve potential reintroduction sites in the historic range of the Georgia pigtoe and reintroduce the species into these habitats.
+(5) identify, monitor, and where possible improve potential reintroduction sites in the historical range of the Georgia pigtoe and reintroduce the species into these habitats.
 
 To view the recovery plan on the web, please visit [http://www.fws.gov/endangered/species/recovery-plans.html](http://www.fws.gov/endangered/species/recovery-plans.html).  Request a paper copy of the plan by contacting the Service’s Daphne, Alabama, Ecological Services Field Office at 251- 441-5858.
 

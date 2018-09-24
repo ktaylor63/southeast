@@ -16,17 +16,18 @@ tags:
     - 'North Carolina'
     - 'Oblong Rocksnail'
     - 'South Carolina'
+    - 'South Carolina Ecological Services Field Office'
     - 'Species Status Assessment'
     - Tennessee
+    - 'Tennessee Ecological Services Field Office'
     - 'Tricolored Bat'
     - 'Venus Flytrap'
     - 'White-Nose Syndrome'
-    - 'Tennessee Ecological Services Field Office'
 hero:
     name: venus-flytrap.jpg
     alt: 'A cluster of carnivorious plant heads with bright red/orange mouths.'
     caption: 'Venus flytrap. Photo by Jennifer Koches, USFWS.'
-updated: 'December 19th, 2017'
+updated: 'September 19th, 2018'
 ---
 
 More research is needed on three species before U.S. Fish and Wildlife officials can determine whether to add them to the threatened and endangered species list.
@@ -39,7 +40,7 @@ Today’s decision, known as a [90-day finding](/endangered-species-act/90-day-f
 
 ## [Venus flytrap](/wildlife/plants/venus-flytrap/)
 
-The plant hailed by Charles Darwin as “one of the most wonderful plants in the world” is in decline. The widely recognized insect-eating plant naturally occurs within a narrow range of longleaf pine habitat in southeastern North Carolina and northeastern South Carolina, but has been lost from large portions of its historic range. Due to its popularity in the horticulture trade, this species has been the subject of much selective breeding. Prized by plant collectors worldwide, there is a long history of collecting Venus flytrap from its native habitats. Given the popularity of this species worldwide, collection pressures have increased exponentially over the past 30 years. Once found in 21 counties in North Carolina and three in South Carolina, the Venus flytrap can now only be found in 15 counties in North Carolina and one in South Carolina – 125 populations now reduced to only 71. Population declines are primarily due to drastic changes in the plant’s habitat, the result of fire suppression, conversion to agriculture, silviculture, and residential and commercial development. Poaching also remains a significant threat.
+The plant hailed by Charles Darwin as “one of the most wonderful plants in the world” is in decline. The widely recognized insect-eating plant naturally occurs within a narrow range of longleaf pine habitat in southeastern North Carolina and northeastern South Carolina, but has been lost from large portions of its historical range. Due to its popularity in the horticulture trade, this species has been the subject of much selective breeding. Prized by plant collectors worldwide, there is a long history of collecting Venus flytrap from its native habitats. Given the popularity of this species worldwide, collection pressures have increased exponentially over the past 30 years. Once found in 21 counties in North Carolina and three in South Carolina, the Venus flytrap can now only be found in 15 counties in North Carolina and one in South Carolina – 125 populations now reduced to only 71. Population declines are primarily due to drastic changes in the plant’s habitat, the result of fire suppression, conversion to agriculture, silviculture, and residential and commercial development. Poaching also remains a significant threat.
 
 ## Oblong rocksnail
 

@@ -14,6 +14,7 @@ tags:
     - 'Louisiana Ecological Services Field Office'
     - Mississippi
     - 'South Carolina'
+    - 'South Carolina Ecological Services Field Office'
     - Tennessee
     - 'Tennessee Ecological Services Field Office'
 updated: 'May 7th, 2018'

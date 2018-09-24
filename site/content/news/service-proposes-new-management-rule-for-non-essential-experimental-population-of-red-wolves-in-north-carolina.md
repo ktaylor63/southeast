@@ -14,7 +14,7 @@ tags:
     - 'North Carolina'
     - Recovery
     - 'Red Wolf'
-updated: 'July 13th, 2018'
+updated: 'September 19th, 2018'
 ---
 
 More than 30 years ago, the U.S. Fish and Wildlife Service and its partners began efforts to reintroduce the endangered [red wolf](/wildlife/mammals/red-wolf) into the wild in North Carolina. While many of the captive-bred wolves adapted well to a wild environment, the program faced unforeseen challenges, including hybridization of wolves with coyotes and conflicts with humans. After initially increasing, the population plateaued and then declined. Today, only approximately 35 wild wolves remain, with a further 200-plus wolves in captive breeding facilities.
@@ -23,7 +23,7 @@ In an effort to adaptively manage to the challenges confronting the red wolf, th
 
 “By restricting management to [Alligator River National Wildlife Refuge](https://www.fws.gov/refuge/alligator_river/) and the Dare County Bombing Range, we will ensure we can better reduce external threats and monitor the environments surrounding these wild wolves,” said Greg Sheehan, the Service’s Principal Deputy Director. “A recent [Species Status Assessment](https://ecos.fws.gov/ServCat/DownloadFile/147196) informed us that past strategies were not effectively leading to recovery, so we believe that a concerted effort in a managed area will help.”
 
-{{< figure class="photo-center" src="/images/pages/red-wolf-historic-range-and-nep.jpg" alt="The historic range of the red wolf covers the southeast from Texas to New York to Florida and the non-essential experimental population management area." caption="Red wolf historic range and proposed non-essential experimental population. Map by Jose Barrios, USFWS." link="https://flic.kr/p/H4bjyg" >}}
+{{< figure class="photo-center" src="/images/pages/red-wolf-historic-range-and-nep.jpg" alt="The historical range of the red wolf covers the southeast from Texas to New York to Florida and the non-essential experimental population management area." caption="Red wolf historical range and proposed non-essential experimental population. Map by Jose Barrios, USFWS." link="https://flic.kr/p/H4bjyg" >}}
 
 The Service’s role outside the proposed management area would be limited to providing technical assistance if requested by landowners.
 

@@ -8,11 +8,12 @@ hero:
     caption: 'Georgia aster. Photo by Michele Elmore, The Nature Conservancy, Georgia.'
 tags:
     - Alabama
+    - 'Asheville Ecological Services Field Office'
     - Georgia
     - 'Georgia Aster'
     - 'North Carolina'
     - 'South Carolina'
-    - Asheville Ecological Services Field Office
+    - 'South Carolina Ecological Services Field Office'
 updated: 'March 21st, 2017'
 ---
 

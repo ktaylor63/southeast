@@ -27,6 +27,6 @@ Service biologists acknowledge that the wild red wolf population restored to Nor
 
 [Learn more about five year reviews in the Southeast region.](/endangered-species-act/five-year-reviews)
 
-The review document is [posted online](/pdf/five-year-reviews/red-wolf.pdf). A copy of the document may also be requested by sending an email to [alligatorriver@fws.gov](mailto:alligatorriver@fws.gov?subject=Red+wolf+five+year+review), by fax at 252-473-4836, by telephone at 252-473-1131, ext.246, or by mail at Request for Copy of Five-Year-Review, Red Wolf Recovery Program, c/o Alligator River NWR, U.S. Fish and Wildlife Service, Manteo, North Carolina 27954.  Please include your name and street mailing address in your request.
+The review document is [posted online](https://ecos.fws.gov/docs/five_year_review/doc3991.pdf). A copy of the document may also be requested by sending an email to [alligatorriver@fws.gov](mailto:alligatorriver@fws.gov?subject=Red+wolf+five+year+review), by fax at 252-473-4836, by telephone at 252-473-1131, ext.246, or by mail at Request for Copy of Five-Year-Review, Red Wolf Recovery Program, c/o Alligator River NWR, U.S. Fish and Wildlife Service, Manteo, North Carolina 27954.  Please include your name and street mailing address in your request.
 
 [Learn more about the red wolf and what the Service is doing to recover them.](/wildlife/mammal/red-wolf)

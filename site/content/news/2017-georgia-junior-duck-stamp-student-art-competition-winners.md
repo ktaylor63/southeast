@@ -11,11 +11,14 @@ hero:
 date: '2017-04-12'
 tags:
     - Georgia
+    - South Carolina
+    - 'South Carolina Ecological Services Field Office'
     - 'Junior Duck Stamp'
 updated: 'January 3rd, 2018'
 ---
 
 Rayen Kang, 17, from the First Fine Art & Design Studio in Johns Creek, Georgia, is this year’s winner of the annual Georgia Junior Duck Stamp Art Competition.  Five judges unanimously selected her acrylic rendition of an American wigeon as the Georgia Best of Show. The contest was held April 11 at the U.S. Fish and Wildlife Service’s Southeast Regional Office in Atlanta.
+
 Kang receives a $175 scholarship from Georgia Power, a long-time sponsor of the Georgia Junior Duck Stamp Program, as well as a certificate and ribbon. As Georgia’s Best of Show, Kang’s original artwork will compete in the National Junior Duck Stamp Contest being held Friday, April 21, at the Charleston Music Hall in Charleston, South Carolina.
 
 A talented young artist, [Kang won the Georgia Junior Duck Stamp Contest Best of Show last year with her acrylic rendition of a hooded merganser pair](/news/2016/04/2016-georgia-junior-duck-stamp-student-art-competition-winners-chosen/).

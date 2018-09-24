@@ -82,19 +82,19 @@ Written comments and information on the specific species may be e-mailed, faxed,
 
 ## Etonia rosemary, Florida bonamia, scrub buckwheat, longspurred mint, and Rugel’s pawpaw
 
-- North Florida Ecological Services Field Office, U.S. Fish & Wildlife Service, 7915 Baymeadows Way, Suite 200, Jacksonville, FL 32256, fax 904-731-3045\. For information on this species, contact Todd Mecklenborg at the Ecological Services Field Office (727-892-4104, [todd_mecklenborg@fws.gov](mailto:todd_mecklenborg@fws.gov)).
+- North Florida Ecological Services Field Office, U.S. Fish & Wildlife Service, 7915 Baymeadows Way, Suite 200, Jacksonville, FL 32256, fax 904-731-3045. For information on this species, contact Todd Mecklenborg at the Ecological Services Field Office (727-892-4104, [todd_mecklenborg@fws.gov](mailto:todd_mecklenborg@fws.gov)).
 
 ## Canby’s dropwort
 
-- Charleston Ecological Services Field Office, U.S. Fish & Wildlife Service, 176 Croghan Spur Road, Suite 200, Charleston, SC 29407, fax 843-727-4218\. For information on this species, contact Jason Ayers at the Ecological Services Field Office (843-300-0431, [jason_ayers@fws.gov](mailto:jason_ayers@fws.gov)).
+- South Carolina Ecological Services Field Office, U.S. Fish & Wildlife Service, 176 Croghan Spur Road, Suite 200, Charleston, SC 29407, fax 843-727-4218. For information on this species, contact Jason Ayers at the Ecological Services Field Office (843-300-0431, [jason_ayers@fws.gov](mailto:jason_ayers@fws.gov)).
 
 ## Short’s goldenrod
 
-- Kentucky Ecological Services Field Office, U.S. Fish & Wildlife Service, 330 West Broadway, Suite 365, Frankfort, KY 40601, fax 502-695-1024\. For information on this species, contact Mike Floyd at the Ecological Services Field Office (502-695-0468, [mike_floyd@fws.gov](mailto:mike_floyd@fws.gov)).
+- Kentucky Ecological Services Field Office, U.S. Fish & Wildlife Service, 330 West Broadway, Suite 365, Frankfort, KY 40601, fax 502-695-1024. For information on this species, contact Mike Floyd at the Ecological Services Field Office (502-695-0468, [mike_floyd@fws.gov](mailto:mike_floyd@fws.gov)).
 
 ## Miccosukee gooseberry and Telephus spurge
 
-- Panama City Ecological Services Field Office, U.S. Fish & Wildlife Service, 1601 Balboa Ave., Panama City, FL 32405, fax 850-763-2177\. For information on this species, contact Vivian Negron-Ortiz at the Ecological Services Field Office (850-769-0552, ext 231, [Vivian_negronortiz@fws.gov](mailto:Vivian_negronortiz@fws.gov)).
+- Panama City Ecological Services Field Office, U.S. Fish & Wildlife Service, 1601 Balboa Ave., Panama City, FL 32405, fax 850-763-2177. For information on this species, contact Vivian Negron-Ortiz at the Ecological Services Field Office (850-769-0552, ext 231, [Vivian_negronortiz@fws.gov](mailto:Vivian_negronortiz@fws.gov)).
 
 ## Contact
 Phil Kloer  

@@ -8,11 +8,11 @@ hero:
     caption: 'Due to dense vegetation and an often muddy ground, traipsing through bogs can often be a challenge. Photo by Gary Peeples, USFWS.'
     position: 'top right'
 tags:
-    - 'Native American'
-    - Grants
     - Florida
+    - Grants
+    - 'Native American'
     - 'North Carolina'
-updated: 'October 20th, 2016'
+updated: 'September 19th, 2018'
 ---
 
 Secretary of the Interior Ken Salazar today announced that 41 Native American tribes in 16 states will receive $7 million in competitive federal grants to undertake a wide variety of conservation projects. Funding is provided through the U.S. Fish and Wildlife Service’s Tribal Wildlife Grants program (TWG), which helps tribes defray the cost of implementing programs on their lands benefiting fish, wildlife, and their habitat.
@@ -197,7 +197,7 @@ This project will determine local herd dynamics and habitat use of Rocky Mountai
 
 **Confederated Tribes of the Colville Reservation: $139,701**
 
-The project contributes to an ongoing effort with state, provincial, and federal agencies to return California bighorn sheep to suitable habitat, specifically to their historic range on the Colville Reservation. Information from this project will be incorporated into the tribe’s Wildlife Management Plan and tribal youth will be educated in survey data collection and interpretation.
+The project contributes to an ongoing effort with state, provincial, and federal agencies to return California bighorn sheep to suitable habitat, specifically to their historical range on the Colville Reservation. Information from this project will be incorporated into the tribe’s Wildlife Management Plan and tribal youth will be educated in survey data collection and interpretation.
 
 **Lummi Indian Nation: $200,000**
 

@@ -11,6 +11,7 @@ tags:
     - Alabama
     - Georgia
     - 'South Carolina'
+    - 'South Carolina Ecological Services Field Office'
     - Kentucky
     - 'North Carolina'
     - Tennessee

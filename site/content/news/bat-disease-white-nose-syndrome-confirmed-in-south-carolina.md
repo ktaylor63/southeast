@@ -8,7 +8,7 @@ hero:
     caption: 'A tri-color bat in the Avery County with white-nose syndrome. Photo by Gabrielle Graeter, NCWRC.'
 tags:
   - South Carolina
-  - Charleston Ecological Services Field Office
+  - South Carolina Ecological Services Field Office
   - White Nose Syndrome
   - Tri-Colored Bat
 updated: 'June 13th, 2018'

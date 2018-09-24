@@ -8,14 +8,14 @@ hero:
     link: 'https://flic.kr/p/c4cwoo'
 tags:
     - Florida
-    - 'Whooping Crane'
     - Tennessee
-updated: 'November 9th, 2016'
+    - 'Whooping Crane'
+updated: 'September 19th, 2018'
 ---
 
 Ten endangered whooping cranes arrived yesterday on their wintering grounds at the [Chassahowitzka National Wildlife Refuge](http://www.fws.gov/chassahowitzka) (NWR) in Citrus County, Florida. The other 10 “Class of 2009” ultralight-led cranes reached their final wintering destination at [St. Marks NWR](http://www.fws.gov/saintmarks) in Wakulla County, Florida on January 13.
 
-These 20 cranes are the ninth group to be guided by ultralight aircraft more than 1,200 miles from Necedah NWR in central Wisconsin to the Gulf coast of Florida. The Whooping Crane Eastern Partnership (WCEP), an international coalition of public and private organizations, is conducting the reintroduction project in an effort to restore this endangered species to part of its historic range in eastern North America. At 89 days, this was the second longest ultralight-led migration since WCEP began reintroducing whooping cranes. Unsuitable flying weather caused delays along the migration route.
+These 20 cranes are the ninth group to be guided by ultralight aircraft more than 1,200 miles from Necedah NWR in central Wisconsin to the Gulf coast of Florida. The Whooping Crane Eastern Partnership (WCEP), an international coalition of public and private organizations, is conducting the reintroduction project in an effort to restore this endangered species to part of its historical range in eastern North America. At 89 days, this was the second longest ultralight-led migration since WCEP began reintroducing whooping cranes. Unsuitable flying weather caused delays along the migration route.
 
 "This Class of 2009 brings another exciting year for this great partnership, and it gets us one step closer to seeing the recovery of this magnificent species,” said Michael Lusk, Refuge Manager at Chassahowitzka NWR. “The staff at Chassahowitzka NWR worked hard to make sure that everything was ready for the arrival of the birds. We are very excited to be a part of this project and to be able to share our excitement with our partners at the St. Marks NWR."
 

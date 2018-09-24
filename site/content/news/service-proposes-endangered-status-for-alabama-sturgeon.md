@@ -10,12 +10,12 @@ tags:
     - Alabama
     - 'Alabama Sturgeon'
     - Mississippi
-updated: 'November 7th, 2017'
+updated: 'September 19th, 2018'
 ---
 
 The U.S. Fish and Wildlife Service this week is proposing that the Alabama sturgeon, a freshwater fish that once inhabited extensive portions of the Mobile River system, be listed as endangered on the federal list of endangered and threatened species. A species is endangered when it is at risk of becoming extinct in the foreseeable future.
 
-"The Alabama sturgeon was once so abundant that it was caught and sold commercially," said the Service's Southeast Regional Director, Sam D. Hamilton. "The fish inhabited some 1,000 miles of the Mobile River system in Alabama, that included the Black Warrior, Tombigbee, Alabama, Coosa, Tallapoosa, Mobile, Tensaw, and Cahaba Rivers as well as stretches of the Tombigbee River in Mississippi. Since then, it has disappeared from approximately 85 percent of its historic range in the Alabama and Tombigbee Rivers and their major tributaries in Mississippi and Alabama. Since 1985, all confirmed captures have been restricted to a short, free-flowing reach of the Alabama River below Millers Ferry and Claiborne Locks and Dams in Clarke, Monroe, and Wilcox Counties, Alabama.
+"The Alabama sturgeon was once so abundant that it was caught and sold commercially," said the Service's Southeast Regional Director, Sam D. Hamilton. "The fish inhabited some 1,000 miles of the Mobile River system in Alabama, that included the Black Warrior, Tombigbee, Alabama, Coosa, Tallapoosa, Mobile, Tensaw, and Cahaba Rivers as well as stretches of the Tombigbee River in Mississippi. Since then, it has disappeared from approximately 85 percent of its historical range in the Alabama and Tombigbee Rivers and their major tributaries in Mississippi and Alabama. Since 1985, all confirmed captures have been restricted to a short, free-flowing reach of the Alabama River below Millers Ferry and Claiborne Locks and Dams in Clarke, Monroe, and Wilcox Counties, Alabama.
 
 During the past 2 years the Service has worked with the Alabama Department of Conservation and Natural Resources, the Alabama-Tombigbee Rivers Coalition, a group of private businesses and industries with economic interests in these rivers, and other partners, to begin conservation efforts to increase the numbers of Alabama sturgeon. As a part of these efforts, the Marion State Fish Hatchery has been modified to maintain and propagate Alabama sturgeon and efforts to collect brood stock have been initiated. Biologists also are seeking to identify important habitats for the species in the Alabama River and to develop strategies for protection and management of this habitat.
 

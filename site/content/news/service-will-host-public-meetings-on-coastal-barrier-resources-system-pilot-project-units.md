@@ -12,6 +12,7 @@ tags:
     - Louisiana
     - 'North Carolina'
     - South Carolina
+    - 'South Carolina Ecological Services Field Office'
     - 'Puerto Rico'
     - 'US Virgin Islands'
 updated: 'October 26th, 2016'

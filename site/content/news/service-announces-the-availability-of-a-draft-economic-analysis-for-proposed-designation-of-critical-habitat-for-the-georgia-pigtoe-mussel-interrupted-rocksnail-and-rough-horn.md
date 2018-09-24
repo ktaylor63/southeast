@@ -1,5 +1,5 @@
 ---
-title: Service announces the availability of a draft economic analysis for proposed designation of Critical Habitat for the Georgia pigtoe mussel, interrupted rocksnail, and roughhorn
+title: 'Service announces the availability of a draft economic analysis for proposed designation of Critical Habitat for the Georgia pigtoe mussel, interrupted rocksnail, and roughhorn'
 date: '2010-02-10'
 hero:
     name: interrupted-rocksnail.jpg
@@ -7,13 +7,14 @@ hero:
     link: 'https://flic.kr/p/pFiF8L'
     caption: 'Interrupted rocksnail'
 tags:
- - Critical Habitat
- - Georgia Pigtoe
- - Interrupted rocksnail
- - Roughhorn
- - Alabama
- - Georgia
- - Tennessee
+    - Alabama
+    - 'Critical Habitat'
+    - Georgia
+    - 'Georgia Pigtoe'
+    - 'Interrupted Rocksnail'
+    - Roughhorn
+    - Tennessee
+updated: 'September 19th, 2018'
 ---
 
 The U.S. Fish and Wildlife Service today announced the availability of a draft economic analysis for the proposed designation of critical habitat for the Georgia pigtoe mussel, interrupted rocksnail, and rough hornsnail. These two aquatic snails and one mussel were proposed as endangered species, with critical habitat, on June 29, 2009.
@@ -22,7 +23,7 @@ The public may submit written comments on this proposed listing, critical habita
 
 The Service proposes designating parts of eight rivers and streams in Alabama, Georgia, and Tennessee, as critical habitat for the mussel and snails. In total, approximately 160 miles of stream and river channels fall within the boundaries of the proposed critical habitat designation in Cherokee, Clay, Coosa, Elmore and Shelby counties in Alabama; Gordon, Floyd, Murray, and Whitfield counties in Georgia; and Bradley and Polk counties in Tennessee.
 
-Critical habitat is being proposed for these three species because they have disappeared from more than 90 percent of their historic ranges due to the construction of dams on the Coosa River, and past events of severe water pollution. Surviving populations of these three species are small and localized, and highly vulnerable to water quality and habitat deterioration. Their small ranges also make them vulnerable to droughts or toxic spills.
+Critical habitat is being proposed for these three species because they have disappeared from more than 90 percent of their historical ranges due to the construction of dams on the Coosa River, and past events of severe water pollution. Surviving populations of these three species are small and localized, and highly vulnerable to water quality and habitat deterioration. Their small ranges also make them vulnerable to droughts or toxic spills.
 
 When a critical habitat designation is proposed, the Service is required by the Endangered Species Act to consider the economic impact of specifying any particular area as critical habitat. An area may be excluded from critical habitat if the benefits of excluding the area outweigh the benefits of including the area as critical habitat, provided such exclusion will not result in the extinction of the species. The draft economic analysis and the complete proposal can be obtained by visiting the Federal eRulemaking Portal: [&linkname=Regulations.gov">http://www.regulations.gov](http://www.regulations.gov) at Docket Number FWS-R4-ES-2008-0104.
 

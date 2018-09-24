@@ -45,6 +45,7 @@ tags:
     - 'Schweinitz’s Sunflower'
     - 'Shinyrayed Pocketbook'
     - 'Silver Rice Ra'
+    - 'South Carolina Ecological Services Field Office'
     - 'St. Andrews Beach Mous'
     - 'St. Croix Ground Lizard'
     - 'Stock Island Tree Snail'

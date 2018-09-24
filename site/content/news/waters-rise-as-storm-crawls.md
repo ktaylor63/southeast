@@ -11,6 +11,7 @@ tags:
     - 'Hurricane Florence'
     - 'North Carolina'
     - 'South Carolina'
+    - 'South Carolina Ecological Services Field Office'
     - Virginia
     - 'West Virginia'
 updated: 'September 15th, 2018'

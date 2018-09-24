@@ -18,10 +18,11 @@ tags:
     - Mississippi
     - Monarch
     - 'South Carolina'
-updated: 'May 7th, 2018'
+    - 'South Carolina Ecological Services Field Office'
+updated: 'September 19th, 2018'
 ---
 
-**Washington, D.C.** –The monarch butterfly, Topeka shiner and gopher tortoise are among the imperiled species that will benefit from $5.7 million in grants to 11 states through the U.S. Fish and Wildlife Service’s Competitive State Wildlife Grants program. The grants focus on large-scale conservation projects to conserve and recover species of greatest conservation need and their habitats. They will be matched by more than $2.9 million in non-federal funds from states and their partners.
+**Washington, D.C.** &mdash; The monarch butterfly, Topeka shiner and gopher tortoise are among the imperiled species that will benefit from $5.7 million in grants to 11 states through the U.S. Fish and Wildlife Service’s Competitive State Wildlife Grants program. The grants focus on large-scale conservation projects to conserve and recover species of greatest conservation need and their habitats. They will be matched by more than $2.9 million in non-federal funds from states and their partners.
 
 In addition to offering funds to these 11 states, the Service is also awarding two grants totaling $605,771 to the Western Association of Fish and Wildlife Agencies, to be distributed to several western states and their partners for cooperative conservation projects.
 
@@ -41,7 +42,7 @@ Check out the 2015 State Wildlife Grant projects for the Southeast:
 
 **State(s):** Florida, Alabama, Georgia
 
-**Goals and Objectives:** Pocket gophers are known ecosystem engineers that promote diversity and resilience of the natural pinelands ecosystems where they are known to occur. Their tunneling activity aerates soils and provides bare ground for colonization by herbaceous plants, increasing plant diversity and productivity while providing shelter for numerous insects and vertebrates. This project will examine the historic range of pocket gophers to determine what conditions and management practices will create favorable conditions for restoring them to southeastern natural pinelands ecosystems. The partners will identify areas for translocations, develop a standardized method for restoration, and monitor population abundance in restored areas.
+**Goals and Objectives:** Pocket gophers are known ecosystem engineers that promote diversity and resilience of the natural pinelands ecosystems where they are known to occur. Their tunneling activity aerates soils and provides bare ground for colonization by herbaceous plants, increasing plant diversity and productivity while providing shelter for numerous insects and vertebrates. This project will examine the historical range of pocket gophers to determine what conditions and management practices will create favorable conditions for restoring them to southeastern natural pinelands ecosystems. The partners will identify areas for translocations, develop a standardized method for restoration, and monitor population abundance in restored areas.
 
 **Federal Funds requested**: $491,667; **Non-Federal Match**: $217,015
 

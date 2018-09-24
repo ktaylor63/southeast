@@ -17,6 +17,7 @@ tags:
     - 'Pea Island National Wildlife Refuge'
     - 'Pocosin Lakes National Wildlife Refuge'
     - 'South Carolina'
+    - 'South Carolina Ecological Services Field Office'
     - 'Swanquarter National Wildlife Refuge'
     - Virginia
 updated: 'September 11th, 2018'

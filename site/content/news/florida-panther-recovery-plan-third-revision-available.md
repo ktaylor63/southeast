@@ -8,13 +8,13 @@ hero:
     name: florida-panther.jpg
     position: 'left center'
 tags:
-    - Recovery
-    - 'Florida panther'
     - Florida
-updated: 'October 20th, 2016'
+    - 'Florida Panther'
+    - Recovery
+updated: 'September 19th, 2018'
 ---
 
-The third revision of the Florida panther recovery plan is now available, announced the U.S. Fish and Wildlife Service today. The [Florida panther](/wildlife/mammals/florida-panther) is the last subspecies of Puma (also known as mountain lion, cougar, or catamount) still surviving in the Eastern United States. Historically occurring throughout the southeastern U.S., today the remaining approximately 100 panthers are found in south Florida and restricted to less than five percent of their historic range.
+The third revision of the Florida panther recovery plan is now available, announced the U.S. Fish and Wildlife Service today. The [Florida panther](/wildlife/mammals/florida-panther) is the last subspecies of Puma (also known as mountain lion, cougar, or catamount) still surviving in the Eastern United States. Historically occurring throughout the southeastern U.S., today the remaining approximately 100 panthers are found in south Florida and restricted to less than five percent of their historical range.
 
 The Florida panther was federally listed as an endangered species in 1967 and ultimately under the Endangered Species Act of 1973. The Service issued the first recovery plan in 1981, and it was revised in 1987 and 1995.
 

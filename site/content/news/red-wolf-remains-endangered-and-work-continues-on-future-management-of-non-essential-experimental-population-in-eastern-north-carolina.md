@@ -16,7 +16,7 @@ hero:
 updated: 'April 24th, 2018'
 ---
 
-The U.S. Fish and Wildlife Service today released a [five-year status review](/pdf/five-year-reviews/red-wolf-2018.pdf) and [Species Status Assessment](http://ecos.fws.gov/ServCat/DownloadFile/147196) outlining the latest science and data supporting its recommendation for no change in the red wolf’s overall status as endangered under the Endangered Species Act. The status review is required every five years and is based on the latest science and data included in a Species Status Assessment (SSA) that serves as the foundation for the recommendation.
+The U.S. Fish and Wildlife Service today released a [five-year status review](https://ecos.fws.gov/docs/five_year_review/doc5714.pdf) and [Species Status Assessment](http://ecos.fws.gov/ServCat/DownloadFile/147196) outlining the latest science and data supporting its recommendation for no change in the red wolf’s overall status as endangered under the Endangered Species Act. The status review is required every five years and is based on the latest science and data included in a Species Status Assessment (SSA) that serves as the foundation for the recommendation.
 
 In addition, the Service expects to release an environmental assessment and a new proposed rule by late summer with alternatives for public comment covering future management of the non-essential, experimental population (NEP) of red wolves in eastern North Carolina. An NEP is one that is considered not essential for the continued existence of the species. The Service is also beginning work with an independent organization as directed by Congress to determine within one year if the red wolf represents a taxonomically valid species designation.
 
@@ -31,13 +31,13 @@ Currently, there are about 40 red wolves in the wild in eastern North Carolina i
 * Maintain a sufficient captive breeding population;
 * Propose, through public notice, comment and rulemaking, to reduce the NEP management area to [Alligator River National Wildlife Refuge](https://www.fws.gov/refuge/alligator_river/) and the Dare County Bombing Range in eastern North Carolina; this will include a Section 7 consultation, National Environmental Policy Act requirements, and any other environmental compliance actions that may be needed;
 * Complete a [comprehensive SSA](http://ecos.fws.gov/ServCat/DownloadFile/147196) for the red wolf to guide the Service’s recovery planning in the future; and
-* Complete a [five-year status review](/pdf/five-year-reviews/red-wolf-2018.pdf) of the red wolf.
+* Complete a [five-year status review](https://ecos.fws.gov/docs/five_year_review/doc5714.pdf) of the red wolf.
 
 ## Learn more
 
 * [Read the frequently asked questions associated with this announcement](/faq/red-wolf-status-assessment-five-year-review-and-future-plans)
 * Visit the [red wolf species profile](/wildlife/mammals/red-wolf/)
-* [Download the red wolf five-year review, (2018)](/pdf/five-year-reviews/red-wolf-2018.pdf)
+* [Download the red wolf five-year review, (2018)](https://ecos.fws.gov/docs/five_year_review/doc5714.pdf)
 * [Download the red wolf SSA, (2018)](http://ecos.fws.gov/ServCat/DownloadFile/147196)
 * [Learn about the five-year review process](/endangered-species-act/five-year-reviews)
 * [Learn more about species status assessments](/endangered-species-act/species-status-assessments)

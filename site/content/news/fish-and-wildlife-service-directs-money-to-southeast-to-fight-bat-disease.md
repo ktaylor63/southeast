@@ -20,6 +20,7 @@ tags:
     - 'North Carolina'
     - Recovery
     - 'South Carolina'
+    - 'South Carolina Ecological Services Field Office'
     - Tennessee
     - 'White-Nose Syndrome'
 updated: 'July 18th, 2017'

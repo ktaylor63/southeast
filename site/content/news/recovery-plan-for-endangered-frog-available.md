@@ -13,7 +13,7 @@ tags:
     - 'Louisiana Ecological Services Field Office'
     - Mississippi
     - Recovery
-updated: 'May 7th, 2018'
+updated: 'September 19th, 2018'
 ---
 
 The U.S. Fish and Wildlife Service is announcing the availability of the final recovery plan for the dusky gopher frog, federally listed as endangered.
@@ -30,7 +30,7 @@ One example of an ongoing dusky gopher frog recovery effort specified in the rec
 
 In the recovery plan, the Service outlines a path to downlist the dusky gopher frog to threatened status by reducing the threats to the species and preventing its extinction.  Downlisting to threatened will be considered when there are six genetically viable populations, each with at least two breeding ponds no more than a mile apart and not separated by any major barriers, such as highways or developed areas, which would disrupt movement of frogs between ponds.  Also,10 years of monitoring must demonstrate that these populations are stable; at least two successful breeding events must be documented over a three-year period.  In addition, the frog’s breeding and upland habitat areas must occur in sufficient quantity and quality to support growing populations and be protected long-term through management agreements, public ownership or other means.
 
-As presented in the recovery plan, the six genetically viable populations across its historic range could include one population in Louisiana within portions of St. Tammany, Tangipahoa, and Washington Parishes; two populations in south-central Mississippi within Forrest County and portions of George, Greene, Jones, Lamar, Marion, Pearl River, Perry, Stone, and Wayne Counties; two populations in south Mississippi within Hancock and Harrison Counties and portions of Jackson, George, Pearl River, and Stone Counties; and one population either in eastern Mississippi within portions of George, Greene, Jackson, Perry, and Wayne Counties or in Alabama within Mobile and Washington Counties and a portion of Choctaw County.
+As presented in the recovery plan, the six genetically viable populations across its historical range could include one population in Louisiana within portions of St. Tammany, Tangipahoa, and Washington Parishes; two populations in south-central Mississippi within Forrest County and portions of George, Greene, Jones, Lamar, Marion, Pearl River, Perry, Stone, and Wayne Counties; two populations in south Mississippi within Hancock and Harrison Counties and portions of Jackson, George, Pearl River, and Stone Counties; and one population either in eastern Mississippi within portions of George, Greene, Jackson, Perry, and Wayne Counties or in Alabama within Mobile and Washington Counties and a portion of Choctaw County.
 
 The dusky gopher frog’s disappearance from much of its historical range was primarily due to habitat destruction and alteration of the frog’s longleaf pine upland and breeding habitats.  Continuing threats to the species’ habitat include fire suppression and habitat modification due to land uses, such as urbanization, forestry and agriculture.  Additionally, small population sizes and vulnerability to catastrophic events, such as droughts, threaten the frog.
 

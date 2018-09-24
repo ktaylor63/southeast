@@ -8,6 +8,7 @@ tags:
     - 'National Wildlife Refuge System'
     - 'Savannah River National Wildlife Refuge'
     - 'South Carolina'
+    - 'South Carolina Ecological Services Field Office'
 hero:
     name: savannah-river-nwr.jpg
     alt: 'Spanish moss covers the branches of mature live oak trees.'
