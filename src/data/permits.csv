@@ -510,7 +510,7 @@ number,status,fed_register
 034476-4,Issued,Noticed for 30 days
 077258-3,Issued,N/A
 43639C-0,Issued,N/A
-28025A-3,In FO for Review,N/A
+28025A-3,Awaiting signature,N/A
 44504C-0,Issued,N/A
 44575C-0,Issued,N/A
 049502-8,In FO for Review,Noticed for 30 days
@@ -692,3 +692,4 @@ number,status,fed_register
 07787D-0,In RO for Review,N/A
 07817D-0,In RO for Review,N/A
 07830D-0,In RO for Review,needs to be drafted
+077258-4,Issued,N/A

@@ -1,5 +1,14 @@
 ---
 stories:
+  - title: 'North Florida Land Trust marks largest conservation easement acquisitions to date'
+    subtitle: More than 2,500 acres in Clay County will be preserved in perpetuity
+    summary: 'Fla. – North Florida Land Trust has acquired two conservation easements in Clay County marking the nonprofit organization’s largest conservation easement acquisitions to date. The two properties totaling approximately 2,551 acres will now be protected from high intensity development and will serve as a buffer for the Camp Blanding Joint Training Center.'
+    date: 2018-09-19
+    hero:
+      name: gopher-tortoise-released-at-eglin-afb.jpg
+      alt: 'A military officer in uniform releases a gopher tortoise next to a burrow.'
+      caption: 'Col. Matthew Higer, 96th Test Wing vice commander, bends down to release a gopher tortoise into its new home deep within the Eglin Air Force Base. Photo by Samuel King Jr., U.S. Air Force.'
+    url: 'https://www.floridatrend.com/article/25434/north-florida-land-trust-marks-largest-conservation-easement-acquisitions-to-date'
   - title: 'New fishing regulations proposed in Tennessee to combat Asian carp'
     summary: 'The Tennessee Wildlife Resources Agency released its 2019-2020 fishing regulation proposals for public comment last week. Among them is a ban on transporting live skipjack herring, gizzard shad and threadfin shad for commercial fishermen. For sport fishermen, a ban would be placed on transporting the three species of live fish from the Mississippi River and Barkley, Kentucky and Pickwick reservoirs, tributaries or oxbows.'
     date: 2018-09-10
