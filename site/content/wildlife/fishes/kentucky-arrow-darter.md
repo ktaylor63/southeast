@@ -18,7 +18,7 @@ hero:
     caption: 'Photo by J.R. Shute, Conservation Fisheries, Inc.'
     alt: 'A small, brightly colored orange and blue fish in an aquarium.'
     position: 'left center'
-updated: 'August 23rd, 2018'
+updated: 'September 19th, 2018'
 ---
 
 - **Taxon: Fish**
@@ -46,11 +46,11 @@ Kentucky arrow darters can be found in pools or transitional areas between riffl
 
 Kentucky arrow darters feed primarily on mayflies, larval blackflies, and midges, with lesser amounts of caddisfly larvae, stonefly nymphs, and beetle larvae. Kentucky arrow darters greater than 70 mm (2.8 in) often feed on small crayfishes.
 
-## Historic range
+## Historical range
 
 The Kentucky arrow darter occurred historically in at least 74 streams in the upper Kentucky River basin of eastern Kentucky that spanned portions of 6 smaller sub-basins or watersheds: North Fork Kentucky River, Middle Fork Kentucky River, South Fork Kentucky River, Silver Creek, Sturgeon Creek, and Red River. A detailed description of the historical records and their sources can be found in the [2015 Proposed Listing Rule](https://www.gpo.gov/fdsys/pkg/FR-2015-10-08/pdf/2015-25278.pdf).
 
-{{< figure class="photo-center" src="/images/pages/kentucky-arrow-darter-historical-range.jpg" alt="Map of the Kentucky arrow darter's historical range in south eastern Kentucky." caption="Historic range map by USFWS." >}}
+{{< figure class="photo-center" src="/images/pages/kentucky-arrow-darter-historical-range.jpg" alt="Map of the Kentucky arrow darter's historical range in south eastern Kentucky." caption="historical range map by USFWS." >}}
 
 ## Current range
 

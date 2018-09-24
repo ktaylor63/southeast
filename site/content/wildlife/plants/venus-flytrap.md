@@ -22,7 +22,7 @@ hero:
     name: venus-flytrap.jpg
     alt: 'A cluster of carnivorious plant heads with bright red/orange mouths.'
     caption: 'Venus flytrap. Photo by Jennifer Koches, USFWS.'
-updated: 'August 23rd, 2018'
+updated: 'September 19th, 2018'
 ---
 
  - **Taxon:** Plant
@@ -56,7 +56,7 @@ Most carnivorous plants selectively feed on specific prey. This selection is due
 
 {{< figure class="photo-center" src="/images/pages/venus-flytrap-bloom.jpg" alt="A bright orange and black beetle on a white flower with five petals." caption="Checkered beetle on venus flytrap blooms. Photo by Jennifer Koches, USFWS." >}}
 
-## Historic range
+## Historical range
 
 ### North Carolina counties
 

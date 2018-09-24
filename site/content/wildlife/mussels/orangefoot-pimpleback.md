@@ -19,7 +19,7 @@ hero:
     name: orangefoot-pimpleback.jpg
     alt: 'A brown mussel with orangish brown striations'
     caption: 'An orangefoot pimpleback mussel. Photo by Monte McGregor, Center Mollusk Conservation, Kentucky DFWR.'
-updated: 'August 31st, 2018'
+updated: 'September 19th, 2018'
 ---
 
 - **Taxon:** Bivalve
@@ -42,7 +42,7 @@ This mussel species inhabits medium to large rivers.
 
 Mussels are filter feeders; they mainly eat phytoplankton, zooplankton, and bacteria suspended in the water. By drawing water inside their shells through a siphon, their gills filter out food and take in oxygen.
 
-## Historic range
+## Historical range
 
 It historically occurred in the Ohio, Cumberland, and Tennessee River systems, including the lower French Broad and Holston Rivers.
 

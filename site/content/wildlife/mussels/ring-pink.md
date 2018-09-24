@@ -18,7 +18,7 @@ hero:
     name: ring-pink.jpg
     alt: 'A photograph of the outside and inside of a ring pink shell next to a ruler for scale.  Shell is approximately 3 inches wide.'
     caption: 'Ring pink. Photo by Leroy Koch, USFWS.'
-updated: 'August 23rd, 2018'
+updated: 'September 19th, 2018'
 ---
 
 - **Taxon:** Bivalve
@@ -43,11 +43,11 @@ This species is endemic to the Ohio River basin and is found in gravel and sandy
 
 Mussels are filter feeders; they mainly eat phytoplankton, zooplankton, and bacteria suspended in the water. By drawing water inside their shells through a siphon, their gills filter out food and take in oxygen.
 
-## Historic range
+## Historical range
 
 Historically, the ring pink was widely distributed in the Ohio, Cumberland, and Tennessee River systems in Alabama, Illinois, Indiana, Kentucky, Ohio, Pennsylvania, Tennessee, and West Virginia.
 
-{{< figure class="photo-center" src="/images/pages/ring-pink-historical-range.jpg" alt="Map depicting ring pick historical range by state including Illinois, Indiana, Ohio, Pennsylvania, Kentucky, West Virginia, Tennessee and Alabama" caption="Historic range. Map by USFWS." >}}
+{{< figure class="photo-center" src="/images/pages/ring-pink-historical-range.jpg" alt="Map depicting ring pick historical range by state including Illinois, Indiana, Ohio, Pennsylvania, Kentucky, West Virginia, Tennessee and Alabama" caption="historical range. Map by USFWS." >}}
 
 ## Current range
 
@@ -73,7 +73,7 @@ Recent interest in gas exploration has resulted in new activity, especially in G
 
 Download the [1991 Recovery Plan](https://ecos.fws.gov/docs/recovery_plan/910325.pdf) (PDF).
 
-The ultimate goal of the recovery plan is to restore viable populations, defined as a reproducing population that is large enough to maintain sufficient genetic variation to enable it to evolve and respond to natural habitat changes, of the ring pink mussel to a significant portion of its historic range in the Ohio River basin and remove the species from the Federal List of Endangered and Threatened Wildlife and Plants. The species will be considered for reclassification to threatened status when the likelihood of the species’ becoming extinct in the foreseeable future has been eliminated.
+The ultimate goal of the recovery plan is to restore viable populations, defined as a reproducing population that is large enough to maintain sufficient genetic variation to enable it to evolve and respond to natural habitat changes, of the ring pink mussel to a significant portion of its historical range in the Ohio River basin and remove the species from the Federal List of Endangered and Threatened Wildlife and Plants. The species will be considered for reclassification to threatened status when the likelihood of the species’ becoming extinct in the foreseeable future has been eliminated.
 
 ## How you can help
 

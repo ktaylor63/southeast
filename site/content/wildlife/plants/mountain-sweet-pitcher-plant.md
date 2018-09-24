@@ -10,6 +10,7 @@ hero:
     position: 'bottom center'
 tags:
     - 'Asheville Ecological Services Field Office'
+    - 'South Carolina Ecological Services Field Office'
     - 'Carnivorous Plant'
     - 'Endangered Species Act'
     - 'Mountain Bogs'

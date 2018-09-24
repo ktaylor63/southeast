@@ -18,7 +18,7 @@ hero:
     alt: 'A small fish with dark stripes on a yellow tinged back and white belly.'
     caption: 'Blackfin sucker. Photo by Matthew Thomas, KDFWR.'
     position: 'center left'
-updated: 'August 23rd, 2018'
+updated: 'September 19th, 2018'
 ---
 
 - **Taxon:** Freshwater fish
@@ -43,7 +43,7 @@ Blackfin suckers are found in clear headwater streams near bedrock ledges, slabr
 
 The blackfin’s primary food item is larval midges.  Other items include crustaceans, larval black flies, larval fishflies and hellgrammites, and larval caddisflies.
 
-## Historic range
+## Historical range
 
 According to pre-2007 data, the blackfin sucker was historically found in 23 streams in the Upper Barren River Basin.
 

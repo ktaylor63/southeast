@@ -20,7 +20,7 @@ hero:
     alt: 'Two dark gray mussels with striations on a red towel next to a ruler for scale.'
     caption: 'Suwannee moccasinshells. Photo by USFWS.'
     position: bottom
-updated: 'August 23rd, 2018'
+updated: 'September 19th, 2018'
 ---
 
 - **Taxon:** Bivalve, Unionidae
@@ -45,7 +45,7 @@ Unionid mussels live in the bottom substrates of streams and lakes where they ge
 
 Adult freshwater mussels obtain food items both from the water column and from the sediments. They filter feed by taking water in through the incurrent siphon and across four gills that are specialized for respiration and food collection. They can also move sediment material into the shell by using cilia (hairlike structures) on the foot or through currents created by cilia. Juvenile mussels typically burrow completely beneath the substrate surface for the first several months of their life. During this time, they feed primarily with their ciliated foot which they sweep through the sediment to extract material, until the structures for filter feeding are more fully developed. Mussels feed on a variety of microscopic food particles that include algae, diatoms, bacteria, and fine detritus (disintegrated organic debris).
 
-## Historic range
+## Historical range
 
 The Suwannee moccasinshell’s historical range includes the lower and middle Suwannee River mainstem and the Santa Fe River sub-basin in Florida, and the lower reach of the Withlacoochee River in Georgia and Florida.
 

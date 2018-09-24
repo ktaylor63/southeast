@@ -18,7 +18,7 @@ hero:
     alt: 'A translucent shrimp walking along a rocky surface under water'
     caption: 'A Kentucky cave shrimp. Photo by John MacGregor, Kentucky Department of Fish and Wildlife Resources.'
     position: 'center bottom'
-updated: 'August 23rd, 2018'
+updated: 'September 19th, 2018'
 ---
 
 - **Taxa: Crustacea**
@@ -40,9 +40,10 @@ The Kentucky cave shrimp only lives in underground streams. They typically inhab
 {{< figure class="photo-center" src="/images/pages/ky-cave-shrimp_survey.jpg" alt="A small peach-white frog" caption="Carrie Allison, a USFWS biologist in Kentucky, surveys for the Kentucky cave shrimp at Hades Passage in Mammoth Cave, Kentucky." >}}
 
 ## Diet
+
 This crustacean feeds by grazing the surface of sediments in caves, consuming protozoans, algal cells, fungi, and other organic materials.
 
-## Historic range
+## Historical range
 
 The Kentucky cave shrimp is found exclusively in Kentucky. It has only been observed in underground streams in and surrounding Mammoth Cave National Park in central Kentucky.
 

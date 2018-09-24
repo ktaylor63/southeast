@@ -19,7 +19,7 @@ hero:
     alt: 'A small, straw-yellow colored fish with brown markings'
     caption: 'Photo by Jeremy Shute, Conservation Fisheries, Inc.'
     position: 'left bottom'
-updated: 'August 24th, 2018'
+updated: 'September 19th, 2018'
 ---
 
 - **Taxon:** Fish
@@ -44,7 +44,7 @@ Little is known about the specific habitat requirements of the Cumberland darter
 
 The feeding habits of the Cumberland darter are unknown but are likely similar to that of a closely related species, the Johnny darter (E. nigrum). Johnny darters are sight feeders, with prey items consisting of midge larvae, mayfly nymphs, caddisfly larvae and microcrustaceans.
 
-## Historic range
+## Historical range
 
 The Cumberland darter is endemic to the upper Cumberland River system above Cumberland Falls in Kentucky and Tennessee. The earliest known collections of the species were made in tributaries of the Clear Fork of the Cumberland River, Kentucky. The species was later reported from Gum Fork, Scott County, Tennessee. Historical records show that the Cumberland darter was restricted to short reaches of 20 small streams (23 sites) in the upper Cumberland River system in Whitley and McCreary Counties, Kentucky, and Campbell and Scott Counties, Tennessee.
 

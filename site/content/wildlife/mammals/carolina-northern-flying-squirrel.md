@@ -22,7 +22,7 @@ hero:
     alt: 'A biologist holding a small squirrel with yellow gloves'
     caption: 'A Carolina northern flying squirrel in the hands of a biologist. Photo by Sue Cameron, USFWS.'
     position: '50% 30%'
-updated: 'August 24th, 2018'
+updated: 'September 19th, 2018'
 ---
 
 - **Taxa:** Mammal
@@ -51,7 +51,7 @@ Carolina northern flying squirrels are typically found in high elevation, mixed 
 
 Northern flying squirrels principally feed on certain fungi and lichens, though they also eat fruits, seeds, insects, and some animal matter.
 
-## Historic range
+## Historical range
 
 Likely occurred on high mountains throughout the region. See “Current Range” below.
 

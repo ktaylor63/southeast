@@ -15,6 +15,7 @@ tags:
     - 'North Carolina'
     - Plant
     - 'South Carolina'
+    - 'South Carolina Ecological Services Field Office'
 aliases:
     - /wildlife/plant/american-chaffseed
     - /species/plant/american-chaffseed
@@ -25,7 +26,7 @@ hero:
     link: 'https://flic.kr/p/JioDEh'
     caption: 'American chaffseed © Robert Sincliar. Copyright release form S://EA/Photo Permissions/american-chaffseed.pdf'
     position: 'bottom center'
-updated: 'August 23rd, 2018'
+updated: 'September 19th, 2018'
 ---
 
 **Taxon:** Plant  
@@ -84,7 +85,7 @@ American chaffseed occurs in fire-maintained longleaf pine flatwoods and savanna
 
 Most of the surviving populations, and all of the most vigorous populations, are in areas that are still subject to frequent fire.  These fire-maintained habitats include plantations where prescribed fire is part of a management regime for quail and other game species, army base impact zones that burn regularly because of artillery shelling, forest management areas that are burned to maintain habitat for wildlife (such as the red-cockaded woodpecker), and various other private lands that are burned to maintain open fields.  Fire may be important to the species in ways that are not yet understood, such as for germination of seed, or in the formation of the connection to the host plant.
 
-## Historic range
+## Historical range
 
 States with historic records only are Massachusetts, Connecticut, New York, Delaware, Maryland, Virginia, Mississippi, Louisiana, Texas, Tennessee, and Kentucky.
 

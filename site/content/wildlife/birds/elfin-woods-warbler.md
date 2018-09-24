@@ -24,7 +24,7 @@ tags:
     - Recovery
     - Reinita
     - 'Reinita De Bosque Enano'
-updated: 'August 23rd, 2018'
+updated: 'September 19th, 2018'
 ---
 
 - **Taxon**: Bird
@@ -50,7 +50,7 @@ Its breeding season extends from March to June. Pairs of elfin-woods warblers we
 
 {{< figure class="photo-center" src="/images/pages/elfin-woods-warbler-adult.jpg" alt="A small, blue/grey bird with grey/white breast and long pointed beak." caption="Adult elfin-woods warbler in Maricao, Puerto Rico. Photo © Carlos Delannoy, used with permission." >}}
 
-## Habitat 
+## Habitat
 
 Elfin-woods warblers live in forests with high rainfall, high humidity, low insolation, low temperatures, and constant winds. As its name suggests, this warbler inhabits elfin or montane dwarf forest with dense stands of short, small diameter, twisted trees and shrubs, but it is not exclusive to those areas. This warbler can also live in montane wet forest, and ranges to lower-elevation wet forest.
 
@@ -60,11 +60,11 @@ Elfin-woods warblers live in forests with high rainfall, high humidity, low inso
 
 The elfin-woods warbler forages for insects at heights between 10 and 50 feet; in areas with dense foliage cover, they mainly forage at heights of approximately 26 feet to avoid competition with other insectivorous birds.  It eats a large variety of insects, such as moths and dragonflies.
 
-## Historic range
+## Historical range
 
 When the species was discovered in 1968, the elfin-woods warbler was thought to occur only in the Luquillo Mountains at El Yunque National Forest in eastern Puerto Rico.  During the early 1970s the warbler was reported in the Maricao Commonwealth Forest in western Puerto Rico, Toro Negro Commonwealth Forest in the central mountain range of the Island, and in the Carite Commonwealth Forest in east-central Puerto Rico. Only one record of the elfin-woods warbler exists for the Toro Negro Commonwealth Forest, and more than 15 years have passed since the warbler was seen in the Carite Commonwealth Forest.
 
-{{< figure class="photo-center" src="/images/pages/elfin-woods-warbler-historic-range.jpg" alt="A map showing the historic range of the elfin woods warbler in two public lands on either side of the island." caption="Historic range of elfin-woods warbler. Map by Roy Hewitt, USFWS." link="https://flic.kr/p/TFwGCG" >}}
+{{< figure class="photo-center" src="/images/pages/elfin-woods-warbler-historic-range.jpg" alt="A map showing the historical range of the elfin woods warbler in two public lands on either side of the island." caption="historical range of elfin-woods warbler. Map by Roy Hewitt, USFWS." link="https://flic.kr/p/TFwGCG" >}}
 
 ## Current range
 

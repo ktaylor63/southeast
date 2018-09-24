@@ -27,7 +27,7 @@ aliases:
     - /wildlife/plant/small-anthered-bittercress
     - /species/plant/small-anthered-bittercress
     - /species/plants/small-anthered-bittercress
-updated: 'August 30th, 2018'
+updated: 'September 19th, 2018'
 ---
 
 - **Taxon:** Plant
@@ -48,7 +48,7 @@ Virginia spiraea is a perennial shrub with many branches. It grows 3110 feet tal
 
 Virginia spiraea occurs along rivers and streams and relies on periodic disturbances, such as high‑velocity scouring floods, which eliminate competition from trees and other woody vegetation. However, if the frequency and intensity of these floods is too great, the plant may become dislodged and wash downstream into less suitable habitat.
 
-## Historic range
+## Historical range
 
 The species historical range included Alabama, Georgia, Kentucky, North Carolina, Ohio, Pennsylvania, Tennessee, Virginia, West Virginia.
 
@@ -80,7 +80,7 @@ Protect the known populations and their habitat, and restore rangewide distribut
 - Conduct site-specific habitat manipulation as needed to maintain populations.
 - Maintain cultivated sources for reproduction studies as well as conservation and reintroduction activities.
 - Study the species’ environmental tolerances and habitat characteristics.
-- Re-establish populations within the historic range of the species.
+- Re-establish populations within the historical range of the species.
 - Inform land owners and managers about the plant’s recovery needs.
 - Monitor populations and evaluate effectiveness of recovery efforts.
 

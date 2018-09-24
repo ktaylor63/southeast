@@ -19,12 +19,12 @@ hero:
     caption: 'Carolina madtom. Photo by D Biggins, former USFWS.'
     link: 'https://flic.kr/p/Tk6D1L'
     position: 'center left'
-updated: 'August 23rd, 2018'
+updated: 'September 19th, 2018'
 ---
 
 - **Taxon:** Freshwater Fish
 - **Range:** Neuse River and Tar River basins, [North Carolina](/north-carolina)
-- **Status:** Candidate Species
+- **Status:** Candidate species
 
 {{< scroller-list tag="Carolina Madtom" section="news" >}}
 {{< scroller-list tag="Carolina Madtom" section="articles" >}}
@@ -34,7 +34,7 @@ updated: 'August 23rd, 2018'
 
 The Carolina madtom is a small catfish, reaching a maximum length of nearly five inches. When compared to other madtoms, the Carolina madtom has a short, chunky body and a distinct color pattern. Three dark saddles along its back connect a wide, black stripe along its side extending from its snout to the base of its tail. The adipose fin has a dark blotch that does not quite reach the fin’s edge, giving the impression of a fourth saddle. Yellowish to tan blotches space the saddles, while the rest of the fish is tan. The belly is un-speckled, and the tail has crescent-shaped brown bands near its edge and center. Its pectoral spines have well-defined serrated (saw-like) projections along both margins. Stinging spines in its pectoral fins, earn this fish the “furiosus” title that is part of it’s scientific name.
 
-{{< figure class="photo-center" src="/images/pages/carolina-madtom-illustration.jpg" alt="Original hand-drawn illustration of the Carolina madtom catfish." caption="Illustration of Carolina madtom by Jordan, 1888." >}}
+{{< figure class="photo-center" src="/images/pages/carolina-madtom.jpg" alt="A photo of a catfish with lines describing specific areas of the fish." caption="Carolina Madtom identification key by Jose Barrios, USFWS." >}}
 
 ## Habitat
 
@@ -46,7 +46,9 @@ The species occurs in riffles, runs, and pools in medium to large streams and ri
 
 The Carolina madtom is a sight feeder most active during the night, with peaks at dawn and dusk. It eats bottom-dwelling invertebrates such as larval midges, mayflies, caddisflies, dragonflies and beetle larvae.
 
-## Historic range
+{{< figure class="photo-center" src="/images/pages/carolina-madtom-illustration.jpg" alt="Original hand-drawn illustration of the Carolina madtom catfish." caption="Illustration of Carolina madtom by Jordan, 1888." >}}
+
+## Historical range
 
 The Carolina Madtom is a freshwater fish species endemic to the Tar-Pamlico, and Neuse River (including the Trent) drainages in North Carolina.  
 
@@ -90,24 +92,36 @@ The Carolina madtom needs clean, flowing water to survive. Human-caused increase
 ### Reduced stream flow
 
 Drought and impoundments slow down the natural flow of  streams, compromise water quality, hamper fish movement, limit available prey, and prevent waste and fine sediments from flushing out of the stream.
- 
+
 ### Agriculture and development
 
 Streams with urbanized or agriculturally dominated riparian corridors tend to have more sediment in the water and unstable banks and/or impervious surface runoff, resulting in less suitable streams for fish as compared to habitat with forested corridors. 
- 
+
 ### Habitat fragmentation
 
 Dams and perched or undersized culverts limit the madtom’s ability to distribute throughout streams to find good quality habitat. For example, the construction of Falls Lake dam in the upper Neuse isolated Carolina madtoms in the upper basin from the middle Neuse basin.  Isolated or patchy distributions of fish may limit genetic exchange.  
 
 ### Invasive species
 
-The flathead catfish is an invasive top predator in the Neuse and Tar River basins, upon which no other creatures prey. It feeds mostly on other fish. Hydrilla is a submersed aquatic plant that forms nearly impenetrable mats of stems and leaves at the surface of the water. It alters stream habitat, decreases flows, and contributes to sediment buildup in streams.
+The flathead catfish is an invasive top predator in the Neuse and Tar River basins, upon which no other creatures prey. It feeds mostly on other fish. Hydrilla is an invasive, submerged aquatic plant that forms nearly impenetrable mats of stems and leaves at the surface of the water. It alters stream habitat, decreases flows, and contributes to sediment buildup in streams.
 
 {{< figure class="photo-center" src="/images/pages/flathead-catfish-fwc.jpg" alt="A FWC biologist holding a huge catfish on an electrofishing boat." caption="Flathead catfish. Photo by FWC." link="https://flic.kr/p/MEBGRN" >}}
 
+## Recovery plan
+
+A recovery plan has not been completed for this species.
+
 ## Partnerships, research and projects
 
-The Service and the North Carolina Wildlife Resources Commission are working with numerous partners to conserve the Carolina madtom and restore its habitat while meeting the socioeconomic, political and cultural needs of current and future generations. Land trusts are targeting key parcels for acquisition. Federal, state, and university biologists are surveying and monitoring species occurrences, and recently there has been increased interest in efforts to consider captive propagation and species population restoration via augmentation, expansion, and reintroduction efforts.
+The Service and the North Carolina Wildlife Resources Commission are working with numerous partners to conserve the Carolina madtom and restore its habitat while meeting the socioeconomic, political and cultural needs of current and future generations. Land trusts are targeting key parcels for acquisition. Federal, state, and university biologists are surveying and monitoring species occurrences, and recently funding has been secured to implement  captive propagation and species population restoration via augmentation, expansion, and reintroduction efforts.
+
+### Madtom motels
+
+{{< figure class="photo-center" src="/images/pages/carolina-madtom-motel.jpg" alt="A ceramic bowl built to protect small fish in the wild." caption="An upside-down madtom motel. Photo by Sarah McRae, USFWS." >}}
+
+Conservation Fisheries Inc. received a grant from the National Fish and Wildlife foundation to collected Carolina madtom individuals, juveniles and eggs and it is attempting to propagate the madtom in captivity. With help from NC State, they designed these nifty structures dubbed “Madtom Motels” to provide cover for nest sites in the wild. The fish that Conservation Fisheries Inc produce in captivity will go into the wild to augment the current populations and expand the madtom’s reach into historical habitat.
+
+### Nutrient management plans
 
 The North Carolina Department of Environmental Quality has special nutrient management plans for the Tar-Pamlico River Basin and the Neuse River Basin to help reduce nutrients that cause excessive growth of microscopic or macroscopic vegetation and lead to extremely low levels of dissolved oxygen in the water.
 

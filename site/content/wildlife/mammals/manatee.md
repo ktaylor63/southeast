@@ -12,6 +12,7 @@ tags:
     - Florida
     - Gulf
     - 'Louisiana Ecological Services Field Office'
+    - 'South Carolina Ecological Services Field Office'
     - Mammal
     - Manatee
     - Raleigh
@@ -21,7 +22,7 @@ hero:
     alt: 'A Florida manatee calf sticks close to its mother in shallow water'
     caption: 'A Florida manatee calf sticks close to its mother in shallow water. Photo: Keith Ramos, USFWS'
 description: 'Manatees are large, elongated marine mammals with paired flippers and a large round or spoon-shaped tail.  They can reach lengths of over 14 feet and weights of over 3,000 pounds'
-updated: 'August 27th, 2018'
+updated: 'September 19th, 2018'
 ---
 
 * **Taxon**: Mammal
@@ -55,7 +56,7 @@ During the summer manatees expand their range, and on rare occasions are seen as
 
 Manatees feed on plants. They prefer submergent vegetation, such as turtle and manatee grass, and will feed on floating and emergent plants as well. Manatees also require freshwater for drinking.
 
-## Historic range
+## Historical range
 
 Historically, West Indian manatees were found along the U.S. Atlantic and Gulf of Mexico coasts, throughout the Caribbean, and as far south as Brazil's Atlantic coastline. However, due to hunting, habitat fragmentation and loss, and other factors, manatees have disappeared from various parts of their range. For example, manatee hunts were common until the early 1900s, and as a result the species is no longer found in Guadeloupe and other islands in the Lesser Antilles.
 

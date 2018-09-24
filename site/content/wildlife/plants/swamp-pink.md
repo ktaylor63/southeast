@@ -26,7 +26,7 @@ tags:
     - 'South Carolina'
     - 'Swamp Pink'
     - Virginia
-updated: 'August 31st, 2018'
+updated: 'September 19th, 2018'
 ---
 
 - **Taxon:** Plant
@@ -54,7 +54,7 @@ A variety of wetland habitats, including mountain bogs, swampy forested wetlands
 
 {{< figure class="photo-center" src="/images/pages/atlanta-botanical-gardens-jenny-cruse-sanders-looking-for-swamp-pink.jpg" alt="A female biologist searches for an marks small plants with orange flags in a forest." caption="The Atlanta Botanical Garden's Jenny Cruse-Sanders looking for swamp pink, May 2010. Photo by Gary Peeples, USFWS." link="https://flic.kr/p/88xyWu" >}}
 
-## Historic range
+## Historical range
 
 The species historical range included Delaware, Georgia, Maryland, New Jersey, New York, North Carolina, South Carolina, Virginia.
 

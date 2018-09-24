@@ -19,7 +19,7 @@ hero:
     name: cumberland-bean.jpg
     alt: 'A small black mussel with brownish yellow striations extends a small white appendage from its shell'
     caption: 'Cumberland bean juveniles reared at the Center for Mollusk Conservation in Frankfort, Kentucky. Photo by Monte McGregor, Center Mollusk Conservation, Kentucky DFWR.'
-updated: 'August 23rd, 2018'
+updated: 'September 19th, 2018'
 ---
 
 - **Taxon:** Bivalve
@@ -42,7 +42,7 @@ This mussel inhabits small to medium streams with sand and gravel bottoms. Sinki
 
 Mussels are filter feeders; they mainly eat phytoplankton, zooplankton, and bacteria suspended in the water. By drawing water inside their shells through a siphon, their gills filter out food and take in oxygen.
 
-## Historic Range
+## Historical range
 
 The Cumberland bean was known only from the lower and upper tributary streams of the Tennessee River and the upper tributary streams of the Cumberland system. This species was known to be more abundant in the Cumberland system.
 

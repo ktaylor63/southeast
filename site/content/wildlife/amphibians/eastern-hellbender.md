@@ -26,7 +26,7 @@ hero:
     caption: 'Eastern hellbender. <a href="https://flic.kr/p/EjNh96">Photo</a> by Will Parson, Chesapeake Bay Program, <a href="https://creativecommons.org/licenses/by-nc/2.0/">CC BY-NC 2.0</a>.'
     link: 'https://flic.kr/p/EjNh96'
     position: '40% 50%'
-updated: 'August 23rd, 2018'
+updated: 'September 19th, 2018'
 ---
 
 - **Taxon:** Amphibian
@@ -51,7 +51,7 @@ Their habitat consist on shallow, fast-flowing, rocky streams.  They are general
 
 Eastern hellbenders feed primarily on crayfish.  Their diets are supplemented by small fish, other hellbenders, tadpoles, toads, and water snakes.
 
-## Historic range
+## Historical range
 
 Southern New York to northern Georgia, including parts of Ohio, Pennsylvania, Maryland, West Virginia, Virginia, Kentucky, Illinois, Indiana, Tennessee, North Carolina, South Carolina, Alabama, Mississippi, Arkansas, Missouri, and even parts of Oklahoma and Kansas.
 

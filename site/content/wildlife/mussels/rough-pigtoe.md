@@ -19,7 +19,7 @@ hero:
     name: rough-pigtoe.jpg
     alt: 'A close up photo of a yellow mussel shell'
     caption: 'Adult rough pigtoe in the Green River in Kentucky. Photo by Monte McGregor, Center Mollusk Conservation, Kentucky DFWR.'
-updated: 'August 23rd, 2018'
+updated: 'September 19th, 2018'
 ---
 - **Taxon:** Bivalve
 - **Range:**  [Alabama](/alabama), [Indiana](/tags/indiana), [Kentucky](/kentucky) and [Virginia](/tags/virginia)
@@ -43,11 +43,11 @@ This species is endemic to the Ohio River system and is found in stable substrat
 
 Mussels are filter feeders; they mainly eat phytoplankton, zooplankton, and bacteria suspended in the water. By drawing water inside their shells through a siphon, their gills filter out food and take in oxygen.
 
-## Historic range
+## Historical range
 
 The rough pigtoe had a broad distribution and was found in many of the major rivers and streams of the Mississippi River basin.  Historical records for this species are known from the Tombighee River, Alabama River, Tennessee River, Holston River, French Broad River, Clinch River, Cumberland River, Ohio River, Allegheny River, Monogahela River, Kanawha River, Green River, Wabash River, Tippecanoe River, White River, Mississippi River, Illinois River, Neosho River, Ouachita River, St. Francis River, Meramec River, and James River. A detailed description of the historical records and their sources can be found in the [Recovery Plan](https://ecos.fws.gov/docs/recovery_plan/840806.pdf) for this species.
 
-{{< figure class="photo-center" src="/images/pages/rough-pigtoe-historic-range.jpg" alt="A map depicting the Rough pigtoe's historic range including Kansas, Missouri, Illinois, Indiana, Ohio, Pennsylvania, Kentucky, West Virginia, Virginia, Arkansas, Tennessee, Mississippi and Alabama" caption="Historic range of the rough pigtoe. Map by USFWS." >}}
+{{< figure class="photo-center" src="/images/pages/rough-pigtoe-historic-range.jpg" alt="A map depicting the Rough pigtoe's historical range including Kansas, Missouri, Illinois, Indiana, Ohio, Pennsylvania, Kentucky, West Virginia, Virginia, Arkansas, Tennessee, Mississippi and Alabama" caption="historical range of the rough pigtoe. Map by USFWS." >}}
 
 ## Current range
 

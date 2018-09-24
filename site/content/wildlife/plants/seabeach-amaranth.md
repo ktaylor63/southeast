@@ -28,7 +28,7 @@ tags:
     - 'Seabeach Amaranth'
     - 'South Carolina'
     - Virginia
-updated: 'August 23rd, 2018'
+updated: 'September 19th, 2018'
 ---
 
 - **Taxon:** [Plant](/wildlife/plants)
@@ -53,7 +53,7 @@ Flowering begins as soon as plants have reached sufficient size, sometimes as ea
 
 Seabeach amaranth occurs on barrier beaches, where its primary habitat consists of overwash flats at the ends of islands that are accumulating more sand and lower developing dunes and upper strands of non-eroding beaches. It occasionally establishes small temporary populations in other habitats, including sound-side beaches, overwash areas in developing dunes, and sand and shell material placed as beach replenishment or dredge spoil. Seabeach amaranth appears to be intolerant of competition and does not occur on well-vegetated sites. The species appears to need extensive areas of barrier island beaches and inlets that arenot stabilized by perennial vegetation.  These characteristics allow it to move around in the landscape as a fugitive species, occupying suitable habitat as it becomes available.  The species is an effective sand binder, building small dunes where it grows.
 
-## Historic range
+## Historical range
 
 Historically, Seabeach amaranth occurred in nine states along the northeast and mid-Atlantic coast from Massachusetts to South Carolina (excluding Connecticut).
 
@@ -77,7 +77,7 @@ The Seabeach amaranth recovery plan was completed in 1996, [download the plan](h
 
 The U.S. Fish and Wildlife Service works with a variety of local, state and federal land managers to protect and monitor seabeach amaranth populations throughout the range of the species.  Researchers at East Carolina University, North Carolina Botanical Garden, North Carolina State University, Raritan Valley Community College, University of North Carolina at Wilmington and Columbia University have conducted demographic and habitat research projects since the species was listed as threatened in 1993.
 
-Recently, the Service, in cooperation with the North Carolina Botanical Garden  initiated a Cooperative Recovery Initiative project that involved planting seabeach amaranth on or near six national wildlife refuge throughout the historic range of the species. Approximately 2,000 seabeach amaranth seeds were planted at each refuge during May and June of 2017.  Biologists and interns monitored the plots for germination, flowering and fruiting throughout the 2017 growing season and plan to conduct surveys for new Seabeach amaranth plants growing in the vicinity of those plots from 2018 to 2020.  
+Recently, the Service, in cooperation with the North Carolina Botanical Garden  initiated a Cooperative Recovery Initiative project that involved planting seabeach amaranth on or near six national wildlife refuge throughout the historical range of the species. Approximately 2,000 seabeach amaranth seeds were planted at each refuge during May and June of 2017.  Biologists and interns monitored the plots for germination, flowering and fruiting throughout the 2017 growing season and plan to conduct surveys for new Seabeach amaranth plants growing in the vicinity of those plots from 2018 to 2020.  
 
 ## How you can help
 

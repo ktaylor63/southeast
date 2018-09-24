@@ -19,7 +19,7 @@ hero:
     name: atlantic-pigtoe-ready-for-release.jpg
     alt: 'Seven small brownish-yellow mussels held in open hands by a biologist.'
     caption: 'Atlantic pigtoes ready for release. Photo by USFWS.'
-updated: 'August 23rd, 2018'
+updated: 'September 19th, 2018'
 ---
 
 - **Taxon:** Freshwater mussel
@@ -52,7 +52,7 @@ Each mussel species has specific fish species (host fish) that are needed by the
 
 Freshwater mussels are living filters, known as suspension feeders because they eat algae, bacteria, and other microscopic matter they filter out of the water. Juveniles likely pedal-feed in the sediment, whereas adults filter-feed from the water column. When they feed, they help keep the water clean by removing pollutants that could potentially harm aquatic animals, birds, land-dwelling animals, and people who may drink the water.
 
-## Historic range
+## Historical range
 
 This species originally ranged from the James and Chowan River basins in Virginia, the Roanoke, Tar, Neuse, Cape Fear, Pee Dee, and Catawba River basins in North Carolina, the Edisto River Basin in South Carolina, and the Savannah, Ogeechee, and Altamaha River basins in Georgia.
 

@@ -22,7 +22,7 @@ hero:
     alt: 'A mussel with fringe around its opening partially burried in the sand on the river bottom.'
     caption: 'Appalachian elktoe in the Little River Translyvania County NC. Photo by Gary Peeples, USFWS.'
     position: '25% 67%'
-updated: 'August 27th, 2018'
+updated: 'September 19th, 2018'
 ---
 
 - **Taxon:** Mussel
@@ -49,7 +49,7 @@ The elktoe has been reported from relatively shallow, medium-sized creeks and ri
 
 Mussels are filter feeders; they mainly eat phytoplankton, zooplankton, and bacteria suspended in the water. By drawing water inside their shells through a siphon, their gills filter out food and take in oxygen.
 
-## Historic range
+## Historical range
 
 The Appalachian elktoe is known only from the mountain streams of western North Carolina and eastern Tennessee. Although the complete historical range of the Appalachian elktoe is unknown, available information suggests that the species once lived in the majority of the rivers and larger creeks of the upper Tennessee River system in North Carolina. In Tennessee, the species is known only from its present range in the main stem of the Nolichucky River.
 
@@ -73,14 +73,14 @@ The runoff of stormwater from cleared areas, roads, rooftops, parking lots, and 
 
 ### Downlist from endangered to threatened
 
-1. Through protection of both existing populations and successful establishment or discovery of additional populations, a total of four distinct viable  populations exist within the species’ historic range, with at least one each in the Little Tennessee, French Broad, and Nolichucky River systems;
+1. Through protection of both existing populations and successful establishment or discovery of additional populations, a total of four distinct viable  populations exist within the species’ historical range, with at least one each in the Little Tennessee, French Broad, and Nolichucky River systems;
 2. Each of the four populations have at least three year classes present and show evidence of reproduction, including gravid females, and at least one juvenile age class (age 3 or younger);
 3. All four populations and their habitats are protected from present and foreseeable threats;
 4. All four populations remain stable or increase over a period of 10 to 15 years.
 
 ### Remove from the endangered species list
 
-1. Through protection of both existing populations and successful establishment or discovery of additional populations, a total of six distinct viable populations exist within the species’ historic range, with at least one each in the Little Tennessee, French Broad, and Nolichucky River systems;
+1. Through protection of both existing populations and successful establishment or discovery of additional populations, a total of six distinct viable populations exist within the species’ historical range, with at least one each in the Little Tennessee, French Broad, and Nolichucky River systems;
 2. Each of the six populations have at least three year classes present and show evidence of reproduction, including gravid females, and at least one juvenile age class (age 3 or younger);
 3. All six populations and their habitats are protected from present and foreseeable threats;
 4. All six populations remain stable or increase over a period of 10 to 15 years.

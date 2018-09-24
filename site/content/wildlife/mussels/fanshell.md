@@ -23,7 +23,7 @@ hero:
     name: fanshell-mussel.jpg
     alt: 'Three brownish yellow mussels the smallest of which has a small white protrusion which the mussel uses to attach to a rock.'
     caption: 'Photo by Monte McGregor, Center Mollusk Conservation, Kentucky DFWR.'
-updated: 'August 23rd, 2018'
+updated: 'September 19th, 2018'
 ---
 
 - **Taxon**: Bivalve
@@ -48,7 +48,7 @@ This mussel species inhabits medium to large rivers. It has been reported primar
 
 Mussels are filter feeders; they mainly eat phytoplankton, zooplankton, and bacteria suspended in the water. By drawing water inside their shells through a siphon, their gills filter out food and take in oxygen.
 
-## Historic range
+## Historical range
 
 The fanshell historically occurred in the Ohio River and many of its large tributaries in Pennsylvania, West Virginia, Ohio, Indiana, Illinois, Kentucky, Tennessee, Alabama and Virginia.
 

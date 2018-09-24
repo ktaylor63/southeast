@@ -19,7 +19,7 @@ hero:
     alt: 'A purple/rust colored salamander walking on rocky substrate'
     caption: 'Non metamorphosed Berry Cave salamander. Photo © Matthew Niemiller, used with permission.'
     position: '90% 35%'
-updated: 'August 31st, 2018'
+updated: 'September 19th, 2018'
 ---
 
 - **Taxon:** Amphibian
@@ -54,7 +54,7 @@ Little is really known about the habitat requirements of the Berry Cave salamand
 
 *Gyrinophilus* salamanders are generalist feeders; however, cave-dwelling salamanders like the Berry Cave salamander require an inflow of organic food (detritus) in order to support their invertebrate and vertebrate food sources, such as isopods, amphipods, worms, and other salamanders.
 
-## Historic range
+## Historical range
 
 First documented in 1953 in Athens, Tennessee, in a flooded roadside ditch, the Berry Cave salamander has been found to occupy the Clinch River and upper Tennessee River watersheds of the Valley and Ridge Province in eastern Tennessee. Until recently, the Berry Cave salamander was known from just eight caves and the roadside ditch occurrence. Since 2009, it has been found at two new sites: one location in McMinn County and one in Knox County. Although the Berry Cave salamander is not considered to have historically occupied Cruze Cave in Knox County in significant numbers, genetic studies have confirmed Berry Cave salamanders that have hybridized with spring salamanders at that location.
 

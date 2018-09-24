@@ -58,11 +58,13 @@ Caves are dark inside, although some light enters through gaps formed from the u
 In streams, the species has been found only in patches of rock in the streambed. The streams are surrounded by secondary forest and can be a perennial, or an ephemeral stream, which forms with heavy rain. Rocks in the streambed form crevices and grottoes. Streams provide a wide variety of retreat sites for the species, such as vegetation over rocks (e.g., moss, ferns and liverworts) that help in the conservation of humidity. Temperature and relative humidity at streams vary within the year.
 
 ## Range
+
 The guajón occurs at low and intermediate elevations from 18 to 1,183 feet above sea level where they inhabit caves formed by large boulders of granite rock known as “guajonales” or streams with patches of rocks without cave systems.
 
 The guajón is extremely restricted in geographical distribution and occurs only on privately-owned lands. See [Designated Critical Habitat](#designated-critical-habitat).
 
 ## Conservation challenges
+
 The guajón was listed primarily due to its highly restricted geographical distribution and habitat requirements. Being a habitat specialist, the guajón is adapted to particular environmental conditions, and abrupt changes in these conditions could result in population declines.
 
 The destruction, modification, or curtailment of the species habitat or range continues to be an important factor threatening the survival and recovery of this species. The immediacy of this threat is high because the guajón’s habitat is naturally fragmented and the majority of the known populations are on private lands, where an increased level of land development may further reduce and fragment the species habitat, alter their distribution, and affect their chances of survival.

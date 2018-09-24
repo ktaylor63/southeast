@@ -17,7 +17,7 @@ hero:
     name: black-warrior-waterdog.jpg
     alt: 'A light purple salamander with dark spots and tufts above its front legs.'
     caption: 'Black Warrior waterdog. Photo by Joseph Jenkins, Alabama Natural Heritage Program.'
-updated: 'August 23rd, 2018'
+updated: 'September 19th, 2018'
 ---
 
 - **Taxon:** Amphibian, Proteidae (Mudpuppies, Olms, Waterdogs)
@@ -52,11 +52,11 @@ Based on Neuse River waterdog research, breeding sites are large bedrock outcrop
 
 Larval and adult Black Warrior waterdogs are assumed to be opportunistic carnivores, but prey taken in the wild has not been described. Adults are attracted to traps baited with fish-flavored cat food. Captive Black Warrior waterdogs have eaten small fish and earthworms. Crayfish, isopods, amphipods, freshwater clams, and insects, including mayflies, caddisflies, dragonfly naiads, dytiscid beetles, and midges, have been reported as prey items in Gulf Coast waterdogs.
 
-## Historic Range
+## Historical range
 
 There are a total of 11 historical records from sites in Blount, Tuscaloosa, Walker, and Winston Counties, Alabama. Black Warrior waterdog habitat is similar to that of the threatened flattened musk turtle (_Sternotherus depressus_) a species restricted to permanent streams above the Fall Line in the Black Warrior Basin.
 
-{{< figure class="photo-center" src="/images/pages/black-warrior-waterdog-historic-range.jpg" alt="A map depicting this salamanders historic range in northwestern Alabama." caption="Black Warrior waterdog's Historic Range. Map by Drew Rollman, USFWS." >}}
+{{< figure class="photo-center" src="/images/pages/black-warrior-waterdog-historic-range.jpg" alt="A map depicting this salamanders historical range in northwestern Alabama." caption="Black Warrior waterdog's historical range. Map by Drew Rollman, USFWS." >}}
 
 ## Current Range
 
@@ -74,7 +74,7 @@ Sedimentation can seriously affect Black Warrior waterdogs by: reduction of food
 
 The ESA requires the Service to identify the location of habitat essential for the conservation of the Black Warrior waterdog, which it terms critical habitat.  Currently, there are 26 federally protected species found in the Basin, 15 of which are found in rivers and streams. This designation includes 127 miles of habitat already designated for those protected fish, mussels and salamanders.   In addition, the designation includes 293 new river miles, which altogether covers more than sixtyfifty percent of the waterdog’s historic habitat.      
 
-The Service is designating critical habitat in four units all within the historic range of the Black Warrior waterdog. The designation is comprised of four tributaries within the Black Warrior River Basin; Sipsey Fork (Lawrence and Winston Counties); Locust Fork (Blount, Etowah, Jefferson, and Marshall Counties); Blackwater Creek (Walker and Winston Counties); and Yellow Creek (Tuscaloosa County)
+The Service is designating critical habitat in four units all within the historical range of the Black Warrior waterdog. The designation is comprised of four tributaries within the Black Warrior River Basin; Sipsey Fork (Lawrence and Winston Counties); Locust Fork (Blount, Etowah, Jefferson, and Marshall Counties); Blackwater Creek (Walker and Winston Counties); and Yellow Creek (Tuscaloosa County)
 
 Critical habitat is a tool within the ESA which identifies areas essential for the conservation of endangered or threatened species.  It does not set up a preserve or refuge, but may require special management considerations in the identified areas.  Designating critical habitat under the ESA does not affect private landowners unless the action involves federal funds, permits, or other federally activities.  The final decision to designate critical habitat essential to the Black Warrior Waterdog will be based on the best scientific information available.
 

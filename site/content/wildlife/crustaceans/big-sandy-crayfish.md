@@ -18,7 +18,7 @@ hero:
     alt: 'A lobster-shaped and colored crayfish with tinges of rust and blue.'
     link: 'https://flic.kr/p/qXGti8'
     caption: 'Big Sandy crayfish. Photo by Zachary Loughman, West Liberty University.'
-updated: 'August 23rd, 2018'
+updated: 'September 19th, 2018'
 ---
 
 - **Taxa: Crustacea**
@@ -45,7 +45,7 @@ The Big Sandy Crayfish needs clean, medium-sized streams and rivers for its soci
 
 Big Sandy crayfish are opportunistic omnivores, which means they feed on both plants and animals, living and dead, that are readily available in their habitat.
 
-## Historic range
+## Historical range
 
 Records of the Big Sandy crayfish’s presence in from the Virginia portions of the Big Sandy basin date to 1937, when a single specimen was collected from the Russell Fork drainage in Dickenson County, Virginia.  A series of surveys conducted in following years confirmed its presence in West Virginia and Kentucky. The Big Sandy crayfish once had a wider range, but widespread habitat loss and fragmentation of its streams have significantly reduced places where it can be found.
 

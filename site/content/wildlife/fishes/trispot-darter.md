@@ -18,7 +18,7 @@ hero:
     name: trispot-darter.jpg
     alt: 'A small fish with bright blue fins and orange coloring on its back.'
     caption: 'Trispot darter. Photo by Pat O''Neil, Geological Survey of Alabama.'
-updated: 'August 23rd, 2018'
+updated: 'September 19th, 2018'
 ---
 
 - **Taxon:** Freshwater Fish
@@ -41,7 +41,7 @@ The trispot darter utilizes distinct breeding and non-breeding habitats.  From s
 
 Trispot darters eat mainly midge larvae and pupae and also mayfly nymphs.
 
-## Historic range
+## Historical range
 
 All known records of the trispot darter occur above the fall line in the Ridge and Valley ecoregion of Alabama, Georgia, and Tennessee. Historically, this species occurred throughout the middle to upper Coosa River Basin with collections in the mainstem Coosa, Conasauga, and Coosawattee rivers, their tributaries, and tributaries to the Oostanaula River. Genetics indicate that this species had a wide extent in the upper Coosa River Basin and ranged from at least the Little Canoe Creek system near Springville, Alabama to the Upper Conasauga River near Conasauga, Tennessee. Historic collections of the trispot darter are known from Cowans Creek, a tributary to Spring Creek which is a tributary to the Coosa River, and Johns and Woodward creeks, tributaries to the Oostanaula River.
 

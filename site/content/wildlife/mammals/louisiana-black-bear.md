@@ -21,9 +21,9 @@ hero:
     name: louisiana-black-bear.jpg
     alt: 'A Louisiana black bear standing in a grassy clearing'
     caption: 'Louisiana black bear. Credit: Pam McIlhenny, used with permission.'
-    position: 35% 30%
+    position: '35% 30%'
 description: 'The Louisiana black bear is the state mammal for Louisiana, and it is one of 16 subspecies of the American black bear. While the American black bear can be found across North America, the Louisiana black bear subspecies is only known to occur in Louisiana, East Texas and western Mississippi.  Compared to other black bears, the Louisiana black bears skull is longer, narrower and flatter, with larger molar teeth.'
-updated: 'August 23rd, 2018'
+updated: 'September 19th, 2018'
 ---
 
 * **Taxa:** [Mammal](/tags/mammal)
@@ -32,7 +32,7 @@ updated: 'August 23rd, 2018'
 
 The Louisiana black bear is the state mammal for Louisiana, and it is one of 16 subspecies of the American black bear. While the American black bear can be found across North America, the Louisiana black bear subspecies is only known to occur in Louisiana, east Texas and western Mississippi. Compared to other black bears, the Louisiana black bear’s skull is longer, narrower and flatter, with larger molar teeth.
 
-By 1980, more than 80 percent of the Louisiana black bear’s habitat had been modified or destroyed, and on January 7, 1992, the bear was listed as threatened within its historic range.
+By 1980, more than 80 percent of the Louisiana black bear’s habitat had been modified or destroyed, and on January 7, 1992, the bear was listed as threatened within its historical range.
 
 On March 10, 2016 the Service removed this species from the List of Threatened and Endangered Wildlife under the Endangered Species Act due to recovery. Recovery was made possible thanks to the active partnerships of many private landowners, state and federal agencies, universities and non-governmental organizations. Since the Louisiana black bear was listed in 1992, voluntary landowner-incentive-based habitat restoration programs and environmental regulations have not only stopped the net loss of forested lands in the Lower Mississippi River Alluvial River Valley, but have resulted in significant habitat gains. A major factor in this positive habitat trend is the success of incentive-based private land restoration programs, such as the Wetland reserve program. Since 1992, more than 148,000 ac of habitat has been permanently protected and/or restored through the WRP program. Additional private lands have been restored through the efforts of private landowners and organizations. Over 65,000 additional acres of bottomland hardwood forest has been protected and restored through the efforts of such groups as Wildlife Mississippi, Mississippi Land Trust Mississippi River Trust, Black Bear Conservation Coalition, Bear Education and restoration Group of Mississippi and the East Texas Black Bear Task Force.
 
@@ -64,11 +64,11 @@ Although they are classified as carnivores (meat-eaters), black bears are opport
 
 Black bears spend a lot of their time foraging for food, and the type of plant food eaten largely depends upon the seasons. In the spring and summer black bears may eat dewberries, blackberries, wild grapes, elderberries, persimmon, pawpaw, pokeweed, devils walking stick, thistle, palmetto, and a variety of fruited vines and soft mast producing shrubs. In the fall they eat acorns, pecans, corn, oats, and wheat, and some bears in southern coastal Louisiana have been documented visiting sugar cane fields. They also may occasionally eat animal remains.
 
-## Historic range
+## Historical range
 
-{{< figure class="photo-center" src="/images/pages/louisiana-black-bear-historic-and-breeding-range.jpg" alt="A map depicting historic range and current breeding range. Current breeding range is substantially smaller and limited to Louisiana for the most part. The historic range covers east Texas, all of Louisiana, southern Mississippi and Arkansas." caption="Credit: Robert Greco, USFWS." >}}
+{{< figure class="photo-center" src="/images/pages/louisiana-black-bear-historic-and-breeding-range.jpg" alt="A map depicting historical range and current breeding range. Current breeding range is substantially smaller and limited to Louisiana for the most part. The historical range covers east Texas, all of Louisiana, southern Mississippi and Arkansas." caption="Credit: Robert Greco, USFWS." >}}
 
-The Louisiana black bear once roamed throughout southern Mississippi, all of Louisiana, and eastern Texas. The historic range included all Texas counties east of and including Cass, Marion, Harrison, Upshur, Rusk, Cherokee, Anderson, Leon, Robertson, Burleson, Washington, Lavaca, Victoria, Refugio, and Arkansas; all of Louisiana, and the southern Mississippi counties south of and including Washington, Humphreys, Holmes, Attala, Neshoba, and Lauderdale.
+The Louisiana black bear once roamed throughout southern Mississippi, all of Louisiana, and eastern Texas. The historical range included all Texas counties east of and including Cass, Marion, Harrison, Upshur, Rusk, Cherokee, Anderson, Leon, Robertson, Burleson, Washington, Lavaca, Victoria, Refugio, and Arkansas; all of Louisiana, and the southern Mississippi counties south of and including Washington, Humphreys, Holmes, Attala, Neshoba, and Lauderdale.
 
 ## Current range
 

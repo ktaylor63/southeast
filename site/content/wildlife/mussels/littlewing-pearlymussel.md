@@ -23,7 +23,7 @@ tags:
     - Tennessee
     - 'Tennessee Ecological Services Field Office'
     - Virginia
-updated: 'August 24th, 2018'
+updated: 'September 19th, 2018'
 ---
 
 - **Taxon:** Bivalve
@@ -48,7 +48,7 @@ The littlewing pearly mussel inhabits cool-water streams in the Cumberland and T
 
 Mussels are filter feeders; they mainly eat phytoplankton, zooplankton, and bacteria suspended in the water. By drawing water inside their shells through a siphon, their gills filter out food and take in oxygen.
 
-## Historic range
+## Historical range
 
 The little-wing pearly mussel was historically widespread but uncommon in the smaller tributaries of the upper Cumberland and Tennessee River basins in Alabama, North Carolina, Kentucky, Tennessee, and Virginia.
 
@@ -110,7 +110,7 @@ Most remnant littlewing pearlymussel populations are small and isolated, which r
 
 Download the [1984 Recovery Plan](http://ecos.fws.gov/docs/recovery_plan/890922.pdf).
 
-The goal of the recovery plan is to maintain and restore of the littlewing pearlymussel to a significant portion of its historic range in the Cumberland and Tennessee River systems, and to remove the species from the endangered species list.
+The goal of the recovery plan is to maintain and restore of the littlewing pearlymussel to a significant portion of its historical range in the Cumberland and Tennessee River systems, and to remove the species from the endangered species list.
 
 ## How you can help
 

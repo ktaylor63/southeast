@@ -22,7 +22,7 @@ tags:
     - 'North Carolina'
     - 'Sicklefin Redhorse'
     - 'Warm Springs National Fish Hatchery'
-updated: 'August 23rd, 2018'
+updated: 'September 19th, 2018'
 ---
 
 - Taxa: Fish
@@ -50,7 +50,7 @@ The fish are believed to mature at around 5-8 years-old and migrate from reservo
 
 The sicklefin redhorse, like other redhorses, is a bottom feeding, gleaning aquatic invertebrates, such as insect larvae, from surfaces of clean gravel, rocks, sticks, logs, and sometimes nibbling tufts of riverweed.
 
-## Historic range
+## Historical range
 
 Collection records indicate that the sicklefin redhorse once inhabited the majority, if not all, of the rivers and large creeks in the Blue Ridge portion of the Hiwassee and Little Tennessee River systems.
 
@@ -77,10 +77,10 @@ Today, the sicklefin redhorse is known from portions of these two river systems:
 - Although the sicklefin redhorse is now known to have been collected in 1937, it was not recognized as a potentially distinct species until 1992, when Robert Jenkins examined two specimens collected from the Little Tennessee River. Detailed physical, behavioral, and geneticÂ studies concluded that the sicklefin redhorse is, in fact, a distinct species.
 - In May 2005, the Service declared the sicklefin redhorse a candidate for the federal endangered species list, meaning it warranted being on the list, but going through the process to place it on the list was superseded by higher-priority listing work.
 - In 2010, as part of the Tuckasegee Cooperative Stakeholders Team Settlement Agreement with Duke Energy, LLC, a small hydropower dam, the “Dillsboro Dam,” on the mainstem of the Tuckasegee River was removed and the stream bank restored to allow the sicklefin redhorse back into upstream reaches of the river.
-- The Service is working with Conservation Fisheries, Inc. (CFI), the NCWRC, and the Eastern Band of the Cherokee Indians (EBCI) to propagate the sicklefin redhorse and reintroduce the species into currently unoccupied habitat within the species’ historic range.
+- The Service is working with Conservation Fisheries, Inc. (CFI), the NCWRC, and the Eastern Band of the Cherokee Indians (EBCI) to propagate the sicklefin redhorse and reintroduce the species into currently unoccupied habitat within the species’ historical range.
 - Between 2007 – 2010, juvenile sicklefin redhorse, reared by CFI from eggs collected from the Little Tennessee River stock, have been released into the Oconaluftee River above Ela Dam. 
 - In April 2010, the Center for Biological Diversity asked the Service to place the sicklefin redhorse on the federal endangered species list.
-- The Service is working with Conservation Fisheries, Inc., the North Carolina Wildlife Resources Commission, and the Eastern Band of Cherokee Indians to propagate and reintroduce the sicklefin redhorse into currently unoccupied habitat within its historic range.
+- The Service is working with Conservation Fisheries, Inc., the North Carolina Wildlife Resources Commission, and the Eastern Band of Cherokee Indians to propagate and reintroduce the sicklefin redhorse into currently unoccupied habitat within its historical range.
 - In 2011, biologists from WSNFH radio tagged juvenile fish to be monitored by researchers from Western Carolina University. 
 - The Service has been working with biologists with the Tennessee Valley Authority; the states of North Carolina and Georgia; personnel with Roanoke College and North - Carolina State University; and other partners to monitor the surviving populations and to identify specific threats and other potential recovery measures for the sicklefin redhorse.
 - The Service has included the sicklefin redhorse's listing determination as part of its 2015 workload, and by the end of the year will either determine that the fish does not need to be on the endangered species list, or begin the process for placing it on the list.

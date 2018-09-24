@@ -20,7 +20,7 @@ hero:
     alt: 'A Florida panther walking on a gravel road with a slash pine forest in the background'
     name: florida-panther.jpg
     position: 'left center'
-updated: 'August 23rd, 2018'
+updated: 'September 19th, 2018'
 ---
 
 - **Taxon:** Mammal
@@ -57,9 +57,9 @@ Telemetry monitoring and ground tracking indicate that panthers select forested 
 
 Florida panthers are carnivores, which means they only eat meat. They primarily eat white-tailed deer and  wild hogs, but smaller mammals such as raccoons, armadillos, and rabbits are also an important part of their diet. Panthers are opportunistic predators and unfortunately they will also prey upon unsecured livestock and pets.
 
-## Historic range
+## Historical range
 
-Historically, this subspecies occurred throughout the southeastern United States from Arkansas and Louisiana eastward across Mississippi, Alabama, Georgia, Florida and parts of South Carolina. Today, the panther is presently restricted to less than five percent of its historic range in a single breeding population in southern Florida. The panther population size within the occupied breeding range south of Caloosahatchee River has increased from approximately 20 in the early 1970s to an upper bound of approximately 230 adult and subadult panthers in 2015. (These population numbers do not represent a complete or true population estimate and do not included newborn kittens or older kittens that are traveling with their dams.)  However, the panther continues to face numerous threats due to an increasing human population and development in panther habitat that negatively impacts recovery.
+Historically, this subspecies occurred throughout the southeastern United States from Arkansas and Louisiana eastward across Mississippi, Alabama, Georgia, Florida and parts of South Carolina. Today, the panther is presently restricted to less than five percent of its historical range in a single breeding population in southern Florida. The panther population size within the occupied breeding range south of Caloosahatchee River has increased from approximately 20 in the early 1970s to an upper bound of approximately 230 adult and subadult panthers in 2015. (These population numbers do not represent a complete or true population estimate and do not included newborn kittens or older kittens that are traveling with their dams.)  However, the panther continues to face numerous threats due to an increasing human population and development in panther habitat that negatively impacts recovery.
 
 More than a century ago, natural genetic exchange occurred between the Florida panther and other contiguous populations of Puma concolor. This exchange, known as gene flow, occurred as individuals dispersed among populations and bred. Gene flow helped maintain a genetic variation and a healthy population of Florida panthers by reducing the probability of inbreeding.
 
@@ -79,7 +79,7 @@ Recovery efforts to-date have successfully contributed to a significant increase
 
 - Current breeding range habitat: [Florida Panther National Wildlife Refuge](https://www.fws.gov/refuge/florida_panther/)
 - South-Central Florida habitat for population expansion: [Everglades Headwaters National Wildlife Refuge](http://www.fws.gov/southeast/evergladesheadwaters/)
-- Habitat within the Historic Range: [Okefenokee National Wildlife Refuge](http://www.fws.gov/refuge/okefenokee/) and [Felsenthal National Wildlife Refuge](http://www.fws.gov/refuge/felsenthal/)
+- Habitat within the historical range: [Okefenokee National Wildlife Refuge](http://www.fws.gov/refuge/okefenokee/) and [Felsenthal National Wildlife Refuge](http://www.fws.gov/refuge/felsenthal/)
 
 ## Living with panthers
 

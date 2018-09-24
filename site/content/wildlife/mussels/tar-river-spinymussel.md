@@ -59,7 +59,7 @@ The genetic viability of the surviving populations remains a significant concern
 
 ## Recovery plan
 
-[Download the recovery plan (1992)](https://ecos.fws.gov/docs/recovery_plan/Tar%20River%20Spinymussel%20Recovery%20Plan.pdf) and the [five year review  (2014)](/pdf/five-year-reviews/tar-river-spinymussel.pdf).
+[Download the recovery plan (1992)](https://ecos.fws.gov/docs/recovery_plan/Tar%20River%20Spinymussel%20Recovery%20Plan.pdf) and the [five year review  (2014)](https://ecos.fws.gov/docs/five_year_review/doc4468.pdf).
 
 ## Partnerships, research and projects
 
@@ -68,7 +68,7 @@ A collaborative effort to recover the Tar River spinymussel involves biologists 
 {{< youtube id="TsLSkkicgU8" title="Learn more about the Tar River spinymussel" >}}
 
 - [Press release](http://www.tarriver.org/endangered-mussels-released/)
-- [Five year review](/pdf/five-year-reviews/tar-river-spinymussel.pd)
+- [Five year review](https://ecos.fws.gov/docs/five_year_review/doc4468.pdf)
 
 ## How you can help
 

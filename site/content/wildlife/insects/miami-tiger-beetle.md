@@ -53,15 +53,15 @@ Pine rocklands have been heavily impacted by habitat destruction, conversion to 
 
 Ants are the most common meal for Miami tiger beetles.
 
+## Historical range
+
+The historical range of the Miami tiger beetle is not completely known, and available information is limited based on the single historical observation prior to the species’ rediscovery in 2007.  It was initially documented in 1934 from the northern end of the Miami Rock Ridge, within pine rocklands characterized by extensive sandy pockets of quartz sand, a feature that is necessary for the Miami tiger beetle.  It is likely that the Miami tiger beetle historically occurred throughout pine rockland habitat on the Miami Rock Ridge, including outside the boundaries of Everglades National Park.
+
 ## Current range
 
 The species is found outside the boundaries of Everglades National Park on the pine rocklands of the Miami Rock Ridge in Miami-Dade County, Florida.
 
 The Miami tiger beetle is known to occur in two populations separated by urban development that are within 3.1 miles (5 kilometers) of each other.  Based upon available information from survey data, it appears that the species occurs in a very limited range. Surveys and observations conducted at Long Pine Key in Everglades National Park have found no Miami tiger beetles, and habitat conditions there are considered unsuitable for the species.
-
-## Historical range
-
-The historical range of the Miami tiger beetle is not completely known, and available information is limited based on the single historical observation prior to the species’ rediscovery in 2007.  It was initially documented in 1934 from the northern end of the Miami Rock Ridge, within pine rocklands characterized by extensive sandy pockets of quartz sand, a feature that is necessary for the Miami tiger beetle.  It is likely that the Miami tiger beetle historically occurred throughout pine rockland habitat on the Miami Rock Ridge, including outside the boundaries of Everglades National Park.
 
 ## Conservation challenges
 

@@ -21,7 +21,7 @@ hero:
     caption: 'A young Neuse River waterdog from the Little River, Johnston County, North Carolina, by Jeff Beane.'
     link: 'https://flic.kr/p/U6bSnC'
     position: 'bottom left'
-updated: 'August 23rd, 2018'
+updated: 'September 19th, 2018'
 ---
 
  - **Taxon:** Freshwater salamander
@@ -60,7 +60,7 @@ The species thrives in cold water, and is much more active in colder seasons and
 
 Neuse River waterdogs are sight and scent feeders, with prey consisting of aquatic arthropods (primarily ostracods and copepods), hellgrammites, mayflies, caddisflies, crayfish, beetles, caterpillars, snails, spiders, earthworms, centipedes, millipedes, slugs) and some small fish like darters and pirate perch. All prey are ingested whole, and larger items are sometimes regurgitated and then re-swallowed.
 
-## Historic range
+## Historical range
 
 The Neuse River waterdog is endemic to the Tar-Pamlico and Neuse River basins in North Carolina.  Its historical distribution includes the Piedmont and Coastal Plain regions of North Carolina within all major tributary systems of the Tar and Neuse, including the Trent River Basin.
 

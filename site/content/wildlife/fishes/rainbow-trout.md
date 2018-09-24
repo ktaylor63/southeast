@@ -22,7 +22,7 @@ hero:
     caption: 'Beautiful rainbow trout. <a href="https://flic.kr/p/8QET9A">Photo</a> by <a href="https://www.flickr.com/photos/palmit/">Cale Bruckner</a>, <a href="https://creativecommons.org/licenses/by-nc/2.0/">CC BY-NC 2.0</a>.'
     link: 'https://flic.kr/p/8QET9A'
     position: '75% 40%'
-updated: 'August 27th, 2018'
+updated: 'September 19th, 2018'
 ---
 
 - **Taxon:** Freshwater fish
@@ -49,11 +49,11 @@ Rainbow trout can easily adapt to various aquatic habitats and environments.  Th
 
 Rainbow trout are opportunistic feeders and will eat anything from aquatic and terrestrial insects, to fish eggs, to small minnows, to crustaceans and worms.  
 
-## Historic range
+## Historical range
 
-The historic range of rainbow trout extends from Alaska to Mexico and includes British Columbia, Washington, Oregon, California, Idaho, and Nevada. Rainbow trout found primarily east of the Cascade Mountains in the U.S. and in the Upper Fraser River of British Columbia are often called redbands. Native rainbow trout are generally found in watersheds west of the Cascades.
+The historical range of rainbow trout extends from Alaska to Mexico and includes British Columbia, Washington, Oregon, California, Idaho, and Nevada. Rainbow trout found primarily east of the Cascade Mountains in the U.S. and in the Upper Fraser River of British Columbia are often called redbands. Native rainbow trout are generally found in watersheds west of the Cascades.
 
-Most rainbow trout found outside their historic range are “domesticated” steelhead.
+Most rainbow trout found outside their historical range are “domesticated” steelhead.
 
 ## Current range
 

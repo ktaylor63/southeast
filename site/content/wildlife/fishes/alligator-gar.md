@@ -30,7 +30,7 @@ tags:
     - Tennessee
     - Texas
     - 'Warm Springs National Fish Hatchery'
-updated: 'August 23rd, 2018'
+updated: 'September 19th, 2018'
 ---
 
 - **Taxon:** Fish
@@ -63,7 +63,7 @@ Their coloration is dark olive green dorsally, fading to gray-white sides and wh
 
 ## Habitat and ecology
 
-Populations of alligator gar have vanished from much of their historic range as a result of habitat destruction, indiscriminate culling, and unrestricted harvests. Populations are now found primarily in the Southern United States extending into Mexico. They can adapt to waters  ranging from freshwater lakes and swamps to brackish marshes, estuaries, and bays along the Gulf of Mexico.
+Populations of alligator gar have vanished from much of their historical range as a result of habitat destruction, indiscriminate culling, and unrestricted harvests. Populations are now found primarily in the Southern United States extending into Mexico. They can adapt to waters  ranging from freshwater lakes and swamps to brackish marshes, estuaries, and bays along the Gulf of Mexico.
 
 The alligator gar is the most tolerant gar species of high salinity and occasionally strays into salt water. They have been found to congregate in high densities at certain locations for pre-spawn staging (typically April-May), spawning (typically April-June), and during winter (December-February).
 
@@ -85,7 +85,7 @@ They occasionally ingest sports fish, but studies suggest they feed predominantl
 
 Juveniles feed on plankton, invertebrates, amphibians, and fish before transitioning to almost exclusively fish. They stay near the surface utilizing floating straw, grasses, and debris for cover, while in the later months of the first year they remain in the deeper water and primarily only approach the surface for supplemental air and feeding at night.
 
-## Historic range
+## Historical range
 
 Alligator gar historically inhabited waters and tributaries throughout the Mississippi River Valley from Ohio to Illinois and downstream into the estuary waters of the Gulf of Mexico. They may have been found as far north as Iowa and as far west as Kansas and Nebraska.
 
@@ -95,7 +95,7 @@ Alligator gar historically inhabited waters and tributaries throughout the Missi
 
 Known populations of alligator gar currently exist only in the lower Mississippi River Valley from Oklahoma to the west, from Arkansas to the north, from Texas and portions of Mexico to the south, and east to Florida.
 
-{{< figure class="photo-center" src="/images/pages/alligator-gar-range.jpg" alt="A map of the Southeaster US with locations from the midwest all the way to the Gulf of Mexico." caption="A map of current and historic range of the alligator gar. Map by USFWS." >}}
+{{< figure class="photo-center" src="/images/pages/alligator-gar-range.jpg" alt="A map of the Southeaster US with locations from the midwest all the way to the Gulf of Mexico." caption="A map of current and historical range of the alligator gar. Map by USFWS." >}}
 
 ### Key
 

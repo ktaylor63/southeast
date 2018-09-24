@@ -22,7 +22,7 @@ tags:
     - 'North Carolina'
     - Recovery
     - 'Red Wolf'
-updated: 'August 23rd, 2018'
+updated: 'September 19th, 2018'
 ---
 
 * **Taxon**: Mammal
@@ -49,7 +49,7 @@ The last red wolves were found in coastal prairie and marsh habitat because this
 
 ## Range
 
-{{< figure class="photo-center" src="/images/pages/red-wolf-historic-range.jpg" alt="The historic range of the red wolf covers the southeast from Texas to New York to Florida." caption="Red wolf historic range with non-essential experimental population management area. Map by Jose Barrios, USFWS." link="https://flic.kr/p/2971AcK" >}}
+{{< figure class="photo-center" src="/images/pages/red-wolf-historic-range.jpg" alt="The historical range of the red wolf covers the southeast from Texas to New York to Florida." caption="Red wolf historical range with non-essential experimental population management area. Map by Jose Barrios, USFWS." link="https://flic.kr/p/2971AcK" >}}
 
 ## Diet
 
@@ -83,7 +83,7 @@ One of the most surprising findings of the Service’s review was that genetic d
 
 [Visit the reading room for a list of publications and other supporting documentation used in the evaluation of the program](/reading-room?q=Red+wolf+evaluation).
 
-In April 2018, the Service published a new [Species Status Assessment](http://ecos.fws.gov/ServCat/DownloadFile/147196) of the most current scientific information, and a [five-year review](/pdf/five-year-reviews/red-wolf-2018.pdf) for the red wolf.
+In April 2018, the Service published a new [Species Status Assessment](http://ecos.fws.gov/ServCat/DownloadFile/147196) of the most current scientific information, and a [five-year review](https://ecos.fws.gov/docs/five_year_review/doc5714.pdf) for the red wolf.
 
 In the five-year review, the Service recommended no change in the endangered status of the red wolf under the Endangered Species Act, a status that has been in place since 1967.
 
@@ -181,11 +181,11 @@ Also in April, the Service said it is moving to begin work with an independent o
 
 ### 2018
 
-* The Service published a [Species Status Assessment](http://ecos.fws.gov/ServCat/DownloadFile/147196) and [5-year review](/pdf/five-year-reviews/red-wolf-2018.pdf) for the red wolf. The latter recommended no change in the endangered status of the red wolf under the Endangered Species Act.
+* The Service published a [Species Status Assessment](http://ecos.fws.gov/ServCat/DownloadFile/147196) and [5-year review](https://ecos.fws.gov/docs/five_year_review/doc5714.pdf) for the red wolf. The latter recommended no change in the endangered status of the red wolf under the Endangered Species Act.
 
 * [Service proposes new management rule for non-essential, experimental population of red wolves in North Carolina](/news/2018/06/service-proposes-new-management-rule-for-non-essential-experimental-population-of-red-wolves-in-north-carolina/)
 
-{{< figure class="photo-center" src="/images/pages/red-wolf-historic-range-and-nep.jpg" alt="The historic range of the red wolf covers the southeast from Texas to New York to Florida and the non-essential experimental population management area." caption="Red wolf historic range and proposed non-essential experimental population. Map by Jose Barrios, USFWS." link="https://flic.kr/p/H4bjyg" >}}
+{{< figure class="photo-center" src="/images/pages/red-wolf-historic-range-and-nep.jpg" alt="The historical range of the red wolf covers the southeast from Texas to New York to Florida and the non-essential experimental population management area." caption="Red wolf historical range and proposed non-essential experimental population. Map by Jose Barrios, USFWS." link="https://flic.kr/p/H4bjyg" >}}
 
 {{< figure class="photo-center" src="/images/pages/red-wolf-current-and-proposed-nep-july-2018.jpg" alt="Current 5 county non-essential experimental population management area compared to the proposal." caption="Red wolf current and proposed non-essential experimental population. Map by Jose Barrios, USFWS." link="https://flic.kr/p/2971zta" >}}
 
