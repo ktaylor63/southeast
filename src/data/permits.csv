@@ -510,7 +510,7 @@ number,status,fed_register
 034476-4,Issued,Noticed for 30 days
 077258-3,Issued,N/A
 43639C-0,Issued,N/A
-28025A-3,Awaiting signature,N/A
+28025A-3,Issued,N/A
 44504C-0,Issued,N/A
 44575C-0,Issued,N/A
 049502-8,In FO for Review,Noticed for 30 days
@@ -667,7 +667,7 @@ number,status,fed_register
 99171C-0,In RO for Review,N/A
 12392A-2,In RO for Review,N/A
 99240C-0,Issued,N/A
-00624D-0,Awaiting Input from Applicant,N/A
+00624D-0,Issued,N/A
 00660D-0,Issued,N/A
 00665D-0,Issued,N/A
 01024D-0,Issued,N/A
@@ -679,12 +679,12 @@ number,status,fed_register
 02332D-0,In RO for Review,needs to be drafted
 02423D-0,Awaiting Input from Applicant,N/A
 02972D-0,Issued,N/A
-04434D-0,Awaiting Input from Applicant,N/A
+04434D-0,Issued,N/A
 05528D-0,In RO for Review,needs to be drafted
 65968A-1,In RO for Review,Noticed for 30 days
 06701D-0,In RO for Review,needs to be drafted
-07412D-0,In RO for Review,N/A
-07449D-0,In RO for Review,N/A
+07412D-0,Issued,N/A
+07449D-0,Awaiting Input from Applicant,N/A
 07461D-0,In RO for Review,N/A
 07464D-0,In RO for Review,N/A
 07525D-0,In RO for Review,needs to be drafted
