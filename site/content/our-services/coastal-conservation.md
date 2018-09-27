@@ -174,7 +174,7 @@ Boqueron, Puerto Rico 00622-0491
 ### South Carolina
 
 Jason Ayers, South Carolina Coordinator  
-U.S. Fish and Wildlife Service, Charleston Ecological Services Field Office  
+U.S. Fish and Wildlife Service, South Carolina Ecological Services Field Office  
 176 Croghan Spur Road, Suite 200  
 Charleston, SC  29407  
 (843) 727-4707 extension 220  
