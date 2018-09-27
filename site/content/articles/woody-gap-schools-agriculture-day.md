@@ -1,5 +1,5 @@
 ---
-title: 'Woody Gap School’s Agriculture Day'
+title: "Woody Gap School's Agriculture Day"
 author: 'Crystal Thomas, Chattahoochee Forest National Fish Hatchery'
 date: '2017-05-18'
 tags:
@@ -14,4 +14,4 @@ hero:
 updated: 'May 24th, 2017'
 ---
 
-“Kids are the future.  We must educate them now so they will better understand the environment and practice good stewardship as they grow into adulthood,” said Kelly Taylor, project leader of the Chattahoochee Forest National Fish Hatchery.  On April 7, Kelly took the opportunity to speak with students at the Woody Gap School Agriculture Day in Suches, Georgia. He has represented the hatchery at Woody Gap Agriculture Day for the past several years by reaching out to many students. 
+&ldquo;Kids are the future.  We must educate them now so they will better understand the environment and practice good stewardship as they grow into adulthood,&rdquo; said Kelly Taylor, project leader of the Chattahoochee Forest National Fish Hatchery.  On April 7, Kelly took the opportunity to speak with students at the Woody Gap School Agriculture Day in Suches, Georgia. He has represented the hatchery at Woody Gap Agriculture Day for the past several years by reaching out to many students.
