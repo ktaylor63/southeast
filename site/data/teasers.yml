@@ -2,6 +2,15 @@
 stories:
   - title: 'North Florida Land Trust marks largest conservation easement acquisitions to date'
     subtitle: More than 2,500 acres in Clay County will be preserved in perpetuity
+    summary: '"We were trying very hard to pull him through, but these guys are very fragile," said Dollard, the sanctuary’s avian hospital director. "We do our best but we cannot save them all."'
+    date: 2018-09-25
+    hero:
+      name: red-knot-flock.png
+      alt: 'Dozens of grey birds with rusty colored breast take flight from shallow water along the shore'
+      caption: 'A flock of red knots at Huntington Island, South Carolina. <a href="https://flic.kr/p/8jf6EK">Photo</a> by <a href="https://www.flickr.com/photos/faulkners_fowl_shots/">Don Faulkner</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC BY-SA 2.0</a>.'
+    url: 'http://www.tampabay.com/news/environment/wildlife/Red-Tide-takes-toll-on-imperiled-species-of-birds-but-volunteers-try-to-save-them_172111173'
+  - title: 'North Florida Land Trust marks largest conservation easement acquisitions to date'
+    subtitle: More than 2,500 acres in Clay County will be preserved in perpetuity
     summary: 'Fla. – North Florida Land Trust has acquired two conservation easements in Clay County marking the nonprofit organization’s largest conservation easement acquisitions to date. The two properties totaling approximately 2,551 acres will now be protected from high intensity development and will serve as a buffer for the Camp Blanding Joint Training Center.'
     date: 2018-09-19
     hero:
