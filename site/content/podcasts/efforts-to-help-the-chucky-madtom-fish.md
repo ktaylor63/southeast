@@ -4,10 +4,11 @@ audio: /audio/podcast/creature-feature/2009/chucky-madtom.mp3
 transcript: /audio/transcripts/creature-feature/chucky-madtom.pdf
 date: 2009-08-07T00:00:00.000Z
 hero:
-    name: chucky-madtom-search.jpg
-    alt: 'Biologists crowd around a seine.'
-    link: 'https://flic.kr/p/8xgXAv'
-    caption: 'Services biologists search through a seine for signs of Chucky madtom. Photo by Gary Peeples, USFWS.'
+    name: chucky-madtom.jpg
+    alt: 'A small semi-transluscent catfish in an aquarium.'
+    link: 'https://digitalmedia.fws.gov/digital/collection/natdiglib/id/13686/rec/1'
+    caption: 'Chucky madtom. Photo by J.R. Shute, Conservation Fisheries, Inc.'
+    position: '5% 65%'
 author: 'Gary Peeples'
 tags:
     - 'Asheville Ecological Services Field Office'
@@ -17,7 +18,7 @@ tags:
     - 'Southern Appalachian Creature Feature'
     - Tennessee
     - 'Tennessee Ecological Services Field Office'
-updated: 'August 24th, 2018'
+updated: 'September 19th, 2018'
 ---
 
 ## Transcript
