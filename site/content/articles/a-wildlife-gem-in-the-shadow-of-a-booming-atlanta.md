@@ -31,7 +31,7 @@ tags:
 updated: 'August 27th, 2018'
 ---
 
-**Braswell, Georgia** -- It was 1946, a cold night in the Blue Ridge mountains, and the six frustrated deer hunters hunkered down in a glade as the wind howled. Two days spent scrambling over the hills had flushed but one doe. The annual hunt was no longer worth the long drive from Paulding County outside Atlanta.
+**Braswell, Georgia** &mdash; It was 1946, a cold night in the Blue Ridge mountains, and the six frustrated deer hunters hunkered down in a glade as the wind howled. Two days spent scrambling over the hills had flushed but one doe. The annual hunt was no longer worth the long drive from Paulding County outside Atlanta.
 
 “What I’m figuring,” said E.F. Corley, a farmer, sawmiller, truck driver and ordained Baptist minister, “is stocking deer in the hills behind home.”
 
