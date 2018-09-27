@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 'Partners for Fish and Wildlife Program'
 subtitle: 'Programa Compañeros para la Vida Silvestre'
 description: 'The Caribbean Ecological Services Field Office promotes healthy wildlife and their habitat through a diverse group of programs:  Endangered Species, Partners for Fish and Wildlife, Contaminants Program, Coastal Program and Project Evaluation.'
@@ -13,7 +12,7 @@ hero:
 tags:
     - 'Partners for Fish and Wildlife Program'
     - 'Private Landowners'
-updated: 'September 18th, 2018'
+updated: 'September 27th, 2018'
 ---
 
 Established in 1992, the Partners for Fish and Wildlife Program provides financial and technical assistance to private landowners and other eligible entities for voluntary, on-the-ground habitat restoration and conservation projects.

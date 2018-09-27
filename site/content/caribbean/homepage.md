@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 'Caribbean Ecological Services Field Office'
 facebook: USFWSCaribbean
 nav: Home
@@ -16,7 +15,7 @@ tags:
     - 'Endangered Species Act'
     - 'Puerto Rico'
     - 'US Virgin Islands'
-updated: 'September 4, 2018'
+updated: 'September 27th, 2018'
 ---
 
 The Caribbean Ecological Services Field Office was established in 1974. We strive for ecosystem sustainability through preservation, conservation, enhancement, and restoration of habitats essential for the long-term viability of the fish, wildlife, and plants in the Caribbean.
@@ -39,6 +38,10 @@ The field office emphasizes an ecosystem approach incorporating Strategic Habita
 The Caribbean ES Office services Puerto Rico and the U.S. Virgin Islands. Our main office is located in Boqueron and the Puerto Rican parrot aviary is in Rio Grande.
 
 <iframe src="https://usfws.github.io/southeast-mega-map/?state=Puerto+Rico&state=USVI" class="state-map" title="Find a local field station"></iframe>
+
+## More information
+
+- Caribbean Ecological Services Field Office brochure in [English](/pdf/fact-sheet/caribbean-ecological-services-field-office-english.pdf) and [Spanish](/pdf/fact-sheet/caribbean-ecological-services-field-office.pdf)
 
 ## Contact
 
@@ -74,7 +77,3 @@ The Caribbean ES Office services Puerto Rico and the U.S. Virgin Islands. Our ma
   Road 191, Kilometer 4.0 <br>
   Río Grande, PR 00745 <br>
 </address>
-
-## More information
-
-- Caribbean Ecological Services Field Office brochure in [English](/pdf/fact-sheet/caribbean-ecological-services-field-office-english.pdf) and [Spanish](/pdf/fact-sheet/caribbean-ecological-services-field-office.pdf)

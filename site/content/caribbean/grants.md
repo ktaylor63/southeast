@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 'Grants at a glance'
 description: 'The Caribbean Ecological Services Field Office promotes healthy wildlife and their habitat through a diverse group of programs: Endangered Species, Partners for Fish and Wildlife, Contaminants Program, Coastal Program and  Project Evaluation.'
 facebook: USFWSCaribbean
@@ -14,7 +13,7 @@ tags:
     - Grants
     - 'Puerto Rico'
     - 'US Virgin Islands'
-updated: 'September 18th, 2018'
+updated: 'September 27th, 2018'
 ---
 
 The U.S. Fish and Wildlife Service administers a variety of natural resource assistance grants to governmental, public and private organizations, groups and individuals. Following are links to information about and applications for available grants.

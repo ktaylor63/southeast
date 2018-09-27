@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 'Overseeing the Endangered Species Act'
 nav: 'Endangered Species'
 weight: 2
@@ -11,7 +10,7 @@ hero:
 tags:
     - 'Endangered Species Act'
     - Recovery
-updated: 'September 18th, 2018'
+updated: 'September 27th, 2018'
 ---
 
 One of the primary responsibilities of the U.S. Fish and Wildlife Service (Service) is to protect and recover imperiled species and the ecosystems upon which they depend. The Endangered Species Act (ESA) is America’s strongest conservation law. Originally passed by Congress in 1973, the ESA is jointly administered by the Service and the [National Marine Fisheries Service](https://www.fisheries.noaa.gov/) (NMFS). The Service has primary responsibility for terrestrial and freshwater organisms, while the responsibilities of NMFS are mainly marine. Some marine animals like the sea turtles have shared responsibility between the Service and NMFS, while the Service has responsibility for the West Indian manatee.

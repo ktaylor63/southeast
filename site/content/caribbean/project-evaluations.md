@@ -1,9 +1,9 @@
 ---
-draft: true
 title: 'Project evaluations'
 description: 'The Caribbean Ecological Services Field Office promotes healthy wildlife and their habitat through a diverse group of programs:  Endangered Species, Partners for Fish and Wildlife, Contaminants Program, Coastal Program and Project Evaluation.'
 weight: 8
 nav: 'Project Evaluations'
+facebook: USFWSCaribbean
 hero:
     name: laguna-cartagena-national-wildlife-refuge.jpg
     alt: 'A vernal pool surrounded by bright purple flowers in the shadow of a forested mountain.'
@@ -14,7 +14,7 @@ tags:
     - 'North Carolina'
     - Recovery
     - 'Red Wolf'
-updated: 'September 18th, 2018'
+updated: 'September 27th, 2018'
 ---
 
 The Caribbean Ecological Services Field Office offers expertise in environmental planning for projects related to energy, transportation, water supply, development, flood control, communication towers, private development, recreation, streambank and shoreline protection.  We  work directly with federal agencies, state and local partners on infrastructure development projects to conserve natural resources in Puerto Rico and the U.S. Virgin Islands.

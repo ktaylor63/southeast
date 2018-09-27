@@ -1,9 +1,9 @@
 ---
-draft: true
 title: 'Coastal Program'
 subtitle: 'Programa Costero'
 nav: 'Coastal Program'
 weight: 4
+facebook: USFWSCaribbean
 description: 'The Caribbean Ecological Services Field Office promotes healthy wildlife and their habitat through a diverse group of programs:  Endangered Species, Partners for Fish and Wildlife, Contaminants Program, Coastal Program and  Project Evaluation.'
 hero:
     name: caribbean-reefscaping.jpg
@@ -15,7 +15,7 @@ tags:
     - 'Coastal Program'
     - 'Puerto Rico'
     - 'US Virgin Islands'
-updated: 'September 18th, 2018'
+updated: 'September 27th, 2018'
 ---
 
 The Coastal Program was established in the Caribbean in 2005. It focuses on helping communities, agencies and organizations face the challenge of integrating economic development with the conservation of our coastal resources, combining efforts for their protection and restoration.

@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 'Environmental Contaminants'
 nav: Contaminants
 facebook: USFWSCaribbean
@@ -13,7 +12,7 @@ tags:
     - 'Environmental Contaminants'
     - 'Puerto Rico'
     - 'US Virgin Islands'
-updated: 'September 18th, 2018'
+updated: 'September 27th, 2018'
 ---
 
 Man-made pollution remains one of the nation's greatest environmental concerns. Our contaminant expertise extends to a variety of pollutants including pesticides, metals, petroleum products, and emerging contaminants such as: pharmaceuticals, personal care products, and insecticides. The Caribbean Ecological Services Field Office provides technical assistance to the Environmental Protection Agency (EPA), National Oceanic and Atmospheric Administration, and state agencies to ensure fish and wildlife and their habitat are adequately protected during and upon completion of cleanup efforts at Superfund sites, including the Vieques and Culebra National Wildlife Refuges.

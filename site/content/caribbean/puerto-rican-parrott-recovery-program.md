@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 'Puerto Rican Parrot recovery program'
 description: 'The Puerto Rican parrot recovery program is an effort to conserve, protect and manage wild and captive parrots in order to downlist the species from endangered to threatened.'
 facebook: USFWSCaribbean
@@ -16,7 +15,7 @@ tags:
     - 'Puerto Rico'
     - Recovery
     - 'US Virgin Islands'
-updated: 'September 18th, 2018'
+updated: 'September 27th, 2018'
 ---
 
 The Puerto Rican parrot recovery program is an effort to conserve, protect and manage wild and captive parrots in order to downlist the species from endangered to threatened.
