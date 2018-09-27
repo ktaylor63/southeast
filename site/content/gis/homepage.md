@@ -207,7 +207,7 @@ Phone: (828) 258-3939 x231
 ### South Carolina
 
 [Brian Paddock](mailto:brian_paddock@fws.gov), Information Technology  
-[Charleston Ecological Services Office](https://fws.gov/charleston)  
+[South Carolina Ecological Services Office](https://fws.gov/charleston)  
 176 Croghan Spur Road, Suite 200  
 Charleston, South Carolina 29407  
 Phone: (843) 727-4707  
