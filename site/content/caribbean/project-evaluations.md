@@ -24,7 +24,7 @@ well as information on  practices that protect natural resources while streamlin
 
 ## Project planning and consultation
 
-The Endangered Species Act (ESA) provides a means for conserving the ecosystems upon which endangered and threatened species depend. The ESA requires that all federal agencies and federally funded projects participate in conserving these species. Specifically, section 7 (a)(1) of the ESA charges federal agencies to aid in the conservation of listed species, and section 7 (a)(2) requires the agencies, through consultation with the Service, to ensure their activities are not likely to jeopardize the continued existence of listed species or adversely modify designated critical habitats. Section 7 applies to the management of federal lands as well as federal actions that may affect listed species, such as federal approval of private activities through the issuance of federal funding, permits, licenses, or other actions. To initiate a consultation under the Section 7 of the ESA, you must submit a project package with the established minimum requirements. To see the requirements click here.
+The Endangered Species Act (ESA) provides a means for conserving the ecosystems upon which endangered and threatened species depend. The ESA requires that all federal agencies and federally funded projects participate in conserving these species. Specifically, section 7 (a)(1) of the ESA charges federal agencies to aid in the conservation of listed species, and section 7 (a)(2) requires the agencies, through consultation with the Service, to ensure their activities are not likely to jeopardize the continued existence of listed species or adversely modify designated critical habitats. Section 7 applies to the management of federal lands as well as federal actions that may affect listed species, such as federal approval of private activities through the issuance of federal funding, permits, licenses, or other actions. To initiate a consultation under the Section 7 of the ESA, you must submit a project package with the established minimum requirements. Download the [project evaluations fact sheet](/pdf/fact-sheet/caribbean-ecological-services-field-office-project-evaluations.pdf) to learn more about the requirements.
 
 The Fish and Wildlife Coordination Act requires consultation with the Fish and Wildlife Service and the fish and wildlife agencies of States where the "waters of any stream or other body of water are proposed or authorized, permitted or licensed to be impounded, diverted ... or otherwise controlled or modified" by any agency under a Federal permit or license (eg. Coast Guard permits, Corps of Engineers Section 10/404/103 permits, EPA Section 402 permits, FERC licenses, NRC power station licensing, NRCS water resource projects, etc).
 
@@ -39,7 +39,7 @@ Consultation is to be undertaken for the purpose of "preventing loss of and dama
 - [Endangered Species Act: Consultation Process Under Section 7](/pdf/presentations/endangered-species-act-consultation-process-under-section-7.pdf)
 - [Project Evaluation Process and Compliance with Section 7 of the Endangered Species Act Training](/pdf/presentations/project-evaluation-process-and-compliance-with-section-7-of-the-endangered-species-act-training.pdf)
 
-Program Links:
+### Program links
 
 - [Fish and Wildlife Coordination Act](https://www.fws.gov/habitatconservation/fwca.html)
 - [National Environmental Policy Act](https://www.fws.gov/habitatconservation/nepa.html)
@@ -68,7 +68,7 @@ These maps identify undeveloped coastal areas prone to hurricane damage where fe
 
 ### Caribbean ES blanket clearance letters
 
-The Caribbean Ecological Services Field Office has developed blanket clearance letters ( to cover activities and projects that typically result in no adverse effects to federally-listed species under our jurisdiction. Blanket letters are used depending on the agency funding the project (Click on the agency name to download the letter):
+The Caribbean Ecological Services Field Office has developed blanket clearance letters to cover activities and projects that typically result in no adverse effects to federally-listed species under our jurisdiction. Blanket letters are used depending on the agency funding the project (Click on the agency name to download the letter):
 
 - [HUD & RD - reconstruction of existing projects, construction of facilities in urban areas, activities within existing Right of Way, among others](/pdf/letter/caribbean-blanket-clearance-letter-for-federally-sponsored-projects-housing-and-urban-development.pdf)
 - [FHWA & FTA - rehabilitation of facilities of existing Public Transportation System (signs, bus stop, etc.), projects in urbanized areas or vacant lots with no forested vegetation](/pdf/letter/caribbean-blanket-letter-for-federally-sponsored-projects-federal-highway-administration.pdf)
@@ -76,7 +76,7 @@ The Caribbean Ecological Services Field Office has developed blanket clearance l
 
 If the proposed project is funded by any of the above agencies and complies with the actions activities established in the clearance letter, it might qualify for the self-certification process.
 
-Download the [self-certification](/pdf/form/caribbean-project-evaluation-self-certification-template.pdf) for BLK letter. Once completed, please send the required documents to:
+Download the [self-certification](/pdf/letter/caribbean-blanket-clearence-letter.pdf) for BLK letter. Once completed, please send the required documents to:
 
 Blanket Clearance Letters  
 Caribbean ES Field Office  
