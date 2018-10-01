@@ -544,7 +544,7 @@ number,status,fed_register
 57122C-0,Issued,N/A
 171488-4,No permit needed,N/A
 57754C-0,Issued,N/A
-121400-6,In FO for Review,N/A
+121400-6,Awaiting signature,N/A
 22311A-4,Issued,Noticed for 30 days
 57873C-0,Issued,Noticed for 30 days
 57902C-0,Issued,N/A
@@ -576,7 +576,7 @@ number,status,fed_register
 049654-7,Issued,N/A
 051429-7,Issued,N/A
 37490B-1,Issued,Noticed for 30 days
-37492B-1,Awaiting signature,Noticed for 30 days
+37492B-1,Issued,Noticed for 30 days
 37663B-1,Issued,Noticed for 30 days
 022468-5,Issued,Noticed for 30 days
 119937-4,Issued,Noticed for 30 days
@@ -681,7 +681,7 @@ number,status,fed_register
 02972D-0,Issued,N/A
 04434D-0,Issued,N/A
 05528D-0,In RO for Review,needs to be drafted
-65968A-1,In RO for Review,Noticed for 30 days
+65968A-1,Awaiting signature,Noticed for 30 days
 06701D-0,In RO for Review,needs to be drafted
 07412D-0,Issued,N/A
 07449D-0,Awaiting Input from Applicant,N/A
@@ -693,3 +693,7 @@ number,status,fed_register
 07817D-0,In RO for Review,N/A
 07830D-0,In RO for Review,needs to be drafted
 077258-4,Issued,N/A
+09078D-0,In RO for Review,N/A
+09804D-0,In RO for Review,N/A
+09806D-0,In RO for Review,N/A
+206777-3,In RO for Review,N/A
