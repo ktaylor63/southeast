@@ -12,7 +12,7 @@ hero:
     caption: 'Service biologist Sue Cameron searches for birds. Photo by Gary Peeples, USFWS.'
 tags:
     - Science
-updated: 'January 5th, 2018'
+updated: 'October 1st, 2018'
 ---
 
 Employees within the U.S. Fish and Wildlife Service use science on a daily basis as the foundation for carrying out our mission.
@@ -21,12 +21,12 @@ For more information on our mission and activities see our [FY2018 update](/pdf/
 
 Science-based natural resource conservation requires that our employees have timely access to:
 
-  - Scientific research, information, and state-of-the-art scientific tools
-  - Peer interaction among scientific colleagues
-  - Science-based conservation strategies for habitat and population management
-  - Training and mentoring opportunities in:
-  - Understanding, analyzing, applying, and communicating complex scientific concepts, information, and tools
-  - Awareness of the appropriate practices and procedures to use when engaging in science activities, such as conducting research, seeking peer review, and using, publishing, and distributing scientific information
+- Scientific research, information, and state-of-the-art scientific tools
+- Peer interaction among scientific colleagues
+- Science-based conservation strategies for habitat and population management
+- Training and mentoring opportunities in:
+- Understanding, analyzing, applying, and communicating complex scientific concepts, information, and tools
+- Awareness of the appropriate practices and procedures to use when engaging in science activities, such as conducting research, seeking peer review, and using, publishing, and distributing scientific information
 
 [Learn about our national science policy](https://www.fws.gov/science/).
 
@@ -56,3 +56,9 @@ For more information about the RFP process or to provide outstanding materials, 
 <article class="featured-project"></article>
 
 [Explore more Science Support Partnership Program Projects](/science/science-support-partnership/projects/)
+
+## Landscape Conservation Design
+
+This is a [practitioner’s guide to landscape conservation design](/pdf/guidelines/landscape-conservation-design-best-practices.pdf) (LCD). LCD is a partner-driven approach to achieve a sustainable, resilient landscape that meets the ecological and social needs of current and future generations. It is an iterative, collaborative, and holistic process resulting in spatially explicit products and adaptation strategies that provide information, analytical tools, maps, and strategies to achieve landscape goals collectively held among partners (LCC Network 2016a). As public-private partnerships for collaborating on landscape-scale conservation issues, the Landscape Conservation Cooperatives (LCC) have had years of experience with LCD. Staff from across the LCC Network assembled these recommended practices to provide practical guidance for anyone looking to facilitate or participate in an LCD process (design process).
+
+This guide contains five sections covering major themes in LCD. Each section describes vetted practices one or more LCCs have used in their LCD work, provides resources for further information, and presents a real-world example where the practices have been implemented. The practices are arranged in a logical order but they are not necessarily chronological. Successful LCD requires participants to revisit and refine their work; therefore, embracing iteration is an overarching theme of the process.
