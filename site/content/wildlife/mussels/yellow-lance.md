@@ -19,7 +19,7 @@ hero:
     name: yellow-lance.jpg
     alt: 'A group of about a dozen small triangular shellfish in shallow water.'
     caption: 'Yellow lance in the Tar River in North Carolina.  Photo by Sarah McRae, USFWS.'
-updated: 'August 23rd, 2018'
+updated: 'September 28th, 2018'
 ---
 
 - **Taxon:** Freshwater mussel. Bivalve, Unionidae
@@ -103,7 +103,6 @@ Historically, the yellow lance ranged from the Patuxent River Basin in Maryland,
 
 - Vance
 - Granville
-- Person
 - Franklin
 - Wake
 - Johnston
@@ -111,8 +110,6 @@ Historically, the yellow lance ranged from the Patuxent River Basin in Maryland,
 - Halifax
 - Nash
 - Edgecombe
-- Martin
-- Wilson
 
 ## Current range
 
