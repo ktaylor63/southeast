@@ -1,0 +1,22 @@
+= content main
+  .content-centered
+    h1.page-title {{ .Title }}
+    {{ $section := lower .Title }}
+
+    p.text-centered
+      a href="/{{ $section }}/index.xml" Subscribe to an RSS feed
+
+    {{ $events :=  where .Site.Pages "Section" $section }}
+    {{ $hasStart := where .Site.Pages "Params.start" "!=" nil }}
+    {{ $pages := $events | intersect $hasStart }}
+    {{ $paginator := .Paginate $pages 7 }}
+
+    ul.card-list
+      {{ range sort $paginator.Pages "Params.start" "asc" }}
+        {{ .Render "summary" }}
+      {{ end }}
+
+    {{ partial "pagination.html" . }}
+
+
+    script src="/js/infinite-scroll.js"

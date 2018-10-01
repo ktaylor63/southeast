@@ -1,0 +1,33 @@
+= content main
+  main.main
+    h1.page-title {{ .Title }}
+    {{ if .Params.subtitle }}
+    h2.page-subtitle id="{{ urlize .Params.subtitle }}" {{ .Params.subtitle}}
+    {{ end }}
+
+    h2 Date
+    p {{ dateFormat "Mon, January 2, 2006 15:04 EST" .Params.start }} - {{ dateFormat "Mon, January 2, 2006 15:04 EST" .Params.end }}
+
+    {{ .Content }}
+
+    {{ if ne .Params.tags nil}}
+    ul.tag-list
+      {{ range .Params.tags }}
+      li.tag
+        a aria-label="Find more content tagged with {{ . }}" href="/tags/{{ . | urlize }}" {{ . }}
+      {{ end }}
+    {{ end }}
+
+    = include partials/news-mission-links.html .
+
+  {{ $related := .Site.RegularPages.Related . | first 3 }}
+  {{ with $related }}
+  .related-content
+    h3 Related content
+    ul.article-gallery
+      {{ range . }}
+      {{ .Render "gallery" }}
+      {{ end }}
+  {{ end }}
+
+  span.hide-scrollnav
