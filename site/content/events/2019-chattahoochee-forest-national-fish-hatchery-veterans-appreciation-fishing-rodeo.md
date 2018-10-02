@@ -23,7 +23,7 @@ tags:
 
 ## Description
 
-The Veterans Appreciation Fishing Rodeo is open to all U.S. military veterans. The event will take place rain or shine. **Participants must bring their own fishing gear and bait**. A free lunch will be served. [Georgia Sport Fishing Regulations apply](https://georgiawildlife.com/fishing/regulations). For more information contact the [hatchery](https://www.fws.gov/chattahoocheeforest) at (706) 838-4723 or visit us on [Facebook](https://www.facebook.com/chattahoocheeforestnfh).
+The Veterans Appreciation Fishing Rodeo is open to all U.S. military veterans. The event will take place rain or shine. **Participants must bring their own fishing gear and bait**. Free lunch and prizes will be provided through Friends of the Hatchery. [Georgia Sport Fishing Regulations apply](https://georgiawildlife.com/fishing/regulations). For more information contact the [hatchery](https://www.fws.gov/chattahoocheeforest) at (706) 838-4723 or visit us on [Facebook](https://www.facebook.com/chattahoocheeforestnfh).
 
 ## Location
 

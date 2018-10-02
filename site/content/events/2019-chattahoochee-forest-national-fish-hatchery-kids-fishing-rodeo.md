@@ -20,7 +20,7 @@ updated: 'October 1st, 2018'
 
 ## Description
 
-The Kid's Fishing Rodeo is open to youth 16 and under. The event will take place rain or shine. **Attendees must bring their own fishing gear and bait**. Friends of the Hatchery will provide free lunch and prizes. [Georgia Sport Fishing regulations apply](https://georgiawildlife.com/fishing/regulations). For more information call the hatchery at (706) 838-4723 or contact us on our [facebook](https://www.facebook.com/chattahoocheeforestnfh).
+The Kid's Fishing Rodeo is open to youth 16 and under. The event will take place rain or shine. **Attendees must bring their own fishing gear and bait**. Free lunch and prizes will be provided through Friends of the Hatchery. [Georgia Sport Fishing regulations apply](https://georgiawildlife.com/fishing/regulations). For more information call the hatchery at (706) 838-4723 or contact us on our [facebook](https://www.facebook.com/chattahoocheeforestnfh).
 
 ## Location
 
