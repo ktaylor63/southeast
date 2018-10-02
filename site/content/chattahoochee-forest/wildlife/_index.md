@@ -1,5 +1,4 @@
 ---
-draft: true
 title: Wildlife
 description: 'Wildlife at Chattahoochee Forest National Fish Hatchery.'
 query: 'Chattahoochee Forest National Fish Hatchery'

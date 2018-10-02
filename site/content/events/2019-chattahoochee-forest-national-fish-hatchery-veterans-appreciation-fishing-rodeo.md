@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 'Veterans Appreciation Fishing Rodeo'
 date: 2019-05-03T09:00:00.000Z
 start: 2019-05-03T09:00:00.000Z
@@ -32,3 +31,7 @@ The Veterans Appreciation Fishing Rodeo is open to all U.S. military veterans. T
 ## Registration
 
 Registration will take place the day of the event, no pre-registration is required.
+
+## Gear
+
+Bring your own trout fishing gear and bait.

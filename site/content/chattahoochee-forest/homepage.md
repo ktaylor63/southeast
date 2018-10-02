@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 'Chattahoochee Forest National Fish Hatchery'
 facebook: ChattahoocheeForestNFH
 nav: Home

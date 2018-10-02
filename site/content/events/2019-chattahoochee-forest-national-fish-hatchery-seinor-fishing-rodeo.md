@@ -1,20 +1,20 @@
 ---
-draft: true
-title: 'Senior Fishing Rodeo'
+title: 'Seniors Fishing Rodeo'
 date: 2019-06-07T09:00:00.000Z
 start: 2019-06-07T09:00:00.000Z
 end: 2019-06-07T12:00:00.000Z
 hero:
-    name: cooper-creek-trout-stream.jpg
-    alt: 'A shallow stream with plenty of ripples banked on both sides by forest.'
-    caption: 'Cooper Creek trout stream. Photo by Crystal Thomas, USFWS.'
+    name: chattahoochee-forest-nfh-seniors-fishing-rodeo.jpg
+    alt: 'A woman with a wide smile holding a beautiful trout'
+    caption: 'Catching trout at the annual Seniors Fishing Rodeo. Photo by Crystal Thomas, USFWS.'
+    position: '50% 40%'
 tags:
     - 'Chattahoochee Forest National Fish Hatchery'
     - Fishing
     - 'Fishing Rodeo'
     - Georgia
     - 'Senior Fishing Rodeo'
-updated: 'October 1st, 2018'
+updated: 'October 2nd, 2018'
 ---
 
 ## Description
@@ -28,3 +28,7 @@ The Senior Fishing Rodeo is open to those age 55 and older. The event will take 
 ## Registration
 
 Registration will take place the day of the event, no pre-registration required.
+
+## Gear
+
+Bring your own trout fishing gear and bait.

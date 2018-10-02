@@ -1,5 +1,4 @@
 ---
-draft: true
 title: News
 description: 'News from Chattahoochee Forest National Fish Hatchery.'
 query: 'Chattahoochee Forest National Fish Hatchery'

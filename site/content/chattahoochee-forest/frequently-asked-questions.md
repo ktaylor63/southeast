@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 'Frequently asked questions'
 facebook: ChattahoocheeForestNFH
 nav: FAQ
