@@ -11,7 +11,7 @@ hero:
     caption: 'Alligator sunning at St. Marks National Wildlife Refuge.  Photo by Steve Hillebrand.'
     link: 'https://flic.kr/p/7Zmwbs'
     position: 'left center'
-updated: 'May 10th, 2018'
+updated: 'September 17th, 2018'
 ---
 
 ## Restoring the Gulf of Mexico and its Wild Inhabitants
@@ -31,11 +31,8 @@ As a result, native fish and wildlife populations and their habitats are in decl
 Restoring this vital area will ensure America continues to thrive well into and beyond the 21st century.
 
 {{< reading-room-scroller-list keyword="Gulf Restoration" >}}
-
 {{< scroller-list tag="Gulf" section="news" >}}
-
 {{< scroller-list tag="Gulf" section="articles" >}}
-
 {{< scroller-list tag="Gulf" section="infographic" >}}
 
 Download the [Efforts of the U.S. Department of Interior and partners in gulf restoration after the _Deepwater Horizon_ oil spill in Mississippi](/pdf/report/mississippi-doi-gulf-restoration.pdf).
@@ -54,5 +51,11 @@ Learn more about what's happening in your state: [Alabama](/alabama), [Florida](
 * U.S. Geological Survey (USGS) trend analyses from 1985 to 2010 show a wetland loss rate that, if it were to occur at a constant rate, would equate to Louisiana losing an area the size of one football field per hour.
 
 {{< figure class="photo-center" src="/images/pages/gulf-of-mexico-watershed.jpg" alt="Map of the Gulf of Mexico watershed, which spans from the midwest to the eastern Great Lakes all the way to the Gulf of Mexico." caption="Gulf of Mexico watershed. Map: Roy Hewitt, USFWS." >}}
+
+## Video from the Gulf
+
+If a picture is worth a thousand words, then a video is worth a thousand pictures. Take a look at [these videos](/gulf-restoration/the-journey-to-restore-the-gulf-of-mexico.md) highlighting our efforts to restore the priceless Gulf of Mexico. We hope you enjoy them and invite you to join us on our journey to restore the Gulf of Mexico.
+
+<!-- {{< data-gallery data="teasers" filter="Gulf" >}} -->
 
 {{< scroller-list tag="Gulf" section="wildlife" >}}
