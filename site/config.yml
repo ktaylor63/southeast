@@ -3,6 +3,7 @@ title: "Southeast Region | U.S. Fish and Wildlife Service"
 MetaDataFormat: yaml
 pluralizelisttitles: false
 relativeURLS: true
+baseURL: https://www.fws.gov/southeast/
 publishDir: '../dist'
 
 mediaTypes:
