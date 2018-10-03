@@ -12,7 +12,7 @@ tags:
     - 'At-Risk Species'
     - 'Endangered Species Act'
     - Recovery
-updated: 'June 22nd, 2018'
+updated: 'October 3rd, 2018'
 ---
 
 The Species Status Assessment framework is an analytical approach developed by the U.S. Fish & Wildlife Service to deliver foundational science for informing all [Endangered Species Act](/endangered-species-act) (ESA) decisions. An SSA is a focused, repeatable, and rigorous scientific assessment. The result will be better assessments, improved and more transparent and defensible decision making, and clearer and more concise documents. The Service is already seeing benefits from this approach.
