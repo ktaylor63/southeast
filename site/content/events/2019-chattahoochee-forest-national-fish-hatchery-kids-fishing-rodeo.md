@@ -1,6 +1,5 @@
 ---
 title: 'Kids Fishing Rodeo'
-date: 2019-06-08T09:00:00.000Z
 start: 2019-06-08T09:00:00.000Z
 end: 2019-06-08T12:00:00.000Z
 hero:

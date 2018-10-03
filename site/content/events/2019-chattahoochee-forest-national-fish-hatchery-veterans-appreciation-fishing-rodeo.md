@@ -1,10 +1,7 @@
 ---
 title: 'Veterans Appreciation Fishing Rodeo'
-date: 2019-05-03T09:00:00.000Z
 start: 2019-05-03T09:00:00.000Z
 end: 2019-05-03T12:00:00.000Z
-updated: 'September 28th, 2018'
-preregister: false
 hero:
     name: veterans-fishing-rodeo-chattahoochee-forest-nfh.jpg
     alt: 'Six individuals hang a sign for the veterans fishing rodeo outside of the education center.'
@@ -18,6 +15,7 @@ tags:
     - Military
     - Veterans
     - 'Veterans Appreciation Fishing Rodeo'
+updated: 'October 2nd, 2018'
 ---
 
 ## Description
