@@ -20,13 +20,12 @@ const isSoutheasternDocument = orgcode => {
 
 // Filter out documents that apply only to other regions
 // If one or more of the 'units' occurr in R4 keep the document
-const filterSoutheasternDocuments = docs =>
-  docs.filter(doc => doc.units.filter(isSoutheasternDocument).length);
+const filterSoutheasternDocuments = docs => docs.filter(doc => doc.units.filter(isSoutheasternDocument).length);
+const isPublic = doc => doc.fileAccess === 'Public';
 
-const createLinkedResource = res =>
-  `<li><a href="${res.url}" target="_blank" aria-label="${
-    res.fileName
-  }">Download species status assessment &raquo;</a></li>`;
+const createLinkedResource = res => `<li><a href="${res.url}" target="_blank" aria-label="${
+  res.fileName
+}">Download species status assessment &raquo;</a></li>`;
 
 const createListItem = doc => {
   if (doc.referenceType === 'Published Report Series') return '';
@@ -41,9 +40,9 @@ const createListItem = doc => {
 };
 
 const handleSuccess = res => {
-  const docs = filterSoutheasternDocuments(res.data.children).filter(
-    isNewestVersion
-  );
+  const docs = filterSoutheasternDocuments(res.data.children)
+    .filter(isNewestVersion)
+    .filter(isPublic);
   list.innerHTML = docs.map(createListItem).join('');
 };
 
