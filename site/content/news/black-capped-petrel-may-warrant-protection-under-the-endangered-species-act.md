@@ -4,15 +4,19 @@ date: 2012-06-20T00:00:00.000Z
 hero:
     name: black-capped-petrel.jpg
     alt: 'A small, black and white bird flies over ocean waters.'
-    caption: 'Black-capped petrel off the coast of Cape Hatteras, NC. Photo by Brian Patteson.'
+    caption: 'Black-capped petrel off the coast of Cape Hatteras, NC. Photo © Brian Patteson, used with permission.'
     position: '65% 68%'
 tags:
     - '90-Day Finding'
     - 'Black-Capped Petrel'
     - 'Caribbean Ecological Services Field Office'
     - 'Endangered Species Act'
+    - Florida
+    - Georgia
+    - 'North Carolina'
     - 'Puerto Rico'
-updated: 'October 3rd, 2018'
+    - 'South Carolina'
+updated: 'October 5th, 2018'
 ---
 
 A nocturnal seabird, the black-capped petrel, may warrant federal protection as a threatened or endangered species.
