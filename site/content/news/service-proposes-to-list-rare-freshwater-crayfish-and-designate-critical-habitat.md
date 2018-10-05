@@ -41,7 +41,7 @@ All relevant information received during the open comment period from the public
 
 The complete listing proposal can be obtained by visiting the Federal eRulemaking Portal: [regulations.gov](https://www.regulations.gov) at Docket Number FWS–R4–ES–2018-0069.
 
-Learn more about this decision by reading the [frequently asked questions](/faq/slenderclaw-crayfish-listing-proposal-4d-rule-and-critical-habitat).
+Download the [Species Status Assessment](https://ecos.fws.gov/ServCat/DownloadFile/156286) (SSA), or learn more about this decision by reading the [frequently asked questions](/faq/slenderclaw-crayfish-listing-proposal-4d-rule-and-critical-habitat).
 
 ## Contact
 

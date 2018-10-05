@@ -16,7 +16,7 @@ updated: 'October 5th, 2018'
 
 ## What action is being proposed by the U.S. Fish and Wildlife Service?
 
-As a result of the completion of a **Species Status Assessment** (SSA) and 12-month finding, [the Service is proposing to list the slenderclaw crayfish as threatened](/news/2018/10/service-proposes-to-list-rare-freshwater-crayfish-and-designate-critical-habitat/) under the Endangered Species Act (ESA) with a 4(d) rule and designate critical habitat. An SSA is an in-depth review of the species’ biology and threats, an evaluation of its biological status, and an assessment of the resources and conditions needed to maintain long-term viability.  [Learn more about Species Status Assessments](/endangered-species-act/species-status-assessments).
+As a result of the completion of a [Species Status Assessment](https://ecos.fws.gov/ServCat/DownloadFile/156286) (SSA) and 12-month finding, [the Service is proposing to list the slenderclaw crayfish as threatened](/news/2018/10/service-proposes-to-list-rare-freshwater-crayfish-and-designate-critical-habitat/) under the Endangered Species Act (ESA) with a 4(d) rule and designate critical habitat. An SSA is an in-depth review of the species’ biology and threats, an evaluation of its biological status, and an assessment of the resources and conditions needed to maintain long-term viability.  [Learn more about Species Status Assessments](/endangered-species-act/species-status-assessments).
 
 ## Why is the slenderclaw crayfish threatened?
 

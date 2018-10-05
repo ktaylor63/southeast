@@ -29,6 +29,8 @@ updated: 'October 5th, 2018'
 
 The slenderclaw crayfish is a relatively small freshwater crustacean that is endemic to streams within the Tennessee River Basin in DeKalb and Marshall counties, Alabama.  The U.S. Fish and Wildlife Service is proposing  to list the slenderclaw crayfish as a threatened species throughout its range with a 4(d) rule.  We also intend to propose designation of critical habitat.
 
+Download the [Species Status Assessment](https://ecos.fws.gov/ServCat/DownloadFile/156286) (SSA).
+
 {{< scroller-list tag="Slenderclaw Crayfish" section="news" >}}
 {{< scroller-list tag="Slenderclaw Crayfish" section="articles" >}}
 {{< scroller-list tag="Slenderclaw Crayfish" section="podcasts" >}}
