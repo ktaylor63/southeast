@@ -179,7 +179,7 @@ A recovery plan for the eastern black rail, informed by the [Species Status Asse
 ## Partnerships, research and projects
 
 - [The Center for Conservation Biology’s eastern Black Rail Conservation and Management Working Group](http://www.ccbbirds.org/what-we-do/research/species-of-concern/blackrail/)
-- [Advancing Black Rail Conservation Along the Atlantic Coast](http://acjv.org/advancing-black-rail-conservation-along-the-atlantic-coast/)
+- [Advancing Black Rail Conservation Along the Atlantic Coast](http://acjv.org/black-rail/)
 - [Next Steps for a Healthy Gulf of Mexico Watershed:  Coastal Bend Landscape at a Glance](https://www.fws.gov/southeast/gulf-restoration/next-steps/focal-area/coastal-bend/)
 - [Black Rail in Coastal Louisiana](http://la.audubon.org/conversation/black-rail-coastal-louisiana)
 
