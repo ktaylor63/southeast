@@ -11,7 +11,7 @@ hero:
     caption: 'Alligator sunning at St. Marks National Wildlife Refuge.  Photo by Steve Hillebrand.'
     link: 'https://flic.kr/p/7Zmwbs'
     position: 'left center'
-updated: 'September 17th, 2018'
+updated: 'October 5th, 2018'
 ---
 
 ## Restoring the Gulf of Mexico and its Wild Inhabitants
@@ -54,7 +54,7 @@ Learn more about what's happening in your state: [Alabama](/alabama), [Florida](
 
 ## Video from the Gulf
 
-If a picture is worth a thousand words, then a video is worth a thousand pictures. Take a look at [these videos](/gulf-restoration/the-journey-to-restore-the-gulf-of-mexico.md) highlighting our efforts to restore the priceless Gulf of Mexico. We hope you enjoy them and invite you to join us on our journey to restore the Gulf of Mexico.
+If a picture is worth a thousand words, then a video is worth a thousand pictures. Take a look at [these videos](/gulf-restoration/the-journey-to-restore-the-gulf-of-mexico) highlighting our efforts to restore the priceless Gulf of Mexico. We hope you enjoy them and invite you to join us on our journey to restore the Gulf of Mexico.
 
 <!-- {{< data-gallery data="teasers" filter="Gulf" >}} -->
 
