@@ -17,7 +17,7 @@ hero:
     alt: 'Leafy green vegetation with bright yellow flowers'
     caption: 'White-haired goldenrod. Photo: John MacGregor, Kentucky Dept. of Fish and Wildlife Resources'
 description: 'The white-haired goldenrod is a unique plant to the Red River Gorge region of eastern Kentucky.  The Red River Gorge is well known for its unique geology, scenic beauty, and outdoor recreational opportunities, and much of the area is located within the Daniel Boone National Forest.'
-updated: 'August 23rd, 2018'
+updated: 'October 5th, 2018'
 ---
 
 - **Taxon:** Plant
@@ -35,6 +35,7 @@ Download the [Fact Sheet](/pdf/fact-sheet/white-haired-goldenrod.pdf)
 {{< scroller-list tag="White-Haired Goldenrod" section="news" >}}
 {{< scroller-list tag="White-Haired Goldenrod" section="articles" >}}
 {{< scroller-list tag="White-Haired Goldenrod" section="podcasts" >}}
+{{< scroller-list tag="White-Haired Goldenrod" section="faq" >}}
 
 ## Appearance
 

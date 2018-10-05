@@ -22,7 +22,7 @@ tags:
     - 'North Carolina'
     - Recovery
     - 'Red Wolf'
-updated: 'September 19th, 2018'
+updated: 'October 5th, 2018'
 ---
 
 * **Taxon**: Mammal
@@ -32,6 +32,7 @@ updated: 'September 19th, 2018'
 {{< scroller-list tag="Red Wolf" section="news" >}}
 {{< scroller-list tag="Red Wolf" section="articles" >}}
 {{< scroller-list tag="Red Wolf" section="podcasts" >}}
+{{< scroller-list tag="Red Wolf" section="faq" >}}
 
 The red wolf is one of the world’s most endangered wolves. Once common throughout the Eastern and South Central United States, red wolf populations were decimated by the early 20th century as a result of intensive predator control programs and the degradation and alteration of the species' habitat. When the red wolf was designated endangered in 1967, the U.S. Fish and Wildlife Service initiated efforts to conserve and recover the species. Today, about 40 red wolves roam their native habitats in eastern North Carolina as a non-essential, experimental population (NEP), and more than 200 red wolves are maintained in captive breeding facilities throughout the United States.
 

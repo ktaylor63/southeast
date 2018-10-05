@@ -19,7 +19,7 @@ hero:
     name: orangefoot-pimpleback.jpg
     alt: 'A brown mussel with orangish brown striations'
     caption: 'An orangefoot pimpleback mussel. Photo by Monte McGregor, Center Mollusk Conservation, Kentucky DFWR.'
-updated: 'September 19th, 2018'
+updated: 'October 5th, 2018'
 ---
 
 - **Taxon:** Bivalve
@@ -29,6 +29,7 @@ updated: 'September 19th, 2018'
 {{< scroller-list tag="Orangefoot Pimpleback" section="news" >}}
 {{< scroller-list tag="Orangefoot Pimpleback" section="articles" >}}
 {{< scroller-list tag="Orangefoot Pimpleback" section="podcasts" >}}
+{{< scroller-list tag="Orangefoot Pimpleback" section="faq" >}}
 
 ## Appearance
 

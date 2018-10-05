@@ -21,7 +21,7 @@ tags:
     - Tennessee
     - 'Tennessee Ecological Services Field Office'
     - Virginia
-updated: 'August 27th, 2018'
+updated: 'October 5th, 2018'
 ---
 
 - **Taxon:** [Plant](/wildlife/plants)
@@ -31,6 +31,7 @@ updated: 'August 27th, 2018'
 {{< scroller-list tag="Small-Whorled Pogonia" section="news" >}}
 {{< scroller-list tag="Small-Whorled Pogonia" section="articles" >}}
 {{< scroller-list tag="Small-Whorled Pogonia" section="podcasts" >}}
+{{< scroller-list tag="Small-Whorled Pogonia" section="faq" >}}
 
 ## Appearance
 

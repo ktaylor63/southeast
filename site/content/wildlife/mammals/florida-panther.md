@@ -20,7 +20,7 @@ hero:
     alt: 'A Florida panther walking on a gravel road with a slash pine forest in the background'
     name: florida-panther.jpg
     position: 'left center'
-updated: 'September 19th, 2018'
+updated: 'October 5th, 2018'
 ---
 
 - **Taxon:** Mammal
@@ -36,6 +36,7 @@ In 2013, the Service formed a [Florida Panther Recovery Implementation Team](htt
 {{< scroller-list tag="Florida Panther" section="news" >}}
 {{< scroller-list tag="Florida Panther" section="articles" >}}
 {{< scroller-list tag="Florida Panther" section="podcasts" >}}
+{{< scroller-list tag="Florida Panther" section="faq" >}}
 
 {{< figure class="photo-center" src="/images/pages/florida-panther-kittens-in-den.jpg" alt="Three young Florida panther kittens in a den with bright blue eyes" caption="Florida panther kittens in a den. Photo by David Shindle." link="https://flic.kr/p/GaVyow" >}}
 

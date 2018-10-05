@@ -22,7 +22,7 @@ aliases:
     - /wildlife/plant/spreading-avens
     - /species/plant/spreading-avens
     - /species/plants/spreading-avens
-updated: 'August 30th, 2018'
+updated: 'October 5th, 2018'
 ---
 
 - **Taxon:** Plant
@@ -33,7 +33,7 @@ Spreading avens, sometimes called Appalachian avens or cliff avens, is a rare pe
 
 {{< scroller-list tag="Spreading Avens" section="news" >}}
 {{< scroller-list tag="Spreading Avens" section="articles" >}}
-{{< scroller-list tag="Spreading Avens" section="podcasts" >}}
+{{< scroller-list tag="Spreading Avens" section="faq" >}}
 
 ## Appearance
 

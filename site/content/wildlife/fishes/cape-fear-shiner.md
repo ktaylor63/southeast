@@ -18,7 +18,7 @@ tags:
     - Fish
     - 'North Carolina'
     - Recovery
-updated: 'August 23rd, 2018'
+updated: 'October 5th, 2018'
 ---
 
 - **Taxon:** Freshwater fish
@@ -30,6 +30,7 @@ The Cape Fear shiner is a North American species of freshwater fish in the minno
 {{< scroller-list tag="Cape Fear Shiner" section="news" >}}
 {{< scroller-list tag="Cape Fear Shiner" section="articles" >}}
 {{< scroller-list tag="Cape Fear Shiner" section="podcasts" >}}
+{{< scroller-list tag="Cape Fear Shiner" section="faq" >}}
 
 ## Appearance
 

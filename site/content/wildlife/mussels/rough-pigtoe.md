@@ -19,7 +19,7 @@ hero:
     name: rough-pigtoe.jpg
     alt: 'A close up photo of a yellow mussel shell'
     caption: 'Adult rough pigtoe in the Green River in Kentucky. Photo by Monte McGregor, Center Mollusk Conservation, Kentucky DFWR.'
-updated: 'September 19th, 2018'
+updated: 'October 5th, 2018'
 ---
 - **Taxon:** Bivalve
 - **Range:**  [Alabama](/alabama), [Indiana](/tags/indiana), [Kentucky](/kentucky) and [Virginia](/tags/virginia)
@@ -28,6 +28,7 @@ updated: 'September 19th, 2018'
 {{< scroller-list tag="Rough Pigtoe" section="news" >}}
 {{< scroller-list tag="Rough Pigtoe" section="articles" >}}
 {{< scroller-list tag="Rough Pigtoe" section="podcasts" >}}
+{{< scroller-list tag="Rough Pigtoe" section="faq" >}}
 
 ## Appearance
 

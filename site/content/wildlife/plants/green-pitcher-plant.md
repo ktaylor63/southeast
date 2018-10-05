@@ -22,7 +22,7 @@ tags:
     - 'North Carolina'
     - Plant
     - Recovery
-updated: 'August 27th, 2018'
+updated: 'October 5th, 2018'
 ---
 
 - **Taxon:** [Plant](/wildlife/plants)
@@ -32,6 +32,7 @@ updated: 'August 27th, 2018'
 {{< scroller-list tag="Green Pitcher Plant" section="news" >}}
 {{< scroller-list tag="Green Pitcher Plant" section="articles" >}}
 {{< scroller-list tag="Green Pitcher Plant" section="podcasts" >}}
+{{< scroller-list tag="Green Pitcher Plant" section="faq" >}}
 
 ## Appearance
 

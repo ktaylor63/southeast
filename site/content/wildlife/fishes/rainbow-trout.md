@@ -22,7 +22,7 @@ hero:
     caption: 'Beautiful rainbow trout. <a href="https://flic.kr/p/8QET9A">Photo</a> by <a href="https://www.flickr.com/photos/palmit/">Cale Bruckner</a>, <a href="https://creativecommons.org/licenses/by-nc/2.0/">CC BY-NC 2.0</a>.'
     link: 'https://flic.kr/p/8QET9A'
     position: '75% 40%'
-updated: 'September 19th, 2018'
+updated: 'October 5th, 2018'
 ---
 
 - **Taxon:** Freshwater fish
@@ -36,6 +36,7 @@ However, reduction of good quality trout habitat due to streambank and upland so
 {{< scroller-list tag="Rainbow Trout" section="news" >}}
 {{< scroller-list tag="Rainbow Trout" section="articles" >}}
 {{< scroller-list tag="Rainbow Trout" section="podcasts" >}}
+{{< scroller-list tag="Rainbow Trout" section="faq" >}}
 
 ## Appearance
 

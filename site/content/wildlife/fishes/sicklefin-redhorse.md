@@ -22,7 +22,7 @@ tags:
     - 'North Carolina'
     - 'Sicklefin Redhorse'
     - 'Warm Springs National Fish Hatchery'
-updated: 'September 19th, 2018'
+updated: 'October 5th, 2018'
 ---
 
 - Taxa: Fish
@@ -33,6 +33,7 @@ updated: 'September 19th, 2018'
 {{< scroller-list tag="Sicklefin Redhorse" section="news" >}}
 {{< scroller-list tag="Sicklefin Redhorse" section="articles" >}}
 {{< scroller-list tag="Sicklefin Redhorse" section="podcasts" >}}
+{{< scroller-list tag="Sicklefin Redhorse" section="faq" >}}
 
 ## Appearance
 

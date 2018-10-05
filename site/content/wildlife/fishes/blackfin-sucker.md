@@ -18,7 +18,7 @@ hero:
     alt: 'A small fish with dark stripes on a yellow tinged back and white belly.'
     caption: 'Blackfin sucker. Photo by Matthew Thomas, KDFWR.'
     position: 'center left'
-updated: 'September 19th, 2018'
+updated: 'October 5th, 2018'
 ---
 
 - **Taxon:** Freshwater fish
@@ -28,6 +28,7 @@ updated: 'September 19th, 2018'
 {{< scroller-list tag="Blackfin Sucker" section="news" >}}
 {{< scroller-list tag="Blackfin Sucker" section="articles" >}}
 {{< scroller-list tag="Blackfin Sucker" section="podcasts" >}}
+{{< scroller-list tag="Blackfin Sucker" section="faq" >}}
 
 ## Appearance and life history
 

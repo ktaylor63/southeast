@@ -27,7 +27,7 @@ aliases:
     - /wildlife/plant/small-anthered-bittercress
     - /species/plant/small-anthered-bittercress
     - /species/plants/small-anthered-bittercress
-updated: 'September 19th, 2018'
+updated: 'October 5th, 2018'
 ---
 
 - **Taxon:** Plant
@@ -39,6 +39,7 @@ The Virginia spiraea is found in the Appalachian Plateaus or the southern Blue R
 {{< scroller-list tag="Virginia Spiraea" section="news" >}}
 {{< scroller-list tag="Virginia Spiraea" section="articles" >}}
 {{< scroller-list tag="Virginia Spiraea" section="podcasts" >}}
+{{< scroller-list tag="Virginia Spiraea" section="faq" >}}
 
 ## Appearance
 

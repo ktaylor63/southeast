@@ -20,7 +20,7 @@ aliases:
     - /wildlife/plant/white-irisette
     - /species/plant/white-irisette
     - /species/plants/white-irisette
-updated: 'August 27th, 2018'
+updated: 'October 5th, 2018'
 ---
 
 - **Taxon:** Plant
@@ -30,6 +30,7 @@ updated: 'August 27th, 2018'
 {{< scroller-list tag="White Irisette" section="news" >}}
 {{< scroller-list tag="White Irisette" section="articles" >}}
 {{< scroller-list tag="White Irisette" section="podcasts" >}}
+{{< scroller-list tag="White Irisette" section="faq" >}}
 
 ## Appearance
 

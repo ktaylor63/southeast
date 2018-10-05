@@ -18,7 +18,7 @@ hero:
     caption: 'Photo by J.R. Shute, Conservation Fisheries, Inc.'
     alt: 'A small, brightly colored orange and blue fish in an aquarium.'
     position: 'left center'
-updated: 'September 19th, 2018'
+updated: 'October 5th, 2018'
 ---
 
 - **Taxon: Fish**
@@ -29,6 +29,7 @@ updated: 'September 19th, 2018'
 {{< scroller-list tag="Kentucky Arrow Darter" section="news" >}}
 {{< scroller-list tag="Kentucky Arrow Darter" section="articles" >}}
 {{< scroller-list tag="Kentucky Arrow Darter" section="podcasts" >}}
+{{< scroller-list tag="Kentucky Arrow Darter" section="faq" >}}
 
 ## Appearance
 

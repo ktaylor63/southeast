@@ -19,7 +19,7 @@ hero:
     name: yellow-lance.jpg
     alt: 'A group of about a dozen small triangular shellfish in shallow water.'
     caption: 'Yellow lance in the Tar River in North Carolina.  Photo by Sarah McRae, USFWS.'
-updated: 'September 28th, 2018'
+updated: 'October 5th, 2018'
 ---
 
 - **Taxon:** Freshwater mussel. Bivalve, Unionidae
@@ -31,6 +31,7 @@ updated: 'September 28th, 2018'
 {{< scroller-list tag="Yellow Lance" section="news" >}}
 {{< scroller-list tag="Yellow Lance" section="articles" >}}
 {{< scroller-list tag="Yellow Lance" section="podcasts" >}}
+{{< scroller-list tag="Yellow Lance" section="faq" >}}
 
 ## Appearance
 

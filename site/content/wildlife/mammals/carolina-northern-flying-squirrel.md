@@ -22,7 +22,7 @@ hero:
     alt: 'A biologist holding a small squirrel with yellow gloves'
     caption: 'A Carolina northern flying squirrel in the hands of a biologist. Photo by Sue Cameron, USFWS.'
     position: '50% 30%'
-updated: 'September 19th, 2018'
+updated: 'October 5th, 2018'
 ---
 
 - **Taxa:** Mammal
@@ -34,6 +34,7 @@ The Carolina northern flying squirrel can trace its roots back to the last ice a
 {{< scroller-list tag="Carolina Northern Flying Squirrel" section="news" >}}
 {{< scroller-list tag="Carolina Northern Flying Squirrel" section="articles" >}}
 {{< scroller-list tag="Carolina Northern Flying Squirrel" section="podcasts" >}}
+{{< scroller-list tag="Carolina Northern Flying Squirrel" section="faq" >}}
 
 ## Appearance
 

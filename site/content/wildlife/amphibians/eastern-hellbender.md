@@ -26,7 +26,7 @@ hero:
     caption: 'Eastern hellbender. <a href="https://flic.kr/p/EjNh96">Photo</a> by Will Parson, Chesapeake Bay Program, <a href="https://creativecommons.org/licenses/by-nc/2.0/">CC BY-NC 2.0</a>.'
     link: 'https://flic.kr/p/EjNh96'
     position: '40% 50%'
-updated: 'September 19th, 2018'
+updated: 'October 5th, 2018'
 ---
 
 - **Taxon:** Amphibian
@@ -38,6 +38,7 @@ Referred to by locals  as “mud devil”, “devil dog”, “ground puppy”, 
 {{< scroller-list tag="Eastern Hellbender" section="news" >}}
 {{< scroller-list tag="Eastern Hellbender" section="articles" >}}
 {{< scroller-list tag="Eastern Hellbender" section="podcasts" >}}
+{{< scroller-list tag="Eastern Hellbender" section="faq" >}}
 
 ## Appearance
 

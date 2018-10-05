@@ -18,7 +18,7 @@ hero:
     name: monito-gecko.jpg
     alt: 'A small, sand-colored reptile between the cracks of a rock'
     caption: 'Monito gecko. Photo by Jan Paul Zegarra, USFWS.'
-updated: 'September 27th, 2018'
+updated: 'October 5th, 2018'
 ---
 
 - **Taxon:** Reptile
@@ -28,6 +28,7 @@ updated: 'September 27th, 2018'
 {{< scroller-list tag="Monito Gecko" section="news" >}}
 {{< scroller-list tag="Monito Gecko" section="articles" >}}
 {{< scroller-list tag="Monito Gecko" section="podcasts" >}}
+{{< scroller-list tag="Monito Gecko" section="faq" >}}
 
 ## Appearance
 

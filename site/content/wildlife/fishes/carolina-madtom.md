@@ -19,7 +19,7 @@ hero:
     caption: 'Carolina madtom. Photo by D Biggins, former USFWS.'
     link: 'https://flic.kr/p/Tk6D1L'
     position: 'center left'
-updated: 'September 19th, 2018'
+updated: 'October 5th, 2018'
 ---
 
 - **Taxon:** Freshwater Fish
@@ -29,6 +29,7 @@ updated: 'September 19th, 2018'
 {{< scroller-list tag="Carolina Madtom" section="news" >}}
 {{< scroller-list tag="Carolina Madtom" section="articles" >}}
 {{< scroller-list tag="Carolina Madtom" section="podcasts" >}}
+{{< scroller-list tag="Carolina Madtom" section="faq" >}}
 
 ## Appearance
 

@@ -23,7 +23,7 @@ tags:
     - Tennessee
     - 'Tennessee Ecological Services Field Office'
     - Virginia
-updated: 'September 19th, 2018'
+updated: 'October 5th, 2018'
 ---
 
 - **Taxon:** Bivalve
@@ -33,6 +33,7 @@ updated: 'September 19th, 2018'
 {{< scroller-list tag="Littlewing Pearlymussel" section="news" >}}
 {{< scroller-list tag="Littlewing Pearlymussel" section="articles" >}}
 {{< scroller-list tag="Littlewing Pearlymussel" section="podcasts" >}}
+{{< scroller-list tag="Littlewing Pearlymussel" section="faq" >}}
 
 ## Appearance
 

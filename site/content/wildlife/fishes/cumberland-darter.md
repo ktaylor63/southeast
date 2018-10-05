@@ -19,7 +19,7 @@ hero:
     alt: 'A small, straw-yellow colored fish with brown markings'
     caption: 'Photo by Jeremy Shute, Conservation Fisheries, Inc.'
     position: 'left bottom'
-updated: 'September 19th, 2018'
+updated: 'October 5th, 2018'
 ---
 
 - **Taxon:** Fish
@@ -29,6 +29,7 @@ updated: 'September 19th, 2018'
 {{< scroller-list tag="Cumberland Darter" section="news" >}}
 {{< scroller-list tag="Cumberland Darter" section="articles" >}}
 {{< scroller-list tag="Cumberland Darter" section="podcasts" >}}
+{{< scroller-list tag="Cumberland Darter" section="faq" >}}
 
 ## Appearance
 

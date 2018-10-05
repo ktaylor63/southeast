@@ -26,7 +26,7 @@ hero:
     link: 'https://flic.kr/p/ugxqqh'
     caption: 'A young bog turtle in an Appalachian bog. Photo by Gary Peeples, USFWS.'
     position: 'left center'
-updated: 'August 24th, 2018'
+updated: 'October 5th, 2018'
 ---
 
 - **Taxon:** Reptile
@@ -36,6 +36,7 @@ updated: 'August 24th, 2018'
 {{< scroller-list tag="Bog Turtle" section="news" >}}
 {{< scroller-list tag="Bog Turtle" section="articles" >}}
 {{< scroller-list tag="Bog Turtle" section="podcasts" >}}
+{{< scroller-list tag="Bog Turtle" section="faq" >}}
 
 ## Appearance
 

@@ -30,7 +30,7 @@ tags:
     - Tennessee
     - Texas
     - 'Warm Springs National Fish Hatchery'
-updated: 'September 19th, 2018'
+updated: 'October 5th, 2018'
 ---
 
 - **Taxon:** Fish
@@ -50,6 +50,7 @@ Recent surveys suggest populations are far below historic levels and could be de
 {{< scroller-list tag="Alligator Gar" section="news" >}}
 {{< scroller-list tag="Alligator Gar" section="articles" >}}
 {{< scroller-list tag="Alligator Gar" section="podcasts" >}}
+{{< scroller-list tag="Alligator Gar" section="faq" >}}
 
 ## Appearance
 

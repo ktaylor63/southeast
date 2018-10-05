@@ -24,7 +24,7 @@ aliases:
     - /wildlife/plant/spruce-fir-moss-spider
     - /species/plant/spruce-fir-moss-spider
     - /species/plants/spruce-fir-moss-spider
-updated: 'August 24th, 2018'
+updated: 'October 5th, 2018'
 ---
 
 - **Taxon:** Plant
@@ -34,6 +34,7 @@ updated: 'August 24th, 2018'
 {{< scroller-list tag="Spruce-Fir Moss Spider" section="news" >}}
 {{< scroller-list tag="Spruce-Fir Moss Spider" section="articles" >}}
 {{< scroller-list tag="Spruce-Fir Moss Spider" section="podcasts" >}}
+{{< scroller-list tag="Spruce-Fir Moss Spider" section="faq" >}}
 
 ## Appearance
 

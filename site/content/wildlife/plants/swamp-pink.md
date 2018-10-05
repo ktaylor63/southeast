@@ -26,7 +26,7 @@ tags:
     - 'South Carolina'
     - 'Swamp Pink'
     - Virginia
-updated: 'September 19th, 2018'
+updated: 'October 5th, 2018'
 ---
 
 - **Taxon:** Plant
@@ -38,7 +38,7 @@ encroaching development, sedimentation, pollution, succession, and wetland drain
 
 {{< scroller-list tag="Swamp Pink" section="news" >}}
 {{< scroller-list tag="Swamp Pink" section="articles" >}}
-{{< scroller-list tag="Swamp Pink" section="podcasts" >}}
+{{< scroller-list tag="Swamp Pink" section="faq" >}}
 
 ## Appearance
 

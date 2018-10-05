@@ -24,7 +24,7 @@ tags:
     - Recovery
     - Reinita
     - 'Reinita De Bosque Enano'
-updated: 'September 19th, 2018'
+updated: 'October 5th, 2018'
 ---
 
 - **Taxon**: Bird
@@ -38,6 +38,7 @@ The elfin-woods warbler is one of over 120 species of New World warblers, or woo
 {{< scroller-list tag="Elfin-Woods Warbler" section="news" >}}
 {{< scroller-list tag="Elfin-Woods Warbler" section="articles" >}}
 {{< scroller-list tag="Elfin-Woods Warbler" section="podcasts" >}}
+{{< scroller-list tag="Elfin-Woods Warbler" section="faq" >}}
 
 ## Appearance 
 

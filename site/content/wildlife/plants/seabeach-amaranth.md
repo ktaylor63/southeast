@@ -28,7 +28,7 @@ tags:
     - 'Seabeach Amaranth'
     - 'South Carolina'
     - Virginia
-updated: 'September 19th, 2018'
+updated: 'October 5th, 2018'
 ---
 
 - **Taxon:** [Plant](/wildlife/plants)
@@ -40,6 +40,7 @@ Seabeach amaranth is an annual plant found along Atlantic Coast barrier beaches.
 {{< scroller-list tag="Seabeach Amaranth" section="news" >}}
 {{< scroller-list tag="Seabeach Amaranth" section="articles" >}}
 {{< scroller-list tag="Seabeach Amaranth" section="podcasts" >}}
+{{< scroller-list tag="Seabeach Amaranth" section="faq" >}}
 
 ## Appearance
 

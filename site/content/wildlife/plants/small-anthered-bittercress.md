@@ -19,7 +19,7 @@ aliases:
     - /wildlife/plant/small-anthered-bittercress
     - /species/plant/small-anthered-bittercress
     - /species/plants/small-anthered-bittercress
-updated: 'August 23rd, 2018'
+updated: 'October 5th, 2018'
 ---
 
  - **Taxon:** Plant
@@ -29,6 +29,7 @@ updated: 'August 23rd, 2018'
 {{< scroller-list tag="Small-Anthered Bittercress" section="news" >}}
 {{< scroller-list tag="Small-Anthered Bittercress" section="articles" >}}
 {{< scroller-list tag="Small-Anthered Bittercress" section="podcasts" >}}
+{{< scroller-list tag="Small-Anthered Bittercress" section="faq" >}}
 
 ## Appearance
 

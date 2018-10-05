@@ -2,7 +2,7 @@
 title: 'Bunched arrowhead'
 type: species-profile
 scientific: 'Sagittaria fasciculata'
-description: "Bunched arrowhead is a small herbaceous plant growing 15-16 inches tall in saturated soils. The white flowers begin blooming in mid-May and continue through July. The fruits mature a few weeks after flowering."
+description: 'Bunched arrowhead is a small herbaceous plant growing 15-16 inches tall in saturated soils. The white flowers begin blooming in mid-May and continue through July. The fruits mature a few weeks after flowering.'
 js: /js/species-profile.js
 tags:
     - 'Asheville Ecological Services Field Office'
@@ -22,7 +22,7 @@ hero:
     link: 'https://flic.kr/p/rWP7zZ'
     caption: 'Bunched arrowhead. <a href="https://flic.kr/p/rWP7zZ">Photo</a> by Gary Peeples, USFWS.'
     position: 'top left'
-updated: 'September 18th, 2018'
+updated: 'October 5th, 2018'
 ---
 
 **Taxon:** Plant  
@@ -32,6 +32,7 @@ updated: 'September 18th, 2018'
 {{< scroller-list tag="Bunched Arrowhead" section="news" >}}
 {{< scroller-list tag="Bunched Arrowhead" section="articles" >}}
 {{< scroller-list tag="Bunched Arrowhead" section="podcasts" >}}
+{{< scroller-list tag="Bunched Arrowhead" section="faq" >}}
 
 ## Appearance
 

@@ -18,7 +18,7 @@ hero:
     name: ring-pink.jpg
     alt: 'A photograph of the outside and inside of a ring pink shell next to a ruler for scale.  Shell is approximately 3 inches wide.'
     caption: 'Ring pink. Photo by Leroy Koch, USFWS.'
-updated: 'September 19th, 2018'
+updated: 'October 5th, 2018'
 ---
 
 - **Taxon:** Bivalve
@@ -27,7 +27,7 @@ updated: 'September 19th, 2018'
 
 {{< scroller-list tag="Ring Pink" section="news" >}}
 {{< scroller-list tag="Ring Pink" section="articles" >}}
-{{< scroller-list tag="Ring Pink" section="podcasts" >}}
+{{< scroller-list tag="Ring Pink" section="faq" >}}
 
 ## Appearance
 

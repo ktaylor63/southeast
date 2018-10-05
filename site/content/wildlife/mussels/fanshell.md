@@ -23,7 +23,7 @@ hero:
     name: fanshell-mussel.jpg
     alt: 'Three brownish yellow mussels the smallest of which has a small white protrusion which the mussel uses to attach to a rock.'
     caption: 'Photo by Monte McGregor, Center Mollusk Conservation, Kentucky DFWR.'
-updated: 'September 19th, 2018'
+updated: 'October 5th, 2018'
 ---
 
 - **Taxon**: Bivalve
@@ -33,6 +33,7 @@ updated: 'September 19th, 2018'
 {{< scroller-list tag="Fanshell" section="news" >}}
 {{< scroller-list tag="Fanshell" section="articles" >}}
 {{< scroller-list tag="Fanshell" section="podcasts" >}}
+{{< scroller-list tag="Fanshell" section="faq" >}}
 
 ## Appearance
 

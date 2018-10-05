@@ -27,7 +27,7 @@ tags:
     - 'Private John Allen National Fish Hatchery'
     - Tennessee
     - 'Warm Springs National Fish Hatchery'
-updated: 'August 23rd, 2018'
+updated: 'October 5th, 2018'
 ---
 
 - **Taxon:** Freshwater Fish
@@ -43,6 +43,7 @@ Lake sturgeon are slow-moving fish but will migrate up rivers during spawning se
 {{< scroller-list tag="Lake Sturgeon" section="news" >}}
 {{< scroller-list tag="Lake Sturgeon" section="articles" >}}
 {{< scroller-list tag="Lake Sturgeon" section="podcasts" >}}
+{{< scroller-list tag="Lake Sturgeon" section="faq" >}}
 
 ## Appearance
 

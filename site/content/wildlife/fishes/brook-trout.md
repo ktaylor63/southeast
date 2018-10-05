@@ -38,7 +38,7 @@ hero:
     name: eastern-brook-trout.jpg
     alt: 'A colorful green/brown and red trout covered in small red spots.'
     caption: 'A wildlife biologist holds a small eastern brook trout. Photo by Steve Droter, Chesapeake Bay Program.'
-updated: 'September 27th, 2018'
+updated: 'October 5th, 2018'
 ---
 
 - **Taxon:** Freshwater fish
@@ -50,6 +50,7 @@ The brook trout is a fish native to the eastern United States, and is often refe
 {{< scroller-list tag="Brook Trout" section="news" >}}
 {{< scroller-list tag="Brook Trout" section="articles" >}}
 {{< scroller-list tag="Brook Trout" section="podcasts" >}}
+{{< scroller-list tag="Brook Trout" section="faq" >}}
 
 ## Appearance
 

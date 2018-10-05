@@ -10,7 +10,6 @@ hero:
     position: 'bottom center'
 tags:
     - 'Asheville Ecological Services Field Office'
-    - 'South Carolina Ecological Services Field Office'
     - 'Carnivorous Plant'
     - 'Endangered Species Act'
     - 'Mountain Bogs'
@@ -19,13 +18,14 @@ tags:
     - Plant
     - Recovery
     - 'South Carolina'
+    - 'South Carolina Ecological Services Field Office'
 type: species-profile
 js: /js/species-profile.js
 aliases:
     - /wildlife/fish/mountain-sweet-pitcher-plant
     - /species/fish/mountain-sweet-pitcher-plant
     - /species/fishes/mountain-sweet-pitcher-plant
-updated: 'August 31st, 2018'
+updated: 'October 5th, 2018'
 ---
 
 - **Taxon:** Plant
@@ -37,6 +37,7 @@ The mountain sweet pitcher plant is an insectivorious species is native to bogs 
 {{< scroller-list tag="Mountain Sweet Pitcher Plant" section="news" >}}
 {{< scroller-list tag="Mountain Sweet Pitcher Plant" section="articles" >}}
 {{< scroller-list tag="Mountain Sweet Pitcher Plant" section="podcasts" >}}
+{{< scroller-list tag="Mountain Sweet Pitcher Plant" section="faq" >}}
 
 ## Appearance
 

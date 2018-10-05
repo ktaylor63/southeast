@@ -23,7 +23,7 @@ hero:
     caption: 'Louisiana black bear. Credit: Pam McIlhenny, used with permission.'
     position: '35% 30%'
 description: 'The Louisiana black bear is the state mammal for Louisiana, and it is one of 16 subspecies of the American black bear. While the American black bear can be found across North America, the Louisiana black bear subspecies is only known to occur in Louisiana, East Texas and western Mississippi.  Compared to other black bears, the Louisiana black bears skull is longer, narrower and flatter, with larger molar teeth.'
-updated: 'September 19th, 2018'
+updated: 'October 5th, 2018'
 ---
 
 * **Taxa:** [Mammal](/tags/mammal)
@@ -41,6 +41,7 @@ Currently we estimate that between 500 and 750 Louisiana black bears roam the Un
 {{< scroller-list tag="Louisiana Black Bear" section="news" >}}
 {{< scroller-list tag="Louisiana Black Bear" section="articles" >}}
 {{< scroller-list tag="Louisiana Black Bear" section="podcasts" >}}
+{{< scroller-list tag="Louisiana Black Bear" section="faq" >}}
 
 ## Appearance
 

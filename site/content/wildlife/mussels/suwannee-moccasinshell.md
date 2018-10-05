@@ -20,7 +20,7 @@ hero:
     alt: 'Two dark gray mussels with striations on a red towel next to a ruler for scale.'
     caption: 'Suwannee moccasinshells. Photo by USFWS.'
     position: bottom
-updated: 'September 19th, 2018'
+updated: 'October 5th, 2018'
 ---
 
 - **Taxon:** Bivalve, Unionidae
@@ -30,6 +30,7 @@ updated: 'September 19th, 2018'
 {{< scroller-list tag="Suwannee Moccasinshell" section="news" >}}
 {{< scroller-list tag="Suwannee Moccasinshell" section="articles" >}}
 {{< scroller-list tag="Suwannee Moccasinshell" section="podcasts" >}}
+{{< scroller-list tag="Suwannee Moccasinshell" section="faq" >}}
 
 ## Appearance
 

@@ -18,7 +18,7 @@ hero:
     alt: 'A lobster-shaped and colored crayfish with tinges of rust and blue.'
     link: 'https://flic.kr/p/qXGti8'
     caption: 'Big Sandy crayfish. Photo by Zachary Loughman, West Liberty University.'
-updated: 'September 19th, 2018'
+updated: 'October 5th, 2018'
 ---
 
 - **Taxa: Crustacea**
@@ -30,6 +30,7 @@ The Big Sandy crayfish (*Cambarus callianus*) is a freshwater crustacean found i
 {{< scroller-list tag="Big Sandy Crayfish" section="news" >}}
 {{< scroller-list tag="Big Sandy Crayfish" section="articles" >}}
 {{< scroller-list tag="Big Sandy Crayfish" section="podcasts" >}}
+{{< scroller-list tag="Big Sandy Crayfish" section="faq" >}}
 
 ## Appearance
 

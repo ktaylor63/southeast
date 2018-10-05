@@ -18,7 +18,7 @@ tags:
     - Mollusk
     - Mussel
     - 'North Carolina'
-updated: 'August 23rd, 2018'
+updated: 'October 5th, 2018'
 ---
 
 This freshwater mussel can only be found in North Carolina rivers and streams. It is now limited to a very small portion of its probable historical range and it could become extinct without significant intervention. Biologists from multiple organizations are working together to recover the species and conserve its habitat.
@@ -30,6 +30,7 @@ This freshwater mussel can only be found in North Carolina rivers and streams. I
 {{< scroller-list tag="Tar River Spinymussel" section="news" >}}
 {{< scroller-list tag="Tar River Spinymussel" section="articles" >}}
 {{< scroller-list tag="Tar River Spinymussel" section="podcasts" >}}
+{{< scroller-list tag="Tar River Spinymussel" section="faq" >}}
 
 ## Appearance
 

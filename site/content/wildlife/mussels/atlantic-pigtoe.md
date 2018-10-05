@@ -19,7 +19,7 @@ hero:
     name: atlantic-pigtoe-ready-for-release.jpg
     alt: 'Seven small brownish-yellow mussels held in open hands by a biologist.'
     caption: 'Atlantic pigtoes ready for release. Photo by USFWS.'
-updated: 'September 19th, 2018'
+updated: 'October 5th, 2018'
 ---
 
 - **Taxon:** Freshwater mussel
@@ -29,6 +29,7 @@ updated: 'September 19th, 2018'
 {{< scroller-list tag="Atlantic Pigtoe" section="news" >}}
 {{< scroller-list tag="Atlantic Pigtoe" section="articles" >}}
 {{< scroller-list tag="Atlantic Pigtoe" section="podcasts" >}}
+{{< scroller-list tag="Atlantic Pigtoe" section="faq" >}}
 
 ## Appearance
 

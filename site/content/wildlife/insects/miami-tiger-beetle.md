@@ -20,7 +20,7 @@ hero:
     alt: 'An iridescent insect with many small hairs on its belly standing on leaf litter and sandy soil'
     caption: 'Miami tiger beetle. Photo by Jonathan Mays, Florida Fish and Wildlife Conservation Commission.'
 description: 'The Miami tiger beetle, found exclusively in pine rockland habitat in Miami-Dade County, Florida, has a shiny green exterior and protected under the Endangered Species Act as endangered.'
-updated: 'August 23rd, 2018'
+updated: 'October 5th, 2018'
 ---
 
 - **Taxa**: Arthropod (Ground Beetle)
@@ -30,6 +30,7 @@ updated: 'August 23rd, 2018'
 {{< scroller-list tag="Miami Tiger Beetle" section="news" >}}
 {{< scroller-list tag="Miami Tiger Beetle" section="articles" >}}
 {{< scroller-list tag="Miami Tiger Beetle" section="podcasts" >}}
+{{< scroller-list tag="Miami Tiger Beetle" section="faq" >}}
 
 ## Appearance
 

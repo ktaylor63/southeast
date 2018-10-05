@@ -26,7 +26,7 @@ hero:
     link: 'https://flic.kr/p/JioDEh'
     caption: 'American chaffseed © Robert Sincliar. Copyright release form S://EA/Photo Permissions/american-chaffseed.pdf'
     position: 'bottom center'
-updated: 'September 19th, 2018'
+updated: 'October 5th, 2018'
 ---
 
 **Taxon:** Plant  
@@ -48,6 +48,7 @@ http://www.southatlanticlcc.org/indicators-roadmap/
 {{< scroller-list tag="American Chaffseed" section="news" >}}
 {{< scroller-list tag="American Chaffseed" section="articles" >}}
 {{< scroller-list tag="American Chaffseed" section="podcasts" >}}
+{{< scroller-list tag="American Chaffseed" section="faq" >}}
 
 ## Appearance
 

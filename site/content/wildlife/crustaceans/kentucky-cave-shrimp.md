@@ -18,7 +18,7 @@ hero:
     alt: 'A translucent shrimp walking along a rocky surface under water'
     caption: 'A Kentucky cave shrimp. Photo by John MacGregor, Kentucky Department of Fish and Wildlife Resources.'
     position: 'center bottom'
-updated: 'September 19th, 2018'
+updated: 'October 5th, 2018'
 ---
 
 - **Taxa: Crustacea**
@@ -28,6 +28,7 @@ updated: 'September 19th, 2018'
 {{< scroller-list tag="Kentucky Cave Shrimp" section="news" >}}
 {{< scroller-list tag="Kentucky Cave Shrimp" section="articles" >}}
 {{< scroller-list tag="Kentucky Cave Shrimp" section="podcasts" >}}
+{{< scroller-list tag="Kentucky Cave Shrimp" section="faq" >}}
 
 ## Appearance
 
