@@ -68,7 +68,7 @@ Based on projections from population models, the Service is able to assess the t
 
 ## How did the Service arrive at this finding?
 
-The Service conducted a thorough review of the subspecies via a **Species Status Assessment** (SSA). The SSA, produced with input from many partners and which underwent independent peer and partner review, confirmed that the eastern black rail is in decline and will continue to decline unless the Service and its partners collaborate to conserve the subspecies and work to restore populations.  This report provides a biological risk assessment using the best available information on threats to the subspecies and evaluates its current condition.  It also forecasts the eastern black rail’s future status under varying scenarios and will form the foundational basis for the subspecies’ recovery plan, should it become listed.  
+The Service conducted a thorough review of the subspecies via a [Species Status Assessment](https://ecos.fws.gov/ServCat/DownloadFile/154242) (SSA). The SSA, produced with input from many partners and which underwent independent peer and partner review, confirmed that the eastern black rail is in decline and will continue to decline unless the Service and its partners collaborate to conserve the subspecies and work to restore populations.  This report provides a biological risk assessment using the best available information on threats to the subspecies and evaluates its current condition.  It also forecasts the eastern black rail’s future status under varying scenarios and will form the foundational basis for the subspecies’ recovery plan, should it become listed.  
 
 ## Where does the eastern black rail live?
 

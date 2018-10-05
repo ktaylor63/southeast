@@ -174,7 +174,7 @@ While human disturbance may be a conservation challenge, citizen science detecti
 
 ## Recovery plan
 
-A recovery plan for the eastern black rail, informed by the **Species Status Assessment (link to SSA)** and implemented via a Recovery Implementation Strategy, will be developed.  The foundation supporting the recovery plan is the SSA.  It includes an analysis of the species’ historic and current conditions, and also includes further analyses such as future projections of population trends under varying threat conditions, and potential management regimes.  The SSA’s format is structured around the conservation biology principles of the 3Rs: resiliency, representation and redundancy.
+A recovery plan for the eastern black rail, informed by the [Species Status Assessment](https://ecos.fws.gov/ServCat/DownloadFile/154242) and implemented via a Recovery Implementation Strategy, will be developed.  The foundation supporting the recovery plan is the SSA.  It includes an analysis of the species’ historic and current conditions, and also includes further analyses such as future projections of population trends under varying threat conditions, and potential management regimes.  The SSA’s format is structured around the conservation biology principles of the 3Rs: resiliency, representation and redundancy.
 
 ## Partnerships, research and projects
 
