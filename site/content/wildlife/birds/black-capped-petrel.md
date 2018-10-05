@@ -32,6 +32,8 @@ updated: 'October 5th, 2018'
 
 The black-capped petrel is a seabird found in North America and the Caribbean, and is known by several common names: “black-capped petrel,” “capped petrel,” and “West Indian petrel” in North America and on English-speaking islands.  In the Greater and Lesser Antilles, the bird is known as “diablotín” (little devil).  In Cuba, the bird also is referred to as “bruja” (witch).
 
+Download the peer-reviewed [species status assessment](https://ecos.fws.gov/ServCat/DownloadFile/156285).
+
 {{< scroller-list tag="Black-Capped Petrel" section="news" >}}
 {{< scroller-list tag="Black-Capped Petrel" section="articles" >}}
 {{< scroller-list tag="Black-Capped Petrel" section="podcasts" >}}
