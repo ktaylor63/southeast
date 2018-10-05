@@ -469,7 +469,7 @@ number,status,fed_register
 26554C-0,Issued,N/A
 102292-12,Issued,N/A
 069280-5,Issued,Noticed for 30 days
-125521-3,Needs Drafting,Noticed for 30 days
+125521-3,Permit drafted,Noticed for 30 days
 27450C-0,Issued,N/A
 28831C-0,Issued,N/A
 28975C-0,Issued,Noticed for 30 days
@@ -665,7 +665,7 @@ number,status,fed_register
 16616C-1,Issued,N/A
 77197C-1,Issued,N/A
 99171C-0,In RO for Review,N/A
-12392A-2,Awaiting Input from Applicant,N/A
+12392A-2,In FO for Review,N/A
 99240C-0,Issued,N/A
 00624D-0,Issued,N/A
 00660D-0,Issued,N/A
