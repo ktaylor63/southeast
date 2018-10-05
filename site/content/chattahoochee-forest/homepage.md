@@ -14,7 +14,7 @@ hero:
 tags:
     - 'Endangered Species Act'
     - Georgia
-updated: 'September 18th, 2018'
+updated: 'October 4th, 2018'
 ---
 
 Chattahoochee Forest National Fish Hatchery is nestled deep in the heart of the North Georgia mountains, approximately 75 miles north of Atlanta. Surrounded by the 749,444 acre [Chattahoochee National Forest](https://www.fs.usda.gov/conf), the hatchery occupies a 44.8 acre tract of land straddling Mill Creek and Rock Creek, which are tributaries of the Toccoa River.
@@ -44,15 +44,17 @@ Chattahoochee Forest National Fish Hatchery services trout streams throughout no
 
 ## Public use opportunities
 
-The hatchery provides environmental education and public outreach opportunities to visitors, school groups, and various other organizations. The environmental education program is designed to promote a conservation ethic and to develop interest in recreational fishing opportunities.
+{{< figure class="photo-right" src="/images/pages/chattahoochee-forest-nfh-fishing-rodeos-2019.jpg" link="/pdf/flier/chattahoochee-forest-nfh-fishing-rodeos-2019.jpg" alt="A flier of upcoming fishing events; see the events page for more details" caption="2019 fishing rodeos. Click to enlarge." >}}
 
-{{< figure class="photo-center" src="/images/pages/chattahoochee-forest-nhc-generations-fishing-at-rock-creek.jpg" alt="Three generations of men from a family fishing in a creek with lush vegetation." caption="Three generations enjoy trout fishing together on Rock Creek which runs through the hatchery grounds. Photo by Crystal Thomas, USFWS." >}}
+The hatchery provides environmental education and public outreach opportunities to visitors, school groups, and various other organizations. The environmental education program is designed to promote a conservation ethic and to develop interest in recreational fishing opportunities.
 
 The beautiful surroundings and natural environment draw a lot of visitors to the hatchery. A visitor kiosk and an opportunity to view the fish in various stages of production prove to be a great attraction. Rock Creek, which runs through hatchery property, offers a great trout fishing. U.S. Forest Service campgrounds are located both North and South of the hatchery.
 
 ## Hours of operation
 
 The hatchery is open 8 a.m to 3 p.m, Monday through Friday and is free to the public. The hatchery is closed to visitors on federal holidays.
+
+{{< figure class="photo-center" src="/images/pages/chattahoochee-forest-nhc-generations-fishing-at-rock-creek.jpg" alt="Three generations of men from a family fishing in a creek with lush vegetation." caption="Three generations enjoy trout fishing together on Rock Creek which runs through the hatchery grounds. Photo by Crystal Thomas, USFWS." >}}
 
 ## Friends of Chattahoochee Forest NFH
 
