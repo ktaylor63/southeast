@@ -4,7 +4,7 @@ date: 2012-06-20T00:00:00.000Z
 hero:
     name: black-capped-petrel.jpg
     alt: 'A small, black and white bird flies over ocean waters.'
-    caption: 'Black-capped petrel off the coast of Cape Hatteras, NC. Photo © Brian Patteson, used with permission.'
+    caption: 'Black-capped petrel off the coast of Cape Hatteras, NC. Photo © Brian Patteson, <a href="http://seabirding.com">seabirding.com</a>, used with permission.'
     position: '65% 68%'
 tags:
     - '90-Day Finding'

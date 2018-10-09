@@ -4,7 +4,7 @@ title: 'Proposed listing of the black-capped petrel as threatened'
 hero:
     name: black-capped-petrel.jpg
     alt: 'A small, black and white bird flies over ocean waters.'
-    caption: 'Black-capped petrel off the coast of Cape Hatteras, NC. Photo © Brian Patteson, used with permission.'
+    caption: 'Black-capped petrel off the coast of Cape Hatteras, NC. Photo © Brian Patteson, <a href="http://seabirding.com">seabirding.com</a> used with permission.'
     position: '65% 68%'
 tags:
     - 'Black-Capped Petrel'
