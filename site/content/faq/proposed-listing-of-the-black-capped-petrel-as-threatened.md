@@ -28,7 +28,7 @@ The [black-capped petrel](/wildlife/birds/black-capped-petrel) is a seabird that
 
 ## How did the Service determine that the black-capped petrel is threatened?
 
-The Service created a [species status assessment](https://ecos.fws.gov/ServCat/DownloadFile/156285) (SSA) for the petrel. The SSA  compiled all the best and most current science and data about the petrel. The SSA was then peer reviewed. The scientific information in the SSA led the Service to the conclusion that the petrel is threatened. Historically, the species’ nesting range was more widespread across four Caribbean islands; the current nesting range is confined to a single island of Hispaniola. Deforestation affects the petrel’s nesting habitat and is one of the greatest threats to the species.
+The Service created a [species status assessment](https://ecos.fws.gov/ServCat/DownloadFile/156429) (SSA) for the petrel. The SSA  compiled all the best and most current science and data about the petrel. The SSA was then peer reviewed. The scientific information in the SSA led the Service to the conclusion that the petrel is threatened. Historically, the species’ nesting range was more widespread across four Caribbean islands; the current nesting range is confined to a single island of Hispaniola. Deforestation affects the petrel’s nesting habitat and is one of the greatest threats to the species.
 
 ## Why is the black-capped petrel’s status proposed as threatened instead of endangered?
 
