@@ -19,12 +19,12 @@ hero:
     name: atlantic-pigtoe-ready-for-release.jpg
     alt: 'Seven small brownish-yellow mussels held in open hands by a biologist.'
     caption: 'Atlantic pigtoes ready for release. Photo by USFWS.'
-updated: 'October 5th, 2018'
+updated: 'October 9th, 2018'
 ---
 
 - **Taxon:** Freshwater mussel
 - **Range:** James, Chowan, Roanoke, Tar, Neuse, Cape Fear, Pee Dee, Catawba, Edisto, Savannah, Ogeechee, and Altamaha River basins in [Virginia](/tags/virginia), [North Carolina](/north-carolina), [South Carolina](/south-carolina), and [Georgia](/georgia)
-- **Status:** At-Risk Species
+- **Status:** [Proposed for listing as threatened under the Endangered Species Act on October 11, 2018](/news/2018/10/fish-and-wildlife-service-proposes-threatened-status-for-declining-mussel/).
 
 {{< scroller-list tag="Atlantic Pigtoe" section="news" >}}
 {{< scroller-list tag="Atlantic Pigtoe" section="articles" >}}
