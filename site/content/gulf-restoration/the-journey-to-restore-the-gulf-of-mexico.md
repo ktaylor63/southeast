@@ -9,7 +9,7 @@ hero:
 tags:
     - 'Deepwater Horizon Oil Spill'
     - Gulf
-updated: 'September 25th, 2018'
+updated: 'October 10th, 2018'
 ---
 
 In 2010, the *Deepwater Horizon* oil rig exploded and caught fire, killing 11 people and releasing 3.19 million barrels (134 million gallons) of oil into the Gulf of Mexico. The oil spill lasted more than 87 days and caused widespread and severe injury to the Gulf’s natural resources and the services they provide. It was by far the largest offshore oil spill in the history of the United States.
@@ -24,8 +24,8 @@ Until just recently, unless you had fins or owned your own boat, there was only 
 
 Now you can get there easily by sea. Using settlement funds meant to compensate for the loss of recreational opportunities during the *Deepwater Horizon* oil spill and subsequent cleanup, the National Park Service has purchased two new 150-passenger double-decker catamaran ferryboats. Named Turtle Runner and Pelican Perch by local school children, the ferries have started shuttling visitors between downtown Pensacola, Pensacola Beach and the Fort Pickens Area of Gulf Islands National Seashore.
 
-
 <br>
 <div class="youtube-embed">
     <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fusfwssoutheast%2Fvideos%2F287959315145214%2F&show_text=0" style="position: absolute; width: 100%; height: 100%;" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+    <p>Video by Nicole Vidal, USFWS.</p>
 </div>
