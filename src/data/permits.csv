@@ -656,10 +656,10 @@ number,status,fed_register
 91587C-0,Issued,N/A
 97394A-3,In RO for Review,on current draft
 02200B-1,In RO for Review,on current draft
-171577-4,Awaiting signature,N/A
-35313B-3,In RO for Review,N/A
+171577-4,Issued,N/A
+35313B-3,In FO for Review,N/A
 35594A-3,In RO for Review,on current draft
-069754-6,In RO for Review,N/A
+069754-6,In FO for Review,N/A
 97786C-0,No permit needed,needs to be drafted
 98274C-0,In RO for Review,N/A
 16616C-1,Issued,N/A
@@ -696,7 +696,7 @@ number,status,fed_register
 09078D-0,In RO for Review,N/A
 09804D-0,In RO for Review,N/A
 09806D-0,In RO for Review,N/A
-206777-3,In RO for Review,N/A
+206777-2,In RO for Review,N/A
 11851D-0,In RO for Review,N/A
 11853D-0,In RO for Review,N/A
 11857D-0,In RO for Review,N/A
