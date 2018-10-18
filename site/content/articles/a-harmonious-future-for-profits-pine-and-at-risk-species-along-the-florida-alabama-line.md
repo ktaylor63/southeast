@@ -125,5 +125,5 @@ Roughly 500 miles of streams and the watersheds of five rivers -- the Escambia, 
 
 ## Contact
 
-[Dan Chapman](mailto:daniel_chapman@fws.gov), (404) 679-4028  
-Public Affairs Specialist  
+Dan Chapman, Public Affairs Specialist  
+[daniel_chapman@fws.gov](mailto:daniel_chapman@fws.gov), (404) 679-4028
