@@ -20,7 +20,7 @@ aliases:
     - /wildlife/plant/white-irisette
     - /species/plant/white-irisette
     - /species/plants/white-irisette
-updated: 'October 5th, 2018'
+updated: 'October 23rd, 2018'
 ---
 
 - **Taxon:** Plant
@@ -64,7 +64,7 @@ White irisette will be considered for removal from the endangered species list w
 4. Establish new populations or rehabilitate marginal populations to the point where they are self-sustaining.
 5. Investigate and conduct necessary management activities at all key sites.
 
-[Download the 1995 recovery plan](https://ecos-beta.fws.gov/docs/recovery_plan/950410.pdf).
+[Download the 1995 recovery plan](https://ecos.fws.gov/docs/recovery_plan/950410.pdf).
 
 ## How you can help
 
