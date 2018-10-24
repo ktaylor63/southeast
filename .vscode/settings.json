@@ -3,5 +3,6 @@
   "workbench.colorCustomizations": {
     "titleBar.activeBackground": "#006358",
     "titleBar.inactiveBackground": "#003b34"
-  }
+  },
+  "emmet.excludeLanguages": []
 }
