@@ -1,27 +1,27 @@
 ---
-title: 'It’s monarch time'
-subtitle: 'Butterfly festival goes on despite Hurricane Michael'
+title: "It’s monarch time"
+subtitle: "Butterfly festival goes on despite Hurricane Michael"
 date: 2018-10-24T00:00:00.000Z
 type: feature
-author: 'Mark Davis, Public Affairs Specialist'
+author: "Mark Davis, Public Affairs Specialist"
 hero:
-    name: st-marks-nwr-monarch-festival-sign.jpg
-    alt: 'A white sign that reads "Monarch Butterfly Festival, October 27th, St. Marks NWR, 850-925-6121"'
-    caption: 'The festival takes place Oct. 27 at the refuge, located on Apalachee Bay on the Florida Panhandle. Photo by Mark Davis, USFWS.'
-    position: '70% 40%'
+  name: st-marks-nwr-monarch-festival-sign.jpg
+  alt: 'A white sign that reads "Monarch Butterfly Festival, October 27th, St. Marks NWR, 850-925-6121"'
+  caption: "The festival takes place Oct. 27 at the refuge, located on Apalachee Bay on the Florida Panhandle. Photo by Mark Davis, USFWS."
+  position: "70% 40%"
 tags:
-    - Florida
-    - Hurricane
-    - 'Hurricane Michael'
-    - Monarch
-    - 'St Marks National Wildlife Refuge'
-    - 'St Vincent National Wildlife Refuge'
-updated: 'October 24th, 2018'
+  - Florida
+  - Hurricane
+  - "Hurricane Michael"
+  - Monarch
+  - "St Marks National Wildlife Refuge"
+  - "St Vincent National Wildlife Refuge"
+updated: "October 24th, 2018"
 ---
 
 St. Marks, Florida &mdash; And now for a small bit of good news in a part of the country where a hurricane has made nearly every tale bad:
 
-The Monarch Butterfly Festival will take place as planned. Walk, drive and &mdash; yes &mdash; fly to the [St. Marks National Wildlife Refuge](https://www.fws.gov/refuge/st_marks/) to celebrate that colorful flutterer, *Danaus plexippus*.
+The Monarch Butterfly Festival will take place as planned. Walk, drive and &mdash; yes &mdash; fly to the [St. Marks National Wildlife Refuge](https://www.fws.gov/refuge/st_marks/) to celebrate that colorful flutterer, _Danaus plexippus_.
 
 The festival is Oct. 27 at a refuge where Hurricane Michael came calling earlier this month.
 
@@ -79,7 +79,7 @@ Even now, nearly three decades after that first festival, Van Hook remains vague
 
 One of the annual event’s highlights: tagging some butterflies’ wings with blue stickers to help document their migration. That’s Cook’s job.
 
-Those little tags, smaller than a dime, have yielded big surprises. Two years ago, a blue-tagged monarch turned up in Ontario, Canada &mdash; 900-plus miles from St. Mark’s windy shores.
+Those little tags, smaller than a dime, have yielded big surprises. Two years ago, a blue-tagged monarch turned up in Ontario, Canada &mdash; 900-plus miles from St. Marks’ windy shores.
 
 The festival here is not unique; at least five other annual fests commemorate the monarchs’ annual migration. They include a springtime celebration in California where people celebrate the butterflies’ return; and a gathering in Minnesota where festival-goers bid the monarchs goodbye in early fall.
 
@@ -101,7 +101,7 @@ Will, ever an optimist, believes the monarchs will be here to greet visitors.
 
 “I hope we have a couple,” Will said. “But I may be pleasantly surprised.” They have surprised her before.
 
-Cook also thinks another species &mdash; *Homo sapiens* &mdash; may show up to admire the winged travelers.
+Cook also thinks another species &mdash; _Homo sapiens_ &mdash; may show up to admire the winged travelers.
 
 “Looking at monarchs gives people a vested interest, to put their hands on a live, wild species,” he said.
 
