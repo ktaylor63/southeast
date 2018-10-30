@@ -25,13 +25,13 @@ Atlanta, Georgia &mdash; Two Louisiana men, who plead guilty to smuggling diseas
 
 Their fears are well-founded.
 
-In January, a sickly white-tail tested positive for CWD in west-central Mississippi &mdash; the first time a wild cervid in the Magnolia State had been confirmed carrying the deadly disease. Neighboring states to the west, Arkansas and Missouri, in particular, had previously tallied hundreds of CWD cases.
+A sickly white-tail tested positive for CWD near Tupelo in early October. It was the second wild cervid confirmed carrying the deadly disease in the Magnolia state. Neighboring states to the west, Arkansas and Missouri, in particular, had previously tallied hundreds of CWD cases.
 
 Is the deer-crippling disease spreading into the Southeast? Will the new hunting season bring a manifold increase in CWD-infected deer?
 
 William T. McKinley, the deer program coordinator for the Mississippi Department of Wildlife, Fisheries and Parks, expects more CWD discoveries in the Delta this fall.
 
-“I would be shocked if we only had the one,” McKinley said by phone from Kosciusko, Mississippi. “This deer died of CWD. He was not found early. We tested and retested him and he notched the highest possible CWD score. He was contagious for well over a year. I’m not confident we won’t find others.”
+“I would be shocked if we only had these two,” McKinley said by phone from Kosciusko, Mississippi. “These deer died of CWD. The first deer was tested and retested and notched the highest possible CWD score. He was contagious for well over a year. I’m not confident we won’t find others.”
 
 {{< figure class="photo-center" src="/images/pages/chroinc-wasting-disease-august-2018.jpg" alt="A map of the United States showing concentrations of CWD  in the midwest, and western states with a few occurrences in northwestern Arkansas." caption="As of August 1, 2018, there were 226 counties in 23 states with reported CWD in free-ranging cervids. This map is based on the best-available information from multiple sources, including state wildlife agencies and the United States Geological Survey (USGS)." link="https://www.cdc.gov/prions/cwd/occurrence.html" >}}
 
@@ -43,7 +43,7 @@ State and federal conservation and law enforcement officials are newly vigilant 
 
 ## The disease spreads east
 
-[CWD is what’s known as a prion disease](https://www.cdc.gov/prions/cwd/index.html), a rare, transmittable illness that causes proteins in the brain to fold, harming the central nervous system of animals and humans. It’s similar to scrapie in sheep or mad cow disease in cattle.
+CWD is what’s known as [a prion disease](https://www.cdc.gov/prions/cwd/), a rare, transmittable illness that causes proteins in the brain to fold, harming the central nervous system of animals and humans. It’s similar to scrapie in sheep or mad cow disease in cattle.
 
 “CWD is fatal to animals and there are no treatments or vaccines,” the Centers for Disease Control and Prevention reports.
 
@@ -67,15 +67,17 @@ So too does Jennifer Ballard, the wildlife veterinarian for the Arkansas Game an
 
 “CWD, as a disease, moves very, very slowly,” she said. “We’re still getting a handle on where it is. We expect it to spread over a long period of time, but it’s a bit early to say when and where. We consider CWD a threat to the stability of our cervid population and we take it very, very seriously.”
 
-Ballard and McKinley don’t believe an Arkansas-infected deer wandered 300 miles to central Mississippi. It remains unknown, though, how the 4-year-old buck ended up with CWD. A hunter in a stand reported the sickly 96-pound deer to state wildlife officials last January. A DNA test linked the deer genetically to others in the southern Mississippi or northeastern Louisiana delta.
+Ballard and McKinley don’t believe an Arkansas-infected deer wandered 300 miles to central Mississippi and infected the first deer last January. It remains unknown, though, how the 4-year-old buck ended up with CWD. A hunter in a stand reported the sickly 96-pound deer to state wildlife officials. A DNA test linked the deer genetically to others in the southern Mississippi or northeastern Louisiana delta.
 
-Mississippi imposed a series of concentric-ring, disease-prevention and testing zones around the spot in Issaquena County where the deer was discovered: a 5-mile containment zone; a 10-mile high-risk zone; and a 25-mile buffer zone. The wildlife agency had tested 1,200 deer, most within the buffer zone, by late September. (Louisiana has also sampled deer on their side of the Mississippi River.) None have turned up positive for CWD. Mississippi plans a total of 5,000 tests statewide this year &mdash; the highest amount ever.
+Mississippi officials continue tests on the infected deer discovered October 8 in Pontotoc County. They’ll soon determine what, if any, precautionary measures to take to fight CWD in northern Mississippi. A resident shot the 1½-year-old buck after he behaved strangely around a dog.
+
+Mississippi imposed a series of concentric-ring, disease-prevention and testing zones around the spot in Issaquena County where the first deer was discovered: a 5-mile containment zone; a 10-mile high-risk zone; and a 25-mile buffer zone. The wildlife agency had tested 1,200 deer, most within the buffer zone, by late September. (Louisiana has also sampled deer on their side of the Mississippi River.) None have turned up positive for CWD. Mississippi plans a total of 5,000 tests statewide this year &mdash; the highest amount ever.
 
 As deer season unfolds, vigilance is the watchword. The Association of Fish and Wildlife Agencies recommended in September a prohibition on the transportation of cervids; the importation from any state of cervid carcasses; and the baiting or feeding of any cervids.
 
 Southern states largely adhere to AFWA’s guidelines, yet they also offer exceptions and, in some cases, more detailed hunting and deer-handling rules. Arkansas, for example, has increased the seasonal bag limit to five deer within its CWD management zone and removed any antler-size restrictions. Missouri requires hunters in its management zone to bring the deer or its head, with at least six inches of neck, to a designated CWD sampling station during the November 10-11 opening weekend for modern firearms.
 
-“We don’t know what the future holds,” said Mississippi’s McKinley. “So, in a nutshell, we’ve got to figure out what we’re dealing with. Our one dead deer could just be an ember. Maybe there’s a whole brush fire beginning somewhere else.”
+“We don’t know what the future holds,” said Mississippi’s McKinley. “So, in a nutshell, we’ve got to figure out what we’re dealing with. Our dead deer could just be an ember. Maybe there’s a whole brush fire beginning somewhere else.”
 
 ## Contact
 
