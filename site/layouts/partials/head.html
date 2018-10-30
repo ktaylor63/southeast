@@ -7,20 +7,20 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
-<meta name="fb:admins" content="134503173254693"/>
-<meta name="fb:app_id" content="1689418354613614"/>
+<meta name="fb:admins" content="134503173254693" />
+<meta name="fb:app_id" content="1689418354613614" />
 <meta name="og:site_name" content="Southeast Region of the U.S. Fish and Wildlife Service" />
 <meta name="og:type" content="website" />
 <meta name="og:url" content="{{ .Permalink }}" />
 <meta name="og:title" content="{{ .Title }}" />
 <meta name="og:description" content="{{ if .Params.description }}{{ .Params.description }}{{ else }}{{ .Summary }}{{end}}" />
 {{ if .Params.hero.name }}
-<meta name="og:image" content="/images/hero/small/{{ .Params.hero.name }}" />
+<meta name="og:image" content="{{ .Site.Params.base }}images/hero/small/{{ .Params.hero.name }}" />
 {{ end }}
 
-<meta name="twitter:card" content="summary_large_image"/>
-<meta name="twitter:image" content="/images/hero/small/{{ .Params.hero.name }}"/>
-<meta name="twitter:image:alt" content="{{ .Params.hero.alt }}"/>
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image" content="{{ .Site.Params.base }}images/hero/small/{{ .Params.hero.name }}" />
+<meta name="twitter:image:alt" content="{{ .Params.hero.alt }}" />
 <meta name="twitter:site" content="@usfwssoutheast">
 <meta name="twitter:title" content="{{ .Title }}" />
 <meta name="twitter:description" content="{{ if .Params.description }}{{.Params.description}}{{ else }}{{ .Summary }}{{end}}" />
