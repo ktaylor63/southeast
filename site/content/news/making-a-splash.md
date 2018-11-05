@@ -1,25 +1,24 @@
 ---
-title: 'Making a splash'
-subtitle: 'Trout release highlights agencies’ partnership'
-author: 'Mark Davis, Public Affairs Specialist'
+title: "Making a splash"
+subtitle: "Trout release highlights agencies’ partnership"
+author: "Mark Davis, Public Affairs Specialist"
 date: 2018-11-05T00:00:00.000Z
-type: feature
 hero:
-    name: trout-release-tva.jpg
-    alt: 'Four men watch as a fifth release a few dozen ntrout into the Clinch River.'
-    caption: 'Photo by TVA.'
+  name: trout-release-tva.jpg
+  alt: "Four men watch as a fifth release a few dozen ntrout into the Clinch River."
+  caption: "Representatives of four state and federal agencies release the first of hundreds of trout into the Clinch River near Knoxville. They gathered recently to sign an agreement to stock trout in watersheds in Tennessee and Georgia. Photo by TVA."
 tags:
-    - 'Brook Trout'
-    - 'Brown Trout'
-    - 'Clinch River'
-    - Fishing
-    - Georgia
-    - 'Rainbow Trout'
-    - 'Spotted Trout'
-    - Tennessee
-    - 'Tennessee Valley Authority'
-    - Trout
-updated: 'November 5th, 2018'
+  - "Brook Trout"
+  - "Brown Trout"
+  - "Clinch River"
+  - Fishing
+  - Georgia
+  - "Rainbow Trout"
+  - "Spotted Trout"
+  - Tennessee
+  - "Tennessee Valley Authority"
+  - Trout
+updated: "November 5th, 2018"
 ---
 
 Clinton, Tennessee &mdash; The Clinch River is now richer by a couple hundred extra trout. Other watersheds will soon share that wealth.
