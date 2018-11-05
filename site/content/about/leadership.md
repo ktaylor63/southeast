@@ -12,7 +12,7 @@ hero:
     link: 'https://flic.kr/p/EgwW37'
     caption: 'Acting Regional Director Mike Oetker speaking at a ceremony in Cherokee, North Carolina where partners signed a Candidate Conservation Agreement for the sicklefin redhorse. Photo by Gary Peeples, USFWS.'
     position: 'top right'
-updated: 'October 31st, 2018'
+updated: 'November 5th, 2018'
 ---
 
 Nationally, the U.S. Fish and Wildlife Service is led by a Director, a team of Assistant Directors and eight Regional Directors. (See our [headquarters organizational chart.](http://www.fws.gov/offices/orgcht.html))
@@ -55,20 +55,15 @@ Bill’s wife is a special education teacher, and together they have 3 very cool
 
 ### Regional Chief, National Wildlife Refuge System
 
-{{< figure class="photo-right" src="/images/pages/david-viker.jpg" alt="Portrait shot of a man wearing a blue U.S. Fish and Wildlife Service polo shirt." caption="David Viker. Photo by USFWS." >}}
+{{< figure class="photo-right" src="/images/pages/viker-family-waterfall.jpg" alt="A family posing for a picture in front of a waterfall." caption="David Viker with his family." >}}
 
-Since January 2011 David has served as the Regional Chief of the National Wildlife Refuge System in the Southeast Region. David currently leads nearly 700 permanent employees in the management of 130 NWRs in 10 States, Puerto Rico, and the U.S. Virgin Islands. These Refuges range from just a few acres for an endangered species to the 400,000-acre Okefenokee wilderness, and are visited by 15 million people, the largest regional program in the nation.
+David Viker is a 26-year veteran of the Service, starting his career in 1992 as a wildlife biologist trainee after serving as a refuge volunteer while in college at the University of Florida. David worked up refuge management ranks on five field stations in five states. Along the way, he earned a federal law enforcement commission, obtained a fire management wildfire “red card,” and operated an array of heavy equipment pieces to manage habitat. David moved on to the Atlanta Regional Office as a Deputy Refuge Supervisor, helping leading several dozen refuges in four states. David then stepped up as Regional Chief and then Assistant Regional Director of the Migratory Bird Program, working closely with States and other partners in the Joint Ventures System and system of Flyways to set migratory bird regulations. David returned to the NWRS after more than five years with Migratory Bird Program.
 
-David is a 25-year veteran of the U.S. Fish and Wildlife Service, starting his career in 1992 as a wildlife biologist Co-Op Student (now called [Pathways](/work-with-us/internships#pathways-internship-program)) at the Jackson, Mississippi joint National Wildlife Refuge System and Migratory Bird Program field office. His first exposure to the Service was as a volunteer on [Lower Suwannee](https://www.fws.gov/refuge/lower_suwannee/) and [Cedar Keys](https://www.fws.gov/refuge/cedar_keys/) National Wildlife Refuges (NWR) in 1990 while in college at the University of Florida.
+Since January 2011, David served as the Regional Chief of the NWRS in the Southeast Region, leading more than 650 permanent employees on 130 refuges in 10 States, Puerto Rico, and the U.S. Virgin Islands. These refuges, visited by more than 15 million people annually, range from just a few acres for an endangered species to the 400,000-acre Okefenokee wilderness.
 
-David has worked as an assistant refuge manager trainee at
-[Tensas River NWR](https://www.fws.gov/refuge/tensas_river/) in north Louisiana, and as an assistant refuge manager for the Central Louisiana NWR Complex down in Cajun country, where he obtained a federal wildlife law enforcement officer commission. He worked at Pee Dee NWR as an assistant manager in North Carolina, and he spent time in Mississippi as the Refuge Manager for Hillside, Morgan Break, and Matthews Brake NWRs where he began gravitating towards all-things coaching, mentoring, and leadership development. David’s final field station was as the Deputy Project Leader for the Arthur R. Marshall Loxahatchee and Hobe Sound NWRs in south Florida.
+David’s areas of greatest professional interest include compatibility and appropriate use policy, connecting wildlife habitats through landscape linkages, and connecting people with nature. David’s greatest passion, though, is helping others grow. He has served over the years as the regional youth coordinator; member of the Diversity Committee; he founded the regional Leadership Development Council; helped establish the “E-4 Mentoring” program; teaches at the National Conservation Training Center (Refuge Academy; Advanced Refuge Academy; and the NWRS Improvement Act course he helped design); speaks frequently on the power of diversity; and has helped coach the Advanced Leadership Development Program.
 
-David worked in the Regional Office next as a Deputy Refuge Supervisor, helping lead several dozen National Wildlife Refuges in five states. Fifteen years after starting his FWS career at a Migratory Bird-focused field station, he stepped up as Regional Chief of the Migratory Bird Program, working closely with states and other partners in the Joint Ventures System, the development of Landscape Conservation Cooperatives, and migratory bird regulations setting in the Flyway system. David returned to the National Wildlife Refuge System after more than five years with the Migratory Bird Program.
-
-His areas of greatest professional interest include compatibility and appropriate use policy, connecting wildlife habitats through landscape linkages, and connecting people with nature. David’s greatest passion, though, is helping others grow.
-
-David has served as a volunteer youth sports coach for 38 teams, ages 4 to 18, dating back to 1989 in basketball, baseball, softball, and soccer. His very best times, though, are spent with his best friend and wife of 21 years and their three children doing faith-based volunteering, fishing, canoeing, hiking, camping, hunting, and other outdoor-activities.
+David’s favorite quote is by Thomas Jefferson: “In matters of style, swim with the current. In matters of principle, stand like a rock.” David has been a volunteer youth sports coach for more than 40 teams, ages 4 to 18, in basketball, baseball, softball, track &amp; field, and soccer. His favorite times are spent with his wife of 23 years and their three children, doing faith-based volunteering, fishing, canoeing, hiking, camping, hunting, and other outdoor-activities.
 
 ## Jackie Parrish
 
