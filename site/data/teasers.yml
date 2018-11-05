@@ -1,538 +1,546 @@
----
 stories:
-  - title: 'Bridgework benefits drivers and state’s biggest bridge roost for bats'
-    summary: 'The Interstate 75 bridge near Calhoun averages 72,000 vehicles a day. Yet it also doubles as the largest known bridge-roost for bats in the state, according to Katrina Morris, a senior wildlife biologist who leads bat research for the Georgia Department of Natural Resources.'
+  - title: "Taking stock of Hurricane Michael’s affects on rare wild animals"
+    summary: "Georgia and Florida farms and cities are still assessing the damage from Hurricane Michael, and beginning to put things back together. The storm also affected natural places and wild animals, and biologists are evaluating those impacts."
+    date: 2018-11-05
+    hero:
+      name: frosted-flatwoods-salamander-in-st-marks-nwr.jpg
+      alt: "An orange and brown salamander on a log with large tufts behind its eyes."
+      caption: "Frosted flatwoods salamander at St. Marks National Wildlife Refuge. Photo by US Geological Service."
+      position: "center left"
+    url: "https://www.wabe.org/taking-stock-of-hurricane-michaels-affects-on-rare-wild-animals/"
+  - title: "Bridgework benefits drivers and state’s biggest bridge roost for bats"
+    summary: "The Interstate 75 bridge near Calhoun averages 72,000 vehicles a day. Yet it also doubles as the largest known bridge-roost for bats in the state, according to Katrina Morris, a senior wildlife biologist who leads bat research for the Georgia Department of Natural Resources."
     date: 2018-10-23
-    url: 'https://georgiawildlife.com/bridgework-benefits-drivers-and-states-biggest-bridge-roost-bats'
-  - title: 'North Florida Land Trust marks largest conservation easement acquisitions to date'
+    url: "https://georgiawildlife.com/bridgework-benefits-drivers-and-states-biggest-bridge-roost-bats"
+  - title: "North Florida Land Trust marks largest conservation easement acquisitions to date"
     subtitle: More than 2,500 acres in Clay County will be preserved in perpetuity
     summary: '"We were trying very hard to pull him through, but these guys are very fragile," said Dollard, the sanctuary’s avian hospital director. "We do our best but we cannot save them all."'
     date: 2018-09-25
     hero:
       name: red-knot-flock.jpg
-      alt: 'Dozens of grey birds with rusty colored breast take flight from shallow water along the shore'
+      alt: "Dozens of grey birds with rusty colored breast take flight from shallow water along the shore"
       caption: 'A flock of red knots at Huntington Island, South Carolina. <a href="https://flic.kr/p/8jf6EK">Photo</a> by <a href="https://www.flickr.com/photos/faulkners_fowl_shots/">Don Faulkner</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC BY-SA 2.0</a>.'
-    url: 'http://www.tampabay.com/news/environment/wildlife/Red-Tide-takes-toll-on-imperiled-species-of-birds-but-volunteers-try-to-save-them_172111173'
-  - title: 'North Florida Land Trust marks largest conservation easement acquisitions to date'
+    url: "http://www.tampabay.com/news/environment/wildlife/Red-Tide-takes-toll-on-imperiled-species-of-birds-but-volunteers-try-to-save-them_172111173"
+  - title: "North Florida Land Trust marks largest conservation easement acquisitions to date"
     subtitle: More than 2,500 acres in Clay County will be preserved in perpetuity
-    summary: 'Fla. – North Florida Land Trust has acquired two conservation easements in Clay County marking the nonprofit organization’s largest conservation easement acquisitions to date. The two properties totaling approximately 2,551 acres will now be protected from high intensity development and will serve as a buffer for the Camp Blanding Joint Training Center.'
+    summary: "Fla. – North Florida Land Trust has acquired two conservation easements in Clay County marking the nonprofit organization’s largest conservation easement acquisitions to date. The two properties totaling approximately 2,551 acres will now be protected from high intensity development and will serve as a buffer for the Camp Blanding Joint Training Center."
     date: 2018-09-19
     hero:
       name: gopher-tortoise-released-at-eglin-afb.jpg
-      alt: 'A military officer in uniform releases a gopher tortoise next to a burrow.'
-      caption: 'Col. Matthew Higer, 96th Test Wing vice commander, bends down to release a gopher tortoise into its new home deep within the Eglin Air Force Base. Photo by Samuel King Jr., U.S. Air Force.'
-    url: 'https://www.floridatrend.com/article/25434/north-florida-land-trust-marks-largest-conservation-easement-acquisitions-to-date'
-  - title: 'New fishing regulations proposed in Tennessee to combat Asian carp'
-    summary: 'The Tennessee Wildlife Resources Agency released its 2019-2020 fishing regulation proposals for public comment last week. Among them is a ban on transporting live skipjack herring, gizzard shad and threadfin shad for commercial fishermen. For sport fishermen, a ban would be placed on transporting the three species of live fish from the Mississippi River and Barkley, Kentucky and Pickwick reservoirs, tributaries or oxbows.'
+      alt: "A military officer in uniform releases a gopher tortoise next to a burrow."
+      caption: "Col. Matthew Higer, 96th Test Wing vice commander, bends down to release a gopher tortoise into its new home deep within the Eglin Air Force Base. Photo by Samuel King Jr., U.S. Air Force."
+    url: "https://www.floridatrend.com/article/25434/north-florida-land-trust-marks-largest-conservation-easement-acquisitions-to-date"
+  - title: "New fishing regulations proposed in Tennessee to combat Asian carp"
+    summary: "The Tennessee Wildlife Resources Agency released its 2019-2020 fishing regulation proposals for public comment last week. Among them is a ban on transporting live skipjack herring, gizzard shad and threadfin shad for commercial fishermen. For sport fishermen, a ban would be placed on transporting the three species of live fish from the Mississippi River and Barkley, Kentucky and Pickwick reservoirs, tributaries or oxbows."
     date: 2018-09-10
-    url: 'https://www.timesfreepress.com/news/local/story/2018/sep/10/new-fishing-regulations-proposed/478724/'
+    url: "https://www.timesfreepress.com/news/local/story/2018/sep/10/new-fishing-regulations-proposed/478724/"
     hero:
-        name: silver-carp-jumping-fox-river.jpg
-        alt: 'A half dozen large silver fish jumping out of the water to a height of six feet.'
-        caption: 'School of jumping silver carp. Photo by Ryan Hagerty, USFWS.'
-        link: 'https://flic.kr/p/MFyYsU'
-        position: '70% 35%'
-  - title: 'How sea level rise threatens our history'
-    summary: 'Sea level rise threatens not just Fort Pulaski National Monument, but historic and cultural sites up and down the Atlantic Coast. Native American history, the places where slaves lived and worked, historic neighborhoods, cemeteries and sites of battles are all at risk.'
+      name: silver-carp-jumping-fox-river.jpg
+      alt: "A half dozen large silver fish jumping out of the water to a height of six feet."
+      caption: "School of jumping silver carp. Photo by Ryan Hagerty, USFWS."
+      link: "https://flic.kr/p/MFyYsU"
+      position: "70% 35%"
+  - title: "How sea level rise threatens our history"
+    summary: "Sea level rise threatens not just Fort Pulaski National Monument, but historic and cultural sites up and down the Atlantic Coast. Native American history, the places where slaves lived and worked, historic neighborhoods, cemeteries and sites of battles are all at risk."
     date: 2018-09-10
-    url: 'https://www.wabe.org/how-sea-level-rise-threatens-our-history/'
+    url: "https://www.wabe.org/how-sea-level-rise-threatens-our-history/"
     hero:
-        name: fort-pulaski-lighthouse.jpg
-        alt: 'A white brick lighthouse on a narrow peninsula'
-        caption: 'Lighthouse at Fort Pulaski National Monument. <a href="https://flic.kr/p/bvvnbW">Photo</a> by <a href="https://www.flickr.com/photos/jstephenconn/">J. Stephen Conn</a>, <a href="https://creativecommons.org/licenses/by-nc/2.0/">CC BY-NC-ND 2.0</a>.'
-  - title: 'InterMiami soccer club crest carries bird that is South Florida’s Own'
-    summary: 'Miami’s new professional soccer team has a name and a crest that features two birds. The birds, great white herons, are unique to South Florida. They even have a national wildlife refuge named after them.'
+      name: fort-pulaski-lighthouse.jpg
+      alt: "A white brick lighthouse on a narrow peninsula"
+      caption: 'Lighthouse at Fort Pulaski National Monument. <a href="https://flic.kr/p/bvvnbW">Photo</a> by <a href="https://www.flickr.com/photos/jstephenconn/">J. Stephen Conn</a>, <a href="https://creativecommons.org/licenses/by-nc/2.0/">CC BY-NC-ND 2.0</a>.'
+  - title: "InterMiami soccer club crest carries bird that is South Florida’s Own"
+    summary: "Miami’s new professional soccer team has a name and a crest that features two birds. The birds, great white herons, are unique to South Florida. They even have a national wildlife refuge named after them."
     date: 2018-09-04
-    url: 'http://www.wlrn.org/post/intermiami-soccer-club-crest-carries-bird-south-floridas-own'
+    url: "http://www.wlrn.org/post/intermiami-soccer-club-crest-carries-bird-south-floridas-own"
     hero:
-        name: great-white-heron.jpg
-        alt: 'A white bird standing next to water'
-        caption: 'Great white heron. Photo by Kenneth Cole Schneider, CC BY-NC-ND 2.0.'
-  - title: 'The beach, wildlife and you'
+      name: great-white-heron.jpg
+      alt: "A white bird standing next to water"
+      caption: "Great white heron. Photo by Kenneth Cole Schneider, CC BY-NC-ND 2.0."
+  - title: "The beach, wildlife and you"
     tags:
       - Gulf
-    summary: 'The beach is a place to bask in the sun, relax to the rhythm of the surf and tune out for a while. If you tune in, though, there’s more than meets the eye: Piping plovers moving in and out with the waves. Crabs scurrying about. Sea turtle paths tracking to and from the ocean. And the sand itself.'
+    summary: "The beach is a place to bask in the sun, relax to the rhythm of the surf and tune out for a while. If you tune in, though, there’s more than meets the eye: Piping plovers moving in and out with the waves. Crabs scurrying about. Sea turtle paths tracking to and from the ocean. And the sand itself."
     date: 2018-07-11
-    url: 'https://www.fws.gov/refuges/features/beach/'
+    url: "https://www.fws.gov/refuges/features/beach/"
     hero:
-        name: https://www.fws.gov/refuges/features/images/beach/1.jpg
-        alt: 'Two white and grey birds on the beach.'
-        caption: 'Piping plovers at Amagansett National Wildlife Refuge on New York’s Long Island. Photo by USFWS.'
-  - title: 'No Jimmy Buffett here'
+      name: https://www.fws.gov/refuges/features/images/beach/1.jpg
+      alt: "Two white and grey birds on the beach."
+      caption: "Piping plovers at Amagansett National Wildlife Refuge on New York’s Long Island. Photo by USFWS."
+  - title: "No Jimmy Buffett here"
     tags:
       - Gulf
-    subtitle: 'Salt Bayou home to business, conservation'
-    summary: 'This is the Salt Bayou. The largest coastal wetlands complex along the Texas Gulf Coast, it’s a favorite destination for birders, fishermen, and hunters. It’s home to one of the nation’s most important waterways where migratory birds winter.'
+    subtitle: "Salt Bayou home to business, conservation"
+    summary: "This is the Salt Bayou. The largest coastal wetlands complex along the Texas Gulf Coast, it’s a favorite destination for birders, fishermen, and hunters. It’s home to one of the nation’s most important waterways where migratory birds winter."
     date: 2018-07-11
-    url: 'https://www.fws.gov/natures-good-neighbors/stories/no-jimmy-buffett-here/#feature-image'
+    url: "https://www.fws.gov/natures-good-neighbors/stories/no-jimmy-buffett-here/#feature-image"
     hero:
-        name: https://www.fws.gov/natures-good-neighbors/images/features/judge-branick.jpg
-        alt: 'A man in a suit standing in front of a desk with leather chairs in a Texas courtroom.'
-        caption: 'Jefferson Country Judge Branick has strongly advocated for the restoration and conservation of the largest coastal marsh in Texas to benefit both people and the fish and wildlife who live there. Photo by USFWS.'
-  - title: 'Was Smokey Bear wrong? How a beloved character may have helped fuel catastrophic fires.'
-    summary: 'This month Smokey is popping champagne bottles in celebration of his 74th birthday. But the milestone comes as the bear’s legacy is sunk in doubt. Right now 110 wildfires are blazing through Western states, charring more than 5.7 million acres, The Washington Post reported this week. The current damage total has already overlapped past years, syncing with a wider pattern of larger fires and longer fire seasons, according to The Post.'
+      name: https://www.fws.gov/natures-good-neighbors/images/features/judge-branick.jpg
+      alt: "A man in a suit standing in front of a desk with leather chairs in a Texas courtroom."
+      caption: "Jefferson Country Judge Branick has strongly advocated for the restoration and conservation of the largest coastal marsh in Texas to benefit both people and the fish and wildlife who live there. Photo by USFWS."
+  - title: "Was Smokey Bear wrong? How a beloved character may have helped fuel catastrophic fires."
+    summary: "This month Smokey is popping champagne bottles in celebration of his 74th birthday. But the milestone comes as the bear’s legacy is sunk in doubt. Right now 110 wildfires are blazing through Western states, charring more than 5.7 million acres, The Washington Post reported this week. The current damage total has already overlapped past years, syncing with a wider pattern of larger fires and longer fire seasons, according to The Post."
     date: 2018-08-15
-    url: 'https://www.washingtonpost.com/news/morning-mix/wp/2018/08/15/was-smokey-bear-wrong-how-a-beloved-character-may-have-helped-fuel-catastrophic-fires/'
+    url: "https://www.washingtonpost.com/news/morning-mix/wp/2018/08/15/was-smokey-bear-wrong-how-a-beloved-character-may-have-helped-fuel-catastrophic-fires/"
     hero:
-        name: smoky-bear-fire-danger-sign.jpg
-        alt: 'A severe fire danger sign featuring Smoky Bear'
-        caption: 'Severe fire danger sign. <a href="https://commons.wikimedia.org/wiki/Category:Smokey_Bear#/media/File:Beaver_Creek_Fire_2013_fire_danger_sign_2.jpg">Photo</a> by Lance Cheung, U.S. Department of Agriculture, CC-BY 2.0.'
-  - title: 'Six years ago, about four of these butterflies existed. This is how science saved them.'
-    summary: 'In 2012, there were only about four Schaus swallowtail butterflies left in their natural habitat of Southeast Florida and the Florida Keys. Through conservation efforts, captive breeding and rearing at the University of Florida and subsequently reintroducing the butterflies into the wild, surveys conducted in 2015 and 2016 showed hundreds of naturally occurring Schaus swallowtails were alive and well in Elliott Key and Key Largo.'
+      name: smoky-bear-fire-danger-sign.jpg
+      alt: "A severe fire danger sign featuring Smoky Bear"
+      caption: 'Severe fire danger sign. <a href="https://commons.wikimedia.org/wiki/Category:Smokey_Bear#/media/File:Beaver_Creek_Fire_2013_fire_danger_sign_2.jpg">Photo</a> by Lance Cheung, U.S. Department of Agriculture, CC-BY 2.0.'
+  - title: "Six years ago, about four of these butterflies existed. This is how science saved them."
+    summary: "In 2012, there were only about four Schaus swallowtail butterflies left in their natural habitat of Southeast Florida and the Florida Keys. Through conservation efforts, captive breeding and rearing at the University of Florida and subsequently reintroducing the butterflies into the wild, surveys conducted in 2015 and 2016 showed hundreds of naturally occurring Schaus swallowtails were alive and well in Elliott Key and Key Largo."
     date: 2018-07-23
-    url: 'https://www.miamiherald.com/news/local/community/florida-keys/article215330270.html'
+    url: "https://www.miamiherald.com/news/local/community/florida-keys/article215330270.html"
     hero:
-        name: schaus-swallowtail.jpg
-        alt: 'A brown and yellow butterfly perched on a green plant.'
-        caption: 'Schaus swallowtail butterfly. University of Florida/Institute of Food and Agricultural Sciences.'
-  - title: 'Event highlights why birds matter to The Everglades'
-    summary: 'Workers with an elite federal team are removing most of a century-old dam across the Middle Oconee River this week. The University of Georgia-owned White Dam is just above the confluence of the Middle and North Oconee Rivers. It is managed by UGA’s Warnell School of Forestry and Natural Resources.'
+      name: schaus-swallowtail.jpg
+      alt: "A brown and yellow butterfly perched on a green plant."
+      caption: "Schaus swallowtail butterfly. University of Florida/Institute of Food and Agricultural Sciences."
+  - title: "Event highlights why birds matter to The Everglades"
+    summary: "Workers with an elite federal team are removing most of a century-old dam across the Middle Oconee River this week. The University of Georgia-owned White Dam is just above the confluence of the Middle and North Oconee Rivers. It is managed by UGA’s Warnell School of Forestry and Natural Resources."
     date: 2018-07-17
-    url: 'http://wlrn.org/post/event-highlights-why-birds-matter-everglades'
+    url: "http://wlrn.org/post/event-highlights-why-birds-matter-everglades"
     hero:
-        name: wood-stork-rookery.jpg
-        alt: 'Hundreds of fluffy white birds perched in trees surrounded by water.'
-        caption: 'A wood stork rookery at Harris Neck National Wildlife Refuge in Georgia. Photo by Mary Ellen Urbanski.'
-  - title: 'Passage cleared on Middle Oconee River as dam is removed'
-    summary: 'Workers with an elite federal team are removing most of a century-old dam across the Middle Oconee River this week. The University of Georgia-owned White Dam is just above the confluence of the Middle and North Oconee Rivers. It is managed by UGA’s Warnell School of Forestry and Natural Resources.'
+      name: wood-stork-rookery.jpg
+      alt: "Hundreds of fluffy white birds perched in trees surrounded by water."
+      caption: "A wood stork rookery at Harris Neck National Wildlife Refuge in Georgia. Photo by Mary Ellen Urbanski."
+  - title: "Passage cleared on Middle Oconee River as dam is removed"
+    summary: "Workers with an elite federal team are removing most of a century-old dam across the Middle Oconee River this week. The University of Georgia-owned White Dam is just above the confluence of the Middle and North Oconee Rivers. It is managed by UGA’s Warnell School of Forestry and Natural Resources."
     date: 2018-07-18
-    url: 'http://www.onlineathens.com/news/20180718/passage-cleared-on-middle-oconee-river-as-dam-is-removed'
-  - title: 'Lionfish challenge: 2018'
-    summary: 'Participants compete in either the recreational or commercial category, but may only qualify for one category. All participants who have an active Saltwater Products License and who have commercial lionfish sales within the past year will automatically be included in the commercial category.'
+    url: "http://www.onlineathens.com/news/20180718/passage-cleared-on-middle-oconee-river-as-dam-is-removed"
+  - title: "Lionfish challenge: 2018"
+    summary: "Participants compete in either the recreational or commercial category, but may only qualify for one category. All participants who have an active Saltwater Products License and who have commercial lionfish sales within the past year will automatically be included in the commercial category."
     date: 2018-07-18
-    url: 'http://myfwc.com/fishing/saltwater/recreational/lionfish/challenge/'
+    url: "http://myfwc.com/fishing/saltwater/recreational/lionfish/challenge/"
     hero:
-        name: lionfish-fwc.jpg
-        alt: A colorful, brown and orange fish with long wavy fins.
-        caption: 'Lionfish are a non-native, invasive species that threaten Florida’s native fish and wildlife. Photo by Amanda Nalley, FWC.'
-  - title: 'Service announces public scoping process for American Electric Power’s proposed conservation plan for the American burying beetle'
-    summary: ''
+      name: lionfish-fwc.jpg
+      alt: A colorful, brown and orange fish with long wavy fins.
+      caption: "Lionfish are a non-native, invasive species that threaten Florida’s native fish and wildlife. Photo by Amanda Nalley, FWC."
+  - title: "Service announces public scoping process for American Electric Power’s proposed conservation plan for the American burying beetle"
+    summary: ""
     date: 2018-07-05
-    url: 'https://www.fws.gov/southwest/es/Oklahoma/'
-  - title: 'How Florida landowners can get paid to restore longleaf pine forests'
-    subtitle: 'We lost more than we lost in wetlands of pine forests in Industrial Revolution'
-    summary: 'Southeastern longleaf pines were the backbone of the Industrial Revolution. That building boom, continued development and many other factors is what conservation groups say caused the longleaf pine forest population to dwindle down to less than five percent of its original landscape.'
+    url: "https://www.fws.gov/southwest/es/Oklahoma/"
+  - title: "How Florida landowners can get paid to restore longleaf pine forests"
+    subtitle: "We lost more than we lost in wetlands of pine forests in Industrial Revolution"
+    summary: "Southeastern longleaf pines were the backbone of the Industrial Revolution. That building boom, continued development and many other factors is what conservation groups say caused the longleaf pine forest population to dwindle down to less than five percent of its original landscape."
     date: 2018-07-05
-    url: 'https://www.clickorlando.com/news/how-florida-landowners-can-get-paid-to-restore-longleaf-pine-forests'
+    url: "https://www.clickorlando.com/news/how-florida-landowners-can-get-paid-to-restore-longleaf-pine-forests"
     hero:
-        name: longleaf-pine-ocala.jpg
-        alt: 'Tall, narrow, pine trees spaced about 25 feet apart with very sparse, dry grass in the understory.'
-        link: 'https://flic.kr/p/qGYCdR'
-        caption: 'Longleaf pine is a fire-dependent ecosystem that supports gentian pinkroot.'
-  - title: 'U.S. Fish and Wildlife Service staffers honored with Science Awards'
-    summary: 'The U.S. Fish and Wildlife Service has recognized three staff members for their extraordinary work by awarding them the Service’s 2017 Science Awards. The Science Awards were established to recognize that effective wildlife management and conservation is founded on innovative scientific inquiry and principles. They are awarded to recognize the outstanding efforts of the agency’s scientists and technical staff.'
+      name: longleaf-pine-ocala.jpg
+      alt: "Tall, narrow, pine trees spaced about 25 feet apart with very sparse, dry grass in the understory."
+      link: "https://flic.kr/p/qGYCdR"
+      caption: "Longleaf pine is a fire-dependent ecosystem that supports gentian pinkroot."
+  - title: "U.S. Fish and Wildlife Service staffers honored with Science Awards"
+    summary: "The U.S. Fish and Wildlife Service has recognized three staff members for their extraordinary work by awarding them the Service’s 2017 Science Awards. The Science Awards were established to recognize that effective wildlife management and conservation is founded on innovative scientific inquiry and principles. They are awarded to recognize the outstanding efforts of the agency’s scientists and technical staff."
     date: 2018-06-28
-    url: 'http://wildlife.org/usfws-staffers-honored-with-science-awards/'
+    url: "http://wildlife.org/usfws-staffers-honored-with-science-awards/"
     hero:
-        name: science-award-winners.jpg
-        alt: 'A collage of three men smiling.'
-        caption: 'Science award winners for the U.S. Fish and Wildlife Service. Photo USFWS.'
-  - title: 'Endangered darter’s habitat in Birmingham gets a boost'
-    summary: 'The endangered watercress darter is known to survive in just a handful of Birmingham-area springs, and one of them just got a major boost to help ensure the rare fish sticks around for the long haul. The Freshwater Land Trust announced this week it has completed a habitat enhancement project at Roebuck Springs, in Birmingham’s Don Hawkins Park, working in collaboration with the U.S. Fish and Wildlife Service and the city of Birmingham.'
+      name: science-award-winners.jpg
+      alt: "A collage of three men smiling."
+      caption: "Science award winners for the U.S. Fish and Wildlife Service. Photo USFWS."
+  - title: "Endangered darter’s habitat in Birmingham gets a boost"
+    summary: "The endangered watercress darter is known to survive in just a handful of Birmingham-area springs, and one of them just got a major boost to help ensure the rare fish sticks around for the long haul. The Freshwater Land Trust announced this week it has completed a habitat enhancement project at Roebuck Springs, in Birmingham’s Don Hawkins Park, working in collaboration with the U.S. Fish and Wildlife Service and the city of Birmingham."
     date: 2018-06-15
-    url: 'https://www.al.com/news/index.ssf/2018/06/birminghams_endangered_darter.html'
+    url: "https://www.al.com/news/index.ssf/2018/06/birminghams_endangered_darter.html"
     hero:
-        name: watercress-darter.jpg
-        alt: 'A smal brown fish with bright blue and orange markings on its fins'
-        caption: 'Watercress darter. Photo USFWS.'
-  - title: 'Everglades National Park and FWC to expand python removal efforts'
-    summary: 'Everglades National Park and the Florida Fish and Wildlife Conservation Commission (FWC) are partnering together to expand efforts to remove Burmese pythons from within the park. The partnership will expand the park’s Python Removal Authorized Agent Program by allowing paid FWC contractors to remove pythons in Everglades National Park. The expansion will triple the maximum allowed number of participants in the park from 40 to 120, allow FWC contractors to use firearms or other humane methods to euthanize pythons in the wild, and qualify additional trained NPS personnel to live capture and turn in pythons.'
+      name: watercress-darter.jpg
+      alt: "A smal brown fish with bright blue and orange markings on its fins"
+      caption: "Watercress darter. Photo USFWS."
+  - title: "Everglades National Park and FWC to expand python removal efforts"
+    summary: "Everglades National Park and the Florida Fish and Wildlife Conservation Commission (FWC) are partnering together to expand efforts to remove Burmese pythons from within the park. The partnership will expand the park’s Python Removal Authorized Agent Program by allowing paid FWC contractors to remove pythons in Everglades National Park. The expansion will triple the maximum allowed number of participants in the park from 40 to 120, allow FWC contractors to use firearms or other humane methods to euthanize pythons in the wild, and qualify additional trained NPS personnel to live capture and turn in pythons."
     date: 2018-05-31
-    url: 'http://myfwc.com/news/news-releases/2018/may/31/python-removal/'
+    url: "http://myfwc.com/news/news-releases/2018/may/31/python-removal/"
     hero:
-        name: burmese-python.jpg
-        alt: 'A large snake with a black and brown pattern on its back moving through the grass.'
-        caption: 'Burmese python. Photo by Liz Barraco, FWC.'
-  - title: 'Video: The endangered reticulated flatwoods salamander at Hurlburt Field and Eglin Air Force Base'
-    summary: 'Hurlburt Field, Eglin Air Force Base, and the U.S. Fish and Wildlife Service continue to work together to try and save the endangered reticulated flatwoods salamander. Increasing the numbers of this little salamander means more possibilities for our airmen, training and for our environment. Video by Florida Fish and Wildlife Conservation Commission.'
+      name: burmese-python.jpg
+      alt: "A large snake with a black and brown pattern on its back moving through the grass."
+      caption: "Burmese python. Photo by Liz Barraco, FWC."
+  - title: "Video: The endangered reticulated flatwoods salamander at Hurlburt Field and Eglin Air Force Base"
+    summary: "Hurlburt Field, Eglin Air Force Base, and the U.S. Fish and Wildlife Service continue to work together to try and save the endangered reticulated flatwoods salamander. Increasing the numbers of this little salamander means more possibilities for our airmen, training and for our environment. Video by Florida Fish and Wildlife Conservation Commission."
     date: 2018-05-13
-    url: 'https://www.facebook.com/HurlburtFieldOfficial/videos/1836046046416960/?hc_ref=ARQzB2aCYzZnXqvLiaJAL2qvFemS2Tv3_81qA4Fu-YP1yVD4nbzHkmUPt7sGJSc47Zw&fref=nf'
-  - title: 'US cities losing 36 million trees a year, researchers find'
-    summary: 'Scientists warn of environmental threats rising from trend that is ‘likely to continue unless policies are altered’'
+    url: "https://www.facebook.com/HurlburtFieldOfficial/videos/1836046046416960/?hc_ref=ARQzB2aCYzZnXqvLiaJAL2qvFemS2Tv3_81qA4Fu-YP1yVD4nbzHkmUPt7sGJSc47Zw&fref=nf"
+  - title: "US cities losing 36 million trees a year, researchers find"
+    summary: "Scientists warn of environmental threats rising from trend that is ‘likely to continue unless policies are altered’"
     date: 2018-05-10
-    url: 'https://www.theguardian.com/cities/2018/may/10/us-cities-losing-millions-of-trees-a-year'
-  - title: 'Rare whooping cranes hatch at Florida wildlife refuge'
-    summary: 'Like many spring phenomena this year, sea turtle nesting season in South Carolina was slightly behind schedule. The season’s official May 1 start date came and went with no sign of nesting turtles, likely due to cooler-than-normal water temperatures resulting from an abnormally cold winter.'
-    date: '2018-05-09'
-    url: 'http://www.dnr.sc.gov/news/2018/may/may9_seaturtles.html'
+    url: "https://www.theguardian.com/cities/2018/may/10/us-cities-losing-millions-of-trees-a-year"
+  - title: "Rare whooping cranes hatch at Florida wildlife refuge"
+    summary: "Like many spring phenomena this year, sea turtle nesting season in South Carolina was slightly behind schedule. The season’s official May 1 start date came and went with no sign of nesting turtles, likely due to cooler-than-normal water temperatures resulting from an abnormally cold winter."
+    date: "2018-05-09"
+    url: "http://www.dnr.sc.gov/news/2018/may/may9_seaturtles.html"
     hero:
-        name: sc-dnr-loggerhead-nesting-sign.jpg
-        alt: 'A bright orange sign identifies a Loggerhead Turtle Nesting Area'
-        caption: 'A South Carolina DNR sign identifying a loggerhead turtle nesting area. Photo by E. Weeks, SCDNR.'
-  - title: 'Rare whooping cranes hatch at Florida wildlife refuge'
-    summary: 'Matchmaking efforts by a North Florida wildlife refuge that paired up two endangered whooping cranes two years ago have finally paid off. On Tuesday, biologists at White Oak announced that the cranes, Grasshopper and Hemlock, had hatched a pair of fuzzy brown chicks, a rare captive-bred love story for the state. The birds, brought to the Yulee refuge in 2016, were being groomed to be a future couple, but surprised wildlife managers with the hatchlings this spring.'
+      name: sc-dnr-loggerhead-nesting-sign.jpg
+      alt: "A bright orange sign identifies a Loggerhead Turtle Nesting Area"
+      caption: "A South Carolina DNR sign identifying a loggerhead turtle nesting area. Photo by E. Weeks, SCDNR."
+  - title: "Rare whooping cranes hatch at Florida wildlife refuge"
+    summary: "Matchmaking efforts by a North Florida wildlife refuge that paired up two endangered whooping cranes two years ago have finally paid off. On Tuesday, biologists at White Oak announced that the cranes, Grasshopper and Hemlock, had hatched a pair of fuzzy brown chicks, a rare captive-bred love story for the state. The birds, brought to the Yulee refuge in 2016, were being groomed to be a future couple, but surprised wildlife managers with the hatchlings this spring."
     date: 2018-05-09
-    url: 'http://www.miamiherald.com/news/local/environment/article210719714.html'
+    url: "http://www.miamiherald.com/news/local/environment/article210719714.html"
     hero:
-        name: whooping-crane-duo.jpg
-        alt: 'Two bright white birds with red patches on their face and long slender legs standing in the a dormant grassy field.'
-        caption: 'Whooping cranes. Photo by D. Serverson, USFWS.'
-  - title: 'Loggerhead nest on Cumberland marks season start'
-    summary: 'Sea turtle nesting season is on in Georgia. National Park Service staff documented the first loggerhead nest of 2018 on Cumberland Island Tuesday morning, the fifth straight year that honor went to Georgia’s southernmost barrier island.'
+      name: whooping-crane-duo.jpg
+      alt: "Two bright white birds with red patches on their face and long slender legs standing in the a dormant grassy field."
+      caption: "Whooping cranes. Photo by D. Serverson, USFWS."
+  - title: "Loggerhead nest on Cumberland marks season start"
+    summary: "Sea turtle nesting season is on in Georgia. National Park Service staff documented the first loggerhead nest of 2018 on Cumberland Island Tuesday morning, the fifth straight year that honor went to Georgia’s southernmost barrier island."
     date: 2018-05-09
-    url: 'http://georgiawildlife.com/loggerhead-nest-cumberland-marks-season-start-0'
+    url: "http://georgiawildlife.com/loggerhead-nest-cumberland-marks-season-start-0"
     hero:
       name: loggerhead-closeup.jpg
       alt: A wide-eyed turtle’s face inches away from the camera.
       caption: Loggerhead in tank at the Tybee Island Marine Science Center. Photo by Joe Pfaller.
-  - title: 'Searching For The ‘Salmon Of The South’'
-    summary: 'Georgia is a hotspot for fish. There are more species of fish in Georgia’s rivers and streams than almost any other state in the nation. There’s one that scientists didn’t even realize existed until the 1990s. It’s called the sicklefin redhorse, and now that scientists know that it’s out there, they’re trying to protect it.'
+  - title: "Searching For The ‘Salmon Of The South’"
+    summary: "Georgia is a hotspot for fish. There are more species of fish in Georgia’s rivers and streams than almost any other state in the nation. There’s one that scientists didn’t even realize existed until the 1990s. It’s called the sicklefin redhorse, and now that scientists know that it’s out there, they’re trying to protect it."
     date: 2018-04-30
-    url: 'https://www.wabe.org/searching-sicklefin-redhorse/'
+    url: "https://www.wabe.org/searching-sicklefin-redhorse/"
     hero:
       name: sicklefin-redhorse-brett-albanese.jpg
       alt: A biologist standing in a stream holds a scaly green fish.
       caption: Brett Albanese, biologist with the Georgia Department of Natural Resources, holds a sicklefin redhorse. Photo by Peter Dimmick, Georgia Department of Natural Resources.
-  - title: 'Georgia refuge helped save wood stork from extincton'
-    summary: 'Thirty-five years ago, wildlife scientists feared that the wood stork, a large wading bird of Southeast swamps, would be extinct by 2000 unless the species made a remarkable recovery. The lanky, bald-headed bird, North America’s only breeding stork species, was put on the federal Endangered Species List. State and federal wildlife managers in Georgia and elsewhere then undertook intense conservation efforts to prevent the bird from passing into oblivion. Those efforts paid off. The wood stork was upgraded in 2014 from endangered to threatened, an indication that it no longer faces extinction — another great success story of the Endangered Species Act.'
+  - title: "Georgia refuge helped save wood stork from extincton"
+    summary: "Thirty-five years ago, wildlife scientists feared that the wood stork, a large wading bird of Southeast swamps, would be extinct by 2000 unless the species made a remarkable recovery. The lanky, bald-headed bird, North America’s only breeding stork species, was put on the federal Endangered Species List. State and federal wildlife managers in Georgia and elsewhere then undertook intense conservation efforts to prevent the bird from passing into oblivion. Those efforts paid off. The wood stork was upgraded in 2014 from endangered to threatened, an indication that it no longer faces extinction — another great success story of the Endangered Species Act."
     date: 2018-05-04
-    url: 'https://www.myajc.com/lifestyles/environment/georgia-refuge-helped-save-wood-stork-from-extincton/kTiiefId1Ha3YKlgpspg5K/'
+    url: "https://www.myajc.com/lifestyles/environment/georgia-refuge-helped-save-wood-stork-from-extincton/kTiiefId1Ha3YKlgpspg5K/"
     hero:
       name: wood-stork-rookery.jpg
       alt: hundreds of bright white birds nest in trees around a pond.
       caption: Wood stork rookery at Harris Neck NWR. Photo by Mary Ellen Urbanski.
-  - title: 'Camp Lejeune joining effort to protect endangered woodpecker'
-    summary: 'Camp Lejeune will partner with several groups to keep the animals away from training grounds. Several agencies gathered at Stones Creek Game Lands in Sneads Ferry on Monday for a groundbreaking ceremony. It’s part of the partnership to help protect the red-cockaded woodpecker. The partnership aims to enhance training flexibility at Camp Lejeune while also managing the habitat of the woodpecker.'
+  - title: "Camp Lejeune joining effort to protect endangered woodpecker"
+    summary: "Camp Lejeune will partner with several groups to keep the animals away from training grounds. Several agencies gathered at Stones Creek Game Lands in Sneads Ferry on Monday for a groundbreaking ceremony. It’s part of the partnership to help protect the red-cockaded woodpecker. The partnership aims to enhance training flexibility at Camp Lejeune while also managing the habitat of the woodpecker."
     date: 2018-04-30
-    url: 'http://wcti12.com/news/local/new-partnership-between-ncwrc-camp-lejeune-will-protect-endangered-woodpecker'
-  - title: 'Deer trafficking case helps limit spread of chronic wasting disease'
-    summary: 'The U.S. Attorney’s Office for the Northern District of Alabama recently sentenced a licensed Alabama deer breeder and his associate for illegally transporting captive-bred and raised white-tailed deer from a facility in Indiana to his deer breeder facility in Alabama. Lewis H. Skinner, 56, and his associate Franklin Banks Loden, 56, both of Northport, Alabama were found guilty of knowingly transporting and receiving white-tailed deer in interstate commerce on April 11, 2018. These actions violated both Alabama State law and the federal Lacey Act.'
+    url: "http://wcti12.com/news/local/new-partnership-between-ncwrc-camp-lejeune-will-protect-endangered-woodpecker"
+  - title: "Deer trafficking case helps limit spread of chronic wasting disease"
+    summary: "The U.S. Attorney’s Office for the Northern District of Alabama recently sentenced a licensed Alabama deer breeder and his associate for illegally transporting captive-bred and raised white-tailed deer from a facility in Indiana to his deer breeder facility in Alabama. Lewis H. Skinner, 56, and his associate Franklin Banks Loden, 56, both of Northport, Alabama were found guilty of knowingly transporting and receiving white-tailed deer in interstate commerce on April 11, 2018. These actions violated both Alabama State law and the federal Lacey Act."
     date: 2018-04-24
-    url: 'https://www.fws.gov/midwest/news/DeerTraffickingCase.html'
+    url: "https://www.fws.gov/midwest/news/DeerTraffickingCase.html"
     hero:
-        name: white-tailed-deer-steve-gifford.jpg
-        alt: 'Four brown deer blend in to the dry vegetation'
-        caption: 'White-tailed deer. Photo © <a href="https://flic.kr/p/jYdMvj" target="_blank">Steve Gifford</a>.'
-        link: https://flic.kr/p/jYdMvj
-  - title: 'Rare Gems: Volunteers help make Little Pend Orielle NWR sparkle'
-    summary: 'Our dedicated U.S. Fish and Wildlife Service 9,242 volunteers in the Pacific Region gave an incredible 197,917 hours of their time to conservation in 2017. That is the equivalent of 24,739 eight-hour work days and 95 full-time staff members! '
+      name: white-tailed-deer-steve-gifford.jpg
+      alt: "Four brown deer blend in to the dry vegetation"
+      caption: 'White-tailed deer. Photo © <a href="https://flic.kr/p/jYdMvj" target="_blank">Steve Gifford</a>.'
+      link: https://flic.kr/p/jYdMvj
+  - title: "Rare Gems: Volunteers help make Little Pend Orielle NWR sparkle"
+    summary: "Our dedicated U.S. Fish and Wildlife Service 9,242 volunteers in the Pacific Region gave an incredible 197,917 hours of their time to conservation in 2017. That is the equivalent of 24,739 eight-hour work days and 95 full-time staff members! "
     date: 2018-04-20
-    url: 'http://usfwspacific.tumblr.com/post/173129985815/rare-gems-volunteers-help-make-little-pend'
+    url: "http://usfwspacific.tumblr.com/post/173129985815/rare-gems-volunteers-help-make-little-pend"
     hero:
-        name: bob-and-krysti-stengle.jpg
-        alt: 'A couple of volunteers'
-        caption: 'Husband-and-wife volunteer team of Bob and Krysti Stengle. Photo by USFWS.'
-  - title: 'Interior and U.S. Fish and Wildlife Service Announce Winner of National Junior Duck Stamp Art Contest'
-    summary: 'A talented young artist from Johns Creek, Ga., has taken top honors at the National Junior Duck Stamp Art Contest. An emperor goose painted by 18-year-old Rayen Kang will grace the 2018-2019 Junior Duck Stamp, which raises funds to educate and engage our nation’s youth in wildlife and wetlands conservation, and outdoor recreation.'
+      name: bob-and-krysti-stengle.jpg
+      alt: "A couple of volunteers"
+      caption: "Husband-and-wife volunteer team of Bob and Krysti Stengle. Photo by USFWS."
+  - title: "Interior and U.S. Fish and Wildlife Service Announce Winner of National Junior Duck Stamp Art Contest"
+    summary: "A talented young artist from Johns Creek, Ga., has taken top honors at the National Junior Duck Stamp Art Contest. An emperor goose painted by 18-year-old Rayen Kang will grace the 2018-2019 Junior Duck Stamp, which raises funds to educate and engage our nation’s youth in wildlife and wetlands conservation, and outdoor recreation."
     date: 2018-04-20
-    url: 'https://www.fws.gov/news/ShowNews.cfm?ref=interior-and-u.s.-fish-and-wildlife-service-announce-winner-of-national-&_ID=36262'
+    url: "https://www.fws.gov/news/ShowNews.cfm?ref=interior-and-u.s.-fish-and-wildlife-service-announce-winner-of-national-&_ID=36262"
     hero:
-        name: 2018-GA-junior-duck-best-of-show-rayen-kang.jpg
-        alt: 'A painting of a bird witch a white head and black white and brown feathers along its wings and back.'
-        caption: 'Rayen Kang’s acrylic rendition of an emperor goose took home the Georgia Junior Duck Stamp Best of Show. Painting by Rayen Kang.'
-        position: '60% 29%'
-  - title: 'Six defendants charged with collectively trafficking over four hundred migratory birds'
-    summary: 'A slew of state and federal agencies announce the filing of federal charges against 6 defendants in 6 separate cases for their involvement with the trafficking of over 400 migratory birds.'
+      name: 2018-GA-junior-duck-best-of-show-rayen-kang.jpg
+      alt: "A painting of a bird witch a white head and black white and brown feathers along its wings and back."
+      caption: "Rayen Kang’s acrylic rendition of an emperor goose took home the Georgia Junior Duck Stamp Best of Show. Painting by Rayen Kang."
+      position: "60% 29%"
+  - title: "Six defendants charged with collectively trafficking over four hundred migratory birds"
+    summary: "A slew of state and federal agencies announce the filing of federal charges against 6 defendants in 6 separate cases for their involvement with the trafficking of over 400 migratory birds."
     date: 2018-04-16
-    url: 'https://www.justice.gov/usao-sdfl/pr/six-defendants-charged-collectively-trafficking-over-four-hundred-migratory-birds'
+    url: "https://www.justice.gov/usao-sdfl/pr/six-defendants-charged-collectively-trafficking-over-four-hundred-migratory-birds"
     hero:
-        name: free-birds-ornery.jpg
-        alt: 'Blue birds with outstretched wings take flight'
-        caption: 'Birds recovered during Operation Ornery Birds are released at Everglades National Park in Florida.'
-  - title: 'Wild Life: Volunteer helps care for Pinckney Island, the refuge that raised her'
-    summary: 'A quarter of a million people visit Pinckney Island National Wildlife Refuge every year. But Alice Boyd remembers a time when visitors to Pinckney Island — the largest of five islands in the 4,053-acre refuge, and the only one open to the public — could be counted in the dozens, the island was accessible only by boat and she and her brother were the only children for miles around.'
+      name: free-birds-ornery.jpg
+      alt: "Blue birds with outstretched wings take flight"
+      caption: "Birds recovered during Operation Ornery Birds are released at Everglades National Park in Florida."
+  - title: "Wild Life: Volunteer helps care for Pinckney Island, the refuge that raised her"
+    summary: "A quarter of a million people visit Pinckney Island National Wildlife Refuge every year. But Alice Boyd remembers a time when visitors to Pinckney Island — the largest of five islands in the 4,053-acre refuge, and the only one open to the public — could be counted in the dozens, the island was accessible only by boat and she and her brother were the only children for miles around."
     date: 2018-04-13
-    url: 'http://www.hiltonheadmonthly.com/living/nature/5077-wild-life'
+    url: "http://www.hiltonheadmonthly.com/living/nature/5077-wild-life"
     hero:
-        name: pinckney-island-nwr-marsh.jpg
-        alt: 'Bright green grass emerges from a huge marsh.'
-        caption: 'Pinckney Island National Wildlife Refuge in South Carolina is a kayaker’s paradise. Photo by Eric Horan, USFWS.'
-        link: 'https://flic.kr/p/8Nz9fW'
-  - title: 'Service and partners celebrate remarkable conservation victory as once critically imperiled songbird declared saved from threat of extinction'
-    subtitle: 'Kirtland’s warbler populations continue to soar; prompting proposal by Service to remove it from Endangered Species Act'
-    summary: 'Amidst catastrophic population declines leaving fewer than 200 known pairs in existence in the early 1970s, the Kirtland’s warbler seemed to be rapidly heading towards extinction. But after decades of partnership efforts among federal and state agencies, industry and conservation groups, this songbird has rebounded, and the U.S. Fish and Wildlife Service is now proposing to remove the Kirtland’s warbler from the list of endangered and threatened species. The proposal opens a 90-day public comment period that will help inform a final decision.'
+      name: pinckney-island-nwr-marsh.jpg
+      alt: "Bright green grass emerges from a huge marsh."
+      caption: "Pinckney Island National Wildlife Refuge in South Carolina is a kayaker’s paradise. Photo by Eric Horan, USFWS."
+      link: "https://flic.kr/p/8Nz9fW"
+  - title: "Service and partners celebrate remarkable conservation victory as once critically imperiled songbird declared saved from threat of extinction"
+    subtitle: "Kirtland’s warbler populations continue to soar; prompting proposal by Service to remove it from Endangered Species Act"
+    summary: "Amidst catastrophic population declines leaving fewer than 200 known pairs in existence in the early 1970s, the Kirtland’s warbler seemed to be rapidly heading towards extinction. But after decades of partnership efforts among federal and state agencies, industry and conservation groups, this songbird has rebounded, and the U.S. Fish and Wildlife Service is now proposing to remove the Kirtland’s warbler from the list of endangered and threatened species. The proposal opens a 90-day public comment period that will help inform a final decision."
     date: 2018-04-11
-    url: 'https://www.fws.gov/midwest/news/878.html'
+    url: "https://www.fws.gov/midwest/news/878.html"
     hero:
-        name: kirtlands-warbler.jpg
-        alt: 'A small yellow breasted bird with grey feathers.'
-        link: 'https://flic.kr/p/97xaNJ'
-        caption: Kirtland&rsquo;s warblers nest exclusively in jack pine stands. Photo by Joel Trick, USFWS.
-  - title: 'Recovery plan draft for dwindling population of endangered fish released for public comment'
-    url: 'http://www.timesfreepress.com/news/local/story/2018/apr/09/recovery-pldraft-dwindling-populatiendangered/467860/'
+      name: kirtlands-warbler.jpg
+      alt: "A small yellow breasted bird with grey feathers."
+      link: "https://flic.kr/p/97xaNJ"
+      caption: Kirtland&rsquo;s warblers nest exclusively in jack pine stands. Photo by Joel Trick, USFWS.
+  - title: "Recovery plan draft for dwindling population of endangered fish released for public comment"
+    url: "http://www.timesfreepress.com/news/local/story/2018/apr/09/recovery-pldraft-dwindling-populatiendangered/467860/"
     date: 2018-04-09
-    summary: 'A plan released for public comment would help recover a dwindling population of an endangered fish in Tennessee and Kentucky while restoring a critical part of the region’s freshwater ecosystem, but some argue it comes at a hefty price.'
+    summary: "A plan released for public comment would help recover a dwindling population of an endangered fish in Tennessee and Kentucky while restoring a critical part of the region’s freshwater ecosystem, but some argue it comes at a hefty price."
     hero:
-        name: cumberland-darter.jpg
-        alt: 'A small, straw-yellow colored fish with brown markings'
-        caption: 'Photo by Jeremy Shute, Conservation Fisheries, Inc.'
-        position: 'left bottom'
-  - title: 'Invasive carp endanger region’s freshwater ecosystem, recreational water users'
-    url: 'http://www.timesfreepress.com/news/local/story/2018/apr/02/invasive-carp-heading-toward-chattanoogpose-r/467341/'
+      name: cumberland-darter.jpg
+      alt: "A small, straw-yellow colored fish with brown markings"
+      caption: "Photo by Jeremy Shute, Conservation Fisheries, Inc."
+      position: "left bottom"
+  - title: "Invasive carp endanger region’s freshwater ecosystem, recreational water users"
+    url: "http://www.timesfreepress.com/news/local/story/2018/apr/02/invasive-carp-heading-toward-chattanoogpose-r/467341/"
     date: 2018-04-02
-    summary: 'Invasive carp are heading toward Chattanooga, threatening the region’s renowned freshwater ecosystem and posing risk to recreational water users and fishermen. The non-native fish are making their way through the U.S.’s main river systems via locks, and biologists, federal officials and fishermen are working to combat them as they spread.'
+    summary: "Invasive carp are heading toward Chattanooga, threatening the region’s renowned freshwater ecosystem and posing risk to recreational water users and fishermen. The non-native fish are making their way through the U.S.’s main river systems via locks, and biologists, federal officials and fishermen are working to combat them as they spread."
     hero:
       name: silver-carp-jumping-fox-river.jpg
-      alt: 'A half dozen large silver fish jumping out of the water to a height of six feet.'
-      caption: 'School of jumping silver carp. Photo by Ryan Hagerty, USFWS.'
-      link: 'https://flic.kr/p/MFyYsU'
-      position: '70% 35%'
-  - title: 'Sensitive Coastal Habitat Added To Bon Secour National Wildlife Refuge'
-    subtitle: 'Acquisition supports economic vitality of local communities through added recreational access'
-    url: 'https://www.conservationfund.org/news-resources/press-releases/1782-coastal-protection-at-bon-secour-national-wildlife-refuge'
+      alt: "A half dozen large silver fish jumping out of the water to a height of six feet."
+      caption: "School of jumping silver carp. Photo by Ryan Hagerty, USFWS."
+      link: "https://flic.kr/p/MFyYsU"
+      position: "70% 35%"
+  - title: "Sensitive Coastal Habitat Added To Bon Secour National Wildlife Refuge"
+    subtitle: "Acquisition supports economic vitality of local communities through added recreational access"
+    url: "https://www.conservationfund.org/news-resources/press-releases/1782-coastal-protection-at-bon-secour-national-wildlife-refuge"
     date: 2018-02-13
-    summary: 'Today The Conservation Fund, the State of Alabama and the U.S. Fish and Wildlife Service announced the protection of 251 acres at the Little Point Clear Unit of the Bon Secour National Wildlife Refuge thanks to funding from the National Fish and Wildlife Foundation’s (NFWF) Gulf Environmental Benefit Fund.'
+    summary: "Today The Conservation Fund, the State of Alabama and the U.S. Fish and Wildlife Service announced the protection of 251 acres at the Little Point Clear Unit of the Bon Secour National Wildlife Refuge thanks to funding from the National Fish and Wildlife Foundation’s (NFWF) Gulf Environmental Benefit Fund."
     hero:
       name: bon-secour-nwr-dunes.jpg
-      alt: 'Vegetation grows out of sand dunes at the beach.'
-      caption: 'Dunes on Perdue Unit at Bon Secour National Wildlife Refuge. Photo by USFWS.'
-      link: 'https://flic.kr/p/eyRz9F'
-  - title: 'Venus Flytraps Don’t Eat The Insects That Pollinate Them'
-    url: 'https://news.ncsu.edu/2018/02/venus-flytraps-2018/'
+      alt: "Vegetation grows out of sand dunes at the beach."
+      caption: "Dunes on Perdue Unit at Bon Secour National Wildlife Refuge. Photo by USFWS."
+      link: "https://flic.kr/p/eyRz9F"
+  - title: "Venus Flytraps Don’t Eat The Insects That Pollinate Them"
+    url: "https://news.ncsu.edu/2018/02/venus-flytraps-2018/"
     date: 2018-02-06
-    summary: 'While most people are familiar with Venus flytraps and their snapping jaws, there is still a lot that scientists don’t know about the biology of these carnivorous plants. Researchers have for the first time discovered which insects pollinate the rare plants in their native habitat – and discovered that the flytraps don’t dine on these pollinator species.'
+    summary: "While most people are familiar with Venus flytraps and their snapping jaws, there is still a lot that scientists don’t know about the biology of these carnivorous plants. Researchers have for the first time discovered which insects pollinate the rare plants in their native habitat – and discovered that the flytraps don’t dine on these pollinator species."
     hero:
-        name: venus-flytrap.jpg
-        alt: 'A cluster of carnivorious plant heads with bright red/orange mouths.'
-        caption: 'Venus flytrap. Photo by Jennifer Koches, USFWS.'
-  - title: 'Refuge makes festival fly high'
-    url: 'http://www.decaturdaily.com/opinion/editorials/refuge-makes-festival-fly-high/article_ec2542d2-ca5e-57cb-925f-d22af44f0acc.html'
+      name: venus-flytrap.jpg
+      alt: "A cluster of carnivorious plant heads with bright red/orange mouths."
+      caption: "Venus flytrap. Photo by Jennifer Koches, USFWS."
+  - title: "Refuge makes festival fly high"
+    url: "http://www.decaturdaily.com/opinion/editorials/refuge-makes-festival-fly-high/article_ec2542d2-ca5e-57cb-925f-d22af44f0acc.html"
     date: 2018-01-19
-    summary: 'Even those with little interest in bird watching can appreciate the thousands of sandhill cranes that winter at Wheeler National Wildlife Refuge. The rows of gray birds stretch for several football fields at various spots on the refuge, making it look like one of those exotic locales for migrating wildlife. This past weekend, the refuge shared the sandhill cranes and their more rare relatives, the 22 whooping cranes wintering in north Alabama, during the sixth annual Festival of the Cranes.'
+    summary: "Even those with little interest in bird watching can appreciate the thousands of sandhill cranes that winter at Wheeler National Wildlife Refuge. The rows of gray birds stretch for several football fields at various spots on the refuge, making it look like one of those exotic locales for migrating wildlife. This past weekend, the refuge shared the sandhill cranes and their more rare relatives, the 22 whooping cranes wintering in north Alabama, during the sixth annual Festival of the Cranes."
     hero:
-        name: 'rise-raptor-with-curt-cearly.jpg'
-        alt: 'A representative from Rise Raptor Project, Inc. holding an owl.'
-        caption: 'A representative from Rise Raptor Project, Inc. showing a live owl. Photo by USFWS.'
-  - title: 'SCDNR urging catch and release to help spotted seatrout recover'
-    url: 'http://www.dnr.sc.gov/news/2018/jan/jan18_seatrout.html'
+      name: "rise-raptor-with-curt-cearly.jpg"
+      alt: "A representative from Rise Raptor Project, Inc. holding an owl."
+      caption: "A representative from Rise Raptor Project, Inc. showing a live owl. Photo by USFWS."
+  - title: "SCDNR urging catch and release to help spotted seatrout recover"
+    url: "http://www.dnr.sc.gov/news/2018/jan/jan18_seatrout.html"
     date: 2018-01-18
-    summary: 'Unusually cold weather has gripped South Carolina this January, lowering water temperatures along the coast to levels that can be deadly for many marine animals. As South Carolina Department of Natural Resources (SCDNR) biologists work to understand the severity of this winter weather’s impacts on important fisheries, they’re also asking the public to help – by practicing catch and release of spotted seatrout, one of the fish hardest hit by the low temperatures.'
+    summary: "Unusually cold weather has gripped South Carolina this January, lowering water temperatures along the coast to levels that can be deadly for many marine animals. As South Carolina Department of Natural Resources (SCDNR) biologists work to understand the severity of this winter weather’s impacts on important fisheries, they’re also asking the public to help – by practicing catch and release of spotted seatrout, one of the fish hardest hit by the low temperatures."
     hero:
-        name: 'spotted-seatrout.jpg'
-        alt: 'A life-like illustration of a fish with dark spots all along its back'
-        link: 'https://commons.wikimedia.org/wiki/File:Spotted_seatrout_fish_cynoscion_nebulosus.jpg'
-        caption: 'Spotted seatrout.'
-  - title: 'FWC monitoring sea turtles, manatees during cold weather'
-    url: 'http://myfwc.com/news/news-releases/2018/january/03/cold/'
+      name: "spotted-seatrout.jpg"
+      alt: "A life-like illustration of a fish with dark spots all along its back"
+      link: "https://commons.wikimedia.org/wiki/File:Spotted_seatrout_fish_cynoscion_nebulosus.jpg"
+      caption: "Spotted seatrout."
+  - title: "FWC monitoring sea turtles, manatees during cold weather"
+    url: "http://myfwc.com/news/news-releases/2018/january/03/cold/"
     date: 2018-01-03
-    summary: 'Sea turtles are one species that can be affected by cold weather. When the water temperatures drop, stunned sea turtles may float listlessly in the water on or near shore. Although these turtles may appear to be dead, they are often still alive. It is important to report these turtles to the FWC Wildlife Alert Hotline as soon as possible.'
+    summary: "Sea turtles are one species that can be affected by cold weather. When the water temperatures drop, stunned sea turtles may float listlessly in the water on or near shore. Although these turtles may appear to be dead, they are often still alive. It is important to report these turtles to the FWC Wildlife Alert Hotline as soon as possible."
     hero:
-        name: 'kemps-ridley-sea-turtle.jpg'
-        alt: 'Kemps ridley sea turtle laying in the sand. Large with grey shell and yellow body with grey speckles.'
-        link: 'https://flic.kr/p/bnBsyZ'
-        caption: 'Kemps ridley sea turtle. Photo by NER Sea Turtle Stranding Network.'
-  - title: 'Hunters, anglers drive conservation efforts in Alabama'
-    url: 'http://www.montgomeryadvertiser.com/story/news/2017/12/17/hunters-anglers-drive-conservation-efforts/942039001/'
+      name: "kemps-ridley-sea-turtle.jpg"
+      alt: "Kemps ridley sea turtle laying in the sand. Large with grey shell and yellow body with grey speckles."
+      link: "https://flic.kr/p/bnBsyZ"
+      caption: "Kemps ridley sea turtle. Photo by NER Sea Turtle Stranding Network."
+  - title: "Hunters, anglers drive conservation efforts in Alabama"
+    url: "http://www.montgomeryadvertiser.com/story/news/2017/12/17/hunters-anglers-drive-conservation-efforts/942039001/"
     date: 2017-12-18
-    summary: 'If you enjoy the outdoors in Alabama, and the nation for that matter, thank a hunter or angler. Through federally levied excise taxes on everything from guns and ammo to fish finders and boat motors, more than $18 billion dollars have been given to the states to aid conservation efforts, according to the U.S. Fish and Wildlife Service.'
+    summary: "If you enjoy the outdoors in Alabama, and the nation for that matter, thank a hunter or angler. Through federally levied excise taxes on everything from guns and ammo to fish finders and boat motors, more than $18 billion dollars have been given to the states to aid conservation efforts, according to the U.S. Fish and Wildlife Service."
     hero:
-        name: white-tailed-deer-silhouette.jpg
-        link: 'https://flic.kr/p/ntVfxb'
-        alt: 'The silhouette of a white-tailed deer buck.'
-        caption: 'White-tailed deer at sunrise on Lacreek National Wildlife Refuge. Photo by Tom Koerner, USFWS.'
-  - title: 'NFWF Announces $700,000 in Grants to Help At-Risk Aquatic Species in the Southeast'
-    url: 'http://www.nfwf.org/whoweare/mediacenter/pr/Pages/nfwf-announces-grants-to-help-at-risk-aquatic-species-in-the-southeast-2017-1219.aspx'
+      name: white-tailed-deer-silhouette.jpg
+      link: "https://flic.kr/p/ntVfxb"
+      alt: "The silhouette of a white-tailed deer buck."
+      caption: "White-tailed deer at sunrise on Lacreek National Wildlife Refuge. Photo by Tom Koerner, USFWS."
+  - title: "NFWF Announces $700,000 in Grants to Help At-Risk Aquatic Species in the Southeast"
+    url: "http://www.nfwf.org/whoweare/mediacenter/pr/Pages/nfwf-announces-grants-to-help-at-risk-aquatic-species-in-the-southeast-2017-1219.aspx"
     date: 2017-12-19
-    summary: 'The National Fish and Wildlife Foundation (NFWF) today announced $700,000 in grants to conserve and restore habitats for at-risk aquatic species within targeted freshwater ecosystems of the Southeast. The grants will generate $1.71 million in match for a total conservation impact of $2.41 million.'
+    summary: "The National Fish and Wildlife Foundation (NFWF) today announced $700,000 in grants to conserve and restore habitats for at-risk aquatic species within targeted freshwater ecosystems of the Southeast. The grants will generate $1.71 million in match for a total conservation impact of $2.41 million."
     hero:
-        name: pigeon-mountain-salamander.jpg
-        link: 'https://flic.kr/p/eLEEwc'
-        alt: 'A brownish-yellow salamander sanding on a mossy rock with large round eyes.'
-        caption: 'The Pigeon Mountain salamander is no longer at-risk of needing federal protection. Photo by John P. Clare, CC BY-NC-ND 2.0.'
-  - title: 'Is the coast clear for tricolored bats?'
-    url: 'https://usfwsnortheast.wordpress.com/2017/11/21/is-the-coast-clear-for-tricolored-bats/'
+      name: pigeon-mountain-salamander.jpg
+      link: "https://flic.kr/p/eLEEwc"
+      alt: "A brownish-yellow salamander sanding on a mossy rock with large round eyes."
+      caption: "The Pigeon Mountain salamander is no longer at-risk of needing federal protection. Photo by John P. Clare, CC BY-NC-ND 2.0."
+  - title: "Is the coast clear for tricolored bats?"
+    url: "https://usfwsnortheast.wordpress.com/2017/11/21/is-the-coast-clear-for-tricolored-bats/"
     date: 2017-11-21
-    summary: 'This winter two scientists will set out to learn  whether tricolored bats that use winter roosts other than caves and mines are susceptible to a deadly bat disease in the coastal plains and forests of North and South Carolina — two of 38 states in the bats’ range.'
+    summary: "This winter two scientists will set out to learn  whether tricolored bats that use winter roosts other than caves and mines are susceptible to a deadly bat disease in the coastal plains and forests of North and South Carolina — two of 38 states in the bats’ range."
     hero:
-        name: tri-colored-bat-white-nose-syndrome.jpg
-        alt: 'A brown bat attached to the roof of a cave with white fuzz around its nose'
-        caption: 'In this 2016 photo, a tri-colored bat with evidence of White Nose Syndrome (WNS) hibernates on the wall of the Black Diamond Tunnel in the North Georgia mountains. Photo by Pete Pattavina/USFWS.'
-        link: 'https://flic.kr/p/SQZDWw'
-        position: 'right center'
-  - title: 'Effort begins to restore habitat of imperiled Canby’s dropwort plant, in SW Georgia'
-    url: 'https://saportareport.com/effort-begins-restore-habitat-imperiled-canbys-dropwort-plant-sw-georgia/'
+      name: tri-colored-bat-white-nose-syndrome.jpg
+      alt: "A brown bat attached to the roof of a cave with white fuzz around its nose"
+      caption: "In this 2016 photo, a tri-colored bat with evidence of White Nose Syndrome (WNS) hibernates on the wall of the Black Diamond Tunnel in the North Georgia mountains. Photo by Pete Pattavina/USFWS."
+      link: "https://flic.kr/p/SQZDWw"
+      position: "right center"
+  - title: "Effort begins to restore habitat of imperiled Canby’s dropwort plant, in SW Georgia"
+    url: "https://saportareport.com/effort-begins-restore-habitat-imperiled-canbys-dropwort-plant-sw-georgia/"
     date: 2017-12-09
-    summary: 'Federal and state efforts are underway to save a plant in southwest Georgia that’s so rare its global status is listed as, “imperiled – at high risk of extinction.”'
+    summary: "Federal and state efforts are underway to save a plant in southwest Georgia that’s so rare its global status is listed as, “imperiled – at high risk of extinction.”"
     hero:
-      name: 'canbys-dropwort-search.jpg'
-      alt: 'Biologists search for a tall grass-like plant in a flooded forest.'
-      link: 'https://flic.kr/p/CBD8uK'
-      caption: 'Georgia DNR botanist Lisa Kruse and landowner Kyle Smith look for Canby’s dropwort on a Neyami Savanna tract.'
-  - title: 'Georgia’s barrier islands recognized for their ecological importance'
-    url: 'https://www.wabe.org/georgias-barrier-islands-recognized-ecological-importance/'
+      name: "canbys-dropwort-search.jpg"
+      alt: "Biologists search for a tall grass-like plant in a flooded forest."
+      link: "https://flic.kr/p/CBD8uK"
+      caption: "Georgia DNR botanist Lisa Kruse and landowner Kyle Smith look for Canby’s dropwort on a Neyami Savanna tract."
+  - title: "Georgia’s barrier islands recognized for their ecological importance"
+    url: "https://www.wabe.org/georgias-barrier-islands-recognized-ecological-importance/"
     date: 2017-12-07
-    summary: 'Georgia’s barrier islands recently gained recognition for their importance for shorebirds. Environmental advocates say it’s a testament to how much natural land on the coast has been protected.'
+    summary: "Georgia’s barrier islands recently gained recognition for their importance for shorebirds. Environmental advocates say it’s a testament to how much natural land on the coast has been protected."
     hero:
       name: red-knot.jpg
-      alt: 'A red breasted shorebird with black and white markings on its back.'
-      link: 'https://flic.kr/p/79wtdr'
-      caption: 'Tagged Red Knot Mispillion Harbor, Delaware. Photo by Gregory Breese, USFWS.'
-  - title: 'Georgia piecing together network of protected wild lands'
-    url: 'https://www.wabe.org/georgia-piecing-together-network-protected-wild-lands/'
+      alt: "A red breasted shorebird with black and white markings on its back."
+      link: "https://flic.kr/p/79wtdr"
+      caption: "Tagged Red Knot Mispillion Harbor, Delaware. Photo by Gregory Breese, USFWS."
+  - title: "Georgia piecing together network of protected wild lands"
+    url: "https://www.wabe.org/georgia-piecing-together-network-protected-wild-lands/"
     date: 2017-12-06
-    summary: 'Georgia’s Altamaha River is big. It’s one of the largest flowing into the Atlantic Ocean on the eastern seaboard. Over the past couple decades, piece by piece, the state of Georgia has bought up land along either side of it, creating a network of protected forests, marshes and streams called the Altamaha River Corridor.'
+    summary: "Georgia’s Altamaha River is big. It’s one of the largest flowing into the Atlantic Ocean on the eastern seaboard. Over the past couple decades, piece by piece, the state of Georgia has bought up land along either side of it, creating a network of protected forests, marshes and streams called the Altamaha River Corridor."
     hero:
       name: altamaha-sunset.jpg
-      alt: 'An aerial photograph of a sunset over the Altamaha River.'
-      caption: 'Altamaha River sunset. Photo by Nicole Vidal, USFWS.'
-  - title: 'Georgia initiative brings business to the table to save a rare animal'
-    url: 'https://www.wabe.org/georgia-initiative-brings-business-table-save-rare-animal/'
+      alt: "An aerial photograph of a sunset over the Altamaha River."
+      caption: "Altamaha River sunset. Photo by Nicole Vidal, USFWS."
+  - title: "Georgia initiative brings business to the table to save a rare animal"
+    url: "https://www.wabe.org/georgia-initiative-brings-business-table-save-rare-animal/"
     date: 2017-12-06
-    summary: 'In Georgia, instead of fighting the potential listing, businesses are working with wildlife agencies on what’s called the Georgia Gopher Tortoise Initiative, to save the gopher tortoise – before they’re forced to by federal regulation.'
+    summary: "In Georgia, instead of fighting the potential listing, businesses are working with wildlife agencies on what’s called the Georgia Gopher Tortoise Initiative, to save the gopher tortoise – before they’re forced to by federal regulation."
     hero:
       name: baby-gopher-tortoise.jpg
-      alt: 'A tiny beige tortoise walking on sandy soil.'
-      caption: 'Baby gopher tortoise. Photo by Randy Browning, USFWS.'
-      link: 'https://flic.kr/p/a5Hrx2'
-      position: 'bottom left'
-  - title: 'TNC protects land essential to the Florida panther on the northern bank of the Caloosahatchee River'
-    url: 'https://www.nature.org/ourinitiatives/regions/northamerica/unitedstates/florida/newsroom/florida-caloosahatchee-river-panther-habitat-protected.xml'
+      alt: "A tiny beige tortoise walking on sandy soil."
+      caption: "Baby gopher tortoise. Photo by Randy Browning, USFWS."
+      link: "https://flic.kr/p/a5Hrx2"
+      position: "bottom left"
+  - title: "TNC protects land essential to the Florida panther on the northern bank of the Caloosahatchee River"
+    url: "https://www.nature.org/ourinitiatives/regions/northamerica/unitedstates/florida/newsroom/florida-caloosahatchee-river-panther-habitat-protected.xml"
     date: 2017-11-09
-    summary: 'The Nature Conservancy announces protection of land along the northern bank of the Caloosahatchee River that is essential to the future expansion of the federally endangered Florida panther population. The new conservation easement marks a series of firsts for the organization and a strong step in panther conservation. The 460-acre Cypress Creek Grove property in Glades County has been forever safeguarded from urban development and is the first protected tract within the identified panther corridor on the northern bank of the river.'
+    summary: "The Nature Conservancy announces protection of land along the northern bank of the Caloosahatchee River that is essential to the future expansion of the federally endangered Florida panther population. The new conservation easement marks a series of firsts for the organization and a strong step in panther conservation. The 460-acre Cypress Creek Grove property in Glades County has been forever safeguarded from urban development and is the first protected tract within the identified panther corridor on the northern bank of the river."
     hero:
-      link: 'https://flic.kr/p/8So6zm'
-      caption: 'A Florida panther. Photo by Larry W. Richardson, USFWS.'
-      alt: 'A Florida panther walking on a gravel road with a slash pine forest in the background'
+      link: "https://flic.kr/p/8So6zm"
+      caption: "A Florida panther. Photo by Larry W. Richardson, USFWS."
+      alt: "A Florida panther walking on a gravel road with a slash pine forest in the background"
       name: florida-panther.jpg
-      position: 'left center'
-  - title: 'Anatomy of a Weir'
-    subtitle: 'Keeping a finger on the pulse of Alaska’s salmon runs'
-    url: 'https://medium.com/conservation-service-in-action/anatomy-of-a-weir-383f25fb1c8c'
+      position: "left center"
+  - title: "Anatomy of a Weir"
+    subtitle: "Keeping a finger on the pulse of Alaska’s salmon runs"
+    url: "https://medium.com/conservation-service-in-action/anatomy-of-a-weir-383f25fb1c8c"
     date: 2017-11-04
-    summary: 'During a routine physical exam, your doctor checks your vitals, right? Weight, heart rate, blood pressure etcetera. Annual visits establish a baseline of personal health against which unhealthy trends can be detected before they become risk factors. We need baselines for the health of our salmon runs too. Weirs help us to establish those baselines and then detect changes in populations over time. They also help fisheries managers evaluate and adjust their management actions, reconstruct past salmon abundances, and forecast future salmon returns.'
+    summary: "During a routine physical exam, your doctor checks your vitals, right? Weight, heart rate, blood pressure etcetera. Annual visits establish a baseline of personal health against which unhealthy trends can be detected before they become risk factors. We need baselines for the health of our salmon runs too. Weirs help us to establish those baselines and then detect changes in populations over time. They also help fisheries managers evaluate and adjust their management actions, reconstruct past salmon abundances, and forecast future salmon returns."
     hero:
-      name: 'alaska-salmon-restoration.jpg'
-      alt: 'A USFWS employee holding a large trout just below the water’s surface.'
-      caption: 'This chum salmon swam up the Yukon River and passed through our East Fork Andreafsky River weir on the way to its spawning grounds in Alaska’s Yukon Delta National Wildlife Refuge. Photo by Ryan Hagerty, USFWS.'
+      name: "alaska-salmon-restoration.jpg"
+      alt: "A USFWS employee holding a large trout just below the water’s surface."
+      caption: "This chum salmon swam up the Yukon River and passed through our East Fork Andreafsky River weir on the way to its spawning grounds in Alaska’s Yukon Delta National Wildlife Refuge. Photo by Ryan Hagerty, USFWS."
       position: bottom center
-  - title: 'Former USFWS Leader Receives Highest Honor from Regional Wildlife Agencies'
-    url: 'http://www.seafwa.org/news/e_2060/News/2017/11/Former_USFWS_Leader_Receives_Highest_Honor_from_Regional_Wildlife_Agencies.htm'
+  - title: "Former USFWS Leader Receives Highest Honor from Regional Wildlife Agencies"
+    url: "http://www.seafwa.org/news/e_2060/News/2017/11/Former_USFWS_Leader_Receives_Highest_Honor_from_Regional_Wildlife_Agencies.htm"
     date: 2017-11-06
-    summary: 'The Southeastern Association of Fish and Wildlife Agencies (SEAFWA) named the U.S. Fish and Wildlife Service’s former Southeast Regional Director Cindy Dohner the 2017 C. W. Watson Award winner at their annual meeting in Louisville this week. The award is the highest honor bestowed by the Association.'
+    summary: "The Southeastern Association of Fish and Wildlife Agencies (SEAFWA) named the U.S. Fish and Wildlife Service’s former Southeast Regional Director Cindy Dohner the 2017 C. W. Watson Award winner at their annual meeting in Louisville this week. The award is the highest honor bestowed by the Association."
     hero:
-      name: 'cindy-dohner-with-hawk.jpg'
-      alt: 'A woman in a pink shirt holding a hawk with a gloved hand'
-      link: 'https://flic.kr/p/dfQGAS'
-      caption: 'Former regional director for the USFWS Southeast region, Cindy Dohner. Photo by USFWS.'
-  - title: 'Georgia’s barrier islands get important shorebird designation'
-    url: 'http://jacksonville.com/news/georgia/2017-11-01/georgia-s-barrier-islands-get-important-shorebird-designation'
+      name: "cindy-dohner-with-hawk.jpg"
+      alt: "A woman in a pink shirt holding a hawk with a gloved hand"
+      link: "https://flic.kr/p/dfQGAS"
+      caption: "Former regional director for the USFWS Southeast region, Cindy Dohner. Photo by USFWS."
+  - title: "Georgia’s barrier islands get important shorebird designation"
+    url: "http://jacksonville.com/news/georgia/2017-11-01/georgia-s-barrier-islands-get-important-shorebird-designation"
     date: 2017-11-01
-    summary: 'An international shorebird conservation network designated Georgia’s barrier islands a landscape of hemispheric importance for shorebirds that fly between North and South America. The Western Hemisphere Shorebird Reserve Network, or WHSRN, voted in October to designate Georgia’s chain of coastal islands its 100th site for recognition, said 100 Miles, a coastal conservation organization.'
+    summary: "An international shorebird conservation network designated Georgia’s barrier islands a landscape of hemispheric importance for shorebirds that fly between North and South America. The Western Hemisphere Shorebird Reserve Network, or WHSRN, voted in October to designate Georgia’s chain of coastal islands its 100th site for recognition, said 100 Miles, a coastal conservation organization."
     hero:
-      name: 'red-knot.jpg'
-      alt: 'A red breasted shorebird with black and white markings on its back.'
-      link: 'https://flic.kr/p/79wtdr'
-      caption: 'Tagged Red Knot Mispillion Harbor, Delaware. Photo by Gregory Breese, USFWS.'
-  - title: 'Mississippi Flyway Public Waterfowl Hunting Hotspots for 2017-2018'
-    subtitle: '5 public hunting destinations you may want to explore'
-    url: 'http://www.ducks.org/hunting/waterfowl-hunting-destinations/mississippi-flyway-public-waterfowl-hunting-hotspots-for-2017-2018'
+      name: "red-knot.jpg"
+      alt: "A red breasted shorebird with black and white markings on its back."
+      link: "https://flic.kr/p/79wtdr"
+      caption: "Tagged Red Knot Mispillion Harbor, Delaware. Photo by Gregory Breese, USFWS."
+  - title: "Mississippi Flyway Public Waterfowl Hunting Hotspots for 2017-2018"
+    subtitle: "5 public hunting destinations you may want to explore"
+    url: "http://www.ducks.org/hunting/waterfowl-hunting-destinations/mississippi-flyway-public-waterfowl-hunting-hotspots-for-2017-2018"
     date: 2017-10-13
-    summary: 'Located in the legendary Mississippi Delta, 40,000-acre Panther Swamp National Wildlife Refuge (NWR) is among the largest public waterfowl hunting areas in the Southeast. The sprawling tract is one of the seven refuges in the 100,000-acre Theodore Roosevelt National Wildlife Refuge Complex, which is owned and managed by the U.S. Fish and Wildlife Service. Panther Swamp’s diverse habitats, which include seasonally flooded bottomland hardwood forest, bayous, and cypress-tupelo swamps, make the refuge a major wintering area for mallards, wood ducks, and other dabbling ducks.'
+    summary: "Located in the legendary Mississippi Delta, 40,000-acre Panther Swamp National Wildlife Refuge (NWR) is among the largest public waterfowl hunting areas in the Southeast. The sprawling tract is one of the seven refuges in the 100,000-acre Theodore Roosevelt National Wildlife Refuge Complex, which is owned and managed by the U.S. Fish and Wildlife Service. Panther Swamp’s diverse habitats, which include seasonally flooded bottomland hardwood forest, bayous, and cypress-tupelo swamps, make the refuge a major wintering area for mallards, wood ducks, and other dabbling ducks."
     hero:
-      name: 'grasses-at-panther-swamp-national-wildlife-refuge.jpg'
-      alt: 'Tall grass with a light purple tone.'
-      caption: 'Muhly grass at Panther Swamp National Wildlife Refuge, MS. Photo by USFWS'
+      name: "grasses-at-panther-swamp-national-wildlife-refuge.jpg"
+      alt: "Tall grass with a light purple tone."
+      caption: "Muhly grass at Panther Swamp National Wildlife Refuge, MS. Photo by USFWS"
       link: https://flic.kr/p/a8wHsC
-  - title: 'The Effort to Replant the “Amazon of the South”'
-    subtitle: 'These Southerners are bringing the longleaf pine forest back—with some love, seeds, fire, and snakes.'
-    url: 'https://www.nrdc.org/stories/effort-replant-amazon-south'
+  - title: "The Effort to Replant the “Amazon of the South”"
+    subtitle: "These Southerners are bringing the longleaf pine forest back—with some love, seeds, fire, and snakes."
+    url: "https://www.nrdc.org/stories/effort-replant-amazon-south"
     date: 2017-09-25
-    summary: 'For decades, Reese Thompson didn’t fully appreciate the ground beneath his feet. As a sixth-generation tree farmer, he valued his thousands of acres in Wheeler County, Georgia, mostly for its output—the saw timber, chip-n-saw, and pulpwood provided by the fast-growing slash pines on his land. But all that changed about 13 years ago when a botanist friend of his knelt amid an untouched stand of longleaf pines on Thompson’s farm and quickly counted off 29 plant species within a square yard.'
+    summary: "For decades, Reese Thompson didn’t fully appreciate the ground beneath his feet. As a sixth-generation tree farmer, he valued his thousands of acres in Wheeler County, Georgia, mostly for its output—the saw timber, chip-n-saw, and pulpwood provided by the fast-growing slash pines on his land. But all that changed about 13 years ago when a botanist friend of his knelt amid an untouched stand of longleaf pines on Thompson’s farm and quickly counted off 29 plant species within a square yard."
     hero:
-      name: 'reese-thompson-longleaf.jpg'
-      alt: 'A man in a straw hat in front of longleaf pine trees.'
-      caption: 'Reese Thompson says the understory, or native ground cover, is “the real treasure” of the natural longleaf pine ecosystem. Photo by Bill O’Brian, USFWS.'
-  - title: 'NFWF Announces Over $1 Million in Funding to Restore and Improve Cumberland Plateau Forestlands'
-    url: 'http://www.nfwf.org/whoweare/mediacenter/pr/Pages/nfwf-announces-funding-to-restore-improve-cumberland-plateau-forestlands.aspx'
+      name: "reese-thompson-longleaf.jpg"
+      alt: "A man in a straw hat in front of longleaf pine trees."
+      caption: "Reese Thompson says the understory, or native ground cover, is “the real treasure” of the natural longleaf pine ecosystem. Photo by Bill O’Brian, USFWS."
+  - title: "NFWF Announces Over $1 Million in Funding to Restore and Improve Cumberland Plateau Forestlands"
+    url: "http://www.nfwf.org/whoweare/mediacenter/pr/Pages/nfwf-announces-funding-to-restore-improve-cumberland-plateau-forestlands.aspx"
     date: 2017-09-25
-    summary: 'The National Fish and Wildlife Foundation (NFWF) today announced more than $1 million in grants to support forestland restoration and working forests throughout the Cumberland Plateau of Tennessee, Kentucky and Alabama. Grantee organizations have committed more than $1.5 million in match, generating a total conservation impact of more than $2.5 million.'
-  - title: 'Dozens of endangered tortoises released at Camp Shelby'
-    url: 'http://www.wdam.com/story/36413475/dozens-of-nursery-raised-endangered-tortoises-released-at-camp-shelby'
+    summary: "The National Fish and Wildlife Foundation (NFWF) today announced more than $1 million in grants to support forestland restoration and working forests throughout the Cumberland Plateau of Tennessee, Kentucky and Alabama. Grantee organizations have committed more than $1.5 million in match, generating a total conservation impact of more than $2.5 million."
+  - title: "Dozens of endangered tortoises released at Camp Shelby"
+    url: "http://www.wdam.com/story/36413475/dozens-of-nursery-raised-endangered-tortoises-released-at-camp-shelby"
     date: 2017-09-13
-    summary: 'The Mississippi Military Department, the Nature Conservancy and several state and federal agencies have teamed up to boost the numbers of endangered gopher tortoises at Camp Shelby and the DeSoto National Forest.'
+    summary: "The Mississippi Military Department, the Nature Conservancy and several state and federal agencies have teamed up to boost the numbers of endangered gopher tortoises at Camp Shelby and the DeSoto National Forest."
     hero:
-        name: gopher-tortoise-released-at-eglin-afb.jpg
-        alt: 'A military officer in uniform releases a gopher tortoise next to a burrow.'
-        caption: 'Col. Matthew Higer, 96th Test Wing vice commander, bends down to release a gopher tortoise into its new home deep within the Eglin Air Force Base. Photo by Samuel King Jr., U.S. Air Force.'
-        link: 'https://flic.kr/p/QeDvpN'
-        position: 'bottom left'
-  - title: 'What hurricanes can teach us about building better coastlines with benefits for fish and wildlife'
-    url: 'http://www.trcp.org/2017/09/13/hurricanes-can-teach-us-building-better-coastlines-benefits-fish-wildlife/'
+      name: gopher-tortoise-released-at-eglin-afb.jpg
+      alt: "A military officer in uniform releases a gopher tortoise next to a burrow."
+      caption: "Col. Matthew Higer, 96th Test Wing vice commander, bends down to release a gopher tortoise into its new home deep within the Eglin Air Force Base. Photo by Samuel King Jr., U.S. Air Force."
+      link: "https://flic.kr/p/QeDvpN"
+      position: "bottom left"
+  - title: "What hurricanes can teach us about building better coastlines with benefits for fish and wildlife"
+    url: "http://www.trcp.org/2017/09/13/hurricanes-can-teach-us-building-better-coastlines-benefits-fish-wildlife/"
     date: 2017-09-13
-    summary: 'While the focus should absolutely be on helping victims of recent storms, there will come a time for reflecting on how to improve coastal resilience—these lessons from Hurricanes Katrina and Rita have changed the way that Louisiana views wetlands'
+    summary: "While the focus should absolutely be on helping victims of recent storms, there will come a time for reflecting on how to improve coastal resilience—these lessons from Hurricanes Katrina and Rita have changed the way that Louisiana views wetlands"
     hero:
-        name: irma-cuba.jpg
-        alt: 'A massive spinning cloud mass between Cuba and the Bahamas.'
-        caption: 'Hurricane Irma image from space. NOAA/NASA.'
-  - title: 'NFWF Announces $5.5 Million in Grants for Longleaf Pine Forest and Ecosystems Across the Southeast'
-    subtitle: 'Partners Celebrate 1 Million Acres of Longleaf Impacted in Program’s Sixth Year'
-    url: 'http://www.nfwf.org/whoweare/mediacenter/pr/Pages/nfwf-announces-grants-for-longleaf-pine-forest-2017-0815.aspx'
+      name: irma-cuba.jpg
+      alt: "A massive spinning cloud mass between Cuba and the Bahamas."
+      caption: "Hurricane Irma image from space. NOAA/NASA."
+  - title: "NFWF Announces $5.5 Million in Grants for Longleaf Pine Forest and Ecosystems Across the Southeast"
+    subtitle: "Partners Celebrate 1 Million Acres of Longleaf Impacted in Program’s Sixth Year"
+    url: "http://www.nfwf.org/whoweare/mediacenter/pr/Pages/nfwf-announces-grants-for-longleaf-pine-forest-2017-0815.aspx"
     date: 2017-08-15
-    summary: 'The National Fish and Wildlife Foundation (NFWF) today announced $5.5 million in grants to support the restoration of the longleaf ecosystem in nine states. Awarded through the Longleaf Stewardship Fund, the grants are expected to generate more than $7 million in matching contributions for a total conservation impact of $12.5 million.'
+    summary: "The National Fish and Wildlife Foundation (NFWF) today announced $5.5 million in grants to support the restoration of the longleaf ecosystem in nine states. Awarded through the Longleaf Stewardship Fund, the grants are expected to generate more than $7 million in matching contributions for a total conservation impact of $12.5 million."
     hero:
       name: longleaf-pine-ocala.jpg
-      alt: 'Tall, narrow, pine trees spaced about 25 feet apart with very sparse, dry grass in the understory.'
-      link: 'https://flic.kr/p/qGYCdR'
-      caption: 'Longleaf pine is a fire-dependent ecosystem that supports gentian pinkroot.'
-  - title: 'Gopher frog conservation partners USFWS do an incredible job in their first season of head-starting'
-    url: 'http://frogpodblog.blogspot.com/2017/06/gopher-frog-conservation-partners-usfws.html'
+      alt: "Tall, narrow, pine trees spaced about 25 feet apart with very sparse, dry grass in the understory."
+      link: "https://flic.kr/p/qGYCdR"
+      caption: "Longleaf pine is a fire-dependent ecosystem that supports gentian pinkroot."
+  - title: "Gopher frog conservation partners USFWS do an incredible job in their first season of head-starting"
+    url: "http://frogpodblog.blogspot.com/2017/06/gopher-frog-conservation-partners-usfws.html"
     date: 2017-06-30
-    summary: 'This year, USFWS joined GA DNR, UGA, Zoo Atlanta and the Amphibian Foundation in a state-wide project to increase population numbers of Georgia&rsquo;s rarest frog — The Gopher Frog.'
+    summary: "This year, USFWS joined GA DNR, UGA, Zoo Atlanta and the Amphibian Foundation in a state-wide project to increase population numbers of Georgia&rsquo;s rarest frog — The Gopher Frog."
     hero:
-      name: 'gopher-frog-release-warm-springs.jpg'
-      alt: 'A USFWS biologist releasing gopher frogs into a swamp.'
-      caption: 'Releasing gopher frogs into the swamp. Photo by Carlos Echevarria, USFWS.'
-  - title: 'Stewardship with Vision: David Spicer'
-    url: 'https://www.youtube.com/watch?v=yW82TiCagbE'
+      name: "gopher-frog-release-warm-springs.jpg"
+      alt: "A USFWS biologist releasing gopher frogs into a swamp."
+      caption: "Releasing gopher frogs into the swamp. Photo by Carlos Echevarria, USFWS."
+  - title: "Stewardship with Vision: David Spicer"
+    url: "https://www.youtube.com/watch?v=yW82TiCagbE"
     date: 2017-06-29
-    summary: 'David Spicer’s leadership in restoring springs, wetlands, and riparian areas on his ranch and beyond has helped keep a species from being listed under the ESA and supported return of many more to this Nevada desert valley. We thank him for sharing his story.'
+    summary: "David Spicer’s leadership in restoring springs, wetlands, and riparian areas on his ranch and beyond has helped keep a species from being listed under the ESA and supported return of many more to this Nevada desert valley. We thank him for sharing his story."
     hero:
-      name: 'amaragosa-toad.jpg'
-      alt: 'A brown black and beige toad.'
-      link: 'https://flic.kr/p/Ld4Z16'
-      caption: 'Amargosa toad. Photo by USFWS.'
-  - title: 'Worried biologists put up bat signal in Eastern NC'
-    url: 'http://www.starnewsonline.com/news/20170602/worried-biologists-put-up-bat-signal-in-eastern-nc'
+      name: "amaragosa-toad.jpg"
+      alt: "A brown black and beige toad."
+      link: "https://flic.kr/p/Ld4Z16"
+      caption: "Amargosa toad. Photo by USFWS."
+  - title: "Worried biologists put up bat signal in Eastern NC"
+    url: "http://www.starnewsonline.com/news/20170602/worried-biologists-put-up-bat-signal-in-eastern-nc"
     date: 2017-06-03
-    summary: 'Tucked behind two gates, across a road of gravel and dirt, stands a tall net. Gary Jordan, a biologist from the U.S. Fish and Wildlife Service’s Raleigh office, is hoping bats fly into this and four nets scattered across Resource Management Service’s land in Brunswick County. Every 10 minutes, almost like clockwork, Jordan completes a lap of the nets, his light only shining on twine during the first few hours.'
+    summary: "Tucked behind two gates, across a road of gravel and dirt, stands a tall net. Gary Jordan, a biologist from the U.S. Fish and Wildlife Service’s Raleigh office, is hoping bats fly into this and four nets scattered across Resource Management Service’s land in Brunswick County. Every 10 minutes, almost like clockwork, Jordan completes a lap of the nets, his light only shining on twine during the first few hours."
     hero:
-      name: 'northern-long-eared-bat-wns.jpg'
-      alt: 'A fuzzy brown bat attached to the roof of a cave with small white fungus on its head'
-      link: 'https://flic.kr/p/dY4ZSs'
-      caption: 'Northern long-eared bat with visible symptoms of WNS. Photo by Steve Taylor, University of Illinois.'
-  - title: 'How grizzlies, monarchs and even fish can benefit from U.S. highways'
-    url: 'https://ensia.com/features/highways/'
+      name: "northern-long-eared-bat-wns.jpg"
+      alt: "A fuzzy brown bat attached to the roof of a cave with small white fungus on its head"
+      link: "https://flic.kr/p/dY4ZSs"
+      caption: "Northern long-eared bat with visible symptoms of WNS. Photo by Steve Taylor, University of Illinois."
+  - title: "How grizzlies, monarchs and even fish can benefit from U.S. highways"
+    url: "https://ensia.com/features/highways/"
     date: 2017-05-19
-    summary: 'Late last August, armed with a sweep net and identification guides, Sarah Piecuch was looking for butterflies. She trudged through waist-deep grasses, trying to keep her footing steady while tallying those she found fluttering through the sky or perched on nearby flowers.'
+    summary: "Late last August, armed with a sweep net and identification guides, Sarah Piecuch was looking for butterflies. She trudged through waist-deep grasses, trying to keep her footing steady while tallying those she found fluttering through the sky or perched on nearby flowers."
     hero:
       name: mountain-highway.jpg
-      alt: 'A car drives down the open road with mountains in the distance.'
-      link: 'https://flic.kr/p/f9bA4W'
+      alt: "A car drives down the open road with mountains in the distance."
+      link: "https://flic.kr/p/f9bA4W"
       caption: 'Scenic Drive, Interstate Highway 15. Photo by <a href="https://www.flickr.com/photos/44534236@N00/">faungg’s photos</a> <a href="https://creativecommons.org/licenses/by-nd/2.0/">CC BY-ND 2.0</a>.'
   - title: FWC highlights Chipola River in new video
-    url: 'https://www.youtube.com/watch?v=5YBMhkiTiTc'
+    url: "https://www.youtube.com/watch?v=5YBMhkiTiTc"
     date: 2017-05-11
-    summary: 'The Florida Fish and Wildlife Conservation Commission (FWC) announces the release of its new video, “FLOW: the Chipola River Story.”External Website “FLOW” features International Game Fish Association’s Top Female Angler of 2015, Meredith McCord, and tells the conservation story of the Chipola River. This video recognizes the dedicated efforts of individuals and organizations such as the FWC, Southeast Aquatic Resources Partnership (part of the National Fish Habitat Partnership), Trout Unlimited and the U.S. Fish and Wildlife Service.'
+    summary: "The Florida Fish and Wildlife Conservation Commission (FWC) announces the release of its new video, “FLOW: the Chipola River Story.”External Website “FLOW” features International Game Fish Association’s Top Female Angler of 2015, Meredith McCord, and tells the conservation story of the Chipola River. This video recognizes the dedicated efforts of individuals and organizations such as the FWC, Southeast Aquatic Resources Partnership (part of the National Fish Habitat Partnership), Trout Unlimited and the U.S. Fish and Wildlife Service."
     hero:
-        name: chipola-river.jpg
-        alt: A calm river winds through a forest.
-        caption: 'Chipola River. Photo by <a href="https://www.flickr.com/photos/nousku/">Kari Nousiainen</a>, <a href="https://creativecommons.org/licenses/by-nc/2.0/">CC BY-NC 2.0</a>.'
-        link: 'https://flic.kr/p/AB9MQs'
+      name: chipola-river.jpg
+      alt: A calm river winds through a forest.
+      caption: 'Chipola River. Photo by <a href="https://www.flickr.com/photos/nousku/">Kari Nousiainen</a>, <a href="https://creativecommons.org/licenses/by-nc/2.0/">CC BY-NC 2.0</a>.'
+      link: "https://flic.kr/p/AB9MQs"
   - title: Clamping down on illegal grass carp sales in Indiana
     url: https://www.fws.gov/midwest/news/GrassCarp.html
     date: 2017-04-19
-    summary: 'Thanks to the proactive work of state and federal law enforcement professionals, an Arkansas-based live fish distributor is no longer illegally transporting and selling nonnative grass carp in Indiana.  Following complaints from concerned parties, conservation officers within the investigation section of the Indiana Department of Natural Resources worked closely with special agents within the U.S. Fish and Wildlife Service Office of Law Enforcement to investigate and quickly close this case. On February 27, 2017, Arkansas Pondstockers paid two citations in federal court totalling $12,060.'
+    summary: "Thanks to the proactive work of state and federal law enforcement professionals, an Arkansas-based live fish distributor is no longer illegally transporting and selling nonnative grass carp in Indiana.  Following complaints from concerned parties, conservation officers within the investigation section of the Indiana Department of Natural Resources worked closely with special agents within the U.S. Fish and Wildlife Service Office of Law Enforcement to investigate and quickly close this case. On February 27, 2017, Arkansas Pondstockers paid two citations in federal court totalling $12,060."
     hero:
       name: grass-carp.jpg
-      alt: 'A large fish with big silver/grey scales held by a man in a flannel shirt.'
+      alt: "A large fish with big silver/grey scales held by a man in a flannel shirt."
       caption: Non-native grass carp. Photo by Minnesota Dept. of Natural Resources.
       link: https://flic.kr/p/aUWHxP
   - title: 2017 Fish and Wildlife Business Summit
     url: https://wildlifemanagement.institute/outdoor-news-bulletin/april-2017/2017-fish-wildlife-business-summit
     date: 2017-04-17
-    summary: 'The 2017 Fish and Wildlife Business Summit was held April 3-4 in Kennesaw, Georgia with Yamaha Motor Corporation Marine Division serving as the host. This annual gathering of state, federal, industry, and NGO leaders is in its 11th year and continues to focus on improving relationships among the partners linked by the conservation funding generated by excise taxes on fishing, hunting, and shooting equipment and motorboat fuel. The topic of this year’s Summit was industry participation and collaboration in the recruitment, retention, and reactivation (R3) of anglers, boaters, hunters, and shooters.'
+    summary: "The 2017 Fish and Wildlife Business Summit was held April 3-4 in Kennesaw, Georgia with Yamaha Motor Corporation Marine Division serving as the host. This annual gathering of state, federal, industry, and NGO leaders is in its 11th year and continues to focus on improving relationships among the partners linked by the conservation funding generated by excise taxes on fishing, hunting, and shooting equipment and motorboat fuel. The topic of this year’s Summit was industry participation and collaboration in the recruitment, retention, and reactivation (R3) of anglers, boaters, hunters, and shooters."
     hero:
       name: boy-waterfowl-hunting.jpg
-      alt: 'A boy wearing a camouflage hat holds a shotgun ready to hunt waterfowl'
-      link: 'https://flic.kr/p/8Cu3Gd'
+      alt: "A boy wearing a camouflage hat holds a shotgun ready to hunt waterfowl"
+      link: "https://flic.kr/p/8Cu3Gd"
       caption: 'A boy waterfowl hunting. <a href="https://flic.kr/p/8Cu3Gd">Photo</a> by Tina Shaw, USFWS.'
-      position: 'center right'
+      position: "center right"
   - title: It takes a village to save the white fringeless orchid
     url: http://northamericanlandtrust.org/it-takes-a-village-to-save-the-white-fringeless-orchid/
-    summary: 'We’ve all heard the phrase, “It takes a village to raise a child,” but one Georgia neighborhood found that it actually takes a village to raise a small orchid population.  Called Big Canoe, this neighborhood is located in Pickens County, and is home to the Meadows Committee, a dedicated group of individuals committed to stewarding the Big Canoe Conservation Easement, held by North American Land Trust (NALT).  After a NALT Conservation Biologist discovered the existence of the rare White Fringeless Orchid on this permanently protected Conservation Area, the Meadows Committee learned just how much work and coordination goes into rehabilitating a species.  And thanks to enthusiastic partnerships and the hard work of everyone involved, this orchid was able to grow and flourish into a rare beauty.'
+    summary: "We’ve all heard the phrase, “It takes a village to raise a child,” but one Georgia neighborhood found that it actually takes a village to raise a small orchid population.  Called Big Canoe, this neighborhood is located in Pickens County, and is home to the Meadows Committee, a dedicated group of individuals committed to stewarding the Big Canoe Conservation Easement, held by North American Land Trust (NALT).  After a NALT Conservation Biologist discovered the existence of the rare White Fringeless Orchid on this permanently protected Conservation Area, the Meadows Committee learned just how much work and coordination goes into rehabilitating a species.  And thanks to enthusiastic partnerships and the hard work of everyone involved, this orchid was able to grow and flourish into a rare beauty."
     date: 2017-03-23
     hero:
       name: white-fringeless-orchid-patch.jpg
-      alt: 'Tall stems extending from the forest floor give way to bright white dangling flowers.'
-      link: 'https://flic.kr/p/pzwd9s'
-      caption: 'White fringeless orchid. Photo by USFWS.'
+      alt: "Tall stems extending from the forest floor give way to bright white dangling flowers."
+      link: "https://flic.kr/p/pzwd9s"
+      caption: "White fringeless orchid. Photo by USFWS."
