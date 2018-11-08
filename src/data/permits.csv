@@ -599,7 +599,7 @@ number,status,fed_register
 75551C-0,Issued,Noticed for 30 days
 54578B-2,Issued,Noticed for 30 days
 63633A-5,Issued,Noticed for 30 days
-75560C-0,In RO for Review,Noticed for 30 days
+75560C-0,Awaiting Input from Applicant,Noticed for 30 days
 183402-1,Awaiting Input from Applicant,Noticed for 30 days
 75578C-0,Awaiting Input from Applicant,N/A
 810274-13,Withdrawn,N/A
@@ -706,3 +706,5 @@ number,status,fed_register
 12981D-0 ,Issued,N/A
 092945-4,In FO for Review,N/A
 100070-3,In RO for Review,needs to be drafted
+14546D-0,Awaiting signature,N/A
+18986C-1,Issued,N/A
