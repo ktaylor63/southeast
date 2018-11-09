@@ -1,18 +1,18 @@
 ---
-title: 'Our Regional Leadership'
-description: 'Meet the people leading conservation in the Southeast Region of the U.S. Fish and Wildlife Service.'
+title: "Our Regional Leadership"
+description: "Meet the people leading conservation in the Southeast Region of the U.S. Fish and Wildlife Service."
 nav: Leadership
 weight: 2
 tags:
-    - About
-    - Leadership
+  - About
+  - Leadership
 hero:
-    name: mike-oetker.jpg
-    alt: 'A man speaking into a microphone.'
-    link: 'https://flic.kr/p/EgwW37'
-    caption: 'Acting Regional Director Mike Oetker speaking at a ceremony in Cherokee, North Carolina where partners signed a Candidate Conservation Agreement for the sicklefin redhorse. Photo by Gary Peeples, USFWS.'
-    position: 'top right'
-updated: 'November 5th, 2018'
+  name: mike-oetker.jpg
+  alt: "A man speaking into a microphone."
+  link: "https://flic.kr/p/EgwW37"
+  caption: "Acting Regional Director Mike Oetker speaking at a ceremony in Cherokee, North Carolina where partners signed a Candidate Conservation Agreement for the sicklefin redhorse. Photo by Gary Peeples, USFWS."
+  position: "top right"
+updated: "November 9th, 2018"
 ---
 
 Nationally, the U.S. Fish and Wildlife Service is led by a Director, a team of Assistant Directors and eight Regional Directors. (See our [headquarters organizational chart.](http://www.fws.gov/offices/orgcht.html))
@@ -95,11 +95,11 @@ He is a graduate of the University of Tennessee, Knoxville, and is married with 
 
 ## Dr. Kevin Reynolds
 
-### DOI Case Manager, Deepwater Horizon NRDAR
+### Assistant Regional Director for Gulf Restoration
 
 {{< figure class="photo-right" src="/images/pages/kevin-reynolds-bio.jpg" alt="A man wearing a ball cap." >}}
 
-Kevin Reynolds leads the Department of the Interior’s Gulf restoration efforts resulting from the Deepwater Horizon oil spill in 2010. He provides leadership, direction, and coordination across the Department for all restoration efforts funded primarily by the Deepwater Horizon Natural Resource Damage Assessment and Restoration, the Gulf Coast Ecosystem Restoration Council and the National Fish and Wildlife Foundation’s Gulf Environmental Benefit Fund.
+Kevin Reynolds leads the Fish and Wildlife Service’s Gulf restoration efforts resulting from the _Deepwater Horizon_ oil spill in 2010. He provides leadership, direction, and coordination across Service Programs and Department bureaus for all planning, implementation and evaluation of restoration efforts funded primarily by criminal and civil settlements with BP and other responsible parties that followed the _Deepwater Horizon_ oil spill.
 
 Kevin earned a B.A. in Neuroscience from Hamilton College, and a Masters and Ph.D. in Environmental Toxicology from Clemson and Texas Tech University, respectively. His first job with the Service was in the Arizona Ecological Services Field Office, and he also worked in Headquarters prior to joining the Southeast Region in 2011. He and his wife Leah live in Johns Creek, Georgia with their three children, Kelly, Nick and Caitlin.
 
