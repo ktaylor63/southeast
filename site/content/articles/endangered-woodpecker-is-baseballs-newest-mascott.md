@@ -1,20 +1,19 @@
 ---
-draft: true
 title: "Endangered woodpecker is baseball’s newest mascot"
 author: "Mark Davis, Public Affairs Specialist"
 hero:
   name: fayettevile-baseball-bat.jpg
   alt: "A deep red, wooden baseball bat commemorating the opening of Fayetteville’s new baseball stadium"
-  caption: "A baseball bat commemorating the City of Fayetteville, North Carolina's bew baseball stadium groundbreaking - August 21, 2017. <a href='https://flic.kr/p/26ENUAu'>Photo</a> by the City of Fayetteville."
+  caption: 'A baseball bat commemorating the City of Fayetteville, North Carolina’s bew baseball stadium groundbreaking - August 21, 2017. <a href="https://flic.kr/p/26ENUAu">Photo</a> by the City of Fayetteville.'
 type: feature
-date: 2018-11-08T00:00:00.000Z
+date: 2018-11-13T00:00:00.000Z
 tags:
   - "Endangered Species Act"
   - "Longleaf Pine"
   - "North Carolina"
   - "Red-Cockaded Woodpecker"
   - Texas
-updated: "November 8th, 2018"
+updated: "November 13th, 2018"
 ---
 
 {{< figure class="photo-right" src="/images/pages/fayetteville-woodpeckers.jpg" alt="A woodpecker mascott with red hair and a bat with holes chewed through" caption="Minor League Baseball has a new mascot, a new team: the Fayetteville Woodpeckers. The team, based in Fayetteville, North Carolina, has adopted the endangered red-cockaded woodpecker to adorn team caps, shirts and other items. Note the bat; that bird's been busy. Photo courtesy of the Fayetteville Woodpeckers." >}}
@@ -25,7 +24,7 @@ Yes. It is our friend, good ol’ _Leuconotopicus borealis_. But most folks know
 
 The tiny flier, listed as endangered under the Endangered Species Act, is now the official mascot for the Houston Astros’ single-A baseball team that recently landed in Fayetteville, North Carolina.
 
-The city, in the state’s Sandhills region, is ringed by public and private lands where the woodpecker makes its home. That includes Fort Bragg, where officials with the U.S. Army and the U.S. Fish and Wildlife Service (Service) have worked hard to make sure the woodpecker thrives in the base’s longleaf pine forests.
+The city, in the state’s Sandhills region, is ringed by public and private lands where the woodpecker makes its home. That includes Fort Bragg, where officials with the U.S. Army and the U.S. Fish and Wildlife Service (Service) have worked hard to make sure the woodpecker thrives in the base’s longleaf pine forests &mdash; so much so that the base hit it’s 2012 recovery target five years ahead of schedule.
 
 Team officials announced the name November 4, capping a “Name the Team” contest that drew more than 1,300 entries. They narrowed the finalists to five: Fatbacks, Fly Traps, Jumpers, Wood Dogs and Woodpeckers.
 
@@ -33,7 +32,7 @@ When those names were put out to a vote, the winged contender gathered the most 
 
 “We had our fingers crossed for the woodpecker,” said Mark Zarthar, the team’s president. “We thought it was the best fit.”
 
-That’s not just marketing talk, either. The RCW, Zarthat knows, is synonymous with the region &mdash; Fort Bragg, especially. The installation, he said, has done a “fantastic job” helping ensure the bird thrives.
+That’s not just marketing talk, either. The RCW, Zarthar knows, is synonymous with the region &mdash; Fort Bragg, especially. The installation, he said, has done a “fantastic job” helping ensure the bird thrives.
 
 “We think the name not only will help the community understand [about the RCW] but also let them know what Fort Bragg has done,” he said.
 
