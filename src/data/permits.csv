@@ -622,7 +622,7 @@ number,status,fed_register
 096554-4,In FO for Review,Noticed for 30 days
 100012-3,In RO for Review,Noticed for 30 days
 81107C-0,Issued,N/A
-102418-3,Awaiting Input from Applicant,Noticed for 30 days
+102418-3,In FO for Review,Noticed for 30 days
 002507-6,Awaiting Input from Applicant,Noticed for 30 days
 81202C-0,In RO for Review,Noticed for 30 days
 82678C-0,Issued,N/A
@@ -697,7 +697,7 @@ number,status,fed_register
 09804D-0,Issued,N/A
 09806D-0,Issued,N/A
 206777-3,In FO for Review,N/A
-11851D-0,Awaiting signature,N/A
+11851D-0,Issued,N/A
 11853D-0,Awaiting Input from Applicant,N/A
 11857D-0,Awaiting Input from Applicant,N/A
 12369D-0,Awaiting Input from Applicant,N/A
