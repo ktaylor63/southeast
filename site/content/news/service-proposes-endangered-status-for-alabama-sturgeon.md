@@ -10,7 +10,7 @@ tags:
     - Alabama
     - 'Alabama Sturgeon'
     - Mississippi
-updated: 'September 19th, 2018'
+updated: 'November 15th, 2018'
 ---
 
 The U.S. Fish and Wildlife Service this week is proposing that the Alabama sturgeon, a freshwater fish that once inhabited extensive portions of the Mobile River system, be listed as endangered on the federal list of endangered and threatened species. A species is endangered when it is at risk of becoming extinct in the foreseeable future.
@@ -39,7 +39,7 @@ Hamilton noted that these two waterways already contain four listed species the 
 
 These species share similar threats with the Alabama sturgeon and their presence has not resulted in any use restrictions of the Alabama and Tombigbee rivers.
 
-The Service is inviting public comments on its proposal to list the Alabama sturgeon as an endangered species. Comments may be directed to the Field Supervisor, U.S. Fish and Wildlife Service, 6578 Dogwood View Parkway, Jackson, MS, 39213, and will be accepted through May 24, 1999\. Requests for a public hearing must be submitted to the same address by May 9, 1999\. For more information, contact the address above or call (601) 965-4900.
+The Service is inviting public comments on its proposal to list the Alabama sturgeon as an endangered species. Comments may be directed to the Field Supervisor, U.S. Fish and Wildlife Service, 6578 Dogwood View Parkway, Jackson, MS, 39213, and will be accepted through May 24, 1999. Requests for a public hearing must be submitted to the same address by May 9, 1999. For more information, contact the address above or call (601) 965-4900.
 
 The U.S. Fish and Wildlife Service is the principal federal agency responsible for conserving, protecting, and enhancing fish and wildlife and their habitats for the continuing benefit of the American people. The Service manages the 93-million-acre National Wildlife Refuge System comprised of more than 500 national wildlife refuges[^1], thousands of small wetlands, and other special management areas. It also operates 66 national fish hatcheries and 78 Ecological Services field stations. The agency enforces Federal wildlife laws, administers the Endangered Species Act, manages migratory bird populations, restores nationally significant fisheries, conserves and restores wildlife habitat such as wetlands, and helps foreign governments with their conservation efforts. It also oversees the Federal Aid program that distributes hundreds of millions of dollars in excise taxes on fishing and hunting equipment to state fish and wildlife agencies.
 
