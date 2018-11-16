@@ -1,17 +1,17 @@
 ---
 title: 'Okaloosa darter on the road to recovery'
-date: '2011-03-28'
+date: 2011-03-28T00:00:00.000Z
 hero:
     name: okaloosa-darter.jpg
     alt: 'Two small fish hiding in some thick submerged aquatic vegetation.'
     link: 'https://flic.kr/p/8qQTR6'
-    caption: '<a href=\"https://www.flickr.com/photos/51614465@N08/\" target=\"_blank\">Noel Burkhead</a> <a href=\"https://creativecommons.org/licenses/by-nc-sa/2.0/\" target=\"_blank\">CC BY-NC-SA 2.0</a>.'
+    caption: '<a href="https://www.flickr.com/photos/51614465@N08/" target="_blank">Noel Burkhead</a> <a href="https://creativecommons.org/licenses/by-nc-sa/2.0/" target="_blank">CC BY-NC-SA 2.0</a>.'
 tags:
-    - Recovery
-    - 'Okaloosa darter'
     - Florida
-    - Panama City
-updated: 'October 20th, 2016'
+    - 'Okaloosa Darter'
+    - 'Panama City Ecological Services Field Office'
+    - Recovery
+updated: 'November 15th, 2018'
 ---
 
 The U.S. Fish and Wildlife Service is reclassifying the Okaloosa darter (Etheostoma okaloosae) from the status of endangered to threatened under the Endangered Species Act, saying that the population is being managed so well, the small fish is making major strides in its fight for recovery.  The announcement was made today by Acting Director Rowan Gould at a ceremony at Eglin Air Force Base to celebrate the accomplishment and honor those involved.
@@ -24,7 +24,7 @@ Working in partnership, the Service, the Florida Fish and Wildlife Commission (F
 
 "We are dedicated to wildlife conservation at each of our installations,” said the Honorable Terry Yonkers, Assistant Secretary of the Air Force for Installations, Environment and Logistics.  “More broadly, the United States Air Force understands the vital importance of environmental conservation. We must continue not only to preserve the Okaloosa darter but to advance our efforts to preserve all wildlife that exists on our Installations."
 
-Together with the FWC, Eglin AFB, Three Rivers Conservation and Development Council, the Service has removed or replaced many road crossing structures and manmade impoundments to allow for fish passage and proper stream function.  For example, a crucial project outlined in the Service’s Okaloosa Darter Recovery Plan, the Mill Creek stream restoration project, located on the Eglin Golf Course, has been completed. During initial construction of the golf course, the stream was substantially altered by culverts and other man-made impoundments. The FWC provided $400,000 for the project, which was matched with funds from the Service’s fish passage program. 
+Together with the FWC, Eglin AFB, Three Rivers Conservation and Development Council, the Service has removed or replaced many road crossing structures and manmade impoundments to allow for fish passage and proper stream function.  For example, a crucial project outlined in the Service’s Okaloosa Darter Recovery Plan, the Mill Creek stream restoration project, located on the Eglin Golf Course, has been completed. During initial construction of the golf course, the stream was substantially altered by culverts and other man-made impoundments. The FWC provided \$400,000 for the project, which was matched with funds from the Service’s fish passage program.
 
 Service biologists also worked with the City of Niceville to improve its wastewater collection system and install more appropriate culverts at a number of road crossings.
 
@@ -32,7 +32,7 @@ Using innovative sampling and monitoring techniques, U.S. Geological Survey and 
 
 The final rule will be published in the Federal Register later this week.  Additional details and the rule can be found at [http://www.fws.gov/panamacity/](http://www.fws.gov/panamacity/).
 
-The Okaloosa darter does not meet the definition of an endangered species. An endangered species is defined as being in danger of extinction throughout all or a significant portion of its range. A threatened species is likely to become endangered within the foreseeable future throughout all or a significant portion of its range. Reclassifying a species from endangered to a threatened designation is often reflective of recovery efforts reducing imminent threats and allowing populations to increase. The threatened status also offers additional flexibility in how the species is protected and managed for recovery. 
+The Okaloosa darter does not meet the definition of an endangered species. An endangered species is defined as being in danger of extinction throughout all or a significant portion of its range. A threatened species is likely to become endangered within the foreseeable future throughout all or a significant portion of its range. Reclassifying a species from endangered to a threatened designation is often reflective of recovery efforts reducing imminent threats and allowing populations to increase. The threatened status also offers additional flexibility in how the species is protected and managed for recovery.
 
 Although the status of this species is changed from endangered to threatened, section 7 of the Endangered Species Act and regulations codified at 50 CFR 402 will still require federal agencies to ensure that activities they authorize, fund, or carry out are not likely to jeopardize the continued existence of this species.  In addition, the species remains fully protected under the Act as a threatened species.
 

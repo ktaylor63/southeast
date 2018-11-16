@@ -14,13 +14,13 @@ tags:
     - Georgia
     - Gulf
     - Mussel
-    - 'Panama City'
+    - 'Panama City Ecological Services Field Office'
 hero:
     name: suwannee-moccasinshell.jpg
     alt: 'Two dark gray mussels with striations on a red towel next to a ruler for scale.'
     caption: 'Suwannee moccasinshells. Photo by USFWS.'
     position: bottom
-updated: 'October 5th, 2018'
+updated: 'November 15th, 2018'
 ---
 
 - **Taxon:** Bivalve, Unionidae

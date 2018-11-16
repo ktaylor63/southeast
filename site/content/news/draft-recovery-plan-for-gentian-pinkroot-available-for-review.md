@@ -8,11 +8,11 @@ hero:
     link: 'https://flic.kr/p/qGYCdR'
     caption: 'Longleaf pine is a fire-dependent ecosystem that supports gentian pinkroot.'
 tags:
-    - 'Gentian pinkroot'
-    - Florida
     - Alabama
-    - Panama City
-updated: 'October 6th, 2016'
+    - Florida
+    - 'Gentian Pinkroot'
+    - 'Panama City Ecological Services Field Office'
+updated: 'November 15th, 2018'
 ---
 
 The U.S. Fish and Wildlife Service seeks public comment on the draft recovery plan for Gentian Pinkroot, a federally listed, endangered herb. Public comments will be accepted until May 23, 2011.

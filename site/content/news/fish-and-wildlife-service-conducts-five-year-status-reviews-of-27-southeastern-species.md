@@ -11,7 +11,7 @@ tags:
     - Louisiana
     - 'Louisiana Ecological Services Field Office'
     - Mississippi
-    - 'Panama City'
+    - 'Panama City Ecological Services Field Office'
     - 'Puerto Rico'
     - 'South Carolina'
     - 'South Carolina Ecological Services Field Office'
@@ -21,8 +21,8 @@ hero:
     alt: 'A strange looking salamander with horns.'
     link: 'https://flic.kr/p/oR9oqr'
     caption: 'Reticulated flatwoods salamander larva. Photo by Kevin Enge, FWC.'
-date: '2014-09-22'
-updated: 'May 7th, 2018'
+date: 2014-09-22T00:00:00.000Z
+updated: 'November 15th, 2018'
 ---
 
 The Atlantic salt marsh snake and the frosted flatwoods salamander are among 27 federally protected species that will be getting a check-up.

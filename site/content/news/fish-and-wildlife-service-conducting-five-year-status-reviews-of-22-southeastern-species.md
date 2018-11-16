@@ -13,14 +13,14 @@ tags:
     - 'Louisiana Ecological Services Field Office'
     - Mississippi
     - 'North Carolina'
-    - 'Panama City'
+    - 'Panama City Ecological Services Field Office'
     - Tennessee
 hero:
     name: alabama-beach-mouse.jpg
     alt: 'A small mouse white white belly and sand-colored back hides behind beach vegetation.'
     link: 'https://flic.kr/p/8FgBkX'
     caption: 'Alabama beach mouse. Photo by USFWS.'
-updated: 'May 7th, 2018'
+updated: 'November 15th, 2018'
 ---
 
 The U.S. Fish and Wildlife Service will conduct five-year status reviews of 15 endangered and seven threatened species occurring across the southeastern United States.  The public is invited to provide information and comments concerning these species on or before October 31, 2016.

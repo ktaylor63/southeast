@@ -23,7 +23,7 @@ tags:
     - 'Longleaf Pine'
     - Military
     - 'Okaloosa Darter'
-    - 'Panama City'
+    - 'Panama City Ecological Services Field Office'
     - 'Piping Plover'
     - 'Prescribed Fire'
     - 'Red-Cockaded Woodpecker'
@@ -32,7 +32,7 @@ tags:
     - 'Slash Pine'
     - 'St Andrews Beach Mouse'
     - 'US Air Force'
-updated: 'August 28th, 2017'
+updated: 'November 15th, 2018'
 ---
 
 **Panama City, Florida** -- Melanie Kaeser is embedded with the military at Tyndall Air Force Base. She patrols the pine forests and swampy wetlands as F-16s and F-22s maneuver overhead.
@@ -47,7 +47,7 @@ Currently, seven Service scientists are embedded on four Air Force installations
 
 {{< figure class="photo-center" src="/images/pages/air-force-bases-florida.jpg" alt="A map of USFWS and USAF offices/bases in the state of Florida." caption="Air Force Bases and USFWS offices in Florida. Scientists will be stationed at seven of these eight Air Force installations excluding Homeland ARB. Map by Roy Hewitt, USFWS." link="https://flic.kr/p/UaZVsU">}}
 
-The “biologists on bases” program is part of the congressionally mandated Sikes Act which requires the  services to protect natural resources, including threatened and endangered species. It’s also another tool the military use to maintain readiness and training while adhering to federal environmental rules.The Service  and the Defense Department recently created a groundbreaking  gopher tortoise credit program that provides more flexibility for the military to continue its training mission across the Southeast with fewer regulatory roadblocks.
+The “biologists on bases” program is part of the congressionally mandated Sikes Act which requires the services to protect natural resources, including threatened and endangered species. It’s also another tool the military use to maintain readiness and training while adhering to federal environmental rules.The Service and the Defense Department recently created a groundbreaking gopher tortoise credit program that provides more flexibility for the military to continue its training mission across the Southeast with fewer regulatory roadblocks.
 
 {{< figure class="photo-center" src="/images/pages/baby-gopher-tortoise.jpg" alt="A small beige turtle with dark brown spots on it's shell standing on sandy sparsly vegetated ground." caption="A baby gopher tortoise. Photo by Randy Browning, USFWS." link="https://flic.kr/p/a5Hrx2" >}}
 
@@ -65,7 +65,7 @@ Kaeser, along with Daniel Childs, Tyndall’s forester, harvest 450 acres each y
 
 {{< figure class="photo-right" src="/images/pages/gulf-purple-pitcher-plant.jpg" alt="Purple/pink flowers in a grassy field." caption="Gulf purple pitcher plant. Photo by Elanor, CC BY-NC 2.0." link="https://flic.kr/p/rnUWkc" >}}
 
-Tyndall’s already lush understory, as well as its 18-mile-long beach and dune system, is home to 27 federal- or state-protected species, including the St. Andrews beach mouse and the green sea turtle. An additional 23 plants, including the gulf purple pitcher plant, are on  the at-risk list.
+Tyndall’s already lush understory, as well as its 18-mile-long beach and dune system, is home to 27 federal- or state-protected species, including the St. Andrews beach mouse and the green sea turtle. An additional 23 plants, including the gulf purple pitcher plant, are on the at-risk list.
 
 “Restoring this ecosystem will be beneficial for all those species, especially with frequent, prescribed fires and an open canopy like this one here,” said Kaeser, traipsing through a newly planted longleaf pine stand. “Tyndall has a lot of promise, but there’s a lot of restoration work that needs to be done. There’s never a dull moment.”
 
@@ -81,13 +81,13 @@ In 1960, Congress established the Sikes Act, which mandated cooperation between 
 
 {{< figure class="photo-center" src="/images/pages/tyndall-air-force-base-service-employees.jpg" alt="Two Service employees on a white-sand beach with dune vegetation roped-off in the background." caption="USFWS employees Catherine Phillips, project leader for Panama City field office and Melanie Kaesor, ecologist working at Tyndall Air Force Base. Photo by USFWS." >}}
 
-The Defense Department manages nearly 30 million acres on 425 bases nationwide. More than 400 threatened or endangered species live on bases -- on par or greater than the number living in the National Park System, which has nearly three times as much land. 
+The Defense Department manages nearly 30 million acres on 425 bases nationwide. More than 400 threatened or endangered species live on bases -- on par or greater than the number living in the National Park System, which has nearly three times as much land.
 
 The Defense Department and the Service point to numerous at-risk success stories. In 1973, for example, the Okaloosa darter was added to the endangered species list. Nearly all of the tiny fish call Eglin Air Force Base, in nearby Valparaiso, Fla., home. Restoring streams on base to a more natural condition helped the darter get downlisted to the threatened list in 2010.
 
 Eglin, along with Fort Bragg (in North Carolina) and Stewart and Benning (in Georgia), tally about a third of the remaining pairs of endangered red-cockaded woodpeckers. Recovery of the gulf sturgeon, reticulated flatwoods salamander, piping plover and various turtles and mussels is also underway at Eglin.
 “We have a large amount of listed and at-risk species compared to other states and we also have a large number of bases in Florida,” said the Service’s Phillips. “And in Florida, with large amounts of development, bases can often be the last places with untouched habitat.”
 
-The Pentagon covers the program’s costs, about $4.3 million for fiscal 2018, which includes habitat restoration and the control of invasive species. Currently, seven biologists, ecologists or biotechs are embedded at four bases. Phillips expects to double the number of scientists deployed across seven of Florida’s eight Air Force installations by the end of the upcoming fiscal year. (Homestead Air Reserve Base isn’t participating in the program.)
+The Pentagon covers the program’s costs, about \$4.3 million for fiscal 2018, which includes habitat restoration and the control of invasive species. Currently, seven biologists, ecologists or biotechs are embedded at four bases. Phillips expects to double the number of scientists deployed across seven of Florida’s eight Air Force installations by the end of the upcoming fiscal year. (Homestead Air Reserve Base isn’t participating in the program.)
 
 “Give the Air Force a target,” Phillips said, “and they’ll hit it.”

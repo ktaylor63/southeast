@@ -1,13 +1,14 @@
 ---
-title: Summer youth employment at the U.S. Fish and Wildlife Service
-description: Instead of the typical summer high school job flipping burgers or waiting tables, Sabrina and Star will work side by side with biologists working to achieve the Service’s mission for federal trust species including gulf sturgeon, gopher tortoises and sea turtles.
-date: '2017-07-19'
+title: 'Summer youth employment at the U.S. Fish and Wildlife Service'
+description: 'Instead of the typical summer high school job flipping burgers or waiting tables, Sabrina and Star will work side by side with biologists working to achieve the Service’s mission for federal trust species inclu, gopher tortoises and sea turtles.'
+date: 2017-07-19T00:00:00.000Z
 tags:
-  - Panama City
-  - Florida
-  - Youth Conservation Corps
-  - Jobs
-  - Internships
+    - Florida
+    - Internships
+    - Jobs
+    - 'Panama City Ecological Services Field Office'
+    - 'Youth Conservation Corps'
+updated: 'November 15th, 2018'
 ---
 
 {{< figure class="photo-right" src="/images/pages/ycc-students.jpg" alt="Two girls in personal floatation devices wearing sunglasses on a boat." caption="Sabrina and Star Myers, Youth Conservation Corps." >}}

@@ -1,6 +1,6 @@
 ---
 title: 'May 19th is Endangered Species Day'
-date: '2017-05-19'
+date: 2017-05-19T00:00:00.000Z
 tags:
     - 'American Alligator'
     - 'American Crocodile'
@@ -12,34 +12,34 @@ tags:
     - 'Louisiana Black Bear'
     - 'Magazine Mountain Shagreen'
     - 'Okaloosa Darter'
+    - 'Panama City Ecological Services Field Office'
     - Recovery
     - 'Tennessee Purple Coneflower'
     - 'Tulotoma Snail'
     - 'Wood Stork'
-    - Panama City
 hero:
     name: brown-pelican.jpg
     alt: 'A large grey bird flying in front of a bright blue sky.'
     caption: 'Brown pelican. Photo by <a href="https://www.flickr.com/photos/jon_d_anderson/">Jon. D. Anderson</a> <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">CC BY-NC-ND 2.0</a>.'
     link: 'https://flic.kr/p/gmgRfE'
-updated: 'May 16th, 2017'
+updated: 'November 15th, 2018'
 ---
 
 Endangered Species Day was created by a Senate resolution in 2006 to encourage “the people of the United States to become educated about, and aware of, threats to species, success stories in species recovery, and the opportunity to promote species conservation worldwide.” It has since been celebrated in more than a dozen other countries as well.
 
-Today, the U.S. Fish and Wildlife Service (Service) is proud to celebrate this annual day, and to honor the recovery work being done under the [Endangered Species Act](/endangered-species-act), (ESA) which protects endangered and threatened species and the ecosystems upon which they depend, and helps them [recover](/endangered-species-act/recovery).  The ESA is administered by the Service and the National Marine Fisheries Service.
-  
+Today, the U.S. Fish and Wildlife Service (Service) is proud to celebrate this annual day, and to honor the recovery work being done under the [Endangered Species Act](/endangered-species-act), (ESA) which protects endangered and threatened species and the ecosystems upon which they depend, and helps them [recover](/endangered-species-act/recovery). The ESA is administered by the Service and the National Marine Fisheries Service.
+
 ## What is a success story in species recovery?
 
-A success story is when partners, working together, conduct recovery actions to help remove or reduce threats for an endangered or threatened species and therefore improve its status in its natural environment.  In some situations, the Service and its partners make so much progress in addressing threats that a species can be “downlisted” from endangered to threatened status, or could even no longer require ESA protection.  
+A success story is when partners, working together, conduct recovery actions to help remove or reduce threats for an endangered or threatened species and therefore improve its status in its natural environment. In some situations, the Service and its partners make so much progress in addressing threats that a species can be “downlisted” from endangered to threatened status, or could even no longer require ESA protection.
 
 ## What are some examples of success stories?
 
-The American alligator, bald eagle, brown pelican, Eggert’s sunflower, Tennessee purple coneflower, and Magazine mountain shagreen snail are among many of the listed species that have benefitted from the ESA, so much so they no longer require the law’s protections. 
+The American alligator, bald eagle, brown pelican, Eggert’s sunflower, Tennessee purple coneflower, and Magazine mountain shagreen snail are among many of the listed species that have benefitted from the ESA, so much so they no longer require the law’s protections.
 
 Other species like the American crocodile, Okaloosa darter, tulotoma snail, and wood stork have had threats reduced to the point where they are now identified as threatened rather than endangered.
 
-For recent examples of success stories, click below for information on the recently delisted Louisiana black bear and white-haired goldenrod plant and information on the West Indian manatee recently downlisted to threatened status. 
+For recent examples of success stories, click below for information on the recently delisted Louisiana black bear and white-haired goldenrod plant and information on the West Indian manatee recently downlisted to threatened status.
 
 <ul class="article-gallery">
   <li class="card">
@@ -85,27 +85,25 @@ For recent examples of success stories, click below for information on the recen
 
 ## What is the biggest threat our listed species face?
 
-The biggest threat to protected species is the alteration of their natural environment by humans.  Human interference with the natural world has direct and immediate impact on the species that depend on it, including ourselves.  Having a healthy, natural environment protects all of us, including humans, in the long-term.
+The biggest threat to protected species is the alteration of their natural environment by humans. Human interference with the natural world has direct and immediate impact on the species that depend on it, including ourselves. Having a healthy, natural environment protects all of us, including humans, in the long-term.
 
 ## What can people do to help?
 
 Learn about endangered and threatened species and about their habitat, in school, at libraries, or by visiting a zoo, aquarium, or nature center.
 
-  - Tell your family and friends what you find out. 
-  - Join a conservation oriented event like a river clean-up; tree planting; etc.
-  - Participate in the national art contest next year (see [endangeredspeciesday.org](http://www.endangeredspeciesday.org)).
-  - Have a discussion with your family about ways to help like planting native plants in your yard, being cautious with herbicides, pesticides, etc.
+- Tell your family and friends what you find out.
+- Join a conservation oriented event like a river clean-up; tree planting; etc.
+- Participate in the national art contest next year (see [endangeredspeciesday.org](http://www.endangeredspeciesday.org)).
+- Have a discussion with your family about ways to help like planting native plants in your yard, being cautious with herbicides, pesticides, etc.
 
 ## Who are National and Regional Recovery Champions in ESA recovery work?
 
 Each year, the Service names a group of individuals, agencies and organizations that have done especially noteworthy recovery work to help species. [The 2016 Champions](/news/2017/05/2016-southeast-region-recovery-champions-announced/) - both Service employees and Service partners - announced today nationally and in the Southeast Region have worked diligently and passionately toward recovering threatened and endangered wildlife and plants, in some cases for their entire careers.
 
-For more information: 
+For more information:
 
 Many organizations like zoos, aquariums, and botanical gardens, are having special events for Endangered Species Day. [Find an endangered species dat event near you.](https://www.fws.gov/endangered/esday/)
 
 Bookmarks, stickers, coloring sheets and masks are available for downloading and printing from the Endangered Species Day Toolkit. Visit the [Endangered Species Day website](http://www.endangeredspeciesday.org) and you will also find an endangered species Reading List and other helpful resources.
 
 [Endangered Species Day national page](https://www.fws.gov/endangered/ESDay/).
-
- 

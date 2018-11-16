@@ -13,7 +13,7 @@ tags:
     - Florida
     - 'Gopher Tortoise'
     - 'Longleaf Pine'
-    - 'Panama City'
+    - 'Panama City Ecological Services Field Office'
     - Partnership
     - 'Red-Cockaded Woodpecker'
     - 'Southeast Conservation Adaptation Strategy'
@@ -22,7 +22,7 @@ hero:
     alt: 'Wiry pine trees sparsley dot a sandy landscape.'
     caption: 'A field of young longleaf pine at the Coastal Headwaters Forest. Photo by Dan Chapman, USFWS.'
     position: 'top center'
-updated: 'August 28th, 2017'
+updated: 'November 15th, 2018'
 ---
 
 **Pace, Florida** &mdash; Longleaf pine forests once covered 90 million acres from Virginia to Texas, a bio-diverse swath of timber prized by shipbuilders and gopher tortoises alike.

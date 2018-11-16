@@ -1,22 +1,23 @@
 ---
-title: "It’s monarch time"
-subtitle: "Butterfly festival goes on despite Hurricane Michael"
+title: 'It’s monarch time'
+subtitle: 'Butterfly festival goes on despite Hurricane Michael'
 date: 2018-10-24T00:00:00.000Z
 type: feature
-author: "Mark Davis, Public Affairs Specialist"
+author: 'Mark Davis, Public Affairs Specialist'
 hero:
-  name: st-marks-nwr-monarch-festival-sign.jpg
-  alt: 'A white sign that reads "Monarch Butterfly Festival, October 27th, St. Marks NWR, 850-925-6121"'
-  caption: "The festival takes place Oct. 27 at the refuge, located on Apalachee Bay on the Florida Panhandle. Photo by Mark Davis, USFWS."
-  position: "70% 40%"
+    name: st-marks-nwr-monarch-festival-sign.jpg
+    alt: 'A white sign that reads "Monarch Butterfly Festival, October 27th, St. Marks NWR, 850-925-6121"'
+    caption: 'The festival takes place Oct. 27 at the refuge, located on Apalachee Bay on the Florida Panhandle. Photo by Mark Davis, USFWS.'
+    position: '70% 40%'
 tags:
-  - Florida
-  - Hurricane
-  - "Hurricane Michael"
-  - Monarch
-  - "St Marks National Wildlife Refuge"
-  - "St Vincent National Wildlife Refuge"
-updated: "October 24th, 2018"
+    - Florida
+    - Hurricane
+    - 'Hurricane Michael'
+    - Monarch
+    - 'Panama City Ecological Services Field Office'
+    - 'St Marks National Wildlife Refuge'
+    - 'St Vincent National Wildlife Refuge'
+updated: 'November 15th, 2018'
 ---
 
 St. Marks, Florida &mdash; And now for a small bit of good news in a part of the country where a hurricane has made nearly every tale bad:

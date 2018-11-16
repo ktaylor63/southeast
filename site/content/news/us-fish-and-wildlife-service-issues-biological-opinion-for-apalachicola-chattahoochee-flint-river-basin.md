@@ -2,17 +2,17 @@
 title: 'U.S. Fish and Wildlife Service issues biological opinion for Apalachicola-Chattahoochee-Flint River basin'
 date: '2016-10-05'
 tags:
-    - Florida
     - 'Biological Opinion'
-    - 'Panama City'
+    - Florida
+    - 'Panama City Ecological Services Field Office'
 hero:
     name: gulf-sturgeon-in-hand.jpg
     alt: 'A large, dinosaur like fish with ridges on its back and two small feelers extending from its mouth.'
     link: 'https://flic.kr/p/aFWATZ'
     caption: 'Gulf sturgeon. Photo by Kayla Kimmel, USFWS.'
-updated: 'November 9th, 2016'
+updated: 'November 15th, 2018'
 ---
-**PANAMA CITY, FL** - Future water control operations as outlined in the U.S. Army Corps of Engineers’ proposed updated Water Control Manual will not threaten the continued existence of federally protected mussels and the Gulf sturgeon found in the Apalachicola-Chattahoochee-Flint River Basin. 
+**Panama City, Florida** - Future water control operations as outlined in the U.S. Army Corps of Engineers’ proposed updated Water Control Manual will not threaten the continued existence of federally protected mussels and the Gulf sturgeon found in the Apalachicola-Chattahoochee-Flint River Basin. 
 
 The U.S. Fish and Wildlife Service at the same time determined in a Biological Opinion that the updated plan will not adversely modify critical habitat designated for those listed species.  
 

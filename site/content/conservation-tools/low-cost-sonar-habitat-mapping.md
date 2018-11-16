@@ -1,10 +1,12 @@
 ---
 draft: true
-title: Low-cost sonar habitat mapping
+title: 'Low-cost sonar habitat mapping'
 tags:
-  - Panama City
-  - Habitat Mapping
-  - GIS
+    - Florida
+    - GIS
+    - 'Habitat Mapping'
+    - 'Panama City Ecological Services Field Office'
+updated: 'November 15th, 2018'
 ---
 
 Low-cost sonar habitat mapping is a method developed by Adam Kaeser (U.S. Fish and Wildlife Service) and Thom Litts (Georgia Department of Natural Resources) for producing high resolution maps of physical habitat features in navigable systems using inexpensive, off-the-shelf sonar and GPS equipment. Associated tools and techniques enable the generation of rectified image mosaics from sonar image snapshots obtained with the Humminbird® Side Imaging system. Physical habitat elements are manually digitized via interpretation of sonar imagery within a GIS. Sonar habitat mapping can be used to quantify the distribution and extent of habitat, investigate terrestrial-aquatic linkages, study patterns of habitat use by resident organisms, and monitor change over time. By providing a unique, rapid, and flexible means to visualize and characterize the underwater environment at the landscape scale, this method can be used to fill critical information gaps in a wide variety of aquatic systems.
@@ -25,7 +27,7 @@ We offer comprehensive, not-for-profit instructional workshops on this method, h
 
 ### Side-scan sonar image geoprocessing workbook
 
-[This workbook](/pdf/workbook/sonar-imagery-geoprocessing-workbook-v2.1.pdf) represents an illustrated, step-by-step guide to the processing of raw sonar imagery obtained using the Humminbird® Side Imaging system using custom tools developed by Thom Litts. This technical workbook is meant to accompany the “Illustrated Guide to Low-Cost, Side Scan Sonar Habitat Mapping” and relates specifically to the section on Geoprocessing. The workbook covers in detail all of the processing steps required to transform raw imagery into sonar image maps- seamless raster layers that overlay the surveyed area in a GIS. The [sonar demo dataset](/pdf/workbook/sonar-demo-dataset.zip) accompanies this workbook; it is provided for practical demonstration and training purposes. 
+[This workbook](/pdf/workbook/sonar-imagery-geoprocessing-workbook-v2.1.pdf) represents an illustrated, step-by-step guide to the processing of raw sonar imagery obtained using the Humminbird® Side Imaging system using custom tools developed by Thom Litts. This technical workbook is meant to accompany the “Illustrated Guide to Low-Cost, Side Scan Sonar Habitat Mapping” and relates specifically to the section on Geoprocessing. The workbook covers in detail all of the processing steps required to transform raw imagery into sonar image maps- seamless raster layers that overlay the surveyed area in a GIS. The [sonar demo dataset](/pdf/workbook/sonar-demo-dataset.zip) accompanies this workbook; it is provided for practical demonstration and training purposes.
 
 ### Sonar demo dataset
 
@@ -33,17 +35,17 @@ We offer comprehensive, not-for-profit instructional workshops on this method, h
 
 ## Publications
 
-  - [Goclowski, M. R., A. J. Kaeser, and S. M. Sammons. 2012. Movement and habitat differentiation among shoal bass, largemouth bass, and spotted bass in the upper Flint River, Georgia. North American Journal of Fisheries Management. DOI:10.1080/02755947.2012.741555.](http://www.tandfonline.com/doi/abs/10.1080/02755947.2012.741555)
-  - [Kaeser, A. J., T. L. Litts, and T. W. Tracy. 2012. Using low-cost side scan sonar for benthic mapping throughout the lower Flint River, Georgia, USA. River Research and Applications. DOI:10.1002/rra.2556.](http://onlinelibrary.wiley.com/doi/10.1002/rra.2556/full)
-  - [Kaeser, A. J. and T. L. Litts. 2010. A novel technique for mapping habitat in navigable streams using low-cost side scan sonar. Fisheries 35(4):163-174.](http://www.tandfonline.com/doi/abs/10.1577/1548-8446-35.4.163)
-  - [Kaeser, A. J. and T. L. Litts. 2008. An assessment of deadhead logs and large woody debris using side scan sonar and field surveys in streams of Southwest Georgia. Fisheries 33(12):589-597](http://www.tandfonline.com/doi/abs/10.1577/1548-8446-33-12).
+- [Goclowski, M. R., A. J. Kaeser, and S. M. Sammons. 2012. Movement and habitat differentiation among shoal bass, largemouth bass, and spotted bass in the upper Flint River, Georgia. North American Journal of Fisheries Management. DOI:10.1080/02755947.2012.741555.](http://www.tandfonline.com/doi/abs/10.1080/02755947.2012.741555)
+- [Kaeser, A. J., T. L. Litts, and T. W. Tracy. 2012. Using low-cost side scan sonar for benthic mapping throughout the lower Flint River, Georgia, USA. River Research and Applications. DOI:10.1002/rra.2556.](http://onlinelibrary.wiley.com/doi/10.1002/rra.2556/full)
+- [Kaeser, A. J. and T. L. Litts. 2010. A novel technique for mapping habitat in navigable streams using low-cost side scan sonar. Fisheries 35(4):163-174.](http://www.tandfonline.com/doi/abs/10.1577/1548-8446-35.4.163)
+- [Kaeser, A. J. and T. L. Litts. 2008. An assessment of deadhead logs and large woody debris using side scan sonar and field surveys in streams of Southwest Georgia. Fisheries 33(12):589-597](http://www.tandfonline.com/doi/abs/10.1577/1548-8446-33-12).
 
 ## The developers
 
 Adam J. Kaeser, Ph.D. Aquatic Ecologist  
 U.S. Fish and Wildlife Service  
 1601 Balboa Avenue Panama City, Florida 32401  
-[adam_kaeser@fws.gov](mailto:adam_kaeser@fws.gov) 850-769-0552 ext. 244  
+[adam_kaeser@fws.gov](mailto:adam_kaeser@fws.gov) 850-769-0552 ext. 244
 
 Thom L. Litts, MSc GIS, GIS Specialist  
 Georgia Department of Natural Resources  

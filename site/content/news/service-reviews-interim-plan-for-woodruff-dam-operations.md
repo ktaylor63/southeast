@@ -9,10 +9,10 @@ hero:
     position: 'top center'
 tags:
     - Florida
-    - 'Gulf sturgeon'
     - Georgia
-    - Panama City
-updated: 'October 25th, 2016'
+    - 'Gulf Sturgeon'
+    - 'Panama City Ecological Services Field Office'
+updated: 'November 15th, 2018'
 ---
 
 The U.S. Fish and Wildlife Service has determined the U.S. Army Corps of Engineers’ interim plan for operating Jim Woodruff Dam (Lake Seminole) on the Apalachicola River will not threaten the continued existence of federally protected freshwater mussels and the Gulf sturgeon fish in Florida.

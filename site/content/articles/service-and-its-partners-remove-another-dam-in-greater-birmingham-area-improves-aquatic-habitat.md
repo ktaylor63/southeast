@@ -15,12 +15,12 @@ tags:
     - 'Fish Passage'
     - Florida
     - 'Goodwins Mill Dam'
-    - 'Panama City'
+    - 'Panama City Ecological Services Field Office'
     - 'Southern Clubshell'
     - 'Strategic Habitat Units'
     - 'Triangular Kidneyshell'
     - 'Trispot Darter'
-updated: 'December 28th, 2017'
+updated: 'November 15th, 2018'
 ---
 
 {{< youtube id="pI1fL3delYE" title="Learn more about the Goodwin's mill dam removal" >}}

@@ -1,6 +1,6 @@
 ---
 title: 'Georgia Aquarium and the U.S. Fish and Wildlife Service team up to save loggerheads'
-date: '2010-04-20'
+date: 2010-04-20T00:00:00.000Z
 hero:
     name: loggerhead-hatchling-meets-ocean.jpg
     alt: 'A tiny loggerhead hatchling hustles towards the ocean.'
@@ -8,16 +8,16 @@ hero:
     caption: 'Loggerhead hatchling meets ocean. Photo by Becky Skiba, USFWS.'
     position: 'bottom center'
 tags:
-    - 'Loggerhead sea turtle'
     - Florida
     - Georgia
-    - Panama City
-updated: 'October 20th, 2016'
+    - 'Loggerhead Sea Turtle'
+    - 'Panama City Ecological Services Field Office'
+updated: 'November 15th, 2018'
 ---
 
 The Georgia Aquarium, internationally recognized for aquatic animal research and conservation, is lending a hand closer to home.
 
-The Aquarium has contributed $11,000 for sea turtle conservation on the Georgia coast as part of a fledgling alliance between the Aquarium and the U.S. Fish and Wildlife Service under the Coastal America Partnership. The money was granted to the Savannah-based Caretta Research Project, the nonprofit organization that protects federally threatened loggerhead sea turtles (_Caretta caretta_) on the Wassaw National Wildlife Refuge, one of Georgia’s coastal barrier islands.
+The Aquarium has contributed \$11,000 for sea turtle conservation on the Georgia coast as part of a fledgling alliance between the Aquarium and the U.S. Fish and Wildlife Service under the Coastal America Partnership. The money was granted to the Savannah-based Caretta Research Project, the nonprofit organization that protects federally threatened loggerhead sea turtles (_Caretta caretta_) on the Wassaw National Wildlife Refuge, one of Georgia’s coastal barrier islands.
 
 Working with USFWS, the Caretta Research Project will use the donation during this year’s nesting season from mid-May to September for equipment and supplies used to monitor loggerhead sea turtles on the refuge. Volunteers work in all-night shifts to patrol the island’s7-mile beach, measure and tag loggerheads, protect their eggs from raccoons and feral hogs, and relocate nests laid too close to the ocean.
 

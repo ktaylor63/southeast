@@ -19,12 +19,12 @@ tags:
     - Florida
     - 'Gopher Tortoise'
     - 'Longleaf Pine'
-    - 'Panama City'
+    - 'Panama City Ecological Services Field Office'
     - 'Partners for Fish and Wildlife Program'
     - 'Prescribed Fire'
     - 'Shermans Fox Squirrel'
     - 'Spotted Turtle'
-updated: 'August 28th, 2017'
+updated: 'November 15th, 2018'
 ---
 
 Ben and LouAnn Williams own approximately 3,400 acres of pinelands interspersed with bottomland hardwoods in Putnam County, [Florida](/florida), between Jacksonville and Daytona Beach. Their property contributes to conservation on a regional scale because it is adjacent to publicly owned conservation areas, creating an important link in a chain of conservation lands from central Florida to the Georgia state line.

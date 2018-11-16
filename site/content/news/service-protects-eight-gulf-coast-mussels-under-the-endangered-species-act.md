@@ -8,18 +8,18 @@ hero:
     link: 'https://flic.kr/p/p5ya5G'
     caption: 'Some of the mussel species seen here include the Florida spike, Florida sandshell, southern fatmucket, Suwannee moccasinshell, Florida mapleleaf, iridescent liliput, southern rainbow and downy rainbow. Photo by FWC.'
 tags:
-    - Florida
     - Alabama
-    - 'Alabama pearlshell'
-    - 'Round ebonyshell'
-    - 'Southern kidneyshell'
-    - 'Choctaw bean'
-    - 'Tapered pigtoe'
-    - 'Narrow pigtoe'
-    - 'Southern sandshell'
-    - 'Fuzzy pigtoe'
-    - Panama City
-updated: 'October 21st, 2016'
+    - 'Alabama Pearlshell'
+    - 'Choctaw Bean'
+    - Florida
+    - 'Fuzzy Pigtoe'
+    - 'Narrow Pigtoe'
+    - 'Panama City Ecological Services Field Office'
+    - 'Round Ebonyshell'
+    - 'Southern Kidneyshell'
+    - 'Southern Sandshell'
+    - 'Tapered Pigtoe'
+updated: 'November 15th, 2018'
 ---
 
 Eight Gulf Coast mussels are in danger of becoming extinct or threatened with extinction in the foreseeable future, the U.S. Fish and Wildlife Service announced today.  As a result, the Service will protect the species under the Endangered Species Act (ESA) and will continue to work with conservation partners to aid the species’ recovery and address current and future threats.
@@ -42,7 +42,7 @@ In addition, the Service utilized an economic analysis to inform and refine its 
 
 The critical habitat areas identified do not include Department of Defense lands covered by Integrated Natural Resources Management Plans that are protective of the mussels and water quality.  This includes approximately six miles of streams within the Fort Rucker Army Aviation Center in Daleville, Alabama, and a 0.25-mile section of Hunter Creek in Covington County, Alabama, within the U.S. Naval Air Station’s Whiting Field Outlying Landing Fields.
 
-The listing of these eight mussels under the Endangered Species Act becomes effective on November 9, 2012, 30 days following the October 10, 2012, publication in the_ Federal Register._
+The listing of these eight mussels under the Endangered Species Act becomes effective on November 9, 2012, 30 days following the October 10, 2012, publication in the _Federal Register._
 
 ## Contact
 

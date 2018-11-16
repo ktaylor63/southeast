@@ -8,17 +8,17 @@ hero:
     caption: 'Louisiana black bear cubs. Photo by Brad Young, Mississippi Department of Wildlife, Fisheries and Parks.'
 tags:
     - Alabama
-    - Asheville Ecological Services Field Office
     - Arkansas
+    - 'Asheville Ecological Services Field Office'
     - 'Endangered Species Act'
     - 'Endangered Species Day'
     - Florida
     - Georgia
     - Louisiana
     - 'North Carolina'
-    - 'Panama City'
+    - 'Panama City Ecological Services Field Office'
     - 'Puerto Rico'
-updated: 'January 3rd, 2018'
+updated: 'November 15th, 2018'
 ---
 
 The Service is helping out in many parts of the Southeast Region. Here are a few examples:

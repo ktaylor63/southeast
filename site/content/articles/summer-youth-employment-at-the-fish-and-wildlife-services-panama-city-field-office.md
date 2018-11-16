@@ -5,10 +5,10 @@ tags:
     - 'Bragging Rights'
     - E-Grits
     - Florida
-    - 'Panama City Field Office'
+    - 'Panama City Ecological Services Field Office'
     - 'Youth Conservation Corps'
 type: 'Bragging Rights'
-updated: 'June 26th, 2018'
+updated: 'November 15th, 2018'
 ---
 
 {{< figure class="photo-right" src="/images/pages/panama-city-ycc.jpg" alt="Two students digging a hole." caption="YCC students Hope Barras and Joshua Cumbie assisting Camp Helen State Park in Panama City, FL with maintenance. Photo by USFWS." >}}

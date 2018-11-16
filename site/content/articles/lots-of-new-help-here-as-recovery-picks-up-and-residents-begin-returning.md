@@ -21,16 +21,17 @@ tags:
     - Military
     - Mississippi
     - 'North Mississippi National Wildlife Refuges Complex'
+    - 'Panama City Ecological Services Field Office'
     - 'St Marks National Wildlife Refuge'
-    - 'Vero Beach'
-updated: 'January 3rd, 2018'
+    - 'Vero Beach Ecological Services Field Office'
+updated: 'November 15th, 2018'
 ---
-  
+
 **Big Pine Key, Florida** – [Hurricane Irma](https://www.fws.gov/hurricane/irma) hammered the Florida Keys a week ago Sunday and the recovery has been a whirl of progress and promise.
 
 Armies of police, fire, utility and emergency workers swarm the 120-mile long chain of islands restoring order and power. Armadas of 18-wheelers, front-end loaders and dump trucks supply food, water, generators and hope. Even Mother Nature, who unleashed 180 mph winds on the Lower Keys – crippling this still-hobbled island, home to the [National Key Deer Refuge](https://www.fws.gov/refuge/National_Key_Deer_Refuge/) – has kept additional rains at bay.
 
-The refuge took a major blow from Irma with miles of trees downed or denuded, roads blocked, equipment trashed and numerous buildings and employees’ homes damaged. Recovery, though, has been swift as the 50-person response team hailing from all corners of the Southeast clears roads, inspects homes, cuts trees and supplies generators. 
+The refuge took a major blow from Irma with miles of trees downed or denuded, roads blocked, equipment trashed and numerous buildings and employees’ homes damaged. Recovery, though, has been swift as the 50-person response team hailing from all corners of the Southeast clears roads, inspects homes, cuts trees and supplies generators.
 
 {{< figure class="photo-center" src="/images/pages/irma-keys-complex.jpg" alt="The sign at the refuge complex hangs perilously." caption="Florida Keys National Wildlife Refuges Complex after Hurricane Irma. Photo by Dan Chapman, USFWS." link="https://flic.kr/p/Xx9qgX" >}}
 
@@ -50,7 +51,7 @@ Saturday, though, unfurled smoothly. Gray and top staff met at 7 a.m. at the ref
 
 “There’s a lot of new faces here today to help us out with our little endeavor,” Wallace said.
 
-He sent one crew of sawyers from the [St. Marks NWR](https://www.fws.gov/refuge/st_marks/) to clear trees from two refuge-owned properties and the other crew, from the [North Mississippi Refuges Complex](https://www.fws.gov/refuge/Coldwater_River/About_the_Complex.html), to clean up another home. 
+He sent one crew of sawyers from the [St. Marks NWR](https://www.fws.gov/refuge/st_marks/) to clear trees from two refuge-owned properties and the other crew, from the [North Mississippi Refuges Complex](https://www.fws.gov/refuge/Coldwater_River/About_the_Complex.html), to clean up another home.
 
 “There’s a lot of moving pieces and shuffling around, but we’re making progress,” said Wallace, a deputy regional fire coordinator who lives outside Atlanta. “Things are looking good.”
 
@@ -68,7 +69,7 @@ The thermometer topped 90 degrees and the humidity made it feel 100-plus, especi
 
 There are other challenges. Nasty rashes – much worse than poison ivy -- from cut poisonwood trees started cropping up. Solution holes, where eroded limestone has turned into deep cavities in the ground, threatened to break legs or twist ankles. A nasty mixture of oil, gas, herbicides and old batteries stored at the Nut Farm and inundated by Irma’s storm surge needed to be hauled off by a hazmat team.
 
-And then there’s the Key deer. Refuge staffers have received a handful of calls about dead deer in need of burial or live deer in need of water, food or shelter. Neither request, though, is out of the ordinary. Cars and trucks alone kill about 135 deer annually. Dan Clark, the refuge manager, advises concerned citizens to leave the deer alone. 
+And then there’s the Key deer. Refuge staffers have received a handful of calls about dead deer in need of burial or live deer in need of water, food or shelter. Neither request, though, is out of the ordinary. Cars and trucks alone kill about 135 deer annually. Dan Clark, the refuge manager, advises concerned citizens to leave the deer alone.
 
 {{< figure class="photo-center" src="/images/pages/key-deer-after-irma.jpg" alt="A small brown deer next to some denuded vegetation." caption="This Key deer was wandering alongside a damaged home owned by National Key Deer Refuge after Hurricane Irma. Photo by Dan Chapman, USFWS." link="https://flic.kr/p/YM8Kb2">}}
 

@@ -12,8 +12,9 @@ tags:
     - Florida
     - 'Kemps Ridley Sea Turtle'
     - 'Loggerhead Sea Turtle'
+    - 'Panama City Ecological Services Field Office'
     - 'Sea Turtle'
-updated: 'January 8th, 2018'
+updated: 'November 15th, 2018'
 ---
 
 The U.S. Fish and Wildlife Service helped rescue hundreds of near-frozen sea turtles during Florida’s recent cold snap.
@@ -22,7 +23,7 @@ Roughly 900 threatened or endangered turtles, mostly green turtles, but includin
 
 Most were taken to the Gulf World Marine Institute in Panama City Beach where they were warmed up and fed, according to the Florida Fish and Wildlife Conservation Commission. They’ll be tagged and returned to the now-warming waters in coming days, said spokeswoman Michelle Kerr.
 
-Maybe 100 turtles across the Panhandle were found dead or died soon thereafter. 
+Maybe 100 turtles across the Panhandle were found dead or died soon thereafter.
 
 {{< figure class="photo-right" src="/images/pages/anna-clark-sea-turtle-rescue.jpg" alt="A woman wearing a sweatshirt holding a sea turtle." caption="Anna Clark holding a sea turtle. Photo by USFWS." >}}
 
@@ -30,9 +31,9 @@ When water temperatures drop, the reptiles’ heart rates drop and they become l
 
 A handful of U.S. Fish and Wildlife Service employees in the Panama City office helped rescue turtles over the weekend. They joined turtle-loving volunteers from Port St. Joe to Tyndall Air Force Base who waded into the Gulf to rescue the stunned and disoriented animals. Injured turtles, including those suffering from fibropapillomatosis, a virus that causes debilitating tumors, were also corralled and treated at Gulf World.
 
-Anna Clark and Jeff Schlafke, were painting a house in Cape San Blas, when they learned of the turtles’ plight. They quit working and set about saving the turtles, losing two days pay. 
+Anna Clark and Jeff Schlafke, were painting a house in Cape San Blas, when they learned of the turtles’ plight. They quit working and set about saving the turtles, losing two days pay
 
-“Anna wore these tiny tennis shoes that had to be wet -- and it was so cold out,” said Patty Kelly, a wildlife biologist in the Panama City office. “Unbelievable.”
+“Anna wore these tiny tennis shoes that had to be wet &mdash; and it was so cold out,” said Patty Kelly, a wildlife biologist in the Panama City office. “Unbelievable.”
 
 {{< figure class="photo-center" src="/images/pages/jeff-schlafke-sea-turtle-rescue.jpg" alt="A man wearing a sweatshirt holding a sea turtle." caption="Jeff Schlafke holding a sea turtle. Photo by USFWS." >}}
 

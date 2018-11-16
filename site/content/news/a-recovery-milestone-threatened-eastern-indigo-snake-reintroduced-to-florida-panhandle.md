@@ -15,10 +15,10 @@ tags:
     - 'Endangered Species Act'
     - Florida
     - 'Longleaf Pine'
-    - 'Panama City'
+    - 'Panama City Ecological Services Field Office'
     - Recovery
     - Reintroduction
-updated: 'January 3rd, 2018'
+updated: 'November 15th, 2018'
 ---
 
 **Tallahassee, Florida** – The federally threatened eastern indigo snake, an icon of the southern longleaf pine forest, was reintroduced to northern Florida today at The Nature Conservancy’s Apalachicola Bluffs and Ravines Preserve (ABRP).

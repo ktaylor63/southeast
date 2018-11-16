@@ -7,11 +7,11 @@ hero:
     caption: 'Suwannee moccasinshells. Photo by USFWS.'
     position: bottom
 tags:
+    - 'Endangered Species Act'
     - Florida
     - Georgia
-    - 'Endangered Species Act'
-    - Panama City
-updated: 'November 9th, 2016'
+    - 'Panama City Ecological Services Field Office'
+updated: 'November 15th, 2018'
 ---
 The [Suwannee moccasinshell’s](/wildlife/mussel/suwannee-moccasinshell) range and numbers have declined in recent decades and the mussel should be protected as a threatened species, the U.S. Fish and Wildlife Service announced today.  Its decline is the result of pollution and reduced flows in the Suwannee River Basin.
 

@@ -10,8 +10,9 @@ tags:
     - Florida
     - Gulf
     - 'National Wildlife Refuge System'
+    - 'Panama City Ecological Services Field Office'
     - 'St Marks National Wildlife Refuge'
-updated: 'June 4th, 2018'
+updated: 'November 15th, 2018'
 ---
 
 **Atlanta, Georgia** &mdash; Sam Shine, for years, quietly bought up North Florida property and set about conserving it. A successful Midwestern manufacturer, Shine made a number of under-the-radar land deals that received little notice outside the Panhandle conservation community.
@@ -38,13 +39,13 @@ But make no mistake: Shine is passionate about saving the world, or at least his
 
 Shine, 80, grew up on an Indiana farm hunting, fishing and pursuing the usual activities that tie a boy to the land. He graduated from Indiana University in 1955 with a bachelor of science degree in business, majoring in marketing. After military service in Korea, Shine worked for an electronic connector company in New Albany, Indiana.
 
-He, along with wife Betty, founded SAMTEC, Inc. in 1976, renting two rooms behind an insurance agency. He paid himself $100 a week.
+He, along with wife Betty, founded SAMTEC, Inc. in 1976, renting two rooms behind an insurance agency. He paid himself \$100 a week.
 
-Shine targeted companies overlooked by large manufacturers for his connectors and cables. Attention to the customer, learned from his father Ira, transformed SAMTEC into a $713 million (in 2017 revenues) manufacturing juggernaut with 5,000 employees scattered across factories and sales offices in Indiana, Asia, Europe and Latin America. A privately held company with workers given ownership stakes, SAMTEC’s website boasts a lofty 96 percent retention rate for employees.
+Shine targeted companies overlooked by large manufacturers for his connectors and cables. Attention to the customer, learned from his father Ira, transformed SAMTEC into a \$713 million (in 2017 revenues) manufacturing juggernaut with 5,000 employees scattered across factories and sales offices in Indiana, Asia, Europe and Latin America. A privately held company with workers given ownership stakes, SAMTEC’s website boasts a lofty 96 percent retention rate for employees.
 
 Sam Shine created an eponymous foundation in 1995 as he turned his attention toward conservation. He largely retired a few years later, turning the corporate helm over to son John. Southern Indiana and northern Florida became his philanthropic focus.
 
-Shine chipped in for the Ohio River Greenway. He donated 40 acres to Purdue University for a research park. He helped purchase 339 acres for a land trust in Bloomington. He donated $1 million to the Louisville botanical gardens.
+Shine chipped in for the Ohio River Greenway. He donated 40 acres to Purdue University for a research park. He helped purchase 339 acres for a land trust in Bloomington. He donated \$1 million to the Louisville botanical gardens.
 
 “In my lifetime I’ve seen the community where I live go from a wonderful place to a developed, not wonderful place,” Shine said. “So I’m just trying to save the pieces I can save for posterity in Indiana and Florida.”
 
@@ -62,9 +63,9 @@ It was Davis, a former pool and poker hustler turned commodities trader and arde
 
 “We bought it to keep it from being developed and chopped up into hunt camps and ranchettes,” Shine said. “It’s coastal, gulf Florida with all these wonderful river systems. I wanted it to go to Fish and Wildlife, but I didn’t count on it taking 10 years.”
 
-The Service already acquired 2,580 acres, for $6.8 million, from Shine using money from the Land and Water Conservation Fund, which is largely financed by offshore oil and gas leases. An agreement is in place to buy another 331 acres for $500,000.
+The Service already acquired 2,580 acres, for $6.8 million, from Shine using money from the Land and Water Conservation Fund, which is largely financed by offshore oil and gas leases. An agreement is in place to buy another 331 acres for$500,000.
 
-In January Shine told the Service he wanted to donate the rest of his property &mdash; 6,202 acres &mdash; which abuts St. Marks to the north. It’s worth about $9 million. The Service and TNC have been managing &mdash; thinning and burning the slash pine forests and replanting in longleaf &mdash; the land for years.
+In January Shine told the Service he wanted to donate the rest of his property &mdash; 6,202 acres &mdash; which abuts St. Marks to the north. It’s worth about \$9 million. The Service and TNC have been managing &mdash; thinning and burning the slash pine forests and replanting in longleaf &mdash; the land for years.
 
 {{< figure class="photo-center" src="/images/pages/longleaf-pine-camp-blanding.jpg" alt="A forest of mature longleaf pine trees with limited understory vegetation." caption="Longleaf pine habitat in Eastern Florida at Camp Blanding. Photo by Leo Miranda, USFWS." link="https://flic.kr/p/Tqd1Vn" >}}
 
