@@ -1,6 +1,6 @@
 ---
 title: 'Thirsty Key deer get a helping hand from U.S. Fish and Wildlife Service and the public'
-date: '2017-09-22'
+date: 2017-09-22T00:00:00.000Z
 hero:
     name: key-deer-dehydrated-after-irma.jpg
     alt: 'A small deer with two small emerging antlers lays on a slab of concrete while taking a drink of water from plastic tupperware.'
@@ -11,13 +11,13 @@ tags:
     - 'Endangered Species Act'
     - Florida
     - 'Florida Keys'
-    - Vero Beach
     - 'Florida Keys National Wildlife Refuges Complex'
     - Hurricane
     - 'Hurricane Irma'
     - 'Key Deer'
     - 'National Key Deer Refuge'
-updated: 'September 26th, 2017'
+    - 'Vero Beach'
+updated: 'November 15th, 2018'
 ---
 
 **Big Pine Key, Florida** – [Key deer](https://www.fws.gov/refuge/National_Key_Deer_Refuge/wildlife_and_habitat/key_deer.html), the lovably docile and locally iconic herbivores that meander across the piney marshlands and in-town streets of the Lower Keys, were hit hard by Hurricane Irma.
