@@ -1,4 +1,12 @@
 stories:
+  - title: "Journey of the whooping crane"
+    summary: "At five feet tall, and with a wingspan of over seven feet, the whooping crane has the distinction of being North America’s tallest bird and sadly, also one of its rarest."
+    date: 2018-11-16
+    hero:
+      name: whooping-crane-duo.jpg
+      alt: "Two bright white birds with red patches on their face and long slender legs standing in the a dormant grassy field."
+      caption: "Whooping cranes. Photo by D. Serverson, USFWS."
+    url: "https://youtu.be/uG9KoZABefU"
   - title: "Taking stock of Hurricane Michael’s affects on rare wild animals"
     summary: "Georgia and Florida farms and cities are still assessing the damage from Hurricane Michael, and beginning to put things back together. The storm also affected natural places and wild animals, and biologists are evaluating those impacts."
     date: 2018-11-05
