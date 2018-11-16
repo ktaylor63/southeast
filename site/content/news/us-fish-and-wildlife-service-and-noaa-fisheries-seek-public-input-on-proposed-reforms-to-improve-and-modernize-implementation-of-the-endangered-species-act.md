@@ -1,15 +1,16 @@
 ---
-title: 'U.S. Fish and Wildlife Service and NOAA Fisheries seek public input on proposed reforms to improve and modernize implementation of the Endangered Species Act'
+title: "U.S. Fish and Wildlife Service and NOAA Fisheries seek public input on proposed reforms to improve and modernize implementation of the Endangered Species Act"
 hero:
-    name: puerto-rican-parrot-flight.jpg
-    alt: 'A bright green parrot with red markings on its face and blue flight feathers.'
-    link: 'https://flic.kr/p/NufrjB'
-    caption: 'When in flight, some of the PR Parrots show their beautiful blue primary feathers. En español: Algunas cotorras muestran sus bellas plumas primarias azules al volar. Bosque del Estado, Maricao, Puerto Rico. Photo by Jan Paul Zegarra, Biologist, USFWS'
-    position: '50% 60%'
+  name: puerto-rican-parrot-flight.jpg
+  alt: "A bright green parrot with red markings on its face and blue flight feathers."
+  link: "https://flic.kr/p/NufrjB"
+  caption: "When in flight, some of the PR Parrots show their beautiful blue primary feathers. En español: Algunas cotorras muestran sus bellas plumas primarias azules al volar. Bosque del Estado, Maricao, Puerto Rico. Photo by Jan Paul Zegarra, Biologist, USFWS"
+  position: "50% 60%"
 date: 2018-07-19T00:00:00.000Z
 tags:
-    - 'Endangered Species Act'
-updated: 'August 1st, 2018'
+  - "Endangered Species Act"
+  - "South Carolina Ecological Services Field Office"
+updated: "August 1st, 2018"
 ---
 
 Continuing efforts to improve how the Endangered Species Act (ESA) is implemented, the U.S. Fish and Wildlife Service and National Oceanic Atmospheric Administration (NOAA) Fisheries today [proposed revisions](https://www.fws.gov/endangered/improving_ESA/regulation-revisions.html) to certain regulations to ensure clarity and consistency. The changes incorporate public input, best science and best practices to improve reliability, regulatory efficiency and environmental stewardship.
@@ -20,7 +21,7 @@ Continuing efforts to improve how the Endangered Species Act (ESA) is implemente
 
 Several proposed changes relate to section 4 of the ESA, which deals with procedures for listing species, recovery and designating critical habitat (areas essential to support the conservation of a species). First, the agencies propose to revise the procedures for designating critical habitat by reinstating the requirement that they will first evaluate areas currently occupied by the species before considering unoccupied areas. Second, the agencies propose to clarify when they may determine unoccupied areas are essential to the conservation of the species.
 
-While the agencies recognize the value of critical habitat as a conservation tool, in some cases, designation of critical habitat is not prudent. Accordingly, they are proposing a non-exhaustive list of circumstances where they may find that designation for a particular species would not be prudent. The agencies anticipate that such not-prudent determinations will continue to be rare and expect to designate critical habitat in most cases. 
+While the agencies recognize the value of critical habitat as a conservation tool, in some cases, designation of critical habitat is not prudent. Accordingly, they are proposing a non-exhaustive list of circumstances where they may find that designation for a particular species would not be prudent. The agencies anticipate that such not-prudent determinations will continue to be rare and expect to designate critical habitat in most cases.
 
 The ESA defines a threatened species as one that is likely to become in danger of extinction within the “foreseeable future.” For the first time, the agencies are proposing an interpretation of “foreseeable future” to make it clear that it extends only as far as they can reasonably determine that both the future threats and the species’ responses to those threats are probable.
 

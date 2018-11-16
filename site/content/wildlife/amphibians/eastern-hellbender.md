@@ -1,39 +1,40 @@
 ---
-title: 'Eastern hellbender'
-scientific: 'Cryptobranchus alleganiensis alleganiensis'
-description: 'This large amphibian can be found crawling around the bottoms of clear, silt-free mountain streams. They are generally nocturnal, spending most of the day under rocks on the stream floor, emerging at night to hunt crayfish.'
+title: "Eastern hellbender"
+scientific: "Cryptobranchus alleganiensis alleganiensis"
+description: "This large amphibian can be found crawling around the bottoms of clear, silt-free mountain streams. They are generally nocturnal, spending most of the day under rocks on the stream floor, emerging at night to hunt crayfish."
 type: species-profile
 js: /js/species-profile.js
 tags:
-    - Alabama
-    - Amphibian
-    - Arkansas
-    - 'Asheville Ecological Services Field Office'
-    - 'Chattahoochee Forest National Fish Hatchery'
-    - Georgia
-    - Kentucky
-    - Mississippi
-    - 'North Carolina'
-    - Tennessee
-    - Virginia
+  - Alabama
+  - Amphibian
+  - Arkansas
+  - "Asheville Ecological Services Field Office"
+  - "South Carolina Ecological Services Field Office"
+  - "Chattahoochee Forest National Fish Hatchery"
+  - Georgia
+  - Kentucky
+  - Mississippi
+  - "North Carolina"
+  - Tennessee
+  - Virginia
 aliases:
-    - /wildlife/amphibian/eastern-hellbender
-    - /species/amphibian/eastern-hellbender
-    - /species/amphibians/eastern-hellbender
+  - /wildlife/amphibian/eastern-hellbender
+  - /species/amphibian/eastern-hellbender
+  - /species/amphibians/eastern-hellbender
 hero:
-    name: eastern-hellbender.jpg
-    alt: 'A small, slimy, green salamander in hand.'
-    caption: 'Eastern hellbender. <a href="https://flic.kr/p/EjNh96">Photo</a> by Will Parson, Chesapeake Bay Program, <a href="https://creativecommons.org/licenses/by-nc/2.0/">CC BY-NC 2.0</a>.'
-    link: 'https://flic.kr/p/EjNh96'
-    position: '40% 50%'
-updated: 'October 5th, 2018'
+  name: eastern-hellbender.jpg
+  alt: "A small, slimy, green salamander in hand."
+  caption: 'Eastern hellbender. <a href="https://flic.kr/p/EjNh96">Photo</a> by Will Parson, Chesapeake Bay Program, <a href="https://creativecommons.org/licenses/by-nc/2.0/">CC BY-NC 2.0</a>.'
+  link: "https://flic.kr/p/EjNh96"
+  position: "40% 50%"
+updated: "October 5th, 2018"
 ---
 
 - **Taxon:** Amphibian
 - **Range:** Southern New York to Northern Georgia
 - **Status:** Not listed under the Endangered Species Act
 
-Referred to by locals  as “mud devil”, “devil dog”, “ground puppy”, “snot otter”, “lasagna lizard”, and “Allegheny alligator”, the hellbender has certainly been colored as “a creature from hell where it’s bent of returning.”   This large amphibian can be found crawling around the bottoms of clear, silt-free mountain streams.  They are generally nocturnal, spending most of the day under rocks on the stream floor, emerging at night to hunt crayfish.  
+Referred to by locals as “mud devil”, “devil dog”, “ground puppy”, “snot otter”, “lasagna lizard”, and “Allegheny alligator”, the hellbender has certainly been colored as “a creature from hell where it’s bent of returning.” This large amphibian can be found crawling around the bottoms of clear, silt-free mountain streams. They are generally nocturnal, spending most of the day under rocks on the stream floor, emerging at night to hunt crayfish.
 
 {{< scroller-list tag="Eastern Hellbender" section="news" >}}
 {{< scroller-list tag="Eastern Hellbender" section="articles" >}}
@@ -42,15 +43,15 @@ Referred to by locals  as “mud devil”, “devil dog”, “ground puppy”, 
 
 ## Appearance
 
-The hellbender salamander is the largest salamander in the United States.  They are blotchy brown to red-brown in coloration with a paler underbelly.  They have been known to grow up to 29 inches long, though most will average about 12-15 inches.  They have flat bodies with flat heads, small dorsal eyes and folded,slimy skin. They have  four toes on front limbs and five on back limbs, and their tails are keeled to provide propulsion.  
+The hellbender salamander is the largest salamander in the United States. They are blotchy brown to red-brown in coloration with a paler underbelly. They have been known to grow up to 29 inches long, though most will average about 12-15 inches. They have flat bodies with flat heads, small dorsal eyes and folded,slimy skin. They have four toes on front limbs and five on back limbs, and their tails are keeled to provide propulsion.
 
 ## Habitat
 
-Their habitat consist on shallow, fast-flowing, rocky streams.  They are generally found in areas with large, intermittent, irregularly shaped rocks within swift water.  They tend to stay away from slow-moving water and muddy banks with slab rock bottoms.
+Their habitat consist on shallow, fast-flowing, rocky streams. They are generally found in areas with large, intermittent, irregularly shaped rocks within swift water. They tend to stay away from slow-moving water and muddy banks with slab rock bottoms.
 
 ## Diet
 
-Eastern hellbenders feed primarily on crayfish.  Their diets are supplemented by small fish, other hellbenders, tadpoles, toads, and water snakes.
+Eastern hellbenders feed primarily on crayfish. Their diets are supplemented by small fish, other hellbenders, tadpoles, toads, and water snakes.
 
 ## Historical range
 
@@ -70,7 +71,7 @@ Although it is illegal in many states to sell hellbenders, the illegal pet trade
 
 ## Partnerships, research and projects
 
-Georgia Department of Natural Resources and U.S. Fish and Wildlife Service are conducting yearly population surveys in the North Georgia streams.  
+Georgia Department of Natural Resources and U.S. Fish and Wildlife Service are conducting yearly population surveys in the North Georgia streams.
 
 ## How you can help
 

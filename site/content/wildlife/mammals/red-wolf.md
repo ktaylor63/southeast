@@ -1,33 +1,39 @@
 ---
-title: 'Red wolf'
-description: 'Once common throughout the Eastern and South Central United States, red wolf populations were decimated by the early 20th century as a result of intensive predator control programs and the degradation and alteration of the species’ habitat. When the red wolf was designated endangered in 1967, the U.S. Fish and Wildlife Service initiated efforts to conserve and recover the species.'
+title: "Red wolf"
+description: "Once common throughout the Eastern and South Central United States, red wolf populations were decimated by the early 20th century as a result of intensive predator control programs and the degradation and alteration of the species’ habitat. When the red wolf was designated endangered in 1967, the U.S. Fish and Wildlife Service initiated efforts to conserve and recover the species."
 type: species-profile
 url: /wildlife/mammal/red-wolf
-scientific: 'Canis rufus'
+scientific: "Canis rufus"
 js: /js/species-profile.js
 hero:
-    name: red-wolf-at-point-defiance.jpg
-    alt: 'An adult wolf walking in an enclosure at the zoo.'
-    caption: 'Captive red wolf at Species Survival Plan facility, Point Defiance Zoo and Aquarium (Tacoma, WA). Photo by B. Bartel, USFWS.'
-    link: 'https://flic.kr/p/hJ1eXL'
-    position: 'top left'
+  name: red-wolf-at-point-defiance.jpg
+  alt: "An adult wolf walking in an enclosure at the zoo."
+  caption: "Captive red wolf at Species Survival Plan facility, Point Defiance Zoo and Aquarium (Tacoma, WA). Photo by B. Bartel, USFWS."
+  link: "https://flic.kr/p/hJ1eXL"
+  position: "top left"
 aliases:
-    - /wildlife/mammal/red-wolf
-    - /wildlife/mammals/red-wolf
-    - /species/mammal/red-wolf
-    - /species/mammals/red-wolf
+  - /wildlife/mammal/red-wolf
+  - /wildlife/mammals/red-wolf
+  - /species/mammal/red-wolf
+  - /species/mammals/red-wolf
 tags:
-    - 'Endangered Species Act'
-    - Mammal
-    - 'North Carolina'
-    - Recovery
-    - 'Red Wolf'
-updated: 'October 5th, 2018'
+  - "Endangered Species Act"
+  - Mammal
+  - "North Carolina"
+  - "South Carolina Ecological Services Field Office"
+  - "Raleigh Ecological Services Field Office"
+  - "Alligator River National Wildlife Refuge"
+  - Recovery
+  - South Carolina
+  - North Carolina
+  - Florida
+  - "Red Wolf"
+updated: "October 5th, 2018"
 ---
 
-* **Taxon**: Mammal
-* **Range**: Eastern [North Carolina](/north-carolina)
-* **Status**: Designated an endangered species in 1967
+- **Taxon**: Mammal
+- **Range**: Eastern [North Carolina](/north-carolina)
+- **Status**: Designated an endangered species in 1967
 
 {{< scroller-list tag="Red Wolf" section="news" >}}
 {{< scroller-list tag="Red Wolf" section="articles" >}}
@@ -94,97 +100,97 @@ Also in April, the Service said it is moving to begin work with an independent o
 
 ### 1967
 
-* Red wolf listed as endangered under the Endangered Species Preservation Act
+- Red wolf listed as endangered under the Endangered Species Preservation Act
 
 ### 1969
 
-* Red wolf captive breeding initiated at Point Defiance Zoo & Aquarium in Tacoma, Washington
+- Red wolf captive breeding initiated at Point Defiance Zoo & Aquarium in Tacoma, Washington
 
 ### 1973
 
-* Endangered Species Act becomes federal law
+- Endangered Species Act becomes federal law
 
 ### 1977
 
-* First litter of red wolf pups born in breeding program at Point Defiance Zoo & Aquarium
+- First litter of red wolf pups born in breeding program at Point Defiance Zoo & Aquarium
 
 ### 1978
 
-* First successful experimental release, tracking, and recapture of red wolves on Bulls Island, South Carolina, solidifies reintroduction techniques
+- First successful experimental release, tracking, and recapture of red wolves on Bulls Island, South Carolina, solidifies reintroduction techniques
 
 ### 1980
 
-* Last red wolves removed from the wild; declared biologically extinct in the wild
+- Last red wolves removed from the wild; declared biologically extinct in the wild
 
 ### 1986
 
-* Publication of a final rule in the Federal Register to introduce mated pairs of red wolves into the Alligator River National Wildlife Refuge in eastern North Carolina;
-* establishment of nonessential experimental population (NEP)
+- Publication of a final rule in the Federal Register to introduce mated pairs of red wolves into the Alligator River National Wildlife Refuge in eastern North Carolina;
+- establishment of nonessential experimental population (NEP)
 
 ### 1987
 
-* Restoration effort begins with the experimental release of red wolves at Alligator River National Wildlife Refuge
+- Restoration effort begins with the experimental release of red wolves at Alligator River National Wildlife Refuge
 
 ### 1988
 
-* First litter of red wolf pups born in the wild at Alligator River National Wildlife Refuge
+- First litter of red wolf pups born in the wild at Alligator River National Wildlife Refuge
 
 ### 1991
 
-* Publication of a final rule in the Federal Register to introduce mated pairs of red wolves into the Great Smoky Mountains National Park
+- Publication of a final rule in the Federal Register to introduce mated pairs of red wolves into the Great Smoky Mountains National Park
 
 ### 1992
 
-* Experimental release begins at Great Smoky Mountains National Park
+- Experimental release begins at Great Smoky Mountains National Park
 
 ### 1993
 
-* First red wolves born in the wild at Great Smoky Mountains National Park
+- First red wolves born in the wild at Great Smoky Mountains National Park
 
 ### 1995
 
-* Publication of an amendment to the special rule in the Federal Register addressing private landowner concerns about reintroduced red wolves
+- Publication of an amendment to the special rule in the Federal Register addressing private landowner concerns about reintroduced red wolves
 
 ### 1998
 
-* Red wolf project ended at Great Smoky Mountains National Park due to lack of adequate food sources
+- Red wolf project ended at Great Smoky Mountains National Park due to lack of adequate food sources
 
 ### 2000
 
-* Adaptive management plan implemented to address red wolf/coyote hybridization within the NEP area
+- Adaptive management plan implemented to address red wolf/coyote hybridization within the NEP area
 
 ### 2006
 
-* The size of the wild population in North Carolina peaked at an estimated 120-130 wolves
+- The size of the wild population in North Carolina peaked at an estimated 120-130 wolves
 
 ### 2013
 
-* The Service recognized steps were needed to improve management of the NEP, which included the need to conduct an evaluation of the Red Wolf Recovery Program
-* Memorandum of Understanding on collaborative conservation of red wolves and other canids, including coyotes, on the North Carolina Albemarle Peninsula signed by the Service and the North Carolina Wildlife Resources Commission (NCWRC)
+- The Service recognized steps were needed to improve management of the NEP, which included the need to conduct an evaluation of the Red Wolf Recovery Program
+- Memorandum of Understanding on collaborative conservation of red wolves and other canids, including coyotes, on the North Carolina Albemarle Peninsula signed by the Service and the North Carolina Wildlife Resources Commission (NCWRC)
 
 ### 2014
 
-* Independent evaluation of the NEP by the Wildlife Management Institute initiated; findings of the peer-reviewed evaluation released
-* NCWRC established rules to ban nighttime hunting and require permits for daytime hunting of coyotes in the five-county red wolf recovery area in eastern North Carolina
+- Independent evaluation of the NEP by the Wildlife Management Institute initiated; findings of the peer-reviewed evaluation released
+- NCWRC established rules to ban nighttime hunting and require permits for daytime hunting of coyotes in the five-county red wolf recovery area in eastern North Carolina
 
 ### 2015
 
-* Service expanded the evaluation to include recovery efforts beyond the Program’s NEP to identify actions necessary to guide red wolf recovery on the landscape;
-* Reintroductions of red wolf into the wild suspended while additional science and research into the feasibility of species’ recovery is gathered;
-* existing red wolves located in North Carolina are managed in accordance with the 1995 rule;
-* Recovery team reconvened to address current and future needs to restore red wolves in the wild
+- Service expanded the evaluation to include recovery efforts beyond the Program’s NEP to identify actions necessary to guide red wolf recovery on the landscape;
+- Reintroductions of red wolf into the wild suspended while additional science and research into the feasibility of species’ recovery is gathered;
+- existing red wolves located in North Carolina are managed in accordance with the 1995 rule;
+- Recovery team reconvened to address current and future needs to restore red wolves in the wild
 
 ### 2016
 
-* The recovery team continued to meet with the intent to produce a set of recommendations for consideration by the Service
-* The Service announced recovery of the red wolf in the wild is possible with significant changes that must be implemented to secure the captive
+- The recovery team continued to meet with the intent to produce a set of recommendations for consideration by the Service
+- The Service announced recovery of the red wolf in the wild is possible with significant changes that must be implemented to secure the captive
   and wild populations.
 
 ### 2018
 
-* The Service published a [Species Status Assessment](http://ecos.fws.gov/ServCat/DownloadFile/147196) and [5-year review](https://ecos.fws.gov/docs/five_year_review/doc5714.pdf) for the red wolf. The latter recommended no change in the endangered status of the red wolf under the Endangered Species Act.
+- The Service published a [Species Status Assessment](http://ecos.fws.gov/ServCat/DownloadFile/147196) and [5-year review](https://ecos.fws.gov/docs/five_year_review/doc5714.pdf) for the red wolf. The latter recommended no change in the endangered status of the red wolf under the Endangered Species Act.
 
-* [Service proposes new management rule for non-essential, experimental population of red wolves in North Carolina](/news/2018/06/service-proposes-new-management-rule-for-non-essential-experimental-population-of-red-wolves-in-north-carolina/)
+- [Service proposes new management rule for non-essential, experimental population of red wolves in North Carolina](/news/2018/06/service-proposes-new-management-rule-for-non-essential-experimental-population-of-red-wolves-in-north-carolina/)
 
 {{< figure class="photo-center" src="/images/pages/red-wolf-historic-range-and-nep.jpg" alt="The historical range of the red wolf covers the southeast from Texas to New York to Florida and the non-essential experimental population management area." caption="Red wolf historical range and proposed non-essential experimental population. Map by Jose Barrios, USFWS." link="https://flic.kr/p/H4bjyg" >}}
 

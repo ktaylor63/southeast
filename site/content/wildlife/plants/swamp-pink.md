@@ -16,6 +16,7 @@ aliases:
     - /species/fishes/swamp-pink
 tags:
     - 'Asheville Ecological Services Field Office'
+    - 'South Carolina Ecological Services Field Office'
     - Delaware
     - 'Endangered Species Act'
     - Georgia

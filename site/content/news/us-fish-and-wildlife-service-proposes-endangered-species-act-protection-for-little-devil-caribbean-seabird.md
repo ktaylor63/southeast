@@ -1,18 +1,19 @@
 ---
-title: 'U.S. Fish and Wildlife Service proposes Endangered Species Act protection for “little devil” Caribbean seabird'
-subtitle: 'Proposal to list the black-capped petrel as threatened includes a special rule to eliminate unnecessary permitting restrictions'
+title: "U.S. Fish and Wildlife Service proposes Endangered Species Act protection for “little devil” Caribbean seabird"
+subtitle: "Proposal to list the black-capped petrel as threatened includes a special rule to eliminate unnecessary permitting restrictions"
 date: 2018-10-05T00:00:00.000Z
 hero:
-    name: black-capped-petrel-from-below.jpg
-    alt: 'A sea bird from below with black feathers around the edges of its wings and a white breast with the ocean in the background.'
-    caption: 'Black-capped petrel off the coast of Cape Hatteras, NC. Photo © Brian Patteson, <a href="http://seabirding.com">seabirding.com</a>, used with permission.'
-    position: '45% 35%'
+  name: black-capped-petrel-from-below.jpg
+  alt: "A sea bird from below with black feathers around the edges of its wings and a white breast with the ocean in the background."
+  caption: 'Black-capped petrel off the coast of Cape Hatteras, NC. Photo © Brian Patteson, <a href="http://seabirding.com">seabirding.com</a>, used with permission.'
+  position: "45% 35%"
 tags:
-    - 'Black-Capped Petrel'
-    - 'Caribbean Ecological Services Field Office'
-    - 'Endangered Species Act'
-    - 'Puerto Rico'
-updated: 'October 5th, 2018'
+  - "Black-Capped Petrel"
+  - "Caribbean Ecological Services Field Office"
+  - "South Carolina Ecological Services Field Office"
+  - "Endangered Species Act"
+  - "Puerto Rico"
+updated: "October 5th, 2018"
 ---
 
 The future is uncertain for the [black-capped petrel](/wildlife/birds/black-capped-petrel), a seabird that breeds in remote mountains on the Caribbean island of Hispaniola and forages in open ocean waters up the U.S. Eastern Seaboard as far north as off the coast of Virginia.
@@ -31,14 +32,14 @@ On its foraging grounds within the United States territorial waters, the Migrato
 
 The Service has also determined that designating critical habitat for the black-capped petrel under the ESA is not prudent because all the species’ breeding sites are outside the United States.
 
-We will accept comments received or postmarked on or before December 10, 2018. Written comments  must be received by 11:59 p.m. Eastern Time on the closing date.  We must receive requests for public hearings, in writing, at the address shown in the Federal eRulemaking Portal or mailing address below by November 23, 2018, 45 days after the date of publication in the Federal Register.
+We will accept comments received or postmarked on or before December 10, 2018. Written comments must be received by 11:59 p.m. Eastern Time on the closing date. We must receive requests for public hearings, in writing, at the address shown in the Federal eRulemaking Portal or mailing address below by November 23, 2018, 45 days after the date of publication in the Federal Register.
 
 Citizens may submit comments by one of the following methods:
 
-1. Electronically:  Go to the Federal eRulemaking Portal: [regulations.gov](https://www.regulations.gov).  In the Search box, enter Docket Number. FWS–R4–ES–2018–0043. Then, in the Search panel on the left side of the screen, under the Document Type heading, click on the Proposed Rules link to locate this document.  You may submit a comment by clicking on “Comment Now!”
-2. By hard copy:  Submit by U.S. mail or hand-delivery to:  Public Comments Processing, Attn: FWS–R4–ES–2018–0043; U.S. Fish and Wildlife Headquarters, MS: BPHC, 5275 Leesburg Pike, Falls Church, VA 22041-3803.
+1. Electronically: Go to the Federal eRulemaking Portal: [regulations.gov](https://www.regulations.gov). In the Search box, enter Docket Number. FWS–R4–ES–2018–0043. Then, in the Search panel on the left side of the screen, under the Document Type heading, click on the Proposed Rules link to locate this document. You may submit a comment by clicking on “Comment Now!”
+2. By hard copy: Submit by U.S. mail or hand-delivery to: Public Comments Processing, Attn: FWS–R4–ES–2018–0043; U.S. Fish and Wildlife Headquarters, MS: BPHC, 5275 Leesburg Pike, Falls Church, VA 22041-3803.
 
-The Service requests that you send comments only by the methods described above.  We will post all comments on [regulations.gov](https://www.regulations.gov).  This generally means that we will post any personal information you provide us.
+The Service requests that you send comments only by the methods described above. We will post all comments on [regulations.gov](https://www.regulations.gov). This generally means that we will post any personal information you provide us.
 
 Learn more from the [frequently asked questions](/faq/proposed-listing-of-the-black-capped-petrel-as-threatened).
 
