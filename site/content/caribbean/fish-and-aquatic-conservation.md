@@ -1,17 +1,17 @@
 ---
-title: 'Fish and Aquatic Conservation'
-nav: 'Fish and Aquatic Conservation'
-description: 'The U.S. Fish and Wildlife Service’s Fish and Aquatic Conservation (FAC) Initiative in the Caribbean focuses on the conservation, restoration and enhancement of aquatic habitats.'
+title: "Fish and Aquatic Conservation"
+nav: "Fish and Aquatic Conservation"
+description: "The U.S. Fish and Wildlife Service’s Fish and Aquatic Conservation (FAC) Initiative in the Caribbean focuses on the conservation, restoration and enhancement of aquatic habitats."
 weight: 6
 facebook: USFWSCaribbean
 hero:
-    name: caribbean-stream.jpg
-    alt: 'A rocky stream bed banked by vegetation.'
-    caption: 'Lemon creek at Mayagüez, Puerto Rico. Photo by Alexandra Galindo, USFWS.'
+  name: caribbean-stream.jpg
+  alt: "A rocky stream bed banked by vegetation."
+  caption: "Lemon creek at Mayagüez, Puerto Rico. Photo by Alexandra Galindo, USFWS."
 tags:
-    - 'Fish and Aquatic Conservation'
-    - Fisheries
-updated: 'September 27th, 2018'
+  - "Fish and Aquatic Conservation"
+  - Fisheries
+updated: "November 27th, 2018"
 ---
 
 The U.S. Fish and Wildlife Service’s Fish and Aquatic Conservation (FAC) Initiative in the Caribbean focuses on the conservation, restoration and enhancement of aquatic habitats. The initiative’s projects a benefit focal native species by augmenting the species abundance and available habitat, and maintaining stable populations and habitat suitability. These actions also benefit public health, safety and recreation.
@@ -32,9 +32,9 @@ The Caribbean Ecological Services Office includes Puerto Rico and the U. S. Virg
 - [Caribbean Fish and Aquatic Conservation Initiative](/pdf/fact-sheet/caribbean-fish-and-aquatic-conservation-initiative.pdf)
 - [Iniciativa de Pesca y Conservación de Hábitat Acuático en el Caribe](/pdf/fact-sheet/fish-and-aquatic-conservation-spanish.pdf)
 - [Caribbean freshwater fish fact sheet](/pdf/fact-sheet/caribbean-freshwater-fish.pdf)
-- [Peces de Agua Dulce del Caribe](fact-sheet/caribbean-fish-spanish.pdf)
+- [Peces de Agua Dulce del Caribe](/pdf/fact-sheet/caribbean-fish-spanish.pdf)
 - [Caribbean freshwater crustaceans fact sheet](/pdf/fact-sheet/caribbean-freshwater-crustaceans.pdf)
-- [Crustáceos de Agua Dulce del Caribe](fact-sheet/caribbean-crustaceans-spanish.pdf)
+- [Crustáceos de Agua Dulce del Caribe](/pdf/fact-sheet/caribbean-crustaceans-spanish.pdf)
 - [National Fish and Aquatic Conservation Program website](https://www.fws.gov/fisheries/)
 
 ## Related partnerships
