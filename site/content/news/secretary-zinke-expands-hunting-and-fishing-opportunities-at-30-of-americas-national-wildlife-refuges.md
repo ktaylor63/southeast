@@ -1,13 +1,15 @@
 ---
-title: Secretary Zinke expands hunting and fishing opportunities at 30 of America’s National Wildlife Refuges
-date: 2018-09-07
+title: 'Secretary Zinke expands hunting and fishing opportunities at 30 of America’s National Wildlife Refuges'
+date: 2018-09-07T00:00:00.000Z
 tags:
-  - Hunting
-  - Fishing
-  - National Wildlife Refuge System
-  - Arkansas
-  - Florida
-updated: 'September 10th, 2018'
+    - Arkansas
+    - Fishing
+    - Florida
+    - Hunting
+    - Kentucky
+    - 'National Wildlife Refuge System'
+    - 'Wolf Creek National Fish Hatchery'
+updated: 'December 3rd, 2018'
 ---
 
 **Washington, DC** &mdash; Continuing his efforts to increase access to public lands, U.S. Secretary of the Interior Ryan Zinke will open more than 251,000 acres to new or expanded hunting and fishing opportunities at 30 national wildlife refuges across the U.S. Fish and Wildlife Service’s National Wildlife Refuge System. This will now bring the number of units where the public may hunt to 377, and the number where fishing is permitted to 312.
@@ -120,7 +122,7 @@ Hunting and/or fishing will expand or be opened on the following refuges:
 
 - Trempealeau National Wildlife Refuge: Opens hunting of certain gamebirds, small mammals and furbearers for the first time, and expand existing migratory game bird and big game hunting.
 
-More than 53 million Americans visit refuges every year. National wildlife refuges provide vital habitat for thousands of species and access to world-class recreation, from fishing, hunting and boating to nature watching, photography and environmental education. In doing so, they support regional economies to the tune of $2.4 billion dollars per year and support more than 35,000 jobs.
+More than 53 million Americans visit refuges every year. National wildlife refuges provide vital habitat for thousands of species and access to world-class recreation, from fishing, hunting and boating to nature watching, photography and environmental education. In doing so, they support regional economies to the tune of \$2.4 billion dollars per year and support more than 35,000 jobs.
 
 Under the National Wildlife Refuge System Improvement Act of 1997, the Service permits hunting and fishing along with four other types of wildlife-dependent recreation, including wildlife photography, environmental education, wildlife observation and interpretation, when they are compatible with an individual refuge’s purpose and mission. Hunting, within specified limits, is currently permitted on 340 wildlife refuges and 37 wetland management districts. Fishing is currently permitted on 278 wildlife refuges and 34 wetland management districts.
 
