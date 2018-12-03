@@ -1,4 +1,20 @@
 stories:
+  - title: "The search for giant, rare salamanders that live in Georgia"
+    summary: "In the deep woods of the Blue Ridge Mountains, a cold, clear stream flows. Below a canopy of twisted rhododendrons, seven people in black wetsuits creep upstream through the water. They look like Gollum, sleek in their neoprene, crouching in the water, feeling under rocks."
+    date: 2018-11-27
+    hero:
+      name: eastern-hellbender.jpg
+      alt: 'A small, slimy, green salamander in hand.'
+      caption: 'Eastern hellbender. <a href="https://flic.kr/p/EjNh96">Photo</a> by Will Parson, Chesapeake Bay Program, <a href="https://creativecommons.org/licenses/by-nc/2.0/">CC BY-NC 2.0</a>.'
+    url: "https://www.wabe.org/the-search-for-giant-rare-salamanders-that-live-in-georgia/"
+  - title: "Saving the Florida scrub-jay"
+    summary: "The Florida scrub-jay is on the brink of extinction. Less than 10 percent remain as development pushes them out of the only place they can survive: dense scrub oak and saw palmettos packed into the dry sandy hills of the Florida scrub. "
+    date: 2018-11-27
+    hero:
+      name: florida-scrub-jay.jpg
+      alt: "A bright blue bird with bands on its leg perched on a succulent shrub."
+      caption: "Florida scrub jay. Photo by Gail Hendricks, USDA NRCS."
+    url: "https://arcg.is/0DT4iP"
   - title: "Journey of the whooping crane"
     summary: "At five feet tall, and with a wingspan of over seven feet, the whooping crane has the distinction of being North America’s tallest bird and sadly, also one of its rarest."
     date: 2018-11-16
