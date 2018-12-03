@@ -1,51 +1,52 @@
 ---
-title: 'Brook trout'
-scientific: 'Salvelinus fontinalus'
-description: 'The brook trout is a fish native to the eastern United States, and is often referred to as speckled trout, spotted trout, brookie, and squaretail. “Brookies” are considered an indicator species, because they help indicate the health or overall quality of the waters they inhabit.'
+title: "Brook trout"
+scientific: "Salvelinus fontinalus"
+description: "The brook trout is a fish native to the eastern United States, and is often referred to as speckled trout, spotted trout, brookie, and squaretail. “Brookies” are considered an indicator species, because they help indicate the health or overall quality of the waters they inhabit."
 type: species-profile
 js: /js/species-profile.js
 aliases:
-    - /wildlife/fish/brook-trout
-    - /species/fish/brook-trout
-    - /species/fishes/brook-trout
+  - /wildlife/fish/brook-trout
+  - /species/fish/brook-trout
+  - /species/fishes/brook-trout
 tags:
-    - 'Brook Trout'
-    - 'Chattahoochee Forest National Fish Hatchery'
-    - Connecticut
-    - Delaware
-    - Fish
-    - Georgia
-    - 'Greers Ferry National Fish Hatchery'
-    - Indiana
-    - Maine
-    - Maryland
-    - Massachusetts
-    - Michigan
-    - Minnesota
-    - 'New Hampshire'
-    - 'New Jersey'
-    - 'New York'
-    - 'North Carolina'
-    - Ohio
-    - Pennsylvania
-    - 'Rhode Island'
-    - 'South Carolina'
-    - Tennessee
-    - Vermont
-    - 'West Virginia'
-    - Wisconsin
+  - "Brook Trout"
+  - "Chattahoochee Forest National Fish Hatchery"
+  - Connecticut
+  - Delaware
+  - Fish
+  - Georgia
+  - "Greers Ferry National Fish Hatchery"
+  - Indiana
+  - Maine
+  - Maryland
+  - Massachusetts
+  - Michigan
+  - Minnesota
+  - "New Hampshire"
+  - "New Jersey"
+  - "New York"
+  - "North Carolina"
+  - Ohio
+  - Pennsylvania
+  - "Rhode Island"
+  - "South Carolina"
+  - Tennessee
+  - Vermont
+  - "West Virginia"
+  - Wisconsin
+  - "Wolf Creek National Fish Hatchery"
 hero:
-    name: eastern-brook-trout.jpg
-    alt: 'A colorful green/brown and red trout covered in small red spots.'
-    caption: 'A wildlife biologist holds a small eastern brook trout. Photo by Steve Droter, Chesapeake Bay Program.'
-updated: 'October 5th, 2018'
+  name: eastern-brook-trout.jpg
+  alt: "A colorful green/brown and red trout covered in small red spots."
+  caption: "A wildlife biologist holds a small eastern brook trout. Photo by Steve Droter, Chesapeake Bay Program."
+updated: "October 5th, 2018"
 ---
 
 - **Taxon:** Freshwater fish
 - **Range:** Native to the Easter United States
 - **Status:** Not listed under the Endangered Species Act
 
-The brook trout is a fish native to the eastern United States, and is often referred to as speckled trout, spotted trout, brookie, and squaretail. “Brookies” are considered an indicator species, because they help indicate the health or overall quality of the waters they inhabit. Large numbers of brook trout found in a stream indicate a healthy environment while a decline  indicates deteriorating habitat and poor water quality.
+The brook trout is a fish native to the eastern United States, and is often referred to as speckled trout, spotted trout, brookie, and squaretail. “Brookies” are considered an indicator species, because they help indicate the health or overall quality of the waters they inhabit. Large numbers of brook trout found in a stream indicate a healthy environment while a decline indicates deteriorating habitat and poor water quality.
 
 {{< scroller-list tag="Brook Trout" section="news" >}}
 {{< scroller-list tag="Brook Trout" section="articles" >}}
@@ -78,7 +79,7 @@ Brook trout are increasingly confined to remote streams in higher elevations due
 
 Brook trout populations depend on cold, clear, well-oxygenated water of high purity. As early as the late 19th century, native brook trout in North America disappeared from many streams as forests were cleared and land was developed. Streams and creeks that were polluted, dammed, or heavy with sediment often became too warm to host native brook trout.
 
-In addition to chemical pollution and algae growth caused by fertilizer runoff, air pollution has  been a significant factor in the disappearance of brook trout from their native habitats. In the U.S., acid rain caused by air pollution has resulted in pH levels too low to sustain brook trout in all but the highest headwaters of some Appalachian streams and creeks. Brook trout populations across large parts of eastern Canada have been similarly challenged. Today, in many parts of its historic range, efforts are underway to restore brook trout to waters that once held native populations.
+In addition to chemical pollution and algae growth caused by fertilizer runoff, air pollution has been a significant factor in the disappearance of brook trout from their native habitats. In the U.S., acid rain caused by air pollution has resulted in pH levels too low to sustain brook trout in all but the highest headwaters of some Appalachian streams and creeks. Brook trout populations across large parts of eastern Canada have been similarly challenged. Today, in many parts of its historic range, efforts are underway to restore brook trout to waters that once held native populations.
 
 ## Subject matter experts
 

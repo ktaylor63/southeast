@@ -1,31 +1,32 @@
 ---
-title: 'Big Sandy crayfish'
-description: 'The Big Sandy crayfish is a threatened freshwater crustacean found in streams and rivers in the Appalachian region.'
-scientific: 'Cambarus callainus'
+title: "Big Sandy crayfish"
+description: "The Big Sandy crayfish is a threatened freshwater crustacean found in streams and rivers in the Appalachian region."
+scientific: "Cambarus callainus"
 type: species-profile
 js: /js/species-profile.js
 aliases:
-    - /wildlife/crustacean/big-sandy-crayfish
-    - /species/crustacean/big-sandy-crayfish
-    - /species/crustacean/big-sandy-crayfish
+  - /wildlife/crustacean/big-sandy-crayfish
+  - /species/crustacean/big-sandy-crayfish
+  - /species/crustacean/big-sandy-crayfish
 tags:
-    - 'Big Sandy Crayfish'
-    - Crustacean
-    - 'Endangered Species Act'
-    - Kentucky
+  - "Big Sandy Crayfish"
+  - Crustacean
+  - "Endangered Species Act"
+  - Kentucky
+  - "Wolf Creek National Fish Hatchery"
 hero:
-    name: big-sandy-crayfish.jpg
-    alt: 'A lobster-shaped and colored crayfish with tinges of rust and blue.'
-    link: 'https://flic.kr/p/qXGti8'
-    caption: 'Big Sandy crayfish. Photo by Zachary Loughman, West Liberty University.'
-updated: 'October 5th, 2018'
+  name: big-sandy-crayfish.jpg
+  alt: "A lobster-shaped and colored crayfish with tinges of rust and blue."
+  link: "https://flic.kr/p/qXGti8"
+  caption: "Big Sandy crayfish. Photo by Zachary Loughman, West Liberty University."
+updated: "October 5th, 2018"
 ---
 
 - **Taxa: Crustacea**
 - **Range: [Kentucky](/kentucky)**
 - **Status: Threatened**
 
-The Big Sandy crayfish (*Cambarus callianus*) is a freshwater crustacean found in streams and rivers in the Appalachian region of Kentucky, Virginia, and West Virginia.  The Fish and Wildlife Service has worked with state partners to determine where this dynamic creature is found, and whether it is in danger of extinction.  In [May 2016, the Service listed the Big Sandy crayfish as a threatened species](/news/2016/04/endangered-species-act-protections-finalized-for-two-appalachian-crayfishes-in-kentucky-virginia-and-west-virginia/), protected under the Endangered Species Act.
+The Big Sandy crayfish (_Cambarus callianus_) is a freshwater crustacean found in streams and rivers in the Appalachian region of Kentucky, Virginia, and West Virginia. The Fish and Wildlife Service has worked with state partners to determine where this dynamic creature is found, and whether it is in danger of extinction. In [May 2016, the Service listed the Big Sandy crayfish as a threatened species](/news/2016/04/endangered-species-act-protections-finalized-for-two-appalachian-crayfishes-in-kentucky-virginia-and-west-virginia/), protected under the Endangered Species Act.
 
 {{< scroller-list tag="Big Sandy Crayfish" section="news" >}}
 {{< scroller-list tag="Big Sandy Crayfish" section="articles" >}}
@@ -48,7 +49,7 @@ Big Sandy crayfish are opportunistic omnivores, which means they feed on both pl
 
 ## Historical range
 
-Records of the Big Sandy crayfish’s presence in from the Virginia portions of the Big Sandy basin date to 1937, when a single specimen was collected from the Russell Fork drainage in Dickenson County, Virginia.  A series of surveys conducted in following years confirmed its presence in West Virginia and Kentucky. The Big Sandy crayfish once had a wider range, but widespread habitat loss and fragmentation of its streams have significantly reduced places where it can be found.
+Records of the Big Sandy crayfish’s presence in from the Virginia portions of the Big Sandy basin date to 1937, when a single specimen was collected from the Russell Fork drainage in Dickenson County, Virginia. A series of surveys conducted in following years confirmed its presence in West Virginia and Kentucky. The Big Sandy crayfish once had a wider range, but widespread habitat loss and fragmentation of its streams have significantly reduced places where it can be found.
 
 ## Current range
 

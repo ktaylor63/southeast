@@ -15,11 +15,12 @@ tags:
     - Mussel
     - 'North Carolina'
     - Virginia
+    - 'Wolf Creek National Fish Hatchery'
 hero:
     name: cumberland-bean.jpg
     alt: 'A small black mussel with brownish yellow striations extends a small white appendage from its shell'
     caption: 'Cumberland bean juveniles reared at the Center for Mollusk Conservation in Frankfort, Kentucky. Photo by Monte McGregor, Center Mollusk Conservation, Kentucky DFWR.'
-updated: 'October 5th, 2018'
+updated: 'December 3rd, 2018'
 ---
 
 - **Taxon:** Bivalve

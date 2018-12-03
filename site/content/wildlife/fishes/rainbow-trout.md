@@ -1,35 +1,36 @@
 ---
-title: 'Rainbow trout'
-scientific: 'Oncorhynchus mykiss'
-description: 'Rainbow trout are a North American game fish that get their name from the beautiful colors that shine on their skin.  Coloration of the fish varies widely in relationship to sex, habitat, and maturity.'
+title: "Rainbow trout"
+scientific: "Oncorhynchus mykiss"
+description: "Rainbow trout are a North American game fish that get their name from the beautiful colors that shine on their skin.  Coloration of the fish varies widely in relationship to sex, habitat, and maturity."
 type: species-profile
 js: /js/species-profile.js
 aliases:
-    - /wildlife/fish/rainbow-trout
-    - /species/fish/rainbow-trout
-    - /species/fishes/rainbow-trout
+  - /wildlife/fish/rainbow-trout
+  - /species/fish/rainbow-trout
+  - /species/fishes/rainbow-trout
 tags:
-    - Arkansas
-    - 'Chattahoochee Forest National Fish Hatchery'
-    - Fish
-    - 'Greers Ferry National Fish Hatchery'
-    - Kentucky
-    - 'Rainbow Trout'
-    - Tennessee
+  - Arkansas
+  - "Chattahoochee Forest National Fish Hatchery"
+  - Fish
+  - "Greers Ferry National Fish Hatchery"
+  - Kentucky
+  - "Rainbow Trout"
+  - Tennessee
+  - "Wolf Creek National Fish Hatchery"
 hero:
-    name: rainbow-trout-angler.jpg
-    alt: 'A colorful trout in hand with a smiling angler in the background.'
-    caption: 'Beautiful rainbow trout. <a href="https://flic.kr/p/8QET9A">Photo</a> by <a href="https://www.flickr.com/photos/palmit/">Cale Bruckner</a>, <a href="https://creativecommons.org/licenses/by-nc/2.0/">CC BY-NC 2.0</a>.'
-    link: 'https://flic.kr/p/8QET9A'
-    position: '75% 40%'
-updated: 'October 5th, 2018'
+  name: rainbow-trout-angler.jpg
+  alt: "A colorful trout in hand with a smiling angler in the background."
+  caption: 'Beautiful rainbow trout. <a href="https://flic.kr/p/8QET9A">Photo</a> by <a href="https://www.flickr.com/photos/palmit/">Cale Bruckner</a>, <a href="https://creativecommons.org/licenses/by-nc/2.0/">CC BY-NC 2.0</a>.'
+  link: "https://flic.kr/p/8QET9A"
+  position: "75% 40%"
+updated: "October 5th, 2018"
 ---
 
 - **Taxon:** Freshwater fish
 - **Range:** Native to the Western United States; introduced throughout North America
 - **Status:** Not listed under the Endangered Species Act
 
-Rainbow trout are coldwater fish that have long been associated with  clear, healthy mountain streams and lakes in North America. Because of their ability to thrive in hatcheries, rainbow trout have been introduced into much of the United States and now inhabit many streams and lakes throughout the country. The popularity of rainbow trout among anglers has placed it among the top five sport fishes in North America, and it is considered by many to be the most important game fish west of the Rocky Mountains.
+Rainbow trout are coldwater fish that have long been associated with clear, healthy mountain streams and lakes in North America. Because of their ability to thrive in hatcheries, rainbow trout have been introduced into much of the United States and now inhabit many streams and lakes throughout the country. The popularity of rainbow trout among anglers has placed it among the top five sport fishes in North America, and it is considered by many to be the most important game fish west of the Rocky Mountains.
 
 However, reduction of good quality trout habitat due to streambank and upland soil erosion, loss of riverside vegetation, water diversion, logging and mining activities, and pollution from municipal development and agriculture have significantly reduced the distribution and abundance of rainbow trout. In addition, construction of dams, road crossings, and other structures impede the ability of rainbow trout to migrate upstream and downstream, which is critical to successful completion of their life cycles. Consequently, nine different populations of steelhead (sea-run rainbow trout) have been added to the federal endangered species list.
 
@@ -40,15 +41,15 @@ However, reduction of good quality trout habitat due to streambank and upland so
 
 ## Appearance
 
-Rainbow trout are a North American game fish that get their name from the beautiful colors that shine on their skin.  Coloration of the fish varies widely in relationship to sex, habitat, and maturity.  Colors on the back of the fish can range from brown to olive to dark blue.  Fish  have a pinkish stripe/band running the length of their bodies, with a silvery underside that fades to pearl white.  They have small black spots on their backs, fins, and tail.  Average mature fish are around 16 inches long and weigh between 2 and 8 pounds.  (The largest  rainbow ever caught, however, was in Canada and weighed 48 pounds.)
+Rainbow trout are a North American game fish that get their name from the beautiful colors that shine on their skin. Coloration of the fish varies widely in relationship to sex, habitat, and maturity. Colors on the back of the fish can range from brown to olive to dark blue. Fish have a pinkish stripe/band running the length of their bodies, with a silvery underside that fades to pearl white. They have small black spots on their backs, fins, and tail. Average mature fish are around 16 inches long and weigh between 2 and 8 pounds. (The largest rainbow ever caught, however, was in Canada and weighed 48 pounds.)
 
 ## Habitat
 
-Rainbow trout can easily adapt to various aquatic habitats and environments.  They prefer cool freshwater streams with gravel bottoms and natural cover, such as downed trees and boulders. These fish prefer water temperatures of 55 to 60 degrees Fahrenheit, but can tolerate temperatures that vary from 32 to 70 degrees Fahrenheit.
+Rainbow trout can easily adapt to various aquatic habitats and environments. They prefer cool freshwater streams with gravel bottoms and natural cover, such as downed trees and boulders. These fish prefer water temperatures of 55 to 60 degrees Fahrenheit, but can tolerate temperatures that vary from 32 to 70 degrees Fahrenheit.
 
 ## Diet
 
-Rainbow trout are opportunistic feeders and will eat anything from aquatic and terrestrial insects, to fish eggs, to small minnows, to crustaceans and worms.  
+Rainbow trout are opportunistic feeders and will eat anything from aquatic and terrestrial insects, to fish eggs, to small minnows, to crustaceans and worms.
 
 ## Historical range
 

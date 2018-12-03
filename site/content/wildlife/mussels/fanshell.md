@@ -19,11 +19,12 @@ tags:
     - Tennessee
     - Virginia
     - 'West Virginia'
+    - 'Wolf Creek National Fish Hatchery'
 hero:
     name: fanshell-mussel.jpg
     alt: 'Three brownish yellow mussels the smallest of which has a small white protrusion which the mussel uses to attach to a rock.'
     caption: 'Photo by Monte McGregor, Center Mollusk Conservation, Kentucky DFWR.'
-updated: 'October 5th, 2018'
+updated: 'December 3rd, 2018'
 ---
 
 - **Taxon**: Bivalve
@@ -57,19 +58,19 @@ The fanshell historically occurred in the Ohio River and many of its large tribu
 
 It is believed that reproductively viable populations are now only found in the following three rivers:
 
-  1. the Clinch River in Hancock County, Tennessee and Scott County, Virginia;
-  2. the Green River in Hart and Edmonson counties, Kentucky; and
-  3. the Licking River in Kenton, Campbell and Pendleton counties, Kentucky.
+1. the Clinch River in Hancock County, Tennessee and Scott County, Virginia;
+2. the Green River in Hart and Edmonson counties, Kentucky; and
+3. the Licking River in Kenton, Campbell and Pendleton counties, Kentucky.
 
 ### Counties where the species is present or believed to occur
 
- - **Kentucky**: Green River in Hart and Edmonson counties; Licking River in Kenton, Campbell, and Pendleton counties; Tygarts Creek in Greenup and Carter counties; Barren River in Allen and Barren counties.
- - **Tennessee**: Clinch River in Hancock County; Cumberland River in Smith County; Tennessee River in Rhea, Meigs, and Hardin counties.
- - **Virginia**: Clinch River in Scott County.
- - **Ohio**: Muskigum River in Morgan and Washington counties; Warhonding River in Coshocton County.
- - **Illinois**: Wabash River in White County.
- - **Indiana**: Wabash River in Posey and Wabash counties; East Fork of White River in Martin County; Tippecanoe River in Tippecanoe County.
- - **West** Virginia: Kanawha River in Fayette County.
+- **Kentucky**: Green River in Hart and Edmonson counties; Licking River in Kenton, Campbell, and Pendleton counties; Tygarts Creek in Greenup and Carter counties; Barren River in Allen and Barren counties.
+- **Tennessee**: Clinch River in Hancock County; Cumberland River in Smith County; Tennessee River in Rhea, Meigs, and Hardin counties.
+- **Virginia**: Clinch River in Scott County.
+- **Ohio**: Muskigum River in Morgan and Washington counties; Warhonding River in Coshocton County.
+- **Illinois**: Wabash River in White County.
+- **Indiana**: Wabash River in Posey and Wabash counties; East Fork of White River in Martin County; Tippecanoe River in Tippecanoe County.
+- **West** Virginia: Kanawha River in Fayette County.
 
 ## Conservation challenges
 
