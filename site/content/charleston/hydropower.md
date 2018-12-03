@@ -4,10 +4,40 @@ title: Hydropower
 nav: Hydropower
 facebook: SouthCarolinaFieldOffice
 twitter: USFWS_SC
+hero:
+    name: augusta-canal.jpg
+    alt: 'A small dam creates a barrier across a stretch of river.'
+    caption: '<a href="https://flic.kr/p/bNV12k">Photo</a> by <a href="https://www.flickr.com/photos/trancemist/">trancemist</a>, <a href="https://creativecommons.org/licenses/by-nc/2.0/">CC BY-NC 2.0</a>.'
 tags:
     - Dam
     - 'Fish Passage'
     - Hydropower
     - 'South Carolina'
-updated: 'November 16th, 2018'
+updated: 'November 27th, 2018'
 ---
+
+Hydropower, a renewable source of energy, is widely used throughout the United States and the world. Hydropower projects usually consist of damming a river to create a reservoir or lake. Water flowing through turbines in the dam create electricity. Dams, and the reservoirs they create, can also be used for water supply, flood control, and recreation. Although producing hydroelectricity does not emit any greenhouse gas emissions, the damming of rivers can have detrimental effects to our streams and rivers.
+
+Rivers originate at their headwaters, which usually consist of tiny mountain streams flowing downstream, getting larger as more tributary streams connect to the main channel. In South Carolina, streams and rivers eventually flow from the Piedmont area through the coastal plain and into the ocean. Dams fragment river systems causing physical and ecological separation of habitats. They have an impact on river systems by altering flows, sediment movements, water chemistry, and aquatic and upland habitat. They affect species life cycles by restricting upstream and downstream movements of migratory species, especially fish. Fish can also be harmed or killed when caught in turbine intakes or injured by turbine blades.
+
+The East Coast contains several species of diadromous fish - fish that must move between fresh and saltwater environments to fulfill a portion of their life cycle. South Carolina is home to the American shad, hickory shad, blueback herring, striped bass, American eel, and the federally endangered Atlantic sturgeon and shortnose sturgeon. Historically, these species were abundant and supported large commercial fisheries, but in the last century, their populations have significantly declined. Dams have contributed to this decline because they block species from moving up river to their natal spawning grounds. The Service, in concert with other natural resource agencies, is working to pass fish beyond dams to their natal spawning grounds in an effort to rebuild and restore their populations.
+
+## Federal Energy Regulatory Commission
+
+The Federal Energy Regulatory Commission (FERC) is the governmental agency responsible under the Federal Power Act for licensing non-federal hydropower projects. Hydropower projects are generally licensed for 30 to 50 years. Many of the license terms for dams in South Carolina and in the Southeast have expired or are about to expire and are thus preparing to apply to FERC for new licenses. Under the Federal Power Act, the Service has special authorities that enable us to recommend measures to mitigate for adverse impacts licensed projects, such as prescribing fishways at dams. Fishways are facilities that can be built at dams to safely pass fish upstream and downstream of the dam.
+
+## Projects
+
+Projects within the South Carolina Ecological Services Field Office service area include: Santee-Cooper Hydropower Project on the Santee and Cooper Rivers; Augusta Canal Hydropower Project on the Savannah River; Duke Energy Hydropower Project on the Catawba and Wateree Rivers; Columbia Hydropower Project on the Broad River; Saluda Hydropower Project on the Saluda River; Progress Energy Hydropower Project on the Pee Dee River; and Lockhart Company Hydropower Project on the Pacolet River.
+
+## Fisheries restoration plan
+
+The Santee River Basin is located along the South Atlantic coast and consists of the Santee, Congaree, Broad, Saluda, and Catawba-Wateree sub-basins. The Santee River Basin once supported large populations of American shad, blueback herring, striped bass, shortnose sturgeon, Atlantic sturgeon and American eel. In 2008 the Service, the South Carolina Department of Natural Resources, the North Carolina Wildlife Resources Commission, and two hydroelectric utilities (South Carolina Electric & Gas and Duke Energy Carolinas LLC) signed the Santee River Basin Accord. This 10-year agreement is a restoration plan to rebuild populations of diadromous fish throughout the Santee River Basin through hatchery-based fry introductions, scientific studies and monitoring, and fish passage facilities. Fish passage facilities will provide access of diadromous fish to former spawning and maturation habitats that have been blocked by the construction of dams.
+
+- [Santee River Basin Accord for Diadromous Fish Protection, Restoration, and Enhancement, April 2008](https://docs.google.com/document/d/1v6NqqOkK76s6BiEjgcazu0gNxwUjhAe09AfRHMLy7_8/edit)
+- [Plan accomplishments and update](http://dnr.sc.gov/fish/diadromous)
+
+## Contact
+
+Melanie Olds, Fish and Wildlife Biologist/FERC Coordinator  
+[melanie_olds@fws.gov](mailto:melanie_olds@fws.gov), (843)727-4707 ext. 205
