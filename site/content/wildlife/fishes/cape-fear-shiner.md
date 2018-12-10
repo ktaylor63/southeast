@@ -18,14 +18,14 @@ tags:
     - Fish
     - 'North Carolina'
     - Recovery
-updated: 'October 5th, 2018'
+updated: 'December 6th, 2018'
 ---
 
 - **Taxon:** Freshwater fish
 - **Range:** Endemic to the upper Cape Fear River Basin in the Central Piedmont of North Carolina. Known from tributaries and mainstems of the Deep, Haw, Rocky and Upper Cape Fear rivers in Chatham, Harnett, Lee, Moore and Randolph counties.
-- **Status:** Endangered, Listed September 26, 1987
+- **Status:** [Listed as endangered on Sept. 26, 1987](https://ecos.fws.gov/docs/federal_register/fr1330.pdf)
 
-The Cape Fear shiner is a North American species of freshwater fish in the minnow family. It is only found in the central part of North Carolina, in the Upper Cape Fear River Basin. Listed as endangered, the species has benefited from successful captive breeding.  It has also benefited from removal of some of the dams that once led to low population numbers.  Experts are hopeful that by implementing strategic efforts and habitat conservation, the Cape Fear shiner can be recovered throughout its range.
+The Cape Fear shiner is a North American species of freshwater fish in the minnow family. It is only found in the central part of North Carolina, in the Upper Cape Fear River Basin. Listed as endangered, the species has benefited from successful captive breeding. It has also benefited from removal of some of the dams that once led to low population numbers. Experts are hopeful that by implementing strategic efforts and habitat conservation, the Cape Fear shiner can be recovered throughout its range.
 
 {{< scroller-list tag="Cape Fear Shiner" section="news" >}}
 {{< scroller-list tag="Cape Fear Shiner" section="articles" >}}
@@ -46,17 +46,17 @@ The Cape Fear shiner is generally associated with gravel, cobble, and boulder su
 
 ## Diet
 
-The shiner’s intestines are uniquely adapted to help the fish digest plant material. This makes the Cape Fear shiner stand out within the minnow family - it can eat plant material that other minnows cannot. It has a convoluted gut, kind of like a cow has several stomachs, to help it digest the plant material. The shiner was originally thought to be herbivorous, but recent studies have shown that  it actually eats a variety of both plant and animal matter. It is known to eat detritus, bacteria, phytoplankton, diatoms, and algae.
+The shiner’s intestines are uniquely adapted to help the fish digest plant material. This makes the Cape Fear shiner stand out within the minnow family - it can eat plant material that other minnows cannot. It has a convoluted gut, kind of like a cow has several stomachs, to help it digest the plant material. The shiner was originally thought to be herbivorous, but recent studies have shown that it actually eats a variety of both plant and animal matter. It is known to eat detritus, bacteria, phytoplankton, diatoms, and algae.
 
 ## Current range
 
-The species is endemic to the upper Cape Fear River Basin in the Central Piedmont of North Carolina.  It is known from tributaries and mainstreams of the Deep, Haw, Rocky, and upper Cape Fear rivers in Chatham, Harnett, Lee, Moore and Randolph counties.  Three sub-populations of the shiner are thought to exist.  Two of the three sub-populations are very small and unstable and therefore at risk of disappearing.  The precise number of shiners in each population is not known, but effective population sizes (i.e., those that consider the number of available breeding individuals) have been estimated at  1,500 to 3,000 individuals.
+The species is endemic to the upper Cape Fear River Basin in the Central Piedmont of North Carolina. It is known from tributaries and mainstreams of the Deep, Haw, Rocky, and upper Cape Fear rivers in Chatham, Harnett, Lee, Moore and Randolph counties. Three sub-populations of the shiner are thought to exist. Two of the three sub-populations are very small and unstable and therefore at risk of disappearing. The precise number of shiners in each population is not known, but effective population sizes (i.e., those that consider the number of available breeding individuals) have been estimated at 1,500 to 3,000 individuals.
 
 {{< figure class="photo-center" src="/images/pages/cape-fea-shiner-distribution-map.jpg" alt="A map showing Cape Fear shiner locations in Deep River, RockyRiver, Haw River and several other tributaries in Chatam, Lee, Moore, Randolph, and Harnett counties." caption="Cape Fear shiner distribution in the Upper Cape Fear River Basin. Map by USFWS." >}}
 
 ## Conservation challenges
 
-Segmentation or separation of sub-populations by dams and loss of river habitat to impoundments are major concerns. Deteriorating water quality at some previously occupied sites make those sites unsuitable for shiners today.  Other potential threats to the species and its habitat could come from such activities as changes in streamflow, runoff from agriculture and communities, road construction, impoundments, wastewater discharge, and other development projects in the watershed. The shiner is also threatened by numerous predators, such as crappie, bass, and the invasive flathead catfish.
+Segmentation or separation of sub-populations by dams and loss of river habitat to impoundments are major concerns. Deteriorating water quality at some previously occupied sites make those sites unsuitable for shiners today. Other potential threats to the species and its habitat could come from such activities as changes in streamflow, runoff from agriculture and communities, road construction, impoundments, wastewater discharge, and other development projects in the watershed. The shiner is also threatened by numerous predators, such as crappie, bass, and the invasive flathead catfish.
 
 {{< youtube id="ypImxgZdz4s" title="Biologists collecting Cape Fear shiners at the Deep River below Hoosier Dam, NCWRC">}}
 
@@ -64,17 +64,17 @@ Segmentation or separation of sub-populations by dams and loss of river habitat 
 
 ### 2017
 
-Habitat improvements for the Cape Fear shiner are underway.  A group of federal and state agencies, including the U.S. Fish and Wildlife Service, North Carolina Division of Water Resources, North Carolina Wildlife Resources Commission and the U.S Army Corps of Engineers, are working with the owner to remove Hoosier Dam and a remnant rock dam, located within the impoundment on the Rocky River in Chatham County. The project will allow the free flowing of waters between two designated critical habitat reaches for the Cape Fear shiner on the Rocky River in the Cape Fear River Basin. Experts are also considering the potential removal of other dams in the area, as well as possible captive propagation to restore the shiner in key areas of the watershed to boost population numbers in the wild.
+Habitat improvements for the Cape Fear shiner are underway. A group of federal and state agencies, including the U.S. Fish and Wildlife Service, North Carolina Division of Water Resources, North Carolina Wildlife Resources Commission and the U.S Army Corps of Engineers, are working with the owner to remove Hoosier Dam and a remnant rock dam, located within the impoundment on the Rocky River in Chatham County. The project will allow the free flowing of waters between two designated critical habitat reaches for the Cape Fear shiner on the Rocky River in the Cape Fear River Basin. Experts are also considering the potential removal of other dams in the area, as well as possible captive propagation to restore the shiner in key areas of the watershed to boost population numbers in the wild.
 
 ### 2013 - 2014
 
-The North Carolina Wildlife Resources Commission and the Service translocated about 400 shiners into the upper Rocky River, where numbers of the species had been very low.  Monitoring of these translocations demonstrated that the shiners were doing well and likely spawning.
+The North Carolina Wildlife Resources Commission and the Service translocated about 400 shiners into the upper Rocky River, where numbers of the species had been very low. Monitoring of these translocations demonstrated that the shiners were doing well and likely spawning.
 
 {{< figure class="photo-center" src="/images/pages/cape-fear-shiner-translocation.jpg" alt="Two captive reared fishes with a black line along their side." caption="Two of the Cape Fear Shiners relocated from the Deep River to the Rocky River upstream from Hoosier Dam. Photo by B. Jones, NC Wildlife Resources Commission." >}}
 
 ### 2007
 
-The Chatham Conservation Partnership (CCP) was established, bringing together more than 30 state, federal, and local government organizations, non-profits, universities, and private landowners to plan and implement natural resources conservation in Chatham County.  The Service provides information about the Cape Fear Shiner's needs, which have been used for technical assistance as new projects come along, such as the development phase of Chatham Park.
+The Chatham Conservation Partnership (CCP) was established, bringing together more than 30 state, federal, and local government organizations, non-profits, universities, and private landowners to plan and implement natural resources conservation in Chatham County. The Service provides information about the Cape Fear Shiner's needs, which have been used for technical assistance as new projects come along, such as the development phase of Chatham Park.
 
 ### 2000 - 2006
 
@@ -82,7 +82,7 @@ The Service funded the US Geological Survey and North Carolina State University 
 
 ### 2005
 
-Carborton Dam was removed and Cape Fear shiner habitat in the Deep River restored.  (insert photo: News Clip 1) Nineteen miles of the Deep River opened up to fisheries that were divided in 1921, when the dam was built.
+Carborton Dam was removed and Cape Fear shiner habitat in the Deep River restored. (insert photo: News Clip 1) Nineteen miles of the Deep River opened up to fisheries that were divided in 1921, when the dam was built.
 
 {{< figure class="photo-center" src="/images/pages/cape-fear-shiner-carbonton-dam-before-after-removal.jpg" alt="Before and after photo of a dam that was removed." caption="Carbonton dam before and after removal." >}}
 
