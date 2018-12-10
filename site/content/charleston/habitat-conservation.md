@@ -22,13 +22,13 @@ Destruction, degradation, and fragmentation of habitat is the driving force behi
 
 The Service has tools available to help partners with conservation of listed, candidate, at at-risk species.. From best management practices to conservation banking, there are a variety of options to explore to enhance fish, wildlife and habitats
 
-## [Voluntary conservation tools](/endangered-species-act/voluntary-conservation-tools/)
+## Voluntary conservation tools
 
-Learn how you can help wildlife through voluntary conservation.
+Learn how you can help wildlife through [voluntary conservation](/endangered-species-act/voluntary-conservation-tools/).
 
-## [Resources](/conservation-tools/)
+## Resources
 
-Explore the suite of cutting-edge conservation tools that the Service has created to assist you with your habitat conservation plans.
+Explore the suite of cutting-edge [conservation tools](/conservation-tools/) that the Service has created to assist you with your habitat conservation plans.
 
 ## Benefits for species
 
