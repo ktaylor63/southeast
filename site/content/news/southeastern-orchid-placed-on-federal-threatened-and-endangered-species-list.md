@@ -1,6 +1,6 @@
 ---
 title: 'Southeastern orchid placed on federal threatened and endangered species list'
-date: '2016-09-13'
+date: 2016-09-13T00:00:00.000Z
 hero:
     name: white-fringeless-orchid-patch.jpg
     alt: 'Tall stems extending from the forest floor give way to bright white dangling flowers.'
@@ -8,6 +8,7 @@ hero:
     caption: 'White fringeless orchid. Photo by USFWS.'
 tags:
     - Alabama
+    - 'Alabama Ecological Services Field Office'
     - 'Endangered Species Act'
     - Georgia
     - Kentucky
@@ -17,7 +18,7 @@ tags:
     - 'South Carolina Ecological Services Field Office'
     - Tennessee
     - 'Tennessee Ecological Services Field Office'
-updated: 'May 7th, 2018'
+updated: 'December 4th, 2018'
 ---
 
 **Cookeville, Tennessee** – The U.S. Fish and Wildlife Service is adding the white fringeless orchid to the federal list of threatened and endangered species, as a threatened species to protect and conserve the rare plant.

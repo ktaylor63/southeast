@@ -9,13 +9,14 @@ hero:
     alt: 'A small, brown, furry bat in a gloved hand.'
     caption: 'Northern long-eared bat caught at Roanoke River National Wildlife Refuge. Photo by USFWS.'
 tags:
+    - 'Alabama Ecological Services Field Office'
     - 'Asheville Ecological Services Field Office'
     - 'Endangered Species Act'
     - 'North Carolina'
     - 'Northern Long-Eared Bat'
     - Podcast
     - 'Southern Appalachian Creature Feature'
-updated: 'August 8th, 2018'
+updated: 'December 4th, 2018'
 ---
 
 ## Transcript

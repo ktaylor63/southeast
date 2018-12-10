@@ -4,9 +4,10 @@ description: 'Big Canoe Creek is home to some of America’s rarest aquatic spec
 author: 'Denise Rowell, Public Affairs Specialist'
 lat: 33.820094
 lng: -86.385214
-date: '2013-11-22'
+date: 2013-11-22T00:00:00.000Z
 tags:
     - Alabama
+    - 'Alabama Ecological Services Field Office'
     - 'At-Risk Species'
     - 'Canoe Creek Clubshell'
     - 'Dam Removal'
@@ -20,7 +21,7 @@ tags:
     - 'Strategic Habitat Units'
     - 'Triangular Kidneyshell'
     - 'Trispot Darter'
-updated: 'November 15th, 2018'
+updated: 'December 4th, 2018'
 ---
 
 {{< youtube id="pI1fL3delYE" title="Learn more about the Goodwin's mill dam removal" >}}
@@ -33,7 +34,7 @@ The removal of Goodwin’s Mill Dam was one of the first projects identified by 
 
 Chris Metcalf is a biologist with the U.S. Fish and Wildlife Panama City Field Office. A stream restoration expert, Chris was the Project Design and Construction Manager. “Removal of the Goodwin’s Mill dam will promote hydrologic and habitat connectivity to support a fully functioning stream system and access for recreational users," explained Metcalf.
 
-The project won’t just restore fish passage. It will also benefit at least two federally protected mussels: the southern pocketbook (*Pleurobema decisum*) and the triangular kidneyshell (*Ptychobranchus greenii*). In addition, this restoration effort will also benefit two species recently petitioned for federal listing, the Canoe Creek clubshell (*Pleurobema athearni*), and a fish species called the trispot darter (*Etheostoma trisella*). “Big Canoe Creek is a hot spot for aquatic species and is one of our target areas for restoration. Many people may not realize that it has also been designated as Critical Habitat for several federally listed mussels,” explains Service Biologist Jeff Powell. 
+The project won’t just restore fish passage. It will also benefit at least two federally protected mussels: the southern pocketbook (_Pleurobema decisum_) and the triangular kidneyshell (_Ptychobranchus greenii_). In addition, this restoration effort will also benefit two species recently petitioned for federal listing, the Canoe Creek clubshell (_Pleurobema athearni_), and a fish species called the trispot darter (_Etheostoma trisella_). “Big Canoe Creek is a hot spot for aquatic species and is one of our target areas for restoration. Many people may not realize that it has also been designated as Critical Habitat for several federally listed mussels,” explains Service Biologist Jeff Powell.
 
 The Nature Conservancy of Alabama has played a pivotal role in the project. “It is a real pleasure to collaborate with the U.S. Fish and Wildlife Service, partners and private landowners to improve conditions for the people along the creek and the critters living in it. The Service brings highly skilled staff to the project that makes this a low-cost project with high returns. Many folks have pitched in to make these restoration efforts come together quickly and efficiently” said Paul Freeman, Aquatic Ecologist with The Nature Conservancy in Alabama.
 

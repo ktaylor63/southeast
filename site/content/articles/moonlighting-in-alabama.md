@@ -5,7 +5,7 @@ description: 'Lisa was keeping a watchful eye on a sea turtle nest, which laid b
 author: 'Denise Rowell, Public Affairs Specialist'
 lat: 30.26805
 lng: -87.586058
-date: '2017-11-06'
+date: 2017-11-06T00:00:00.000Z
 type: feature
 hero:
     name: loggerhead-hatchling-meets-ocean.jpg
@@ -15,6 +15,7 @@ hero:
     position: 'bottom center'
 tags:
     - Alabama
+    - 'Alabama Ecological Services Field Office'
     - 'Endangered Species Act'
     - 'Green Sea Turtle'
     - Gulf
@@ -23,7 +24,7 @@ tags:
     - Recovery
     - 'Sea Turtle'
     - Volunteer
-updated: 'July 30th, 2018'
+updated: 'December 4th, 2018'
 ---
 
 {{< youtube id="wX-OpXS43kM" title="A video highlighting the work of Share the Beach who helps sea turtle hatchlings find the ocean" caption="Video by Nicole Vidal, USFWS." >}}

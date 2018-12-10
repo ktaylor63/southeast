@@ -1,19 +1,20 @@
 ---
-title: "New population of spring pygmy sunfish discovered"
-subtitle: "Service reopens Critical Habitat comment period"
+title: 'New population of spring pygmy sunfish discovered'
+subtitle: 'Service reopens Critical Habitat comment period'
 date: 2018-11-02T00:00:00.000Z
 hero:
-  name: spring-pygmy-sunfish-matt-laschet.jpg
-  alt: "A small, brown and yellow fish with iridescent scales around its gills"
-  caption: "A female spring pygmy sunfish. Photo by Matt Laschet."
+    name: spring-pygmy-sunfish-matt-laschet.jpg
+    alt: 'A small, brown and yellow fish with iridescent scales around its gills'
+    caption: 'A female spring pygmy sunfish. Photo by Matt Laschet.'
 tags:
-  - Alabama
-  - "Critical Habitat"
-  - "Endangered Species Act"
-  - "Spring Pygmy Sunfish"
-  - Tennessee
-  - "Wheeler National Wildlife Refuge"
-updated: "November 1st, 2018"
+    - Alabama
+    - 'Alabama Ecological Services Field Office'
+    - 'Critical Habitat'
+    - 'Endangered Species Act'
+    - 'Spring Pygmy Sunfish'
+    - Tennessee
+    - 'Wheeler National Wildlife Refuge'
+updated: 'December 4th, 2018'
 ---
 
 To protect one of only two known populations of a rare, threatened Alabama fish, the U.S. Fish and Wildlife Service (Service) is proposing to designate a swamp in [Wheeler National Wildlife Refuge](https://www.fws.gov/refuge/wheeler/) (NWR) as critical habitat for the species. A new population of [spring pygmy sunfish](/wildlife/fishes/spring-pygmy-sunfish) was discovered in the swamp in late 2015. The proposed critical habitat designation will help guard against the sunfish’s extinction and support recovery efforts by local, state and federal partners.

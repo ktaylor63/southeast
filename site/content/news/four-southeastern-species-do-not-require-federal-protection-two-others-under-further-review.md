@@ -1,13 +1,13 @@
 ---
 title: 'Four Southeastern species do not require federal protection, two others under further review'
-date: '2016-03-15'
+date: 2016-03-15T00:00:00.000Z
 hero:
     name: cheoah-bald-salamander.jpg
     alt: 'A close up photo of a gray-silver salamander walking on a layer of wet moss.'
-    link: 'https://flic.kr/p/8a5dt7'
-    caption: 'Cheoah bald salamander. Photo by <a href=\"https://www.flickr.com/photos/38984611@N03/\" target=\"_blank\">Andy Kraemer</a>, <a href=\"https://creativecommons.org/licenses/by-nc/2.0/\" target=\"_blank\">CC BY-NC 2.0</a>.'
+    caption: 'Cheoah bald salamander. <a href="https://flic.kr/p/8a5dt7">Photo</a> by <a href="https://www.flickr.com/photos/38984611@N03/" target="_blank">Andy Kraemer</a>, <a href="https://creativecommons.org/licenses/by-nc/2.0/" target="_blank">CC BY-NC 2.0</a>.'
 tags:
     - Alabama
+    - 'Alabama Ecological Services Field Office'
     - Arkansas
     - 'At-Risk Species'
     - 'Caribbean Ecological Services Field Office'
@@ -18,15 +18,15 @@ tags:
     - Mississippi
     - 'North Carolina'
     - 'Puerto Rico'
-updated: 'May 7th, 2018'
+updated: 'December 4th, 2018'
 ---
 
 Today the U.S. Fish and Wildlife Service published a batch of [90-day findings](/endangered-species-act/90-day-finding/) affecting a variety of species across the nation. Biologists have determined the following species found in the southeastern United States do not require further review for federal protection at this time:
 
-* Cheoah bald salamander in [North Carolina](/north-carolina)
-* Monito skink in [Puerto Rico](/puerto-rico)
-* Southern dusky salamander in [Alabama](/alabama), [Florida](/florida), [Georgia](/georgia), [Louisiana](/louisiana), [Mississippi](/mississippi), [North Carolina](/north-carolina), Texas, Virginia, and possibly [South Carolina](/south-carolina)
-* South Mountain gray-cheeked salamander in [North Carolina](/north-carolina).
+- Cheoah bald salamander in [North Carolina](/north-carolina)
+- Monito skink in [Puerto Rico](/puerto-rico)
+- Southern dusky salamander in [Alabama](/alabama), [Florida](/florida), [Georgia](/georgia), [Louisiana](/louisiana), [Mississippi](/mississippi), [North Carolina](/north-carolina), Texas, Virginia, and possibly [South Carolina](/south-carolina)
+- South Mountain gray-cheeked salamander in [North Carolina](/north-carolina).
 
 With the addition of four not substantial findings, 60 southeastern species have not required federal protection as a result of either conservation actions, additional information (e.g., updated survey data), reevaluation of threats to their survival, and a lack of substantial information indicating further need for evaluation since 2010\. Conservation partnerships have benefited another 11 species that have been proposed for listing as threatened rather than endangered, or are no longer in need of protection and have been proposed for delisting or delisted already.
 

@@ -1,10 +1,11 @@
 ---
 title: 'Bat, snail, and popular plant may need endangered species protection'
 subtitle: 'Fish and Wildlife Service to gather more information'
-date: '2017-12-19'
+date: 2017-12-19T00:00:00.000Z
 tags:
     - '90-Day Finding'
     - Alabama
+    - 'Alabama Ecological Services Field Office'
     - Arkansas
     - 'At-Risk Species'
     - 'Endangered Species Act'
@@ -27,7 +28,7 @@ hero:
     name: venus-flytrap.jpg
     alt: 'A cluster of carnivorious plant heads with bright red/orange mouths.'
     caption: 'Venus flytrap. Photo by Jennifer Koches, USFWS.'
-updated: 'September 19th, 2018'
+updated: 'December 4th, 2018'
 ---
 
 More research is needed on three species before U.S. Fish and Wildlife officials can determine whether to add them to the threatened and endangered species list.

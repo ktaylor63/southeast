@@ -1,7 +1,7 @@
 ---
 title: 'Service proposes special rule to focus protections for northern long-eared bat'
 subtitle: 'Rule would apply if species is listed as threatened under the Endangered Species Act'
-date: '2015-01-15'
+date: 2015-01-15T00:00:00.000Z
 hero:
     name: northern-long-eared-bat.jpg
     alt: 'A small furry bat in a crevice of a cave with patches of white fungus on its face and shoulder.'
@@ -9,8 +9,9 @@ hero:
     caption: 'A northern-long-eared bat with suspected White Nose Syndrome. Photo by Steve Taylor, University of Illinois.'
 tags:
     - '4d Rule'
+    - 'Alabama Ecological Services Field Office'
     - 'Northern Long-Eared Bat'
-updated: 'July 13th, 2017'
+updated: 'December 4th, 2018'
 ---
 
 In response to the rapid and severe decline of the [northern long-eared bat](http://www.fws.gov/midwest/endangered/mammals/nlba/) – a species important for crop pest control – the U.S. Fish and Wildlife Service is proposing a special rule under the Endangered Species Act (ESA) that would provide the maximum benefit to the species while limiting the regulatory burden on the public.
@@ -31,7 +32,7 @@ For areas of the country affected by white-nose syndrome, the measures provided 
 
 In parts of the country not affected by white-nose syndrome, the proposed rule recognizes activities that result in incidental take of bats are not imperiling the species, and all will be exempt from the act’s protections.
 
-Since the outbreak of white-nose syndrome in North America, the Service has led the coordinated national response of states, federal agencies, tribes, conservation organizations and scientific institutions to address the problem through disease monitoring and management, conservation and outreach. Working with the goals identified in the national white-nose syndrome response plan, the Service has granted more than $20 million to institutions and federal and state agencies for research and response.  The national effort has united experts in bat biology, wildlife disease, wildlife ecology, ecosystem management and other fields to share information and seek measures to address white-nose syndrome and bat conservation.
+Since the outbreak of white-nose syndrome in North America, the Service has led the coordinated national response of states, federal agencies, tribes, conservation organizations and scientific institutions to address the problem through disease monitoring and management, conservation and outreach. Working with the goals identified in the national white-nose syndrome response plan, the Service has granted more than \$20 million to institutions and federal and state agencies for research and response.  The national effort has united experts in bat biology, wildlife disease, wildlife ecology, ecosystem management and other fields to share information and seek measures to address white-nose syndrome and bat conservation.
 
 Under the ESA, an endangered designation indicates a species is currently in danger of extinction throughout all or a significant portion of its range; a threatened designation means a species is likely to become endangered in the foreseeable future. The act and the Service’s implementing regulations prohibit take, including harming, harassing and killing, of endangered and threatened species unless otherwise permitted.
 
@@ -39,7 +40,7 @@ For species listed as threatened, the Service may issue a 4(d) rule to provide p
 
 ## Submit Your Comments
 
-The Service is seeking public comment on the proposed 4(d) rule and is accepting comments on its October 2013 proposal to list the northern long-eared bat under the ESA. Comments are accepted through March 17, 2015.  Specifically, the Service is seeking comment on whether it may be appropriate to exempt incidental take as a result of other categories of activities beyond those covered in the proposed rule and if so, under what conditions and with what conservation measures. 
+The Service is seeking public comment on the proposed 4(d) rule and is accepting comments on its October 2013 proposal to list the northern long-eared bat under the ESA. Comments are accepted through March 17, 2015.  Specifically, the Service is seeking comment on whether it may be appropriate to exempt incidental take as a result of other categories of activities beyond those covered in the proposed rule and if so, under what conditions and with what conservation measures.
 
 You may submit comments by one of the following methods:
 

@@ -1,14 +1,15 @@
 ---
 title: 'Service reopens comment period on proposal to list the northern long-eared bat as endangered'
-date: '2014-11-18'
+date: 2014-11-18T00:00:00.000Z
 hero:
     name: northern-long-eared-bat.jpg
     alt: 'A small furry bat in a crevice of a cave with patches of white fungus on its face and shoulder.'
     link: 'https://flic.kr/p/re5BtW'
     caption: 'A northern-long-eared bat with suspected White Nose Syndrome. Photo by Steve Taylor, University of Illinois.'
 tags:
+    - 'Alabama Ecological Services Field Office'
     - 'Northern Long-Eared Bat'
-updated: 'July 13th, 2017'
+updated: 'December 4th, 2018'
 ---
 
 The U.S. Fish and Wildlife Service is reopening the public comment period on a proposal to list the northern long-eared bat as endangered under the Endangered Species Act (ESA).  Comments will be accepted through Dec. 18, 2014.  
@@ -19,7 +20,7 @@ You may submit comments by one of the following methods:
 1. _Electronically_:  Go to the Federal eRulemaking Portal: [_http://www.regulations.gov_](http://www.regulations.gov).  In the Search box, enter Docket No. FWS–R5–ES–2011–0024, which is the docket number for this  rulemaking.  You may submit a comment by clicking on “Comment Now!''  Please ensure that  you have found the correct rulemaking before submitting your comment.
 2. _By hard copy_:  Submit by U.S. mail or hand-delivery to:  Public Comments Processing, Attn:  FWS–R5–ES–2011–0024; Division of Policy and Directives Management; U.S. Fish and  Wildlife Service, MS: BPHC; 5275 Leesburg Pike, Falls Church, VA 22041-3803.
 
-All comments will be posted on [_http://www.regulations.gov_](http://www.regulations.gov/).  This generally means we will post any personal information you provide us. If you previously submitted comments or information on the Oct. 2, 2013, proposed rule (78 FR 61046), please do not resubmit them.  We have incorporated them into the public record, and we will consider them fully in our final determination.  
+All comments will be posted on [_http://www.regulations.gov_](http://www.regulations.gov/).  This generally means we will post any personal information you provide us. If you previously submitted comments or information on the Oct. 2, 2013, proposed rule (78 FR 61046), please do not resubmit them.  We have incorporated them into the public record, and we will consider them fully in our final determination.
 
 To view the information provided by state agencies and other information about the northern long-eared bat, go to [http://www.fws.gov/midwest/endangered/mammals/nlba/index.html](http://www.fws.gov/midwest/endangered/mammals/nlba/index.html)
 
