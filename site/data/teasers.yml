@@ -1,10 +1,19 @@
 stories:
+  - title: "Third Mississippi chronic wasting disease infected deer found"
+    summary: "A third deer, a 2-year-old doe, taken on a November hunt in Issaquena County, Mississippi, has tested positive for chronic wasting disease. According to a Louisiana Wildlife and Fisheries report, the deer was killed six miles north of where the first Mississippi CWD deer was taken in January this year."
+    date: 2018-12-05
+    hero:
+      name: chronic-wasting-disease.jpg
+      alt: "A scruffy looking white-tailed deer that appears to be ill and underweight."
+      caption: "A white-tailed deer with Chronic Wasting Disease (CWD). Photo by Wyoming Game and Fish Dept."
+      position: "75% 55%"
+    url: "https://www.theadvocate.com/baton_rouge/sports/outdoors/article_3486c4a8-f7d7-11e8-8069-bbfbb596ca7b.html"
   - title: "The search for giant, rare salamanders that live in Georgia"
     summary: "In the deep woods of the Blue Ridge Mountains, a cold, clear stream flows. Below a canopy of twisted rhododendrons, seven people in black wetsuits creep upstream through the water. They look like Gollum, sleek in their neoprene, crouching in the water, feeling under rocks."
     date: 2018-11-27
     hero:
       name: eastern-hellbender.jpg
-      alt: 'A small, slimy, green salamander in hand.'
+      alt: "A small, slimy, green salamander in hand."
       caption: 'Eastern hellbender. <a href="https://flic.kr/p/EjNh96">Photo</a> by Will Parson, Chesapeake Bay Program, <a href="https://creativecommons.org/licenses/by-nc/2.0/">CC BY-NC 2.0</a>.'
     url: "https://www.wabe.org/the-search-for-giant-rare-salamanders-that-live-in-georgia/"
   - title: "Saving the Florida scrub-jay"
