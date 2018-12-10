@@ -13,14 +13,14 @@ tags:
     - 'Fish Passage'
     - Hydropower
     - 'South Carolina'
-updated: 'November 27th, 2018'
+updated: 'December 6th, 2018'
 ---
 
 Hydropower, a renewable source of energy, is widely used throughout the United States and the world. Hydropower projects usually consist of damming a river to create a reservoir or lake. Water flowing through turbines in the dam create electricity. Dams, and the reservoirs they create, can also be used for water supply, flood control, and recreation. Although producing hydroelectricity does not emit any greenhouse gas emissions, the damming of rivers can have detrimental effects to our streams and rivers.
 
 Rivers originate at their headwaters, which usually consist of tiny mountain streams flowing downstream, getting larger as more tributary streams connect to the main channel. In South Carolina, streams and rivers eventually flow from the Piedmont area through the coastal plain and into the ocean. Dams fragment river systems causing physical and ecological separation of habitats. They have an impact on river systems by altering flows, sediment movements, water chemistry, and aquatic and upland habitat. They affect species life cycles by restricting upstream and downstream movements of migratory species, especially fish. Fish can also be harmed or killed when caught in turbine intakes or injured by turbine blades.
 
-The East Coast contains several species of diadromous fish - fish that must move between fresh and saltwater environments to fulfill a portion of their life cycle. South Carolina is home to the American shad, hickory shad, blueback herring, striped bass, American eel, and the federally endangered Atlantic sturgeon and shortnose sturgeon. Historically, these species were abundant and supported large commercial fisheries, but in the last century, their populations have significantly declined. Dams have contributed to this decline because they block species from moving up river to their natal spawning grounds. The Service, in concert with other natural resource agencies, is working to pass fish beyond dams to their natal spawning grounds in an effort to rebuild and restore their populations.
+The East Coast contains several species of diadromous fish &mdash; fish that must move between fresh and saltwater environments to fulfill a portion of their life cycle. South Carolina is home to the American shad, hickory shad, blueback herring, striped bass, American eel, and the federally endangered Atlantic sturgeon and shortnose sturgeon. Historically, these species were abundant and supported large commercial fisheries, but in the last century, their populations have significantly declined. Dams have contributed to this decline because they block species from moving up river to their natal spawning grounds. The Service, in concert with other natural resource agencies, is working to pass fish beyond dams to their natal spawning grounds in an effort to rebuild and restore their populations.
 
 ## Federal Energy Regulatory Commission
 
