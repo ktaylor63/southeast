@@ -2,7 +2,7 @@ require('classlist-polyfill');
 require('window.requestanimationframe');
 // Element.matches() polyfill
 if (!Element.prototype.matches) {
-  Element.prototype.matches = Element.prototype.matchesSelector
+  Element.prototype.matches =    Element.prototype.matchesSelector
     || Element.prototype.mozMatchesSelector
     || Element.prototype.msMatchesSelector
     || Element.prototype.oMatchesSelector
@@ -118,22 +118,17 @@ xhr.get(`${dataURL}data/terms.js`, (err, res, body) => {
     position: 'left'
   });
 
-  document.querySelector('.glossary-trigger').addEventListener('click', glossary.toggle);
-  const anchors = Array.from(document.querySelectorAll('a'));
-
-  // Open all links that go somewhere other than our site in a new tab
-  anchors.forEach(anchor => {
-    if (anchor.href.indexOf(document.body.getAttribute('data-root')) === -1) {
-      anchor.setAttribute('target', '_blank');
-      anchor.setAttribute('rel', 'noopener');
-    }
-  });
+  document
+    .querySelector('.glossary-trigger')
+    .addEventListener('click', glossary.toggle);
 });
 
 // Select all of the url when the user clicks the share url input
-document.querySelector('.share-drawer input').addEventListener('focus', function selectInputText() {
-  this.setSelectionRange(0, this.value.length);
-});
+document
+  .querySelector('.share-drawer input')
+  .addEventListener('focus', function selectInputText() {
+    this.setSelectionRange(0, this.value.length);
+  });
 
 function removeActiveClassFromDrawer(e) {
   const parent = e.target ? e.target.parentNode : e.parentNode;
@@ -180,8 +175,12 @@ contactLinks.forEach(link => {
   });
 });
 
-document.querySelector('.fws-menu-trigger').addEventListener('click', menu.show);
-document.getElementById('search-trigger').addEventListener('click', search.toggle);
+document
+  .querySelector('.fws-menu-trigger')
+  .addEventListener('click', menu.show);
+document
+  .getElementById('search-trigger')
+  .addEventListener('click', search.toggle);
 const searchTriggers = Array.from(document.querySelectorAll('.search-trigger'));
 searchTriggers.forEach(trigger => trigger.addEventListener('click', search.toggle));
 document.querySelector('.toggle-share').addEventListener('click', () => {
@@ -190,7 +189,9 @@ document.querySelector('.toggle-share').addEventListener('click', () => {
 
 // Supports dropdown menus in the section navigation
 if (sectionNav) {
-  const sectionDropdowns = Array.from(sectionNav.querySelectorAll('.dropdown-item'));
+  const sectionDropdowns = Array.from(
+    sectionNav.querySelectorAll('.dropdown-item')
+  );
 
   sectionDropdowns.forEach(dropdown => {
     dropdown.addEventListener('click', e => {
@@ -218,7 +219,9 @@ const closest = (elem, selector) => {
   return null;
 };
 
-const scrollerLists = Array.from(document.querySelectorAll('.scroller-list--list'));
+const scrollerLists = Array.from(
+  document.querySelectorAll('.scroller-list--list')
+);
 
 function lazyLoad(e) {
   const attribute = 'data-src';
@@ -226,7 +229,9 @@ function lazyLoad(e) {
   const nearestLazyImg = scrollerList.querySelector(`[${attribute}]`);
   const nearestLazyItem = closest(nearestLazyImg, '.scroller-list--item');
   if (!nearestLazyItem) return;
-  const lazyImgFromView = nearestLazyItem.offsetTop - scrollerList.clientHeight - scrollerList.scrollTop;
+  const lazyImgFromView =    nearestLazyItem.offsetTop
+    - scrollerList.clientHeight
+    - scrollerList.scrollTop;
 
   if (lazyImgFromView < 500) {
     nearestLazyImg.src = nearestLazyImg.getAttribute(attribute);
@@ -243,10 +248,14 @@ const searchInput = document.querySelector('.site-wide-search-input');
 search.init(searchInput, dataURL);
 
 // Fallback if Object-fit is not supported
-const noObjectFit = document.documentElement.classList.contains('no-object-fit');
+const noObjectFit = document.documentElement.classList.contains(
+  'no-object-fit'
+);
 
 if (noObjectFit) {
-  const featureImages = [].slice.call(document.querySelectorAll('.hero-parallax'));
+  const featureImages = [].slice.call(
+    document.querySelectorAll('.hero-parallax')
+  );
   const fallback = new ObjectFitFallback({ elements: featureImages });
   fallback.update();
 }
