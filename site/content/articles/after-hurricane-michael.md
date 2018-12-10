@@ -1,6 +1,6 @@
 ---
 title: "After Hurricane Michael"
-subtitle: "Service, experts survey damage to Southeast’s longleaf pine forests and the many species who live there"
+subtitle: "Service, experts survey damage to Southeast’s longleaf pine forests and the many species that live there"
 author: "Dan Chapman, Public Affairs Specialist"
 type: feature
 date: 2018-11-29T00:00:00.000Z
