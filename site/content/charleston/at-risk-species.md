@@ -1,26 +1,28 @@
 ---
 draft: true
-title: "At-risk species"
-nav: "At-risk species"
+title: 'At-risk species'
+nav: 'At-risk species'
 facebook: SouthCarolinaFieldOffice
 twitter: USFWS_SC
+js: /js/at-risk-by-state.js
 hero:
-  name: ocmulgee-skullcap-alan-cressler.jpg
-  alt: "A plant with four bright purple flowers that look like orchids"
-  caption: "Ocmulgee skullcap. Photo © Alan Cressler, used with permission."
+    name: ocmulgee-skullcap-alan-cressler.jpg
+    alt: 'A plant with four bright purple flowers that look like orchids'
+    caption: 'Ocmulgee skullcap. Photo © Alan Cressler, used with permission.'
 tags:
-  - "At-Risk Species"
-  - "Endangered Species Act"
-  - Recovery
-  - "South Carolina"
-updated: "November 16th, 2018"
+    - 'At-Risk Species'
+    - 'Endangered Species Act'
+    - Recovery
+    - 'South Carolina'
+updated: 'December 6th, 2018'
 ---
 
 At-risk species are plants or animals that have either been proposed for listing under the Endangered Species Act (ESA); are candidates for listing; or are species that have been petitioned for listing. The category also includes species undergoing an agency discretionary review. By working with private landowners, states, tribes, other federal agencies and non-governmental organizations, the Service has been able to conserve dozens of at-risk species and preclude the need to list them under the ESA through proactive conservation efforts.
 
-- [South Carolina list of endangered, threatened, candidate Species, and at-risk species]()
 - [South Carolina at-risk species factsheet](/pdf/fact-sheet/south-carolina-esfo-at-risk-species.pdf)
 - [Southeast Region At-Risk Species Finder](/finder/#/species/list)
+
+<ul class="at-risk-species fade-list"></ul>
 
 ## Program contacts for at-risk species in South Carolina
 
@@ -50,3 +52,5 @@ At-risk species are plants or animals that have either been proposed for listing
 - [Southeast Region’s at-risk conservation strategy](/pdf/fact-sheet/at-risk-species-overview.pdf)
 - [Voluntary conservation tools](/endangered-species-act/voluntary-conservation-tools/)
 - [Environmental Conservation Online System](https://ecos.fws.gov/ecp/)
+
+<span class="state-name">South Carolina</span>
