@@ -1,18 +1,18 @@
 ---
 draft: true
 title: 'Partners for Fish and Wildlife Program'
-nav: 'For landowners'
+nav: 'Partners for Fish and Wildlife Program'
 description: 'The Partners for Fish and Wildlife program works with private landowners to improve fish and wildlife habitat on their lands.  We are leaders in voluntary, community-based stewardship for fish and wildlife conservation.'
 facebook: SouthCarolinaFieldOffice
 twitter: USFWS_SC
 hero:
-    name: ocmulgee-skullcap-alan-cressler.jpg
-    alt: 'A plant with four bright purple flowers that look like orchids'
-    caption: 'Ocmulgee skullcap. Photo © Alan Cressler, used with permission.'
+    name: andy-brady-thousand-oaks-farm.jpg
+    alt: 'A man on his property standing next to a tree resting on the trunk'
+    caption: 'Andy Brady among his trees at Thousand Oaks Farm. Mr. Brady planted a variety of hardwood mast producing trees at Thousand Oaks Farm, former bottomland crop fields adjacent to the Congaree River and Congaree National Park. Additionally, Mr. Brady has his place under conservation easement with the Congaree Land Trust. Photo by John Cely, used with permission.'
 tags:
     - 'Private Landowners'
     - 'South Carolina'
-updated: 'November 27th, 2018'
+updated: 'December 11th, 2018'
 ---
 
 Then Partners for Fish and Wildlife Program works with voluntary habitat improvement projects on private lands for the benefit of federal trust species. Such species include such as migratory birds and migratory fish, endangered or threatened species, and at-risk species that have been proposed for listing under the Endangered Species Act (ESA), are candidates for listing under the ESA, species that have been petitioned for listing under the ESA , or are Species of Greatest Conservation Need (SGCN) as identified by the states. Biologists provide technical and financial assistance to landowners who want to restore and enhance habitats on their property.
@@ -20,7 +20,8 @@ Then Partners for Fish and Wildlife Program works with voluntary habitat improve
 ## How to participate
 
 - Interested landowners contact a Partners for Fish and Wildlife biologist to discuss the proposed project and establish a site visit.
-- A visit to the site is used to determine which activities the landowner desires and how those activities will enhance habitat for trust resources. - Technical advice on the proposed activities is provided by the Service, as appropriate.
+- A visit to the site is used to determine which activities the landowner desires and how those activities will enhance habitat for trust resources.
+- Technical advice on the proposed activities is provided by the Service, as appropriate.
 - Proposed cost estimates are discussed by the Service and landowner.
 - A proposal which describes the proposed activities is developed by the Service biologist and the landowner. Projects are then regionally ranked for potential funding.
 - After funding is approved, the landowner and the Service co-sign a Wildlife Extension Agreement.
