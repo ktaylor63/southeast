@@ -1,38 +1,38 @@
 ---
-title: 'New regional director to head southeastern conservation efforts Fish and Wildlife Service'
-description: 'Service officials announced late last month that Leopoldo “Leo” Miranda will head the Service’s Southeast Region. The tract encompasses 10 southeastern states as well as Puerto Rico and the U.S. Virgin Islands.'
+title: "New regional director to head southeastern conservation efforts Fish and Wildlife Service"
+description: "Service officials announced late last month that Leopoldo “Leo” Miranda will head the Service’s Southeast Region. The tract encompasses 10 southeastern states as well as Puerto Rico and the U.S. Virgin Islands."
 date: 2018-12-10T00:00:00.000Z
 tags:
-    - Alabama
-    - 'Alabama Ecological Services Field Office'
-    - Arkansas
-    - 'Asheville Ecological Services Field Office'
-    - 'At-Risk Species'
-    - 'Chattahoochee Forest National Fish Hatchery'
-    - 'Ecological Services'
-    - 'Endangered Species Act'
-    - Florida
-    - Georgia
-    - 'Gopher Tortoises'
-    - Kentucky
-    - Louisiana
-    - 'Louisiana Ecological Services Field Office'
-    - Mississippi
-    - 'North Carolina'
-    - 'Partners for Fish and Wildlife'
-    - 'Private John Allen National Fish Hatchery'
-    - 'Puerto Rico'
-    - 'Red-Cockaded Woodpeckers'
-    - 'Regional Director'
-    - 'South Carolina'
-    - 'South Carolina Ecological Services Field Office'
-    - Tennessee
-    - 'US Virgin Islands'
-    - 'Wolf Creek National Fish Hatchery'
-updated: 'December 10th, 2018'
+  - Alabama
+  - "Alabama Ecological Services Field Office"
+  - Arkansas
+  - "Asheville Ecological Services Field Office"
+  - "At-Risk Species"
+  - "Chattahoochee Forest National Fish Hatchery"
+  - "Ecological Services"
+  - "Endangered Species Act"
+  - Florida
+  - Georgia
+  - "Gopher Tortoises"
+  - Kentucky
+  - Louisiana
+  - "Louisiana Ecological Services Field Office"
+  - Mississippi
+  - "North Carolina"
+  - "Partners for Fish and Wildlife"
+  - "Private John Allen National Fish Hatchery"
+  - "Puerto Rico"
+  - "Red-Cockaded Woodpeckers"
+  - "Regional Director"
+  - "South Carolina"
+  - "South Carolina Ecological Services Field Office"
+  - Tennessee
+  - "US Virgin Islands"
+  - "Wolf Creek National Fish Hatchery"
+updated: "December 10th, 2018"
 ---
 
-{{< figure class="photo-right" src="/images/pages/leo-miranda-bio.jpg" alt="Portrait shot of a man in the woods with a cammo backpack and orange hunting sweatshirt." >}}
+{{< figure class="photo-right" src="/images/pages/leo-miranda-bio.jpg" alt="Portrait shot of a man in the woods with a cammo backpack and orange hunting sweatshirt." caption="Leopoldo “Leo” Miranda." >}}
 
 A veteran of conservation has become the latest regional director for the U.S. Fish and Wildlife Service’s (Service) Southeast Region based in Atlanta.
 
