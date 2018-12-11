@@ -616,7 +616,7 @@ number,status,fed_register
 78273C-0,Issued,N/A
 78383C-0,In RO for Review,Noticed for 30 days
 78446C-0,Issued,N/A
-32397A-3,In RO for Review,Noticed for 30 days
+32397A-3,Awaiting Input from Applicant,Noticed for 30 days
 37886B-1,In RO for Review,Noticed for 30 days
 26554C-1,Issued,N/A
 096554-4,In FO for Review,Noticed for 30 days
@@ -661,7 +661,7 @@ number,status,fed_register
 35594A-3,In RO for Review,on 30 day notice period
 069754-6,In FO for Review,N/A
 97786C-0,No permit needed,needs to be drafted
-98274C-0,In RO for Review,N/A
+98274C-0,Awaiting Input from Applicant,N/A
 16616C-1,Issued,N/A
 77197C-1,Issued,N/A
 99171C-0,In RO for Review,N/A
@@ -701,7 +701,7 @@ number,status,fed_register
 11853D-0,Issued,N/A
 11857D-0,Abandoned,N/A
 12369D-0,Issued,N/A
-12373D-0,Awaiting Input from Applicant,N/A
+12373D-0,Abandoned,N/A
 12379D-0,In RO for Review,needs to be drafted
 12981D-0 ,Issued,N/A
 092945-4,In FO for Review,N/A
