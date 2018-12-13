@@ -1,23 +1,23 @@
 ---
-title: "North Carolina dam removal helps Rocky River and the endangered fish that lives there"
-author: "Lilibeth Serrano, Emily Wells, Sarah McRae, and Sara Ward"
+title: 'North Carolina dam removal helps Rocky River and the endangered fish that lives there'
+author: 'Lilibeth Serrano, Emily Wells, Sarah McRae, and Sara Ward'
 date: 2018-12-06T00:00:00.000Z
 hero:
-  name: hoosier-dam.jpg
-  alt: "Water topples over a 25ft tall dam"
-  caption: "Hoosier Dam stood 25 feet tall and 235 feet across the Rocky River in Chatham County. It blocked the endangered Cape Fear shiner from reaching habitat upstream from 1922 until October 2018. Photo by Emily Wells, USFWS."
+    name: hoosier-dam.jpg
+    alt: 'Water topples over a 25ft tall dam'
+    caption: 'Hoosier Dam stood 25 feet tall and 235 feet across the Rocky River in Chatham County. It blocked the endangered Cape Fear shiner from reaching habitat upstream from 1922 until October 2018. Photo by Emily Wells, USFWS.'
 tags:
-  - "Cape Fear Shiner"
-  - "Critical Habitat"
-  - Dam
-  - "Endangered Species Act"
-  - "Fish Passage"
-  - "Hoosier Dam"
-  - Mussels
-  - "North Carolina"
-  - "Raleigh Ecological Services Field Office"
-  - Recovery
-updated: "December 7th, 2018"
+    - 'Cape Fear Shiner'
+    - 'Critical Habitat'
+    - Dam
+    - 'Endangered Species Act'
+    - 'Fish Passage'
+    - 'Hoosier Dam'
+    - Mussels
+    - 'North Carolina'
+    - 'Raleigh Ecological Services Field Office'
+    - Recovery
+updated: 'December 11th, 2018'
 ---
 
 The [Cape Fear shiner](/wildlife/fishes/cape-fear-shiner/), a federally protected North American minnow found only in central North Carolina, battles to survive with only one stronghold remaining in the lower reaches of the Rocky and Deep Rivers of North Carolina’s Upper Cape Fear River Basin.
@@ -39,6 +39,8 @@ Dewatering of Reeves Lake began during the summer of 2017. The summer months wer
 {{< figure class="photo-center" src="/images/pages/reeves-lake-dewatered.jpg" alt="A reservoir with a substantial amount of water removed" caption="View of Reeves Lake after initial dewatering in 2017. Photo by Emily Wells, USFWS." >}}
 
 Demolition started in October, 2018. Construction equipment operators from the Service’s Aquatic Habitat Restoration Team worked for weeks chiseling away at the dam and associated features with amazing attention to detail, removing portions of the dam that been in place for almost 100 years. Contractors are currently planting seeds and grass along the river banks to minimize erosion and sedimentation into the Rocky River.
+
+{{< figure class="photo-center" src="/images/pages/hoosier-dam-heavy-machinery.jpg" alt="A large, bright orange backhoe moving boulders in the river" caption="Heavy machinery does the hard work of removing hammering away at the dam. Photo by Emily Wells, USFWS." >}}
 
 The river already has begun, and will continue, to regain its natural identity as a shallow stream flowing over boulders and bedrock outcrops, through pools and natural riffles over deposits of large woody debris.The removed stone will be used to create riffles and runs which are desirable features to increase instream habitat for mussels and fish. The team will revisit the site in the summer of 2019 to remove another small remnant rock dam almost a mile upstream and ensure there is nothing left but strategically placed rock resembling the natural stream system.
 
