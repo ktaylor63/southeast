@@ -17,6 +17,7 @@
 
     {{ if eq .Type "field-station" }}
     label Search Contacts
+      span.contact-stats
       input.contact-input type="search" placeholder="Search by employee name or title..."
     ul.card-list.contact-list data-office={{ .Params.office }}
     {{ end }}
