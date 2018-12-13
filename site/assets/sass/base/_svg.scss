@@ -1,6 +1,8 @@
-.south-carolina-svg path {
+.south-carolina-svg path,
+.eastern-north-carolina path {
   fill: $color-accent;
   stroke: #fff;
+  stroke-width: 1.069;
 
   &:hover {
     fill: darken($color-accent, 10);
