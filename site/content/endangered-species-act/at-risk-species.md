@@ -6,6 +6,7 @@ weight: 6
 aliases:
     - /candidateconservation
     - /candidaetconservation/examples.html
+    - /endangered-species-act/at-risk
 tags:
     - 'At-Risk Species'
     - 'Endangered Species Act'
@@ -15,7 +16,7 @@ hero:
     link: 'https://flic.kr/p/eLEEwc'
     alt: 'A brownish-yellow salamander sanding on a mossy rock with large round eyes.'
     caption: 'The Pigeon Mountain salamander is no longer at-risk of needing federal protection. Photo by John P. Clare, CC BY-NC-ND 2.0.'
-updated: 'January 9th, 2018'
+updated: 'December 18th, 2018'
 ---
 
 **Update:** [Download the Draft Programmatic Candidate Conservation Agreement with Assurances for Louisiana pinesnake in Louisiana](/pdf/agreement/candidate-conservation-agreement-with-assurances/draft-programmatic-ccaa-for-louisiana-pinesnake-in-louisiana.pdf).
