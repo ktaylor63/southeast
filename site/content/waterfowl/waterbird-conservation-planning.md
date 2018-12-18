@@ -1,5 +1,9 @@
 ---
 title: 'Waterbird conservation planning'
+nav: Waterbird conservation planning
+weight: 4
+aliases:
+    - /birds/waterbird-conservation-planning
 hero:
     name: reddish-egret.jpg
     alt: 'A rust colored bird wading in shallow water.'
