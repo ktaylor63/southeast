@@ -12,7 +12,7 @@ tags:
     - 'Environmental Education'
     - 'Environmental Interpretation'
     - 'North Carolina'
-updated: 'August 23rd, 2018'
+updated: 'December 12th, 2018'
 ---
 
 Due to limited resources and efforts to focus those resources where conservation need is greatest, we are generally only able to offer classroom and field programs in Macon, Jackson, Graham, Swain, Haywood, Henderson, Transylvania, Yancey, and Mitchell counties.
@@ -20,29 +20,33 @@ Due to limited resources and efforts to focus those resources where conservation
 ## Field programs
 
 ### Macroinvertebrate sampling and water chemistry investigation
-Grades 7-12 (45 minutes – 1.5 hours)
- 
-Introduces students to the diversity of life in a stream and how it’s a reflection of water quality. Participants use kick nets to collect stream insects, snails, and other macroinvertebrates. They use simple keys to identify their catch and assess the quality of the stream based on the animals they collect. 
 
-*Note: the Fish and Wildlife Service provides equipment. Educator identifies stream for study, arranges student transportation to and from the site, and ensures organizational health and safety requirements are met.*
+Grades 7-12 (45 minutes – 1.5 hours)
+
+Introduces students to the diversity of life in a stream and how it’s a reflection of water quality. Participants use kick nets to collect stream insects, snails, and other macroinvertebrates. They use simple keys to identify their catch and assess the quality of the stream based on the animals they collect.
+
+_Note: the Fish and Wildlife Service provides equipment. Educator identifies stream for study, arranges student transportation to and from the site, and ensures organizational health and safety requirements are met._
 
 ## Classroom programs
 
 ### About the U.S. Fish and Wildlife Service
+
 Grades 8-12 (1 hour)
 
 An introduction to the work of the U.S. Fish and Wildlife Service, including career opportunities, and how to plan your education to become a wildlife biologist or environmental professional.
 
 ### Identifying and Treating Sources of Water Pollution
-Grades 6-9 (1 hour)
 
+Grades 6-9 (1 hour)
 
 What are the water quality impacts of development? How can our actions affect water quality in our own neighborhood.? This session begins with an introduction to endangered species, both globally and locally, then focuses on aquatic species. The students have an opportunity to manage their own piece of imaginary property, then assess their management for stream impacts and determine ways to minimize or prevent water pollution.
 
 ## Curricula developed by, or in partnership with, the U.S. Fish and Wildlife Service
-- Teacher's Guide to Threatened and Endangered Species (.pdf, 580 KB)
+
+- [Teacher's Guide to Threatened and Endangered Species](/pdf/workbook/endangered-species-teachers-packet.pdf)
 
 ## Teacher's Guide to the threatened and endangered species and ecosystems of tennessee
+
 - [Introduction and table of contents](/pdf/workbook/educators-guide-to-the-threatened-and-endangered-species-and-ecosystems-of-tennessee-toc-introduction.pdf)
 - [Background information](/pdf/workbook/educators-guide-to-the-threatened-and-endangered-species-and-ecosystems-of-tennessee-background-info.pdf)
 - [Background on ecosystem fact sheets and species descriptions](/pdf/workbook/educators-guide-to-the-threatened-and-endangered-species-and-ecosystems-of-tennessee-ecosystems-and-species.pdf)
