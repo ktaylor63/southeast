@@ -659,7 +659,7 @@ number,status,fed_register
 171577-4,Issued,N/A
 35313B-3,Issued,N/A
 35594A-3,In RO for Review,on 30 day notice period
-069754-6,In FO for Review,N/A
+069754-6,Awaiting signature,N/A
 97786C-0,No permit needed,needs to be drafted
 98274C-0,Awaiting Input from Applicant,N/A
 16616C-1,Issued,N/A
@@ -722,3 +722,5 @@ number,status,fed_register
 16876D-0,In RO for Review,needs to be drafted
 55292B-2,In RO for Review,N/A
 17641D-0,Awaiting signature,N/A
+083085-3,Awaiting Input from Applicant,needs to be drafted
+20276D-0,In RO for Review,needs to be drafted
