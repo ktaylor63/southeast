@@ -12,6 +12,7 @@ tags:
     - 'Cahaba River'
     - 'Coosa River'
     - E-Grits
+    - Trispot Darter
     - 'Endangered Species Act'
     - Genetics
     - 'Mobile River'

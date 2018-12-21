@@ -14,6 +14,7 @@ hero:
 tags:
     - 'At-Risk Species'
     - 'Conasauga River'
+    - Trispot Darter
     - Georgia
     - Rivers
 updated: 'October 13th, 2017'
