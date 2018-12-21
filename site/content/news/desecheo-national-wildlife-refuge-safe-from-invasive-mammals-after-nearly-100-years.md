@@ -7,8 +7,11 @@ tags:
     - 'Bridled Tern'
     - 'Brown Booby'
     - 'Brown Noddy'
+    - 'Caribbean Ecological Services Field Office'
     - 'Caribbean Islands National Wildlife Refuge Complex'
+    - 'Desecheo Island'
     - 'Desecheo National Wildlife Refuge'
+    - 'Higo Chumbo'
     - 'Invasive Species'
     - 'Island Conservation'
     - 'Laughing Gull'
@@ -16,18 +19,17 @@ tags:
     - 'Puerto Rico'
     - 'Red Footed Booby'
     - 'Sooty Tern'
-    - Caribbean Ecological Services Field Office
 hero:
     name: desecheo.jpg
     alt: 'A tall rocky island emerging from a calm blue sea.'
     link: 'https://flic.kr/p/VUJwFS'
     caption: 'Desecheo Island, Puerto Rico. Photo © Claudio Uribe, Island Conservation. Used with permission: S://EA/Photo Permissions/desecheo-island-conservation.pdf.'
-updated: 'January 3rd, 2018'
+updated: 'December 19th, 2018'
 ---
 
 [Lea en español.](https://www.fws.gov/news/ShowNews.cfm?ref=desecheo-national-wildlife-refuge-safe-from-invasive-mammals-after-nearly-&_ID=36064&Lang=ESP)
 
-After more than a decade of conservation intervention, Desecheo National Wildlife Refuge (NWR) is once again safe for the Threatened Higo Chumbo cactus, native seabirds, and unique lizards found nowhere else in the world.
+After more than a decade of conservation intervention, Desecheo National Wildlife Refuge (NWR) is once again safe for the threatened higo chumbo cactus, native seabirds, and unique lizards found nowhere else in the world.
 
 Just one year after an ambitious operation to rid Desecheo NWR of introduced rats, conservation biologists have confirmed that these damaging predators are absent from the island, and the operation was a success. This project, the largest conservation operation of its kind to date in the region, would enable the island to return to its former and rightful status: the most important seabird colony in the region. The refuge lost this status due to the presence of invasive mammals for almost a century.
 
