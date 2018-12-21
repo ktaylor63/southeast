@@ -1,27 +1,27 @@
 ---
 draft: true
-title: "Coastal program"
-nav: "Coastal program"
-description: "The South Carolina Coastal Program is a partnership driven program that conserves and protects natural habitat for federally listed species by providing technical and financial assistance for numerous public and private partners.  The South Carolina Coastal Program is focused on the coastal plain of South Carolina and a portion of Georgia and works in a variety of habitats, including wetlands, uplands, estuaries, and beaches."
+title: 'Coastal program'
+nav: 'Coastal program'
+description: 'The South Carolina Coastal Program is a partnership driven program that conserves and protects natural habitat for federally listed species by providing technical and financial assistance for numerous public and private partners.  The South Carolina Coastal Program is focused on the coastal plain of South Carolina and a portion of Georgia and works in a variety of habitats, including wetlands, uplands, estuaries, and beaches.'
 facebook: SouthCarolinaFieldOffice
 twitter: USFWS_SC
 hero:
-  name: ashepoo-river-sun.jpg
-  alt: "The sun peaks through the clouds over a small river."
-  caption: "The Ashepoo River in South Carolina. Photo by Chris Hernandez, USFWS."
+    name: ashepoo-river-sun.jpg
+    alt: 'The sun peaks through the clouds over a small river.'
+    caption: 'The Ashepoo River in South Carolina. Photo by Chris Hernandez, USFWS.'
 tags:
-  - "At-Risk Species"
-  - "Coastal Program"
-  - "Endangered Species Act"
-  - "South Carolina"
-updated: "November 27th, 2018"
+    - 'At-Risk Species'
+    - 'Coastal Program'
+    - 'Endangered Species Act'
+    - 'South Carolina'
+updated: 'December 20th, 2018'
 ---
 
 Established in 1995, the South Carolina Coastal Program works across coastal South Carolina and Georgia. Although the program works throughout the coastal plain, two new strategic focus areas (the Inland Coastal Plain Focus Area and the Tidal Wetland and Barrier Islands Focus Area) were established along several major river watersheds, key conservation areas, and vital wildlife corridors.
 
-## The South Carolina Coastal Program Focus Area
+## Focus Areas
 
-{{< figure class="photo-right" src="/images/pages/south-carolina-coastal-program-focus-areas-2018.jpg" alt="A map showing two focus areas: (1) the Atlantic Coast, (2) inland river basins" caption="South Carolina Coastal Program's focus areas (2018). Photo by Chris Hernandez, USFWS." >}}
+{{< figure class="photo-center" src="/images/pages/south-carolina-coastal-program-focus-areas-2018.jpg" alt="A map showing two focus areas: (1) the Atlantic Coast, (2) inland river basins" caption="South Carolina Coastal Program's focus areas (2018)." >}}
 
 ## Our vision
 
@@ -33,7 +33,7 @@ Download the [South Carolina Coastal Program Strategic Plan](/pdf/strategic-plan
 
 ## Protecting threatened, endangered and at-risk species
 
-The Coastal Program works with public agencies and private landowners to improve habitat for threatened, endangered, or at-risk species.
+The Coastal Program works with State natural resource agencies, NGOs, and private landowners to improve habitat for threatened, endangered, or at-risk species.
 
 Examples of species the program works with include:
 
@@ -62,12 +62,6 @@ The program uses cooperative agreements to enter into partnerships and provide f
 For more information about the program in South Carolina please refer to our fact sheet
 
 - [South Carolina Coastal Program Fact Sheet](/pdf/fact-sheet/south-carolina-coastal-program.pdf)
-
-## Federal assistance forms
-
-- [Application for federal assistance (SF 424)](https://www.fws.gov/endangered/esa-library/pdf/sf424-f.pdf)
-- [Assurances for non-construction programs (SF 424b)](https://www.fws.gov/charleston/pdf/sf424b%20assurances%20non%20construction-%20fillable.pdf)
-- [Federal financial report (SF 425)](https://www.gsa.gov/cdnstatic/SF425-V2.pdf)
 
 ## Learn more about the coastal program
 
