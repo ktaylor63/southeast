@@ -7,10 +7,12 @@ hero:
     link: 'https://flic.kr/p/bECJNP'
     caption: 'Louisiana black bear cubs. Photo by Brad Young, Mississippi Department of Wildlife, Fisheries and Parks.'
 tags:
+    - 'Caribbean Ecological Services Field Office'
     - 'Endangered Species Act'
     - Florida
-    - Puerto Rico
-updated: 'October 6th, 2016'
+    - 'Higo Chumbo'
+    - 'Puerto Rico'
+updated: 'December 19th, 2018'
 ---
 
 On May 15, 2009, the U.S. Fish and Wildlife Service will honor Endangered Species Day and the numerous nationwide conservation programs underway aimed at protecting America’s threatened and endangered species.
@@ -31,7 +33,7 @@ There are currently 1,317 species listed in the United States: 746 plants and 57
 
 The Southeast Region is proud to be holding its second annual region-wide celebration of Endangered Species Day.  A variety of events are being offered that include direct involvement in implementing recovery actions, fun interactive educational displays and presentations, media broadcasts, and working directly with students in creative ways to help them learn more about recovering listed species. </p> <p>“We are excited about educating our local communities about endangered species,” said . Sam D. Hamilton, Southeast Regional Director, U.S. Fish and Wildlife Service.  Endangered Species Day is dedicated to celebrating and showcasing past and present recovery successes under the Endangered Species Act.”
 
-On May 15, in Puerto Rico, the Service is reintroducing a second population of a listed cactus, _Harrisia portoricensis_ or Higo chumbo back into its native habitat in the Cabo Rojo area. Partners and the public will be joining the Service, getting their hands in the dirt, and doing a good thing for the species.
+On May 15, in Puerto Rico, the Service is reintroducing a second population of a listed cactus, _Harrisia portoricensis_ or higo chumbo back into its native habitat in the Cabo Rojo area. Partners and the public will be joining the Service, getting their hands in the dirt, and doing a good thing for the species.
 
 Also on May 15, the Service celebrates at the Jacksonville Zoo in Florida. Along with staff members from the zoo, the Florida Fish and Wildlife Conservation Commission, and the Service’s Jacksonville, Florida, Ecological Services Field Office will be stationed near the entrance area and at eight stations within the zoo to answer questions about endangered species and the Service. Visitors will be offered an Endangered Species Passport (checklist/coloring book) of Florida endangered species found at the zoo during their visit. The staff will be staged at exhibits offering information about wood stork nesting colonies, Florida panthers, bald eagles, whooping cranes, red wolves, eastern indigo snakes, gopher tortoises, alligators, manatees, and sea turtles. In addition, they will be highlighting the recovery progress being made on each of these species.
 
