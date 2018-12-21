@@ -10,10 +10,10 @@ hero:
 tags:
     - 'North Carolina'
     - 'Partners for Fish and Wildlife Program'
-updated: 'August 23rd, 2018'
+updated: 'December 12th, 2018'
 ---
 
-Through its Partners for Fish and Wildlife Program, the U.S. Fish and Wildlife Service provides financial and technical assistance to private landowners, and local and tribal governments to improve habitat on their land.
+Through its Partners for Fish and Wildlife Program, the Service provides financial and technical assistance to private landowners, and local and tribal governments to improve habitat on their land.
 
 ## Types of assistance
 
@@ -23,15 +23,15 @@ The Asheville field office has a biologist dedicated to working with private lan
 
 ### Financial
 
-Through its grant program, the Partners for Fish & Wildlife program funds habitat improvements on private land.
+Through its grant program, the Partners for Fish and Wildlife program funds habitat improvements on private land.
 
 ## Who qualifies for assistance?
 
-The program targets private landowners. 
+The program targets private landowners.
 
 ### Species that benefit
 
-The Partners for Fish & Wildlife Program focuses on improving habitat for a group of plants and animals called federal trust resources – including migratory birds and fish as well as federally threatened and endangered species.
+The Partners for Fish and Wildlife Program focuses on improving habitat for a group of plants and animals called federal trust resources – including migratory birds and fish as well as federally threatened and endangered species.
 
 ### Geographic focus areas
 
