@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 'Primary habitat resources for waterfowl on Refuges in the Southeast'
 nav: Primary habitats
 weight: 2

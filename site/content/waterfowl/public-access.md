@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 'Public access'
 nav: Public access
 weight: 3

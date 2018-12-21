@@ -1,7 +1,6 @@
 ---
-draft: true
 title: 'Waterfowl in the Southeast Region'
-nav: Waterfowl in the Southeast
+nav: 'Waterfowl in the Southeast'
 weight: 1
 url: /waterfowl
 hero:
@@ -16,20 +15,20 @@ tags:
     - Waterfowl
     - 'Waterfowl Working Group'
     - Wetlands
-updated: 'December 14th, 2018'
+updated: 'December 18th, 2018'
 ---
 
 Every year as winter descends and temperatures drop, waterfowl migrate from northern breeding grounds to the southeastern United States. This journey can be hazardous and physically demanding. Just like humans taking a long road trip, ducks, geese, swans, and other waterbirds need places to rest and refuel on their journey and throughout the winter months.
   
-During the winter, almost 9 million ducks and geese can be found in the southeast. To accommodate those huge numbers, approximately 130 National Wildlife Refuges in the Southeast provide places to rest on 150,000 acres of public land managed for waterfowl. Providing these wintering grounds is one of the crucial ways that National Wildlife Refuges in the Southeast support the [North American Waterfowl Management Plan](https://nawmp.org/), an international conservation strategy to maintain abundant waterfowl populations across the entire continent.  
+During the winter, almost 9 million ducks and geese can be found in the southeast. To accommodate those huge numbers, approximately 130 national wildlife refuges in the U.S. Fish and Wildlife Service’s Southeast Region, along with 150,000 acres of public land managed for waterfowl, provide places to rest. Providing these wintering grounds is one of the crucial ways that refuges in the southeast support the [North American Waterfowl Management Plan](https://nawmp.org/), an international conservation strategy to maintain abundant waterfowl populations across the entire continent.
 
-Management of National Wildlife Refuges for waterfowl typically includes providing natural wetland foods and energy-rich crops like corn and milo. This combination ensures wintering grounds provide enough food to sustain large waterfowl populations. Additionally, many National Wildlife Refuges provide areas for waterfowl with limited disturbance from people. These sanctuary areas limit hunting and other public use to allow waterfowl to efficiently feed and bond with their mates.
+Management of refuges for waterfowl typically includes providing natural wetland foods and energy-rich crops like corn and milo. This combination ensures wintering grounds provide enough food to sustain large waterfowl populations. Additionally, many refuges provide areas for waterfowl with limited disturbance from people. These sanctuary areas limit hunting and other public use to allow waterfowl to feed and bond with their mates.
 
 ## The Waterfowl Working Group
 
-The quality and quantity of wetlands important to waterfowl and many other species of migratory birds is declining due to pressure from housing and other urban developments, changing agricultural practices, and other human uses. As a result, National Wildlife Refuges in the Southeast play an increasingly important role in sustaining waterfowl populations by protecting and managing millions of acres of wetlands that provide wintering, migration, and breeding habitat.
-
-To ensure the National Wildlife Refuge System in The Southeast Region can continue to support abundant waterfowl populations, we created the Waterfowl Working Group in 2015. This group is composed of National Wildlife Refuge System staff, Migratory Bird program staff, University faculty, and conservation partners.  The Waterfowl Working Group created a Strategic Action Plan for Waterfowl Management in the Southeast Region in June 2016 to help National Wildlife Refuges more efficiently and effectively implement waterfowl management activities and support the mission of the National Wildlife Refuge System and the North American Waterfowl Management Plan.
+The quality and quantity of wetlands important to waterfowl and many other species of migratory birds is declining due to pressure from housing and other urban developments, changing agricultural practices, and other human uses. As a result, refuges in the southeast play an increasingly important role in sustaining waterfowl populations by protecting and managing millions of acres of wetlands that provide wintering, migration, and breeding habitat.
+ 
+To ensure the National Wildlife Refuge System in the Southeast Region can continue to support abundant waterfowl populations, we created the Waterfowl Working Group in 2015. This group is composed of National Wildlife Refuge System staff, Migratory Bird program staff, university faculty, and conservation partners.  The Waterfowl Working Group created a Strategic Action Plan for Waterfowl Management in the Southeast Region in June 2016 to help refuges implement waterfowl management activities more effectively, and to support the mission of the National Wildlife Refuge System and the North American Waterfowl Management Plan.
 
 {{< figure class="photo-center" src="/images/pages/swans-at-mattamuskeet-nwr.jpg" alt="Two bright white swans flying in front of a blue sky" caption="Swans at Mattamuskeet National Wildlife Refuge. Photo by Keith Ramos, USFWS." >}}
 
