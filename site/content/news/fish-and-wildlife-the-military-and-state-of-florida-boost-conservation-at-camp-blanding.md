@@ -6,9 +6,8 @@ lng: -81.983207
 hero:
     name: striped-newt-juvenile.jpg
     alt: 'A light orange salamander with a bright orange stripe'
-    caption: 'Juvenile striped newt. Photo by FWC.'
-    link: 'https://flic.kr/p/sVVCKv'
-    position: 'center left'
+    caption: 'Juvenile striped newt. <a href="https://flic.kr/p/sVVCKv">Photo</a> by FWC.'
+    position: '5% 50%'
 tags:
     - 'At-Risk Species'
     - 'Candidate Conservation Agreement With Assurances'
@@ -18,7 +17,7 @@ tags:
     - Military
     - 'Striped Newt'
 date: '2017-04-06'
-updated: 'January 3rd, 2018'
+updated: 'December 18th, 2018'
 ---
 
 {{< figure class="photo-right" src="/images/pages/gopher-tortoise-heading-for-burrow.jpg" alt="A large tortoise heading into a small hole in the sandy soil." caption="Gopher tortoise heading for a burrow. Photo by FWC." link="https://flic.kr/p/bu2Krq" >}}
