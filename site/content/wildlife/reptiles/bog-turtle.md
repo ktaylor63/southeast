@@ -19,7 +19,7 @@ tags:
 aliases:
     - /wildlife/reptile/bog-turtle
     - /species/reptile/bog-turtle
-    - /species/reptile/bog-turtle
+    - /species/reptiles/bog-turtle
 hero:
     name: bog-turtle.jpg
     alt: 'A tiny turtle with orange patches on the side of its throat crawls through the grass'
