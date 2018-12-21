@@ -1,21 +1,21 @@
 ---
 draft: true
-title: 'Partners for Fish and Wildlife Program'
-nav: 'Partners for Fish and Wildlife Program'
-description: 'The Partners for Fish and Wildlife program works with private landowners to improve fish and wildlife habitat on their lands.  We are leaders in voluntary, community-based stewardship for fish and wildlife conservation.'
+title: "Partners for Fish and Wildlife Program"
+nav: "Partners for Fish and Wildlife Program"
+description: "The Partners for Fish and Wildlife program works with private landowners to improve fish and wildlife habitat on their lands.  We are leaders in voluntary, community-based stewardship for fish and wildlife conservation."
 facebook: SouthCarolinaFieldOffice
 twitter: USFWS_SC
 hero:
-    name: andy-brady-thousand-oaks-farm.jpg
-    alt: 'A man on his property standing next to a tree resting on the trunk'
-    caption: 'Andy Brady among his trees at Thousand Oaks Farm. Mr. Brady planted a variety of hardwood mast producing trees at Thousand Oaks Farm, former bottomland crop fields adjacent to the Congaree River and Congaree National Park. Additionally, Mr. Brady has his place under conservation easement with the Congaree Land Trust. Photo by John Cely, used with permission.'
+  name: andy-brady-thousand-oaks-farm.jpg
+  alt: "A man on his property standing next to a tree resting on the trunk"
+  caption: "Andy Brady among his trees at Thousand Oaks Farm. Mr. Brady planted a variety of hardwood mast producing trees at Thousand Oaks Farm, former bottomland crop fields adjacent to the Congaree River and Congaree National Park. Additionally, Mr. Brady has his place under conservation easement with the Congaree Land Trust. Photo by John Cely, used with permission."
 tags:
-    - 'Private Landowners'
-    - 'South Carolina'
-updated: 'December 11th, 2018'
+  - "Private Landowners"
+  - "South Carolina"
+updated: "December 11th, 2018"
 ---
 
-Then Partners for Fish and Wildlife Program works with voluntary habitat improvement projects on private lands for the benefit of federal trust species. Such species include such as migratory birds and migratory fish, endangered or threatened species, and at-risk species that have been proposed for listing under the Endangered Species Act (ESA), are candidates for listing under the ESA, species that have been petitioned for listing under the ESA , or are Species of Greatest Conservation Need (SGCN) as identified by the states. Biologists provide technical and financial assistance to landowners who want to restore and enhance habitats on their property.
+The Partners for Fish and Wildlife Program works with voluntary habitat improvement projects on private lands for the benefit of federal trust resources, such [endangered or threatened species](/charleston/endangered-species/) and [at-risk species](/charleston/at-risk-species) (ARS). Biologists provide technical and financial assistance to landowners who want to restore and enhance habitats on their property.
 
 ## How to participate
 
@@ -25,7 +25,7 @@ Then Partners for Fish and Wildlife Program works with voluntary habitat improve
 - Proposed cost estimates are discussed by the Service and landowner.
 - A proposal which describes the proposed activities is developed by the Service biologist and the landowner. Projects are then regionally ranked for potential funding.
 - After funding is approved, the landowner and the Service co-sign a Wildlife Extension Agreement.
-- Projects installation begins.
+- Landowner initiates project.
 - The Service reimburses the landowner after receipts and other documentation are submitted according to the Wildlife Extension Agreement, when the project is completed.
 
 ## Types of projects
