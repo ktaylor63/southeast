@@ -1,6 +1,6 @@
 ---
 title: 'Tiny South Georgia snail presumed extinct, will not receive federal protection'
-date: '2017-12-28'
+date: 2017-12-28
 tags:
     - 'At-Risk Species'
     - 'Beaverpond Marstonia'

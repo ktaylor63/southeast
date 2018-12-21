@@ -1,6 +1,6 @@
 ---
 title: 'Louisiana pinesnake proposed to be added as threatened under the Endangered Species Act'
-date: '2016-10-05'
+date: 2016-10-05
 hero:
     name: louisiana-pinesnake.jpg
     alt: 'A patterned black and gray snake blends in to the strewn, dark pine needles on the forest floor.'

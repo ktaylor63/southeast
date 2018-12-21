@@ -1,6 +1,6 @@
 ---
 title: 'Public Involvement Sought to Assist Water Management Efforts at Pocosin Lakes National Wildlife Refuge'
-date: '2017-06-29'
+date: 2017-06-29
 tags:
     - 'North Carolina'
     - 'Open House'

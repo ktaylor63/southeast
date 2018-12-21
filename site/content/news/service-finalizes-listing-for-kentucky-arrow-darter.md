@@ -1,7 +1,7 @@
 ---
 title: 'Service finalizes listing for Kentucky arrow darter'
 subtitle: 'Lists species as threatened and finalizes Critical Habitat'
-date: '2016-10-04'
+date: 2016-10-04
 tags:
     - Kentucky
     - 'Endangered Species Act'

@@ -1,6 +1,6 @@
 ---
 title: 'U.S. Fish and Wildlife Service to list four South Florida plants as threatened or endangered'
-date: '2017-10-05'
+date: 2017-10-05
 hero:
     name: pineland-sandmat.jpg
     alt: 'A succulent green leaved plant with hairy red stems.'
