@@ -5,13 +5,12 @@ date: '2015-06-30'
 hero:
     name: longleaf-pine-seedling.jpg
     alt: 'A Longleaf pine seedling.'
-    link: 'https://flic.kr/p/rHP5jR'
-    caption: 'Longleaf pine seedling. Photo by USDA.'
+    caption: 'Longleaf pine seedling. <a href="">Photo</a> by USDA.'
 tags:
     - Grants
     - 'Longleaf Pine'
     - Partnership
-updated: 'January 3rd, 2018'
+updated: 'December 20th, 2018'
 ---
 
 **Washington, D.C.** — The National Fish and Wildlife Foundation (NFWF) today announced $4.6 million in grants to support the longleaf ecosystem and advance the objectives of the Range-Wide Conservation Plan for Longleaf Pine. Funding was awarded to [22 projects](http://www.nfwf.org/longleaf/Documents/lsf_2015_project-list.pdf) across the historic longleaf range that ultimately will restore more than 11,600 acres and enhance more than 163,000 additional acres of longleaf pine habitat, while leveraging over $6.4 million in additional funds from grant partners.
