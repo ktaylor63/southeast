@@ -1,6 +1,6 @@
 ---
 title: 'Proposed listing of the Barrens topminnow'
-date: '2018-01-03'
+date: 2018-01-03
 hero:
     name: barrens-topminnow.jpg
     alt: 'A bright green irrodescent fish in a small blue net.'

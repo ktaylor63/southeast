@@ -1,11 +1,11 @@
 ---
 title: Vultures
+date: 2016-05-13
 description: 'The U.S. Fish and Wildlife Service is actively cooperating with wildlife agencies and livestock producers to find workable solutions for vulture predation on newborn and adult livestock.'
 hero:
     name: vultures.jpg
     alt: 'Five vultures on the bank of a lake.'
-    caption: 'Vultures. Photo by <a href=\''https://www.flickr.com/photos/44534236@N00/\'' target=\''_blank\''>Faungg</a> <a href=\''https://creativecommons.org/licenses/by-nd/2.0/\'' target=\''_blank\''>CC BY-ND 2.0</a>'
-    link: 'https://flic.kr/p/o1jyKs'
+    caption: 'Vultures. <a href="https://flic.kr/p/o1jyKs>Photo</a> by <a href="https://www.flickr.com/photos/44534236@N00/" target="_blank">Faungg</a> <a href="https://creativecommons.org/licenses/by-nd/2.0/" target="_blank">CC BY-ND 2.0</a>'
 tags:
     - 'Black Vultures'
 updated: 'March 3rd, 2017'

@@ -1,10 +1,11 @@
 ---
 title: 'Double-crested cormorants'
+date: 2016-06-29
 description: 'The double-crested cormorant is a goose-sized waterbird native to North America. It is one of six species of cormorants in North America and one of 38 species worldwide.'
 hero:
     name: double-crested-cormorant.jpg
     alt: 'A brow bird with curved orange beak spreads its wings while standing.'
-    caption: 'Double-crested cormorant. Photo by <a href=\"https://www.flickr.com/photos/nicolebeaulac/\" target=\"_blank\">Nicole Beaulac</a> <a href=\"https://creativecommons.org/licenses/by-nc-nd/2.0/\" target=\"_blank\">CC BY-NC-ND 2.0</a>.'
+    caption: 'Double-crested cormorant. Photo by <a href="https://www.flickr.com/photos/nicolebeaulac/" target="_blank">Nicole Beaulac</a> <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/" target="_blank">CC BY-NC-ND 2.0</a>.'
     position: top
 tags:
     - Arkansas

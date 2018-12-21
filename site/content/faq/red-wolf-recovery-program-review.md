@@ -1,6 +1,6 @@
 ---
 title: 'Red wolf recovery program review'
-updated: 'September 19th, 2018'
+date: 2018-09-19
 hero:
     name: red-wolf-father-and-pups.jpg
     alt: 'A male red wolf looks on as two pups play'
@@ -11,6 +11,7 @@ tags:
     - 'Endangered Species Act'
     - Recovery
     - 'Red Wolf'
+updated: 'September 19th, 2018'
 ---
 
 ## Why did the U.S. Fish and Wildlife Service (Service) conduct a review for the Red Wolf Recovery Program?
@@ -44,17 +45,16 @@ Based on the best and latest scientific information gathered over the past 15 mo
 
 The Service will implement a series of actions to secure the captive and wild red wolf populations including:
 
-  - First, the Service will move quickly to secure the captive population of red wolves, which we now know is not sustainable in its current configuration.
-  - Second, the Service will determine where potential new sites exist for additional experimental wild populations by October 2017. The Service will ensure these determinations will comply with all environmental rules and include public engagement.
-  - Third, the Service will propose to revise the existing experimental population rule to apply only to the Dare County Bombing Range and Alligator River National Wildlife Refuge, where stable packs exist on federal lands. This proposed action will change the scope of and goals for the experimental population and is expected to be completed by December 2017. These proposed changes will go through appropriate environmental review and public comment.
-  - Finally, by October 2017 the Service working with others will complete a comprehensive Species Status Assessment and five-year status review for the red wolf, building on the foundation of work accomplished over the past two years and past history. This will guide the Service’s recovery planning in the future.
+- First, the Service will move quickly to secure the captive population of red wolves, which we now know is not sustainable in its current configuration.
+- Second, the Service will determine where potential new sites exist for additional experimental wild populations by October 2017. The Service will ensure these determinations will comply with all environmental rules and include public engagement.
+- Third, the Service will propose to revise the existing experimental population rule to apply only to the Dare County Bombing Range and Alligator River National Wildlife Refuge, where stable packs exist on federal lands. This proposed action will change the scope of and goals for the experimental population and is expected to be completed by December 2017. These proposed changes will go through appropriate environmental review and public comment.
+- Finally, by October 2017 the Service working with others will complete a comprehensive Species Status Assessment and five-year status review for the red wolf, building on the foundation of work accomplished over the past two years and past history. This will guide the Service’s recovery planning in the future.
 
 ## What does the decision mean for the captive red wolf population?
 
 As part of the Service’s review of the Red Wolf Recovery Program, a population viability analysis was conducted to project the long-term demographic and genetic future of the captive red wolf population, which has been managed in zoos and partner facilities across the United States since 1969. This analysis shows that the captive population will likely be lost in the near future without careful management. While the captive population has been maintained at a relatively large population size of more than 150 animals for over 20 years, it needs to increase breeding and its population size to ensure the long-term viability and its ability to serve as a strong source for animals to release to the wild. 
 
-A robust captive population is needed to secure the species’ survival and support the establishment of new reintroduction projects in the future. It is clear that more animals are needed in captivity to support any wild populatio including the current non-essential, experimental population in North Carolina. The captive population has the potential to be demographically strong, but additional space and improved breeding rates are needed to improve its outcomes in support of the entire red wolf recovery program. To secure the captive population, the numbers and type of red wolves managed by SSP partner institutions will need to be increased to a minimum of 400 animals with 52 breeding pairs. Currently, there are slightly more than 200 red wolves with 29 breeding pairs in captivity. To manage declining gene diversity that is likely under the status quo, the Service will now manage all red
-wolves—those in captivity and those in the wild—a single metapopulation with occasional movement of animals between SSP partner institutions and the non-essential, experimental population in northeastern North Carolina.
+A robust captive population is needed to secure the species’ survival and support the establishment of new reintroduction projects in the future. It is clear that more animals are needed in captivity to support any wild populatio including the current non-essential, experimental population in North Carolina. The captive population has the potential to be demographically strong, but additional space and improved breeding rates are needed to improve its outcomes in support of the entire red wolf recovery program. To secure the captive population, the numbers and type of red wolves managed by SSP partner institutions will need to be increased to a minimum of 400 animals with 52 breeding pairs. Currently, there are slightly more than 200 red wolves with 29 breeding pairs in captivity. To manage declining gene diversity that is likely under the status quo, the Service will now manage all red wolves — those in captivity and those in the wild—a single metapopulation with occasional movement of animals between SSP partner institutions and the non-essential, experimental population in northeastern North Carolina.
 
 ## Why has the Service decided not to terminate the non-essential, experimental population in northeastern North Carolina?
 

@@ -1,6 +1,6 @@
 ---
-date: 2018-10-05T00:00:00.000Z
 title: 'Proposed listing of the black-capped petrel as threatened'
+date: 2018-10-05T00:00:00.000Z
 hero:
     name: black-capped-petrel.jpg
     alt: 'A small, black and white bird flies over ocean waters.'

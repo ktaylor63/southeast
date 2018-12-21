@@ -1,5 +1,6 @@
 ---
 title: 'Red wolf recovery program evaluation'
+date: 2018-09-19
 hero:
     name: red-wolf-with-collar.jpg
     alt: 'A small reddish-brown wolf with a large collar around its neck'

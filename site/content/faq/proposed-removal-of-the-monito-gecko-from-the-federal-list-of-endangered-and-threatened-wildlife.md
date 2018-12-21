@@ -1,6 +1,6 @@
 ---
-title: 'Proposed Removal of the Monito Gecko from the Federal List of Endangered and Threatened Wildlife'
-date: '2018-01-09'
+title: 'Proposed removal of the Monito gecko from the federal list of endangered and threatened wildlife'
+date: 2018-01-09
 hero:
     name: monito-island.jpg
     alt: 'A large limestone island emerges from the sea covered in green vegetation.'

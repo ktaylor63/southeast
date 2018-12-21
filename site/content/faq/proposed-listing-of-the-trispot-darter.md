@@ -1,5 +1,6 @@
 ---
 title: 'Frequently asked questions for the proposed listing of the trispot darter'
+date: 2017-10-03
 hero:
     name: trispot-darter.jpg
     alt: 'A small fish with bright blue fins and orange coloring on its back.'

@@ -1,5 +1,6 @@
 ---
-title: 'Florida Black Bear 90-day Not Substantial Finding'
+title: 'Florida black bear 90-day not substantial finding'
+date: 2017-04-18
 hero:
     name: florida-black-bear-in-woods.jpg
     alt: 'A black bear in an open pine habitat.'

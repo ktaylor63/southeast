@@ -1,5 +1,6 @@
 ---
 title: 'Proposed listing of the Louisiana pinesnake under the Endangered Species Act, and the proposed 4(d) exemption rule'
+date: 2016-10-05
 hero:
     name: louisiana-pinesnake.jpg
     alt: 'A patterned black and gray snake blends in to the strewn, dark pine needles on the forest floor.'

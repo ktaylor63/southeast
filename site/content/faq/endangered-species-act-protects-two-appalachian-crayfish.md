@@ -1,6 +1,6 @@
 ---
 title: Endangered Species Act protects two Appalachian crayfish
-date: '2016-04-06'
+date: 2016-04-06
 tags:
     - Crayfish
     - 'Big Sandy Crayfish'

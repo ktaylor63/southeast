@@ -1,5 +1,6 @@
 ---
 title: 'Frequently asked questions about red wolf recovery under the Endangered Species Act May 2017'
+date: 2017-05-19
 hero:
     name: red-wolf-pup.jpg
     alt: 'A small red wolf puppy held by a biologist.'

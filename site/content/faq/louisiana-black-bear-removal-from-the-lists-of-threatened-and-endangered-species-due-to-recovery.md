@@ -1,6 +1,6 @@
 ---
 title: 'Louisiana black bear removed from the list of threatened and endangered species due to recovery'
-date: '2016-03-10'
+date: 2016-03-10
 hero:
     name: louisiana-black-bear-in-tree-with-cub.jpg
     alt: 'A large black bear with a small cub nestled in the upper branches of a hardwood tree.'

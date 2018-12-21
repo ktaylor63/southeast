@@ -1,6 +1,6 @@
 ---
 title: 'Final listing, critical habitat designation and draft economic analysis for the Black Warrior waterdog'
-date: '2018-01-02'
+date: 2018-01-02
 hero:
     name: black-warrior-waterdog.jpg
     alt: 'A light purple salamander with dark spots and tufts above its front legs.'
@@ -95,13 +95,13 @@ The Service is designating critical habitat in four units, all within the histor
 TABLE 1. Occupancy of Black Warrior waterdog by critical habitat units and existing overlapping critical habitat designation for Federally listed species.
 
 
-| Unit |   Location      | Occupied | Private Ownership rkm/rmi | Federal Ownership rkm/rmi | Existing CH rkm/rmi | Total Length rkm/rmi |
-|------|-----------------|----------|---------------------------|---------------------------|---------------------|----------------------|
-|  1   | Yellow Creek    |  Yes     |         30/19             |                           |                     |         30/19        |
-|  2   | Locust Fork     |  Yes     |        391/243            |                           |        101/63       |         391/243      |
-|  3   | Blackwater Creek|  Yes     |         128/80            |                           |                     |         128/80       |
-|  4   | Sipsey Fork     |  Yes     |          11/7             |          113/71           |        103/64       |         124/78       |
-|      |   **TOTALS**    |          |        560/349            |          113/71           |        204/127      |         673/420      |
+| Unit | Location         | Occupied | Private Ownership rkm/rmi | Federal Ownership rkm/rmi | Existing CH rkm/rmi | Total Length rkm/rmi |
+| ---- | ---------------- | -------- | ------------------------- | ------------------------- | ------------------- | -------------------- |
+| 1    | Yellow Creek     | Yes      | 30/19                     |                           |                     | 30/19                |
+| 2    | Locust Fork      | Yes      | 391/243                   |                           | 101/63              | 391/243              |
+| 3    | Blackwater Creek | Yes      | 128/80                    |                           |                     | 128/80               |
+| 4    | Sipsey Fork      | Yes      | 11/7                      | 113/71                    | 103/64              | 124/78               |
+|      | **TOTALS**       |          | 560/349                   | 113/71                    | 204/127             | 673/420              |
 
 {{< figure class="photo-center" src="/images/pages/black-warrior-waterdog-critical-habitat-map.jpg" alt="A map highlighting critical habitat stretches in north central Alabama." caption="Critical habitat for the Black Warrior waterdog. Map by USFWS.">}}
 

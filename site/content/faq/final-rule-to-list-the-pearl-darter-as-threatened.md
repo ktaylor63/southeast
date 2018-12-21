@@ -1,6 +1,6 @@
 ---
 title: 'Final Rule to List the Pearl darter as Threatened'
-date: '2017-09-19'
+date: 2017-09-19
 hero:
     name: pearl-darter.jpg
     alt: 'A small, long fish with dark spots and a long dorsal fin in an aquarium.'

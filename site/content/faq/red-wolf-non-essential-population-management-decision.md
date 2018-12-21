@@ -1,6 +1,6 @@
 ---
 title: 'Red wolf non-essential population management decision'
-date: '2015-07-01'
+date: 2015-07-01
 hero:
     name: red-wolf-inquisitive.jpg
     alt: 'An inquisitive red wolf looks into the distance.'

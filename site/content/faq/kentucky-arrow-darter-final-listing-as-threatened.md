@@ -1,6 +1,7 @@
 ---
-title: 'Final Listing - Threatened Species Status for the Kentucky Arrow Darter and Designation of Critical Habitat'
+title: 'Final listing - threatened status for the Kentucky arrow darter and designation of critical habitat'
 description: 'Frequently asked questions about the final listing of the Kentucky arrow darter as a threatened species under the Endangered Species Act.'
+date: 2016-10-04
 tags:
     - Fish
     - Kentucky
@@ -91,19 +92,19 @@ A table outlining the 38 critical habitat units is provided below. A map also fo
 
 TABLE 1. Location, Ownership, and Lengths for Kentucky Arrow Darter Critical Habitat Units Ownership – skm (smi)
 
-Unit    | Stream                         | County           |  Private | Federal | State      | Total Length skm (smi)
---------|--------------------------------|------------------|----------|---------|------------|------------------------
- 1      | Buckhorn Creek and Prince Fork | Knott            | 1.1 (0.7)| 0       | 0          | 1.1 (0.7)
- 2      | Eli Fork                       | Knott            | 1.0 (0.6)| 0       | 0          | 1.0 (0.6)
- 3      | Coles Fork and Snag Ridge Fork | Breathitt, Knott | 0        | 0       | 11.0 (6.8) | 11.0 (6.8)
- 4      | Clemons Fork                   | Breathitt        | 0.1 (0.1)| 0       | 6.9 (4.3)  | 7.0 (4.4)
- 5      |                                |                  |          |         |            |
- 6      |                                |                  |          |         |            |
- 7      |                                |                  |          |         |            |
- 8      |                                |                  |          |         |            |
- 9      |                                |                  |          |         |            |
- 10     |                                |                  |          |         |            |
- 11     |                                |                  |          |         |            |
+| Unit | Stream                         | County           | Private   | Federal | State      | Total Length skm (smi) |
+| ---- | ------------------------------ | ---------------- | --------- | ------- | ---------- | ---------------------- |
+| 1    | Buckhorn Creek and Prince Fork | Knott            | 1.1 (0.7) | 0       | 0          | 1.1 (0.7)              |
+| 2    | Eli Fork                       | Knott            | 1.0 (0.6) | 0       | 0          | 1.0 (0.6)              |
+| 3    | Coles Fork and Snag Ridge Fork | Breathitt, Knott | 0         | 0       | 11.0 (6.8) | 11.0 (6.8)             |
+| 4    | Clemons Fork                   | Breathitt        | 0.1 (0.1) | 0       | 6.9 (4.3)  | 7.0 (4.4)              |
+| 5    |                                |                  |           |         |            |
+| 6    |                                |                  |           |         |            |
+| 7    |                                |                  |           |         |            |
+| 8    |                                |                  |           |         |            |
+| 9    |                                |                  |           |         |            |
+| 10   |                                |                  |           |         |            |
+| 11   |                                |                  |           |         |            |
 
 Laurel Fork Quicksand Creek and
 Tributaries

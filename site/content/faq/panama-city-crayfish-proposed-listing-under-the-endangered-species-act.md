@@ -1,6 +1,6 @@
 ---
 title: 'Panama City Crayfish Proposed Listing Under the Endangered Species Act'
-date: '2018-01-03'
+date: 2018-01-03
 hero:
     name: panama-city-crayfish.jpg
     alt: 'A hand holding a small lobster shaped crayfish.'

@@ -1,5 +1,6 @@
 ---
 title: 'Endangered Species Act listing of four South Florida plants'
+date: 2017-10-05
 hero:
     name: pineland-sandmat.jpg
     alt: 'A succulent green leaved plant with hairy red stems.'
