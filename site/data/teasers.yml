@@ -1,4 +1,41 @@
 stories:
+  - title: "Tennessee adopts emergency action plan to address chronic wasting disease"
+    summary: "Tennessee wildlife officials are implementing a six-step emergency action plan, including an additional hunting season in part of the state, after chronic wasting disease was found this month. The findings were a worst-case scenario for officials who have worked for several years to keep the fatal disease from reaching Tennessee. They have called it the biggest threat to the nation's deer population."
+    date: 2018-12-20
+    url: "https://www.timesfreepress.com/news/local/story/2018/dec/20/twra-adopts-emergency-action-plan-address-chronic-wasting-disease-tennessee/485288/"
+  - title: "SCDNR: Tennessee is added to the list of states with carcass import restrictions for South Carolina hunters"
+    summary: "South Carolinians planning out-of-state trips to hunt big game this winter should be aware of restrictions on importing deer and elk parts into the Palmetto State."
+    hero:
+      name: cwd-states-dec-2018.jpg
+      alt: "A map showing states with confirmed cases of chronic wasting disease in red, mostly in the middle of the country and in the Northeast"
+      caption: "U.S. states where CWD has been confirmed are shown above in red. Map by SCDNR."
+    date: 2018-12-20
+    url: "http://www.dnr.sc.gov/news/2018/dec/dec20_chonicwastingdisease.html"
+  - title: "Biologist's award honors legacy in longleaf"
+    summary: "Nathan Klaus takes it all in as he maneuvers his truck past deep ruts while peering out the window and talking between clunks that wrench at the steering wheel. The senior Georgia Department of Natural Resources biologist points out stands of longleaf pines that wash dark green down slopes colored tan and sage with little bluestem and other grasses."
+    hero:
+      name: nathan-klaus-longleaf.jpg
+      alt: "A man standing on a mountain with a forested valley in the distance."
+      caption: "Nathan Klaus at Heath Bluff on Sprewell Bluff WMA. Photo by Rick Lavender, GADNR."
+    date: 2018-12-19
+    url: "https://georgiawildlife.com/biologists-award-honors-legacy-longleaf"
+  - title: "Chronic wasting disease detected in Tennessee; Kentucky restricts carcass transport"
+    summary: "Tennessee hunters face interstate transport restrictions after chronic wasting disease was detected in 10 white-tail deer in Hardeman and Fayette counties. Chronic wasting disease (CWD) is a contagious and a fatal neurological disorder that affects members of the deer family known scientifically as cervids."
+    hero:
+      name: chronic-wasting-disease.jpg
+      alt: "A scruffy looking white-tailed deer that appears to be ill and underweight."
+      caption: "A white-tailed deer with Chronic Wasting Disease (CWD). Photo by Wyoming Game and Fish Dept."
+      position: "75% 55%"
+    date: 2018-12-19
+    url: "https://www.knoxnews.com/story/news/2018/12/17/chronic-wasting-disease-detected-tennessee/2334629002/"
+  - title: "Updated statewide abundance estimate for the Florida manatee"
+    summary: ""
+    hero:
+      name: manatees-crystal-river.jpg
+      alt: "Four manatees and a school of fish assemble under crystal clear water."
+      caption: 'Manatees at <a href="https://www.fws.gov/refuge/crystal_river">Crystal River National Wildlife Refuge</a> in Florida. Photo by David Hinkel.'
+    date: 2018-12-18
+    url: "https://f50006a.eos-intl.net/ELIBSQL12_F50006A_Documents/FWC-FWRI-TR23-Hostetler.pdf"
   - title: "Artistic photos expose wildlife trafficking at Canadian border"
     summary: "While many people associate wildlife trafficking with Africa and China, Canada and the United States are also big consumers—and suppliers. Nearly 50,000 illegal shipments of wildlife and wildlife products were seized coming in and leaving at U.S. ports of entry between 2005 and 2014, according to the conservation organization Defenders of Wildlife. And the U.S. Fish and Wildlife Service pursues more than 10,000 investigations into wildlife crime annually, according to the San Diego Union-Tribune. "
     date: 2018-12-13
