@@ -7,13 +7,14 @@ hero:
     link: 'https://flic.kr/p/bNSg5P'
     caption: 'Puerto Rican boa. Photo by Jan Paul Zegarra.'
 tags:
-    - 'Puerto Rico'
-    - 'US Virgin Islands'
+    - 'Caribbean Ecological Services Field Office'
+    - 'Endangered Species Act'
     - 'Five Year Review'
-    - Caribbean Ecological Services Field Office
-    - Endangered Species Act
+    - 'Higo Chumbo'
+    - 'Puerto Rico'
     - Recovery
-updated: 'November 9th, 2016'
+    - 'US Virgin Islands'
+updated: 'December 19th, 2018'
 ---
 The U.S. Fish and Wildlife Service will conduct five-year status reviews of 12 endangered and two threatened species occurring in the Commonwealth of Puerto Rico or the U.S. Virgin Islands.  The public is invited to provide information and comments concerning these species on or before October 18, 2016.
 
@@ -21,7 +22,7 @@ These five-year reviews will ensure listing classifications under the Endangered
 
 This notice announces a review of two birds, two boas, and eight plants currently listed as endangered:  Yellow-shouldered blackbird, Puerto Rican plain pigeon, Puerto Rican boa, Virgin Islands boa, and the plants _Auerodendron pauciflorum_, _Catesbaea melanocarpa_, _Elaphoglossum serpens_, _Mitracarpus maxwelliae_, _M. polycladus_, _Polystichum calderonense_, _Tectaria estremerana_, and bariaco (_Trichilia triacantha_).
 
-This notice also announces the Service’s review of two species currently listed as threatened: Guajón, a frog, and Higo chumbo, a cactus.  
+This notice also announces the Service’s review of two species currently listed as threatened: guajón, a frog, and higo chumbo, a cactus.  
 
 Specifically, this review seeks information on: species biology, including population trends, distribution, abundance, demographics, and genetics; habitat conditions, including amount, distribution, and suitability; conservation measures that have been implemented; threat status and trends; and other new information, data, or corrections, including taxonomic or nomenclatural changes; identification of erroneous information contained in the ESA list; and improved analytical methods.
 
