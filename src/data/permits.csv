@@ -710,10 +710,10 @@ number,status,fed_register
 18986C-1,Issued,N/A
 15179D-0,Awaiting signature,N/A
 15182D-0,Issued,N/A
-15183D-0,Awaiting signature,N/A
+15183D-0,Issued,N/A
 146761-3,In FO for Review,Noticed for 30 days
 16233D-0,Awaiting Input from Applicant,N/A
-16300D-0,Awaiting Input from Applicant,N/A
+16300D-0,Issued,N/A
 16308D-0,Issued,N/A
 94849B-0,Awaiting Input from Applicant,N/A
 48049B-2,In RO for Review,needs to be drafted
@@ -721,6 +721,7 @@ number,status,fed_register
 171516-5,In FO for Review,N/A
 16876D-0,In RO for Review,needs to be drafted
 55292B-2,In RO for Review,N/A
-17641D-0,Awaiting signature,N/A
+17641D-0,Issued,N/A
 083085-3,Awaiting Input from Applicant,needs to be drafted
 20276D-0,In RO for Review,needs to be drafted
+21276D-0,In RO for Review,needs to be drafted
