@@ -7,7 +7,7 @@ js: /js/species-profile.js
 aliases:
   - /wildlife/crustacean/big-sandy-crayfish
   - /species/crustacean/big-sandy-crayfish
-  - /species/crustacean/big-sandy-crayfish
+  - /species/crustaceans/big-sandy-crayfish
 tags:
   - "Big Sandy Crayfish"
   - Crustacean

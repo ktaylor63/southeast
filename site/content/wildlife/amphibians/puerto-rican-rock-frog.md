@@ -5,12 +5,12 @@ type: species-profile
 js: /js/species-profile.js
 aliases:
     - /wildlife/amphibian/puerto-rican-rock-frog
-    - /species/amphibians/puerto-rican-rock-frog
-    - /species/amphibian/puerto-rican-rock-frog
     - /wildlife/amphibians/coqui-guajon
     - /wildlife/amphibian/coqui-guajon
     - /species/amphibian/coqui-guajon
     - /species/amphibians/coqui-guajon
+    - /species/amphibian/puerto-rican-rock-frog
+    - /species/amphibians/puerto-rican-rock-frog
 tags:
     - Amphibian
     - 'Caribbean Ecological Services Field Office'

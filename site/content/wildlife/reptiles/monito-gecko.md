@@ -13,7 +13,7 @@ tags:
 aliases:
     - /wildlife/reptile/monito-gecko
     - /species/reptile/monito-gecko
-    - /species/reptile/monito-gecko
+    - /species/reptiles/monito-gecko
 hero:
     name: monito-gecko.jpg
     alt: 'A small, sand-colored reptile between the cracks of a rock'

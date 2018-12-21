@@ -22,10 +22,10 @@ tags:
 type: species-profile
 js: /js/species-profile.js
 aliases:
-    - /wildlife/fish/mountain-sweet-pitcher-plant
-    - /species/fish/mountain-sweet-pitcher-plant
-    - /species/fishes/mountain-sweet-pitcher-plant
-updated: 'October 5th, 2018'
+    - /wildlife/plant/mountain-sweet-pitcher-plant
+    - /species/plant/mountain-sweet-pitcher-plant
+    - /species/plants/mountain-sweet-pitcher-plant
+updated: 'December 19th, 2018'
 ---
 
 - **Taxon:** Plant

@@ -5,9 +5,9 @@ scientific: 'Palaemonias ganteri'
 type: species-profile
 js: /js/species-profile.js
 aliases:
-    - /wildlife/amphibian/kentucky-cave-shrimp
-    - /species/amphibian/kentucky-cave-shrimp
-    - /species/amphibians/kentucky-cave-shrimp
+    - /wildlife/crustacean/kentucky-cave-shrimp
+    - /species/crustacean/kentucky-cave-shrimp
+    - /species/crustaceans/kentucky-cave-shrimp
 tags:
     - Crustacean
     - 'Endangered Species Act'

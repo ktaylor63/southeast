@@ -11,9 +11,9 @@ hero:
     caption: 'Clump of green pitcher plants. <a href="https://flic.kr/p/26DB4Zm">Photo</a> by Gary Peeples, USFWS.'
     position: '50% 70%'
 aliases:
-    - /wildlife/fish/green-pitcher-plant
-    - /species/fish/green-pitcher-plant
-    - /species/fishes/green-pitcher-plant
+    - /wildlife/plant/green-pitcher-plant
+    - /species/plant/green-pitcher-plant
+    - /species/plants/green-pitcher-plant
 tags:
     - Alabama
     - 'Carnivorous Plant'
@@ -22,7 +22,7 @@ tags:
     - 'North Carolina'
     - Plant
     - Recovery
-updated: 'October 5th, 2018'
+updated: 'December 19th, 2018'
 ---
 
 - **Taxon:** [Plant](/wildlife/plants)

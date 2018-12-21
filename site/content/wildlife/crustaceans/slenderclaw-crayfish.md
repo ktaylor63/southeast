@@ -12,7 +12,7 @@ hero:
 aliases:
     - /wildlife/crustacean/slenderclaw-crayfish
     - /species/crustacean/slenderclaw-crayfish
-    - /species/crustacean/slenderclaw-crayfish
+    - /species/crustaceans/slenderclaw-crayfish
 tags:
     - Alabama
     - 'Alabama Ecological Services Field Office'

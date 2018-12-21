@@ -11,12 +11,11 @@ hero:
 type: species-profile
 js: /js/species-profile.js
 aliases:
-    - /wildlife/fish/swamp-pink
-    - /species/fish/swamp-pink
-    - /species/fishes/swamp-pink
+    - /wildlife/plant/swamp-pink
+    - /species/plant/swamp-pink
+    - /species/plants/swamp-pink
 tags:
     - 'Asheville Ecological Services Field Office'
-    - 'South Carolina Ecological Services Field Office'
     - Delaware
     - 'Endangered Species Act'
     - Georgia
@@ -25,9 +24,10 @@ tags:
     - 'North Carolina'
     - Plant
     - 'South Carolina'
+    - 'South Carolina Ecological Services Field Office'
     - 'Swamp Pink'
     - Virginia
-updated: 'October 5th, 2018'
+updated: 'December 19th, 2018'
 ---
 
 - **Taxon:** Plant
