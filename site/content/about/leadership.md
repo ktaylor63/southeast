@@ -12,16 +12,30 @@ hero:
   link: "https://flic.kr/p/EgwW37"
   caption: "Acting Regional Director Mike Oetker speaking at a ceremony in Cherokee, North Carolina where partners signed a Candidate Conservation Agreement for the sicklefin redhorse. Photo by Gary Peeples, USFWS."
   position: "top right"
-updated: "November 9th, 2018"
+updated: "December , 2018"
 ---
 
 Nationally, the U.S. Fish and Wildlife Service is led by a Director, a team of Assistant Directors and eight Regional Directors. (See our [headquarters organizational chart.](http://www.fws.gov/offices/orgcht.html))
 
 The conservation actions of the Southeast Region are guided by the Southeast Regional Director, Deputy Regional Director, and a team of Assistant Regional Directors and Chiefs who guide regional operations.
 
+## Leopoldo "Leo" Miranda
+
+### Regional Director
+
+{{< figure class="photo-right" src="/images/pages/leo-miranda-bio.jpg" alt="Portrait shot of a man in the woods with a cammo backpack and orange hunting sweatshirt." >}}
+
+For the last seven years, Leo served as the Assistant Regional Director for Ecological Services in the Southeast where he led the successful implementation of an At-Risk wildlife strategy that focuses on using tools available under the Endangered Species Act to prevent the need to list species. He and his team also prioritized the need to accelerate recovery conservation with private landowners, state and local governments, the business community and our military partners across the Region, saving money and time, and benefiting conservation.
+
+Before joining the Southeast Region, Leo led the Service’s team in Annapolis at our Chesapeake Bay Field Office where he oversaw the work of ecological services and closely coordinated their work with six national wildlife refuges and one fisheries office.  He began his career with the Service as a private lands biologist in Puerto Rico where he first began matching conservation results with local business owners working with the island’s shade-grown coffee owners. That early work influenced his interest and emphasis in working with the business community, private landowners and other conservation agencies on large-scale conservation efforts like longleaf pine restoration efforts occurring across the Southeast Region.
+
+Leo is an avid hunter and angler who loves the outdoors and outdoor recreation. When he is not working, spending time with his family, or sitting in a tree stand, he is managing habitat for at-risk and listed wildlife including gopher tortoises and red-cockaded woodpeckers on his farm near Columbus, Georgia.
+
+He received his Bachelor’s Degree in Marine Biology from the University of Puerto Rico and a Master’s Degree in Zoology from North Carolina State University. He lives in the Atlanta metro area with his wife Jessica; his son, Pablo; and four four-legged family members Venus, Bromelia, Tanna and Rex.
+
 ## Mike Oetker
 
-### Deputy Regional Director, Acting Regional Director
+### Deputy Regional Director
 
 {{< figure class="photo-right" src="/images/pages/michael-oetker-bio.jpg" alt="Portrait shot of a man with a goatee wearing a suit and tie" >}}
 
@@ -64,6 +78,10 @@ Since January 2011, David served as the Regional Chief of the NWRS in the Southe
 David’s areas of greatest professional interest include compatibility and appropriate use policy, connecting wildlife habitats through landscape linkages, and connecting people with nature. David’s greatest passion, though, is helping others grow. He has served over the years as the regional youth coordinator; member of the Diversity Committee; he founded the regional Leadership Development Council; helped establish the “E-4 Mentoring” program; teaches at the National Conservation Training Center (Refuge Academy; Advanced Refuge Academy; and the NWRS Improvement Act course he helped design); speaks frequently on the power of diversity; and has helped coach the Advanced Leadership Development Program.
 
 David’s favorite quote is by Thomas Jefferson: “In matters of style, swim with the current. In matters of principle, stand like a rock.” David has been a volunteer youth sports coach for more than 40 teams, ages 4 to 18, in basketball, baseball, softball, track &amp; field, and soccer. His favorite times are spent with his wife of 23 years and their three children, doing faith-based volunteering, fishing, canoeing, hiking, camping, hunting, and other outdoor-activities.
+
+## Jack Arnold
+
+### Acting Assistant Regional Director, Ecological Services
 
 ## Jackie Parrish
 
@@ -112,16 +130,6 @@ Kevin earned a B.A. in Neuroscience from Hamilton College, and a Masters and Ph.
 Laurel Barnhill serves as the Chief of the Migratory Bird Program for the U.S. Fish and Wildlife Service-Southeast Region. She joined the Service in 2011 as Southeast Region National Wildlife Refuge System Inventory and Monitoring Coordinator. Laurel’s prior positions were as the Bird Conservation Coordinator for South Carolina Department of Natural Resources, Wildlife Biologist for the USDA Forest Service – Savannah River, and Passerine Bird Coordinator for Arkansas Game and Fish Commission.
 
 Laurel earned a M.S. in Zoology from the University of Arkansas and a B.S. in Wildlife and Fisheries Biology from the University of Vermont.
-
-## Leopoldo "Leo" Miranda
-
-### Assistant Regional Director, Ecological Services
-
-{{< figure class="photo-right" src="/images/pages/leo-miranda-bio.jpg" alt="Portrait shot of a man in the woods with a cammo backpack and orange hunting sweatshirt." >}}
-
-Leopoldo (Leo) Miranda is the Assistant Regional Director of Ecological Services for the U.S. Fish and Wildlife Service-Southeast Region. Prior to his current position, he has worked as a marine biologist in Puerto Rico, a private lands program coordinator in Washington D.C., and Supervisor of the Chesapeake Bay Office in Annapolis, Maryland. Leo has received multiple recognitions including a Service to America Medal Finalist for his innovative approaches to developing conservation partnerships. He is an avid hunter and fisherman, loving the outdoors and habitat management.
-
-Leo received his Bachelor’s Degree in Marine Biology from the University of Puerto Rico and a Master’s Degree in Zoology from North Carolina State University. He lives in Georgia with his wife Jessica, his son Pablo and four 4-legged family members, named Venus, Bromelia, Tanna and Rex.
 
 ## Luis Santiago
 
