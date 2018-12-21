@@ -1,5 +1,5 @@
 ---
-title: 'Spring pygmy sunfish Critical Habitat proposal'
+title: 'Spring pygmy sunfish critical habitat proposal'
 date: 2018-11-02T00:00:00.000Z
 hero:
     name: spring-pygmy-sunfish-matt-laschet.jpg
