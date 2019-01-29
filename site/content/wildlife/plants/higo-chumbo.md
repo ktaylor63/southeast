@@ -6,7 +6,7 @@ description: 'Higo chumbo is a columnar cactus currently found at three small of
 hero:
     name: higo-chumbo-flowering.jpg
     alt: 'A bright white flower emerges from a prickly cactus.'
-    caption: 'Flowering higo chumbo (_Harrisia portoricensis_). Photo by Omar Monsegur, USFWS.'
+    caption: 'Flowering higo chumbo (<em>Harrisia portoricensis</em>). Photo by Omar Monsegur, USFWS.'
     position: '20% 50%'
 type: species-profile
 js: /js/species-profile.js
@@ -24,7 +24,7 @@ tags:
     - Plant
     - 'Puerto Rico'
     - Recovery
-updated: 'December 20th, 2018'
+updated: 'January 28th, 2019'
 ---
 
 - **Taxon:** [Plant](/wildlife/plants)
@@ -40,7 +40,7 @@ Higo chumbo is a columnar cactus currently found at three small offshore islands
 
 ## Appearance
 
-{{< figure class="photo-right" src="/images/pages/hugo-chumbo-adult.jpg" alt="A spiky cactus with seven branches, green and yellow fruits" caption="Adult of Higo chumbo. Photo by Omar Monsegur USFWS." >}}
+{{< figure class="photo-right" src="/images/pages/hugo-chumbo-adult.jpg" alt="A spiky cactus with seven branches, green and yellow fruits" caption="Mature higo chumbo. Photo by Omar Monsegur USFWS." >}}
 
 Higo chumbo is a slender, upright, columnar cactus, which may grow more than 2 meters in height and usually is extensively branched.  The stem has 8 to 11 longitudinal ribs separated by shallow grooves.  The stem and branch have 2 to 7 cm long spines in groups about 1 to 2 cm apart.  Reproductive plants produce large (17 to 22 cm long) greenish-white hermaphroditic funnel-shape flowers, which open at night.  Mature fruits are yellow, spineless berries with numerous small black seeds enclosed in a white pulp.
 
@@ -88,7 +88,7 @@ PRDNER has been conducting a Wildlife Restoration Program supported by the Servi
 
 {{< figure class="photo-right" src="/images/pages/dr-julissa-rojas-sandoval-and-volunteers-at-mona-island.jpg" alt="Volunteers walk up a concrete path on an island" caption="Dr. Julissa Rojas-Sandoval and volunteers at Mona Island. Photo by Julissa Rojas-Sandoval." >}}
 
-The University of Puerto Rico at Río Piedras has provided essential information for the recovery of the species by evaluating the role of different biotic and abiotic factors in the population dynamics on Mona Island. University experts have conducted research on the species reproductive biology (e.g. pollinators and seed viability).
+The University of Puerto Rico (UPR) at Río Piedras, has provided essential information for the recovery of the cactus species *Harrisia portoricensis* (higo chumbo) by evaluating the role of different biotic and abiotic factors in the population dynamics of the natural population on Mona Island. In addition, UPR experts have conducted research on the distribution and abundance of this species, its reproductive biology (e.g. pollinators and seed viability) and the effects of alien grasses on its demographic patterns.
 
 ### Island Conservation
 
