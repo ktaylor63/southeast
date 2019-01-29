@@ -36,15 +36,15 @@ a {
   }
 }
 
-a[href$='.pdf'] {
+a[href$=".pdf"] {
   &:after {
-    content: url('/images/pdf.png');
+    content: url("https://www.fws.gov/southeast/images/pdf.png");
     margin-left: 5px;
   }
 }
 
-a.button[href$='.pdf'] {
+a.button[href$=".pdf"] {
   &:after {
-    content: '';
+    content: "";
   }
 }
