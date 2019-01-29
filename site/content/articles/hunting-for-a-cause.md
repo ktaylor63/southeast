@@ -1,20 +1,20 @@
 ---
-title: "Hunting for a cause"
-description: "For many Americans hunting is a vehicle for connecting with nature and the great outdoors. Just look at the numbers: a five-year report found that 101.6 million Americans participated in hunting, fishing and wildlife activities in 2016."
-author: "Katherine Taylor, Digital Content Specialist"
-date: 2018-12-12
+title: 'Hunting for a cause'
+description: 'For many Americans hunting is a vehicle for connecting with nature and the great outdoors. Just look at the numbers: a five-year report found that 101.6 million Americans participated in hunting, fishing and wildlife activities in 2016.'
+author: 'Katherine Taylor, Digital Content Specialist'
+date: 2018-12-12T00:00:00.000Z
 type: feature
 hero:
-  name: stephen-scott-longtime-hunters-for-the-hungry-participant.jpg
-  alt: "A man wearing a camouflage hoodie posing for a photo on a gravel road"
-  caption: "Stephen Scott, longtime Hunters for the Hungry participant. Photo by Katherine Taylor, USFWS."
-  position: "45% 25%"
+    name: stephen-scott-longtime-hunters-for-the-hungry-participant.jpg
+    alt: 'A man wearing a camouflage hoodie posing for a photo on a gravel road'
+    caption: 'Stephen Scott, longtime Hunters for the Hungry participant. Photo by Katherine Taylor, USFWS.'
+    position: '45% 25%'
 tags:
-  - Alabama
-  - Hunting
-  - "Wheeler National Wildlife Refuge"
-  - "White-Tailed Deer"
-updated: "December 12th, 2018"
+    - Alabama
+    - Hunting
+    - 'Wheeler National Wildlife Refuge'
+    - 'White-Tailed Deer'
+updated: 'January 28th, 2019'
 ---
 
 {{< youtube id="59ZCUacPnrc" title="Hunters for the Hungry in Alabama" caption="Video by Nicole Vidal, USFWS.">}}
