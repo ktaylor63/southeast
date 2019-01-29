@@ -1,15 +1,14 @@
 ---
 title: 'Service distributes nearly $50 million to support state wildlife conservation projects'
-date: '2016-03-21'
+date: 2016-03-21T00:00:00.000Z
 hero:
     name: monarch-on-purple-flower.jpg
-    link: 'https://flic.kr/p/88pUox'
-    alt: 'A monarch perched on a flowering purple aster'
-    caption: 'Monarch at Cape May National Wildlife Refuge. Photo by Laura Perlick, USFWS.'
+    alt: 'A butterfly covered in white spots with orange and yellow wings perched on a purple flower.'
+    caption: 'A monarch butterfly on a purple plant with bright colors in the background. <a href="https://flic.kr/p/tJrJXf">Photo</a> by Christine Lisiewski.'
 tags:
-    - 'State Wildlife Grant'
     - Monarch
-updated: 'October 27th, 2016'
+    - 'State Wildlife Grant'
+updated: 'January 28th, 2019'
 ---
 Species across the nation will benefit from almost $50 million in funding allocated to state wildlife agencies by the U.S. Fish and Wildlife Service through the State Wildlife Grants (SWG) program. The program provides critical support for imperiled species and habitats listed in approved State Wildlife Action Plans. All 50 state and U.S. territorial wildlife agencies have such plans, which proactively protect species in greatest conservation need.
 

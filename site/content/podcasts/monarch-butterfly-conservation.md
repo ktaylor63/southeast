@@ -7,15 +7,14 @@ date: 2015-05-11T00:00:00.000Z
 hero:
     name: monarch-on-purple-flower.jpg
     alt: 'A butterfly covered in white spots with orange and yellow wings perched on a purple flower.'
-    link: 'https://flic.kr/p/tJrJXf'
-    caption: 'A monarch butterfly on a purple plant with bright colors in the background. Photo by Christine Lisiewski.'
+    caption: 'A monarch butterfly on a purple plant with bright colors in the background. <a href="https://flic.kr/p/tJrJXf">Photo</a> by Christine Lisiewski.'
 tags:
     - 'Asheville Ecological Services Field Office'
     - Monarch
     - 'North Carolina'
     - Podcast
     - 'Southern Appalachian Creature Feature'
-updated: 'August 8th, 2018'
+updated: 'January 28th, 2019'
 ---
 
 ## Transcript

@@ -1,17 +1,16 @@
 ---
 title: 'Fish and Wildlife Service partners with Rosalynn Carter Butterfly Trail to save the monarch butterfly'
-date: '2015-06-15'
+date: 2015-06-15T00:00:00.000Z
 lat: 32.034045
 lng: -84.392608
 hero:
     name: monarch-on-purple-flower.jpg
     alt: 'A butterfly covered in white spots with orange and yellow wings perched on a purple flower.'
-    link: 'https://flic.kr/p/tJrJXf'
-    caption: 'A monarch butterfly on a purple plant with bright colors in the background. Photo by Christine Lisiewski.'
+    caption: 'A monarch butterfly on a purple plant with bright colors in the background. <a href="https://flic.kr/p/tJrJXf">Photo</a> by Christine Lisiewski.'
 tags:
     - Georgia
     - Monarch
-updated: 'January 3rd, 2018'
+updated: 'January 28th, 2019'
 ---
 
 **Plains, Georgia** – The Monarch butterfly got a boost today.
