@@ -16,7 +16,13 @@ function glossaryTerm() {
   // Record each time someone clicks an underlined glossary term
   document.body.addEventListener('click', e => {
     if (e.target.classList.contains('highlight')) {
-      analytics('send', 'event', 'Glossary', 'Clicked term', e.target.textContent.toLowerCase());
+      analytics(
+        'send',
+        'event',
+        'Glossary',
+        'Clicked term',
+        e.target.textContent.toLowerCase()
+      );
     }
   });
 }
@@ -39,8 +45,33 @@ function relatedContent() {
   related.addEventListener('click', e => {
     if (e.target && e.target.nodeName === 'A') {
       const linkText = e.target.textContent;
-      analytics('send', 'event', 'Related Content', 'Clicked related content', linkText);
+      analytics(
+        'send',
+        'event',
+        'Related Content',
+        'Clicked related content',
+        linkText
+      );
     }
+  });
+}
+
+function partnerContent() {
+  const partnerContentLinks = [].slice.call(
+    document.querySelectorAll('.partner-content a')
+  );
+  if (!partnerContentLinks) return;
+  partnerContentLinks.forEach(link => {
+    link.addEventListener('click', e => {
+      const linkText = e.target.textContent;
+      analytics(
+        'send',
+        'event',
+        'Partner Content',
+        'Clicked partner link',
+        linkText
+      );
+    });
   });
 }
 
@@ -50,6 +81,7 @@ function init() {
     glossaryTerm();
     navItem();
     relatedContent();
+    partnerContent();
   }
 }
 
