@@ -1,4 +1,12 @@
 stories:
+  - title: "Tybee turtle-nappers fined $930 each"
+    summary: "A Kentucky couple that plucked six loggerhead hatchlings off the beach at Tybee late one night in July and stashed the threatened turtles in a hotel trash can have been fined $930 each."
+    date: 2019-01-11
+    url: "https://www.savannahnow.com/news/20190111/tybee-turtle-nappers-fined-930-each"
+    hero:
+      name: loggerhead-baby-saved.jpg
+      alt: "A biologist holding a tiny loggerhead sea turtle with a USFWS biologist in uniform in the background."
+      caption: 'A loggerhead sea turtle hatchling at Cape Romain National Wildlife Refuge. <a href="https://flic.kr/p/cECWef">Photo</a> by Keith Fuller for USFWS.'
   - title: "Tennessee adopts emergency action plan to address chronic wasting disease"
     summary: "Tennessee wildlife officials are implementing a six-step emergency action plan, including an additional hunting season in part of the state, after chronic wasting disease was found this month. The findings were a worst-case scenario for officials who have worked for several years to keep the fatal disease from reaching Tennessee. They have called it the biggest threat to the nation's deer population."
     date: 2018-12-20
