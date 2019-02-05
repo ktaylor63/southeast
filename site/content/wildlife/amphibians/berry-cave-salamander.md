@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 'Berry Cave salamander'
 scientific: 'Gyrinophilus gulolineatus'
 description: 'The Berry Cave salamander is a member of the Tennessee cave salamander complex and has only been documented at 11 locations in four counties in eastern Tennessee: Knox, McMinn, Meigs, and Roane counties.'
@@ -67,7 +66,7 @@ Since the Berry Cave salamander’s original discovery in the 1950’s, neither 
 
 ## Conservation challenges
 
-The greatest threats to the Tennessee Cave salamander complex, including the Berry Cave salamander, are water quality impacts from residential/commercial development, road construction, agricultural runoff, pesticide use in residential and agricultural settings, increased water flow into and through cave systems following timber operations, and siltation and sedimentation caused by the removal of trees from riparian zones and other riparian zone disturbances. Other factors potentially affecting the species include limitation of food sources, predation by crayfish, fish, and other salamanders, and severe fluctuations in weather patterns (droughts and floods).
+The greatest threats to the Tennessee cave salamander complex, including the Berry Cave salamander, are water quality impacts from residential/commercial development, road construction, agricultural runoff, pesticide use in residential and agricultural settings, increased water flow into and through cave systems following timber operations, and siltation and sedimentation caused by the removal of trees from riparian zones and other riparian zone disturbances. Other factors potentially affecting the species include limitation of food sources, predation by crayfish, fish, and other salamanders, and severe fluctuations in weather patterns (droughts and floods).
 
 {{< figure class="photo-center" src="/images/pages/berry-cave-salamander-metamorphosed.jpg" alt="A pale purple salamander on iron rich clay." caption="Metamorphosed adult Berry Cave salamander from eastern Tennessee. Photo © Todd Pierson, used with permission." >}}
 
