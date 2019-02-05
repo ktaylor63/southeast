@@ -1,11 +1,10 @@
 ---
 title: 'Night thrills on the refuge'
-date: '2013-06-25'
+date: 2013-06-25
 hero:
     name: okefenokee-night-falls.jpg
     alt: 'Sunset over waterbody.'
-    link: 'https://flic.kr/p/eUA5VK'
-    caption: 'Night falls at Okefenokee National Wildlife Refuge. Photo by Joy Campbell of Okefenokee Adventures.'
+    caption: 'Night falls at Okefenokee National Wildlife Refuge. <a href="https://flic.kr/p/eUA5VK">Photo</a> by Joy Campbell of Okefenokee Adventures.'
 tags:
     - 'National Wildlife Refuge System'
     - 'Red Wolf'
