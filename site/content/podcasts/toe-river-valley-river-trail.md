@@ -7,8 +7,7 @@ author: 'Gary Peeples'
 hero:
     name: okefenokee-night-falls.jpg
     alt: 'Sunset over waterbody.'
-    link: 'https://flic.kr/p/eUA5VK'
-    caption: 'Night falls at Okefenokee National Wildlife Refuge. Photo by Joy Campbell of Okefenokee Adventures.'
+    caption: 'Night falls at Okefenokee National Wildlife Refuge. <a href="https://flic.kr/p/eUA5VK">Photo</a> by Joy Campbell of Okefenokee Adventures.'
 tags:
     - 'Alligator River National Wildlife Refuge'
     - 'Asheville Ecological Services Field Office'
