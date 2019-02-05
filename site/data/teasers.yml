@@ -1,4 +1,21 @@
 stories:
+  - title: "From CBS News, Moment in nature: Okefenokee National Wildlife Refuge"
+    summary: "Sunday Morning takes you today to the Okefenokee National Wildlife Refuge in Georgia. Videographer: Charles Schultz."
+    date: 2019-02-03
+    url: "https://www.cbsnews.com/news/moment-in-nature-okefenokee-national-wildlife-refuge-charles-schultz/"
+    hero:
+      name: okefenokee-night-falls.jpg
+      alt: "Sunset over waterbody."
+      caption: 'Night falls at Okefenokee National Wildlife Refuge. <a href="https://flic.kr/p/eUA5VK">Photo</a> by Joy Campbell of Okefenokee Adventures.'
+  - title: "Two men sentenced for unlawful contact with endangered Florida panthers"
+    summary: "According to court documents, in February 2017, Torres crawled into a Florida panther den in the Big Cypress National Preserve in Collier County and unlawfully removed two panther kittens. Lopez de Queralta filmed Torres as he displayed the kittens for the camera. Later, Lopez de Queralta uploaded and shared segments of the video on YouTube. "
+    date: 2019-01-28
+    url: "https://www.justice.gov/usao-mdfl/pr/two-men-sentenced-unlawful-contact-endangered-florida-panthers"
+    hero:
+      caption: "A Florida panther. Photo by Larry W. Richardson, USFWS."
+      alt: "A Florida panther walking on a gravel road with a slash pine forest in the background"
+      name: florida-panther.jpg
+      position: "left center"
   - title: "Tybee turtle-nappers fined $930 each"
     summary: "A Kentucky couple that plucked six loggerhead hatchlings off the beach at Tybee late one night in July and stashed the threatened turtles in a hotel trash can have been fined $930 each."
     date: 2019-01-11
