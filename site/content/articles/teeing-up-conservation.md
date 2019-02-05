@@ -10,6 +10,7 @@ hero:
     caption: 'A monarch butterfly on a purple plant with bright colors in the background. <a href="https://flic.kr/p/tJrJXf">Photo</a> by Christine Lisiewski.'
     position: '70% 50%'
 tags:
+    - At-Risk Species
     - Kentucky
     - Monarch
     - 'Partners for Fish and Wildlife Program'
@@ -58,3 +59,6 @@ Several other Kentucky golf courses have seen what Valhalla did and started thei
 To help educate golfers, Valhalla put up signs explaining the area is a monarch and pollinator habitat. Golfers are used to everything being nicely mowed and manicured, Harrel said, but they see the sign, and “They say, oh, I get it.’”
 
 ## Contact
+
+Phil Kloer, Public Affairs Specialist  
+[philip_kloer@fws.gov](mailto:philip_kloer@fws.gov), (404) 679-7299
