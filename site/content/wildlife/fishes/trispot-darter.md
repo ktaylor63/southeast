@@ -1,5 +1,5 @@
 ---
-title: 'Trispot Darter'
+title: 'Trispot darter'
 scientific: 'Etheostoma trisella'
 description: 'The trispot darter has three prominent black dorsal saddles, pale undersurface, and a dark bar below the eye. Scattered dark blotches exist on the fins rays.'
 type: species-profile
@@ -23,7 +23,7 @@ updated: 'October 5th, 2018'
 
 - **Taxon:** Freshwater Fish
 - **Range:** Alabama, Georgia, Tennessee
-- **Status:** Proposed Threatened
+- **Status:** Listed as threatened
 
 {{< scroller-list tag="Trispot Darter" section="news" >}}
 {{< scroller-list tag="Trispot Darter" section="articles" >}}
