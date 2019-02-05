@@ -13,14 +13,14 @@ tags:
     - 'Endangered Species Act'
     - Recovery
     - 'South Carolina'
-updated: 'December 6th, 2018'
+updated: 'February 1st, 2019'
 ---
 
 When Congress passed the Endangered Species Act (ESA) in 1973, it recognized that our rich natural heritage is of “esthetic, ecological, educational, recreational, and scientific value to our Nation and its people.” It further expressed concern that many of our nation’s native plants and animals were in danger of becoming extinct.
 
 The purpose of the ESA is to protect and recover imperiled species and the ecosystems upon which they depend. It is administered by the U.S. Fish and Wildlife Service and the Commerce Department’s National Marine Fisheries Service (NMFS). The Service has primary responsibility for terrestrial and freshwater organisms, while the responsibilities of NMFS are mainly marine wildlife such as whales and anadromous fish such as sturgeon and salmon.
 
-Under the ESA, species may be listed as either threatened or endangered. “Endangered” means a species is in danger of extinction throughout all or a significant portion of its range. “Threatened” means a species is likely to become endangered within the foreseeable future. All s plants and animals, except pest insects, are eligible for listing as endangered or threatened.
+Under the ESA, species may be listed as either threatened or endangered. “Endangered” means a species is in danger of extinction throughout all or a significant portion of its range. “Threatened” means a species is likely to become endangered within the foreseeable future. All plants and animals, except pest insects, are eligible for listing as endangered or threatened.
 
 - [Endangered Species Act document library](https://www.fws.gov/endangered/esa-library/#esa)
 - [National Endangered Species homepage](https://www.fws.gov/endangered/)
@@ -29,7 +29,11 @@ Under the ESA, species may be listed as either threatened or endangered. “Enda
 - [Survey windows for animals](/pdf/guidelines/south-carolina-survey-windows-for-animals.pdf)
 - [Survey windows for plants](/pdf/guidelines/south-carolina-survey-windows-for-plants.pdf)
 
-## [South Carolina’s threatened and endangered species](https://ecos.fws.gov/ecp0/reports/species-listed-by-state-report?state=SC&status=listed)
+## Species Status Assessments (SSA)
+
+The [Species Status Assessment](/endangered-species-act/species-status-assessments/) (SSA) framework is a rigorous scientific assessment developed by the Service.  It is designed to “follow the species” in the sense that the information on a species’ biological status is available for conservation use, providing a single source for all ESA decisions such as listings, consultations, grant allocations, permitting, HCPs, and recovery planning.  This framework has resulted in better assessments, improved and more transparent and defensible decision making, and clearer and more concise documents.
+
+## [South Carolina’s endangered, threatened and at-risk (under review) species](https://ecos.fws.gov/ecp0/reports/species-listed-by-state-report?state=SC&status=listed)
 
 Click on a county below for a list of threatened and endangered species.
 
