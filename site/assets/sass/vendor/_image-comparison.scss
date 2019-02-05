@@ -3,7 +3,7 @@
 }
 .comparison-caption {
   color: $color-accent;
-  font-size: .9em;
+  font-size: 0.9em;
   margin: 0;
 }
 .comparison-widget {
@@ -38,7 +38,7 @@
 .comparison-item {
   height: 100%;
   width: 100%;
-  background: #FFF;
+  background: #fff;
 }
 .comparison-item--first {
   position: absolute;
@@ -52,7 +52,7 @@
   position: relative;
 }
 .comparison-item__content:hover .comparison-item__label {
-  background: #FFF;
+  background: #fff;
 }
 .comparison-item--first .comparison-image {
   width: auto;
@@ -92,7 +92,7 @@
   right: -1px;
   top: 0;
   z-index: 10;
-  background: #FFF;
+  background: #fff;
   cursor: pointer;
   opacity: 0.7;
 }
@@ -104,20 +104,21 @@
   position: absolute;
   top: 50%;
   left: 50%;
-  background: #FFF;
+  background: #fff;
   border-radius: 100%;
   opacity: 0.7;
 }
 .comparison-control:before,
 .comparison-control:after {
-  content: '';
+  content: "";
   display: block;
   width: 12px;
   height: 20px;
   margin-top: -10px;
   position: absolute;
   top: 50%;
-  background: url('../images/arrow.png') 0 0 no-repeat;
+  background: url("https://www.fws.gov/southeast/images/arrow.png") 0 0
+    no-repeat;
 }
 .comparison-control:before {
   left: -15px;
@@ -132,6 +133,6 @@
   position: absolute;
   top: -15px;
   left: -18px;
-  background: #FFF;
+  background: #fff;
   opacity: 0;
 }
