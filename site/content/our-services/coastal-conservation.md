@@ -10,8 +10,7 @@ aliases:
 hero:
     name: loggerhead-baby-saved.jpg
     alt: 'A biologist holding a tiny loggerhead sea turtle with a USFWS biologist in uniform in the background.'
-    link: 'https://flic.kr/p/cECWef'
-    caption: 'A loggerhead sea turtle hatchling at Cape Romain National Wildlife Refuge. Photo by Keith Fuller for USFWS.'
+    caption: 'A loggerhead sea turtle hatchling at Cape Romain National Wildlife Refuge. <a href="https://flic.kr/p/cECWef">Photo</a> by Keith Fuller for USFWS.'
 updated: 'April 25th, 2017'
 ---
 
