@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 'Higo chumbo'
 scientific: 'Harrisia portoricensis'
 description: 'Higo chumbo is a columnar cactus currently found at three small offshore islands of western Puerto Rico; Mona, Monito and Desecheo.  In addition, several individuals are known to occur at Caja de Muertos, an offshore island south of Puerto Rico.'
@@ -24,7 +23,7 @@ tags:
     - Plant
     - 'Puerto Rico'
     - Recovery
-updated: 'January 28th, 2019'
+updated: 'February 4th, 2019'
 ---
 
 - **Taxon:** [Plant](/wildlife/plants)
