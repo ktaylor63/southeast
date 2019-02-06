@@ -13,6 +13,8 @@ const dataURL = hasWWW ? baseURL : baseURL.replace('www.', '');
 
 let contacts;
 
+const worksAtStation = contact => contact.station === officeName || contact.reportToStation === officeName;
+
 const createContact = contact => `
   <li class="card card-text">
     <p><a href="mailto:${contact.email}">${contact.name}</a>,
@@ -48,7 +50,7 @@ const render = contacts => {
 xhr.get(`${dataURL}data/contacts.js`, (err, res, body) => {
   if (err) console.log(err);
 
-  contacts = JSON.parse(body).filter(c => c.station === officeName);
+  contacts = JSON.parse(body).filter(worksAtStation);
   totalContacts = contacts.length;
   render(contacts);
   input.addEventListener('input', search);

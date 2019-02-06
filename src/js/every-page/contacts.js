@@ -28,7 +28,7 @@ function normalizePhoneNumber(number) {
 }
 
 function createContact(person, email, name, phone) {
-  const telephone = phone === 'tel+1' ? person.phone : `<a href="${phone}">${person.phone}</a>`;
+  const telephone =    phone === 'tel+1' ? person.phone : `<a href="${phone}">${person.phone}</a>`;
   return `
     <li class="card card-text-small">
       <ul>
@@ -73,7 +73,10 @@ function search(e) {
     const isName = regex.test(person.name);
     const isTitle = regex.test(person.title);
     const isStation = regex.test(person.station);
-    return isType || isState || isName || isTitle || isStation;
+    const isReportToStation = regex.test(person.reportToStation);
+    return (
+      isType || isState || isName || isTitle || isStation || isReportToStation
+    );
   });
 
   render(filtered);
