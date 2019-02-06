@@ -1,4 +1,12 @@
 stories:
+  - title: "Landowners’ help needed to count gopher tortoises"
+    summary: "The Alabama Wildlife and Freshwater Fisheries (WFF) Division and Alabama Forestry Commission (AFC) are on an enlistment drive to help count one of the iconic species in Alabama’s longleaf pine forests, the beloved gopher tortoise."
+    date: 2019-02-06
+    url: "https://www.outdooralabama.com/node/2525"
+    hero:
+      name: gopher-tortoise-walking.jpg
+      alt: 'A gopher tortoise walking through an open pine habitat.'
+      caption: 'Gopher tortoise. <a href="https://flic.kr/p/bva14h">Photo</a> by FWC.'
   - title: "From CBS News, Moment in nature: Okefenokee National Wildlife Refuge"
     summary: "Sunday Morning takes you today to the Okefenokee National Wildlife Refuge in Georgia. Videographer: Charles Schultz."
     date: 2019-02-03
