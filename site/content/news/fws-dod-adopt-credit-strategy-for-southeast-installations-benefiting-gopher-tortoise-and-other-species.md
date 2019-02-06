@@ -5,7 +5,7 @@ description: 'Tifton, Ga. – A first-in- the-nation conservation plan, crafted 
 hero:
     name: gopher-tortoise-walking.jpg
     alt: 'A gopher tortoise walking through an open pine habitat.'
-    caption: 'Gopher tortoise. <a href="https://flic.kr/p/bva14h">Photo</a> by FWC.
+    caption: 'Gopher tortoise. <a href="https://flic.kr/p/bva14h">Photo</a> by FWC.'
 tags:
     - Alabama
     - Georgia
