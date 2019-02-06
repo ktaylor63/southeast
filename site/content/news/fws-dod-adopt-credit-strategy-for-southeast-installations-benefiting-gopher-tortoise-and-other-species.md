@@ -1,12 +1,11 @@
 ---
 title: 'Service, Department of Defense adopt credit strategy for Southeast installations benefiting gopher tortoise and other species'
-date: '2017-03-24'
+date: 2017-03-24
 description: 'Tifton, Ga. – A first-in- the-nation conservation plan, crafted by the U.S. Department of Defense, U.S. Fish and Wildlife Service and state wildlife agencies in Alabama, Florida, Georgia and South Carolina, protects at-risk gopher tortoises here while helping military bases to continue training and testing missions across the tortoise’s Southern turf.'
 hero:
     name: gopher-tortoise-walking.jpg
     alt: 'A gopher tortoise walking through an open pine habitat.'
-    caption: 'Gopher tortoise. Photo by FWC.'
-    link: 'https://flic.kr/p/bva14h'
+    caption: 'Gopher tortoise. <a href="https://flic.kr/p/bva14h">Photo</a> by FWC.
 tags:
     - Alabama
     - Georgia
