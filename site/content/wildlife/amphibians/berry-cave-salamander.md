@@ -18,7 +18,7 @@ hero:
     alt: 'A purple/rust colored salamander walking on rocky substrate'
     caption: 'Non metamorphosed Berry Cave salamander. Photo © Matthew Niemiller, used with permission.'
     position: '90% 35%'
-updated: 'October 5th, 2018'
+updated: 'February 5th, 2019'
 ---
 
 - **Taxon:** Amphibian
@@ -72,6 +72,8 @@ The greatest threats to the Tennessee cave salamander complex, including the Ber
 
 One cave inhabited by Berry Cave salamanders continues to be greatly impacted by past quarrying activities. Meads Quarry Cave is located at the site of a marble quarry that was operable in the 1930’s and 1940’s. During the quarrying operation, a large volume of lime material was deposited on the surface of the site. White leachate is now deposited within the cave. The pH of the water upstream of the deposition site is 7.4 but immediately down-slope of the deposition site, the water is very alkaline with pH ranging from 10 to 12.5. Berry Cave salamanders at the site have been observed with chemical burns and some deaths have been documented, as well.
 
+{{< figure class="photo-center" src="/images/pages/meads-quarry-cave-white-leachate.jpg" alt="A solid white substance that looks a lot like ice drains from a cave roof to the cave floor" caption="White leachate formation in Meads Quarry Cave, Knox County, Tennessee. Photo © Matthew L. Niemiller, used with permission." >}}
+
 ## Recovery plan
 
 A recovery plan will be drafted for the Berry Cave salamander if it is listed under the Endangered Species Act.
@@ -104,8 +106,8 @@ Forested riparian buffer zones are being managed to some degree, and ongoing man
 - Restore riparian areas by planting trees and other native vegetation to help with erosion control and runoff.
 - Protect known Berry Cave salamander populations to reduce threats from over-collection.
 - Support conservation efforts of those sites.
-- Support local and state initiatives for watershed and water quality protection and Improvement.
-- The following handbook is a comprehensive guide, providing standardized and comprehensive erosion prevention and sediment control best management practices for use throughout Tennessee.
+- Support local and state initiatives for watershed and water quality protection and improvement.
+- The following [handbook](http://tnepsc.org/handbook.asp) is a comprehensive guide, providing standardized and comprehensive erosion prevention and sediment control best management practices for use throughout Tennessee.
 
 ## Subject matter expert
 
