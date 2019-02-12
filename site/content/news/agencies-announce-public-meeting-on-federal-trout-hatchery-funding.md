@@ -12,6 +12,7 @@ tags:
     - Fisheries
     - Georgia
     - Tennessee
+    - Erwin National Fish Hatchery
 updated: 'August 22nd, 2018'
 ---
 

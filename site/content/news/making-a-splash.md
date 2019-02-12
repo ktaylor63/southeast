@@ -11,6 +11,7 @@ tags:
   - "Brook Trout"
   - "Brown Trout"
   - "Clinch River"
+  - Erwin National Fish Hatchery
   - Fishing
   - Georgia
   - "Rainbow Trout"
