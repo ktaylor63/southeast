@@ -6,10 +6,9 @@ const officeName = contactList.getAttribute('data-office');
 const input = document.querySelector('.contact-input');
 let totalContacts = '';
 
-let hasWWW = window.location.href.indexOf('www');
-hasWWW = hasWWW < 0;
+const hasWWW = window.location.href.indexOf('www');
 const baseURL = document.body.getAttribute('data-root');
-const dataURL = hasWWW ? baseURL : baseURL.replace('www.', '');
+const dataURL = hasWWW > 0 ? baseURL : baseURL.replace('www.', '');
 
 let contacts;
 
