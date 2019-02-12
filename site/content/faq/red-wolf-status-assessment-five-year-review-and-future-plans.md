@@ -59,7 +59,7 @@ The Service will continue to explore new possible locations for another NEP re-i
 
 ## Is the public able to comment on this proposal?
 
-Citizens and interested organizations are always invited to share their perspective and experience related to this red wolf recovery effort. Although the [5-year review](https://ecos.fws.gov/docs/five_year_review/doc5714.pdf) and the [Species Status Assessment](http://ecos.fws.gov/ServCat/DownloadFile/147196) don’t specifically invite public comment and review, other parts of this process will offer opportunities for public review and comment.
+Citizens and interested organizations are always invited to share their perspective and experience related to this red wolf recovery effort. Although the [5-year review](https://ecos.fws.gov/docs/five_year_review/doc5714.pdf) and the [Species Status Assessment](https://ecos.fws.gov/ServCat/Reference/Profile/98417) don’t specifically invite public comment and review, other parts of this process will offer opportunities for public review and comment.
 
 ## What can we expect in terms of additional actions related to the red wolf recovery effort?
 
