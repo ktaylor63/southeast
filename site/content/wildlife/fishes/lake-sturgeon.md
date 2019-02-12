@@ -16,6 +16,7 @@ tags:
     - Alabama
     - Arkansas
     - 'Edenton National Fish Hatchery'
+    - Erwin National Fish Hatchery
     - Fish
     - Georgia
     - Kentucky

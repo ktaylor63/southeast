@@ -10,15 +10,17 @@ aliases:
     - /species/fishes/trispot-darter
 tags:
     - Alabama
+    - 'Alabama Ecological Services Field Office'
     - 'Endangered Species Act'
     - Fish
     - Georgia
     - Tennessee
+    - 'Tennessee Ecological Services Field Office'
 hero:
     name: trispot-darter.jpg
     alt: 'A small fish with bright blue fins and orange coloring on its back.'
     caption: 'Trispot darter. Photo by Pat O''Neil, Geological Survey of Alabama.'
-updated: 'October 5th, 2018'
+updated: 'February 8th, 2019'
 ---
 
 - **Taxon:** Freshwater Fish

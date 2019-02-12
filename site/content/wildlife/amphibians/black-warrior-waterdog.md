@@ -6,6 +6,7 @@ type: species-profile
 js: /js/species-profile.js
 tags:
     - Alabama
+    - 'Alabama Ecological Services Field Office'
     - Amphibian
     - 'Black Warrior Basin'
     - 'Endangered Species Act'
@@ -17,7 +18,7 @@ hero:
     name: black-warrior-waterdog.jpg
     alt: 'A light purple salamander with dark spots and tufts above its front legs.'
     caption: 'Black Warrior waterdog. Photo by Joseph Jenkins, Alabama Natural Heritage Program.'
-updated: 'October 5th, 2018'
+updated: 'February 8th, 2019'
 ---
 
 - **Taxon:** Amphibian, Proteidae (Mudpuppies, Olms, Waterdogs)
@@ -79,13 +80,13 @@ The Service is designating critical habitat in four units all within the histori
 
 Critical habitat is a tool within the ESA which identifies areas essential for the conservation of endangered or threatened species.  It does not set up a preserve or refuge, but may require special management considerations in the identified areas.  Designating critical habitat under the ESA does not affect private landowners unless the action involves federal funds, permits, or other federally activities.  The final decision to designate critical habitat essential to the Black Warrior Waterdog will be based on the best scientific information available.
 
-| Unit |   Location      | Occupied | Private Ownership rkm/rmi | Federal Ownership rkm/rmi | Existing CH rkm/rmi | Total Length rkm/rmi |
-|------|-----------------|----------|---------------------------|---------------------------|---------------------|----------------------|
-|  1   | Yellow Creek    |  Yes     |         30/19             |                           |                     |         30/19        |
-|  2   | Locust Fork     |  Yes     |        391/243            |                           |        101/63       |         391/243      |
-|  3   | Blackwater Creek|  Yes     |         128/80            |                           |                     |         128/80       |
-|  4   | Sipsey Fork     |  Yes     |          11/7             |          113/71           |        103/64       |         124/78       |
-|      |   **TOTALS**    |          |        560/349            |          113/71           |        204/127      |         673/420      |
+| Unit | Location         | Occupied | Private Ownership rkm/rmi | Federal Ownership rkm/rmi | Existing CH rkm/rmi | Total Length rkm/rmi |
+| ---- | ---------------- | -------- | ------------------------- | ------------------------- | ------------------- | -------------------- |
+| 1    | Yellow Creek     | Yes      | 30/19                     |                           |                     | 30/19                |
+| 2    | Locust Fork      | Yes      | 391/243                   |                           | 101/63              | 391/243              |
+| 3    | Blackwater Creek | Yes      | 128/80                    |                           |                     | 128/80               |
+| 4    | Sipsey Fork      | Yes      | 11/7                      | 113/71                    | 103/64              | 124/78               |
+|      | **TOTALS**       |          | 560/349                   | 113/71                    | 204/127             | 673/420              |
 
 {{< figure class="photo-center" src="/images/pages/black-warrior-waterdog-critical-habitat-map.jpg" alt="A map highlighting critical habitat stretches in north central Alabama." caption="Critical habitat for the Black Warrior waterdog. Map by USFWS.">}}
 

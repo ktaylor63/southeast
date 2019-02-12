@@ -11,6 +11,7 @@ aliases:
 tags:
   - Arkansas
   - "Chattahoochee Forest National Fish Hatchery"
+  - Erwin National Fish Hatchery
   - Fish
   - "Greers Ferry National Fish Hatchery"
   - Kentucky
