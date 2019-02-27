@@ -18,14 +18,14 @@ tags:
     - Arkansas
     - 'Endangered Species Act'
     - 'Greers Ferry National Fish Hatchery'
-updated: 'August 27th, 2018'
+updated: 'February 20th, 2019'
 ---
 
 Greers Ferry National Fish Hatchery was established to mitigate the loss of fishery resources due to the construction of federal water development projects. Dams the reservoirs they create change the natural flow of water and the ecosystems that results. Mitigation is accomplished by stocking rainbow and brook trout in waters impacted by federal dams. Stocking trout in public waters supports a significant recreational fishery which generates a substantial amount of economic activity for local and regional economies.
 
 [Learn more about fish production at national fish hatcheries](/our-services/fish-production/).
 
-## Hatchery goals
+## Goals
 
 - Provides mitigation fish (rainbow trout and brook trout) for Arkansas
 - Provides mitigation fish (rainbow trout) for eastern Oklahoma
