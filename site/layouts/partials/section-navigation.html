@@ -1,9 +1,12 @@
 <nav class="section-nav" aria-label="Subsite navigation">
   <ul>
     {{ range where .Site.Pages "Section" .Section }}
-      {{ if .Params.nav }}
-      <li><a href="{{ .Permalink }}">{{ .Params.nav }}</a></li>
-      {{ end }}
+    {{ if .Params.nav }}
+    <li><a href="{{ .Permalink }}">{{ .Params.nav }}</a></li>
+    {{ end }}
+    {{ end }}
+    {{ if eq .Section "charleston" }}
+    <li><a href="/our-services/grants">Grants</a></li>
     {{ end }}
   </ul>
 </nav>
