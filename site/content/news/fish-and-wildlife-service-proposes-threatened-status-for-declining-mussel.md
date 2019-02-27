@@ -1,30 +1,31 @@
 ---
-title: "Fish and Wildlife Service proposes threatened status for declining mussel"
-subtitle: "Proposed critical habitat designation and economic analysis available for review"
+title: 'Fish and Wildlife Service proposes threatened status for declining mussel'
+subtitle: 'Proposed critical habitat designation and economic analysis available for review'
 date: 2018-10-10T00:00:00.000Z
 hero:
-  name: atlantic-pigtoe-ready-for-release.jpg
-  alt: "Seven small brownish-yellow mussels held in open hands by a biologist."
-  caption: "Atlantic pigtoes ready for release. Photo by USFWS."
+    name: atlantic-pigtoe-ready-for-release.jpg
+    alt: 'Seven small brownish-yellow mussels held in open hands by a biologist.'
+    caption: 'Atlantic pigtoes ready for release. Photo by USFWS.'
 tags:
-  - "Atlantic Pigtoe"
-  - "Atlantic Sturgeon"
-  - "Critical Habitat"
-  - "Dwarf Wedgemussel"
-  - "Endangered Species Act"
-  - Georgia
-  - "James Spinymussel"
-  - Maryland
-  - Mussel
-  - "North Carolina"
-  - "South Carolina Ecological Services Field Office"
-  - "Roanoke Logperch"
-  - "Shortnose Sturgeon"
-  - "South Carolina"
-  - "Tar River Spinymussel"
-  - "Virginia,"
-  - "Yellow Lance Mussel"
-updated: "October 9th, 2018"
+    - 'Atlantic Pigtoe'
+    - 'Atlantic Sturgeon'
+    - 'Critical Habitat'
+    - 'Dwarf Wedgemussel'
+    - 'Endangered Species Act'
+    - Georgia
+    - 'James Spinymussel'
+    - Maryland
+    - Mussel
+    - 'North Carolina'
+    - 'Raleigh Ecological Services Field Office'
+    - 'Roanoke Logperch'
+    - 'Shortnose Sturgeon'
+    - 'South Carolina'
+    - 'South Carolina Ecological Services Field Office'
+    - 'Tar River Spinymussel'
+    - 'Virginia,'
+    - 'Yellow Lance Mussel'
+updated: 'February 20th, 2019'
 ---
 
 The [Atlantic pigtoe](/wildlife/mussels/atlantic-pigtoe), a freshwater mussel native to waters from Virginia to Georgia, has lost more than half of its historical range, and remaining populations may not be sustainable over time.
