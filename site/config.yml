@@ -4,7 +4,7 @@ MetaDataFormat: yaml
 pluralizelisttitles: false
 relativeURLS: true
 baseURL: https://www.fws.gov/southeast/
-publishDir: '../dist'
+publishDir: "../dist"
 
 mediaTypes:
   application/javascript:
@@ -44,7 +44,7 @@ params:
   base: https://www.fws.gov/southeast/
   hero:
   twitter: usfwssoutheast
-  github:  usfws
+  github: usfws
   facebook: usfwssoutheast
   flickr: usfwssoutheast
   snapchat: usinterior
