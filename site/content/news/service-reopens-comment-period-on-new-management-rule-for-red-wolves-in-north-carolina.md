@@ -1,21 +1,21 @@
 ---
-title: "Service reopens comment period on new management rule for red wolves in North Carolina"
+title: 'Service reopens comment period on new management rule for red wolves in North Carolina'
 date: 2018-08-10T00:00:00.000Z
 hero:
-  name: red-wolf-father-and-pups.jpg
-  alt: "A male red wolf looks on as two pups play"
-  caption: 'Red wolf (<em>Canis rufus</em>) with pups. Photo by <a href="https://www.flickr.com/photos/ucumari/">Valerie</a>, <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/legalcode">CC BY-NC-ND 2.0.</a>'
-  position: "35% 28%"
+    name: red-wolf-father-and-pups.jpg
+    alt: 'A male red wolf looks on as two pups play'
+    caption: 'Red wolf (<em>Canis rufus</em>) with pups. Photo by <a href="https://www.flickr.com/photos/ucumari/">Valerie</a>, <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/legalcode">CC BY-NC-ND 2.0.</a>'
+    position: '35% 28%'
 tags:
-  - "10j Rule"
-  - "Endangered Species Act"
-  - "Non-Essential Experimental Population"
-  - "North Carolina"
-  - "Raleigh Ecological Services Field Office"
-  - "South Carolina Ecological Services Field Office"
-  - Recovery
-  - "Red Wolf"
-updated: "August 10th, 2018"
+    - '10j Rule'
+    - 'Endangered Species Act'
+    - 'Non-Essential Experimental Population'
+    - 'North Carolina'
+    - 'Raleigh Ecological Services Field Office'
+    - Recovery
+    - 'Red Wolf'
+    - 'South Carolina Ecological Services Field Office'
+updated: 'February 20th, 2019'
 ---
 
 The U.S. Fish and Wildlife Service is reopening the public comment period on a proposed rule to replace the existing regulations governing the nonessential experimental population of the red wolf under section 10(j) of the Endangered Species Act (ESA).
