@@ -3,17 +3,16 @@ title: 'Social and Digital Media'
 description: 'Connect with us on social media to be the first to know the latest news on threatened and endangered species, special events, volunteer opportunities, partnership projects, prescribed fires and more. We also provide wildlife and habitat photography and video resources for free to the public.'
 url: /social-media
 tags:
+    - 'Contact Us'
+    - Photos
     - 'Social Media'
     - Video
-    - Photos
-    - 'Contact Us'
 hero:
     name: bog-turtle.jpg
     alt: 'A tiny turtle with orange patches on the side of its throat crawls through the grass'
-    link: 'https://flic.kr/p/ugxqqh'
-    caption: 'A young bog turtle in an Appalachian bog. Photo by Gary Peeples, USFWS.'
+    caption: 'A young bog turtle in an Appalachian bog. <a href="https://flic.kr/p/ugxqqh">Photo</a> by Gary Peeples, USFWS.'
     position: 'left center'
-updated: 'August 8th, 2016'
+updated: 'February 20th, 2019'
 ---
 {{< facebook >}}
 
@@ -63,6 +62,7 @@ If you took an incredible wildlife photo, or have an experience at a national wi
 *Please note*: by doing this, you give us permission to share your material on USFWS social media channels, however, you do not forfeit any copyright.
 
 ### Blogs and Online Stories
+
 - [The Morning Carpool: Mama Opossum Style](https://www.buzzfeed.com/katherinetaylor/morning-carpool-mama-opossum-style-u23o) (Buzzfeed)
 - [What Happens When a Captive Red Wolf Spots a Squirrel?](https://www.buzzfeed.com/katherinetaylor/what-happens-when-a-captive-red-wolf-spots-a-squir-u23o) (Buzzfeed)
 - [10 of the (Not So) Creepiest Crawlies You’ll See at the Florida Keys National Wildlife Refuge](https://www.buzzfeed.com/katherinetaylor/10-of-the-not-so-creepiest-crawlies-youll-see-a-u23o) (Buzzfeed list)
