@@ -20,10 +20,11 @@ tags:
     - Kentucky
     - Mussel
     - 'North Carolina'
+    - 'Raleigh Ecological Services Field Office'
     - Tennessee
     - 'Tennessee Ecological Services Field Office'
     - Virginia
-updated: 'October 5th, 2018'
+updated: 'February 20th, 2019'
 ---
 
 - **Taxon:** Bivalve

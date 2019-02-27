@@ -1,17 +1,18 @@
 ---
 title: 'Red wolf recovery program review'
-date: 2018-09-19
+date: 2018-09-19T00:00:00.000Z
 hero:
     name: red-wolf-father-and-pups.jpg
     alt: 'A male red wolf looks on as two pups play'
-    caption: 'Red wolf (<em>Canis rufus</em>) with pups. Photo by <a href="https://www.flickr.com/photos/ucumari/">Valerie</a>, <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/legalcode">CC BY-NC-ND 2.0.</a>'
-    link: 'https://flic.kr/p/VCa36Q'
+    caption: 'Red wolf (<em>Canis rufus</em>) with pups. <a href="https://flic.kr/p/VCa36Q">Photo</a> by <a href="https://www.flickr.com/photos/ucumari/">Valerie</a>, <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/legalcode">CC BY-NC-ND 2.0.</a>'
     position: 'top left'
 tags:
     - 'Endangered Species Act'
+    - 'North Carolina'
+    - 'Raleigh Ecological Services Field Office'
     - Recovery
     - 'Red Wolf'
-updated: 'September 19th, 2018'
+updated: 'February 20th, 2019'
 ---
 
 ## Why did the U.S. Fish and Wildlife Service (Service) conduct a review for the Red Wolf Recovery Program?
@@ -22,10 +23,10 @@ The Service recognized a need to gather additional science and research to bette
 
 The Service worked closely with the North Carolina Wildlife Resources Commission, academia, nongovernmental organizations, and private landowners to gather the best available science and review implementation of recovery actions associated with four components:
 
-  1) appropriate taxonomic designation and historic distribution of the red wolf;
-  2) long-term viability of the captive red wolf population;
-  3) recovery needs of the red wolf population given pressures such as hybridization with coyotes, human caused mortality, and climate change; and
-  4) how people and red wolves can co-exist.
+1. appropriate taxonomic designation and historic distribution of the red wolf;
+2. long-term viability of the captive red wolf population;
+3. recovery needs of the red wolf population given pressures such as hybridization with coyotes, human caused mortality, and climate change; and
+4. how people and red wolves can co-exist.
 
 ## What were the findings of the Service’s review?
 
@@ -33,7 +34,7 @@ The science now available to the Service shows **the captive population is not s
 
 Relative to the **red wolf’s genetics**, there is disagreement in the scientific community regarding the taxonomy and genetic ancestry of the red wolf. The Service is moving forward with the belief that the red wolf remains a listable entity.
 
-The Wildlife Management Institute (WMI) examined the red wolf’s **historical range** as part of the Service’s review. WMI concluded that an accurate predictor of the red wolf’s range includes all or parts of a significant part of the Southeast United States including North Carolina. The recovery team generally agrees with WMI’s results. 
+The Wildlife Management Institute (WMI) examined the red wolf’s **historical range** as part of the Service’s review. WMI concluded that an accurate predictor of the red wolf’s range includes all or parts of a significant part of the Southeast United States including North Carolina. The recovery team generally agrees with WMI’s results.
 
 The red wolf is a conservation-reliant species that requires intensive, hands-on management to sustain it in the wild. **Hybridization** with coyotes is an ongoing challenge exacerbated by human-caused mortality particularly when a pack loses breeding adults close to mating season. At this time, the reality is that it may simply not be possible to achieve competitive exclusion of coyotes and hybrids with red wolves in northeastern North Carolina. Therefore, the Service will be focusing its management efforts in Dare County and the federal lands there.
 

@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 'Seabeach amaranth'
 scientific: 'Amaranthus pumilus'
 description: 'Seabeach amaranth is a low-growing annual that occurs on sandy beaches from South Carolina to Massachusetts.  Threats to this species include sea level rise, habitat modification and recreational use of beaches.'
@@ -8,9 +7,8 @@ js: /js/species-profile.js
 hero:
     name: seabeach-amaranth-topsail-beach-nc.jpg
     alt: 'A leafy green plant with purple and red coloring around the edges of leaves and stems growing in the sand.'
-    caption: 'Seabeach amaranth in North Carolina. Photo by Dale Suiter USFWS'
+    caption: 'Seabeach amaranth in North Carolina. <a href="https://flic.kr/p/J8kHJR">Photo</a> by Dale Suiter USFWS'
     position: '50% 35%'
-    link: 'https://flic.kr/p/J8kHJR'
 aliases:
     - /wildlife/fish/seabeach-amaranth
     - /species/fish/seabeach-amaranth
@@ -23,12 +21,13 @@ tags:
     - 'New York'
     - 'North Carolina'
     - Plant
+    - 'Raleigh Ecological Services Field Office'
     - Recovery
     - 'Rhode Island'
     - 'Seabeach Amaranth'
     - 'South Carolina'
     - Virginia
-updated: 'October 5th, 2018'
+updated: 'February 20th, 2019'
 ---
 
 - **Taxon:** [Plant](/wildlife/plants)

@@ -1,21 +1,21 @@
 ---
 title: 'Service halts red wolf reintroductions pending examination of recovery program'
 subtitle: 'Will manage animals already in the wild under existing rules for non-essential, experimental population'
-date: '2015-06-30'
+date: 2015-06-30T00:00:00.000Z
 hero:
     name: red-wolf-running.jpg
     alt: 'A red wolf in a full run on a grassy field.'
-    caption: 'A sprinting red wolf. Photo by Curtis Carley for USFWS.'
-    link: 'https://digitalmedia.fws.gov/cdm/singleitem/collection/natdiglib/id/443/rec/15'
+    caption: 'A sprinting red wolf. <a href="https://digitalmedia.fws.gov/cdm/singleitem/collection/natdiglib/id/443/rec/15">Photo</a> by Curtis Carley for USFWS.'
     position: 'top center'
 tags:
     - 'North Carolina'
+    - 'Raleigh Ecological Services Field Office'
     - Recovery
     - 'Red Wolf'
-updated: 'November 29th, 2017'
+updated: 'February 20th, 2019'
 ---
 
-The U.S. Fish and Wildlife Service announced today it will suspend its reintroductions of red wolf into the wild while it gathers additional science and research into the feasibility of recovery for the species under the Endangered Species Act (ESA). The Service intends to complete its review by the end of 2015\. Existing red wolves located in five eastern North Carolina counties will be managed in accordance with rules put in place in 1995 to govern this population, designated “non-essential, experimental” under the ESA.
+The U.S. Fish and Wildlife Service announced today it will suspend its reintroductions of red wolf into the wild while it gathers additional science and research into the feasibility of recovery for the species under the Endangered Species Act (ESA). The Service intends to complete its review by the end of 2015. Existing red wolves located in five eastern North Carolina counties will be managed in accordance with rules put in place in 1995 to govern this population, designated “non-essential, experimental” under the ESA.
 
 This decision was made after a comprehensive evaluation of the population and its role in the overall recovery effort for red wolves by The Wildlife Management Institute in November.
 
@@ -44,6 +44,5 @@ Below is a recording from the news conference on June 30, 2015:
 
 ## Contacts
 
-Phil Kloer, USFWS  
-404-679-7299  
-[Philip_Kloer@fws.gov](mailto:Philip_Kloer@fws.gov)
+Phil Kloer, Public Affairs Specialist  
+[Philip_Kloer@fws.gov](mailto:Philip_Kloer@fws.gov), (404) 679-7299  

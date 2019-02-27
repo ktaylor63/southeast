@@ -5,8 +5,7 @@ description: 'The mountain sweet pitcher plant is an insectivorious species is n
 hero:
     name: mountain-sweet-pitcher-plant-henderson-county.jpg
     alt: 'Bright red flowers emerge from a bog with a forest in the background.'
-    caption: 'Mountain sweet pitcher plant patch in Butt CPA. Photo by Gary Peeples, USFWS.'
-    link: 'https://flic.kr/p/H3SC2u'
+    caption: 'Mountain sweet pitcher plant patch in Butt CPA. <a href="https://flic.kr/p/H3SC2u">Photo</a> by Gary Peeples, USFWS.'
     position: 'bottom center'
 tags:
     - 'Asheville Ecological Services Field Office'
@@ -16,6 +15,7 @@ tags:
     - 'Mountain Sweet Pitcher Plant'
     - 'North Carolina'
     - Plant
+    - 'Raleigh Ecological Services Field Office'
     - Recovery
     - 'South Carolina'
     - 'South Carolina Ecological Services Field Office'
@@ -25,7 +25,7 @@ aliases:
     - /wildlife/plant/mountain-sweet-pitcher-plant
     - /species/plant/mountain-sweet-pitcher-plant
     - /species/plants/mountain-sweet-pitcher-plant
-updated: 'December 19th, 2018'
+updated: 'February 20th, 2019'
 ---
 
 - **Taxon:** Plant

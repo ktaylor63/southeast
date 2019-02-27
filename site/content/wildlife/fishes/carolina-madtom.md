@@ -12,19 +12,21 @@ tags:
     - 'At-Risk Species'
     - 'Endangered Species Act'
     - Fish
+    - 'Neuse River Waterdog'
     - 'North Carolina'
+    - 'Raleigh Ecological Services Field Office'
 hero:
     name: carolina-madtom.jpg
     alt: 'A small catfish swimming above rocky substrate.'
     caption: 'Carolina madtom. Photo by D Biggins, former USFWS.'
     link: 'https://flic.kr/p/Tk6D1L'
     position: 'center left'
-updated: 'October 5th, 2018'
+updated: 'February 19th, 2019'
 ---
 
 - **Taxon:** Freshwater Fish
 - **Range:** Neuse River and Tar River basins, [North Carolina](/north-carolina)
-- **Status:** Candidate species
+- **Status:** At-risk species
 
 {{< scroller-list tag="Carolina Madtom" section="news" >}}
 {{< scroller-list tag="Carolina Madtom" section="articles" >}}

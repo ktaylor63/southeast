@@ -40,6 +40,7 @@ tags:
     - Ohio
     - Oklahoma
     - Pennsylvania
+    - 'Raleigh Ecological Services Field Office'
     - 'Rhode Island'
     - 'South Carolina'
     - 'South Carolina Ecological Services Field Office'
@@ -50,7 +51,7 @@ tags:
     - Virginia
     - 'West Virginia'
     - Wisconsin
-updated: 'December 4th, 2018'
+updated: 'February 20th, 2019'
 ---
 
 The U.S. Fish and Wildlife Service and its partners are working to protect a small, secretive marsh bird that is in steep decline. Some populations of the [eastern black rail](/wildlife/birds/eastern-black-rail/) along the Atlantic coast have dropped by as much as 90 percent, and with a relatively small total population remaining across the eastern United States, the Service is proposing to list the subspecies as threatened under the Endangered Species Act (ESA).

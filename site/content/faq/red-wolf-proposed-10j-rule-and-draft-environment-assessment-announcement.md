@@ -4,15 +4,15 @@ date: 2018-06-27T00:00:00.000Z
 hero:
     name: red-wolf-with-collar.jpg
     alt: 'A small reddish-brown wolf with a large collar around its neck'
-    caption: 'Red wolf (<em>Canis rufus</em>) with radio collar. Photo by Ryan Nordsven, USFWS.'
-    link: 'https://flic.kr/p/dcdox9'
+    caption: 'Red wolf (<em>Canis rufus</em>) with radio collar. <a href="https://flic.kr/p/dcdox9">Photo</a> by Ryan Nordsven, USFWS.'
 tags:
     - 'Endangered Species Act'
     - 'Non-Essential Experimental Population'
     - 'North Carolina'
+    - 'Raleigh Ecological Services Field Office'
     - Recovery
     - 'Red Wolf'
-updated: 'June 28th, 2018'
+updated: 'February 20th, 2019'
 ---
 
 ## What is a red wolf?

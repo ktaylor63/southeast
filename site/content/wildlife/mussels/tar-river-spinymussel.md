@@ -18,14 +18,15 @@ tags:
     - Mollusk
     - Mussel
     - 'North Carolina'
-updated: 'October 5th, 2018'
+    - 'Raleigh Ecological Services Field Office'
+updated: 'February 20th, 2019'
 ---
 
 This freshwater mussel can only be found in North Carolina rivers and streams. It is now limited to a very small portion of its probable historical range and it could become extinct without significant intervention. Biologists from multiple organizations are working together to recover the species and conserve its habitat.
 
-  - **Taxon:** Mollusk
-  - **Range:** Edgecombe, Franklin, Halifax, Johnston, Nash, Pitt, Warren counties, North Carolina.
-  - **Status:** Endangered, Listed July 29, 1985
+- **Taxon:** Mollusk
+- **Range:** Edgecombe, Franklin, Halifax, Johnston, Nash, Pitt, Warren counties, North Carolina.
+- **Status:** Endangered, Listed July 29, 1985
 
 {{< scroller-list tag="Tar River Spinymussel" section="news" >}}
 {{< scroller-list tag="Tar River Spinymussel" section="articles" >}}

@@ -7,7 +7,6 @@ js: /js/species-profile.js
 hero:
     name: spreading-avens.jpg
     alt: 'A biologist repels down a cliff face to find an endangered plant.'
-    link: 'https://flic.kr/p/fkbJ7p'
     caption: 'The National Park Service’s Matt Cooke measures a spreading avens plant. <a href="https://flic.kr/p/fkbJ7p">Photo</a> by Gary Peeples, USFWS.'
     position: '80% 15%'
 tags:
@@ -15,6 +14,7 @@ tags:
     - 'Endangered Species Act'
     - 'North Carolina'
     - Plant
+    - 'Raleigh Ecological Services Field Office'
     - Recovery
     - 'Tennessee Ecological Services Field Office'
     - Tennesssee
@@ -22,7 +22,7 @@ aliases:
     - /wildlife/plant/spreading-avens
     - /species/plant/spreading-avens
     - /species/plants/spreading-avens
-updated: 'October 5th, 2018'
+updated: 'February 20th, 2019'
 ---
 
 - **Taxon:** Plant

@@ -1,9 +1,10 @@
 ---
 title: '$2,500 reward offered for information on second red wolf death'
-date: '2012-10-26'
+date: 2012-10-26T00:00:00.000Z
 tags:
     - 'Law Enforcement'
     - 'North Carolina'
+    - 'Raleigh Ecological Services Field Office'
     - Recovery
     - 'Red Wolf'
     - Reward
@@ -12,10 +13,9 @@ aliases:
 hero:
     name: red-wolf-running.jpg
     alt: 'A red wolf in a full run on a grassy field.'
-    caption: 'A sprinting red wolf. Photo by Curtis Carley for USFWS.'
-    link: 'https://digitalmedia.fws.gov/cdm/singleitem/collection/natdiglib/id/443/rec/15'
+    caption: 'A sprinting red wolf. <a href="https://digitalmedia.fws.gov/cdm/singleitem/collection/natdiglib/id/443/rec/15">Photo</a> by Curtis Carley for USFWS.'
     position: 'top center'
-updated: 'April 25th, 2017'
+updated: 'February 20th, 2019'
 ---
 
 The U.S. Fish and Wildlife Service is requesting assistance with an investigation involving the suspected illegal take of a second radio-collared red wolf that was recently found dead in the past two months.  The wolf was found with a suspected gunshot wound on October 12, 2012, east of Belhaven, in Beaufort County, NC.

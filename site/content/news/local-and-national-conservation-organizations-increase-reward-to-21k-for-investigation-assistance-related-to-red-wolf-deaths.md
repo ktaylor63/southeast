@@ -4,15 +4,16 @@ date: '2013-11-05'
 hero:
     name: red-wolf-zoo-enclosure.jpg
     alt: 'A red wolf in a zoo enclosure.'
-    caption: 'Red wolf. Photo by <a href=\"https://www.flickr.com/photos/ucumari/\">Valerie</a>, <a href=\"https://creativecommons.org/licenses/by-nc-nd/2.0/\">CC BY-NC-ND 2.0</a>.'
-    link: 'https://flic.kr/p/ryVyRY'
+    caption: 'Red wolf. <a href="https://flic.kr/p/ryVyRY">Photo</a> by <a href="https://www.flickr.com/photos/ucumari/">Valerie</a>, <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">CC BY-NC-ND 2.0</a>.'
+    position: '30% 35%'
 tags:
     - 'Law Enforcement'
     - 'North Carolina'
+    - 'Raleigh Ecological Services Field Office'
     - Recovery
     - 'Red Wolf'
     - Reward
-updated: 'April 25th, 2017'
+updated: 'February 20th, 2019'
 ---
 
 Pledged contributions from the North Carolina Wildlife Federation, Red Wolf Coalition, Humane Society of the United States, and the Center for Biological Diversity have increased the reward amount for information on the suspected illegal take of two radio-collared red wolves that were found dead in two different locations in Washington County, NC.
@@ -29,7 +30,7 @@ The first litter of red wolves born in captivity occurred in 1977.  By 1987, eno
   
 About 100 red wolves roam their native habitats in five northeastern North Carolina counties.   Additionally, nearly 200 red wolves comprise the Species Survival Plan managed breeding program in sites across the United States, still an essential element of red wolf recovery.
   
-The red wolf is one of two species of wolves in North America, the other being the gray wolf, (Canis lupus).  As their name suggests, red wolves are known for the characteristic reddish color of their fur most apparent behind the ears and along the neck and legs, but are mostly brown and buff colored with some black along their backs.  Intermediate in size to gray wolves and coyotes, the average adult red wolf weighs 45-80 pounds, stands about 26 inches at the shoulder and is about 4 feet long from the tip of the nose to the end of the tail.
+The red wolf is one of two species of wolves in North America, the other being the gray wolf, (*Canis lupus*).  As their name suggests, red wolves are known for the characteristic reddish color of their fur most apparent behind the ears and along the neck and legs, but are mostly brown and buff colored with some black along their backs.  Intermediate in size to gray wolves and coyotes, the average adult red wolf weighs 45-80 pounds, stands about 26 inches at the shoulder and is about 4 feet long from the tip of the nose to the end of the tail.
   
 Red wolves are social animals that live in packs consisting of a breeding pair and their offspring of different years, typically five to eight animals.  Red wolves prey on a variety of wild mammals such as raccoon, rabbit, white-tailed deer, nutria, and other rodents.  Most active at dusk and dawn, red wolves are elusive and generally avoid humans and human activity.
   

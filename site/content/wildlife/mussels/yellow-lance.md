@@ -13,13 +13,13 @@ tags:
     - Maryland
     - Mussel
     - 'North Carolina'
-    - Raleigh
+    - 'Raleigh Ecological Services Field Office'
     - Virginia
 hero:
     name: yellow-lance.jpg
     alt: 'A group of about a dozen small triangular shellfish in shallow water.'
     caption: 'Yellow lance in the Tar River in North Carolina.  Photo by Sarah McRae, USFWS.'
-updated: 'October 5th, 2018'
+updated: 'February 19th, 2019'
 ---
 
 - **Taxon:** Freshwater mussel. Bivalve, Unionidae

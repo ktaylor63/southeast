@@ -8,13 +8,13 @@ hero:
     name: searching-for-spruce-fir-moss-spider.jpg
     alt: 'A man with a head lamp looks for spiders below a rock outcrop.'
     caption: 'Fred Coyle searching for spruce-fir moss spiders. <a href="https://flic.kr/p/do3Jjb">Photo</a> by Gary Peeples, USFWS.'
-    link: 'https://flic.kr/p/do3Jjb'
     position: '75% 60%'
 tags:
     - Arachnid
     - 'Asheville Ecological Services Field Office'
     - 'Endangered Species Act'
     - 'North Carolina'
+    - 'Raleigh Ecological Services Field Office'
     - Recovery
     - 'Spruce-Fir Moss Spider'
     - Tennessee
@@ -24,7 +24,7 @@ aliases:
     - /wildlife/arachnid/spruce-fir-moss-spider
     - /species/arachnid/spruce-fir-moss-spider
     - /species/arachnids/spruce-fir-moss-spider
-updated: 'October 5th, 2018'
+updated: 'February 20th, 2019'
 ---
 
 - **Taxon:** Plant

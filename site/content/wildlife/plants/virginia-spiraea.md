@@ -8,7 +8,6 @@ hero:
     name: virginia-spiraea.jpg
     alt: 'White flowers with many stamen burst from a shrub much like a hydrangea bush'
     caption: 'Virginia spiraea, Walker County, Georgia. <a href="https://flic.kr/p/9WYY29">Photo</a> © <a href="https://www.flickr.com/photos/alan_cressler/">Alan Cressler</a>, used with permission.'
-    link: 'https://flic.kr/p/9WYY29'
 tags:
     - Alabama
     - 'Asheville Ecological Services Field Office'
@@ -18,6 +17,7 @@ tags:
     - 'North Carolina'
     - Ohio
     - Plant
+    - 'Raleigh Ecological Services Field Office'
     - Recovery
     - Tennessee
     - 'Tennessee Ecological Services Field Office'
@@ -27,7 +27,7 @@ aliases:
     - /wildlife/plant/small-anthered-bittercress
     - /species/plant/small-anthered-bittercress
     - /species/plants/small-anthered-bittercress
-updated: 'October 5th, 2018'
+updated: 'February 20th, 2019'
 ---
 
 - **Taxon:** Plant

@@ -1,19 +1,20 @@
 ---
-title: Final rule to list the yellow lance mussel as threatened
-date: 2018-04-02
+title: 'Final rule to list the yellow lance mussel as threatened'
+date: 2018-04-02T00:00:00.000Z
 tags:
-  - Endangered Species Act
-  - Mussel
-  - Yellow Lance
-  - Recovery
-  - Maryland
-  - Virginia
-  - North Carolina
+    - 'Endangered Species Act'
+    - Maryland
+    - Mussel
+    - 'North Carolina'
+    - 'Raleigh Ecological Services Field Office'
+    - Recovery
+    - Virginia
+    - 'Yellow Lance'
 hero:
     name: yellow-lance.jpg
     alt: 'A group of about a dozen small triangular shellfish in shallow water.'
     caption: 'Yellow lance in the Tar River in North Carolina.  Photo by Sarah McRae, USFWS.'
-updated: 'April 2nd, 2018'
+updated: 'February 19th, 2019'
 ---
 
 ## How does the final listing rule differ from the proposed listing rule?

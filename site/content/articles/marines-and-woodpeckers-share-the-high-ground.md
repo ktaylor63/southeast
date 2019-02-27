@@ -18,10 +18,11 @@ tags:
     - Military
     - 'North Carolina'
     - 'Prescribed Fire'
+    - 'Raleigh Ecological Services Field Office'
     - Recovery
     - 'Red-Cockaded Woodpecker'
     - Virginia
-updated: 'March 22nd, 2018'
+updated: 'February 20th, 2019'
 ---
 
 **Jacksonville, North Carolina** &mdash; Above the distant din of 50-caliber machine gun fire and Cobra attack helicopters, John Hammond hears the unmistakable sound of a red-cockaded woodpecker. He is approaching Combat Town, where U.S. Marines routinely assault a mock Iraqi village at Camp Lejeune.

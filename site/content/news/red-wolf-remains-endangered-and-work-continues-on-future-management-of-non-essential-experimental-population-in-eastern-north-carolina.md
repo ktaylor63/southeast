@@ -4,16 +4,17 @@ subtitle: 'Work continues on future management of Eastern North Carolina experim
 date: 2018-04-24T00:00:00.000Z
 tags:
     - 'Endangered Species Act'
+    - 'Non-Essential Population'
     - 'North Carolina'
+    - 'Raleigh Ecological Services Field Office'
     - Recovery
     - 'Red Wolf'
-    - Non-Essential Population
 hero:
     name: red-wolf-looking-on.jpg
     alt: 'A reddish grey wolf with yellow eyes.'
-    link: 'https://flic.kr/p/hJ22JT'
-    caption: 'Captive red wolf at Species Survival Plan facility, Point Defiance Zoo and Aquarium. Photo by B. Bartel, USFWS.'
-updated: 'April 24th, 2018'
+    caption: 'Captive red wolf at Species Survival Plan facility, Point Defiance Zoo and Aquarium. <a href="https://flic.kr/p/hJ22JT">Photo</a> by B. Bartel, USFWS.'
+    position: '80% 65%'
+updated: 'February 20th, 2019'
 ---
 
 The U.S. Fish and Wildlife Service today released a [five-year status review](https://ecos.fws.gov/docs/five_year_review/doc5714.pdf) and [Species Status Assessment](https://ecos.fws.gov/ServCat/Reference/Profile/98417) outlining the latest science and data supporting its recommendation for no change in the red wolf’s overall status as endangered under the Endangered Species Act. The status review is required every five years and is based on the latest science and data included in a Species Status Assessment (SSA) that serves as the foundation for the recommendation.

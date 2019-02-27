@@ -1,18 +1,18 @@
 ---
 title: 'Red wolf recovery program evaluation'
-date: 2018-09-19
+date: 2018-09-19T00:00:00.000Z
 hero:
     name: red-wolf-with-collar.jpg
     alt: 'A small reddish-brown wolf with a large collar around its neck'
-    caption: 'Red wolf (<em>Canis rufus</em>) with radio collar. Photo by Ryan Nordsven, USFWS.'
-    link: 'https://flic.kr/p/dcdox9'
+    caption: 'Red wolf (<em>Canis rufus</em>) with radio collar. <a href="https://flic.kr/p/dcdox9">Photo</a> by Ryan Nordsven, USFWS.'
 tags:
     - 'Endangered Species Act'
     - 'Non-Essential Experimental Population'
     - 'North Carolina'
+    - 'Raleigh Ecological Services Field Office'
     - Recovery
     - 'Red Wolf'
-updated: 'September 19th, 2018'
+updated: 'February 20th, 2019'
 ---
 
 ## How is the Service going to use the evaluation findings?
@@ -23,7 +23,7 @@ The evaluation completed by the Wildlife Management Institute is currently being
 
 We provided numerous documents including Federal Register notices, national wildlife refuge Environmental Assessments, red wolf recovery plans, red wolf mortality tables, budgets, landowner agreements, and other agency documents. These are listed in Appendix D of the evaluation and are available for download on our website at http://www.fws.gov/redwolf/evaluation.html.
 
-## The Service reported some discrepancies in the number of comments received during the public comment period, specifically, comments received via	email. Why did this happen and how has it been handled?
+## The Service reported some discrepancies in the number of comments received during the public comment period, specifically, comments received via email. Why did this happen and how has it been handled?
 
 The Service relies on Gmail for its email services. To gather comments from the public, the Service established a specific email address. When emails started to come in large numbers with the same text and title automatic Google filters treated them like automated spam attacks and blocked them from the Service’s Red Wolf email account presuming the network was being hacked. After becoming aware of this, the Service posted a press release extending the comment period for another two weeks.
 

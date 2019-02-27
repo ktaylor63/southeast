@@ -14,7 +14,8 @@ tags:
     - 'Louisiana Ecological Services Field Office'
     - Mammal
     - Manatee
-    - Raleigh
+    - 'North Carolina'
+    - 'Raleigh Ecological Services Field Office'
     - 'South Carolina'
     - 'South Carolina Ecological Services Field Office'
 hero:
@@ -22,7 +23,7 @@ hero:
     alt: 'A Florida manatee calf sticks close to its mother in shallow water'
     caption: 'A Florida manatee calf sticks close to its mother in shallow water. Photo: Keith Ramos, USFWS'
 description: 'Manatees are large, elongated marine mammals with paired flippers and a large round or spoon-shaped tail.  They can reach lengths of over 14 feet and weights of over 3,000 pounds'
-updated: 'October 5th, 2018'
+updated: 'February 19th, 2019'
 ---
 
 * **Taxon**: Mammal

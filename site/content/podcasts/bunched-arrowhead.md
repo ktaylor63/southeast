@@ -16,13 +16,14 @@ tags:
     - 'Endangered Species Act'
     - 'North Carolina'
     - Podcast
+    - 'Raleigh Ecological Services Field Office'
     - 'Southern Appalachian Creature Feature'
-updated: 'August 8th, 2018'
+updated: 'February 20th, 2019'
 ---
 
 ## Transcript
 
-Greetings and welcome to the Southern Appalachian Creature Feature. 
+Greetings and welcome to the Southern Appalachian Creature Feature.
 
 What simply looks like a swampy patch of land beside a farm field in Henderson County was actually once home to the most endangered plant in western North Carolina.
 

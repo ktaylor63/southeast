@@ -1,21 +1,21 @@
 ---
 title: 'Federal and state officials request assistance in investigation of red wolf death'
-date: '2016-04-22'
+date: 2016-04-22T00:00:00.000Z
 tags:
     - 'Law Enforcement'
     - 'North Carolina'
+    - 'Raleigh Ecological Services Field Office'
     - 'Red Wolf'
 hero:
     name: red-wolf-with-collar.jpg
     alt: 'A small reddish-brown wolf with a large collar around its neck'
-    caption: 'Red wolf (<em>Canis rufus</em>) with radio collar. Photo by Ryan Nordsven, USFWS.'
-    link: 'https://flic.kr/p/dcdox9'
-updated: 'November 29th, 2017'
+    caption: 'Red wolf (<em>Canis rufus</em>) with radio collar. <a href="https://flic.kr/p/dcdox9">Photo</a> by Ryan Nordsven, USFWS.'
+updated: 'February 20th, 2019'
 ---
 
-The U.S. Fish and Wildlife Service and the North Carolina Wildlife Resources Commission are requesting assistance with an investigation involving a gunshot death of a red wolf.  A federally-protected red wolf was found dead Nov. 12, 2015, near Fairfield in Hyde County, North Carolina. Based on the condition of the body and other evidence, the actual date of death is estimated to be Oct. 31, 2015\. The necropsy results recently received indicate the cause of death by gunshot.
+The U.S. Fish and Wildlife Service and the North Carolina Wildlife Resources Commission are requesting assistance with an investigation involving a gunshot death of a red wolf.  A federally-protected red wolf was found dead Nov. 12, 2015, near Fairfield in Hyde County, North Carolina. Based on the condition of the body and other evidence, the actual date of death is estimated to be Oct. 31, 2015. The necropsy results recently received indicate the cause of death by gunshot.
 
-The Service is offering a reward of $2,500 for information that leads to the successful prosecution in this case. 
+The Service is offering a reward of $2,500 for information that leads to the successful prosecution in this case.
 
 Anyone with information on the death of this or any other red wolf is urged to contact Resident Agent in Charge John Elofson at 404-763-7959 x222; Special Agent Jason Keith at 919-856-4520 x34; North Carolina Zone Wildlife Officer Frank Simms at 252-796-3004 x223; or North Carolina Wildlife Resources Commission Officer Robert Wayne at 252-269-6734.
 
@@ -24,6 +24,6 @@ If someone accidentally kills a red wolf, they must report it by calling the U.S
 
 It is important to report red wolf incidents quickly so that Service personnel can minimize conflicts and retrieve any carcasses while they are still intact.
 
-To learn more about red wolves and the Service’s efforts to recover them, please visit [fws.gov/redwolf](https://www.fws.gov/redwolf).
+To learn more about red wolves and the Service’s efforts to recover them, please visit [fws.gov/southeast/wildlife/mammals/red-wolf](/wildlife/mammals/red-wolf).
 
 The North Carolina Wildlife Resources Commission is the state government agency created by the General Assembly in 1947 to conserve and sustain the state’s fish and wildlife resources through research, scientific management, wise use, and public input.  The Commission is the regulatory agency responsible for the enforcement of N.C. fishing, hunting, trapping and boating laws.  For more information, visit: [ncwildlife.org](http://www.ncwildlife.org).

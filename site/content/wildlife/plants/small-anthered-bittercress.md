@@ -13,18 +13,19 @@ tags:
     - 'Endangered Species Act'
     - 'North Carolina'
     - Plant
+    - 'Raleigh Ecological Services Field Office'
     - Recovery
     - Virginia
 aliases:
     - /wildlife/plant/small-anthered-bittercress
     - /species/plant/small-anthered-bittercress
     - /species/plants/small-anthered-bittercress
-updated: 'October 5th, 2018'
+updated: 'February 20th, 2019'
 ---
 
- - **Taxon:** Plant
- - **Range:** [North Carolina](/north-carolina), [Virginia](/virginia)
- - **Status:** [Listed as endnagered on September 21, 1989](https://ecos.fws.gov/docs/federal_register/fr1597.pdf)
+- **Taxon:** Plant
+- **Range:** [North Carolina](/north-carolina), [Virginia](/virginia)
+- **Status:** [Listed as endnagered on September 21, 1989](https://ecos.fws.gov/docs/federal_register/fr1597.pdf)
 
 {{< scroller-list tag="Small-Anthered Bittercress" section="news" >}}
 {{< scroller-list tag="Small-Anthered Bittercress" section="articles" >}}

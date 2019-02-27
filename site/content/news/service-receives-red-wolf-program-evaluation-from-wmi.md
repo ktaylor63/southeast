@@ -1,17 +1,18 @@
 ---
 title: 'Service receives red wolf program evaluation from WMI'
 subtitle: 'Expects a decision regarding the future of the program in early 2015'
-date: '2014-11-20'
+date: 2014-11-20T00:00:00.000Z
 hero:
     name: red-wolf-looking-on.jpg
     alt: 'A reddish grey wolf with yellow eyes.'
-    link: 'https://flic.kr/p/hJ22JT'
-    caption: 'Captive red wolf at Species Survival Plan facility, Point Defiance Zoo and Aquarium. Photo by B. Bartel, USFWS.'
+    caption: 'Captive red wolf at Species Survival Plan facility, Point Defiance Zoo and Aquarium. <a href="https://flic.kr/p/hJ22JT">Photo</a> by B. Bartel, USFWS.'
+    position: '80% 65%'
 tags:
     - 'North Carolina'
+    - 'Raleigh Ecological Services Field Office'
     - Recovery
     - 'Red Wolf'
-updated: 'April 24th, 2017'
+updated: 'February 20th, 2019'
 ---
 
 The U.S. Fish and Wildlife Service today released a 171-page, peer-reviewed evaluation of its Red Wolf Recovery Program’s non-essential, experimental population in five Eastern North Carolina counties.
@@ -28,9 +29,9 @@ The evaluation, the agreement with North Carolina, and the Service documents use
 
 ## Steve Williams, Wildlife Management Institute
 
-“Agencies interested in improving their conservation programs often reach out to independent reviewers to evaluate the success of their programs,” said Williams, the report’s chief author.  “In this case, the Fish and Wildlife Service asked the Institute to conduct just such a review.  The findings and conclusions contained in our report cover a wide range of issues grouped under the categories of science, program management, and human dimensions.  The Fish and Wildlife Service has a clear understanding of the science involved in the restoration of the most endangered canid in North America.  Its introduction of captive red wolves into the wild has proven successful. 
+“Agencies interested in improving their conservation programs often reach out to independent reviewers to evaluate the success of their programs,” said Williams, the report’s chief author.  “In this case, the Fish and Wildlife Service asked the Institute to conduct just such a review.  The findings and conclusions contained in our report cover a wide range of issues grouped under the categories of science, program management, and human dimensions.  The Fish and Wildlife Service has a clear understanding of the science involved in the restoration of the most endangered canid in North America.  Its introduction of captive red wolves into the wild has proven successful.
 
-“Our review looked at 28 years of the recovery program.  As with all programs, hindsight is 20/20.  WMI concluded that the recovery program management could have been improved if a more interdisciplinary approach was used to better respond to public concerns and information needs.  We also concluded that the rules established for the recovery program were not always followed.  However, we believe that Fish and Wildlife staff acted in the best interest of the red wolves and the public with whom they were working. 
+“Our review looked at 28 years of the recovery program.  As with all programs, hindsight is 20/20.  WMI concluded that the recovery program management could have been improved if a more interdisciplinary approach was used to better respond to public concerns and information needs.  We also concluded that the rules established for the recovery program were not always followed.  However, we believe that Fish and Wildlife staff acted in the best interest of the red wolves and the public with whom they were working.
 
 “Finally,” Williams concluded, “the Fish and Wildlife Service must do a better job of understanding the human dimensions of this program at the local level.  The recovery of red wolves is a complicated and difficult process.  We hope our conclusions will assist the Fish and Wildlife Service in its deliberations about the future of the program in North Carolina.”
 
@@ -48,6 +49,5 @@ The evaluation, the agreement with North Carolina, and the Service documents use
 
 ## Contact
 
-Phil Kloer, USFWS  
-404-679-7299  
-[Philip_Kloer@fws.gov](mailto:Philip_Kloer@fws.gov)
+Phil Kloer, Public Affairs Specialist  
+[Philip_Kloer@fws.gov](mailto:Philip_Kloer@fws.gov), 404-679-7299  

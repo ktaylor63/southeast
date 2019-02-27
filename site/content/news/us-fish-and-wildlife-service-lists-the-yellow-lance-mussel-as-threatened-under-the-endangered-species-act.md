@@ -1,20 +1,21 @@
 ---
-title: U.S. Fish and Wildlife Service lists the yellow lance mussel as threatened under the Endangered Species Act
-subtitle: Conservation efforts will improve water quality for the mussel, other wildlife, local communities
+title: 'U.S. Fish and Wildlife Service lists the yellow lance mussel as threatened under the Endangered Species Act'
+subtitle: 'Conservation efforts will improve water quality for the mussel, other wildlife, local communities'
 tags:
-  - Endangered Species Act
-  - Mussel
-  - Yellow Lance
-  - Recovery
-  - Maryland
-  - Virginia
-  - North Carolina
-date: 2018-04-02
+    - 'Endangered Species Act'
+    - Maryland
+    - Mussel
+    - 'North Carolina'
+    - 'Raleigh Ecological Services Field Office'
+    - Recovery
+    - Virginia
+    - 'Yellow Lance'
+date: 2018-04-02T00:00:00.000Z
 hero:
     name: yellow-lance.jpg
     alt: 'A group of about a dozen small triangular shellfish in shallow water.'
     caption: 'Yellow lance in the Tar River in North Carolina.  Photo by Sarah McRae, USFWS.'
-updated: 'April 2nd, 2018'
+updated: 'February 19th, 2019'
 ---
 
 Today, the U.S. Fish and Wildlife Service announced that the [yellow lance mussel](/wildlife/mussels/yellow-lance/) will be listed as threatened under the [Endangered Species Act](/endangered-species-act) (ESA) following a rigorous evaluation of the best available science.  Partnerships with state wildlife agencies and others have already been established to work toward improving habitat conditions for the mussel, which is one of nature’s most diligent water filterers.

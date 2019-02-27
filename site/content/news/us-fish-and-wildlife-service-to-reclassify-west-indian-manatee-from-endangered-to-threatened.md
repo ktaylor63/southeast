@@ -3,16 +3,20 @@ title: 'U.S. Fish and Wildlife Service to reclassify West Indian manatee from en
 subtitle: 'Endangered Species Act protections helped rescue beloved southeastern sea cow from brink of extinction; Service will continue to lead conservation actions to increase species population, reduce threats & improve habitat conditions'
 date: '2016-01-07'
 tags:
-    - Manatee
     - Florida
+    - Manatee
+    - 'North Carolina'
     - 'Puerto Rico'
+    - 'Raleigh Ecological Services Field Office'
+    - 'South Carolina'
+    - 'South Carolina Ecological Services Field Office'
 hero:
     name: manatee-closeup-with-fish.jpg
     alt: 'A manatee partially covered in algae looks directly into the camera surrounded by a school of fish.'
     link: 'https://flic.kr/p/CmXCFB'
     caption: 'Manatee. Photo by S. Whitecraft, USFWS.'
     position: 'top center'
-updated: 'October 26th, 2016'
+updated: 'February 19th, 2019'
 ---
 
 **MIAMI, FL** – As a result of significant improvements in its population and habitat conditions, and reductions in direct threats, the U.S. Fish and Wildlife Service (Service) announced today that the West Indian manatee is proposed to be downlisted from endangered to threatened status under the Endangered Species Act (ESA). The proposal to downlist the manatee to threatened will not affect federal protections currently afforded by the ESA, and the Service remains committed to conservation actions to fully recover manatee populations.

@@ -1,8 +1,9 @@
 ---
 title: 'Fewer red wolf litters reported for 2013 whelping season'
-date: '2013-06-12'
+date: 2013-06-12T00:00:00.000Z
 tags:
     - 'North Carolina'
+    - 'Raleigh Ecological Services Field Office'
     - Recovery
     - 'Red Wolf'
 aliases:
@@ -10,9 +11,9 @@ aliases:
 hero:
     name: red-wolf-pup-in-hand.jpg
     alt: 'A tiny red wolf pup held by a biologist wearing blue gloves.'
-    caption: 'Red wolf pup. Photo by A. Beyer, USFWS.'
-    link: 'https://flic.kr/p/egdg63'
-updated: 'April 25th, 2017'
+    caption: 'Red wolf pup. <a href="https://flic.kr/p/egdg63">Photo</a> by A. Beyer, USFWS.'
+    position: '50% 35%'
+updated: 'February 20th, 2019'
 ---
 
 The final red wolf pup count for the 2013 whelping season has been tallied.
@@ -23,9 +24,9 @@ The red wolf (*Canis rufus*) is one of the world’s most endangered wild canids
 
 The first litter of red wolves born in captivity occurred in 1977. By 1987, enough red wolves were bred in captivity to begin a restoration program on Alligator River National Wildlife Refuge in northeastern North Carolina. Since then, the experimental population area has expanded to include three national wildlife refuges, a Department of Defense bombing range, state-owned lands, and private property, spanning a total of 1.7 million acres.
 
-About 100 red wolves roam their native habitats in five northeastern North Carolina counties. Additionally, nearly 200 red wolves comprise the Species Survival Plan captive breeding program in sites across the United States, still an essential element of red wolf recovery. Interbreeding with the coyote (Canis latrans), a species not native to North Carolina, has been recognized as a threat affecting restoration of red wolves in this section of their historical home range. Currently, the Red Wolf Recovery Program is using adaptive management strategies to reduce the threat of coyotes while building the wild red wolf population in northeastern North Carolina. In addition, the North Carolina Wildlife Resources Commission is committed to working with the Fish and Wildlife Service in the development of a comprehensive canid management plan that includes methods for controlling coyote populations and incorporates the conservation goals of the red wolf. 
+About 100 red wolves roam their native habitats in five northeastern North Carolina counties. Additionally, nearly 200 red wolves comprise the Species Survival Plan captive breeding program in sites across the United States, still an essential element of red wolf recovery. Interbreeding with the coyote (*Canis latrans*), a species not native to North Carolina, has been recognized as a threat affecting restoration of red wolves in this section of their historical home range. Currently, the Red Wolf Recovery Program is using adaptive management strategies to reduce the threat of coyotes while building the wild red wolf population in northeastern North Carolina. In addition, the North Carolina Wildlife Resources Commission is committed to working with the Fish and Wildlife Service in the development of a comprehensive canid management plan that includes methods for controlling coyote populations and incorporates the conservation goals of the red wolf.
 
-The red wolf is one of two species of wolves in North America, the other being the gray wolf, (Canis lupus). As their name suggests, red wolves are known for the characteristic reddish color of their fur most apparent behind the ears and along the neck and legs, but are mostly brown and buff colored with some black along their backs. Intermediate in size to gray wolves and coyotes, the average adult red wolf weighs 45-80 pounds, stands about 26 inches at the shoulder and is about 4 feet long from the tip of the nose to the end of the tail.
+The red wolf is one of two species of wolves in North America, the other being the gray wolf, (*Canis lupus*). As their name suggests, red wolves are known for the characteristic reddish color of their fur most apparent behind the ears and along the neck and legs, but are mostly brown and buff colored with some black along their backs. Intermediate in size to gray wolves and coyotes, the average adult red wolf weighs 45-80 pounds, stands about 26 inches at the shoulder and is about 4 feet long from the tip of the nose to the end of the tail.
 
 Red wolves are social animals that live in packs consisting of a breeding pair and their offspring of different years, typically five to eight animals. Red wolves prey on a variety of wild mammals such as raccoon, rabbit, white-tailed deer, nutria, and other rodents. Most active at dusk and dawn, red wolves are elusive and generally avoid humans and human activity.
 

@@ -4,17 +4,17 @@ date: 2018-06-27T00:00:00.000Z
 hero:
     name: red-wolf-running.jpg
     alt: 'A red wolf in a full run on a grassy field.'
-    caption: 'A sprinting red wolf. Photo by Curtis Carley for USFWS.'
-    link: 'https://digitalmedia.fws.gov/cdm/singleitem/collection/natdiglib/id/443/rec/15'
+    caption: 'A sprinting red wolf. <a href="https://digitalmedia.fws.gov/cdm/singleitem/collection/natdiglib/id/443/rec/15">Photo</a> by Curtis Carley for USFWS.'
     position: '75% 5%'
 tags:
     - 'Alligator River National Wildlife Refuge'
     - 'Endangered Species Act'
     - 'Non-Essential Experimental Population'
     - 'North Carolina'
+    - 'Raleigh Ecological Services Field Office'
     - Recovery
     - 'Red Wolf'
-updated: 'September 19th, 2018'
+updated: 'February 20th, 2019'
 ---
 
 More than 30 years ago, the U.S. Fish and Wildlife Service and its partners began efforts to reintroduce the endangered [red wolf](/wildlife/mammals/red-wolf) into the wild in North Carolina. While many of the captive-bred wolves adapted well to a wild environment, the program faced unforeseen challenges, including hybridization of wolves with coyotes and conflicts with humans. After initially increasing, the population plateaued and then declined. Today, only approximately 35 wild wolves remain, with a further 200-plus wolves in captive breeding facilities.

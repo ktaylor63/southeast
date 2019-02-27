@@ -1,22 +1,22 @@
 ---
 title: 'Frequently asked questions about red wolf recovery under the Endangered Species Act May 2017'
-date: 2017-05-19
+date: 2017-05-19T00:00:00.000Z
 hero:
     name: red-wolf-pup.jpg
     alt: 'A small red wolf puppy held by a biologist.'
-    caption: 'Captive red wolf puppy. Photo by Ryan Nordsven, USFWS.'
-    link: 'https://flic.kr/p/cNDfLE'
+    caption: 'Captive red wolf puppy. <a href="https://flic.kr/p/cNDfLE">Photo</a> by Ryan Nordsven, USFWS.'
 tags:
     - 'Endangered Species Act'
     - 'North Carolina'
+    - 'Raleigh Ecological Services Field Office'
     - Recovery
     - 'Red Wolf'
-updated: 'May 19th, 2017'
+updated: 'February 20th, 2019'
 ---
 
 ## Why did the U.S. Fish and Wildlife Service (Service) conduct a review for the Red Wolf Recovery Program?
 
-The Service recognized a need to gather additional science and research to better guide recovery of the endangered red wolf under the Endangered Species Act (ESA). To that end, the Service initiated a two-year, two-step review of the red wolf recovery program including the non-essential, experimental population in northeastern North Carolina. 
+The Service recognized a need to gather additional science and research to better guide recovery of the endangered red wolf under the Endangered Species Act (ESA). To that end, the Service initiated a two-year, two-step review of the red wolf recovery program including the non-essential, experimental population in northeastern North Carolina.
 
 The review began in 2014 with a peer-reviewed program assessment by the Wildlife Management Institute. It was later expanded in June 2015 to include recovery efforts beyond the program’s wild population in North Carolina to help the Service identify actions necessary to guide red wolf recovery on the landscape. A recovery team was established last fall to examine feasibility of recovery, population viability, the historical range and human dimensions. Its work led to a report with options for the Service to consider. Among the options considered, one of the recommendations the Service committed to is to publish a new proposed 10(j) rule to reconsider the size, scope, and management of the red wolf non-essential experimental population in North Carolina.
 
@@ -38,17 +38,17 @@ Designating an experimental population is one tool to facilitate reintroduction 
 
 The Service designates experimental populations following the Administrative Procedures Act (APA) and its 1984 ESA Section 10(j) regulations (49 FR 33885). Under the APA and ESA regulations, when the Service designates an experimental population it is required to:
 
-  1) Develop and publish a proposed and final 10(j) regulation in the Federal Register, where the proposed regulation is subject to peer review and a public comment period of at least 30 days, that provides:
-    - A method for identifying the experimental population (e.g., boundaries of the experimental population area);
-    - A finding as to whether the population is essential or nonessential;
-    - Management restrictions or protective measures, or other special management concerns; and,
-    - A process for periodic review of the success or failure of the release and the effect of the release on the conservation of the species.
-  2) Use the best scientific and commercial data available to consider:
-    - Any possible adverse effects on existing populations; 
-    - The likelihood that the experimental population will become established and survive in the foreseeable future;
-    - The relative effects that establishment of an experimental population will have on the recovery of the species; and,
-    - The extent to which the population may be affected by actions within or near the experimental population area.
-  3) Comply with Section 7 of the ESA, the National Environmental Policy Act (NEPA), and any other applicable regulations.
+1. Develop and publish a proposed and final 10(j) regulation in the Federal Register, where the proposed regulation is subject to peer review and a public comment period of at least 30 days, that provides:
+  - A method for identifying the experimental population (e.g., boundaries of the experimental population area);
+  - A finding as to whether the population is essential or nonessential;
+  - Management restrictions or protective measures, or other special management concerns; and,
+  - A process for periodic review of the success or failure of the release and the effect of the release on the conservation of the species.
+2. Use the best scientific and commercial data available to consider:
+  - Any possible adverse effects on existing populations; 
+  - The likelihood that the experimental population will become established and survive in the foreseeable future;
+  - The relative effects that establishment of an experimental population will have on the recovery of the species; and,
+  - The extent to which the population may be affected by actions within or near the experimental population area.
+3. Comply with Section 7 of the ESA, the National Environmental Policy Act (NEPA), and any other applicable regulations.
 
 ## How does the Service determine the geographic boundaries of the experimental population?
 
@@ -74,7 +74,7 @@ NEPA is a federal law intended to ensure that information about environmental ef
 
 ## Why is the Service drafting an environmental review under NEPA?
 
-Certain Service actions require NEPA documentation. These actions include, among others, issuance of regulations, like the establishment or revision of a 10(j) rule. 
+Certain Service actions require NEPA documentation. These actions include, among others, issuance of regulations, like the establishment or revision of a 10(j) rule.
 
 ## Who can I contact for more information?
 

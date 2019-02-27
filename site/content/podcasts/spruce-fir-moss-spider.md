@@ -14,9 +14,10 @@ tags:
     - 'Asheville Ecological Services Field Office'
     - 'North Carolina'
     - Podcast
+    - 'Raleigh Ecological Services Field Office'
     - 'Southern Appalachian Creature Feature'
     - 'Spruce Fir Moss Spider'
-updated: 'August 8th, 2018'
+updated: 'February 20th, 2019'
 ---
 
 ## Transcript

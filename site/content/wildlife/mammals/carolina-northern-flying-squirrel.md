@@ -13,7 +13,7 @@ tags:
     - 'Endangered Species Act'
     - Mammal
     - 'North Carolina'
-    - Raleigh
+    - 'Raleigh Ecological Services Field Office'
     - Tennessee
     - 'Tennessee Ecological Services Field Office'
     - Virginia
@@ -22,7 +22,7 @@ hero:
     alt: 'A biologist holding a small squirrel with yellow gloves'
     caption: 'A Carolina northern flying squirrel in the hands of a biologist. Photo by Sue Cameron, USFWS.'
     position: '50% 30%'
-updated: 'October 5th, 2018'
+updated: 'February 19th, 2019'
 ---
 
 - **Taxa:** Mammal

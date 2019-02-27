@@ -14,13 +14,14 @@ tags:
     - 'Endangered Species Act'
     - 'North Carolina'
     - Plant
+    - 'Raleigh Ecological Services Field Office'
     - Recovery
     - 'South Carolina'
 aliases:
     - /wildlife/plant/white-irisette
     - /species/plant/white-irisette
     - /species/plants/white-irisette
-updated: 'October 23rd, 2018'
+updated: 'February 20th, 2019'
 ---
 
 - **Taxon:** Plant

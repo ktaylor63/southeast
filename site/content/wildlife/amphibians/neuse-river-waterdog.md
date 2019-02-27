@@ -10,6 +10,7 @@ tags:
     - 'Endangered Species Act'
     - 'Neuse River Basin'
     - 'North Carolina'
+    - 'Raleigh Ecological Services Field Office'
     - 'Tar River Basin'
 aliases:
     - /wildlife/amphibian/neuse-river-waterdog
@@ -21,12 +22,12 @@ hero:
     caption: 'A young Neuse River waterdog from the Little River, Johnston County, North Carolina, by Jeff Beane.'
     link: 'https://flic.kr/p/U6bSnC'
     position: 'bottom left'
-updated: 'October 5th, 2018'
+updated: 'February 19th, 2019'
 ---
 
- - **Taxon:** Freshwater salamander
- - **Range:** Neuse and Tar River basins, [North Carolina](/north-carolina)
- - **Status:** Candidate Species
+- **Taxon:** Freshwater salamander
+- **Range:** Neuse and Tar River basins, [North Carolina](/north-carolina)
+- **Status:** At-risk species
 
 {{< scroller-list tag="Neuse River Waterdog" section="news" >}}
 {{< scroller-list tag="Neuse River Waterdog" section="articles" >}}

@@ -1,11 +1,12 @@
 ---
 title: 'Federal officials request assistance in sixth gunshot red wolf reward up to $26,000'
-date: '2013-11-21'
+date: 2013-11-21T00:00:00.000Z
 aliases:
     - /news/2013/090.html
 tags:
     - 'Law Enforcement'
     - 'North Carolina'
+    - 'Raleigh Ecological Services Field Office'
     - Recovery
     - 'Red Wolf'
     - Reward
@@ -13,11 +14,11 @@ hero:
     name: red-wolf-killed.jpg
     alt: 'A dead red wolf shows signs of decomposition in the understory.'
     caption: 'Gunshot red wolf found on private property north of the Town of Swanquarter, in western Hyde County, North Carolina, on Tuesday, November 19, 2013. Photo by USFWS.'
-    position: 'center left'
-updated: 'April 25th, 2017'
+    position: '20% 40%'
+updated: 'February 20th, 2019'
 ---
 
-The U.S. Fish and Wildlife Service is requesting assistance with an investigation involving the suspected illegal take of a sixth red wolf in the last four weeks.  In the latest death, the federally protected wolf’s body was recovered from private property north of the Town of Swanquarter, in western Hyde County, North Carolina, on Tuesday, November 19, 2013.  The red wolf’s body had an apparent gunshot wound.
+The U.S. Fish and Wildlife Service is requesting assistance with an investigation involving the suspected illegal take of a sixth red wolf in the last four weeks.  In the latest death, the federally protected wolf’s body was recovered from private property north of the Town of Swanquarter, in western Hyde County, North Carolina, on Tuesday, November 19, 2013. The red wolf’s body had an apparent gunshot wound.
 
 Anyone with information that directly leads to an arrest, a criminal conviction, a civil penalty assessment, or forfeiture of property on the subject or subjects responsible for the suspected unlawful take of a red wolf may be eligible for a reward.
 

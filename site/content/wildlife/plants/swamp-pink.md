@@ -6,7 +6,6 @@ hero:
     name: swamp-pink-flowering.jpg
     alt: 'Bright pink conical flowers.'
     caption: 'Flowering swamp pink. <a href="https://flic.kr/p/SiANSo">Photo</a> by <a href="https://www.flickr.com/photos/blumenbiene/">Maja Dumat</a>, <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a>.'
-    link: 'https://flic.kr/p/SiANSo'
     position: '15% 55%'
 type: species-profile
 js: /js/species-profile.js
@@ -23,11 +22,12 @@ tags:
     - 'New Jersey'
     - 'North Carolina'
     - Plant
+    - 'Raleigh Ecological Services Field Office'
     - 'South Carolina'
     - 'South Carolina Ecological Services Field Office'
     - 'Swamp Pink'
     - Virginia
-updated: 'December 19th, 2018'
+updated: 'February 20th, 2019'
 ---
 
 - **Taxon:** Plant

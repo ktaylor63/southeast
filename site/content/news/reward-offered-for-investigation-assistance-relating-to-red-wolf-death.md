@@ -1,21 +1,21 @@
 ---
 title: 'Reward offered for investigation assistance relating to red wolf death'
-date: '2013-01-29'
+date: 2013-01-29T00:00:00.000Z
 aliases:
     - /news/2013/003.html
 tags:
     - 'Law Enforcement'
     - 'North Carolina'
+    - 'Raleigh Ecological Services Field Office'
     - Recovery
     - 'Red Wolf'
     - Reward
 hero:
     name: red-wolf-zoo.jpg
     alt: 'A wolf with grey and brown fur and tan eyes in front of a rock wall.'
-    caption: 'Red wolf. Photo by <a href=\"https://www.flickr.com/photos/ucumari/\">Valerie</a>, <a href=\"https://creativecommons.org/licenses/by-nc-nd/2.0/\">CC BY-NC-ND 2.0</a>.'
-    link: 'https://flic.kr/p/9u1JCu'
-    position: 'top left'
-updated: 'April 25th, 2017'
+    caption: 'Red wolf. <a href="https://flic.kr/p/9u1JCu">Photo</a> by <a href="https://www.flickr.com/photos/ucumari/">Valerie</a>, <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">CC BY-NC-ND 2.0</a>.'
+    position: '15% 15%'
+updated: 'February 20th, 2019'
 ---
 
 The U. S. Fish and Wildlife Service is requesting assistance with an investigation involving the suspected illegal take of a radio-collared red wolf that was recently found dead. The wolf was found with a suspected gunshot wound on January 18, 2013, north of the Town of Fairfield, in Tyrrell County, North Carolina.

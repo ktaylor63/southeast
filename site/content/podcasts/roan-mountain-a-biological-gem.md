@@ -8,18 +8,18 @@ hero:
     name: roan-mountain-rhododendron.jpg
     alt: 'Bright purple flowers emerge from large bushes on the side of a mountain.'
     caption: 'Rhododendron on Roan Mountain. <a href="https://flic.kr/p/9VW71L">Photo</a> by Jim Liestman, CC BY-NC-ND 2.0.'
-    link: 'https://flic.kr/p/9VW71L'
 tags:
     - 'Asheville Ecological Services Field Office'
     - 'Carolina Northern Flying Squirrel'
     - 'North Carolina'
     - Podcast
+    - 'Raleigh Ecological Services Field Office'
     - 'Roan Mountain'
     - 'Southern Appalachian Creature Feature'
     - 'Spruce-Fir Forest'
     - 'Spruce-Fir Moss Spider'
     - Tennessee
-updated: 'August 8th, 2018'
+updated: 'February 20th, 2019'
 ---
 
 ## Transcript

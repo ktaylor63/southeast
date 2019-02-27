@@ -7,7 +7,6 @@ js: /js/species-profile.js
 hero:
     name: green-pitcher-plants.jpg
     alt: 'Dozens of green plants in the shape of a pitcher.'
-    link: 'https://flic.kr/p/26DB4Zm'
     caption: 'Clump of green pitcher plants. <a href="https://flic.kr/p/26DB4Zm">Photo</a> by Gary Peeples, USFWS.'
     position: '50% 70%'
 aliases:
@@ -21,8 +20,9 @@ tags:
     - Georgia
     - 'North Carolina'
     - Plant
+    - 'Raleigh Ecological Services Field Office'
     - Recovery
-updated: 'December 19th, 2018'
+updated: 'February 20th, 2019'
 ---
 
 - **Taxon:** [Plant](/wildlife/plants)

@@ -1,10 +1,11 @@
 ---
 title: 'Federal officials request assistance regarding latest red wolf killing'
 subtitle: 'Reward for information now up to $26,000'
-date: '2013-11-20'
+date: 2013-11-20T00:00:00.000Z
 tags:
     - 'Law Enforcement'
     - 'North Carolina'
+    - 'Raleigh Ecological Services Field Office'
     - Recovery
     - 'Red Wolf'
     - Reward
@@ -13,7 +14,7 @@ hero:
     alt: 'A dead red wolf with a gun shot wound to the body in the bed of a truck.'
     caption: 'Red wolf found shot in Washington County, NC on Nov. 18, 2013. Photo by USFWS.'
     position: 'center right'
-updated: 'April 25th, 2017'
+updated: 'February 20th, 2019'
 ---
 
 The U.S. Fish and Wildlife Service is requesting assistance with an investigation involving the suspected illegal take of a fifth red wolf in the last month.  In the latest death, the federally protected wolf’s body was recovered from private property north of the town of Creswell, in Washington County, North Carolina, on Monday, November 18, 2013.  The red wolf’s body had an apparent gunshot wound.

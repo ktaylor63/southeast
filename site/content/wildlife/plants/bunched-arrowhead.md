@@ -10,6 +10,7 @@ tags:
     - 'Endangered Species Act'
     - 'North Carolina'
     - Plant
+    - 'Raleigh Ecological Services Field Office'
     - 'South Carolina'
     - 'South Carolina Ecological Services Field Office'
 aliases:
@@ -19,10 +20,9 @@ aliases:
 hero:
     name: bunched-arrowhead.jpg
     alt: 'A grass-like plant with white flowers emerges from the marsh.'
-    link: 'https://flic.kr/p/rWP7zZ'
     caption: 'Bunched arrowhead. <a href="https://flic.kr/p/rWP7zZ">Photo</a> by Gary Peeples, USFWS.'
     position: 'top left'
-updated: 'October 5th, 2018'
+updated: 'February 20th, 2019'
 ---
 
 **Taxon:** Plant  

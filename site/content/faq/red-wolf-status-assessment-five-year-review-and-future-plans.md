@@ -4,14 +4,14 @@ date: 2018-04-24T00:00:00.000Z
 tags:
     - 'Endangered Species Act'
     - 'North Carolina'
+    - 'Raleigh Ecological Services Field Office'
     - Recovery
     - 'Red Wolf'
 hero:
     name: red-wolf-eyes.jpg
     alt: 'A close-up photograph of a red wolf face'
-    caption: 'Red wolf. Photo by B. Bartel, USFWS.'
-    link: 'https://flic.kr/p/egdhkS'
-updated: 'September 19th, 2018'
+    caption: 'Red wolf. <a href="https://flic.kr/p/egdhkS">Photo</a> by B. Bartel, USFWS.'
+updated: 'February 20th, 2019'
 ---
 
 ## What is a red wolf?

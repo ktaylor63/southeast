@@ -14,6 +14,7 @@ tags:
     - 'New Jersey'
     - 'North Carolina'
     - Plant
+    - 'Raleigh Ecological Service Field Office'
     - 'South Carolina'
     - 'South Carolina Ecological Services Field Office'
 aliases:
@@ -23,10 +24,9 @@ aliases:
 hero:
     name: american-chaffseed.jpg
     alt: 'Fuzzy yellow and purple flowers emerging from a green grass-like stalk.'
-    link: 'https://flic.kr/p/JioDEh'
-    caption: 'American chaffseed © Robert Sincliar. Copyright release form S://EA/Photo Permissions/american-chaffseed.pdf'
+    caption: '<a href="https://flic.kr/p/JioDEh">American chaffseed</a> © Robert Sincliar. Copyright release form S://EA/Photo Permissions/american-chaffseed.pdf'
     position: 'bottom center'
-updated: 'October 5th, 2018'
+updated: 'February 20th, 2019'
 ---
 
 **Taxon:** Plant  

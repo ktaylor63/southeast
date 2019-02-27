@@ -1,19 +1,22 @@
 ---
-title: "U.S. Fish and Wildlife Service proposes Endangered Species Act protection for “little devil” Caribbean seabird"
-subtitle: "Proposal to list the black-capped petrel as threatened includes a special rule to eliminate unnecessary permitting restrictions"
+title: 'U.S. Fish and Wildlife Service proposes Endangered Species Act protection for “little devil” Caribbean seabird'
+subtitle: 'Proposal to list the black-capped petrel as threatened includes a special rule to eliminate unnecessary permitting restrictions'
 date: 2018-10-05T00:00:00.000Z
 hero:
-  name: black-capped-petrel-from-below.jpg
-  alt: "A sea bird from below with black feathers around the edges of its wings and a white breast with the ocean in the background."
-  caption: 'Black-capped petrel off the coast of Cape Hatteras, NC. Photo © Brian Patteson, <a href="http://seabirding.com">seabirding.com</a>, used with permission.'
-  position: "45% 35%"
+    name: black-capped-petrel-from-below.jpg
+    alt: 'A sea bird from below with black feathers around the edges of its wings and a white breast with the ocean in the background.'
+    caption: 'Black-capped petrel off the coast of Cape Hatteras, NC. Photo © Brian Patteson, <a href="http://seabirding.com">seabirding.com</a>, used with permission.'
+    position: '45% 35%'
 tags:
-  - "Black-Capped Petrel"
-  - "Caribbean Ecological Services Field Office"
-  - "South Carolina Ecological Services Field Office"
-  - "Endangered Species Act"
-  - "Puerto Rico"
-updated: "October 5th, 2018"
+    - 'Black-Capped Petrel'
+    - 'Caribbean Ecological Services Field Office'
+    - 'Endangered Species Act'
+    - 'North Carolina'
+    - 'Puerto Rico'
+    - 'Raleigh Ecological Services Field Office'
+    - 'South Carolina'
+    - 'South Carolina Ecological Services Field Office'
+updated: 'February 20th, 2019'
 ---
 
 The future is uncertain for the [black-capped petrel](/wildlife/birds/black-capped-petrel), a seabird that breeds in remote mountains on the Caribbean island of Hispaniola and forages in open ocean waters up the U.S. Eastern Seaboard as far north as off the coast of Virginia.

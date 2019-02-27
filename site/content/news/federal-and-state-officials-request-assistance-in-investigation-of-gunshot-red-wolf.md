@@ -1,7 +1,7 @@
 ---
 title: 'Federal and state officials request assistance in investigation of gunshot red wolf'
 description: 'The U.S. Fish and Wildlife Service and the N.C. Wildlife Resources Commission are requesting assistance with an investigation involving the suspected illegal take of a radio-collared red wolf that was recently found dead.'
-date: '2014-10-17'
+date: 2014-10-17T00:00:00.000Z
 hero:
     name: red-wolf-adult-brad-mcphee.jpg
     alt: 'An adult red wolf walking stealthily in a caged enclosure at the zoo.'
@@ -11,8 +11,9 @@ tags:
     - Louisiana
     - 'Louisiana Ecological Services Field Office'
     - 'North Carolina'
+    - 'Raleigh Ecological Services Field Office'
     - 'Red Wolf'
-updated: 'May 7th, 2018'
+updated: 'February 20th, 2019'
 ---
 
 The U.S. Fish and Wildlife Service and the N.C. Wildlife Resources Commission are requesting assistance with an investigation involving the suspected illegal take of a radio-collared red wolf that was recently found dead.  The federally protected red wolf was found with an apparent gunshot wound on Tuesday, Sept. 30, 2014, east of Columbia, in Tyrrell County, North Carolina. Based on body condition and field sign, the actual date of death is estimated to be Sept. 26, 2014.
@@ -35,7 +36,7 @@ To get up-to-date red wolf mortality information, visit [http://www.fws.gov/redw
 
 The red wolf is one of the world’s most endangered wild canids.  Once widely-distributed throughout the southeastern United States, red wolf populations have been decimated due to intensive predator control programs, hybridization with coyotes and loss of habitat.  A remnant population of red wolves was found along the Gulf Coast of Texas and Louisiana.  After being declared an endangered species in 1967, efforts were initiated to locate and capture as many wild red wolves as possible.  Of the 17 remaining wolves captured by biologists, 14 became the founders of a successful zoo-based breeding program.  Consequently, the U.S. Fish and Wildlife Service declared red wolves extinct in the wild in 1980.
 
-The first litter of red wolves born in captivity occurred in 1977\.  By 1987, enough red wolves were bred in captivity to begin a restoration program on Alligator River National Wildlife Refuge in northeastern North Carolina.  Since then, the experimental population area has expanded to include three national wildlife refuges, a Department of Defense bombing range, state-owned lands, and private property, spanning a total of 1.7 million acres.
+The first litter of red wolves born in captivity occurred in 1977.  By 1987, enough red wolves were bred in captivity to begin a restoration program on Alligator River National Wildlife Refuge in northeastern North Carolina.  Since then, the experimental population area has expanded to include three national wildlife refuges, a Department of Defense bombing range, state-owned lands, and private property, spanning a total of 1.7 million acres.
 
 About 100 red wolves roam their native habitats in five northeastern North Carolina counties.  Additionally, nearly 200 red wolves comprise the Species Survival Plan managed breeding program in sites across the United States, still an essential element of red wolf recovery.
 
@@ -43,7 +44,7 @@ The red wolf is one of two species of wolves in North America, the other being t
 
 Red wolves are social animals that live in packs consisting of a breeding pair and their offspring of different years, typically five to eight animals.  Red wolves prey on a variety of wild mammals such as raccoon, rabbit, white-tailed deer, nutria, and other rodents.  Most active at dusk and dawn, red wolves are elusive and generally avoid humans and human activity.
 
-To learn more about red wolves and the Service’s efforts to recover them, please visit [www.fws.gov/redwolf](http://www.fws.gov/redwolf).
+To learn more about red wolves and the Service’s efforts to recover them, please visit [fws.gov/southeast/wildlife/mammals/red-wolf](/wildlife/mammals/red-wolf).
 
 ## Contacts
 

@@ -1,9 +1,10 @@
 ---
 title: 'Reward offered for investigation assistance relating to third red wolf death'
-date: '2012-11-09'
+date: 2012-11-09T00:00:00.000Z
 tags:
     - 'Law Enforcement'
     - 'North Carolina'
+    - 'Raleigh Ecological Services Field Office'
     - Recovery
     - 'Red Wolf'
     - Reward
@@ -12,9 +13,9 @@ aliases:
 hero:
     name: red-wolf-pup-in-hand.jpg
     alt: 'A tiny red wolf pup held by a biologist wearing blue gloves.'
-    caption: 'Red wolf pup. Photo by A. Beyer, USFWS.'
-    link: 'https://flic.kr/p/egdg63'
-updated: 'April 25th, 2017'
+    caption: 'Red wolf pup. <a href="https://flic.kr/p/egdg63">Photo</a> by A. Beyer, USFWS.'
+    position: '50% 35%'
+updated: 'February 20th, 2019'
 ---
 
 The U.S. Fish and Wildlife Service is requesting assistance with an investigation involving the suspected illegal take of a third radio-collared red wolf that was recently found dead.  The wolf was found with a suspected gunshot wound on November 2, 2012, north of Creswell, NC, near the Washington and Tyrrell county line.

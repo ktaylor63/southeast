@@ -1,16 +1,16 @@
 ---
 title: 'Science leads Fish and Wildlife Service to significant changes for red wolf recovery'
-date: '2016-09-12'
+date: 2016-09-12T00:00:00.000Z
 hero:
     name: red-wolf-inquisitive.jpg
     alt: 'An inquisitive red wolf looks into the distance.'
-    caption: 'Red wolf (<em>Canis rufus</em>). Photo by <a href="https://www.flickr.com/photos/ucumari/">Valerie</a>, <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/legalcode">CC BY-NC-ND 2.0.</a>'
-    link: 'https://flic.kr/p/GbACFJ'
+    caption: 'Red wolf (<em>Canis rufus</em>). <a href="https://flic.kr/p/GbACFJ">Photo</a> by <a href="https://www.flickr.com/photos/ucumari/">Valerie</a>, <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/legalcode">CC BY-NC-ND 2.0.</a>'
 tags:
     - 'North Carolina'
+    - 'Raleigh Ecological Services Field Office'
     - Recovery
     - 'Red Wolf'
-updated: 'November 29th, 2017'
+updated: 'February 20th, 2019'
 ---
 Recovery of the red wolf in the wild is feasible with significant changes that must be implemented to secure the captive and wild populations.
 
@@ -24,9 +24,9 @@ Here are the steps the Service will begin implementing:
 
 First, the Service will move quickly to secure the captive population of red wolves, which we now know is not sustainable in its current configuration.
 
-Second, the Service will determine where potential new sites exist for additional experimental wild populations by October 2017\. The Service will ensure these determinations will comply with all environmental rules and include public engagement.
+Second, the Service will determine where potential new sites exist for additional experimental wild populations by October 2017. The Service will ensure these determinations will comply with all environmental rules and include public engagement.
 
-Third, the Service will propose to revise the existing experimental population rule to apply only to the Dare County Bombing Range and Alligator River National Wildlife Refuge, where stable packs exist on federal lands. This proposed action will change the scope of and goals for the experimental population and is expected to be completed by December 2017\. These proposed changes will go through appropriate environmental review and public comment.
+Third, the Service will propose to revise the existing experimental population rule to apply only to the Dare County Bombing Range and Alligator River National Wildlife Refuge, where stable packs exist on federal lands. This proposed action will change the scope of and goals for the experimental population and is expected to be completed by December 2017. These proposed changes will go through appropriate environmental review and public comment.
 
 Finally, by October 2017 the Service working with others will complete a comprehensive Species Status Assessment and five-year status review for the red wolf, building on the foundation of work accomplished over the past two years and past history. This will guide the Service’s recovery planning in the future.
 
@@ -42,10 +42,10 @@ he red wolf’s historical range has been a relatively consistent source of deba
 
 To learn more about today’s announcement, download:
 
-  - [Service’s decision memorandum](/pdf/memo/recommended-decisions-in-response-to-red-wolf-recovery-program-evaluation.pdf)
-  - [recovery team's report](/pdf/report/red-wolf-recovery-team-recommendations-facilitated-by-group-solutions-inc.pdf)
-  - [population viability assessment](/pdf/report/red-wolf-population-viability-analysis-faust-et-al-2016.pdf)
-  - [and other background on the program's evaluation page](https://www.fws.gov/redwolf/evaluation.html)
+- [Service’s decision memorandum](/pdf/memo/recommended-decisions-in-response-to-red-wolf-recovery-program-evaluation.pdf)
+- [recovery team's report](/pdf/report/red-wolf-recovery-team-recommendations-facilitated-by-group-solutions-inc.pdf)
+- [population viability assessment](/pdf/report/red-wolf-population-viability-analysis-faust-et-al-2016.pdf)
+- [and other background on the program's evaluation page](https://www.fws.gov/redwolf/evaluation.html)
 
 ## Listen to the Media Conference Call
 

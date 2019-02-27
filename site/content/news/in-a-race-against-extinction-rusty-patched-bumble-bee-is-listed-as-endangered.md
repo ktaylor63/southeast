@@ -7,7 +7,7 @@ tags:
     - Georgia
     - Kentucky
     - 'North Carolina'
-    - Raleigh
+    - 'Raleigh Ecological Services Field Office'
     - 'Rusty Patched Bumble Bee'
     - 'South Carolina'
     - 'South Carolina Ecological Services Field Office'
@@ -18,7 +18,7 @@ hero:
     alt: 'A yellow and black bumble bee perched on a white flower.'
     link: 'https://flic.kr/p/cN9ZnJ'
     caption: 'Rusty-patched bumble bee (<em>Bombus affinis</em>).  Photo by <a href=\"https://www.flickr.com/photos/8583446@N05/\" target=\"_blank\">Dan Mullen</a>, <a href=\"https://creativecommons.org/licenses/by-nc-nd/2.0/\" target=\"_blank\">CC BY-NC-ND 2.0</a>.'
-updated: 'August 24th, 2018'
+updated: 'February 19th, 2019'
 ---
 
 Just 20 years ago, the rusty patched bumble bee was a common sight, so ordinary that it went almost unnoticed as it moved from flower to flower, collecting nectar and pollen. But the species, now balancing precariously on the brink of extinction, has become the first-ever bumble bee in the United States -- and the first bee of any kind in the contiguous 48 states -- to be declared endangered.

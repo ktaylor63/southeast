@@ -12,9 +12,9 @@ tags:
     - 'Appalachian Elktoe'
     - 'Asheville Ecological Services Field Office'
     - 'Endangered Species Act'
-    - Erwin National Fish Hatchery
     - Mussel
     - 'North Carolina'
+    - 'Raleigh Ecological Services Field Office'
     - Recovery
     - Tennessee
     - 'Tennessee Ecological Services Field Office'
@@ -23,7 +23,7 @@ hero:
     alt: 'A mussel with fringe around its opening partially burried in the sand on the river bottom.'
     caption: 'Appalachian elktoe in the Little River Translyvania County NC. Photo by Gary Peeples, USFWS.'
     position: '25% 67%'
-updated: 'October 5th, 2018'
+updated: 'February 20th, 2019'
 ---
 
 - **Taxon:** Mussel

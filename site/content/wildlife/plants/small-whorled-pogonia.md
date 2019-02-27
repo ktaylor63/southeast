@@ -8,7 +8,6 @@ hero:
     name: small-whorled-pogonia.jpg
     alt: 'A leafy green plant emerging from the leaf-littered forest floor.'
     caption: 'Small-whorled pogonia on the forest floor. <a href=https://flic.kr/p/GVybTb">Photo</a> by Gary Peeples, USFWS.'
-    link: 'https://flic.kr/p/GVybTb'
     position: '25% 15%'
 tags:
     - 'Asheville Ecological Services Field Office'
@@ -16,13 +15,14 @@ tags:
     - Georgia
     - 'North Carolina'
     - Plant
+    - 'Raleigh Ecological Services Field Office'
     - Recovery
     - 'South Carolina'
+    - 'South Carolina Ecological Services Field Office'
     - Tennessee
     - 'Tennessee Ecological Services Field Office'
-    - 'South Carolina Ecological Services Field Office'
     - Virginia
-updated: 'October 5th, 2018'
+updated: 'February 20th, 2019'
 ---
 
 - **Taxon:** [Plant](/wildlife/plants)

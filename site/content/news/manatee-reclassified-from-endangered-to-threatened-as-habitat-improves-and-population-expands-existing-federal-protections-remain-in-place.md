@@ -18,13 +18,14 @@ tags:
     - 'Louisiana Ecological Services Field Office'
     - Manatee
     - Mississippi
+    - 'North Carolina'
     - 'Puerto Rico'
-    - Raleigh
+    - 'Raleigh Ecological Services Field Office'
     - 'South Carolina'
     - 'South Carolina Ecological Services Field Office'
     - 'US Virgin Islands'
 date: 2017-03-30T00:00:00.000Z
-updated: 'December 18th, 2018'
+updated: 'February 19th, 2019'
 ---
 
 [Read the release in Spanish](/pdf/espanol/manatee-reclassified-from-endangered-to-threatened-as-habitat-improves-and-population-expands-existing-federal-protections-remain-in-place.pdf).

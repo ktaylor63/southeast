@@ -2,22 +2,22 @@
 title: 'Federal and state officials request assistance in investigation of January 2017 red wolf death'
 date: '2017-07-06'
 aliases:
-  - /news/2017/07/federal-and-state-officials-request-assistance-in-investigation-of-july-2017-red-wolf-death
+    - /news/2017/07/federal-and-state-officials-request-assistance-in-investigation-of-july-2017-red-wolf-death
 tags:
     - 'Endangered Species Act'
     - 'North Carolina'
+    - 'Raleigh Ecological Services Field Office'
     - Recovery
     - 'Red Wolf'
 hero:
     name: red-wolf-zoo.jpg
     alt: 'A wolf with grey and brown fur and tan eyes in front of a rock wall.'
-    caption: 'Red wolf. Photo by <a href=\"https://www.flickr.com/photos/ucumari/\">Valerie</a>, <a href=\"https://creativecommons.org/licenses/by-nc-nd/2.0/\">CC BY-NC-ND 2.0</a>.'
-    link: 'https://flic.kr/p/9u1JCu'
-    position: 'top left'
-updated: 'July 10th, 2017'
+    caption: 'Red wolf. <a href="https://flic.kr/p/9u1JCu">Photo</a> by <a href="https://www.flickr.com/photos/ucumari/">Valerie</a>, <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">CC BY-NC-ND 2.0</a>.'
+    position: '15% 15%'
+updated: 'February 20th, 2019'
 ---
 
-The U.S. Fish and Wildlife Service and the North Carolina Wildlife Resources Commission are requesting assistance with an investigation involving the poisoning death of a red wolf.  A federally-protected red wolf was found dead January 27, 2017, in Tyrell County, North Carolina. 
+The U.S. Fish and Wildlife Service and the North Carolina Wildlife Resources Commission are requesting assistance with an investigation involving the poisoning death of a red wolf.  A federally-protected red wolf was found dead January 27, 2017, in Tyrell County, North Carolina.
 
 The Service is offering a reward of $2,500 for information that leads to the successful prosecution in this case.  
 
@@ -29,9 +29,9 @@ If someone accidentally kills a red wolf, they must report it by calling the U.S
 
 It is important to report red wolf incidents quickly so that Service personnel can minimize conflicts and retrieve any carcasses while they are still intact.
 
-To learn more about red wolves and the Service’s efforts to recover them, please visit [fws.gov/redwolf](https://www.fws.gov/redwolf).
+To learn more about red wolves and the Service’s efforts to recover them, please visit [fws.gov/southeast/wildlife/mammals/red-wolf](/wildlife/mammals/red-wolf).
 
-The North Carolina Wildlife Resources Commission is the state government agency created by the General Assembly in 1947 to conserve and sustain the state’s fish and wildlife resources through research, scientific management, wise use, and public input.  The Commission is the regulatory agency responsible for the enforcement of North Carolina fishing, hunting, trapping and boating laws.  For more information, visit: [ncwildlife.org](http://www.ncwildlife.org). 
+The North Carolina Wildlife Resources Commission is the state government agency created by the General Assembly in 1947 to conserve and sustain the state’s fish and wildlife resources through research, scientific management, wise use, and public input.  The Commission is the regulatory agency responsible for the enforcement of North Carolina fishing, hunting, trapping and boating laws.  For more information, visit: [ncwildlife.org](http://www.ncwildlife.org).
 
 ## Contact
 

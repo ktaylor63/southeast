@@ -1,18 +1,18 @@
 ---
 title: 'Red wolf non-essential population management decision'
-date: 2015-07-01
+date: 2015-07-01T00:00:00.000Z
 hero:
     name: red-wolf-inquisitive.jpg
     alt: 'An inquisitive red wolf looks into the distance.'
-    caption: 'Red wolf (<em>Canis rufus</em>). Photo by <a href="https://www.flickr.com/photos/ucumari/">Valerie</a>, <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/legalcode">CC BY-NC-ND 2.0.</a>'
-    link: 'https://flic.kr/p/GbACFJ'
+    caption: 'Red wolf (<em>Canis rufus</em>). <a href="https://flic.kr/p/GbACFJ">Photo</a> by <a href="https://www.flickr.com/photos/ucumari/">Valerie</a>, <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/legalcode">CC BY-NC-ND 2.0.</a>'
 tags:
     - 'Endangered Species Act'
     - 'Non-Essential Experimental Population'
     - 'North Carolina'
+    - 'Raleigh Ecological Services Field Office'
     - Recovery
     - 'Red Wolf'
-updated: 'September 19th, 2018'
+updated: 'February 20th, 2019'
 ---
 
 ## What are the Service’s future plans for managing the Eastern North Carolina Non-Essential Experimental Red Wolf Population?

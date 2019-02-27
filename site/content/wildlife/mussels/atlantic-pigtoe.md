@@ -13,6 +13,7 @@ tags:
     - Georgia
     - Mussel
     - 'North Carolina'
+    - 'Raleigh Ecological Services Field Office'
     - 'South Carolina'
     - 'South Carolina Ecological Services Field Office'
     - Virginia
@@ -20,7 +21,7 @@ hero:
     name: atlantic-pigtoe-ready-for-release.jpg
     alt: 'Seven small brownish-yellow mussels held in open hands by a biologist.'
     caption: 'Atlantic pigtoes ready for release. Photo by USFWS.'
-updated: 'October 9th, 2018'
+updated: 'February 19th, 2019'
 ---
 
 - **Taxon:** Freshwater mussel

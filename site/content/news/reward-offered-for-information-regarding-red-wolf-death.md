@@ -1,9 +1,10 @@
 ---
 title: 'Reward offered for information regarding red wolf death'
-date: '2013-10-30'
+date: 2013-10-30T00:00:00.000Z
 tags:
     - 'Law Enforcement'
     - 'North Carolina'
+    - 'Raleigh Ecological Services Field Office'
     - Recovery
     - 'Red Wolf'
     - Reward
@@ -11,7 +12,7 @@ hero:
     name: red-wolf-looking-at-you-from-enclosure.jpg
     alt: 'A red wolf in a semi-forested fenced enclosure.'
     caption: 'Red wolf at Virginia Living Museum. Photo by USFWS.'
-updated: 'April 25th, 2017'
+updated: 'February 20th, 2019'
 ---
 
 The U. S. Fish and Wildlife Service is requesting assistance with an investigation involving the suspected illegal take of a radio-collared red wolf that was recently found dead. The federally protected wolf was found with a suspected gunshot wound on October 28, 2013, south of Roper and west of Lake Phelps, in Washington County, North Carolina.

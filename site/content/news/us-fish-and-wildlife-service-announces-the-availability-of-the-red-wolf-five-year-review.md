@@ -1,17 +1,18 @@
 ---
 title: 'U.S. Fish and Wildlife Service announces the availability of the red wolf five-year review'
-date: '2007-10-10'
+date: 2007-10-10T00:00:00.000Z
 tags:
     - 'Endangered Species Act'
     - 'Five Year Review'
     - 'North Carolina'
+    - 'Raleigh Ecological Services Field Office'
     - Recovery
     - 'Red Wolf'
 hero:
     name: red-wolf-adult-brad-mcphee.jpg
     alt: 'An adult red wolf walking stealthily in a caged enclosure at the zoo.'
     caption: 'Adult Red wolf. Photo by Brad McPhee, Defiance Zoo and Aquarium.'
-updated: 'April 25th, 2017'
+updated: 'February 20th, 2019'
 ---
 
 The U.S. Fish and Wildlife Service (Service) announced today the completion and availability of the five-year status review of the [red wolf](/wildlife/mammal/red-wolf).

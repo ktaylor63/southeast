@@ -9,11 +9,11 @@ tags:
     - Maryland
     - Mussel
     - 'North Carolina'
-    - Raleigh
+    - 'Raleigh Ecological Services Field Office'
     - Virginia
     - 'Yellow Lance'
 date: '2017-04-04'
-updated: 'April 7th, 2017'
+updated: 'February 19th, 2019'
 ---
 
 A freshwater mussel native to waters from Maryland to [North Carolina](/north-carolina) along the Atlantic seaboard is declining.  Recent surveys showed the [yellow lance](/wildlife/mussels/yellow-lance/) mussel has lost 57 percent of its historical range. As a result, the U.S. Fish and Wildlife Service (Service) is proposing that it be listed as threatened under the Endangered Species Act (ESA).

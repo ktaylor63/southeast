@@ -7,16 +7,16 @@ author: 'Gary Peeples'
 hero:
     name: red-wolf-zoo.jpg
     alt: 'A wolf with grey and brown fur and tan eyes in front of a rock wall.'
-    caption: 'Red wolf. Photo by <a href="https://www.flickr.com/photos/ucumari/">Valerie</a>, <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">CC BY-NC-ND 2.0</a>.'
-    link: 'https://flic.kr/p/9u1JCu'
-    position: 'top left'
+    caption: 'Red wolf. <a href="https://flic.kr/p/9u1JCu">Photo</a> by <a href="https://www.flickr.com/photos/ucumari/">Valerie</a>, <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">CC BY-NC-ND 2.0</a>.'
+    position: '15% 15%'
 tags:
     - 'Asheville Ecological Services Field Office'
     - 'North Carolina'
     - Podcast
+    - 'Raleigh Ecological Services Field Office'
     - 'Red Wolf'
     - 'Southern Appalachian Creature Feature'
-updated: 'August 8th, 2018'
+updated: 'February 20th, 2019'
 ---
 
 ## Transcript

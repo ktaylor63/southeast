@@ -1,18 +1,18 @@
 ---
 title: 'Programming conservation'
 author: 'Lilibeth Serrano Vélez'
-date: '2016-10-31'
+date: 2016-10-31T00:00:00.000Z
 tags:
     - Bats
     - 'North Carolina'
-    - Raleigh
+    - 'Raleigh Ecological Services Field Office'
     - 'South Carolina'
     - 'South Carolina Ecological Services Field Office'
 hero:
     name: northern-long-eared-bat-in-hand.jpg
     alt: 'A small, brown, furry bat in a gloved hand.'
     caption: 'Northern long-eared bat caught at Roanoke River National Wildlife Refuge. Photo by USFWS.'
-updated: 'April 7th, 2017'
+updated: 'February 20th, 2019'
 ---
 
 Gary Jordan is really looking forward to tonight. His gear is ready. The headlamp has fresh batteries, his gloves are packed, and the new net is loaded in the back of his truck. Gary is a biologist for the US Fish and Wildlife Service in Raleigh, North Carolina, and he will be looking for bats. He’ll drive a little more than two hours from Raleigh to the Coastal Plain. Once there, he’ll meet up with private consultants working as contractors. They’ll set up nets near swamps after they thoroughly think through the best location. They’ll try to outsmart the bats by predicting  which direction they might fly. They’ll need to work quickly to be ready before the sun goes down. That’s when the bats start coming out. There is no way to predict which kinds of bats they'll get or how many. But they are looking for one in particular: the northern long-eared bat (NLEB). Gary and his friends will have fun tonight regardless of what happens, because for them, the thrill is in the chase.
