@@ -1,24 +1,24 @@
 ---
 draft: true
-title: "South Carolina Ecological Services Field Office"
-description: "Serving the entire state of South Carolina, our mission is working with others to conserve, protect, and enhance fish, wildlife, plants and their habitats for the continuing benefit of the American people."
+title: 'South Carolina Ecological Services Field Office'
+description: 'Serving the entire state of South Carolina, our mission is working with others to conserve, protect, and enhance fish, wildlife, plants and their habitats for the continuing benefit of the American people.'
 facebook: SouthCarolinaFieldOffice
 twitter: USFWS_SC
 nav: Home
 weight: 1
-office: "South Carolina Ecological Services Field Office"
+office: 'South Carolina Ecological Services Field Office'
 js: /js/field-station.js
 url: /charleston
 type: field-station
 hero:
-  name: north-edisto-south-carolina-sunrise.jpg
-  alt: "Looking at the sunrise from the back of a boat."
-  caption: "Sunrise at North Edisto, South Carolina. Photo by Jennifer Koches, USFWS."
+    name: north-edisto-south-carolina-sunrise.jpg
+    alt: 'Looking at the sunrise from the back of a boat.'
+    caption: 'Sunrise at North Edisto, South Carolina. Photo by Jennifer Koches, USFWS.'
 tags:
-  - "Endangered Species Act"
-  - "South Carolina"
-  - "South Carolina Ecological Services Field Office"
-updated: "November 16th, 2018"
+    - 'Endangered Species Act'
+    - 'South Carolina'
+    - 'South Carolina Ecological Services Field Office'
+updated: 'February 13th, 2019'
 ---
 
 Established in 1973, the South Carolina Ecological Services Field Office (SCESFO), located in Charleston, South Carolina, is primarily focused on protection and recovery of threatened and endangered species, while also supporting conservation of migratory birds, fish, and wetlands. The SCESFO also coordinates with the South Carolina Department of Natural Resources (SCDNR) to address priority species outlined in their South Carolina Wildlife Action Plan.
