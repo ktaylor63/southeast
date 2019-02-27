@@ -13,7 +13,7 @@ tags:
     - 'Endangered Species Act'
     - Recovery
     - 'South Carolina'
-updated: 'February 1st, 2019'
+updated: 'February 7th, 2019'
 ---
 
 When Congress passed the Endangered Species Act (ESA) in 1973, it recognized that our rich natural heritage is of “esthetic, ecological, educational, recreational, and scientific value to our Nation and its people.” It further expressed concern that many of our nation’s native plants and animals were in danger of becoming extinct.
@@ -52,7 +52,7 @@ Not sure whether or not you need an Incidental Take Permit (ITP)? Download the [
 [Black-capped petrel](https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B0AS) (proposed for listing October 2018), [piping plover](https://ecos.fws.gov/ecp0/profile/speciesProfile?sId=6039), [red knot](https://ecos.fws.gov/ecp0/profile/speciesProfile?sId=1864), [green sea turtle](https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=C00S), [Kemp’s ridley sea turtle](https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=C00O), [leatherback sea turtle](https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=C00F), and [loggerhead sea turtle](https://ecos.fws.gov/ecp0/profile/speciesProfile?sId=1110)
 
 **Melanie Olds**, Biologist, melanie_olds@fws.gov, (843) 727-4707 ext. 205  
-[West Indian manatee](https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A007)
+[West Indian manatee](https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A007); *[Learn more about manatees](/wildlife/mammals/manatee/), including tips on minimizing human interactions with the species.*
 
 **April Punsalan**, Botanist, april_punsalan@fws.gov, (843) 727-4707 ext. 218  
 [American chaffseed](https://ecos.fws.gov/ecp0/profile/speciesProfile?sId=1286), [black spored quillwort](https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=S015), [bunched arrowhead](https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=Q219), [Canby’s dropwort](https://ecos.fws.gov/ecp0/profile/speciesProfile?sId=7738), [dwarf-flowered heartleaf](https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=Q1XA), [harperella](https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=Q2H9), [little amphianthus](https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=Q1ST), [Miccosukee gooseberry](https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=Q217), [Michaux’s sumac](https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=Q2HH), [mountain sweet pitcher plant](https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=Q2I0), [persistent trillium](https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=Q23D), [pondberry](https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=Q2CO), [relict trillium](https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=Q2RG), [rock gnome lichen](https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=U001), [rough-leaved loosestrife](https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=Q2DF), [Schweinitz’s sunflower](https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=Q2B7), [seabeach amaranth](https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=Q2MZ), [small-whorled pogonia](https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=Q1XL), [smooth coneflower](https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=Q293), [swamp pink](https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=Q2B8), [white fringeless orchid](https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=Q2GF), and [white irisette](https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=Q39D)
