@@ -9,16 +9,13 @@ tags:
 hero:
     name: lake-mattamuskeet-waterfowl.jpg
     alt: 'Thousands of black birds and white birds litter a blue lake.'
-    link: 'https://flic.kr/p/jMESzk'
-    caption: 'Mattamuskeet National Wildlife Refuge in North Carolina. Photo by Allie Stewart, USFWS.'
+    caption: 'Mattamuskeet National Wildlife Refuge in North Carolina. <a href="https://flic.kr/p/jMESzk">Photo</a> by Allie Stewart, USFWS.'
     position: bottom
-updated: 'December 22nd, 2017'
+updated: 'February 20th, 2019'
 ---
 
 {{< scroller-list tag="North Carolina" number="10" section="news" >}}
-
 {{< scroller-list tag="North Carolina" number="10" section="articles" >}}
-
 {{< scroller-list tag="North Carolina" number="10" section="wildlife" >}}
 
 ## Map of Offices
