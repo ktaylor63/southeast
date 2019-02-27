@@ -1,16 +1,17 @@
-const xhr = require("xhr");
+const xhr = require('xhr');
+const isUrl = require('is-url-superb');
 
-const list = document.querySelector(".peer-review-list");
-const input = document.querySelector(".peer-review-search");
+const list = document.querySelector('.peer-review-list');
+const input = document.querySelector('.peer-review-search');
 
-let hasWWW = window.location.href.indexOf("www");
+let hasWWW = window.location.href.indexOf('www');
 hasWWW = !(hasWWW < 0);
-const baseURL = document.body.getAttribute("data-root");
-const dataURL = hasWWW ? baseURL : baseURL.replace("www.", "");
+const baseURL = document.body.getAttribute('data-root');
+const dataURL = hasWWW ? baseURL : baseURL.replace('www.', '');
 
 let reviews;
 
-const getYearFromDocket = r => r.split("-")[3];
+const getYearFromDocket = r => r.split('-')[3];
 
 const byYear = (a, b) => {
   const yearA = a.docket ? getYearFromDocket(a.docket) : a.fiscalYear;
@@ -19,22 +20,23 @@ const byYear = (a, b) => {
 };
 
 const createListItem = r => {
-  const url = ["https://www.regulations.gov/docket", r.docket].join("?D=");
-  const tense = r.peerReviewReportStatus === "Complete" ? "was" : "will be";
+  const url = ['https://www.regulations.gov/docket', r.docket].join('?D=');
+  const peerReviewUrl = isUrl(r.peerReviewPlan)
+    ? r.peerReviewPlan
+    : `${baseURL}pdf/peer-review/${r.peerReviewPlan}`;
+  const tense = r.peerReviewReportStatus === 'Complete' ? 'was' : 'will be';
   const message = `The ${r.type.toLowerCase()} for ${
     r.species
   } ${tense} peer reviewed in fiscal year ${r.fiscalYear}.`;
   const anchor = `<a href="${url}" target="_blank">Species: ${r.species}</a>`;
   const ssaDoc = r.ssaReport
     ? `<li><a href="${r.ssaReport}">${
-        r.species
-      } species status assessment</a></li>`
-    : "";
+      r.species
+    } species status assessment</a></li>`
+    : '';
   const peerReviewPlan = r.peerReviewPlan
-    ? `<li><a href="${baseURL}pdf/peer-review/${
-        r.peerReviewPlan
-      }" target="_blank">Peer review plan</a></li>`
-    : "";
+    ? `<li><a href="${peerReviewUrl}" target="_blank">Peer review plan</a></li>`
+    : '';
   return `
     <li class="card card-text">
       <span class="card-ribbon">${r.type}</span>
@@ -54,12 +56,12 @@ const render = docs => {
   list.innerHTML = docs
     .sort(byYear)
     .map(createListItem)
-    .join("");
+    .join('');
 };
 
 const search = e => {
   const query = e.target.value;
-  const regex = new RegExp(query, "gi");
+  const regex = new RegExp(query, 'gi');
 
   if (query.length === 0) render(reviews);
 
@@ -76,6 +78,6 @@ const search = e => {
 xhr.get(`${dataURL}data/peer-reviews.js`, (err, res, body) => {
   if (err) console.log(err);
   reviews = JSON.parse(body);
-  input.addEventListener("keyup", search);
+  input.addEventListener('keyup', search);
   render(reviews);
 });
