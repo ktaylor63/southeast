@@ -26,7 +26,9 @@ const template = ({ type, documents: docs }) => {
     <ul>${docs
     .map(d => {
       const year = d.year ? `(${d.year})` : '';
-      return `<li><a href="${d.url}" target="_blank">${d.office} ${d.name} ${year}</a></li>`;
+      return `<li><a href="${d.url}" target="_blank">${d.office} ${
+        d.name
+      } ${year}</a></li>`;
     })
     .join('')}
     </ul>
@@ -45,21 +47,24 @@ const render = docs => {
       .sort((a, b) => a.office < b.office)
       .sort((a, b) => parseInt(a.year) - parseInt(b.year))
       .reverse();
-    list.insertAdjacentHTML('beforeend', template({ type, documents: filtered }));
+    list.insertAdjacentHTML(
+      'beforeend',
+      template({ type, documents: filtered })
+    );
   });
 };
 
 const isFieldStationDocument = docs => {
   const regex = new RegExp(fieldStationName, 'gi');
   return docs.filter(
-    doc =>
-      regex.test(doc.name) ||
-      regex.test(doc.office) ||
-      regex.test(doc.type) ||
-      regex.test(doc.year) ||
-      regex.test(doc.url) ||
-      regex.test(doc.keywords) ||
-      regex.test(doc.programs)
+    doc => regex.test(doc.name)
+      || regex.test(doc.office)
+      || regex.test(doc.type)
+      || regex.test(doc.year)
+      || regex.test(doc.url)
+      || regex.test(doc.keywords)
+      || regex.test(doc.programs)
+      || regex.test(doc.state)
   );
 };
 
