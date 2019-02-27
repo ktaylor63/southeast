@@ -6,13 +6,12 @@ nav: 'Northern long-eared bat'
 hero:
     name: northern-long-eared-bat.jpg
     alt: 'A small furry bat in a crevice of a cave with patches of white fungus on its face and shoulder.'
-    link: 'https://flic.kr/p/re5BtW'
-    caption: 'A northern-long-eared bat with suspected White Nose Syndrome. Photo by Steve Taylor, University of Illinois.'
+    caption: 'A northern-long-eared bat with suspected White Nose Syndrome. <a href="https://flic.kr/p/re5BtW">Photo</a> by Steve Taylor, University of Illinois.'
 tags:
-    - Asheville
     - 'Endangered Species Act'
+    - 'North Carolina'
     - 'Northern Long-Eared Bat'
-updated: 'December 12th, 2018'
+updated: 'February 20th, 2019'
 ---
 
 [Read up on general information about the northern long-eared bat.](https://www.fws.gov/midwest/endangered/mammals/nleb/)

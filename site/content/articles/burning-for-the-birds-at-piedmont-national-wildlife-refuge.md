@@ -4,8 +4,7 @@ description: 'Over a decade of prescribed fire management on a Georgia national 
 lat: 33.095588
 lng: -83.70772
 hero:
-    link: 'https://flic.kr/p/ciG2q3'
-    caption: 'A red-cockaded woodpecker has dinner outside its nesting cavity. Photo by USFWS.'
+    caption: 'A red-cockaded woodpecker has dinner outside its nesting cavity. <a href="https://flic.kr/p/ciG2q3">Photo</a> by USFWS.'
     name: red-cockaded-woodpecker-dinner.jpg
     alt: 'A woodpecker perched on a tree with a bug in its mouth'
     position: 'top center'
@@ -15,7 +14,7 @@ tags:
     - 'Piedmont National Wildlife Refuge'
     - 'Prescribed Fire'
     - 'Red-Cockaded Woodpecker'
-date: '2014-03-21'
+date: 2014-03-21
 author: 'Josh O’Connor, regional fuels specialist'
 updated: 'October 13th, 2017'
 ---
@@ -53,14 +52,14 @@ Obviously the mid-story wasn’t killed as anticipated. The prescribed fire only
 How did the red-cockaded woodpecker respond to this burning? Breeding season monitoring for the past eleven years is as follows:
 
 ## Year
- RCW Cluster Identifier  | 2003 | 2004 | 2005 | 2006 | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013
--------------------------|------|------|------|------|------|------|------|------|------|------|------
-        P15-1            |   X  |   X  |   X  |   X  |   X  |   X  |   X  |   X  |   X  |   X  |   X
-        P15-2            |      |      |      |      |      |      |      |   X  |   X  |   X  |   X
-        P15-3            |      |      |      |      |      |      |      |      |      |   X  |   X
-        P15-4            |      |      |      |      |      |   X  |   X  |   X  |   X  |   X  |   X
-        P15-5            |      |      |      |      |      |   X  |   X  |   X  |   X  |   X  |   X
-        #Active          |   1  |   1  |   1  |   1  |   1  |   3  |   3  |   4  |   4  |   5  |   5
+ | RCW Cluster Identifier | 2003 | 2004 | 2005 | 2006 | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 |
+ | ---------------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+ | P15-1                  | X    | X    | X    | X    | X    | X    | X    | X    | X    | X    | X    |
+ | P15-2                  |      |      |      |      |      |      |      | X    | X    | X    | X    |
+ | P15-3                  |      |      |      |      |      |      |      |      |      | X    | X    |
+ | P15-4                  |      |      |      |      |      | X    | X    | X    | X    | X    | X    |
+ | P15-5                  |      |      |      |      |      | X    | X    | X    | X    | X    | X    |
+ | #Active                | 1    | 1    | 1    | 1    | 1    | 3    | 3    | 4    | 4    | 5    | 5    |
 
 The long-term goal for in compartment 15 is 674 acres of woodpecker habitat. With five clusters this is 135 acres per cluster, just over the 120-acre minimum. The compartment is now in a maintenance mode.
 
