@@ -1,4 +1,12 @@
 stories:
+  - title: "From CBS News, Moment in nature: St. John's National Wildlife Refuge"
+    summary: "Sunday Morning takes you today to the St. John's National Wildlife Refuge in Florida."
+    date: 2019-02-17
+    url: "https://www.cbsnews.com/video/nature-florida-wildlife-refuge/"
+    hero:
+      name: roseate-spoonbills-louisiana.jpg
+      alt: "Small pink birds with rounded bills wade through the shallow water."
+      caption: 'Roseate Spoonbills out in the water. <a href="https://flic.kr/p/bucd7F">Photo</a> by Corey Douglas.'
   - title: "In Michael’s Wake, Help for Rare Woodpeckers at Silver Lake"
     summary: "An endangered bird is receiving emergency help in Georgia following Hurricane Michael, thanks to a timely grant from the National Fish and Wildlife Foundation."
     date: 2019-01-24
