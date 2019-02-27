@@ -1,14 +1,15 @@
 ---
 title: 'Night thrills on the refuge'
-date: 2013-06-25
+date: 2013-06-25T00:00:00.000Z
 hero:
     name: okefenokee-night-falls.jpg
     alt: 'Sunset over waterbody.'
     caption: 'Night falls at Okefenokee National Wildlife Refuge. <a href="https://flic.kr/p/eUA5VK">Photo</a> by Joy Campbell of Okefenokee Adventures.'
 tags:
+    - 'Bon Secour National Wildlife Refuge'
     - 'National Wildlife Refuge System'
     - 'Red Wolf'
-updated: 'January 4th, 2018'
+updated: 'February 20th, 2019'
 ---
 
 Nighttime brings a whole new slant to nature – and some national wildlife refuges are going out of their way to help you see and hear it. Several times a year, they're delaying normal sunset closing times to host night star-viewings, swamp paddles, scorpion hunts and wolf howl serenades in settings hard to beat for natural scenery and wildlife.  
@@ -46,17 +47,17 @@ Here are some refuge night events to plan for this summer and fall:
 ## Night Hikes
 
 - Scorpion Hunt & Night Hike,  
- - Saturday, Sept. 7, 8 p.m., Pahranagat National Wildlife Refuge [http://www.fws.gov/refuge/pahranagat/](http://www.fws.gov/refuge/pahranagat/), NV  
- - Saturday, Sept. 14, 8 p.m., Moapa Valley National Wildlife Refuge [http://www.fws.gov/desertcomplex/moapavalley/](http://www.fws.gov/desertcomplex/moapavalley/), NV  
- - Use a black light to hunt for scorpions. Or learn about animal adaptations to the dark. Space is limited. Sign up: 775-725-3417 ·
+  - Saturday, Sept. 7, 8 p.m., Pahranagat National Wildlife Refuge [http://www.fws.gov/refuge/pahranagat/](http://www.fws.gov/refuge/pahranagat/), NV  
+  - Saturday, Sept. 14, 8 p.m., Moapa Valley National Wildlife Refuge [http://www.fws.gov/desertcomplex/moapavalley/](http://www.fws.gov/desertcomplex/moapavalley/), NV  
+  - Use a black light to hunt for scorpions. Or learn about animal adaptations to the dark. Space is limited. Sign up: 775-725-3417 ·
 - Night nature hike, Bon Secour National Wildlife Refuge [http://www.fws.gov/bonsecour/](http://www.fws.gov/bonsecour/)
- - AL Friday, June 28, July 26, August 30, Sept. 27, 8 p.m. Listen for owls hooting, coyotes howling, frogs calling and strange rustlings in the brush. Meet at the Jeff Friend Trail parking lot. All ages are welcome. The one mile trail is handicapped accessible. Closed toed shoes, long pants, and bug spray are recommended. Please leave flashlights at home. More info: 251-540-7720 
+  - AL Friday, June 28, July 26, August 30, Sept. 27, 8 p.m. Listen for owls hooting, coyotes howling, frogs calling and strange rustlings in the brush. Meet at the Jeff Friend Trail parking lot. All ages are welcome. The one mile trail is handicapped accessible. Closed toed shoes, long pants, and bug spray are recommended. Please leave flashlights at home. More info: 251-540-7720 
 - Full-moon hikes, Ridgefield National Wildlife Refuge [http://www.fws.gov/ridgefieldrefuges/ridgefield/](http://www.fws.gov/ridgefieldrefuges/ridgefield/)
- - WA Sunday, June 23, 8 p.m., Carty Unit on the Oaks to Wetlands trail Monday, July 22, 8 p.m., River 'S' Unit on the Kiwa Trail Hear owls hooting, coyotes yipping. See bats wheeling. Marvel at the night sky away from city lights. Hikes are free. Space is limited. RSVP required: 360-887-3883, [**Night Paddles**](https:=)
+  - WA Sunday, June 23, 8 p.m., Carty Unit on the Oaks to Wetlands trail Monday, July 22, 8 p.m., River 'S' Unit on the Kiwa Trail Hear owls hooting, coyotes yipping. See bats wheeling. Marvel at the night sky away from city lights. Hikes are free. Space is limited. RSVP required: 360-887-3883, [**Night Paddles**](https:=)
 - Full-moon guided canoe trips
- - Arthur R. Marshall Loxahatchee National Wildlife Refuge [http://www.fws.gov/loxahatchee](http://www.fws.gov/loxahatchee), FL Saturday, June 22, 7 – 9 p.m. Saturday, July 20, 7 – 9 p.m. Saturday, August 17, 7 – 9 p.m. Meet at the Lee Road Boat Ramp. Wear a long-sleeved shirt and long pants and bring a flashlight and bug spray. Canoe rental: $32; you may not bring your own canoe. Reservations required: Loxahatchee Canoeing: 561-733-0192
+  - Arthur R. Marshall Loxahatchee National Wildlife Refuge [http://www.fws.gov/loxahatchee](http://www.fws.gov/loxahatchee), FL Saturday, June 22, 7 – 9 p.m. Saturday, July 20, 7 – 9 p.m. Saturday, August 17, 7 – 9 p.m. Meet at the Lee Road Boat Ramp. Wear a long-sleeved shirt and long pants and bring a flashlight and bug spray. Canoe rental: $32; you may not bring your own canoe. Reservations required: Loxahatchee Canoeing: 561-733-0192
 - Okefenokee Swamp at night, Okefenokee National Wildlife Refuge [http://www.fws.gov/okefenokee/](http://www.fws.gov/okefenokee/)
- - GA Take a two-hour sunset tour by motorboat ($50 per adult, age 12 and up; Kids age 5-11, $18; Kids under 5, free) or a four-hour guided kayak or canoe tour ($85 per person). Check ahead; tours are affected by water levels, availability of guides. Or sign up for a multi-day canoe or kayak adventure, with overnight camping. ($10 per person per night plus $25 per day canoe or kayak rental). Other options and more info: Okefenokee Adventures, 912-496-7156, [www.okefenokeeadventures.com](http://www.okefenokeeadventures.com) Photos: [http://bit.ly/14tmQR7](http://bit.ly/14tmQR7)
+  - GA Take a two-hour sunset tour by motorboat ($50 per adult, age 12 and up; Kids age 5-11, $18; Kids under 5, free) or a four-hour guided kayak or canoe tour ($85 per person). Check ahead; tours are affected by water levels, availability of guides. Or sign up for a multi-day canoe or kayak adventure, with overnight camping. ($10 per person per night plus $25 per day canoe or kayak rental). Other options and more info: Okefenokee Adventures, 912-496-7156, [www.okefenokeeadventures.com](http://www.okefenokeeadventures.com) Photos: [http://bit.ly/14tmQR7](http://bit.ly/14tmQR7)
 
 ## Contact
 
