@@ -7,7 +7,7 @@ const input = document.querySelector('.contact-input');
 let totalContacts = '';
 
 const hasWWW = window.location.href.indexOf('www');
-const baseURL = document.body.getAttribute('data-root');
+const baseURL =  document.body.getAttribute('data-root') || 'http://localhost:3000/';
 const dataURL = hasWWW > 0 ? baseURL : baseURL.replace('www.', '');
 
 let contacts;
