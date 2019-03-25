@@ -22,17 +22,14 @@ tags:
     - Tennessee
     - 'Tennessee Ecological Services Field Office'
     - Virginia
-updated: 'February 20th, 2019'
+updated: 'March 25th, 2019'
 ---
 
 - **Taxon:** [Plant](/wildlife/plants)
 - **Range:** Eastern United States and Canada
 - **Status:** [Listed as endangered Sept. 9, 1982](https://ecos.fws.gov/docs/federal_register/fr621.pdf); [reclassified to threatened Oct. 6, 1994](https://ecos.fws.gov/docs/federal_register/fr2715.pdf)
 
-{{< scroller-list tag="Small-Whorled Pogonia" section="news" >}}
-{{< scroller-list tag="Small-Whorled Pogonia" section="articles" >}}
-{{< scroller-list tag="Small-Whorled Pogonia" section="podcasts" >}}
-{{< scroller-list tag="Small-Whorled Pogonia" section="faq" >}}
+{{< content-scroller tag="Small-Whorled Pogonia" heading="Related content" >}}
 
 ## Appearance
 

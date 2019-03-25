@@ -21,17 +21,14 @@ aliases:
     - /wildlife/plant/white-irisette
     - /species/plant/white-irisette
     - /species/plants/white-irisette
-updated: 'February 20th, 2019'
+updated: 'March 25th, 2019'
 ---
 
 - **Taxon:** Plant
 - **Range:** [North Carolina](/north-carolina), [South Carolina](/south-carolina)
 - **Status:** [Listed as endangered on Sept. 26, 1991](https://ecos.fws.gov/docs/federal_register/fr1928.pdf)
 
-{{< scroller-list tag="White Irisette" section="news" >}}
-{{< scroller-list tag="White Irisette" section="articles" >}}
-{{< scroller-list tag="White Irisette" section="podcasts" >}}
-{{< scroller-list tag="White Irisette" section="faq" >}}
+{{< content-scroller tag="White Irisette" heading="Related content" >}}
 
 ## Appearance
 

@@ -18,17 +18,14 @@ hero:
     alt: 'A small fish with dark stripes on a yellow tinged back and white belly.'
     caption: 'Blackfin sucker. Photo by Matthew Thomas, KDFWR.'
     position: 'center left'
-updated: 'October 5th, 2018'
+updated: 'March 25th, 2019'
 ---
 
 - **Taxon:** Freshwater fish
 - **Range:** Upper Barren River system, north-central Tennessee and south-central Kentucky
 - **Status:** Not listed
 
-{{< scroller-list tag="Blackfin Sucker" section="news" >}}
-{{< scroller-list tag="Blackfin Sucker" section="articles" >}}
-{{< scroller-list tag="Blackfin Sucker" section="podcasts" >}}
-{{< scroller-list tag="Blackfin Sucker" section="faq" >}}
+{{< content-scroller tag="Blackfin Sucker" heading="Related content" >}}
 
 ## Appearance and life history
 
@@ -51,36 +48,36 @@ According to pre-2007 data, the blackfin sucker was historically found in 23 str
 ### Blackfin sucker status in all streams of historical or recent occurrence in the Upper Barren River Basin
 
 | Sub-Basin              | Stream                 | Drainage Area | Status        | County of Last Observation |
-|------------------------|------------------------|---------------|---------------|----------------------------|
-| Boyds Creek            | Boyds Creek            |     14.5      | extant        |     Barren, KY             |
-| Skaggs Creek           | Skaggs Creek           |     147.0     | extant        |     Monroe, KY             |
-|                        | Falling Timber         |     59.7      | extant        |     Metcalfe, KY           |
-|                        | Glover Creek           |     22.7      | unknown       |     Barren, KY             |
-|                        | Nobob Creek            |     17.4      | extant        |     Barren, KY             |
-| Peter Creek            | Peter Creek            |     69.0      | extant        |     Barren, KY             |
-|                        | Caney Fork             |     11.7      | extant        |     Barren, KY             |
-| East Fork Barren River | Indian Creek           |     33.9      | extant        |     Monroe, KY             |
-|                        | East Fork Barren River |     335.4     | extant        |     Monroe, KY             |
-|                        | Mill Creek             |     32.9      | extant        |     Monroe, KY             |
-|                        | Gully Creek            |     5.2       | extant        |     Monroe, KY             |
-|                        | Cable Branch           |     3.4       | likely extant |     Monroe, KY             |
-|                        | Trace Creek            |     18.3      | extant        |     Clay, TN               |
-|                        | Line Creek             |     68.9      | extant        |     Clay, TN               |
-|                        | Wilson Branch          |     1.8       | likely extant |     Clay, TN               |
-|                        | Hurricane Creek        |     7.8       | likely extant |     Clay, TN               |
-|                        | Salt Lick Creek        |     52.8      | extant        |     Macon, TN              |
-|                        | Little Salt Lick Creek |     8.4       | extant        |     Macon, TN              |
-|                        | Long Hungry Creek      |     14.0      | extant        |     Macon, TN              |
-|                        | Long Fork              |     33.0      | extant        |     Macon, TN              |
-|                        | White Oak Creek        |     118.5     | extant        |     Macon, TN              |
-| Puncheon Creek         | Puncheon Creek         |     26.8      | extant        |     Allen, KY              |
-| Pinchgut Creek         | Pinchgut Creek         |     7.1       | extant        |     Allen, KY              |
-| Long Hungry Creek      | Long Hungry Creek      |     6.7       | unknown       |     Allen, KY              |
-| Long Creek             | Long Creek             |     69.5      | extant        |     Macon, TN              |
-|                        | West Fork Long Creek   |     11.3      | extant        |     Macon, TN              |
-|                        | Hanging Rock Branch    |     3.5       | extant        |     Macon, TN              |
-| Rhoden Creek           | Rhoden Creek           |     5.0       | extant        |     Allen, KY              |
-| Walnut Creek           | Walnut Creek           |     4.2       | extant        |     Allen, KY              |
+| ---------------------- | ---------------------- | ------------- | ------------- | -------------------------- |
+| Boyds Creek            | Boyds Creek            | 14.5          | extant        | Barren, KY                 |
+| Skaggs Creek           | Skaggs Creek           | 147.0         | extant        | Monroe, KY                 |
+|                        | Falling Timber         | 59.7          | extant        | Metcalfe, KY               |
+|                        | Glover Creek           | 22.7          | unknown       | Barren, KY                 |
+|                        | Nobob Creek            | 17.4          | extant        | Barren, KY                 |
+| Peter Creek            | Peter Creek            | 69.0          | extant        | Barren, KY                 |
+|                        | Caney Fork             | 11.7          | extant        | Barren, KY                 |
+| East Fork Barren River | Indian Creek           | 33.9          | extant        | Monroe, KY                 |
+|                        | East Fork Barren River | 335.4         | extant        | Monroe, KY                 |
+|                        | Mill Creek             | 32.9          | extant        | Monroe, KY                 |
+|                        | Gully Creek            | 5.2           | extant        | Monroe, KY                 |
+|                        | Cable Branch           | 3.4           | likely extant | Monroe, KY                 |
+|                        | Trace Creek            | 18.3          | extant        | Clay, TN                   |
+|                        | Line Creek             | 68.9          | extant        | Clay, TN                   |
+|                        | Wilson Branch          | 1.8           | likely extant | Clay, TN                   |
+|                        | Hurricane Creek        | 7.8           | likely extant | Clay, TN                   |
+|                        | Salt Lick Creek        | 52.8          | extant        | Macon, TN                  |
+|                        | Little Salt Lick Creek | 8.4           | extant        | Macon, TN                  |
+|                        | Long Hungry Creek      | 14.0          | extant        | Macon, TN                  |
+|                        | Long Fork              | 33.0          | extant        | Macon, TN                  |
+|                        | White Oak Creek        | 118.5         | extant        | Macon, TN                  |
+| Puncheon Creek         | Puncheon Creek         | 26.8          | extant        | Allen, KY                  |
+| Pinchgut Creek         | Pinchgut Creek         | 7.1           | extant        | Allen, KY                  |
+| Long Hungry Creek      | Long Hungry Creek      | 6.7           | unknown       | Allen, KY                  |
+| Long Creek             | Long Creek             | 69.5          | extant        | Macon, TN                  |
+|                        | West Fork Long Creek   | 11.3          | extant        | Macon, TN                  |
+|                        | Hanging Rock Branch    | 3.5           | extant        | Macon, TN                  |
+| Rhoden Creek           | Rhoden Creek           | 5.0           | extant        | Allen, KY                  |
+| Walnut Creek           | Walnut Creek           | 4.2           | extant        | Allen, KY                  |
 
 ## Current range
 
@@ -88,66 +85,66 @@ According to historical and present survey data, the blackfin sucker is extant i
 
 Summary of recent Blackfin sucker surveys (2007-2016). Streams are organized by stream and sub-basin (in bold).
 
-| Stream                     | Location River km (mi) | Watershed size (km2(mi2)) | Collection Date  | # observed |
-|----------------------------|------------------------|---------------------------|------------------|------------|
-| **Boyds Creek**            | 7.6 (4.7)              |     19.9 (7.7)            | 2009[^1]         |  10        |
-|                            |                        |                           | 2011[^2]         |  22        |
-|                            |                        |                           | 2016[^3]         |  15        |
-| **Skaggs Creek**           | 13.0 (8.1)             |     122.2 (47.2)          | 2009[^1]         |  6         |
-|                            |                        |                           | 2016[^3]         |  17        |
-| Falling Timber Creek       | 10.9 (6.8)             |     58.5 (22.6)           | 2009[^1]         |  1         |
-| Falling Timber Creek       | 18.0 (11.2)            |     17.6 (6.8)            | 2016[^3]         |  3         |
-| Nobob Creek                | 1.3 (0.8)              |     45.6 (17.6)           | 2011[^2]         |  1         |
-| **Peter Creek**            | 20.9 (13.0)            |     128.2 (49.5)          | 2009[^1]         |  2         |
-| Caney Fork                 | 1.3 (0.8)              |     29.3 (11.3)           | 2011[^2]         |  18        |
-|                            |                        |                           | 2011[^2]         |  19        |
-|                            |                        |                           | 2016[^3]         |  12        |
-| **East Fork Barren River** | 14.0 (8.7)             |     91.9 (35.5)           | 2009[^1]         |  2         |
-|                            | 18.2 (11.3)            |     65.3 (25.2)           | 2016[^3]         |  5         |
-|                            | 7.9 (4.9)              |     113.7 (43.9)          | 2011[^2]         |  2         |
-|                            |                        |                           | 2013[^4]         |  P[^*]     |
-| Indian Creek               | 1.1 (0.7)              |     80.0 (30.9)           | 2011[^2]         |  1         |
-| Indian Creek               | 8.2 (5.1)              |     51.0 (19.7)           | 2011[^2]         |  16        |
-|                            |                        |                           | 2016[^3]         |  4         |
-| Mill Creek                 | 4.7 (2.9)              |     54.4 (21.0)           | 2009[^1]         |  6         |
-|                            |                        |                           | 2011[^2]         |  20        |
-|                            |                        |                           | 2016[^3]         |  16        |
-| Gully Creek                | 0.5 (0.3)              |     13.2 (5.1)            | 2009[^4]         |  P[^*]     |
-| Line Creek                 | 21.1 (13.1)            |     54.1 (20.9)           | 2011[^2]         |  10        |
-|                            |                        |                           | 2011[^2]         |  4         |
-| Trace Creek                | 6.0 (3.7)              |     29.8 (11.5)           | 2011[^2]         |  27        |
-|                            |                        |                           | 2016[^3]         |  29        |
-| Salt Lick Creek            | 1.4 (0.9)              |     305.6 (118)           | 2009[^1]         |  1         |
-| Salt Lick Creek            | 5.0 (3.1)              |     135.5 (52.3)          | 2009[^1]         |  5         |
-| Salt Lick Creek            | 16.8 (10.3)            |     107.2 (41.4)          | 2011[^2]         |  16        |
-|                            |                        |                           | 2016[^3]         |  10        |
-| Salt Lick Creek            | 24.0 (14.9)            |     38.8 (15.0)           | 2015[^5]         |  8         |
-| Little Salt Lick Creek     | 1.9 (1.2)              |     16.8 (6.5)            | 2011[^2]         |  36        |
-| Little Salt Lick Creek     | 3.9 (2.4)              |     14.5 (5.6)            | 2011[^2]         |  14        |
-| Little Hungry Creek        | 1.3 (0.8)              |     33.7 (13.0)           | 2011[^2]         |  7         |
-| Long Fork                  | 8.2 (5.1)              |     76.7 (29.6)           | 2011[^2]         |  2         |
-|                            |                        |                           | 2016[^3]         |  7         |
-| Long Fork                  | 19.6 (12.2)            |     26.9 (10.4)           | 2011[^2]         |  3         |
-| White Oak Creek            | 10.1 (6.3)             |     51.0 (19.7)           | 2011[^2]         |  24        |
-| White Oak Creek            | 13.8 (8.6)             |     34.7 (13.4)           | 2010[^6]         |  6         |
-| White Oak Creek            | 19.2 (11.9)            |     12.2 (4.7)            | 2011[^2]         |  25        |
-| **Puncheon Creek**         | 3.5 (2.2)              |     64.0 (24.7)           | 2009[^1]         |  1         |
-|                            |                        |                           | 2016[^3]         |  10        |
-| Puncheon Creek             | 6.1 (3.8)              |     49.2 (19.0)           | 2011[^2]         |  3         |
-| Puncheon Creek             | 7.6 (4.7)              |     33.4 (12.9)           | 2011[^2]         |  1         |
-| Puncheon Creek             | 8.7 (5.4)              |     29.3 (11.3)           | 2012[^5]         |  P[^*]     |
-| Puncheon Creek             | 11.3 (7.0)             |     23.6 (9.1)            | 2012[^5]         |  P[^*]     |
-|                            |                        |                           | 2011[^2]         |  8         |
-| **Pinchgut Creek**         | 9.8 (6.1)              |     5.7 (2.2)             | 2011[^2]         |  10        |
-|                            |                        |                           | 2016[^3]         |  8         |
-| **Long Creek**             | 17.9 (11.1)            |     141.2 (54.5)          | 2011[^2]         |  1         |
-| Long Creek                 | 19.6 (12.2)            |     130.3 (50.3)          | 2008[^4]         |  P[^*]     |
-|                            |                        |                           | 2011[^2]         |  2         |
-| Hanging Rock Branch        | 0.6 (0.4)              |     8.5 (3.3)             | 2008[^7]         |  1         |
-| West Fork                  | 3.7 (2.3)              |     20.7 (8.0)            | 2011[^2]         |  24        |
-|                            |                        |                           | 2016[^3]         |  8         |
-| **Rhoden Creek**           | 4.7 (2.9)              |     11.7 (4.5)            | 2011[^2]         |  9         |
-| **Walnut Creek**           | 5.8 (3.6)              |     8.5 (3.3)             | 2011[^2]         |  3         |
+| Stream                     | Location River km (mi) | Watershed size (km2(mi2)) | Collection Date | # observed |
+| -------------------------- | ---------------------- | ------------------------- | --------------- | ---------- |
+| **Boyds Creek**            | 7.6 (4.7)              | 19.9 (7.7)                | 2009[^1]        | 10         |
+|                            |                        |                           | 2011[^2]        | 22         |
+|                            |                        |                           | 2016[^3]        | 15         |
+| **Skaggs Creek**           | 13.0 (8.1)             | 122.2 (47.2)              | 2009[^1]        | 6          |
+|                            |                        |                           | 2016[^3]        | 17         |
+| Falling Timber Creek       | 10.9 (6.8)             | 58.5 (22.6)               | 2009[^1]        | 1          |
+| Falling Timber Creek       | 18.0 (11.2)            | 17.6 (6.8)                | 2016[^3]        | 3          |
+| Nobob Creek                | 1.3 (0.8)              | 45.6 (17.6)               | 2011[^2]        | 1          |
+| **Peter Creek**            | 20.9 (13.0)            | 128.2 (49.5)              | 2009[^1]        | 2          |
+| Caney Fork                 | 1.3 (0.8)              | 29.3 (11.3)               | 2011[^2]        | 18         |
+|                            |                        |                           | 2011[^2]        | 19         |
+|                            |                        |                           | 2016[^3]        | 12         |
+| **East Fork Barren River** | 14.0 (8.7)             | 91.9 (35.5)               | 2009[^1]        | 2          |
+|                            | 18.2 (11.3)            | 65.3 (25.2)               | 2016[^3]        | 5          |
+|                            | 7.9 (4.9)              | 113.7 (43.9)              | 2011[^2]        | 2          |
+|                            |                        |                           | 2013[^4]        | P[^*]      |
+| Indian Creek               | 1.1 (0.7)              | 80.0 (30.9)               | 2011[^2]        | 1          |
+| Indian Creek               | 8.2 (5.1)              | 51.0 (19.7)               | 2011[^2]        | 16         |
+|                            |                        |                           | 2016[^3]        | 4          |
+| Mill Creek                 | 4.7 (2.9)              | 54.4 (21.0)               | 2009[^1]        | 6          |
+|                            |                        |                           | 2011[^2]        | 20         |
+|                            |                        |                           | 2016[^3]        | 16         |
+| Gully Creek                | 0.5 (0.3)              | 13.2 (5.1)                | 2009[^4]        | P[^*]      |
+| Line Creek                 | 21.1 (13.1)            | 54.1 (20.9)               | 2011[^2]        | 10         |
+|                            |                        |                           | 2011[^2]        | 4          |
+| Trace Creek                | 6.0 (3.7)              | 29.8 (11.5)               | 2011[^2]        | 27         |
+|                            |                        |                           | 2016[^3]        | 29         |
+| Salt Lick Creek            | 1.4 (0.9)              | 305.6 (118)               | 2009[^1]        | 1          |
+| Salt Lick Creek            | 5.0 (3.1)              | 135.5 (52.3)              | 2009[^1]        | 5          |
+| Salt Lick Creek            | 16.8 (10.3)            | 107.2 (41.4)              | 2011[^2]        | 16         |
+|                            |                        |                           | 2016[^3]        | 10         |
+| Salt Lick Creek            | 24.0 (14.9)            | 38.8 (15.0)               | 2015[^5]        | 8          |
+| Little Salt Lick Creek     | 1.9 (1.2)              | 16.8 (6.5)                | 2011[^2]        | 36         |
+| Little Salt Lick Creek     | 3.9 (2.4)              | 14.5 (5.6)                | 2011[^2]        | 14         |
+| Little Hungry Creek        | 1.3 (0.8)              | 33.7 (13.0)               | 2011[^2]        | 7          |
+| Long Fork                  | 8.2 (5.1)              | 76.7 (29.6)               | 2011[^2]        | 2          |
+|                            |                        |                           | 2016[^3]        | 7          |
+| Long Fork                  | 19.6 (12.2)            | 26.9 (10.4)               | 2011[^2]        | 3          |
+| White Oak Creek            | 10.1 (6.3)             | 51.0 (19.7)               | 2011[^2]        | 24         |
+| White Oak Creek            | 13.8 (8.6)             | 34.7 (13.4)               | 2010[^6]        | 6          |
+| White Oak Creek            | 19.2 (11.9)            | 12.2 (4.7)                | 2011[^2]        | 25         |
+| **Puncheon Creek**         | 3.5 (2.2)              | 64.0 (24.7)               | 2009[^1]        | 1          |
+|                            |                        |                           | 2016[^3]        | 10         |
+| Puncheon Creek             | 6.1 (3.8)              | 49.2 (19.0)               | 2011[^2]        | 3          |
+| Puncheon Creek             | 7.6 (4.7)              | 33.4 (12.9)               | 2011[^2]        | 1          |
+| Puncheon Creek             | 8.7 (5.4)              | 29.3 (11.3)               | 2012[^5]        | P[^*]      |
+| Puncheon Creek             | 11.3 (7.0)             | 23.6 (9.1)                | 2012[^5]        | P[^*]      |
+|                            |                        |                           | 2011[^2]        | 8          |
+| **Pinchgut Creek**         | 9.8 (6.1)              | 5.7 (2.2)                 | 2011[^2]        | 10         |
+|                            |                        |                           | 2016[^3]        | 8          |
+| **Long Creek**             | 17.9 (11.1)            | 141.2 (54.5)              | 2011[^2]        | 1          |
+| Long Creek                 | 19.6 (12.2)            | 130.3 (50.3)              | 2008[^4]        | P[^*]      |
+|                            |                        |                           | 2011[^2]        | 2          |
+| Hanging Rock Branch        | 0.6 (0.4)              | 8.5 (3.3)                 | 2008[^7]        | 1          |
+| West Fork                  | 3.7 (2.3)              | 20.7 (8.0)                | 2011[^2]        | 24         |
+|                            |                        |                           | 2016[^3]        | 8          |
+| **Rhoden Creek**           | 4.7 (2.9)              | 11.7 (4.5)                | 2011[^2]        | 9          |
+| **Walnut Creek**           | 5.8 (3.6)              | 8.5 (3.3)                 | 2011[^2]        | 3          |
 
 [^1]: Stillings and Harrel (2010). Date of record is listed as 2009; actual date may be 2009 or 2010.
 [^2]: Stringfield (2013). Date of record is listed as 2011; actual date may be 2011 or 2012.

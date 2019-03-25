@@ -18,16 +18,14 @@ hero:
     name: ring-pink.jpg
     alt: 'A photograph of the outside and inside of a ring pink shell next to a ruler for scale.  Shell is approximately 3 inches wide.'
     caption: 'Ring pink. Photo by Leroy Koch, USFWS.'
-updated: 'October 5th, 2018'
+updated: 'March 25th, 2019'
 ---
 
 - **Taxon:** Bivalve
 - **Range:** [Alabama](/alabama), [Kentucky](/kentucky), and [Tennessee](/tennessee)
 - **Status:** Endangered. Populations in portions of the French Broad and Holston Rivers in Tennessee are experimental.
 
-{{< scroller-list tag="Ring Pink" section="news" >}}
-{{< scroller-list tag="Ring Pink" section="articles" >}}
-{{< scroller-list tag="Ring Pink" section="faq" >}}
+{{< content-scroller tag="Ring Pink" heading="Related content" >}}
 
 ## Appearance
 

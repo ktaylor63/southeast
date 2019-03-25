@@ -20,7 +20,7 @@ tags:
     - Crustacean
     - 'Endangered Species Act'
     - 'Slenderclaw Crayfish'
-updated: 'October 5th, 2018'
+updated: 'March 25th, 2019'
 ---
 
 - **Taxa:** Crustacea
@@ -31,10 +31,7 @@ The slenderclaw crayfish is a relatively small freshwater crustacean that is end
 
 Download the [Species Status Assessment](https://ecos.fws.gov/ServCat/DownloadFile/156286) (SSA).
 
-{{< scroller-list tag="Slenderclaw Crayfish" section="news" >}}
-{{< scroller-list tag="Slenderclaw Crayfish" section="articles" >}}
-{{< scroller-list tag="Slenderclaw Crayfish" section="podcasts" >}}
-{{< scroller-list tag="Slenderclaw Crayfish" section="faq" >}}
+{{< content-scroller tag="Slenderclaw Crayfish" heading="Related content" >}}
 
 ## Appearance
 

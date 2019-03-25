@@ -20,17 +20,14 @@ hero:
     name: trispot-darter.jpg
     alt: 'A small fish with bright blue fins and orange coloring on its back.'
     caption: 'Trispot darter. Photo by Pat O''Neil, Geological Survey of Alabama.'
-updated: 'February 8th, 2019'
+updated: 'March 25th, 2019'
 ---
 
 - **Taxon:** Freshwater Fish
 - **Range:** Alabama, Georgia, Tennessee
 - **Status:** Listed as threatened
 
-{{< scroller-list tag="Trispot Darter" section="news" >}}
-{{< scroller-list tag="Trispot Darter" section="articles" >}}
-{{< scroller-list tag="Trispot Darter" section="podcasts" >}}
-{{< scroller-list tag="Trispot Darter" section="faq" >}}
+{{< content-scroller tag="Trispot Darter" heading="Related content" >}}
 
 ## Appearance
 

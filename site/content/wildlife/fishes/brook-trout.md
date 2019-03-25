@@ -1,46 +1,46 @@
 ---
-title: "Brook trout"
-scientific: "Salvelinus fontinalus"
-description: "The brook trout is a fish native to the eastern United States, and is often referred to as speckled trout, spotted trout, brookie, and squaretail. “Brookies” are considered an indicator species, because they help indicate the health or overall quality of the waters they inhabit."
+title: 'Brook trout'
+scientific: 'Salvelinus fontinalus'
+description: 'The brook trout is a fish native to the eastern United States, and is often referred to as speckled trout, spotted trout, brookie, and squaretail. “Brookies” are considered an indicator species, because they help indicate the health or overall quality of the waters they inhabit.'
 type: species-profile
 js: /js/species-profile.js
 aliases:
-  - /wildlife/fish/brook-trout
-  - /species/fish/brook-trout
-  - /species/fishes/brook-trout
+    - /wildlife/fish/brook-trout
+    - /species/fish/brook-trout
+    - /species/fishes/brook-trout
 tags:
-  - "Brook Trout"
-  - "Chattahoochee Forest National Fish Hatchery"
-  - Connecticut
-  - Delaware
-  - Erwin National Fish Hatchery
-  - Fish
-  - Georgia
-  - "Greers Ferry National Fish Hatchery"
-  - Indiana
-  - Maine
-  - Maryland
-  - Massachusetts
-  - Michigan
-  - Minnesota
-  - "New Hampshire"
-  - "New Jersey"
-  - "New York"
-  - "North Carolina"
-  - Ohio
-  - Pennsylvania
-  - "Rhode Island"
-  - "South Carolina"
-  - Tennessee
-  - Vermont
-  - "West Virginia"
-  - Wisconsin
-  - "Wolf Creek National Fish Hatchery"
+    - 'Brook Trout'
+    - 'Chattahoochee Forest National Fish Hatchery'
+    - Connecticut
+    - Delaware
+    - 'Erwin National Fish Hatchery'
+    - Fish
+    - Georgia
+    - 'Greers Ferry National Fish Hatchery'
+    - Indiana
+    - Maine
+    - Maryland
+    - Massachusetts
+    - Michigan
+    - Minnesota
+    - 'New Hampshire'
+    - 'New Jersey'
+    - 'New York'
+    - 'North Carolina'
+    - Ohio
+    - Pennsylvania
+    - 'Rhode Island'
+    - 'South Carolina'
+    - Tennessee
+    - Vermont
+    - 'West Virginia'
+    - Wisconsin
+    - 'Wolf Creek National Fish Hatchery'
 hero:
-  name: eastern-brook-trout.jpg
-  alt: "A colorful green/brown and red trout covered in small red spots."
-  caption: "A wildlife biologist holds a small eastern brook trout. Photo by Steve Droter, Chesapeake Bay Program."
-updated: "October 5th, 2018"
+    name: eastern-brook-trout.jpg
+    alt: 'A colorful green/brown and red trout covered in small red spots.'
+    caption: 'A wildlife biologist holds a small eastern brook trout. Photo by Steve Droter, Chesapeake Bay Program.'
+updated: 'March 25th, 2019'
 ---
 
 - **Taxon:** Freshwater fish
@@ -49,10 +49,7 @@ updated: "October 5th, 2018"
 
 The brook trout is a fish native to the eastern United States, and is often referred to as speckled trout, spotted trout, brookie, and squaretail. “Brookies” are considered an indicator species, because they help indicate the health or overall quality of the waters they inhabit. Large numbers of brook trout found in a stream indicate a healthy environment while a decline indicates deteriorating habitat and poor water quality.
 
-{{< scroller-list tag="Brook Trout" section="news" >}}
-{{< scroller-list tag="Brook Trout" section="articles" >}}
-{{< scroller-list tag="Brook Trout" section="podcasts" >}}
-{{< scroller-list tag="Brook Trout" section="faq" >}}
+{{< content-scroller tag="Brook Trout" heading="Related content" >}}
 
 ## Appearance
 

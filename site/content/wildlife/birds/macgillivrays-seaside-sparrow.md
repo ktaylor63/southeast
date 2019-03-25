@@ -19,7 +19,7 @@ tags:
     - 'Macgillivrays Seaside Sparrow'
     - 'South Carolina'
     - 'South Carolina Ecological Services Field Station'
-updated: 'December 19th, 2018'
+updated: 'March 25th, 2019'
 ---
 
 ## _Ammodramus maritimus macgillivraii_ [^1]
@@ -38,10 +38,7 @@ For a more information on this species, download the [species status assessment]
 
 [^1]: The species’ [genus is changing](https://ebird.org/pnw/news/2018-ebird-taxonomy-update) from _Ammodramus_ to _Ammospiza_.
 
-{{< scroller-list tag="Macgillivrays Seaside Sparrow" section="news" >}}
-{{< scroller-list tag="Macgillivrays Seaside Sparrow" section="articles" >}}
-{{< scroller-list tag="Macgillivrays Seaside Sparrow" section="podcasts" >}}
-{{< scroller-list tag="Macgillivrays Seaside Sparrow" section="faq" >}}
+{{< content-scroller tag="Macgillivrays Seaside Sparrow" heading="Related content" >}}
 
 ## Appearance
 

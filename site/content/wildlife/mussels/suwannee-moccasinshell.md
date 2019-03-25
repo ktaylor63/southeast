@@ -20,17 +20,14 @@ hero:
     alt: 'Two dark gray mussels with striations on a red towel next to a ruler for scale.'
     caption: 'Suwannee moccasinshells. Photo by USFWS.'
     position: bottom
-updated: 'November 15th, 2018'
+updated: 'March 25th, 2019'
 ---
 
 - **Taxon:** Bivalve, Unionidae
 - **Range:** The Suwannee moccasinshell occurs only in the Suwannee River Basin in Florida and Georgia.
 - **Status:** Listed as Threatened
 
-{{< scroller-list tag="Suwannee Moccasinshell" section="news" >}}
-{{< scroller-list tag="Suwannee Moccasinshell" section="articles" >}}
-{{< scroller-list tag="Suwannee Moccasinshell" section="podcasts" >}}
-{{< scroller-list tag="Suwannee Moccasinshell" section="faq" >}}
+{{< content-scroller tag="Suwannee Moccasinshell" heading="Related content" >}}
 
 ## Appearance
 

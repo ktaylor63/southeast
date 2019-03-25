@@ -23,17 +23,14 @@ hero:
     alt: 'A mussel with fringe around its opening partially burried in the sand on the river bottom.'
     caption: 'Appalachian elktoe in the Little River Translyvania County NC. Photo by Gary Peeples, USFWS.'
     position: '25% 67%'
-updated: 'February 20th, 2019'
+updated: 'March 25th, 2019'
 ---
 
 - **Taxon:** Mussel
 - **Range:** [North Carolina](/north-carolina), [Tennessee](/tennessee)
 - **Status:** [Listed as endangered on Nov. 23, 1994](https://ecos.fws.gov/docs/federal_register/fr2736.pdf)
 
-{{< scroller-list tag="Appalachian Elktoe" section="news" >}}
-{{< scroller-list tag="Appalachian Elktoe" section="articles" >}}
-{{< scroller-list tag="Appalachian Elktoe" section="podcasts" >}}
-{{< scroller-list tag="Appalachian Elktoe" section="faq" >}}
+{{< content-scroller tag="Appalachian Elktoe" heading="Related content" >}}
 
 ## Appearance 
 

@@ -1,6 +1,6 @@
 ---
 title: 'Spreading avens'
-scientific: 'Cardamine micranthera'
+scientific: 'Geum radiatum'
 description: 'Spreading avens, sometimes called Appalachian avens or cliff avens, is a rare perennial herb endemic to a few scattered mountaintops in western North Carolina and eastern Tennessee.'
 type: species-profile
 js: /js/species-profile.js
@@ -22,7 +22,7 @@ aliases:
     - /wildlife/plant/spreading-avens
     - /species/plant/spreading-avens
     - /species/plants/spreading-avens
-updated: 'February 20th, 2019'
+updated: 'March 25th, 2019'
 ---
 
 - **Taxon:** Plant
@@ -31,9 +31,7 @@ updated: 'February 20th, 2019'
 
 Spreading avens, sometimes called Appalachian avens or cliff avens, is a rare perennial herb endemic to a few scattered mountaintops in western North Carolina and eastern Tennessee. It grows on the shallow acidic soils of high-elevation cliffs, outcrops, and steep slopes and on gravelly talus associated with cliffs, often in full sun.
 
-{{< scroller-list tag="Spreading Avens" section="news" >}}
-{{< scroller-list tag="Spreading Avens" section="articles" >}}
-{{< scroller-list tag="Spreading Avens" section="faq" >}}
+{{< content-scroller tag="Spreading Avens" heading="Related content" >}}
 
 ## Appearance
 

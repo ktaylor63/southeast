@@ -20,17 +20,14 @@ hero:
     name: cumberland-bean.jpg
     alt: 'A small black mussel with brownish yellow striations extends a small white appendage from its shell'
     caption: 'Cumberland bean juveniles reared at the Center for Mollusk Conservation in Frankfort, Kentucky. Photo by Monte McGregor, Center Mollusk Conservation, Kentucky DFWR.'
-updated: 'December 3rd, 2018'
+updated: 'March 25th, 2019'
 ---
 
 - **Taxon:** Bivalve
 - **Range:** [Alabama](/alabama), [Kentucky](/kentucky), [North Carolina](/north-carolina), [Tennessee](/tennessee) and [Virginia](/virginia)
 - **Status:** Endangered
 
-{{< scroller-list tag="Cumberland Bean" section="news" >}}
-{{< scroller-list tag="Cumberland Bean" section="articles" >}}
-{{< scroller-list tag="Cumberland Bean" section="podcasts" >}}
-{{< scroller-list tag="Cumberland Bean" section="faq" >}}
+{{< content-scroller tag="Cumberland Bean" heading="Related content" >}}
 
 ## Appearance
 

@@ -16,7 +16,7 @@ tags:
     - Alabama
     - Arkansas
     - 'Edenton National Fish Hatchery'
-    - Erwin National Fish Hatchery
+    - 'Erwin National Fish Hatchery'
     - Fish
     - Georgia
     - Kentucky
@@ -28,7 +28,7 @@ tags:
     - 'Private John Allen National Fish Hatchery'
     - Tennessee
     - 'Warm Springs National Fish Hatchery'
-updated: 'October 5th, 2018'
+updated: 'March 25th, 2019'
 ---
 
 - **Taxon:** Freshwater Fish
@@ -41,10 +41,7 @@ Lake sturgeon (_Acipenser fulvescens_) is a temperate fish occurring in freshwat
 
 Lake sturgeon are slow-moving fish but will migrate up rivers during spawning season. Female sturgeons reproduce between the ages of 20 and 26 years old. Males usually mature between 8 and 12 years old. While the male sturgeon’s typical lifespan is 50 to 60 years, the female sturgeon can live up to 150 years.
 
-{{< scroller-list tag="Lake Sturgeon" section="news" >}}
-{{< scroller-list tag="Lake Sturgeon" section="articles" >}}
-{{< scroller-list tag="Lake Sturgeon" section="podcasts" >}}
-{{< scroller-list tag="Lake Sturgeon" section="faq" >}}
+{{< content-scroller tag="Lake Sturgeon" heading="Related content" >}}
 
 ## Appearance
 

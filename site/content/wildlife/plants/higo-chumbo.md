@@ -23,7 +23,7 @@ tags:
     - Plant
     - 'Puerto Rico'
     - Recovery
-updated: 'February 4th, 2019'
+updated: 'March 25th, 2019'
 ---
 
 - **Taxon:** [Plant](/wildlife/plants)
@@ -32,10 +32,7 @@ updated: 'February 4th, 2019'
 
 Higo chumbo is a columnar cactus currently found at three small offshore islands of western Puerto Rico; Mona, Monito and Desecheo.  In addition, several individuals are known to occur at Caja de Muertos, an offshore island south of Puerto Rico.
 
-{{< scroller-list tag="Higo Chumbo" section="news" >}}
-{{< scroller-list tag="Higo Chumbo" section="articles" >}}
-{{< scroller-list tag="Higo Chumbo" section="podcasts" >}}
-{{< scroller-list tag="Higo Chumbo" section="faq" >}}
+{{< content-scroller tag="Higo Chumbo" heading="Related content" >}}
 
 ## Appearance
 

@@ -26,17 +26,14 @@ hero:
     link: 'https://flic.kr/p/ugxqqh'
     caption: 'A young bog turtle in an Appalachian bog. Photo by Gary Peeples, USFWS.'
     position: 'left center'
-updated: 'October 5th, 2018'
+updated: 'March 25th, 2019'
 ---
 
 - **Taxon:** Reptile
 - **Range:** [North Carolina](/north-carolina), [Tennessee](/tennessee), [Georgia](/georgia), [South Carolina](/south-carolina), [Virginia](/virginia)
 - **Status:** Listed as threatened due to similarity of appearance
 
-{{< scroller-list tag="Bog Turtle" section="news" >}}
-{{< scroller-list tag="Bog Turtle" section="articles" >}}
-{{< scroller-list tag="Bog Turtle" section="podcasts" >}}
-{{< scroller-list tag="Bog Turtle" section="faq" >}}
+{{< content-scroller tag="Bog Turtle" heading="Related content" >}}
 
 ## Appearance
 

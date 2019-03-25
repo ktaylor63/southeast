@@ -25,7 +25,7 @@ aliases:
     - /wildlife/plant/mountain-sweet-pitcher-plant
     - /species/plant/mountain-sweet-pitcher-plant
     - /species/plants/mountain-sweet-pitcher-plant
-updated: 'February 20th, 2019'
+updated: 'March 25th, 2019'
 ---
 
 - **Taxon:** Plant
@@ -34,10 +34,7 @@ updated: 'February 20th, 2019'
 
 The mountain sweet pitcher plant is an insectivorious species is native to bogs and a few streamsides in the Blue Ridge Mountains of North and South Carolina.
 
-{{< scroller-list tag="Mountain Sweet Pitcher Plant" section="news" >}}
-{{< scroller-list tag="Mountain Sweet Pitcher Plant" section="articles" >}}
-{{< scroller-list tag="Mountain Sweet Pitcher Plant" section="podcasts" >}}
-{{< scroller-list tag="Mountain Sweet Pitcher Plant" section="faq" >}}
+{{< content-scroller tag="Mountain Sweet Pitcher Plant" heading="Related content" >}}
 
 ## Appearance
 

@@ -57,7 +57,7 @@ tags:
     - Virginia
     - 'West Virginia'
     - Wisconsin
-updated: 'February 20th, 2019'
+updated: 'March 25th, 2019'
 ---
 
 - **Taxon**: Bird
@@ -74,10 +74,7 @@ The U.S. Fish and Wildlife Service (Service) was petitioned in April 2010 to lis
 
 The eastern black rail is protected under the Migratory Bird Treaty Act of 1918 and is state-listed as either endangered or threatened in seven states within the subspecies’ range:  Delaware, Illinois, Indiana, Maryland, New Jersey, New York, and Virginia.  It was formerly listed as endangered in Connecticut but is no longer believed to exist there, resulting in its removal from the state’s list.  Most of what is known of the eastern black rail has been assembled from more than 100 years of literature, museum specimens, and unpublished observations.
 
-{{< scroller-list tag="Black Rail" section="news" >}}
-{{< scroller-list tag="Black Rail" section="articles" >}}
-{{< scroller-list tag="Black Rail" section="podcasts" >}}
-{{< scroller-list tag="Black Rail" section="faq" >}}
+{{< content-scroller tag="Eastern Black Rail" heading="Related content" >}}
 
 ## Appearance
 

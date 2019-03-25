@@ -1,24 +1,24 @@
 ---
-title: "Spring pygmy sunfish"
-scientific: "Elassoma alabamae"
+title: 'Spring pygmy sunfish'
+scientific: 'Elassoma alabamae'
 type: species-profile
 js: /js/species-profile.js
 hero:
-  name: spring-pygmy-sunfish-matt-laschet.jpg
-  alt: "A small, brown and yellow fish with iridescent scales around its gills"
-  caption: "A female spring pygmy sunfish. Photo by Matt Laschet."
+    name: spring-pygmy-sunfish-matt-laschet.jpg
+    alt: 'A small, brown and yellow fish with iridescent scales around its gills'
+    caption: 'A female spring pygmy sunfish. Photo by Matt Laschet.'
 aliases:
-  - /wildlife/fish/spring-pygmy-sunfish
-  - /species/fish/spring-pygmy-sunfish
-  - /species/fishes/spring-pygmy-sunfish
+    - /wildlife/fish/spring-pygmy-sunfish
+    - /species/fish/spring-pygmy-sunfish
+    - /species/fishes/spring-pygmy-sunfish
 tags:
-  - Alabama
-  - "Alabama Ecological Services Field Office"
-  - "Endangered Species Act"
-  - Fish
-  - Tennessee
-  - "Wheeler National Wildlife Refuge"
-updated: "November 1st, 2018"
+    - Alabama
+    - 'Alabama Ecological Services Field Office'
+    - 'Endangered Species Act'
+    - Fish
+    - Tennessee
+    - 'Wheeler National Wildlife Refuge'
+updated: 'March 25th, 2019'
 ---
 
 - **Taxon:** Fish
@@ -27,10 +27,7 @@ updated: "November 1st, 2018"
 
 The spring pygmy sunfish is a spring associated fish that is endemic to springs in northern Alabama. It was historically known to occur in springs in North Alabama along the Tennessee River in Limestone and Lauderdale counties. The spring pygmy sunfish was first discovered in Cave Spring in Lauderdale County, Alabama in 1937. In 1938, this site was inundated by the creation of Pickwick Reservoir on the Tennessee River. In 1941, this species was rediscovered in Pryor Spring in Limestone County, Alabama. However, this population also was subsequently considered extirpated (Boschung and Mayden 2004). The spring pygmy sunfish was again considered extinct until its rediscovery in the Beaverdam Spring complex in 1973 by researchers from the University of Tennessee . In 1984, fish from Moss Spring (part of the Beaverdam Spring complex) were reintroduced into Pryor Spring. Unfortunately, this reintroduction effort appears to have failed.
 
-{{< scroller-list tag="Spring Pygmy Sunfish" section="news" >}}
-{{< scroller-list tag="Spring Pygmy Sunfish" section="articles" >}}
-{{< scroller-list tag="Spring Pygmy Sunfish" section="podcasts" >}}
-{{< scroller-list tag="Spring Pygmy Sunfish" section="faq" >}}
+{{< content-scroller tag="Spring Pygmy Sunfish" heading="Related content" >}}
 
 ## Appearance
 

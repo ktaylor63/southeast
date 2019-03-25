@@ -23,17 +23,14 @@ tags:
     - 'Woolly Adelgid'
 type: species-profile
 js: /js/species-profile.js
-updated: 'February 20th, 2019'
+updated: 'March 25th, 2019'
 ---
 
 **Taxon:** Plant  
 **Range:** Blue Ridge goldenrod is only known from Avery County, [North Carolina](/north-carolina), and the border area between Mitchell County, North Carolina and Carter County, [Tennessee](/tennessee).  
 **Status:** [Listed as threatened on Mar. 28, 1985](https://ecos.fws.gov/docs/federal_register/fr935.pdf)  
 
-{{< scroller-list tag="Blue Ridge Goldenrod" section="news" >}}
-{{< scroller-list tag="Blue Ridge Goldenrod" section="articles" >}}
-{{< scroller-list tag="Blue Ridge Goldenrod" section="podcasts" >}}
-{{< scroller-list tag="Blue Ridge Goldenrod" section="faq" >}}
+{{< content-scroller tag="Blue Ridge Goldenrod" heading="Related content" >}}
 
 ## Appearance
 

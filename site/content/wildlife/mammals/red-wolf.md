@@ -1,42 +1,39 @@
 ---
-title: "Red wolf"
-description: "Once common throughout the Eastern and South Central United States, red wolf populations were decimated by the early 20th century as a result of intensive predator control programs and the degradation and alteration of the species’ habitat. When the red wolf was designated endangered in 1967, the U.S. Fish and Wildlife Service initiated efforts to conserve and recover the species."
+title: 'Red wolf'
+description: 'Once common throughout the Eastern and South Central United States, red wolf populations were decimated by the early 20th century as a result of intensive predator control programs and the degradation and alteration of the species’ habitat. When the red wolf was designated endangered in 1967, the U.S. Fish and Wildlife Service initiated efforts to conserve and recover the species.'
 type: species-profile
-scientific: "Canis rufus"
+scientific: 'Canis rufus'
 js: /js/species-profile.js
 hero:
-  name: red-wolf-at-point-defiance.jpg
-  alt: "An adult wolf walking in an enclosure at the zoo."
-  caption: "Captive red wolf at Species Survival Plan facility, Point Defiance Zoo and Aquarium (Tacoma, WA). Photo by B. Bartel, USFWS."
-  link: "https://flic.kr/p/hJ1eXL"
-  position: "top left"
+    name: red-wolf-at-point-defiance.jpg
+    alt: 'An adult wolf walking in an enclosure at the zoo.'
+    caption: 'Captive red wolf at Species Survival Plan facility, Point Defiance Zoo and Aquarium (Tacoma, WA). Photo by B. Bartel, USFWS.'
+    link: 'https://flic.kr/p/hJ1eXL'
+    position: 'top left'
 aliases:
-  - /wildlife/mammal/red-wolf
-  - /species/mammal/red-wolf
-  - /species/mammals/red-wolf
+    - /wildlife/mammal/red-wolf
+    - /species/mammal/red-wolf
+    - /species/mammals/red-wolf
 tags:
-  - "Endangered Species Act"
-  - Mammal
-  - "North Carolina"
-  - "South Carolina Ecological Services Field Office"
-  - "Raleigh Ecological Services Field Office"
-  - "Alligator River National Wildlife Refuge"
-  - Recovery
-  - South Carolina
-  - North Carolina
-  - Florida
-  - "Red Wolf"
-updated: "October 5th, 2018"
+    - 'Alligator River National Wildlife Refuge'
+    - 'Endangered Species Act'
+    - Florida
+    - Mammal
+    - 'North Carolina'
+    - 'North Carolina'
+    - 'Raleigh Ecological Services Field Office'
+    - Recovery
+    - 'Red Wolf'
+    - 'South Carolina'
+    - 'South Carolina Ecological Services Field Office'
+updated: 'March 25th, 2019'
 ---
 
 - **Taxon**: Mammal
 - **Range**: Eastern [North Carolina](/north-carolina)
 - **Status**: Designated an endangered species in 1967
 
-{{< scroller-list tag="Red Wolf" section="news" >}}
-{{< scroller-list tag="Red Wolf" section="articles" >}}
-{{< scroller-list tag="Red Wolf" section="podcasts" >}}
-{{< scroller-list tag="Red Wolf" section="faq" >}}
+{{< content-scroller tag="Red Wolf" heading="Related content" >}}
 
 The red wolf is one of the world’s most endangered wolves. Once common throughout the Eastern and South Central United States, red wolf populations were decimated by the early 20th century as a result of intensive predator control programs and the degradation and alteration of the species' habitat. When the red wolf was designated endangered in 1967, the U.S. Fish and Wildlife Service initiated efforts to conserve and recover the species. Today, about 40 red wolves roam their native habitats in eastern North Carolina as a non-essential, experimental population (NEP), and more than 200 red wolves are maintained in captive breeding facilities throughout the United States.
 

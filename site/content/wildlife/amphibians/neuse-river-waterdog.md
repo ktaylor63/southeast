@@ -22,17 +22,14 @@ hero:
     caption: 'A young Neuse River waterdog from the Little River, Johnston County, North Carolina, by Jeff Beane.'
     link: 'https://flic.kr/p/U6bSnC'
     position: 'bottom left'
-updated: 'February 19th, 2019'
+updated: 'March 25th, 2019'
 ---
 
 - **Taxon:** Freshwater salamander
 - **Range:** Neuse and Tar River basins, [North Carolina](/north-carolina)
 - **Status:** At-risk species
 
-{{< scroller-list tag="Neuse River Waterdog" section="news" >}}
-{{< scroller-list tag="Neuse River Waterdog" section="articles" >}}
-{{< scroller-list tag="Neuse River Waterdog" section="podcasts" >}}
-{{< scroller-list tag="Neuse River Waterdog" section="faq" >}}
+{{< content-scroller tag="Neuse River Waterdog" heading="Related content" >}}
 
 ## Appearance
 

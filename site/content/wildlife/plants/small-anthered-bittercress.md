@@ -20,17 +20,14 @@ aliases:
     - /wildlife/plant/small-anthered-bittercress
     - /species/plant/small-anthered-bittercress
     - /species/plants/small-anthered-bittercress
-updated: 'February 20th, 2019'
+updated: 'March 25th, 2019'
 ---
 
 - **Taxon:** Plant
 - **Range:** [North Carolina](/north-carolina), [Virginia](/virginia)
 - **Status:** [Listed as endnagered on September 21, 1989](https://ecos.fws.gov/docs/federal_register/fr1597.pdf)
 
-{{< scroller-list tag="Small-Anthered Bittercress" section="news" >}}
-{{< scroller-list tag="Small-Anthered Bittercress" section="articles" >}}
-{{< scroller-list tag="Small-Anthered Bittercress" section="podcasts" >}}
-{{< scroller-list tag="Small-Anthered Bittercress" section="faq" >}}
+{{< content-scroller tag="Small-Anthered Bittercress" heading="Related content" >}}
 
 ## Appearance
 

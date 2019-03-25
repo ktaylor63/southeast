@@ -1,25 +1,25 @@
 ---
-title: "Big Sandy crayfish"
-description: "The Big Sandy crayfish is a threatened freshwater crustacean found in streams and rivers in the Appalachian region."
-scientific: "Cambarus callainus"
+title: 'Big Sandy crayfish'
+description: 'The Big Sandy crayfish is a threatened freshwater crustacean found in streams and rivers in the Appalachian region.'
+scientific: 'Cambarus callainus'
 type: species-profile
 js: /js/species-profile.js
 aliases:
-  - /wildlife/crustacean/big-sandy-crayfish
-  - /species/crustacean/big-sandy-crayfish
-  - /species/crustaceans/big-sandy-crayfish
+    - /wildlife/crustacean/big-sandy-crayfish
+    - /species/crustacean/big-sandy-crayfish
+    - /species/crustaceans/big-sandy-crayfish
 tags:
-  - "Big Sandy Crayfish"
-  - Crustacean
-  - "Endangered Species Act"
-  - Kentucky
-  - "Wolf Creek National Fish Hatchery"
+    - 'Big Sandy Crayfish'
+    - Crustacean
+    - 'Endangered Species Act'
+    - Kentucky
+    - 'Wolf Creek National Fish Hatchery'
 hero:
-  name: big-sandy-crayfish.jpg
-  alt: "A lobster-shaped and colored crayfish with tinges of rust and blue."
-  link: "https://flic.kr/p/qXGti8"
-  caption: "Big Sandy crayfish. Photo by Zachary Loughman, West Liberty University."
-updated: "October 5th, 2018"
+    name: big-sandy-crayfish.jpg
+    alt: 'A lobster-shaped and colored crayfish with tinges of rust and blue.'
+    link: 'https://flic.kr/p/qXGti8'
+    caption: 'Big Sandy crayfish. Photo by Zachary Loughman, West Liberty University.'
+updated: 'March 25th, 2019'
 ---
 
 - **Taxa: Crustacea**
@@ -28,10 +28,7 @@ updated: "October 5th, 2018"
 
 The Big Sandy crayfish (_Cambarus callianus_) is a freshwater crustacean found in streams and rivers in the Appalachian region of Kentucky, Virginia, and West Virginia. The Fish and Wildlife Service has worked with state partners to determine where this dynamic creature is found, and whether it is in danger of extinction. In [May 2016, the Service listed the Big Sandy crayfish as a threatened species](/news/2016/04/endangered-species-act-protections-finalized-for-two-appalachian-crayfishes-in-kentucky-virginia-and-west-virginia/), protected under the Endangered Species Act.
 
-{{< scroller-list tag="Big Sandy Crayfish" section="news" >}}
-{{< scroller-list tag="Big Sandy Crayfish" section="articles" >}}
-{{< scroller-list tag="Big Sandy Crayfish" section="podcasts" >}}
-{{< scroller-list tag="Big Sandy Crayfish" section="faq" >}}
+{{< content-scroller tag="Big Sandy Crayfish" heading="Related content" >}}
 
 ## Appearance
 

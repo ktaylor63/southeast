@@ -24,17 +24,14 @@ aliases:
     - /wildlife/arachnid/spruce-fir-moss-spider
     - /species/arachnid/spruce-fir-moss-spider
     - /species/arachnids/spruce-fir-moss-spider
-updated: 'February 20th, 2019'
+updated: 'March 25th, 2019'
 ---
 
 - **Taxon:** Plant
 - **Range:** [North Carolina](/north-carolina), [Virginia](/virginia), [Tennessee](/tennessee)
-- **Status:** Listed as endnagered on Feb. 6, 1995
+- **Status:** Listed as endangered on Feb. 6, 1995
 
-{{< scroller-list tag="Spruce-Fir Moss Spider" section="news" >}}
-{{< scroller-list tag="Spruce-Fir Moss Spider" section="articles" >}}
-{{< scroller-list tag="Spruce-Fir Moss Spider" section="podcasts" >}}
-{{< scroller-list tag="Spruce-Fir Moss Spider" section="faq" >}}
+{{< content-scroller tag="Spruce-Fir Moss Spider" heading="Related content" >}}
 
 ## Appearance
 

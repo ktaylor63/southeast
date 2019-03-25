@@ -22,7 +22,7 @@ hero:
     name: venus-flytrap.jpg
     alt: 'A cluster of carnivorious plant heads with bright red/orange mouths.'
     caption: 'Venus flytrap. Photo by Jennifer Koches, USFWS.'
-updated: 'October 5th, 2018'
+updated: 'March 25th, 2019'
 ---
 
  - **Taxon:** Plant
@@ -34,10 +34,7 @@ The Venus flytrap, a small perennial herb, is one of the most widely recognized 
 
 [Download the fact sheet](/pdf/fact-sheet/venus-flytrap.pdf).
 
-{{< scroller-list tag="Venus Flytrap" section="news" >}}
-{{< scroller-list tag="Venus Flytrap" section="articles" >}}
-{{< scroller-list tag="Venus Flytrap" section="podcasts" >}}
-{{< scroller-list tag="Venus Flytrap" section="faq" >}}
+{{< content-scroller tag="Venus Flytrap" heading="Related content" >}}
 
 ## Appearance
 

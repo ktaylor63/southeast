@@ -18,7 +18,7 @@ hero:
     alt: 'A purple/rust colored salamander walking on rocky substrate'
     caption: 'Non metamorphosed Berry Cave salamander. Photo © Matthew Niemiller, used with permission.'
     position: '90% 35%'
-updated: 'February 5th, 2019'
+updated: 'March 25th, 2019'
 ---
 
 - **Taxon:** Amphibian
@@ -29,10 +29,7 @@ The Berry Cave salamander (*Gyrinophilus gulolineatus*) is a member of the Tenne
 
 {{< figure class="photo-center" src="/images/pages/berry-cave-salamander-closeup-niemiller.jpg" alt="A grayish/purple salamander on rocky substrate." caption="Berry Cave Salamander (*Gyrinophilus gulolineatus*). Photo © Matthew Niemiller, used with permission." >}}
 
-{{< scroller-list tag="Berry Cave salamander" section="news" >}}
-{{< scroller-list tag="Berry Cave salamander" section="articles" >}}
-{{< scroller-list tag="Berry Cave salamander" section="podcasts" >}}
-{{< scroller-list tag="Berry Cave salamander" section="faq" >}}
+{{< content-scroller tag="Berry Cave Salamander" heading="Related content" >}}
 
 ## Appearance
 

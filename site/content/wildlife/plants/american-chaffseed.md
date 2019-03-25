@@ -26,7 +26,7 @@ hero:
     alt: 'Fuzzy yellow and purple flowers emerging from a green grass-like stalk.'
     caption: '<a href="https://flic.kr/p/JioDEh">American chaffseed</a> © Robert Sincliar. Copyright release form S://EA/Photo Permissions/american-chaffseed.pdf'
     position: 'bottom center'
-updated: 'February 20th, 2019'
+updated: 'March 25th, 2019'
 ---
 
 **Taxon:** Plant  
@@ -45,10 +45,7 @@ American chaffseed was selected as an indicator species for the South Atlantic L
   
 http://www.southatlanticlcc.org/indicators-roadmap/
 
-{{< scroller-list tag="American Chaffseed" section="news" >}}
-{{< scroller-list tag="American Chaffseed" section="articles" >}}
-{{< scroller-list tag="American Chaffseed" section="podcasts" >}}
-{{< scroller-list tag="American Chaffseed" section="faq" >}}
+{{< content-scroller tag="American Chaffseed" heading="Related content" >}}
 
 ## Appearance
 

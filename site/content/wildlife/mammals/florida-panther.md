@@ -20,7 +20,7 @@ hero:
     alt: 'A Florida panther walking on a gravel road with a slash pine forest in the background'
     name: florida-panther.jpg
     position: 'left center'
-updated: 'October 5th, 2018'
+updated: 'March 25th, 2019'
 ---
 
 - **Taxon:** Mammal
@@ -33,10 +33,7 @@ Under the current Recovery Plan, established in 2008, the Service will consider 
 
 In 2013, the Service formed a [Florida Panther Recovery Implementation Team](http://www.fws.gov/verobeach/FloridaPantherRIT.html) consisting of members representing the Service, [National Park Service](http://www.nps.gov/), [Florida Fish and Wildlife Conservation Commission](http://myfwc.com/), and other stakeholders, with a mandate to prioritize and facilitate management and research activities that are crucial to the achieving the recovery goals identified in the 2008 Recovery Plan.
 
-{{< scroller-list tag="Florida Panther" section="news" >}}
-{{< scroller-list tag="Florida Panther" section="articles" >}}
-{{< scroller-list tag="Florida Panther" section="podcasts" >}}
-{{< scroller-list tag="Florida Panther" section="faq" >}}
+{{< content-scroller tag="Florida Panther" heading="Related content" >}}
 
 {{< figure class="photo-center" src="/images/pages/florida-panther-kittens-in-den.jpg" alt="Three young Florida panther kittens in a den with bright blue eyes" caption="Florida panther kittens in a den. Photo by David Shindle." link="https://flic.kr/p/GaVyow" >}}
 

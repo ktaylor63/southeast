@@ -22,17 +22,14 @@ tags:
     - Plant
     - 'Raleigh Ecological Services Field Office'
     - Recovery
-updated: 'February 20th, 2019'
+updated: 'March 25th, 2019'
 ---
 
 - **Taxon:** [Plant](/wildlife/plants)
 - **Range:** [Alabama](/alabama), [Georgia](/georgia), [North Carolina](/north-carolina)
 - **Status:** [Listed as endangered, Sept. 21, 1979](https://ecos.fws.gov/docs/federal_register/fr327.pdf)
 
-{{< scroller-list tag="Green Pitcher Plant" section="news" >}}
-{{< scroller-list tag="Green Pitcher Plant" section="articles" >}}
-{{< scroller-list tag="Green Pitcher Plant" section="podcasts" >}}
-{{< scroller-list tag="Green Pitcher Plant" section="faq" >}}
+{{< content-scroller tag="Green Pitcher Plant" heading="Related content" >}}
 
 ## Appearance
 

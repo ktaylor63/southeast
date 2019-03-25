@@ -22,17 +22,14 @@ hero:
     alt: 'A grass-like plant with white flowers emerges from the marsh.'
     caption: 'Bunched arrowhead. <a href="https://flic.kr/p/rWP7zZ">Photo</a> by Gary Peeples, USFWS.'
     position: 'top left'
-updated: 'February 20th, 2019'
+updated: 'March 25th, 2019'
 ---
 
 **Taxon:** Plant  
 **Range:** [North Carolina](/north-carolina), [South Carolina](/south-carolina)  
 **Status:** [Listed as endangered on Aug. 31, 1979](https://ecos.fws.gov/docs/federal_register/fr311.pdf)
 
-{{< scroller-list tag="Bunched Arrowhead" section="news" >}}
-{{< scroller-list tag="Bunched Arrowhead" section="articles" >}}
-{{< scroller-list tag="Bunched Arrowhead" section="podcasts" >}}
-{{< scroller-list tag="Bunched Arrowhead" section="faq" >}}
+{{< content-scroller tag="Bunched Arrowhead" heading="Related content" >}}
 
 ## Appearance
 

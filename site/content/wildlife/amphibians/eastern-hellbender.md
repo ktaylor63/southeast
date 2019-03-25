@@ -1,33 +1,33 @@
 ---
-title: "Eastern hellbender"
-scientific: "Cryptobranchus alleganiensis alleganiensis"
-description: "This large amphibian can be found crawling around the bottoms of clear, silt-free mountain streams. They are generally nocturnal, spending most of the day under rocks on the stream floor, emerging at night to hunt crayfish."
+title: 'Eastern hellbender'
+scientific: 'Cryptobranchus alleganiensis alleganiensis'
+description: 'This large amphibian can be found crawling around the bottoms of clear, silt-free mountain streams. They are generally nocturnal, spending most of the day under rocks on the stream floor, emerging at night to hunt crayfish.'
 type: species-profile
 js: /js/species-profile.js
 tags:
-  - Alabama
-  - Amphibian
-  - Arkansas
-  - "Asheville Ecological Services Field Office"
-  - "South Carolina Ecological Services Field Office"
-  - "Chattahoochee Forest National Fish Hatchery"
-  - Georgia
-  - Kentucky
-  - Mississippi
-  - "North Carolina"
-  - Tennessee
-  - Virginia
+    - Alabama
+    - Amphibian
+    - Arkansas
+    - 'Asheville Ecological Services Field Office'
+    - 'Chattahoochee Forest National Fish Hatchery'
+    - Georgia
+    - Kentucky
+    - Mississippi
+    - 'North Carolina'
+    - 'South Carolina Ecological Services Field Office'
+    - Tennessee
+    - Virginia
 aliases:
-  - /wildlife/amphibian/eastern-hellbender
-  - /species/amphibian/eastern-hellbender
-  - /species/amphibians/eastern-hellbender
+    - /wildlife/amphibian/eastern-hellbender
+    - /species/amphibian/eastern-hellbender
+    - /species/amphibians/eastern-hellbender
 hero:
-  name: eastern-hellbender.jpg
-  alt: "A small, slimy, green salamander in hand."
-  caption: 'Eastern hellbender. <a href="https://flic.kr/p/EjNh96">Photo</a> by Will Parson, Chesapeake Bay Program, <a href="https://creativecommons.org/licenses/by-nc/2.0/">CC BY-NC 2.0</a>.'
-  link: "https://flic.kr/p/EjNh96"
-  position: "40% 50%"
-updated: "October 5th, 2018"
+    name: eastern-hellbender.jpg
+    alt: 'A small, slimy, green salamander in hand.'
+    caption: 'Eastern hellbender. <a href="https://flic.kr/p/EjNh96">Photo</a> by Will Parson, Chesapeake Bay Program, <a href="https://creativecommons.org/licenses/by-nc/2.0/">CC BY-NC 2.0</a>.'
+    link: 'https://flic.kr/p/EjNh96'
+    position: '40% 50%'
+updated: 'March 25th, 2019'
 ---
 
 - **Taxon:** Amphibian
@@ -36,10 +36,7 @@ updated: "October 5th, 2018"
 
 Referred to by locals as “mud devil”, “devil dog”, “ground puppy”, “snot otter”, “lasagna lizard”, and “Allegheny alligator”, the hellbender has certainly been colored as “a creature from hell where it’s bent of returning.” This large amphibian can be found crawling around the bottoms of clear, silt-free mountain streams. They are generally nocturnal, spending most of the day under rocks on the stream floor, emerging at night to hunt crayfish.
 
-{{< scroller-list tag="Eastern Hellbender" section="news" >}}
-{{< scroller-list tag="Eastern Hellbender" section="articles" >}}
-{{< scroller-list tag="Eastern Hellbender" section="podcasts" >}}
-{{< scroller-list tag="Eastern Hellbender" section="faq" >}}
+{{< content-scroller tag="Eastern Hellbender" heading="Related content" >}}
 
 ## Appearance
 

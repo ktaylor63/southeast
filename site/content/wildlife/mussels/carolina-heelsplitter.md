@@ -24,17 +24,14 @@ hero:
     alt: 'A dark colored mussel embedded in a stream bed, open filtering water.'
     caption: 'Carolina heelsplitter.  Photo by USFWS.'
     position: '70% 70%'
-updated: 'February 20th, 2019'
+updated: 'March 25th, 2019'
 ---
 
 - **Taxon:** Mussel
 - **Range:** [North Carolina](/north-carolina), [South Carolina](/south-carolina)
 - **Status:** [Listed as endangered on June 30, 1993](https://ecos.fws.gov/docs/federal_register/fr2323.pdf)
 
-{{< scroller-list tag="Carolina Heelsplitter" section="news" >}}
-{{< scroller-list tag="Carolina Heelsplitter" section="articles" >}}
-{{< scroller-list tag="Carolina Heelsplitter" section="podcasts" >}}
-{{< scroller-list tag="Carolina Heelsplitter" section="faq" >}}
+{{< content-scroller tag="Carolina Heelsplitter" heading="Related content" >}}
 
 {{< figure class="photo-center" src="/images/pages/carolina-heelsplitter-range-map-20070101.jpg" alt="A map highlighting populations in northern South Carolina, just south of Charlotte, NC and in southwestern South Carolina, south east of Greenville, SC." caption="South Carolina watersheds containing Carolina heelsplitter. Map by USFWS." >}}
 

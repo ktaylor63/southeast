@@ -24,17 +24,14 @@ tags:
     - Tennessee
     - 'Tennessee Ecological Services Field Office'
     - Virginia
-updated: 'February 20th, 2019'
+updated: 'March 25th, 2019'
 ---
 
 - **Taxon:** Bivalve
 - **Range:** [Alabama](/alabama), [Kentucky](/kentucky), [North Carolina](/north-carolina), [Tennessee](/tennessee) and [Virginia](/virginia)
 - **Status:** Endangered. Populations in Tennessee are experimental.
 
-{{< scroller-list tag="Littlewing Pearlymussel" section="news" >}}
-{{< scroller-list tag="Littlewing Pearlymussel" section="articles" >}}
-{{< scroller-list tag="Littlewing Pearlymussel" section="podcasts" >}}
-{{< scroller-list tag="Littlewing Pearlymussel" section="faq" >}}
+{{< content-scroller tag="Littlewing Pearlymussel" heading="Related content" >}}
 
 ## Appearance
 

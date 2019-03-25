@@ -24,7 +24,7 @@ tags:
     - 'Raleigh Ecological Services Field Office'
     - 'South Carolina'
     - 'South Carolina Ecological Services Field Office'
-updated: 'February 20th, 2019'
+updated: 'March 25th, 2019'
 ---
 
 - **Taxon**: Bird
@@ -35,10 +35,7 @@ The black-capped petrel is a seabird found in North America and the Caribbean, a
 
 Download the peer-reviewed [species status assessment](https://ecos.fws.gov/ServCat/DownloadFile/156429).
 
-{{< scroller-list tag="Black-Capped Petrel" section="news" >}}
-{{< scroller-list tag="Black-Capped Petrel" section="articles" >}}
-{{< scroller-list tag="Black-Capped Petrel" section="podcasts" >}}
-{{< scroller-list tag="Black-Capped Petrel" section="faq" >}}
+{{< content-scroller tag="Black-Capped Petrel" heading="Related content" >}}
 
 ## Appearance
 

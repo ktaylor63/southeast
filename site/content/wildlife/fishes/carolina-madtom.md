@@ -21,17 +21,14 @@ hero:
     caption: 'Carolina madtom. Photo by D Biggins, former USFWS.'
     link: 'https://flic.kr/p/Tk6D1L'
     position: 'center left'
-updated: 'February 19th, 2019'
+updated: 'March 25th, 2019'
 ---
 
 - **Taxon:** Freshwater Fish
 - **Range:** Neuse River and Tar River basins, [North Carolina](/north-carolina)
 - **Status:** At-risk species
 
-{{< scroller-list tag="Carolina Madtom" section="news" >}}
-{{< scroller-list tag="Carolina Madtom" section="articles" >}}
-{{< scroller-list tag="Carolina Madtom" section="podcasts" >}}
-{{< scroller-list tag="Carolina Madtom" section="faq" >}}
+{{< content-scroller tag="Carolina Madtom" heading="Related content" >}}
 
 ## Appearance
 

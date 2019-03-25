@@ -27,7 +27,7 @@ aliases:
     - /wildlife/plant/small-anthered-bittercress
     - /species/plant/small-anthered-bittercress
     - /species/plants/small-anthered-bittercress
-updated: 'February 20th, 2019'
+updated: 'March 25th, 2019'
 ---
 
 - **Taxon:** Plant
@@ -36,10 +36,7 @@ updated: 'February 20th, 2019'
 
 The Virginia spiraea is found in the Appalachian Plateaus or the southern Blue Ridge Mountains in Alabama, Ohio, West Virginia, Virginia, Tennessee, North Carolina, Kentucky, and Georgia. It no longer occurs in Pennsylvania. This plant was first discovered in Virginia in 1985. Most of the existing populations consist of only a few clumps. Mature plants reach a height of 3-10 feet. Young stems are greenish-yellow to dark brown and mature stems are dark gray. The roots form a complex system. The creamy white flowers are in tightly packed bunches.
 
-{{< scroller-list tag="Virginia Spiraea" section="news" >}}
-{{< scroller-list tag="Virginia Spiraea" section="articles" >}}
-{{< scroller-list tag="Virginia Spiraea" section="podcasts" >}}
-{{< scroller-list tag="Virginia Spiraea" section="faq" >}}
+{{< content-scroller tag="Virginia Spiraea" heading="Related content" >}}
 
 ## Appearance
 

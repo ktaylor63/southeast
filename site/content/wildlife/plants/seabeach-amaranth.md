@@ -27,7 +27,7 @@ tags:
     - 'Seabeach Amaranth'
     - 'South Carolina'
     - Virginia
-updated: 'February 20th, 2019'
+updated: 'March 25th, 2019'
 ---
 
 - **Taxon:** [Plant](/wildlife/plants)
@@ -36,10 +36,7 @@ updated: 'February 20th, 2019'
 
 Seabeach amaranth is an annual plant found along Atlantic Coast barrier beaches.  Originally known from Massachusetts to South Carolina, it has not been observed north of Long Island, New York, in many years until [a reintroduction to Nantucket Island and Monomoy National Wildlife Refuge on Cape Cod, Massachusetts in 2017](/articles/from-massachusetts-to-south-carolina-recovering-seabeach-amaranth/).  Based on a rangewide decline of the species, it was listed as threatened on April 7, 1993.
 
-{{< scroller-list tag="Seabeach Amaranth" section="news" >}}
-{{< scroller-list tag="Seabeach Amaranth" section="articles" >}}
-{{< scroller-list tag="Seabeach Amaranth" section="podcasts" >}}
-{{< scroller-list tag="Seabeach Amaranth" section="faq" >}}
+{{< content-scroller tag="Seabeach Amaranth" heading="Related content" >}}
 
 ## Appearance
 

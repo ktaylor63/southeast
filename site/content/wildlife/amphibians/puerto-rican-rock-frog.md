@@ -22,7 +22,7 @@ hero:
     alt: 'A brownish peach colored frog with big round eyes'
     caption: 'A female frog on a tree branch. Photo by JP Zegarra, USFWS.'
 description: 'The Puerto Rican rock frog is known by several names: Puerto Rican cave frog, guajón, and the Puerto Rican demon. It is found exclusively in southeastern Puerto Rico.'
-updated: 'October 5th, 2018'
+updated: 'March 25th, 2019'
 ---
 
 - **Taxon:** Amphibian
@@ -35,10 +35,7 @@ Oddly for a frog, it sings mainly during the day while hidden within rocks and c
 
 Coquíes in general are cherished in Puerto Rico. The sounds of singing males are a distinctive feature of the Puerto Rican landscape and a valued symbol of the island’s natural and cultural heritage.
 
-{{< scroller-list tag="Puerto Rican Rock Frog" section="news" >}}
-{{< scroller-list tag="Puerto Rican Rock Frog" section="articles" >}}
-{{< scroller-list tag="Puerto Rican Rock Frog" section="podcasts" >}}
-{{< scroller-list tag="Puerto Rican Rock Frog" section="faq" >}}
+{{< content-scroller tag="Puerto Rican Rock Frog" heading="Related content" >}}
 
 ## Appearance
 

@@ -19,7 +19,7 @@ tags:
     - 'North Carolina'
     - 'Raleigh Ecological Services Field Office'
     - Recovery
-updated: 'February 20th, 2019'
+updated: 'March 25th, 2019'
 ---
 
 - **Taxon:** Freshwater fish
@@ -28,10 +28,7 @@ updated: 'February 20th, 2019'
 
 The Cape Fear shiner is a North American species of freshwater fish in the minnow family. It is only found in the central part of North Carolina, in the Upper Cape Fear River Basin. Listed as endangered, the species has benefited from successful captive breeding. It has also benefited from removal of some of the dams that once led to low population numbers. Experts are hopeful that by implementing strategic efforts and habitat conservation, the Cape Fear shiner can be recovered throughout its range.
 
-{{< scroller-list tag="Cape Fear Shiner" section="news" >}}
-{{< scroller-list tag="Cape Fear Shiner" section="articles" >}}
-{{< scroller-list tag="Cape Fear Shiner" section="podcasts" >}}
-{{< scroller-list tag="Cape Fear Shiner" section="faq" >}}
+{{< content-scroller tag="Cape Fear Shiner" heading="Related content" >}}
 
 ## Appearance
 

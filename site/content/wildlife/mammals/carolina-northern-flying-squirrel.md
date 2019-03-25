@@ -22,7 +22,7 @@ hero:
     alt: 'A biologist holding a small squirrel with yellow gloves'
     caption: 'A Carolina northern flying squirrel in the hands of a biologist. Photo by Sue Cameron, USFWS.'
     position: '50% 30%'
-updated: 'February 19th, 2019'
+updated: 'March 25th, 2019'
 ---
 
 - **Taxa:** Mammal
@@ -31,10 +31,7 @@ updated: 'February 19th, 2019'
 
 The Carolina northern flying squirrel can trace its roots back to the last ice age. During this time, ice sheets covered much of northern North America, forcing cold-climate plants and animals further south. As temperatures warmed and ice sheets receded, those cold-climate species migrated north, and some found refuge on the high, cold peaks of the Southern Appalachians.  Over thousands of years, these isolated, mountain-top populations became increasingly distinct, a process that gave rise to the Carolina northern flying squirrel, a subspecies of northern flying squirrel only found in the high-elevation areas of North Carolina, Tennessee, and southwest Virginia.
 
-{{< scroller-list tag="Carolina Northern Flying Squirrel" section="news" >}}
-{{< scroller-list tag="Carolina Northern Flying Squirrel" section="articles" >}}
-{{< scroller-list tag="Carolina Northern Flying Squirrel" section="podcasts" >}}
-{{< scroller-list tag="Carolina Northern Flying Squirrel" section="faq" >}}
+{{< content-scroller tag="Carolina Northern Flying Squirrel" heading="Related content" >}}
 
 ## Appearance
 

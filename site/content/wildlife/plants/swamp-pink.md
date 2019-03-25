@@ -27,7 +27,7 @@ tags:
     - 'South Carolina Ecological Services Field Office'
     - 'Swamp Pink'
     - Virginia
-updated: 'February 20th, 2019'
+updated: 'March 25th, 2019'
 ---
 
 - **Taxon:** Plant
@@ -37,9 +37,7 @@ updated: 'February 20th, 2019'
 Swamp pink is only found in wetlands along streams and seepage areas in freshwater swamps. The major threat to the species is loss and degradation of its wetland habitat due to
 encroaching development, sedimentation, pollution, succession, and wetland drainage. Swamp pink has extremely low seedling establishment, which appears limit establishment of population at new sites. Other threats include plant collection and trampling.
 
-{{< scroller-list tag="Swamp Pink" section="news" >}}
-{{< scroller-list tag="Swamp Pink" section="articles" >}}
-{{< scroller-list tag="Swamp Pink" section="faq" >}}
+{{< content-scroller tag="Swamp Pink" heading="Related content" >}}
 
 ## Appearance
 

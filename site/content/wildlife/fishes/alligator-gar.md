@@ -30,7 +30,7 @@ tags:
     - Tennessee
     - Texas
     - 'Warm Springs National Fish Hatchery'
-updated: 'October 5th, 2018'
+updated: 'March 25th, 2019'
 ---
 
 - **Taxon:** Fish
@@ -47,10 +47,7 @@ Alligator gar were once found across most large river systems and tributaries of
 
 Recent surveys suggest populations are far below historic levels and could be declining further. Alligator gar have been identified as an imperiled species by the American Fisheries Society and a focal species of the U.S. Fish and Wildlife Service. Numerous states have already or are in the process of increasing conservation and management through regulations, habitat restoration, and stocking.
 
-{{< scroller-list tag="Alligator Gar" section="news" >}}
-{{< scroller-list tag="Alligator Gar" section="articles" >}}
-{{< scroller-list tag="Alligator Gar" section="podcasts" >}}
-{{< scroller-list tag="Alligator Gar" section="faq" >}}
+{{< content-scroller tag="Alligator Gar" heading="Related content" >}}
 
 ## Appearance
 
