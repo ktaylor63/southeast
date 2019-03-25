@@ -1,0 +1,35 @@
+{{ $tag := lower (.Get "tag") | urlize }}
+{{ $headerText := .Get "heading" }}
+{{ $pages := index .Site.Taxonomies.tags $tag }}
+{{ $lazyLoadLimit := 5 }}
+
+{{ if gt (len $pages) 0 }}
+
+<div class='content-scroller'>
+  <h2 id="{{ $headerText | urlize}}">{{ $headerText }}</h2>
+  <ol class="content-scroller--list">
+    {{ range $index, $element := $pages }}
+    <li class='content-scroller--item'>
+      <div class='content-scroller--metadata'>
+        {{ if .Page.Params.hero.name }}
+        <a href='{{ .Page.Permalink }}'>
+          <img {{ if lt $index $lazyLoadLimit }}src{{ else }}src="/images/svg/picture.svg" data-src{{ end }}='/images/hero/small/{{ .Page.Params.hero.name }}' alt='{{ .Page.Params.hero.alt }}' />
+        </a>
+        {{ end }}
+        {{ if not .Page.Date.IsZero }}
+        <span>{{ .Page.Date.Format "Jan 2, 2006"}}{{ if gt .Page.ReadingTime 0 }} | {{ .Page.ReadingTime }} minute
+          read{{ end }}</span>
+        {{ end }}
+      </div>
+      <div class="content-scroller--title">
+        <span class="content-scroller--type">{{ .Page.Section | title }}</span>
+        <a href='{{ .Page.Permalink }}'>
+          <h3>{{ .Page.Title }}</h3>
+        </a>
+      </div>
+    </li>
+    {{ end }}
+  </ol>
+</div>
+
+{{ end }}
