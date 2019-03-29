@@ -13,7 +13,7 @@ tags:
     - 'Endangered Species Act'
     - 'Louisiana Black Bear'
     - Recovery
-updated: 'October 13th, 2017'
+updated: 'March 25th, 2019'
 ---
 
 One of the primary responsibilities of the U.S. Fish and Wildlife Service (Service) is to protect and recover imperiled species and the ecosystems upon which they depend. Congress defined “species” to include subspecies, varieties, and, for vertebrates, distinct population segments.
@@ -79,9 +79,7 @@ In 2016, the Service removed the [Louisiana black bear](/wildlife/mammals/louisi
 
 ## Louisiana black bear content
 
-{{< scroller-list tag="Louisiana Black Bear" section="news" >}}
-
-{{< scroller-list tag="Louisiana Black Bear" section="articles" >}}
+{{< content-scroller tag="Louisiana Black Bear" heading="Related content" >}}
 
 <span class="state-name">Louisiana</span>
 <span class="state-abbreviation">LA</span>

@@ -10,7 +10,7 @@ js: /js/field-station.js
 type: field-station
 tags:
     - Louisiana
-updated: 'January 5th, 2018'
+updated: 'March 25th, 2019'
 ---
 
 Natchitoches National Fish Hatchery, the only federal fish hatchery in Louisiana, is one of 69 Federal fish hatcheries across the United States. Opened in 1931, the hatchery raises many species of fish including alligator gar, alligator snapping turtles, recreational fish species, and freshwater mussels.  
@@ -19,9 +19,7 @@ Louisiana is called Sportsman’s Paradise reflecting a history steeped in the e
 
 {{< youtube RlNBX_zzy5g >}}
 
-{{< scroller-list tag="Natchitoches National Fish Hatchery" section="news" >}}
-
-{{< scroller-list tag="Natchitoches National Fish Hatchery" section="articles" >}}
+{{< content-scroller tag="Natchitoches National Fish Hatchery" heading="Related content" >}}
 
 ## Service Area
 

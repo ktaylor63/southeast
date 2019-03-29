@@ -14,7 +14,7 @@ tags:
     - Downlist
     - 'Endangered Species Act'
     - Recovery
-updated: 'February 20th, 2019'
+updated: 'March 25th, 2019'
 ---
 
 The goal of the U.S. FIsh and Wildlife Service  under the Endangered Species Act (ESA) is to conserve plants and animals listed as endangered or threatened, as well as the ecosystems upon which they depend. The Service also works to improve the status of those species to the point that protection under the ESA is no longer necessary. This process is called **recovery**.
@@ -25,13 +25,11 @@ Achieving recovery for threatened and endangered species requires cooperative co
 
 {{< figure class="photo-center" src="/images/pages/wood-stork-chicks.jpg" alt="Two fluffy wood stork chicks in a nest at the top of a tree" caption="Two wood stork chicks at Harris Neck National Wildlife Refuge in Georgia. Photo by Mary Ellen Urbanski" link="https://flic.kr/p/nCBbeJ" >}}
 
-{{< scroller-list tag="Recovery" number="10" section="articles" >}}
-
-{{< scroller-list tag="Recovery" number="10" section="news" >}}
+{{< content-scroller tag="Recovery" heading="Related content" >}}
 
 ## How we recover species
 
-A listed species enters the world of recovery as soon as the final rule listing it under the ESA becomes effective.  The Service frequently continues efforts with our partners that began before the species was under consideration for listing.  The Southeast Region identifies a field office recovery lead for each listed species at the time of listing who can immediately move forward with recovery work. For example, recovery actions could include working with a state park to restore dunes, or with a national forest to remove exotic overcrowding vegetation, or with a university professor in propagation of a species.
+A listed species enters the world of recovery as soon as the final rule listing it under the ESA becomes effective.  The Service frequently continues efforts with our partners that began before the species was under consideration for listing.  The Southeast Region identifies a [field office recovery lead for each listed species at the time of listing](/pdf/data/recovery-leads.pdf) who can immediately move forward with recovery work. For example, recovery actions could include working with a state park to restore dunes, or with a national forest to remove exotic overcrowding vegetation, or with a university professor in propagation of a species.
 
 In order to have a transparent path to achieve recovery, the Service develops **recovery plans** for listed species that outline the actions that need to be taken in order to move the species towards no longer requiring federal protection.
 
