@@ -1,6 +1,6 @@
 ---
 title: 'Bayou Teche boardwalk trail open for adventure thanks to volunteers'
-author: 'Rebecca Larkins, Southeast Louisiana Refuges'
+author: 'Joanne Dolan, Southeast Louisiana Refuges'
 date: 2019-01-30T00:00:00.000Z
 type: 'Bragging Rights'
 hero:
