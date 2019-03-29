@@ -22,7 +22,7 @@ Calling all runners! April 13 is set for our fourth annual Trout Trot 5K trail r
 
 Proceeds from the race will go to sponsor Friends of Wolf Creek NFH – School Field Trip Scholarship. Online registration is available at https://runsignup.com. You may also choose to bundle this race for the three part J-Town Triple Crown to be qualified for additional discounts and prizes.
 
- For more details or to receive a registration form please contact Moria Painter at [moria_painter@fws.gov](mailto:moria_painter@fws.gov) or call the hatchery.
+For more details or to receive a registration form please contact Moria Painter at [moria_painter@fws.gov](mailto:moria_painter@fws.gov) or call the hatchery.
 
 Saturday, April 27, 9 a.m.-1 p.m. &mdash; Join us for our annual Earth Day Celebration. This day will be filled with free giveaways, demonstrations, exhibitor booths, and fun activities for the entire family. Grab a free tree while supplies last, courtesy of the Friends of Wolf Creek NFH. Bring your recyclables and receive a complimentary CFL lightbulb, courtesy of South Kentucky Rural Electric Cooperative Corporation. Participants can fish at Hatchery Creek; craft a work of art at the Creation Station; visit the hatchery and more. For more information, contact Ashley Buffington at [ashley_buffington@fws.gov](mailto:ashley_buffington@fws.gov) or 270-343-3797.
 
