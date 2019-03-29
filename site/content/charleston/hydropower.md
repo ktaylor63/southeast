@@ -14,7 +14,7 @@ tags:
     - 'Fish Passage'
     - Hydropower
     - 'South Carolina'
-updated: 'March 1st, 2019'
+updated: 'March 29th, 2019'
 ---
 
 Hydropower, a renewable source of energy, is widely used throughout the United States and the world. Hydropower projects usually consist of damming a river to create a reservoir or lake. Water flowing through turbines in the dam create electricity. Dams, and the reservoirs they create, can also be used for water supply, flood control, and recreation. Although producing hydroelectricity does not emit any greenhouse gas emissions, the damming of rivers can have detrimental effects to our streams and rivers.
@@ -30,6 +30,46 @@ The Federal Energy Regulatory Commission (FERC) is the governmental agency respo
 ## Projects
 
 Projects within the South Carolina Ecological Services Field Office service area include: Santee-Cooper Hydropower Project on the Santee and Cooper Rivers; [Augusta Canal Hydropower Project on the Savannah River](https://augustacanal.com/about-overview.php); [Duke Energy Hydropower Project on the Catawba and Wateree Rivers](https://www.duke-energy.com/community/lakes/hydroelectric-relicensing/catawba); Columbia Hydropower Project on the Broad River; [Saluda Hydropower Project on the Saluda River](https://www.saludahydrorelicense.com/); [Parr Hydropower Project on the Broad River](http://www.parrfairfieldrelicense.com/projectdetails.html); [Stevens Creek Hydropower Project at the confluence of Stevens Creek and the Savannah River](http://stevenscreekrelicense.com/); and [Lockhart Company Hydropower Project on the Pacolet River](http://www.lockhartpower.com/renewable-energy-resources.php).
+
+{{< figure class="photo-center" src="/images/pages/south-carolina-ferc-projects.jpg" alt="A map of FERC projects along rivers in Northern South Carolina" caption="South Carolina FERC hydropower projects. Map by Melanie Olds, USFWS." link="/pdf/map/south-carolina-ferc-projects.jpg" >}}
+
+### Santee-Cooper River Basin
+
+- Santee-Cooper Hydropower
+ 
+### Saluda River Basin
+
+- Saluda Hydropower Project
+- Buzzards Roost
+- Ware Shoals
+- Lower Pelzer
+- Upper Pelzer
+- Piedmont
+ 
+### Broad River Basin
+
+- Columbia Diversion Dam
+- Parr Shoals
+- Neal Shoals
+- Lockhart
+- Pacolet
+- Ninety-Nine Islands
+- Cherokee Falls
+- Gaston Shoals
+ 
+### Catawba-Wateree River Basin
+
+- Catawba-Wateree Hydropower Project
+ 
+### Savannah River Basin
+
+- New Savannah Bluff Lock & Dam
+- Augusta Canal
+- Stevens Creek
+- Abbeville
+- Coneross
+- Keowee-Toxaway
+- Bad Creek Pump Storage
 
 ## Fisheries restoration plan
 
