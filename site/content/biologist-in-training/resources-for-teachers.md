@@ -5,8 +5,7 @@ weight: 4
 hero:
     name: non-profit-haywood-waterways.jpg
     alt: 'Students crowd around an instructor.'
-    caption: 'Eric Romaniszyn of non-profit Haywood Waterways giving instructions. Photo by Gary Peeples, USFWS.'
-    link: 'https://flic.kr/p/pdaD45'
+    caption: 'Eric Romaniszyn of non-profit Haywood Waterways giving instructions. <a href="https://flic.kr/p/pdaD45"≥Photo</a> by Gary Peeples, USFWS.'
     position: 'top center'
 updated: 'April 28th, 2017'
 tags:
@@ -25,7 +24,7 @@ A series of group [extension activities](/biologist-in-training/extension-activi
 
 Supplemental extension activities are available to download and print. These activities include a list of materials and instructions necessary to complete the exercises.
 
- - [Extension Activities](/biologist-in-training/extension-activities)
- - [Letter to Teachers](/pdf/workbook/biologist-in-training-letter-to-educators.pdf)
- - [Materials List and Ordering Information](/pdf/workbook/biologist-in-training-bin-contents.pdf)
- - [Your Family &amp; Nature: Getting Outside is Easy and Fun! Fact Sheet](/pdf/fact-sheet/your-family-and-nature.pdf)
+- [Extension Activities](/biologist-in-training/extension-activities)
+- [Letter to Teachers](/pdf/workbook/biologist-in-training-letter-to-educators.pdf)
+- [Materials List and Ordering Information](/pdf/workbook/biologist-in-training-bin-contents.pdf)
+- [Your Family &amp; Nature: Getting Outside is Easy and Fun! Fact Sheet](/pdf/fact-sheet/your-family-and-nature.pdf)
