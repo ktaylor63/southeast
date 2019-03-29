@@ -9,10 +9,10 @@
 
 .card-hero {
   overflow: hidden;
-  margin-bottom: -7px;
+  position: relative;
 
   img {
-    transition: transform .3s;
+    transition: transform 0.3s;
   }
 
   @media (min-width: $break-lg) {
@@ -22,13 +22,17 @@
   @media (min-width: $break-xl) {
     display: block;
   }
+
+  .hero-caption {
+    bottom: 8px;
+  }
 }
 
 .card-list-heading {
   color: $color-accent;
   font-family: $serif;
   font-size: 1.2em;
-  margin-top:0;
+  margin-top: 0;
 }
 
 .card-ribbon {
@@ -49,7 +53,7 @@
     }
 
     &::after {
-      content: '';
+      content: "";
     }
   }
 
