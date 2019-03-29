@@ -1,9 +1,13 @@
 ---
 draft: true
 title: 'Outdoor recreation'
-nav: 'Outdoor Recreation'
+nav: 'Outdoor recreation'
 facebook: SouthCarolinaFieldOffice
 twitter: USFWS_SC
+hero:
+    name: kayaking.jpg
+    alt: 'A kayaker navigates her boat through a flooded forest.'
+    caption: 'Kayaking through Sparkleberry Swamp. Photo by USFWS.'
 tags:
     - 'Environmental Interpretation'
     - Fishing
@@ -13,7 +17,7 @@ tags:
     - 'South Carolina'
     - 'Wildlife Observation'
     - 'Wildlife Photography'
-updated: 'February 6th, 2019'
+updated: 'March 1st, 2019'
 ---
 
 Our nation has one of the world's largest networks of protected public lands set aside for the enjoyment of the American people.  This vast network supports a healthy outdoor recreation industry, providing millions of jobs across the U.S. and generating billions of dollars for the economy.  These jobs and revenue in turn help support local communities and fund conservation efforts.  So whether you are hunting, fishing, or hiking, you're not just renewing your spirit and improving your health, you're also contributing to the future of conserving and enhancing our natural heritage for future generations.
