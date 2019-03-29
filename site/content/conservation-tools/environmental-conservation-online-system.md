@@ -3,8 +3,7 @@ title: 'Environmental Conservation Online System (ECOS)'
 hero:
     name: ecos-species-profile.jpg
     alt: 'A screenshot from the Bald eagle species profile on ECOS showing an image and a description of the species.'
-    caption: 'A screenshot from the Bald eagle species profile on ECOS.'
-    link: 'https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B008'
+    caption: 'A screenshot from the <a href="https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B008"≥Bald eagle species profile</a> on ECOS.'
     position: 'top left'
 tags:
     - 'Data Management'
