@@ -14,7 +14,7 @@ const removeNode = el => {
 };
 
 const listedUrl = `https://ecos.fws.gov/ecp/pullreports/catalog/species/report/species/export?format=json&columns=%2Fspecies%40cn%2Csn%2Cstatus%2Cdesc%2Clisting_date&filter=%2Fspecies%40status_category%20%3D%20'Listed'&filter=%2Fspecies%2Frange_state%40abbrev%20%3D%20'${abbreviationName}'`;
-const atRiskUrl = `https://finder.royhewitt.com/query/custom?range%5B%5D=${stateName}&rangeQueryType=any&regions%5B%5D=Southeast&status%5B%5D=Candidate&status%5B%5D=Lawsuit+to+Challenge+Not+Substantial+90-day+Finding&status%5B%5D=Lawsuit+to+Challenge+Not+Warranted+12-month+Finding&status%5B%5D=Petitioned&status%5B%5D=Proposed+for+Listing+as+Endangered&status%5B%5D=Proposed+for+Listing+as+Endangered+due+to+Similarity+of+Appearance&status%5B%5D=Proposed+for+Listing+as+Threatened&status%5B%5D=Proposed+for+Listing+as+Threatened+due+to+Similarity+of+Appearance&status%5B%5D=Substantial+90-day+Finding`;
+const atRiskUrl = `https://finder.royhewitt.com/query/custom?range%5B%5D=${stateName}&rangeQueryType=any&status%5B%5D=Candidate&status%5B%5D=Lawsuit+to+Challenge+Not+Substantial+90-day+Finding&status%5B%5D=Lawsuit+to+Challenge+Not+Warranted+12-month+Finding&status%5B%5D=Petitioned&status%5B%5D=Proposed+for+Listing+as+Endangered&status%5B%5D=Proposed+for+Listing+as+Endangered+due+to+Similarity+of+Appearance&status%5B%5D=Proposed+for+Listing+as+Threatened&status%5B%5D=Proposed+for+Listing+as+Threatened+due+to+Similarity+of+Appearance&status%5B%5D=Substantial+90-day+Finding&status%5B%5D=Under+Review+by+the+Agency%27s+Own+Discretionary+Action`;
 
 const createAtRiskList = species => {
   const speciesList = species.map(animal => {
@@ -33,8 +33,7 @@ const createAtRiskList = species => {
 
 const createListedSpeciesList = (species, status) => {
   const list = species.map(
-    animal =>
-      `<li><a href='${animal[1].url}'>${animal[0]} (<em>${
+    animal => `<li><a href='${animal[1].url}'>${animal[0]} (<em>${
         animal[1].value
       }</em>)</a></li>`
   );
