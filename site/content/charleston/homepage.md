@@ -18,7 +18,7 @@ tags:
     - 'Endangered Species Act'
     - 'South Carolina'
     - 'South Carolina Ecological Services Field Office'
-updated: 'February 13th, 2019'
+updated: 'March 29th, 2019'
 ---
 
 Established in 1973, the South Carolina Ecological Services Field Office (SCESFO), located in Charleston, South Carolina, is primarily focused on protection and recovery of threatened and endangered species, while also supporting conservation of migratory birds, fish, and wetlands. The SCESFO also coordinates with the South Carolina Department of Natural Resources (SCDNR) to address priority species outlined in their South Carolina Wildlife Action Plan.  
@@ -30,7 +30,7 @@ The field office provides services to private citizens, community groups, local 
 ## Priorities
 
 - Conduct consultation, habitat conservation planning activities, and candidate conservation activities under the [Endangered Species Act](/endangered-species-act/);
-- Reduce impacts to fish, wildlife, and their habitats in the state from federally funded or authorized projects (e.g., Federal Energy Regulatory Commission activities);
+- Reduce impacts to fish, wildlife, and their habitats in the state from federally funded or authorized projects (e.g., [Federal Energy Regulatory Commission activities](/charleston/hydropower));
 - Restore habitat through the Service’s [Partners for Fish and Wildlife](/charleston/partners-for-fish-and-wildlife-program) and [Coastal programs](/charleston/coastal-program);
 - Conserving wetlands through the [Fish and Wildlife Conservation Act](https://www.fws.gov/laws/lawsdigest/fwcoord.html);
 - Conduct surveys on [at-risk species](/endangered-species-act/at-risk-species/);
