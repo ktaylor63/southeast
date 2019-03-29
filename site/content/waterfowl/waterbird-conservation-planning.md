@@ -1,6 +1,6 @@
 ---
 title: 'Waterbird conservation planning'
-nav: Waterbird conservation planning
+nav: 'Waterbird conservation planning'
 weight: 4
 aliases:
     - /birds/waterbird-conservation-planning
@@ -11,13 +11,13 @@ hero:
     position: '70% 25%'
     link: 'https://flic.kr/p/cc512N'
 tags:
-    - 'Black Rail'
+    - 'Eastern Black Rail'
     - 'King Rail'
     - 'North American Waterfowl Conservation Plan'
     - 'Reddish Egrit'
     - 'Secretive Marshbird'
     - Waterbird
-updated: 'April 24th, 2018'
+updated: 'March 25th, 2019'
 ---
 
 The [North American Waterbird Conservation Plan](https://www.fws.gov/birds/management/bird-management-plans/waterbird-conservation-for-the-americas.php) - also known as Waterbirds for the Americas - is an international, voluntary partnership committed to conserving waterbirds and their habitats. As with [Partners in Flight](https://www.partnersinflight.org/), the [North American Waterfowl Management Plan](https://nawmp.org) and similar initiatives, a number of regional, ecoregional and species-specific plans and technical documents have been developed under the North American Waterbird Conservation Plan.
