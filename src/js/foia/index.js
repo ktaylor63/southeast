@@ -14,7 +14,9 @@ const createResult = result => `
     <h3>${result.title}</h3>
     <p><strong>Citation:</strong> ${result.citation}</p>
     <p>
-      <a href="https://ecos.fws.gov/ServCat/Reference/Profile/${result.referenceId}">
+      <a href="https://ecos.fws.gov/ServCat/Reference/Profile/${
+  result.referenceId
+}">
         View document on ServCat
       </a><br><br>
       ${result.linkedResources.map(createDownloadLink).join('')}
@@ -31,28 +33,27 @@ const search = query => {
 
   if (query.length === 0) return data;
 
-  const matches = data.filter(doc => {
+  return data.filter(doc => {
     const isTitle = regex.test(doc.title);
     const isCitation = regex.test(doc.citation);
     return isTitle || isCitation;
   });
-
-  return matches;
 };
 
 const cacheResults = results => {
   // Filter out any non-public documents
   data = results.filter(doc => doc.fileAccess === 'Public');
-  console.log(data);
   return data;
 };
 
 const getSavedSearch = id => axios
-  .get(`https://ecos.fws.gov/ServCatServices/servcat/v4/rest/SavedSearch/Composite/${id}`)
-  .then(res => res.data.items)
-  .then(cacheResults)
-  .then(render)
-  .catch(console.log);
+    .get(
+      `https://ecos.fws.gov/ServCatServices/servcat/v4/rest/SavedSearch/Composite/${id}`
+    )
+    .then(res => res.data.items)
+    .then(cacheResults)
+    .then(render)
+    .catch(console.log);
 
 const savedSearchHandler = e => {
   searchInput.value = '';
@@ -65,7 +66,9 @@ const searchHandler = e => {
 };
 
 select.addEventListener('input', savedSearchHandler);
+select.addEventListener('change', savedSearchHandler);
 searchInput.addEventListener('input', searchHandler);
+searchInput.addEventListener('change', searchHandler);
 
 // Initialize app
 getSavedSearch(select.value);
