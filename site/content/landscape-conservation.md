@@ -21,7 +21,7 @@ They formed the Justice League.
 
 Problems like drought, sea level rise, ocean acidification, melting snowcaps and groundwater pollution are large-scale and complex, spreading across cities, states, rivers, mountains and oceans.
 
-## Alliances in Science
+## Alliances in science
 
 {{< figure class="photo-center" src="/images/pages/counting-mussels.jpg" alt="NC biologists counts mussels under a microscope" link="https://flic.kr/p/onDw7j" caption="A biologist with the state of North Carolina looks at mussels. Photo by Gary Peeples, USFWS." >}}
 
@@ -41,7 +41,7 @@ LCCs are:
 
 In the face of accelerated [climate change](/our-changing-climate) and other 21st-century conservation challenges, LCCs will regularly evaluate the effectiveness of scientific information and conservation actions and support necessary adjustments as new information becomes available. This iterative process of information sharing will help scientists and resource managers deal with uncertainties on the landscape and provide tools to compare and contrast the implications of management alternatives.
 
-## Get Started with Southeastern LCCs
+## Get started with Southeastern LCCs
 
 {{< figure class="photo" src="/images/pages/harlequin-butterfly.jpg" alt="An orange and black butterfly resting on a flower" link="https://flic.kr/p/9LBLnZ" caption="Puerto Rico’s harlequin butterfly on a flower of sea grapes. Photo by USFWS." >}}
 
@@ -65,13 +65,11 @@ Serving the Appalachian mountain range, covering portions of Georgia, Alabama, S
 ### [Gulf Coast Prairie](http://gulfcoastprairielcc.org/)
 Serving middle and coastal Texas, Mexico and part of Oklahoma.
 
-## Learn More
+## Learn more
+
 Discover the national network of Landscape Conservation Cooperatives at [lccnetwork.org](http://lccnetwork.org/).
 
-## Contact Us
+## Contact
 
-### Assistant Regional Director for Science Applications
-
-**Bill Uihlein**  
-[bill_uihlein@fws.gov](mailto:bill_uihlein@fws.gov)  
-(404) 679-7288
+Bill Uihlein, Assistant Regional Director for Science Applications  
+[bill_uihlein@fws.gov](mailto:bill_uihlein@fws.gov), (404) 679-7288

@@ -40,6 +40,7 @@ updated: 'October 12th, 2017'
  - And more!
 
 ## Groups in the Southeast
+
 There are <span class="total-groups">48</span> Friends Groups supporting <span class="total-refuges">42</span> national wildlife refuges and <span class="total-hatcheries">6</span> national fish hatcheries across the Southeast. Search for a group near you.
 
 <label for="friends-group-search">Search:</label>
@@ -50,7 +51,8 @@ There are <span class="total-groups">48</span> Friends Groups supporting <span c
 
 <ul class="friends-group-list card-list"></ul>
 
-## Grant Opportunities
+## Grant opportunities
+
 [National Fish and Wildlife Foundation (NFWF) Grants](http://www.nfwf.org/whatwedo/grants/Pages/home.aspx)
 NFWF provides funding on a competitive basis to projects that sustain, restore, and enhance our nation's fish, wildlife, and plants and their habitats.
 
@@ -59,12 +61,12 @@ Originally founded in 2001 by renowned fashion designer and philanthropist, the 
 
 {{< figure class="photo-center" src="/images/pages/measuring-green-sea-turtle-during-night-patrol.jpg" alt="A kneeling biologist measures the back of a half-buried sea turtle" caption="A member of Ticatove, the Friends Group for Vieques National Wildlife Refuge, measures a sea turtle during night patrol. Photo by USFWS." >}}
 
-## Start a Friends Group
+## Start a friends group
+
 There are many refuges and hatcheries in the Southeast that do not have a Friends Group supporting their operations. Learn how to start a Friends Group in your community.
 
-## For More Information
+## More information
+
 Visit our [national Friends Group website](http://www.fws.gov/refuges/friends/) to find additional resources and learn about the history of Friends Groups.
 
 General information about Friends Groups for fish hatcheries is available via our partners, the [National Fisheries Friends Partnership](http://www.fisheriesfriends.org/).
-
-If you have questions or are interested in joining a Friends Group in the southeast, contact **Sallie Gentry**, Friends Group coordinator, at [sallie_gentry@fws.gov](mailto:sallie_gentry@fws.gov?subject=Friends+Groups).

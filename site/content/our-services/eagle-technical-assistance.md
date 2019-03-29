@@ -40,16 +40,16 @@ This step-by-step guidance will help you determine if your new or intermittent a
 
 Oct 1 - May 15 are the general nesting season dates used for guidance in the southeast. Eagles may nest before Oct 1 or after May 15. All technical assistance guidance applies to nesting eagles including adults, eggs or young, whenever they are present for breeding purposes, which may be before Oct 1 or after May 15 each season. For nesting dates for your state contact your local field station.
 
-## Construction or Development Activities
+## Construction or development activities
 
 If your project involves any of the following activities:
 
-  - Building construction, 1 or 2 story, with a project footprint of ½ acre or less.
-  - Construction of roads, trails, canals, power lines, and other linear utilities.
-  - Agriculture or aquaculture – new or expanded operations.
-  - Alteration of shorelines or wetlands.
-  - Installation of docks or moorings.
-  - Water impoundment.
+- Building construction, 1 or 2 story, with a project footprint of ½ acre or less.
+- Construction of roads, trails, canals, power lines, and other linear utilities.
+- Agriculture or aquaculture – new or expanded operations.
+- Alteration of shorelines or wetlands.
+- Installation of docks or moorings.
+- Water impoundment.
 
 <form id="construction-or-development">
   <fieldset>
@@ -120,13 +120,13 @@ If your project involves any of the following activities:
   </fieldset>
 </form>
 
-## Large Construction/Expansion Activities
+## Large construction/expansion activities
 
-  - Building construction, 3 or more stories.
-  - Building construction, 1 or 2 story, with project footprint of more than ½ acre.
-  - Mining.
-  - Oil and natural gas drilling and refining.
-  - Installation or expansion of marinas with a capacity of 6 or more boats.
+- Building construction, 3 or more stories.
+- Building construction, 1 or 2 story, with project footprint of more than ½ acre.
+- Mining.
+- Oil and natural gas drilling and refining.
+- Installation or expansion of marinas with a capacity of 6 or more boats.
 
 <form id="large-construction-expansion">
   <fieldset>
@@ -197,15 +197,15 @@ If your project involves any of the following activities:
   </fieldset>
 </form>
 
-## Timber Operation and Forestry Practices
+## Timber operation and forestry practices
 
 To avoid disturbing nesting eagles and their young, it is recommended that you:
 
-  - Avoid clear-cutting or removal of overstory trees within 330 feet(100 meters) of both active and alternate nests at any time.
-  - Avoid timber harvesting operations, including road construction and chain saw and yarding operations, during the nesting season within 660 feet (200 meters) of the nest.  The distance may be decreased to 330 feet around alternate nests within a particular territory, including nests that were attended during the current nesting season but not used to raise young, after eggs laid in another nest within the territory have hatched.
-  - Selective thinning and other silviculture management practices designed to conserve or enhance habitat, including prescribed burning close to the nest tree, should be undertaken outside the nesting season or when eagles are not present.
-  - If burning during the nesting season is necessary: Conduct burns only when adult eagles and young are absent from the nest tree (i.e., at the beginning of, or end of, the nesting season, either before the particular nest is active or after the young have fledged from that nest).
-  - Take precautions such as raking leaves and woody debris from around the nest tree to prevent crown fire or fire climbing the nest tree. Avoid construction of log transfer facilities and in-water log storage areas within 330 feet (100 meters) of active and alternate nests nest.
+- Avoid clear-cutting or removal of overstory trees within 330 feet(100 meters) of both active and alternate nests at any time.
+- Avoid timber harvesting operations, including road construction and chain saw and yarding operations, during the nesting season within 660 feet (200 meters) of the nest.  The distance may be decreased to 330 feet around alternate nests within a particular territory, including nests that were attended during the current nesting season but not used to raise young, after eggs laid in another nest within the territory have hatched.
+- Selective thinning and other silviculture management practices designed to conserve or enhance habitat, including prescribed burning close to the nest tree, should be undertaken outside the nesting season or when eagles are not present.
+- If burning during the nesting season is necessary: Conduct burns only when adult eagles and young are absent from the nest tree (i.e., at the beginning of, or end of, the nesting season, either before the particular nest is active or after the young have fledged from that nest).
+- Take precautions such as raking leaves and woody debris from around the nest tree to prevent crown fire or fire climbing the nest tree. Avoid construction of log transfer facilities and in-water log storage areas within 330 feet (100 meters) of active and alternate nests nest.
 
 ### Determination
 
@@ -213,9 +213,9 @@ If you can meet these guidelines, you do not think your project will disturb eag
 
 If you cannot meet these guidelines visit the [permit application page](/our-services/permits/eagles).
 
-## Helicopter and Fixed-Wing Aircraft Use
+## Helicopter and fixed-wing aircraft use
 
-### During Breeding Season (Oct 1 - May 15)
+### During breeding season (Oct 1 - May 15)
 
 To avoid disturbing nesting eagles and their young, it is recommended that you avoid operating aircraft within 1000 feet (305 meters) of the nest, except where eagles have demonstrated tolerance for such activity.
 
@@ -225,18 +225,18 @@ If you can meet these guidelines, you do not think your project will disturb eag
 
 If you cannot meet these guidelines visit the [permit application page](/our-services/permits/eagles).
 
-### Not During Breeding Season
+### Not during breeding season
 
 If your activity does not occur during the breeding season no conservation measures are necessary.
 
-## Blasting and Other Loud, Intermittent Noise Including Fireworks
+## Blasting and other loud, intermittent noise including fireworks
 
-### During Breeding Season (Oct 1 - May 15)
+### During breeding season (Oct 1 - May 15)
 
 To avoid disturbing nesting eagles and their young, it is recommended that you:
 
-  - Avoid blasting and other activities that produce extremely loud noises within 1/2 mile of active nests or within 1 mile in open areas, unless greater tolerance to the activity (or similar activity) has been demonstrated by the eagles in the nesting area.
-  - This recommendation also applies to the use of fireworks classified by the Federal Department of Transportation as Class B explosives, which includes the larger fireworks that are intended for licensed public display.
+- Avoid blasting and other activities that produce extremely loud noises within 1/2 mile of active nests or within 1 mile in open areas, unless greater tolerance to the activity (or similar activity) has been demonstrated by the eagles in the nesting area.
+- This recommendation also applies to the use of fireworks classified by the Federal Department of Transportation as Class B explosives, which includes the larger fireworks that are intended for licensed public display.
 
 #### Determination
 
@@ -244,23 +244,23 @@ If you can meet these guidelines, you do not think your project will disturb eag
 
 If you cannot meet these guidelines visit the [permit application page](/our-services/permits/eagles).
 
-### Not During Breeding Season
+### Not during breeding season
 
 If your activity does not occur during the breeding season no conservation measures are necessary.
 
-## Repeated Motorized and Non-Motorized Activities
+## Repeated motorized and non-motorized activities
 
-### Not During Breeding Season
+### Not during breeding season
 
 Activities including hiking, camping, ATV use, and boating are not likely to disturb eagles if conducted during the non-nesting season. In the Southeast the nesting season is generally Oct 1- May 15. The following measures only pertain to the non-nesting season when eagles are not at the nest. Download the [Bald Eagle Natural History and Sensitivity to Human Activity](/pdf/fact-sheet/bald-eagle-natural-history-and-sensitivity-to-human-activity-information.pdf) document for additional information.
 
-### Non-motorized Recreation Including Hiking, Camping, Fishing, Hunting, Canoeing
+### Non-motorized recreation including hiking, camping, fishing, hunting, canoeing
 
 If you repeatedly walk, bike, canoe, camp, fish, or hunt (e.g. commercial operations) near an eagle nest during the breeding season and your activity will be visible or can be heard from the nest stay at least 330 feet (100 meters) from the nest, unless the eagles have demonstrated tolerance for similar activities.
 
 None of these activities near a nest would disturb the eagles if the activity cannot be seen or heard from the nest.
 
-### Off-Road Vehicles (Snowmobiles, ATVs, etc.)
+### Off-road vehicles (snowmobiles, ATVs, etc.)
 
 If you use off-road vehicles near a bald eagle nest during the nesting season (Oct 1 - May 15) stay at least 330 feet (100 meters) from the nest. In open areas, where there is increased visibility and exposure to noise, stay at least 660 feet (200 meters) from the nest.
 
@@ -268,8 +268,8 @@ If you use off-road vehicles near a bald eagle nest during the nesting season (O
 
 If you use motorized boats or jet skis repeatedly near an eagle nest during the breeding season (Oct 1 - May 15), to avoid disturbing the eagles and their young:
 
- 1. Avoid concentrations and repeated visits of noisy vessels (e.g., personal watercraft, airboats, commercial fishing boats and tour boats) within 330 feet (100 meters) of the nest, unless eagles have demonstrated tolerance for such activity;
- 2. For all motorized boat traffic within 330 feet (100 meters) of the nest, minimize trips and avoid stopping in the area, particularly where eagles are unaccustomed to boat traffic.
+1. Avoid concentrations and repeated visits of noisy vessels (e.g., personal watercraft, airboats, commercial fishing boats and tour boats) within 330 feet (100 meters) of the nest, unless eagles have demonstrated tolerance for such activity;
+2. For all motorized boat traffic within 330 feet (100 meters) of the nest, minimize trips and avoid stopping in the area, particularly where eagles are unaccustomed to boat traffic.
 
 #### Determination
 

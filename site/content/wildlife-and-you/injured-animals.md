@@ -24,25 +24,26 @@ Stay safe. Please contact a licensed wildlife rehabilitator within your state.
 
 {{< figure class="photo-center" src="/images/pages/released-great-blue-heron.jpg" alt="Three biologists wearing eye protection lift the lid on an animal carrier to release a large grayish-blue wading bird next to a marsh." caption="Two rehabilitated great blue herons that were injured during the Deepwater Horizon oil spill are released in Gulf Shores, Alabama. Photo by Brooke Thorington." link="https://flic.kr/p/8uHNvp" >}}
 
-## Wildlife Rehabilitation Services by State
+## Wildlife rehabilitation services by state
+
 These are links to our state partner websites that provide a list of wildlife rehabilitators in your state:
 
- - [Alabama](http://www.outdooralabama.com/current-wildlife-rehabbers)
- - [Arkansas](https://www.agfc.com/en/resources/wildlife-conservation/wildlife-rehabilitation/)
- - [Florida](http://myfwc.com/conservation/you-conserve/assistnuisance-wildlife/wildlife-rehabbers/)
- - [Georgia](http://georgiawildlife.com/injuredorphanedwildlife)
- - [Kentucky](http://app.fw.ky.gov/rehabilitatorNew/)
- - [Louisiana](http://www.wlf.louisiana.gov/rehab)
- - [Mississippi](http://www.mswildliferehab.com/)
- - [North Carolina](http://www.ncwildlife.org/Injured-Wildlife)
- - [South Carolina](http://www.dnr.sc.gov/wildlife/rehab/)
- - [Tennessee](https://www.tn.gov/twra/article/wildlife-rehabilitator-list)
+- [Alabama](http://www.outdooralabama.com/current-wildlife-rehabbers)
+- [Arkansas](https://www.agfc.com/en/resources/wildlife-conservation/wildlife-rehabilitation/)
+- [Florida](http://myfwc.com/conservation/you-conserve/assistnuisance-wildlife/wildlife-rehabbers/)
+- [Georgia](http://georgiawildlife.com/injuredorphanedwildlife)
+- [Kentucky](http://app.fw.ky.gov/rehabilitatorNew/)
+- [Louisiana](http://www.wlf.louisiana.gov/rehab)
+- [Mississippi](http://www.mswildliferehab.com/)
+- [North Carolina](http://www.ncwildlife.org/Injured-Wildlife)
+- [South Carolina](http://www.dnr.sc.gov/wildlife/rehab/)
+- [Tennessee](https://www.tn.gov/twra/article/wildlife-rehabilitator-list)
 
 Are you interested in helping rehabilitate wild animals? You can learn more about how to become a licensed wildlife rehabilitator from your state wildlife agency or the [National Wildlife Rehabilitators Association](http://www.nwrawildlife.org/).
 
 {{< figure class="photo-center" src="/images/pages/injured-screech-owl.jpg" alt="A young woman wearing a protective glove lets an injured owl with disfigured eye perch on her hand." caption="An animal caretaker holds an owl injured from a collision with a car. It cannot be returned to the wild due to its injuries. Photo by Garry Tucker, USFWS." link="https://flic.kr/p/eCDJfz" >}}
 
-## Finding Orphaned Animals
+## Finding orphaned animals
 
 In most cases, if you encounter a baby animal the best thing to do is to **leave it alone or place the animal back where you originally found it**. Many times a baby animal is not abandoned but is hiding from predators while the mother is off feeding.
 

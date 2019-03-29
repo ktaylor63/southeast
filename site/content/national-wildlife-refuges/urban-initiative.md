@@ -19,15 +19,15 @@ tags:
 updated: 'January 12th, 2017'
 ---
 
-## The Challenge
+## The challenge
 
 With 80% of Americans living in cities, how do we connect urban America with our wild places, such as national wildlife refuges? How do we teach a new generation to love the land? How do we help children find inspiration in nature all around them? America will have much of their direct contact with nature while in an urban setting, thereby shaping the nation’s conservation values, ethics and priorities, and requiring the U.S. Fish and Wildlife Service to reach beyond our boundaries.
 
-## The Approach
+## The approach
 
 The U.S. Fish & Wildlife Service’s vision for increasing relevancy with urban citizen lies in the document entitled “Conserving the Future: Wildlife Refuges and the Next Generation”. This initiative will establish measures to help define and achieve standards of excellence for urban refuges, create a framework for creating new urban partnerships, and establish a refuge presence in ten demographically and geographically varied cities in the U.S.
 
-## Regional Examples of Urban Refuges
+## Regional examples of urban refuges
 
 ### Arthur R. Marshall Loxahatchee National Wildlife Refuge
 
@@ -49,5 +49,6 @@ U.S. Fish and Wildlife offices in Georgia have partnered with the West Atlanta W
 
 The South Fork Urban Wildlife Refuge Partnership is collecting and analyzing data on plant and animal populations as well as water quality at the impaired stream joining of the north and south fork of Peachtree Creek. The nine partners, including the U.S. Fish & Wildlife Service, will build creek access and engage underserved communities in monitoring and sustaining current restoration and green infrastructure efforts, in order to return this historic waterway to its rightful place as a respected asset of the region’s natural resources for the benefit of people and wildlife.
 
-## Learn More
+## Learn more
+
 [Find out more about the Fish and Wildlife Service's Urban Partnerships.](https://fws.gov/urban/)

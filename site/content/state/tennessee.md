@@ -11,14 +11,11 @@ hero:
     alt: 'A forested mountain landscape with fluffy clouds.'
     link: 'https://flic.kr/p/Nhvu9L'
     caption: 'Great Smoky Mountains, Tennessee. Photo by <a href=\"https://www.flickr.com/photos/malonejc77/\" target=\"_blank\">John Malone</a>, <a href=\"https://creativecommons.org/licenses/by-nc-nd/2.0/\" target=\"_blank\">CC BY-NC-ND 2.0</a>.'
-updated: 'December 22nd, 2017'
+updated: 'March 25th, 2019'
 ---
 
-{{< scroller-list tag="Tennessee" number="10" section="news" >}}
+{{< content-scroller tag="Tennessee" heading="Related content" >}}
 
-{{< scroller-list tag="Tennessee" number="10" section="articles" >}}
+## Map of offices
 
-{{< scroller-list tag="Tennessee" number="10" section="wildlife" >}}
-
-## Map of Offices
 <iframe src="https://usfws.github.io/southeast-mega-map/?state=Tennessee" class="state-map" title="List of offices in the Southeast Region of the U.S. Fish and Wildlife Service"></iframe>

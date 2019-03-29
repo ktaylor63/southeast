@@ -12,7 +12,7 @@ hero:
     position: bottom
 tags:
     - Florida
-updated: 'December 22nd, 2017'
+updated: 'March 25th, 2019'
 ---
 
 {{< figure class="photo-right" src="/images/pages/florida-coast-sunset-egret.jpg" alt="Bright red sunset reflected over water with silhouette of a wading bird." caption="Florida sunset. Photo: Paul Lang, USFWS." >}}
@@ -23,19 +23,16 @@ In the hardwood hammocks near Key West, you might see the endangered Stock Islan
 
 The U.S. Fish and Wildlife Service is responsible for managing the nation's trust resources in Florida for the benefit of the American people.  Using the best available science, we work to conserve and connect Florida’s ecosystems and habitats so that wild animals and plants can thrive.
 
-## Fast Facts
+## Fast facts
 
 - The Chipola River watershed has 1,270 square miles of basin area, including the extreme southeastern corner of Florida and central panhandle of Florida. This diverse area of ecosystems is reflected in a high species-richness index. It harbors especially large numbers of fish, mollusks, birds, insects, reptiles, amphibians, plant species, and many other taxa.
 - Florida supports one of the largest number of carnivorous plant species, nearly one-half of the orchid species found in North America and the most fern species in the continental United States.
 - The Florida Panhandle is considered one of the five richest biodiversity hotspots in North America.
 
-{{< scroller-list tag="Florida" number="10" section="news" >}}
+{{< content-scroller tag="Florida" heading="Related content" >}}
 
-{{< scroller-list tag="Florida" number="10" section="articles" >}}
+## Map of offices
 
-{{< scroller-list tag="Florida" number="10" section="wildlife" >}}
-
-## Map of Offices
 <iframe src="https://usfws.github.io/southeast-mega-map/?state=Florida" class="state-map" title="List of offices in the Southeast Region of the U.S. Fish and Wildlife Service"></iframe>
 
 ## Frequently Asked Questions

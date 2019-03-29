@@ -42,7 +42,7 @@ The Blueprint is available online through two mapping viewers: the [Simple Viewe
 
 If you have questions or would like help incorporating the Blueprint into your conservation work, please reach out to Hilary Morris at [hilary_morris@fws.gov](mailto:hilary_morris@fws.gov).
 
-## Mapping Beach Mice Habitat
+## Mapping beach mice habitat
 
 Scampering among the dunes on a small barrier island along the northwest coast of Florida, south of Pensacola, is a small, light colored mouse called the Perdido Key beach mouse (*Peromyscus polionotus trissyllepsis*).  Beach mice are a group of *Peromyscus* that have adapted to making their living in and among the coastal dune systems in [Florida](/florida) and [Alabama](/alabama).  In all, there are eight subspecies, of which six are federally listed and one is presumed extinct.  According to the 2006 Designation of Critical Habitat Final Rule, loss of habitat and resulting fragmentation is the greatest threat to the subspecies.  Furthermore, it states that for the conservation of the subspecies we need to establish large connected tracts of land that provide all the habitat components (primary, secondary, and scrub dunes) necessary for the long-term survival of the species.
 
@@ -56,7 +56,7 @@ By employing object-based image analysis (OBIA) on high-resolution aerial imager
 
 We are also using highly-accurate laser-based, remotely sensed data, known as [LiDAR](https://lta.cr.usgs.gov/lidar_digitalelevation), to help ​us ​a create 3-D view (called digital terrain models​ or DTM) of the coastal dune system​.  ​Because ​we ​can "see" the dunes in 3-D, we are able to do some really cool things like map​ping​ dune footprints​ and dune fields​; identifying areas that do not get inundated during tropical storm events​, etc​​.  All of this put together helps us to get a better understanding of beach mice habitat across the landscape and as a result better address recovery of these species​.
 
-## Mottled Duck Decision Support Tool
+## Mottled duck decision support tool
 
 The Gulf Coast Joint Venture (GCJV) region provides valuable habitat for wintering and resident waterfowl species. The mottled duck (*Anas fulvigula*) is a resident species associated with coastal marsh habitat, a habitat that has significantly declined throughout the GCJV. This decline is a result of several factors, some of which include urbanization, subsidence, sea level rise, altered hydrology due to canal and levee construction, and the spread of invasive species. This loss and fragmentation of habitat has raised concerns about the mottled duck population within the GCJV region, specifically the loss of suitable nesting and brood-rearing habitat (Wilson 2007). Strategies to increase mottled duck populations are primarily based on efforts to increase nest success and brood survival. This is primarily done by either preserving or creating landscapes that contain suitable nesting and brood-rearing habitat in the appropriate spatial configuration.
 

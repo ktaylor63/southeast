@@ -20,7 +20,7 @@ Bats are an important part of healthy southeastern ecosystems. They [pollinate](
 
 Most eastern bats spend the winter hibernating in caves and move to trees or buildings for the warm summer. However, some bats spend all year in caves and others spend all year in trees. As hollow trees are cut down, bat boxes, such as the one shown here, are needed for bats to survive. This is especially true in April to August when females are looking for safe and quiet places to give birth and raise their pups. Both the mothers and newborns are very sensitive to being disturbed.
 
-## How to Build a Bat Box
+## How to build a bat box
 [Download and print these instructions (PDF)](/pdf/fact-sheet/beneficial-bats-backyard-habitat-for-wildlife.pdf)
 
 <div class="side-by-side">
@@ -34,7 +34,7 @@ Most eastern bats spend the winter hibernating in caves and move to trees or bui
 - Attach front panel to sides. Add roof. Glue baffle edges and drop into slots. Attach back panel and caulk.
 - Darken with water based stain. Tack or staple tar paper to roof of the box to increase heat absorption.
 
-### When and Where to Install Your Bat Box
+### When and where to install your bat box
 
 Any time is a good time to install a bat box, but late winter and early spring are best.
 
@@ -42,7 +42,8 @@ Hang the box at least 10 feet off the ground in a spot where it can receive six 
 
 {{< figure class="photo-center" src="/images/pages/northern-long-eared-bats-ceiling.jpg" alt="" caption="Northern long-eared bats using a bat box. Photo by Nick Gikas, Indiana State University." link="https://flic.kr/p/enV1oH" >}}
 
-## Bat Species in the Southeastern United States
+## Bat species in the Southeastern United States
+
 - Big brown bat
 - Brazilian free-tailed bat
 - Eastern pipistrelle bat

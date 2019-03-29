@@ -24,7 +24,7 @@ The public may petition the U.S. Fish and Wildlife Service to consider modifying
 
 A 90-day finding is not a status assessment of the species and does not constitute a status review under the ESA. **It does not list a species as threatened or endangered under the Act.**
 
-## Petitions Under the ESA
+## Petitions under the ESA
 
 A petition is a formal request filed under the ESA by an interested party. Petitions can propose that the Service:
 
@@ -36,19 +36,19 @@ To the extent practicable, within 90 days after receiving a petition the Service
 
 {{< figure class="photo-center" src="/images/pages/bog-asphodel.jpg" alt="A bright orange a yellow flowering plant." caption="Biologists determined the once at-risk bog asphodel (narthecium americanum) did not require federal protection. Photo by Kristen on Flickr, CC BY-NC 2.0." link="https://flic.kr/p/2UDAbB" >}}
 
-## Current Petitions
+## Current petitions
 
 <ul class="current-petitions fade-list">
   <li>Loading data from the At-Risk Species Finder...</li>
 </ul>
 
-## Withdrawn Petitions
+## Withdrawn petitions
 
 <ul class="withdrawn-petitions fade-list">
   <li>Loading data from the At-Risk Species Finder...</li>
 </ul>
 
-## Substantial vs. Not Substantial Findings
+## Substantial vs. not substantial findings
 
 A 90-day finding on a species can have one of two outcomes: **substantial** and **not substantial**.
 
@@ -61,7 +61,7 @@ A substantial finding essentially indicates:
 
 A positive 90-day finding does not indicate that the results from a 12-month status review will likewise be positive. The final determination of whether a petitioned action is warranted is not made until the Service has completed a thorough status review of the species.
 
-### Not Substantial
+### Not substantial
 
 A Not Substantial finding indicates the Service will take **no further action** on a species at this time because the petition does not provide the following minimum information:
 
@@ -72,7 +72,7 @@ A Not Substantial finding indicates the Service will take **no further action** 
 
 {{< figure class="photo-center" src="/images/pages/alligator-snapping-turtle.jpg" alt="A turtle with a very sharp beak." caption="The alligator snapping turtle was petitioned for protection. Photo by Garry Tucker, USFWS." link="https://flic.kr/p/9ExpuK" >}}
 
-## How the Service Makes a Decision
+## How the Service makes a decision
 
 When making a 90-day finding, we take the following materials into consideration:
 

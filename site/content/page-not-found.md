@@ -38,7 +38,8 @@ Explore content by state: [Alabama](/alabama), [Arkansas](/arkansas), [Florida](
   <a href='/news' class='button'>News Archive</a>
 </p>
 
-## Map of Offices
+## Map of offices
+
 <iframe src="https://usfws.github.io/southeast-mega-map/" class="state-map" title="Find a local field station"></iframe>
 
 <span class="hide-scrollnav"></span>

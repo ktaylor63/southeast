@@ -11,14 +11,11 @@ hero:
     alt: 'Bright orange and red leaves on wide-based tree trunks emerging from a swamp.'
     link: 'https://flic.kr/p/fPR75F'
     caption: 'Bald cypress forest in autumn at Santee National Wildlife Refuge. Photo by Marc Epstein, USFWS.'
-updated: 'December 22nd, 2017'
+updated: 'March 25th, 2019'
 ---
 
-{{< scroller-list tag="South Carolina" number="10" section="news" >}}
+{{< content-scroller tag="South Carolina" heading="Related content" >}}
 
-{{< scroller-list tag="South Carolina" number="10" section="articles" >}}
+## Map of offices
 
-{{< scroller-list tag="South Carolina" number="10" section="wildlife" >}}
-
-## Map of Offices
 <iframe src="https://usfws.github.io/southeast-mega-map/?state=South+Carolina" class="state-map" title="List of offices in the Southeast Region of the U.S. Fish and Wildlife Service"></iframe>

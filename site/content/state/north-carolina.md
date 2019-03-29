@@ -11,17 +11,16 @@ hero:
     alt: 'Thousands of black birds and white birds litter a blue lake.'
     caption: 'Mattamuskeet National Wildlife Refuge in North Carolina. <a href="https://flic.kr/p/jMESzk">Photo</a> by Allie Stewart, USFWS.'
     position: bottom
-updated: 'February 20th, 2019'
+updated: 'March 25th, 2019'
 ---
 
-{{< scroller-list tag="North Carolina" number="10" section="news" >}}
-{{< scroller-list tag="North Carolina" number="10" section="articles" >}}
-{{< scroller-list tag="North Carolina" number="10" section="wildlife" >}}
+{{< content-scroller tag="North Carolina" heading="Related content" >}}
 
-## Map of Offices
+## Map of offices
+
 <iframe src="https://usfws.github.io/southeast-mega-map/?state=North+Carolina" class="state-map" title="List of offices in the Southeast Region of the U.S. Fish and Wildlife Service"></iframe>
 
-## Frequently Asked Questions
+## Frequently asked questions
 
 ### Where can I obtain information on endangered species?
 

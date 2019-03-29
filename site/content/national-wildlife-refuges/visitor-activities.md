@@ -19,7 +19,7 @@ The National Wildlife Refuge System is the world’s most unique network of land
 
 [Download the National Wildlife Refuge System Recreation and Education fact sheet.](https://nctc.fws.gov/Pubs9/NWRS_recreation01.pdf).
 
-## Environmental Education
+## Environmental education
 
 Hoping to invest in future generations, many national wildlife refuges provide environmental education programs, ranging from interpretive nature walks for local school children to full-scale teacher-training programs.
 
@@ -33,7 +33,7 @@ Nature photography gives refuge visitors the chance to be still, silent, and pat
 
 [Learn more about photography on refuges](https://www.fws.gov/refuges/photography/).
 
-## Wildlife Observation
+## Wildlife observation
 
 From watching migrating songbirds, listening to mating calls of frogs and toads, to watching brilliant sunsets, refuges provide opportunities for all of the senses to engage in gaining insight into wild communities.
 

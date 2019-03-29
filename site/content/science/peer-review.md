@@ -22,7 +22,7 @@ The U.S. Fish and Wildlife Service has always consulted experts to ensure that o
 
 Part of the peer review process is to provide information on the Web about how each peer review is to be conducted, as described in [this checklist](https://www.fws.gov/informationquality/peer_review/).
 
-## Peer Review Documents
+## Peer review documents
 
 We have identified the following documents as meeting the OMB criteria of peer review for influential scientific information. The regulations.gov links below provide all of the documents associated with the docket including proposed rules, supporting material, public comments, final rule and a regulatory timeline.
 

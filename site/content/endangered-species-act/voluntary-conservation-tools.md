@@ -21,29 +21,29 @@ We need to work together to achieve our goal of self-sustaining populations of f
 
 [Download the fact sheet](/pdf/fact-sheet/at-risk-conservation-landowner-tools.pdf).
 
-## Best Management Practices (BMPs)
+## Best management practices (BMPs)
 
 Any landowner or land manager can follow voluntary guidelines to identify resource management options that benefit at-risk species on public or private lands. These guidelines can be used in formal conservation agreements that provide regulatory certainty, such as a Candidate Conservation Agreement with Assurances, Safe Harbor Agreement, or a Habitat Conservation Plan.
 
-## Partners for Fish and Wildlife Program (PFW)
+## Partners for fish and wildlife program (PFW)
 
-The Partners for Fish and Wildlife Program restores fish and wildlife habitats through a voluntary conservation agreement between private landowners or non-Federal/non-state landowners and the Service. The goal of the agreement is to reduce threats to species with a specific focus on federally listed, candidate, at-risk species, and their habitats. Landowners get the benefit of one-on-one expert technical and financial assistance in implementing habitat conservation goals. Funding for these agreements comes from program dollars. PFW agreements require a minimum duration of 10 years. In some cases, such as the Alabama-Georgia Gopher Tortoise Pilot Project, landowners who participate in the program can receive regulatory predictability for the species benefitting from the project.
+The partners for fish and wildlife program restores fish and wildlife habitats through a voluntary conservation agreement between private landowners or non-Federal/non-state landowners and the Service. The goal of the agreement is to reduce threats to species with a specific focus on federally listed, candidate, at-risk species, and their habitats. Landowners get the benefit of one-on-one expert technical and financial assistance in implementing habitat conservation goals. Funding for these agreements comes from program dollars. PFW agreements require a minimum duration of 10 years. In some cases, such as the Alabama-Georgia Gopher Tortoise Pilot Project, landowners who participate in the program can receive regulatory predictability for the species benefitting from the project.
 
-## Coastal Program
+## Coastal program
 
-The Coastal program restores fish and wildlife habitats through voluntary agreements between landowners/land managers and the Service. The Coastal program delivers on-the-ground restoration through signed conservation agreements. While there is no minimum duration for a conservation agreement, the program has a preference for longer-term commitments. The Coastal program can enter into agreements with private landowners or public land managers including other federal agencies. While any species can be included in a project, the Coastal program focuses its efforts on federally listed, candidate, at-risk species, and their habitats.
+The coastal program restores fish and wildlife habitats through voluntary agreements between landowners/land managers and the Service. The coastal program delivers on-the-ground restoration through signed conservation agreements. While there is no minimum duration for a conservation agreement, the program has a preference for longer-term commitments. The coastal program can enter into agreements with private landowners or public land managers including other federal agencies. While any species can be included in a project, the coastal program focuses its efforts on federally listed, candidate, at-risk species, and their habitats.
 
 The goal of these agreements is to reduce threats to species and conserve important habitats. Landowners get the benefit of one-on-one expert technical and financial assistance in implementing habitat conservation goals. Funding for these agreements comes from program dollars or State Wildlife Grants (SWG).
 
-## Candidate Conservation Agreement (CCA)
+## Candidate conservation agreement (CCA)
 
-The goal of a Candidate Conservation Agreement is to work with a landowner or land manager to remove enough threats to an imperiled species so there is no longer a need to list the species under the Endangered Species Act (ESA). Federal candidate species and other at-risk species that are likely to become candidates for listing under the ESA are eligible. A CCA does not provide any assurances to the signatories in the event that a covered species is listed under the ESA, a key difference between a CCA and a Candidate Conservation Agreement With Assurances (CCAA), explained below. The Policy for Evaluation of Conservation Efforts (PECE), which assesses whether proposed conservation measures are likely to be implemented and are sufficient to reduce or eliminate threats to a species, may apply.
+The goal of a candidate conservation agreement is to work with a landowner or land manager to remove enough threats to an imperiled species so there is no longer a need to list the species under the Endangered Species Act (ESA). Federal candidate species and other at-risk species that are likely to become candidates for listing under the ESA are eligible. A CCA does not provide any assurances to the signatories in the event that a covered species is listed under the ESA, a key difference between a CCA and a Candidate Conservation Agreement With Assurances (CCAA), explained below. The Policy for Evaluation of Conservation Efforts (PECE), which assesses whether proposed conservation measures are likely to be implemented and are sufficient to reduce or eliminate threats to a species, may apply.
 
 In addition to the satisfaction of conserving species, landowners who enter into a CCA have a potential funding platform for cost sharing in conservation actions. States can provide grants to landowners via Section 6 funding.
 
-## Candidate Conservation Agreement with Assurances (CCAA)
+## Candidate conservation agreement with assurances (CCAA)
 
-Candidate Conservation Agreements with Assurances use regulatory assurances to provide incentives to landowners to conserve species by removing enough threats so they do not need to be listed under the Endangered Species Act. CCAAs are very similar to CCAs except they provide assurances to those who enter into the agreement if the covered species is listed under the ESA in the future. Any non-federal entity, public or private sector, can enter into a CCAA. Federal candidate species and other at-risk species that are likely to become candidates for listing under the ESA are eligible.
+Candidate conservation agreements with assurances use regulatory assurances to provide incentives to landowners to conserve species by removing enough threats so they do not need to be listed under the Endangered Species Act. CCAAs are very similar to CCAs except they provide assurances to those who enter into the agreement if the covered species is listed under the ESA in the future. Any non-federal entity, public or private sector, can enter into a CCAA. Federal candidate species and other at-risk species that are likely to become candidates for listing under the ESA are eligible.
 
 The Service will assess whether it can avoid listing the species under the Endangered Species Act based on the proposed conservation measures assuming landowners/land managers of other properties necessary to conserve the species also implement conservation measures. The Service may also consider the Policy for Evaluation of Conservation Efforts (PECE) standard.
 
@@ -51,15 +51,15 @@ In the event that a covered species is listed under the ESA, the landowner/land 
 
 States can provide grants to landowners/land managers via Section 6 funds.
 
-## Safe Harbor Agreement (SHA)
+## Safe harbor agreement (SHA)
 
-Safe Harbor Agreements allow non-federal entities, public and private, to conserve federally listed species as a contribution towards recovery. Landowners have the regulatory certainty that they can return their land to the species’ baseline conditions at the end of the SHA term, and they will not be required to carry out additional land management/conservation actions beyond the terms of the SHA.
+Safe harbor agreements allow non-federal entities, public and private, to conserve federally listed species as a contribution towards recovery. Landowners have the regulatory certainty that they can return their land to the species’ baseline conditions at the end of the SHA term, and they will not be required to carry out additional land management/conservation actions beyond the terms of the SHA.
 
 States can provide grants to landowners/land managers via Section 6 funds.
 
-## Habitat Conservation Plan (HCP)
+## Habitat conservation plan (HCP)
 
-A Habitat Conservation Plan is designed to conserve species while providing a mechanism that allows development and other economic activities to continue. Non-federal entities, public and private, are eligible to participate. HCPs must, at a minimum, include a federally listed species, but can also include non-listed species.
+A habitat conservation plan is designed to conserve species while providing a mechanism that allows development and other economic activities to continue. Non-federal entities, public and private, are eligible to participate. HCPs must, at a minimum, include a federally listed species, but can also include non-listed species.
 
 Landowners must minimize and mitigate expected incidental “take” to the maximum extent possible. In return, landowners will not be required to carry out additional land management/conservation actions beyond the terms of the properly functioning HCP.
 
@@ -72,7 +72,7 @@ Benefits of HCPs include:
 
 Potential funding sources for HCPs include Section 6 funds, and the competitive HCP Planning Assistance Grants to states.
 
-## Conservation Banks
+## Conservation banks
 
 Conservation banks are formal arrangements through which compensation is provided for impacts to federally-listed species. The bank sponsor implements conservation measures and actions that benefit the species thus generating credits that may be used to offset impacts to the species or its habitat. Credits may be sold to others in need of compensation for impacts to species. Conservation banks may be used in association with HCPs or consultations under Section 7. The Service has a policy for mitigation banks that provides guidance on requirements for permanent protection, long-term funding of conservation actions and other requirements.
 

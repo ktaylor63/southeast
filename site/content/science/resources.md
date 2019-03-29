@@ -15,6 +15,6 @@ updated: 'March 10th, 2017'
 
 The Service and other science based organizations support online conservation tools and databases.  These tools support internal decision making processes and provide a layer of transparency by making data available to the public.
 
-## Conservation Tools
+## Conservation tools
 
 {{< section-content-by-tag tag="Science" section="conservation-tools" >}}

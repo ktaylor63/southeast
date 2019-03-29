@@ -18,15 +18,16 @@ The U.S. Fish and Wildlife Service reduces threats to plants and animals through
 
 For a complete list of the laws protecting our nation’s wildlife, visit our [national law enforcement site](http://www.fws.gov/le/laws-regulations.html).
 
-## What is Wildlife Crime?
+## What is wildlife crime?
 
 Wildlife crime includes:
- - Smuggling, or trafficking, the poaching or other taking of protected or managed species and the illegal trade in wildlife and their related parts and products;
- - Unlawful commercial exploitation;
- - Habitat destruction;
- - Poisoning incidents.
 
-## How to Report Wildlife Crime
+- Smuggling, or trafficking, the poaching or other taking of protected or managed species and the illegal trade in wildlife and their related parts and products;
+- Unlawful commercial exploitation;
+- Habitat destruction;
+- Poisoning incidents.
+
+## How to report wildlife crime
 
 Help protect the wildlife and natural resources of America. Report wildlife crime 24 hours a day to
 
@@ -38,14 +39,14 @@ Ethical hunters, anglers and wildlife watchers provide the best information to c
 
 When reporting try to provide as much information as possible, such as:
 
- - **What** happened?
- - **Where** did it happen? Be as specific as possible.
- - **Who** was involved? Describe the people including names if known, vehicles including license numbers, and names of other witnesses.
- - **When** did it happen? Date and time are very important.
+- **What** happened?
+- **Where** did it happen? Be as specific as possible.
+- **Who** was involved? Describe the people including names if known, vehicles including license numbers, and names of other witnesses.
+- **When** did it happen? Date and time are very important.
 
 Do not attempt to stop a crime yourself. Be safe and be a good witness. You can call anonymously — or work with officers as a confidential informant — but the sooner you contact us, the faster we can respond, gather evidence and catch the criminals.
 
-## Importing and Exporting Wildlife
+## Importing and exporting wildlife
 
 {{< figure class="photo-right" src="/images/pages/alligator-confiscated-by-law-enforcement.jpg" alt="A baby alligator in the hands of a law enforcement agent." caption="A baby alligator illegally collected from a National Wildlife Refuge is held by a law enforcement officer. Photo by USFWS." link="https://flic.kr/p/n8MX1V">}}
 
@@ -55,21 +56,21 @@ In most cases, you must be [licensed](https://www.fws.gov/le/le-permits.html) an
 
 Wildlife officers are stationed at designated ports that are used for all movement of wildlife, including for commercial, non-commercial, scientific, or personal purposes. They work to ensure that all animal materials moving across state and country borders, both alive and dead, have been lawfully harvested and traded.
 
-### Designated Ports
+### Designated ports
 
 There are five ports located in the Southeast Region:
 
- - Atlanta, Georgia
- - Louisville, Kentucky
- - Memphis, Tennessee
- - Miami, Florida
- - New Orleans, Louisiana
+- Atlanta, Georgia
+- Louisville, Kentucky
+- Memphis, Tennessee
+- Miami, Florida
+- New Orleans, Louisiana
 
 [Learn more about how to legally import or export your commercial wildlife shipment.](https://www.fws.gov/le/commercial-wildlife-shipment.html)
 
-## Illegal Wildlife to Import or Transport
+## Wildlife that is illegal to import or transport
 
-### Injurious Wildlife
+### Injurious wildlife
 
 Injurious wildlife are mammals, birds, amphibians, reptiles, fish, crustaceans, mollusks and their offspring or gametes that are injurious to the interests of human beings, agriculture, horticulture, forestry, wildlife or wildlife resources of the United States. Plants and organisms other than those listed above cannot be listed as injurious wildlife.
 
@@ -77,19 +78,19 @@ Species listed as injurious may not be imported or transported between states, t
 
 The Service considers a variety of factors when evaluating a species for listing as injurious, including:
 
- - The species’ survival capabilities and ability to spread geographically;
- - Its impacts on habitats and ecosystems;
- - Impacts on threatened and endangered species;
- - Impacts on human beings and resource-based industries;
- - Resource managers’ ability to control and eradicate the species.
+- The species’ survival capabilities and ability to spread geographically;
+- Its impacts on habitats and ecosystems;
+- Impacts on threatened and endangered species;
+- Impacts on human beings and resource-based industries;
+- Resource managers’ ability to control and eradicate the species.
 
 Analysis of these factors guides the Service’s listing determination. Scientific data is reviewed for factors that contribute to injuriousness and factors that reduce or remove injuriousness. In addition, other laws require that various economic analyses be conducted to determine the economic impacts of potential rulemakings.
 
 Permits may be granted for the importation or transportation of live specimens of injurious wildlife and their offspring or eggs for bona fide scientific, medical, educational, or zoological purposes.
 
-## Tips for Traveling Abroad
+## Tips for traveling abroad
 
-### Purchasing Wildlife Souvenirs
+### Purchasing wildlife souvenirs
 
 {{< figure class="photo-right" src="/images/pages/ivory-jewelry.jpg" alt="A huge pile of white jewelry made from ivory." caption="Illegal jewelry made from elephant ivory. Photo by USFWS." link="https://flic.kr/p/hwhBFe">}}
 
@@ -99,7 +100,7 @@ You may find that some of the most beautiful and interesting souvenirs offered f
 
 If you still have questions, please [contact the designated port near you](http://www.fws.gov/le/designated-ports.html).
 
-### Traveling with Your Pet Bird
+### Traveling with your pet bird
 
 If you plan to take your pet bird with you on foreign travel, or your residence has been outside the United States for at least one year and you plan to travel to the United States with a pet bird, you will need to have a permit before you travel.
 
@@ -113,10 +114,10 @@ Our federal wildlife officers carry a dual role of enforcing wildlife laws as we
 
 [Learn more about National Wildlife Refuge Law Enforcement](http://www.fws.gov/refuges/lawEnforcement/), including how to start your career as a federal wildlife officer.
 
-## Careers in Law Enforcement
+## Careers in law enforcement
 
-  - [Land Management Law Enforcement Officer (recent grad, GL 5/7)](https://www.usajobs.gov/GetJob/ViewDetails/486181800)
-  - [Land Management Law Enforcement Officer (GL 5/7)](https://www.usajobs.gov/GetJob/ViewDetails/486183200)
-  - [Land Management Law Enforcement Officer (GL 5)](https://www.usajobs.gov/GetJob/ViewDetails/486183700)
-  - [Land Management Law Enforcement Officer (GL 7/9)](https://www.usajobs.gov/GetJob/ViewDetails/486183800)
-  - [Land Management Law Enforcement Officer (GL 7/9)](https://www.usajobs.gov/GetJob/ViewDetails/486184500)
+- [Land Management Law Enforcement Officer (recent grad, GL 5/7)](https://www.usajobs.gov/GetJob/ViewDetails/486181800)
+- [Land Management Law Enforcement Officer (GL 5/7)](https://www.usajobs.gov/GetJob/ViewDetails/486183200)
+- [Land Management Law Enforcement Officer (GL 5)](https://www.usajobs.gov/GetJob/ViewDetails/486183700)
+- [Land Management Law Enforcement Officer (GL 7/9)](https://www.usajobs.gov/GetJob/ViewDetails/486183800)
+- [Land Management Law Enforcement Officer (GL 7/9)](https://www.usajobs.gov/GetJob/ViewDetails/486184500)

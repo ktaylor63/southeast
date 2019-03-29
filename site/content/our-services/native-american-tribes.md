@@ -12,7 +12,7 @@ hero:
     link: 'https://flic.kr/p/5PQ2bm'
     caption: 'A participant in the Miccosukee Indian Festival. Photo by Matthew Hoelscher, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/legalcode\" target=\"_blank\">CC BY-SA 2.0</a>.'
     position: 'top center'
-updated: 'December 19th, 2017'
+updated: 'March 25th, 2019'
 ---
 
 Conserving this nation’s fish and other aquatic resources cannot be successful without the partnership of tribes that may manage or influence some of the most important aquatic habitats both on and off reservations. In addition, the federal government and the U.S. Fish and Wildlife Service have distinct and unique obligations toward tribes based on trust responsibility, treaty provisions, and statutory mandates.
@@ -31,11 +31,11 @@ Working with tribes in the Southeast, the Service has
 - Increased boat access;
 - Provided grant funding through the [Tribal Wildlife Grants](http://www.fws.gov/nativeamerican/grants.html) program to 10 federally-recognized tribes in the region.
 
-{{< scroller-list tag="Native American" section="articles" >}}
+{{< content-scroller tag="Native American" heading="Related content" >}}
 
 {{< figure class="photo-center" src="/images/pages/native-american-children.jpg" alt="Children at a primary school dressed in native american clothing" caption="Children from Choctaw Central Schools near Philadelphia, Mississippi. Photo by Tami A. Heilemann, Department of the Interior.">}}
 
-## Federally Recognized Southeastern Tribes
+## Federally recognized Southeastern Tribes
 
 - [Catawba Indian Nation, Catawba, SC](http://catawbaindian.net/)
 - [Chitimacha Indian Tribe of Louisiana, Charenton, LA](http://chitimacha.gov/)
@@ -50,13 +50,13 @@ Working with tribes in the Southeast, the Service has
 
 For more information on American Indian tribes, visit the [Bureau of Indian Affairs website](https://www.bia.gov/about-us).
 
-## Tribal Wildlife Grants
+## Tribal wildlife grants
 
 The Service provides a competitive funding opportunity for federally recognized tribal governments to develop and implement programs for the benefit of wildlife and their habitat, including species of Native American cultural or traditional importance and species that may or may not be not hunted or fished.
 
 - [Learn more about Tribal Wildlife Grants](https://www.fws.gov/nativeamerican/grants.html)
 
-## Migratory Bird and Eagle Permits
+## Migratory bird and eagle permits
 
 For hundreds of years, Native Americans have used eagle parts and feathers for religious and cultural purposes, including healing, marriage, and naming ceremonies. Recognizing the significance of eagles to Native Americans, the Service established the National Eagle Repository to provide Native Americans with the carcasses, parts and feathers of golden and bald eagles for religious purposes.
 
@@ -65,18 +65,18 @@ For hundreds of years, Native Americans have used eagle parts and feathers for r
 
 ## Policies
 
-  - [Secretarial Order 3206](https://www.fws.gov/nativeamerican/pdf/tek-secretarial-order-3206.pdf): American Indian Tribal Rights, Federal-Tribal Trust Responsibilities, and the Endangered Species Act
-  - [Secretarial Order 3317](https://www.fws.gov/nativeamerican/pdf/secretarial-order-3317.pdf): DOI Tribal Consultation Policy
-  - [Secretarial Order 3335](https://www.doi.gov/sites/doi.gov/files/migrated/news/pressreleases/upload/Signed-SO-3335.pdf): Reaffirmation of the Federal Trust Responsibility to Federally Recognized Indian Tribes
-  - [Secretarial Order 3342](https://www.doi.gov/sites/doi.gov/files/uploads/so3342_partnerships.pdf): Identifying Opportunities for Cooperative and Collaborative Partnerships with Federally Recognized Indian Tribes in the Management of Federal Lands and Resources
-  - [Executive Order 13175](https://www.fws.gov/nativeamerican/pdf/executive-order-13175.pdf): Consultation and Coordination With Indian Tribal Governments
-  - [2016 Native American Policy of the U.S. Fish and Wildlife Service](https://www.fws.gov/nativeamerican/pdf/Policy-revised-2016.pdf)
-    - [Tribal Consultation Handbook](https://www.fws.gov/TCG.pdf)
-    - [1994 Edition of the Native American Policy](https://www.fws.gov/northeast/nativeamerican/pdf/native_american_policy.pdf)
-  - [Bald and Golden Eagle Protection Act](https://www.fws.gov/migratorybirds/mbpermits/regulations/BGEPA.PDF)
-  - [Migratory Bird Treaty Act](https://www.fws.gov/migratorybirds/mbpermits/regulations/mbta.html)
+- [Secretarial Order 3206](https://www.fws.gov/nativeamerican/pdf/tek-secretarial-order-3206.pdf): American Indian Tribal Rights, Federal-Tribal Trust Responsibilities, and the Endangered Species Act
+- [Secretarial Order 3317](https://www.fws.gov/nativeamerican/pdf/secretarial-order-3317.pdf): DOI Tribal Consultation Policy
+- [Secretarial Order 3335](https://www.doi.gov/sites/doi.gov/files/migrated/news/pressreleases/upload/Signed-SO-3335.pdf): Reaffirmation of the Federal Trust Responsibility to Federally Recognized Indian Tribes
+- [Secretarial Order 3342](https://www.doi.gov/sites/doi.gov/files/uploads/so3342_partnerships.pdf): Identifying Opportunities for Cooperative and Collaborative Partnerships with Federally Recognized Indian Tribes in the Management of Federal Lands and Resources
+- [Executive Order 13175](https://www.fws.gov/nativeamerican/pdf/executive-order-13175.pdf): Consultation and Coordination With Indian Tribal Governments
+- [2016 Native American Policy of the U.S. Fish and Wildlife Service](https://www.fws.gov/nativeamerican/pdf/Policy-revised-2016.pdf)
+  - [Tribal Consultation Handbook](https://www.fws.gov/TCG.pdf)
+  - [1994 Edition of the Native American Policy](https://www.fws.gov/northeast/nativeamerican/pdf/native_american_policy.pdf)
+- [Bald and Golden Eagle Protection Act](https://www.fws.gov/migratorybirds/mbpermits/regulations/BGEPA.PDF)
+- [Migratory Bird Treaty Act](https://www.fws.gov/migratorybirds/mbpermits/regulations/mbta.html)
 
-## Frequently Asked Questions
+## Frequently asked questions
 
 ### What does it mean when an Indian tribe is federally recognized?
 

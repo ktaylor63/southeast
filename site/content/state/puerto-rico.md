@@ -11,12 +11,11 @@ hero:
     alt: 'A bright green parrot with red markings on its face and an open beak.'
     link: 'https://flic.kr/p/9CZN6H'
     caption: 'Puerto Rican parrot. Photo by Tom MacKenzie, USFWS.'
-updated: 'December 22nd, 2017'
+updated: 'March 25th, 2019'
 ---
 
-{{< scroller-list tag="Puerto Rico" number="10" section="news" >}}
-{{< scroller-list tag="Puerto Rico" number="10" section="articles" >}}
-{{< scroller-list tag="Puerto Rico" number="10" section="wildlife" >}}
+{{< content-scroller tag="Puerto Rico" heading="Related content" >}}
 
-## Map of Offices
+## Map of offices
+
 <iframe src="https://usfws.github.io/southeast-mega-map/?state=Puerto+Rico&state=VI" class="state-map" title="List of offices in the Southeast Region of the U.S. Fish and Wildlife Service"></iframe>

@@ -20,9 +20,9 @@ However, our southeastern coasts need our attention. The U.S. Geological Survey 
 
 {{< figure class="photo-center" src="/images/pages/piping-plover-on-beach.jpg" alt="A small white bird with gray back standing on a debris strewn beach." caption="The piping plover, a species listed as threatened, calls our southeastern coastlines home. Photo by USFWS." link="https://flic.kr/p/9U6URh">}}
 
-## Threats to the Health of our Coast
+## Threats to the health of our coast
 
-### Habitat Loss Caused by Human Development
+### Habitat loss caused by human development
 
 Human development of our coasts represents the largest threat to the continued health coastal resources in the Southeast Region. In 2010, over half of the human population in the southeastern United States lived within 50 miles of the coast, impacting coastal wetlands and beaches through development, disturbance, and degradation of habitat.
 
@@ -30,63 +30,65 @@ The Gulf of Mexico and southern Atlantic coasts continue to represent **the fast
 
 Southeastern coastal upland habitats are also largely in decline. A considerable number of federally threatened, endangered, and at-risk species are associated with these ecosystems, as well as state listed species. To-date the southeast has seen:
 
- - A 99% loss of longleaf pine habitat,
- - A 98% loss of pine rockland habitat,
- - A 60-80% loss of tropical hardwood hammocks, and
- - 70-84% loss of coastal scrub and sandhills.
+- A 99% loss of longleaf pine habitat,
+- A 98% loss of pine rockland habitat,
+- A 60-80% loss of tropical hardwood hammocks, and
+- 70-84% loss of coastal scrub and sandhills.
 
 {{< figure class="photo-center" src="/images/pages/boneyard-beach-bull-island.jpg" alt="A debris strewn beach with fallen trees along the coast." caption="Boneyard beach at Cape Romain National Wildlife Refuge in South Carolina is the result of a creeping seas. Photo by Stacy Shelton, USFWS." link="https://flic.kr/p/8rgAjQ">}}
 
-### Sea Level Rise
+### Sea level rise
 
 The southeastern coastline is experiencing large impacts from documented sea level rise. Along the mid to south Atlantic and Gulf coasts, the sea level has risen five to six inches more than the global average over the past 100 years.
 
 Coastal wetland ecosystems are especially vulnerable, and the effects are particularly apparent in North Carolina, Louisiana and the Florida Everglades. Since the 1970’s, the Southeast Region has experienced a loss of over 55% of coastal wetlands. Despite the national trend of no-net-loss of wetlands in the early 2000’s, this region continues to show wetland loss, although the rate of loss is decreasing.
 
 ### Erosion
+
 Some of the most economically important vulnerable areas are recreational resorts on the coastal barriers of the Atlantic and Gulf coasts, where many ocean shores are currently eroding at a rate of **1-4 feet per year**.
 
 This causes tremendous pressure to renourish beaches with sand or provide hard armoring structures to the beachfronts with direct consequences to natural systems and processes.
 
-## The Opportunity
+## The opportunity
 
 Habitat conservation plays a key role in sustaining healthy ecosystems for people, as well as maintaining and increasing wildlife populations.
 
 Enhancing or restoring lost habitat and protecting existing habitat from human disturbances, non-native species and predators are the high priorities for coastal conservation in the southeastern United States.
 
-## Our Services
+## Our services
 
 The Southeast Region Coastal Program supports voluntary, proactive and cooperative projects in these areas, focusing efforts to restore and protect habitat for federal trust species.
 
 We provide technical expertise and financial assistance to:
 
- - Private landowners and citizens;
- - Native American tribes;
- - Non-profit organizations;
- - Municipal and local governments;
- - Business and industry.
+- Private landowners and citizens;
+- Native American tribes;
+- Non-profit organizations;
+- Municipal and local governments;
+- Business and industry.
 
 {{< figure class="photo-center" src="/images/pages/employee-pensicola-beach.jpg" alt="A Service employee in uniform on the beach carrying a backpack and bionoculars." caption="A Service employee at Pensacola Beach. Photo by Tom MacKenzie, USFWS." link="https://flic.kr/p/8D95jP">}}
 
-## Types of Projects
+## Types of projects
+
 Our projects are as diverse as the habitats that we restore and protect. Some activities include:
 
- - Coastal wetland restoration;
- - Coastal upland restoration (maritime forest, longleaf pine, grasslands);
- - Dune restoration;
- - Invasive species control;
- - Blue carbon;
- - Living shoreline construction (such as oyster reefs);
- - Coastal river/aquatic instream;
- - Nearshore habitat restoration (coral reefs, seagrass);
- - Land protection;
- - Partnerships with public and private lands.
+- Coastal wetland restoration;
+- Coastal upland restoration (maritime forest, longleaf pine, grasslands);
+- Dune restoration;
+- Invasive species control;
+- Blue carbon;
+- Living shoreline construction (such as oyster reefs);
+- Coastal river/aquatic instream;
+- Nearshore habitat restoration (coral reefs, seagrass);
+- Land protection;
+- Partnerships with public and private lands.
 
-## Work With Us
+## Work with us
 
 If you would like to help conserve coastal habitats for the benefit of people and wildlife, contact the Coastal Program coordinator for your state, or direct general questions to the Regional Coordinator.
 
-### Regional Coordinator
+### Regional coordinator
 
 Cindy Bohn  
 U.S. Fish and Wildlife Service, Southeast Regional Office  

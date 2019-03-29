@@ -14,7 +14,7 @@ hero:
 updated: 'October 19th, 2016'
 ---
 
-## Transformational Science for a Changing Gulf Landscape
+## Transformational science for a changing Gulf landscape
 
 Landscape Conservation Cooperatives (LCCs) were established in 2010 as a network of public-private partnerships focused on using cutting-edge science to ensure the sustainability of our land, water, wildlife and cultural resources. LCC partners define science needs and jointly address broad-scale conservation issues (e.g., sea-level rise) in an ecologically defined geographic area. Four LCCs cover parts of the Gulf landscape: [Gulf Coast Prairie](http://gulfcoastprairielcc.org/); [Gulf Coastal Plains and Ozarks](http://gcpolcc.org/); [South Atlantic](http://southatlanticlcc.org/); and [Peninsular Florida](http://peninsularfloridalcc.org/). The Service is an active member and stalwart supporter of these and the other 18 LCCs in the network.
 

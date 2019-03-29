@@ -10,18 +10,27 @@ hero:
 tags:
     - Grants
     - 'Wildlife and Sport Fish Restoration'
-updated: 'March 14th, 2017'
+updated: 'March 28th, 2019'
 ---
 
 One of the primary roles of the U.S. Fish and Wildlife Service is managing federal funds and distributing them to projects that offer the greatest benefits to wildlife and habitats. We do this through a variety of programs, such as
 
 Every year, more than half of the Service's annual budget in the Southeast Region - more than $250 million - is reserved for grants for broad conservation objectives.
 
-## Information on Federal Grants
+## Information on federal grants
 
 All grant opportunities are posted on [Grants.gov](https://www.grants.gov/). You can [filter all of the available grants to “Department of  the Interior”](http://www.grants.gov/search-grants.html?agencies%3DDOI%7CDepartment%20of%20the%20Interior).
 
-## Wildlife Restoration Program
+## Cooperative endangered species conservation fund (Section 6 of the ESA)
+
+The Cooperative Endangered Species Conservation Fund (section 6 of the ESA) is a tool that provides grants to states and territories to participate in a wide array of voluntary conservation projects for candidate, proposed, and listed species. The program provides funding to states and territories for species and habitat conservation actions on non-federal lands. States and territories must contribute a minimum non-federal match of 25 percent of the estimated program costs of approved projects, or 10 percent when two or more states or territories implement a joint project. A state or territory must currently have, or enter into, a cooperative agreement with the Secretary of the Interior to receive grants. Most states and territories have entered into these agreements for both plant and animal species.
+
+- To learn more, download the [grants fact sheet](https://www.fws.gov/endangered/esa-library/pdf/section6.pdf).
+- View information about current [Endangered Species grant programs](https://www.fws.gov/endangered/grants/grant-programs.html).
+- Find out [how to apply for a grant](https://www.fws.gov/endangered/grants/how-to-apply.html).
+- Access the [full library of documents related to grants](https://www.fws.gov/endangered/esa-library/index.html#grants).
+
+## Wildlife restoration program
 
 The Wildlife Restoration Program is available for state/territory fish and wildlife agencies with assent, legislation and has three purposes:
 

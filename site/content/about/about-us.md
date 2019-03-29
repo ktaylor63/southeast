@@ -20,17 +20,17 @@ updated: 'March 10th, 2017'
 
 The U.S. Fish and Wildlife Service (also known as the Service) is a bureau within the United States [Department of the Interior](https://www.doi.gov), America’s principal conservation agency within the [Executive Branch of U.S. government](https://www.whitehouse.gov/1600/executive-branch).
 
-## Our Mission
+## Our mission
 
 > Working with others, to conserve, protect and enhance fish, wildlife, plants and their habitats for the continuing benefit of the American people.
 
-## Our Vision
+## Our vision
 
 > Together, we will connect lands and waters to sustain fish, wildlife and plants by being visionary leaders, bold innovators and trusted partners, working with and for people.
 
 {{< figure class="photo-center" src="/images/pages/great-blue-heron-pelican-island.jpg" alt="A grayish blue bird with a long curvy neck extends from the vegetation on the bank of a stream." link="https://flic.kr/p/bEruGi" caption="A great blue heron at Pelican Island National Wildlife Refuge in Florida. Photo by Keenan Adams, USFWS." >}}
 
-## What We Do
+## What we do
 
 The Southeast Region carries out this mission within the states of Alabama, Arkansas, Florida, Georgia, Kentucky, Louisiana, Mississippi, North Carolina, South Carolina and Tennessee, as well as Puerto Rico and the U.S. Virgin Islands. Our regional office is located in Atlanta, Georgia.
 
@@ -40,31 +40,32 @@ Our operations are guided by a Regional Director, Deputy Regional Director, and 
 
 Across the southeastern United States, we carry out the Service mission by:
 
- - Protecting and recovering **<span class="listed-species-count">hundreds of</span> southeastern species** protected as threatened or endangered under the Endangered Species Act,
- - Gathering the **best available scientific and commercial data** for protected species to perform recovery actions,
- - Preserving healthy habitats for wildlife and opportunities for public recreation at **131 National Wildlife Refuges**,
- - **Investigating wildlife crimes** such as wildlife trafficking and the illegal shooting of protected species,
- - **Producing fish** for stocking across southeastern rivers,
- - Conducting **research** on the health of southeastern habitats,
- - **Consulting** with state and federal partners on ways to balance the needs of wildlife with the needs of people,
- - **Permitting** certain public and private development activities to ensure they do not jeopardize the continued existence of endangered species,
- - Proactively pursuing opportunities to **conserve species at-risk** of becoming listed as threatened or endangered,
- - **Working with private landowners** to restore, improve and protect fish and wildlife habitat on their lands,
- - Distributing over **$250 million** annually in grants to state conservation agencies, and
- - **Communicating and educating** the American public about wildlife conservation via social media, educational programs, public hearings, and other forms of outreach.
+- Protecting and recovering **<span class="listed-species-count">hundreds of</span> southeastern species** protected as threatened or endangered under the Endangered Species Act,
+- Gathering the **best available scientific and commercial data** for protected species to perform recovery actions,
+- Preserving healthy habitats for wildlife and opportunities for public recreation at **131 National Wildlife Refuges**,
+- **Investigating wildlife crimes** such as wildlife trafficking and the illegal shooting of protected species,
+- **Producing fish** for stocking across southeastern rivers,
+- Conducting **research** on the health of southeastern habitats,
+- **Consulting** with state and federal partners on ways to balance the needs of wildlife with the needs of people,
+- **Permitting** certain public and private development activities to ensure they do not jeopardize the continued existence of endangered species,
+- Proactively pursuing opportunities to **conserve species at-risk** of becoming listed as threatened or endangered,
+- **Working with private landowners** to restore, improve and protect fish and wildlife habitat on their lands,
+- Distributing over **$250 million** annually in grants to state conservation agencies, and
+- **Communicating and educating** the American public about wildlife conservation via social media, educational programs, public hearings, and other forms of outreach.
 
 {{< figure class="photo-center" src="/images/pages/chassahowitzka-national-wildlife-aerial.jpg" alt="An aerial photograph of a landscape transitioning from open water to sparse wetlands to swamp." link="https://flic.kr/p/czmmcd" caption="Aerial photo of Chassahowitzka National Wildlife Refuge in Florida, which provides habitat for the West Indian manatee. Photo by Joyce Kleen, USFWS." >}}
 
-## Wildlife Habitat in the Southeast
+## Wildlife habitat in the Southeast
 
 The Southeast has a variety of diverse and unique ecosystems and habitats including coastal marshes, coral reefs, bottomland hardwoods, the Appalachian and Ozark Mountains, caves, and longleaf pine forests.
 
-## Regional Priorities
+## Regional priorities
+
 Our people, our partners, our public, America’s lands, waters, fish, wildlife and plants are our priorities for fiscal years 2016-2018.
 
 [Learn more about the Southeast Region’s priorities](/priorities).
 
-## Regional Office
+## Regional office location
 
 Operations for the Southeast Region are headquartered out of the regional office located at:
 

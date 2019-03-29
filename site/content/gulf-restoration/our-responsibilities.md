@@ -17,15 +17,15 @@ updated: 'March 15th, 2017'
 
 The Service is the primary federal agency responsible for conserving and enhancing the nation's fish and wildlife populations and their habitats. However, the conservation of fish and wildlife is a shared responsibility. The Service works closely with with other federal agencies and state governments, as well as other partners, in order to to conserve, protect and enhance our nation's natural resources.
 
-## Natural Resources of the Gulf
+## Natural resources of the Gulf
 
-### Fish and Wildlife
+### Fish and wildlife
 
 The Service has specific responsibilities as defined by legislation, a treaty or similar authority toward certain natural resources. These resources include migratory birds, certain marine mammals and fish species that move across boundaries of states and nations (“interjurisdictional fish”). The Service is also charged with administering [The Endangered Species Act of 1973](https://www.fws.gov/laws/lawsdigest/esact.html) (ESA, 16 U.S.C. § 1531 et seq.), which is aimed at helping increase the populations of threatened and endangered species and reducing the threats to their survival. The Gulf watershed is famous for the richness and diversity of its wildlife, and is home to more than 500 federally listed species (of which more than 350 are endangered). These include some of America’s most beloved and iconic species -- from the West Indian manatee, an aquatic relative of the elephant, to the whooping crane, North America’s tallest bird. In addition, the Service is responsible for administering a national network of lands and waters known as the [National Wildlife Refuge System](https://www.fws.gov/refuges/).
 
-## Wildlife Refuges
+## Wildlife refuges
 
-The Service is one of the principal federal agencies responsible for conserving, protecting and enhancing the nation's fish, wildlife and plants, and their habitats for the continuing benefit of the American people. In support of this mission, the Service manages an extensive network of public lands and waters dedicated to wildlife conservation known as the National Wildlife Refuge System. The nation’s first National Wildlife Refuge (NWR) was created off Florida’s Atlantic Coast, on Pelican Island. The second refuge, established in 1904, was in the Gulf region &mdash; Breton NWR off the coast of Louisiana.    
+The Service is one of the principal federal agencies responsible for conserving, protecting and enhancing the nation's fish, wildlife and plants, and their habitats for the continuing benefit of the American people. In support of this mission, the Service manages an extensive network of public lands and waters dedicated to wildlife conservation known as the National Wildlife Refuge System. The nation’s first National Wildlife Refuge (NWR) was created off Florida’s Atlantic Coast, on Pelican Island. The second refuge, established in 1904, was in the Gulf region &mdash; Breton NWR off the coast of Louisiana.
 
 {{< figure class="photo-center" src="/images/pages/president-teddy-roosevelts-visit-to-breton-island-nwr-1915.jpg" alt="Black and white photograph of President Teddy Roosevelt sitting on an empty beach looking out over the water." caption="President Teddy Roosevelt visited Breton Island National Wildlife Refuge in 1915. Photo by USFWS." >}}
 
@@ -35,6 +35,6 @@ You are invited to visit a National Wildlife Refuge near you. There are many to 
 
 {{< figure class="photo-center" src="/images/pages/st-marks-nwr-lighthouse.jpg" alt="A white lighthouse emerges from behind two grand oak trees on the tip of a peninsula." caption="Lighthouse at St. Marks National Wildlife Refuge. Photo by Steve Hillebrand, USFWS." link="https://flic.kr/p/LBJxzD" >}}
 
-## Gulf Species Profiles
+## Gulf species profiles
 
 {{< section-content-by-tag tag="Gulf" section="wildlife" >}}

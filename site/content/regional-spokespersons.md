@@ -20,40 +20,50 @@ Our trained communications staff are available to respond to public and media in
 
 If you would like to have our press releases delivered to your inbox, please subscribe to our listserv.
 
-## Points of Contact by State
+## Points of contact by state
 
 ### Alabama
+
 [Denise Rowell](mailto:denise_rowell@fws.gov), Public Affairs Specialist <br>
 (251) 441-6630
 
 ### Arkansas
+
 <a href="#general-media-inquiries-photos-video">See “General Media Inquiries”</a>
 
 ### North Florida
+
 [Chuck Underwood](mailto:chuck_underwood@fws.gov), Public Affairs Specialist <br>
 (904) 731-3332
 
 ### South Florida
+
 [Ken Warren](mailto:ken_warren@fws.gov), Public Affairs Specialist <br>
 (772) 562-3909, extension 323
 
 ### Georgia
+
 <a href="#general-media-inquiries-photos-video">See “General Media Inquiries”</a>
 
 ### Kentucky
+
 <a href="#general-media-inquiries-photos-video">See “General Media Inquiries”</a>
 
 ### Louisiana
+
 <a href="#general-media-inquiries-photos-video">See “General Media Inquiries”</a>
 
 ### Mississippi
+
 [Connie Dickard](mailto:connie_dickard@fws.gov), Public Affairs Specialist <br>
 (601) 965-4900
 
 ### Puerto Rico and U.S. Virgin Islands
+
 <a href="#general-media-inquiries-photos-video">See “General Media Inquiries”</a>
 
 ### Eastern North Carolina
+
 [Lilibeth Serrano](mailto:lilibeth_serrano@fws.gov), Public Affairs Specialist <br>
 (252) 933-2255
 
@@ -62,15 +72,17 @@ If you would like to have our press releases delivered to your inbox, please sub
 (828) 258-3939, extension 234
 
 ### South Carolina
+
 [Jennifer Koches](mailto:jennifer_koches@fws.gov), Public Affairs Specialist <br>
 (843) 727-4707, extension 214
 
 ### Tennessee
+
 <a href="#general-media-inquiries-photos-video">See “General Media Inquiries”</a>
 
-## General Media Inquiries, Photos, Video
+## General media inquiries, photos, video
 
-### Atlanta Regional Office Representatives
+### Atlanta Regional Office representatives
 
 [Elsie Davis](mailto:elsie_davis@fws.gov), Public Affairs Specialist <br>
 (404) 679-7107
@@ -84,11 +96,12 @@ If you would like to have our press releases delivered to your inbox, please sub
 [Dan Chapman](mailto:daniel_chapman@fws.gov), Public Affairs Specialist <br>
 (404) 679-4028
 
-@USFWSSoutheast [Facebook](https://facebook.com/usfwssoutheast) and [Twitter](https://twitter.com/usfwssoutheast) <br>
+@USFWSSoutheast [Facebook](https://facebook.com/usfwssoutheast) and [Twitter](https://twitter.com/usfwssoutheast)
+
 [Katherine Taylor](mailto:katherine_taylor@fws.gov), Digital Content Specialist <br>
 (404) 679-7125
 
-## Subscribe to Southeast Region News
+## Subscribe to Southeast Region news
 
 {{< figure class="photo-center" src="/images/pages/stack-of-newspapers.jpg" alt="A messy stack of newspapers" link="https://flic.kr/p/bxUyuM" caption="Stack of newspapers. Photo by Faungg, used under the CC by ND 2.0 license." >}}
 

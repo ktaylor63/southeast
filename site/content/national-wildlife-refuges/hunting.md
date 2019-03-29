@@ -22,56 +22,66 @@ Hunting is part of our American heritage and is a huge economic contributor to t
 
 We offer seasonal hunting opportunities on a variety of southeastern national wildlife refuges. You can hunt a range of species including white-tailed deer, waterfowl, turkey and even help control wild hogs.
 
-## How to Hunt on Refuges
+## How to hunt on refuges
 
 In order to hunt on a national wildlife refuge, you need to have two things:
 
 1. A refuge hunting permit
 2. A state hunting license
 
-## Find a Refuge Hunt
+## Find a refuge hunt
 
 Use our [hunt search tool](https://www.fws.gov/refuges/hunting/) to find the perfect hunt for you and/or your family. After finding your hunt, visit the refuge website to find hunt maps and more information.  Hunting Regulations for all of the Southeastern National Wildlife Refuges can be found in the [reading room](/reading-room/?search=Hunt).
 
 {{< figure class="photo-center" src="/images/pages/northern-pintail.jpg" alt="A brown and gray duck dipping it's beak into the water" link="https://flic.kr/p/Dy9TmP" caption="Northern pintail duck. Photo by Peter Pearsall, USFWS." >}}
 
-## Acquire a State Hunting License
+## Acquire a state hunting license
 
 Fishing licenses are provided by state wildlife agencies. Select your state agency below to find hunting resources.
 
 ### Alabama Department of Conservation & Natural Resources
+
 - [Hunting Licenses](http://www.outdooralabama.com/hunting-license)
 
 ### Arkansas Game & Fish Commission
+
 - [Hunting Licenses](https://www.agfc.com/en/resources/licensing/huntinglicenses/)
 
 ### Florida Florida Fish and Wildlife Conservation Commission
+
 - [Hunting Licenses and Fee Information](http://myfwc.com/license/recreational/hunting/)
 - [How to Order Your License](http://myfwc.com/license/recreational/how-to-order/)
 
 ### Georgia Department of Natural Resources, Wildlife Resources Division
+
 - [License Options and Prices](http://www.georgiawildlife.com/licenses-permits-passes#Recreational_Licenses_and_Passes)
 - [Hunting License Requirements](http://www.eregulations.com/georgia/hunting/license-requirements/)
 - [Purchase a License](https://www.gooutdoorsgeorgia.com/)
 
 ### Kentucky Department of Fish & Wildlife Resources
+
 - [Online License and Permit Agent](https://app.fw.ky.gov/license/waonlinefront.aspx)
 
 ### Louisiana Department of Wildlife and Fisheries
+
 - [Hunting License Information](http://www.wlf.louisiana.gov/hunting-licenses)
 - [Purchase Your License Online](https://www.la.wildlifelicense.com/start.php)
 
 ### Mississippi Wildlife, Fisheries & Parks
+
 - [Hunting License Types](https://www.ms.gov/mdwfp/hunting_fishing/faq_info.aspx)
 - [Purchase a Hunting License](https://www.ms.gov/mdwfp/hunting_fishing/)
 
 ### North Carolina Wildlife Resources Commission
+
 - [Hunting, Fishing and Trapping Licenses](http://www.ncwildlife.org/Licensing/HuntingFishingTrappingLicenses.aspx)
 
 ### South Carolina Department of Natural Resources
+
 - [Hunting License Types](http://www.dnr.sc.gov/licenses/huntinglicense.html)
 - [Purchase a Hunting License](https://dnrlicensing.sc.gov/dnrlicensingsales/salescategories.aspx)
 
 ### Tennessee Wildlife Resources Agency
+
 - [Hunting License Requirements](https://www.tn.gov/twra/article/hunting-license-requirements)
 - [Purchase a Hunting License](https://www1.tn.wildlifelicense.com/start.php)

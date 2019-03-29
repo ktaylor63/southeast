@@ -19,11 +19,11 @@ In the southeastern United States, changes to the climate are having profound im
 
 There are 67 southeastern national wildlife refuges from Louisiana to North Carolina situated along coasts. **Rising sea levels are expected to flood as much as 30% of the habitat on our coastal national wildlife refuges, potentially displacing protected wildlife.** Some places most vulnerable places to sea level rise are found in the Mississippi Delta, the Florida Keys, the Everglades, and the North Carolina coast.
 
-## Video: There’s Nothing Level About Sea Level
+## Video: There’s nothing level about sea level
 
 {{< youtube id="6H_7fTsNiFk" title="There’s Nothing Level About Sea Level" >}}
 
-## How We’re Responding
+## How we’re responding
 
 After two years in development, the U.S. Fish and Wildlife Service finalized the [Climate Change Strategy](https://www.fws.gov/home/climatechange/strategy.html) in September 2010. It is a call to action, impossible to ignore:
 **We must respond to rising global temperatures to continue fulfilling our mission.**
@@ -36,7 +36,7 @@ Our Strategic Plan establishes specific goals and objectives to accomplish prior
 
 *For more information on our nationwide approach to climate change, visit our [Conservation in a Changing Climate](https://www.fws.gov/home/climatechange/) homepage.*
 
-### Landscape Level Changes Require Landscape Level Partnerships
+### Landscape level changes require landscape level partnerships
 
 {{< figure class="photo" src="/images/pages/bent-sea-rod-bleaching.jpg" alt="Underwater photograph of an unhealthy reef" link="https://flic.kr/p/oSun6H" caption="A bleached colony of soft coral in a reef off the coast of Florida. Photo by Kelsey Roberts, USGS." >}}
 
@@ -46,7 +46,7 @@ The nationwide network of [Landscape Conservation Cooperatives](/landscape-conse
 
 *Learn more about [conservation across large landscapes in the southeast](/landscape-conservation), or discover our national [Landscape Conservation Cooperative Network](https://lccnetwork.org/).*
 
-### Carbon Sequestration for Wildlife
+### Carbon sequestration for wildlife
 
 {{< figure class="photo" src="/images/pages/chris-foster-forester.jpg" alt="A forester kneeling in a field investigating vegetation" link="https://flic.kr/p/dB1P4a" caption="Forester Chris Foster helps oversee a tree planting designed to sequester carbon at Upper Ouachita National Wildlife Refuge in Louisiana. Photo: Sean Gardner." >}}
 
@@ -67,7 +67,7 @@ Our earth, its land and its oceans, are more than just a storage container for g
 
 *Download our [carbon sequestration fact sheet](/pdf/fact-sheet/carbon-sequestration.pdf).*
 
-## Additional Resources
+## Additional resources
 
 {{< figure class="photo" src="/images/pages/eastern-brook-trout.jpg" alt="A close-up shot of an Eastern brook trout in front of large, rocky substrate." link="https://flic.kr/p/8eW8jh" caption="The eastern brook trout is one of the coolwater fish species negatively affected by climate change. Photo by USFWS." >}}
 

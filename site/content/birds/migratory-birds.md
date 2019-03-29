@@ -11,13 +11,13 @@ tags:
 updated: 'March 3rd, 2017'
 ---
 
-## What are Migratory Birds?
+## What are migratory birds?
 
 Migratory birds are those species that generally migrate south each fall from breeding grounds to their wintering grounds. They may winter in habitats throughout the Southeast Region, or even farther south into Mexico, Central and South America and the Caribbean. In the spring they return north to their breeding grounds, where they have young and the cycle repeats. Migratory birds are definitely in the majority in contrast to resident birds that do not migrate.
 
 Of the 836 protected migratory bird species, some 59 species are game birds. That is, hunting seasons are, were, or could be developed for them. Here, we are talking about ducks, geese, swan, various species of doves, snipe, rails, certain pigeons, and gallinules. In contrast to the hunted birds, there are 777 species (93 percent) considered nongame birds. They are represented in groups such as marsh and wading birds (6%), birds of prey such as hawks, owls and eagles ( 9%), shorebirds (10%), sea birds (16 %), and perching birds (59%). This last group make up the song birds that come to our feeders, and the neotropical migratory birds that usually do not (because they are insect eaters and not seed eaters). We hear much talk about these "neotrops" today. They are the warblers, vireos, flycatchers, hummingbirds, swallows, and others that migrate to wintering grounds south of the United States - in Mexico, South America and Central America, and in the Caribbean.
 
-## What does the office of Migratory Birds and Habitat Programs do?
+## What does the office of migratory birds and habitat programs do?
 
 All migratory birds are listed as a trust species for the Department of the Interior according to the Migratory Bird Treaty Act of 1916.  The U.S. Fish and Wildlife Service has the primary responsibility for administrating the Act, its amendments, and subsequent acts through the Division of Migratory Birds and Habitat Programs. Declining species and species groups are a major priority.
 
@@ -39,11 +39,11 @@ The lab does not track every band such as plastic covered aluminum bands on pige
 
 **Important information to note include:**  
 
- - Size, shape, color of marker, color of codes, shape and placement of codes on the marker (a sketch can be more useful than a written description),
- - Age and sex of the bird if available,
- - Date the bird was observed,
- - Exact location of the bird,
- - Your name, address, and preferably a daytime telephone number in case there are any questions.
+- Size, shape, color of marker, color of codes, shape and placement of codes on the marker (a sketch can be more useful than a written description),
+- Age and sex of the bird if available,
+- Date the bird was observed,
+- Exact location of the bird,
+- Your name, address, and preferably a daytime telephone number in case there are any questions.
 
 ## What can I do to help injured birds?
 
@@ -59,14 +59,14 @@ Check out our guides on [Migratory Songbirds](https://www.fws.gov/birds/bird-ent
 
 While feeders serve as great focal points to observe our avian neighbors, they can also become vectors for disease. Diseased birds show a wide variety of symptoms such as unresponsiveness; unkempt feathers; "warts" around the eyes, beak, and feet; or you may see nothing at all.  In some cases, the birds will stop using a contaminated feeder entirely. Here are some tips to help keep your feeder safe for birds:
 
-  1. **Give Them Space:** Avoid crowding by providing ample feeder space.
-  2. **Clean Up Wastes:** Keep the feeder area clean of waste food and droppings. A broom and shovel is good, but a shop vac will help even more.
-  3. **Make Feeders Safe:** Use feeders without sharp points or edges.  Even small scratches allow bacteria and viruses to infect otherwise healthy birds.
-  4. **Keep Feeders Clean:** Clean and disinfect feeders regularly. Use one part of liquid chlorine household bleach in nine parts of warm water to disinfect. Make enough solution to immerse an empty, cleaned feeder completely for two to three minutes.  Allow to air dry.  Once or twice a month should do, but weekly cleaning is best especially if you notice sick birds at your feeders.
-  5. **Use Good Food:**  Discard food that smells musty, is wet, looks moldy or has fungus growing on it.  Disinfect any storage container that holds spoiled food and the scoop used to fill feeders.
-  6. **Prevent Contamination:** Keep rodents out of stored food.  Mice can carry and spread some bird diseases without being affected themselves.
-  7. **Act Early:**  Don't wait to act until you see sick or dead birds.  With good prevention you'll seldom find sick or dead birds at your feeders.
-  8.  **Spread the Word:** Encourage your neighbors who feed birds to follow the same precautions.  Birds normally move among feeders and can spread diseases as they go.
+1. **Give Them Space:** Avoid crowding by providing ample feeder space.
+2. **Clean Up Wastes:** Keep the feeder area clean of waste food and droppings. A broom and shovel is good, but a shop vac will help even more.
+3. **Make Feeders Safe:** Use feeders without sharp points or edges.  Even small scratches allow bacteria and viruses to infect otherwise healthy birds.
+4. **Keep Feeders Clean:** Clean and disinfect feeders regularly. Use one part of liquid chlorine household bleach in nine parts of warm water to disinfect. Make enough solution to immerse an empty, cleaned feeder completely for two to three minutes.  Allow to air dry.  Once or twice a month should do, but weekly cleaning is best especially if you notice sick birds at your feeders.
+5. **Use Good Food:**  Discard food that smells musty, is wet, looks moldy or has fungus growing on it.  Disinfect any storage container that holds spoiled food and the scoop used to fill feeders.
+6. **Prevent Contamination:** Keep rodents out of stored food.  Mice can carry and spread some bird diseases without being affected themselves.
+7. **Act Early:**  Don't wait to act until you see sick or dead birds.  With good prevention you'll seldom find sick or dead birds at your feeders.
+8.  **Spread the Word:** Encourage your neighbors who feed birds to follow the same precautions.  Birds normally move among feeders and can spread diseases as they go.
 
 ## What is the best ratio of sugar-to-water to use for feeding hummingbirds?
 

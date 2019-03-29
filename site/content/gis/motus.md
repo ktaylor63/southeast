@@ -16,20 +16,20 @@ The map below presents initial tagging locations of migratory animals detected b
 
 ## Tips for interpretation
 
-  - Points on the map indicate approximate tagging locations including date(s) of detection (not tagging) by a given tower
-  - Tower icons indicate current tower locations
+- Points on the map indicate approximate tagging locations including date(s) of detection (not tagging) by a given tower
+- Tower icons indicate current tower locations
 
 ## Tips for usage
 
-  - Map layers are accessed via the "layers" icon in the upper right corner of the map.
-  - Toggle the display of tower locations using the “Tower locations” check box
-  - Toggle the display of detections for a given tower by clicking the corresponding check box; detection marker color corresponds to the tower of detection
-  - Click on a tower icon for additional information for that radio telemetry tower
-  - You can zoom in and out on the map using the + and - buttons
-  - Points located close together are clustered at large scales. Clicking on these clusters will zoom to a level at which points can be distinguished
-  - Return to the full extent of the map by clicking the globe icon below the legend
+- Map layers are accessed via the "layers" icon in the upper right corner of the map.
+- Toggle the display of tower locations using the “Tower locations” check box
+- Toggle the display of detections for a given tower by clicking the corresponding check box; detection marker color corresponds to the tower of detection
+- Click on a tower icon for additional information for that radio telemetry tower
+- You can zoom in and out on the map using the + and - buttons
+- Points located close together are clustered at large scales. Clicking on these clusters will zoom to a level at which points can be distinguished
+- Return to the full extent of the map by clicking the globe icon below the legend
 
-## Data Limitations and User Caution
+## Data limitations and user caution
 
 The Service’s objective of mapping automated telemetry detections is to produce a preliminary map of the initial tagging locations of individual animals detected by automated telemetry stations operated by the National Wildlife Refuge System in the southeast region. Points indicate approximate initial tagging locations with date(s) of detection (not tagging) by a given receiving station.
 

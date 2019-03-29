@@ -21,20 +21,20 @@ The Service’s [“Vision for a Healthy Gulf of Mexico Watershed”](/pdf/gulf-
 
 {{< figure class="photo-center" src="/images/pages/deepwater-horizon-tar-balls-at-bon-secour-nwr.jpg" alt="A US Fish and Wildlife Service employee in uniform wearing nylon gloves prods oil washed up on a beach with a stick." caption="Examining tar balls from the Deepwater Horizon oil spill that washed ashore at Bon Secour National Wildlife Refuge in Alabama. Photo by Lillian Falco, USFWS." >}}
 
-## Conservation Strategies
+## Conservation strategies
 
 The eight conservation strategies are to:
 
- - Use sound science;
- - Restore resources impacted by the Deepwater Horizon oil spill;
- - Create a network of public and private conservation lands;
- - Restore wetland and aquatic ecosystems;
- - Conserve prairies and forests;
- - Protect and restore coastal strand, barrier island and estuarine island habitats;
- - Conserve working lands; and
- - Manage lands and waters for sustainable populations of fish and wildlife.
+- Use sound science;
+- Restore resources impacted by the Deepwater Horizon oil spill;
+- Create a network of public and private conservation lands;
+- Restore wetland and aquatic ecosystems;
+- Conserve prairies and forests;
+- Protect and restore coastal strand, barrier island and estuarine island habitats;
+- Conserve working lands; and
+- Manage lands and waters for sustainable populations of fish and wildlife.
 
-## Focal Areas
+## Focal areas
 
 The 16 high-priority focal areas are: Laguna Madre and Rio Grande River Valley; Coastal Bend; Austin’s Woods and Prairies; Chenier Plain; Mississippi River Delta, Coastal Wetlands and Barrier Islands; Atchafalaya River Basin; Mississippi Alluvial Valley; Northern Gulf Coast; Panhandle Beaches; Panhandle Lands; Apalachicola River Watershed; Big Bend Watershed; Southwest Florida; Upper Mississippi River Watershed; Rainwater Basin; and Prairie Potholes.
 

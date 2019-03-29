@@ -25,7 +25,7 @@ In some cases where the costs of maintaining a dam outweigh its benefits, a deci
 
 The U.S. Fish and Wildlife Service is working with landowners and other partners to help remove (decommission) dams, large and small, to reconnect wildlife passages and restore habitat. Decommissioning provides an opportunity to restore a river’s health and return it to its natural, free-flowing state.
 
-## Other Resources
+## Other resources
 
 - [Dam Removal Fact Sheet](/pdf/fact-sheet/dam-removal.pdf)
 - [Georgia's Stream Crossing Handbook](/pdf/georgia-stream-crossing-handbook.pdf)

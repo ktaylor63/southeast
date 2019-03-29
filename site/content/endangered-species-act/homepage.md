@@ -1,5 +1,5 @@
 ---
-title: 'Conserving Endangered Species in the Southeast'
+title: 'Conserving endangered species in the Southeast'
 url: /endangered-species-act
 nav: 'Endangered Species Act'
 weight: 1
@@ -24,7 +24,7 @@ All species of plants and animals, except pest insects, are eligible for listing
 
 {{< youtube id="Y6wJpGO8j4Q" title="Learn the basics of the Endangered Species Act" >}}
 
-## Endangered vs. Threatened
+## Endangered vs. threatened
 
 “Endangered” means a species is in danger of extinction throughout all or a significant portion of its range.
 
@@ -34,13 +34,13 @@ The goal of the Service is to take plants and animals off the endangered and thr
 
 {{< figure class="photo-center" src="/images/pages/louisiana-black-bear-and-cubs-in-tree.jpg" alt="A female black bear and her cubs in a tree." caption="Louisiana black bears in a tree. Photo by Clint Turnage, USDA." >}}
 
-## Who We Work With to Conserve Species
+## Who we work with to conserve species
 
-### Private Landowners
+### Private landowners
 
 Nearly 80% of the land in the southeastern United States is privately owned. We recognize that private citizens, businesses and other organizations have always played a tremendous role in the conservation of southeastern plants, fish and animals.
 
-### State Wildlife Agencies
+### State wildlife agencies
 
 Section 6 of the ESA, also known as **Cooperation with States**, recognizes the key role that states play in conserving native wildlife and plants. The Section 6 program provides funding to states and territories for species and habitat conservation actions on non-federal lands. Through **cooperative agreements** states can receive funding from the Service for a variety of conservation actions that contribute toward listed species recovery.
 
@@ -51,7 +51,7 @@ Section 6 of the ESA, also known as **Cooperation with States**, recognizes the 
 
 [Learn more about State partnerships.](https://www.fws.gov/endangered/grants/)
 
-### Non-Profit and Non-Governmental Organizations
+### Non-profit and non-governmental organizations
 
 The Service partners with many non-profit and non-governmental organizations to conserve species across the globe. Typically the Service will enter into a memorandum of understanding (MOU) with a partner organization outlining shared interest and the expectations for each organization. For example, the Service entered into a [MOU with Bat Conservation International](https://www.fws.gov/endangered/what-we-do/bci-memo.html) to conserve Federally listed or proposed for listing as endangered or threatened species. The two organizations will:
 
@@ -59,17 +59,17 @@ The Service partners with many non-profit and non-governmental organizations to 
 
 [Explore non-profile and NGO partnerships](https://www.fws.gov/endangered/what-we-do/ngo-programs.html).
 
-### Other Federal Agencies
+### Other federal agencies
 
 Section 7 of the ESA calls upon the entire U.S. federal government to participate in the conservation of species listed as threatened and endangered. Federal agencies working together, reduce costs to taxpayers and increase overall positive impacts for wildlife and habitats.
 
 Federal agencies consult with the Service to make sure the projects they carry out do not jeopardize the continued existence of protected species. Agencies can make modifications to the way they carry out business in order to support the conservation of threatened and endangered species.
 
-## Guidance on Determining Need for Incidental Take Permit under ESA Section 10(a)(1)(B)
+## Guidance on determining need for incidental take permit under ESA Section 10(a)(1)(B)
 
 Are you unsure whether you need an incidental take permit? Download the [questionnaire](/pdf/guidelines/questionnaire-for-potential-applicants-under-section-10.pdf) or [decision tree](/pdf/guidelines/section-10-trigger-graphic.pdf) to learn more.
 
-## 40 Years at the Forefront of Wildlife Conservation
+## 40 years at the forefront of wildlife conservation
 
 {{< youtube id="DojGPBV4U0w" title="Celebrating 40 years of the Endangered Species Act" >}}
 

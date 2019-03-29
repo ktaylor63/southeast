@@ -12,7 +12,7 @@ hero:
     position: top
 tags:
     - Arkansas
-updated: 'December 14th, 2017'
+updated: 'March 25th, 2019'
 ---
 
 ## The Natural State
@@ -23,11 +23,8 @@ Fortunately, a patchwork quilt of bottomland hardwood forests are forever protec
 
 Locations throughout the state are crucial for ducks and other migrating waterfowl seeking food and rest. In fact, the most important location in the world for wintering mallard ducks is Arkansas’ Cache River National Wildlife Refuge. Recognized as a Wetland of International Importance, the 67,000-plus-acre refuge plays a vital role in supporting healthy waterfowl, wading and shorebird populations. The refuge also provides recreational opportunities including fishing, boating, hiking trails, wildlife observation decks and seasonal hunts.
 
-{{< scroller-list tag="Arkansas" number="10" section="news" >}}
+{{< content-scroller tag="Arkansas" heading="Related content" >}}
 
-{{< scroller-list tag="Arkansas" number="10" section="articles" >}}
+## Map of offices
 
-{{< scroller-list tag="Arkansas" number="10" section="wildlife" >}}
-
-## Map of Offices
 <iframe src="https://usfws.github.io/southeast-mega-map/?state=Alabama" class="state-map" title="List of offices in the Southeast Region of the U.S. Fish and Wildlife Service"></iframe>

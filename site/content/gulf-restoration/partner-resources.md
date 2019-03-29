@@ -27,9 +27,9 @@ Below are several restoration strategies proposed by governmental and nongovernm
 - [Public Review Draft of the Comprehensive Plan Update: Restoring the Gulf Coast’s Ecosystem and Economy](https://restorethegulf.gov/sites/default/files/CO-PL_20160822_COMP_PLAN_UPDATE_DRAFT_English.pdf) (2016: PDF 34 pages, 5.4Mb)
 - [Initial Comprehensive Plan: Restoring the Gulf Coast’s  Ecosystem & Economy](https://www.restorethegulf.gov/sites/default/files/Initial%20Comprehensive%20Plan%20Aug%202013.pdf) (2013, PDF 32 pages, 8.5 MB)
 
-## Deepwater Horizon Natural Resource Damage Assessment Trustee Council
+## *Deepwater Horizon* Natural Resource Damage Assessment Trustee Council
 
-- [Deepwater Horizon Oil Spill Final Programmatic Damage Assessment and Restoration Plan and Programmatic Environmental Impact Statement](http://www.gulfspillrestoration.noaa.gov/restoration-planning/gulf-plan) (2016, Final PDARP/PEIS)
+- [*Deepwater Horizon* Oil Spill Final Programmatic Damage Assessment and Restoration Plan and Programmatic Environmental Impact Statement](http://www.gulfspillrestoration.noaa.gov/restoration-planning/gulf-plan) (2016, Final PDARP/PEIS)
 
 ## Gulf of Mexico Alliance
 

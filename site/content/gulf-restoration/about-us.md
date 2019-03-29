@@ -19,7 +19,7 @@ updated: 'April 21st, 2017'
 
 The Service is uniquely positioned to be a strong partner in the restoration of the Gulf of Mexico and its watershed. Our mission &mdash; to conserve, protect and enhance fish, wildlife, plants and their habitats for the continuing benefit of the American people &mdash; compels us to address the Gulf’s many challenges. We are also obligated to do so as the steward of America’s National Wildlife Refuges; as the lead federal agency for the protection of migratory birds and anadromous fish (i.e. fish that divide their lives between freshwater and the ocean); as the co-lead for the recovery of federally threatened and endangered species, including marine mammals; and as a member of the larger environmental protection community responsible for responding to oil spills and hazardous substance releases.
 
-## Gulf Restoration Funds
+## Gulf restoration funds
 
 For decades, countless stressors have been altering and degrading the Gulf ecosystem. The environmental situation became exponentially worse when the *Deepwater Horizon* mobile drilling unit exploded on April 20, 2010, discharging millions of gallons of oil into the Gulf over 87 days. The settlements and penalties resulting from the *Deepwater Horizon* oil spill are bringing an unprecedented level of funding &mdash; more than $20 billion &mdash; to a large-scale, effort to restore Gulf regions that will last more than two decades. This work will be one of the most complex and comprehensive conservation efforts ever undertaken, requiring coordination among the five Gulf states, multiple federal agencies, and hundreds of local governments, non-governmental organizations and citizens.
 

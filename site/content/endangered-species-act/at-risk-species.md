@@ -1,5 +1,5 @@
 ---
-title: 'At-Risk Species Conservation'
+title: 'At-risk species conservation'
 description: 'The Endangered Species Act provides a variety of ways for the U.S. Fish and Wildlife Service and our partners to conserve and recover species while reducing regulatory burden.'
 nav: 'At-Risk Species'
 weight: 6
@@ -16,7 +16,7 @@ hero:
     link: 'https://flic.kr/p/eLEEwc'
     alt: 'A brownish-yellow salamander sanding on a mossy rock with large round eyes.'
     caption: 'The Pigeon Mountain salamander is no longer at-risk of needing federal protection. Photo by John P. Clare, CC BY-NC-ND 2.0.'
-updated: 'December 18th, 2018'
+updated: 'March 25th, 2019'
 ---
 
 **Update:** [Download the Draft Programmatic Candidate Conservation Agreement with Assurances for Louisiana pinesnake in Louisiana](/pdf/agreement/candidate-conservation-agreement-with-assurances/draft-programmatic-ccaa-for-louisiana-pinesnake-in-louisiana.pdf).
@@ -27,17 +27,17 @@ However, providing a plant or animal this level of protection is America’s las
 
 A plant or animal is considered **“at-risk”** when:
 
- - It is proposed for listing as threatened or endangered under the Endangered Species Act,
- - It is a candidate species for listing, or
- - It has been petitioned by a third party for listing.
+- It is proposed for listing as threatened or endangered under the Endangered Species Act,
+- It is a candidate species for listing, or
+- It has been petitioned by a third party for listing.
 
 Learn more about the [Southeast Region's at-risk species strategy](/pdf/fact-sheet/at-risk-species-overview.pdf).
 
 {{< figure class="photo-center" src="/images/pages/baby-gopher-tortoise.jpg" alt="A small beige turtle with dark brown spots on it's shell standing on sandy sparsly vegetated ground." caption="A baby gopher tortoise. Photo by Randy Browning, USFWS." link="https://flic.kr/p/a5Hrx2" >}}
 
-{{< scroller-list tag="At-Risk Species" section="articles" >}}
+{{< content-scroller tag="At-Risk Species" heading="Related content" >}}
 
-## Online Tool for Tracking At-Risk Species
+## Online tool for tracking at-risk species
 
 We have developed a free, online tool, the [At-Risk Species Finder](/finder), that allows anyone to discover essential information about a species’ status and the lead U.S. Fish and Wildlife Service office for that species.
 
@@ -45,18 +45,18 @@ When determining whether or not a species requires the protection of the Act, we
 
 Using the Finder, you can search species by:
 
- - Common and scientific name
- - State range
- - Taxon
- - Lead USFWS office or region
- - Current status
- - And more.
+- Common and scientific name
+- State range
+- Taxon
+- Lead USFWS office or region
+- Current status
+- And more.
 
 [Access the At-Risk Species Finder](/finder).
 
 {{< figure class="photo-center" src="/images/pages/laginappe-crayfish.jpg" alt="A small, lobster-shaped crayfish with white belly and brownish red back and pincers in a sandy aquarium." caption="The lagniappe crayfish was petitioned and therefore at-risk until biologists determined it does not require protection. Photo by Chris Lukhaup, courtesy of the U.S. Forest Service." link="https://flic.kr/p/nAwV9K" >}}
 
-## Work With Us
+## Work with us
 
 Whether you’re a landowner, state wildlife agency, private corporation, university or average American citizen, there are [numerous opportunities](/endangered-species-act/voluntary-conservation-tools) to undertake voluntary actions to conserve species at-risk.
 

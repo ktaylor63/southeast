@@ -1,20 +1,20 @@
 ---
-title: "Gulf Restoration"
-nav: "Gulf Home"
+title: 'Gulf Restoration'
+nav: 'Gulf Home'
 weight: 1
 tags:
-  - Gulf
+    - Gulf
 url: /gulf-restoration
 hero:
-  name: alligator-st-marks.jpg
-  alt: "An alligator on a vegetated water bank."
-  caption: "Alligator sunning at St. Marks National Wildlife Refuge.  Photo by Steve Hillebrand."
-  link: "https://flic.kr/p/7Zmwbs"
-  position: "left center"
-updated: "October 5th, 2018"
+    name: alligator-st-marks.jpg
+    alt: 'An alligator on a vegetated water bank.'
+    caption: 'Alligator sunning at St. Marks National Wildlife Refuge.  Photo by Steve Hillebrand.'
+    link: 'https://flic.kr/p/7Zmwbs'
+    position: 'left center'
+updated: 'March 25th, 2019'
 ---
 
-## Restoring the Gulf of Mexico and its Wild Inhabitants
+## Restoring the Gulf of Mexico and its wild inhabitants
 
 The Gulf of Mexico is critically important to the health and vitality of our nation's natural and economic resources. Over the last century, however, the Gulf's environment has deteriorated significantly due to factors such as:
 
@@ -31,15 +31,14 @@ As a result, native fish and wildlife populations and their habitats are in decl
 Restoring this vital area will ensure America continues to thrive well into and beyond the 21st century.
 
 {{< reading-room-scroller-list keyword="Gulf Restoration" >}}
-{{< scroller-list tag="Gulf" section="news" >}}
-{{< scroller-list tag="Gulf" section="articles" >}}
-{{< scroller-list tag="Gulf" section="infographic" >}}
+
+{{< content-scroller tag="Gulf" heading="Related content" >}}
 
 Download the [Efforts of the U.S. Department of Interior and partners in gulf restoration after the _Deepwater Horizon_ oil spill in Mississippi](/pdf/report/mississippi-doi-gulf-restoration.pdf).
 
 Learn more about what's happening in your state: [Alabama](/alabama), [Florida](/florida), [Georgia](/georgia), [Louisiana](/louisiana), [Mississippi](/mississippi), [Texas](/tags/texas).
 
-## The Gulf of Mexico: Fast Facts
+## The Gulf of Mexico: fast facts
 
 [Detailed factsheets about Gulf restoration can be found here.](/reading-room?q=Gulf+Restoration)
 
@@ -55,7 +54,3 @@ Learn more about what's happening in your state: [Alabama](/alabama), [Florida](
 ## Video from the Gulf
 
 If a picture is worth a thousand words, then a video is worth a thousand pictures. Take a look at [these videos](/gulf-restoration/the-journey-to-restore-the-gulf-of-mexico) highlighting our efforts to restore the priceless Gulf of Mexico. We hope you enjoy them and invite you to join us on our journey to restore the Gulf of Mexico.
-
-<!-- {{< data-gallery data="teasers" filter="Gulf" >}} -->
-
-{{< scroller-list tag="Gulf" section="wildlife" >}}
