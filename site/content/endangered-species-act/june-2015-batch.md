@@ -53,10 +53,10 @@ Known occurrences: North Carolina
 
 The Center claims that the salamander warrants listing due to:
 
-  - Habitat destruction due to clear-cutting
-  - Overutilization for commercial purposes
-  - Inadequacy of existing regulatory mechanisms
-  - Natural or man-made factors including random events, human impacts, environmental factors, loss of genetic variability, inbreeding depression
+- Habitat destruction due to clear-cutting
+- Overutilization for commercial purposes
+- Inadequacy of existing regulatory mechanisms
+- Natural or man-made factors including random events, human impacts, environmental factors, loss of genetic variability, inbreeding depression
 
 Based on our review of the petition and sources cited in the petition, the Fish and Wildlife Service finds that the petition does not provide substantial scientific or commercial information indicating that the petitioned action, to list the species, may be warranted.
 
@@ -70,11 +70,11 @@ Known occurrences: Arkansas
 
 The Center claims that the salamander warrants listing due to:
 
-  - Habitat loss/destruction/modification from timber management, forestry activities, and mining
-  - Scientific over-collection
-  - Disease (chigger infestation of the nasal cavities)
-  - Inadequacy of existing regulatory mechanisms
-  - Natural or man-made factors including climate change
+- Habitat loss/destruction/modification from timber management, forestry activities, and mining
+- Scientific over-collection
+- Disease (chigger infestation of the nasal cavities)
+- Inadequacy of existing regulatory mechanisms
+- Natural or man-made factors including climate change
 
 Based on our review of the petition and sources cited in the petition, the Fish and Wildlife Service finds that the petition does not provide substantial scientific or commercial information indicating that the petitioned action, to list the species, may be warranted.
 
@@ -88,10 +88,10 @@ Known occurrences: Georgia
 
 The Center claims that the salamander warrants listing due to:
 
-  - Threats of habitat loss/destruction/modification from timber harvest
-  - Over-collection of the salamander by amateur and professional herpetologists
-  - Protection by the State of Georgia does not protect its habitat
-  - Small and isolated populations that may be affected by natural and man-made factors including random events, gene flow, loss of genetic variation, and disturbance from recreational spelunkers
+- Threats of habitat loss/destruction/modification from timber harvest
+- Over-collection of the salamander by amateur and professional herpetologists
+- Protection by the State of Georgia does not protect its habitat
+- Small and isolated populations that may be affected by natural and man-made factors including random events, gene flow, loss of genetic variation, and disturbance from recreational spelunkers
 
 Based on our review of the petition and sources cited in the petition, the Fish and Wildlife Service finds that the petition does not provide substantial scientific or commercial information indicating that the petitioned action, to list the species, may be warranted.
 
@@ -107,9 +107,9 @@ Known occurrences: North Carolina, Tennessee, Virginia
 
 The Center claims that the salamander warrants listing due to:
 
-    - Loss of habitat due to development and logging
-    - Inadequacy of existing regulatory mechanisms
-    - Natural or man-made factors including climate change and small, isolated populations vulnerable to random events, gene flow and loss of genetic variation
+- Loss of habitat due to development and logging
+- Inadequacy of existing regulatory mechanisms
+- Natural or man-made factors including climate change and small, isolated populations vulnerable to random events, gene flow and loss of genetic variation
 
 Based on our review of the petition and sources cited in the petition, the Fish and Wildlife Service finds that the petition does not provide substantial scientific or commercial information indicating that the petitioned action, to list the species, may be warranted.
 
@@ -125,11 +125,11 @@ Known occurrences: Gulf County, Florida
 
 The Center claims that the crayfish warrants listing due to:
 
-  - Threats of habitat loss/destruction/modification from development, altered hydropatterns, roadside ditch maintenance, construction and improvement of roads, human population growth, groundwater decline, water pollution and forestry
-  - Disease
-  - Predation
-  - Inadequacy of existing regulatory mechanisms
-  - Natural or man-made factors including vulnerability to extinction due to a narrow geographic range, drought, flooding, climate change and sea level rise, off-road vehicles, misidentification
+- Threats of habitat loss/destruction/modification from development, altered hydropatterns, roadside ditch maintenance, construction and improvement of roads, human population growth, groundwater decline, water pollution and forestry
+- Disease
+- Predation
+- Inadequacy of existing regulatory mechanisms
+- Natural or man-made factors including vulnerability to extinction due to a narrow geographic range, drought, flooding, climate change and sea level rise, off-road vehicles, misidentification
 
 Based on our review of the petition and sources cited in the petition, the Fish and Wildlife Service finds that the petition does not provide substantial scientific or commercial information indicating that the petitioned action, to list the species, may be warranted.
 
@@ -149,10 +149,10 @@ Known occurrences: Alabama, Arkansas, Florida, Georgia, Iowa, Illinois, Kentucky
 
 The Fish and Wildlife Service finds that the petition presents substantial scientific or commercial information indicating the petitioned action may be warranted.  The petitioner presented substantial information on the following factors:
 
-  - Present or threatened destruction, modification or curtailment of its habitat or range
-  - Overutilization for commercial and recreational purposes
-  - Predation
-  - Inadequacy of existing regulatory mechanisms
+- Present or threatened destruction, modification or curtailment of its habitat or range
+- Overutilization for commercial and recreational purposes
+- Predation
+- Inadequacy of existing regulatory mechanisms
 
 However, during our status review we will thoroughly evaluate all potential threats to the species.
 
@@ -164,7 +164,7 @@ Known occurrences: Florida
 
 The Fish and Wildlife Service finds that the petition presents substantial scientific or commercial information indicating the petitioned action may be warranted.  The petitioner presented substantial information on the following factors:
 
-  - Present or threatened destruction, modification or curtailment of its habitat or range
+- Present or threatened destruction, modification or curtailment of its habitat or range
 
 However, during our status review we will thoroughly evaluate all potential threats to the species.
 
@@ -176,9 +176,9 @@ Known occurrences: Florida
 
 The Fish and Wildlife Service finds that the petition presents substantial scientific or commercial information indicating the petitioned action may be warranted.  The petitioner presented substantial information on the following factors:
 
-  - Present or threatened destruction, modification or curtailment of its habitat or range
-  - Overutilization for commercial purposes
-  - Other natural or man-made factors affecting its continued existence
+- Present or threatened destruction, modification or curtailment of its habitat or range
+- Overutilization for commercial purposes
+- Other natural or man-made factors affecting its continued existence
 
 However, during our status review we will thoroughly evaluate all potential threats to the species.
 
@@ -192,10 +192,10 @@ Known occurrences: Alabama, Florida, Georgia, North Carolina, South Carolina, Te
 
 The Fish and Wildlife Service finds that the petition presents substantial scientific or commercial information indicating the petitioned action may be warranted.  The petitioner presented substantial information on the following factors:
 
-  - Present or threatened destruction, modification or curtailment of its habitat or range
-  - Predation
-  - Inadequacy of existing regulatory mechanisms
-  - Other natural or manmade factors affecting its continued existence
+- Present or threatened destruction, modification or curtailment of its habitat or range
+- Predation
+- Inadequacy of existing regulatory mechanisms
+- Other natural or manmade factors affecting its continued existence
 
 However, during our status review we will thoroughly evaluate all potential threats to the species.
 
@@ -209,11 +209,10 @@ Known occurrences: Alabama, Georgia, Indiana, Kentucky, Maryland, Mississippi, N
 
 The Fish and Wildlife Service finds that the petition presents substantial scientific or commercial information indicating the petitioned action may be warranted. The petitioner presented substantial information on the following factors:
 
-  - Present or threatened destruction, modification or curtailment of its habitat or range
-  - Private collections
-  - Disease
-  - Inadequacy of existing regulatory mechanisms
-
+- Present or threatened destruction, modification or curtailment of its habitat or range
+- Private collections
+- Disease
+- Inadequacy of existing regulatory mechanisms
 
 Additional information on this species is available in this [fact sheet](http://www.ncwildlife.org/Portals/0/Conserving/documents/FactSheets/nongame_greensalamander_lores.pdf) by our state partners, North Carolina Wildlife Resources Commission.
 
@@ -227,8 +226,8 @@ Known occurrences: Arkansas, Illinois, Missouri
 
 The Fish and Wildlife Service finds that the petition presents substantial scientific or commercial information indicating the petitioned action may be warranted. The petitioner presented substantial information on the following factors:
 
-  - Present or threatened destruction, modification or curtailment of its habitat or range 
-  - Other natural man-made factors affecting its continued existence
+- Present or threatened destruction, modification or curtailment of its habitat or range 
+- Other natural man-made factors affecting its continued existence
 
 However, during our status review we will thoroughly evaluate all potential threats to the species.
 
@@ -242,8 +241,8 @@ Known occurrences: Florida
 
 The Fish and Wildlife Service finds that the petition presents substantial scientific or commercial information indicating the petitioned action may be warranted.  The petitioner presented substantial information on the following factors:
 
-  - Present or threatened destruction, modification or curtailment of its habitat or range 
-  - Other natural or man-made factors affecting its continued existence
+- Present or threatened destruction, modification or curtailment of its habitat or range 
+- Other natural or man-made factors affecting its continued existence
 
 However, during our status review we will thoroughly evaluate all potential threats to the species.
 
@@ -257,8 +256,8 @@ Known occurrences: Florida
 
 The Fish and Wildlife Service finds that the petition presents substantial scientific or commercial information indicating the petitioned action may be warranted.  The petitioner presented substantial information on the following factors:
 
-  - Present or threatened destruction, modification or curtailment of its habitat or range 
-  - Other natural or man-made factors affecting its continued existence
+- Present or threatened destruction, modification or curtailment of its habitat or range 
+- Other natural or man-made factors affecting its continued existence
 
 However, during our status review we will thoroughly evaluate all potential threats to the species.
 
@@ -272,8 +271,8 @@ Known occurrences: Alabama, Florida, Georgia, Mississippi, North Carolina, and S
 
 The Fish and Wildlife Service finds that the petition presents substantial scientific or commercial information indicating the petitioned action may be warranted.  The petitioner presented substantial information on the following factors:
 
-  - Present or threatened destruction, modification or curtailment of its habitat or range
-  - Other natural or man-made factors affecting its continued existence
+- Present or threatened destruction, modification or curtailment of its habitat or range
+- Other natural or man-made factors affecting its continued existence
 
 However, during our status review we will thoroughly evaluate all potential threats to the species.
 
@@ -287,9 +286,9 @@ Known occurrences: Connecticut, Delaware, Florida, Georgia, Illinois, Indiana, M
 
 The Fish and Wildlife Service finds that the petition presents substantial scientific or commercial information indicating the petitioned action may be warranted.  The petitioner presented substantial information on the following factors:
 
-  - Present or threatened destruction, modification or curtailment of its habitat or range 
-  - Overutilization for commercial purposes
-  - Inadequacy of existing regulatory mechanisms
-  - Other natural or man-made factors affecting its continued existence
+- Present or threatened destruction, modification or curtailment of its habitat or range 
+- Overutilization for commercial purposes
+- Inadequacy of existing regulatory mechanisms
+- Other natural or man-made factors affecting its continued existence
 
 However, during our status review we will thoroughly evaluate all potential threats to the species.

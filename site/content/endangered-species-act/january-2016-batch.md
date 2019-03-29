@@ -45,8 +45,8 @@ Known occurrences: Puerto Rico
 
 The Fish and Wildlife Service finds that the petition presents substantial scientific or commercial information indicating the petitioned action may be warranted. The petition presented substantial information on the following factors:
 
-  - Predation
-  - Inadequacy of existing regulatory mechanisms
+- Predation
+- Inadequacy of existing regulatory mechanisms
 
 However, during our status review we will thoroughly evaluate all potential threats to the species.
 
@@ -60,8 +60,8 @@ Known occurrences: U.S. Virgin Islands
 
 The Fish and Wildlife Service finds that the petition presents substantial scientific or commercial information indicating the petitioned action may be warranted. The petition presented substantial information on the following factors:
 
-  - Predation
-  - Inadequacy of existing regulatory mechanisms
+- Predation
+- Inadequacy of existing regulatory mechanisms
 
 However, during our status review we will thoroughly evaluate all potential threats to the species.
 
@@ -73,10 +73,9 @@ Known occurrences: Puerto Rico
 
 The Fish and Wildlife Service finds that the petition presents substantial scientific or commercial information indicating the petitioned action may be warranted. The petition presented substantial information on the following factors:
 
-  - Present or threatened destruction, modification or curtailment of its habitat or range
-  - Predation
-  - Inadequacy of existing regulatory mechanisms
-
+- Present or threatened destruction, modification or curtailment of its habitat or range
+- Predation
+- Inadequacy of existing regulatory mechanisms
 
 However, during our status review we will thoroughly evaluate all potential threats to the species.
 
@@ -88,9 +87,9 @@ Known occurrences: Puerto Rico
 
 The Fish and Wildlife Service finds that the petition presents substantial scientific or commercial information indicating the petitioned action may be warranted. The petition presented substantial information on the following factors:
 
-  - Present or threatened destruction, modification or curtailment of its habitat or range
-  - Predation
-  - Inadequacy of existing regulatory mechanisms
+- Present or threatened destruction, modification or curtailment of its habitat or range
+- Predation
+- Inadequacy of existing regulatory mechanisms
 
 However, during our status review we will thoroughly evaluate all potential threats to the species.
 
@@ -102,9 +101,8 @@ Known occurrences: U.S. Virgin Islands
 
 The Fish and Wildlife Service finds that the petition presents substantial scientific or commercial information indicating the petitioned action may be warranted. The petition presented substantial information on the following factors:
 
-
-  - Predation
-  - Inadequacy of existing regulatory mechanisms
+- Predation
+- Inadequacy of existing regulatory mechanisms
 
 However, during our status review we will thoroughly evaluate all potential threats to the species.
 
@@ -116,8 +114,8 @@ Known occurrences: U.S. Virgin Islands
 
 The Fish and Wildlife Service finds that the petition presents substantial scientific or commercial information indicating the petitioned action may be warranted.  The petitioner presented substantial information on the following factors:
 
-  - Predation
-  - Inadequacy of existing regulatory mechanisms
+- Predation
+- Inadequacy of existing regulatory mechanisms
 
 However, during our status review we will thoroughly evaluate all potential threats to the species.
 
@@ -129,7 +127,7 @@ Known occurrences: U.S. Virgin Islands
 
 The Fish and Wildlife Service finds that the petition presents substantial scientific or commercial information indicating the petitioned action may be warranted.  The petitioner presented substantial information on the following factors:
 
-  - Predation
-  - Inadequacy of existing regulatory mechanisms
+- Predation
+- Inadequacy of existing regulatory mechanisms
 
 However, during our status review we will thoroughly evaluate all potential threats to the species.

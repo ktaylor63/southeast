@@ -27,12 +27,11 @@ When we are petitioned to provide federal protection to a species, our biologist
 
 The six species included in these findings came from the following petitions to list them under the Endangered Species Act:
 
-
-  - [2015 petition to list the blue calamintha bee](/pdf/petition/blue-calamintha-bee.pdf) from Defenders of Wildlife
-  - [2014 status review of the Cahaba pebblesnail](https://ecos.fws.gov/docs/petitions/92000/528.pdf) from the Institute of Wildlife Protection
-  - [2013 petition to list the rusty patched bumble bee](https://ecos.fws.gov/docs/petitions/92000/458.pdf) from the Xerces Society for Invertebrate Conservation
-  - [2013 petition to list the regal fritillary](https://ecos.fws.gov/docs/petitions/92000/462.pdf) from WildEarth Guardians, and
-  - [2012 petition to list 53 reptiles and amphibians](https://ecos.fws.gov/docs/petitions/92210/662.pdf) from the Center for Biological Diversity, which includes the short-tailed snake and Florida pine snake.
+- [2015 petition to list the blue calamintha bee](/pdf/petition/blue-calamintha-bee.pdf) from Defenders of Wildlife
+- [2014 status review of the Cahaba pebblesnail](https://ecos.fws.gov/docs/petitions/92000/528.pdf) from the Institute of Wildlife Protection
+- [2013 petition to list the rusty patched bumble bee](https://ecos.fws.gov/docs/petitions/92000/458.pdf) from the Xerces Society for Invertebrate Conservation
+- [2013 petition to list the regal fritillary](https://ecos.fws.gov/docs/petitions/92000/462.pdf) from WildEarth Guardians, and
+- [2012 petition to list 53 reptiles and amphibians](https://ecos.fws.gov/docs/petitions/92210/662.pdf) from the Center for Biological Diversity, which includes the short-tailed snake and Florida pine snake.
 
 We have summarized the petitioner’s claims as well as our findings below. More detail is available by clicking the link to the Federal Register docket number for each species.
 
@@ -50,11 +49,11 @@ Known occurrences: Alabama
 
 The Institute for Wildlife Protection claims that the Cahaba pebblesnail warrants listing due to:
 
-  - Habitat destruction due to water pollution, livestock grazing, conversion of habitat, roads, off-road vehicles, military operations, oil and gas operations, mining, and prospecting, utility corridors and powerlines, air pollution, acid precipitation, and fragmentation
-  - Disease
-  - Predation
-  - Inadequacy of existing regulatory mechanisms
-  - Natural or manmade factors including invasive species, noise, acoustic interference and disturbance, weather effects, climate change and global warming, ozone layer depletion, chemical and radiological agents, habitat recovery time, and effects of small population size
+- Habitat destruction due to water pollution, livestock grazing, conversion of habitat, roads, off-road vehicles, military operations, oil and gas operations, mining, and prospecting, utility corridors and powerlines, air pollution, acid precipitation, and fragmentation
+- Disease
+- Predation
+- Inadequacy of existing regulatory mechanisms
+- Natural or manmade factors including invasive species, noise, acoustic interference and disturbance, weather effects, climate change and global warming, ozone layer depletion, chemical and radiological agents, habitat recovery time, and effects of small population size
 
 Based on our review of the petition, sources cited in the petition, and information available in our files at the time the petition was received, the Fish and Wildlife Service finds that the petition does not provide substantial scientific or commercial information indicating that the petitioned action, to list the species, may be warranted.
 
@@ -74,9 +73,9 @@ Known occurrences: Florida
 
 The Fish and Wildlife Service finds that the petition presents substantial scientific or commercial information indicating the petitioned action may be warranted. The petition presented substantial information on the following factors:
   
-  - Present or threatened destruction, modification or curtailment of its habitat or range
-  - Disease
-  - Other natural or manmade factors affecting its continued existence
+- Present or threatened destruction, modification or curtailment of its habitat or range
+- Disease
+- Other natural or manmade factors affecting its continued existence
 
 However, during our status review we will thoroughly evaluate all potential threats to the species.
 
@@ -90,9 +89,9 @@ Known occurrences: Alabama, Florida, Georgia, and South Carolina
 
 The Fish and Wildlife Service finds that the petition presents substantial scientific or commercial information indicating the petitioned action may be warranted. The petition presented substantial information on the following factors:
 
-  - Present or threatened destruction, modification or curtailment of its habitat or range
-  - Predation
-  - Other natural or manmade factors affecting its continued existence
+- Present or threatened destruction, modification or curtailment of its habitat or range
+- Predation
+- Other natural or manmade factors affecting its continued existence
 
 However, during our status review we will thoroughly evaluate all potential threats to the species.
 
@@ -106,8 +105,8 @@ Known occurrences: Arkansas, Colorado, Connecticut, Delaware, Illinois, Indiana,
 
 The Fish and Wildlife Service finds that the petition presents substantial scientific or commercial information indicating the petitioned action may be warranted. The petition presented substantial information on the following factors:
 
-  - Present or threatened destruction, modification or curtailment of its habitat or range
-  - Other natural or manmade factors affecting its continued existence
+- Present or threatened destruction, modification or curtailment of its habitat or range
+- Other natural or manmade factors affecting its continued existence
 
 However, during our status review we will thoroughly evaluate all potential threats to the species.
 
@@ -121,9 +120,9 @@ Known occurrences: Alabama, Connecticut, Delaware, Georgia, Illinois, Indiana, I
 
 The Fish and Wildlife Service finds that the petition presents substantial scientific or commercial information indicating the petitioned action may be warranted. The petition presented substantial information on the following factors:
 
-  - Present or threatened destruction, modification or curtailment of its habitat or range
-  - Disease
-  - Other natural or manmade factors affecting its continued existence
+- Present or threatened destruction, modification or curtailment of its habitat or range
+- Disease
+- Other natural or manmade factors affecting its continued existence
 
 However, during our status review we will thoroughly evaluate all potential threats to the species.
 
@@ -133,14 +132,13 @@ Federal Register docket: [FWS-R4-ES-2015-0116](https://www.regulations.gov/#!doc
 
 {{< figure class="photo-center" src="/images/pages/short-tailed-snake.jpg" alt="A coiled snake with a white, black and orange splotches." caption="Short-tailed snake by FWC." link="https://flic.kr/p/fr9VfS" >}}
 
-
 Known occurrences: Florida
 
 The Fish and Wildlife Service finds that the petition presents substantial scientific or commercial information indicating the petitioned action may be warranted.  The petitioner presented substantial information on the following factors:
 
-  - Present or threatened destruction, modification or curtailment of its habitat or range
-  - Predation
-  - Other natural or manmade factors affecting its continued existence
+- Present or threatened destruction, modification or curtailment of its habitat or range
+- Predation
+- Other natural or manmade factors affecting its continued existence
 
 However, during our status review we will thoroughly evaluate all potential threats to the species.
 

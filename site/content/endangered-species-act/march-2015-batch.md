@@ -31,14 +31,14 @@ When we are petitioned to provide federal protection to a species, our biologist
 
 The six species included in these findings came from the following petitions to list them under the Endangered Species Act:
 
-  - [2015 petition to list the southern dusky salamander](https://ecos.fws.gov/docs/petitions/92000//568.docx) from the Coastal Plains Institute and Land Conservancy
-  - [2014 petition to list 9 Caribbean skinks](https://ecos.fws.gov/docs/petitions/92100/587.pdf) from the Center for Biological Diversity
-    - This batch contains a 90-day finding for the Monito skink
-    - Findings for 7 of the 9 skinks were published in the Federal Register as part of a 90-day finding batch on January 12, 2016
-    - There is one remaining skink from this petition, the Lesser Virgin Islands skink will be addressed in a separate evaluation
-  - [2012 petition to list 53 amphibians and reptiles](https://ecos.fws.gov/docs/petitions/92210/662.pdf) from the Center for Biological Diversity which includes the Cheoah bald salamander and South Mountain gray-cheeked salamander
-  - [2015 petition to list the yellow banded bumblebee](https://ecos.fws.gov/docs/petitions/92000/681.pdf) from the Defenders of Wildlife
-  - [2015 petition to delist the American burying beetle](https://ecos.fws.gov/docs/petitions/92220/677.pdf) from the American Stewards of Liberty, Independent Petroleum Association of America, Texas Public Policy Foundation, and  Dr. Steven W. Carothers
+- [2015 petition to list the southern dusky salamander](https://ecos.fws.gov/docs/petitions/92000//568.docx) from the Coastal Plains Institute and Land Conservancy
+- [2014 petition to list 9 Caribbean skinks](https://ecos.fws.gov/docs/petitions/92100/587.pdf) from the Center for Biological Diversity
+  - This batch contains a 90-day finding for the Monito skink
+  - Findings for 7 of the 9 skinks were published in the Federal Register as part of a 90-day finding batch on January 12, 2016
+  - There is one remaining skink from this petition, the Lesser Virgin Islands skink will be addressed in a separate evaluation
+- [2012 petition to list 53 amphibians and reptiles](https://ecos.fws.gov/docs/petitions/92210/662.pdf) from the Center for Biological Diversity which includes the Cheoah bald salamander and South Mountain gray-cheeked salamander
+- [2015 petition to list the yellow banded bumblebee](https://ecos.fws.gov/docs/petitions/92000/681.pdf) from the Defenders of Wildlife
+- [2015 petition to delist the American burying beetle](https://ecos.fws.gov/docs/petitions/92220/677.pdf) from the American Stewards of Liberty, Independent Petroleum Association of America, Texas Public Policy Foundation, and  Dr. Steven W. Carothers
 
 We have summarized our findings below. More detail is available by clicking the link to the Federal Register docket number for each species.
 
@@ -55,9 +55,9 @@ Federal Register docket: [FWS–R4–ES–2015-0081](https://www.regulations.gov
 Known occurrences: North Carolina
 The Center claims that the salamander warrants listing due to:
 
-  - Habitat destruction due to clearcutting
-  - Inadequacy of existing regulatory mechanisms
-  - Natural or manmade factors including small, isolated population dynamics
+- Habitat destruction due to clearcutting
+- Inadequacy of existing regulatory mechanisms
+- Natural or manmade factors including small, isolated population dynamics
 
 Based on our review of the petition and sources cited in the petition, the Fish and Wildlife Service finds that the petition does not provide substantial scientific or commercial information indicating that the petitioned action, to list the species, may be warranted.
 
@@ -71,9 +71,9 @@ Known occurrences: North Carolina
 
 The Center claims that the salamander warrants listing due to:
 
-  - Habitat destruction due to clearcutting and residential development
-  - Inadequacy of existing regulatory mechanisms
-  - Natural or manmade factors including small, isolated population dynamics
+- Habitat destruction due to clearcutting and residential development
+- Inadequacy of existing regulatory mechanisms
+- Natural or manmade factors including small, isolated population dynamics
 
 Based on our review of the petition and sources cited in the petition, the Fish and Wildlife Service finds that the petition does not provide substantial scientific or commercial information indicating that the petitioned action, to list the species, may be warranted.
 
@@ -87,8 +87,8 @@ Known occurrences: North Carolina, Georgia, Florida, Alabama, Mississippi, Louis
 
 The Center claims that the salamander warrants listing due to:
 
-  - Disease
-  - Inadequacy of existing regulatory mechanisms
+- Disease
+- Inadequacy of existing regulatory mechanisms
 
 Based on our review of the petition and sources cited in the petition, the Fish and Wildlife Service finds that the petition does not provide substantial scientific or commercial information indicating that the petitioned action, to list the species, may be warranted.
 
@@ -100,10 +100,10 @@ Known occurrences: Puerto Rico
 
 The Center claims that the salamander warrants listing due to:
 
-  - Habitat destruction from human disturbance
-  - Predation
-  - Inadequacy of existing regulatory mechanisms
-  - Natural and manmade factors including climate change, pollutants, and isolation and stochastic events
+- Habitat destruction from human disturbance
+- Predation
+- Inadequacy of existing regulatory mechanisms
+- Natural and manmade factors including climate change, pollutants, and isolation and stochastic events
 
 Based on our review of the petition and sources cited in the petition, the Fish and Wildlife Service finds that the petition does not provide substantial scientific or commercial information indicating that the petitioned action, to list the species, may be warranted.
 
@@ -121,10 +121,10 @@ Known occurrences: Connecticut, Kentucky, Illinois, Maine, Maryland, Massachuset
 
 The Fish and Wildlife Service finds that the petition presents substantial scientific or commercial information indicating the petitioned action, to list the species, may be warranted. The petition presented substantial information on the following factors:
 
-  - Present or threatened destruction, modification or curtailment of the species’ habitat or range
-  - Disease
-  - Inadequacy of existing regulatory mechanisms
-  - Natural or manmade factors
+- Present or threatened destruction, modification or curtailment of the species’ habitat or range
+- Disease
+- Inadequacy of existing regulatory mechanisms
+- Natural or manmade factors
 
 However, during our status review we will thoroughly evaluate all potential threats to the species.
 
@@ -140,7 +140,7 @@ Known occurrences: Arkansas, Kansas, Massachusetts, Missouri, Nebraska, Oklahoma
 
 The Fish and Wildlife Service finds that the petition presents substantial scientific or commercial information indicating the petitioned action, to delist the species, may be warranted. The petition presented substantial information on the following factors:
 
-  - Present or threatened destruction, modification or curtailment of the species’ habitat or range
+- Present or threatened destruction, modification or curtailment of the species’ habitat or range
 
 However, during our status review we will thoroughly evaluate all potential threats to the species
 
