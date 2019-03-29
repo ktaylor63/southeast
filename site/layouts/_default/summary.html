@@ -1,0 +1,24 @@
+<li class="card">
+  <div class="card-hero">
+    <a href="{{ .Permalink }}">
+      <img srcset="{{.Site.Params.base}}/images/hero/small/{{ .Params.hero.name }} 450w, {{.Site.Params.base}}/images/hero/medium/{{ .Params.hero.name }} 850w" src="{{.Site.Params.base}}/images/hero/small/{{ .Params.hero.name }}" alt="{{ .Params.hero.alt }}" sizes="100vw">
+    </a>
+
+    {{ if .Params.hero.caption }}
+    <div class="hero-caption {{ if .Params.hero.link }}active{{ end }}">
+      {{ if not .Params.hero.link }}<img class="info-icon" src="/images/svg/info.svg" alt="Information icon" />{{ end }}
+      <span class='caption-content'>{{ .Params.hero.caption | safeHTML }}</span>
+    </div>
+    {{ end }}
+  </div>
+  <div class="card-text">
+    <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+    <p>
+      {{ if not .Date.IsZero }}
+      <span class="card-text-date">{{ .Date.Format "January 2, 2006" }}{{ if gt .ReadingTime 0 }} | {{ .ReadingTime }} minute read{{ end }}</span>
+      {{ end }}
+    </p>
+    {{ if .Params.description }}{{ .Params.description }}{{ else }}{{ .Summary }}{{ end }}
+    <span> &nbsp;<a href="{{ .Permalink }}" aria-label="{{ .Title }}">{{ if eq .Section "news"}}Read the full story...{{ else if eq .Section "wildlife" }}Visit the species profile...{{ else if eq .Section "article" }}Read the full article...{{ else }}Learn more...{{ end }}</a></span>
+  </div>
+</li>
