@@ -18,7 +18,7 @@ updated: 'March 1st, 2019'
 
 Destruction, degradation, and fragmentation of habitat is the driving force behind today's decline in species and biodiversity. Impacts to habitat can be caused directly by such activities as the clearing of forests to grow crops or build homes, or indirectly, such as by the introduction of invasive species or increased pollution run-off from yards and fields.
 
-The Service has tools available to help partners with  conservation of listed, candidate, at at-risk species.  From best management practices to conservation banking, there are a variety of options to explore  to explore for enhancing fish, wildlife, plants, and their habitats.
+The Service has tools available to help partners with  conservation of listed, candidate, and at-risk species.  From best management practices to conservation banking, there are a variety of options to explore  to explore for enhancing fish, wildlife, plants, and their habitats.
 
 ## Voluntary conservation tools
 
@@ -30,7 +30,7 @@ Explore the suite of cutting-edge [conservation tools](/conservation-tools/) tha
 
 ## Benefits for species
 
-Fish, wildlife and their habitats should benefit in improved chances for their long-term survival. If the conservation measures prove effective, threats to the species should be reduced or eliminated. As a result, the species may not need the ultimate Federal protection, which is to be listed under the Endangered Species Act.
+Fish, wildlife, plants and their habitats should benefit in improved chances for their long-term survival. If the conservation measures prove effective, threats to the species should be reduced or eliminated. As a result, the species may not need the ultimate Federal protection, which is to be listed under the Endangered Species Act.
 
 ## Benefits for states
 
