@@ -29,7 +29,7 @@ type: 'Feature Story'
 updated: 'October 24th, 2017'
 ---
 
-The 11,000-acre, privately-owned Oakland Club, located in Berkeley County, South Carolina, is now a permanently protected site for several state species of concern and federally protected species.  These species include bobwhite quail, American chaffseed, Eastern diamondback rattlesnakes, red-cockaded woodpeckers, swallow-tailed kites, Swainson’s warblers, and Southern hognose snakes.
+The 11,000-acre, privately-owned Oakland Club, located in Berkeley County, South Carolina, is now a permanently protected site for several state species of concern and federally protected species.  These species include bobwhite quail, American chaffseed, eastern diamondback rattlesnakes, red-cockaded woodpeckers, swallow-tailed kites, Swainson’s warblers, and Southern hognose snakes.
 
 Once home to Revolutionary War hero General Francis Marion, the Oakland Club parallels the Santee River and lies between the Francis Marion National Forest and the Santee National Wildlife Refuge.  It also is near several state wildlife management areas and heritage preserves and numerous other private properties that have been permanently protected. Although there are large areas protected by private, state, and federal entities within this portion of Berkeley County, the southern portion is within the rapidly developing Charleston metropolitan area and home to several large manufacturing facilities such as Volvo Cars of North America.
 
