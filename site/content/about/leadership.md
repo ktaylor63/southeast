@@ -10,7 +10,7 @@ hero:
   name: mike-oetker.jpg
   alt: "A man speaking into a microphone."
   link: "https://flic.kr/p/EgwW37"
-  caption: "Acting Regional Director Mike Oetker speaking at a ceremony in Cherokee, North Carolina where partners signed a Candidate Conservation Agreement for the sicklefin redhorse. Photo by Gary Peeples, USFWS."
+  caption: "Deputy Regional Director Mike Oetker speaking at a ceremony in Cherokee, North Carolina where partners signed a Candidate Conservation Agreement for the sicklefin redhorse. Photo by Gary Peeples, USFWS."
   position: "top right"
 updated: "December , 2018"
 ---
