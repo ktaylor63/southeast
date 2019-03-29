@@ -5,8 +5,7 @@ weight: 4
 hero:
     name: seine-pigeon-river.jpg
     alt: 'Two people wearing waders in a shallow stream in front of a bridge check a net for animals.'
-    link: 'https://flic.kr/p/MFnYkm'
-    caption: 'Joyce Coombs helps a students check a rock for animals. Photo by Gary Peeples, USFWS.'
+    caption: 'Joyce Coombs helps a students check a rock for animals. <a href="https://flic.kr/p/MFnYkm">Photo</a> by Gary Peeples, USFWS.'
     position: 'top right'
 updated: 'April 28th, 2017'
 tags:
@@ -27,6 +26,6 @@ Whether it is a National Fish Hatchery, a local park or your own backyard, there
 
 Visit a hatchery, use the activities on the [BiT Activity Card](/pdf/workbook/biologist-in-training-activity-card.pdf) for ideas on exploring natural spaces, or participate in one of dozens of annual events	held at hatcheries across the region. Allow yourself and your child a moment each day for free, unstructured play outside, and you’ll feel closer to nature and each other!
 
-  - [BiT Activity Card](/pdf/workbook/biologist-in-training-activity-card.pdf)
-  - [BiT Activity Booklet](/pdf/workbook/biologist-in-training.pdf)
-  - [Your Family &amp; Nature: Getting Outside is Easy and Fun! Fact Sheet](/pdf/fact-sheet/your-family-and-nature.pdf)
+- [BiT Activity Card](/pdf/workbook/biologist-in-training-activity-card.pdf)
+- [BiT Activity Booklet](/pdf/workbook/biologist-in-training.pdf)
+- [Your Family &amp; Nature: Getting Outside is Easy and Fun! Fact Sheet](/pdf/fact-sheet/your-family-and-nature.pdf)
