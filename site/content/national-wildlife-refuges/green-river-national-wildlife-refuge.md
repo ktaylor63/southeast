@@ -31,10 +31,12 @@ In 2018, the U.S. Congress directed the Service to establish Kentucky’s second
 The proposed Green River NWR has numerous goals including:
 
 - Establish a second national wildlife refuge in Kentucky to support conservation of fish, wildlife, and plants;
+- Protect and manage wetlands and bottomland forest habitats to support waterfowl, migratory birds, and threatened and endangered species;
 - Provide high-quality hunting and sport fishing opportunities;
 - Provide opportunities for public use and environmental education and interpretation;
-- Collaborate with partners to the ecological function of the project area by working with partners to achieve mutual conservation priorities; and
+- Collaborate with partners to protect and enhance biodiversity and  water quality and quantity within the Ohio River and Green River watersheds, benefiting both humans and wildlife; and
 - Ensure healthy wildlife populations for the benefit of Kentuckians and all Americans.
+
 
 ## Location
 
@@ -73,5 +75,6 @@ The Service welcomes and encourages the public to participate in its effort to e
 Michael Johnson, Refuge Manager, Clarks River National Wildlife Refuge  
 [michael_johnson@fws.gov](mailto:michael_johnson@fws.gov), (270) 570-5770
 
-Lee Andrews, Field Supervisor, Kentucky Ecological Services Office  
-[lee_andrews@fws.gov](mailto:lee_andrews@fws.gov), (502) 695-0468 x108
+Tina Chouinard, Project Planner  
+[tina_chouinard@fws.gov](mailto:tina_chouinard@fws.gov), (731) 432-0981
+
