@@ -10,7 +10,7 @@ hero:
 tags:
     - 'Endangered Species Act'
     - Recovery
-updated: 'September 27th, 2018'
+updated: 'March 1st, 2019'
 ---
 
 One of the primary responsibilities of the U.S. Fish and Wildlife Service (Service) is to protect and recover imperiled species and the ecosystems upon which they depend. The Endangered Species Act (ESA) is America’s strongest conservation law. Originally passed by Congress in 1973, the ESA is jointly administered by the Service and the [National Marine Fisheries Service](https://www.fisheries.noaa.gov/) (NMFS). The Service has primary responsibility for terrestrial and freshwater organisms, while the responsibilities of NMFS are mainly marine. Some marine animals like the sea turtles have shared responsibility between the Service and NMFS, while the Service has responsibility for the West Indian manatee.
@@ -19,12 +19,26 @@ All species of plants and animals, except pests insects, are eligible for listin
 
 The Caribbean endangered species program works to protect and recover threatened and endangered species, and to conserve at-risk species so that listing under the ESA is unnecessary. The program uses a variety of tools in partnership with federal agencies, the Commonwealth of Puerto Rico, the U.S. Virgin Islands (USVI) government, municipal governments, private landowners, and other citizens to conserve listed and at-risk species.
 
-Download a complete list of threatened and endangered species in Puerto Rico and the USVI, available in [Spanish](/pdf/fact-sheet/caribbean-listeed-species-2017.pdf) and [English](/pdf/fact-sheet/caribbean-listeed-species-2017-english.pdf). A [species list](/pdf/map/caribbean-listed-species-2017.pdf) is also available for each of the Municipalities in Puerto Rico and the USVI.
+Download a complete list of threatened and endangered species in Puerto Rico and the USVI. A species list is also available for each of the municipalities in Puerto Rico and the USVI:
 
-Looking for more specific information on a species ? Click on the links below for each threatened and endangered species profile and information fact sheet:
+- List of T&E species in PR and USVI ([Spanish](/pdf/fact-sheet/caribbean-listeed-species-2017.pdf) or [English](/pdf/fact-sheet/caribbean-listeed-species-2017-english.pdf))
+- [List of species for each municipality in PR and USVI](/pdf/map/caribbean-listed-species-2017.pdf)
 
-- Caribbean listed plants
-- Caribbean listed animals
+Looking for more specific information on a species? [Check out our species profiles](/caribbean/wildlife), [fact sheets](/caribbean/library), or search the Environmental Conservation Online System with the form below:
+
+<br>
+<form action="https://search.usa.gov/search" method="get">
+    <input type="hidden" name="utf8" value="?">
+    <input type="hidden" name="affiliate" value="ecos">
+    <div class="input-group input-group-xs">
+        <input type="text" class="form-control" name="query" placeholder="Golden coqui..." style="width: 80%;">
+        <span class="input-group-btn">
+            <button class="btn btn-default" type="submit">
+                Go
+            </button>
+        </span>
+    </div>
+</form>
 
 ## Listing Threatened and Endangered Species
 
@@ -54,7 +68,7 @@ Section 7 of the ESA requires federal agencies to use their existing authorities
 
 For more information about consultation under the Endangered Species Act, visit the [National consultation webpage](https://www.fws.gov/endangered/consultations/). [Learn more about project evaluations](/caribbean/project-evaluations).
 
-Learn about what are the minimum requirements for project evaluations. Download the fact sheet, available in Spanish and English.
+Learn about what are the minimum requirements for project evaluations. Download the [fact sheet](/pdf/fact-sheet/caribbean-ecological-services-field-office-project-evaluations.pdf).
 
 ## Recovery
 
