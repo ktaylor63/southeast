@@ -5,8 +5,7 @@ aliases:
 hero:
     name: hurricane-irma.jpg
     alt: 'A massive hurricane threatens Puerto Rico and the Virgin Islands.'
-    caption: 'Hurricane Irma mid-day on September 6, 2017 off the east coast of Puerto Rico. Satellite Image by NOAA GOES-16.'
-    link: 'https://flic.kr/p/XcPJxQ'
+    caption: 'Hurricane Irma mid-day on September 6, 2017 off the east coast of Puerto Rico. <a href="https://flic.kr/p/XcPJxQ"≥Satellite Image</a> by NOAA GOES-16.'
 tags:
     - 'Endangered Species Act'
     - Fire
@@ -25,36 +24,36 @@ The links below are provided to assist you in understanding emergency provisions
 
 ### Procedures
 
-  - [Explanation of emergency response process](/pdf/guidelines/emergency-consultation-process.pdf)
-  - [Endangered Species Act Exemptions in Presidentially Declared Disaster Areas](/pdf/guidelines/endangered-species-act-exemptions-for-disasters.pdf)
-  - [Section 7 Flowchart-Emergency Procedures](/pdf/guidelines/section-7-flowchart-emergency.pdf)
-  - [Sample to Request Emergency Consultation](/pdf/guidelines/request-emergency-consultation-sample.pdf)
+- [Explanation of emergency response process](/pdf/guidelines/emergency-consultation-process.pdf)
+- [Endangered Species Act Exemptions in Presidentially Declared Disaster Areas](/pdf/guidelines/endangered-species-act-exemptions-for-disasters.pdf)
+- [Section 7 Flowchart-Emergency Procedures](/pdf/guidelines/section-7-flowchart-emergency.pdf)
+- [Sample to Request Emergency Consultation](/pdf/guidelines/request-emergency-consultation-sample.pdf)
 
 ### Hurricane response
 
 {{< figure class="photo-right" src="/images/pages/removing-hurricane-shelters-roberto-trincado.jpg" alt="A man removing a wooden shutter from a home." caption="Roberto Trincado removing hurricane shutters on St. Croix, USVI.  Photo by USFWS.">}}
 
-  - [Sample Timber Salvage Response Letter](/pdf/guidelines/salvage-timber-mississippi.pdf)
-  - [Miami blue butterfly hurricane response best management practices](/pdf/best-management-practice/miami-blue-butterfly-hurricane-response.pdf)
-  - [Bartram’s scrub-hairstreak and Florida leafwing hurricane response best management practices](/pdf/best-management-practice/bartrams-scrub-and-florida-leafwing-hurricane-response.pdf)
-  - [Key deer hurricane response](/pdf/best-management-practice/key-deer-hurricane-response.pdf)
-  - [Stock Island tree snail hurricane response](/pdf/best-management-practice/stock-island-tree-snail-hurricane-response.pdf)
-  - [BMPs for Emergency Road Work in Puerto Rico](/pdf/guidelines/puerto-rico-emergency-road-repair.pdf)
+- [Sample Timber Salvage Response Letter](/pdf/guidelines/salvage-timber-mississippi.pdf)
+- [Miami blue butterfly hurricane response best management practices](/pdf/best-management-practice/miami-blue-butterfly-hurricane-response.pdf)
+- [Bartram’s scrub-hairstreak and Florida leafwing hurricane response best management practices](/pdf/best-management-practice/bartrams-scrub-and-florida-leafwing-hurricane-response.pdf)
+- [Key deer hurricane response](/pdf/best-management-practice/key-deer-hurricane-response.pdf)
+- [Stock Island tree snail hurricane response](/pdf/best-management-practice/stock-island-tree-snail-hurricane-response.pdf)
+- [BMPs for Emergency Road Work in Puerto Rico](/pdf/guidelines/puerto-rico-emergency-road-repair.pdf)
 
 ### Fire response
 
-  - [Guidelines for Aerial Delivery of Retardant or Foam near Waterways](/pdf/guidelines/retardant-use-plan.pdf)
-  - [Prevention of Wildfires &ndash; Streamlining Section 7 Consultation on Hazardous Fuels Treatment Projects](/pdf/guidelines/streamlining-hazardous-fuels-reduction.pdf)
+- [Guidelines for Aerial Delivery of Retardant or Foam near Waterways](/pdf/guidelines/retardant-use-plan.pdf)
+- [Prevention of Wildfires &ndash; Streamlining Section 7 Consultation on Hazardous Fuels Treatment Projects](/pdf/guidelines/streamlining-hazardous-fuels-reduction.pdf)
 
 {{< figure class="photo-right" src="/images/pages/west-mims-firefighter.jpg" alt="A firefighter walks through the underbrush with his eye on the fire." caption="Firefighter in the brush at Okefenokee NWR fighting the West Mims fire.  Photo by Mark Davis, USFWS.">}}
 
 ### Oil spills and other hazardous materials
 
-  - [Interagency Memorandum of Agreement Regarding Oil Spill Planning and Response Activities Under the Federal Water Pollution Control Act's National Oil and Hazardous Substances Pollution Contingency Plan and the Endangered Species Act](/pdf/memo/oil-spill-contingency.pdf)
-  - [Spill Responses - A Selection Guide for Oil Spill Applied Technologies](/pdf/guidelines/selection-guide-oil-spill-applied-technologies-volume-I.pdf)
-  - [Regional Consultation Pre-authorizing of Solidifier Use in the northeast Gulf of Mexico](/pdf/guidelines/solidifiers.pdf)
-  - [Deepwater Horizon Oil Spill best management practices](/pdf/best-management-practice/deepwater-horizon-appendix-e.pdf)
-  - [NOAA Environmental Sensitivity Index (ESI) Maps](https://response.restoration.noaa.gov/esi)
+- [Interagency Memorandum of Agreement Regarding Oil Spill Planning and Response Activities Under the Federal Water Pollution Control Act's National Oil and Hazardous Substances Pollution Contingency Plan and the Endangered Species Act](/pdf/memo/oil-spill-contingency.pdf)
+- [Spill Responses - A Selection Guide for Oil Spill Applied Technologies](/pdf/guidelines/selection-guide-oil-spill-applied-technologies-volume-I.pdf)
+- [Regional Consultation Pre-authorizing of Solidifier Use in the northeast Gulf of Mexico](/pdf/guidelines/solidifiers.pdf)
+- [Deepwater Horizon Oil Spill best management practices](/pdf/best-management-practice/deepwater-horizon-appendix-e.pdf)
+- [NOAA Environmental Sensitivity Index (ESI) Maps](https://response.restoration.noaa.gov/esi)
 
 ## Contact
 
