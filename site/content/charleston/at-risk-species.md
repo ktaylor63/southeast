@@ -31,7 +31,7 @@ At-risk species are plants or animals that have either been proposed for listing
 ## Program contacts for at-risk species in South Carolina
 
 **Whitney Wiest Beisler**, Fish and Wildlife Biologist, [whitney_wiest@fws.gov](mailto:whitney_wiest@fws.gov), (843) 727-4707 ext. 228  
-Lead for [eastern black rail](/wildlife/birds/eastern-black-rail) (proposed for listing October 2018), [golden-winged warbler](/pdf/fact-sheet/golden-winged-warbler.pdf), [saltmarsh topminnow](https://ecos.fws.gov/ecp0/profile/speciesProfile?sId=9719), and [green salamander](/pdf/fact-sheet/green-salamander.pdf).
+Lead for [eastern black rail](/wildlife/birds/eastern-black-rail) (proposed for listing October 2018), [golden-winged warbler](/pdf/fact-sheet/golden-winged-warbler.pdf), [saltmarsh sparrow](https://ecos.fws.gov/ecp0/profile/speciesProfile?sId=9719), and [green salamander](/pdf/fact-sheet/green-salamander.pdf).
 
 **Melissa Chaplin**, Fish and Wildlife Biologist, [melissa_chaplin@fws.gov](mailto:melissa_chaplin@fws.gov), (843) 727-4707 ext. 217  
 Lead for [black-capped petrel](/wildlife/birds/black-capped-petrel) (proposed for listing October 2018).
