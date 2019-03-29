@@ -28,12 +28,13 @@ Management of refuges for waterfowl typically includes providing natural wetland
 
 The quality and quantity of wetlands important to waterfowl and many other species of migratory birds is declining due to pressure from housing and other urban developments, changing agricultural practices, and other human uses. As a result, refuges in the southeast play an increasingly important role in sustaining waterfowl populations by protecting and managing millions of acres of wetlands that provide wintering, migration, and breeding habitat.
  
-To ensure the National Wildlife Refuge System in the Southeast Region can continue to support abundant waterfowl populations, we created the Waterfowl Working Group in 2015. This group is composed of National Wildlife Refuge System staff, Migratory Bird program staff, university faculty, and conservation partners.  The Waterfowl Working Group created a Strategic Action Plan for Waterfowl Management in the Southeast Region in June 2016 to help refuges implement waterfowl management activities more effectively, and to support the mission of the National Wildlife Refuge System and the North American Waterfowl Management Plan.
+To ensure the National Wildlife Refuge System in the Southeast Region can continue to support abundant waterfowl populations, we created the Waterfowl Working Group in 2015. This group is composed of National Wildlife Refuge System staff, Migratory Bird program staff, university faculty, and conservation partners.  The Waterfowl Working Group created a [Strategic Action Plan for Waterfowl Management in the Southeast Region](/pdf/plan/waterfowl-strategic-action-plan-and-cover-memo-2016.pdf) in June 2016 to help refuges implement waterfowl management activities more effectively, and to support the mission of the National Wildlife Refuge System and the North American Waterfowl Management Plan.
 
 {{< figure class="photo-center" src="/images/pages/swans-at-mattamuskeet-nwr.jpg" alt="Two bright white swans flying in front of a blue sky" caption="Swans at Mattamuskeet National Wildlife Refuge. Photo by Keith Ramos, USFWS." >}}
 
 ## More information
 
+- [Strategic Action Plan for Waterfowl Management in the Southeast Region](/pdf/plan/waterfowl-strategic-action-plan-and-cover-memo-2016.pdf)
 - [The Importance of the Southeast Region to Waterfowl Populations](/pdf/fact-sheet/importance-of-southeast-to-waterfowl.pdf)
 - [The Importance of Providing Sanctuary on National Wildlife Refuges in the Southeast](/pdf/fact-sheet/importance-of-providing-sanctuary-on-national-wildlife-refuges-in-the-southeast.pdf)
 - [Farming for Waterfowl on National Wildlife Refuges in the Southeast Region](https://www.fws.gov/uploadedFiles/FarmingWaterfowlFactsheet508%20(1).pdf)
