@@ -7,7 +7,7 @@ date: 2019-02-27T00:00:00.000Z
 hero:
     name: barrens-topminnow.jpg
     alt: 'A bright green irrodescent fish in a small blue net.'
-    caption: 'Barrens topminnows are small, colorful fish that live only in a few creeks in central Tennessee. The U.S. Fish and Wildlife Service has proposed listing the fish as endangered. Photo by Emily Granstaff, USFWS.'
+    caption: 'Barrens topminnows are small, colorful fish that live only in a few springs and creeks in central Tennessee. The U.S. Fish and Wildlife Service has proposed listing the fish as endangered. Photo by Emily Granstaff, USFWS.'
 tags:
     - 'Barrens Topminnow'
     - 'Cumberland Pigtoe'
@@ -21,7 +21,7 @@ tags:
 updated: 'February 27th, 2019'
 ---
 
-[Barrens topminnows](https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E05C) are small, colorful fish about four inches long, and the males are particularly showy during spawning season. Barrens darters are even smaller, and they are sometimes taller than they are long. [Cumberland pigtoes](https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F033) are mussels with mahogany shells and peach interiors.
+[Barrens topminnows](https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E05C) are small, colorful fish about four inches long, and the males are particularly showy during spawning season. Barrens darters are even smaller, and they are believed to be one of the rarest fish in North America. [Cumberland pigtoes](https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F033) are mussels with mahogany shells and peach interiors.
 
 The fish and mussels are struggling to survive in the only place they live: the creeks and watersheds in a little part of Tennessee called the Barrens, midway between Nashville and Chattanooga. They need all the help they can get. Enter [Partners for Fish and Wildlife](/our-services/partners-program/), a program funded and staffed by the U.S. Fish and Wildlife Service.
 
@@ -31,13 +31,13 @@ Clean, clear-running water is essential for their survival, but that’s not wha
 
 “Mussels in particular are very sensitive to water quality issues,” said Bryan Watkins, the Partners state coordinator in the Service’s Cookeville, Tennessee, office. “Any time you have a large amount of sediment, it creates a problem first for the mussels. Then other issues begin such as limited spawning habitat for fish.”
 
-“It was the magnitude at which it was happening that made the problem so severe,” added Emily Grandstaff, a Partners private lands biologist also based in Cookeville. “The Cumberland pigtoe is an endangered species under the [Endangered Species Act](/endangered-species-act), and the Service has proposed listing the Barrens darter as endangered as well.”
+“It was the magnitude at which it was happening that made the problem so severe,” added Emily Granstaff, a Partners private lands biologist also based in Cookeville. “The Cumberland pigtoe is an endangered species under the [Endangered Species Act](/endangered-species-act), and the Service has proposed listing the Barrens topminnow as endangered as well.”
 
 Fortuntately, Bryan Livestock was receptive to a pitch from Partners for Fish and Wildlife.
 
-“We approached them through our partnership with the Natural Resources Conservation Service, a Department of Agriculture program,” said Watkins. “They were very accepting of our proposal and could see the benefits for everyone &mdash; the cattle, the company, and the wildlife we are trying to protect.”
+“We approached them through our partnership with the Natural Resources Conservation Service, a Department of Agriculture agency,” said Watkins. “They were very accepting of our proposal and could see the benefits for everyone &mdash; the cattle, the company, and the wildlife we are trying to protect.”
 
-Starting in 2013, Partners for Fish and Wildlife and Bryan Livestock joined forces for a series of improvements, with the Service paying 80 percent and Bryan 20 percent. That included 11 miles of fencing to keep cattle from trampling down into the stream, and relocating the cattle’s watering sources to higher ground, away from the streams, with artificial watering facilities. Those watering facilities mean Bryan Livestock’s cows got cleaner, more dependable water sources for their cattle.
+Starting in 2013, Partners for Fish and Wildlife and Bryan Livestock joined forces for a series of improvements, with the Service paying 80 percent and Bryan 20 percent. That included 11 miles of fencing to keep cattle from trampling down into the stream, and relocating the cattle’s watering sources to higher ground, away from the streams, with alternative watering facilities. Those watering facilities mean Bryan Livestock’s cows got cleaner, more dependable water sources for their cattle.
 
 {{< figure class="photo-center" src="/images/pages/meadow-branch-fence-installation.jpg" alt="A stream with new fencing installed on either bank" caption="After Partners for Fish and Wildlife and Bryan Farms fenced off streams and made other improvements, the water quality improved tremendously, which led to better habitat in general for wildlife in the area. Photo by USFWS." >}}
 
