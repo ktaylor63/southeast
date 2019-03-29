@@ -8,11 +8,10 @@ weight: 1
 hero:
     name: birding.jpg
     alt: 'A biologist in warm clothes looks through binoculars in a dormant field with tall grassy vegetation.'
-    link: 'https://flic.kr/p/bokTbs'
-    caption: 'Service biologist Sue Cameron searches for birds. Photo by Gary Peeples, USFWS.'
+    caption: 'Service biologist Sue Cameron searches for birds. <a href="https://flic.kr/p/bokTbs">Photo</a> by Gary Peeples, USFWS.'
 tags:
     - Science
-updated: 'October 1st, 2018'
+updated: 'March 25th, 2019'
 ---
 
 Employees within the U.S. Fish and Wildlife Service use science on a daily basis as the foundation for carrying out our mission.
@@ -48,8 +47,7 @@ Recently, the I&amp;M Branch [has been archiving the project proposals, reports 
 
 For more information about the RFP process or to provide outstanding materials, contact David Richardson ([david_richardson@fws.gov](mailto:david_richardson@fws.gov)).
 
-{{< scroller-list tag="Science" section="news" >}}
-{{< scroller-list tag="Science" section="articles" >}}
+{{< content-scroller tag="Science" heading="Related content" >}}
 
 ### Featured project
 
