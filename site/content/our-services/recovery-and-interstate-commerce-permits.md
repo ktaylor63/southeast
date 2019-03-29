@@ -32,23 +32,23 @@ Type in the 6-digit alpha-numeric code associated with your permit. For example,
 
 Note that permit statuses are updated as as changes are made. While we are aware that you may want to inquire further about the status of your application, we request that you use this website as a means of staying apprised so that we can focus our resources on processing your permit as quickly as possible. If you have specific information that needs to be provided so that we can successfully complete the processing of your application, [email the additional information to our office](mailto:permitsR4es@fws.gov?subject=Recovery+and+Interstate+Commerce+Permits).
 
-## What does my Federal Register (FR) status mean?
+## What does my *Federal Register* (FR) status mean?
 
-Depending on the number of applications we receive each month, notice of receipt of applications are batched onto a single Federal Register document and sent for publication approximately once a month. After we receive your application, it will have one of the following FR-notice statuses:
+Depending on the number of applications we receive each month, notice of receipt of applications are batched onto a single *Federal Register* document and sent for publication approximately once a month. After we receive your application, it will have one of the following FR-notice statuses:
 
 **Needs to be drafted** – Notice of receipt of your application has not yet been drafted on our most recent batched draft FR document for 10(a)(1)(A) Recovery and Interstate Commerce permits.
 
-**On draft Federal Register** – Notice of receipt of your application has been drafted on our most recent Federal Register document for 10(a)(1)(A) Recovery and Interstate Commerce Permits, but the draft has not yet been published on the Federal Register.
+**On draft *Federal Register*** – Notice of receipt of your application has been drafted on our most recent *Federal Register* document for 10(a)(1)(A) Recovery and Interstate Commerce Permits, but the draft has not yet been published on the *Federal Register*.
 
-**On 30-day Notice period** - Receipt of your application has been published on the daily Federal Register for 30 days and the comment period is open. You can find the notice of receipt of an application, using the Service Documents [search](http://policy.fws.gov/frsystem/default.cfm) by applicant.
+**On 30-day Notice period** - Receipt of your application has been published on the daily *Federal Register* for 30 days and the comment period is open. You can find the notice of receipt of an application, using the Service Documents [search](http://policy.fws.gov/frsystem/default.cfm) by applicant.
 
-**Noticed for 30 days** - Receipt of your application has been published on the daily Federal Register for 30 day and the comment period has closed. To find the notice of receipt of an application, use the Service Documents [search](http://policy.fws.gov/frsystem/default.cfm) by applicant.
+**Noticed for 30 days** - Receipt of your application has been published on the daily *Federal Register* for 30 day and the comment period has closed. To find the notice of receipt of an application, use the Service Documents [search](http://policy.fws.gov/frsystem/default.cfm) by applicant.
 
-**Public Notice Not Required** - Receipt of certain permit applications, such as those involving proposed activities with threatened species or for minor amendments, do not require notice on the Federal Register.
+**Public Notice Not Required** - Receipt of certain permit applications, such as those involving proposed activities with threatened species or for minor amendments, do not require notice on the *Federal Register*.
 
 ## What does my permit status mean?
 
-**In Regional Office for in-processing** – In-processing of an application involves processing application fees, entering applicant information into the Service-wide Permit Tracking System (SPITS), noticing applications on the Federal Register, ensuring applications are complete and ready for review, and drafting permits for review by species experts in Field Offices.
+**In Regional Office for in-processing** – In-processing of an application involves processing application fees, entering applicant information into the Service-wide Permit Tracking System (SPITS), noticing applications on the *Federal Register*, ensuring applications are complete and ready for review, and drafting permits for review by species experts in Field Offices.
 
 **Awaiting input from Applicant** - The application did not contain sufficient information for species experts to review qualifications of proposed permittees and/or assess potential impacts of proposed projects on listed species. Regional Office personnel notify the applicant that processing cannot continue until additional information is provided.
 
@@ -60,11 +60,11 @@ Depending on the number of applications we receive each month, notice of receipt
 
 **Denied** – The permit application was denied. Applicants are notified of permit denial via email.
 
-## Why does receipt of my application have to be published on the Federal Register before you can issue my permit?
+## Why does receipt of my application have to be published on the *Federal Register* before you can issue my permit?
 
 Daily publication of the *Federal Register* is a method of informing the public of the regulations that affect them. This is where notices of availability of documents, such as permit applications, are published to provide the public an opportunity to comment.
 
-Notice of receipt of a permit application for proposed activities involving endangered species is required pursuant to Section 10&#40;c&#41; of the Endangered Species Act. This means that receipt of your permit application must be published on the Federal Register for 30 days before we can legally issue your new, renewal, or amended permit. Receipt of applications involving proposed activities with threatened species, or those involving minor amendments (e.g., change of address), do not require Federal Register notification. Depending on the number of applications received each month, the Division of Environmental Review in Region 4 generally sends a notice of receipt document to be published once a month. To find the notice of receipt of an application, use the Service Documents [search](http://policy.fws.gov/frsystem/default.cfm) by applicant name.
+Notice of receipt of a permit application for proposed activities involving endangered species is required pursuant to Section 10&#40;c&#41; of the Endangered Species Act. This means that receipt of your permit application must be published on the *Federal Register* for 30 days before we can legally issue your new, renewal, or amended permit. Receipt of applications involving proposed activities with threatened species, or those involving minor amendments (e.g., change of address), do not require *Federal Register* notification. Depending on the number of applications received each month, the Division of Environmental Review in Region 4 generally sends a notice of receipt document to be published once a month. To find the notice of receipt of an application, use the Service Documents [search](http://policy.fws.gov/frsystem/default.cfm) by applicant name.
 
 ## When do I need a 10(a)(1)(A) Recovery or Interstate Commerce Permit?
 
@@ -82,7 +82,7 @@ Apply for [Recovery Permits and Interstate Commerce Permits](http://www.fws.gov/
 
 ## What happens to my permit after I mail it to the Regional Office in Atlanta?
 
-Many statutory and procedural requirements must be considered when reviewing an application, including a requirement to notice applications involving endangered species on the Federal Register (FR) for a time-period of 30 days. In addition to the FR notice-period requirement, applications are reviewed by relevant Regional Recovery Leads and species experts in Field Offices in each state that the applicant proposes to conduct activities. Applications are also sent to Regional Permit Coordinators outside of the Southeast Region when applicants propose to conduct activities outside of the Southeast (see the [USFWS regional boundaries](http://www.fws.gov/Endangered/regions/index.html)).
+Many statutory and procedural requirements must be considered when reviewing an application, including a requirement to notice applications involving endangered species on the *Federal Register* (FR) for a time-period of 30 days. In addition to the FR notice-period requirement, applications are reviewed by relevant Regional Recovery Leads and species experts in Field Offices in each state that the applicant proposes to conduct activities. Applications are also sent to Regional Permit Coordinators outside of the Southeast Region when applicants propose to conduct activities outside of the Southeast (see the [USFWS regional boundaries](http://www.fws.gov/Endangered/regions/index.html)).
 
 Species experts and Regional Recovery Leads review the qualifications of individuals to conduct proposed activities and assess the potential impacts of proposed activities on listed species. In the simplest cases (i.e., applications involving 1 species and 1 state), permit processing goes through the steps in the diagram below. As the number of species, states, and regions increases, so does the complexity of permit processing and, in turn, permit processing time.
 
@@ -100,7 +100,7 @@ Note that, if your project is determined to have “no effect” or a “not lik
 
 If you have questions that have not been addressed on this website, or any of the web-links provided here-in, contact the [Region 4 Permit Coordinator](mailto:permitsr4es@fws.gov?subject=Recovery+and+Interstate+Commerce+Permits) (permitsr4es@fws.gov). Please include your permit number (TE XXXXXX), name, and daytime telephone number on all correspondence. If you have not yet received a permit number, include the business name or individual name listed on your application.
 
-## What are the minimum qualifications that need to be met to obtain a 10(a)(1)(A) Recovery Permit?
+## What are the minimum qualifications that need to be met to obtain a 10(a)(1)(A) recovery permit?
 
 Some species have minimum qualification requirements that must be met to obtain a permit. Regardless of the species applicants must document ability to correctly identify the species they are applying for.
 
