@@ -13,7 +13,7 @@ tags:
     - Consultation
     - 'Endangered Species Act'
     - 'South Carolina'
-updated: 'March 18th, 2019'
+updated: 'March 29th, 2019'
 ---
 
 The Ecological Services Program of the U.S. Fish and Wildlife Service works collaboratively with other federal agencies, industries, and other stakeholders to achieve infrastructure development goals in ways that are sustainable and compatible with the conservation of fish, wildlife, and their habitats. Field biologists assist project proponents, planners, and personnel in developing plans that conserve, restore, or enhance plant and animal species. Service biologists work under multiple authorities, including the [Endangered Species Act](https://www.fws.gov/endangered/esa-library/pdf/ESAall.pdf) (ESA), [Clean Water Act](https://www.fws.gov/laws/lawsdigest/FWATRPO.HTML) (CWA), [Federal Power Act](https://www.fws.gov/laws/lawsdigest/FEDPOWR.HTML), [Fish and Wildlife Coordination Act](https://www.fws.gov/laws/lawsdigest/FWCOORD.HTML), [National Environmental Policy Act](https://www.fws.gov/r9esnepa/RelatedLegislativeAuthorities/nepa1969.PDF) (NEPA), and [Bald and Golden Eagle Protection Act](https://www.fws.gov/laws/lawsdigest/BALDEGL.HTML). Biologists review and provide recommendations on plans and development designs, provide expertise in wildlife and habitat science, and serve as members on planning teams.
@@ -28,11 +28,10 @@ To streamline these requests, the SCESFO has developed [blanket authorizations](
 
 ## Blanket authorizations
 
-- [Communication Tower Project Clearance Letter - No Effect](/pdf/letter/south-carolina-communication-tower-clearance.pdf)
-- [Recommended Best Practices for Communication Tower Design, Sighting, Construction, Operation, Maintenance, and Decommissioning](https://www.fws.gov/migratorybirds/pdf/management/usfwscommtowerguidance.pdf)
-- [Department of Commerce, HUD, and USDA Rural Development Projects Clearance Letter - No Effect](/pdf/letter/south-carolina-clearance-to-proceeed-with-us-dept-of-commerce-us-dept-of-housing-and-urban-development-and-us-dept-of-agriculture-projects.pdf)
-- [Species and Habitat Assessment Clearance Letter - No Effect](/pdf/letter/south-carolina-clearance-for-species-and-habitat-assessments﻿.pdf)
-- [Solar Power Clearance Letter - No Effect](/pdf/letter/south-carolina-solar-power-clearance.pdf)
+- [Communication Tower Project Clearance Letter](/pdf/letter/south-carolina-communication-tower-clearance.pdf)
+- [Department of Commerce, HUD, and USDA Rural Development Projects Clearance Letter](/pdf/letter/south-carolina-clearance-to-proceeed-with-us-dept-of-commerce-us-dept-of-housing-and-urban-development-and-us-dept-of-agriculture-projects.pdf)
+- [Species and Habitat Assessment Clearance Letter](/pdf/letter/south-carolina-clearance-for-species-and-habitat-assessments﻿.pdf)
+- [Solar Power Clearance Letter](/pdf/letter/south-carolina-solar-power-clearance.pdf)
 
 ## Section 7 consultation
 
@@ -57,6 +56,8 @@ For federally protected species, the federal agency must make one of the followi
 When initiating [consultation](https://www.fws.gov/endangered/what-we-do/consultations-overview.html) with the South Carolina Ecological Services Field Office, please include the information on this [checklist](/pdf/checklist/south-carolina-esfo-section-7-checklist.pdf).
 
 ## Resources for project planning
+
+- [Recommended best practices for communication tower design, sighting, construction, operation, maintenance, and decommissioning](https://www.fws.gov/migratorybirds/pdf/management/usfwscommtowerguidance.pdf)
 
 ### Information for Planning and Consultation (IPaC)
 
@@ -92,8 +93,8 @@ Department of the Interior - U.S. Fish and Wildlife Service
 176 Croghan Spur Road, Suite 200  
 Charleston, South Carolina 29407  
 
-**Please allow a minimum of 30 days from date of project submission to our office before inquiring on your project's review status. If you have not received a response from us after 30 days, please submit a status request to [charleston_regulatory@fws.gov](mailto:charleston_regulatory@fws.gov).**
+**Please allow a minimum of 30 days from the date of project submission to our office before inquiring on your project's review status. If you have not received a response from us after 30 days, please submit a status request to [charleston_regulatory@fws.gov](mailto:charleston_regulatory@fws.gov).**
 
 ## Contact
 
-[charleston_regulatory@fws.gov](mailto:charleston_regulatory@fws.gov), (843)727-4707
+[charleston_regulatory@fws.gov](mailto:charleston_regulatory@fws.gov), (843) 727-4707
