@@ -1,4 +1,24 @@
 stories:
+  - title: "The value of 'negative information'; Sampling for trispot darters"
+    summary: "Sometimes half of science is figuring out what you don't know so you can focus your research and begin to chip away at the edges of your ignorance."
+    date: 2019-03-19
+    url: "https://www.youtube.com/watch?v=bKSpdt9Unvk"
+    hero:
+      name: trispot-darter-with-rocks.jpg
+      alt: 'A small fish with brown and white spots swimming in front of small rocks.'
+      caption: 'Trispot darter. Photo by Dick Biggins, USFWS.'
+  - title: "GA DNR shorebird studies probe ways to keep predators at bay"
+    summary: "For shorebirds on Georgia beaches, nesting and rearing chicks requires surviving a gauntlet of threats. Some of the deadliest come with fur: raccoons and coyotes. But using National Fish and Wildlife Foundation funding, scientists at the Georgia Department of Natural Resources have documented ways to limit the impact these four-pawed predators have on two shorebird species of concern, Wilson’s plover and American oystercatcher."
+    date: 2019-03-12
+    url: "https://georgiawildlife.com/dnr-shorebird-studies-probe-ways-keep-predators-bay"
+  - title: "Florida to protect native songbirds from illegal trafficking, trapping"
+    summary: "The Florida Fish and Wildlife Conservation Commission is proposing a new rule targeting songbird poachers by making it easier to confiscate the various traps they use to capture the birds, which often are injured or killed in the process by poachers and seriously mistreated by wildlife traffickers."
+    date: 2019-03-03
+    url: "https://www.jacksonville.com/news/20190303/florida-to-protect-native-songbirds-from-illegal-trafficking-trapping"
+    hero:
+      name: operation-ornery-birds.jpg
+      alt: "Four released birds spread their wings and take flight towards the blue sky."
+      caption: "Migratory birds take to the skies after being uncaged at Everglades National Park. The birds had been seized as part of Operation Ornery Birds. Photo by Dan Chapman, USFWS."
   - title: "From CBS News, Moment in nature: St. John's National Wildlife Refuge"
     summary: "Sunday Morning takes you today to the St. John's National Wildlife Refuge in Florida."
     date: 2019-02-17
