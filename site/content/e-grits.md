@@ -16,6 +16,6 @@ updated: 'August 15th, 2017'
 
 ## Where southeast employees get their news
 
-E-Grits covers news, notes, and highlights about the conservation work of our employees across the Service's 10-state Southeast Region. 
+E-Grits covers news, notes, and highlights about the conservation work of our employees across the Service's 10-state Southeast Region.
 
 {{< infinite-list tag="E-Grits" section="articles" >}}
