@@ -5,17 +5,20 @@ hero:
     name: junior-duck-stamp-winner-2012.jpg
     alt: 'A grey bird with a brown head flying across a bright blue sky.'
     caption: 'A northern pintail by Christine Clayton of Ohio will be displayed on the 2012 Federal Junior Duck Stamp.'
+    position: '25% 25%'
 tags:
-    - Ohio
     - 'Junior Duck Stamp'
-updated: 'October 20th, 2016'
+    - 'Northern Pintail'
+    - Ohio
+    - 'Wood Duck'
+updated: 'March 28th, 2019'
 ---
 
 The U.S. Fish and Wildlife Service announced today a northern pintail was selected to appear on the 2012-2013 Federal Junior Duck Stamp. The design for the new stamp, painted by Christine Clayton, was chosen by a panel of judges at the national Junior Duck Stamp Art Contest, held at the Patuxent Research Refuge in Laurel, Md.
 
 “I congratulate our winning artist and all of the talented young people who participate in the Junior Duck Stamp Conservation and Design Program each year,” said Dan Ashe, Director of the U.S. Fish and Wildlife Service. “Now in its twentieth year, the Junior Duck Stamp Competition is the culmination of a year-long Junior Duck Stamp conservation program used by educators across the nation to connect youth with nature and inspire budding wildlife artists.”
 
-The oil painting, which won the Ohio Junior Duck Stamp Contest, was judged the winner among Best-of-Show entries from all 50 states, the District of Columbia, Puerto Rico and the U.S. Virgin Islands.  Proceeds from sales of the Junior Duck Stamp -- which the Service sells for $5 -- support environmental education.
+The oil painting, which won the Ohio Junior Duck Stamp Contest, was judged the winner among Best-of-Show entries from all 50 states, the District of Columbia, Puerto Rico and the U.S. Virgin Islands.  Proceeds from sales of the Junior Duck Stamp &mdash; which the Service sells for $5 &mdash; support environmental education.
 
 Matthew Messina of Avon, Conn., took second place with an oil painting depicting a single wood duck.  Third place went to Hyun Wang for his rendition of a pair of hooded mergansers.  The 2012 Federal Junior Duck Stamp Conservation Message Contest winner was 15-year-old Amarylis Montalvo from Puerto Rico, with her entry: “Valora Proteje y Preserva su Habitat” (“Appreciate, Protect and Preserve Your Habitat”).
 

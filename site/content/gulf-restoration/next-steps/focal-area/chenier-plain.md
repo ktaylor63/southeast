@@ -9,9 +9,10 @@ hero:
     caption: 'Monarch butterflies gathering in Chenier Plain coastal prairie. Photo by Woody Woodrow, USFWS.'
 tags:
     - Gulf
+    - Mallard
 categories:
     - 'Focal Area'
-updated: 'March 15th, 2017'
+updated: 'March 28th, 2019'
 ---
 
 ## Landscape at a Glance

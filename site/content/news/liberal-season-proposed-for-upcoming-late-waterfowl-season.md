@@ -4,8 +4,7 @@ date: '2009-07-31'
 hero:
     name: upper-ouachita-waterfowl.jpg
     alt: 'Thousands of ducks taking flight out of a marsh nearly cover the sky.'
-    link: 'https://flic.kr/p/bAaxgL'
-    caption: 'Ducks at Upper Ouachita. Photo by Joseph McGowan, USFWS.'
+    caption: 'Ducks at Upper Ouachita. <a href="https://flic.kr/p/bAaxgL">Photo</a> by Joseph McGowan, USFWS.'
 tags:
     - Alabama
     - Florida
@@ -13,12 +12,14 @@ tags:
     - Hunting
     - Louisiana
     - 'Louisiana Ecological Services Field Office'
+    - Mallard
     - Mississippi
     - 'North Carolina'
     - 'South Carolina'
     - 'South Carolina Ecological Services Field Office'
     - Tennessee
-updated: 'May 7th, 2018'
+    - 'Wood Duck'
+updated: 'March 28th, 2019'
 ---
 
 The U.S. Fish and Wildlife Service today proposed continuation of liberal hunting season lengths for the upcoming 2009-2010 late waterfowl seasons. Duck hunting season lengths would be 60 days in both the Atlantic and Mississippi Flyways, 74 days in the Central Flyway, and 107 days in the Pacific Flyway. Highlights of the proposed frameworks include: a full season on pintails with a one bird daily bag limit in the Atlantic, Mississippi and Central Flyways, and a two bird daily bag limit in the Pacific Flyway and a full season on canvasbacks with a one bird daily bag limit offered nation-wide. Additionally, the Service is proposing to have a bag limit of 2 scaup in the Atlantic, Mississippi and Central Flyways for the full season and a bag limit of 3 scaup in the Pacific Flyway for 86 days.

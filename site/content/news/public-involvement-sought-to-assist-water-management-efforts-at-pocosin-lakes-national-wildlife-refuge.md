@@ -1,17 +1,18 @@
 ---
 title: 'Public Involvement Sought to Assist Water Management Efforts at Pocosin Lakes National Wildlife Refuge'
-date: 2017-06-29
+date: 2017-06-29T00:00:00.000Z
 tags:
     - 'North Carolina'
     - 'Open House'
     - 'Pocosin Lakes National Wildlife Refuge'
+    - 'Tundra Swan'
     - 'Water Management'
 hero:
     name: pocosin-lakes-nwr-pongo-lake.jpg
     alt: 'Thousands of white birds taking flight over a bright blue lake.'
     caption: 'Snow geese are on Pongo Lake in the Pocosin Lakes National Wildlife Refuge. Photo by <a href="https://www.flickr.com/photos/gods-art/">Jim Liestman</a> <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">CC BY-NC-ND 2.0</a>.'
     link: 'https://flic.kr/p/dNNKcf'
-updated: 'June 29th, 2017'
+updated: 'March 28th, 2019'
 ---
 
 The U.S. Fish and Wildlife Service is soliciting the public’s help in crafting a long-term plan to manage water on the [Pocosin Lakes National Wildlife Refuge](https://www.fws.gov/refuge/pocosin_lakes/).

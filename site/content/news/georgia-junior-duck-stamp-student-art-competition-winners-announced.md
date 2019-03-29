@@ -4,15 +4,15 @@ date: '2015-04-09'
 hero:
     name: georgia-jr-duckstamp-winner-2015.jpg
     alt: 'A colorful acrlyic painting of a bird with a blue head, brown breast and blue features.'
-    link: 'https://flic.kr/p/rZTg87'
-    caption: '“Wood Duck”, an acrylic rendition by 13 year-old Amber Dong, was chosen as the Best of Show in the 2015 Georgia Junior Duck Stamp Contest.'
+    caption: '“Wood Duck”, an <a href="https://flic.kr/p/rZTg87">acrylic rendition</a> by 13 year-old Amber Dong, was chosen as the Best of Show in the 2015 Georgia Junior Duck Stamp Contest.'
 tags:
-    - 'Junior Duck Stamp'
     - Georgia
-updated: 'October 20th, 2016'
+    - 'Junior Duck Stamp'
+    - 'Wood Duck'
+updated: 'March 28th, 2019'
 ---
 
-Amber Dong, 13, of Johns Creek, Georgia, is the winner of the annual 2015 Georgia Junior Duck Stamp Art Competition held Tuesday, April 7, 2015, at the Piedmont National Wildlife Refuge in Juliette, Georgia.  Five judges unanimously selected her acrylic rendition of a Wood Duck out of 532 total entries as the Georgia Best of Show. 
+Amber Dong, 13, of Johns Creek, Georgia, is the winner of the annual 2015 Georgia Junior Duck Stamp Art Competition held Tuesday, April 7, 2015, at the Piedmont National Wildlife Refuge in Juliette, Georgia.  Five judges unanimously selected her acrylic rendition of a wood duck out of 532 total entries as the Georgia Best of Show. 
 
 Dong will receive a $175 scholarship from Georgia Power, a long-time sponsor of the Georgia Junior Duck Stamp Program, as well as additional prizes. As Georgia’s Best of Show, her original artwork has been sent to compete in the national Junior Duck Stamp Competition being held Friday, April 17, 2015, at the National Conservation Training Center in Shepherdstown, West Virginia.
 

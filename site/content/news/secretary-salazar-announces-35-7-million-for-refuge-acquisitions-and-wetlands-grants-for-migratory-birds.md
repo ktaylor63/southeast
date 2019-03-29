@@ -8,9 +8,12 @@ hero:
     caption: 'Mississippi River at Lower Hatchie Wildlife Refuge. Photo by <a href=\"https://www.flickr.com/photos/rwklose/\" target=\"_blank\">Roland Klose</a> <a href=\"https://creativecommons.org/licenses/by-nd/2.0/\" target=\"_blank\">CC BY-ND 2.0</a>.'
 tags:
     - Grants
+    - Mallard
     - Mississippi
+    - 'Northern Pintail'
     - Tennessee
-updated: 'October 20th, 2016'
+    - 'Wood Duck'
+updated: 'March 28th, 2019'
 ---
 
 Secretary of the Interior Ken Salazar announced today the Migratory Bird Conservation Commission has approved a total of $35.7 million for refuge acquisitions and wetlands grants for migratory birds — $30.4 million in federal funding for grants to conserve more than 319,000 acres of wetlands and associated habitats in the United States and Canada under the North American Wetlands Conservation Act (NAWCA) and $5.3 million in Federal Duck Stamp funds to add more than 1,849 wetland acres to six units of the National Wildlife Refuge System.  

@@ -2,14 +2,15 @@
 title: 'Salazar applauds passage of legislation naming Mississippi refuge after Sam Hamilton'
 date: '2012-02-15'
 hero:
-    name: null
-    alt: null
-    link: 'https://flic.kr/p/cuCjXh'
-    caption: 'Unveiling of the new entrance sign at Sam D. Hamilton Noxubee National Wildlife Refuge.  Photo by Tom MacKenzie, USFWS.'
+    name: sam-hamilton-noxubee-nwr-renaming-ceremony.jpg
+    alt: 'Service staff and family of Sam D. Hamilton reveal a new sign renaming Noxubee NWR.'
+    caption: 'Unveiling of the new entrance sign at Sam D. Hamilton Noxubee National Wildlife Refuge. <a href="https://flic.kr/p/cuCjXh">Photo</a> by Tom MacKenzie, USFWS.'
 tags:
+    - Mallard
     - Mississippi
     - 'National Wildlife Refuge System'
-updated: 'October 20th, 2016'
+    - 'Wood Duck'
+updated: 'March 28th, 2019'
 ---
 
 **WASHINGTON, D.C.** — Secretary of the Interior Ken Salazar today praised President Obama for signing into law legislation to change the name of Noxubee National Wildlife Refuge in Mississippi to the Sam D. Hamilton Noxubee National Wildlife Refuge, in honor of the late director of the U.S. Fish and Wildlife Service.  

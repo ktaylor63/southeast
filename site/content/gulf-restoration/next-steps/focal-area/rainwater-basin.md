@@ -9,9 +9,11 @@ hero:
     caption: 'Sunset on the Funk Waterfowl Production Area in the Rainwater Basin. Photo by Jeff Drahota, USFWS.'
 tags:
     - Gulf
+    - Mallard
+    - 'Northern Pintail'
 categories:
     - 'Focal Area'
-updated: 'April 21st, 2017'
+updated: 'March 28th, 2019'
 ---
 
 ## Landscape at a Glance

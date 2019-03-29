@@ -6,9 +6,10 @@ hero:
     alt: 'A bright green and brown duck in the foreground with its more muted female companion in the background.'
     caption: 'Min Lee from Johns Creek, GA, won the 2009 Georgia Junior Duck Stamp Contest for her rendition of two wood ducks in color pencil.'
 tags:
-    - 'Junior Duck Stamp'
     - Georgia
-updated: 'October 3rd, 2016'
+    - 'Junior Duck Stamp'
+    - 'Wood Duck'
+updated: 'March 28th, 2019'
 ---
 
 Northview High School’s Min Lee from Johns’ Creek, Georgia, won the 2009 Georgia Junior Duck Stamp contest for his rendition of two wood ducks in color pencil. Photo credit: U.S. Fish and Wildlife Service.

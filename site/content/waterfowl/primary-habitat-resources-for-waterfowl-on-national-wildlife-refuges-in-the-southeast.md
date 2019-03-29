@@ -1,6 +1,6 @@
 ---
 title: 'Primary habitat resources for waterfowl on Refuges in the Southeast'
-nav: Primary habitats
+nav: 'Primary habitats'
 weight: 2
 hero:
     name: pensylvania-smartweed.jpg
@@ -15,7 +15,8 @@ tags:
     - 'Permanent Marsh Wetlands'
     - Waterfowl
     - Wetlands
-updated: 'December 14th, 2018'
+    - 'Wood Duck'
+updated: 'March 28th, 2019'
 ---
 ## Moist-soil wetlands
 

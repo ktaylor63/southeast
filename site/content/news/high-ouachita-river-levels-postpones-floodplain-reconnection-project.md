@@ -10,7 +10,8 @@ tags:
     - Louisiana
     - 'Louisiana Ecological Services Field Office'
     - 'National Wildlife Refuge System'
-updated: 'May 7th, 2018'
+    - 'Wood Duck'
+updated: 'March 28th, 2019'
 ---
 
 **Monroe, Louisiana** - Due to high water on the Ouachita River and flooding of the 16,000-acre Mollicy Unit, the East Side of Upper Ouachita National Wildlife Refuge, near Bastrop, Louisiana, is closed to ensure public safety.

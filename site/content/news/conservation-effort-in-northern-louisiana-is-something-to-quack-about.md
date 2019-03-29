@@ -13,8 +13,11 @@ tags:
     - Arkansas
     - Louisiana
     - 'Louisiana Ecological Services Field Office'
+    - Mallard
+    - 'Northern Pintail'
     - Partnership
-updated: 'May 7th, 2018'
+    - 'Wood Duck'
+updated: 'March 28th, 2019'
 ---
 
 **Morehouse Parish, Louisiana** – The U.S. Fish and Wildlife Service (Service) and The Conservation Fund announced today the completion of a multi-year project to add nearly 4,000 acres of mixed farmland and timberland to [Upper Ouachita National Wildlife Refuge](http://www.fws.gov/upperouachita/) (NWR) in northeastern Louisiana. This action secures the largest remaining inholding for the Refuge, enabling more effective management of the area for wildlife habitat and public recreation.

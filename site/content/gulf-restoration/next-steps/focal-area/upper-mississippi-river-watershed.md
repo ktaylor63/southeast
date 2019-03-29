@@ -9,9 +9,10 @@ hero:
     caption: 'Seeding strips of native prairie into cropland to reduce soil loss and improve water quality at Neal Smith NWR. Photo by USFWS.'
 tags:
     - Gulf
+    - Mallard
 categories:
     - 'Focal Area'
-updated: 'March 15th, 2017'
+updated: 'March 28th, 2019'
 ---
 
 ## Landscape at a Glance

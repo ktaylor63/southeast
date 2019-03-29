@@ -17,8 +17,9 @@ tags:
     - 'South Carolina Ecological Services Field Office'
     - Trapping
     - 'Waccamaw National Wildlife Refuge'
+    - 'Wood Duck'
     - 'Wounded Warriors'
-updated: 'March 29th, 2018'
+updated: 'March 28th, 2019'
 ---
 
 Feral pigs are widely considered a nuisance species. The wild hogs cause an estimated $1.5 billion in property damage every year all over the United States on both public and private lands, according to the Mississippi State University Center for Resolving Human-Wildlife Conflicts. They are an invasive species that can disrupt entire food chains.

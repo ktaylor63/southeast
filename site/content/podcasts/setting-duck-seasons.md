@@ -7,8 +7,7 @@ author: 'Gary Peeples'
 hero:
     name: wood-duck-female.jpg
     alt: 'A brown bird with purple wing tips floats on semi-frozen water.'
-    link: 'https://flic.kr/p/yrv7rq'
-    caption: 'Female wood duck at Eufaula National Wildlife Refuge. Photo &copy; Quincey Banks.'
+    caption: 'Female wood duck at Eufaula National Wildlife Refuge. <a href="https://flic.kr/p/yrv7rq">Photo</a> &copy; Quincey Banks.'
     position: 'bottom right'
 tags:
     - 'Asheville Ecological Services Field Office'
@@ -16,7 +15,8 @@ tags:
     - 'North Carolina'
     - Podcast
     - 'Southern Appalachian Creature Feature'
-updated: 'August 8th, 2018'
+    - 'Wood Duck'
+updated: 'March 28th, 2019'
 ---
 
 ## Transcript

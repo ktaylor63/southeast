@@ -14,9 +14,10 @@ tags:
     - 'Duck Stamp'
     - 'Duck Stamp Act'
     - Hunting
+    - Mallard
     - 'North American Waterfowl Conservation Act'
     - 'North American Waterfowl Management Plan'
-updated: 'July 30th, 2018'
+updated: 'March 28th, 2019'
 ---
 
 **Augusta, Arkansas** - On a clear January evening at [Cache River National Wildlife Refuge](https://www.fws.gov/refuge/cache_river/), the sun soothed the sky into a pink glow. The mass of ducks quacking sounded like laughter, as they dropped into the sunlit forest that lined both sides of the refuge.

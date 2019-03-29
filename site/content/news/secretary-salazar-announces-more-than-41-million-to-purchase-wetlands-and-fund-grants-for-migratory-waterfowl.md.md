@@ -12,10 +12,13 @@ tags:
     - Grants
     - Louisiana
     - 'Louisiana Ecological Services Field Office'
+    - Mallard
     - Mississippi
+    - 'Northern Pintail'
     - 'South Carolina'
     - 'South Carolina Ecological Services Field Office'
-updated: 'May 7th, 2018'
+    - 'Wood Duck'
+updated: 'March 28th, 2019'
 ---
 
 Secretary of the Interior Ken Salazar announced on September 9, 2009, the Migratory Bird Conservation Commission has approved the expenditure of nearly $8 million in Federal Duck Stamp funds to add more than 4,000 wetland acres to seven units of the National Wildlife Refuge System. The Commission also approved $33.4 million in federal funding to conserve more than 190,000 acres of wetlands and associated habitat in the United States under the North American Wetlands Conservation Act (NAWCA).

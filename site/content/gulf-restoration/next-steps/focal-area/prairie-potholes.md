@@ -9,9 +9,11 @@ hero:
     caption: 'Prairie Pothole area in the Kulm Wetland Management District. Photo by Krista Lundgren, USFWS.'
 tags:
     - Gulf
+    - Mallard
+    - 'Northern Pintail'
 categories:
     - 'Focal Area'
-updated: 'April 21st, 2017'
+updated: 'March 28th, 2019'
 ---
 
 ## Landscape at a Glance

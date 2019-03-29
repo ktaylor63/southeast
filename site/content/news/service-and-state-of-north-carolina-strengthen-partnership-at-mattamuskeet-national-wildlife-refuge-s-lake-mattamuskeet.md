@@ -7,10 +7,11 @@ hero:
     link: 'https://flic.kr/p/jMESzk'
     caption: 'Mattamuskeet National Wildlife Refuge in North Carolina. Photo by Allie Stewart, USFWS.'
 tags:
-    - Partnership
+    - 'National Wildlife Refuge System'
     - 'North Carolina'
-    - NWRS
-updated: 'October 20th, 2016'
+    - Partnership
+    - 'Tundra Swan'
+updated: 'March 28th, 2019'
 ---
 
 **Swan Quarter, North Carolina** – Tomorrow Cindy Dohner, Southeast Regional Director of the U.S. Fish and Wildlife Service and Gordon Myers, Executive Director of the N.C. Wildlife Resources Commission, will strengthen a joint commitment to the conservation of fish and wildlife and their habitats on Mattamuskeet National Wildlife Refuge and its centerpiece Lake Mattamuskeet in Hyde County, North Carolina. 

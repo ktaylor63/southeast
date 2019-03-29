@@ -4,13 +4,15 @@ hero:
     name: duck-stamp-art-2017.jpg
     alt: 'Malards flying in front of a lake with cattail.'
     caption: 'The winning 2017 Federal Duck Stamp art, an acrylic painting of a pair of mallards by Minnesota artist Bob Hautman. Photo by USFWS.'
-    position: 'center left'
+    position: '30% 35%'
 date: '2017-09-16'
 tags:
     - Art
     - Competition
     - 'Federal Duck Stamp'
-updated: 'September 18th, 2017'
+    - Mallard
+    - 'Northern Pintail'
+updated: 'March 28th, 2019'
 ---
 
 Bob Hautman, an artist from Delano, Minnesota, is the winner of the 2017 Federal Duck Stamp Art Contest. The announcement was made today by U.S. Fish and Wildlife Service Principal Deputy Director Greg Sheehan at the annual art contest, held at the University of Wisconsin-Stevens Point at the Noel Fine Arts Center.
