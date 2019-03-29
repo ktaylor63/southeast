@@ -14,14 +14,20 @@ let contacts;
 
 const worksAtStation = contact => contact.station === officeName || contact.reportToStation === officeName;
 
-const createContact = contact => `
-  <li class="card card-text">
-    <p><a href="mailto:${contact.email}">${contact.name}</a>,
-    ${contact.title}</p>
-    <p>Phone: ${contact.phone}<br>Email: <a href="mailto:${contact.email}">
-    ${contact.email}</a></p>
-  </li>
-`;
+const createContact = c => {
+  const name = c.email ? `<a href="mailto:${c.email}">${c.name}</a>` : c.name;
+  const title = c.title ? `, ${c.title}` : '';
+  const phone = c.phone ? `Phone: ${c.phone}` : '';
+  const email = c.email
+    ? `Email: <a href="mailto:${c.email}">${c.email}</a>`
+    : '';
+  return `
+    <li class="card card-text">
+      <p>${name}${title}</p>
+      <p>${phone}${phone !== '' && email !== '' ? '<br>' : ''}${email}</p>
+    </li>
+  `;
+};
 
 const search = e => {
   const query = e.target.value;
