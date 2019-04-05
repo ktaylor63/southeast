@@ -13,6 +13,8 @@ const input = document.querySelector('.document-search');
 
 const unique = arrArg => arrArg.filter((elem, pos, arr) => arr.indexOf(elem) === pos);
 
+const alphabetically = (a, b) => a.name.localeCompare(b.name);
+
 const updateUrl = doc => {
   if (isUrl(doc.url)) return doc;
   doc.url = `${baseURL}pdf/${doc.url}`;
@@ -24,6 +26,7 @@ const template = ({ type, documents: docs }) => {
   return `
     <h2>${heading}</h2>
     <ul>${docs
+    .sort(alphabetically)
     .map(d => {
       const year = d.year ? `(${d.year})` : '';
       return `<li><a href="${d.url}" target="_blank">${d.office} ${
@@ -39,13 +42,12 @@ const render = docs => {
   list.innerHTML = '';
   // Create an array of document types (no duplicates)
   const types = unique(docs.map(doc => doc.type)).sort();
-  // Sort by office name, and by date if one exists
+  // Sort documents alphabetically
   types.forEach(type => {
     const filtered = docs
       .filter(doc => type === doc.type)
       .map(updateUrl)
-      .sort((a, b) => a.office < b.office)
-      .sort((a, b) => parseInt(a.year) - parseInt(b.year))
+      .sort(alphabetically)
       .reverse();
     list.insertAdjacentHTML(
       'beforeend',
@@ -81,8 +83,13 @@ const keyup$ = Observable.fromEvent(input, 'keyup')
 const searchResultSets = keyup$.combineLatest(document$, index$);
 
 searchResultSets.subscribe(([term, docs, index]) => {
-  const results = index.search(term).map(hit => docs[hit.ref]);
+  const results = index
+    .search(term)
+    .map(hit => docs[hit.ref])
+    .sort(alphabetically);
 
-  if (term === '') return render(docs);
+  console.log(docs);
+
+  if (term === '') return render(docs.sort(alphabetically));
   return render(results);
 });
