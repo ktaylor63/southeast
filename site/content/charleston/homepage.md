@@ -18,7 +18,7 @@ tags:
     - 'Endangered Species Act'
     - 'South Carolina'
     - 'South Carolina Ecological Services Field Office'
-updated: 'March 29th, 2019'
+updated: 'April 3rd, 2019'
 ---
 
 Established in 1973, the South Carolina Ecological Services Field Office (SCESFO), located in Charleston, South Carolina, is primarily focused on protection and recovery of threatened and endangered species, while also supporting conservation of migratory birds, fish, and wetlands. The SCESFO also coordinates with the South Carolina Department of Natural Resources (SCDNR) to address priority species outlined in their South Carolina Wildlife Action Plan.  
@@ -51,7 +51,7 @@ The SCESFO covers the entire state of South Carolina: 46 counties, over 31,000 s
 
 ## Directions
 
-The South Carolina Ecological Services Field Office is located in the Albemarle Point Center at [176 Croghan Spur Road in Charleston](https://www.google.com/maps/dir//176+Croghan+Spur,+Charleston,+SC+29407/@32.7763893,-79.9696424,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x88fe7bd27afd3349:0xc6f6765344a78a2!2m2!1d-79.9674484!2d32.7763848).
+The South Carolina Ecological Services Field Office is located in the Albemarle Point Center at [176 Croghan Spur Road in Charleston, Suite 200](https://www.google.com/maps/dir//176+Croghan+Spur,+Charleston,+SC+29407/@32.7763893,-79.9696424,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x88fe7bd27afd3349:0xc6f6765344a78a2!2m2!1d-79.9674484!2d32.7763848).
 
 ## Hours of operation
 
