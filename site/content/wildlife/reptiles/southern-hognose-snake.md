@@ -22,14 +22,14 @@ aliases:
     - /wildlife/reptile/southern-hognose-snake
     - /species/reptile/southern-hognose-snake
     - /species/reptiles/southern-hognose-snake
-updated: 'March 28th, 2019'
+updated: 'April 3rd, 2019'
 ---
 
 - **Taxon:** Reptile
 - **Range:** [Alabama](/alabama), [Florida](/florida), [Georgia](/georgia), [Mississippi](/mississippi), [North Carolina](/north-carolina), [South Carolina](/south-carolina)
 - **Status:** At-risk species, [petitioned for listing on July 11, 2012](http://www.gpo.gov/fdsys/pkg/FR-2015-07-01/pdf/2015-16001.pdf); [90-day-finding that petitioned action may be warranted](https://www.govinfo.gov/content/pkg/FR-2015-07-01/pdf/2015-16001.pdf)
 
-First described by Carl Linneaus in 1766 from a specimen received from Charleston, South Carolina, the Southern hognose snake is the smallest of the five species of hognose snakes native to North America.  All belonging to the genus *Heterodon*, there is the Eastern hognose snake (*H. platirhinos*; occurs throughout much of the eastern United States; overlaps with the southern hognose snake’s range), the Western hognose snake (*H. nasicus*; occurs from southern Canada to northern Mexico through the central United States), the Mexican hognose snake (*H. kennerlyi*; occurs in Texas, Arizona and New Mexico), and the dusty hognose snake (*H. gloydi* – occurs in Texas).
+First described by Carl Linneaus in 1766 from a specimen received from Charleston, South Carolina, the southern hognose snake is the smallest of the five species of hognose snakes native to North America.  All belonging to the genus *Heterodon*, there is the eastern hognose snake (*H. platirhinos*; occurs throughout much of the eastern United States; overlaps with the southern hognose snake’s range), the western hognose snake (*H. nasicus*; occurs from southern Canada to northern Mexico through the central United States), the Mexican hognose snake (*H. kennerlyi*; occurs in Texas, Arizona and New Mexico), and the dusty hognose snake (*H. gloydi* – occurs in Texas).
 
 {{< content-scroller tag="Southern Hognose Snake" heading="Related content" >}}
 
@@ -39,7 +39,7 @@ First described by Carl Linneaus in 1766 from a specimen received from Charlesto
 
 ## Appearance
 
-The southern hognose snake is the smallest of the hognose snakes, typically ranging from 12.9-21.8 inches in length with a maximum size of 23.8 inches.  Adult females tend to be longer than males but males tend to have longer tail sections than females.  The heads of southern hognose snakes are dusky brown, short, and have sharply upturned snouts.  There is a dark bar that often occurs on the snout in front of the eyes.  There is also a dark brown or black stripe that occurs on either side of the neck and a short dark stripe that may occur from the rear of the eye to the corner of the mouth.
+The southern hognose snake is the smallest of the hognose snakes, typically ranging from 12.9-21.8 inches in length with a maximum size of 23.8 inches.  Adult females tend to be longer than males but males tend to have longer tails than females.  The heads of southern hognose snakes are dusky brown, short, and have sharply upturned snouts.  There is a dark bar that often occurs on the snout in front of the eyes.  There is also a dark brown or black stripe that occurs on either side of the neck and a short dark stripe that may occur from the rear of the eye to the corner of the mouth.
 
 {{< figure class="photo-center" src="/images/pages/southern-hognose-snake-close-up.jpg" alt="Close-up shot of a snake's head with a rounded head and flat mouth" caption="Southern hognose snake. Photo by Pierson Hill, Florida Fish and Wildlife Conservation Commission." >}}
 
@@ -57,19 +57,19 @@ During the winter months, the southern hognose snake is rarely seen above ground
 
 ## Habitat
 
-Commonly associated with the longleaf pine ecosystem, southern hognose snakes occupy very dry upland habitat with well-drained, sandy soils.  They favor habitat where the canopy is open with a grassy understory.  Regional differences occur throughout its range, with snakes in North Carolina being found in mixed oak-pine forests occurring on well-drained, sandy soils, and snakes in Florida being found in dryer habitats, such as sand pine scrub or longleaf pine-turkey oak sandhills. 
+Commonly associated with the longleaf pine ecosystem, southern hognose snakes occupy very dry upland habitat with well-drained, sandy soils.  They favor habitat where the canopy is open with a grassy understory.
  
 Little is known about their underground habitat aside from the fact that they excavate their own hibernacula, burrowing more or less vertically into sandy soil in inconspicuous spots.  They do not depend on stump holes or other underground chambers, although there have been recent reports of the snakes using pocket gopher mounds and gopher tortoise burrows.  Three main habitat elements for the species are clear:  well-drained soils, suitable vegetation structure and composition, and presence of prey.
 
 ## Diet
 
-Frogs and toads make up the largest portion of the snake’s diet.  They are also known to eat small lizards.  The specialized upturned snout of the hognose snake is used to dig out buried prey.  As members of the genus *Heterodon* (meaning different tooth), hognose snakes have enlarged, ungrooved teeth in the rear of their mouths called rear fangs.  Some scientists have hypothesized that those are used to puncture inflated toads and spadefoot toads.  More likely, the snake is injecting mildly toxic venom into its prey.  Venom, produced by a gland called the Duvernoy’s gland, exits through ducts connecting to the fang sheaths.  While the southern hognose snake is not considered a dangerous species, there have been a few cases of reactions to the venom, most likely from sustained bites.
+Frogs and toads make up the largest portion of the snake’s diet.  They are also known to eat small lizards.  The specialized upturned snout of the hognose snake is used to dig out buried prey.  As members of the genus *Heterodon* (meaning different tooth), hognose snakes have enlarged, ungrooved teeth in the rear of their mouths called rear fangs.  Some scientists have hypothesized that those are used to puncture inflated toads and spadefoot toads.  More likely, the snake is injecting mildly toxic venom into its prey.  Venom, produced by a gland called the Duvernoy’s gland, exits through ducts connecting to the fang sheaths.
 
 {{< figure class="photo-center" src="/images/pages/southern-hognose-snake-eating-a-spadefoot-toad.jpg" alt="A snake with it's mouth enveloping a much larger toad" caption="Southern hognose snake eating a spadefoot toad. Photo by Kevin Enge, Florida Fish and Wildlife Conservation Commission." >}}
 
 ## Range
 
-Native to the Coastal Plain of the southeastern United States, the southern hognose snake is found in North Carolina, South Carolina, Georgia, Florida, Alabama, and Mississippi.  The range map below shows historic range, counties with known records of occurrence, and areas within the range where the species may no longer occur.  Southeast Louisiana was once included in the snake’s historic range but those records are now considered in error.
+Native to the Coastal Plain of the southeastern United States, the southern hognose snake is known from North Carolina, South Carolina, Georgia, Florida, Alabama, and Mississippi.  The range map below shows historic range, counties with known records of occurrence, and areas within the range where the species may no longer occur.
 
 {{< figure class="photo-center" src="/images/pages/southern-hognose-snake-ssa-map-20190325.jpg" alt="Map of southern hognose snake occurrences in the Southeast. Populations follow the historical distribution of longleaf pine." caption="Southern hognose snake range map (click to enlarge). Map by U.S. Fish and Wildlife Service, December 2018." link="/pdf/map/southern-hognose-snake-ssa-map-20190325.jpg" >}}
 
@@ -77,7 +77,7 @@ Native to the Coastal Plain of the southeastern United States, the southern hogn
 
 The primary concerns for the future of the southern hognose snake are habitat-based.  Habitat loss, conversion and fragmentation resulting in the loss of longleaf pine savanna habitat across the range of the species are the top concerns, further exacerbated by impacts from urbanization and climate change.
  
-Road mortalities are also a concern for the species.  Snakes tend to use roads as an external source of warmth and their vulnerability to vehicle encounters increases when they travel outside of their normal home range.  For southern hognose snakes, their cryptic coloration, small size, slow movement, and behavior of remaining motionless when threatened, makes them particularly susceptible to road mortality.  During one survey conducted in North Carolina from 1985-2012, of the 764 southern hognose snakes detected, 643 (84%) were found dead on road.
+Road mortalities are also a concern for the species.  Snakes tend to use roads as an external source of warmth and their vulnerability to vehicle encounters increases when they travel outside of their normal home range.  For southern hognose snakes, their cryptic coloration, small size, slow movement, and behavior of remaining motionless when threatened, makes them particularly susceptible to road mortality.  During one survey conducted in North Carolina from 1985-2012, of the 764 southern hognose snakes detected, 643 (84%) were found dead on a road.
  
 Invasive species are also having impacts on this snake.  Red imported fire ants have been linked to population declines of several native species, including the southern hognose snake.  Feral hogs are having an impact, not only through direct consumption of snakes but habitat alteration through their rooting behaviors.
 
@@ -105,7 +105,7 @@ The Department of Defense, U.S. Forest Service, U.S. Fish and Wildlife Service, 
  
 ### Candidate Conservation Agreements with Assurances
 
-Throughout the range of the southern hognose snake, several Candidate Conservation Agreements with Assurances (CCAAs) have been developed or are being developed.  CCAAs are voluntary commitments made by non-federal partners to undertake actions that will remove or reduce threats to candidate or other at-risk species, providing net conservation benefits that have the potential to preclude the need to list a species under the Endangered Species Act.  Two CCAAs in place that have the potential to benefit the southern hognose snake are the Camp Blanding Joint Training Center CCAA and The Quail County Programmatic CCAA.  A third one in development is South Carolina’s Southern Pinelands Programmatic CCAA.  These agreements provide enrolled landowners with certain regulatory assurances, should a species become listed in the future.
+Throughout the range of the southern hognose snake, several Candidate Conservation Agreements with Assurances (CCAAs) have been developed or are being developed.  CCAAs are voluntary commitments made by non-federal partners to undertake actions that will remove or reduce threats to candidate or other at-risk species, providing net conservation benefits that have the potential to preclude the need to list a species under the Endangered Species Act.  Two CCAAs in place that have the potential to benefit the southern hognose snake are the Camp Blanding Joint Training Center CCAA and The Quail County Programmatic CCAA. These agreements provide enrolled landowners with certain regulatory assurances, should a species become listed in the future.
  
 ### State protections
 
