@@ -44,7 +44,7 @@ The Partners for Fish and Wildlife Program works with voluntary habitat improvem
 
 ## General requirements
 
-- Projects must benefit Federal trust resources including threatened or endangered species and/or ARS;
+- Projects must benefit federal trust resources including threatened or endangered species and/or ARS;
 - Minimum ten year agreement;
 - Voluntary participation;
 - Landowner does not forfeit property rights; and
