@@ -724,7 +724,7 @@ number,status,fed_register
 17641D-0,Issued,N/A
 083085-3,In RO for Review,on 30 day notice period
 20276D-0,In RO for Review,on 30 day notice period
-21276D-0,Awaiting Input from Applicant,on 30 day notice period
+21276D-0,In RO for Review,on 30 day notice period
 02166C-1,In RO for Review,on 30 day notice period
 075916-7,Issued,N/A
 24576D-0,Issued,N/A
@@ -744,9 +744,9 @@ number,status,fed_register
 22311A-5,In RO for Review,N/A
 31833D-0,In RO for Review,N/A
 94704A-4,In RO for Review,N/A
-33187D-0,In RO for Review,N/A
+33187D-0,Awaiting Input from Applicant,N/A
 78148C-1,In RO for Review,N/A
-33225D-0,In RO for Review,N/A
+33225D-0,Awaiting signature,N/A
 33226D-0,In RO for Review,N/A
 33227D-0,In RO for Review,needs to be drafted
 33469D-0,In RO for Review,N/A
@@ -757,3 +757,4 @@ number,status,fed_register
 069754-6,Issued,N/A
 64393C-1,In RO for Review,needs to be drafted
 35022D-0,In RO for Review,N/A
+34778A-2,Issued,N/A
