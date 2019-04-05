@@ -119,6 +119,10 @@ The southern hognose snake is listed as state threatened in South Carolina and G
 - Continue to inventory and monitor known populations.
 - Continue outreach and education on the species.
 
+## Subject matter experts 
+
+- Melanie Olds, South Carolina Ecological Services Field Office, (843)727-4707 ext. 205, [melanie_olds@fws.gov](mailto:melanie_olds@fws.gov)
+
 ## Designated critical habitat 
 
 If the species is listed under the Endangered Species Act, critical habitat may be designated.
