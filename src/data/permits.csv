@@ -661,7 +661,7 @@ number,status,fed_register
 35594A-3,In RO for Review,Noticed for 30 days
 069754-6,Withdrawn,N/A
 97786C-0,No permit needed,needs to be drafted
-98274C-0,Awaiting Input from Applicant,N/A
+98274C-0,Issued,N/A
 16616C-1,Issued,N/A
 77197C-1,Issued,N/A
 99171C-0,In RO for Review,N/A
@@ -758,3 +758,5 @@ number,status,fed_register
 64393C-1,In RO for Review,needs to be drafted
 35022D-0,In RO for Review,N/A
 34778A-2,Issued,N/A
+007748-4,Awaiting Input from Applicant,N/A
+65334A-2,In RO for Review,N/A
