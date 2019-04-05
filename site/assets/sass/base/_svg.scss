@@ -1,3 +1,8 @@
+/* Rotate SC SVG to true North */
+.south-carolina-svg {
+  transform: rotate(6deg);
+}
+
 .south-carolina-svg path,
 .eastern-north-carolina path {
   fill: $color-accent;
