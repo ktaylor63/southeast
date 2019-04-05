@@ -216,15 +216,15 @@ const closest = (elem, selector) => {
   return null;
 };
 
-const scrollerLists = Array.from(
-  document.querySelectorAll('.scroller-list--list')
+const contentLists = Array.from(
+  document.querySelectorAll('.content-scroller--list')
 );
 
 function lazyLoad(e) {
   const attribute = 'data-src';
   const scrollerList = e.target;
   const nearestLazyImg = scrollerList.querySelector(`[${attribute}]`);
-  const nearestLazyItem = closest(nearestLazyImg, '.scroller-list--item');
+  const nearestLazyItem = closest(nearestLazyImg, '.content-scroller--item');
   if (!nearestLazyItem) return;
   const lazyImgFromView =    nearestLazyItem.offsetTop
     - scrollerList.clientHeight
@@ -235,8 +235,7 @@ function lazyLoad(e) {
     nearestLazyImg.removeAttribute(attribute);
   }
 }
-
-scrollerLists.forEach(list => {
+contentLists.forEach(list => {
   list.addEventListener('scroll', throttle(lazyLoad, 100));
 });
 
