@@ -13,7 +13,7 @@ tags:
     - 'Endangered Species Act'
     - Recovery
     - 'South Carolina'
-updated: 'March 28th, 2019'
+updated: 'April 4th, 2019'
 ---
 
 When Congress passed the Endangered Species Act (ESA) in 1973, it recognized that our rich natural heritage is of “esthetic, ecological, educational, recreational, and scientific value to our Nation and its people.” It further expressed concern that many of our nation’s native plants and animals were in danger of becoming extinct.
@@ -47,20 +47,20 @@ Not sure whether or not you need an Incidental Take Permit (ITP)? Download the [
 
 ## Contacts
 
-**Whitney Wiest Beisler**, Fish and Wildlife Biologist, whitney_wiest@fws.gov, (843) 727-4707 ext. 228  
+**Whitney Wiest Beisler**, Fish and Wildlife Biologist, [whitney_wiest@fws.gov](mailto:whitney_wiest@fws.gov), (843) 727-4707 ext. 228  
 Lead for [eastern black rail](https://ecos.fws.gov/ecp0/profile/speciesProfile?sId=7717) (proposed for listing October 2018) and [Kirtland’s warbler](https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B03I).
 
-**Melissa Chaplin**, Fish an Wildlife Biologist, melissa_chaplin@fws.gov, (843) 727-4707 ext. 217  
+**Melissa Chaplin**, Fish and Wildlife Biologist, [melissa_chaplin@fws.gov](mailto:melissa_chaplin@fws.gov), (843) 727-4707 ext. 217  
 Lead for [black-capped petrel](https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B0AS) (proposed for listing October 2018), [piping plover](https://ecos.fws.gov/ecp0/profile/speciesProfile?sId=6039), [red knot](https://ecos.fws.gov/ecp0/profile/speciesProfile?sId=1864), [green sea turtle](https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=C00S), [Kemp’s ridley sea turtle](https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=C00O), [leatherback sea turtle](https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=C00F), and [loggerhead sea turtle](https://ecos.fws.gov/ecp0/profile/speciesProfile?sId=1110).
 
-**Melanie Olds**, Fish an Wildlife Biologist, melanie_olds@fws.gov, (843) 727-4707 ext. 205  
+**Melanie Olds**, Fish an Wildlife Biologist, [melanie_olds@fws.gov](mailto:melanie_olds@fws.gov), (843) 727-4707 ext. 205  
 Lead for [West Indian manatee](https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A007); *[Learn more about manatees](/wildlife/mammals/manatee/), including tips on minimizing human interactions with the species.*
 
-**April Punsalan**, Biologist/Botanist, april_punsalan@fws.gov, (843) 727-4707 ext. 218  
+**April Punsalan**, Biologist/Botanist, [april_punsalan@fws.gov](mailto:april_punsalan@fws.gov), (843) 727-4707 ext. 218  
 Lead for [American chaffseed](https://ecos.fws.gov/ecp0/profile/speciesProfile?sId=1286), [black spored quillwort](https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=S015), [bunched arrowhead](https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=Q219), [Canby’s dropwort](https://ecos.fws.gov/ecp0/profile/speciesProfile?sId=7738), [dwarf-flowered heartleaf](https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=Q1XA), [harperella](https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=Q2H9), [little amphianthus](https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=Q1ST), [Miccosukee gooseberry](https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=Q217), [Michaux’s sumac](https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=Q2HH), [mountain sweet pitcher plant](https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=Q2I0), [persistent trillium](https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=Q23D), [pondberry](https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=Q2CO), [relict trillium](https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=Q2RG), [rock gnome lichen](https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=U001), [rough-leaved loosestrife](https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=Q2DF), [Schweinitz’s sunflower](https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=Q2B7), [seabeach amaranth](https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=Q2MZ), [small-whorled pogonia](https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=Q1XL), [smooth coneflower](https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=Q293), [swamp pink](https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=Q2B8), [white fringeless orchid](https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=Q2GF), and [white irisette](https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=Q39D).
 
-**Paula Sisson**, Fish and Wildlife Biologist, paula_sission@fws.gov, (843) 727-4707 ext. 226  
+**Paula Sisson**, Fish and Wildlife Biologist, [paula_sission@fws.gov](mailto:paula_sission@fws.gov), (843) 727-4707 ext. 226  
 Lead for [Bachman’s warbler](https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B03G), [red-cockaded woodpecker](https://ecos.fws.gov/ecp0/profile/speciesProfile?sId=7614), and [frosted flatwoods salamander](https://ecos.fws.gov/ecp0/profile/speciesProfile?sId=4981).
 
-**Morgan Wolf**, Fish and Wildlife Biologist, morgan_wolf@fws.gov, (843) 727-4707 ext. 219  
+**Morgan Wolf**, Fish and Wildlife Biologist, [morgan_wolf@fws.gov](mailto:morgan_wolf@fws.gov), (843) 727-4707 ext. 219  
 Lead for [wood stork](https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B06O), [Atlantic pigtoe](https://ecos.fws.gov/ecp0/profile/speciesProfile?sId=5164) (proposed for listing October 2018), [Carolina heelsplitter](https://ecos.fws.gov/ecp0/profile/speciesProfile?sId=3534), and [northern long-eared bat](https://ecos.fws.gov/ecp0/profile/speciesProfile?sId=9045).
