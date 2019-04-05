@@ -17,16 +17,16 @@ tags:
     - 'South Carolina'
     - 'Wildlife Observation'
     - 'Wildlife Photography'
-updated: 'March 1st, 2019'
+updated: 'April 4th, 2019'
 ---
 
 Our nation has one of the world's largest networks of protected public lands set aside for the enjoyment of the American people.  This vast network supports a healthy outdoor recreation industry, providing millions of jobs across the U.S. and generating billions of dollars for the economy.  These jobs and revenue in turn help support local communities and fund conservation efforts.  So whether you are hunting, fishing, or hiking, you're not just renewing your spirit and improving your health, you're also contributing to the future of conserving and enhancing our natural heritage for future generations.
 
-With several National Wildlife Refuges and National Fish Hatcheries in South Carolina, there are a wealth experiences to be had year-round.  Besides hunting and fishing, some of the other priority uses of these special places are wildlife observation, photography, environmental education and interpretation.  For current information on each facility, please call their office or visit their websites.  Rules, regulations, and conditions are updated regularly and may be subject to change.
+With several national wildlife refuges and national fish hatcheries in South Carolina, there are a wealth experiences to be had year-round.  Besides hunting and fishing, some of the other priority uses of these special places are wildlife observation, photography, environmental education and interpretation.  For current information on each facility, please call their office or visit their websites.  Rules, regulations, and conditions are updated regularly and may be subject to change.
 
-## U.S. Fish and Wildlife Service Locations in South Carolina
+## U.S. Fish and Wildlife Service locations in South Carolina
 
-### National Wildlife Refuges
+### National wildlife refuges
 
 [Ernest F. Hollings - ACE Basin National Wildlife Refuge](https://www.fws.gov/refuge/ACE_basin/)  
 8675 Willtown Road  
@@ -58,7 +58,7 @@ Hardeeville, SC 29927
 Georgetown, SC 29440  
 (843) 527-8069
 
-### National Fish Hatcheries
+### National fish hatcheries
 
 [Bears Bluff National Fish Hatchery](https://www.fws.gov/bearsbluff/)  
 7030 Bears Bluff Road  
