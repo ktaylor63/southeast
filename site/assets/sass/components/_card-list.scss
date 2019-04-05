@@ -5,10 +5,10 @@
 
 .card {
   @include card;
+  overflow: hidden;
 }
 
 .card-hero {
-  overflow: hidden;
   position: relative;
 
   img {
