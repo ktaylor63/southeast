@@ -14,10 +14,9 @@ tags:
 hero:
     name: florida-grasshopper-sparrow-with-chicks.jpg
     alt: 'Small bird with brown and white feathering. Yellow feathering on its head.'
-    link: 'https://flic.kr/p/GE6idu'
-    caption: 'Florida grasshopper sparrow and chicks. Photo by rarespecies.org.'
+    caption: 'Florida grasshopper sparrow and chicks. <a href="https://flic.kr/p/GE6idu">Photo</a> by rarespecies.org.'
     position: 'top center'
-updated: 'January 3rd, 2018'
+updated: 'April 10th, 2019'
 ---
 **Vero Beach, Florida** - Conservation history was made May 9 when the first captive-bred [Florida grasshopper sparrow chicks](https://www.flickr.com/photos/usfwssoutheast/26685331040/in/dateposted-public/) hatched at the Rare Species Conservatory Foundation (RSCF) in Loxahatchee, Florida -- a major breakthrough for one of North America’s most endangered birds.
 
