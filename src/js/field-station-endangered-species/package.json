@@ -1,0 +1,42 @@
+{
+  "name": "field-station-endangered-species",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "browserslist": [
+    "defaults"
+  ],
+  "browserify": {
+    "transform": [
+      [
+        "babelify",
+        {
+          "presets": [
+            "@babel/preset-env"
+          ]
+        }
+      ]
+    ]
+  },
+  "scripts": {
+    "browserify": "browserify index.js | uglifyjs -mc > ../../../site/static/js/field-station-endangered-species.js",
+    "watchify": "watchify index.js -o ../../../site/static/js/field-station-endangered-species.js -dv",
+    "start": "npm run watchify",
+    "build": "npm run browserify"
+  },
+  "keywords": [],
+  "author": "@r0yhewitt <roy_hewitt@fws.gov>",
+  "license": "SAX-PD",
+  "devDependencies": {
+    "@babel/core": "^7.3.4",
+    "@babel/preset-env": "^7.3.4",
+    "babelify": "^10.0.0",
+    "browserify": "^16.2.3",
+    "uglify-es": "^3.3.9",
+    "watchify": "^3.11.1"
+  },
+  "dependencies": {
+    "fips-county-codes": "^2.1.0",
+    "madison": "^1.0.2"
+  }
+}
