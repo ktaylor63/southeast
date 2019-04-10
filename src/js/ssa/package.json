@@ -27,12 +27,12 @@
   "author": "@r0yhewitt <roy_hewitt@fws.gov>",
   "license": "SAX-PD",
   "devDependencies": {
-    "@babel/core": "^7.1.5",
-    "@babel/preset-env": "^7.1.5",
+    "@babel/core": "^7.4.3",
+    "@babel/preset-env": "^7.4.3",
     "babelify": "^10.0.0",
     "browserify": "^16.2.3",
     "uglify-es": "^3.3.9",
-    "watchify": "^3.11.0"
+    "watchify": "^3.11.1"
   },
   "dependencies": {
     "axios": "^0.17.1",
