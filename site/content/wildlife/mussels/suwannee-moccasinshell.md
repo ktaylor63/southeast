@@ -1,5 +1,5 @@
 ---
-title: 'Suwanee moccasinshell'
+title: 'Suwannee moccasinshell'
 description: 'The Suwannee moccasinshell is a small freshwater mussel that rarely exceeds 2 inches in length found only in the Suwannee River Basin in Florida and Georgia.'
 type: species-profile
 scientific: 'Medionidus walkeri'
