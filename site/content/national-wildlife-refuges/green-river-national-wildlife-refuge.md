@@ -13,7 +13,7 @@ tags:
     - 'National Wildlife Refuge System'
     - Planning
     - 'Refuge Establishment'
-updated: 'March 26th, 2019'
+updated: 'April 15th, 2019'
 ---
 
 The U.S. Fish and Wildlife Service (Service) proposes to establish Kentucky’s second national wildlife refuge to protect high quality wildlife and fish habitats near the confluence of the Green River and Ohio River.  With support and direction from the U.S. Congress, the Service is proposing to establish the Green River National Wildlife Refuge (NWR) in Henderson County, Kentucky.
@@ -73,7 +73,7 @@ The Service welcomes and encourages the public to participate in its effort to e
 ## Contact
 
 Michael Johnson, Refuge Manager, Clarks River National Wildlife Refuge  
-[michael_johnson@fws.gov](mailto:michael_johnson@fws.gov), (270) 570-5770
+[michael_johnson@fws.gov](mailto:michael_johnson@fws.gov), (270) 527-5770
 
 Tina Chouinard, Project Planner  
 [tina_chouinard@fws.gov](mailto:tina_chouinard@fws.gov), (731) 432-0981
