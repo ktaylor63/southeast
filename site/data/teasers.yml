@@ -1,12 +1,20 @@
 stories:
+  - title: "Proposed conservation agreement for monarch butterfly"
+    summary: "The U.S. Fish and Wildlife Service is announcing the opening of a 60-day public comment period regarding an “enhancement of survival” permit application associated with a proposed Candidate Conservation Agreement with Assurances (CCAA) for the monarch butterfly on energy and transportation lands. The proposed agreement would involve transportation and energy partners across the lower 48 states and would address conservation needs of the species on millions of acres of rights-of-way and associated lands."
+    date: 2019-04-12
+    url: "https://www.fws.gov/news/ShowNews.cfm?ref=proposed-conservation-agreement-for-monarch-butterfly-&_ID=36391"
+    hero:
+      name: monarch-butterfly-sullivans-island.jpg
+      alt: "An orange, black and white butterfly perched on a white flower."
+      caption: "Monarch butterfly on Sullivans Island. Photo by Jennifer Koches, USFWS."
   - title: "The value of 'negative information'; Sampling for trispot darters"
     summary: "Sometimes half of science is figuring out what you don't know so you can focus your research and begin to chip away at the edges of your ignorance."
     date: 2019-03-19
     url: "https://www.youtube.com/watch?v=bKSpdt9Unvk"
     hero:
       name: trispot-darter-with-rocks.jpg
-      alt: 'A small fish with brown and white spots swimming in front of small rocks.'
-      caption: 'Trispot darter. Photo by Dick Biggins, USFWS.'
+      alt: "A small fish with brown and white spots swimming in front of small rocks."
+      caption: "Trispot darter. Photo by Dick Biggins, USFWS."
   - title: "GA DNR shorebird studies probe ways to keep predators at bay"
     summary: "For shorebirds on Georgia beaches, nesting and rearing chicks requires surviving a gauntlet of threats. Some of the deadliest come with fur: raccoons and coyotes. But using National Fish and Wildlife Foundation funding, scientists at the Georgia Department of Natural Resources have documented ways to limit the impact these four-pawed predators have on two shorebird species of concern, Wilson’s plover and American oystercatcher."
     date: 2019-03-12
