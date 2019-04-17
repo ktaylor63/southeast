@@ -602,7 +602,7 @@ number,status,fed_register
 75560C-0,In FO for Review,Noticed for 30 days
 183402-1,Abandoned,Noticed for 30 days
 75578C-0,Awaiting Input from Applicant,N/A
-810274-13,Withdrawn,N/A
+810274-12,Withdrawn,N/A
 76455C-0,In FO for Review,Noticed for 30 days
 77197C-0,Issued,Noticed for 30 days
 34778A-2,Issued,N/A
@@ -738,7 +738,7 @@ bio,In FO for Review,Noticed for 30 days
 26537D-0,Issued,N/A
 075913-6,Awaiting Input from Applicant,N/A
 51145B-1,In RO for Review,needs to be drafted
-070796-10,In RO for Review,N/A
+070796-9,Awaiting Input from Applicant,N/A
 28638D-0,Awaiting Input from Applicant,N/A
 30127D-0,In RO for Review,needs to be drafted
 22311A-5,Issued,N/A
@@ -764,3 +764,4 @@ bio,In FO for Review,Noticed for 30 days
 98596B-0,In RO for Review,N/A
 36886D-0,In RO for Review,N/A
 36931D-0,In RO for Review,N/A
+810274-12,In RO for Review,N/A
