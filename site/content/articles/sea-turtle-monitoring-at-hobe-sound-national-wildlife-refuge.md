@@ -6,7 +6,7 @@ lng: -80.111267
 hero:
     name: hobe-sound-nwr-sunrise.jpg
     alt: 'A bright yellow sun rises over the Atlantic Ocean.'
-    caption: 'Sunrise at Hobe Sound National Wildlife Refuge.  Photo by Diana Gu, USFWS.'
+    caption: 'Sunrise at Nathanial P. Reed Hobe Sound National Wildlife Refuge.  Photo by Diana Gu, USFWS.'
 tags:
     - 'Sea Turtle'
     - Monitoring
