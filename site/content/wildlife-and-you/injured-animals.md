@@ -28,10 +28,10 @@ Stay safe. Please contact a licensed wildlife rehabilitator within your state.
 
 These are links to our state partner websites that provide a list of wildlife rehabilitators in your state:
 
-- [Alabama](http://www.outdooralabama.com/current-wildlife-rehabbers)
+- [Alabama](https://www.outdooralabama.com/wildlife-rehabilitation/current-wildlife-rehabbers)
 - [Arkansas](https://www.agfc.com/en/resources/wildlife-conservation/wildlife-rehabilitation/)
-- [Florida](http://myfwc.com/conservation/you-conserve/assistnuisance-wildlife/wildlife-rehabbers/)
-- [Georgia](http://georgiawildlife.com/injuredorphanedwildlife)
+- [Florida](https://myfwc.com/conservation/you-conserve/wildlife/injured-orphaned/)
+- [Georgia](https://georgiawildlife.com/nuisancewildlife#injured_wildlife)
 - [Kentucky](http://app.fw.ky.gov/rehabilitatorNew/)
 - [Louisiana](http://www.wlf.louisiana.gov/rehab)
 - [Mississippi](http://www.mswildliferehab.com/)
