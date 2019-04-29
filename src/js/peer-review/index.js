@@ -37,6 +37,11 @@ const createListItem = r => {
   const peerReviewPlan = r.peerReviewPlan
     ? `<li><a href="${peerReviewUrl}" target="_blank">Peer review plan</a></li>`
     : '';
+  const peerReviewDocs = r.peerReviewDocuments
+    ? `<li><a href="${
+      r.peerReviewDocuments
+    }" target="_blank">Peer review documents</a></li>`
+    : '';
   return `
     <li class="card card-text">
       <span class="card-ribbon">${r.type}</span>
@@ -45,6 +50,7 @@ const createListItem = r => {
         <ul>
           <li>${r.docket ? anchor : message}</li>
           ${peerReviewPlan}
+          ${peerReviewDocs}
           ${ssaDoc}
         </ul>
       </div>
