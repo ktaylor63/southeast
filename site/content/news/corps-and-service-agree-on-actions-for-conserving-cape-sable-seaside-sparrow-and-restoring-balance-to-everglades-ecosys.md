@@ -48,5 +48,3 @@ Listen to a recording of the teleconference.
 <audio controls=""><source src="/audio/everglades-restoration-transition-plan.mp3" type="audio/mpeg"> Your browser does not support the `audio` element.</audio>
 
 Download the [transcript](/audio/transcripts/everglades-restoration-transition-plan.pdf).
-
-For more information, please visit: [https://www.fws.gov/verobeach/20160722NRERTPJeopardyBO.html](https://www.fws.gov/verobeach/20160722NRERTPJeopardyBO.html)
