@@ -27,9 +27,7 @@ This year’s Refuge Week launches a year-long celebration of America’s rivers
 
 The Refuge System includes 566 national wildlife refuges and 38 wetland management districts covering over 150 million acres of lands. More than 50 million Americans visit refuges every year. Refuges support regional economies to the tune of $2.4 billion per year and more than 35,000 jobs.
 
-During National Wildlife Refuge Week, held annually during the second full week of October, you can find [special events](https://www.fws.gov/refuges/SpecialEvents/FWS_SpecialEvents_Search.cfm), festivals, tours and even chances to volunteer to help wildlife. While you’re there, learn how refuges protect green spaces and improve life for you and your community. 
-
-[Learn more about this year’s celebration](https://www.fws.gov/refuges/visitors/RefugeWeek2017.html).
+During National Wildlife Refuge Week, held annually during the second full week of October, you can find [special events](https://www.fws.gov/refuges/SpecialEvents/FWS_SpecialEvents_Search.cfm), festivals, tours and even chances to volunteer to help wildlife. While you’re there, learn how refuges protect green spaces and improve life for you and your community.
 
 ## Contact
 
