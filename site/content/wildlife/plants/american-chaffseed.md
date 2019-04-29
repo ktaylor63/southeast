@@ -127,7 +127,7 @@ Brandi Cannon, Masters Student with Columbia University, is researching the gene
 
 {{< figure class="photo-center" src="/images/pages/american-chaffseed-lynchburg-savanna-heritage-preserve.jpg" alt="Two men posing for a photo in a grassy field below a pine tree." caption="Lynchburg Savanna Heritage Preserve. Photo by USFWS." >}}
 
-The South Carolina Department of Natural Resources (SCDNR) [has worked hard](http://www.dnr.sc.gov/video/sept_video/septvideo_lynch.html) to restore the Lynchburg Savanna Heritage Preserve using prescribed fire as their management tool to help recover American chaffseed.  Johnny Stowe, Heritage Preserve Land Manager, left a small portion (left side of photo above) of the preserve unburned to demonstrate the important role fire plays in creating and maintaining Longleaf Pine Savannas.  Pictured above (l-r):  Aaron Robinson, intern, South Carolina Department of Natural Resources and Johnny Stowe, Heritage Preserve Manager, South Carolina Department of Natural Resources.
+The South Carolina Department of Natural Resources (SCDNR) has worked hard to restore the Lynchburg Savanna Heritage Preserve using prescribed fire as their management tool to help recover American chaffseed.  Johnny Stowe, Heritage Preserve Land Manager, left a small portion (left side of photo above) of the preserve unburned to demonstrate the important role fire plays in creating and maintaining Longleaf Pine Savannas.  Pictured above (l-r):  Aaron Robinson, intern, South Carolina Department of Natural Resources and Johnny Stowe, Heritage Preserve Manager, South Carolina Department of Natural Resources.
 
 [From the Native Plants Journal:  Greenhouse propagation of the endangered hemiparasite Schwalbea americana (American chaffseed): experimentation and botanical studies](http://npj.uwpress.org/content/18/1/50.full.pdf+html)
 
@@ -163,7 +163,6 @@ There is no designated critical habitat for the species.
 
 ##  Historic news
 
-- [Restoration work for the red-cockaded woodpecker (RCW) in southeast Alabama benefits American chaffseed.](http://www.alfrc.org/EnonSehoySummary2005_2011.pdf)
 - [Jay Kelly gives a presentation on New Jersey ex situ efforts to the Philadelphia Botanical Club.](https://forums.njpinebarrens.com/threads/pbc-event-chaffseed.6084/)
 - [Species Biology and Life History of the Federally Endangered Schwalbea Americana L. (Scrophulariaceae) by Amy Heather Norden, B.S., Florida State University, 1998](https://getd.libs.uga.edu/pdfs/norden_amy_h_200212_ms.pdf)
 
