@@ -18,8 +18,7 @@ tags:
 hero:
     name: alabama-beach-mouse.jpg
     alt: 'A small mouse white white belly and sand-colored back hides behind beach vegetation.'
-    link: 'https://flic.kr/p/8FgBkX'
-    caption: 'Alabama beach mouse. Photo by USFWS.'
+    caption: 'Alabama beach mouse. <a href="https://flic.kr/p/8FgBkX">Photo</a> by USFWS.'
 updated: 'November 15th, 2018'
 ---
 
