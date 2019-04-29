@@ -1,6 +1,6 @@
 {{ range first 1 (and (where .Site.Pages "Section" "articles") (where .Site.Pages "Type" "feature" )) }}
   {{ .Render "feature" }}
   <div class="centered-button">
-    <a href='{{ .Permalink }}' class='button'>Read Story</a>
+    <a href='{{ .Permalink }}' aria-label="{{ .Title }}" class='button'>Read Story</a>
   </div>
 {{ end }}
