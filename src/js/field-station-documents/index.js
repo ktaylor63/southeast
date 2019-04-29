@@ -1,15 +1,12 @@
-const Rx = require('rxjs/Rx');
 const pluralize = require('pluralize');
 const isUrl = require('is-url-superb');
-
-const Observable = Rx.Observable;
-
-const createLunrIndex = require('./createLunrIndex');
 
 const baseURL = document.body.getAttribute('data-root');
 const fieldStationName = document.querySelector('.field-station').textContent;
 const list = document.querySelector('.document-list');
 const input = document.querySelector('.document-search');
+
+let documents = [];
 
 const unique = arrArg => arrArg.filter((elem, pos, arr) => arr.indexOf(elem) === pos);
 
@@ -38,10 +35,16 @@ const template = ({ type, documents: docs }) => {
   `;
 };
 
+const noResults = () => `
+  <li class="card">
+    <h2>No results found</h2>
+  </li>
+`
+
 const render = docs => {
-  list.innerHTML = '';
   // Create an array of document types (no duplicates)
   const types = unique(docs.map(doc => doc.type)).sort();
+  list.innerHTML = '';
   // Sort documents alphabetically
   types.forEach(type => {
     const filtered = docs
@@ -56,40 +59,46 @@ const render = docs => {
   });
 };
 
-const isFieldStationDocument = docs => {
-  const regex = new RegExp(fieldStationName, 'gi');
-  return docs.filter(
-    doc => regex.test(doc.name)
-      || regex.test(doc.office)
-      || regex.test(doc.type)
-      || regex.test(doc.year)
-      || regex.test(doc.url)
-      || regex.test(doc.keywords)
-      || regex.test(doc.programs)
-      || regex.test(doc.state)
+const search = e => {
+  const query = new RegExp(e.target.value, 'gi');
+  if (!query) render(documents);
+
+  const results = documents.filter(doc => (
+    query.test(doc.name)
+    || query.test(doc.office)
+    || query.test(doc.type)
+    || query.test(doc.year)
+    || query.test(doc.url)
+    || query.test(doc.keywords)
+    || query.test(doc.programs)
+    || query.test(doc.state)
+    )
   );
-};
 
-const document$ = Observable.ajax('../../data/reading-room-documents.js')
-  .map(req => req.response)
-  .map(isFieldStationDocument);
+  render(results);
+}
 
-const index$ = document$.map(createLunrIndex);
+const isFieldStationDocument = doc => {
+  const regex = new RegExp(fieldStationName, 'gi');
+  return (
+    regex.test(doc.name)
+    || regex.test(doc.office)
+    || regex.test(doc.type)
+    || regex.test(doc.year)
+    || regex.test(doc.url)
+    || regex.test(doc.keywords)
+    || regex.test(doc.programs)
+    || regex.test(doc.state)
+    );
+  };
 
-const keyup$ = Observable.fromEvent(input, 'keyup')
-  .map(() => input.value)
-  .startWith(input.value);
+const handleResponse = data => {
+  documents = data.filter(isFieldStationDocument);
+  render(documents);
+  input.addEventListener('keyup', search);
+}
 
-const searchResultSets = keyup$.combineLatest(document$, index$);
-
-searchResultSets.subscribe(([term, docs, index]) => {
-  const results = index
-    .search(term)
-    .map(hit => docs[hit.ref])
-    .sort(alphabetically);
-
-  console.log(docs);
-
-  if (term === '') return render(docs.sort(alphabetically));
-  return render(results);
-});
+fetch(`${baseURL}/data/reading-room-documents.js`)
+  .then(res => res.json())
+  .then(handleResponse)
+  .catch(console.log)

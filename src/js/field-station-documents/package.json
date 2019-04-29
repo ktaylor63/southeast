@@ -25,17 +25,15 @@
   "author": "@r0yhewitt <roy_hewitt@fws.gov>",
   "license": "SAX-PD",
   "devDependencies": {
-    "babel-core": "^6.26.0",
-    "babel-preset-env": "^1.6.1",
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
     "babelify": "^8.0.0",
-    "browserify": "^16.2.0",
+    "browserify": "^16.2.3",
     "uglify-js": "^3.3.21",
-    "watchify": "^3.11.0"
+    "watchify": "^3.11.1"
   },
   "dependencies": {
     "is-url-superb": "^2.0.0",
-    "lunr": "^2.1.6",
-    "pluralize": "^7.0.0",
-    "rxjs": "^5.5.10"
+    "pluralize": "^7.0.0"
   }
 }
