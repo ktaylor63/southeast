@@ -235,7 +235,7 @@ However, during our status review we will thoroughly evaluate all potential thre
 
 Federal Register docket: [FWS–R4–ES–2015–0055](https://www.regulations.gov/#!docketDetail;D=FWS-R4-ES-2015-0055)
 
-{{< figure class="photo-center" src="/images/pages/key-ringneck-snake.jpg" alt="A dark gray snake with a orange/yellow belly." caption="Key ring-necked snake by Kevin Enge, FWC." link="http://myfwc.com/wildlifehabitats/imperiled/profiles/reptiles/key-ringneck-snake/" >}}
+{{< figure class="photo-center" src="/images/pages/key-ringneck-snake.jpg" alt="A dark gray snake with a orange/yellow belly." caption="Key ring-necked snake by Kevin Enge, FWC." link="https://myfwc.com/wildlifehabitats/profiles/reptiles/snakes/key-ringneck-snake/" >}}
 
 Known occurrences: Florida
 
