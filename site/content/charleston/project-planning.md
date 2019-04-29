@@ -5,15 +5,15 @@ nav: 'Project planning'
 facebook: SouthCarolinaFieldOffice
 twitter: USFWS_SC
 hero:
-    name: bunched-arrowhead.jpg
-    alt: 'A grass-like plant with white flowers emerges from the marsh.'
-    caption: 'The proposed expansion would allow a population of the endangered bunched arrowhead to be conserved as part of Mountain Bogs National Wildlife Refuge. <a href="https://flic.kr/p/rWP7zZ">Photo</a> by Gary Peeples, USFWS.'
-    position: 'top left'
+    name: swamp-pink-flowering.jpg
+    alt: 'Bright pink conical flowers.'
+    caption: 'Flowering swamp pink. <a href="https://flic.kr/p/SiANSo">Photo</a> by <a href="https://www.flickr.com/photos/blumenbiene/">Maja Dumat</a>, <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a>.'
+    position: '15% 55%'
 tags:
     - Consultation
     - 'Endangered Species Act'
     - 'South Carolina'
-updated: 'March 29th, 2019'
+updated: 'April 26th, 2019'
 ---
 
 The Ecological Services Program of the U.S. Fish and Wildlife Service works collaboratively with other federal agencies, industries, and other stakeholders to achieve infrastructure development goals in ways that are sustainable and compatible with the conservation of fish, wildlife, and their habitats. Field biologists assist project proponents, planners, and personnel in developing plans that conserve, restore, or enhance plant and animal species. Service biologists work under multiple authorities, including the [Endangered Species Act](https://www.fws.gov/endangered/esa-library/pdf/ESAall.pdf) (ESA), [Clean Water Act](https://www.fws.gov/laws/lawsdigest/FWATRPO.HTML) (CWA), [Federal Power Act](https://www.fws.gov/laws/lawsdigest/FEDPOWR.HTML), [Fish and Wildlife Coordination Act](https://www.fws.gov/laws/lawsdigest/FWCOORD.HTML), [National Environmental Policy Act](https://www.fws.gov/r9esnepa/RelatedLegislativeAuthorities/nepa1969.PDF) (NEPA), and [Bald and Golden Eagle Protection Act](https://www.fws.gov/laws/lawsdigest/BALDEGL.HTML). Biologists review and provide recommendations on plans and development designs, provide expertise in wildlife and habitat science, and serve as members on planning teams.
