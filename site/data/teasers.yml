@@ -1,4 +1,13 @@
 stories:
+  - title: "Students, scientists release 89 lake sturgeon into the Tennessee River"
+    summary: "Wednesday afternoon, under the curious scrutiny of onlookers gathered at the Coolidge Park boat ramp, Chattanooga students and scientists from the Tennessee Aquarium Conservation Institute carefully eased about 90 dinosaurs into the Tennessee River."
+    date: 2019-04-12
+    url: "https://www.thefishingwire.com/releases/432871d4-919e-4372-be3a-3d157f1e7b02"
+    hero:
+      name: lake-sturgeon-in-hand.jpg
+      alt: "A prehistoric looking fish with spines down its back and sides."
+      caption: "Lake sturgeon. Photo by USFWS."
+      position: "bottom left"
   - title: "Proposed conservation agreement for monarch butterfly"
     summary: "The U.S. Fish and Wildlife Service is announcing the opening of a 60-day public comment period regarding an “enhancement of survival” permit application associated with a proposed Candidate Conservation Agreement with Assurances (CCAA) for the monarch butterfly on energy and transportation lands. The proposed agreement would involve transportation and energy partners across the lower 48 states and would address conservation needs of the species on millions of acres of rights-of-way and associated lands."
     date: 2019-04-12
