@@ -11,7 +11,7 @@ hero:
     name: south-atlantic-lcc-conservation-planning-atlas.jpg
     alt: 'A screen shot of an interactive map showing areas of high priority across the south Atlantic coast.'
     caption: 'A screen capture of the South Atlantic LCC Conservation Planning Atlas Blueprint Simple viewer.'
-    link: 'http://blueprint.southatlanticlcc.org/v2.1/'
+    link: 'https://blueprint.southatlanticlcc.org/'
 updated: 'March 10th, 2017'
 ---
 A Conservation Planning Atlas (CPA) is a science-based mapping platform where conservation managers and LCC members, and private citizens can go to view, retrieve, and perform analyses on spatial information with specific conservation goals in mind. Users can also upload their own datasets to the CPA.  Eight portals have been created for the LCC network across the Southeast:
