@@ -74,7 +74,7 @@ The following tips should be remembered when selling to the government. Addition
 2. Obtain available information on past awards, quantities, costs and awarders.
 3. Become known to the Business Utilization and Development Specialist, Nijua Heard, (404) 679-4146.
 4. Become familiar with the Federal Business Opportunities website, [http://www.fedbizopps.gov](https://www.fbo.gov/).
-5. Register on the [System for Award Management](https://www.sam.gov) (SAM).
+5. Register on the [System for Award Management](https://www.sam.gov/SAM/) (SAM).
 6. Complete our [Bidder Registration Form](/pdf/form/bidder-registration-form.pdf).
 
 ### What is the system for award management?
