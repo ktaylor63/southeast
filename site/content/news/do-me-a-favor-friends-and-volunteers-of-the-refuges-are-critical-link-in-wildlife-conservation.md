@@ -5,8 +5,7 @@ date: '2016-02-18'
 hero:
     name: great-white-hero-nwr-outdoor-fest.jpg
     alt: 'A beautiful sunset on the water with three kayaks one with a dog on board.'
-    link: 'https://flic.kr/p/DGCWKc'
-    caption: 'Participants enjoy FAVOR’s monthly Full Moon Kayak adventure, a trip that goes north into Great White Heron National Wildlife Refuge.  Photo by Mary Lou Dickson.'
+    caption: 'Participants enjoy FAVOR’s monthly Full Moon Kayak adventure, a trip that goes north into Great White Heron National Wildlife Refuge.  <a href="https://flic.kr/p/DGCWKc">Photo</a> by Mary Lou Dickson.'
 tags:
     - Florida
 updated: 'February 15th, 2018'
@@ -35,7 +34,7 @@ In the meantime, the refuges are always open to the support of new FAVOR members
 
 Even if you can’t join as a member, there are other ways to support the refuges: participation in clean ups and work day projects, enjoying their many events and activities, shopping the Key Deer Bookstore, and, of course, registering for any of the events with the Outdoor Fest.
 
-The Outdoor Fest is brought to you in part by the Monroe County Tourist Development Council. To register and for more information about the refuges, FAVOR, and the list of events, visit [**www.favorfloridakeys.org/outdoor-fest**](http://www.favorfloridakeys.org/outdoor-fest) or contact Kristie Killam at [305.304.9625](file://localhost/tel/305.304.9625), email: [flkeysoutdoorfest@gmail.com](mailto:flkeysoutdoorfest@gmail.com).
+The Outdoor Fest is brought to you in part by the Monroe County Tourist Development Council. To register and for more information about the refuges, FAVOR, and the list of events, contact Kristie Killam at 305 304-9625, email: [flkeysoutdoorfest@gmail.com](mailto:flkeysoutdoorfest@gmail.com).
 
 ## Contact
 
