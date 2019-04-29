@@ -14,7 +14,7 @@ tags:
     - 'Coastal Program'
     - 'Endangered Species Act'
     - 'South Carolina'
-updated: 'March 29th, 2019'
+updated: 'April 29th, 2019'
 ---
 
 Established in 1995, the South Carolina Coastal Program works across coastal South Carolina and Georgia. Although the program works throughout the coastal plain, two new strategic focus areas (the Inland Coastal Plain Focus Area and the Tidal Wetland and Barrier Islands Focus Area) were established along several major river watersheds, key conservation areas, and vital wildlife corridors.
@@ -75,6 +75,8 @@ For more information about the program in South Carolina please refer to our fac
 ## Coastal Barrier Resources System
 
 In the early 1980s, Congress recognized that certain actions and programs of the federal government have historically subsidized and encouraged development on [coastal barriers](https://www.fws.gov/CBRA/Coastal-Barriers.html), resulting in the loss of natural resources; threats to human life, health, and property; and the expenditure of millions of tax dollars each year. To remove the federal incentive to develop these areas, the [Coastal Barrier Resources Act](https://www.fws.gov/CBRA/Legislation.html) (CBRA) of 1982 and subsequent amendments designated relatively undeveloped coastal barriers along the Atlantic, Gulf of Mexico, Great Lakes, U.S. Virgin Islands, and Puerto Rico coasts as part of the [John H. Chafee Coastal Barrier Resources System](https://www.fws.gov/CBRA/Act.html#CBRS) (CBRS), and made these areas ineligible for most new federal expenditures and financial assistance. CBRA encourages the conservation of hurricane-prone, biologically rich coastal barriers by restricting federal expenditures that encourage development, such as federal flood insurance. Areas within the CBRS can be developed provided that private developers or other non-federal parties bear the full cost. Visit the [national page](https://www.fws.gov/CBRA/) to learn Learn more about the Coastal Barrier Resources System, or contact Katie Niemi at (703) 358-2071; [cbra@fws.gov](mailto:cbra@fws.gov).
+
+Download the [CBRA consultations flow chart](https://www.fws.gov/cbra/documents/CBRA_Consultation_Flowchart_2018_02_01.pdf).
 
 ## Contacts
 
