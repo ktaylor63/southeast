@@ -14,7 +14,7 @@ tags:
     - 'Fish Passage'
     - Hydropower
     - 'South Carolina'
-updated: 'March 29th, 2019'
+updated: 'April 24th, 2019'
 ---
 
 Hydropower, a renewable source of energy, is widely used throughout the United States and the world. Hydropower projects usually consist of damming a river to create a reservoir or lake. Water flowing through turbines in the dam create electricity. Dams, and the reservoirs they create, can also be used for water supply, flood control, and recreation. Although producing hydroelectricity does not emit any greenhouse gas emissions, the damming of rivers can have detrimental effects to our streams and rivers.
@@ -28,8 +28,6 @@ The East Coast contains several species of diadromous fish &mdash; fish that mus
 The Federal Energy Regulatory Commission (FERC) is the governmental agency responsible under the Federal Power Act for licensing non-federal hydropower projects. Hydropower projects are generally licensed for 30 to 50 years. Many of the license terms for dams in South Carolina and in the Southeast have expired or are about to expire and are thus preparing to apply to FERC for new licenses. Under the Federal Power Act, the Service has special authorities that enable us to recommend measures to mitigate for adverse impacts licensed projects, such as prescribing fishways at dams. Fishways are facilities that can be built at dams to safely pass fish upstream and downstream of the dam.
 
 ## Projects
-
-Projects within the South Carolina Ecological Services Field Office service area include: Santee-Cooper Hydropower Project on the Santee and Cooper Rivers; [Augusta Canal Hydropower Project on the Savannah River](https://augustacanal.com/about-overview.php); [Duke Energy Hydropower Project on the Catawba and Wateree Rivers](https://www.duke-energy.com/community/lakes/hydroelectric-relicensing/catawba); Columbia Hydropower Project on the Broad River; [Saluda Hydropower Project on the Saluda River](https://www.saludahydrorelicense.com/); [Parr Hydropower Project on the Broad River](http://www.parrfairfieldrelicense.com/projectdetails.html); [Stevens Creek Hydropower Project at the confluence of Stevens Creek and the Savannah River](http://stevenscreekrelicense.com/); and [Lockhart Company Hydropower Project on the Pacolet River](http://www.lockhartpower.com/renewable-energy-resources.php).
 
 {{< figure class="photo-center" src="/images/pages/south-carolina-ferc-projects.jpg" alt="A map of FERC projects along rivers in Northern South Carolina" caption="South Carolina FERC hydropower projects. Map by Melanie Olds, USFWS." link="/pdf/map/south-carolina-ferc-projects.jpg" >}}
 
@@ -75,10 +73,10 @@ Projects within the South Carolina Ecological Services Field Office service area
 
 The Santee River Basin is located along the South Atlantic coast and consists of the Santee, Congaree, Broad, Saluda, and Catawba-Wateree sub-basins. The Santee River Basin once supported large populations of American shad, blueback herring, striped bass, shortnose sturgeon, Atlantic sturgeon and American eel. In 2008 the Service, the South Carolina Department of Natural Resources, the North Carolina Wildlife Resources Commission, and two hydroelectric utilities (South Carolina Electric & Gas and Duke Energy Carolinas LLC) signed the Santee River Basin Accord. This 10-year agreement is a restoration plan to rebuild populations of diadromous fish throughout the Santee River Basin through hatchery-based fry introductions, scientific studies and monitoring, and fish passage facilities. Fish passage facilities will provide access of diadromous fish to former spawning and maturation habitats that have been blocked by the construction of dams.
 
-- [Santee River Basin Accord for Diadromous Fish Protection, Restoration, and Enhancement, April 2008](https://docs.google.com/document/d/1v6NqqOkK76s6BiEjgcazu0gNxwUjhAe09AfRHMLy7_8/edit)
-- [Plan accomplishments and 2017 update](http://dnr.sc.gov/fish/diadromous)
+- [Santee River Basin Accord for Diadromous Fish Protection, Restoration, and Enhancement, April 2008](/pdf/agreement/santee-river-basin-accord.pdf)
+- [Accord accomplishments and 2017 update](http://dnr.sc.gov/fish/diadromous)
 
 ## Contact
 
-Melanie Olds, Fish and Wildlife Biologist/FERC Coordinator  
+Melanie Olds, Fish and Wildlife Biologist  
 [melanie_olds@fws.gov](mailto:melanie_olds@fws.gov), (843)727-4707 ext. 205
