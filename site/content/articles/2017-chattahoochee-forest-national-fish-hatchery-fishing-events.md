@@ -32,6 +32,6 @@ The Family Fishing Festival will be held on June 3rd for youth age 16 and under.
 
 ## More Information
 
-The hatchery is located in Fannin County on Rock Creek Road off of GA Highway 60 near Suches.  For more information and driving driections contact the hatchery by phone at (706) 838-4723, on [the web](https://www.fws.gov/chattahoocheeforest), on [facebook](https://www.facebook.com/chattahoocheeforestnfh).
+The hatchery is located in Fannin County on Rock Creek Road off of GA Highway 60 near Suches.  For more information and driving directions contact the hatchery by phone at (706) 838-4723, on [the web](https://www.fws.gov/chattahoocheeforest), on [facebook](https://www.facebook.com/chattahoocheeforestnfh).
 
 {{< figure class="photo-center" src="/images/pages/chattahoochee-forest-nfh-2017-fishing-events.jpg" alt="Flyer for event.  All details are available above this image." >}}
