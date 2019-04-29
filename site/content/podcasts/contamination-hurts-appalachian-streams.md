@@ -7,7 +7,6 @@ author: 'Gary Peeples'
 hero:
     name: blackside-dace.jpg
     alt: 'A hand holds a small grey and silver fish'
-    link: 'https://flic.kr/p/gttHDR'
     caption: 'Blackside dace. <a href="https://flic.kr/p/gttHDR">Photo</a> by Brian Wulker, CC BY-NC 2.0.'
 tags:
     - 'Asheville Ecological Services Field Office'
@@ -21,7 +20,7 @@ tags:
     - 'North Carolina'
     - Podcast
     - 'Southern Appalachian Creature Feature'
-    - Tennesse
+    - Tennessee
 updated: 'August 8th, 2018'
 ---
 
