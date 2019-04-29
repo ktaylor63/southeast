@@ -70,7 +70,7 @@ Document availability: A copy of the draft post-delisting monitoring plan can be
 
 ## Spanish language version
 
-[Read the press relase in Spanish](/pdf/monito-gecko-delist-spanish.pdf).
+[Read the press release in Spanish](/pdf/monito-gecko-delist-spanish.pdf).
 
 ## Post-delisting monitoring plan
 
