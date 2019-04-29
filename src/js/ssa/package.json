@@ -35,7 +35,6 @@
     "watchify": "^3.11.1"
   },
   "dependencies": {
-    "axios": "^0.17.1",
-    "es6-promise": "^4.1.1"
+    "axios": "^0.17.1"
   }
 }

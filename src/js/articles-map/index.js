@@ -1,10 +1,8 @@
-require('es6-promise').polyfill();
 const axios = require('axios');
 const geojson = require('geojson');
 const mapboxgl = require('mapbox-gl');
 
-mapboxgl.accessToken =
-  'pk.eyJ1Ijoicmhld2l0dCIsImEiOiJjamJwZHNpZTQ0YzJvMnhxd2R5Z2djMHM2In0.KBV_ugD7VoECqIyzDBTOkA';
+mapboxgl.accessToken =  'pk.eyJ1Ijoicmhld2l0dCIsImEiOiJjamJwZHNpZTQ0YzJvMnhxd2R5Z2djMHM2In0.KBV_ugD7VoECqIyzDBTOkA';
 
 const StoryService = require('./StoryService');
 const MapboxMap = require('./MapboxMap');

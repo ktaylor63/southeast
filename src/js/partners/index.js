@@ -1,9 +1,8 @@
-require('classlist-polyfill');
 require('image-comparison');
 
 const images = document.querySelectorAll('.comparison-image');
 
-new ImageComparison({
+const comparison = new ImageComparison({
   container: document.querySelector('.image-comparison'),
   startPosition: 50,
   data: [

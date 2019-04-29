@@ -1,43 +1,35 @@
-(function () {
-  'use strict';
+const defaults = require('lodash.defaults');
 
-  var _ = {
-    each: require('lodash.forEach'),
-    defaults: require('lodash.defaults')
-  };
+let options = {};
+const defaultOptions = {
+  elements: document.querySelectorAll('.full-list'),
+  showClass: 'show'
+};
 
-  var options = {};
-  var defaults = {
-    elements: document.querySelectorAll('.full-list'),
-    showClass: 'show'
-  };
+const getListWrapper = el => {
+  if (el.classList.contains('fade-list')) return el;
+  return el.parentNode;
+};
 
-  function init(opts) {
-    options = _.defaults({}, opts, defaults);
-    _.each(options.elements, function (element) {
-      element.addEventListener('click', _toggle);
-    });
-  }
+const toggle = e => {
+  const list = getListWrapper(e.target);
+  if (list.classList.contains(options.showClass)) list.classList.remove(options.showClass);
+  else list.classList.add(options.showClass);
+};
 
-  function _toggle(e) {
-    var list = getListWrapper(e.target);
-    if ( list.classList.contains(options.showClass) )
-      list.classList.remove(options.showClass);
-    else list.classList.add(options.showClass);
-  }
+const destroy = () => {
+  options.elements.forEach(element => {
+    element.removeEventListener('click', toggle);
+  });
+  options = null;
+};
 
-  function getListWrapper(el) {
-    if ( el.classList.contains('fade-list') ) return el;
-    else return el.parentNode;
-  }
+function init(opts) {
+  options = defaults({}, opts, defaultOptions);
+  options.elements.forEach(element => {
+    element.addEventListener('click', toggle);
+  });
+}
 
-  function destroy() {
-    _.each(options.elements, function (element) {
-      element.removeEventListener('click', _toggle);
-    });
-    options = null;
-  }
-
-  module.exports.init = init;
-  module.exports.destroy = destroy;
-})();
+module.exports.init = init;
+module.exports.destroy = destroy;

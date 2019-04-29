@@ -1,4 +1,3 @@
-require('es6-promise').polyfill();
 const axios = require('axios');
 
 // How's a Collection different from a Published Report Series
@@ -24,8 +23,8 @@ const filterSoutheasternDocuments = docs => docs.filter(doc => doc.units.filter(
 const isPublic = doc => doc.fileAccess === 'Public';
 
 const createLinkedResource = res => `<li><a href="${res.url}" target="_blank" aria-label="${
-  res.fileName
-}">Download species status assessment &raquo;</a></li>`;
+    res.fileName
+  }">Download species status assessment &raquo;</a></li>`;
 
 const createListItem = doc => {
   if (doc.referenceType === 'Published Report Series') return '';

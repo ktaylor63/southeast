@@ -1,23 +1,9 @@
-require('classlist-polyfill');
-require('window.requestanimationframe');
-// Element.matches() polyfill
-if (!Element.prototype.matches) {
-  Element.prototype.matches =    Element.prototype.matchesSelector
-    || Element.prototype.mozMatchesSelector
-    || Element.prototype.msMatchesSelector
-    || Element.prototype.oMatchesSelector
-    || Element.prototype.webkitMatchesSelector
-    || function elMatches(s) {
-      const matches = (this.document || this.ownerDocument).querySelectorAll(s);
-      let i = matches.length;
-      while (--i >= 0 && matches.item(i) !== this) {}
-      return i > -1;
-    };
-}
+require('lazysizes');
 
 const xhr = require('xhr');
 const Parallax = require('parallax-scroll');
 const Marker = require('mark.js');
+const throttle = require('lodash.throttle');
 const menu = require('fws-navigation');
 const nav = require('fws-scrollnav');
 const glossary = require('fws-glossary');
@@ -25,7 +11,6 @@ const contacts = require('./contacts');
 const shortList = require('./short-list');
 const search = require('./search');
 const analytics = require('./analytics');
-const ObjectFitFallback = require('./object-fit-fallback');
 
 const marker = new Marker(document.querySelector('#content'));
 const parallax = new Parallax('.parallax', { speed: 0.5 });
@@ -197,9 +182,6 @@ if (sectionNav) {
     });
   });
 }
-
-const throttle = require('lodash.throttle');
-
 /**
  * Get the closest matching element up the DOM tree.
  * @private
@@ -242,16 +224,3 @@ contentLists.forEach(list => {
 // SITE SEARCH
 const searchInput = document.querySelector('.site-wide-search-input');
 search.init(searchInput, baseURL);
-
-// Fallback if Object-fit is not supported
-const noObjectFit = document.documentElement.classList.contains(
-  'no-object-fit'
-);
-
-if (noObjectFit) {
-  const featureImages = [].slice.call(
-    document.querySelectorAll('.hero-parallax')
-  );
-  const fallback = new ObjectFitFallback({ elements: featureImages });
-  fallback.update();
-}
