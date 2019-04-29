@@ -21,16 +21,16 @@ Pollution is one of America's greatest environmental concerns. The U.S. Fish and
 
 The Service's Louisiana environmental contaminants coordinator works with industry, as well as state and federal agencies, to ensure wildlife can co-exist with natural resource development as well as agriculture, forestry, and transportation activities. We are involved in:
 
-  - Oil and chemical spill response;
-  - Providing technical support;
-  - Restoring habitats injured by pollution through the National Resource Damage Assessment and Restoration program;
-  - Conducting environmental investigations.
+- Oil and chemical spill response;
+- Providing technical support;
+- Restoring habitats injured by pollution through the National Resource Damage Assessment and Restoration program;
+- Conducting environmental investigations.
  
 ## Oil and chemical spill response
 
 When an oil or chemical spill occurs, the coordinator responds to protect our nation's natural resources. During a spill incident, we provide technical expertise to the federal on-scene coordinator to minimize impacts to threatened and endangered species, migratory birds, certain marine mammals, freshwater fish, and their supporting habitat. We also oversee the collection and rehabilitation of oiled and injured wildlife. To ensure a successful and coordinated response effort, we regularly participate in spill response contingency planning and multi-agency response exercises with local, state and other federal agencies, and with industry.
 
-For more information on oil and chemical spill response or to report a spill, visit the Service's [Environmental Contaminants Program](https://www.fws.gov/ecological-services/habitat-conservation/contaminants.html), [National Response Center](https://www.epa.gov/emergency-response/national-response-center), [EPA](https://www.epa.gov), and the [Louisiana Department of Environmental Quality](http://deq.louisiana.gov/).
+For more information on oil and chemical spill response or to report a spill, visit the Service's Environmental Contaminants Program, [National Response Center](https://www.epa.gov/emergency-response/national-response-center), [EPA](https://www.epa.gov), and the [Louisiana Department of Environmental Quality](http://deq.louisiana.gov/).
 
 ## Technical support
 
