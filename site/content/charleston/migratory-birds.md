@@ -14,15 +14,15 @@ tags:
     - 'Fish Passage'
     - Hydropower
     - 'South Carolina'
-updated: 'March 18th, 2019'
+updated: 'April 24th, 2019'
 ---
 
 The U.S. Fish and Wildlife Service’s Migratory Bird Program works with partners to protect, restore, and conserve bird populations and their habitats for the benefit of future generations by:
 
-- ensuring long-term ecological sustainability of all migratory bird populations,
-- increasing socioeconomic benefits derived from birds,
-- improving hunting and bird watching and other outdoor bird-related experiences, and
-- increasing awareness of the value of migratory birds and their habitats for their aesthetic, ecological, recreational and economic significance.
+- Ensuring long-term ecological sustainability of all migratory bird populations,
+- Increasing socioeconomic benefits derived from birds,
+- Improving hunting and bird watching and other outdoor bird-related experiences, and
+- Increasing awareness of the value of migratory birds and their habitats for their aesthetic, ecological, recreational and economic significance.
 
 Service employees conduct surveys; coordinate with public-private bird conservation partnerships; provide matching grants for partner-based conservation efforts; administer conservation laws and develop policies and regulations; and issue permits that allow individuals and organizations to participate in migratory bird conservation in a variety of ways.
 
