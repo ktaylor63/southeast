@@ -12,7 +12,7 @@ hero:
     name: whooping-crane-duo.jpg
     alt: 'Two bright white birds with red patches on their face and long slender legs standing in the a dormant grassy field.'
     caption: 'Whooping cranes. Photo by D. Serverson, USFWS.'
-updated: 'March 19th, 2017'
+updated: 'April 29th, 2019'
 ---
 
 ## Landscape at a Glance
@@ -39,8 +39,7 @@ The Gulf Coast Joint Venture has assessed seagrasses in this focal area relative
 
 {{< figure class="photo-right" src="/images/pages/crawfish-frog.jpg" alt="A frog with dark brown/black spots on it's face and back with a white belly in a sandy hole." caption="Southern crawfish frog. Photo by Andrew Hoffman, USFWS." >}}
 
-While many of the proposed actions in this focal area specifically list trust resource species as their targets, implementation of these actions will be advantageous to other species as well. For example, among the benefits of targeting whooping cranes are the associated benefits to species known to serve as a food resource including, but not limited to, blue crabs, red drum, speckled trout and other aquatic species. Restoring natural drainage features in grasslands will also provide habitat for the southern crawfish frog, a [Species of Greatest Conservation Need](http://tpwd.texas.gov/landwater/land/tcap/sgcn.phtml
-) in Texas. Marsh restoration will also benefit species like black rail, which is not only an at-risk bird species but one with an important breeding (and even larger non-breeding) population in the Coastal Bend Focal Area.
+While many of the proposed actions in this focal area specifically list trust resource species as their targets, implementation of these actions will be advantageous to other species as well. For example, among the benefits of targeting whooping cranes are the associated benefits to species known to serve as a food resource including, but not limited to, blue crabs, red drum, speckled trout and other aquatic species. Restoring natural drainage features in grasslands will also provide habitat for the southern crawfish frog, a [Species of Greatest Conservation Need](http://tpwd.texas.gov/landwater/land/tcap/sgcn.phtml) in Texas. Marsh restoration will also benefit species like black rail, which is not only an at-risk bird species but one with an important breeding (and even larger non-breeding) population in the Coastal Bend Focal Area.
 
 ## High Priority Actions Based on the Service’s Vision
 
