@@ -3,7 +3,7 @@ li class="card"
   {{ if .Params.hero.name }}
   div.card-hero
     a href="{{ .Permalink }}"
-      img sizes="100vw" srcset="{{.Site.Params.base}}/images/hero/small/{{ .Params.hero.name }} 450w, {{.Site.Params.base}}/images/hero/medium/{{ .Params.hero.name }} 850w" src="{{.Site.Params.base}}/images/hero/small/{{ .Params.hero.name }}" alt="{{ .Params.hero.alt }}"
+      img.lazyload sizes="100vw" data-srcset="{{.Site.Params.base}}/images/hero/small/{{ .Params.hero.name }} 450w, {{.Site.Params.base}}/images/hero/medium/{{ .Params.hero.name }} 850w" data-src="{{.Site.Params.base}}/images/hero/small/{{ .Params.hero.name }}" alt="{{ .Params.hero.alt }}"
   {{ end }}
   div.card-text
     h3
