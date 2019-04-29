@@ -38,7 +38,7 @@ Below the tracks, though, in an Appalachian mountain bog, bunched arrowheads ris
 
 Equally rare is the the type of land upon which these bunched arrowheads grow. The seven-acre plot is poised to join the Mountain Bogs National Wildlife Refuge, a scattering of 30 small wetlands stretching from Ashe County in the northwest corner of the state to Clay County in the southwest. Mountain Bogs is unique: no other refuge stitches together so many small plots of land across such a wide area.
 
-{{< figure class="photo-center" src="/images/pages/mountain-bogs-expansion-working-map.jpg" alt="A map of western North Carolina showing Mountain Bogs NWR acquisition boundary mainly in the northern and southwestern part of the state." caption="Mountain Bogs NWR existing and proposed aquisition boundary. Map by USFWS." link="/pdf/map/mountain-bogs-expansion-working-map.pdf" >}}
+{{< figure class="photo-center" src="/images/pages/mountain-bogs-expansion-working-map.jpg" alt="A map of western North Carolina showing Mountain Bogs NWR acquisition boundary mainly in the northern and southwestern part of the state." caption="Mountain Bogs NWR existing and proposed acquisition boundary. Map by USFWS." link="/pdf/map/mountain-bogs-expansion-working-map.pdf" >}}
 
 Yet the U.S. Fish and Wildlife Service controls only one bit of bog land in the entire refuge: a 35-acre easement in Ashe donated by The Nature Conservancy in April 2015. The remaining lands remain privately held, but within the Service’s “acquisition boundary” and could one day become part of the refuge. Meanwhile, the Service, the state, conservation groups and private landowners protect and restore the bogs.
 
@@ -88,7 +88,7 @@ Mountain Bogs is unlike any of the Service’s 560 other refuges. It resembles, 
 
 Fish and Wildlife initially identified 30 sites, or conservation areas, as refuge priorities across 45,000 acres of western North Carolina and eastern Tennessee. It could take decades -- and tens of millions of dollars -- for the Service to ever acquire all that land. The ultimate goal, regardless of ownership, is to conserve the rare wetlands habitat.
 
-{{< figure class="photo-right" src="/images/pages/virginia-big-eared-bat.jpg" alt="A brown bat on the roof of a cave with long ears." caption="Virginia big-eared bat." link="http://eol.org/data_objects/17729544" >}}
+{{< figure class="photo-right" src="/images/pages/virginia-big-eared-bat.jpg" alt="A brown bat on the roof of a cave with long ears." caption="Virginia big-eared bat." link="https://eol.org/pages/1241776" >}}
 
 Fish and Wildlife wants to add two new conservation areas (in McDowell, Rutherford and Macon counties) and expand five existing ones. Two expansions would enhance habitat for the bog turtle and the bunched arrowhead. Gray’s lily and a newly discovered maternity site for the Virginia big-eared bat would benefit from expansions in Watauga County. 
 
