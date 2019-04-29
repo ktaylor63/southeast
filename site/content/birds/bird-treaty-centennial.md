@@ -58,7 +58,7 @@ Check out a [list of bird festivals](http://abcbirds.org/wp-content/uploads/2016
 ### Arkansas
 
 **January**  
-[Eagle Awareness Weekends at Bull Shoals White River State Park](http://www.arkansasstateparks.com/bullshoalswhiteriver/events/), 1/8 - 1/9
+[Eagle Awareness Weekends at Bull Shoals White River State Park](https://www.arkansasstateparks.com/bullshoalswhiteriver/events/), 1/8 - 1/9
 
 [Eagles Etcetera Event, Lake DeGray State Park](http://www.degray.com/things-to-do/events-programs/details.aspx?id=120919), January 29 - 31
 
@@ -68,7 +68,7 @@ Check out a [list of bird festivals](http://abcbirds.org/wp-content/uploads/2016
 [Eagle Watch Tours, Lake Ouachita State Park](http://www.arkansasstateparks.com/lakeouachita/) every weekend through mid-March
 
 **November**  
-[Wings Over the Prairie Duck Festival](http://www.stuttgartarkansas.org/duck-festival/schedule_of_events.aspx)
+[Wings Over the Prairie Duck Festival](http://www.stuttgartarkansas.org/duck-festival.html)
 
 **December**  
 [Audubon Christmas Bird Counts](https://www.audubon.org/conservation/science/christmas-bird-count) (typically the end of December)
@@ -98,7 +98,7 @@ Check out a [list of bird festivals](http://abcbirds.org/wp-content/uploads/2016
 [Nature Coast Birding & Wildlife Festival](https://www.facebook.com/NatureCoastBirdingandWildlifeFestival), TBD
 
 **April**  
-[Wakulla Wildlife Festival](http://www.wakullawildlifefestival.com/), April 16
+Wakulla Wildlife Festival, April 16
 
 [Florida Birding and Photo Festival](http://www.floridasbirdingandphotofest.com/), April 27 - May 1
 
