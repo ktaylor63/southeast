@@ -69,8 +69,8 @@ By participating in the Coastal Program, the owner or manager of the property  e
 - Caribbean’s Coastal Program brochure: [English](/pdf/brochure/caribbean-coastal-program-english.pdf), [Spanish](/pdf/brochure/caribbean-coastal-program-spanish.pdf)
 - [National Coastal Program website](https://www.fws.gov/coastal/)
 - [Regional Coastal Program website](/our-services/coastal-conservation/)
-- [EPA National Estuary Program](http://www.epa.gov/owow/estuaries)
-- [NOAA - Coastal Zone Management Program](http://www.ocrm.nos.noaa.gov/czm/welcome.html)
+- [EPA National Estuary Program](https://www.epa.gov/nep)
+- [NOAA - Coastal Zone Management Program](https://coast.noaa.gov/czm/about/)
 
 ## Contact
 Ivan Llerandi-Román, Habitat Restoration Programs Caribbean Coordinator  
