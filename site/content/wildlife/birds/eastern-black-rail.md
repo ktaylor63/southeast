@@ -189,7 +189,7 @@ A recovery plan for the eastern black rail, informed by the [Species Status Asse
 
 ## Subject matter expert
 
-- Whitney Wiest, Fish and Wildlife Biologist, South Carolina Ecological Services Field Office; (843)727-4707 ext. 228; [whitney_wiest@fws.gov](mailto:whitney_wiest@fws.gov)
+- Whitney Beisler, Fish and Wildlife Biologist, South Carolina Ecological Services Field Office; (843)727-4707 ext. 228; [whitney_beisler@fws.gov](mailto:whitney_beisler@fws.gov)
 
 ## Designated Critical Habitat
 

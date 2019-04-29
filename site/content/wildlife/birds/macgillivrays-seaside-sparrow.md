@@ -98,7 +98,7 @@ MacGillivray’s seaside sparrow will benefit from continued surveys, monitoring
 
 ## Subject matter experts
 
-- Whitney Wiest Beisler, South Carolina Ecological Services Field Office, (843)727-4707 ext. 228; [whitney_wiest@fws.gov](mailto:whitney_wiest@fws.gov)
+- Whitney Beisler, South Carolina Ecological Services Field Office, (843)727-4707 ext. 228; [whitney_beisler@fws.gov](mailto:whitney_beisler@fws.gov)
 
 ## Federal register notices
 
