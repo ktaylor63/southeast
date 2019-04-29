@@ -47,7 +47,7 @@ This year the [rusty patched bumble bee](https://www.fws.gov/midwest/endangered/
 
 ### Garden for bees
 
-Provide [flowering plants](https://bumblebeeconservation.org/get-involved/gardening-for-bees) from April through October (early spring through fall).
+Provide [flowering plants](https://www.bumblebeeconservation.org/gardeningadvice/) from April through October (early spring through fall).
 
 ### Avoid raking, tilling or mowing until April or May
 
