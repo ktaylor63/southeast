@@ -7,7 +7,6 @@ hero:
     alt: 'A forrested stream with rocky shores.'
     caption: 'Raccoon Creek. Photo by Brett Albanese, Georgia DNR.'
     position: '50% 35%'
-    link: 'https://flic.kr/p/BXKxuR'
 type: feature
 date: '2017-06-07'
 author: 'Daniel Chapman, Public Affairs Specialist'
