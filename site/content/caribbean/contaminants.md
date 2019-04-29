@@ -23,7 +23,7 @@ Oil or hazardous material spills can impact natural resources managed by the Ser
 
 ## Restoration
 
-The Service and the U.S. Department of the Interior (DOI) are authorized to conduct [Natural Resource Damage Assessment and Restoration](https://restoration.doi.gov/) (NRDAR) when DOI trust resources (fish and wildlife, and their habitats, DOI lands) are harmed during oil and chemical spills. The Service helps restore natural resources following the release of oil and other hazardous substances. Specialists assess the injuries to natural resources entrusted to the Department. DOI representatives typically work with other natural resource trustees including other federal and state agencies.
+The Service and the U.S. Department of the Interior (DOI) are authorized to conduct [Natural Resource Damage Assessment and Restoration](https://doi.gov/restoration) (NRDAR) when DOI trust resources (fish and wildlife, and their habitats, DOI lands) are harmed during oil and chemical spills. The Service helps restore natural resources following the release of oil and other hazardous substances. Specialists assess the injuries to natural resources entrusted to the Department. DOI representatives typically work with other natural resource trustees including other federal and state agencies.
 
 ## Environmental Sensitivity Index (ESI)
 
