@@ -37,7 +37,7 @@ They now have flown at total of about 1,070 miles, flying about 30 miles this mo
 
 The public should check out the Operation Migration website for the final confirmation at [www.operationmigration.org](http://www.fws.gov/southeast/news/2013/www.operationmigration.org).
 
-The public is also invited to follow the aircraft-guided Whooping cranes on Operation Migration’s live CraneCam, which broadcasts daily during flights and while the cranes are at each stopover location along the route to Florida. Visit: [http://www.ustream.tv/migratingcranes](http://www.ustream.tv/migratingcranes) to watch the video stream or [http://operationmigration.org/InTheField](http://operationmigration.org/InTheField) for daily website postings.
+The public is also invited to follow the aircraft-guided Whooping cranes on Operation Migration’s live CraneCam, which broadcasts daily during flights and while the cranes are at each stopover location along the route to Florida. Visit: [http://operationmigration.org/InTheField](http://operationmigration.org/InTheField) for daily website postings.
 
 This is the 13th group of birds to take part in a project led by the Whooping Crane Eastern Partnership (WCEP), an international coalition of public and private groups that is reintroducing this highly imperilled species in eastern North America, part of its historical range.
 

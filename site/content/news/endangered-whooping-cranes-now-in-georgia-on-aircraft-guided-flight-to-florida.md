@@ -40,7 +40,7 @@ Many other flyway states, provinces, private individuals and conservation groups
 
 To report whooping crane sightings, visit the WCEP whooping crane observation webpage at: [http://www.fws.gov/midwest/whoopingcrane/sightings/sightingform.cfm](http://www.fws.gov/midwest/whoopingcrane/sightings/sightingform.cfm).
 
-The public is invited to follow the aircraft-guided Whooping cranes on Operation Migration’s live Crane Cam, which broadcasts daily during flights and while the cranes are at each stopover location along the route to Florida. Visit: [http://www.ustream.tv/migratingcranes](http://www.ustream.tv/migratingcranes) to watch the video stream or [http://operationmigration.org/InTheField](http://operationmigration.org/InTheField) for daily website postings.
+The public is invited to follow the aircraft-guided Whooping cranes on Operation Migration’s live Crane Cam, which broadcasts daily during flights and while the cranes are at each stopover location along the route to Florida. Visit: [http://operationmigration.org/InTheField](http://operationmigration.org/InTheField) for daily website postings.
 
 ## Additional Resources
 
