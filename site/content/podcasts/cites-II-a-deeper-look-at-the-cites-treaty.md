@@ -29,6 +29,4 @@ The most recent meeting was held in Doha, Qatar earlier this year.  It was a mix
 
 But all the talk in the meeting halls of Doha was not about plants and animals found in far corners of the world.  International trade in bobcats is regulated by CITES.  Although many of the world’s spotted cats are imperiled, the bobcat is not one of them. The U.S population is estimated between 1.7 and 2.6 million and shows no significant impact from commercial trade.  Therefore, the U.S. sponsored a proposal to remove CITES protections from the species, with strong support from Canada, which is also home to the cat.  However, the proposal was rejected with other nations citing the possible impact to rare spotted cats due to their similarity of appearance.
 
-For more information about the recent meeting and the U.S.’s positions, visit [uscites.gov](https://www.uscites.gov).
-
 For WNCW and the U.S. Fish and Wildlife Service, this is Gary Peeples.
