@@ -105,7 +105,7 @@ No critical habitat is designated for this species.
 
 - [Mussels and Aquatic Snails, Kentucky Department of Fish and Wildlife Resources](http://fw.ky.gov/Wildlife/Pages/Freshwater-Mussels-and-Aquatic-Snails.aspx): biology and conservation information related to mussels and aquatic snails in Kentucky.
 - [Freshwater Mollusk Society](http://molluskconservation.org/): the Freshwater Mollusk Conservation Society (FMCS) is dedicated to the conservation of and advocacy of freshwater mollusks, North America's most imperiled animals.
-- [The Nature Conservancy in Kentucky](http://www.nature.org/ourinitiatives/regions/northamerica/unitedstates/kentucky/): conserving nature to ensure Kentuckians have clean air and water, healthy soils and open spaces to enjoy forever.
+- [The Nature Conservancy in Kentucky](https://www.nature.org/en-us/about-us/where-we-work/united-states/kentucky/): conserving nature to ensure Kentuckians have clean air and water, healthy soils and open spaces to enjoy forever.
 - [Kentucky Waterway Alliance](http://kwalliance.org/): advocates for healthy waterways and communities throughout Kentucky.
 - [Walkerana](http://molluskconservation.org/Walkerana_BackIssues.html) — The Journal of the Freshwater Mollusk Conservation Society
 - [Ellipsiana](http://molluskconservation.org/Ellipsaria-archive.html) — Newsletter of the Freshwater Mollusk Conservation Society
