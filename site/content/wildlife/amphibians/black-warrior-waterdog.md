@@ -103,7 +103,7 @@ Individuals can do a number of things to help protect this species, including:
 
 ## Other Scientific Resources
 
-- [Outdoor Alabama](http://www.outdooralabama.com/black-warrior-waterdog)
+- [Outdoor Alabama](https://www.outdooralabama.com/salamanders/black-warrior-waterdog)
 
 ## Federal Register Documents
 
