@@ -45,9 +45,7 @@
     "name": "Best available science",
     "acronym": null,
     "description": "To assure the quality of the biological, ecological, and other information used in the implementation of the Act, it is the policy of the Services to: <ol><li>evaluate all scientific and other information used to ensure that it is reliable, credible, and represents the best scientific and commercial data available;</li><li>gather and impartially evaluate biological, ecological, and other information disputing official positions, decisions, and actions proposed or taken by the Services;</li><li>document their evaluation of comprehensive, technical information regarding the status and habitat requirements for a species throughout its range, whether it supports or does not support a position being proposed as an official agency position;</li><li>use primary and original sources of information as the basis for recommendations;</li><li>retain these sources referenced in the official document as part of the administrative record supporting an action;</li><li>collect, evaluate, and complete all reviews of biological, ecological, and other relevant information within the schedules established by the Act, appropriate regulations, and applicable policies;</li><li>require management-level review of documents developed and drafted by Service biologists to verify and assure the quality of the science used to establish official positions, decisions, and actions taken by the Services during their implementation of the ESA.</ol>",
-    "related": [
-      "Endangered Species Act"
-    ]
+    "related": ["Endangered Species Act"]
   },
   {
     "name": "Best Management Practices",
@@ -91,10 +89,7 @@
     "name": "Candidate species",
     "acronym": null,
     "description": "Plants and animals for which the U.S. Fish and Wildlife Service has enough information on their biological status and threats to survival to propose them as endangered or threatened under the Endangered Species Act. However, other higher priority listing activities prevent the immediate development of a proposed listing regulation.<br><br>Candidates receive no statutory protection under the ESA, but cooperative conservation efforts are encouraged because these species may warrant future protection.<br><br>Candidate species are assigned a listing priority from 1 to 12 based on the magnitude of threats they face, the immediacy of the threats, and their taxonomic uniqueness (for example, full species have higher priority than subspecies). The species’ listing priority dictates the relative order in which proposed listing rules are prepared, with the species at greatest risk, priority levels 1 through 3, being proposed first.<br><br><a href=''>View a complete list of current candidate species</a>.",
-    "related": [
-      "At-risk species",
-      "Candidate species"
-    ]
+    "related": ["At-risk species", "Candidate species"]
   },
   {
     "name": "Carnivore",
@@ -123,16 +118,14 @@
   {
     "name": "Cooperative Ecosystem Studies Units",
     "acronym": "CESU",
-    "description": "The <a href='http://www.cesu.org/' target='_blank'>Cooperative Ecosystem Studies Units</a> (CESU) Network is a national, collaborative consortium of federal agencies, tribes, universities, state and local governments, and other partners. The CESU Network’s mission is to provide scientific research, technical assistance, and education on natural and cultural resource issues to federal land management, environmental organizations and research institutions.",
+    "description": "The <a href='http://www.cesu.org/'>Cooperative Ecosystem Studies Units</a> (CESU) Network is a national, collaborative consortium of federal agencies, tribes, universities, state and local governments, and other partners. The CESU Network’s mission is to provide scientific research, technical assistance, and education on natural and cultural resource issues to federal land management, environmental organizations and research institutions.",
     "related": []
   },
   {
     "name": "Comprehensive Conservation Plan",
     "acronym": "CCP",
     "description": "An official document developed by experienced planners through a systematic decision making process that accomplishes the following for a national wildlife refuge: <ul><li>Describes the desired future conditions of the refuge;</li><li>Provides long-range guidance and management direction to achieve refuge purposes;</li><li>Helps fulfill the National Wildlife Refuge System mission;</li><li>Maintains and, where appropriate, restores the ecological integrity of each refuge and the Refuge System;</li><li>Helps achieve the goals of the National Wilderness Preservation System, and Meets other mandates;</li><li>It is the Service&rsquo;s policy to manage all national wildlife refuges according to an approved CCP.</li></ul><br>To learn more read <a href='https://www.fws.gov/policy/602fw3.html'>our agency policy on CCPs</a>.",
-    "related": [
-      "National Wildlife Refuge System"
-    ]
+    "related": ["National Wildlife Refuge System"]
   },
   {
     "name": "Compatible use",
@@ -185,8 +178,14 @@
   {
     "name": "Distinct Population Segment",
     "acronym": "DPS",
-    "description": "A distinct population segment is the smallest division of a vertebrate species (an animal with a backbone) that can be protected under the Endangered Species Act. The intent of a distinct population segment is to conserve genetic resources and maintain natural systems and biodiversity.<br><br>Listing, delisting, or reclassifying DPSs may allow the Services to protect and conserve species and the ecosystems upon which they depend before large-scale decline occurs that would require listing a species or subspecies throughout its entire range.  DPSs can allow protection and recovery of declining organisms in a more timely and less costly manner, and on a smaller scale than the more costly and extensive efforts that might be needed to recover an entire species or subspecies.<br><br>Learn more about distinct population segments from a <a href=\"https://www.federalregister.gov/documents/1996/02/07/96-2639/policy-regarding-the-recognition-of-distinct-vertebrate-population-segments-under-the-endangered\" target=\"_blank\">1996 joint policy</a> between the U.S. Fish and Wildlife Service and the National Marine Fisheries Agency.",
-    "related": ["Endangered Species Act", "Endangered Species", "Threatened Species", "Recovery", "Vertebrate"]
+    "description": "A distinct population segment is the smallest division of a vertebrate species (an animal with a backbone) that can be protected under the Endangered Species Act. The intent of a distinct population segment is to conserve genetic resources and maintain natural systems and biodiversity.<br><br>Listing, delisting, or reclassifying DPSs may allow the Services to protect and conserve species and the ecosystems upon which they depend before large-scale decline occurs that would require listing a species or subspecies throughout its entire range.  DPSs can allow protection and recovery of declining organisms in a more timely and less costly manner, and on a smaller scale than the more costly and extensive efforts that might be needed to recover an entire species or subspecies.<br><br>Learn more about distinct population segments from a <a href='https://www.federalregister.gov/documents/1996/02/07/96-2639/policy-regarding-the-recognition-of-distinct-vertebrate-population-segments-under-the-endangered'>1996 joint policy</a> between the U.S. Fish and Wildlife Service and the National Marine Fisheries Agency.",
+    "related": [
+      "Endangered Species Act",
+      "Endangered Species",
+      "Threatened Species",
+      "Recovery",
+      "Vertebrate"
+    ]
   },
   {
     "name": "Diversion",
@@ -222,10 +221,7 @@
     "name": "Endangered Species",
     "acronym": null,
     "description": "An animal or plant that will go extinct in the near future if action is not taken.<br><br>As defined in the <a href='http://www.fws.gov/endangered/esa-library/pdf/ESAall.pdf'>Endangered Species Act</a>: Any species other than those defined as pests which is in danger of extinction throughout all or a significant portion of its range.",
-    "related": [
-      "Endangered Species Act",
-      "Threatened Species"
-    ]
+    "related": ["Endangered Species Act", "Threatened Species"]
   },
   {
     "name": "Endangered Species Act",
@@ -249,13 +245,22 @@
     "name": "Essential experimental population",
     "acronym": "EEP",
     "description": "An experimental population whose loss would appreciably reduce the prospect of survival of the species in the wild. All other experimental populations are &ldquo;non-essential&rdquo;.",
-    "related": ["Experimental population", "Non-essential experimental population", "Endangered Species Act"]
+    "related": [
+      "Experimental population",
+      "Non-essential experimental population",
+      "Endangered Species Act"
+    ]
   },
   {
     "name": "Experimental population",
     "acronym": null,
     "description": "A population (including its offspring) of a listed species designated by rule published in the Federal Register that is wholly separate geographically from other populations of the same species. An experimental population may be subject to less stringent prohibitions than are applied to the remainder of the species to which it belongs.",
-    "related": ["Essential experimental population", "Federal Register", "Non-essential experimental population", "Endangered Species Act"]
+    "related": [
+      "Essential experimental population",
+      "Federal Register",
+      "Non-essential experimental population",
+      "Endangered Species Act"
+    ]
   },
   {
     "name": "Environmental Impact Statement",
@@ -291,13 +296,24 @@
     "name": "Federal trust species",
     "acronym": null,
     "description": "Includes threatened and endangered species, migratory birds and fish, and species of conservation concern.",
-    "related": ["Migratory bird", "Threatened species", "Endangered species", "Trust resource"]
+    "related": [
+      "Migratory bird",
+      "Threatened species",
+      "Endangered species",
+      "Trust resource"
+    ]
   },
   {
     "name": "Fee Acquisition",
     "acronym": null,
     "description": "Transaction that transfers full ownership of property, including the underlying title, to another party. A fee acquisition may be a purchase or the result of a donation.",
     "related": ["Conservation easement"]
+  },
+  {
+    "name": "Fish and Wildlife Coordination Act",
+    "acronym": "FWCA",
+    "description": "<a href='https://www.fws.gov/laws/lawsdigest/fwcoord.html'>The Fish and Wildlife Coordination Act</a> amendments enacted in 1946 require consultation with the Fish and Wildlife Service and the fish and wildlife agencies of States where the “waters of any stream or other body of water are proposed or authorized, permitted or licensed to be impounded, diverted... or otherwise controlled or modified” by any agency under a Federal permit or license. Consultation is to be undertaken for the purpose of “preventing loss of and damage to wildlife resources.”",
+    "related": []
   },
   {
     "name": "Fish Habitat Partnerships",
@@ -326,21 +342,13 @@
     "name": "Habitat fragmentation",
     "acronym": null,
     "description": "When an animal&rsquo;s homeland or range is split up into smaller pieces. <br><br>For example, if a road is built through a large field it is fragmented into two pieces. If any animal&rsquo;s den is on one side of the road and its food is on the other, the animal must now take the risk of crossing the road in order to survive.",
-    "related": [
-      "Habitat",
-      "Critical Habitat",
-      "Habitat Conservation Plan"
-    ]
+    "related": ["Habitat", "Critical Habitat", "Habitat Conservation Plan"]
   },
   {
     "name": "Habitat Conservation Plan",
     "acronym": "HCP",
     "description": "Document that allows the Service to partner with non-federal parties to conserve the ecosystem that federally protected species need to survive and recover. It is required in the incidental take permit application process. <br><br>HCPs describe the anticipated impacts, how those impacts will be minimized or mitigated, and how the HCP will be funded. They can apply to both listed and non-listed species, including those that are candidates or have been proposed for listing.<br><br><a href='http://www.fws.gov/endangered/what-we-do/hcp-overview.html'>Learn more about HCPs</a>",
-    "related": [
-      "Habitat",
-      "Critical Habitat",
-      "Habitat fragmentation"
-    ]
+    "related": ["Habitat", "Critical Habitat", "Habitat fragmentation"]
   },
   {
     "name": "Harass",
@@ -406,10 +414,7 @@
     "name": "Invertebrate",
     "acronym": null,
     "description": "An animal without a spine that protects its central nervous system. Includes animals such as insects (butterflies, beetles), crustaceans (crabs, crayfish), mollusks (slugs, snails, clams, mussels, octopi), sponges and corals.",
-    "related": [
-      "Vertebrate",
-      "Species"
-    ]
+    "related": ["Vertebrate", "Species"]
   },
   {
     "name": "Jeopardy",
@@ -433,10 +438,7 @@
     "name": "Lacey Act",
     "acronym": null,
     "description": "The Lacey Act makes it unlawful for any person to import, export, transport, sell, receive, acquire, or purchase any fish or wildlife or plant taken, possessed, transported, or sold in violation of any law, treaty, or regulation of the United States or in violation of any Indian tribal law. This federal law applies to interstate and foreign commerce.<br><br>Under the  &ldquo;injurious wildlife provision&rdquo; of the Lacey Act, a species of wildlife can be listed as injurious because it has been demonstrated to be harmful or have the potential to be harmful to either the health and welfare of humans, the interests of forestry, agriculture, or horticulture, or the welfare and survival of wildlife or the resources that wildlife depend upon. If a species is deemed to be &ldquo;injurious,&rdquo; it may not be transported into or through U.S. territories or states without a special permit from the Service. This prohibition includes the importation or interstate transport of live animals, their sperm and eggs, and hybrids. Permits may be granted for the importation or transportation of live specimens of injurious wildlife for scientific, medical, educational, or zoological purposes.<br><br>The Lacey Act does not restrict intrastate (within state) transport.",
-    "related": [
-      "Injurious wildlife",
-      "Invasive species"
-    ]
+    "related": ["Injurious wildlife", "Invasive species"]
   },
   {
     "name": "Landcover",
@@ -447,7 +449,7 @@
   {
     "acronym": "LCCs",
     "name": "Landscape Conservation Cooperatives",
-    "description": "Self-directed established partnerships between federal agencies, states, tribes, non-governmental organizations, universities and other entities that collaboratively define science needs and jointly address broad-scale conservation issues (e.g., sea-level rise) in a defined geographic area. There are currently 22 LCCs that span North America, the Pacific Islands and the Caribbean.<br><br>Learn more at <a href='https://lccnetwork.org/' target='_blank'>lccnetwork.org</a>.",
+    "description": "Self-directed established partnerships between federal agencies, states, tribes, non-governmental organizations, universities and other entities that collaboratively define science needs and jointly address broad-scale conservation issues (e.g., sea-level rise) in a defined geographic area. There are currently 22 LCCs that span North America, the Pacific Islands and the Caribbean.<br><br>Learn more at <a href='https://lccnetwork.org/'>lccnetwork.org</a>.",
     "related": []
   },
   {
@@ -472,12 +474,7 @@
     "name": "Listed Species",
     "acronym": null,
     "description": "A plant or animal that receives federal protections under the Endangered Species Act. Species can be protected as endangered or threatened.<br><br><a href='http://ecos.fws.gov/tess_public/reports/ad-hoc-species-report?kingdom=V&kingdom=I&status=E&status=T&status=EmE&status=EmT&status=EXPE&status=EXPN&status=SAE&status=SAT&mapstatus=3&fcrithab=on&fstatus=on&fspecrule=on&finvpop=on&fgroup=on&header=Listed+Animals'>See listed animals</a><br><a href='http://ecos.fws.gov/tess_public/reports/ad-hoc-species-report?kingdom=P&status=E&status=T&status=EmE&status=EmT&status=EXPE&status=EXPN&status=SAE&status=SAT&mapstatus=3&fcrithab=on&fstatus=on&fspecrule=on&finvpop=on&fgroup=on&ffamily=on&header=Listed+Plants'>See listed plants</a>",
-    "related": [
-      "Endangered",
-      "Endangered Species Act",
-      "Listing",
-      "Threatened"
-    ]
+    "related": ["Endangered", "Endangered Species Act", "Listing", "Threatened"]
   },
   {
     "name": "Listing",
@@ -494,33 +491,25 @@
     "acronym": null,
     "name": "Mammal",
     "description": "A class of of animals that are warm-blooded, have hair or fur, and that nourish their young with milk secreted by mammary glands. Humans are mammals, and so are dogs, cats, coyotes, and bats (just to name a few).",
-    "related": [
-      "Marine Mammal Protection Act"
-    ]
+    "related": ["Marine Mammal Protection Act"]
   },
   {
     "acronym": "MMPA",
     "name": "Marine Mammal Protection Act",
     "description": "<p>The MMPA makes it illegal for anyone to hunt, harass, capture or kill marine mammals in U.S. waters. Attempting to do any of these activities is also forbidden. Exceptions may be made in certain situations (e.g., Alaska natives, scientific research, etc.)</p><p>Jurisdiction for MMPA is shared by U.S.  Fish and Wildlife Service and the National Marine Fisheries Service. The U.S. Fish and Wildlife Service is responsible for protecting walruses, manatees, otters and polar bears; the National Marine Fisheries Service is responsible for protecting whales, dolphins, porpoises, seals and sea lions.</p>",
-    "related": [
-      "Mammal"
-    ]
+    "related": ["Mammal"]
   },
   {
     "acronym": null,
     "name": "Mid-story",
     "description": "Trees with an height between the forest canopy and the seedlings of the understory and forest floor.",
-    "related": [
-      "Understory"
-    ]
+    "related": ["Understory"]
   },
   {
     "acronym": "JV",
     "name": "Migratory Bird Joint Venture",
     "description": "Collaborative, regional partnership of government agencies, non-profit organizations, corporations, tribes and individuals that conserves habitat for the benefit of priority bird species, other wildlife and people. Joint ventures bring these partners together to design and implement landscape-scale conservation efforts in support of the North American Waterfowl Management Plan and other bird management plans.",
-    "related": [
-      "North American Waterfowl Management Plan"
-    ]
+    "related": ["North American Waterfowl Management Plan"]
   },
   {
     "acronym": "MBTA",
@@ -553,10 +542,7 @@
     "acronym": "NEPA",
     "name": "National Environmental Policy Act",
     "description": "Enacted in 1970, NEPA is a cornerstone of our Nation's efforts to protect the environment. It recognizes that many federal activities affect the environment, and requires that a federal agency assess and publicly disclosed the environmental benefits and risks associated with actions it proposes to take.<br><br>The Service provides technical and biological information on fish and wildlife resources for use in the NEPA review process.<br><br><a href='http://nepa.gov'>Learn more at Nepa.gov</a>.",
-    "related": [
-      "Environmental Impact Statement",
-      "Environmental Compliance"
-    ]
+    "related": ["Environmental Impact Statement", "Environmental Compliance"]
   },
   {
     "acronym": "NEPs",
@@ -580,9 +566,7 @@
     "name": "Natural Resource",
     "acronym": null,
     "description": "Useful raw materials occurring in nature such as air, water, iron, coal, oil, wind energy, plants and animals. Humans cannot make natural resources, but use and modify natural resources in ways that are beneficial to us.",
-    "related": [
-      "Conservation"
-    ]
+    "related": ["Conservation"]
   },
   {
     "name": "National Oceanic and Atmospheric Administration",
@@ -600,39 +584,25 @@
     "name": "North American Waterfowl Management Plan",
     "acronym": "NAWMP",
     "description": "NAWMP is a broad policy framework to restore waterfowl populations on the continent through habitat protection, restoration and enhancement. The plan&rsquo;s scope is international, but its implementation occurs at the regional level. Its success depends on regional partnerships called Migratory Bird Joint Ventures.<br><br>NAWMP was signed in May 1986 by the United States and Canada, and by Mexico in 1994. The plan recognized the continuing declines in waterfowl populations, and that a unified effort is required to combat the loss of this valuable natural resource.",
-    "related": [
-      "Conservation",
-      "Migratory Bird Joint Venture"
-    ]
+    "related": ["Conservation", "Migratory Bird Joint Venture"]
   },
   {
     "name": "Nutrient load",
     "acronym": null,
     "description": "The amount of nutrients such as nitrogen and phosphorus reaching a body of water as a result of various natural, agricultural, industrial, and urban activities.",
-    "related": [
-      "Hypoxia",
-      "Eutrophication",
-      "Point source",
-      "Non-point source"
-    ]
+    "related": ["Hypoxia", "Eutrophication", "Point source", "Non-point source"]
   },
   {
     "name": "Omnivore",
     "acronym": null,
     "description": "An animal that feeds on both plant sources, such as nuts, berries, seeds and leaves, as well as other animals.",
-    "related": [
-      "Carnivore",
-      "Herbivore"
-    ]
+    "related": ["Carnivore", "Herbivore"]
   },
   {
     "name": "Oxygen depletion",
     "acronym": null,
     "description": "See &ldquo;hypoxia&rdquo;.",
-    "related": [
-      "Hypoxia",
-      "Eutrophication"
-    ]
+    "related": ["Hypoxia", "Eutrophication"]
   },
   {
     "name": "Permit",
@@ -643,8 +613,11 @@
   {
     "name": "Policy for Evaluation of Conservation Efforts",
     "acronym": "PECE",
-    "description": "Policy that identifies criteria the Service will use to determine whether conservation efforts that have yet to be implemented or have yet to show effectiveness contribute to making listing a species as threatened or endangered unnecessary.  This is a key test for Candidate Conservation Agreements and Candidate Conservation Agreements with Assurances where proactive conservation efforts are put in place to prevent a species from needing to be listed under the Endangered Species Act.<br><br><a href='https://www.fws.gov/endangered/esa-library/pdf/PECE-final.pdf' target='_blank'>Learn more about the Policy in the Federal Register</a>.",
-    "related": ["Candidate Conservation Agreement", "Candidate Conservation Agreement with Assurances"]
+    "description": "Policy that identifies criteria the Service will use to determine whether conservation efforts that have yet to be implemented or have yet to show effectiveness contribute to making listing a species as threatened or endangered unnecessary.  This is a key test for Candidate Conservation Agreements and Candidate Conservation Agreements with Assurances where proactive conservation efforts are put in place to prevent a species from needing to be listed under the Endangered Species Act.<br><br><a href='https://www.fws.gov/endangered/esa-library/pdf/PECE-final.pdf'>Learn more about the Policy in the Federal Register</a>.",
+    "related": [
+      "Candidate Conservation Agreement",
+      "Candidate Conservation Agreement with Assurances"
+    ]
   },
   {
     "name": "Prescribed fire",
@@ -656,20 +629,13 @@
     "name": "Proposed Species",
     "acronym": null,
     "description": "A plant or animal proposed for protection under the Endangered Species Act in order to survive. After proposing the species for protection via a notice in the Federal Register, the Service holds an open comment period before making a determination.",
-    "related": [
-      "Endangered Species Act",
-      "At-Risk Species"
-    ]
+    "related": ["Endangered Species Act", "At-Risk Species"]
   },
   {
     "name": "Protocol",
     "acronym": null,
     "description": "Detailed instructions for conducting a survey. This includes information on sampling procedures, data collection, management and analysis, and reporting of results. Approved survey protocols promote continuity of data collection methods for both the duration of the survey and among similar surveys at different sites.",
-    "related": [
-      "Survey",
-      "Monitoring",
-      "Baseline Monitoring"
-    ]
+    "related": ["Survey", "Monitoring", "Baseline Monitoring"]
   },
   {
     "name": "Range",
@@ -681,11 +647,7 @@
     "name": "Recovery",
     "acronym": null,
     "description": "An improvement in the status of a listed species to the point at which listing is no longer appropriate under the criteria set out in section 4(a)(1) of the Endangered Species Act.",
-    "related": [
-      "Endangered Species Act",
-      "Downlist",
-      "Delist"
-    ]
+    "related": ["Endangered Species Act", "Downlist", "Delist"]
   },
   {
     "name": "Recovery permit",
@@ -697,7 +659,12 @@
     "name": "Recovery plan",
     "acronym": null,
     "description": "A &ldquo;road map&rdquo; drafted by the Service, NOAA Fisheries, or other knowledgeable individuals or groups that serves as a guide for activities to be undertaken to recover and conserve endangered or threatened species. A recovery plan includes a description of the needed management actions; objective, measurable criteria which when met would lead to the species being removed from federal protection; and an estimate of the time required and cost to carry out those measures. Recovery plans may include brief discussions of the species&rsquo; biology, life history and threats to it.",
-    "related": ["Recovery", "Recovery team", "Recovery plan", "Endangered Species Act"]
+    "related": [
+      "Recovery",
+      "Recovery team",
+      "Recovery plan",
+      "Endangered Species Act"
+    ]
   },
   {
     "name": "Recovery team",
@@ -720,20 +687,32 @@
   {
     "name": "Southeastern Conservation Adaptation Strategy",
     "acronym": "SECAS",
-    "description": "A regional, multi-partner initiative led by members of the Southeastern Association of Fish and Wildlife Agencies, supported by federal leaders in the Southeast Natural Resources Leadership Group, and developed through partners comprising the southeastern network of Landscape Conservation Cooperatives (South Atlantic, Peninsular Florida, Appalachians, Gulf Coastal Plains & Ozarks, Caribbean and Gulf Coast Prairies LCCs). These existing forums bring together landowners, businesses, and governmental and conservation organizations to collectively develop and implement a compelling conservation strategy for each Landscape Conservation Cooperative region. The goal of SECAS is to collaboratively define the conservation landscape of the Southeast United States of the future.<br><br>Learn more at <a href='http://secassoutheast.org' target='_blank'>SECASsoutheast.org</a>.",
+    "description": "A regional, multi-partner initiative led by members of the Southeastern Association of Fish and Wildlife Agencies, supported by federal leaders in the Southeast Natural Resources Leadership Group, and developed through partners comprising the southeastern network of Landscape Conservation Cooperatives (South Atlantic, Peninsular Florida, Appalachians, Gulf Coastal Plains & Ozarks, Caribbean and Gulf Coast Prairies LCCs). These existing forums bring together landowners, businesses, and governmental and conservation organizations to collectively develop and implement a compelling conservation strategy for each Landscape Conservation Cooperative region. The goal of SECAS is to collaboratively define the conservation landscape of the Southeast United States of the future.<br><br>Learn more at <a href='http://secassoutheast.org'>SECASsoutheast.org</a>.",
     "related": ["Landscape Conservation Cooperative", "Conservation"]
   },
   {
     "name": "Species",
     "acronym": null,
     "description": "A unique living creature that is a fish, plant, vertebrate or invertebrate animal.<br><br>As defined in the Endangered Species Act: any subspecies of fish or wildlife or plants, and any distinct population segment of any species of vertebrate fish or wildlife which interbreeds when mature.",
-    "related": ["Carnivore", "Omnivore", "Herbivore", "At-risk species", "Endangered", "Threatened"]
+    "related": [
+      "Carnivore",
+      "Omnivore",
+      "Herbivore",
+      "At-risk species",
+      "Endangered",
+      "Threatened"
+    ]
   },
   {
     "name": "Species of concern",
     "acronym": null,
     "description": "An informal term referring to a species that might be in need of conservation action. This may range from a need for periodic monitoring of populations and threats to the species and its habitat, to the necessity for listing as threatened or endangered. Species of concern receive no legal protection and use of the term does not necessarily imply that a species will eventually be proposed for listing. A similar term is &ldquo;species at risk,&rdquo; which is a general term for listed species as well as unlisted ones that are declining in population.",
-    "related": ["At-risk species", "Endangered", "Threatened", "Endangered Species Act"]
+    "related": [
+      "At-risk species",
+      "Endangered",
+      "Threatened",
+      "Endangered Species Act"
+    ]
   },
   {
     "name": "Species of Greatest Conservation Need",
@@ -756,8 +735,12 @@
   {
     "name": "Surrogate species",
     "acronym": null,
-    "description": "Surrogate species are species that can be used as proxies to represent a broader set of species to support conservation or management strategies when the objective is to provide appropriate ecological conditions for the full set of species characteristic of a defined landscape or geographic area.<br><br>Download the Service&rsquo;s 2015 <a href='https://www.fws.gov/Science/pdf/Surrogate-Species-Technical-Reference.pdf' target='_blank'><em>Technical Reference on Using Surrogate Species for Landscape Conservation</em></a>",
-    "related": ["Strategic Habitat Conservation", "Keyston species", "Flagship species"]
+    "description": "Surrogate species are species that can be used as proxies to represent a broader set of species to support conservation or management strategies when the objective is to provide appropriate ecological conditions for the full set of species characteristic of a defined landscape or geographic area.<br><br>Download the Service&rsquo;s 2015 <a href='https://www.fws.gov/Science/pdf/Surrogate-Species-Technical-Reference.pdf'><em>Technical Reference on Using Surrogate Species for Landscape Conservation</em></a>",
+    "related": [
+      "Strategic Habitat Conservation",
+      "Keyston species",
+      "Flagship species"
+    ]
   },
   {
     "name": "Survey",
@@ -769,7 +752,11 @@
     "name": "Surrogate Species",
     "acronym": null,
     "description": "Species that can be used as proxies to represent a broader set of species to support conservation or management strategies when the objective is to provide appropriate ecological conditions for the full set of species characteristic of a defined landscape or geographic area.",
-    "related": ["Keyston species", "Flagship species", "Strategic Habitat Conservation"]
+    "related": [
+      "Keyston species",
+      "Flagship species",
+      "Strategic Habitat Conservation"
+    ]
   },
   {
     "name": "Tailwater",
@@ -787,35 +774,25 @@
     "name": "Threatened Species",
     "acronym": null,
     "description": "An animal that is likely to become an endangered species in the near future if we do not take action.<br><br>As defined in the <a href='http://www.fws.gov/endangered/esa-library/pdf/ESAall.pdf'>Endangered Species Act</a>",
-    "related": [
-      "Endangered Species Act",
-      "Endangered Species"
-    ]
+    "related": ["Endangered Species Act", "Endangered Species"]
   },
   {
     "name": "Understory",
     "acronym": null,
     "description": "A layer of vegetation (such as saplings in a forest) that is below the canopy but have cleared the ground level vegetation.",
-    "related": [
-      "Mid-story"
-    ]
+    "related": ["Mid-story"]
   },
   {
     "name": "Vertebrate",
     "acronym": null,
     "description": "An animal that has a spine such as a bear, cat or bird.",
-    "related": [
-      "Invertebrate",
-      "Species"
-    ]
+    "related": ["Invertebrate", "Species"]
   },
   {
     "name": "Viable",
     "acronym": null,
     "description": "Species populations that are capable of living, developing and reproducing in the wild.",
-    "related": [
-      "Species"
-    ]
+    "related": ["Species"]
   },
   {
     "name": "Warranted but precluded",
