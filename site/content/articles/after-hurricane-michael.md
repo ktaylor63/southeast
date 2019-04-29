@@ -10,7 +10,7 @@ hero:
   caption: "Tyndall Air Force Base pine forests were scissored by Hurricane Michael. Photo by Dan Chapman, USFWS."
 tags:
   - "At-Risk Species"
-  - "Critial Habitat"
+  - "Critical Habitat"
   - "Eastern Indigo Snake"
   - "Eglin Air Force Base"
   - "Endangered Species Act"
