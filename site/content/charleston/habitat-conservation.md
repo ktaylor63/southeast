@@ -61,4 +61,4 @@ Section 7(a)(1) of the Endangered Species Act (ESA) requires all federal agencie
 
 ## Contact
 
-[charleston@fws.gov](mailto:charleston@fws.gov), (843) 727-4707.
+[charleston@fws.gov](mailto:charleston@fws.gov), (843) 727-4707
