@@ -15,7 +15,7 @@ hero:
     link: 'https://flic.kr/p/MpqNtA'
     caption: 'Each year local watershed group Haywood Waterways gets every 8th-grade student in North Carolina’s Haywood County outside exploring the Pigeon River. Photo by Gary Peeples, USFWS.'
     position: 'bottom left'
-updated: 'January 9th, 2018'
+updated: 'April 18th, 2019'
 ---
 
 The U.S. Fish and Wildlife Service has always consulted experts to ensure that our decisions are based on sound science, through this peer review process we follow the guidelines for Federal agencies spelled out in the Office of Management and Budget (OMB) *[Final Information Quality Bulletin for Peer Review](https://www.gpo.gov/fdsys/pkg/FR-2005-01-14/pdf/05-769.pdf)* released December 16, 2004.
