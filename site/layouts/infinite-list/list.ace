@@ -1,0 +1,28 @@
+= content main
+  .content-centered.main
+
+    {{ $tag:= .Params.query }}
+    {{ $section := .Params.section }}
+
+    h1.page-title {{ .Title }}
+
+    {{ .Content }}
+
+    {{ $sectionContent := where .Site.Pages "Section" $section }}
+    {{ $taggedContent := (index .Site.Taxonomies.tags ($tag | lower | urlize)).Pages }}
+    {{ $pages := intersect $sectionContent $taggedContent }}
+
+    {{ $paginator := .Paginate $pages 7 }}
+
+    ul.card-list
+      {{ if eq (len $pages) 0 }}
+      li.card.card-text Sorry, there is no {{ $section | pluralize }} from {{ $tag }} yet
+      {{ end }}
+      {{ range $paginator.Pages }}
+        {{ .Render "summary" }}
+      {{ end }}
+
+    {{ partial "pagination.html" . }}
+
+    script src="/js/infinite-scroll.js"
+
