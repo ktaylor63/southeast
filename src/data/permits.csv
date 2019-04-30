@@ -606,7 +606,7 @@ number,status,fed_register
 76455C-0,In FO for Review,Noticed for 30 days
 77197C-0,Issued,Noticed for 30 days
 34778A-2,Issued,N/A
-77472C-0,In FO for Review,on 30 day notice period
+77472C-0,Issued,Noticed for 30 days
 88797B-1,Issued,Noticed for 30 days
 48386B-1,Withdrawn,N/A
 824723-10,In RO for Review,Noticed for 30 days
@@ -617,13 +617,13 @@ number,status,fed_register
 78383C-0,In RO for Review,Noticed for 30 days
 78446C-0,Issued,N/A
 32397A-3,In FO for Review,Noticed for 30 days
-37886B-1,Awaiting Input from Applicant,Noticed for 30 days
+37886B-1,Abandoned,Noticed for 30 days
 26554C-1,Issued,N/A
 096554-4,Issued,Noticed for 30 days
 100012-3,In RO for Review,Noticed for 30 days
 81107C-0,Issued,N/A
 102418-3,Awaiting signature,Noticed for 30 days
-002507-6,Awaiting signature,Noticed for 30 days
+002507-6,Issued,Noticed for 30 days
 81202C-0,Issued,Noticed for 30 days
 82678C-0,Issued,N/A
 142294-5,Issued,Noticed for 30 days
@@ -665,7 +665,7 @@ bio,In FO for Review,Noticed for 30 days
 16616C-1,Issued,N/A
 77197C-1,Issued,N/A
 99171C-0,In RO for Review,N/A
-12392A-2,Awaiting signature,N/A
+12392A-2,Issued,N/A
 99240C-0,Issued,N/A
 00624D-0,Issued,N/A
 00660D-0,Issued,N/A
@@ -767,3 +767,4 @@ bio,In FO for Review,Noticed for 30 days
 810274-12,Issued,N/A
 88778B-1,In RO for Review,needs to be drafted
 38642A-1,In FO for Review,Noticed for 30 days
+063179-7,In RO for Review,needs to be drafted
