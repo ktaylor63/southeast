@@ -4,6 +4,11 @@ title: 'Red-cockaded woodpecker'
 scientific: 'Pterodroma hasitata'
 type: species-profile
 js: /js/species-profile.js
+hero:
+    name: red-cockaded-woodpecker-in-hand.jpg
+    alt: 'A small bird in hand with white patches on its wing and a red patch behind its eye'
+    caption: 'A male red-cockaded woodpecker showing off the red feathers behind its head called a cockade. Photo © Robert B. Clontz, The Nautre Conservancy.'
+    position: '45% 65%'
 aliases:
     - /wildlife/bird/red-cockaded-woodpecker
     - /species/bird/red-cockaded-woodpecker
@@ -18,7 +23,7 @@ tags:
     - 'Red-Cockaded Woodpecker'
     - 'South Carolina'
     - 'South Carolina Ecological Services Field Office'
-updated: 'March 25th, 2019'
+updated: 'April 30th, 2019'
 ---
 
 - **Taxon**: Bird
@@ -31,6 +36,8 @@ updated: 'March 25th, 2019'
 
 The red-cockaded woodpecker (RCW) is a small bird measuring about 7 inches in length. Identifiable by its white cheek patch and black and white barred back. The males have a few red feathers, called a cockade. These red feathers usually remain hidden underneath black feathers between the black crown and white cheek patch unless the male is disturbed or excited. Female RCWs lack the red cockade. Juvenile males have a red 'patch' in the center of their black crown. This patch disappears during the fall of their first year at which time their cockades appear.
 
+{{< figure class="photo-center" src="/images/pages/red-cockaded-woodpecker-chicks.jpg" alt="Three red cockaded woodpecker chicks so young their feathers are just starting to emerge. Each bird has a series of bands around its legs for identification" caption="Red-cockaded woodpecker chicks are banded when they are 8-10 days old; with each chick receiving a unique combination of leg bands so that individual birds may be identified with spotting scopes. Photo © Robert B. Clontz, The Nautre Conservancy." >}}
+
 ## Diet
 
 The diet of red-cockaded woodpeckers consists mostly of insects in the egg, larvae and adult stages. These include beetles, ants, roaches, spiders and other insects found in or on pine trees. Fruits and seeds make up a small portion of the overall diet. Methods of foraging include flaking away bark and probing under the bark using their specialized forked tongue to extract insects. Large, older trees are preferred for foraging. In general, males forage on the limbs and upper trunk while females forage on the trunk below the crown. This division of foraging area is most noticeable in winter when insect numbers are at their lowest and their activity slows due to cold weather, making it harder for RCWs to detect prey. Differences in the foraging behavior of males and females may help to reduce competition between them when food is scarce.
@@ -38,6 +45,8 @@ The diet of red-cockaded woodpeckers consists mostly of insects in the egg, larv
 Female red-cockaded woodpeckers have been documented searching for bone bits on the forest floor and stuffing them in tree crevices. Zoologists say that is the first known instance of a bird’s hoarding something for its mineral, rather than caloric content. Calcium rich bone is not rare, but the birds probably seek it to ensure stronger eggshells. They stash it in a tree so they won’t have to eat on the ground where they are vulnerable to predators.
 
 ## Habitat
+
+{{< figure class="photo-right" src="/images/pages/red-cockaded-woodpecker-tree.jpg" alt="A tree witch two white bands and a cavity; the tree is partially covered in sap" caption="A tree marked with white bands is home to a red-cockaded woodpecker cavity. Photo © Robert B. Clontz, The Nautre Conservancy." >}}
 
 The red-cockaded woodpecker is non-migratory, territorial, and lives in cooperative breeding social units called groups. These groups chatter and call throughout the day, using a great variety of vocalizations. It uses mature pine trees to develop nest cavities and is the only North American woodpecker that excavates its roost and nest cavities in living trees, usually in those which are infected with a fungus known as red-heart disease. Cavities can take three  years or more to excavate, and are occasionally abandoned and reoccupied.
 
@@ -79,6 +88,8 @@ The Service administers recovery and consultation programs for the red-cockaded 
 ## Partnerships, research and projects
 
 U.S. Forest Service and the U.S. Department of Defense have developed special management guidelines for the woodpeckers on national forests and military installations. From 1994 to 2002, red-cockaded woodpecker populations increased as much as 50 percent at six military installations that include primary core populations required for delisting. These are Eglin Air Force Base (Florida), Fort Benning (Georgia), Fort Bragg (North Carolina), Fort Polk (Louisiana), Fort Stewart (Georgia), and Marine Corps Base Camp Lejeune (North Carolina). Recovery initiatives by private landowners are also conserving this species.
+
+{{< figure class="photo-center" src="/images/pages/red-cockaded-woodpecker-translocation-night.jpg" alt="A biologist placing a red-cockaded woodpecker in its new home in an artificial cavity" caption="Dr. Bryan Watts of the Center for Conservation Biology acends to an artificial cavity to place a red-cockaded woodpecker in its new home at Great Dismal Swamp National Wildlife Refuge in Virginia. Photo by Robert B. Clontz, The Nature Conservancy." >}}
 
 ## Recovery plan
 
