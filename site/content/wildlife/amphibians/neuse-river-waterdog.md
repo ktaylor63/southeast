@@ -19,10 +19,9 @@ aliases:
 hero:
     name: neuse-river-waterdog.jpg
     alt: 'A spotted black salamander with red tufts around its gills.'
-    caption: 'A young Neuse River waterdog from the Little River, Johnston County, North Carolina, by Jeff Beane.'
-    link: 'https://flic.kr/p/U6bSnC'
+    caption: 'A young Neuse River waterdog from the Little River, Johnston County, North Carolina. <a href="https://flic.kr/p/U6bSnC">Photo</a> by Jeff Beane.'
     position: 'bottom left'
-updated: 'March 25th, 2019'
+updated: 'April 30th, 2019'
 ---
 
 - **Taxon:** Freshwater salamander

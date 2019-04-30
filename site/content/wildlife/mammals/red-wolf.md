@@ -7,8 +7,7 @@ js: /js/species-profile.js
 hero:
     name: red-wolf-at-point-defiance.jpg
     alt: 'An adult wolf walking in an enclosure at the zoo.'
-    caption: 'Captive red wolf at Species Survival Plan facility, Point Defiance Zoo and Aquarium (Tacoma, WA). Photo by B. Bartel, USFWS.'
-    link: 'https://flic.kr/p/hJ1eXL'
+    caption: 'Captive red wolf at Species Survival Plan facility, Point Defiance Zoo and Aquarium (Tacoma, WA). <a href="https://flic.kr/p/hJ1eXL">Photo</a> by B. Bartel, USFWS.'
     position: 'top left'
 aliases:
     - /wildlife/mammal/red-wolf
@@ -26,7 +25,7 @@ tags:
     - 'Red Wolf'
     - 'South Carolina'
     - 'South Carolina Ecological Services Field Office'
-updated: 'March 25th, 2019'
+updated: 'April 30th, 2019'
 ---
 
 - **Taxon**: Mammal
