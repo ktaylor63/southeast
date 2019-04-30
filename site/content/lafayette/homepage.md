@@ -68,6 +68,6 @@ The Louisiana Ecological Service field office service all of Louisiana. Our main
 
 ## Directions
 
-[Download directions to our office](https://www.google.com/maps/dir//646+Cajundome+Blvd+%23400,+Lafayette,+LA+70506/@30.225719,-92.0450797,17z/data=!4m16!1m7!3m6!1s0x86249c723bf09351:0xaa90334ddf2887ef!2s646+Cajundome+Blvd+%23400,+Lafayette,+LA+70506!3b1!8m2!3d30.225719!4d-92.042891!4m7!1m0!1m5!1m1!1s0x86249c723bf09351:0xaa90334ddf2887ef!2m2!1d-92.042891!2d30.225719).
+[Download directions to our office](https://www.google.com/maps/dir//200+Dulles+Dr,+Lafayette,+LA+70506/@30.2212656,-92.0571437,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x86249c105a406fcd:0xd2f0ba9446efe0d5!2m2!1d-92.054955!2d30.2212656).
 
 <br><br>
