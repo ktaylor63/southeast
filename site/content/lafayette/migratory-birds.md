@@ -6,8 +6,7 @@ facebook: Louisiana-Ecological-Services-Office-364376830424514
 hero:
     name: flock-of-geese-louisiana.jpg
     alt: 'Thousands of geese taking flight.'
-    caption: 'Geese flocking overhead. Photo by Corey Douglas.'
-    link: 'https://flic.kr/p/buct6K'
+    caption: 'Geese flocking overhead. <a href="https://flic.kr/p/buct6K">Photo</a> by Corey Douglas.'
 tags:
     - Louisiana
     - 'Migratory Bird Treaty Act'
@@ -23,26 +22,28 @@ Under the authorities of the Migratory Bird Treaty Act and the [Bald and Golden 
 
 ## Permit, regulatory information
 
-  - [Bald and golden eagle permitting and consultation](/our-services/eagle-technical-assistance/)
-  - [Migratory bird permits](https://www.fws.gov/permits/applicationforms/ApplicationLM.html#MBTA)
-  - [Information on national wind energy development](https://www.fws.gov/windenergy)
-  - [Information on energy development in the Southeast](/our-services/energy-development/)
+- [Bald and golden eagle permitting and consultation](/our-services/eagle-technical-assistance/)
+- [Migratory bird permits](https://www.fws.gov/permits/applicationforms/ApplicationLM.html#MBTA)
+- [Information on national wind energy development](https://www.fws.gov/windenergy)
+- [Information on energy development in the Southeast](/our-services/energy-development/)
 
 ## How to report a banded bird
 
-  - [The North American Bird Banding Program](https://www.pwrc.usgs.gov/BBL/)
+- [The North American Bird Banding Program](https://www.pwrc.usgs.gov/BBL/)
 
 ## Bird databases
-  - [Migratory Bird Data Center](https://migbirdapps.fws.gov/)
-  - [Searchable Species Database: ebird.org](http://ebird.org/ebird/eBirdReports?cmd=Start)
-  - [Christmas Bird Count: Audubon](http://birds.audubon.org/christmas-bird-count)
-  - [Partners in Flight Land-bird Population Estimate Database](http://pif.birdconservancy.org/PopEstimates/)
-  - [Patuxent Wildlife Research Center Colonial Waterbird Monitoring Partnership Database](https://www.pwrc.usgs.gov/cwb/database/)
-  - [North American Breeding Bird Survey](http://www.pwrc.usgs.gov/BBS/)
-  - [National Wildlife Health Center bird die-offs](http://www.nwhc.usgs.gov/)
+
+- [Migratory Bird Data Center](https://migbirdapps.fws.gov/)
+- [Searchable Species Database: ebird.org](http://ebird.org/ebird/eBirdReports?cmd=Start)
+- [Christmas Bird Count: Audubon](http://birds.audubon.org/christmas-bird-count)
+- [Partners in Flight Land-bird Population Estimate Database](http://pif.birdconservancy.org/PopEstimates/)
+- [Patuxent Wildlife Research Center Colonial Waterbird Monitoring Partnership Database](https://www.pwrc.usgs.gov/cwb/database/)
+- [North American Breeding Bird Survey](http://www.pwrc.usgs.gov/BBS/)
+- [National Wildlife Health Center bird die-offs](http://www.nwhc.usgs.gov/)
 
 ## Reducing bird collisions
-  - [Reducing bird collisions with buildings and building glass best practices](/pdf/guidelines/reducing-bird-collisions-with-buildings-and-building-glass-best-practices.pdf)
+
+- [Reducing bird collisions with buildings and building glass best practices](/pdf/guidelines/reducing-bird-collisions-with-buildings-and-building-glass-best-practices.pdf)
 
 
 ## Contact
