@@ -31,7 +31,7 @@ Under the ESA, species may be listed as either threatened or endangered. “Enda
 
 The [Species Status Assessment](/endangered-species-act/species-status-assessments/) (SSA) framework is a rigorous scientific assessment developed by the Service.  It is designed to “follow the species” in the sense that the information on a species’ biological status is available for conservation use, providing a single source for all ESA decisions such as listings, consultations, grant allocations, permitting, habitat conservation partnerships, and recovery planning.  This framework has resulted in better assessments, improved and more transparent and defensible decision making, and clearer and more concise documents.
 
-## [South Carolina’s endangered, threatened and at-risk (under review) species](https://ecos.fws.gov/ecp0/reports/species-listed-by-state-report?state=SC&status=listed)
+## South Carolina’s endangered, threatened and at-risk (under review) species
 
 Click on a county below for a list of endangered, threatened, and at-risk species and their survey windows.
 
