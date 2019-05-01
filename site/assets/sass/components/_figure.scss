@@ -1,6 +1,11 @@
 figure {
   display: table;
 
+  &.full-width {
+    margin: auto;
+    width: 100%;
+  }
+
   img {
     display: block;
   }
