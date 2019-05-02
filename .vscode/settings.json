@@ -1,5 +1,6 @@
 {
   "editor.tabSize": 2,
+  "editor.insertSpaces": true,
   "workbench.colorCustomizations": {
     "titleBar.activeBackground": "#006358",
     "titleBar.inactiveBackground": "#003b34"
