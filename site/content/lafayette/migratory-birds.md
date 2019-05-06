@@ -47,5 +47,6 @@ Under the authorities of the Migratory Bird Treaty Act and the [Bald and Golden 
 
 
 ## Contact
-Angela Trahan, Coastal Restoration Biologist and Migratory Birds  
-[angela_trahan@fws.gov](mailto:angela_trahan@fws.gov), (337) 291-3137
+
+Louisiana Ecological Services Field Office  
+(337) 291-3100
