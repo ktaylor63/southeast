@@ -10,5 +10,5 @@
 <div class="hero-teaser">
   {{ if not .Params.hero }}<h2>{{ .Title }}</h2>{{ end }}
   {{ if .Params.subtitle }}<h3>{{ .Params.subtitle }}</h3>{{ end }}
-  {{ if .Params.description }}<p>{{ .Params.description }}</p>{{ else }}<p>{{ .Summary }}</p>{{ end }}
+  {{ if .Params.description }}<p>{{ .Params.description | markdownify }}</p>{{ else }}<p>{{ .Summary }}</p>{{ end }}
 </div>
