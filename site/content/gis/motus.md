@@ -1,13 +1,13 @@
 ---
 title: 'Automated Telemetry Detections'
-description: 'Check out our interactive map with initial tagging locations of migratory animals detected by radio telemetry towers operated by the Service''s Southeast Region National Wildlife Refuge System.'
+description: 'Check out our interactive map with initial tagging locations of migratory animals detected by radio telemetry towers operated by the Services Southeast Region National Wildlife Refuge System.'
 js: /js/modus.js
 aliases:
     - /maps/motus
 tags:
     - Map
     - Telemetry
-updated: 'October 25th, 2017'
+updated: 'May 7th, 2019'
 ---
 
 The map below presents initial tagging locations of migratory animals detected by radio telemetry towers operated by the Service's Southeast Region National Wildlife Refuge System. This map is a visualization product/tool, so read the [limitations of data use](#data-limitations-and-user-caution) and [disclaimers](#disclaimers) for more information.
