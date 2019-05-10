@@ -1,7 +1,7 @@
 = content main
   .js-Parallaxify style="background-image: url('https://www.fws.gov/southeast/images/hero/hero-intro.jpg');"
     img.logo src="/images/svg/logo.svg" alt="Official logo of the U.S. Fish and Wildlife Service"
-  aside.side-nav
+  aside.side-nav aria-label="Within-page navigation"
 
   h1 Regional Priorities in the Southeast
 
