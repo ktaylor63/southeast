@@ -42,6 +42,7 @@
     "leaflet.defaultextent": "0.0.3",
     "leaflet.featuregroup.subgroup": "^1.0.2",
     "leaflet.markercluster": "^1.0.5",
+    "randomcolor": "^0.5.4",
     "xhr": "^2.4.0"
   }
 }

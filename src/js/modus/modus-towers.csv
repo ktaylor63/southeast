@@ -1,6 +1,20 @@
-"site","lng","lat","content"
-"BullsIsland",-79.613383,32.907114,"Bulls Island, Cape Romain NWR"
-"CedarIsland",-76.278606,34.956542,"Cedar Island NWR"
-"MackayIsland",-75.98938,36.526918,"Mackay Island NWR"
-"PeaIsland",-75.493804,35.716693,"Pea Island NWR"
-"StMarks",-84.162808,30.08803,"St. Marks NWR"
+"site","lat","lng"
+"Cedar Island NWR, NC",34.957,-76.279
+"Mackay Island NWR, NC",36.527,-75.989
+"Cape Romain NWR, SC (Bulls Island)",32.907,-79.613
+"Pea Island NWR, NC",35.717,-75.494
+"St. Marks NWR, FL",30.088,-84.163
+"Cape Romain NWR, SC (HQ)",32.973,-79.671
+"Santee NWR, SC",33.534,-80.431
+"Chassahowitzka NWR, FL",28.749,-82.554
+"Loxahatchee NWR, FL",26.499,-80.216
+"Hobe Sound NWR, FL",27.037,-80.112
+"Florida Panther NWR, FL",26.187,-81.35
+"Ten Thousand Islands NWR, FL",25.959,-81.563
+"Ding Darling NWR, FL",26.448,-82.118
+"Harris Neck NWR, GA",31.622,-81.262
+"Blackbeard Island NWR, GA",31.489,-81.209
+"Noxubee NWR, MS",33.271,-88.784
+"Crocodile Lake NWR, FL",25.192,-80.356
+"Mattamuskeet NWR, NC",35.451,-76.208
+"Pelican Island NWR, FL",27.803,-80.422

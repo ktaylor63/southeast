@@ -4,6 +4,10 @@ require('leaflet.markerCluster');
 require('leaflet.featuregroup.subgroup');
 require('leaflet.defaultextent');
 const parallel = require('async/parallel');
+const randomColor = require('randomcolor');
+
+const layers = require('./layers');
+const icons = require('./icons');
 
 let hasWWW = window.location.href.indexOf('www');
 hasWWW = !(hasWWW < 0);
@@ -13,58 +17,16 @@ const dataURL = hasWWW ? baseURL : baseURL.replace('www.', '');
 const towerUrl = `${dataURL}data/modus-towers.js`;
 const detectionsUrl = `${dataURL}data/modus-detections.js`;
 
-const colors = ['blue', 'purple', 'red', 'green', 'yellow'];
-const towerColors = [...colors];
 const clusterGroup = L.layerGroup();
 
 L.Icon.Default.imagePath = `${dataURL}images/`;
 
 const unique = arrArg => arrArg.filter((elem, pos, arr) => arr.indexOf(elem) === pos);
 
-const getTowerIcon = color =>
-  new L.Icon({
-    iconUrl: `${dataURL}images/svg/tower-${color}.svg`,
-    iconSize: [20, 40],
-    iconAnchor: [15, 35],
-    popupAnchor: [-5, -28]
-  });
-const getCircleIcon = color =>
-  new L.Icon({
-    iconUrl: `${dataURL}images/svg/circle-${color}.svg`,
-    iconSize: [20, 40],
-    iconAnchor: [15, 35],
-    popupAnchor: [-5, -28]
-  });
-
-const createClusterIcon = (cluster, color) =>
-  L.divIcon({
-    html: cluster.getAllChildMarkers().length,
-    className: `cluster cluster-${color}`,
-    showCoverageOnHover: false
-  });
-
-const homeIcon =
-  '<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26px" height="26px" viewBox="0 0 26 26" enable-background="new 0 0 26 26" xml:space="preserve"><g id="home"><polygon fill="#464646" points="11.2,20.65 11.2,15.249 14.8,15.249 14.8,20.65 19.3,20.65 19.3,13.45 22,13.45 13,5.35 4,13.45 6.7,13.45 6.7,20.65"/></g></svg>';
-
-const esriNatGeo = L.tileLayer(
-  'https://server.arcgisonline.com/ArcGIS/rest/services/NatGeo_World_Map/MapServer/tile/{z}/{y}/{x}',
-  {
-    attribution:
-      'Tiles &copy; Esri &mdash; National Geographic, Esri, DeLorme, NAVTEQ, UNEP-WCMC, USGS, NASA, ESA, METI, NRCAN, GEBCO, NOAA, iPC',
-    maxZoom: 16
-  }
-);
-
-const esriImagery = L.tileLayer(
-  'http://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}',
-  {
-    attribution:
-      'Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community'
-  }
-);
+const homeIcon =  '<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26px" height="26px" viewBox="0 0 26 26" enable-background="new 0 0 26 26" xml:space="preserve"><g id="home"><polygon fill="#464646" points="11.2,20.65 11.2,15.249 14.8,15.249 14.8,20.65 19.3,20.65 19.3,13.45 22,13.45 13,5.35 4,13.45 6.7,13.45 6.7,20.65"/></g></svg>';
 
 const createDetectionTemplate = props => `
-  <div><strong>${props.spp}</strong><br>${props.tag_site}</div>
+  <div><strong>${props.spp}</strong><br>${props.site}</div>
   <div>Detected on: ${props.dates}</div>
 `;
 
@@ -73,7 +35,7 @@ const onEachFeature = (feat, layer) => {
   const type = props.spp ? 'detection' : 'tower';
   switch (type) {
     case 'tower':
-      layer.bindPopup(props.content);
+      layer.bindPopup(props.site);
       break;
     case 'detection':
       layer.bindPopup(createDetectionTemplate(props));
@@ -87,7 +49,7 @@ const createGeoJsonLayer = (geojson, site, colors) => {
   const color = colors.pop();
   const cluster = L.markerClusterGroup({
     maxClusterRadius: 25,
-    iconCreateFunction: cluster => createClusterIcon(cluster, color)
+    iconCreateFunction: cluster => icons.createClusterIcon(cluster, color)
   });
   const layer = L.geoJSON(geojson, {
     filter(feat, layer) {
@@ -104,56 +66,67 @@ const createGeoJsonLayer = (geojson, site, colors) => {
 const createMap = (err, data) => {
   if (err) console.error(err);
 
+  // Get a list of tower sites, generate random colors
   const sites = unique(data.detections.features.map(d => d.properties.site));
-  const labels = sites.map(s => s.split(/(?=[A-Z])/)).map(a => a.join(' '));
+  const colors = randomColor({ count: sites.length });
+  const towerColors = [...colors];
+  const detectionLayers = sites.map(site => createGeoJsonLayer(data.detections, site, colors));
 
+  // Create a layer for Towers
   const towers = L.geoJSON(data.towers, {
     pointToLayer(feat, latlng) {
-      return L.marker(latlng, { icon: getTowerIcon(towerColors.pop()) });
+      return L.marker(latlng, {
+        icon: icons.getTowerIcon(towerColors.pop())
+      });
     },
     onEachFeature
   });
-  const detectionLayers = sites.map(site => createGeoJsonLayer(data.detections, site, colors));
 
-  const overlays = {
-    Towers: towers,
-    [labels[0]]: detectionLayers[0],
-    [labels[1]]: detectionLayers[1],
-    [labels[2]]: detectionLayers[2],
-    [labels[3]]: detectionLayers[3],
-    [labels[4]]: detectionLayers[4]
-  };
+  // Generate an overlays object by combining array of sites and detections; include towers layer first
+  const overlays = sites.reduce(
+    (acc, val, i) => {
+      acc[val] = detectionLayers[i];
+      return acc;
+    },
+    { Towers: towers }
+  );
 
-  const map = L.map('map', { layers: [esriNatGeo, towers, ...detectionLayers] });
-
-  clusterGroup.addTo(map);
-  detectionLayers.forEach(l => l.addTo(map));
+  const map = L.map('map', {
+    layers: [layers.esriNatGeo, towers]
+  });
 
   L.control
-    .layers({ 'National Geographic': esriNatGeo, Imagery: esriImagery }, overlays, {
-      collapsed: false
-    })
+    .layers(
+      { 'National Geographic': layers.esriNatGeo, Imagery: layers.esriImagery },
+      overlays,
+      {
+        collapsed: false
+      }
+    )
     .addTo(map);
 
   map.fitBounds(L.geoJSON(data.detections).getBounds());
 
-  L.control.defaultExtent().addTo(map).setCenter(map.getCenter()).setZoom(map.getZoom());
+  L.control
+    .defaultExtent()
+    .addTo(map)
+    .setCenter(map.getCenter())
+    .setZoom(map.getZoom());
 
-  document.querySelector('.leaflet-control-defaultextent-toggle').innerHTML = homeIcon;
+  document.querySelector(
+    '.leaflet-control-defaultextent-toggle'
+  ).innerHTML = homeIcon;
 };
 
 const pointToLayer = (feat, latlng, color) => {
   const type = feat.properties.spp ? 'detection' : 'tower';
-  let marker;
 
   switch (type) {
     case 'tower':
-      marker = L.marker(latlng, { icon: getTowerIcon(color) });
-      break;
+      return L.marker(latlng, { icon: icons.getTowerIcon(color) });
     default:
-      marker = L.marker(latlng, { icon: getCircleIcon(color) });
+      return L.marker(latlng, { icon: icons.getCircleIcon(color) });
   }
-  return marker;
 };
 
 const getData = (url, cb) => {

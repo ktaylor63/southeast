@@ -1,85 +1,316 @@
-"site","fullID","tag_site","lat","lng","spp","dates"
-"BullsIsland","AdamSmith#514:5.3 M.21314","Block Island (RI)<br>Tagged 24 Sep 16",41.1505317650109,-71.5958435343386,"Merlin","02 Oct 16"
-"BullsIsland","BerriganSWTH#18:11.3 M.21951","Bon Portage (NS)",43.4656112788873,-65.7493106999074,"Swainson's Thrush","25 Oct 16"
-"BullsIsland","BIMYWA#479:10.7 M.21642","Block Island (RI)<br>Tagged 8 Oct 16",41.2120278351771,-71.5601248638831,"Red-eyed Vireo","23 Oct 16"
-"BullsIsland","BIMYWA#492:10.7 M.21655","Block Island (RI)<br>Tagged 30 Oct 16",41.2119613510294,-71.5616570895986,"Hermit Thrush","28 Nov 16"
-"BullsIsland","BIMYWA#495:10.7 M.21658","Block Island (RI)<br>Tagged 30 Oct 16",41.2131109112075,-71.5602739831658,"Hermit Thrush","21 Nov 16"
-"BullsIsland","Churchill#363:10.1 M.20837","Churchill (MB)<br>Tagged 7 Jul 16",58.7826286318299,-93.8258948922738,"Semipalmated Plover","18 Aug 16"
-"BullsIsland","Churchill#366:10.1 M.20840","Churchill (MB)<br>Tagged 11 Jul 16",58.7333014612366,-93.8094816922118,"Semipalmated Plover","23 Aug 16"
-"BullsIsland","CTRiver#41.1:9.7 M.21331","Cornish WMA (NH)<br>Tagged 7 Oct 16",43.4706691214159,-72.3755981434488,"Myrtle Warbler","07 Nov 16"
-"BullsIsland","Ernst#452:9.7 M.21359","Sachuest NWR (RI)<br>Tagged 29 Sep 16",41.4876037587489,-71.2487759232011,"Saltmarsh Sparrow","05 Nov 16"
-"BullsIsland","Ernst#469:9.7 M.21376","Sachuest NWR (RI)<br>Tagged 17 Oct 16",41.4889063296171,-71.248588730429,"Saltmarsh Sparrow","08 Nov 16"
-"BullsIsland","Holbt15_16#299:8.9 M.20778","Popham Beach (ME)<br>Tagged 8 Aug 16",43.7514939990337,-69.7825892705288,"Semipalmated Sandpiper","07 Sep 16"
-"BullsIsland","Loring#10:4.3 M.23634","Young Sound, Andros (BAH)",24.6842129737142,-77.7533635786375,"Piping Plover","18 Mar 17"
-"BullsIsland","Loring#102:4.7 M.20707","Delaware Bay (NJ)<br>fall migration",39.1503036974001,-74.8844474767666,"Red Knot","21 Aug 16"
-"BullsIsland","Loring#477.1:5.9 M.20724","Delaware Bay (NJ)<br>fall migration",39.1497126927509,-74.8852837423426,"Red Knot","20 Aug 16"
-"BullsIsland","Loring#68.1:5.3 M.20699","Avalon (NJ)",39.0830895697226,-74.7276346758197,"Red Knot","22 Nov 16"
-"BullsIsland","Loring#7:4.3 M.23632","Young Sound, Andros (BAH)",24.6834276813844,-77.7538044432522,"Piping Plover","26 Mar 17"
-"BullsIsland","MA_REKN#397:5.9 M.20938","North Beach Island (MA)<br>Tagged 31 Jul 16",41.6796005997394,-69.9345008731008,"Red Knot","16 Aug 16"
-"BullsIsland","NolWS#35:10.7 M.18411","Bulls Island (SC)",32.946161144243,-79.5731279586939,"Dunlin","26 Mar 16<br/>29 Mar 16<br/>30 Mar 16<br/>10 Apr 16<br/>12 Apr 16<br/>14 Apr 16<br/>15 Apr 16<br/>16 Apr 16<br/>31 Mar 16<br/>13 Apr 16"
-"BullsIsland","QC-Thrush#88:10.7 M.21762","Quebec",48.155391181262,-69.6883946450116,"Swainson's/Gray-cheeked Thrush","22 Oct 16"
-"BullsIsland","R5_SALS#344:9.7 M.21276","Kiawah Island (SC)<br>Tagged 6 May 16",32.6124929211615,-80.0991900985299,"Saltmarsh Sparrow","13 May 16"
-"BullsIsland","R5_SALS#348:9.7 M.21280","Kiawah Island (SC)<br>Tagged 6 May 16",32.6127940667937,-80.099035763426,"Saltmarsh Sparrow","12 May 16"
-"BullsIsland","R5_SALS#357:9.7 M.21289","Kiawah Island (SC)<br>Tagged 5 May 16",32.6137644285974,-80.0992034948219,"Saltmarsh Sparrow","10 May 16"
-"BullsIsland","R5_SALS#358:9.7 M.21290","Kiawah Island (SC)<br>Tagged 6 May 16",32.613196966181,-80.0988795882568,"Saltmarsh Sparrow","12 May 16"
-"BullsIsland","R5_SALS#363:9.7 M.21590","Rachel Carson NWR (ME)<br>Tagged 29 Sep 16",43.3474466625648,-70.5360919704443,"Saltmarsh Sparrow","27 Oct 16"
-"BullsIsland","R5_SALS#379:9.7 M.21833","Rachel Carson NWR (ME)<br>Tagged 6 Oct 16",43.3470770982509,-70.5360947548231,"Saltmarsh Sparrow","05 Nov 16"
-"BullsIsland","R5_SALS#384:9.7 M.21296","Parker River NWR (MA)<br>Tagged 3 Oct 16",42.772471909659,-70.8087188221349,"Saltmarsh Sparrow","08 Nov 16"
-"BullsIsland","R5_SALS#448:10.7 M.21614","Rachel Carson NWR (ME)<br>Tagged 6 Oct 16",43.3475187470662,-70.536218069031,"Saltmarsh Sparrow","08 Nov 16"
-"BullsIsland","Tonra#105:10.1 M.-259","Turning Point Island (OH)",41.4582140837673,-82.7268008568631,"Black-crowned Night-heron<br>juvenile","13 Nov 16"
-"BullsIsland","Tonra#358:10.7 M.20639","West Sister Island (OH)",41.7396371135921,-83.1058501460891,"Black-crowned Night-heron<br>juvenile","23 Nov 16"
-"BullsIsland","Tonra#397:10.7 M.20677","West Sister Island (OH)",41.7402019881047,-83.1054600930753,"Black-crowned Night-heron<br>juvenile","25 Oct 16"
-"BullsIsland","USask#157:6.1 M.18699","Chaplin Lake (SK)<br>northbound migration; May 2016",50.3654671680466,-106.606963663043,"Sanderling","29 Jul 16"
-"CedarIsland","AdamSmith#514:5.3 M.21314","Block Island (RI)<br>Tagged 24 Sep 16",41.1508653152387,-71.5959380085029,"Merlin","28 Sep 16"
-"CedarIsland","Churchill#366:10.1 M.20840","Churchill (MB)<br>Tagged 11 Jul 16",58.7336395188179,-93.8099442525018,"Semipalmated Plover","20 Aug 16"
-"CedarIsland","Jamaica#70:10.1 M.18773","Jamaica",18.0428160559724,-77.9416505497659,"Swainson's Warbler","07 May 16<br/>13 May 16<br/>14 May 16<br/>16 May 16<br/>18 May 16<br/>15 May 16<br/>17 May 16"
-"CedarIsland","JamesBay#240:10.1 M.22705","James Bay (ON)<br>Tagged 7 Aug 16",51.8159745884766,-80.6919330125301,"Least Sandpiper","06 Sep 16"
-"CedarIsland","Loring#30:4.3 M.19068","Quonnie Beach (RI)",41.325650626793,-71.7277902536829,"Piping Plover","03 Aug 16"
-"CedarIsland","Loring#488.1:5.9 M.18951","Chatham Lighthouse Beach (MA)",41.6656839129458,-69.9454418743697,"Piping Plover","21 Jul 16"
-"CedarIsland","Loring#55:5.3 M.19053","Trustom NWR (RI)",41.370122192383,-71.5768057381709,"Piping Plover","26 Jun 16"
-"CedarIsland","Loring#7:4.3 M.23632","Young Sound, Andros (BAH)",24.6833520516267,-77.7536290661357,"Piping Plover","03 Apr 17"
-"CedarIsland","MA_REKN#458:5.9 M.20999","North Beach Island (MA)<br>Tagged 4 Oct 16",41.6802645473067,-69.9331741841122,"Red Knot","03 Jan 17"
-"CedarIsland","Niles#143:10.7 M.19744","Delaware Bay (NJ/DE)",38.9450079101809,-74.9696756784717,"Red Knot","27 Jul 16"
-"CedarIsland","QC-Thrush#110:10.7 M.21784","Quebec",48.1548343272598,-69.6878359737751,"Swainson's/Gray-cheeked Thrush","26 Oct 16"
-"CedarIsland","R5_SALS#358:9.7 M.21290","Kiawah Island (SC)<br>Tagged 6 May 16",32.6138699040199,-80.0981594134408,"Saltmarsh Sparrow","17 May 16"
-"CedarIsland","SCDNR_Shorebirds#60:5.3 M.23592","Seabrook Island (SC)",32.5710326815401,-80.1541226847941,"Red Knot","10 May 17"
-"CedarIsland","SCDNR_Shorebirds#61:5.3 M.23593","Seabrook Island (SC)",32.5704137973906,-80.1532489912552,"Red Knot","07 May 17"
-"CedarIsland","USask#164:6.1 M.18691","Bolivar Flats (TX)<br/>northbound migration; spring 2016",29.3824132459892,-94.722757330109,"Sanderling","27 Jul 16"
-"MackayIsland","CormierBLPW#47@166.38:37.3","Bon Portage (NS)",43.4667188759711,-65.751006347243,"Blackpoll Warbler","22 Oct 16"
-"MackayIsland","CormierBLPW#64@166.38:37.3","Bon Portage (NS)",43.466830976203,-65.7498268560583,"Blackpoll Warbler","23 Oct 16<br/>25 Oct 16"
-"MackayIsland","CormierBLPW#69@166.38:37.3","Bon Portage (NS)",43.4658694791053,-65.7496620757349,"Blackpoll Warbler","11 Nov 16"
-"MackayIsland","CormierBLPW#72@166.38:37.3","Bon Portage (NS)",43.4666098958905,-65.7498466753007,"Blackpoll Warbler","05 Nov 16"
-"MackayIsland","CTRiver#67@166.38:9.7","Cornish WMA (NH)<br>Tagged 25 Sep 16",43.4711368682465,-72.37477916565,"Myrtle Warbler","14 Oct 16"
-"MackayIsland","Ernst#452@166.38:9.7","Sachuest NWR (RI)<br>Tagged 29 Sep 16",41.4889882288484,-71.2492134806153,"Saltmarsh Sparrow","01 Nov 16"
-"MackayIsland","Loring#47@166.38:4.3","Delaware Bay (NJ)<br>fall migration",39.1497293947663,-74.885213374984,"Red Knot","18 Nov 16"
-"MackayIsland","Loring#70.1@166.38:5.3","Delaware Bay (NJ)<br>fall migration",39.1490022586103,-74.8841694457755,"Red Knot","12 Nov 16"
-"MackayIsland","Niles#291@166.38:10.7","likely Delaware Bay (NJ/DE)",38.9459909502357,-74.9713447002914,"Red Knot","04 Nov 16"
-"MackayIsland","NolWS#29@166.38:10.7","Bulls Island (SC)",32.9445764229027,-79.5726415296718,"Dunlin","01 Apr 16"
-"MackayIsland","Obrien#363@166.38:9.7","Rachel Carson NWR (ME)<br>Tagged 29 Sep 16",43.3477197596878,-70.5358337695567,"Saltmarsh Sparrow","26 Oct 16"
-"MackayIsland","R5_SALS#348@166.38:9.7","Kiawah Island (SC)<br>Tagged 6 May 16",32.6124251881195,-80.0986881896572,"Saltmarsh Sparrow","17 May 16"
-"MackayIsland","R5_SALS#383@166.38:9.7","Parker River NWR (MA)<br>Tagged 5 Oct 16",42.7161021003774,-70.7805447755589,"Saltmarsh Sparrow","18 Nov 16"
-"MackayIsland","R5_SALS#384@166.38:9.7","Parker River NWR (MA)<br>Tagged 3 Oct 16",42.7731670352616,-70.8092824838266,"Saltmarsh Sparrow","05 Nov 16"
-"MackayIsland","R5_SALS#392@166.38:9.7","Parker River NWR (MA)<br>Tagged 13 Oct 16",42.7746425284709,-70.8074800832257,"Saltmarsh Sparrow","26 Nov 16"
-"MackayIsland","Ronconi#513@166.38:9.7","Southampton Island (NU)<br>Tagged 8 Jul 16",64.0229847293981,-82.0416536581606,"Red Phalarope","21 Oct 16<br/>22 Oct 16<br/>27 Oct 16<br/>30 Oct 16<br/>03 Nov 16<br/>06 Nov 16"
-"PeaIsland","Churchill#362:10.1 M.20836","Churchill (MB)<br>Tagged 7 Jul 16",58.7668579585109,-93.9491023691316,"Semipalmated Plover","06 Aug 16"
-"PeaIsland","Holbt15_16#297:8.9 M.20776","Popham Beach (ME)<br>Tagged 8 Aug 16",43.7521207824662,-69.7829129471215,"Semipalmated Sandpiper","04 Sep 16"
-"PeaIsland","JamesBay#242:10.1 M.22707","James Bay (ON)<br>Tagged 7 Aug 16",51.7997863456761,-80.6928768035304,"White-rumped Sandpiper","04 Sep 16"
-"PeaIsland","Loring#432:6.1 M.18977","Monomoy NWR (MA)",41.5794101100752,-69.9902647480576,"Piping Plover","04 Sep 16"
-"PeaIsland","Loring#488.1:5.9 M.18951","Chatham Lighthouse Beach (MA)",41.6670311361099,-69.9461550765962,"Piping Plover","20 Jul 16"
-"PeaIsland","Loring#63.1:5.3 M.19040","East Beach/Watch Hill (RI)",41.3102663951665,-71.8497144228903,"Piping Plover","24 Jul 16"
-"PeaIsland","Loring#68.1:5.3 M.20699","Avalon (NJ)",39.0846633769407,-74.7271996515233,"Red Knot","16 Nov 16"
-"PeaIsland","Loring#7:4.3 M.23632","Young Sound, Andros (BAH)",24.6833783966553,-77.7531780779035,"Piping Plover","03 Apr 17"
-"PeaIsland","Loring#70.1:5.3 M.20701","Delaware Bay (NJ)<br>fall migration",39.1494875502026,-74.8850415453692,"Red Knot","14 Nov 16"
-"PeaIsland","Niles#143:10.7 M.19744","Delaware Bay (NJ/DE)",38.9458935724367,-74.9710482344038,"Red Knot","27 Jul 16"
-"PeaIsland","Niles#216:10.7 M.19817","likely Delaware Bay (NJ/DE)",38.9465808409853,-74.9697608718115,"Red Knot","02 Sep 16"
-"PeaIsland","R5_SALS#7:9.7 M.21268","Parker River NWR (MA)<br>Tagged 30 Sep 16",42.71520184167,-70.7818740230591,"Saltmarsh Sparrow","07 Nov 16"
-"PeaIsland","Rausch#392:10.1 M.19157","Polar Bear Pass (NU)<br>Tagged 8 Jul 16",75.7368200695813,-98.3990961539044,"Sanderling","19 Aug 16"
-"PeaIsland","Rausch#396:10.1 M.19161","Polar Bear Pass (NU)<br>Tagged 9 Jul 16",75.7165192951562,-98.2979670740017,"Sanderling","13 Sep 16"
-"PeaIsland","Rausch#411:10.1 M.19176","Polar Bear Pass (NU)<br>Tagged 10 Jul 16",75.7095262190689,-98.381095808769,"White-rumped Sandpiper","01 Sep 16<br/>02 Sep 16"
-"PeaIsland","Rausch#412:10.1 M.19177","Polar Bear Pass (NU)",75.7014122094704,-98.3338708078885,"Sanderling","05 Aug 16<br/>06 Aug 16<br/>08 Aug 16<br/>10 Aug 16<br/>09 Aug 16<br/>23 Aug 16"
-"PeaIsland","SCDNR_Shorebirds#61:5.3 M.23593","Seabrook Island (SC)",32.5706247514486,-80.154324032093,"Red Knot","08 May 17"
-"PeaIsland","Tonra#361:10.7 M.20642","Turning Point Island (OH)",41.4568681128977,-82.7260536071784,"Black-crowned Night-heron<br>juvenile","04 Oct 16"
-"StMarks","Churchill or Gerson#275:9.7 M.NA","St. George Island (FL)<br>Tagged 2 May 17",29.672648993166,-84.8411566351351,"Northern Waterthrush","09 May 17"
-"StMarks","Gerson#20:19.9 M.18592","St. George Island (FL)<br>Tagged 2 May 17",29.6727603330047,-84.8416980560489,"Swainson's Thrush","30 Apr 17"
-"StMarks","Jamaica#517:7.9 M.23909","Jamaica",18.0420042394211,-77.9415926655989,"Swainson's Warbler","03 Apr 17"
-"StMarks","Tonra#345:10.7 M.20626","West Sister Island (OH)",41.7395204179687,-83.1051883923848,"Black-crowned Night-heron<br>juvenile","21 Apr 17"
+site,fullID,spp,tag_date,lat,lng,dates
+"Cape Romain NWR, SC (Bulls Island)",AdamSmith#514:5.3@166.38(M.21314),Merlin,24-Sep-2016,41.150620,-71.596180,2-Oct-16
+"Cape Romain NWR, SC (Bulls Island)",Aubry#335:5.3@166.38(M.21514),Red Knot,20-Aug-2016,50.193056,-63.854722,8-Jan-17
+"Cape Romain NWR, SC (Bulls Island)",Aubry#85:12.7@166.38(M.14389),Red Knot,1-Oct-2016,50.192778,-63.745278,11-Nov-17
+"Cape Romain NWR, SC (Bulls Island)",BIMYWA#479:10.7@166.38(M.21642),Red-eyed Vireo,8-Oct-2016,41.216489,-71.561470,23-Oct-16
+"Cape Romain NWR, SC (Bulls Island)",BIMYWA#492:10.7@166.38(M.21655),Hermit Thrush,30-Oct-2016,41.216489,-71.561470,28-Nov-16
+"Cape Romain NWR, SC (Bulls Island)",BIMYWA#495:10.7@166.38(M.21658),Hermit Thrush,30-Oct-2016,41.216489,-71.561470,21-Nov-16
+"Cape Romain NWR, SC (Bulls Island)",Churchill#363:10.1@166.38(M.20837),Semipalmated Plover,7-Jul-2016,58.783132,-93.825413,18-Aug-16
+"Cape Romain NWR, SC (Bulls Island)",Churchill#366:10.1@166.38(M.20840),Semipalmated Plover,11-Jul-2016,58.733479,-93.810384,23-Aug-16
+"Cape Romain NWR, SC (Bulls Island)",CTRiver#41.1:9.7@166.38(M.21331),Yellow-rumped Warbler,7-Oct-2016,43.480771,-72.379229,7-Nov-16
+"Cape Romain NWR, SC (Bulls Island)",CTRiver#516:9.7@166.38(M.21353),Swainson's Thrush,4-Oct-2016,43.480771,-72.379229,22-Oct-16
+"Cape Romain NWR, SC (Bulls Island)",Holbt15_16#299:8.9@166.38(M.20778),Semipalmated Sandpiper,8-Aug-2016,43.735000,-69.807220,7-Sep-16
+"Cape Romain NWR, SC (Bulls Island)",MA_REKN#397:5.9@166.38(M.20938),Red Knot,31-Jul-2016,41.676873,-69.937122,16-Aug-16
+"Cape Romain NWR, SC (Bulls Island)",MA_REKN#437:5.9@166.38(M.20978),Red Knot,3-Aug-2016,41.616907,-69.969225,22-Sep-16
+"Cape Romain NWR, SC (Bulls Island)",Niles#283:10.7@166.38(M.19884),Red Knot,21-Oct-2016,39.081118,-74.729786,5-Dec-16
+"Cape Romain NWR, SC (Bulls Island)",Niles#325:19.9@166.38(M.24700),Red Knot,12-May-2017,39.112771,-74.892264,9-Aug-17
+"Cape Romain NWR, SC (Bulls Island)",NolWS#173:4.7@166.38(M.27485),Dunlin (hudsonia),3-Apr-2018,32.864851,-79.676278,05-Apr 2018<br/>06-Apr 2018
+"Cape Romain NWR, SC (Bulls Island)",NolWS#174:4.7@166.38(M.24484),Dunlin (hudsonia),3-Apr-2018,32.864851,-79.676278,5-Apr-18
+"Cape Romain NWR, SC (Bulls Island)",NolWS#181:4.7@166.38(M.24485),Dunlin (hudsonia),3-Apr-2018,32.864851,-79.676278,04-Apr 2018<br/>05-Apr 2018<br/>06-Apr 2018<br/>07-Apr 2018
+"Cape Romain NWR, SC (Bulls Island)",NolWS#182:4.7@166.38(M.24486),Semipalmated Plover,3-Apr-2018,32.864851,-79.676278,7-Apr-18
+"Cape Romain NWR, SC (Bulls Island)",NolWS#183:4.7@166.38(M.24487),Semipalmated Plover,3-Apr-2018,32.864851,-79.676278,03-Apr 2018<br/>04-Apr 2018<br/>05-Apr 2018<br/>06-Apr 2018<br/>07-Apr 2018
+"Cape Romain NWR, SC (Bulls Island)",NolWS#188:4.7@166.38(M.24492),Dunlin (hudsonia),3-Apr-2018,32.864851,-79.676278,04-Apr 2018<br/>05-Apr 2018<br/>06-Apr 2018<br/>07-Apr 2018
+"Cape Romain NWR, SC (Bulls Island)",NolWS#266:9.7@166.38(M.24564),Semipalmated Plover,3-Apr-2018,32.864851,-79.676278,03-Apr 2018<br/>04-Apr 2018<br/>05-Apr 2018<br/>06-Apr 2018<br/>07-Apr 2018
+"Cape Romain NWR, SC (Bulls Island)",NolWS#269:9.7@166.38(M.24567),Semipalmated Plover,3-Apr-2018,32.864851,-79.676278,04-Apr 2018<br/>05-Apr 2018<br/>06-Apr 2018<br/>07-Apr 2018
+"Cape Romain NWR, SC (Bulls Island)",NolWS#270:9.7@166.38(M.24568),Dunlin (hudsonia),3-Apr-2018,32.864851,-79.676278,03-Apr 2018<br/>04-Apr 2018<br/>05-Apr 2018<br/>06-Apr 2018<br/>07-Apr 2018
+"Cape Romain NWR, SC (Bulls Island)",NolWS#278:9.7@166.38(M.24576),Dunlin (hudsonia),3-Apr-2018,32.864851,-79.676278,04-Apr 2018<br/>05-Apr 2018<br/>06-Apr 2018
+"Cape Romain NWR, SC (Bulls Island)",NolWS#282:9.7@166.38(M.24580),Dunlin (hudsonia),3-Apr-2018,32.864851,-79.676278,5-Apr-18
+"Cape Romain NWR, SC (Bulls Island)",NolWS#35:10.7@166.38(M.18411),Dunlin (hudsonia),15-Mar-2016,32.990190,-79.545772,26-Mar 2016<br/>29-Mar 2016<br/>30-Mar 2016<br/>31-Mar 2016<br/>02-Apr 2016<br/>10-Apr 2016<br/>12-Apr 2016<br/>13-Apr 2016<br/>14-Apr 2016<br/>15-Apr 2016<br/>16-Apr 2016
+"Cape Romain NWR, SC (Bulls Island)",ON SWTH GCTH Motus#189:19.9@166.38(M.29924),Swainson's Thrush,18-Sep-2017,45.246256,-81.299507,17-Oct-17
+"Cape Romain NWR, SC (Bulls Island)",QC-Thrush#203:19.9@166.38(M.25653),Swainson's Thrush,6-Jun-2017,48.603050,-70.835050,30-Sep-17
+"Cape Romain NWR, SC (Bulls Island)",QC-Thrush#215:19.9@166.38(M.25683),Bicknell's Thrush,8-Jun-2017,48.597750,-70.836020,7-Nov-17
+"Cape Romain NWR, SC (Bulls Island)",QC-Thrush#223:19.9@166.38(M.25691),Gray-cheeked Thrush,14-Sep-2017,48.157500,-69.664167,17-Oct-17
+"Cape Romain NWR, SC (Bulls Island)",QC-Thrush#88:10.7@166.38(M.21762),Gray-cheeked Thrush,22-Sep-2016,48.160000,-69.660000,22-Oct-16
+"Cape Romain NWR, SC (Bulls Island)",R5_SALS2#344:9.7@166.38(M.21276),Saltmarsh Sparrow,6-May-2016,32.612800,-80.099300,13-May-16
+"Cape Romain NWR, SC (Bulls Island)",R5_SALS2#348:9.7@166.38(M.21280),Saltmarsh Sparrow,6-May-2016,32.612800,-80.099300,12-May-16
+"Cape Romain NWR, SC (Bulls Island)",R5_SALS2#351:9.7@166.38(M.21283),Saltmarsh Sparrow,26-Apr-2017,32.628700,-80.029400,15-May-17
+"Cape Romain NWR, SC (Bulls Island)",R5_SALS2#357:9.7@166.38(M.21289),Saltmarsh Sparrow,5-May-2016,32.612800,-80.099300,10-May-16
+"Cape Romain NWR, SC (Bulls Island)",R5_SALS2#358:9.7@166.38(M.21290),Saltmarsh Sparrow,6-May-2016,32.612800,-80.099300,12-May-16
+"Cape Romain NWR, SC (Bulls Island)",R5_SALS2#359:9.7@166.38(M.21291),Saltmarsh Sparrow,26-Apr-2017,32.602900,-80.130900,16-May-17
+"Cape Romain NWR, SC (Bulls Island)",R5_SALS2#363:9.7@166.38(M.21590),Saltmarsh Sparrow,29-Sep-2016,43.293900,-70.572500,27-Oct-16
+"Cape Romain NWR, SC (Bulls Island)",R5_SALS2#379:9.7@166.38(M.21833),Saltmarsh Sparrow,6-Oct-2016,43.293900,-70.572500,5-Nov-16
+"Cape Romain NWR, SC (Bulls Island)",R5_SALS2#384:9.7@166.38(M.21296),Saltmarsh Sparrow,3-Oct-2016,42.773361,-70.809007,8-Nov-16
+"Cape Romain NWR, SC (Bulls Island)",R5_SALS2#448:10.7@166.38(M.21614),Saltmarsh Sparrow,6-Oct-2016,43.293900,-70.275200,8-Nov-16
+"Cape Romain NWR, SC (Bulls Island)",R5_SALS2#452:9.7@166.38(M.21359),Saltmarsh Sparrow,29-Sep-2016,41.480000,-71.250000,5-Nov-16
+"Cape Romain NWR, SC (Bulls Island)",R5_SALS2#465.1:9.7@166.38(M.21372),Saltmarsh Sparrow,26-Apr-2017,32.602900,-80.130900,13-May-17
+"Cape Romain NWR, SC (Bulls Island)",R5_SALS2#467:19.9@166.38(M.23518),Saltmarsh Sparrow,29-Mar-2017,30.969300,-81.470500,21-Apr-17
+"Cape Romain NWR, SC (Bulls Island)",R5_SALS2#469:19.9@166.38(M.23520),Saltmarsh Sparrow,27-Mar-2017,31.101900,-81.490600,13-May-17
+"Cape Romain NWR, SC (Bulls Island)",R5_SALS2#469:9.7@166.38(M.21376),Saltmarsh Sparrow,17-Oct-2016,41.480000,-71.250000,8-Nov-16
+"Cape Romain NWR, SC (Bulls Island)",R5_SALS2#470:19.9@166.38(M.23521),Saltmarsh Sparrow,29-Mar-2017,30.969300,-81.470500,4-May-17
+"Cape Romain NWR, SC (Bulls Island)",R5_SALS2#471:19.9@166.38(M.23522),Saltmarsh Sparrow,27-Mar-2017,31.101900,-81.490600,18-Apr-17
+"Cape Romain NWR, SC (Bulls Island)",R5_SALS2#474:19.9@166.38(M.23525),Saltmarsh Sparrow,29-Mar-2017,31.105200,-81.499500,22-Apr-17
+"Cape Romain NWR, SC (Bulls Island)",R5_SALS2#477:19.9@166.38(M.23528),Saltmarsh Sparrow,29-Mar-2017,30.969300,-81.470500,27-Apr-17
+"Cape Romain NWR, SC (Bulls Island)",R5_SALS2#484:19.9@166.38(M.23535),Saltmarsh Sparrow,29-Mar-2017,30.969300,-81.470500,4-May-17
+"Cape Romain NWR, SC (Bulls Island)",R5_SALS2#486:19.9@166.38(M.23537),Saltmarsh Sparrow,29-Mar-2017,30.969300,-81.470500,10-May-17
+"Cape Romain NWR, SC (Bulls Island)",R5_SALS2#487:19.9@166.38(M.23538),Saltmarsh Sparrow,29-Mar-2017,30.969300,-81.470500,17-Apr-17
+"Cape Romain NWR, SC (Bulls Island)",R5_SALS2#488:19.9@166.38(M.23539),Saltmarsh Sparrow,27-Mar-2017,31.101900,-81.490600,10-May-17
+"Cape Romain NWR, SC (Bulls Island)",R5_SALS2#489:19.9@166.38(M.23540),Nelson's Sparrow,29-Mar-2017,30.969300,-81.470500,13-May-17
+"Cape Romain NWR, SC (Bulls Island)",RBrownAMWO#335:5.3@166.38(M.22805),American Woodcock,28-Oct-2016,45.135350,-67.293230,8-Jan-17
+"Cape Romain NWR, SC (Bulls Island)",SCDNR#10:9.7@166.38(M.23601),Red Knot,29-Apr-2017,32.575000,-80.148700,08-May 2017<br/>09-May 2017<br/>10-May 2017<br/>11-May 2017<br/>12-May 2017<br/>15-May 2017<br/>16-May 2017
+"Cape Romain NWR, SC (Bulls Island)",SCDNR#11:9.7@166.38(M.23602),Red Knot,29-Apr-2017,32.575000,-80.148700,1-Aug-17
+"Cape Romain NWR, SC (Bulls Island)",SCDNR#14:9.7@166.38(M.23605),Red Knot,29-Apr-2017,32.575000,-80.148700,13-May-17
+"Cape Romain NWR, SC (Bulls Island)",SCDNR#54:5.3@166.38(M.23586),Red Knot,29-Apr-2017,32.575000,-80.148700,04-May 2017<br/>06-May 2017
+"Cape Romain NWR, SC (Bulls Island)",SCDNR#56:5.3@166.38(M.23588),Red Knot,29-Apr-2017,32.575000,-80.148700,18-May-17
+"Cape Romain NWR, SC (Bulls Island)",SCDNR#57:5.3@166.38(M.23589),Red Knot,29-Apr-2017,32.575000,-80.148700,09-May 2017<br/>10-May 2017<br/>11-May 2017<br/>12-May 2017<br/>13-May 2017<br/>15-May 2017<br/>16-May 2017
+"Cape Romain NWR, SC (Bulls Island)",SCDNR#59:5.3@166.38(M.23591),Red Knot,29-Apr-2017,32.575000,-80.148700,15-May-17
+"Cape Romain NWR, SC (Bulls Island)",SCDNR#61:5.3@166.38(M.23593),Red Knot,29-Apr-2017,32.575000,-80.148700,06-May 2017<br/>07-May 2017
+"Cape Romain NWR, SC (Bulls Island)",SCDNR#7:9.7@166.38(M.23598),Red Knot,30-Apr-2017,32.575000,-80.148700,24-Jul-17
+"Cape Romain NWR, SC (Bulls Island)",SCDNR#9:9.7@166.38(M.23600),Red Knot,29-Apr-2017,32.575000,-80.148700,18-May-17
+"Cape Romain NWR, SC (Bulls Island)",Selva#28:17.9@166.38(M.22980),Gray-cheeked Thrush,14-Apr-2017,4.364600,-74.516400,28-May-17
+"Cape Romain NWR, SC (Bulls Island)",SORA#85:12.7@166.38(M.27176),Sora,4-Nov-2017,38.512300,-76.706700,11-Nov-17
+"Cape Romain NWR, SC (Bulls Island)",Taylor-SWTH#130:19.9@166.38(M.26375),Swainson's Thrush,20-Aug-2017,43.464500,-65.745900,27-Oct-17
+"Cape Romain NWR, SC (Bulls Island)",Taylor-SWTH#144:19.9@166.38(M.26411),Swainson's Thrush,27-Aug-2017,43.464500,-65.745900,28-Sep-17
+"Cape Romain NWR, SC (Bulls Island)",Taylor-SWTH#151:19.9@166.38(M.26432),Swainson's Thrush,16-Aug-2017,43.407210,-66.016060,17-Oct-17
+"Cape Romain NWR, SC (Bulls Island)",Taylor-SWTH#18:11.3@166.38(M.21951),Swainson's Thrush,9-Aug-2016,43.464508,-65.745912,25-Oct-16
+"Cape Romain NWR, SC (Bulls Island)",Taylor-SWTH#72:10.7@166.38(M.21746),Swainson's Thrush,28-Aug-2016,43.407210,-66.016060,24-Sep-16
+"Cape Romain NWR, SC (Bulls Island)",Taylor-SWTH#84:10.7@166.38(M.21758),Swainson's Thrush,30-Aug-2016,43.464508,-65.745912,22-Oct-16
+"Cape Romain NWR, SC (Bulls Island)",Tonra#105:10.1@166.38(M.18461),Black-crowned Night-Heron,15-Jul-2016,41.457500,-82.726621,13-Nov-16
+"Cape Romain NWR, SC (Bulls Island)",Tonra#358:10.7@166.38(M.20639),Black-crowned Night-Heron,21-Jun-2016,41.739220,-83.105278,23-Nov-16
+"Cape Romain NWR, SC (Bulls Island)",Tonra#379:10.7@166.38(M.20659),Black-crowned Night-Heron,22-Jun-2017,41.457200,-82.727400,30-Oct-17
+"Cape Romain NWR, SC (Bulls Island)",Tonra#397:10.7@166.38(M.20677),Black-crowned Night-Heron,21-Jun-2016,41.739220,-83.105278,25-Oct-16
+"Cape Romain NWR, SC (Bulls Island)",USask#157:6.1@166.38(M.18699),Sanderling,30-May-2016,50.441670,-106.675000,29-Jul-16
+"Cape Romain NWR, SC (Bulls Island)",USask#399:7.9@166.38(M.25267),Sanderling,23-May-2017,50.441670,-106.675000,7-Aug-17
+"Cape Romain NWR, SC (Bulls Island)",USask#407:7.9@166.38(M.25351),Sanderling,25-May-2017,50.441670,-106.675000,21-Jul-17
+"Cape Romain NWR, SC (Bulls Island)",USask#430:7.9@166.38(M.25289),Sanderling,30-May-2017,50.441670,-106.675000,19-Jul 2017<br/>20-Jul 2017
+"Cape Romain NWR, SC (Bulls Island)",USask#468:7.9@166.38(M.25326),Sanderling,5-May-2017,29.416670,-94.750000,30-Jul-17
+"Cape Romain NWR, SC (Bulls Island)",USFWS_R4#518:39.7@166.38(M.26216),Sora,4-Nov-2017,36.527100,-75.989600,16-Dec-17
+"Cape Romain NWR, SC (HQ)",KIWA_BAH_MI#60:29.3@166.38(M.32158),Kirtland's Warbler,8-Sep-2018,44.405400,-84.376000,12-Oct-18
+"Cape Romain NWR, SC (HQ)",MA_REKN#505:14.9@166.38(M.28959),Red Knot,24-Aug-2018,41.615023,-69.971585,3-Jan-19
+"Cape Romain NWR, SC (HQ)",NolWS#102:9.7@166.38(M.33679),Semipalmated Plover,8-Apr-2019,32.927400,-79.573400,1-May-19
+"Cape Romain NWR, SC (HQ)",NolWS#173:4.7@166.38(M.27485),Dunlin (hudsonia),3-Apr-2018,32.864851,-79.676278,12-May-18
+"Cape Romain NWR, SC (HQ)",NolWS#269:9.7@166.38(M.24567),Semipalmated Plover,3-Apr-2018,32.864851,-79.676278,6-May-18
+"Cape Romain NWR, SC (HQ)",NolWS#271:9.7@166.38(M.24569),Dunlin (hudsonia),3-Apr-2018,32.864851,-79.676278,11-May-18
+"Cape Romain NWR, SC (HQ)",NolWS#277:9.7@166.38(M.24575),Dunlin (hudsonia),3-Apr-2018,32.864851,-79.676278,4-May-18
+"Cape Romain NWR, SC (HQ)",NolWS#279:9.7@166.38(M.24577),Dunlin (hudsonia),3-Apr-2018,32.864851,-79.676278,30-Apr-18
+"Cape Romain NWR, SC (HQ)",NolWS#280:9.7@166.38(M.24578),Dunlin (hudsonia),3-Apr-2018,32.864851,-79.676278,11-May 2018<br/>12-May 2018
+"Cape Romain NWR, SC (HQ)",NolWS#91:9.7@166.38(M.33668),Semipalmated Plover,8-Apr-2019,32.927400,-79.573400,24-Apr-19
+"Cape Romain NWR, SC (HQ)",NolWS#92:9.7@166.38(M.33669),Semipalmated Plover,8-Apr-2019,32.927400,-79.573400,22-Apr 2019<br/>23-Apr 2019<br/>30-Apr 2019
+"Cape Romain NWR, SC (HQ)",NolWS#94:9.7@166.38(M.33671),Semipalmated Plover,8-Apr-2019,32.927400,-79.573400,22-Apr 2019<br/>23-Apr 2019
+"Cape Romain NWR, SC (HQ)",NolWS#97:9.7@166.38(M.33674),Semipalmated Plover,8-Apr-2019,32.927400,-79.573400,21-Apr 2019<br/>22-Apr 2019<br/>30-Apr 2019
+"Cape Romain NWR, SC (HQ)",NolWS#99:9.7@166.38(M.33676),Semipalmated Plover,8-Apr-2019,32.927400,-79.573400,2-May-19
+"Cape Romain NWR, SC (HQ)",NorrisLabNightjars#442:4.7@166.38(M.29560),Common Nighthawk,14-Jul-2018,44.941400,-79.513600,23-Aug-18
+"Cape Romain NWR, SC (HQ)",TaylorSwallows#34:34.9@166.38(M.29777),Barn Swallow,8-Jul-2018,45.934012,-65.257910,31-Aug-18
+"Cedar Island NWR, NC",AdamSmith#514:5.3@166.38(M.21314),Merlin,24-Sep-2016,41.150620,-71.596180,28-Sep-16
+"Cedar Island NWR, NC",BIMYWA#485:5.3@166.38(M.14528),Yellow-rumped Warbler (Myrtle),20-Oct-2015,41.215982,-71.559705,12-Nov-15
+"Cedar Island NWR, NC",Churchill#187:15.1@166.38(M.29292),Semipalmated Plover,24-Jun-2018,58.760390,-94.216790,5-Aug-18
+"Cedar Island NWR, NC",Churchill#366:10.1@166.38(M.20840),Semipalmated Plover,11-Jul-2016,58.733479,-93.810384,20-Aug-16
+"Cedar Island NWR, NC",GuelphBARS#492:10.1@166.38(M.25043),Barn Swallow,18-Aug-2017,43.553100,-80.251600,22-Sep-17
+"Cedar Island NWR, NC",Jamaica#70:10.1@166.38(M.18773),Swainson's Warbler,16-Apr-2016,18.045093,-77.942934,07-May 2016<br/>13-May 2016<br/>14-May 2016<br/>15-May 2016<br/>16-May 2016<br/>17-May 2016<br/>18-May 2016
+"Cedar Island NWR, NC",JamesBay#240:10.1@166.38(M.22705),Least Sandpiper,7-Aug-2016,51.806754,-80.689667,6-Sep-16
+"Cedar Island NWR, NC",KIWA_BAH_MI#57:29.3@166.38(M.32157),Kirtland's Warbler,9-Sep-2018,44.405400,-84.376000,22-Oct-18
+"Cedar Island NWR, NC",MA_REKN#139:5.3@166.38(M.16335),Red Knot,16-Sep-2015,41.613797,-69.997458,28-Nov-15
+"Cedar Island NWR, NC",MA_REKN#142:5.3@166.38(M.16338),Red Knot,16-Sep-2015,41.613797,-69.997458,17-Nov-15
+"Cedar Island NWR, NC",MA_REKN#156:5.3@166.38(M.16352),Red Knot,16-Sep-2015,41.613797,-69.997458,24-Nov 2015<br/>11-Dec 2015
+"Cedar Island NWR, NC",MA_REKN#159:5.3@166.38(M.16355),Red Knot,16-Sep-2015,41.613797,-69.997458,12-Dec-15
+"Cedar Island NWR, NC",MA_REKN#458:5.9@166.38(M.20999),Red Knot,4-Oct-2016,41.700550,-69.935194,3-Jan-17
+"Cedar Island NWR, NC",Niles#143:10.7@166.38(M.19744),Sanderling,18-May-2016,39.126233,-74.891789,27-Jul-16
+"Cedar Island NWR, NC",NYCA-SESA#492:10.1@166.38(M.24596),Semipalmated Sandpiper,2-Jun-2017,40.595300,-73.821800,22-Sep-17
+"Cedar Island NWR, NC",QC-Thrush#110:10.7@166.38(M.21784),Gray-cheeked Thrush,22-Sep-2016,48.160000,-69.660000,26-Oct-16
+"Cedar Island NWR, NC",QC-Thrush#195:19.9@166.38(M.25645),Bicknell's Thrush,6-Jun-2017,48.602690,-70.829440,26-Oct-17
+"Cedar Island NWR, NC",QC-Thrush#218:19.9@166.38(M.25686),Bicknell's Thrush,8-Jun-2017,48.607170,-70.838950,21-Oct-17
+"Cedar Island NWR, NC",QC-Thrush#431:12.7@166.38(M.15808),Bicknell's Thrush,24-Jun-2015,47.350000,-71.100000,31-Oct-15
+"Cedar Island NWR, NC",R5_SALS2#358:9.7@166.38(M.21290),Saltmarsh Sparrow,6-May-2016,32.612800,-80.099300,17-May-16
+"Cedar Island NWR, NC",R5_SALS2#74:10.7@166.38(M.21273),Saltmarsh Sparrow,5-Oct-2016,42.774937,-70.809146,2-Dec-16
+"Cedar Island NWR, NC",SCDNR#60:5.3@166.38(M.23592),Red Knot,29-Apr-2017,32.575000,-80.148700,10-May-17
+"Cedar Island NWR, NC",SCDNR#61:5.3@166.38(M.23593),Red Knot,29-Apr-2017,32.575000,-80.148700,7-May-17
+"Cedar Island NWR, NC",SORA#102:12.7@166.38(M.31796),Sora,17-Oct-2018,38.512300,-76.706700,4-Nov-18
+"Cedar Island NWR, NC",SORA#114:12.7@166.38(M.31808),Sora,28-Sep-2018,38.512300,-76.706700,4-Nov-18
+"Cedar Island NWR, NC",Taylor-SWTH#74:10.7@166.38(M.21748),Swainson's Thrush,13-Sep-2016,43.407210,-66.016060,2-Dec-16
+"Cedar Island NWR, NC",TaylorIPSP#435:34.9@166.38(M.17102),Savannah Sparrow (Ipswich),6-Sep-2015,43.931600,-60.024800,6-Nov-15
+"Cedar Island NWR, NC",TaylorMYWA#140:37.3@166.38(M.14792),Yellow-rumped Warbler (Myrtle),27-Aug-2015,43.462400,-65.749500,31-Oct-15
+"Cedar Island NWR, NC",TaylorMYWA#147:37.3@166.38(M.14799),Yellow-rumped Warbler (Myrtle),23-Aug-2015,43.462400,-65.749500,31-Oct-15
+"Cedar Island NWR, NC",USask#164:6.1@166.38(M.18691),Sanderling,24-Apr-2016,29.416670,-94.750000,27-Jul-16
+"Chassahowitzka NWR, FL",GuelphBARS#429.1:10.1@166.38(M.30965),Barn Swallow,3-Aug-2018,43.799800,-80.235000,3-Sep-18
+"Chassahowitzka NWR, FL",KIWA_BAH_MI#103:29.3@166.38(M.29652),Kirtland's Warbler,1-Apr-2018,24.566600,-75.623500,3-May-18
+"Chassahowitzka NWR, FL",KIWA_BAH_MI#19:29.3@166.38(M.29659),Kirtland's Warbler,27-Mar-2018,24.566600,-75.623500,1-May-18
+"Chassahowitzka NWR, FL",KIWA_BAH_MI#58:29.3@166.38(M.29688),Kirtland's Warbler,11-Apr-2018,24.566600,-75.623500,3-May-18
+"Chassahowitzka NWR, FL",KIWA_BAH_MI#61.1:29.3@166.38(M.31463),Kirtland's Warbler,23-Mar-2018,24.404500,-75.517300,1-May-18
+"Chassahowitzka NWR, FL",KIWA_BAH_MI#7:29.3@166.38(M.29690),Kirtland's Warbler,23-Mar-2018,24.566600,-75.623500,2-May-18
+"Chassahowitzka NWR, FL",MONTREAL_MOULT#391:7.1@166.38(M.31298),Swainson's Thrush,1-Sep-2018,45.504600,-73.576700,13-Oct-18
+"Chassahowitzka NWR, FL",NorrisLabNightjars#493:4.7@166.38(M.29550),Common Nighthawk,31-Jul-2018,44.941400,-79.513600,4-Sep-18
+"Chassahowitzka NWR, FL",SCDNR#369:4.7@166.38(M.28466),Ruddy Turnstone,22-May-2018,32.071300,-80.888500,18-Aug-18
+"Chassahowitzka NWR, FL",TaylorSwallows#53:34.9@166.38(M.29794),Bank Swallow,8-Jul-2018,45.897932,-64.343043,5-Sep-18
+"Ding Darling NWR, FL",Thrush 2018#500:19.9@166.38(M.31001),Swainson's Thrush,31-Jul-2018,45.208200,-81.411000,5-Oct-18
+"Ding Darling NWR, FL",USask#378:7.9@166.38(M.29022),Sanderling,24-May-2018,50.441670,-106.675000,26-Aug-18
+"Florida Panther NWR, FL",GuelphBARS#421.2:10.3@166.38(M.31221),Barn Swallow,8-Aug-2018,43.559800,-80.113100,25-Aug-18
+"Florida Panther NWR, FL",GuelphBARS#429.2:10.3@166.38(M.31226),Barn Swallow,3-Aug-2018,43.752800,-80.142300,2-Sep-18
+"Florida Panther NWR, FL",Tonra#345:10.7@166.38(M.20626),Black-crowned Night-Heron,5-Jul-2016,41.739220,-83.105278,19-Feb-18
+"Harris Neck NWR, GA",NorrisLabNightjars#431:4.7@166.38(M.29540),Common Nighthawk,22-Jul-2018,44.941400,-79.513600,15-Sep-18
+"Harris Neck NWR, GA",NorrisLabNightjars#492:4.7@166.38(M.29548),Common Nighthawk,12-Jul-2018,44.941400,-79.513600,14-Sep-18
+"Harris Neck NWR, GA",NorrisLabNightjars#493:4.7@166.38(M.29550),Common Nighthawk,31-Jul-2018,44.941400,-79.513600,3-Sep-18
+"Harris Neck NWR, GA",OVEN_Hg#12:19.9@166.38(M.29248),Ovenbird,30-May-2018,41.521300,-73.528500,6-Sep-18
+"Harris Neck NWR, GA",Thrush 2018#474:19.9@166.38(M.30976),Swainson's Thrush,31-Jul-2018,45.208200,-81.411000,1-Oct-18
+"Harris Neck NWR, GA",Tonra#352:10.7@166.38(M.20633),Black-crowned Night-Heron,30-Jun-2017,41.457500,-82.726700,28-Apr-18
+"Loxahatchee NWR, FL",BARS Migration#427:10.3@166.38(M.30936),Barn Swallow,1-Aug-2018,43.817200,-79.187700,5-Sep-18
+"Loxahatchee NWR, FL",GuelphBARS#427.2:10.1@166.38(M.31225),Barn Swallow,3-Aug-2018,43.752800,-80.142300,4-Sep-18
+"Loxahatchee NWR, FL",GuelphBARS#428.1:10.1@166.38(M.30964),Barn Swallow,3-Aug-2018,43.799800,-80.235000,20-Sep-18
+"Loxahatchee NWR, FL",KIWA_BAH_MI#11:29.3@166.38(M.29300),Kirtland's Warbler,30-Mar-2018,24.566600,-75.623500,1-May-18
+"Loxahatchee NWR, FL",KIWA_BAH_MI#40:29.3@166.38(M.29674),Kirtland's Warbler,13-Apr-2018,24.566600,-75.623500,4-May-18
+"Loxahatchee NWR, FL",KIWA_BAH_MI#56:29.3@166.38(M.29687),Kirtland's Warbler,12-Apr-2018,24.566600,-75.623500,4-May-18
+"Loxahatchee NWR, FL",NorrisLabNightjars#439:4.7@166.38(M.29554),Common Nighthawk,22-Jul-2018,44.941400,-79.513600,3-Sep-18
+"Loxahatchee NWR, FL",TaylorSwallows#56:34.9@166.38(M.29797),Barn Swallow,25-Jul-2018,46.121517,-64.240802,10-Sep-18
+"Mackay Island NWR, NC",CTRiver#513:9.7@166.38(M.21350),Yellow-rumped Warbler,30-Sep-2016,43.480771,-72.379229,21-Oct 2016<br/>22-Oct 2016<br/>27-Oct 2016<br/>30-Oct 2016<br/>03-Nov 2016<br/>06-Nov 2016
+"Mackay Island NWR, NC",CTRiver#67:9.7@166.38(M.18891),Yellow-rumped Warbler,25-Sep-2016,43.480771,-72.379229,14-Oct-16
+"Mackay Island NWR, NC",NolWS#29:10.7@166.38(M.18405),Dunlin (hudsonia),15-Mar-2016,32.990190,-79.545772,1-Apr-16
+"Mackay Island NWR, NC",R5_SALS2#348:9.7@166.38(M.21280),Saltmarsh Sparrow,6-May-2016,32.612800,-80.099300,17-May-16
+"Mackay Island NWR, NC",R5_SALS2#359:9.7@166.38(M.21291),Saltmarsh Sparrow,26-Apr-2017,32.602900,-80.130900,17-May-17
+"Mackay Island NWR, NC",R5_SALS2#363:9.7@166.38(M.21590),Saltmarsh Sparrow,29-Sep-2016,43.293900,-70.572500,26-Oct-16
+"Mackay Island NWR, NC",R5_SALS2#383:9.7@166.38(M.21295),Saltmarsh Sparrow,5-Oct-2016,42.715560,-70.781314,18-Nov-16
+"Mackay Island NWR, NC",R5_SALS2#384:9.7@166.38(M.21296),Saltmarsh Sparrow,3-Oct-2016,42.773361,-70.809007,5-Nov-16
+"Mackay Island NWR, NC",R5_SALS2#392:9.7@166.38(M.21304),Nelson's/Saltmarsh Sparrow (Sharp-tailed Sparrow),13-Oct-2016,42.773757,-70.807753,26-Nov-16
+"Mackay Island NWR, NC",R5_SALS2#452:9.7@166.38(M.21359),Saltmarsh Sparrow,29-Sep-2016,41.480000,-71.250000,1-Nov-16
+"Mackay Island NWR, NC",R5_SALS2#469:19.9@166.38(M.23520),Saltmarsh Sparrow,27-Mar-2017,31.101900,-81.490600,19-May-17
+"Mackay Island NWR, NC",R5_SALS2#469:9.7@166.38(M.21376),Saltmarsh Sparrow,17-Oct-2016,41.480000,-71.250000,7-Nov-16
+"Mackay Island NWR, NC",SORA#93:12.7@166.38(M.27184),Sora,12-Oct-2017,38.773800,-76.711300,28-Nov-17
+"Mackay Island NWR, NC",TaylorMYWA#47:37.3@166.38(M.21231),Yellow-rumped Warbler,11-Aug-2016,43.465000,-65.746000,22-Oct-16
+"Mackay Island NWR, NC",TaylorMYWA#64:37.3@166.38(M.21248),Yellow-rumped Warbler,24-Aug-2016,43.407000,-66.016000,23-Oct 2016<br/>25-Oct 2016
+"Mackay Island NWR, NC",TaylorMYWA#69:37.3@166.38(M.21253),Yellow-rumped Warbler,24-Aug-2016,43.407000,-66.016000,11-Nov-16
+"Mackay Island NWR, NC",TaylorMYWA#72:37.3@166.38(M.21256),Yellow-rumped Warbler,27-Aug-2016,43.407000,-66.016000,5-Nov-16
+"Mackay Island NWR, NC",USFWS_R4#518:39.7@166.38(M.26216),Sora,4-Nov-2017,36.527100,-75.989600,04-Nov 2017<br/>05-Nov 2017
+"Pea Island NWR, NC",BLTE#316:25.1@166.38(M.28780),Black Tern,12-Jul-2018,44.606300,-79.936300,26-Jul-18
+"Pea Island NWR, NC",Churchill#187:15.1@166.38(M.29292),Semipalmated Plover,24-Jun-2018,58.760390,-94.216790,5-Aug-18
+"Pea Island NWR, NC",Churchill#362:10.1@166.38(M.20836),Semipalmated Plover,7-Jul-2016,58.766815,-93.949168,6-Aug-16
+"Pea Island NWR, NC",CWS-YK#155:14.9@166.38(M.29508),Sanderling,30-Jun-2018,75.711000,-98.416100,19-Jul-18
+"Pea Island NWR, NC",CWS-YK#392:10.1@166.38(M.19157),Sanderling,8-Jul-2016,75.735900,-98.398500,19-Aug 2016<br/>03-Sep 2016
+"Pea Island NWR, NC",CWS-YK#396:10.1@166.38(M.19161),Sanderling,10-Jul-2016,75.715800,-98.297800,13-Sep-16
+"Pea Island NWR, NC",CWS-YK#411:10.1@166.38(M.19176),White-rumped Sandpiper,11-Jul-2016,75.709100,-98.381900,01-Sep 2016<br/>02-Sep 2016
+"Pea Island NWR, NC",CWS-YK#412:10.1@166.38(M.19177),Sanderling,10-Jul-2016,75.700800,-98.334700,05-Aug 2016<br/>06-Aug 2016<br/>08-Aug 2016<br/>09-Aug 2016<br/>10-Aug 2016<br/>23-Aug 2016
+"Pea Island NWR, NC",GuelphBARS#492:10.1@166.38(M.25043),Barn Swallow,18-Aug-2017,43.553100,-80.251600,22-Sep 2017<br/>23-Sep 2017<br/>24-Sep 2017
+"Pea Island NWR, NC",Holbt15_16#297:8.9@166.38(M.20776),Semipalmated Sandpiper,8-Aug-2016,43.735000,-69.807220,4-Sep-16
+"Pea Island NWR, NC",JamesBay#242:10.1@166.38(M.22707),White-rumped Sandpiper,7-Aug-2016,51.806754,-80.689667,4-Sep-16
+"Pea Island NWR, NC",MA_REKN#401:5.9@166.38(M.31345),Black-bellied Plover,24-Aug-2018,41.615023,-69.971585,15-Nov-18
+"Pea Island NWR, NC",MA_REKN#492:14.9@166.38(M.28946),Red Knot,24-Aug-2018,41.615023,-69.971585,9-Nov-18
+"Pea Island NWR, NC",MA_REKN#495:14.9@166.38(M.28949),Red Knot,24-Aug-2018,41.615023,-69.971585,5-Nov-18
+"Pea Island NWR, NC",MA_REKN#502:14.9@166.38(M.28956),Red Knot,24-Aug-2018,41.615023,-69.971585,31-Oct 2018<br/>06-Nov 2018
+"Pea Island NWR, NC",Niles#143:10.7@166.38(M.19744),Sanderling,18-May-2016,39.126233,-74.891789,27-Jul-16
+"Pea Island NWR, NC",Niles#216:10.7@166.38(M.19817),Sanderling,24-May-2016,39.025100,-74.944400,2-Sep-16
+"Pea Island NWR, NC",Niles#248:10.7@166.38(M.19849),Red Knot,8-Aug-2016,39.028063,-74.780093,7-Nov-16
+"Pea Island NWR, NC",Niles#251:10.7@166.38(M.19852),Red Knot,8-Aug-2016,39.028063,-74.780093,10-Nov 2016<br/>21-Nov 2016
+"Pea Island NWR, NC",Niles#267:10.7@166.38(M.19868),Red Knot,20-Oct-2016,39.081118,-74.729786,23-Oct-16
+"Pea Island NWR, NC",Niles#272:10.7@166.38(M.19873),Red Knot,20-Oct-2016,39.081118,-74.729786,4-Nov-16
+"Pea Island NWR, NC",Niles#280:10.7@166.38(M.19881),Red Knot,20-Oct-2016,39.081118,-74.729786,12-Nov 2016<br/>14-Nov 2016<br/>22-Nov 2016
+"Pea Island NWR, NC",Niles#282:10.7@166.38(M.19883),Red Knot,21-Oct-2016,39.081118,-74.729786,26-Oct-16
+"Pea Island NWR, NC",Niles#283:10.7@166.38(M.19884),Red Knot,21-Oct-2016,39.081118,-74.729786,06-Dec 2016<br/>07-Dec 2016
+"Pea Island NWR, NC",Niles#288:10.7@166.38(M.19889),Red Knot,21-Oct-2016,39.081118,-74.729786,10-Nov-16
+"Pea Island NWR, NC",NolWS#271:9.7@166.38(M.24569),Dunlin (hudsonia),3-Apr-2018,32.864851,-79.676278,11-May-18
+"Pea Island NWR, NC",NolWS#277:9.7@166.38(M.24575),Dunlin (hudsonia),3-Apr-2018,32.864851,-79.676278,5-May-18
+"Pea Island NWR, NC",NolWS#282:9.7@166.38(M.24580),Dunlin (hudsonia),3-Apr-2018,32.864851,-79.676278,5-May-18
+"Pea Island NWR, NC",NYCA-SESA#487:10.1@166.38(M.24592),Semipalmated Sandpiper,2-Jun-2017,40.595300,-73.821800,12-Aug-17
+"Pea Island NWR, NC",NYCA-SESA#492:10.1@166.38(M.24596),Semipalmated Sandpiper,2-Jun-2017,40.595300,-73.821800,22-Sep 2017<br/>23-Sep 2017<br/>24-Sep 2017
+"Pea Island NWR, NC",PSmith#482:14.9@166.38(M.28936),Black-bellied Plover,12-Jul-2018,63.989861,-81.714333,8-Aug-18
+"Pea Island NWR, NC",QC-Thrush#217:19.9@166.38(M.25685),Bicknell's Thrush,8-Jun-2017,48.607170,-70.838950,26-Oct-17
+"Pea Island NWR, NC",QC-Thrush#220:19.9@166.38(M.25688),Bicknell's Thrush,6-Jul-2017,47.386241,-71.081437,26-Oct-17
+"Pea Island NWR, NC",Quebec#428:16.7@166.38(M.30650),Dunlin,10-Oct-2018,50.192778,-63.745278,18-Dec-18
+"Pea Island NWR, NC",R5_SALS2#7:9.7@166.38(M.21268),Saltmarsh Sparrow,30-Sep-2016,42.715560,-70.781314,7-Nov-16
+"Pea Island NWR, NC",SCDNR#60:5.3@166.38(M.23592),Red Knot,29-Apr-2017,32.575000,-80.148700,10-May-17
+"Pea Island NWR, NC",SCDNR#61:5.3@166.38(M.23593),Red Knot,29-Apr-2017,32.575000,-80.148700,8-May-17
+"Pea Island NWR, NC",SORA#108:12.7@166.38(M.31802),Sora,12-Oct-2018,38.512300,-76.706700,11-Nov-18
+"Pea Island NWR, NC",TaylorMYWA#69:37.3@166.38(M.21253),Yellow-rumped Warbler,24-Aug-2016,43.407000,-66.016000,26-Nov-16
+"Pea Island NWR, NC",Tonra#361:10.7@166.38(M.20642),Black-crowned Night-Heron,26-Jun-2016,41.457500,-82.726621,4-Oct-16
+"Pea Island NWR, NC",USask#366:7.9@166.38(M.29010),Sanderling,25-May-2018,50.441670,-106.675000,4-Aug-18
+"Pea Island NWR, NC",USask#407:7.9@166.38(M.25351),Sanderling,25-May-2017,50.441670,-106.675000,20-Jul-17
+"Pea Island NWR, NC",USask#412:7.9@166.38(M.25355),Sanderling,25-May-2017,50.441670,-106.675000,14-Aug-17
+"Pea Island NWR, NC",USask#413:7.9@166.38(M.25356),Sanderling,25-May-2017,50.441670,-106.675000,04-Aug 2017<br/>06-Aug 2017<br/>09-Aug 2017<br/>10-Aug 2017<br/>11-Aug 2017<br/>12-Aug 2017<br/>14-Aug 2017<br/>15-Aug 2017
+"Pea Island NWR, NC",USask#427:7.9@166.38(M.25286),Sanderling,30-May-2017,50.441670,-106.675000,17-Jul-17
+"Santee NWR, SC",CWS-YK#17:30.3@166.38(M.29463),Black-bellied Plover,19-Jul-2018,75.719600,-98.383000,14-Aug-18
+"Santee NWR, SC",NolWS#266:9.7@166.38(M.24564),Semipalmated Plover,3-Apr-2018,32.864851,-79.676278,15-May-18
+"Santee NWR, SC",NolWS#269:9.7@166.38(M.24567),Semipalmated Plover,3-Apr-2018,32.864851,-79.676278,6-May-18
+"Santee NWR, SC",OntWOTH#15:12.7@166.38(M.30764),Wood Thrush,7-Aug-2018,42.725400,-80.318500,14-Oct-18
+"Santee NWR, SC",OntWOTH#21:12.7@166.38(M.30770),Wood Thrush,22-Jul-2018,42.767400,-80.400900,13-Oct-18
+"Santee NWR, SC",OntWOTH#478.1:12.7@166.38(M.29700),Wood Thrush,16-Jun-2018,42.697800,-80.424800,7-Oct-18
+"Santee NWR, SC",PARC#248:10.1@166.38(M.28447),Ovenbird,6-Oct-2018,41.486100,-81.937700,4-Nov-18
+"Santee NWR, SC",RUBL_CONNECTIVITY#181:14.9@166.38(M.26855),Rusty Blackbird,29-Sep-2017,48.159000,-69.633000,15-Dec 2017<br/>16-Dec 2017
+"Santee NWR, SC",SCDNR#337:4.7@166.38(M.28484),Ruddy Turnstone,24-May-2018,32.071300,-80.888500,28-May-18
+"Santee NWR, SC",SCDNR#351:4.7@166.38(M.28498),Ruddy Turnstone,24-May-2018,32.071300,-80.888500,29-May-18
+"Santee NWR, SC",SCDNR#354:4.7@166.38(M.28501),Ruddy Turnstone,24-May-2018,32.071300,-80.888500,28-May-18
+"Santee NWR, SC",SCDNR#358:4.7@166.38(M.28505),Ruddy Turnstone,24-May-2018,32.071300,-80.888500,29-May-18
+"Santee NWR, SC",SCDNR#360:4.7@166.38(M.28507),Ruddy Turnstone,24-May-2018,32.071300,-80.888500,29-May-18
+"Santee NWR, SC",SCDNR#376:4.7@166.38(M.28473),Ruddy Turnstone,24-May-2018,32.071300,-80.888500,31-May-18
+"Santee NWR, SC",Selva#5:17.9@166.38(M.28625),Blackpoll Warbler,26-Apr-2018,4.073400,-73.581000,30-May-18
+"Santee NWR, SC",Thrush 2018#473:19.9@166.38(M.31028),Swainson's Thrush,31-Jul-2018,45.208200,-81.411000,6-Oct-18
+"St. Marks NWR, FL",BARS Migration#18:25.1@166.38(M.30921),Barn Swallow,31-Jul-2018,43.817200,-79.187700,2-Sep-18
+"St. Marks NWR, FL",BARS Migration#21:25.1@166.38(M.30923),Barn Swallow,31-Jul-2018,43.817200,-79.187700,4-Sep-18
+"St. Marks NWR, FL",Gerson#10:14.9@166.38(M.28338),Swainson's Thrush,27-Apr-2018,29.672100,-84.841400,28-Apr 2018<br/>19-Oct 2018
+"St. Marks NWR, FL",Gerson#10:19.9@166.38(M.18583),Gray-cheeked Thrush,7-May-2017,29.672200,-84.841300,11-May-17
+"St. Marks NWR, FL",Gerson#13:19.9@166.38(M.18586),Swainson's Thrush,7-May-2017,29.672200,-84.841300,14-May-17
+"St. Marks NWR, FL",Gerson#20:14.9@166.38(M.24370),Swainson's Thrush,25-Apr-2018,29.672200,-84.841300,26-Apr-18
+"St. Marks NWR, FL",Gerson#20:19.9@166.38(M.18592),Swainson's Thrush,24-Apr-2017,29.672200,-84.841300,30-Apr-17
+"St. Marks NWR, FL",Gerson#275:9.7@166.38(M.18808),Northern Waterthrush,2-May-2017,29.672200,-84.841300,9-May-17
+"St. Marks NWR, FL",Gerson#278:9.7@166.38(M.18811),Northern Waterthrush,23-Apr-2017,29.672200,-84.841300,26-Apr-17
+"St. Marks NWR, FL",GuelphBARS#335:10.1@166.38(M.24888),Barn Swallow,17-Aug-2017,43.553100,-80.251600,6-Sep-17
+"St. Marks NWR, FL",GuelphBARS#336:10.1@166.38(M.24889),Barn Swallow,17-Aug-2017,43.553100,-80.251600,15-Sep-17
+"St. Marks NWR, FL",GuelphBARS#395:10.1@166.38(M.24947),Barn Swallow,22-Aug-2017,43.553100,-80.251600,15-Sep-17
+"St. Marks NWR, FL",GuelphBARS#399:10.1@166.38(M.24951),Barn Swallow,22-Aug-2017,43.553100,-80.251600,7-Sep-17
+"St. Marks NWR, FL",GuelphBARS#459:10.1@166.38(M.25010),Barn Swallow,7-Aug-2017,43.544400,-80.135100,17-Sep-17
+"St. Marks NWR, FL",GuelphBARS#465:10.1@166.38(M.25016),Barn Swallow,10-Aug-2017,43.664200,-80.285100,17-Sep 2017<br/>18-Sep 2017
+"St. Marks NWR, FL",GuelphBARS#471:10.1@166.38(M.25022),Barn Swallow,13-Aug-2017,43.606700,-80.124600,18-Sep-17
+"St. Marks NWR, FL",GuelphBARS#484:10.1@166.38(M.25035),Barn Swallow,15-Aug-2017,43.553100,-80.251600,19-Sep-17
+"St. Marks NWR, FL",GuelphBARS#508:10.1@166.38(M.25059),Barn Swallow,22-Aug-2017,43.553100,-80.251600,5-Sep-17
+"St. Marks NWR, FL",GuelphBARS#515:10.1@166.38(M.25066),Barn Swallow,9-Aug-2017,43.553100,-80.251600,4-Sep-17
+"St. Marks NWR, FL",GuelphBARS#520:10.1@166.38(M.25071),Barn Swallow,9-Aug-2017,43.553100,-80.251600,17-Sep-17
+"St. Marks NWR, FL",Jamaica#517:7.9@166.38(M.23909),Swainson's Warbler,28-Mar-2017,18.044359,-77.941989,3-Apr-17
+"St. Marks NWR, FL",KIWA_BAH_MI#11:29.3@166.38(M.29300),Kirtland's Warbler,30-Mar-2018,24.566600,-75.623500,01-May 2018<br/>02-May 2018
+"St. Marks NWR, FL",LA_chenier#244:15.1@166.38(M.28648),Swainson's Thrush,24-Apr-2018,29.738300,-92.836500,30-Sep-18
+"St. Marks NWR, FL",Lefevre FGCU#69:10.7@166.38(M.33184),Red Knot,5-Mar-2019,27.636400,-82.740200,19-Mar 2019<br/>07-Apr 2019
+"St. Marks NWR, FL",MA_REKN#425:5.9@166.38(M.31369),Black-bellied Plover,23-Aug-2018,41.593424,-69.985383,11-Nov-18
+"St. Marks NWR, FL",MONTREAL_MOULT#12:5.9@166.38(M.26390),Swainson's Thrush,7-Aug-2017,45.430700,-73.938500,12-Oct-17
+"St. Marks NWR, FL",MONTREAL_MOULT#231:4.7@166.38(M.23608),Swainson's Thrush,29-Jul-2017,45.430700,-73.938500,28-Sep-17
+"St. Marks NWR, FL",MONTREAL_MOULT#274:10.3@166.38(M.31210),Swainson's Thrush,26-Sep-2018,45.504600,-73.576700,25-Oct-18
+"St. Marks NWR, FL",MONTREAL_MOULT#360:7.1@166.38(M.31085),Swainson's Thrush,2-Aug-2018,45.504600,-73.576700,5-Oct-18
+"St. Marks NWR, FL",MONTREAL_MOULT#370:7.1@166.38(M.31095),Swainson's Thrush,18-Aug-2018,45.504600,-73.576700,16-Nov-18
+"St. Marks NWR, FL",MONTREAL_MOULT#377:7.1@166.38(M.31284),Swainson's Thrush,14-Aug-2018,45.504600,-73.576700,21-Oct-18
+"St. Marks NWR, FL",MONTREAL_MOULT#383:7.1@166.38(M.31290),Swainson's Thrush,18-Aug-2018,45.504600,-73.576700,11-Nov-18
+"St. Marks NWR, FL",MONTREAL_MOULT#511:5.9@166.38(M.26297),Swainson's Thrush,11-Aug-2017,45.430700,-73.938500,17-Oct-17
+"St. Marks NWR, FL",MONTREAL_MOULT#515:5.9@166.38(M.26306),Swainson's Thrush,14-Aug-2017,45.430900,-73.938800,13-Oct-17
+"St. Marks NWR, FL",MONTREAL_MOULT#516:5.9@166.38(M.26308),Swainson's Thrush,16-Aug-2017,45.430700,-73.938500,17-Oct-17
+"St. Marks NWR, FL",Niles#189.1:4.7@166.38(M.24493),Red Knot,17-Sep-2018,39.081118,-74.729786,17-Nov-18
+"St. Marks NWR, FL",Niles#325:19.9@166.38(M.24700),Red Knot,12-May-2017,39.112771,-74.892264,10-Aug-17
+"St. Marks NWR, FL",NYCA-SESA#484:10.1@166.38(M.24589),Semipalmated Sandpiper,30-May-2017,40.595300,-73.821800,19-Sep-17
+"St. Marks NWR, FL",ON SWTH GCTH Motus#167:19.9@166.38(M.29903),Swainson's Thrush,13-Sep-2017,45.246256,-81.299507,1-Oct-17
+"St. Marks NWR, FL",ON SWTH GCTH Motus#170:19.9@166.38(M.29906),Swainson's Thrush,13-Sep-2017,45.246256,-81.299507,12-Oct-17
+"St. Marks NWR, FL",ON SWTH GCTH Motus#173:19.9@166.38(M.29909),Swainson's Thrush,6-Sep-2017,45.246256,-81.299507,1-Oct-17
+"St. Marks NWR, FL",ON SWTH GCTH Motus#176:19.9@166.38(M.29912),Swainson's Thrush,24-Sep-2017,45.246256,-81.299507,24-Oct-17
+"St. Marks NWR, FL",ON SWTH GCTH Motus#193:19.9@166.38(M.29928),Swainson's Thrush,13-Sep-2017,45.246256,-81.299507,13-Oct-17
+"St. Marks NWR, FL",OntWOTH#24:12.7@166.38(M.30773),Wood Thrush,27-Jul-2018,42.676900,-80.541900,3-Nov-18
+"St. Marks NWR, FL",OntWOTH#28:12.7@166.38(M.30777),Wood Thrush,29-Jul-2018,42.681000,-80.467900,22-Oct-18
+"St. Marks NWR, FL",OntWOTH#360:12.7@166.38(M.25870),Wood Thrush,19-Jun-2017,43.762800,-79.507000,17-Oct-17
+"St. Marks NWR, FL",OntWOTH#373:12.7@166.38(M.25883),Wood Thrush,21-Jun-2017,43.762800,-79.507000,17-Oct-17
+"St. Marks NWR, FL",OntWOTH#445.1:12.7@166.38(M.29319),Wood Thrush,19-Jul-2018,42.774800,-80.580800,18-Oct-18
+"St. Marks NWR, FL",OntWOTH#480.1:12.7@166.38(M.29603),Wood Thrush,25-Jun-2018,42.756800,-80.567000,21-Oct-18
+"St. Marks NWR, FL",OntWOTH#495.1:12.7@166.38(M.30699),Wood Thrush,11-Jul-2018,42.758900,-80.408100,19-Oct-18
+"St. Marks NWR, FL",OntWOTH#511.1:12.7@166.38(M.29823),Wood Thrush,3-Jul-2018,42.757600,-80.569600,18-Oct-18
+"St. Marks NWR, FL",OntWOTH#518.1:12.7@166.38(M.30787),Wood Thrush,8-Aug-2018,42.727300,-80.319100,19-Oct-18
+"St. Marks NWR, FL",OntWOTH#520.1:12.7@166.38(M.29509),Wood Thrush,10-Jun-2018,42.622700,-80.559500,18-Oct-18
+"St. Marks NWR, FL",Pacific Shorebirds#333:5.3@166.38(M.30843),Western Sandpiper,23-Aug-2018,49.064900,-125.743500,16-Sep-18
+"St. Marks NWR, FL",PUMA_POST_BREED#459:10.1@166.38(M.26071),Not yet available,7-Jul-2017,42.661111,-81.064400,17-Sep-17
+"St. Marks NWR, FL",PUMA_POST_BREED#465:10.1@166.38(M.26077),Not yet available,7-Jul-2017,42.661111,-81.064400,17-Sep 2017<br/>18-Sep 2017
+"St. Marks NWR, FL",PUMA_POST_BREED#471:10.1@166.38(M.26082),Not yet available,7-Jul-2017,42.661111,-81.064400,18-Sep-17
+"St. Marks NWR, FL",QC-Thrush#212:19.9@166.38(M.25680),Swainson's Thrush,4-Jul-2017,47.337310,-71.114503,14-Oct-17
+"St. Marks NWR, FL",QC-Thrush#222:19.9@166.38(M.25690),Swainson's Thrush,14-Sep-2017,48.157500,-69.664167,17-Oct-17
+"St. Marks NWR, FL",QC-Thrush#232:19.9@166.38(M.25700),Swainson's Thrush,3-Sep-2017,47.380250,-71.083840,15-Oct-17
+"St. Marks NWR, FL",QC-Thrush#237:19.9@166.38(M.25705),Swainson's Thrush,13-Sep-2017,48.157500,-69.664167,13-Oct 2017<br/>24-Oct 2017
+"St. Marks NWR, FL",QC-Thrush#240:19.9@166.38(M.25708),Swainson's Thrush,10-Sep-2017,48.157500,-69.664167,18-Oct-17
+"St. Marks NWR, FL",QC-Thrush#249:19.9@166.38(M.25717),Swainson's Thrush,16-Sep-2017,48.157500,-69.664167,30-Oct-17
+"St. Marks NWR, FL",QC-Thrush#254:19.9@166.38(M.25722),Gray-cheeked Thrush,18-Sep-2017,48.157500,-69.664167,17-Oct-17
+"St. Marks NWR, FL",QC-Thrush#260:19.9@166.38(M.25728),Gray-cheeked Thrush,18-Sep-2017,48.157500,-69.664167,17-Oct-17
+"St. Marks NWR, FL",QC-Thrush#267:19.9@166.38(M.25735),Gray-cheeked Thrush,20-Sep-2017,48.157500,-69.664167,17-Oct-17
+"St. Marks NWR, FL",QC-Thrush#74:19.9@166.38(M.25672),Gray-cheeked Thrush,14-Sep-2017,48.157500,-69.664167,17-Oct-17
+"St. Marks NWR, FL",QC-Thrush#91:19.9@166.38(M.25791),Swainson's Thrush,13-Sep-2017,44.540000,-72.810000,17-Oct-17
+"St. Marks NWR, FL",Taylor-SWTH#156:19.9@166.38(M.26437),Swainson's Thrush,18-Aug-2017,43.407210,-66.016060,25-Apr-18
+"St. Marks NWR, FL",Thrush 2018#473:19.9@166.38(M.31028),Swainson's Thrush,31-Jul-2018,45.208200,-81.411000,7-Oct-18
+"St. Marks NWR, FL",Thrush 2018#493:19.9@166.38(M.30994),Swainson's Thrush,31-Jul-2018,45.208200,-81.411000,21-Oct-18
+"St. Marks NWR, FL",Thrush 2018#503:19.9@166.38(M.31004),Swainson's Thrush,31-Jul-2018,45.208200,-81.411000,6-Oct-18
+"St. Marks NWR, FL",Tonra#345:10.7@166.38(M.20626),Black-crowned Night-Heron,5-Jul-2016,41.739220,-83.105278,21-Apr-17
+"St. Marks NWR, FL",Tonra#373:10.7@166.38(M.20653),Black-crowned Night-Heron,21-Jun-2016,41.739220,-83.105278,18-May-17
+"St. Marks NWR, FL",Tonra#463:10.7@166.38(M.26089),Black-crowned Night-Heron,22-Jun-2017,41.457500,-82.726700,1-Oct-17
+"Ten Thousand Islands NWR, FL",GuelphBARS#415.1:10.1@166.38(M.30952),Barn Swallow,26-Jul-2018,43.799800,-80.235000,3-Sep-18
