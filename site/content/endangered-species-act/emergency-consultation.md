@@ -1,11 +1,12 @@
 ---
 title: 'Emergency consultation'
+nav: Emergency Consultation
 aliases:
     - /es/emergency_consult.html
 hero:
     name: hurricane-irma.jpg
     alt: 'A massive hurricane threatens Puerto Rico and the Virgin Islands.'
-    caption: 'Hurricane Irma mid-day on September 6, 2017 off the east coast of Puerto Rico. <a href="https://flic.kr/p/XcPJxQ"≥Satellite Image</a> by NOAA GOES-16.'
+    caption: 'Hurricane Irma mid-day on September 6, 2017 off the east coast of Puerto Rico. <a href="https://flic.kr/p/XcPJxQ">Satellite Image</a> by NOAA GOES-16.'
 tags:
     - 'Endangered Species Act'
     - Fire
