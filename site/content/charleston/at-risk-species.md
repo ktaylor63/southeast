@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 'At-risk species'
 description: 'The South Carolina Coastal Program is a partnership driven program that conserves and protects natural habitat for federally listed species by providing technical and financial assistance for numerous public and private partners.  The South Carolina Coastal Program is focused on the coastal plain of South Carolina and a portion of Georgia and works in a variety of habitats, including wetlands, uplands, estuaries, and beaches.'
 nav: 'At-risk species'
@@ -56,7 +55,7 @@ Lead for [eastern diamondback rattlesnake](/pdf/fact-sheet/eastern-diamondback-r
 
 **Morgan Wolf**, Fish and Wildlife Biologist  
 [morgan_wolf@fws.gov](mailto:morgan_wolf@fws.gov), (843) 727-4707 ext. 219  
-Lead for [Chamberlain’s dwarf salamander](/pdf/fact-sheet/chamberlains-dwarf-salamander.pdf), [Atlantic pigtoe](/wildlife/mussels/atlantic-pigtoe) (proposed for listing October 2018), [brook floater](/pdf/fact-sheet/brook-floater.pdf), [tri-colored bat](/pdf/fact-sheet/tri-colored-bat.pdf), and [little brown bat](https://ecos.fws.gov/ecp0/profile/speciesProfile?sId=9051).
+Lead for [Chamberlain’s dwarf salamander](/pdf/fact-sheet/chamberlains-dwarf-salamander.pdf), [Atlantic pigtoe](/wildlife/mussels/atlantic-pigtoe) (proposed for listing October 2018), [brook floater](/pdf/fact-sheet/brook-floater.pdf), [tri-colored bat](/pdf/fact-sheet/tri-colored-bat.pdf), and [little brown bat](/pdf/fact-sheet/little-brown-bat.pdf).
 
 ## More information
 

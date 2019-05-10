@@ -1,5 +1,4 @@
 ---
-draft: true
 title: Hydropower
 nav: Hydropower
 facebook: SouthCarolinaFieldOffice

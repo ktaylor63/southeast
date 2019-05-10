@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 'South Carolina Ecological Services Field Office'
 description: 'Serving the entire state of South Carolina, our mission is working with others to conserve, protect, and enhance fish, wildlife, plants and their habitats for the continuing benefit of the American people.'
 facebook: SouthCarolinaFieldOffice

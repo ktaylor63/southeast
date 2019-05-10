@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 'Outdoor recreation'
 nav: 'Outdoor recreation'
 facebook: SouthCarolinaFieldOffice

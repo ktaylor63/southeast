@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 'Endangered species'
 nav: 'Endangered species'
 facebook: SouthCarolinaFieldOffice

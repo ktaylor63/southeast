@@ -1,5 +1,4 @@
 ---
-draft: true
 title: Wildlife
 description: 'Wildlife at the South Carolina Ecological Services Field Office.'
 query: 'South Carolina Ecological Services Field Office'

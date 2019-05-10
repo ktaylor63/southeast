@@ -1,5 +1,4 @@
 ---
-draft: true
 title: Contaminants
 nav: Contaminants
 description: "The role of the Environmental Contaminants Program in the U. S. Fish and Wildlife Service is to protect wildlife and their habitat from the harmful effects of pollution.  The Program’s main responsibilities include:  Spill Incident planning and response, Natural Resource Damage Assessment and Restoration (NRDAR),  identification and assessment of potential environmental hazards, and technical support."

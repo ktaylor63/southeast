@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 'Migratory birds'
 nav: 'Migratory birds'
 facebook: SouthCarolinaFieldOffice

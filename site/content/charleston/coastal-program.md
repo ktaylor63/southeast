@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 'Coastal program'
 nav: 'Coastal program'
 description: 'The South Carolina Coastal Program is a partnership driven program that conserves and protects natural habitat for federally listed species by providing technical and financial assistance for numerous public and private partners.  The South Carolina Coastal Program is focused on the coastal plain of South Carolina and a portion of Georgia and works in a variety of habitats, including wetlands, uplands, estuaries, and beaches.'

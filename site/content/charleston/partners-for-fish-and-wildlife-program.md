@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 'Partners for Fish and Wildlife Program'
 nav: 'Partners for Fish and Wildlife Program'
 description: 'The Partners for Fish and Wildlife program works with private landowners to improve fish and wildlife habitat on their lands.  We are leaders in voluntary, community-based stewardship for fish and wildlife conservation.'

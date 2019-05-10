@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 'Habitat conservation'
 nav: 'Habitat conservation'
 facebook: SouthCarolinaFieldOffice
@@ -57,7 +56,6 @@ Federal agencies that participate in conservation agreements have greater flexib
 Section 7(a)(1) of the Endangered Species Act (ESA) requires all federal agencies to use their authority as appropriate to carry out programs for the conservation (i.e., recovery) of endangered and threatened species.  Under this provision, Federal agencies can enter into partnerships and Memoranda of Understanding with the Fish and Wildlife Service or National Marine Fisheries Service to implement and fund conservation agreements, management plans, and recovery plans for listed species.
 
 - [Endangered Species Act Section 7(a)(1) Southeast Region Implementation Framework](/pdf/guidelines/southeast-region-ESA-section-7-a1-implementation-framework.pdf)
-
 
 ## Contact
 

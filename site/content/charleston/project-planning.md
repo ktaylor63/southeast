@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 'Project planning'
 nav: 'Project planning'
 facebook: SouthCarolinaFieldOffice
