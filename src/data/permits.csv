@@ -609,7 +609,7 @@ number,status,fed_register
 77472C-0,Issued,Noticed for 30 days
 88797B-1,Issued,Noticed for 30 days
 48386B-1,Withdrawn,N/A
-824723-10,In RO for Review,Noticed for 30 days
+824723-10,Awaiting Input from Applicant,Noticed for 30 days
 78085C-0,Issued,N/A
 20269C-1,Issued,N/A
 78148C-0,Issued,N/A
@@ -704,7 +704,7 @@ bio,In FO for Review,Noticed for 30 days
 12373D-0,Issued,N/A
 12379D-0,In RO for Review,on 30 day notice period
 12981D-0 ,Issued,N/A
-092945-4,In FO for Review,N/A
+092945-4,Awaiting signature,N/A
 100070-3,In RO for Review,on 30 day notice period
 14546D-0,Issued,N/A
 18986C-1,Issued,N/A
@@ -737,7 +737,7 @@ bio,In FO for Review,Noticed for 30 days
 28025A-4,Withdrawn,N/A
 26537D-0,Issued,N/A
 075913-6,Issued,N/A
-51145B-1,In RO for Review,needs to be drafted
+51145B-1,In RO for Review,N/A
 070796-9,Awaiting Input from Applicant,N/A
 28638D-0,Awaiting Input from Applicant,N/A
 30127D-0,In RO for Review,needs to be drafted
@@ -751,8 +751,8 @@ bio,In FO for Review,Noticed for 30 days
 33227D-0,In RO for Review,needs to be drafted
 33469D-0,In RO for Review,N/A
 33496D-0,Awaiting signature,N/A
-hb],In RO for Review,N/A
-n\\\\\\\\\\,Awaiting Input from Applicant,needs to be drafted
+33509D-0,In RO for Review,N/A
+087191-4,Awaiting Input from Applicant,needs to be drafted
 ,Issued,N/A
 069754-6,Issued,N/A
 64393C-1,In RO for Review,needs to be drafted
@@ -767,4 +767,5 @@ n\\\\\\\\\\,Awaiting Input from Applicant,needs to be drafted
 810274-12,Issued,N/A
 88778B-1,In RO for Review,needs to be drafted
 38642A-1,In FO for Review,Noticed for 30 days
-063179-7,In RO for Review,needs to be drafted
+063179-7,Awaiting Input from Applicant,needs to be drafted
+171493-3,In RO for Review,
