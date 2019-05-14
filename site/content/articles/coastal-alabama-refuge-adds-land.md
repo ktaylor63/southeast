@@ -42,7 +42,7 @@ Among the winners: plovers &mdash; snowy, piping and Wilson plovers &mdash; plus
 
 The Conservation Fund, a nonprofit organization dedicated to land and water conservation, saving wildlife and creating community development opportunities, acquired the land.
 
-The total purchase amount was not disclosed, but $10.2 million came from grants from the National Fish and Wildlife Federation’s (NFWF) Gulf Environmental Benefit Fund. A federal court established the fund following the 2010 *Deepwater Horizon* oil spill, and directs $2.54 billion to NFWF to pay for projects along areas of the gulf coast that the spill affected.
+The total purchase amount was not disclosed, but $10.2 million came from grants from the National Fish and Wildlife Foundation's (NFWF) Gulf Environmental Benefit Fund. A federal court established the fund following the 2010 *Deepwater Horizon* oil spill, and directs $2.54 billion to NFWF to pay for projects along areas of the gulf coast that the spill affected.
 
 “We are delighted that NFWF recognizes the importance of increased protection for coastal resources, as well as the unique benefits it brings the community,” said Ray Herndon, director of the Central Gulf and Lower Mississippi Region for the Conservation Fund. “We look forward to continuing these efforts in partnership with the state and Service.”
 
