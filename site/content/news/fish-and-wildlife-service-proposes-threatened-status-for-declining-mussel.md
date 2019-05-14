@@ -24,7 +24,7 @@ tags:
     - 'South Carolina Ecological Services Field Office'
     - 'Tar River Spinymussel'
     - 'Virginia,'
-    - 'Yellow Lance Mussel'
+    - 'Yellow Lance'
 updated: 'February 20th, 2019'
 ---
 

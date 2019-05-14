@@ -9,7 +9,7 @@ hero:
     position: '45% 35%'
 tags:
     - 'Environmental Education'
-    - 'Environmental Intrepretation'
+    - 'Environmental Interpretation'
     - Hunting
     - 'Observation and Photography'
     - 'Public Access'

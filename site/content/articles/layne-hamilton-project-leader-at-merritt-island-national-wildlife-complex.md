@@ -11,7 +11,7 @@ tags:
     - Fishing
     - Florida
     - 'Florida Panther National Wildlife Refuge'
-    - 'J.N. Ding Darling National Wildlife Refuge'
+    - 'JN Ding Darling National Wildlife Refuge'
     - 'Merritt Island National Wildlife Refuge Complex'
     - 'Mississippi Sandhill Crane National Wildlife Refuge'
     - 'Pinckney Island National Wildlife Refuge'

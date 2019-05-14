@@ -15,7 +15,7 @@ tags:
     - E-Grits
     - 'Environmental Interpretation'
     - Louisiana
-    - 'Southeast Louisiana Refuges'
+    - 'Southeast Louisiana National Wildlife Refuges Complex'
     - 'Wildlife Observation'
 updated: 'January 30th, 2019'
 ---

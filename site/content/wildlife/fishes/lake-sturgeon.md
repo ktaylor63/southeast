@@ -22,7 +22,7 @@ tags:
     - Kentucky
     - 'Lake Sturgeon'
     - Louisiana
-    - 'Mammoth Springs National Fish Hatchery'
+    - 'Mammoth Spring National Fish Hatchery'
     - Mississippi
     - 'Orangeburg National Fish Hatchery'
     - 'Private John Allen National Fish Hatchery'

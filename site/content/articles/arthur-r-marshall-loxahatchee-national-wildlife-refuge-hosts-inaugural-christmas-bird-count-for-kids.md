@@ -9,7 +9,7 @@ hero:
     caption: 'Ana Castillo-Ruiz teaches young birders how to identify a little blue heron. Photo, Ira Rappaport, FWS volunteer'
     position: 'top right'
 tags:
-    - 'Arthur R. Marshall Loxahatchee National Wildlife Refuge'
+    - 'Arthur R Marshall Loxahatchee National Wildlife Refuge'
     - 'Bragging Rights'
     - 'Christmas Bird Count'
     - E-Grits

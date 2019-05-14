@@ -8,7 +8,7 @@ tags:
     - 'Asheville Ecological Services Field Office'
     - Grants
     - 'North Carolina'
-    - 'Pittman Robertson'
+    - 'Pittman Robertson Wildlife Restoration Act'
     - Podcast
     - 'Southern Appalachian Creature Feature'
 updated: 'August 8th, 2018'

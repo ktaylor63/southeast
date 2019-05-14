@@ -11,7 +11,7 @@ tags:
     - Florida
     - Internship
     - Job
-    - 'Panama City Ecological Service Field Office'
+    - 'Panama City Ecological Services Field Office'
     - 'Youth Conservation Corps'
 updated: 'April 12th, 2018'
 ---

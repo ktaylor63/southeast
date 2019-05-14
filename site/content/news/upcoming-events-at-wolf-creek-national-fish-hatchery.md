@@ -7,7 +7,7 @@ hero:
     position: '50% 30%'
 date: 2018-05-18T00:00:00.000Z
 tags:
-    - 'Catch a Rainbow'
+    - 'Catch a Rainbow Kids Fishing Derby'
     - Fishing
     - Kentucky
     - 'Kids Fishing Derby'

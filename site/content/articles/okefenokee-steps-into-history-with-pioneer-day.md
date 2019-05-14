@@ -13,7 +13,7 @@ tags:
     - E-Grits
     - Georgia
     - 'Okefenokee National Wildlife Refuge'
-    - 'Pioneer Day'
+    - 'Pioneer Day Festival'
     - 'Visitor Services'
 type: 'Bragging Rights'
 updated: 'December 28th, 2017'

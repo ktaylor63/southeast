@@ -11,7 +11,7 @@ author: 'Ashley Buffington, Wolf Creek National Fish Hatchery'
 date: '2017-10-11'
 tags:
     - 'Bragging Rights'
-    - 'Catch a Smile Fishing Derby'
+    - 'Catch a Smile Senior Fishing Derby'
     - E-Grits
     - Fishing
     - Kentucky

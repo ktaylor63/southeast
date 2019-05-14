@@ -18,7 +18,7 @@ tags:
     - Louisiana
     - Mississippi
     - 'Puerto Rico'
-    - 'U.S. Virgin Islands'
+    - 'US Virgin Islands'
     - 'Vieques National Wildlife Refuge'
 updated: 'October 4th, 2017'
 ---

@@ -27,7 +27,7 @@ tags:
     - Maryland
     - Massachusetts
     - Michigan
-    - 'Migratory Bird'
+    - 'Migratory Birds'
     - Nevada
     - 'New Hampshire'
     - 'New Jersey'

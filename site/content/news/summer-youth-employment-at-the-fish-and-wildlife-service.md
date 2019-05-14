@@ -4,8 +4,8 @@ description: 'Instead of the typical summer high school job flipping burgers or 
 date: 2017-07-19T00:00:00.000Z
 tags:
     - Florida
-    - Internships
-    - Jobs
+    - Internship
+    - Job
     - 'Panama City Ecological Services Field Office'
     - 'Youth Conservation Corps'
 updated: 'November 15th, 2018'

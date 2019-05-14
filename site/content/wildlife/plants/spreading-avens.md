@@ -17,7 +17,7 @@ tags:
     - 'Raleigh Ecological Services Field Office'
     - Recovery
     - 'Tennessee Ecological Services Field Office'
-    - Tennesssee
+    - Tennessee
 aliases:
     - /wildlife/plant/spreading-avens
     - /species/plant/spreading-avens

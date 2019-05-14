@@ -10,7 +10,7 @@ tags:
     - Arkansas
     - 'Cache River'
     - 'Cache River National Wildlife Refuge'
-    - 'Central Arkansas Refuge Complex'
+    - 'Central Arkansas National Wildlife Refuge Complex'
     - 'Duck Stamp'
     - 'Duck Stamp Act'
     - Hunting

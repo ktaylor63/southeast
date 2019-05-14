@@ -12,7 +12,6 @@ tags:
     - 'Bobwhite Quail'
     - 'Boykins Lobelia'
     - Carolina-Birds-in-a-Nest
-    - Charleston
     - 'Coastal Program'
     - E-Grits
     - 'Estern Diamondback Rattlesnake'

@@ -45,7 +45,7 @@ tags:
     - 'Schaus Swallowtail'
     - 'Schweinitz’s Sunflower'
     - 'Shinyrayed Pocketbook'
-    - 'Silver Rice Ra'
+    - 'Silver Rice Rat'
     - 'South Carolina Ecological Services Field Office'
     - 'St Andrews Beach Mous'
     - 'St Croix Ground Lizard'

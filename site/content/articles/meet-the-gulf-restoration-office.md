@@ -10,7 +10,7 @@ hero:
 type: 'Feature Story'
 tags:
     - Alabama
-    - 'Deepwater Horizon'
+    - 'Deepwater Horizon Oil Spill'
     - E-Grits
     - Florida
     - Gulf

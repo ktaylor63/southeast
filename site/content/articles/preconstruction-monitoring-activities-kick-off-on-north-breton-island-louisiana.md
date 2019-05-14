@@ -8,7 +8,7 @@ hero:
     caption: 'DOI is leading a $72 million restoration of Breton Island off the coast of Louisiana that will benefit brown pelicans, terns, skimmers and gulls. Photo by Brian Spears, USFWS.'
     position: '60% 90%'
 tags:
-    - 'Breton Island National Wildlife Refuge'
+    - 'Breton National Wildlife Refuge'
     - Gulf
     - Louisiana
     - 'Piping Plover'

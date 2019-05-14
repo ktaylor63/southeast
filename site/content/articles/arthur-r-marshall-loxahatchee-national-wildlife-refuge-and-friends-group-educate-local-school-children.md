@@ -5,13 +5,13 @@ lat: 26.502119
 lng: -80.215378
 author: 'Steve Henry, Arthur R. Marshall Loxahatchee NWR'
 tags:
-    - 'Arthur R. Marshall Loxahatchee National Wildlife Refuge'
+    - 'Arthur R Marshall Loxahatchee National Wildlife Refuge'
     - E-Grits
     - 'Environmental Education'
     - Florida
     - 'Friends Group'
     - 'Friends and Volunteers'
-    - Grant
+    - Grants
 type: 'Friends and Volunteers'
 updated: 'December 28th, 2017'
 ---

@@ -12,7 +12,7 @@ tags:
     - Everglades
     - Florida
     - 'Florida Scrub-Jay'
-    - 'Four-Petal Pawpaws'
+    - 'Four-Petal Pawpaw'
     - 'Gopher Tortoise'
     - 'Hobe Sound National Wildlife Refuge'
     - 'Indian River Lagoon'

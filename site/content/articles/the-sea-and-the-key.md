@@ -11,7 +11,7 @@ hero:
 type: feature
 tags:
     - Archeology
-    - 'Climage Change'
+    - 'Climate Change'
     - 'Egmont Key National Wildlife Refuge'
     - Florida
     - 'Loggerhead Sea Turtle'

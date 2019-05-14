@@ -9,7 +9,7 @@ tags:
     - Hunting
     - 'Pittman-Robertson Federal Aid in Wildlife Restoration Act'
     - Recreation
-    - 'Wildlife and Sport Fish Restoration Program'
+    - 'Wildlife and Sport Fish Restoration'
 updated: 'April 3rd, 2019'
 ---
 

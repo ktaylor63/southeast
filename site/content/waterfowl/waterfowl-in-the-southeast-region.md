@@ -14,7 +14,7 @@ tags:
     - Sanctuary
     - Waterfowl
     - 'Waterfowl Working Group'
-    - Wetlands
+    - Wetland
 updated: 'December 18th, 2018'
 ---
 

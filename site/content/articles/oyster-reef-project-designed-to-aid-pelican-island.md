@@ -14,7 +14,7 @@ tags:
     - Florida
     - 'Oyster Reef'
     - 'Pelican Island National Wildlife Refuge'
-    - 'Vero Beach'
+    - 'Vero Beach Ecological Services Field Office'
 updated: 'May 4th, 2017'
 ---
 

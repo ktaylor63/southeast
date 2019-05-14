@@ -11,14 +11,14 @@ tags:
     - Alabama
     - 'Alabama Beach Mouse'
     - 'Beaches and Dunes'
-    - 'Bon Secour National Wildlife REfuve'
+    - 'Bon Secour National Wildlife Refuge'
     - 'Bragging Rights'
     - Gulf
-    - 'Deepwater Horizon'
+    - 'Deepwater Horizon Oil Spill'
     - E-Grits
     - 'Gulf Restoration'
     - Milkweed
-    - 'Monarch Butterfly'
+    - Monarch
 type: 'Bragging Rights'
 updated: 'February 28th, 2018'
 ---

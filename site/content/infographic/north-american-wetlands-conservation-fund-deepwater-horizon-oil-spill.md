@@ -4,7 +4,7 @@ name: nawca-deepwater-horizon.jpg
 alt: 'A graphic describing how money from the Deepwater Horizon oil spill is allocated for conservation.'
 tags:
     - Alabama
-    - 'Deepwater Horizon'
+    - 'Deepwater Horizon Oil Spill'
     - Florida
     - Gulf
     - Louisiana

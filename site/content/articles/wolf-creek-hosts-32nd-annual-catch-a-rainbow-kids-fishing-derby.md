@@ -8,7 +8,7 @@ hero:
 date: 2018-07-18T00:00:00.000Z
 tags:
     - 'Bragging Rights'
-    - 'Catch a Rainbow Fishing Derby'
+    - 'Catch a Rainbow Kids Fishing Derby'
     - E-Grits
     - 'Erwin National Fish Hatchery'
     - Fishing

@@ -13,7 +13,7 @@ tags:
     - 'Endangered Species Act'
     - 'Fish Passage'
     - 'Hoosier Dam'
-    - Mussels
+    - Mussel
     - 'North Carolina'
     - 'Raleigh Ecological Services Field Office'
     - Recovery

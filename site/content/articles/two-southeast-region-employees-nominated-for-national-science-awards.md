@@ -7,10 +7,10 @@ tags:
     - 'Bragging Rights'
     - E-Grits
     - 'Gulf Coastal Plains and Ozarks LCC'
-    - 'Landscape Conservation Cooperative'
+    - 'Landscape Conservation Cooperatives'
     - Leadership
     - 'Rachel Carson Award'
-    - 'Sam D. Hamilton Award'
+    - 'Sam D Hamilton Award'
     - Science
     - 'Southeast Conservation Adaptation Strategy'
     - 'Southeast Regional Office'

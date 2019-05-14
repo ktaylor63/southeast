@@ -19,8 +19,8 @@ tags:
     - 'Piping Plover'
     - Recreation
     - 'Snowy Plover'
-    - 'Wildlife Viewing'
-    - 'Wilson Plover'
+    - 'Wildlife Observation'
+    - 'Wilsons Plover'
 updated: 'April 26th, 2019'
 ---
 

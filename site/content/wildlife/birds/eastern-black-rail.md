@@ -37,7 +37,7 @@ tags:
     - Mississippi
     - Missouri
     - Nebraska
-    - 'New Hanpshire'
+    - 'New Hampshire'
     - 'New Jersey'
     - 'New Mexico'
     - 'New York'

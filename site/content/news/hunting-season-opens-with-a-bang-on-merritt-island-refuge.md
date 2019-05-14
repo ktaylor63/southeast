@@ -11,7 +11,7 @@ tags:
     - Gadwall
     - Hunting
     - 'Lessor Scaup'
-    - 'Merganser. Common Species Include'
+    - 'Merganser'
     - 'Merritt Island National Wildlife Refuge'
     - Pintail
     - Teal

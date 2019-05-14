@@ -10,7 +10,7 @@ tags:
     - Florida
     - 'Florida Grasshopper Sparrow'
     - Recovery
-    - 'Vero Beach'
+    - 'Vero Beach Ecological Services Field Office'
 hero:
     name: florida-grasshopper-sparrow-with-chicks.jpg
     alt: 'Small bird with brown and white feathering. Yellow feathering on its head.'

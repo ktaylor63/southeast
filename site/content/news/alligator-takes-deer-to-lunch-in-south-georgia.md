@@ -11,7 +11,7 @@ date: '2004-08-23'
 aliases:
     - /news/2004/r04-073.html
 tags:
-    - Alligator
+    - 'American Alligator'
     - Georgia
     - 'Harris Neck National Wildlife Refuge'
     - 'South Carolina Ecological Services Field Office'

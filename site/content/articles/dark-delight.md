@@ -13,7 +13,6 @@ hero:
     caption: 'Cape Romain National Wildlife Refuges goes dark during the total solar eclipse. Photo by Kristen Peters, USFWS.'
 tags:
     - 'Cape Romain National Wildlife Refuge'
-    - Charleston
     - Eclipse
     - 'National Wildlife Refuge System'
     - 'South Carolina'

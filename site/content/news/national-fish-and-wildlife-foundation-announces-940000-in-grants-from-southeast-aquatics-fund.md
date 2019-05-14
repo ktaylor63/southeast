@@ -6,9 +6,9 @@ tags:
     - Alabama
     - 'Bridled Darter'
     - Florida
-    - 'Freshwater Mussels'
+    - 'Freshwater Mussel'
     - Georgia
-    - Grant
+    - Grants
     - 'Holiday Darter'
     - Propagation
     - 'Southeast Aquatics Fund'

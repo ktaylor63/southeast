@@ -18,7 +18,7 @@ tags:
     - E-Grits
     - 'Eastern Oyster'
     - Gulf
-    - 'Landscape Conservation Cooperative'
+    - 'Landscape Conservation Cooperatives'
     - Recreation
     - 'State Wildlife Action Plan'
 type: 'Feature Story'

@@ -6,7 +6,6 @@ lat: 32.786768
 lng: -79.935713
 author: 'Jennifer Koches, South Carolina Ecological Services'
 tags:
-    - Charleston
     - E-Grits
     - 'Partners for Fish and Wildlife Program'
     - 'South Carolina'

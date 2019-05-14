@@ -14,7 +14,7 @@ tags:
     - 'Moist Soil Wetlants'
     - 'Permanent Marsh Wetlands'
     - Waterfowl
-    - Wetlands
+    - Wetland
     - 'Wood Duck'
 updated: 'March 28th, 2019'
 ---

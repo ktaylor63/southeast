@@ -14,7 +14,7 @@ tags:
     - 'Algae Bloom'
     - 'American Alligator'
     - 'American Crocodile'
-    - 'Arther R Marshall Loxahatchee National Wildlife Refuge'
+    - 'Arthur R Marshall Loxahatchee National Wildlife Refuge'
     - Cattail
     - Ecotourism
     - Everglades

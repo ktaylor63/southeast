@@ -11,7 +11,6 @@ hero:
 tags:
     - 'Bragging Rights'
     - 'Carolina Heelsplitter'
-    - Charleston
     - E-Grits
     - 'North Carolina'
     - 'South Carolina'

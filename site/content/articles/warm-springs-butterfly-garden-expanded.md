@@ -13,7 +13,7 @@ tags:
     - 'Butterfly Garden'
     - E-Grits
     - Georgia
-    - 'Monarch Butterfly'
+    - Monarch
     - Pollinators
     - 'Warm Springs National Fish Hatchery'
 type: 'Bragging Rights'

@@ -12,7 +12,7 @@ hero:
 tags:
     - 'Appalachian Elktoe'
     - 'Asheville Ecological Services Field Office'
-    - 'Endangere Species Act'
+    - 'Endangered Species Act'
     - 'North Carolina'
     - Podcast
     - Recovery

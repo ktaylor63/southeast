@@ -11,7 +11,6 @@ hero:
     caption: 'Cindy Dohner, regional director of U.S. Fish and Wildlife Services’ Region 4, and Greg Sheehan. He recently became the principal deputy director at the Service. Photo by Kristen Peters'
 tags:
     - 'Cape Romain National Wildlife Refuge'
-    - Charleston
     - Eclipse
     - 'National Wildlife Refuge System'
     - 'Sea Level Rise'

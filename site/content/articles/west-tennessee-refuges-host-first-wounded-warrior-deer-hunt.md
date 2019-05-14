@@ -8,7 +8,7 @@ tags:
     - 'Hatchie National Wildlife Refuge'
     - Hunting
     - Tennessee
-    - 'Wounded Warrior'
+    - 'Wounded Warriors'
 updated: 'December 13th, 2018'
 ---
 

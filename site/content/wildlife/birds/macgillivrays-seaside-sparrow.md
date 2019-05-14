@@ -18,7 +18,7 @@ tags:
     - Georgia
     - 'Macgillivrays Seaside Sparrow'
     - 'South Carolina'
-    - 'South Carolina Ecological Services Field Station'
+    - 'South Carolina Ecological Services Field Office'
 updated: 'March 25th, 2019'
 ---
 

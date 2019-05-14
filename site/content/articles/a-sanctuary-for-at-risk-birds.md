@@ -14,7 +14,7 @@ tags:
     - 'Black Skimmer'
     - 'Brown Pelican'
     - 'Eastern Willet'
-    - 'Endangered Species List'
+    - 'Endangered Species Act'
     - Georgia
     - 'Least Tern'
     - 'Marbled Godwit'

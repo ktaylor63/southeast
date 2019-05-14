@@ -17,7 +17,7 @@ tags:
     - Fishing
     - 'Fred Berry Conservation Education Center'
     - Milkweed
-    - 'Monarch Butterfly'
+    - Monarch
     - 'Painted Bunting'
     - 'Partners for Fish and Wildlife Program'
     - Pollinator
