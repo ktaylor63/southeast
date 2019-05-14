@@ -8,12 +8,11 @@ tags:
     - Florida
     - 'National Wildlife Refuge System'
     - 'Prescribed Fire'
-    - 'St. Marks National Wildlife Refuge'
+    - 'St Marks National Wildlife Refuge'
 hero:
     name: prescribed-fire-st-marks.jpg
     alt: 'Bright orange flames engulf low-lying scrub in a pine tree stand.'
     caption: 'Prescribed fire in the Panacea Unit of St. Marks National Wildlife Refuge June 2013. <a href="https://flic.kr/p/oiYTik">Photo</a> by Jennifer Hinckley, USFWS.'
-    link: 'https://flic.kr/p/oiYTik'
 updated: 'August 3rd, 2018'
 ---
 

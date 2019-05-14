@@ -8,11 +8,10 @@ hero:
     name: mile-a-minute.jpg
     alt: 'Triangular green leaves with sharp, throny vines.'
     caption: 'Mile-a-minute weed. <a href="https://flic.kr/p/eH4JhU">Photo</a> by John Beetham, CC BY-NC-SA 2.0.'
-    link: 'https://flic.kr/p/eH4JhU'
 tags:
     - 'Asheville Ecological Services Field Office'
     - 'Invasive Species'
-    - 'Mile-a-Minute Weed'
+    - 'Mile-a-Minute'
     - 'North Carolina'
     - Podcast
     - 'Southern Appalachian Creature Feature'

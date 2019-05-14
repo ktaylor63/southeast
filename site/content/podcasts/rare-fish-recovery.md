@@ -7,8 +7,7 @@ author: 'Gary Peeples'
 hero:
     name: sicklefin-redhorse.jpg
     alt: 'A NC biologist holding a sicklefin redhorse on a river bank in front of a hydroelectric dam.'
-    link: 'https://flic.kr/p/paZsUy'
-    caption: 'North Carolina biologist TR Russ holding an sicklefin redhorse. Photo by Mark Cantrell, USFWS.'
+    caption: 'North Carolina biologist TR Russ holding an sicklefin redhorse. <a href="https://flic.kr/p/paZsUy">Photo</a> by Mark Cantrell, USFWS.'
     position: 'bottom right'
 tags:
     - 'Asheville Ecological Services Field Office'
@@ -19,7 +18,7 @@ tags:
     - Podcast
     - 'Sicklefin Redhorse'
     - 'Southern Appalachian Creature Feature'
-    - 'Sporfin Chub'
+    - 'Spotfin Chub'
 updated: 'August 8th, 2018'
 ---
 

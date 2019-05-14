@@ -6,14 +6,13 @@ tags:
     - Georgia
     - Hunting
     - 'National Wildlife Refuge System'
-    - 'Savannah River National Wildlife Refuge'
+    - 'Savannah National Wildlife Refuge'
     - 'South Carolina'
     - 'South Carolina Ecological Services Field Office'
 hero:
     name: savannah-river-nwr.jpg
     alt: 'Spanish moss covers the branches of mature live oak trees.'
-    caption: 'Savannah River National Wildlife Refuge.  Photo by <a href="https://www.flickr.com/photos/vmpyrdavid/" target="_blank">David</a>, <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/legalcode" target="_blank">CC BY-NC-ND 2.0</a>.'
-    link: 'https://flic.kr/p/bWCUPa'
+    caption: 'Savannah River National Wildlife Refuge. <a href="https://flic.kr/p/bWCUPa">Photo</a> by <a href="https://www.flickr.com/photos/vmpyrdavid/" target="_blank">David</a>, <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/legalcode" target="_blank">CC BY-NC-ND 2.0</a>.'
 updated: 'August 10th, 2017'
 ---
 

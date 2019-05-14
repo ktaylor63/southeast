@@ -6,14 +6,13 @@ date: 2009-04-24T00:00:00.000Z
 author: 'Gary Peeples'
 hero:
     name: wind-turbines-sunset.jpg
-    link: 'https://flic.kr/p/f2qce9'
     alt: 'Several wind turbines in front of a sunset.'
-    caption: 'The DOE/Sandia Scaled Wind Farm Technology (SWiFT) facility at the Reese Technology Center in Lubbock, Texas. Photo by Sandia Labs, <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/legalcode" target="_blank">CC BY-NC-ND 2.0</a>.'
+    caption: 'The DOE/Sandia Scaled Wind Farm Technology (SWiFT) facility at the Reese Technology Center in Lubbock, Texas. <a href="https://flic.kr/p/f2qce9">Photo</a> by Sandia Labs, <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/legalcode" target="_blank">CC BY-NC-ND 2.0</a>.'
     position: '10% 60%'
 tags:
     - 'Asheville Ecological Services Field Office'
     - Barotrauma
-    - Bat
+    - Bats
     - 'Migratory Bird Treaty Act'
     - 'North Carolina'
     - Podcast

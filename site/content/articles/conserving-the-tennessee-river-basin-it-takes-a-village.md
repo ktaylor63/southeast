@@ -5,12 +5,11 @@ date: '2017-04-11'
 hero:
     name: north-toe-river-kids.jpg
     alt: 'A group of children runs through shallow water with a net in the foreground.'
-    caption: 'Collecting fish in the North Toe River. Photo by Gary Peeples, USFWS.'
-    link: 'https://flic.kr/p/z1EhRY'
+    caption: 'Collecting fish in the North Toe River. <a href="https://flic.kr/p/z1EhRY">Photo</a> by Gary Peeples, USFWS.'
     position: 'top center'
 tags:
     - 'Appalachian Landscape Conservation Cooperative'
-    - Mussels
+    - Mussel
     - Partnership
     - 'Southeast Conservation Adaptation Strategy'
     - Tennessee

@@ -4,8 +4,7 @@ date: '2017-06-29'
 hero:
     name: puerto-rican-nightjar.jpg
     alt: 'A brown and white bird with whiskers and a short, sharp beak.'
-    link: 'https://flic.kr/p/cWN6BQ'
-    caption: 'Endangered Puerto Rican nightjar. Photo by Mike Morel.'
+    caption: 'Endangered Puerto Rican nightjar. <a href="https://flic.kr/p/cWN6BQ">Photo</a> by Mike Morel.'
 tags:
     - 'Adiantum Vivesii'
     - 'Alabama Canebrake Pitcher Plant'
@@ -19,7 +18,7 @@ tags:
     - 'Endangered Species Act'
     - 'Five Year Review'
     - 'Florida Panther'
-    - 'Lyonia Truncata Var. Proctorii'
+    - 'Lyonia Truncata Var Proctorii'
     - 'Morefields Leatherflower'
     - 'Puerto Rican Broad-Winged Hawk'
     - 'Puerto Rican Nightjar'
@@ -27,7 +26,7 @@ tags:
     - 'Ring Pink'
     - 'Rush Darter'
     - 'Ruths Golden Aster'
-    - 'Smallss Milkpe'
+    - 'Smalls Milkpe'
     - 'South Carolina Ecological Services Field Office'
     - 'Tiny Polygala'
     - 'Vermilion Darter'

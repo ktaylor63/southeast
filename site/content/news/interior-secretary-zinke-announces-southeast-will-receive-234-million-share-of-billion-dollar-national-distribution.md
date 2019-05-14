@@ -12,7 +12,7 @@ tags:
     - Arkansas
     - Florida
     - Georgia
-    - Grant
+    - Grants
     - Kentucky
     - Louisiana
     - Mississippi

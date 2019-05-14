@@ -8,11 +8,10 @@ hero:
     name: sue-cameron-mist-net.jpg
     alt: 'A woman in chest waiters standing in a stream reaches out to touch a mist net'
     caption: 'Service biologist Sue Cameron helps set up a mist net. <a href="https://flic.kr/p/8ttnuJ">Photo</a> by Gary Peeples, USFWS.'
-    link: 'https://flic.kr/p/8ttnuJ'
     position: '30% 53%'
 tags:
     - 'Asheville Ecological Services Field Office'
-    - Bat
+    - Bats
     - 'Davidson River'
     - 'North Carolina'
     - Podcast

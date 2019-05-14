@@ -3,9 +3,8 @@ title: 'Additional information on petitioned turtles, salamanders, snakes, a ski
 url: /endangered-species-act/90-day-finding/june-2015-batch
 hero:
     name: pigeon-mountain-salamander.jpg
-    link: 'https://flic.kr/p/eLEEwc'
     alt: 'A brownish-yellow salamander sanding on a mossy rock with large round eyes.'
-    caption: 'The Pigeon Mountain salamander is no longer at-risk of needing federal protection. Photo by John P. Clare, CC BY-NC-ND 2.0.'
+    caption: 'The Pigeon Mountain salamander is no longer at-risk of needing federal protection. <a href="https://flic.kr/p/eLEEwc">Photo</a> by John P. Clare, CC BY-NC-ND 2.0.'
 date: '2015-06-25'
 tags:
     - '90-Day Finding'
@@ -23,9 +22,9 @@ tags:
     - 'Petition Finding'
     - 'Pigeon Mountain Salamander'
     - 'Rim Rock Crowned Snake'
-    - 'Southern Hog-Nosed Snake'
+    - 'Southern Hognose Snake'
     - 'Spotted Turtle'
-    - 'Weller''s Salamander'
+    - 'Wellers Salamander'
     - 'Wingtail Crayfish'
 updated: 'October 27th, 2017'
 ---

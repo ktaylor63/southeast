@@ -8,10 +8,9 @@ hero:
     name: indiana-bat-resting.jpg
     alt: 'A furry, brown bat resting in the crevace of a cave.'
     caption: 'Hibernating Indiana bat (<em>Myotis sodalis</em>). <a href="https://flic.kr/p/9wSKga">Photo</a> by Ann Froschauer,  USFWS.'
-    link: 'https://flic.kr/p/9wSKga'
 tags:
     - 'Asheville Ecological Services Field Office'
-    - Bat
+    - Bats
     - Podcast
     - 'Southern Appalachian Creature Feature'
     - Tennessee

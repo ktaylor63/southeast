@@ -4,11 +4,10 @@ date: '2009-11-05'
 hero:
     name: cindy-dohner-dale-bumpers-renaming.jpg
     alt: 'A woman standing behind a podium with the USFWS shield delivers a speech.'
-    link: 'https://flic.kr/p/nhHAVt'
-    caption: 'Cindy Dohner. Photo by John Stark, USFWS.'
+    caption: 'Southeast Regional Director, Cindy Dohner. <a href="https://flic.kr/p/nhHAVt">Photo</a> by John Stark, USFWS.'
 tags:
     - Director
-    - 'Regional Office'
+    - 'Southeast Regional Office'
 updated: 'January 3rd, 2018'
 ---
 

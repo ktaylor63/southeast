@@ -5,12 +5,11 @@ nav: Internships
 weight: 2
 tags:
     - 'Work With Us'
-    - Internships
+    - Internship
 hero:
     name: tissue-sample-biologist-with-intern.jpg
     alt: 'Biologist and intern hover over a table to collect tissue samples by headlamp'
-    link: 'https://flic.kr/p/abbiiz'
-    caption: 'An intern works alongside a Service biologist to take a tissue sample of a bat. Photo by Gary Peeples, USFWS.'
+    caption: 'An intern works alongside a Service biologist to take a tissue sample of a bat. <a href="https://flic.kr/p/abbiiz">Photo</a> by Gary Peeples, USFWS.'
 updated: 'November 8th, 2016'
 ---
 

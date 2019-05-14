@@ -7,11 +7,10 @@ author: 'Gary Peeples'
 hero:
     name: bats-flying-in-formation.jpg
     alt: 'Thousands of bats flying together at dusk.'
-    caption: 'Bats flying. Photo by Ann Froschauer, USFWS.'
-    link: 'https://flic.kr/p/fkPcBX'
+    caption: 'Bats flying. <a href="https://flic.kr/p/fkPcBX">Photo</a> by Ann Froschauer, USFWS.'
 tags:
     - 'Asheville Ecological Services Field Office'
-    - Bat
+    - Bats
     - 'North Carolina'
     - 'Pisgah National Forest'
     - Podcast

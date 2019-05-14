@@ -8,11 +8,10 @@ hero:
     name: little-brown-bat-white-nose-syndrome.jpg
     alt: 'A fuzzy bat bearing its teeth with white fungus covering its face.'
     caption: 'Little brown bat from Avery County with White Nose Syndrome. <a href="https://flic.kr/p/9gLJak">Photo</a> by Gabrielle Graeter, NCWRC.'
-    link: 'https://flic.kr/p/9gLJak'
     position: '50% 40%'
 tags:
     - 'Asheville Ecological Services Field Office'
-    - Bat
+    - Bats
     - 'Gray Bat'
     - 'Indiana Bat'
     - Kentucky

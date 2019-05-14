@@ -10,8 +10,7 @@ tags:
 hero:
     name: greater-saint-croix-skink.jpg
     alt: 'A small amphibian with a striped back.'
-    link: 'http://www.biologicaldiversity.org/resourcespace/?c=358&k=6567902dc8'
-    caption: 'Greater St. Croix skink (<em>Spondylurus magnacruzae</em>). Photo by A. J. Meier.'
+    caption: 'Greater St. Croix skink (<em>Spondylurus magnacruzae</em>). <a href="http://www.biologicaldiversity.org/resourcespace/?c=358&k=6567902dc8">Photo</a> by A. J. Meier.'
 updated: 'October 26th, 2016'
 ---
 

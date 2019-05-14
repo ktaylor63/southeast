@@ -4,7 +4,7 @@ date: '2017-09-10'
 tags:
     - Alabama
     - Florida
-    - Georiga
+    - Georgia
     - Gulf
     - Hurricane
     - 'Hurricane Irma'
@@ -18,8 +18,7 @@ tags:
 hero:
     name: irma-2017-09-10.jpg
     alt: 'A swirling cloud mass south of Florida.'
-    caption: 'Hurricane Irma from space. Satellite image by NOAA/NASA.'
-    link: 'https://www.nasa.gov/sites/default/files/thumbnails/image/image_2_-irma-goes-9917.jpg'
+    caption: 'Hurricane Irma from space. <a href="https://www.nasa.gov/sites/default/files/thumbnails/image/image_2_-irma-goes-9917.jpg">Satellite image</a> by NOAA/NASA.'
 updated: 'September 14th, 2017'
 ---
 

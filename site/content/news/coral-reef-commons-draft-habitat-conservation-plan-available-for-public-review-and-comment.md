@@ -3,13 +3,12 @@ title: 'Coral reef commons draft habitat conservation plan available for public 
 hero:
     name: elkhorn-coral-spawning.jpg
     alt: 'Tree-like coral under what looks like snow from spawning coral.'
-    caption: 'Elkhorn coral spawning. Photo by Brett Seymore, National Park Service.'
-    link: 'https://flic.kr/p/oyiJkQ'
+    caption: 'Elkhorn coral spawning. <a href="https://flic.kr/p/oyiJkQ">Photo</a> by Brett Seymore, National Park Service.'
     position: bottom
 date: '2017-03-23'
 tags:
     - Florida
-    - 'Vero Beach'
+    - 'Vero Beach Ecological Services Field Office'
 updated: 'January 3rd, 2018'
 ---
 

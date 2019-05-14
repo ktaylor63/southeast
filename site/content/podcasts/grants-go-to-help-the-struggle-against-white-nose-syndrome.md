@@ -7,7 +7,6 @@ author: 'Gary Peeples'
 hero:
     name: virginia-long-eared-bat-cluster.jpg
     alt: 'Dozens of brown bats with long ears attached to the roof of a cave in a cluster.'
-    link: 'https://flic.kr/p/dYNtiL'
     caption: 'Cluster of Virginia big-eared bats (<em>Corynorhinus townsendii virginianus</em>). <a href="https://flic.kr/p/dYNtiL">Photo</a> by Dave Riggs, CC BY-SA 2.0.'
 tags:
     - 'Asheville Ecological Services Field Office'
@@ -19,7 +18,7 @@ tags:
     - 'Southern Appalachian Creature Feature'
     - 'Townsends Big-Eared Bat'
     - Virginia
-    - 'Virginia Long-Eared Bat'
+    - 'Virginia Big-Eared Bat'
     - 'White Nose Syndrome'
 updated: 'August 8th, 2018'
 ---

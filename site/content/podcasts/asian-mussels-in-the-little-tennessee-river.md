@@ -7,7 +7,6 @@ author: 'Gary Peeples'
 hero:
     name: asian-clam.jpg
     alt: 'A brownish/gold clam with horizontal striations.'
-    link: 'https://flic.kr/p/HW3Eaf'
     caption: 'Asian clam (<em>Corbicula fluminea</em>). <a href="https://flic.kr/p/HW3Eaf">Photo</a> by Derek Hudgins, CC BY-SA 2.0.'
     position: '60% 55%'
 tags:
@@ -17,7 +16,7 @@ tags:
     - Corbicula
     - 'Invasive Species'
     - 'Little Tennessee River'
-    - 'Littlewing Pearly Mussel'
+    - 'Littlewing Pearlymussel'
     - 'North Carolina'
     - Podcast
     - 'Southern Appalachian Creature Feature'

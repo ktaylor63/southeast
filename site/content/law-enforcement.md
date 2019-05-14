@@ -4,13 +4,12 @@ Description: 'The U.S. Fish and Wildlife Service enforces federal wildlife laws 
 aliases:
     - /law
 tags:
-    - 'About Us'
+    - About
     - 'Law Enforcement'
 hero:
     name: wildlife-trafficking.jpg
     alt: 'Shelves upon shelves of confiscated wildlife parts from big cats including tigers and leopards.'
-    link: 'https://flic.kr/p/qFSVJ4'
-    caption: 'Illegal wildlife property, heads of cats. Photo by Ryan Moehring, USFWS.'
+    caption: 'Illegal wildlife property, heads of cats. <a href="https://flic.kr/p/qFSVJ4">Photo</a> by Ryan Moehring, USFWS.'
 updated: 'June 13th, 2017'
 ---
 

@@ -4,8 +4,7 @@ date: 2018-05-07T00:00:00.000Z
 hero:
     name: pynes-ground-plum.jpg
     alt: 'A low growing shrub with bright purple flowers.'
-    link: 'https://flic.kr/p/cxnX8s'
-    caption: 'Endangered Pyne&rsquo;s ground-plum. Photo by NPS.'
+    caption: 'Endangered Pyne&rsquo;s ground-plum. <a href="https://flic.kr/p/cxnX8s">Photo</a> by NPS.'
 tags:
     - 'Aboriginal Prickly-Apple'
     - 'Alabama Ecological Services Field Office'
@@ -42,7 +41,7 @@ tags:
     - 'Panama City Ecological Services Field Office'
     - 'Persistent Trilliu'
     - 'Pygmy Sculpin'
-    - 'Pynes Groundplum'
+    - 'Pynes ground-plum'
     - 'Raleigh Ecological Services Field Office'
     - 'Ringed Map Turtle'
     - 'Slackwater Darter'

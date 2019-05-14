@@ -4,8 +4,7 @@ date: '2017-10-10'
 hero:
     name: key-deer-after-prescribed-burn.jpg
     alt: 'A small deer with velvet covered antlers in a recently burned forest.'
-    link: 'https://flic.kr/p/8znoym'
-    caption: 'A Key deer in velvet. Photo by USFWS.'
+    caption: 'A Key deer in velvet. <a href="https://flic.kr/p/8znoym">Photo</a> by USFWS.'
 tags:
     - 'Endangered Species Act'
     - Florida
@@ -15,7 +14,7 @@ tags:
     - 'Hurricane Irma'
     - 'Key Deer'
     - 'National Key Deer Refuge'
-    - 'Vero Beach'
+    - 'Vero Beach Ecological Services Field Office'
 updated: 'October 10th, 2017'
 ---
 

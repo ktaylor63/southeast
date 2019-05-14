@@ -4,8 +4,7 @@ date: 2017-09-22T00:00:00.000Z
 hero:
     name: key-deer-dehydrated-after-irma.jpg
     alt: 'A small deer with two small emerging antlers lays on a slab of concrete while taking a drink of water from plastic tupperware.'
-    caption: 'A dehydrated Key deer drinks water provided by USFWS at National Key Deer Refuge. Photo by Dan Chapman, USFWS.'
-    link: 'https://flic.kr/p/YinqN5'
+    caption: 'A dehydrated Key deer drinks water provided by USFWS at National Key Deer Refuge. <a href="https://flic.kr/p/YinqN5">Photo</a> by Dan Chapman, USFWS.'
     position: 'center left'
 tags:
     - 'Endangered Species Act'
@@ -16,7 +15,7 @@ tags:
     - 'Hurricane Irma'
     - 'Key Deer'
     - 'National Key Deer Refuge'
-    - 'Vero Beach'
+    - 'Vero Beach Ecological Services Field Office'
 updated: 'November 15th, 2018'
 ---
 

@@ -6,12 +6,11 @@ lng: -87.815493
 hero:
     name: bon-secour-nwr-dunes.jpg
     alt: 'Vegetation grows out of sand dunes at the beach.'
-    caption: 'Dunes on Perdue Unit at Bon Secour National Wildlife Refuge. Photo by USFWS.'
-    link: 'https://flic.kr/p/eyRz9F'
+    caption: 'Dunes on Perdue Unit at Bon Secour National Wildlife Refuge. <a href="https://flic.kr/p/eyRz9F">Photo</a> by USFWS.'
 tags:
     - 'Deepwater Horizon Oil Spill'
     - Gulf
-    - 'Monarch Butterfly'
+    - Monarch
 date: '2017-05-18'
 updated: 'June 6th, 2017'
 ---

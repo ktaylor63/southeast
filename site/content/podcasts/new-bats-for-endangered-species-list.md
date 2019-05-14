@@ -8,11 +8,10 @@ hero:
     name: eastern-small-footed-bat.jpg
     alt: 'A river runs through a valley in fall.'
     caption: 'Eastern small-footed bat. <a href="https://flic.kr/p/abeauh">Photo</a> by Gary Peeples, USFWS.'
-    link: 'https://flic.kr/p/abeauh'
     position: '50% 30%'
 tags:
     - 'Asheville Ecological Services Field Office'
-    - Bat
+    - Bats
     - 'Eastern Small-Footed Bat'
     - 'North Carolina'
     - 'Northern Long-Eared Bat'

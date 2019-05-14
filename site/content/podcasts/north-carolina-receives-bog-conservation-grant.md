@@ -7,18 +7,17 @@ transcript: /audio/transcripts/creature-feature/north-carolina-gets-grant-for-bo
 hero:
     name: white-fringeless-orchid-patch.jpg
     alt: 'Tall stems extending from the forest floor give way to bright white dangling flowers.'
-    link: 'https://flic.kr/p/pzwd9s'
-    caption: 'White fringeless orchid. Photo by USFWS.'
+    caption: 'White fringeless orchid. <a href="https://flic.kr/p/pzwd9s">Photo</a> by USFWS.'
 tags:
     - 'Appalachian Elktoe'
     - 'Asheville Ecological Services Field Office'
     - 'Endangered Species Act'
     - 'North Carolina'
-    - Plants
+    - Plant
     - Podcast
     - Recovery
     - 'Southern Appalachian Creature Feature'
-    - 'Sportfin Chub'
+    - 'Spotfin Chub'
     - 'Virginia Spiraea'
     - 'White-Fringeless Orchid'
 updated: 'August 8th, 2018'

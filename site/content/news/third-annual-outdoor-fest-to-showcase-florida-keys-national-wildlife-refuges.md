@@ -6,13 +6,12 @@ date: '2018-02-15'
 hero:
     name: great-white-hero-nwr-outdoor-fest.jpg
     alt: 'A beautiful sunset on the water with three kayaks one with a dog on board.'
-    link: 'https://flic.kr/p/DGCWKc'
-    caption: 'Participants enjoy FAVOR’s monthly Full Moon Kayak adventure, a trip that goes north into Great White Heron National Wildlife Refuge.  Photo by Mary Lou Dickson.'
+    caption: 'Participants enjoy FAVOR’s monthly Full Moon Kayak adventure, a trip that goes north into Great White Heron National Wildlife Refuge.  <a href="https://flic.kr/p/DGCWKc">Photo</a> by Mary Lou Dickson.'
 tags:
     - 'Crocodile Lake National Wildlife Refuge'
     - Festival
     - Florida
-    - 'Florida Keys National Wildlife Refuges'
+    - 'Florida Keys National Wildlife Refuges Complex'
     - 'Great White Heron National Wildlife Refuge'
     - 'Key West National Wildlife Refuge'
     - 'National Key Deer Refuge'

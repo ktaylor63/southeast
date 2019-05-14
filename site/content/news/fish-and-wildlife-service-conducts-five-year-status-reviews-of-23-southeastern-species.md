@@ -7,7 +7,7 @@ tags:
     - 'Amber Darter'
     - 'Anthonys Riversnail'
     - Arkansas
-    - 'Asheville Ecological Service Field Office'
+    - 'Asheville Ecological Services Field Office'
     - 'Bluemask Darter'
     - 'Bunched Arrowhead'
     - 'Cahaba Shiner'
@@ -20,7 +20,7 @@ tags:
     - 'Mississippi Gopher Frog'
     - 'Mountain Sweet Pitcher Plant'
     - 'North Carolina'
-    - 'Saint Francis Satyr Butterfly'
+    - 'Saint Francis Satyr'
     - 'Spring Creek Bladderpod'
     - 'Tar River Spinymussel'
     - 'Tar River Spinymussel'
@@ -30,8 +30,7 @@ tags:
 hero:
     name: etowah-darter.jpg
     alt: 'A small brown fish caught in a stream sitting in a plastic bin for measurement.'
-    link: 'https://flic.kr/p/8SkfaF'
-    caption: 'Endangered Etowah darter. Photo by USFWS.'
+    caption: 'Endangered Etowah darter. <a href="https://flic.kr/p/8SkfaF">Photo</a> by USFWS.'
 updated: 'August 27th, 2018'
 ---
 

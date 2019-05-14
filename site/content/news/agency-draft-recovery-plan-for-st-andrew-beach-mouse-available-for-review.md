@@ -4,14 +4,13 @@ date: '2009-04-22'
 hero:
     name: st-joseph-peninsula-state-park.jpg
     alt: 'Grassy vegetation emerges from coastal beach dunes.'
-    link: 'https://flic.kr/p/6XFugq'
-    caption: 'Beach mouse habitat at St. Joseph Peninsula State Park. Photo by <a href="https://www.flickr.com/photos/steverob50pics/">Steve Robinson</a> <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/legalcode">CC BY-NC-ND 2.0</a>.'
+    caption: 'Beach mouse habitat at St. Joseph Peninsula State Park. <a href="https://flic.kr/p/6XFugq">Photo</a> by <a href="https://www.flickr.com/photos/steverob50pics/">Steve Robinson</a> <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/legalcode">CC BY-NC-ND 2.0</a>.'
 tags:
     - 'Endangered Species Act'
     - Florida
     - 'Panama City Ecological Services Field Office'
     - Recovery
-    - 'St. Andrew Beach Mouse'
+    - 'St Andrew Beach Mouse'
 updated: 'November 15th, 2018'
 ---
 

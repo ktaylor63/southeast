@@ -3,8 +3,7 @@ title: 'Fish and Wildlife Service conducts five-year status reviews of 10 Southe
 hero:
     name: sandhill-crane-with-chick.jpg
     alt: 'A gray bird with bright red spot on its face with a small, furry, beige chick.'
-    link: 'https://flic.kr/p/vtL1sE'
-    caption: 'Sandhill crane and chick.  Photo by <a href=\"https://www.flickr.com/photos/thebackroadphotogragher/\" target=\"_blank\">The Back Road Photographer</a>, <a href=\"https://creativecommons.org/licenses/by-nc/2.0/\" target=\"_blank\">CC BY-NC 2.0.</a>'
+    caption: 'Sandhill crane and chick. <a href="https://flic.kr/p/vtL1sE">Photo</a> by <a href=\"https://www.flickr.com/photos/thebackroadphotogragher/\" target=\"_blank\">The Back Road Photographer</a>, <a href=\"https://creativecommons.org/licenses/by-nc/2.0/\" target=\"_blank\">CC BY-NC 2.0.</a>'
 date: '2010-04-09'
 tags:
     - Alabama

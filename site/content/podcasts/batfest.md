@@ -7,12 +7,11 @@ author: 'Gary Peeples'
 hero:
     name: trio-of-tri-colored-bats.jpg
     alt: 'Three furry bats hang from the wet ceiling of a cave.'
-    link: 'https://flic.kr/p/GgfnBC'
     caption: 'Trio of tri-colored bats covered in dew. <a href="https://flic.kr/p/GgfnBC">Photo</a> by Gary Peeples, USFWS.'
     position: '75% 5%'
 tags:
     - 'Asheville Ecological Services Field Office'
-    - Bat
+    - Bats
     - 'North Carolina'
     - Podcast
     - 'Southern Appalachian Creature Feature'

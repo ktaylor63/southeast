@@ -4,13 +4,12 @@ description: 'Are you a backyard birder or interested in backyard birding?  Here
 nav: Birds
 weight: 1
 tags:
-    - Birds
+    - Bird
     - 'Backyard Habitat'
 hero:
     name: birding-sue-cameron.jpg
     alt: 'A woman dressed in warm clothes in a field with tall grass looks through binoculars.'
-    link: 'https://flic.kr/p/bokTbs'
-    caption: 'Service biologist Sue Cameron searches for birds. Photo by Gary Peeples, USFWS.'
+    caption: 'Service biologist Sue Cameron searches for birds. <a href="https://flic.kr/p/bokTbs">Photo</a> by Gary Peeples, USFWS.'
 updated: 'November 8th, 2016'
 ---
 

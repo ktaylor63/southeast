@@ -4,14 +4,13 @@ date: 2016-10-05
 hero:
     name: louisiana-pinesnake.jpg
     alt: 'A patterned black and gray snake blends in to the strewn, dark pine needles on the forest floor.'
-    caption: 'Louisiana pinesnake. Photo by Michael Sealy, USFWS.'
-    link: 'https://flic.kr/p/nuR7pW'
+    caption: 'Louisiana pinesnake. <a href="https://flic.kr/p/nuR7pW">Photo</a> by Michael Sealy, USFWS.'
 tags:
     - 'Endangered Species Act'
     - 'Longleaf Pine'
     - Louisiana
     - 'Louisiana Ecological Services Field Office'
-    - 'Louisiana Pinsnake'
+    - 'Louisiana Pinesnake'
     - Texas
 updated: 'May 7th, 2018'
 ---

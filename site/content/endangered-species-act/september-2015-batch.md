@@ -4,7 +4,7 @@ date: '2015-09-17'
 url: /endangered-species-act/90-day-finding/september-2015-batch
 tags:
     - '90-Day Finding'
-    - 'At-Risk Speices'
+    - 'At-Risk Species'
     - 'Blue Calamintha Bee'
     - 'Cahaba Pebblesnail'
     - 'Endangered Species Act'
@@ -16,8 +16,7 @@ tags:
 hero:
     name: rusty-patched-bumble-bee.jpg
     alt: 'A yellow and black bumble bee perched on a white flower.'
-    link: 'https://flic.kr/p/cN9ZnJ'
-    caption: 'Rusty-patched bumble bee (<em>Bombus affinis</em>).  Photo by <a href=\"https://www.flickr.com/photos/8583446@N05/\" target=\"_blank\">Dan Mullen</a>, <a href=\"https://creativecommons.org/licenses/by-nc-nd/2.0/\" target=\"_blank\">CC BY-NC-ND 2.0</a>.'
+    caption: 'Rusty-patched bumble bee (<em>Bombus affinis</em>).  <a href="https://flic.kr/p/cN9ZnJ">Photo</a> by <a href=\"https://www.flickr.com/photos/8583446@N05/\" target=\"_blank\">Dan Mullen</a>, <a href=\"https://creativecommons.org/licenses/by-nc-nd/2.0/\" target=\"_blank\">CC BY-NC-ND 2.0</a>.'
 updated: 'October 27th, 2017'
 ---
 

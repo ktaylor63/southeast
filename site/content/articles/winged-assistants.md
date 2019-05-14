@@ -6,12 +6,11 @@ type: feature
 hero:
     name: bats-flying-in-formation.jpg
     alt: 'Thousands of bats flying together at dusk.'
-    caption: 'Bats flying. Photo by Ann Froschauer, USFWS.'
-    link: 'https://flic.kr/p/fkPcBX'
+    caption: 'Bats flying. <a href="https://flic.kr/p/fkPcBX">Photo</a> by Ann Froschauer, USFWS.'
 date: '2017-11-09'
 tags:
     - Agriculture
-    - Bat
+    - Bats
     - 'Bat Week'
     - Biopesticide
     - Organic

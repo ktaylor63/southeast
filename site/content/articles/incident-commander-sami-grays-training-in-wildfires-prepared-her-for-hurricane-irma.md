@@ -8,8 +8,7 @@ date: '2017-10-16'
 hero:
     name: sami-gray-incident-commander.jpg
     alt: 'A team of USFWS employees gather in a circle for directions from Incident Commander Sami Gray.'
-    caption: 'Incident commander Sami Gray holds a morning briefing. Photo by Dan Chapman, USFWS.'
-    link: 'https://flic.kr/p/YEBW4W'
+    caption: 'Incident commander Sami Gray holds a morning briefing. <a href="https://flic.kr/p/YEBW4W">Photo</a> by Dan Chapman, USFWS.'
 type: feature
 tags:
     - Florida
@@ -19,7 +18,7 @@ tags:
     - Mississippi
     - 'Mississippi Sandhill Crane National Wildlife Refuge'
     - 'National Key Deer Refuge'
-    - 'Southeast Louisiana Refuges Complex'
+    - 'Southeast Louisiana National Wildlife Refuges Complex'
 updated: 'December 28th, 2017'
 ---
 

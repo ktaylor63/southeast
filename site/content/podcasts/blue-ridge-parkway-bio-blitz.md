@@ -7,11 +7,10 @@ date: 2015-08-10T00:00:00.000Z
 hero:
     name: blue-ridge-parkway.jpg
     alt: 'A colorful fall scene with a road cutting through.'
-    link: 'https://flic.kr/p/jf9HmE'
     caption: 'Lynn Cove Viaduct, Blue Ridge Parkway, North Carolina. <a href="https://flic.kr/p/jf9HmE">Photo</a> by Matthew Paulson, CC BY-NC-ND 2.0.'
 tags:
     - 'Asheville Ecological Services Field Office'
-    - BioBlitz
+    - 'Bio Blitz'
     - 'North Carolina'
     - Podcast
     - 'Southern Appalachian Creature Feature'

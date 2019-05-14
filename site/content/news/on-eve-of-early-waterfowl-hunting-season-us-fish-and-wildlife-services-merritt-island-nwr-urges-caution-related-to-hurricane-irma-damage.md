@@ -5,14 +5,13 @@ date: '2017-09-15'
 hero:
     name: waterfowl-over-pond.jpg
     alt: 'Hundreds of birds flying over a wetland.'
-    caption: 'Waterfowl over ponds. Photo by Kathy Landini, USDA.'
-    link: 'https://flic.kr/p/VWs7RD'
+    caption: 'Waterfowl over ponds. <a href="https://flic.kr/p/VWs7RD">Photo</a> by Kathy Landini, USDA.'
 tags:
     - Florida
     - Hunting
     - Hurricane
     - 'Hurricane Irma'
-    - 'Merrit Island National Wildlife Refuge'
+    - 'Merritt Island National Wildlife Refuge'
     - 'National Wildlife Refuge System'
     - Waterfowl
 updated: 'September 15th, 2017'

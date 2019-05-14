@@ -7,7 +7,6 @@ author: 'Gary Peeples'
 hero:
     name: lampsilis-conservation-aquaculture-center.jpg
     alt: 'Mussels being cultivated in the lab'
-    link: 'https://flic.kr/p/onF28g'
     caption: 'Lampsilis mussels at the NCWRC’s Conservation Aquaculture Center. <a href="https://flic.kr/p/onF28g">Photo</a> by Gary Peeples, USFWS.'
     position: '50% 40%'
 tags:
@@ -18,7 +17,7 @@ tags:
     - 'North Carolina Conservation Aquaculture Center'
     - Podcast
     - 'Southern Appalachian Creature Feature'
-    - 'Sportfin Chub'
+    - 'Spotfin Chub'
 updated: 'August 8th, 2018'
 ---
 

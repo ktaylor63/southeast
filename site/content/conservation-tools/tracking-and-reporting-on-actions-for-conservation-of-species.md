@@ -3,12 +3,11 @@ title: 'Tracking and Reporting on Actions for Conservation of Species (TRACS)'
 hero:
     name: tracs-map.jpg
     alt: 'A map of the continental USA showing projects funded by the USFWS.'
-    caption: 'An map of projects entered into TRACS from the website.'
-    link: 'https://tracs.fws.gov/public/map/'
+    caption: 'An map of projects entered into <a href="https://tracs.fws.gov/public/map/">TRACS</a> from the website.'
 tags:
     - 'Data Management'
     - Science
-    - WSFR
+    - 'Wildlife and Sport Fish Restoration'
 updated: 'March 10th, 2017'
 ---
 

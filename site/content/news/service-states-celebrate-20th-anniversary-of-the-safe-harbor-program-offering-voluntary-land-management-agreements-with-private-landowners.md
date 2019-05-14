@@ -4,8 +4,7 @@ date: '2015-11-06'
 hero:
     name: red-cockaded-woodpecker-flying.jpg
     alt: 'Red-cockaded woodpecker flying from its nest.'
-    link: 'https://flic.kr/p/fF5CiY'
-    caption: 'Red-cockaded woodpecker. Photo by Martjan Lammertink, U.S. Forest Service.'
+    caption: 'Red-cockaded woodpecker. <a href="https://flic.kr/p/fF5CiY">Photo</a> by Martjan Lammertink, U.S. Forest Service.'
 tags:
     - Alabama
     - Florida
@@ -14,7 +13,7 @@ tags:
     - 'Louisiana Ecological Services Field Office'
     - 'North Carolina'
     - 'Red-Cockaded Woodpecker'
-    - 'Safe Harbor'
+    - 'Safe Harbor Agreement'
     - 'South Carolina'
     - 'South Carolina Ecological Services Field Office'
 updated: 'May 7th, 2018'

@@ -4,8 +4,7 @@ subtitle: 'Process marks new approach to land conservation; proposal includes ne
 hero:
     name: everglades-headwaters-proposed-nwr.jpg
     alt: 'A grassy low-lying area under a bright blue sky.'
-    link: 'https://flic.kr/p/aQXCVK'
-    caption: 'Everglades Headwater Proposed National Wildlife Refuge.  Photo by USFWS.'
+    caption: 'Everglades Headwater Proposed National Wildlife Refuge. <a href="https://flic.kr/p/aQXCVK">Photo</a> by USFWS.'
 date: '2011-01-07'
 tags:
     - Florida

@@ -6,8 +6,7 @@ lng: -81.357163
 hero:
     name: irma-key-deer-refuge-salinity.jpg
     alt: 'An USFWS employee in uniform looks at a small screen to register the salinity level of a small pond.'
-    caption: 'Chris Eggleston, project leader at the Southwest Louisiana NWR Complex tests salinity levels on the National Key Deer Refuge. Photo by Dan Chapman, USFWS.'
-    link: 'https://flic.kr/p/YDdxvy'
+    caption: 'Chris Eggleston, project leader at the Southwest Louisiana NWR Complex tests salinity levels on the National Key Deer Refuge. <a href="https://flic.kr/p/YDdxvy">Photo</a> by Dan Chapman, USFWS.'
     position: 'center left'
 tags:
     - Florida
@@ -17,7 +16,7 @@ tags:
     - 'Hurricane Irma'
     - 'Key Deer'
     - 'National Key Deer Refuge'
-    - 'Vero Beach'
+    - 'Vero Beach Ecological Services Field Office'
 updated: 'January 3rd, 2018'
 ---
 

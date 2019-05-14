@@ -3,14 +3,12 @@ title: 'Recovery progress for the American chaffseed'
 hero:
     name: american-chaffseed.jpg
     alt: 'Fuzzy yellow and purple flowers emerging from a green grass-like stalk.'
-    link: 'https://flic.kr/p/JioDEh'
-    caption: 'American chaffseed © Robert Sincliar. Copyright release form S://EA/Photo Permissions/american-chaffseed.pdf'
+    caption: 'American chaffseed. <a href="https://flic.kr/p/JioDEh">Photo</a> © Robert Sincliar. Copyright release form S://EA/Photo Permissions/american-chaffseed.pdf'
     position: 'top center'
 type: 'Bragging Rights'
 tags:
     - 'American Chaffseed'
     - 'Bragging Rights'
-    - Charleston
     - E-Grits
     - 'Endangered Species Act'
     - 'Partners for Fish and Wildlife Program'

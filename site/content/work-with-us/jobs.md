@@ -12,11 +12,10 @@ js: /js/jobs.js
 hero:
     name: seigning-stream.jpg
     alt: 'Two biologists handling a seign net in ankle deep water make a splash as they try to catch fish.'
-    link: 'https://flic.kr/p/HZgAJQ'
-    caption: 'Biologists run a seine through a remnant pool to catch fish and move them to the new channel. Photo by Gary Peeples, USFWS.'
+    caption: 'Biologists run a seine through a remnant pool to catch fish and move them to the new channel. <a href="https://flic.kr/p/HZgAJQ">Photo</a> by Gary Peeples, USFWS.'
     position: 'center right'
 tags:
-    - Jobs
+    - Job
 type: no-scrollnav
 updated: 'November 17th, 2016'
 ---

@@ -7,11 +7,10 @@ author: 'Gary Peeples'
 hero:
     name: white-nose-syndrome-tri-color.jpg
     alt: 'A small brown bat on the roof of a cave with a fuzzy white fungus on its nose.'
-    link: 'https://flic.kr/p/9gLJmB'
-    caption: 'A tri-color bat in the Avery County with white-nose syndrome. Photo by Gabrielle Graeter, NCWRC.'
+    caption: 'A tri-color bat in the Avery County with white-nose syndrome. <a href="https://flic.kr/p/9gLJmB">Photo</a> by Gabrielle Graeter, NCWRC.'
 tags:
     - 'Asheville Ecological Services Field Office'
-    - Bat
+    - Bats
     - 'North Carolina'
     - Podcast
     - 'Southern Appalachian Creature Feature'

@@ -5,10 +5,9 @@ date: 2018-05-25T00:00:00.000Z
 hero:
     name: roseate-spoonbills-louisiana.jpg
     alt: 'Small pink birds with rounded bills wade through the shallow water.'
-    caption: 'Roseate Spoonbills out in the water. Photo by Corey Douglas.'
-    link: 'https://flic.kr/p/bucd7F'
+    caption: 'Roseate spoonbills out in the water. <a href="https://flic.kr/p/bucd7F">Photo</a> by Corey Douglas.'
 tags:
-    - BioBlitz
+    - 'Bio Blitz'
     - E-Grits
     - Inaturalist
     - 'Inventory and Monitoring'

@@ -4,12 +4,11 @@ date: '2015-09-28'
 tags:
     - 'Endangered Species Act'
     - Florida
-    - 'Vero Beach'
+    - 'Vero Beach Ecological Services Field Office'
 hero:
     name: pine-rockland-habitat.jpg
     alt: 'Very sandy soil with sparse grassy vegetation and short palms.'
-    link: 'https://flic.kr/p/Ce3mzn'
-    caption: 'Pine rockland habitat in Florida. Photo by Jonathon Mays, FWC.'
+    caption: 'Pine rockland habitat in Florida. <a href="https://flic.kr/p/Ce3mzn">Photo</a> by Jonathon Mays, FWC.'
 updated: 'January 3rd, 2018'
 ---
 

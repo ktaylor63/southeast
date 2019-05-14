@@ -5,8 +5,7 @@ js: /js/ccp.js
 hero:
     name: mountain-sweet-pitcher-plant-henderson-county.jpg
     alt: 'Bright red flowers emerge from a bog with a forest in the background.'
-    caption: 'Mountain sweet pitcher plant patch in Butt CPA. Photo by Gary Peeples, USFWS.'
-    link: 'https://flic.kr/p/H3SC2u'
+    caption: 'Mountain sweet pitcher plant patch in Butt CPA. <a href="https://flic.kr/p/H3SC2u">Photo</a> by Gary Peeples, USFWS.'
     position: 'bottom center'
 aliases:
     - /planning
@@ -27,7 +26,7 @@ aliases:
     - /planning/WorkingKeyContactsTable.html
 tags:
     - 'Comprehensive Conservation Plan'
-    - 'Land Protection Plans'
+    - 'Land Protection Plan'
     - 'National Environmental Policy Act'
     - 'National Wildlife Refuge System'
     - 'National Wildlife Refuge System Improvement Act of 1997'

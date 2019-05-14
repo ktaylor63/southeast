@@ -14,12 +14,11 @@ tags:
     - 'Hurricane Irma'
     - 'Key Deer'
     - 'National Key Deer Refuge'
-    - 'Vero Beach'
+    - 'Vero Beach Ecological Services Field Office'
 hero:
     name: irma-cudjoe-key.jpg
     alt: 'Palm and mangrove trees snapped like twigs.'
-    caption: 'Damaged palm trees and mangroves on Cudjoe Key, Florida. Photo by Glenn Fawcett, U.S. Customs and Border Protection.'
-    link: 'https://flic.kr/p/XrQ6RB'
+    caption: 'Damaged palm trees and mangroves on Cudjoe Key, Florida. <a href="https://flic.kr/p/XrQ6RB">Photo</a> by Glenn Fawcett, U.S. Customs and Border Protection.'
 updated: 'January 3rd, 2018'
 ---
 
