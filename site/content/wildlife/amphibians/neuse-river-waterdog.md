@@ -104,7 +104,6 @@ Individuals can do a number of things to help protect freshwater species, includ
 - Conserving water to allow more water to remain in streams.
 - Using pesticides responsibly, especially around streams and lakes, to prevent runoff into mussel habitats.
 - Controlling soil erosion by planting trees and plants to avoid runoff of sediments into freshwater areas. 
-- Supporting practices for construction and maintenance of unpaved, rural dirt and gravel roads that minimize erosion and connectivity to our rivers and lakes.
 
 ## Partnerships, research and projects
 
