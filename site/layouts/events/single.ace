@@ -6,7 +6,7 @@
     {{ end }}
 
     h2 Date
-    p {{ dateFormat "Mon, January 2, 2006 15:04 EST" .Params.start }} - {{ dateFormat "Mon, January 2, 2006 15:04 EST" .Params.end }}
+    p {{ dateFormat "Monday, January 2, 2006 15:04" .Params.start }} {{ default "EST" .Params.timezone }} - {{ dateFormat "Monday, January 2, 2006 15:04" .Params.end }} {{ default "EST" .Params.timezone }}
 
     {{ .Content }}
 
