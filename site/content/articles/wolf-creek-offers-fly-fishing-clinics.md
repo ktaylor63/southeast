@@ -1,6 +1,6 @@
 ---
 title: 'Wolf Creek offers fly-fishing clinics'
-date: '2017-10-25'
+date: 2017-10-25T00:00:00.000Z
 author: 'Ashley Buffington, Wolf Creek National Fish Hatchery'
 hero:
     name: fly-fishing-clinic-at-wolf-creek.jpg
@@ -15,7 +15,7 @@ tags:
     - Kentucky
     - 'Wolf Creek National Fish Hatchery'
 type: 'Bragging Rights'
-updated: 'October 25th, 2017'
+updated: 'May 16th, 2019'
 ---
 
 On the second Saturday of each month, Kentucky’s [Wolf Creek National Fish Hatchery](https://www.fws.gov/wolfcreek) hosts a fly-fishing clinic that addresses an aspect of fly-fishing. In October, Rob Worthing of Tenkara Guides gave a presentation on the tenkara technique. Tenkara is an ancient Japanese fly-fishing method involving a rod, line, and single fly. The class provided hands-on instruction, with 15 participants learning how to rig, cast, catch and land fish with fixed line rods. It was a beautiful day for practicing casts on the lawn, for learning to steer the fish, and for tracing the fly in Hatchery Creek. 
