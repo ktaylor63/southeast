@@ -7,14 +7,13 @@ lng: -82.58925
 hero:
     name: manatees-grazing.jpg
     alt: 'Two florida manatees grazing on the rocky bottom of a lagoon.'
-    link: 'https://flic.kr/p/7ZmtnC'
-    caption: 'Florida manatees grazing. Photo by Jim Reid, USFWS.'
+    caption: 'Florida manatees grazing. <a href="https://flic.kr/p/7ZmtnC">Photo</a> by Jim Reid, USFWS.'
     position: 'bottom center'
 tags:
     - Florida
     - Manatee
     - 'Three Sisters Springs'
-updated: 'January 3rd, 2018'
+updated: 'May 15th, 2019'
 ---
 
 New long-term management steps are being proposed to address record numbers of manatees wintering in Three Sisters Springs and substantial increases in the number of people wanting to see these endangered animals in their natural habitat.

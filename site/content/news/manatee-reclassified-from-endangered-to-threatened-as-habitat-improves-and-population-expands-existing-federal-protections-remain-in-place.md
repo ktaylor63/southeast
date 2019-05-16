@@ -4,8 +4,7 @@ subtitle: 'Partnerships bringing giant sea cow back from brink of extinction'
 hero:
     name: manatees-crystal-river.jpg
     alt: 'Four manatees and a school of fish assemble under crystal clear water.'
-    caption: 'Manatees at <a href="https://www.fws.gov/refuge/crystal_river">Crystal River National Wildlife Refuge</a> in Florida. Photo by David Hinkel.'
-    link: 'https://flic.kr/p/8M7kX8'
+    caption: 'Manatees at <a href="https://www.fws.gov/refuge/crystal_river">Crystal River National Wildlife Refuge</a> in Florida. <a href="https://flic.kr/p/8M7kX8">Photo</a> by David Hinkel.'
 tags:
     - Alabama
     - 'Alabama Ecological Services Field Office'
@@ -25,7 +24,7 @@ tags:
     - 'South Carolina Ecological Services Field Office'
     - 'US Virgin Islands'
 date: 2017-03-30T00:00:00.000Z
-updated: 'February 19th, 2019'
+updated: 'May 15th, 2019'
 ---
 
 [Read the release in Spanish](/pdf/espanol/manatee-reclassified-from-endangered-to-threatened-as-habitat-improves-and-population-expands-existing-federal-protections-remain-in-place.pdf).
