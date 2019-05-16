@@ -1,4 +1,12 @@
 stories:
+  - title: "Frosted elfin: best served in frosted glass"
+    summary: "In May, First Magnitude will release a special beer brewed to coincide with the spring flight period of the frosted elfin, a small, brown butterfly whose population has declined across its historic range due to habitat loss."
+    date: 2019-05-15
+    url: "https://medium.com/usfishandwildlifeservicenortheast/frosted-elfin-best-served-in-frosted-glass-b13b8a0edcd5"
+    hero:
+      name: frosted-elfin.jpg
+      alt: "A small brown butterfly on the end of a cotton swab"
+      caption: "This frosted elfin provided some of the yeast used to ferment the eponymous beer produced by First Magnitude Brewery. Geena Hill/Florida Museum."
   - title: "Students, scientists release 89 lake sturgeon into the Tennessee River"
     summary: "Wednesday afternoon, under the curious scrutiny of onlookers gathered at the Coolidge Park boat ramp, Chattanooga students and scientists from the Tennessee Aquarium Conservation Institute carefully eased about 90 dinosaurs into the Tennessee River."
     date: 2019-04-12
