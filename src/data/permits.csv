@@ -599,7 +599,7 @@ number,status,fed_register
 75551C-0,Issued,Noticed for 30 days
 54578B-2,Issued,Noticed for 30 days
 63633A-5,Issued,Noticed for 30 days
-75560C-0,Awaiting signature,Noticed for 30 days
+75560C-0,Issued,Noticed for 30 days
 183402-1,Abandoned,Noticed for 30 days
 75578C-0,Awaiting Input from Applicant,N/A
 810274-12,Withdrawn,N/A
@@ -649,13 +649,13 @@ bio,In FO for Review,Noticed for 30 days
 041314-6,Awaiting Input from Applicant,Noticed for 30 days
 106005-4,Issued,N/A
 056510-6,Issued,N/A
-88796C-0,In RO for Review,Noticed for 30 days
+88796C-0,In FO for Review,Noticed for 30 days
 89030C-0,In FO for Review,Noticed for 30 days
 90236C-0,Issued,N/A
 171594-1,Issued,Noticed for 30 days
 91587C-0,Issued,N/A
 97394A-3,In RO for Review,Noticed for 30 days
-02200B-1,In RO for Review,Noticed for 30 days
+02200B-1,Awaiting Input from Applicant,Noticed for 30 days
 171577-4,Issued,N/A
 35313B-3,Issued,N/A
 35594A-3,In RO for Review,Noticed for 30 days
