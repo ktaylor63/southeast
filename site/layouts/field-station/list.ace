@@ -18,7 +18,7 @@
       {{ if eq (len $pages) 0 }}
       li.card.card-text Sorry, there is no {{ $section | pluralize }} from {{ $tag }} yet
       {{ end }}
-      {{ range $paginator.Pages }}
+      {{ range sort $paginator.Pages ".Params.start" }}
         {{ .Render "summary" }}
       {{ end }}
 
