@@ -1,13 +1,17 @@
 ---
 draft: true
-title: "Frequently asked questions"
+title: 'Frequently asked questions'
 facebook: WolfCreekNFH
 twitter: wolfcreeknfh
 nav: FAQs
+hero:
+    name: stocking-hatchery-creek.jpg
+    alt: 'Dozens of people huddle around the banks of a shallow creek with fishing rods.'
+    caption: 'Stocking Hatchery Creek. <a href="https://flic.kr/p/89eH6p">Photo</a> by Alex Hoover, USFWS.'
 tags:
-  - Kentucky
-  - "Wolf Creek National Fish Hatchery"
-updated: "January 5th, 2018"
+    - Kentucky
+    - 'Wolf Creek National Fish Hatchery'
+updated: 'May 16th, 2019'
 ---
 
 ## What kind of fish do you raise?

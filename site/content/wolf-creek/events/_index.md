@@ -1,13 +1,13 @@
 ---
 draft: true
-title: Wildlife
-description: 'Wildlife at Wolf Creek National Fish Hatchery'
+title: Events
+description: 'Events at Wolf Creek National Fish Hatchery'
 query: 'Wolf Creek National Fish Hatchery'
-section: wildlife
+section: events
 facebook: WolfCreekNFH
 twitter: wolfcreeknfh
 type: field-station
-nav: Wildlife
+nav: Events
 hero:
     name: rainbow-trout-angler.jpg
     alt: 'A colorful trout in hand with a smiling angler in the background.'
