@@ -16,11 +16,10 @@
 <meta name="og:description" content="{{ if .Params.description }}{{ .Params.description }}{{ else }}{{ .Summary }}{{end}}" />
 {{ if .Params.hero.name }}
 <meta name="og:image" content="{{ .Site.Params.base }}images/hero/small/{{ .Params.hero.name }}" />
-{{ end }}
-
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:image" content="{{ .Site.Params.base }}images/hero/small/{{ .Params.hero.name }}" />
 <meta name="twitter:image:alt" content="{{ .Params.hero.alt }}" />
+{{ end }}
 <meta name="twitter:site" content="@usfwssoutheast">
 <meta name="twitter:title" content="{{ .Title }}" />
 <meta name="twitter:description" content="{{ if .Params.description }}{{.Params.description}}{{ else }}{{ .Summary }}{{end}}" />
