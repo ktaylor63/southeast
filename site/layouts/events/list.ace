@@ -12,7 +12,7 @@
     {{ $paginator := .Paginate $pages 7 }}
 
     ul.card-list
-      {{ range sort $paginator.Pages "Params.start" "asc" }}
+      {{ range sort $paginator.Pages ".Params.start" }}
         {{ .Render "summary" }}
       {{ end }}
 
