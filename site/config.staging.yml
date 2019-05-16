@@ -8,7 +8,7 @@ dataDir: data
 layoutDir: layouts
 staticDir: static
 baseURL: https://intranet.fws.gov/region4/demo/
-publishDir: '../dist'
+publishDir: "../dist"
 
 MetaDataFormat: yaml
 pluralizelisttitles: false
@@ -52,7 +52,7 @@ params:
   base: https://intranet.fws.gov/region4/demo/
   hero:
   twitter: usfwssoutheast
-  github:  usfws
+  github: usfws
   facebook: usfwssoutheast
   flickr: usfwssoutheast
   snapchat: usinterior
