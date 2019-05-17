@@ -13,10 +13,10 @@ tags:
     - 'Partners for Fish and Wildlife Program'
     - 'Rattlesnake Master Borer Moth'
     - 'Voluntary Conservation'
-updated: 'April 18th, 2019'
+updated: 'May 16th, 2019'
 ---
 
-**Perryville, Arkansas** -&mdash; Diamond TR Ranch is a 340-acre working ranch located on Arkansas Highway 10 west of Little Rock.  The ranch is divided by the Maumelle River which provides 95 percent of the input for Lake Maumelle, a source of drinking water for about 450,000 residents of central Arkansas.  When I first pulled up to the ranch I was greeted by a man who had clearly been up since before sunrise.  When I shook Ray Vogelpohl’s calloused hand, it was obvious he is a hard-working, family-first farmer.  We sat under the covered porch and he offered sweet tea (Southern hospitality at its finest) while we waited for his wife, Theresa, to finish chores in the horse barn.
+**Perryville, Arkansas** &mdash; Diamond TR Ranch is a 340-acre working ranch located on Arkansas Highway 10 west of Little Rock.  The ranch is divided by the Maumelle River which provides 95 percent of the input for Lake Maumelle, a source of drinking water for about 450,000 residents of central Arkansas.  When I first pulled up to the ranch I was greeted by a man who had clearly been up since before sunrise.  When I shook Ray Vogelpohl’s calloused hand, it was obvious he is a hard-working, family-first farmer.  We sat under the covered porch and he offered sweet tea (Southern hospitality at its finest) while we waited for his wife, Theresa, to finish chores in the horse barn.
 
 While we waited, he began to tell me the history of the ranch and how they came to love the land. It was the diversity of flowers and abundance of monarchs that gave rise to his interest in conservation. Theresa joined us and they shared with me their desire to do their part for conservation. I had done my research on the land and the Vogelpohls’  goals for the property, and I was impressed by the passion and commitment they expressed. Their need to see the land they steward be protected and function as a healthy ecological system was a top priority for them.
 
