@@ -1,4 +1,12 @@
 stories:
+  - title: "Banner nesting season for Everglades wading birds; scientists cautiously optimistic"
+    summary: "After precipitous declines, wading bird nests in the Everglades have increased for the second year in a row, according to an annual report the South Florida Water Management District released Thursday."
+    date: 2019-05-16
+    url: "https://www.news-press.com/story/tech/science/environment/2019/05/16/scientists-cautiously-optimistic-everglades-wading-birds-have-another-prosperous-nesting-season/3677241002/"
+    hero:
+      name: roseate-spoonbills-louisiana.jpg
+      alt: "Small pink birds with rounded bills wade through the shallow water."
+      caption: 'Roseate spoonbills out in the water. <a href="https://flic.kr/p/bucd7F">Photo</a> by Corey Douglas.'
   - title: "Frosted elfin: best served in frosted glass"
     summary: "In May, First Magnitude will release a special beer brewed to coincide with the spring flight period of the frosted elfin, a small, brown butterfly whose population has declined across its historic range due to habitat loss."
     date: 2019-05-15
