@@ -4,7 +4,7 @@ title: 'Panama City Ecological Services Field Office'
 facebook: usfwspanamacity
 nav: Home
 weight: 1
-office: 'Panama City Ecological Services Field Office'
+office: 'Panama City Ecological Services/Fish & Wildlife Conservation Office'
 js: /js/field-station.js
 url: /panama-city
 type: field-station
@@ -12,7 +12,7 @@ tags:
     - 'Endangered Species Act'
     - Florida
     - 'Panama City Ecological Services Field Office'
-updated: 'November 15th, 2018'
+updated: 'May 16th, 2019'
 ---
 
 ## Service area
