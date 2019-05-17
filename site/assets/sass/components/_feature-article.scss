@@ -5,6 +5,22 @@
   margin: 2em auto;
   max-width: 1200px;
   padding: 0 2% 2%;
+  pointer-events: none;
+
+  > * {
+    pointer-events: auto;
+  }
+
+  &:hover > *,
+  &:focus-within > * {
+    opacity: 0.5;
+  }
+
+  &:hover > *:hover,
+  &:focus-within > :focus {
+    transform: scale(1.1);
+    opacity: 1;
+  }
 
   .card {
     margin-top: 0;
