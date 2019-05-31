@@ -1,12 +1,16 @@
 ---
 title: 'Small dam scheduled to be removed from Columbia-area creek'
 date: 2019-05-16T00:00:00.001Z
+hero:
+    name: congaree-cree-dam-removal.jpg
+    alt: 'A backhoe breaks apart a dam in a stream'
+    caption: 'Heavy machinery gets to work removing the Congaree Creek Dam near Columbia, SC. Photo by Kaley Lawrence, SCDNR.'
 tags:
     - 'Congaree Creek Dam'
     - 'Dam Removal'
     - 'South Carolina'
     - 'South Carolina Ecological Services Field Office'
-updated: 'May 15th, 2019'
+updated: 'May 23rd, 2019'
 ---
 
 Through a successful partnership, the South Carolina Department of Natural Resources (SCDNR), American Rivers, Congaree Riverkeeper and the United States Fish and Wildlife Service (Service) are happy to announce plans to remove a small dam from one Columbia-area creek starting May 21.
@@ -14,6 +18,8 @@ Through a successful partnership, the South Carolina Department of Natural Resou
 Removal of the small sheet pile dam in the Congaree Creek would result in restoring the natural flow of the stream, improving habitat for aquatic species, and removing a safety hazard for boaters.
 
 "We are thrilled to be able to work with all the partners on this important project" said Congaree Riverkeeper Bill Stangler. "Congaree Creek is a beautiful blackwater creek that flows through the heart of Cayce, and includes a canoe trail that meanders through the Congaree Creek Heritage Preserve, just minutes from downtown Columbia. By removing this boating hazard and improving the health of the creek we hope more people will be able to explore and enjoy this hidden gem."
+
+{{< figure class="photo-center" src="/images/pages/congaree-creek-dam.jpg" alt="Water pours over a small dam hidden among the trees" caption="Congaree Creek Dam. Photo by Kaley Lawrence, SCDNR." >}}
 
 American Rivers and Congaree Riverkeeper approached SCDNR in 2017 for support and assistance in the removal of the Congaree Creek dam.
 
