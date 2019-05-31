@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 'Frequently asked questions'
 nav: FAQ
 tags:
