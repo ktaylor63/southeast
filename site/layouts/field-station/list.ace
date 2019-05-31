@@ -8,7 +8,7 @@
 
     {{ .Content }}
 
-    {{ $sectionContent := where .Site.Pages "Section" $section }}
+    {{ $sectionContent := where .Site.RegularPages "Section" $section }}
     {{ $taggedContent := (index .Site.Taxonomies.tags ($tag | lower | urlize)).Pages }}
     {{ $pages := intersect $sectionContent $taggedContent }}
 
@@ -19,7 +19,9 @@
       li.card.card-text Sorry, there is no {{ $section | pluralize }} from {{ $tag }} yet
       {{ end }}
       {{ range sort $paginator.Pages ".Params.start" }}
-        {{ .Render "summary" }}
+        {{ if ge (time .Params.start) (now.AddDate 0 0 -1) }}
+          {{ .Render "summary" }}
+        {{ end }}
       {{ end }}
 
     {{ partial "pagination.html" . }}

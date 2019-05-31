@@ -1,6 +1,6 @@
 ---
 draft: true
-title: Events
+title: 'Upcoming events'
 description: 'Events at Wolf Creek National Fish Hatchery'
 query: 'Wolf Creek National Fish Hatchery'
 section: events
@@ -15,5 +15,5 @@ hero:
     position: '75% 40%'
 tags:
     - 'Wolf Creek National Fish Hatchery'
-updated: 'May 16th, 2019'
+updated: 'May 29th, 2019'
 ---
