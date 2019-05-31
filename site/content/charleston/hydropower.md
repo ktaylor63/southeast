@@ -73,7 +73,7 @@ The Federal Energy Regulatory Commission (FERC) is the governmental agency respo
 The Santee River Basin is located along the South Atlantic coast and consists of the Santee, Congaree, Broad, Saluda, and Catawba-Wateree sub-basins. The Santee River Basin once supported large populations of American shad, blueback herring, striped bass, shortnose sturgeon, Atlantic sturgeon and American eel. In 2008 the Service, the South Carolina Department of Natural Resources, the North Carolina Wildlife Resources Commission, and two hydroelectric utilities (South Carolina Electric & Gas and Duke Energy Carolinas LLC) signed the Santee River Basin Accord. This 10-year agreement is a restoration plan to rebuild populations of diadromous fish throughout the Santee River Basin through hatchery-based fry introductions, scientific studies and monitoring, and fish passage facilities. Fish passage facilities will provide access of diadromous fish to former spawning and maturation habitats that have been blocked by the construction of dams.
 
 - [Santee River Basin Accord for Diadromous Fish Protection, Restoration, and Enhancement, April 2008](/pdf/agreement/santee-river-basin-accord.pdf)
-- [Accord accomplishments and 2017 update](http://dnr.sc.gov/fish/diadromous)
+- [Santee River Basin Diadromous Fish Restoration Plan](/pdf/plan/santee-basin-diadromous-fish–restoration-plan.pdf)
 
 ## Contact
 
