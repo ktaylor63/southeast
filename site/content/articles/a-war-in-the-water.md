@@ -7,8 +7,7 @@ type: feature
 hero:
     name: silver-carp-jumping-fox-river.jpg
     alt: 'A half dozen large silver fish jumping out of the water to a height of six feet.'
-    caption: 'School of jumping silver carp. Photo by Ryan Hagerty, USFWS.'
-    link: 'https://flic.kr/p/MFyYsU'
+    caption: 'School of jumping silver carp. <a href="https://flic.kr/p/MFyYsU">Photo</a> by Ryan Hagerty, USFWS.'
     position: '70% 35%'
 tags:
     - Alabama
