@@ -1,18 +1,17 @@
 ---
-title: "Our Regional Leadership"
-description: "Meet the people leading conservation in the Southeast Region of the U.S. Fish and Wildlife Service."
+title: 'Our Regional Leadership'
+description: 'Meet the people leading conservation in the Southeast Region of the U.S. Fish and Wildlife Service.'
 nav: Leadership
 weight: 2
 tags:
-  - About
-  - Leadership
+    - About
+    - Leadership
 hero:
-  name: mike-oetker.jpg
-  alt: "A man speaking into a microphone."
-  link: "https://flic.kr/p/EgwW37"
-  caption: "Deputy Regional Director Mike Oetker speaking at a ceremony in Cherokee, North Carolina where partners signed a Candidate Conservation Agreement for the sicklefin redhorse. Photo by Gary Peeples, USFWS."
-  position: "top right"
-updated: "December , 2018"
+    name: leo-miranda-at-bon-secour-nwr.jpg
+    alt: 'Three men and a woman standing on an observation deck overlooking a pine forest on the edge of the Gulf'
+    caption: 'Regional Director Leo Miranda with Brittany Petersen, Jereme Phillips, and Steven Seibert at Bon Secour NWR. Photo by USFWS.'
+    position: '35% 45%'
+updated: 'May 31st, 2019'
 ---
 
 Nationally, the U.S. Fish and Wildlife Service is led by a Director, a team of Assistant Directors and eight Regional Directors. (See our [headquarters organizational chart.](http://www.fws.gov/offices/orgcht.html))
@@ -23,15 +22,17 @@ The conservation actions of the Southeast Region are guided by the Southeast Reg
 
 ### Regional Director
 
-{{< figure class="photo-right" src="/images/pages/leo-miranda-bio.jpg" alt="Portrait shot of a man in the woods with a cammo backpack and orange hunting sweatshirt." >}}
+{{< figure class="photo-right" src="/images/pages/leo-miranda-bio.jpg" alt="Portrait shot of a man wearing a burgandy USFWS shirt in a longleaf pine stand." >}}
 
-For the last seven years, Leo served as the Assistant Regional Director for Ecological Services in the Southeast where he led the successful implementation of an At-Risk wildlife strategy that focuses on using tools available under the Endangered Species Act to prevent the need to list species. He and his team also prioritized the need to accelerate recovery conservation with private landowners, state and local governments, the business community and our military partners across the Region, saving money and time, and benefiting conservation.
+As the Southeast Regional Director of the Department of the Interior’s U.S. Fish and Wildlife Service, Leopoldo “Leo” Miranda administers the federal government’s role in conserving the Region’s fish, wildlife, and plant resources and their habitats for the benefit of the American people. Leo oversees the work of approximately 1,300 employees, who carry out the Service’s regional mission at National Wildlife Refuges, Ecological Services Field Offices, National Fish Hatcheries, Fish and Wildlife Coordination Offices, a Fish Health Lab, and a Fish Technology Center; and through programs for Gulf Restoration, Science Applications, Migratory Birds, Wildlife and Sport Fish Restoration, Law Enforcement, Budget and Administration, and External Affairs. The Southeast Region is headquartered in Atlanta, Georgia and operates within 10 southeastern states (Florida, Georgia, Alabama, South Carolina, North Carolina, Kentucky, Louisiana, Mississippi, Tennessee, and Arkansas), Puerto Rico and the U.S. Virgin Islands.
 
-Before joining the Southeast Region, Leo led the Service’s team in Annapolis at our Chesapeake Bay Field Office where he oversaw the work of ecological services and closely coordinated their work with six national wildlife refuges and one fisheries office.  He began his career with the Service as a private lands biologist in Puerto Rico where he first began matching conservation results with local business owners working with the island’s shade-grown coffee owners. That early work influenced his interest and emphasis in working with the business community, private landowners and other conservation agencies on large-scale conservation efforts like longleaf pine restoration efforts occurring across the Southeast Region.
+A native of Ciales, Puerto Rico, Leo champions the sustaining of the nation’s biodiversity through partnership efforts between the public and private sectors. From his first position as a Service Private Lands biologist whose research and advocacy helped pioneer the shade-grown coffee industry in Puerto Rico, Leo has been committed to working for and with people across all boundaries to achieve win-win solutions that allow people and wildlife resources to thrive.
 
-Leo is an avid hunter and angler who loves the outdoors and outdoor recreation. When he is not working, spending time with his family, or sitting in a tree stand, he is managing habitat for at-risk and listed wildlife including gopher tortoises and red-cockaded woodpeckers on his farm near Columbus, Georgia.
+Prior to assuming his current role, Leo was the Assistant Regional Director of the Southeast Region’s Ecological Services Program. His responsibilities included the administration of the Endangered Species Act, a comprehensive law aimed at conserving and restoring federally designated endangered and threatened species and the habitats they depend upon. He led the Region’s highly successful At-Risk Species wildlife strategy, which focuses on using the tools available under the Endangered Species Act to prevent the need to list species. As a private landowner himself, Leo appreciates both the law’s flexibility and its conservation potential. He and his family own a farm near Columbus, Georgia, where they harvest and sell timber while managing their land for at-risk and endangered species, including gopher tortoises and red-cockaded woodpeckers.
 
-He received his Bachelor’s Degree in Marine Biology from the University of Puerto Rico and a Master’s Degree in Zoology from North Carolina State University. He lives in the Atlanta metro area with his wife Jessica; his son, Pablo; and four four-legged family members Venus, Bromelia, Tanna and Rex.
+Before joining the Southeast Region, Leo was the Program Supervisor for the Service’s Chesapeake Bay Field Office in Annapolis, Maryland. There, he honed his skills in achieving large-scale conservation outcomes through collaboration. He led a team responsible for protecting endangered and threatened species, migratory birds, freshwater and anadromous fish, and wildlife habitats in the District of Columbia, Delaware, Maryland and Virginia. Leo and his team worked tirelessly with public and private partners to preserve and protect living resources of the Chesapeake Bay ecosystem.
+
+Leo holds a Bachelor of Science in Marine Biology from the University of Puerto Rico and a Master of Science in Zoology from North Carolina State University. He and his wife, Jessica, son, Pablo, and the four-legged members of their family live in Marietta, GA. He and Pablo are avid hunters and anglers, and he attributes much of their mutual love of nature and their commitment to conservation to the pursuit of these pastimes.
 
 ## Mike Oetker
 
