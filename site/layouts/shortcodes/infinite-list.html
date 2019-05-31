@@ -2,7 +2,7 @@
 {{ $type := .Get "type" }}
 {{ $section := .Get "section" }}
 {{ $tagPages := where (index .Site.Taxonomies.tags $tag) "Page.Section" $section }}
-{{ $typePages := where .Site.Pages "Type" $type }}
+{{ $typePages := where .Site.RegularPages "Type" $type }}
 {{ $lazyLoadLimit := 7 }}
 
 {{ if gt (len $typePages) 0}}

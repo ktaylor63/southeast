@@ -1,18 +1,41 @@
-<ul class='article-gallery'>
-  {{ range first 3 (sort .Site.Data.teasers.stories "date" "desc") }}
-  <li class='card'>
+{{ $filter := .Get "filter" }} {{ $teasers := .Site.Data.teasers.stories }}
+{{ .Scratch.Add "pages" slice }}
+
+{{ if ne $filter "" }} {{ range $index, $element := $teasers }}
+{{ if in $element.tags $filter}} {{ $element }}
+{{ .Scratch.Add "pages" $element }} {{ end }} {{ end }} {{ else }}
+{{ .Scratch.Add "pages" (first 3 (sort $teasers "date" "desc")) }} {{ end }}
+
+<ul class="article-gallery partner-content">
+  {{ range .Scratch.Get "pages" }}
+  <li class="card">
     {{ if .hero }}
-    <div class='card-hero'>
+    <div class="card-hero">
       <a href="{{ .url }}">
-        {{ if .hero.name }}
-        <img srcset="/images/hero/small/{{ .hero.name }} 450w, /images/hero/medium/{{ .hero.name }} 850w" src="/images/hero/small/{{ .hero.name }}" alt="{{ .hero.alt }}" class='gallery-hero' sizes="100vw" />
+        {{ if and (.hero.name) (in .hero.name "http") }}
+        <img
+          src="{{ .hero.name }}"
+          alt="{{ .hero.alt }}"
+          class="gallery-hero"
+        />
+        {{ else if and (.hero.name) (not (in .hero.name "http")) }}
+        <img
+          srcset="/images/hero/small/{{ .hero.name }} 450w, /images/hero/medium/{{ .hero.name }} 850w"
+          src="/images/hero/small/{{ .hero.name }}"
+          alt="{{ .hero.alt }}"
+          class="gallery-hero"
+          sizes="100vw"
+        />
         {{ end }}
       </a>
     </div>
     {{ end }}
-    <div class='card-text'>
+    <div class="card-text">
       <p>
-        <span class='card-text-date'>{{ dateFormat "January 2, 2006" .date }}{{ if gt .ReadingTime 0 }} | {{ .ReadingTime }} minute read{{ end }}</span>
+        <span class="card-text-date"
+          >{{ dateFormat "January 2, 2006" .date }}{{ if gt .ReadingTime 0 }} |
+          {{ .ReadingTime }} minute read{{ end }}</span
+        >
         <a href="{{ .url }}">{{ .title }}</a>
       </p>
     </div>

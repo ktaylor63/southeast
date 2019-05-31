@@ -1,4 +1,4 @@
-{{ range first 1 (and (where .Site.Pages "Section" "articles") (where .Site.Pages "Type" "feature" )) }}
+{{ range first 1 (and (where .Site.RegularPages "Section" "articles") (where .Site.RegularPages "Type" "feature" )) }}
   {{ .Render "feature" }}
   <div class="centered-button">
     <a href='{{ .Permalink }}' aria-label="{{ .Title }}" class='button'>Read Story</a>

@@ -9,7 +9,7 @@
 
     {{ .Content }}
 
-    {{ $pages := where .Site.Pages "Type" "species-profile" }}
+    {{ $pages := where .Site.RegularPages "Type" "species-profile" }}
 
     {{ $paginator := .Paginate $pages 7 }}
     ul.card-list

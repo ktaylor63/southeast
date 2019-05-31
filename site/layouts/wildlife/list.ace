@@ -9,7 +9,7 @@
 
     {{ .Content }}
 
-    {{ $profiles := where .Site.Pages "Type" "species-profile" }}
+    {{ $profiles := where .Site.RegularPages "Type" "species-profile" }}
     {{ $taxonContent := (index .Site.Taxonomies.tags (lower $taxon)).Pages }}
     {{ $pages := intersect $profiles $taxonContent }}
 

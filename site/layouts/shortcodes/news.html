@@ -3,7 +3,7 @@
 {{ $type := .Get "type" }}
 {{ $.Scratch.Add "count" 0 }}
 <ul class="gallery">
-{{ range ( where .Page.Site.Pages "Type" "news") }}
+{{ range ( where .Page.Site.RegularPages "Type" "news") }}
   {{ if and (in .Params.tags $tag) (lt ($.Scratch.Get "count") $number) }}
     {{ $.Scratch.Add "count" 1 }}
     {{ .Render $type }}

@@ -8,7 +8,7 @@
 
     {{ .Content }}
 
-    {{ $sectionContent := where .Site.Pages "Section" $section }}
+    {{ $sectionContent := where .Site.RegularPages "Section" $section }}
     {{ $taggedContent := (index .Site.Taxonomies.tags ($tag | lower | urlize)).Pages }}
     {{ $pages := intersect $sectionContent $taggedContent }}
 

@@ -1,5 +1,5 @@
 {{- $.Scratch.Add "index" slice -}}
-{{- range where .Site.Pages "Type" "not in"  (slice "page" "json") -}}
+{{- range where .Site.RegularPages "Type" "not in"  (slice "page" "json") -}}
 {{- if and (isset .Params "lat") (isset .Params "lng") -}}
 {{- $.Scratch.Add "index" (dict "uri" .Permalink "title" .Title "summary" .Summary "tags" .Params.tags "section" .Section "img" .Params.hero.name "alt" .Params.hero.alt "caption" .Params.hero.caption "date" .Params.date "updated" .Params.updated "lat" .Params.lat "lng" .Params.lng "description" .Params.description "type" .Type) -}}
 {{- end -}}

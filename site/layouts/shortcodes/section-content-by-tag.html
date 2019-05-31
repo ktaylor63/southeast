@@ -3,7 +3,7 @@
 {{ $section := .Get "section" }}
 {{ $section := lower $section }}
 
-{{ range where .Page.Site.Pages "Section" $section }}
+{{ range where .Page.Site.RegularPages "Section" $section }}
   {{ if in .Params.tags $tag }}
     {{ .Render "summary" }}
   {{ end }}

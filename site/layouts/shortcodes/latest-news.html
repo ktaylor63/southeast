@@ -1,4 +1,4 @@
-{{ range first 1 (where .Site.Pages "Section" "news") }}
+{{ range first 1 (where .Site.RegularPages "Section" "news") }}
   {{ .Render "feature" }}
   <div class='centered-button'>
     <a href='{{ .Permalink }}' class='button'>Read Release</a>

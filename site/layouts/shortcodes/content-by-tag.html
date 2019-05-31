@@ -1,6 +1,6 @@
 {{ $tag := .Get "tag" }}
 {{ $title := .Page.Title }}
-{{ range .Page.Site.Pages }}
+{{ range .Page.Site.RegularPages }}
   {{ if and (in .Params.tags $tag) (ne .Title $title) }}
     {{ .Render "summary" }}
   {{ end }}
