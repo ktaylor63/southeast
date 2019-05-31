@@ -1,4 +1,30 @@
 stories:
+  - title: "McConnell Says Reducing Asian Carp His Number One Issue In West Kentucky"
+    summary: "Senate Majority Leader Mitch McConnell says reducing the population of invasive Asian carp is the number one issue he wants to accomplish in west Kentucky this year and next."
+    date: 2019-05-28
+    url: "https://www.wkms.org/post/mcconnell-says-reducing-asian-carp-his-number-one-issue-west-kentucky#stream/0"
+    hero:
+      name: silver-carp-jumping-fox-river.jpg
+      alt: "A half dozen large silver fish jumping out of the water to a height of six feet."
+      caption: 'School of jumping silver carp. <a href="https://flic.kr/p/MFyYsU">Photo</a> by Ryan Hagerty, USFWS.'
+      position: "70% 35%"
+  - title: "Record number of lionfish removed during tournament; FWC’s Lionfish Challenge begins"
+    subtitle: "Florida Fish & Wildlife Conservation Commission sent this bulletin"
+    summary: "A total of 19,167 of the spiny invasive predators were removed from Gulf and Atlantic waters as part of the Emerald Coast Open, which coincided with the fifth annual Lionfish Removal and Awareness Festival at AJ’s Seafood & Oyster Bar and HarborWalk Village in Destin May 18 and 19. That’s a lot of lionfish."
+    date: 2019-05-24
+    url: "https://content.govdelivery.com/accounts/FLFFWCC/bulletins/246ce4a"
+    hero:
+      name: lion-fish.jpg
+      alt: "A bucket of bright pinkish red fish on ice"
+      caption: '2019 Lionfish Removal and Awareness Festival. <a href="https://flic.kr/p/2fWDgHa">Photo</a> by Bekah Nelson, FWC.'
+  - title: "Forestland added to Catahoula National Wildlife Refuge provides climate, habitat and recreation benefits"
+    summary: "4,113-acre addition provides important habitat for migratory birds, while helping to remove carbon dioxide from the atmosphere"
+    date: 2019-05-22
+    url: "https://www.conservationfund.org/news/press-releases/2043-forestland-added-to-catahoula-wildlife-refuge-in-louisiana"
+    hero:
+      name: bald-cypress-forest-autumn.jpg
+      alt: "Bright orange and red leaves on wide-based tree trunks emerging from a swamp."
+      caption: 'Bald cypress forest in autumn at Santee National Wildlife Refuge. <a href="https://flic.kr/p/fPR75F">Photo</a> by Marc Epstein, USFWS.'
   - title: "Banner nesting season for Everglades wading birds; scientists cautiously optimistic"
     summary: "After precipitous declines, wading bird nests in the Everglades have increased for the second year in a row, according to an annual report the South Florida Water Management District released Thursday."
     date: 2019-05-16
