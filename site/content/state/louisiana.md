@@ -11,8 +11,10 @@ hero:
     alt: 'An alligator basking in the sun on the shore of a water body.'
     link: 'https://flic.kr/p/buc8MR'
     caption: 'Bell City, Louisiana: Alligator looking for fun. Photo by Corey Douglas.'
-updated: 'March 25th, 2019'
+updated: 'May 20th, 2019'
 ---
+
+Louisiana is rich with diverse ecosystems—ranging from the marshes and open water along the coast, to the wetlands that help protect New Orleans from hurricanes and provide a nursery to the fisheries that support the region’s food economy, to the wild bayous of the Atchafalaya Basin, to bottomland hardwood forests of the Mississippi Delta. These locations are teeming with wildlife. They provide critical wintering habitat for thousands of ducks and geese. Neotropical songbirds, shorebirds, reptiles, mammal such as bear and white-tailed deer, and numerous other species also make their home in Louisiana’s wildlands.
 
 {{< content-scroller tag="Louisiana" heading="Related content" >}}
 
