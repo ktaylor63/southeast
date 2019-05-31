@@ -78,7 +78,7 @@ Participants should bring their own fishing rod and tackle. Rods and bait will o
 - Lake Cumberland State Dock
 - Bank of Jamestown
 - Zebco Brands
-- Russell County Board of Educa�on
+- Russell County Board of Education
 
 ## Contact
 
