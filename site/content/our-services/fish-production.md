@@ -4,15 +4,14 @@ nav: 'Fish Production'
 hero:
     name: edenton-fish-stocking-french-broad-river.jpg
     alt: 'An employee in uniform drains a large truck basin full of water and fish into a river.'
-    caption: 'Edenton National Fish Hatchery manager Stephen Jackson watches lake sturgeon flow into the French Broad River. Photo, USFWS.'
-    link: 'https://flic.kr/p/Aoxxs8'
+    caption: 'Edenton National Fish Hatchery manager Stephen Jackson watches lake sturgeon flow into the French Broad River. <a href="https://flic.kr/p/Aoxxs8">Photo</a> by USFWS.'
     position: 'top left'
 tags:
     - 'Endangered Species Act'
     - 'Greers Ferry National Fish Hatchery'
     - Mitigation
     - 'National Fish Hatchery'
-updated: 'August 27th, 2018'
+updated: 'May 28th, 2019'
 ---
 
 National fish hatcheries play an important role in managing and restoring America’s fisheries. Hatcheries across the Southeast produce both game and non-game species, which contributes to habitat conservation, endangered species recovery, and provides recreation opportunities to the nation’s anglers.
