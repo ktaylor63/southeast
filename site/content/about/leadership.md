@@ -72,9 +72,15 @@ David’s areas of greatest professional interest include compatibility and appr
 
 David’s favorite quote is by Thomas Jefferson: “In matters of style, swim with the current. In matters of principle, stand like a rock.” David has been a volunteer youth sports coach for more than 40 teams, ages 4 to 18, in basketball, baseball, softball, track &amp; field, and soccer. His favorite times are spent with his wife of 23 years and their three children, doing faith-based volunteering, fishing, canoeing, hiking, camping, hunting, and other outdoor-activities.
 
-## Jack Arnold
+## Dr. Catherine Phillips
 
-### Acting Assistant Regional Director, Ecological Services
+### Assistant Regional Director, Ecological Services
+
+{{< figure class="photo-right" src="/images/pages/catherine-phillips-bio.jpg" alt="A woman in a USFWS shirt holding a small turtle" >}}
+
+Catherine serves as the Assistant Regional Director for Ecological Services in the U.S. Fish and Wildlife Service’s Southeast Region.  She  has been with the Service since 1998 and got her start through the Career Awareness Institute at Mescalero National Fish Hatchery in New Mexico before working at Uvalde National Fish Hatchery and San Marcos Fish Technology Center in Region 2, and as Deputy Project Leader and Project Leader at the Panama City Field Office in Region 4.  Catherine especially enjoys working across Service programs and with a variety of partners in non-traditional ways and is an advocate of finding solutions to achieve mutual mission success.
+
+Catherine grew up in a large family in San Antonio, Texas, and did not realize that careers in conservation existed prior to her first internship with the Service, but quickly fell in love with the field and the mission.  She is an advocate of continual learning and mentoring and working with diverse groups from all backgrounds to achieve innovative conservation success.  Catherine is a proud mom of a son in high school, daughter in elementary, and a son on the way in September.  She loves spending time with her family and can often be found gardening, in the water paddleboarding or snorkeling, and watching and attending college football games in the Fall.
 
 ## Jackie Parrish
 
@@ -89,20 +95,6 @@ Jackie began her federal career with the U.S. Navy, serving in a number of field
 Jackie spent her childhood in rural Maryland where her family was active in scouting, camping, fishing, and hunting. As a young teen her family moved to Florence, South Carolina, where Jackie first realized her passion to help others by volunteering her evenings and weekends tutoring disadvantaged, minority students to help them to pursue their academic and career goals. After high school, she attended the U.S. Naval Academy in Annapolis, Maryland, graduating in 1985 with a B.S. in Chemistry.
 
 Jackie and her children live in Suwanee, Georgia where they are active in their Church and Georgia Christian Dance Theater. She enjoys running and hiking with her children.
-
-## Jeffrey Fleming
-
-### Assistant Regional Director, External Affairs
-
-{{< figure class="photo-right" src="/images/pages/jeffrey-fleming-bio.jpg" alt="A man with an orange hat on in a forest." >}}
-
-Jeff Fleming serves as Assistant Regional Director for External Affairs in the U.S. Fish and Wildlife Service's Southeast Region. He joined the Region's leadership team in December 2004. He joined the Service's Office of Public Affairs at its headquarters in July 2003.
-
-Fleming served a short stint as the Izaak Walton League of America's first communications director from September 2001 to July 2003 helping to build communications capacity and expand its role and influence within the conservation community. He also provided support to a team of innovative leaders establishing the Theodore Roosevelt Conservation Partnership in that short period of time.
-
-For more than 10 years up until then, he served as press secretary and environmental policy aide to U.S. Rep. John Tanner of Tennessee from 1991 to late 2001. From 1988 to 1991, he served as a staff reporter for The Commercial Appeal in Memphis, and the Chattanooga Free Press.
-
-He is a graduate of the University of Tennessee, Knoxville, and is married with three children. He lives in Hoschton, Georgia.
 
 ## Dr. Kevin Reynolds
 
