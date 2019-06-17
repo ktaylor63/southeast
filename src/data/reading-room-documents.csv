@@ -581,7 +581,7 @@ Louisiana Ecological Services Field Office,Partners for Fish and Wildlife progam
 ,Vision for a Healthy Gulf of Mexico Watershed,Fact Sheet,,gulf-vision-document-overview.pdf,2013,Gulf Restoration,Gulf Restoration Program,
 ,Deepwater Horizon Related Links,Fact Sheet,,fact-sheet/deepwater-horizon-related-links.pdf,2016,Gulf Restoration,Gulf Restoration Program,
 ,The Service's involvement in gulf restoration,Fact Sheet,,fact-sheet/service-involvement-in-gulf-restoration.pdf,2017,Gulf Restoration,Gulf Restoration Program,
-,Noonday globe snail,Fact Sheet,,fact-sheet/noonday-globe-snail.pdf,2011,,,
+,Noonday globe snail,Fact Sheet,,fact-sheet/noonday-globe-snail.pdf,2011,,Asheville Ecological Services Field Office,North Carolina
 ,Venus flytrap,Fact Sheet,,fact-sheet/venus-flytrap.pdf,2017,,,
 ,Beneficial Bats: Backyard Habitat for Wildlife; Building a bat house,Fact Sheet,,fact-sheet/beneficial-bats-backyard-habitat-for-wildlife.pdf,,Ecological Services,Asheville Ecological Services Field Office,
 ,North Carolina's National Wildlife Refuges and National Fish Hatcheries,Fact Sheet,,fact-sheet/north-carolina-national-wildlife-refuges-and-fish-hatcheries.pdf,2003,,"Alligator River, Back Bay, Cedar Island, Currituck, Edenton, Great Dismal Swamp, Mackay Island, Mattamuskeet, Pea Island, Pee Dee, Pocosin Lakes, Roanoke River, Swanquarter",
@@ -1016,9 +1016,8 @@ Grand Bay National Wildlife Refuge,Hunting Regulations,Regulations,TRUE,regulati
 Grand Cote National Wildlife Refuge,"Hunting, Fishing and Public Use Regulations",Regulations,TRUE,regulations/grand-cote-national-wildlife-refuge-hunt-fish.pdf,2019-2020,National Wildlife Refuge System,,
 Harris Neck National Wildlife Refuge,Hunting Regulations,Regulations,,regulations/savannah-coastal-refuges-complex-hunting.pdf,,National Wildlife Refuge System,,
 Hatchie National Wildlife Refuge,Public Use Regulations,Regulations,TRUE,regulations/hatchie-national-wildlife-refuge-hunt-fish.pdf,,National Wildlife Refuge System,,
-Theodore Roosevelt National Wildlife Refuge Complex,Hunting and Fishing Regulations,Regulations,TRUE,regulations/theodore-roosevelt-national-wildlife-refuge-complex-hunt.pdf,,National Wildlife Refuge System,,
+Theodore Roosevelt National Wildlife Refuge Complex,Public Use Regulations,Regulations,TRUE,regulations/theodore-roosevelt-national-wildlife-refuge-complex-hunt.pdf,2019-2020,National Wildlife Refuge System,"Hillside, Holt Collier, Mathews Brake, Morgan Brake, Panther Swamp, and Yazoo",
 Holla Bend National Wildlife Refuge,Public Use Regulations,Regulations,TRUE,regulations/holla-bend-national-wildlife-refuge-public-use.pdf,2018,National Wildlife Refuge System,,
-Holt Collier National Wildlife Refuge,Hunting and Fishing Regulations,Regulations,,regulations/theodore-roosevelt-national-wildlife-refuge-complex-hunt.pdf,,National Wildlife Refuge System,,
 Lacassine National Wildlife Refuge,Fishing Regulations,Regulations,,regulations/lacassine-national-wildlife-refuge-fish.pdf,,National Wildlife Refuge System,,
 Lacassine National Wildlife Refuge,Hunting Regulations,Regulations,,regulations/lacassine-national-wildlife-refuge-hunt.pdf,,National Wildlife Refuge System,,
 Lake Isom National Wildlife Refuge,Public Use Regulations,Regulations,,regulations/lake-isom-national-wildlife-refuge-public-use.pdf,,National Wildlife Refuge System,,
@@ -1026,14 +1025,13 @@ Lake Ophelia National Wildlife Refuge,"Hunting, Fishing and Public Use Regulatio
 Lake Woodruff National Wildlife Refuge,Hunting Regulations,Regulations,,regulations/lake-woodruff-national-wildlife-refuge-hunt.pdf,,National Wildlife Refuge System,,
 Lower Hatchie National Wildlife Refuge,Public Use Regulations,Regulations,TRUE,regulations/lower-hatchie-national-wildlife-refuge-public-use.pdf,,National Wildlife Refuge System,,
 Lower Suwannee (& Cedar Keys) National Wildlife Refuges,Hunting Regulations,Regulations,TRUE,regulations/lower-suwannee-cedar-keys-national-wildlife-refuges-hunt.pdf,,National Wildlife Refuge System,,
-Mackay Island National Wildlife Refuge,Deer Hunt Regulations,Regulations,TRUE,regulations/mackay-island-national-wildlife-refuge-hunt.pdf,2018,National Wildlife Refuge System,,
+Mackay Island National Wildlife Refuge,Deer hunting regulations and permit,Regulations,TRUE,regulations/mackay-island-national-wildlife-refuge-hunt.pdf,2019-2020,National Wildlife Refuge System,,
 Mandalay National Wildlife Refuge,Hunting and Fishing Regulations true Map,Regulations,TRUE,regulations/mandalay-national-wildlife-refuge-hunt-fish.pdf,,National Wildlife Refuge System,,
 Mattamuskeet National Wildlife Refuge,Hunting Regulations and Map,Regulations,TRUE,regulations/mattamuskeet-national-wildlife-refuge-hunt.pdf,,National Wildlife Refuge System,,
 Mattamuskeet National Wildlife Refuge,Fishing Regulations and Map,Regulations,,regulations/mattamuskeet-national-wildlife-refuge-fishing.pdf,,National Wildlife Refuge System,,
 Merritt Island National Wildlife Refuge,Big Game Hunting Regulations,Regulations,TRUE,regulations/merritt-island-national-wildlife-refuge-big-game-hunt.pdf,2018,National Wildlife Refuge System,,
 Merritt Island National Wildlife Refuge,Waterfowl Hunting Regulations,Regulations,TRUE,regulations/merritt-island-national-wildlife-refuge-waterfowl.pdf,2018,National Wildlife Refuge System,,
-North Mississippi Refuges Complex,Hunting Regulations and Map,Regulations,TRUE,regulations/north-mississippi-refuges-complex-hunt.pdf,2018,National Wildlife Refuge System,,
-North Mississippi Refuges Complex,Fishing Regulations,Regulations,,regulations/north-mississippi-refuges-complex-fishing.pdf,,National Wildlife Refuge System,,
+North Mississippi Refuges Complex,Hunting and fishing regulations,Regulations,TRUE,regulations/north-mississippi-refuges-complex.pdf,2019-2020,National Wildlife Refuge System,"Coldwater River, Dahomey, Tallahatchie",Mississippi
 Sam D. Hamilton Noxubee National Wildlife Refuge,Hunting Regulations,Regulations,TRUE,regulations/noxubee-national-wildlife-refuge-hunt.pdf,,National Wildlife Refuge System,,
 Okefenokee National Wildlife Refuge,Hunting Regulations,Regulations,,regulations/okefenokee-national-wildlife-refuge-hunt.pdf,,National Wildlife Refuge System,,
 Overflow National Wildlife Refuge,Public Use Regulations and Map,Regulations,TRUE,regulations/overflow-national-wildlife-refuge-public-use.pdf,,National Wildlife Refuge System,,
@@ -1072,14 +1070,12 @@ Wassaw National Wildlife Refuge,Hunting Regulations,Regulations,,regulations/sav
 Wheeler National Wildlife Refuge,Hunting Regulations,Regulations,TRUE,regulations/wheeler-national-wildlife-refuge-hunt.pdf,2018,National Wildlife Refuge System,,
 Wheeler National Wildlife Refuge,Fishing Regulations,Regulations,,regulations/wheeler-national-wildlife-refuge-fishing.pdf,,National Wildlife Refuge System,,
 Dale Bumpers White River National Wildlife Refuge,Hunting Regulations,Regulations,TRUE,regulations/white-river-national-wildlife-refuge-hunt.pdf,,National Wildlife Refuge System,,
-Yazoo National Wildlife Refuge,Hunting and Fishing Regulations,Regulations,,regulations/theodore-roosevelt-national-wildlife-refuge-complex-hunt.pdf,,National Wildlife Refuge System,,
 Yazoo National Wildlife Refuge,Youth Deer Hunt Application,Regulations,,regulations/yazoo-national-wildlife-refuge-youth-deer-hunt-application.pdf,,National Wildlife Refuge System,,
 Yazoo National Wildlife Refuge,Youth Waterfowl Hunt Application,Regulations,,regulations/yazoo-national-wildlife-refuge-youth-waterfowl-hunt-application.pdf,,National Wildlife Refuge System,,
 Southwest Louisiana National Wildlife Refuge Complex,Fishing and Boating Regulations,Regulations,,brochure/southwest-louisiana-complex-fishing-and-boating-regulations.pdf,,National Wildlife Refuge System,,
 Savannah Coastal National Wildlife Refuges Complex,Hunting Regulations,Regulations,,regulations/savannah-coastal-refuges-complex-hunting.pdf,2017,National Wildlife Refuge System,,
 Alligator River National Wildlife Refuge,Hunting Regulations,Regulations,TRUE,regulations/alligator-river-national-wildlife-refuge-hunt.pdf,,National Wildlife Refuge System,,
 "Central Arkansas Refuges: Bald Knob, Big Lake, Cache River, Wapanocca, Holla Bend",Hunt Schedule,Regulations,,regulations/central-arkansas-national-wildlife-refuge-complex-hunt-schedule.pdf,,National Wildlife Refuge System,,
-Mackay Island National Wildlife Refuge,Deer Hunting Application,Regulations,,regulations/mackay-island-national-wildlife-refuge-upland-bird.pdf,2018,National Wildlife Refuge System,,
 Cedar Island National Wildlife Refuge,Hunting Regulations,Regulations,,regulations/cedar-island-national-wildlife-refuge.pdf,,National Wildlife Refuge System,,
 ,Inventory and Monitoring Status and Needs Assessment for the Gulf Zone,Report,,report/inventory-and-monitoring-status-and-needs-assessement-gulf-zone-2014.pdf,,"National Wildlife Refuge System,Inventory and Monitoring",,
 ,Inventory and Monitoring Status and Needs Assessment Appendices for the Gulf Zone,Report,,report/inventory-and-monitoring-status-and-needs-assessement-appendices-gulf-zone-2014.pdf,,"National Wildlife Refuge System,Inventory and Monitoring",,
@@ -1911,3 +1907,7 @@ Orangeburg National Fish Hatchery,Fishing Plan,Environmental Assessment,,environ
 Edenton National Fish Hatchery,Fishing Plan,Environmental Assessment,,environmental-assessment/edenton-nfh-draft-environmental-assessment-fishing-plan.pdf,2019,Fish and Aquatic Conservation,,North Carolina
 Orangeburg National Fish Hatchery,Draft Fishing Plan,Plan,,plan/orangeburg-nfh-draft-fishing-plan.pdf,2019,Fish and Aquatic Conservation,,South Carolina
 Edenton National Fish Hatchery,Draft Fishing Plan,Plan,,plan/edenton-nfh-draft-fishing-plan.pdf,2019,Fish and Aquatic Conservation,,North Carolina
+,Optimal survey windows for at-risk and listed plants of North Carolina,Fact Sheet,TRUE,fact-sheet/north-carolina-optimal-survey-windows-for-at-risk-and-listed-plants.pdf,2018,"Ecological Services, Endangered Species","Asheville Ecological Services Field Office, Raleigh Ecological Services Field Office",North Carolina
+,Federal endangered and threatened species of North Carolina,Fact Sheet,,fact-sheet/threatened-and-endangered-species-of-north-carolina.pdf,2003,"Ecological Services, Endangered Species","Asheville Ecological Services Field Office, Raleigh Ecological Services Field Office",North Carolina
+Asheville Ecological Services Field Office,,Strategic Plan,,strategic-plan/asheville-ecological-services-field-office-2012-2017.pdf,2012-2017,Ecological Services,Asheville Ecological Services Field Office,North Carolina
+,Partners for Fish and Wildlife in North Carolina,Fact Sheet,,fact-sheet/partners-for-fish-and-wildlife-program-in-north-carolina.pdf,,"Ecological Services, Partners for Fish and Wildlife Program",Asheville Ecological Services Field Office,North Carolina
