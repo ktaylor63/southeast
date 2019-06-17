@@ -6,16 +6,15 @@ lng: -83.2846
 hero:
     name: tri-colored-bat-white-nose-syndrome.jpg
     alt: 'A brown bat attached to the roof of a cave with white fuzz around its nose'
-    caption: 'In this 2016 photo, a tri-colored bat with evidence of White Nose Syndrome (WNS) hibernates on the wall of the Black Diamond Tunnel in the North Georgia mountains. Photo by Pete Pattavina/USFWS.'
-    link: 'https://flic.kr/p/SQZDWw'
-    position: 'right center'
-date: '2017-03-14'
+    caption: 'In this 2016 photo, a tri-colored bat with evidence of White Nose Syndrome (WNS) hibernates on the wall of the Black Diamond Tunnel in the North Georgia mountains. <a href="https://flic.kr/p/SQZDWw">Photo</a> by Pete Pattavina, USFWS.'
+    position: '10% 40%'
+date: 2017-03-14T00:00:00.000Z
 author: 'Mark Davis, Public Affairs Specialist'
 tags:
     - Georgia
     - 'Tri-Colored Bat'
     - 'White Nose Syndrome'
-updated: 'August 28th, 2017'
+updated: 'June 3rd, 2019'
 ---
 
 The oars splashed, that slight sound magnified as it echoed off rock walls that led to a distant, black point. With each pull, the tunnel’s illuminated opening got smaller – the darkness, greater.
