@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 'Frequently asked questions'
 facebook: WolfCreekNFH
 twitter: wolfcreeknfh
@@ -16,15 +15,15 @@ updated: 'May 16th, 2019'
 
 ## What kind of fish do you raise?
 
-Wolf Creek National Fish Hatchery is a coldwater fish hatchery which means we raise fish that do best in water temperatures below 60 degrees. Species currently in production at this facility include rainbow trout, brown trout, and brook trout.
+Wolf Creek National Fish Hatchery is a coldwater fish hatchery which means we raise fish that do best in water temperatures below 60 degrees. Species currently in production at this facility include brown trout, brook trout, cutthroat trout and rainbow trout.
 
 ## Where do the eggs come from?
 
-The rainbow trout eggs come from one of three other Federal hatcheries: Erwin NFH in Tennessee; Ennis NFH in Montana; and White Sulphur Springs in West Virginia. The brown trout eggs come from the Saratoga NFH, Wyoming. All of the eggs are received overnight by Federal Express. The brook trout eggs come from the Egan SFH in Utah.
+The rainbow trout eggs come from one of three other federal hatcheries: [Erwin NFH](https://www.fws.gov/erwin/) in Tennessee; [Ennis NFH](https://www.fws.gov/ennis/) in Montana; and [White Sulphur Springs](https://www.fws.gov/northeast/wssnfh/) in West Virginia. The brown trout eggs come from the Saratoga, Wyoming, National Fish Hatchery. All of the eggs are received overnight by Federal Express. The brook trout eggs come from the Erwin hatchery  in Tennessee.
 
 ## What size are the fish when stocked?
 
-A small number of fish are stocked at four inches, six inches, and eight inches to meet specific management needs. The majority of our fish are stocked as a catchable nine inch fish.
+A small number of fish are stocked at four inches, six inches, eight inches, 12 inches and 15 inches to meet specific management needs. The majority of our fish are stocked as a catchable nine or 10 inch fish.
 
 ## How long does it take from the egg stage to stocking size?
 
@@ -32,7 +31,9 @@ It takes 16-18 months to get a trout from the egg stage to nine inches.
 
 ## Where do you stock the fish raised here?
 
-Most of the fish are stocked into Federal mitigation waters in Kentucky. The other fish are provided to the Commonwealth of Kentucky under a reimbursable agreement to meet management goals in state controlled waters. A total of 115 different waters in Kentucky are stocked with trout from this facility. A small number of fingerlings are provided to the Cherokee Indian Tribe in North Carolina.
+Most of the fish are stocked into federal mitigation waters in Kentucky. The other fish are provided to the Commonwealth of Kentucky under a reimbursable agreement to meet management goals in state controlled waters. A total of 125 different waters in Kentucky are stocked with trout from this facility.
+
+{{< figure class="photo-center" src="/images/pages/wolf-creek-stocking-locations-2017.jpg" alt="A map of Kentucky showing stocking locations across the state with higher concentrations in Central and Eastern Kentucky" caption="Kentucky trout stocking locations (2017). Map by USFWS." link="/pdf/map/kentucky-trout-stocking-locations-2017.pdf" >}}
 
 ## Do you provide or sell fish to private individuals?
 
@@ -44,7 +45,7 @@ A special formulated trout diet very high in protein to obtain optimal growth. N
 
 ## Where does the water come from?
 
-The hatchery water is received gravity flow from Lake Cumberland at a rate of 12,000-15,000 g.p.m. The water is used one time then empties into the Cumberland River.
+The hatchery water is gravity fed from Lake Cumberland at a rate of 12,000-15,000 gallons per minute. The water is used one time then empties into the Cumberland River.
 
 ## Do you provide all trout stocked in Kentucky?
 
@@ -52,27 +53,27 @@ Yes. The entire trout fishing program in Kentucky relies solely on the productio
 
 ## When was the Wolf Creek dam built and why?
 
-Wolf Creek Dam was authorized by the Flood Control Act of 1938 and the Rivers and Harbor Act of 1946. Construction of the project, designed and supervised by the U.S. Army Corps of Engineers, began in August 1941. After a three-year delay caused by World War II, the project was completed for full beneficial use in August 1952.
+Wolf Creek Dam was authorized by the Flood Control Act of 1938 and the Rivers and Harbor Act of 1946.  Construction of the project, designed and supervised by the U.S. Army Corps of Engineers, began in August 1941.  After a three-year delay caused by World War II, the project was completed for full beneficial use in August 1952.
 
-The dam was completed for flood control operation in 1950. Three of the six hydroelectric generating units were placed in operation in 1951 and the remaining three in 1952. Operation of the lake is for the primary purposes of flood control and the production of hydroelectric power. The cost of the project was approximately \$80.4 million.
+The dam was completed for flood control operation in 1950.  Three of the six hydroelectric generating units were placed in operation in 1951 and the remaining three in 1952.  Operation of the lake is for the primary purposes of flood control and the production of hydroelectric power.  The cost of the project was approximately $80.4 million.
 
 ## Who supervises the dam and powerhouse?
 
-The dam, powerhouse, and lake are operated and supervised by the U.S. Army Corps of Engineers, Nashville District. (http://www.lrn.usace.army.mil)
+The dam, powerhouse, and lake are operated and supervised by the [U.S. Army Corps of Engineers, Nashville District](http://www.lrn.usace.army.mil).
 
 ## Where is the dam and lake located?
 
-Lake Cumberland is located in Wayne, Russell, Pulaski, Clinton, McCreary, Laurel and Whitley counties in Southeastern Kentucky on the Cumberland River. The dam site is at river mile 460.9 (460.9 miles above its confluence with the Ohio River) or about 10 miles southwest of Jamestown, Kentucky.
+Lake Cumberland is located in Wayne, Russell, Pulaski, Clinton, McCreary, Laurel and Whitley counties in Southeastern Kentucky on the Cumberland River.  The dam site is at river mile 460.9 (460.9 miles above its confluence with the Ohio River) or about 10 miles southwest of Jamestown, Kentucky.
 
 ## How big is Lake Cumberland? And what happens with all the water?
 
 The lake is 101 miles long in length and has 1,255 miles of shoreline, providing a total storage capacity of 6,089,000 acre-feet (1 acre-foot = 1 acre, 1 foot deep or 325,850 gallons).
 
-The upper portion of the lake containing 2,094,000 acre-feet of area, is used to hold floodwaters which would otherwise cause flooding downstream. Such impounded water is utilized to the maximum extent possible for power production with the surplus water being released through the spillway gates after any flood danger has passed.
+The upper portion of the lake containing 2,094,000 acre-feet of area, is used to hold floodwaters which would otherwise cause flooding downstream.  Such impounded water is utilized to the maximum extent possible for power production with the surplus water being released through the spillway gates after any flood danger has passed.
 
 ## What is the average elevation and temperature of Lake Cumberland?
 
-The normal pool elevation (summer pool) is 723 feet above mean sea level. This elevation is near the tree line around the lake. Throughout late summer and fall, the water levels drop due to summer weather patterns, hydro-power generation and normal evaporation. The opposite occurs during the winter and spring seasons. The maximum recorded elevation was 751.42 in the spring of 1994. The surface water temperature during the summer months range from 78 to 83 degrees and 40 to 45 degrees during the winter.
+The normal pool elevation (summer pool) is 723 feet above mean sea level.  This elevation is near the tree line around the lake.  Throughout late summer and fall, the water levels drop due to summer weather patterns, hydro-power generation and normal evaporation.  The opposite occurs during the winter and spring seasons.  The maximum recorded elevation was 751.42 in the spring of 1994.  The surface water temperature during the summer months range from 78 to 83 degrees and 40 to 45 degrees during the winter.
 
 ## What is the deepest part of the lake?
 
@@ -120,4 +121,4 @@ Estimated average yearly energy output: 800,000,000 kw/h
 
 ## Contact
 
-For more information concerning daily lake/dam information, please dial the powerhouse automated info line: 800-238-2264 or visit http://www.lrn.usace.army.mil/WolfCreek/.
+For more information concerning daily lake/dam information, please dial the powerhouse automated info line: 800-238-2264 or visit https://www.lrn.usace.army.mil/Locations/Dams/Wolf-Creek-Dam/.

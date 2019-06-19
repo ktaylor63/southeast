@@ -1,5 +1,4 @@
 ---
-draft: true
 title: News
 description: 'News from Wolf Creek National Fish Hatchery'
 query: 'Wolf Creek National Fish Hatchery'

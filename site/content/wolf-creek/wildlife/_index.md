@@ -1,5 +1,4 @@
 ---
-draft: true
 title: Wildlife
 description: 'Wildlife at Wolf Creek National Fish Hatchery'
 query: 'Wolf Creek National Fish Hatchery'

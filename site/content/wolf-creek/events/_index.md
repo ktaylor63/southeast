@@ -1,12 +1,11 @@
 ---
-draft: true
 title: 'Upcoming events'
 description: 'Events at Wolf Creek National Fish Hatchery'
 query: 'Wolf Creek National Fish Hatchery'
 section: events
 facebook: WolfCreekNFH
 twitter: wolfcreeknfh
-type: field-station
+type: events
 nav: Events
 hero:
     name: rainbow-trout-angler.jpg
@@ -15,5 +14,5 @@ hero:
     position: '75% 40%'
 tags:
     - 'Wolf Creek National Fish Hatchery'
-updated: 'May 29th, 2019'
+updated: 'June 4th, 2019'
 ---
