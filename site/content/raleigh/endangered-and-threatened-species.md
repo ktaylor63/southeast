@@ -1,14 +1,18 @@
 ---
 draft: true
-title: 'Endangered and Threatened species'
+title: 'Threatened and endangered species of North Carolina'
 nav: 'Endangered species'
-updated: 'April 9th, 2019'
+updated: 'June 6th, 2019'
 js: /js/field-station-endangered-species.js
 tags:
     - 'Endangered Species Act'
     - 'North Carolina'
     - 'Raleigh Ecological Services Field Office'
 ---
+
+The [Endangered Species Act](/endangered-species-act/) (ESA) protects species of plants and animals that are in danger of extinction. It protects  imperiled species and the ecosystems upon which they depend. The ESA is administered by the U.S. Fish and Wildlife Service (Service) and the National Marine Fisheries Service (NMFS). The Service has primary responsibility for terrestrial and freshwater organisms, while the responsibilities of NMFS are mainly marine wildlife such as whales and sea turtles.
+
+The ESA allows the Service and the NMFS to list species of plants and animals as threatened or endangered. "Endangered" means a species is in danger of extinction throughout all or a significant portion of its range. "Threatened" means a species is likely to become endangered within the foreseeable future. In addition, candidate species are species for which the agencies have enough information to warrant proposing them for listing, but are precluded from doing so by higher listing priorities. For additional information about the ESA, please see [Endangered Species Act basics](https://www.fws.gov/endangered/esa-library/pdf/ESA_basics.pdf).
 
 ## Listed species
 <ul class="listed-species fade-list"></ul>
