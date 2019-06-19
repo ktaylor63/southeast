@@ -24,7 +24,7 @@
       <div class="content-scroller--title">
         <span class="content-scroller--type">{{ .Page.Section | title }}</span>
         <a href='{{ .Page.Permalink }}'>
-          <h3>{{ .Page.Title }}</h3>
+          <h3>{{ .Page.Title | markdownify }}</h3>
         </a>
       </div>
     </li>
