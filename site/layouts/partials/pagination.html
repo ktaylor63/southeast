@@ -1,21 +1,21 @@
 {{ $pag := $.Paginator }}
 {{ if gt $pag.TotalPages 1 }}
 <ul class="pagination">{{ with $pag.First }}
-  <li{{ if not $pag.HasPrev }}class="disabled"{{ end }}>
+  <li{{ if not $pag.HasPrev }} class="disabled"{{ end }}>
     <a href="{{ .URL | absURL }}" aria-label="First"><span aria-hidden="true">&laquo;&laquo;</span></a>
   </li>{{ end }}
-  <li{{ if not $pag.HasPrev }}class="disabled"{{ end }}>
+  <li{{ if not $pag.HasPrev }} class="disabled"{{ end }}>
     <a href="{{ if $pag.HasPrev }}{{ $pag.Prev.URL | absURL }}{{ end }}" aria-label="Previous"><span aria-hidden="true">&laquo;</span></a>
   </li>{{ range $index, $element := $pag.Pagers }}{{ $less := lt (sub $pag.PageNumber $index) 4 }}{{ $more := gt (sub $pag.PageNumber $index) -4 }}{{ if and $less $more }}
-  <li{{ if eq $element $pag }}class="active"{{ end }}>
+  <li{{ if eq $element $pag }} class="active"{{ end }}>
     <a href="{{ $element.URL | absURL }}">{{ $element.PageNumber }}</a>
   </li>{{ end }}{{ end }}
-  <li{{ if not $pag.HasNext }}class="disabled"{{ end }}>
+  <li{{ if not $pag.HasNext }} class="disabled"{{ end }}>
     <a href="{{ if $pag.HasNext }}{{ $pag.Next.URL | absURL }}{{ end }}" aria-label="Next" class="pagination-next">
       <span aria-hidden="true">&raquo;</span>
     </a>
   </li>{{ with $pag.Last }}
-  <li{{ if not $pag.HasNext }}class="disabled"{{ end }}>
+  <li{{ if not $pag.HasNext }} class="disabled"{{ end }}>
     <a href="{{ .URL | absURL}}" aria-label="Last"><span aria-hidden="true">&raquo;&raquo;</span></a>
   </li>{{ end }}
 </ul>{{ end }}
