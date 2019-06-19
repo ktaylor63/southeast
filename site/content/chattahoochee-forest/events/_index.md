@@ -3,7 +3,7 @@ title: 'Upcoming events'
 description: 'Events at Chattahoochee Forest National Fish Hatchery.'
 query: 'Chattahoochee Forest National Fish Hatchery'
 section: events
-type: field-station
+type: events
 hero:
     name: chattahoochee-forest-nfh-archery-annual-kids-fishing-rodeo.jpg
     alt: 'A girl draws her bow and aims at a plastic boar target.'
@@ -13,5 +13,5 @@ nav: Events
 weight: 4
 tags:
     - 'Chattahoochee Forest National Fish Hatchery'
-updated: 'May 29th, 2019'
+updated: 'June 4th, 2019'
 ---
