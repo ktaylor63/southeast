@@ -11,7 +11,7 @@ hero:
     name: prairie-pothole-windfarm.jpg
     alt: 'A beige landscape dotted with small lakes and wetlands yields to several arrays of large wind turbines.'
     caption: 'In the United States, the Gulf of Mexico watershed reaches as far north as the Prairie Pothole region. This wind farm is located among some of region’s “potholes” found along the North and South Dakota border. Photo by Krista Lundgren, USFWS.'
-updated: 'April 21st, 2017'
+updated: 'June 6th, 2019'
 ---
 
 The Gulf of Mexico is recognized worldwide as a vast and productive body of water with tremendous value in ecological, economic and socio-cultural terms. It is important to recognize that the extensive benefits the nation receives from the Gulf’s natural resources are inextricably linked to the the ecological health of the Gulf’s watershed as a whole. Society's investment in Gulf restoration will be at risk if we restore the Gulf Coast region but fail to address systemic problems that originate further up the watershed.
@@ -37,8 +37,8 @@ Below are several restoration strategies proposed by governmental and nongovernm
 
 ## The Nature Conservancy
 
-- [Charting Restoration: Gulf Restoration Priorities and Funded Projects Five Years After Deepwater Horizon](http://www.nature.org/ourinitiatives/regions/northamerica/areas/gulfofmexico/restoration/charting-restoration.xml) (2015, PDF 17 pages)
-- [Strategy for Restoring the Gulf of Mexico: Recommendations to the Gulf Coast Ecosystem Restoration Task Force](http://www.nature.org/ourinitiatives/regions/northamerica/areas/gulfofmexico/explore/gulf-restoration-strategy-lr.pdf) (a cooperative NGO report) (2013, PDF 23 pages)
+- [Charting Restoration: Gulf Restoration Priorities and Funded Projects Five Years After Deepwater Horizon](https://www.nature.org/media/gulfofmexico/charting-gulf-restoration-report.pdf) (2015, PDF 17 pages)
+- [Strategy for Restoring the Gulf of Mexico: Recommendations to the Gulf Coast Ecosystem Restoration Task Force](https://pubs.er.usgs.gov/publication/70191461) (a cooperative NGO report) (2013, PDF 23 pages)
 
 ## National Wildlife Federation
 
@@ -46,7 +46,7 @@ Below are several restoration strategies proposed by governmental and nongovernm
 
 ## Partnership for Gulf Coast Land Conservation
 
-- [A Land Conservation Vision for the Gulf of Mexico Region: An Overview](http://gulfpartnership.org/index.php/site/issue/strategic-conservation) (2014, PDF 21 pages)
+- [A Land Conservation Vision for the Gulf of Mexico Region: An Overview](https://gulfpartnership.org/a-land-conservation-vision-for-the-gulf-of-mexico-region/) (2014, PDF 21 pages)
 
 ## Audubon Society
 
