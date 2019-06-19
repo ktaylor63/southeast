@@ -1,24 +1,39 @@
 = content main
-  .content-centered
+  .content-centered.main
+
     h1.page-title {{ .Title }}
-    {{ $section := lower .Title }}
 
-    p.text-centered
-      a href="/{{ $section }}/index.xml" Subscribe to an RSS feed
+    {{ .Content }}
 
-    {{ $events :=  where .Site.RegularPages "Section" $section }}
-    {{ $hasStart := where .Site.RegularPages "Params.start" "!=" nil }}
-    {{ $pages := $events | intersect $hasStart }}
-    {{ $paginator := .Paginate $pages 7 }}
+    {{ $tag := .Page.Params.query }}
+    {{ $futureContent := slice }}
+    {{ .Scratch.Set "pages" slice}}
+
+    {{ $taggedContent := (index .Site.Taxonomies.tags ($tag | lower | urlize)).Pages }}
+    {{ $sectionContent := sort (where .Site.RegularPages "Section" "events") ".Params.start" }}
+
+    {{ range $sectionContent }}
+      {{ if ge (time .Params.start).Unix now.Unix }}
+        {{ $futureContent = $futureContent | append . }}
+      {{ end }}
+    {{ end }}
+
+    {{ if $tag }}
+      {{ .Scratch.Set "pages" (intersect $futureContent $taggedContent) }}
+    {{ else }}
+      {{ .Scratch.Set "pages" $futureContent }}
+    {{ end }}
+
+    {{ $paginator := .Paginate (.Scratch.Get "pages") 7 }}
 
     ul.card-list
-      {{ range sort $paginator.Pages ".Params.start" }}
-        {{ if ge (time .Params.start) (now.AddDate 0 0 -1) }}
-          {{ .Render "summary" }}
-        {{ end }}
+      {{ if eq (len $futureContent) 0 }}
+      li.card.card-text Sorry, there are no upcoming events
+      {{ end }}
+      {{ range $paginator.Pages }}
+        {{ .Render "summary" }}
       {{ end }}
 
     {{ partial "pagination.html" . }}
-
 
     script src="/js/infinite-scroll.js"

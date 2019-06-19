@@ -19,10 +19,9 @@
       li.card.card-text Sorry, there is no {{ $section | pluralize }} from {{ $tag }} yet
       {{ end }}
       {{ range sort $paginator.Pages ".Params.start" }}
-        {{ if ge (time .Params.start) (now.AddDate 0 0 -1) }}
-          {{ .Render "summary" }}
-        {{ end }}
+        {{ .Render "summary" }}
       {{ end }}
+
 
     {{ partial "pagination.html" . }}
 
