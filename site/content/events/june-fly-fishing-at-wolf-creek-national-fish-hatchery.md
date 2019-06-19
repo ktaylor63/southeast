@@ -1,7 +1,7 @@
 ---
 title: 'June fly fishing clinic'
-start: 2019-06-13T10:00:00.000Z
-end: 2019-06-13T12:00:00.000Z
+start: 2019-06-08T10:00:00.000Z
+end: 2019-06-08T12:00:00.000Z
 timezone: CDT
 hero:
     name: fly-fisherman-on-bank.jpg
@@ -12,7 +12,7 @@ tags:
     - 'Fly Fishing'
     - Kentucky
     - 'Wolf Creek National Fish Hatchery'
-updated: 'May 16th, 2019'
+updated: 'June 4th, 2019'
 ---
 
 Afternoon session: 1:00p.m. - 3:00p.m. CDT
