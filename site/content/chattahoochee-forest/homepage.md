@@ -44,7 +44,7 @@ Chattahoochee Forest National Fish Hatchery services trout streams throughout no
 
 ## Public use opportunities
 
-{{< figure class="photo-right" src="/images/pages/chattahoochee-forest-nfh-fishing-rodeos-2019.jpg" link="/pdf/flier/chattahoochee-forest-nfh-fishing-rodeos-2019.jpg" alt="A flier of upcoming fishing events; see the events page for more details" caption="2019 fishing rodeos. Click to enlarge." >}}
+{{< figure class="photo-right" src="/images/pages/chattahoochee-river-rodeo-flyer-2020.jpg" link="/pdf/flier/chattahoochee-river-rodeo-flyer-2020.jpg" alt="A flier of upcoming fishing events; see the events page for more details" caption="2020 fishing rodeos. Click to enlarge." >}}
 
 The hatchery provides environmental education and public outreach opportunities to visitors, school groups, and various other organizations. The environmental education program is designed to promote a conservation ethic and to develop interest in recreational fishing opportunities.
 
