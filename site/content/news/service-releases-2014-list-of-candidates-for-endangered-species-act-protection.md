@@ -1,15 +1,21 @@
 ---
 title: 'Service releases 2014 list of candidates for Endangered Species Act protection'
-date: '2014-12-05'
+date: 2014-12-05T00:00:00.000Z
 hero:
     name: georgia-aster.jpg
     alt: 'Ten to twenty bright purple flowers emerge from thick vegetation.'
-    link: 'https://flic.kr/p/mhjfW4'
-    caption: 'Georgia aster. Photo by Michele Elmore, The Nature Conservancy, Georgia.'
+    caption: 'Georgia aster. <a href="https://flic.kr/p/mhjfW4">Photo</a> by Michele Elmore, The Nature Conservancy, Georgia.'
 tags:
-    - 'At-Risk species'
+    - 'Asheville Ecological Services Field Office'
+    - 'At-Risk Species'
+    - 'Candidate Conservation Agreements'
+    - 'Candidate Conservation Agreements With Assurances'
     - Georgia
-updated: 'October 21st, 2016'
+    - 'Georgia Aster'
+    - 'North Carolina'
+    - 'Spragues Pipit'
+    - 'Yadkin River Goldenrod'
+updated: 'June 3rd, 2019'
 ---
 
 The U.S. Fish and Wildlife Service has released the Candidate Notice of Review, a yearly status appraisal of plants and animals that are candidates for Endangered Species Act (ESA) protection. Twenty-two species from Hawaii and one from Independent Samoa and American Samoa were added to the candidate list, one species was removed, and one has changed in priority from the last review conducted in November 2013\. There are now [146 species recognized by the Service as candidates for ESA protection](https://ecos.fws.gov/tess_public/pub/SpeciesReport.do?listingType=C&mapstatus=1).

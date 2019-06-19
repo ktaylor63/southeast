@@ -7,7 +7,6 @@ author: 'Gary Peeples'
 hero:
     name: green-pitcher-plants.jpg
     alt: 'Dozens of green plants in the shape of a pitcher.'
-    link: 'https://flic.kr/p/26DB4Zm'
     caption: 'Clump of green pitcher plants. <a href="https://flic.kr/p/26DB4Zm">Photo</a> by Gary Peeples, USFWS.'
     position: '50% 70%'
 tags:
@@ -24,7 +23,7 @@ tags:
     - 'Southern Appalachian Creature Feature'
     - 'Spruce-Fir Forest'
     - 'Spruce-Fir Moss Spider'
-updated: 'August 8th, 2018'
+updated: 'June 4th, 2019'
 ---
 
 ## Transcript

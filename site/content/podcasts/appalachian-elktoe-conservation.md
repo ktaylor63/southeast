@@ -8,7 +8,6 @@ hero:
     name: appalachian-elktoe-in-hand.jpg
     alt: 'A hand holding two orange/black mussels with gold plates with an identifying number.'
     caption: 'Appalachian elktoe from the Cane River. <a href="https://flic.kr/p/TfVJrG">Photo</a> by Gary Peeples, USFWS.'
-    link: 'https://flic.kr/p/TfVJrG'
     position: '50% 25%'
 tags:
     - 'Appalachian Elktoe'

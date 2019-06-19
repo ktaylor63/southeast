@@ -1,20 +1,19 @@
 ---
 title: 'Power companies, tribe, agencies take steps to save rare fish'
-date: '2016-02-23'
+date: 2016-02-23T00:00:00.000Z
 tags:
+    - 'Asheville Ecological Services Field Office'
     - Georgia
     - 'Native American'
     - 'North Carolina'
     - 'Sicklefin Redhorse'
     - Tennessee
-    - Asheville Ecological Services Field Office
 hero:
     name: sicklefin-redhorse.jpg
     alt: 'A NC biologist holding a sicklefin redhorse on a river bank in front of a hydroelectric dam.'
-    link: 'https://flic.kr/p/paZsUy'
-    caption: 'North Carolina biologist TR Russ holding an sicklefin redhorse. Photo by Mark Cantrell, USFWS.'
+    caption: 'North Carolina biologist TR Russ holding an sicklefin redhorse. <a href="https://flic.kr/p/paZsUy">Photo</a> by Mark Cantrell, USFWS.'
     position: 'bottom right'
-updated: 'December 19th, 2017'
+updated: 'June 3rd, 2019'
 ---
 
 Power companies, the Eastern Band of Cherokee Indians, and state and federal agencies have come together to conserve the [sicklefin redhorse](http://fws.gov/southeast/wildlife/fish/sicklefin-redhorse), a fish found in only six Appalachian counties worldwide and being considered for the federal endangered species list. 

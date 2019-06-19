@@ -7,8 +7,7 @@ author: 'Gary Peeples'
 hero:
     name: georgia-aster.jpg
     alt: 'Ten to twenty bright purple flowers emerge from thick vegetation.'
-    link: 'https://flic.kr/p/mhjfW4'
-    caption: 'Georgia aster. Photo by Michele Elmore, The Nature Conservancy, Georgia.'
+    caption: 'Georgia aster. <a href="https://flic.kr/p/mhjfW4">Photo</a> by Michele Elmore, The Nature Conservancy, Georgia.'
 tags:
     - 'Asheville Ecological Services Field Office'
     - Georgia
@@ -16,7 +15,7 @@ tags:
     - 'North Carolina'
     - Podcast
     - 'Southern Appalachian Creature Feature'
-updated: 'August 8th, 2018'
+updated: 'June 3rd, 2019'
 ---
 
 ## Transcript

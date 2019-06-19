@@ -3,18 +3,18 @@ title: 'Partners to sign agreement to conserve rare plant'
 hero:
     name: georgia-aster.jpg
     alt: 'Ten to twenty bright purple flowers emerge from thick vegetation.'
-    link: 'https://flic.kr/p/mhjfW4'
-    caption: 'Georgia aster. Photo by Michele Elmore, The Nature Conservancy, Georgia.'
-date: '2014-05-14'
+    caption: 'Georgia aster. <a href="https://flic.kr/p/mhjfW4">Photo</a> by Michele Elmore, The Nature Conservancy, Georgia.'
+date: 2014-05-14T00:00:00.000Z
 tags:
-    - 'Georgia Aster'
-    - Partnership
-    - Georgia
     - Alabama
+    - 'Asheville Ecological Services Field Office'
+    - Georgia
+    - 'Georgia Aster'
     - 'North Carolina'
-    - South Carolina
+    - Partnership
+    - 'South Carolina'
     - 'South Carolina Ecological Services Field Office'
-updated: 'October 20th, 2016'
+updated: 'June 3rd, 2019'
 ---
 
 Georgia aster is an uncommon Southern plant that declined for decades, to the verge of receiving federal protection. However, nine organizations, private and public, are committing to conserve the plant in an effort that should keep it off the endangered species list.  The commitment will be memorialized this Friday in an agreement called a Candidate Conservation Agreement, designed to proactively conserve plants and animals before they need Federal protection.

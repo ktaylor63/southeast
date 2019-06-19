@@ -1,13 +1,12 @@
 ---
 title: 'U.S. Fish and Wildlife Service proposes to expand bog conservation in North Carolina'
-date: '2016-11-22'
+date: 2016-11-22T00:00:00.000Z
 hero:
     name: bunched-arrowhead.jpg
     alt: 'A grass-like plant with white flowers emerges from the marsh.'
-    link: 'https://flic.kr/p/rWP7zZ'
-    caption: 'The proposed expansion would allow a population of the endangered bunched arrowhead to be conserved as part of Mountain Bogs National Wildlife Refuge. Photo by Gary Peeples, USFWS.'
+    caption: 'The proposed expansion would allow a population of the endangered bunched arrowhead to be conserved as part of Mountain Bogs National Wildlife Refuge. <a href="https://flic.kr/p/rWP7zZ">Photo</a> by Gary Peeples, USFWS.'
     position: 'top left'
-updated: 'August 31st, 2018'
+updated: 'June 3rd, 2019'
 tags:
     - 'Asheville Ecological Services Field Office'
     - 'Bunched Arrowhead'

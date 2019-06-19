@@ -1,11 +1,10 @@
 ---
 title: 'Deputy Secretary Bernhardt announces more than $52 million in federal funding to bolster tribal, state wildlife conservation projects'
-date: '2017-08-15'
+date: 2017-08-15
 hero:
     name: sicklefin-redhorse.jpg
     alt: 'A NC biologist holding a sicklefin redhorse on a river bank in front of a hydroelectric dam.'
-    link: 'https://flic.kr/p/paZsUy'
-    caption: 'North Carolina biologist TR Russ holding an sicklefin redhorse. Photo by Mark Cantrell, USFWS.'
+    caption: 'North Carolina biologist TR Russ holding an sicklefin redhorse. <a href="https://flic.kr/p/paZsUy">Photo</a> by Mark Cantrell, USFWS.'
     position: 'bottom right'
 tags:
     - 'At-Risk Species'

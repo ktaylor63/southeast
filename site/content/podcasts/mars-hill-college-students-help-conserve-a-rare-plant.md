@@ -7,7 +7,6 @@ author: 'Gary Peeples'
 hero:
     name: roan-mountain-bluet.jpg
     alt: 'A flowering bush with pink flowers.'
-    link: 'https://flic.kr/p/cp5YP7'
     caption: 'Roan Mountain bluet. <a href="https://flic.kr/p/cp5YP7">Photo</a> by BlueRidgeKitties, CC BY-NC-SA 2.0.'
 tags:
     - 'Asheville Ecological Services Field Office'

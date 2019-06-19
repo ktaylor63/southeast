@@ -1,22 +1,22 @@
 ---
 title: 'Endangered Species Act protection not needed for seven Southeastern species'
-date: '2016-10-06'
+date: 2016-10-06T00:00:00.000Z
 tags:
-    - 'North Carolina'
-    - Kentucky
     - Alabama
+    - Arkansas
+    - 'Asheville Ecological Services Field Office'
     - Florida
     - Georgia
-    - Arkansas
-    - Asheville Ecological Services Field Office
+    - Kentucky
+    - 'North Carolina'
 hero:
     name: sicklefin-redhorse.jpg
     alt: 'A NC biologist holding a sicklefin redhorse on a river bank in front of a hydroelectric dam.'
-    link: 'https://flic.kr/p/paZsUy'
-    caption: 'North Carolina biologist TR Russ holding an sicklefin redhorse. Photo by Mark Cantrell, USFWS.'
+    caption: 'North Carolina biologist TR Russ holding an sicklefin redhorse. <a href="https://flic.kr/p/paZsUy">Photo</a> by Mark Cantrell, USFWS.'
     position: 'bottom right'
-updated: 'November 9th, 2016'
+updated: 'June 3rd, 2019'
 ---
+
 Responding to requests to add them to the federal threatened and endangered species list, the U.S. Fish and Wildlife Service has concluded that the Louisville cave beetle, Tatum Cave beetle, black mudalia, sicklefin redhorse, Arkansas darter, and highlands tiger beetle do not need such protection.  A plant species, Hirst Brothers’ panic grass listing is not warranted as it has been determined that it is not a taxonomically distinct species and does not meet the definition of a species under the Endangered Species Act.
 
 “After investigating these seven species in the field and reviewing the best available science, we determined these species do not need the protection of the Endangered Species Act,” said Cindy Dohner, the Service’s Southeast Regional Director.  “Some species are more abundant than previously thought or do not face a level of threat that would warrant listing. One species needs more scientific study, and another, unfortunately is believed to be extinct.”

@@ -7,7 +7,6 @@ author: 'Gary Peeples'
 hero:
     name: monarch-caterpillar.jpg
     alt: 'A white, black and yellow caterpillar.'
-    link: 'https://flic.kr/p/22d4uKY'
     caption: 'Monarch caterpillar. <a href="https://flic.kr/p/22d4uKY">Photo</a> by Edward K. Boggess, USFWS.'
     position: '50% 85%'
 tags:
@@ -16,7 +15,7 @@ tags:
     - 'North Carolina'
     - Podcast
     - 'Southern Appalachian Creature Feature'
-updated: 'August 8th, 2018'
+updated: 'June 3rd, 2019'
 ---
 
 ## Transcript

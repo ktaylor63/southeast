@@ -1,11 +1,10 @@
 ---
 title: 'Conservation efforts help keep Georgia aster off Endangered Species List'
-date: '2014-09-17'
+date: 2014-09-17T00:00:00.000Z
 hero:
     name: georgia-aster.jpg
     alt: 'Ten to twenty bright purple flowers emerge from thick vegetation.'
-    link: 'https://flic.kr/p/mhjfW4'
-    caption: 'Georgia aster. Photo by Michele Elmore, The Nature Conservancy, Georgia.'
+    caption: 'Georgia aster. <a href="https://flic.kr/p/mhjfW4">Photo</a> by Michele Elmore, The Nature Conservancy, Georgia.'
 tags:
     - Alabama
     - 'Asheville Ecological Services Field Office'
@@ -14,7 +13,7 @@ tags:
     - 'North Carolina'
     - 'South Carolina'
     - 'South Carolina Ecological Services Field Office'
-updated: 'March 21st, 2017'
+updated: 'June 3rd, 2019'
 ---
 
 **Asheville, North Carolina** – The U.S. Fish and Wildlife Service today announced that Georgia aster does not require federal protection under the Endangered Species Act, a decision reflecting years of conservation work by myriad partners.

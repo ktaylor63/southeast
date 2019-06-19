@@ -7,7 +7,6 @@ author: 'Gary Peeples'
 hero:
     name: spreading-avens.jpg
     alt: 'A biologist repels down a cliff face to find an endangered plant.'
-    link: 'https://flic.kr/p/fkbJ7p'
     caption: 'The National Park Service’s Matt Cooke measures a spreading avens plant. <a href="https://flic.kr/p/fkbJ7p">Photo</a> by Gary Peeples, USFWS.'
     position: '80% 15%'
 tags:
