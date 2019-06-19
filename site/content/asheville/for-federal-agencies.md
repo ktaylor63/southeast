@@ -1,13 +1,14 @@
 ---
 draft: true
 title: 'Federal agencies working with the Service'
+subtitle: 'Section 7 consultations'
 nav: 'For federal agencies'
 tags:
     - Consultation
     - 'Critical Habitat'
     - 'Endangered Species Act'
     - 'Section 7'
-updated: 'December 12th, 2018'
+updated: 'May 31st, 2019'
 ---
 
 Under the Endangered Species Act, federally-funded or authorized projects are evaluated for impacts to threatened or endangered species and their critical habitat, and efforts are made to minimize or eliminate those impacts. A key step in this process is the federal agency funding or authorizing the project summarizing:

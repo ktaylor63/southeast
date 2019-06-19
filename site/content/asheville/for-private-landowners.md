@@ -10,7 +10,7 @@ hero:
 tags:
     - 'North Carolina'
     - 'Partners for Fish and Wildlife Program'
-updated: 'December 12th, 2018'
+updated: 'May 31st, 2019'
 ---
 
 Through its Partners for Fish and Wildlife Program, the Service provides financial and technical assistance to private landowners, and local and tribal governments to improve habitat on their land.
@@ -55,5 +55,5 @@ To participate in the program, landowners commit to keep the land in the restore
 
 Anita Goetz, Habitat Restoration Biologist  
 [anita_goetz@fws.gov](mailto:anita_goetz@fws.gov)  
-(o) (828) 258-3939, ext 228  
-(c) (828) 216-4971
+(office) (828) 258-3939, ext 228  
+(cell) (828) 216-4971

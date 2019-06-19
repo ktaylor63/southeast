@@ -19,7 +19,7 @@ tags:
     - 'Asheville Ecological Services Field Office'
     - 'Endangered Species Act'
     - 'North Carolina'
-updated: 'December 12th, 2018'
+updated: 'May 31st, 2019'
 ---
 
 The U.S. Fish and Wildlife Service’s (Service) Asheville Field Office (AFO), an Ecological Services facility, was established in the late 1970s. Forty-one counties make up the AFO’s core work area in western North Carolina, which includes many publicly owned conservation lands, especially in the higher elevations, as well as the metropolitan areas of Charlotte, Winston Salem, and Asheville. This area primarily encompasses portions of the Blue Ridge and Piedmont physiographic provinces. In addition to our core work area, the responsibilities of certain staff members extend beyond its boundaries and into adjacent states and other Service regions.
@@ -38,10 +38,10 @@ Normal business hours are 8:00 a.m. to 4:30 p.m., Monday - Friday.
 
 ## Contact
 
-Asheville Ecological Services Field Office
-160 Zillicoa St.
-Asheville, NC 28801
-(828) 258-3939
+Asheville Ecological Services Field Office  
+160 Zillicoa St.  
+Asheville, NC 28801  
+(828) 258-3939  
 [asheville@fws.gov](mailto:asheville@fws.gov)
 
 <br><br>
