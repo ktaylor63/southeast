@@ -14,7 +14,7 @@ hero:
     alt: 'A refuge law enforcement officer in uniform shows a child how to cast a rod.'
     link: 'https://flic.kr/p/aL3SKt'
     caption: 'Zone Officer Butler teaching Cub Scouts how to fish at a summer camp in Brunswick, GA. Photo by USFWS.'
-updated: 'August 31st, 2017'
+updated: 'June 6th, 2019'
 ---
 
 In addition to the conservation of wildlife and habitat, many national wildlife refuges offer a wide variety of quality fishing opportunities. Every year, about 7 million anglers visit national wildlife refuges, where they can find knowledgeable staff and thousands of volunteers.
@@ -225,8 +225,7 @@ Fishing licenses are provided by state wildlife agencies. Select your state agen
 
 ### Alabama Department of Conservation & Natural Resources
 
-- [Resident Freshwater Fishing Licenses](http://www.outdooralabama.com/resident-freshwater-fishing-license-and-application-packets)
-- [Non-resident Freshwater Fishing Licenses](http://www.outdooralabama.com/nonresident-freshwater-fishing-license-and-application-packets)
+- [Freshwater Fishing Licenses](https://www.alabamainteractive.org/dcnr_license/welcome.action)
 
 ### Arkansas Game & Fish Commission
 
@@ -240,7 +239,7 @@ Fishing licenses are provided by state wildlife agencies. Select your state agen
 ### Georgia Department of Natural Resources, Wildlife Resources Division
 
 - [Sport Fishing Regulations](http://www.georgiawildlife.com/fishing/regulations)
-- [Fishing License Requirements](http://www.georgiawildlife.org/node/1300)
+- [Fishing License Requirements](https://georgia.gov/popular-topic/fishing-licenses)
 - [Purchase a License](https://www.gooutdoorsgeorgia.com/)
 
 ### Kentucky Department of Fish & Wildlife Resources
@@ -249,13 +248,13 @@ Fishing licenses are provided by state wildlife agencies. Select your state agen
 
 ### Louisiana Department of Wildlife and Fisheries
 
-- [Fishing License Information](http://www.wlf.louisiana.gov/licenses-and-permits)
+- [Fishing License Information](http://www.wlf.louisiana.gov/recreational-fishing-licenses)
 - [Purchase Your License Online](https://www.la.wildlifelicense.com/info.php)
 
 ### Mississippi Wildlife, Fisheries & Parks
 
 - [Fishing License Types and Regulations](https://www.ms.gov/mdwfp/hunting_fishing/faq_info.aspx#Fishing)
-- [Purchase a Fishing License](https://www.ms.gov/mdwfp/hunting_fishing/)
+- [Purchase a Fishing License](https://la-web.s3licensing.com/)
 
 ### North Carolina Wildlife Resources Commission
 
