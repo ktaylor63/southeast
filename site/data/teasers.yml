@@ -1,4 +1,39 @@
 stories:
+  - title: "Video: Florida scrub lizard translocation project"
+    date: 2019-06-14
+    url: "https://www.youtube.com/watch?v=tENf2P80FFU&feature=youtu.be"
+  - title: "For one rare bird, flight from South Florida’s changing climate sparks a surprising revival"
+    date: 2019-06-12
+    url: "https://www.miamiherald.com/news/local/environment/article231427908.html"
+    hero:
+      name: roseate-spoonbills-louisiana.jpg
+      alt: "Small pink birds with rounded bills wade through the shallow water."
+      caption: 'Roseate spoonbills out in the water. <a href="https://flic.kr/p/bucd7F">Photo</a> by Corey Douglas.'
+  - title: "Saving Sea Turtles with Science: Sea Turtle Week"
+    date: 2019-06-14
+    url: "https://www.fisheries.noaa.gov/feature-story/saving-sea-turtles-science-sea-turtle-week"
+    hero:
+      name: green-sea-turtle.jpg
+      alt: "A large sea turtle swimming underwater"
+      caption: "A green sea turtle at Midway Atoll in Papahānaumokuākea Marine National Monument. Photo by NOAA."
+  - title: "Video: Florida Just Released America's Longest Snakes Into The Wild"
+    date: 2019-06-13
+    url: "https://www.msn.com/en-us/video/animals/florida-just-released-americas-longest-snakes-into-the-wild/vi-AACNapC"
+    hero:
+      name: eastern-indigo-snake.jpg
+      alt: "A deep black snake coiled up on sandy soil with young longleaf pine seedlings in the background"
+      caption: "An Eastern indigo snake on sandy soil associated with the longleaf pine ecosystem. Photo © Houston Chandler, the Orianne Society (Used with permission)."
+      position: "25% 80%"
+  - title: "Carnivorous plants have a taste for salamanders, scientists find"
+    subtitle: "The northern pitcher plants, also known as turtle socks, devour juvenile spotted salamanders"
+    summary: "Biologists have discovered evidence that carnivorous plants in Canada feast on young salamanders, in what is believed to be the first instance of vertebrate consumption by plants in North America."
+    date: 2019-06-12
+    url: "https://www.theguardian.com/world/2019/jun/12/canada-carnivorous-plants-eat-salamanders"
+    hero:
+      name: green-pitcher-plants.jpg
+      alt: "Dozens of green plants in the shape of a pitcher."
+      caption: 'Clump of green pitcher plants. <a href="https://flic.kr/p/26DB4Zm">Photo</a> by Gary Peeples, USFWS.'
+      position: "50% 70%"
   - title: "McConnell Says Reducing Asian Carp His Number One Issue In West Kentucky"
     summary: "Senate Majority Leader Mitch McConnell says reducing the population of invasive Asian carp is the number one issue he wants to accomplish in west Kentucky this year and next."
     date: 2019-05-28
@@ -678,14 +713,6 @@ stories:
       alt: "Tall, narrow, pine trees spaced about 25 feet apart with very sparse, dry grass in the understory."
       link: "https://flic.kr/p/qGYCdR"
       caption: "Longleaf pine is a fire-dependent ecosystem that supports gentian pinkroot."
-  - title: "Gopher frog conservation partners USFWS do an incredible job in their first season of head-starting"
-    url: "http://frogpodblog.blogspot.com/2017/06/gopher-frog-conservation-partners-usfws.html"
-    date: 2017-06-30
-    summary: "This year, USFWS joined GA DNR, UGA, Zoo Atlanta and the Amphibian Foundation in a state-wide project to increase population numbers of Georgia&rsquo;s rarest frog — The Gopher Frog."
-    hero:
-      name: "gopher-frog-release-warm-springs.jpg"
-      alt: "A USFWS biologist releasing gopher frogs into a swamp."
-      caption: "Releasing gopher frogs into the swamp. Photo by Carlos Echevarria, USFWS."
   - title: "Stewardship with Vision: David Spicer"
     url: "https://www.youtube.com/watch?v=yW82TiCagbE"
     date: 2017-06-29
