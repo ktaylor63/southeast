@@ -34,7 +34,7 @@ tags:
     - Mississippi
     - 'Narrow Pigtoe'
     - 'Neosho Mucket'
-    - 'Noonday Snail'
+    - 'Noonday Globe Snail'
     - 'North Carolina'
     - 'Palo De Ramon'
     - 'Perdido Key Beach Mouse'
