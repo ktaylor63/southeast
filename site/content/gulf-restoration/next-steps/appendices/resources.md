@@ -38,7 +38,7 @@ tags:
 *   [Texas Parks and Wildlife Department. 1999\. Seagrass Conservation Plan for Texas. Austin, Texas. 84 pages.](http://tpwd.texas.gov/publications/pwdpubs/media/pwd_bk_r0400_0041.pdf)
 *   [Texas Parks and Wildlife Department. 2012\. Texas Conservation Action Plan 2012 – 2016: Gulf Coast Prairies and Marshes Handbook. Editor, Wendy Connally, Texas Conservation Action Plan Coordinator. Austin, Texas. 51 pages.](http://tpwd.texas.gov/landwater/land/tcap/documents/gcpm_tcap_2012.pdf)
 *   Tunnell, J.W. Jr. and F.W. Judd (eds.) 2002\. The Laguna Madre of Texas and Tamaulipas - A Compendium. Texas A&M University Press, College Station.
-*   [U.S. Census Bureau. 2015\. QuickFacts Beta 2.0\. Accessed October 15, 2015\.](https://www.census.gov/quickfacts/)
+*   [U.S. Census Bureau. 2015\. QuickFacts Beta 2.0\. Accessed October 15, 2015\.](http://quickfacts.census.gov/qfd/states)
 *   U.S. Fish and Wildlife Service. 1990\. Northern aplomado falcon recovery plan. U.S. Fish and Wildlife Service. Albuquerque, New Mexico. 56 pages.
 *   U.S. Fish and Wildlife Service. 2010\. Laguna Atascosa National Wildlife Refuge Comprehensive Conservation Plan. U.S. Department of the Interior Fish and Wildlife Service Southwest Regional Office, Albuquerque, New Mexico. 274 pages.
 *   U.S. Fish and Wildlife Service. 2010\. Draft Ocelot (Leopardus pardalis) Recovery Plan, First Revision. U.S. Fish and Wildlife Service, Southwest Region, Albuquerque, New Mexico.
@@ -72,7 +72,7 @@ tags:
 
 *   [Brown, C., K. Andrews, J. Brenner, J.W. Tunnell, C. Canfield, C. Dorset, M. Driscoll and E. Johnson, S. Kaderka. 2011\. Strategy for Restoring the Gulf of Mexico (a cooperative NGO report). The Nature Conservancy. Arlington, VA. 23 pages.](http://www.nature.org/ourinitiatives/regions/northamerica/areas/gulfofmexico/explore/gulf-restoration-strategy-lr.pdf)
 *   [Esslinger, C.G., and B.C. Wilson. 2001\. North American Waterfowl Management Plan, Gulf Coast Joint Venture: Chenier Plain Initiative. North American Waterfowl Management Plan, Albuquerque, NM. 28 pages + appendix.](http://www.gcjv.org/documents.php)
-*   Gosselink, J. G., C.L. Cordes, J. W. Parsons. 1979\. An ecological characterization study of the Chenier Plain coastal ecosystem of Louisiana and Texas. 3 vols. U. S. Fish and Wildlife Service, Office of Biological Sciences. FWS/OBS-78/9 through 78/11.
+*   Gosselink, J. G., C.L. Cordes, J. W. Parsons. 1979\. An ecological characterization study of the Chenier Plain coastal ecosystem of Lousiana and Texas. 3 vols. U. S. Fish and Wildlife Service, Office of Biological Sciences. FWS/OBS-78/9 through 78/11.
 *   [Holcomb, S., A. Bass, C. Reid, M. Seymour, N. Lorenz, B. Gregory, S. Javed, K. Balkum. 2015\. Louisiana Wildlife Action Plan. Louisiana Department of Wildlife and Fisheries. Baton Rouge, La.](http://www.wlf.louisiana.gov/wildlife/wildlife-action-plan)
 *   [National Wildlife Federation. 2014\. Restoring the Gulf of Mexico for People and Wildlife: Recommended Projects and Priorities. 27 pages.](http://www.nwf.org/~/media/PDFs/Water/2014/NWF_Embargo_Dec-9_11am_CT_Restoring-the-Gulf-Projects-and-Priorities.pdf)
 *   [Texas A&M University. 1997\. Proceedings of the Sabine Lake Conference: Where Texas and Lousiana Come Together. Ecology-Habitat-Stewardship. TAMU-SG-97-101\. 66 pages.](http://texasseagrant.org/assets/uploads/publications/1997/97-101.pdf)
@@ -125,12 +125,12 @@ tags:
 *   [RCW Recovery Plan](https://www.fws.gov/rcwrecovery/recovery_plan.html)
 *   [Rich, T. D., C. J. Beardmore, H. Berlanga, P. J. Blancher, M. S. W. Bradstreet, G. S. Butcher, D. W. Demarest, E. H. Dunn, W. C. Hunter, E. E. Iñigo-Elias, J. A. Kennedy, A. M. Martell, A. O. Panjabi, D. N. Pashley, K. V. Rosenberg, C. M. Rustay, J. S. Wendt, T. C. Will. 2004\. Partners in Flight North American Landbird Conservation Plan. Cornell Lab of Ornithology. Ithaca, NY.](https://www.partnersinflight.org/resources/north-american-landbird-conservation-plan/)
 *   [U.S. Fish and Wildlife Service and Gulf States Marine Fisheries Commission. 1995\. Gulf Sturgeon Recovery Plan. 170 pages.](http://www.nmfs.noaa.gov/pr/pdfs/recovery/sturgeon_gulf.pdf)
-*   [U.S. Fish and Wildlife Service. 1990. Gopher Tortoise Recovery Plan. 28 pages.](https://ecos.fws.gov/docs/recovery_plan/901226.pdf)
-*   [U.S. Fish and Wildlife Service. 1991. Mississippi Sandhill Crane Recovery Plan. 42 pages.](https://ecos.fws.gov/docs/recovery_plan/910906.pdf)
-*   U.S. Fish and Wildlife Service. 2008. Alabama Ecological Services Field Office Strategic Five-Year Plan. 50 pages.
-*   U.S. Fish and Wildlife Service. 2012. Strategic Habitat Conservation Approach in Coastal Alabama. Factsheet developed by the Alabama Ecological Services Field Office. 2pages.
-*   [U.S. Fish and Wildlife Service. 2015. Dusky Gopher Frog (Rana sevosa) Recovery Plan. 86 pages.](http://ecos.fws.gov/docs/recovery_plan/2015_07_16_Final%20RP_R_sevosa_08212015%20(1).pdf)
-*   U.S. Fish and Wildlife Service. South Mississippi Strategic Plan, Mississippi Field Office. 6 pages.
+*   [U.S. Fish and Wildlife Service. 1990\. Gopher Tortoise Recovery Plan. 28 pages.](https://ecos.fws.gov/docs/recovery_plan/901226.pdf)
+*   [U.S. Fish and Wildlife Service. 1991\. Mississippi Sandhill Crane Recovery Plan. 42 pages.](https://ecos.fws.gov/docs/recovery_plan/910906.pdf)
+*   U.S. Fish and Wildlife Service. 2008\. Alabama Ecological Services Field Office Strategic Five-Year Plan. 50 pages.
+*   U.S. Fish and Wildlife Service. 2012\. Strategic Habitat Conservation Approach in Coastal Alabama. Factsheet developed by the Alabama Ecological Services Field Office. 2pages.
+*   [U.S. Fish and Wildlife Service. 2015\. Dusky Gopher Frog (Rana sevosa) Recovery Plan. 86 pages.](http://ecos.fws.gov/docs/recovery_plan/2015_07_16_Final%20RP_R_sevosa_08212015%20(1).pdf)
+*   U.S. Fish and Wildlife Service. YEAR?? South Mississippi Strategic Plan, Mississippi Field Office. 6 pages.
 *   [Watson, A., J. Reece, B.E. Tirpak, C. K. Edwards, L. Geselbracht, M. Woodrey, M. LaPeyre, and P. S. Dalyander. 2015\. The Gulf Coast Vulnerability Assessment: Mangrove, Tidal Emergent Marsh, Barrier Islands, and Oyster Reef. 132 pages.](http://gulfcoastprairielcc.org/science/science-projects/gulf-coast-vulnerability-assessment/)
 
 ## Central Gulf and Florida Panhandle Coast
@@ -149,7 +149,7 @@ tags:
 *   Hoyer, M.V. and D.E. Canfield, Jr. 2008\. A management plan for Walton County’s coastal dune lakes. A report by Florida LAKEWATCH.
 *   [National Marine Fisheries Service, U.S. Fish and Wildlife Service, and SEMARNAT. 2011\. Bi-National Recovery Plan for the Kemp’s Ridley Sea Turtle (Lepidochelys kempii), Second Revision. National Marine Fisheries Service. Silver Spring, Maryland 156 pages + appendices.](https://www.fws.gov/kempsridley/)
 *   [National Research Council. 2007\. Mitigating shore erosion along sheltered coasts. The National Academies Press, Washington, DC. 188 pages.](http://www.nap.edu/catalog/11764/mitigating-shore-erosion-along-sheltered-coasts)
-*   [Pollinator Health Task Force. 2015. Pollinator research action plan. White House report. 57 pages + appendices](https://obamawhitehouse.archives.gov/sites/default/files/microsites/ostp/Pollinator%20Research%20Action%20Plan%202015.pdf)
+*   [Pollinator Health Task Force. 2015\. Pollinator research action plan. White House report. 57 pages + appendices](https://www.whitehouse.gov/sites/default/files/microsites/ostp/Pollinator%20Research%20Action%20Plan%202015.pdf)
 *   [South Atlantic Landscape Conservation Cooperative. 2015\. Blueprint 2.0., accessed 2-19-2016](http://blueprint.southatlanticlcc.org/v2/index.html)
 *   [Stein, B.A., P. Glick, N. Edelson, A. Staudt (eds.). 2014\. Climate-Smart Conservation: Putting Adaptation Principles into Practice. National Wildlife Federation, Washington, D.C. 262 pages.](http://www.nwf.org/pdf/Climate-Smart-Conservation/NWF-Climate-Smart-Conservation_5-08-14.pdf)
 *   [U.S. Fish and Wildlife Service and Gulf States Marine Fisheries Commission. 1995\. Gulf Sturgeon Recovery Plan. Atlanta, Georgia. 170 pages.](http://www.nmfs.noaa.gov/pr/pdfs/recovery/sturgeon_gulf.pdf)
@@ -187,17 +187,17 @@ tags:
 *   [Florida Fish and Wildlife Conservation Commission. 2016\. Draft Panama City Crayfish (Procambarus econfinae) Management Plan. Tallahassee, Florida. 49 pages.](http://myfwc.com/media/3395300/Panama-City-Crayfish-Draft-Management-Plan-February-2016.pdf)
 *   Hoctor, T. 2013\. Green Links Regional CLIP Database for U.S. Fish and Wildlife Service Contract # F11PX04150 Panama City Field Office, FL. University of Florida Center for Landscape Conservation Planning. Gainesville, FL. 43 pages + appendices.
 *   Metcalf, C. 2005\. Northwest Florida Unpaved Road-Stream Crossing Manual. U.S. Fish and Wildlife Service, Panama City, Florida, 426 pages.
-*   Metcalf, C. K. and C. R. Morris. 2015. Approaches to Stream Habitat Restoration Techniques in the SE United States. pp. 405-417 in M. D. Tringali, J. M. Long, T. W. Birdsong, and M. S. Allen, editors. Black Bass Diversity: multidisciplinary science for conservation. American Fisheries Society, Symposium 82\. Bethesda, Maryland
+*   Metcalf, C. K. and C. R. Morris. 2015\. Approaches to Stream Habitat Restoration Techniques in the SE United States. pp. 405-417 in M. D. Tringali, J. M. Long, T. W. Birdsong, and M. S. Allen, editors. Black Bass Diversity: multidisciplinary science for conservation. American Fisheries Society, Symposium 82\. Bethesda, Maryland
 *   [South Atlantic Landscape Conservation Cooperative. 2015\. Blueprint 2.0., accessed 2-19-2016](http://blueprint.southatlanticlcc.org/v2/index.html)
-*   The Nature Conservancy in Florida. 2014. Apalachicola-St. Marks: community based watershed plan. pp. 68
+*   The Nature Conservancy in Florida. 2014\. Apalachicola-St. Marks: community based watershed plan. pp. 68
 *   [U.S. Fish and Wildlife Service and Gulf States Marine Fisheries Cornmission. 1995\. Gulf Sturgeon Recovery Plan. Atlanta, Georgia. 170 pages.](http://www.nmfs.noaa.gov/pr/pdfs/recovery/sturgeon_gulf.pdf)
-*   U.S. Fish and Wildlife Service. 1982. Eastern Indigo Snake Recovery Plan. Atlanta, GA. 23 pages.
-*   U.S. Fish and Wildlife Service. 1994. Recovery Plan for Four Plants of the Lower Apalachicola Region, Florida: Euphorbia telephioides (Telephus spurge), Macbridea alba (white birds-in-a-nest), Pinguicula ionantha (Godfrey’s butterwort), and Scutellaria floridana (Florida skullcap). Atlanta, GA . 32 pages.
-*   [U.S. Fish and Wildlife Service. 1998. Okaloosa Darter Recovery Plan. Atlanta, GA. 42 pages.](https://ecos.fws.gov/docs/recovery_plan/970407.pdf)
-*   [U.S. Fish and Wildlife Service. 2003. Recovery Plan for Endangered Fat Threeridge (Amblema neislerii), Shinyrayed Pocketbook (Lampsilis subangulata), Gulf Moccasinshell (Medionidus pencillatus), Ochlockonee Moccasinshell (Medionidus simpsonianus), and Oval Pigtoe (Pleurobema pyriforme); and Threatened Chipola Slabshell (Elliptio chipolaensis) and Purple Bankclimber (Elliptoideus sloatianus). Atlanta, GA. 142 pages.](https://www.fws.gov/southeast/news/2003/7-mussel_recorvery-plan.pdf)
-*   U.S. Fish and Wildlife Service. 2016. Draft. Frosted flatwoods salamander, 5-year review: summary and evaluation. Panama City, Florida.
-*   U.S. Fish and Wildlife Service. 2016. Draft. Reticulated flatwoods salamander, 5-year review: summary and evaluation. Panama City, Florida.
-*   [Wood, L.M., E.A. Mizell, and S.J. Herrington. 2007. Apalachicola River watershed invasive non-native species management plan. The Nature Conservancy Northwest Florida Program, final report to Fish and Wildlife Service. 175 pages + appendix.](http://bugwoodcloud.org/CDN/floridainvasives/ARSA_CISMA_Plan.pdf)
+*   U.S. Fish and Wildlife Service. 1982\. Eastern Indigo Snake Recovery Plan. Atlanta, GA. 23 pages.
+*   U.S. Fish and Wildlife Service. 1994\. Recovery Plan for Four Plants of the Lower Apalachicola Region, Florida: Euphorbia telephioides (Telephus spurge), Macbridea alba (white birds-in-a-nest), Pinguicula ionantha (Godfrey’s butterwort), and Scutellaria floridana (Florida skullcap). Atlanta, GA . 32 pages.
+*   [U.S. Fish and Wildlife Service. 1998\. Okaloosa Darter Recovery Plan. Atlanta, GA. 42 pages.](https://www.fws.gov/ecos/ajax/docs/recovery_plan/970407.pdf)
+*   [U.S. Fish and Wildlife Service. 2003\. Recovery Plan for Endangered Fat Threeridge (Amblema neislerii), Shinyrayed Pocketbook (Lampsilis subangulata), Gulf Moccasinshell (Medionidus pencillatus), Ochlockonee Moccasinshell (Medionidus simpsonianus), and Oval Pigtoe (Pleurobema pyriforme); and Threatened Chipola Slabshell (Elliptio chipolaensis) and Purple Bankclimber (Elliptoideus sloatianus). Atlanta, GA. 142 pages.](https://www.fws.gov/southeast/news/2003/7-mussel_recorvery-plan.pdf)
+*   U.S. Fish and Wildlife Service. 2016\. Draft. Frosted flatwoods salamander, 5-year review: summary and evaluation. Panama City, Florida.
+*   U.S. Fish and Wildlife Service. 2016\. Draft. Reticulated flatwoods salamander, 5-year review: summary and evaluation. Panama City, Florida.
+*   [Wood, L.M., E.A. Mizell, and S.J. Herrington. 2007\. Apalachicola River watershed invasive non-native species management plan. The Nature Conservancy Northwest Florida Program, final report to Fish and Wildlife Service. 175 pages + appendix.](http://bugwoodcloud.org/CDN/floridainvasives/ARSA_CISMA_Plan.pdf)
 
 ## Florida's Big Bend
 
@@ -214,28 +214,28 @@ tags:
 ## Tampa Bay
 
 *   [Joint Florida Gulf National Estuary Programs. 2013\. Southwest Florida Regional Ecosystem Restoration Plan. 47 pages.](http://www.tbeptech.org/attachments/article/131/Southwest%20Florida%20Regional%20Ecosystem%20Restoration%20Plan,%20adopted%203-8-2013.pdf)
-*   [Southwest Florida Water Management District. 1999\. Tampa Bay Surface Water Improvement and Management (SWIM) Plan. 108 pages.](https://www.swfwmd.state.fl.us/documents/plans/tampabay_1998.pdf)
+*   [Southwest Florida Water Management Disctrict. 1999\. Tampa Bay Surface Water Improvement and Management (SWIM) Plan. 108 pages.](https://www.swfwmd.state.fl.us/documents/plans/tampabay_1998.pdf)
 *   Tampa Bay Estuary Program. 2006\. Charting the Course - The Comprehensive Conservation and Management Plan for Tampa Bay. 151 pages.
 *   [Tampa Bay Estuary Program. 2015\. A Tampa Bay Estuary Program Progress Report 2015\. 20 pages.](http://www.tbep.org/pdfs/tbep_progress_rpt_2015_webx.pdf)
 *   U.S. Fish and Wildlife Service. 2010\. Tampa Bay Refuges: Egmont Key, Pinellas, and Passage Key National Wildlife Refuges Comprehensive Conservation Plan. 111 pages + appendices.
 
 ## Southwest Florida
 
-*   [National Park Service. 2010. Tamiami Trail Modifications: Next Steps. Final Environmental Impact Statement. 352 pages + appendices.](https://parkplanning.nps.gov/document.cfm?parkID=374&projectID=26159&documentID=37956)
-*   [U.S. Army Corps of Engineers and South Florida Water Management District. 2010. Final Caloosahatchee River (C-43) West Basin Storage Reservoir Project Implementation Report and Final Environmental Impact Statement. 482 pages.](http://141.232.10.32/pm/projects/docs_04_c43_pir_final.aspx)
-*   [U.S. Army Corps of Engineers and South Florida Water Management District. 2014. Central Everglades Planning Project Final Integrated Project Implementation Report and Environmental Impact Statement. 386 pages.](http://141.232.10.32/pm/projects/docs_51_cepp.aspx)
-*   [U.S. Fish and Wildlife Service. 2008. Florida Panther Recovery Plan (Puma concolor coryi), Third Revision. 180 pages + appendices.](https://www.fws.gov/uploadedFiles/Panther%20Recovery%20Plan.pdf)
-*   [W.C. Hunter, G. Walker, S. Melvin, and J. Wheeler. 2006. Southeast United States Regional Waterbird Conservation Plan. 131 pages.](http://www.lmvjv.org/library/SE_Waterbird_Plan.pdf)
+*   [National Park Service. 2010\. Tamiami Trail Modifications: Next Steps. Final Environmental Impact Statement. 352 pages + appendices.](https://parkplanning.nps.gov/document.cfm?parkID=374&projectID=26159&documentID=37956)
+*   [U.S. Army Corps of Engineers and South Florida Water Management District. 2010\. Final Caloosahatchee River (C-43) West Basin Storage Reservoir Project Implementation Report and Final Environmental Impact Statement. 482 pages.](http://141.232.10.32/pm/projects/docs_04_c43_pir_final.aspx)
+*   [U.S. Army Corps of Engineers and South Florida Water Management District. 2014\. Central Everglades Planning Project Final Integrated Project Implementation Report and Environmental Impact Statement. 386 pages.](http://141.232.10.32/pm/projects/docs_51_cepp.aspx)
+*   [U.S. Fish and Wildlife Service. 2008\. Florida Panther Recovery Plan (Puma concolor coryi), Third Revision. 180 pages + appendices.](https://www.fws.gov/uploadedFiles/Panther%20Recovery%20Plan.pdf)
+*   [W.C. Hunter, G. Walker, S. Melvin, and J. Wheeler. 2006\. Southeast United States Regional Waterbird Conservation Plan. 131 pages.](http://www.lmvjv.org/library/SE_Waterbird_Plan.pdf)
 
 ## Southwest Florida
 
-*   U.S. Army Corps of Engineers, Jacksonville District. 2015. Southwest Florida Comprehensive Watershed Plan: A habitat quilt tied by threads of water reconnecting a sustainable landscape. 186 pages.
+*   U.S. Army Corps of Engineers, Jacksonville District. 2015\. Southwest Florida Comprehensive Watershed Plan: A habitat quilt tied by threads of water reconnecting a sustainable landscape. 186 pages.
 
 ## Florida Keys
 
-*   [The Nature Conservancy. 2009. Initial estimates of the ecological and economic consequences of sea level rise on the Florida Keys through the year 2100. 35 pages.](http://frrp.org/SLR%20documents/FINAL%20-%20Aug%2021%20-WITH%20COVER.pdf)
-*   [U.S. Army Corps of Engineers. 1999. Central and South Florida Project Comprehensive Review Study. Final Integrated Feasibility Report and Programmatic Environmental Impact Statement. 4034 pages.](http://141.232.10.32/docs/comp_plan_apr99/the-plan-complete_web.pdf)
-*   [U.S. Fish and Wildlife Service. 2009. Lower Florida Keys National Wildlife refuges Comprehensive Conservation Plan and Environmental Assessment. 96 pages + appendices.](https://www.fws.gov/southeast/planning/PDFdocuments/Florida%20Keys%20FINAL/TheKeysFinalCCPFormatted.pdf)
+*   [The Nature Conservancy. 2009\. Initial estimates of the ecological and economic consequences of sea level rise on the Florida Keys through the year 2100\. 35 pages.](http://frrp.org/SLR%20documents/FINAL%20-%20Aug%2021%20-WITH%20COVER.pdf)
+*   [U.S. Army Corps of Engineers. 1999\. Central and South Florida Project Comprehensive Review Study. Final Integrated Feasibility Report and Programmatic Environmental Impact Statement. 4034 pages.](http://141.232.10.32/docs/comp_plan_apr99/the-plan-complete_web.pdf)
+*   [U.S. Fish and Wildlife Service. 2009\. Lower Florida Keys National Wildlife refuges Comprehensive Conservation Plan and Environmental Assessment. 96 pages + appendices.](https://www.fws.gov/southeast/planning/PDFdocuments/Florida%20Keys%20FINAL/TheKeysFinalCCPFormatted.pdf)
 *   [U.S. Fish and Wildlife Service. 2006\. Crocodile Lake National Wildlife Refuge Comprehensive Conservation Plan. 44 pages + appendices.](https://www.fws.gov/southeast/planning/PDFdocuments/Crocodile%20Lake/CrocodileLakeFinalCCP.pdf)
 
 ## Upper Mississippi River Watershed
