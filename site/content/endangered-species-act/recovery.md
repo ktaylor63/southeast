@@ -54,7 +54,7 @@ You can find the recovery plan for any protected species using our [Environmenta
 - [Bald eagle](https://www.federalregister.gov/articles/2007/07/09/07-4302/endangered-and-threatened-wildlife-and-plants-removing-the-bald-eagle-in-the-lower-48-states-from)
 - [Brown pelican](https://www.federalregister.gov/articles/2009/11/17/E9-27402/endangered-and-threatened-wildlife-and-plants-removal-of-the-brown-pelican-pelecanus-occidentalis)
 - [Eggert’s sunflower](https://www.federalregister.gov/articles/2005/08/18/05-16274/endangered-and-threatened-wildlife-and-plants-removal-of-helianthus-eggertii)
-- [Louisiana black bear](https://www.federalregister.gov/articles/2016/03/11/2016-05206/endangered-and-threatened-wildlife-and-plants-removal-of-the-louisiana-black-bear-from-the-federal), ([Species Profile](/wildlife/mammal/louisiana-black-bear))
+- [Louisiana black bear](https://www.federalregister.gov/articles/2016/03/11/2016-05206/endangered-and-threatened-wildlife-and-plants-removal-of-the-louisiana-black-bear-from-the-federal), ([Species Profile](/wildlife/mammals/louisiana-black-bear))
 - [Magazine mountain shagreen](https://www.federalregister.gov/articles/2013/05/15/2013-11541/endangered-and-threatened-wildlife-and-plants-removal-of-the-magazine-mountain-shagreen-from-the)
 - [Tennessee purple coneflower](https://www.federalregister.gov/articles/2011/08/03/2011-19674/endangered-and-threatened-wildlife-and-plants-removal-of-echinacea-tennesseensis-tennessee-purple)
 - [White-haired goldenrod](https://www.federalregister.gov/articles/2015/09/01/2015-21410/endangered-and-threatened-wildlife-and-plants-removal-of-solidago-albopilosa-white-haired-goldenrod), ([Species Profile](/wildlife/plants/white-haired-goldenrod/))

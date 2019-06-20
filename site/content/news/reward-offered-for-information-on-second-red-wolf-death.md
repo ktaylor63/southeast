@@ -36,4 +36,4 @@ The red wolf is one of two species of wolves in North America, the other being t
 
 Red wolves are social animals that live in packs consisting of a breeding pair and their offspring of different years, typically five to eight animals. Red wolves prey on a variety of wild mammals such as raccoon, rabbit, white-tailed deer, nutria, and other rodents. Most active at dusk and dawn, red wolves are elusive and generally avoid humans and human activity.
 
-[Learn more about red wolves and what the Service is doing to recover them.](/wildlife/mammal/red-wolf)
+[Learn more about red wolves and what the Service is doing to recover them.](/wildlife/mammals/red-wolf)

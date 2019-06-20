@@ -29,7 +29,7 @@ updated: 'May 15th, 2019'
 
 [Read the release in Spanish](/pdf/espanol/manatee-reclassified-from-endangered-to-threatened-as-habitat-improves-and-population-expands-existing-federal-protections-remain-in-place.pdf).
 
-On the heels of Manatee Appreciation Day, the U.S. Department of the Interior announced the downlisting of the [West Indian manatee](/wildlife/mammal/manatee) from endangered to threatened. Notable increases in manatee populations and improvements in its habitat allowed the U.S. Fish and Wildlife Service (FWS) to change the species’ status under the Endangered Species Act (ESA).
+On the heels of Manatee Appreciation Day, the U.S. Department of the Interior announced the downlisting of the [West Indian manatee](/wildlife/mammals/manatee) from endangered to threatened. Notable increases in manatee populations and improvements in its habitat allowed the U.S. Fish and Wildlife Service (FWS) to change the species’ status under the Endangered Species Act (ESA).
 
 The downlisting comes after diverse conservation efforts and collaborations by Florida and other manatee states, the Commonwealth of Puerto Rico, Caribbean nations, public and private organizations and citizens, there have been notable increases in manatee populations and improvements in its habitat.
 
@@ -57,7 +57,7 @@ Today’s estimated population of 6,620 Florida manatees is a dramatic turnaroun
 Outside the United States, manatee population and abundance estimates are less certain. There are likely as many as 6,300 Antillean manatees spread over a much broader range, from the Mexican Gulf coast to northern Brazil and the Caribbean.
 
 [Download the final rule](/pdf/west-indian-manatee-reclassification-final-rule.pdf) reclassifying the West Indian manatee from endangered to threatened.
-[Learn more about the Florida and Antillean subspecies on the West Indian manatee species profile](/wildlife/mammal/manatee/). Download the [Frequently Asked Questions](/pdf/frequently-asked-questions/manatee-reclassification-to-threatened.pdf) for additional information related to the decision.
+[Learn more about the Florida and Antillean subspecies on the West Indian manatee species profile](/wildlife/mammals/manatee/). Download the [Frequently Asked Questions](/pdf/frequently-asked-questions/manatee-reclassification-to-threatened.pdf) for additional information related to the decision.
 
 ## Teleconference Audio
 

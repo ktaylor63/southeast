@@ -13,7 +13,7 @@ tags:
 updated: 'March 19th, 2017'
 ---
 
-The U.S. Fish and Wildlife Service (Service) and the [Florida Fish and Wildlife Conservation Commission (FWC)](http://myfwc.com/) have updated the estimated number of endangered [Florida panthers](/wildlife/mammal/florida-panther/) in their breeding range south of the Caloosahatchee River.
+The U.S. Fish and Wildlife Service (Service) and the [Florida Fish and Wildlife Conservation Commission (FWC)](http://myfwc.com/) have updated the estimated number of endangered [Florida panthers](/wildlife/mammals/florida-panther/) in their breeding range south of the Caloosahatchee River.
 
 The updated population estimate is 120 to 230 adult and subadult Florida panthers, according to a February 2017 report from the agencies collaborating on conservation and recovery efforts. The previous Florida panther population estimate was 100 to 180 adult and subadult panthers in 2014. These population estimates do not include kittens, which are still dependent on their mothers.
 

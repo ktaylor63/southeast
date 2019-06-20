@@ -31,7 +31,7 @@ The red wolf was first classified as “threatened with extinction” in 1967 un
 
 ## What has the Service done to recover the red wolf?
 
-View a detailed account of [recovery efforts for the red wolf](https://www.fws.gov/southeast/wildlife/mammal/red-wolf/#recovery-timeline-section).
+View a detailed account of [recovery efforts for the red wolf](https://www.fws.gov/southeast/wildlife/mammals/red-wolf/#recovery-timeline-section).
 
 ## What is a nonessential experimental population (NEP)?
 

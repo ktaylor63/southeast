@@ -13,7 +13,7 @@ tags:
     - 'Panama City Ecological Services Field Office'
 updated: 'November 15th, 2018'
 ---
-The [Suwannee moccasinshell’s](/wildlife/mussel/suwannee-moccasinshell) range and numbers have declined in recent decades and the mussel should be protected as a threatened species, the U.S. Fish and Wildlife Service announced today.  Its decline is the result of pollution and reduced flows in the Suwannee River Basin.
+The [Suwannee moccasinshell’s](/wildlife/mussels/suwannee-moccasinshell) range and numbers have declined in recent decades and the mussel should be protected as a threatened species, the U.S. Fish and Wildlife Service announced today.  Its decline is the result of pollution and reduced flows in the Suwannee River Basin.
 
 A listing as threatened means the Suwannee moccasinshell is considered likely to become endangered within the foreseeable future throughout all or a significant portion of its range.
 
