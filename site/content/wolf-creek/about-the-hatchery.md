@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 'About the hatchery'
 facebook: WolfCreekNFH
 twitter: wolfcreeknfh
@@ -12,7 +11,7 @@ tags:
     - Fishing
     - Kentucky
     - 'Wolf Creek National Fish Hatchery'
-updated: 'May 29th, 2019'
+updated: 'June 27th, 2019'
 ---
 
 ## What we do
@@ -37,25 +36,25 @@ Eggs hatch approximately 10-14 days later. The fry are then transferred to reari
 
 ## Fish production
 
-### Rainbow trout (mitigation/reimbursable)
+### Rainbow trout
 
 - 13,700 lbs. - 10,000 fish at 15 inches
 - 9,350 lbs. - 13,550 fish at 12 inches
 - 47,950 lbs. - 119,800 fish at 10 inches
 - 155,000 lbs. - 492,975 fish at 9 inches
 
-## Brown trout (mitigation/reimbursable)
+### Brown trout
 
 - 2,100 lbs. - 3,000 fish at 12 inches​
 - 9,425 lbs. - 45,150 fish at 8 inches
 - 15 lbs. - 150 fish at 6 inches
 
-## Brook trout (mitigation)
+### Brook trout
 
 - 7,825 lbs. - 25,000 fish at 9 inches
 - 4 lbs. - 300 fish at 3 inches
 
-## Cutthroat trout (mitigation)
+### Cutthroat trout
 
 - 7,825 lbs. - 25,000 fish at 9 inches
 
