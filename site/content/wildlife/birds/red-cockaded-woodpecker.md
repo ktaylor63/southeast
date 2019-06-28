@@ -1,7 +1,7 @@
 ---
 draft: true
 title: 'Red-cockaded woodpecker'
-scientific: 'Pterodroma hasitata'
+scientific: 'Picoides borealis'
 type: species-profile
 js: /js/species-profile.js
 hero:
@@ -34,7 +34,7 @@ updated: 'April 30th, 2019'
 
 ## Appearance
 
-The red-cockaded woodpecker (RCW) is a small bird measuring about 7 inches in length. Identifiable by its white cheek patch and black and white barred back. The males have a few red feathers, called a cockade. These red feathers usually remain hidden underneath black feathers between the black crown and white cheek patch unless the male is disturbed or excited. Female RCWs lack the red cockade. Juvenile males have a red 'patch' in the center of their black crown. This patch disappears during the fall of their first year at which time their cockades appear.
+The red-cockaded woodpecker (RCW) is a small bird measuring about 8 inches in length, identifiable by its white cheek patch and black and white barred back. The males have a few red feathers, called a cockade. These red feathers usually remain hidden underneath black feathers between the black crown and white cheek patch unless the male is disturbed or excited. Female RCWs lack the red cockade. Juvenile males have a red 'patch' in the center of their black crown. This patch disappears during the fall of their first year at which time their cockades appear.
 
 {{< figure class="photo-center" src="/images/pages/red-cockaded-woodpecker-chicks.jpg" alt="Three red cockaded woodpecker chicks so young their feathers are just starting to emerge. Each bird has a series of bands around its legs for identification" caption="Red-cockaded woodpecker chicks are banded when they are 8-10 days old; with each chick receiving a unique combination of leg bands so that individual birds may be identified with spotting scopes. Photo © Robert B. Clontz, The Nautre Conservancy." >}}
 
@@ -48,11 +48,11 @@ Female red-cockaded woodpeckers have been documented searching for bone bits on 
 
 {{< figure class="photo-right" src="/images/pages/red-cockaded-woodpecker-tree.jpg" alt="A tree witch two white bands and a cavity; the tree is partially covered in sap" caption="A tree marked with white bands is home to a red-cockaded woodpecker cavity. Photo © Robert B. Clontz, The Nautre Conservancy." >}}
 
-The red-cockaded woodpecker is non-migratory, territorial, and lives in cooperative breeding social units called groups. These groups chatter and call throughout the day, using a great variety of vocalizations. It uses mature pine trees to develop nest cavities and is the only North American woodpecker that excavates its roost and nest cavities in living trees, usually in those which are infected with a fungus known as red-heart disease. Cavities can take three  years or more to excavate, and are occasionally abandoned and reoccupied.
+The red-cockaded woodpecker is non-migratory, territorial, and lives in cooperative breeding social units called groups. These groups chatter and call throughout the day, using a great variety of vocalizations. It uses mature pine trees to develop nest cavities and is the only North American woodpecker that excavates its roost and nest cavities in living trees, usually in those which are infected with a fungus known as red-heart disease. Cavities can take three years or more to excavate, and are occasionally abandoned and reoccupied. 
 
 Cavity trees tend to be in areas known as “clusters,” and may include one to 20 or more cavity trees on three to 60 acres. Clusters are made up of active (in use) and inactive (previously used) cavity trees within an area defended by a single group. Completed cavities that are being actively used have numerous, small resin wells which exude sap. The birds keep the sap flowing as a cavity defense mechanism against tree climbing predators.
 
-Suitable nesting habitat for the red-cockaded woodpecker include pine stands, or pine-dominated pine/hardwood stands, with a low or sparse understory and ample old-growth pines. Trees must be more than 60 years old to be suitable for cavity construction.  Longleaf pine is preferred where available, but they frequently use other species such as loblolly, shortleaf, slash and pond pine.
+Suitable nesting habitat for the red-cockaded woodpecker include pine stands, or pine-dominated pine/hardwood stands, with a low or sparse understory and ample old-growth pines. Trees must be more than 60 years old to be suitable for cavity construction.  Longleaf pine is preferred where available, but they frequently use other species such as loblolly, shortleaf, slash and pond pine. 
 
 The red-cockaded woodpecker plays a vital role in the intricate web of life of pine forests. Red-cockaded woodpeckers are primary cavity nesters, meaning they are responsible for the construction of cavities. In the Southern pine ecosystem there are many secondary cavity users that benefit from the RCW’s work. RCWs are considered a keystone species because their cavities contribute to the diversity of species in the forest.
 
@@ -79,7 +79,7 @@ Today, the red-cockaded woodpecker is found in 11 states (AL, AR, FL, GA, LA, NC
 
 ## Recovery program
 
-The goal of the U.S. Fish and Wildlife Service’s (Service) red-cockaded woodpecker recovery program is to conserve the species and the ecosystem upon which it depends. RCWs have increased in number range-wide in response to recovery and management programs, from an estimated 4,694 active clusters in 1993 to 7,794 today. On private lands, more than 40 percent of the known red-cockaded woodpeckers are benefiting from management approved by the Service through Memorandum of Agreements, Safe Harbor Agreements, and Habitat Conservation Plans.
+The goal of the U.S. Fish and Wildlife Service’s (Service) red-cockaded woodpecker recovery program is to conserve the species and the ecosystem upon which it depends. RCWs have increased in number range-wide in response to recovery and management programs, from an estimated 4,694 active clusters in 1993 to at least  7,794 today. On private lands, more than 40 percent of the known red-cockaded woodpeckers are benefiting from management approved by the Service through Memorandum of Agreements, Safe Harbor Agreements, and Habitat Conservation Plans.
 
 {{< youtube id="20VqXVpZxW4" title="Red-cockaded woodpecker translocations" caption="Video by Nicole Vidal, USFWS." >}}
 
@@ -87,7 +87,7 @@ The Service administers recovery and consultation programs for the red-cockaded 
 
 ## Partnerships, research and projects
 
-U.S. Forest Service and the U.S. Department of Defense have developed special management guidelines for the woodpeckers on national forests and military installations. From 1994 to 2002, red-cockaded woodpecker populations increased as much as 50 percent at six military installations that include primary core populations required for delisting. These are Eglin Air Force Base (Florida), Fort Benning (Georgia), Fort Bragg (North Carolina), Fort Polk (Louisiana), Fort Stewart (Georgia), and Marine Corps Base Camp Lejeune (North Carolina). Recovery initiatives by private landowners are also conserving this species.
+Working with conservation partners, the Service created the red-cockaded woodpecker recovery plan featuring the participation of other federal and state agencies and private landowners. Because many large landscapes that provide habitat are on federal land, the U.S. Forest Service and the U.S. Department of Defense have developed special management guidelines for the woodpeckers on national forests and military installations. From 1994 to 2002, red-cockaded woodpecker populations increased as much as 50 percent at six military installations that include primary core populations required for delisting. These are Eglin Air Force Base (Florida), Fort Benning (Georgia), Fort Bragg (North Carolina), Fort Polk (Louisiana), Fort Stewart (Georgia), and Marine Corps Base Camp Lejeune (North Carolina). Recovery initiatives by private landowners are also conserving this species.
 
 {{< figure class="photo-center" src="/images/pages/red-cockaded-woodpecker-translocation-night.jpg" alt="A biologist placing a red-cockaded woodpecker in its new home in an artificial cavity" caption="Dr. Bryan Watts of the Center for Conservation Biology acends to an artificial cavity to place a red-cockaded woodpecker in its new home at Great Dismal Swamp National Wildlife Refuge in Virginia. Photo by Robert B. Clontz, The Nature Conservancy." >}}
 
@@ -98,7 +98,14 @@ Download the [recovery plan](https://ecos.fws.gov/docs/recovery_plan/030320_2.pd
 ## Subject matter expert
 
 - Will McDearman, RCW Recovery Coordinator, Division of Restoration and Recovery, (601) 321-1124, [will_mcdearman@fws.gov](mailto:will_mcdearman@fws.gov)
-- North Carolina: John Hammond, Fish and Wildlife Biologist, (919) 856-4520 ext. 28, [John_hammond@fws.gov](mailto:John_hammond@fws.gov)
+- Alabama: Eric Spadgenske, (251) 441-5872, [eric_spadgenske@fws.gov](mailto:eric_spadgenske@fws.gov)
+- Florida: Kim Dryden, (239) 657-8016, [kim_dryden@fws.gov](mailto:kim_dryden@fws.gov)
+- Georgia: John Doresky, (706) 544-6030, [john_doresky@fws.gov](mailto:john_doresky@fws.gov)
+- North Carolina: John Hammond, (919) 856-4520 ext. 28, [John_hammond@fws.gov](mailto:John_hammond@fws.gov)
+- Mississippi: Steven E. Lewis, (662) 323-5548, [steven_e_lewis@fws.gov](mailto:steven_e_lewis@fws.gov)
+- South Carolina: Nancy Jordan, (843) 335-6026, [nancy_jordan@fws.gov](mailto:nancy_jordan@fws.gov)
+- Texas: Robert Allen, (936) 569-7981 ext. 4017, [robert_allen@fws.gov](mailto:robert_allen@fws.gov)
+- Virginia: Jen Wright, (757) 986-3705 ext. 27 [jennifer_wright@fws.gov](mailto:jennifer_wright@fws.gov)
 
 ## Designated critical habitat
 
