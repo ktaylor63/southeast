@@ -1,4 +1,29 @@
 stories:
+  - title: "Foraging new ground: A pair of endangered woodpeckers has found a new home in Big Woods Wildlife Management Area"
+    summary: "The Virginia Department of Game & Inland Fisheries (DGIF) is thrilled to share big news for a federally endangered species in Virginia; a pair of red-cockaded woodpeckers has moved in to Big Woods Wildlife Management Area (WMA) in Sussex County. This is the first documented occurrence of red-cockaded woodpeckers residing on the WMA."
+    date: 2019-06-25
+    url: "https://www.dgif.virginia.gov/blog/foraging-new-ground-a-pair-of-endangered-woodpeckers-has-found-a-new-home-in-big-woods-wildlife-management-area/?utm_source=dgif_homepage&utm_medium=slider"
+    hero:
+      name: red-cockaded-woodpecker-on-sehoy.jpg
+      alt: "A small woodpecker perched on a pine tree."
+      caption: "In 2018, there were 38 active clusters of endangered red-cockaded woodpeckers on this property in Alabama, thriving there under a Safe Harbor Agreement. Composite photo by Mark Bailey."
+      position: "77% 66%"
+  - title: "Partners working to conserve freshwater mussels find strength in numbers"
+    summary: "Combine PVC pipe, extra-strength screen, round drain grates, Quikrete, and a little ingenuity. Repeat. You now have submersible “silos” in which to deploy freshwater mussels on an aquatic research mission."
+    date: 2019-06-20
+    url: "https://medium.com/usfishandwildlifeservicenortheast/partners-working-to-conserve-freshwater-mussels-find-strength-in-numbers-66a5993722bf"
+    hero:
+      name: brook-floater.jpg
+      alt: A small red and brown mussel, which is open and filtering water
+      caption: Brook floater require streams with clean, flowing water, and stable substrate so they can anchor themselves in place. Photo by Ayla Skorupa.
+  - title: "First nestlings of the endangered red-cockaded woodpecker hatched on Big Woods Wildlife Management Area"
+    summary: "On the morning of May 16, a group of thirteen met at the Big Woods Wildlife Management Area (WMA) in Sussex County for what was to be a landmark conservation event:  the banding of two nestlings of the federally endangered Red-cockaded Woodpecker, the first ever to be hatched on the WMA.  Banding is used to keep track of individuals in this small yet growing population of the woodpecker, which has recently expanded onto Big Woods from the abutting Piney Grove Preserve."
+    date: 2019-06-21
+    url: "https://www.dgif.virginia.gov/blog/first-nestlings-of-the-endangered-red-cockaded-woodpecker-hatched-on-big-woods-wildlife-management-area/"
+    hero:
+      name: baby-red-cockaded-woodpecker.jpg
+      alt: A tiny, featherless bird on a blanket with small ankle bands
+      caption: Red-cockaded woodpecker photo by Lynda Richardson, Virginia Department of Game and Inland Fisheries.
   - title: "Video: Florida scrub lizard translocation project"
     date: 2019-06-14
     url: "https://www.youtube.com/watch?v=tENf2P80FFU&feature=youtu.be"
