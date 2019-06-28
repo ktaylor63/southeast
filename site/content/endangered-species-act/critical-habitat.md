@@ -31,7 +31,7 @@ Designation of critical habitat **does not**:
 - Affect land ownership;
 - Allow the government to take or manage private property;
 - Establish a refuge, reserve, preserve, or other conservation area;
-- Allow government or public access to private land.  
+- Allow government or public access to private land.
 
 {{< figure class="photo-center" src="/images/pages/puerto-rican-cave-frog.jpg" alt="A brown frog with big round eyes blends in to the soil." caption="All critical habitat for the guajón, or Puerto Rican cave frog, is found on private lands. Photo by JP Zegarra, USFWS." link="https://flic.kr/p/nrJdKm" >}}
 
