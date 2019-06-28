@@ -95,11 +95,11 @@ Drought and impoundments slow down the natural flow of  streams, compromise wate
 
 ### Agriculture and development
 
-Streams with urbanized or agriculturally dominated riparian corridors tend to have more sediment in the water and unstable banks and/or impervious surface runoff, resulting in less suitable streams for fish as compared to habitat with forested corridors. 
+Streams with urbanized or agriculturally dominated riparian corridors tend to have more sediment in the water and unstable banks and/or impervious surface runoff, resulting in less suitable streams for fish as compared to habitat with forested corridors.
 
 ### Habitat fragmentation
 
-Dams and perched or undersized culverts limit the madtom’s ability to distribute throughout streams to find good quality habitat. For example, the construction of Falls Lake dam in the upper Neuse isolated Carolina madtoms in the upper basin from the middle Neuse basin.  Isolated or patchy distributions of fish may limit genetic exchange.  
+Dams and perched or undersized culverts limit the madtom’s ability to distribute throughout streams to find good quality habitat. For example, the construction of Falls Lake dam in the upper Neuse isolated Carolina madtoms in the upper basin from the middle Neuse basin.  Isolated or patchy distributions of fish may limit genetic exchange.
 
 ### Invasive species
 
