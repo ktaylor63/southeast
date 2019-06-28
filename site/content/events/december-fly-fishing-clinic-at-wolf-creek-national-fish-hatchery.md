@@ -4,16 +4,15 @@ start: 2019-12-13T10:00:00.000Z
 end: 2019-12-13T12:00:00.000Z
 timezone: CDT
 hero:
-    name: fly-fishing-clinic-at-wolf-creek.jpg
-    alt: 'A group of students gathers around an instructor on the bank of a creek.'
-    caption: 'Participants watch as instructor shows how to trace the fly in the current.  Photo by Ashley Buffington, USFWS.'
-    position: 'center left'
+    name: wolf-creek-fly-fishing-event.jpg
+    alt: 'A group of students casting rods from the shore'
+    caption: 'Participants try their hand at casting from a stream bank.  Photo by USFWS.'
 tags:
     - Fishing
     - 'Fly Fishing'
     - Kentucky
     - 'Wolf Creek National Fish Hatchery'
-updated: 'May 16th, 2019'
+updated: 'June 28th, 2019'
 ---
 
 Afternoon session: 1:00p.m. - 3:00p.m. CDT

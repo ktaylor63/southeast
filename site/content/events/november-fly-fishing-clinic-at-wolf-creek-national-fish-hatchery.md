@@ -4,15 +4,15 @@ start: 2019-11-13T10:00:00.000Z
 end: 2019-11-13T12:00:00.000Z
 timezone: CDT
 hero:
-    name: fly-fisherman-on-bank.jpg
-    alt: 'A man casting his rod from the bank of a creek'
-    caption: 'Morning fly fishing. <a href="https://flic.kr/p/28WKvfC">Photo</a> by <a href="https://www.flickr.com/photos/v-2/"></a>, <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">CC-BY-NC-ND</a>.'
+    name: wolf-creek-fly-tackle.jpg
+    alt: 'A fly fishermans tackle box'
+    caption: 'Fly fishing tackle. Photo by USFWS.'
 tags:
     - Fishing
     - 'Fly Fishing'
     - Kentucky
     - 'Wolf Creek National Fish Hatchery'
-updated: 'May 16th, 2019'
+updated: 'June 28th, 2019'
 ---
 
 Afternoon session: 1:00p.m. - 3:00p.m. CDT
