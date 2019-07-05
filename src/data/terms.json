@@ -328,6 +328,12 @@
     "related": ["At-risk species", "Keyston species"]
   },
   {
+    "name": "Glochidia",
+    "acronym": null,
+    "description": "Special gill chambers in freshwater mollusks produce fertilized eggs that develop into microscopic larvae called glochidia. After they mature, female mussels expel the glochidia, which must then attach to the gills or fins of a specific species of fish to continue developing into a juvenile mussel. If glochidia successfully attach to a host fish, they mature into juvenile mussels within a few weeks, then drop off. If they land on suitable habitat, glochidia grow and mature into adult mussels.",
+    "related": ["Mussel", "Host fish", "Reproduction", "Mollusk"]
+  },
+  {
     "name": "Habitat",
     "acronym": null,
     "description": "The place in nature with distinct features (such as short grass, wet ground, dry rocks, etc.) that an animal calls home because it provides what it needs to survive: food, water and shelter.",
