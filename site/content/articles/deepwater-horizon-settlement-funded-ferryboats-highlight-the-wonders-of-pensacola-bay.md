@@ -8,7 +8,7 @@ hero:
     alt: 'A large white ferry called the Turtle Runner out of Gulf Breeze, FL off the coast of Pensicola.'
     caption: '<em>Turtle Runner</em> is one of two ferryboats paid for with <em>Deepwater Horizon</em> oil spill settlement funds. Photo by the National Park Service.'
     position: '35% 50%'
-type: Bragging Rights
+type: 'Bragging Rights'
 tags:
     - 'Bragging Rights'
     - 'Deepwater Horizon'
@@ -17,7 +17,7 @@ tags:
     - Gulf
     - NRDAR
     - Restoration
-updated: 'June 13th, 2019'
+updated: 'July 1st, 2019'
 ---
 
 This August will mark 460 years since Spanish explorer and Conquistador Tristán de Luna sailed 11 vessels into what is now known as Pensacola Bay and established the nation’s oldest (but short-lived) European settlement. Now two 150-passenger catamaran-style ferryboats are plying those waters, thanks to settlement funds resulting from the 2010 *Deepwater Horizon* oil spill’s Natural Resource Damage Assessment (DWH NRDA) process. The ferries, which started service last year, began running from downtown Pensacola from a new $3.5 million brand-new home port that opened for business on April 20, 2019.
