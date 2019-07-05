@@ -11,6 +11,7 @@ hero:
 tags:
     - 'Geographic Information Systems'
     - 'North Carolina'
+    - Brown Trout
     - 'Eastern Hellbender'
 updated: 'August 23rd, 2018'
 ---

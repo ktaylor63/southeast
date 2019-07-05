@@ -9,6 +9,7 @@ tags:
     - Kentucky
     - Mississippi
     - 'Neosho Mucket'
+    - Pink Mucket
     - Rabbitsfoot
     - Tennessee
 hero:

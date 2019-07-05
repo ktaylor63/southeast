@@ -9,6 +9,8 @@ hero:
 tags:
     - Partnership
     - Georgia
+    - Brown Trout
+    - Rainbow Trout
     - Tennessee
     - Erwin National Fish Hatchery
 updated: 'October 3rd, 2016'

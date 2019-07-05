@@ -12,6 +12,7 @@ tags:
     - Arkansas
     - 'Bunched Arrowhead'
     - Florida
+    - Pink Mucket
     - Grants
     - 'Mountain Sweet Pitcher Plant'
     - 'North Carolina'

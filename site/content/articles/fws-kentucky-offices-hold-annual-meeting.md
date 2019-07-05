@@ -12,6 +12,7 @@ tags:
     - 'Clarks River National Wildlife Refuge'
     - E-Grits
     - Kentucky
+    - Pink Mucket
     - 'Kentucky Ecological Services Field Office'
     - 'Office of Law Enforcement'
     - 'Port of Kentucky'
