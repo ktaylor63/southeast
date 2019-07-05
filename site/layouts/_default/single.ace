@@ -1,7 +1,7 @@
 = content main
   main.main
     {{ if ne .Type "index" }}
-    h1.page-title {{ .Title }}
+    h1.page-title {{ .Title | markdownify }}
     {{ if .Params.subtitle }}
     h2.page-subtitle id="{{ urlize .Params.subtitle }}" {{ .Params.subtitle}}
     {{ end }}
