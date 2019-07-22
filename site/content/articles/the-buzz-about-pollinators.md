@@ -1,8 +1,7 @@
 ---
-draft: true
 title: 'The buzz about pollinators'
 subtitle: 'Georgia Power, others, embrace honeybees'
-date: 2019-07-08T00:00:00.000Z
+date: 2019-07-10T00:00:00.000Z
 author: 'Mark Davis, public affairs specialist'
 type: feature
 hero:
@@ -46,7 +45,7 @@ This has ramifications at the dinner table. Bees and other pollinators &mdash; b
 
 Georgia Power is among a handful of Georgia businesses that have established hives to increase the number of pollinators going about their daily business. Companies with hives on-site include Delta Air Lines, UPS, Home Depot and Chick-fil-A, among others. The Atlanta Botanical Garden and Zoo Atlanta have embraced pollinators as well.
 
-{{< figure class="photo-center" src="/images/pages/georgia-power-bee-frame.jpg" alt="Hundreds of bees cover a frame that supports honeycomb" caption="Hundreds of bees cover on the of the frames removed from the hive during a beekeeping demonstration. Photo by Nicole Vidal, USFWS." >}}
+{{< figure class="photo-center" src="/images/pages/georgia-power-bee-frame.jpg" alt="Hundreds of bees cover a frame that supports honeycomb" caption="Hundreds of bees cover one of the frames removed from the hive during a beekeeping demonstration. Photo by Nicole Vidal, USFWS." >}}
 
 And it’s not just a Georgia phenomenon; businesses in other states have discovered that pollinators can be good for nature – a bonus for corporate images, too.
 
