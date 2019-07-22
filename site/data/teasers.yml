@@ -1,8 +1,22 @@
 stories:
+  - title: "NFWF Awards $1.3 Million in Grants to Conserve Habitat in the Southeast’s Cumberland Plateau"
+    subtitle: "Seven projects will preserve forest and stream habitats, benefitting game species, forest-dependent birds, and fish and mussel species"
+    summary: "The National Fish and Wildlife Foundation (NFWF) today awarded $1.3 million in grants to seven conservation projects that will restore, enhance and protect shortleaf pine and riparian forests and in-stream habitats in Alabama, Kentucky and Tennessee. The grants will generate $1.3 million in matching contributions for a total conservation impact of $2.6 million."
+    date: 2019-07-11
+    url: "https://www.nfwf.org/whoweare/mediacenter/pr/Pages/nfwf-awards-1-3-million-in-grants-to-conserve-habitat-in-the-southeasts-cumberland-plateau-2019-0711.aspx"
+  - title: "North Florida Land Trust says little bird has given hope for a big vision in O2O corridor"
+    summary: "he bird captured at Camp Blanding was the first time this endangered species had moved between one of the national forests and the military installation since they began banding and recording the birds over 25 years ago. "
+    date: 2019-07-09
+    url: "https://www.openpr.com/news/1799304/north-florida-land-trust-says-little-bird-has-given-hope-for-a-big"
+    hero:
+      caption: 'A red-cockaded woodpecker has dinner outside its nesting cavity. <a href="https://flic.kr/p/ciG2q3">Photo</a> by USFWS.'
+      name: red-cockaded-woodpecker-dinner.jpg
+      alt: 'A woodpecker perched on a tree with a bug in its mouth'
+      position: 'top center'
   - title: "Foraging new ground: A pair of endangered woodpeckers has found a new home in Big Woods Wildlife Management Area"
     summary: "The Virginia Department of Game & Inland Fisheries (DGIF) is thrilled to share big news for a federally endangered species in Virginia; a pair of red-cockaded woodpeckers has moved in to Big Woods Wildlife Management Area (WMA) in Sussex County. This is the first documented occurrence of red-cockaded woodpeckers residing on the WMA."
     date: 2019-06-25
-    url: "https://www.dgif.virginia.gov/blog/foraging-new-ground-a-pair-of-endangered-woodpeckers-has-found-a-new-home-in-big-woods-wildlife-management-area/?utm_source=dgif_homepage&utm_medium=slider"
+    url: "https://www.dgif.virginia.gov/blog/foraging-new-ground-a-pair-of-endangered-woodpeckers-has-found-a-new-home-in-big-woods-wildlife-management-area/"
     hero:
       name: red-cockaded-woodpecker-on-sehoy.jpg
       alt: "A small woodpecker perched on a pine tree."
