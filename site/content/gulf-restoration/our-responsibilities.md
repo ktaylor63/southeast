@@ -4,15 +4,15 @@ description: 'The Service has a mandate to protect, conserve and/or enhance cert
 nav: Responsibilities
 weight: 3
 tags:
+    - 'Endangered Species Act'
     - Gulf
     - 'Listed Species'
-    - 'Endangered Species Act'
     - 'National Wildlife Refuge System'
 hero:
     name: american-white-pelicans-woodrow.jpg
     alt: 'A large group of bright white pelicans each with an orange beak and webbed feet.'
     caption: 'American white pelicans are protected by the Migratory Bird Treaty Act of 1918. Photo by Woody Woodrow, USFWS.'
-updated: 'March 15th, 2017'
+updated: 'July 15th, 2019'
 ---
 
 The Service is the primary federal agency responsible for conserving and enhancing the nation's fish and wildlife populations and their habitats. However, the conservation of fish and wildlife is a shared responsibility. The Service works closely with with other federal agencies and state governments, as well as other partners, in order to to conserve, protect and enhance our nation's natural resources.
@@ -34,7 +34,3 @@ There are now 235 refuges in the Gulf of Mexico watershed that provide opportuni
 You are invited to visit a National Wildlife Refuge near you. There are many to choose from &mdash; just along the Gulf of Mexico, the Service administers 47 National Wildlife Refuges from Brownsville, Texas to the Florida Keys (covering more than 2.15 million managed acres). They include the beautiful estuaries and marshes of [St. Marks NWR](https://www.fws.gov/refuge/st_marks/), with an [historic lighthouse](https://www.fws.gov/refuge/St_Marks/visit/lighthouse_history.html); big river and forested wetlands of [Lower Suwannee NWR](https://www.fws.gov/refuge/lower_suwannee/); iconic [manatees](/wildlife/mammals/manatee) at [Crystal River NWR](https://www.fws.gov/refuge/crystal_river/) in Florida; the beaches and dunes of [Bon Secour NWR](https://www.fws.gov/refuge/bon_secour/) in Alabama; coastal marshes and urban interface at [Bayou Sauvage](https://www.fws.gov/refuge/bayou_sauvage/) and [Big Branch Marsh](https://www.fws.gov/refuge/big_branch_marsh/) NWRs in Louisiana; coastal prairie and wetlands at [Grand Bay NWR](https://www.fws.gov/refuge/grand_bay/) in Mississippi; and many refuges in Texas such as [Aransas](https://www.fws.gov/refuge/aransas/), [Anahuac](https://www.fws.gov/refuge/anahuac/) and [McFaddin](https://www.fws.gov/refuge/mcfaddin/) NWRs.  
 
 {{< figure class="photo-center" src="/images/pages/st-marks-nwr-lighthouse.jpg" alt="A white lighthouse emerges from behind two grand oak trees on the tip of a peninsula." caption="Lighthouse at St. Marks National Wildlife Refuge. Photo by Steve Hillebrand, USFWS." link="https://flic.kr/p/LBJxzD" >}}
-
-## Gulf species profiles
-
-{{< section-content-by-tag tag="Gulf" section="wildlife" >}}
