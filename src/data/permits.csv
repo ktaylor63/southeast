@@ -664,7 +664,7 @@ number,status,fed_register
 98274C-0,Issued,N/A
 16616C-1,Issued,N/A
 77197C-1,Issued,N/A
-99171C-0,In RO for Review,N/A
+99171C-0,Issued,N/A
 12392A-2,Issued,N/A
 99240C-0,Issued,N/A
 00624D-0,Issued,N/A
@@ -676,18 +676,18 @@ number,status,fed_register
 01937D-0,Issued,N/A
 01939D-0,Awaiting Input from Applicant,N/A
 02321D-0,In RO for Review,N/A
-02332D-0,In RO for Review,Noticed for 30 days
+02332D-0,In FO for Review,Noticed for 30 days
 02423D-0,Issued,N/A
 02972D-0,Issued,N/A
 04434D-0,Issued,N/A
-05528D-0,In RO for Review,Noticed for 30 days
+05528D-0,Awaiting Input from Applicant,Noticed for 30 days
 65968A-1,Issued,Noticed for 30 days
-06701D-0,In RO for Review,N/A
+06701D-0,Issued,N/A
 07412D-0,Issued,N/A
 07449D-0,Issued,N/A
 07461D-0,Issued,N/A
 07464D-0,Issued,N/A
-07525D-0,In RO for Review,N/A
+07525D-0,In FO for Review,N/A
 07556D-0,Issued,N/A
 07787D-0,Issued,N/A
 07817D-0,Issued,N/A
@@ -702,10 +702,10 @@ number,status,fed_register
 11857D-0,Abandoned,N/A
 12369D-0,Issued,N/A
 12373D-0,Issued,N/A
-12379D-0,In RO for Review,Noticed for 30 days
+12379D-0,Issued,Noticed for 30 days
 12981D-0 ,Issued,N/A
 092945-4,Issued,N/A
-100070-3,In RO for Review,Noticed for 30 days
+100070-3,In FO for Review,Noticed for 30 days
 14546D-0,Issued,N/A
 18986C-1,Issued,N/A
 15179D-0,Issued,N/A
@@ -728,7 +728,7 @@ number,status,fed_register
 02166C-1,In RO for Review,Noticed for 30 days
 075916-7,Issued,N/A
 24576D-0,Issued,N/A
-171518-1,In FO for Review,Noticed for 30 days
+171518-1,Issued,Noticed for 30 days
 26359D-0,Issued,N/A
 26360D-0,Issued,N/A
 26361D-0 ,Issued,N/A
@@ -774,7 +774,11 @@ number,status,fed_register
 42305D-0,In RO for Review,N/A
 42496D-0,In RO for Review,needs to be drafted
 32394A-1,Awaiting Input from Applicant,needs to be drafted
-44410D-0,Awaiting signature,N/A
+44410D-0,Issued,N/A
 125521-4,Issued,N/A
-46519D-0,In RO for Review,N/A
+46519D-0,Awaiting Input from Applicant,N/A
 46522D-0,In RO for Review,needs to be drafted
+207027-1,In RO for Review,N/A
+171516-7,In RO for Review,needs to be drafted
+12392A-3,In RO for Review,needs to be drafted
+48296D-0,In RO for Review,N/A
