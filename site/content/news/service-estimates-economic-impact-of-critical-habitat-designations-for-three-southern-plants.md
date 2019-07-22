@@ -1,21 +1,20 @@
 ---
 title: 'Service estimates economic impact of Critical Habitat designations for three southern plants'
-date: '2014-05-28'
+date: 2014-05-28T00:00:00.000Z
 hero:
     name: shorts-bladderpod.jpg
     alt: 'A long stemmed plant with bright yellow flowers.'
-    link: 'https://flic.kr/p/nLDRtK'
-    caption: 'Short''s bladderpod. Photo by John MacGregor, Kentucky Department of Fish and Wildlife Resources.'
+    caption: 'Shorts bladderpod. <a href="https://flic.kr/p/nLDRtK">Photo</a> by John MacGregor, Kentucky Department of Fish and Wildlife Resources.'
 tags:
-    - 'Critical Habitat'
-    - 'Fleshy-fruit gladecress'
-    - 'Whorled sunflower'
-    - 'Short''s bladderpod'
     - Alabama
+    - 'Critical Habitat'
+    - 'Fleshy-Fruit Gladecress'
     - Georgia
-    - Tennessee
     - Kentucky
-updated: 'October 21st, 2016'
+    - 'Short''s Bladderpod'
+    - Tennessee
+    - 'Whorled Sunflower'
+updated: 'July 12th, 2019'
 ---
 
 The U.S. Fish and Wildlife Service [seeks additional public comment](http://www.fws.gov/southeast/news/2014/Comment_Instructions_3_SE_Plants.pdf) on proposed critical habitat for three plants found in Alabama, Georgia, Indiana, Kentucky and Tennessee. About 2,488 acres on 30 parcels have been identified as habitat critical to the plants’ survival.
