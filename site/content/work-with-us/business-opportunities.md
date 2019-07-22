@@ -78,8 +78,9 @@ The following tips should be remembered when selling to the government. Addition
 6. Complete our [Bidder Registration Form](/pdf/form/bidder-registration-form.pdf).
 
 ### What is the system for award management?
+
 The System for Award Management (SAM) is an official U.S. Government central database that contains a vendor’s business and banking information. Registration streamlines the issuing of contracts and payments from all federal agencies to their vendors, and is required of contractors doing business with the government.
 
 ## Contact
 
-[Nijua Heard](mailto:nijua_heard@fws.gov?subject=Business+Opportunities+with+USFWS), (404) 679-4146.
+[Mark Tapp](mailto:mark_tapp@fws.gov?subject=Business+Opportunities+with+USFWS), (404) 679-4012
