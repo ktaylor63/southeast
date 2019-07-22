@@ -6,11 +6,10 @@ tags:
     - Glossary
     - Gulf
 hero:
-    name: short-billed-dowitcher.jpg
-    alt: 'A brown and black speckled bird with long narrow beak on glassy-smooth water.'
-    link: 'https://flic.kr/p/Li5V4d'
-    caption: 'Short-billed dowitcher. Photo by Woody Woodrow, USFWS.'
-updated: 'April 21st, 2017'
+    name: morning-glory-at-the-beach.jpg
+    alt: 'A green leafy plant vine climbs across a sand dune putting off several bright white flowers with yellow shading near the center'
+    caption: 'Morning glory at the beach. Photo by USFWS.'
+updated: 'July 22nd, 2019'
 ---
 
 **[Adaptive Management](https://www2.usgs.gov/sdc/doc/DOI-%20Adaptive%20ManagementTechGuide.pdf)** is a process that promotes flexible decision-making that can be adjusted in the face of uncertainties as outcomes from management actions and other events become better understood. Careful monitoring of these outcomes both advances scientific understanding, and helps adjust policies or operations as part of an iterative learning process. Adaptive management also recognizes the importance of natural variability in contributing to ecological resilience and productivity. It is not a ‘trial and error’ process; it emphasizes learning while doing, and [adapting based on what’s learned](http://www2.usgs.gov/sdc/doc/DOI-Adaptive-Management-Applications-Guide-27.pdf).
