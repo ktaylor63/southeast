@@ -14,14 +14,24 @@
   </div>
   <div class="card-text">
     <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
-    <p><strong>{{ dateFormat "January 2, 2006 15:04" .Params.start }} {{ default "EST" .Params.timezone }}</strong></p>
+    <p><strong>{{ dateFormat "January 2, 2006 15:04" .Params.start }} - {{ dateFormat "3:04" .Params.end }} {{ default "EST" .Params.timezone }}</strong></p>
 
     <p>
       {{ if not .Date.IsZero }}
       <span class="card-text-date">{{ .Date.Format "January 2, 2006" }}{{ if gt .ReadingTime 0 }} | {{ .ReadingTime }} minute read{{ end }}</span>
       {{ end }}
     </p>
-    <p>{{ if .Params.description }}{{ .Params.description }}{{ else }}{{ .Summary }}{{ end }}
+
+    {{ if .Params.sessions}}
+    <h3>Sessions</h3>
+    <ul>
+      {{ range .Params.sessions }}
+      <li>{{ .name }}, {{ dateFormat "3:04" .start }} - {{ dateFormat "3:04" .end }} {{ default "EST" $.Page.Params.timezone }}</li>
+      {{ end }}
+    </ul>
+    {{ end }}
+
+    <p>{{ if .Params.description }}{{ .Params.description }}{{ else }}{{ .Summary | markdownify }}{{ end }}
     <span> &nbsp;<a href="{{ .Permalink }}" aria-label="{{ .Title }}">{{ if eq .Section "news"}}Read the full story...{{ else if eq .Section "wildlife" }}Visit the species profile...{{ else if eq .Section "article" }}Read the full article...{{ else }}Learn more...{{ end }}</a></span></p>
   </div>
 </li>
