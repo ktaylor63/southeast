@@ -1,12 +1,11 @@
 ---
 title: 'Brown pelican populations recovered, removed from Endangered Species List'
 subtitle: 'Salazar: Brown Pelican Recovery is “an Amazing Success Story”'
-date: '2009-11-11'
+date: 2009-11-11
 hero:
     name: brown-pelicans-breton-island-nwr.jpg
     alt: 'Hundreds of brown pelicans cover a vegetated beach.'
-    link: 'https://flic.kr/p/84HicP'
-    caption: 'Brown pelicans sitting on nests at Breton Island National Wildlife Refuge. Photo by Greg Thompson, USFWS.'
+    caption: 'Brown pelicans sitting on nests at Breton Island National Wildlife Refuge. <a href="https://flic.kr/p/84HicP">Photo</a> by Greg Thompson, USFWS.'
 tags:
     - Alabama
     - 'Brown Pelican'
