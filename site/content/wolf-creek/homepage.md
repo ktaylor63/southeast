@@ -19,7 +19,7 @@ tags:
 updated: 'May 29th, 2019'
 ---
 
-Wolf Creek National Fish Hatchery was constructed in 1975, making it one of the newest in the federal hatchery system. With an annual budget of $1,200,000, this station produces approximately 1 million brown, brook, cutthroat and rainbow trout weighing 275,000 pounds every year. Fish are [stocked into 125 different public fishing waters](/pdf/map/kentucky-trout-stocking-locations-2017.pdf) in cooperation with the Kentucky Department of Fish and Wildlife Resources. The majority of the fish are stocked in waters managed by the federal government. No private waters are stocked.
+Wolf Creek National Fish Hatchery was constructed in 1975, making it one of the newest in the federal hatchery system. With an annual budget of $1,200,000, this station produces approximately 1 million brown, brook, cutthroat and rainbow trout weighing 275,000 pounds every year. Fish are [stocked into over 100 different public fishing waters](/pdf/map/wolf-creek-stocking-map.pdf) in cooperation with the Kentucky Department of Fish and Wildlife Resources. The majority of the fish are stocked in waters managed by the federal government. No private waters are stocked.
 
 {{< figure class="photo-center" src="/images/pages/wolf-creek-national-fish-hatchery-stocking-rock-creek.jpg" alt="Wolf Creek NFH staff member Chris Murphy is shown filling buckets with trout." caption="Stocking Trip to Rock Creek. Photo by Alex Hoover, USFWS." link="https://flic.kr/p/8e7rdu" >}}
 

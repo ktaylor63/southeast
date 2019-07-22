@@ -33,7 +33,7 @@ It takes 16-18 months to get a trout from the egg stage to nine inches.
 
 Most of the fish are stocked into federal mitigation waters in Kentucky. The other fish are provided to the Commonwealth of Kentucky under a reimbursable agreement to meet management goals in state controlled waters. A total of 125 different waters in Kentucky are stocked with trout from this facility.
 
-{{< figure class="photo-center" src="/images/pages/wolf-creek-stocking-locations-2017.jpg" alt="A map of Kentucky showing stocking locations across the state with higher concentrations in Central and Eastern Kentucky" caption="Kentucky trout stocking locations (2017). Map by USFWS." link="/pdf/map/kentucky-trout-stocking-locations-2017.pdf" >}}
+{{< figure class="photo-center" src="/images/pages/wolf-creek-stocking-map.jpg" alt="A map of Kentucky showing stocking locations across the state with higher concentrations in Central and Eastern Kentucky" caption="Kentucky trout stocking locations. Map by USFWS." link="/pdf/map/wolf-creek-stocking-map.pdf" >}}
 
 ## Do you provide or sell fish to private individuals?
 
