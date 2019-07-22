@@ -1,8 +1,11 @@
 ---
 title: 'November fly fishing clinic'
-start: 2019-11-13T10:00:00.000Z
-end: 2019-11-13T12:00:00.000Z
+start: 2019-11-09T10:00:00.000Z
+end: 2019-11-09T15:00:00.000Z
 timezone: CDT
+sessions:
+    - {name: 'Morning session: casting technique', start: 2019-11-09T10:00:00.000Z, end: 2019-11-09T12:00:00.000Z}
+    - {name: 'Afternoon session: fishing the creek', start: 2019-11-09T13:00:00.000Z, end: 2019-11-09T15:00:00.000Z}
 hero:
     name: wolf-creek-fly-tackle.jpg
     alt: 'A fly fishermans tackle box'
@@ -12,10 +15,8 @@ tags:
     - 'Fly Fishing'
     - Kentucky
     - 'Wolf Creek National Fish Hatchery'
-updated: 'June 28th, 2019'
+updated: 'July 12th, 2019'
 ---
-
-Afternoon session: 1:00p.m. - 3:00p.m. CDT
 
 ## Description
 

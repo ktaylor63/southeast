@@ -1,8 +1,11 @@
 ---
 title: 'June fly fishing clinic'
 start: 2019-06-08T10:00:00.000Z
-end: 2019-06-08T12:00:00.000Z
+end: 2019-06-08T15:00:00.000Z
 timezone: CDT
+sessions:
+    - {name: 'Morning session: casting technique', start: 2019-06-08T10:00:00.000Z, end: 2019-06-08T12:00:00.000Z}
+    - {name: 'Afternoon session: fishing the creek', start: 2019-08-13T13:00:00.000Z, end: 2019-06-08T15:00:00.000Z}
 hero:
     name: fly-fisherman-on-bank.jpg
     alt: 'A man casting his rod from the bank of a creek'
@@ -12,10 +15,8 @@ tags:
     - 'Fly Fishing'
     - Kentucky
     - 'Wolf Creek National Fish Hatchery'
-updated: 'June 4th, 2019'
+updated: 'July 12th, 2019'
 ---
-
-Afternoon session: 1:00p.m. - 3:00p.m. CDT
 
 ## Description
 
