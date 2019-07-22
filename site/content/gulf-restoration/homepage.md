@@ -11,7 +11,7 @@ hero:
     caption: 'Alligator sunning at St. Marks National Wildlife Refuge.  Photo by Steve Hillebrand.'
     link: 'https://flic.kr/p/7Zmwbs'
     position: 'left center'
-updated: 'March 25th, 2019'
+updated: 'July 15th, 2019'
 ---
 
 ## Restoring the Gulf of Mexico and its wild inhabitants
@@ -29,10 +29,6 @@ Natural disasters like hurricanes, and man-made disasters like oil spills, exace
 As a result, native fish and wildlife populations and their habitats are in decline, imperiling the very fabric that supports the area's vibrant economy. In order to achieve a healthy Gulf of Mexico, the Service recognizes conservation must occur throughout the greater Gulf watershed. Society's investment in the Gulf of Mexico will be at risk if we restore the coastal region but fail to address systemic problems that originate upstream.
 
 Restoring this vital area will ensure America continues to thrive well into and beyond the 21st century.
-
-{{< reading-room-scroller-list keyword="Gulf Restoration" >}}
-
-{{< content-scroller tag="Gulf" heading="Related content" >}}
 
 Download the [Efforts of the U.S. Department of Interior and partners in gulf restoration after the _Deepwater Horizon_ oil spill in Mississippi](/pdf/report/mississippi-doi-gulf-restoration.pdf).
 
