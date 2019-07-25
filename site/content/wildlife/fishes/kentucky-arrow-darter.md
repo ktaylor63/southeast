@@ -23,7 +23,7 @@ updated: 'March 25th, 2019'
 
 - **Taxon: Fish**
 - **Range: [Kentucky](/kentucky)**
-- **Status: Proposed as Threatened**
+- **Status: Listed as threatened on Nov 4, 2016**
 - [Download the Kentucky arrow darter fact sheet](/pdf/fact-sheet/kentucky-arrow-darter.pdf)
 
 {{< content-scroller tag="Kentucky Arrow Darter" heading="Related content" >}}
