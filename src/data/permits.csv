@@ -654,8 +654,8 @@ number,status,fed_register
 90236C-0,Issued,N/A
 171594-1,Issued,Noticed for 30 days
 91587C-0,Issued,N/A
-97394A-3,In RO for Review,Noticed for 30 days
-02200B-1,Awaiting Input from Applicant,on 30 day notice period
+97394A-3,Awaiting Input from Applicant,Noticed for 30 days
+02200B-1,In FO for Review,on 30 day notice period
 171577-4,Issued,N/A
 35313B-3,Issued,N/A
 35594A-3,In RO for Review,Noticed for 30 days
@@ -716,16 +716,16 @@ number,status,fed_register
 16300D-0,Issued,N/A
 16308D-0,Issued,N/A
 94849B-1,Issued,N/A
-48049B-2,In RO for Review,Noticed for 30 days
+48049B-2,In FO for Review,Noticed for 30 days
 16689D-0,Issued,N/A
 171516-6,Issued,N/A
-16876D-0,In RO for Review,Noticed for 30 days
-55292B-2,In RO for Review,N/A
+16876D-0,In FO for Review,Noticed for 30 days
+55292B-2,In FO for Review,N/A
 17641D-0,Issued,N/A
-083085-3,In RO for Review,Noticed for 30 days
-20276D-0,In RO for Review,Noticed for 30 days
-21276D-0,In RO for Review,Noticed for 30 days
-02166C-1,In RO for Review,Noticed for 30 days
+083085-3,Awaiting Input from Applicant,Noticed for 30 days
+20276D-0,In FO for Review,Noticed for 30 days
+21276D-0,Awaiting Input from Applicant,Noticed for 30 days
+02166C-1,In FO for Review,Noticed for 30 days
 075916-7,Issued,N/A
 24576D-0,Issued,N/A
 171518-1,Issued,Noticed for 30 days
@@ -737,7 +737,7 @@ number,status,fed_register
 28025A-4,Withdrawn,N/A
 26537D-0,Issued,N/A
 075913-6,Issued,N/A
-51145B-1,In RO for Review,N/A
+51145B-1,In FO for Review,N/A
 070796-9,Awaiting Input from Applicant,N/A
 28638D-0,Issued,N/A
 30127D-0,In RO for Review,on 30 day notice period
@@ -769,16 +769,17 @@ number,status,fed_register
 38642A-1,In FO for Review,Noticed for 30 days
 063179-7,Awaiting Input from Applicant,on 30 day notice period
 171493-3,In RO for Review,N/A
-011542-10,In RO for Review,needs to be drafted
-42291D-0,In RO for Review,needs to be drafted
+011542-10,In RO for Review,on current draft
+42291D-0,In RO for Review,on current draft
 42305D-0,In RO for Review,N/A
-42496D-0,In RO for Review,needs to be drafted
-32394A-1,Awaiting Input from Applicant,needs to be drafted
+42496D-0,In RO for Review,N/A
+32394A-1,Awaiting Input from Applicant,on current draft
 44410D-0,Issued,N/A
 125521-4,Issued,N/A
 46519D-0,Awaiting Input from Applicant,N/A
-46522D-0,In RO for Review,needs to be drafted
+46522D-0,In RO for Review,on current draft
 207027-1,In RO for Review,N/A
-171516-7,In RO for Review,needs to be drafted
-12392A-3,In RO for Review,needs to be drafted
+171516-7,In RO for Review,on current draft
+12392A-3,In RO for Review,on current draft
 48296D-0,In RO for Review,N/A
+49227D-0,In RO for Review,N/A
