@@ -1,4 +1,13 @@
 stories:
+  - title: "The Endangered Species Act"
+    summary: "The very first broadcast of 'Sunday Morning' on January 28, 1979, featured a report from Cobscook Bay, Maine, where bald eagles were on the brink of extinction."
+    date: 2019-07-21
+    hero:
+      name: manatees-crystal-river.jpg
+      alt: 'Four manatees and a school of fish assemble under crystal clear water.'
+      caption: 'Manatees at <a href="https://www.fws.gov/refuge/crystal_river">Crystal River National Wildlife Refuge</a> in Florida. <a href="https://flic.kr/p/8M7kX8">Photo</a> by David Hinkel.'
+      position: 50% 40%
+    url: "https://www.cbsnews.com/news/on-the-brink-the-endangered-species-act/"
   - title: "Discovery reveals secrets about how ghost orchids reproduce"
     subtitle: "Incredible photos show multiple species pollinate the rare and enigmatic flower, which is good news for the endangered species."
     summary: "Deep in remote Florida swamps, a team of researchers and photographers have made a new discovery that upends what we thought we knew about the ghost orchid, one of the world’s most iconic flowers, and how it reproduces."
