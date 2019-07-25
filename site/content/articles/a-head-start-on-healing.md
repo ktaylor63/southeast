@@ -1,6 +1,6 @@
 ---
 title: 'A head start on healing'
-subtitle: 'Louisiana brown pelican habitat damaged by oil spill gets restoration funding due to streamlining'
+subtitle: 'Streamlining environmental compliance process speeds up restoration of important brown pelican rookery'
 author: 'Nadine Leavitt Siak, Gulf restoration'
 date: 2019-07-16
 type: feature
