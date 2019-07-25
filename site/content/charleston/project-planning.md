@@ -12,7 +12,7 @@ tags:
     - Consultation
     - 'Endangered Species Act'
     - 'South Carolina'
-updated: 'May 30th, 2019'
+updated: 'July 23rd, 2019'
 ---
 
 The Ecological Services Program of the U.S. Fish and Wildlife Service works collaboratively with other federal agencies, industries, and other stakeholders to achieve infrastructure development goals in ways that are sustainable and compatible with the conservation of fish, wildlife, and their habitats. Field biologists assist project proponents, planners, and personnel in developing plans that conserve, restore, or enhance plant and animal species. Service biologists work under multiple authorities, including the [Endangered Species Act](https://www.fws.gov/endangered/esa-library/pdf/ESAall.pdf) (ESA), [Clean Water Act](https://www.fws.gov/laws/lawsdigest/FWATRPO.HTML) (CWA), [Federal Power Act](https://www.fws.gov/laws/lawsdigest/FEDPOWR.HTML), [Fish and Wildlife Coordination Act](https://www.fws.gov/laws/lawsdigest/FWCOORD.HTML), [National Environmental Policy Act](https://www.fws.gov/r9esnepa/RelatedLegislativeAuthorities/nepa1969.PDF) (NEPA), and [Bald and Golden Eagle Protection Act](https://www.fws.gov/laws/lawsdigest/BALDEGL.HTML). Biologists review and provide recommendations on plans and development designs, provide expertise in wildlife and habitat science, and serve as members on planning teams.
@@ -31,7 +31,7 @@ All of the documents below were updated on May 30, 2019 for the public to use:
 
 - [Communication Tower Project Clearance Letter](/pdf/letter/south-carolina-communication-tower-clearance.pdf)
 - [Department of Commerce, HUD, and USDA Rural Development Projects Clearance Letter](/pdf/letter/south-carolina-clearance-to-proceeed-with-us-dept-of-commerce-us-dept-of-housing-and-urban-development-and-us-dept-of-agriculture-projects.pdf)
-- [Species and Habitat Assessment Clearance Letter](/pdf/letter/south-carolina-clearance-for-species-and-habitat-assessments﻿.pdf)
+- [Species and Habitat Assessment Clearance Letter](/pdf/letter/south-carolina-clearance-for-species-and-habitat-assessments.pdf)
 - [Solar Power Clearance Letter](/pdf/letter/south-carolina-solar-power-clearance.pdf)
 
 ## Section 7 consultation
