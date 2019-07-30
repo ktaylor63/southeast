@@ -1,4 +1,12 @@
 stories:
+  - title: "Story Map: A Way Home, Building the Ocala to Osceola Wildlife Corridor"
+    summary: "The O2O connects habitat for wide-ranging animals like the Florida black bear and protects imperiled species like the red-cockaded woodpecker, eastern indigo snake and gopher tortoise. It’s within the Florida Wildlife Corridor, identified by state agencies and University of Florida researchers as the best configuration to protect ecologically and geographically connected lands. O2O aims to conserve 10,000 acres by 2020 and 150,000 acres by 2040."
+    date: 2019-07-29
+    hero:
+      name: eastern-indigo-snake.jpg
+      alt: 'A deep black snake coiled up on sandy soil with young longleaf pine seedlings in the background'
+      caption: 'An Eastern indigo snake on sandy soil associated with the longleaf pine ecosystem. Photo © Houston Chandler, the Orianne Society (Used with permission).'
+    url: 'https://nrcs.maps.arcgis.com/apps/Cascade/index.html?appid=b202e1b4a45e4e59b21c448c3dcf286b'
   - title: "The Endangered Species Act"
     summary: "The very first broadcast of 'Sunday Morning' on January 28, 1979, featured a report from Cobscook Bay, Maine, where bald eagles were on the brink of extinction."
     date: 2019-07-21
@@ -6,7 +14,6 @@ stories:
       name: manatees-crystal-river.jpg
       alt: 'Four manatees and a school of fish assemble under crystal clear water.'
       caption: 'Manatees at <a href="https://www.fws.gov/refuge/crystal_river">Crystal River National Wildlife Refuge</a> in Florida. <a href="https://flic.kr/p/8M7kX8">Photo</a> by David Hinkel.'
-      position: 50% 40%
     url: "https://www.cbsnews.com/news/on-the-brink-the-endangered-species-act/"
   - title: "Discovery reveals secrets about how ghost orchids reproduce"
     subtitle: "Incredible photos show multiple species pollinate the rare and enigmatic flower, which is good news for the endangered species."
