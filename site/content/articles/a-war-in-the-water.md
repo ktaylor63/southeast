@@ -11,6 +11,7 @@ hero:
     position: '70% 35%'
 tags:
     - Alabama
+    - 'Asian Carp'
     - 'At-Risk Species'
     - 'Black Carp'
     - 'Cumberland River'
@@ -28,7 +29,7 @@ tags:
     - 'Tennessee Aquarium'
     - 'Tennessee River'
     - 'Yazoo River'
-updated: 'March 19th, 2018'
+updated: 'July 26th, 2019'
 ---
 
 **Eastport, Mississippi** &mdash; This stretch of the Tennessee River is considered the most aquatically biodiverse in the nation, teeming with sportfish and at-risk snails and mussels.
