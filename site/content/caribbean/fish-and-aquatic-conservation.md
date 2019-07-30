@@ -35,6 +35,8 @@ The Caribbean Ecological Services Office includes Puerto Rico and the U. S. Virg
 - [Peces de Agua Dulce del Caribe](/pdf/fact-sheet/caribbean-fish-spanish.pdf)
 - [Caribbean freshwater crustaceans fact sheet](/pdf/fact-sheet/caribbean-freshwater-crustaceans.pdf)
 - [Crustáceos de Agua Dulce del Caribe](/pdf/fact-sheet/caribbean-crustaceans-spanish.pdf)
+- [Reconnecting the rivers of Puerto Rico](/pdf/fact-sheet/reconnecting-the-rivers-of-puerto-rico.pdf)
+- [Reconectando los ríos de Puerto Rico](/pdf/fact-sheet/reconectando-los-rios-de-puerto-rico.pdf)
 - [National Fish and Aquatic Conservation Program website](https://www.fws.gov/fisheries/)
 
 ## Related partnerships
