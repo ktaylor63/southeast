@@ -15,11 +15,12 @@ tags:
     - Kentucky
     - Mussel
     - Tennessee
+    - 'Tennessee Ecological Services Field Office'
 hero:
     name: rough-pigtoe.jpg
     alt: 'A close up photo of a yellow mussel shell'
     caption: 'Adult rough pigtoe in the Green River in Kentucky. Photo by Monte McGregor, Center Mollusk Conservation, Kentucky DFWR.'
-updated: 'March 25th, 2019'
+updated: 'September 12th, 2019'
 ---
 - **Taxon:** Bivalve
 - **Range:**  [Alabama](/alabama), [Indiana](/tags/indiana), [Kentucky](/kentucky) and [Virginia](/tags/virginia)
