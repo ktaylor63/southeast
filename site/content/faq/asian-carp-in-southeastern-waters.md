@@ -20,7 +20,7 @@ tags:
     - 'Lake Barkley'
     - 'Silver Carp'
     - Tennessee
-updated: 'July 29th, 2019'
+updated: 'September 12th, 2019'
 ---
 
 The spread of four species of large carp—bighead, black, grass, and silver—native to Asia are threatening the Southeast’s renowned aquatic biodiversity and local outdoor economies. The U.S. Fish and Wildlife Service and its federal and state partners are on the front line of the response to Asian carp in southeastern waters.
@@ -68,6 +68,9 @@ The goal of the bio-acoustic fish fence, also referred to as BAFF,  is to reduce
 - [Asian carp in Tennessee](https://www.tn.gov/twra/wildlife/fish/asian-carp.html)
 
 ## Contact
+
+Dan Chapman, Public Affairs Specialist  
+[daniel_chapman@fws.gov](mailto:daniel_chapman@fws.gov), (404) 679-4028
 
 ## Related stories
 
