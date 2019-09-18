@@ -16,6 +16,7 @@ tags:
     - 'North Carolina'
     - 'South Carolina Ecological Services Field Office'
     - Tennessee
+    - 'Tennessee Ecological Services Field Office'
     - Virginia
 aliases:
     - /wildlife/amphibian/eastern-hellbender
@@ -27,7 +28,7 @@ hero:
     caption: 'Eastern hellbender. <a href="https://flic.kr/p/EjNh96">Photo</a> by Will Parson, Chesapeake Bay Program, <a href="https://creativecommons.org/licenses/by-nc/2.0/">CC BY-NC 2.0</a>.'
     link: 'https://flic.kr/p/EjNh96'
     position: '40% 50%'
-updated: 'March 25th, 2019'
+updated: 'September 12th, 2019'
 ---
 
 - **Taxon:** Amphibian
