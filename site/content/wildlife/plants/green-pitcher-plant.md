@@ -22,7 +22,8 @@ tags:
     - Plant
     - 'Raleigh Ecological Services Field Office'
     - Recovery
-updated: 'March 25th, 2019'
+    - 'Tennessee Ecological Services Field Office'
+updated: 'September 12th, 2019'
 ---
 
 - **Taxon:** [Plant](/wildlife/plants)
