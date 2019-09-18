@@ -23,7 +23,7 @@ hero:
     alt: 'A mussel with fringe around its opening partially burried in the sand on the river bottom.'
     caption: 'Appalachian elktoe in the Little River Translyvania County NC. Photo by Gary Peeples, USFWS.'
     position: '25% 67%'
-updated: 'March 25th, 2019'
+updated: 'September 3rd, 2019'
 ---
 
 - **Taxon:** Mussel
@@ -32,7 +32,7 @@ updated: 'March 25th, 2019'
 
 {{< content-scroller tag="Appalachian Elktoe" heading="Related content" >}}
 
-## Appearance 
+## Appearance
 
 The Appalachian elktoe has a thin, kidney-shaped shell, extending to about 10 centimeters (4 inches). Juveniles generally have a yellowish-brown periostracum (outer shell surface), while the periostracum of the adults is usually dark brown to greenish-black in color. Although rays are prominent on some shells, particularly in the posterior portion of the shell, many individuals have only obscure greenish rays. The shell nacre (inside shell surface) is shiny, often white to bluish-white, changing to a salmon, pinkish, or brownish color in the central and beak cavity portions of the shell; some specimens may be marked with irregular brownish blotches.
 
