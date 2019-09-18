@@ -24,6 +24,18 @@ All species of plants and animals, except pest insects, are eligible for listing
 
 **[Download a list of threatened and endangered species by parish in Louisiana](/pdf/fact-sheet/louisiana-ecological-services-field-office-t-and-e-species.pdf).**
 
+## Survey Protocols, Guidelines and Recommendations
+
+* [Avoidance and minimization measures for piping plover and red knots for shoreline activities in Louisiana](/pdf/best-management-practice/piping-plover-and-red-knots-for-shoreline-activities-in-louisiana.pdf)
+* [Red-cockaded Woodpecker (RCW) Survey Report and Habitat Guidelines](/pdf/guidelines/red-cockaded-woodpecker-survey-report-and-habitat-guidelines.pdf)
+* [Standard Manatee Conditions](/pdf/guidelines/standard-manatee-conditions.pdf)
+* [West Indian manatee area sign for land side work area](/pdf/sign/west-indian-manatee-area-sign-for-land-side-work-area.pdf)
+* [West Indian manatee area sign for vessels](/pdf/sign/west-indian-manatee-area-sign-for-vessel.pdf)
+* [Stream Obstruction Guidelines - Ringed Map Turtle](/pdf/guidelines/stream-obstruction-removal-guidelines.pdf)
+* [Water Intake Recommendations](/pdf/guidelines/water-intake-recommendations.pdf)
+* [Louisiana Black Bear Post-Delisting Fact Sheet](/pdf/fact-sheet/louisiana-black-bear-post-delisting-consultation.pdf)
+* [Atlantic Sturgeon (Gulf subspecies) Critical Habitat Physical Biological Features](/pdf/fact-sheet/gulf-sturgeon-critical-habitat-physical-biological-features.pdf)
+
 ## Guidance on Determining Need for Incidental Take Permit under ESA Section 10(a)(1)(B)
 
 Are you unsure whether you need an incidental take permit? Download the [questionnaire](/pdf/guidelines/questionnaire-for-potential-applicants-under-section-10.pdf) or [decision tree](/pdf/guidelines/section-10-trigger-graphic.pdf) to learn more.
@@ -75,6 +87,7 @@ In 2016, the Service removed the [Louisiana black bear](/wildlife/mammals/louisi
 * [Post-Delisting Monitoring Plan](https://www.regulations.gov/document?D=FWS-R4-ES-2015-0014-0078)
 * [1st Annual Post-Delisting Monitoring Report](/pdf/report/louisiana-black-bear-1st-annual-post-delisting-monitoring-report.pdf)
 * [2nd Annual Post-Delisting Monitoring Report](/pdf/report/louisiana-black-bear-2nd-annual-post-delisting-monitoring-report.pdf)
+* [3nd Annual Post-Delisting Monitoring Report](https://ecos.fws.gov/ServCat/DownloadFile/162421)
 * [Combined 1993 - 2008 - 2014 LA Black Bear Breeding Habitat Map](/pdf/map/louisiana-black-bear-breeding-habitat-map.pdf)
 
 ## Louisiana black bear content
