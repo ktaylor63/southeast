@@ -3,12 +3,18 @@ draft: true
 title: 'Bat conservation'
 description: 'Tennessee is home to several endangered bat species. Learn more about the Indiana bat, northern long-eared bat and white-nose syndrome.'
 facebook: FWSTNFO
+menu: tennessee-esfo
 nav: Bats
+hero:
+    name: indiana-bat-resting.jpg
+    alt: 'A furry, brown bat resting in the crevace of a cave.'
+    caption: 'Hibernating Indiana bat (<em>Myotis sodalis</em>). <a href="https://flic.kr/p/9wSKga">Photo</a> by Ann Froschauer,  USFWS.'
+    link: 'https://flic.kr/p/9wSKga'
 tags:
     - 'Endangered Species Act'
     - Tennessee
     - 'Tennessee Ecological Services Field Office'
-updated: 'August 24th, 2018'
+updated: 'September 12th, 2019'
 ---
 
 ## White Nose Syndrome
@@ -71,6 +77,7 @@ as long as these activities include these measures:
 
 ## Additional information
 
+- [Map of Indiana Bat Sites in Tennessee](/pdf/map/indiana-bat-sites-in-tennessee.pdf)
 - [Conservation strategy for forest-dwelling bats in Tennessee](/pdf/strategy/conservation-strategy-for-forest-dwelling-bats-in-tennessee.pdf)
 - [Biological Opinion - Tennessee Field Office's participation in conservation memoranda of understanding for the Indiana bat and/or Northern long-eared bat](/pdf/biological-opinion/tennessee-field-offices-participation-in-conservation-memoranda-of-understanding-for-the-indiana-bat-and-or-northern-long-eared-bat.pdf)
 - [Consultants that hold federal permits to survey for endangered bats in Tennessee](/pdf/memo/tennessee-bat-consultatnts.pdf)
@@ -80,4 +87,3 @@ as long as these activities include these measures:
 
 David Pelren, Biologist  
 [david_pelren@fws.gov](mailto:david_pelren@fws.gov), 931-525-4974
-

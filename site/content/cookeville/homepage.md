@@ -3,6 +3,7 @@ draft: true
 title: 'Tennessee Ecological Services Field Office'
 description: 'The Tennessee Field Office, established in 1977, provides assistance to federal and state agencies, local governments, businesses, and the public to conserve and restore habitat for migratory birds and federally threatened and endangered species.'
 facebook: FWSTNFO
+menu: tennessee-esfo
 nav: Home
 weight: 1
 office: 'Tennessee Ecological Services Field Office'
@@ -19,7 +20,7 @@ tags:
     - 'Endangered Species Act'
     - Tennessee
     - 'Tennessee Ecological Services Field Office'
-updated: 'August 27th, 2018'
+updated: 'September 12th, 2019'
 ---
 
 The Tennessee Field Office, established in 1977, provides assistance to federal and state agencies, local governments, businesses, and the public to conserve and restore habitat for migratory birds and federally threatened and endangered species. Our assistance is typically provided through six programs: pre-development consultation, federal permits and projects, endangered species, environmental contaminants, partners for fish and wildlife, and education/outreach.

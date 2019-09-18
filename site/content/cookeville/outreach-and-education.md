@@ -3,13 +3,18 @@ draft: true
 title: 'Outreach and education'
 description: 'The Tennessee Field Office provides information concerning threatened and endangered species as well as other resource-oriented issues in Tennessee. We provide presentations, informational booths and outdoor exercises to school groups, civic organizations, and college classes, etc.'
 facebook: FWSTNFO
+menu: tennessee-esfo
 nav: 'Outreach and Education'
 office: 'Tennessee Ecological Services Field Office'
+hero:
+    name: lafayette-earth-day-environmental-education.jpg
+    alt: 'An employee in uniform explains species and their habitats to a group of students.'
+    caption: 'Sharing Knowledge Of Wildlife And Their Habitat At An Earth Day School Event. Photo by USFWS.'
 tags:
     - 'Endangered Species Act'
     - Tennessee
     - 'Tennessee Ecological Services Field Office'
-updated: 'August 24th, 2018'
+updated: 'September 12th, 2019'
 ---
 
 The U.S. Fish and Wildlife Service believes education is the key to preserving our natural resources for future generations to enjoy.

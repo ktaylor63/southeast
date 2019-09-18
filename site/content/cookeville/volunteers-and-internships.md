@@ -4,12 +4,13 @@ title: 'Volunteers and Internships'
 nav: Volunteers/Internships
 description: ""
 facebook: FWSTNFO
+menu: tennessee-esfo
 tags:
     - Internship
     - Tennessee
     - 'Tennessee Ecological Services Field Office'
     - Volunteer
-updated: 'August 24th, 2018'
+updated: 'September 12th, 2019'
 ---
 
 Congratulations on taking important steps towards your future career in conservation.  Volunteer internships with the U.S. Fish and Wildlife Service are unique opportunities to experience many aspects of a career in conservation with a federal agency.  There are many benefits to volunteering as an intern:
@@ -57,18 +58,18 @@ Cartography/Spatial Analysis Intern
 
 ## How to apply
 
-To apply for an internship position, complete the following paperwork and email* to Emily Granstaff at emily_granstaff@fws.gov or bring copies by our office** at 446 Neal Street, Cookeville, TN 38501 by March 29, 2019.
+To apply for an internship position, complete the following paperwork and email<strong>*</strong> to Emily Granstaff at [emily_granstaff@fws.gov](mailto:emily_granstaff@fws.gov) or bring copies by our office<strong>**</strong> at 446 Neal Street, Cookeville, TN 38501 by March 29, 2019.
 
-Form OMB 0596-0080
-Supplemental Application Questions
-Your latest resume (Here are some tips for building a federal resume)
-Copy of your unofficial transcript
+- Form OMB 0596-0080
+- Supplemental Application Questions
+- Your latest resume (Here are some tips for building a federal resume)
+- Copy of your unofficial transcript
 
-*If you email your application, the process is complete when you receive an email acknowledgement from Emily Granstaff.  If you do not receive an email acknowledgment or have any other questions, call Emily at 931-525-4993.
+<strong>*</strong>If you email your application, the process is complete when you receive an email acknowledgement from Emily Granstaff.  If you do not receive an email acknowledgment or have any other questions, call Emily at 931-525-4993.
 
-**Office hours are Monday – Friday, 7:30am – 4:30pm
+<strong>**</strong>Office hours are Monday – Friday, 7:30am – 4:30pm
 
-For more information about volunteering with the U.S. Fish and Wildlife Service, visit the national volunteer page.
+For more information about volunteering with the U.S. Fish and Wildlife Service, visit the [national volunteer page](https://www.fws.gov/volunteers/).
 
 ## Contact
 

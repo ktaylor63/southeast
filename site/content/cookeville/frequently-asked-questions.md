@@ -2,10 +2,17 @@
 draft: true
 title: 'Frequently asked questions'
 nav: FAQs
+facebook: FWSTNFO
+menu: tennessee-esfo
+hero:
+    name: hunting-with-multiple-generations.jpg
+    alt: 'An older man points to the sky with a child.'
+    caption: 'Hunting. Photo by USFWS.'
+    link: 'https://flic.kr/p/8FjHYp'
 tags:
     - Tennessee
     - 'Tennessee Ecological Services Field Office'
-updated: 'August 27th, 2018'
+updated: 'September 12th, 2019'
 ---
 
 ## Where can I purchase a hunting or fishing license in Tennessee?
