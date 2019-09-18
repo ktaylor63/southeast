@@ -4,6 +4,7 @@ const xhr = require('xhr');
 const Parallax = require('parallax-scroll');
 const Marker = require('mark.js');
 const throttle = require('lodash.throttle');
+const forEach = require('lodash.foreach');
 const menu = require('fws-navigation');
 const nav = require('fws-scrollnav');
 const glossary = require('fws-glossary');
@@ -15,7 +16,7 @@ const analytics = require('./analytics');
 const marker = new Marker(document.querySelector('#content'));
 const parallax = new Parallax('.parallax', { speed: 0.5 });
 
-const baseURL =  document.body.getAttribute('data-root') || 'http://localhost:3000/';
+const baseURL = document.body.getAttribute('data-root') || 'http://localhost:3000/';
 
 const content = document.getElementById('content');
 const contactLinks = Array.from(document.querySelectorAll('.toggle-contact'));
@@ -27,7 +28,7 @@ let contactsDownloaded = false;
 let terms;
 
 if (captionIcons) {
-  [].forEach.call(captionIcons, i => {
+  forEach(captionIcons, i => {
     i.addEventListener('click', function toggleCaption() {
       this.parentElement.classList.toggle('active');
     });
@@ -128,7 +129,7 @@ function keyupHandler(e) {
     document.querySelector('.info-window')
   ];
 
-  drawers.forEach(drawer => {
+  forEach(drawers, (drawer) => {
     if (!drawer) return;
     const button = drawer.querySelector('.close-drawer');
     if (drawer.classList.contains('active')) removeActiveClassFromDrawer(button);
@@ -137,7 +138,7 @@ function keyupHandler(e) {
 
 document.body.addEventListener('keyup', keyupHandler);
 
-drawerToggles.forEach(drawer => {
+forEach(drawerToggles, (drawer) => {
   drawer.addEventListener('click', removeActiveClassFromDrawer);
 });
 
@@ -147,7 +148,7 @@ function toggleActiveClass(el, theClass) {
   else el.classList.add(activeClass);
 }
 
-contactLinks.forEach(link => {
+forEach(contactLinks, (link) => {
   link.addEventListener('click', () => {
     if (!contactsDownloaded) {
       contacts.init();
@@ -164,7 +165,7 @@ document
   .getElementById('search-trigger')
   .addEventListener('click', search.toggle);
 const searchTriggers = Array.from(document.querySelectorAll('.search-trigger'));
-searchTriggers.forEach(trigger => trigger.addEventListener('click', search.toggle));
+forEach(searchTriggers, (trigger) => trigger.addEventListener('click', search.toggle));
 document.querySelector('.toggle-share').addEventListener('click', () => {
   toggleActiveClass(document.querySelector('.share-drawer'));
 });
@@ -175,7 +176,7 @@ if (sectionNav) {
     sectionNav.querySelectorAll('.dropdown-item')
   );
 
-  sectionDropdowns.forEach(dropdown => {
+  forEach(sectionDropdowns, (dropdown) => {
     dropdown.addEventListener('click', e => {
       const childList = e.target.parentNode.querySelector('ul');
       childList.classList.toggle('hidden');
@@ -208,7 +209,7 @@ function lazyLoad(e) {
   const nearestLazyImg = scrollerList.querySelector(`[${attribute}]`);
   const nearestLazyItem = closest(nearestLazyImg, '.content-scroller--item');
   if (!nearestLazyItem) return;
-  const lazyImgFromView =    nearestLazyItem.offsetTop
+  const lazyImgFromView = nearestLazyItem.offsetTop
     - scrollerList.clientHeight
     - scrollerList.scrollTop;
 
@@ -217,7 +218,7 @@ function lazyLoad(e) {
     nearestLazyImg.removeAttribute(attribute);
   }
 }
-contentLists.forEach(list => {
+forEach(contentLists, (list) => {
   list.addEventListener('scroll', throttle(lazyLoad, 100));
 });
 
