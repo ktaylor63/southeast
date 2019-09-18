@@ -14,11 +14,12 @@ tags:
     - Kentucky
     - Mussel
     - Tennessee
+    - 'Tennessee Ecological Services Field Office'
 hero:
     name: ring-pink.jpg
     alt: 'A photograph of the outside and inside of a ring pink shell next to a ruler for scale.  Shell is approximately 3 inches wide.'
     caption: 'Ring pink. Photo by Leroy Koch, USFWS.'
-updated: 'March 25th, 2019'
+updated: 'September 12th, 2019'
 ---
 
 - **Taxon:** Bivalve
