@@ -22,7 +22,7 @@ aliases:
     - /wildlife/reptile/southern-hognose-snake
     - /species/reptile/southern-hognose-snake
     - /species/reptiles/southern-hognose-snake
-updated: 'April 3rd, 2019'
+updated: 'September 12th, 2019'
 ---
 
 - **Taxon:** Reptile
