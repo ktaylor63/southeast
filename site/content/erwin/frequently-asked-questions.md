@@ -3,11 +3,16 @@ draft: true
 title: 'Frequently asked questions'
 facebook: ErwinNFH
 nav: FAQ
+hero:
+    name: erwin-nfh-heritage-museum.jpg
+    alt: 'An old house with a wrap-around porch on the hatchery grounds.'
+    caption: 'Built in 1903, this building served as the Hatchery Superintendent’s residence. In 1982, the Service entered into a cooperative agreement with Unicoi County for use of the building as a local heritage museum. Photo by USFWS.'
+    position: '25% 55%'
 tags:
     - Broodstock
     - 'Fish and Aquatic Conservation'
     - Tennessee
-updated: 'February 14th, 2019'
+updated: 'September 13th, 2019'
 ---
 
 ## Where can I purchase a fishing license?

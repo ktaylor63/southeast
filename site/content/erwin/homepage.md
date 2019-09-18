@@ -8,11 +8,15 @@ office: 'Erwin National Fish Hatchery'
 js: /js/field-station.js
 url: /erwin
 type: field-station
+hero:
+    name: erwin-national-fish-hatchery.jpg
+    alt: 'The sun sets over a red building with a USA flag out front.'
+    caption: 'Erwin National Fish Hatchery at sunset. Photo by USFWS.'
 tags:
     - Broodstock
     - 'Erwin National Fish Hatchery'
     - Tennessee
-updated: 'February 14th, 2019'
+updated: 'September 13th, 2019'
 ---
 
 Established in 1894, Erwin National Fish Hatchery in Tennessee produces 10-13 million disease-free eggs annually from four strains of rainbow trout broodstock. These eggs are shipped to other federal, state and tribal hatcheries to support their fishery management efforts. The station also provides eggs to research centers, classrooms, and universities.  Broodstock operations are performed in a manner that will preserve or optimize the genetic diversity of hatchery fish.
@@ -53,8 +57,8 @@ Erwin National Fish Hatchery has [a substantially positive impact on our nation'
 - Nearly 7 million high-quality trout are stocked each year in the waters of Tennessee, Georgia, Kentucky, Arkansas, Alabama, North Carolina and Oklahoma by National Fish Hatcheries in the Southeast Region. The resulting economic impact is tremendous—well over 3,000 jobs and a total economic output of nearly $300 million. And at the heart of this trout production is Erwin National Fish Hatchery in Erwin, Tennessee.
 - Eyed egg production and distribution from Erwin NFH and the resulting trout stocking across the Southeast Region generate employment for 3,442 people with $89.5 million in wage and salary income.
 - Retail sales associated with angler expenditures as result of trout stocking by Southeast Region hatcheries amounts to more than $166 million.
-- Federal tax revenues generated from this trout stocking amount to $10.9 million, a return of $2.53 to the Federal treasury for every Federal tax dollar spent to operate the hatcheries. In addition, State and local tax revenues amount to $9.8 million. 
-- Total economic output (multiplier effect) is $312.9 million, a return of $72.95 for every dollar spent. 
+- Federal tax revenues generated from this trout stocking amount to $10.9 million, a return of $2.53 to the Federal treasury for every Federal tax dollar spent to operate the hatcheries. In addition, State and local tax revenues amount to $9.8 million.
+- Total economic output (multiplier effect) is $312.9 million, a return of $72.95 for every dollar spent.
 
 ## Contact
 
