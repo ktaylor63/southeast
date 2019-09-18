@@ -15,11 +15,12 @@ tags:
     - Kentucky
     - Mussel
     - Tennessee
+    - 'Tennessee Ecological Services Field Office'
 hero:
     name: orangefoot-pimpleback.jpg
     alt: 'A brown mussel with orangish brown striations'
     caption: 'An orangefoot pimpleback mussel. Photo by Monte McGregor, Center Mollusk Conservation, Kentucky DFWR.'
-updated: 'March 25th, 2019'
+updated: 'September 12th, 2019'
 ---
 
 - **Taxon:** Bivalve
