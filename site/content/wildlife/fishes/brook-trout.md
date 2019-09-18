@@ -32,6 +32,7 @@ tags:
     - 'Rhode Island'
     - 'South Carolina'
     - Tennessee
+    - 'Tennessee Ecological Services Field Office'
     - Vermont
     - 'West Virginia'
     - Wisconsin
@@ -40,7 +41,7 @@ hero:
     name: eastern-brook-trout.jpg
     alt: 'A colorful green/brown and red trout covered in small red spots.'
     caption: 'A wildlife biologist holds a small eastern brook trout. Photo by Steve Droter, Chesapeake Bay Program.'
-updated: 'March 25th, 2019'
+updated: 'September 12th, 2019'
 ---
 
 - **Taxon:** Freshwater fish
