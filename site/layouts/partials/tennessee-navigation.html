@@ -1,0 +1,23 @@
+<nav class="section-nav" aria-label="Subsite navigation">
+  <ul>
+    {{ range where .Site.Pages "Section" .Section }}
+    {{ if .Params.nav }}
+    <li><a href="{{ .Permalink }}">{{ .Params.nav }}</a></li>
+    {{ end }}
+    {{ end }}
+    <li class="dropdown-item"><button>Project Review</button>
+      <ul class="hidden">
+        <li><a href="{{ .Site.BaseURL }}cookeville/project-review/">Project Planning Home</a></li>
+        <li><a href="{{ .Site.BaseURL }}cookeville/project-review/action-area">Step 1. Action area</a></li>
+        <li><a href="{{ .Site.BaseURL }}cookeville/project-review/obtain-an-official-species-list">Step 2. Species list</a></li>
+        <li><a href="{{ .Site.BaseURL }}cookeville/project-review/state-coordination">Step 3. State coordination</a></li>
+        <li><a href="{{ .Site.BaseURL }}cookeville/project-review/suitable-habitat">Step 4. Suitable habitat</a></li>
+        <li><a href="{{ .Site.BaseURL }}cookeville/project-review/critical-habitat">Step 5. Critical Habitat</a></li>
+        <li><a href="{{ .Site.BaseURL }}cookeville/project-review/eagle-nests">Step 6. Eagle nests</a></li>
+        <li><a href="{{ .Site.BaseURL }}cookeville/project-review/determinations">Step 7a. Determinations</a></li>
+        <li><a href="{{ .Site.BaseURL }}cookeville/project-review/northern-long-eared-bats-in-tennessee">Step 7b. Northern long-eared bat</a></li>
+        <li><a href="{{ .Site.BaseURL }}cookeville/project-review/project-review-package">Step 8. Project review package</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>

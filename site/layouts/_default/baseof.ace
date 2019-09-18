@@ -5,6 +5,7 @@ html lang="en-US"
     = include partials/css.html .
   body data-root="{{ .Site.Params.base }}"
     a#skip-to-content href=#content skip to content
+
     = include partials/navigation.html .
     {{ if .Params.hero }}
     = include partials/hero.html .
@@ -12,7 +13,9 @@ html lang="en-US"
     {{ if .Params.video }}
     = include partials/video-banner.html .
     {{ end }}
-    {{ if .Params.nav }}
+    {{ if eq .Params.menu "tennessee-esfo" }}
+    = include partials/tennessee-navigation.html .
+    {{ else if .Params.nav }}
     = include partials/section-navigation.html .
     {{ end }}
     .wrapper
