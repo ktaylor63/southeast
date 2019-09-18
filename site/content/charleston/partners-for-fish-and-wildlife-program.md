@@ -11,7 +11,7 @@ hero:
 tags:
     - 'Private Landowners'
     - 'South Carolina'
-updated: 'March 28nd, 2019'
+updated: 'August 8th, 2019'
 ---
 
 The Partners for Fish and Wildlife Program works with voluntary habitat improvement projects on private lands for the benefit of federal trust resources, such as [endangered or threatened species](/charleston/endangered-species/) and [at-risk species](/charleston/at-risk-species) (ARS). Biologists provide technical and financial assistance to landowners who want to restore and enhance habitats on their property.
@@ -54,9 +54,6 @@ The Partners for Fish and Wildlife Program works with voluntary habitat improvem
 Learn more about the [Partners for Fish and Wildlife program in the Southeast region](/our-services/partners-program/), or check out the [photo album](https://www.flickr.com/photos/usfwssoutheast/albums/72157673957777457).
 
 ## Contact
-
-Joe Cockrell, Fish and Wildlife Biologist, Partners for Fish and Wildlife Program Coordinator  
-[joe_cockrell@fws.gov](mailto:joe_cockrell@fws.gov), (843)727-4707 ext. 305.
 
 Bret Beasley, Fish and Wildlife Biologist, Partners for Fish and Wildlife Program  
 [bret_beasley@fws.gov](mailto:bret_beasley@fws.gov), (843)727-4707 ext. 302.
