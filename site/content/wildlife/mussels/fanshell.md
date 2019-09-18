@@ -17,6 +17,7 @@ tags:
     - Mussel
     - Ohio
     - Tennessee
+    - 'Tennessee Ecological Services Field Office'
     - Virginia
     - 'West Virginia'
     - 'Wolf Creek National Fish Hatchery'
@@ -24,7 +25,7 @@ hero:
     name: fanshell-mussel.jpg
     alt: 'Three brownish yellow mussels the smallest of which has a small white protrusion which the mussel uses to attach to a rock.'
     caption: 'Photo by Monte McGregor, Center Mollusk Conservation, Kentucky DFWR.'
-updated: 'March 25th, 2019'
+updated: 'September 12th, 2019'
 ---
 
 - **Taxon**: Bivalve
