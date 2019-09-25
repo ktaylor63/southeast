@@ -20,7 +20,7 @@ tags:
     - 'Lake Barkley'
     - 'Silver Carp'
     - Tennessee
-updated: 'September 12th, 2019'
+updated: 'September 20th, 2019'
 ---
 
 The spread of four species of large carp—bighead, black, grass, and silver—native to Asia are threatening the Southeast’s renowned aquatic biodiversity and local outdoor economies. The U.S. Fish and Wildlife Service and its federal and state partners are on the front line of the response to Asian carp in southeastern waters.
@@ -32,6 +32,8 @@ Through flooding in the 1970s, Asian carp first found their way into rivers, str
 {{< figure class="photo-center" src="/images/pages/silver-carp.jpg" alt="A biologist holding a fish about the size of his thigh." caption="Silver carp. Photo courtesy of the Asian Carp Regional Coordinating Committee." link="https://flic.kr/p/bFeBy3" >}}
 
 In the Southeast, these destructive fish are putting the region’s renowned aquatic biodiversity at risk. For example, silver and bighead carp out-compete native sport fish like crappie and largemouth bass, and black carp feed on the freshwater mussels that help keep our aquatic systems healthy by providing good fishing and good water quality for people, waterfowl and other wildlife species.  Consequently, these fish can negatively impact the local economies of communities that rely on fishing, boating, and waterfowl hunting.
+
+{{< youtube id="pjAvV5cN0WA" title="A Battle Worth Carping About (Part 1): The Asian Invasion" >}}
 
 ## A collaborative effort for controlling carp
 
@@ -50,6 +52,8 @@ Sound has shown promise as a potential barrier to Asian carp passage and current
 The goal of the bio-acoustic fish fence, also referred to as BAFF,  is to reduce the use movement of Asian carp through the locks, thus helping to protect hundreds of river miles that remain relatively untouched by carp in the Tennessee and Cumberland rivers.  The BAFF, developed by U.K.-based company Fish Guidance Systems, uses a curtain of bubbles and sound particularly noticeable by Asian carp to deter fish from the lock entrance.
 
 [Installation of the BAFF at Barkley Lock and Dam](https://fileshare.fws.gov/?linkid=KZi4zr6VWWXDOaOq0fT0lJF/ZlEhHYre8YDODS6ncAGbVD1e/QKTpw) is ongoing, but construction will be suspended beginning in August 2019 to accommodate navigation traffic during a required maintenance closure at neighboring Kentucky Lock.  Installation will resume in October 2019, the BAFF is expected to be operational later in fall 2019.  The field trial to test the effectiveness of the BAFF system will continue for a three-year period and cost an estimated $7 million, which is coming from the Great Lakes Restoration Initiative through the [Asian Carp Regional Coordinating Committee](http://asiancarp.us)’s Asian Carp Action Plan and leveraged with support from Service base funding.
+
+{{< youtube id="Fg6ETSk100k" title="A Battle Worth Carping About (Part 2): Fighting Back" >}}
 
 ## Photos and video
 
