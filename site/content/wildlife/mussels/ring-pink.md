@@ -36,7 +36,7 @@ The ring pink is a medium size mussel, 2 to 3 inches in length, with a round, mo
 
 This species is endemic to the Ohio River basin and is found in gravel and sandy substrates in large rivers.
 
-{{< figure class="photo-center" src="/images/pages/ring-pink-and-fanshell-habitat-green-river-kentucky.jpg" alt="A small grassy island in the middle of a shallow river surrounded by mature trees." caption="Rink pink and fanshell mussel habitat in the Green River in Kentucky. Photo by Monte McGregor, Center Mollusk Conservation, Kentucky DFWR." >}}
+{{< figure class="photo-center" src="/images/pages/ring-pink-and-fanshell-habitat-green-river-kentucky.jpg" alt="A small grassy island in the middle of a shallow river surrounded by mature trees." caption="Ring pink and fanshell mussel habitat in the Green River in Kentucky. Photo by Monte McGregor, Center for Mollusk Conservation, Kentucky DFWR." >}}
 
 ## Diet
 
