@@ -24,11 +24,11 @@ updated: 'September 12th, 2019'
 
 - **Taxon:** Freshwater fish
 - **Range:** Barrens Plateau, Tennessee
-- **Status:** [Proposed for listing as endangered on Jan. 4, 2019](https://www.govinfo.gov/content/pkg/FR-2018-01-04/pdf/2017-28491.pdf)
+- **Status:** [Proposed for listing as endangered on Jan. 4, 2018](https://www.govinfo.gov/content/pkg/FR-2018-01-04/pdf/2017-28491.pdf)
 
 {{< content-scroller tag="Barrens Topminnow" heading="Related content" >}}
 
-The Barrens topminnow was proposed for listing as an endangered species in January, 2019. Current populations are facing issues including habitat alteration; over using topminnows as bait fish; disease and predation; and other natural or manmade factors.  Due to the rapid decline of the topminnows, a Barrens Topminnow Working Group was formed in 2001.  Group members consist of governmental and non-governmental conservation organizations.  In addition to dedicating protection of existing populations of topminnows, the working group is also committed to the protection of existing populations of topminnows while restoring and enhancing other areas within the species’ historic range for future introduction.  The program is coordinated with Conservation Fisheries Inc. (CFI), the Tennessee Aquarium, Tennessee Wildlife Resource Agency, USFWS Cookeville Field Office and private landowners through the Partners Program.
+The Barrens topminnow was proposed for listing as an endangered species in January, 2018. Current populations are facing issues including habitat alteration; over using topminnows as bait fish; disease and predation; and other natural or manmade factors.  Due to the rapid decline of the topminnows, a Barrens Topminnow Working Group was formed in 2001.  Group members consist of governmental and non-governmental conservation organizations.  In addition to dedicating protection of existing populations of topminnows, the working group is also committed to the protection of existing populations of topminnows while restoring and enhancing other areas within the species’ historic range for future introduction.  The program is coordinated with Conservation Fisheries Inc. (CFI), the Tennessee Aquarium, Tennessee Wildlife Resource Agency, USFWS Cookeville Field Office and private landowners through the Partners Program.
 
 ## Appearance
 
