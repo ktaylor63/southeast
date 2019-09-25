@@ -4,11 +4,6 @@ audio: /audio/podcast/creature-feature/2009/ragweed.mp3
 transcript: /audio/transcripts/creature-feature/ragweed.pdf
 date: 2009-05-29T00:00:00.000Z
 author: 'Gary Peeples'
-hero:
-    name: ragweed.jpg
-    alt: 'A bright yellow flowering grass.'
-    caption: 'Ragweed. <a href="https://flic.kr/p/KFLcii">Photo</a> by Dan Neumann, CC BY-NC-ND 2.0.'
-    link: 'https://flic.kr/p/KFLcii'
 tags:
     - 'Asheville Ecological Services Field Office'
     - 'Bobwhite Quail'
@@ -21,7 +16,7 @@ tags:
     - Ragweed
     - 'Southern Appalachian Creature Feature'
     - Turkey
-updated: 'August 8th, 2018'
+updated: 'September 20th, 2019'
 ---
 
 ## Transcript
