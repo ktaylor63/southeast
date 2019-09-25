@@ -1,4 +1,12 @@
 stories:
+  - title: "Prescribed fire video: Into the black"
+    summary: "Many of the ecosystems in Alabama and throughout the southeast evolved with fire. Human ignited “prescribed fire”, also known as controlled burns, are an essential technique to mimic this natural process to maintain and restore critical habitats. With an ever growing population and extensive efforts to restore large areas of native habitats such as longleaf pine, partnerships are critical to provide the capacity necessary to implement fire on the scale needed to accomplish these objectives."
+    date: 2019-09-19
+    hero:
+      name: prescribed-fire.jpg
+      alt: 'A USFWS firefighter keeps a close eye on a prescribed fire'
+      caption: 'USFWS firefigher Brian Pippin watches over a prescribed fire at St. Marks National Wildlife Refuge. Photo by Jennifer Hinckley, USFWS.'
+    url: 'https://www.southernexposurefilms.org/films/into-the-black'
   - title: "The impact of Everglades restoration projects on waterfowl"
     summary: "Known as the River of Grass, the Everglades once covered about 4,000 square miles, stretching from near Orlando to Florida Bay at the southern tip of the state. The topography slopes southward at about two inches per mile, creating a slow, steady flow. Rain that falls around Orlando can take a year or more to reach Florida Bay. That is, if it ever makes it."
     date: 2019-09-10
