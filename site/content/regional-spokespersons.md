@@ -54,8 +54,7 @@ If you would like to have our press releases delivered to your inbox, please sub
 
 ### Mississippi
 
-[Connie Dickard](mailto:connie_dickard@fws.gov), Public Affairs Specialist <br>
-(601) 965-4900
+<a href="#general-media-inquiries-photos-video">See “General Media Inquiries”</a>
 
 ### Puerto Rico and U.S. Virgin Islands
 
@@ -81,6 +80,9 @@ If you would like to have our press releases delivered to your inbox, please sub
 ## General media inquiries, photos, video
 
 ### Atlanta Regional Office representatives
+
+[Jennifer Koches](mailto:jennifer_koches@fws.gov), Public Affairs Specialist <br>
+(843) 300-0424
 
 [Elsie Davis](mailto:elsie_davis@fws.gov), Public Affairs Specialist <br>
 (404) 679-7107
