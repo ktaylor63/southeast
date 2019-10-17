@@ -82,7 +82,7 @@ Dams turn free-flowing, highly oxygenated, shallow and cool upstream habitats in
 
 Why should we care? Relatively few people come in contact with mussels. They won’t win an endangered-species popularity contest. Leonardo DiCaprio isn’t likely to shine his star wattage on endangered [orangefoot pimplebacks](/wildlife/mussels/orangefoot-pimpleback/) as he does Sumatran elephants.
 
-{{< figure class="photo-center" src="/images/pages/orangefoot-pimpleback.jpg" alt="A brown mussel with orangish brown striations" caption="An orangefoot pimpleback mussel. Photo by Monte McGregor, Center Mollusk Conservation, Kentucky DFWR." >}}
+{{< figure class="photo-center" src="/images/pages/orangefoot-pimpleback.jpg" alt="A brown mussel with orangish brown striations" caption="An orangefoot pimpleback mussel. Photo by Monte McGregor, Center for Mollusk Conservation, Kentucky DFWR." >}}
 
 Yet mollusca play a critical role in the natural interplay between water and mankind. Mussels are filter feeders: they suck up nutrients, sediments and contaminants before expelling the cleansed byproducts downstream. Overall water quality improves to the benefit of other critters and humans who rely on water treatment plants that stick straws in streams, rivers and reservoirs. Some mussels filter ten gallons of water daily. And some football field-sized riffles are home to tens of thousands of mollusks straining water like a sieve does flour.
 
