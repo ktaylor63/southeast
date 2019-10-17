@@ -21,7 +21,7 @@ tags:
 updated: 'April 24th, 2019'
 ---
 
-Established in 1973, the South Carolina Ecological Services Field Office (SCESFO), located in Charleston, South Carolina, is primarily focused on protection and recovery of threatened and endangered species, while also supporting conservation of migratory birds, fish, and wetlands. The SCESFO also coordinates with the South Carolina Department of Natural Resources (SCDNR) to address priority species outlined in their South Carolina Wildlife Action Plan.  
+Established in 1973, the South Carolina Ecological Services Field Office (SCESFO), located in Charleston, South Carolina, is primarily focused on protection and recovery of threatened and endangered species, while also supporting conservation of migratory birds, fish, and wetlands. The SCESFO also coordinates with the South Carolina Department of Natural Resources (SCDNR) to address priority species outlined in their South Carolina Wildlife Action Plan.
 
 The SCESFO works in partnership with South Carolina’s  National Wildlife Refuges and National Fish Hatcheries.  Protecting over 192,000 acres of fish and wildlife habitat and providing exceptional recreational opportunities for the public, these U.S. Fish and Wildlife Service facilities serve as models for effective conservation and recovery of threatened and endangered species and other species of emerging conservation priority.  
 
