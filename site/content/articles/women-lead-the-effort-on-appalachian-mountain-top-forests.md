@@ -26,7 +26,7 @@ tags:
     - 'Tennessee Ecological Services Field Office'
     - 'Whigg Meadow'
 type: feature
-updated: 'May 24th, 2018'
+updated: 'October 7th, 2019'
 ---
 
 **Asheville, North Carolina** &mdash; As a thunderstorm brought torrential rain and a power outage, Kelly Holdbrooks helped load 250 young red spruce trees onto a trailer. Holdbrooks had helped raise the trees from seed at Southern Highlands Reserve, a non-profit arboretum and research center outside Brevard, N.C. Once the trees were loaded, U.S. Forest Service staff climbed into the truck and pulled out, with Holdbrooks and U.S. Fish and Wildlife Service biologist Sue Cameron looking on as the trees departed for the Cherokee National Forest last fall.
