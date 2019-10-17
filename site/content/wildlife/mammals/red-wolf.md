@@ -36,7 +36,7 @@ updated: 'April 30th, 2019'
 
 The red wolf is one of the world’s most endangered wolves. Once common throughout the Eastern and South Central United States, red wolf populations were decimated by the early 20th century as a result of intensive predator control programs and the degradation and alteration of the species' habitat. When the red wolf was designated endangered in 1967, the U.S. Fish and Wildlife Service initiated efforts to conserve and recover the species. Today, about 40 red wolves roam their native habitats in eastern North Carolina as a non-essential, experimental population (NEP), and more than 200 red wolves are maintained in captive breeding facilities throughout the United States.
 
-[Download the species status assessment](http://ecos.fws.gov/ServCat/DownloadFile/161384).
+[Download the species status assessment](https://ecos.fws.gov/ServCat/Reference/Profile/98417).
 
 {{< figure class="photo-center" src="/images/pages/red-wolf-straight-on-face.jpg" alt="A light brown and grey wolf with ears perked" caption="Captive red wolf at Species Survival Plan facility, Point Defiance Zoo and Aquarium (Tacoma, WA). Photo by B. Bartel, USFWS" >}}
 
@@ -86,7 +86,7 @@ One of the most surprising findings of the Service’s review was that genetic d
 
 [Visit the reading room for a list of publications and other supporting documentation used in the evaluation of the program](/reading-room?q=Red+wolf+evaluation).
 
-In April 2018, the Service published a new [Species Status Assessment](http://ecos.fws.gov/ServCat/DownloadFile/147196) of the most current scientific information, and a [five-year review](https://ecos.fws.gov/docs/five_year_review/doc5714.pdf) for the red wolf.
+In April 2018, the Service published a new [Species Status Assessment](https://ecos.fws.gov/ServCat/Reference/Profile/98417) of the most current scientific information, and a [five-year review](https://ecos.fws.gov/docs/five_year_review/doc5714.pdf) for the red wolf.
 
 In the five-year review, the Service recommended no change in the endangered status of the red wolf under the Endangered Species Act, a status that has been in place since 1967.
 
@@ -184,7 +184,7 @@ Also in April, the Service said it is moving to begin work with an independent o
 
 ### 2018
 
-- The Service published a [Species Status Assessment](http://ecos.fws.gov/ServCat/DownloadFile/147196) and [5-year review](https://ecos.fws.gov/docs/five_year_review/doc5714.pdf) for the red wolf. The latter recommended no change in the endangered status of the red wolf under the Endangered Species Act.
+- The Service published a [Species Status Assessment](https://ecos.fws.gov/ServCat/Reference/Profile/98417) and [5-year review](https://ecos.fws.gov/docs/five_year_review/doc5714.pdf) for the red wolf. The latter recommended no change in the endangered status of the red wolf under the Endangered Species Act.
 
 - [Service proposes new management rule for non-essential, experimental population of red wolves in North Carolina](/news/2018/06/service-proposes-new-management-rule-for-non-essential-experimental-population-of-red-wolves-in-north-carolina/)
 
