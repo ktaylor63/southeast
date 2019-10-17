@@ -1,0 +1,65 @@
+{
+  "name": "science-directory",
+  "version": "1.0.0",
+  "description": "A directory of Science Applications staff for the USFWS.",
+  "main": "index.js",
+  "browserslist": [
+    "defaults"
+  ],
+  "browserify": {
+    "transform": [
+      [
+        "babelify",
+        {
+          "plugins": [
+            "@babel/plugin-proposal-object-rest-spread"
+          ],
+          "presets": [
+            "@babel/preset-env"
+          ]
+        }
+      ]
+    ]
+  },
+  "watch": {
+    "inject:data": "{dist,src}/{data,js}/*.js"
+  },
+  "scripts": {
+    "watch:js": "watchify ./index.js -o ../../../site/static/js/seafwa-directory.js -dv",
+    "build:js": "browserify ./index.js -o ../../../site/static/js/seafwa-directory.js",
+    "csv2json": "csv2json ../../data/seafwa-directory.csv ../../data/seafwa-directory.js",
+    "inject:data": "npm run csv2json && node ./inject-employees.js",
+    "watch": "npm-watch & npm run watch:js",
+    "build": "npm run build:js && npm run inject:data",
+    "start": "npm run watch"
+  },
+  "keywords": [],
+  "author": "@r0yhewitt <roy_hewitt@fws.gov>",
+  "license": "SAX-PD",
+  "devDependencies": {
+    "@babel/core": "^7.3.4",
+    "@babel/plugin-proposal-object-rest-spread": "^7.4.4",
+    "@babel/preset-env": "^7.3.4",
+    "async": "^2.6.2",
+    "babelify": "^10.0.0",
+    "browserify": "^16.2.3",
+    "cheerio": "^1.0.0-rc.2",
+    "csv2json": "^1.4.2",
+    "eslint": "^6.0.1",
+    "eslint-config-prettier": "^6.0.0",
+    "eslint-plugin-prettier": "^3.1.0",
+    "gray-matter": "^4.0.2",
+    "npm-watch": "^0.6.0",
+    "prettier": "^1.18.2",
+    "pretty": "^2.0.0",
+    "watchify": "^3.11.1"
+  },
+  "dependencies": {
+    "google-libphonenumber": "^3.2.3",
+    "lodash.intersection": "^4.4.0",
+    "lodash.uniq": "^4.5.0",
+    "madison": "^1.1.0",
+    "qs": "^6.7.0",
+    "title-case": "^2.1.1"
+  }
+}
