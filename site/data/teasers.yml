@@ -1,4 +1,45 @@
 stories:
+  - title: "'The smell will knock you off your feet': mass mussel die-offs baffle scientists"
+    summary: "Each fall since 2016, wildlife biologist Jordan Richard has returned to the same portion of the Clinch River in Tennessee, braced for the worst – tens of thousands of newly dead mussel shells gleaming from the surface of the water. The mass die-off isn’t recognizable at first. But once Richard sees the first freshwater mussel, which look quite different to their marine cousins of moules frite fame, he scans the river and finds another every five to 10 seconds."
+    date: 2019-10-14
+    hero:
+      name: clinch-river-mussel-die-off
+      alt: 'A dozen or more mussel shells after a die off event'
+      caption: 'A variety of recently dead freshwater mussels at Wallens Bend, Tennessee, in the Clinch River. Photo by Meagan Racey, USFWS.'
+    url: 'https://www.theguardian.com/environment/2019/oct/14/the-smell-will-knock-you-off-your-feet-mass-mussel-die-offs-baffle-scientists'
+  - title: "Invasive snakehead fish caught in Gwinnett County"
+    summary: "In early October, an angler reported catching a northern snakehead, an aquatic invasive species, in a pond located on private property in Gwinnett County, according to the Georgia Department of Natural Resources’ Wildlife Resources Division (WRD). This is the first time this fish species has been confirmed in Georgia waters."
+    date: 2019-10-08
+    hero:
+      name: northern-snakehead-fish.jpg
+      alt: 'The skeleton of a northern snakehead fish showing numerous teeth'
+      caption: 'Northern snakehead mouth with protruding jaw and many teeth. Photo by Stephen Badger, MD DNR'
+      link: https://flic.kr/p/TgTxW3
+    url: 'https://georgiawildlife.com/invasive-snakehead-fish-caught-gwinnett-county'
+  - title: "FWC Python Action Team removes 900th snake, captures record python from Big Cypress National Preserve"
+    summary: "The Florida Fish and Wildlife Conservation Commission (FWC) Python Action Team has now removed 900 Burmese pythons from the wild in Florida, including a large 18 foot, 4 inch long female python – the largest ever captured by the team."
+    date: 2019-10-04
+    hero:
+      name: 900th-burmese-python-removed-by-python-action-team.jpg
+      alt: 'A man and woman in bright green shirts show off a 10 ft python removed from the wild.'
+      caption: 'FWC Python Action Team removes 900th snake, captures record python from Big Cypress National Preserve. Photo by FWC.'
+    url: 'https://content.govdelivery.com/accounts/FLFFWCC/bulletins/263f1f0'
+  - title: "Agencies Respond to Pilot Whale Stranding at St. Catherines"
+    summary: "Approximately 26 short-finned pilot whales stranded on or near St. Catherines Island Wednesday, leaving 15 dead in Georgia’s second mass stranding of these large marine mammals this year."
+    date: 2019-09-27
+    hero:
+      name: pilot-whales-stranded-in-a-tidal-creek-near-st-catherines-island.jpg
+      alt: 'Five large grey whales stranded in shallow water'
+      caption: 'Pilot whales in a tidal creek near St. Catherines Island on Wednesday, Sept. 25, 2019. Photo by Georgia DNR. Stranding response conducted under a stranding agreement between NMFS and DNR under the authority of the MMPA.'
+    url: 'https://georgiawildlife.com/agencies-respond-pilot-whale-stranding-st-catherines'
+  - title: "First pregnant Northern long-eared bats found along South Carolina coast"
+    summary: "S.C. Department of Natural Resources (SCDNR) staff captured three heavily pregnant females in late April at Santee Coastal Reserve and Wildlife Management Area in Charleston County. Late April is one month prior to the earliest date the U.S. Fish and Wildlife Service (USFWS) suggests pup season begins on June 1, outlined in the current 4(d) rule."
+    date: 2019-09-24
+    hero:
+      name: northern-long-eared-bat-in-hand.jpg
+      alt: 'A small, brown, furry bat in a gloved hand.'
+      caption: 'Northern long-eared bat caught at Roanoke River National Wildlife Refuge. Photo by USFWS.'
+    url: 'http://www.dnr.sc.gov/news/2019/sept/sept24_bats.php'
   - title: "Prescribed fire video: Into the black"
     summary: "Many of the ecosystems in Alabama and throughout the southeast evolved with fire. Human ignited “prescribed fire”, also known as controlled burns, are an essential technique to mimic this natural process to maintain and restore critical habitats. With an ever growing population and extensive efforts to restore large areas of native habitats such as longleaf pine, partnerships are critical to provide the capacity necessary to implement fire on the scale needed to accomplish these objectives."
     date: 2019-09-19
