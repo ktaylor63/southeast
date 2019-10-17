@@ -6,13 +6,15 @@
     {{ end }}
 
     h2 Date
-    p {{ dateFormat "Monday, January 2, 2006 15:04" .Params.start }} - {{ dateFormat "3:04" .Params.end }} {{ default "EST" .Params.timezone }}
+    p {{ dateFormat "Monday, January 2, 2006 3:04" .Params.start }} - {{ dateFormat "Monday, January 2, 2006 3:04" .Params.end }} {{ default "EST" .Params.timezone }}
 
+    {{ if .Params.sessions }}
     h2 Sessions
     ul
       {{ range .Params.sessions }}
       li {{ .name }}, {{ dateFormat "3:04" .start }} - {{ dateFormat "3:04" .end }}  {{ default "EST" $.Page.Params.timezone }}
       {{ end }}
+    {{ end }}
 
     {{ .Content }}
 
