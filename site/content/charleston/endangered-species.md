@@ -44,7 +44,7 @@ Not sure whether or not you need an Incidental Take Permit (ITP)? Download the [
 
 **Whitney Beisler**, Fish and Wildlife Biologist  
 [whitney_beisler@fws.gov](mailto:whitney_beisler@fws.gov), (843) 727-4707 ext. 228  
-Lead for [eastern black rail](https://ecos.fws.gov/ecp0/profile/speciesProfile?sId=7717) (proposed for listing October 2018) and [Kirtland’s warbler](https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B03I).
+Lead for [eastern black rail](https://ecos.fws.gov/ecp0/profile/speciesProfile?sId=10477) (proposed for listing October 2018) and [Kirtland’s warbler](https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B03I).
 
 **Melissa Chaplin**, Fish and Wildlife Biologist  
 [melissa_chaplin@fws.gov](mailto:melissa_chaplin@fws.gov), (843) 727-4707 ext. 217  
