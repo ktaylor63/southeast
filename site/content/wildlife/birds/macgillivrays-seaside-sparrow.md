@@ -19,7 +19,7 @@ tags:
     - 'Macgillivrays Seaside Sparrow'
     - 'South Carolina'
     - 'South Carolina Ecological Services Field Office'
-updated: 'March 25th, 2019'
+updated: 'October 9th, 2019'
 ---
 
 ## _Ammodramus maritimus macgillivraii_ [^1]
@@ -90,6 +90,7 @@ Tropical storms and hurricanes are projected to increase in frequency and size, 
 
 ## Partnerships, research and projects
 
+- [Biologist Corina Newsome wants to protect a tiny bird from sea-level rise](https://www.yaleclimateconnections.org/2019/10/biologist-corina-newsome-wants-to-protect-a-tiny-bird-from-sea-level-rise/)
 - [Environmental group buys 1,155 acres on Kiawah Island for conservation](https://www.postandcourier.com/business/real_estate/jim-parker/enrivonmental-group-buys-acres-on-kiawah-island-for-conservation/article_134df178-346c-11e8-a0ea-9b63b4e88909.html)
 
 ## How you can help
