@@ -1,4 +1,4 @@
-const autoprefixer = require('autoprefixer')({ browsers: ['last 2 versions', 'not dead', 'IE 11'] });
+const autoprefixer = require('autoprefixer')();
 
 module.exports = {
   map: false,

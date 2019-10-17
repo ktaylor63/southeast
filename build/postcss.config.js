@@ -1,4 +1,4 @@
-const autoprefixer = require('autoprefixer')({ browsers: ['IE 9'] });
+const autoprefixer = require('autoprefixer')();
 const cssnano = require('cssnano');
 
 module.exports = {
