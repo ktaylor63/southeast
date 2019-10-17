@@ -31,13 +31,17 @@ Louisiana Ecological Services Field Office has relocated to 200 Dulles Drive, La
 
 ## Louisiana Endangered Species Act (ESA) project review and guidance for other federal trust resources
 
-[The application](/lafayette/project-review/) is designed to streamline the review of projects for potential effects to federally listed threatened and endangered species (T&amp;E) and their critical habitat (CH).
+[The IPaC application](https://ecos.fws.gov/ipac/) is designed to streamline the review of projects for potential effects to federally listed threatened and endangered species (T&amp;E) and their critical habitat (CH).
 
 ### Emergency Consultations
 
 Occasionally, federal agencies must respond to emergency situations where human life and property are in danger. Examples include oil spills, wildland fire and hurricanes. The Endangered Species Act and its implementing regulations recognize the need to respond immediately to emergencies and provide special procedures that allow federal agencies the latitude to complete their emergency responses in order to secure human life and property without delay, while still providing them with protections that normal compliance under the ESA would have afforded them.
 
 [Learn more about emergency consultations.](/endangered-species-act/emergency-consultation/)
+
+### The Louisiana Sea Turtle Stranding Hotline is Changing
+
+The Louisiana Sea Turtle Stranding and Salvage Network’s toll-free hotline is changing on October 1, 2019.  The new toll-free number to report a live or dead stranded sea turtle in Louisiana is 1-844-SEA-TRTL (1-844-732-8785), select option 4 to report a sea turtle, and then option 4 for Louisiana.  The public plays an important role in sea turtle conservation by reporting injured, sick, and dead sea turtles to the stranding hotline.  All sea turtles washed ashore in Louisiana should now be reported by calling 1-844-SEA-TRTL (1-844-732-8785). If your call is not answered immediately, please leave a detailed message with your name, phone number, location (GPS coordinates, address, or descriptive location), condition (alive or dead), and size of the turtle, and a stranding coordinator will return your call as soon as possible. If possible please take photos of the turtle and we will work with you to receive the photos.  It may not be possible for all dead turtles to be retrieved or buried. Your photos and the location of the turtle help scientists accurately document and count each stranded turtle. Thank you for your assistance.
 
 ## Suggested Streamlined Coordination for Oil and Natural Gas Exploration, Drilling and Production in Louisiana Shale Plays
 
