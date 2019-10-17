@@ -3,6 +3,7 @@ title: 'Ozark snail species presumed extinct following science-based surveys'
 date: 2018-12-18T00:00:00.000Z
 tags:
     - Arkansas
+    - 'Arkansas Ecological Services Field Office'
     - 'Endangered Species Act'
     - Extinction
     - Missouri
