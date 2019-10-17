@@ -1,0 +1,94 @@
+.seafwa-search-filter {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+
+  .input-group {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+
+    label {
+      margin-right: .5rem;
+    }
+  }
+
+  .search-input {
+    align-self: center;
+    flex: 1 1 100%;
+  }
+
+  .city-input,
+  .state-input {
+    flex: 1 1 45%;
+    margin: .5rem;
+  }
+}
+
+.seafwa-filtered-results {
+  font-style: italic;
+  text-align: center;
+}
+
+.seafwa-employee {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+
+  @media (min-width: 550px) {
+    flex-direction: row;
+  }
+}
+
+.seafwa-region {
+  font-family: $serif;
+  margin: 0 auto;
+}
+
+.seafwa-content {
+  flex-grow: 1;
+  padding: 1rem;
+
+  h2 {
+    margin-top: 0;
+  }
+
+  @media (min-width: 550px) {
+    padding-top: 0;
+  }
+}
+
+.seafwa-contact {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  list-style: none;
+  margin: 1rem 0;
+  padding: 0;
+  width: 100%;
+
+  li {
+    justify-content: center;
+    display: flex;
+    flex: calc(50%-1rem) 0 0;
+    margin: .25rem;
+  }
+}
+
+.seafwa-icon-group {
+  align-items: center;
+  display: flex;
+
+  p {
+    margin: 0;
+    text-align: center;
+  }
+}
+
+.seafwa-icon {
+  float: left;
+  margin: .25rem;
+  width: 25px;
+}
