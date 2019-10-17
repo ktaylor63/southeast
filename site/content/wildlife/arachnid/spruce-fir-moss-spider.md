@@ -21,10 +21,10 @@ tags:
     - 'Tennessee Ecological Services Field Office'
     - Virginia
 aliases:
-    - /wildlife/arachnid/spruce-fir-moss-spider
+    - /wildlife/arachnids/spruce-fir-moss-spider
     - /species/arachnid/spruce-fir-moss-spider
     - /species/arachnids/spruce-fir-moss-spider
-updated: 'March 25th, 2019'
+updated: 'October 7th, 2019'
 ---
 
 - **Taxon:** Plant
