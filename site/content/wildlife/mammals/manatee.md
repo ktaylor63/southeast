@@ -186,7 +186,7 @@ We work with federal, state, academic and non-profit organizations across the so
 
 This is one of the most important things you can do to help manatees. Boaters should obey posted manatee protection area restrictions. When you travel slowly through these areas, you give manatees a chance to safely get out of your way. In addition, when you travel slowly, they‘re easier to see. Watching manatees has become a national pastime – enjoy! (You will improve your ability to see manatees if you wear sunglasses with brown, polarized lenses.)
 
-For more tips, read the Florida Fish and Wildlife Conservation Commission’s “[A Boater‘s Guide to Living with Florida Manatees](http://myfwc.com/media/2559124/Manatee-Marina-Brochure.pdf),” and bring it with you on your next trip.
+For more tips, read the [Florida Fish and Wildlife Commission's (FWC) Boat, PWC, & Paddle-sport Operators Information](https://myfwc.com/wildlifehabitats/wildlife/manatee/for-operators/), and bring it with you on your next trip.
 
 ### Help keep wild creatures wild
 
