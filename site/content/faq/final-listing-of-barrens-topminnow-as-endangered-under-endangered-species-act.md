@@ -1,5 +1,5 @@
 ---
-title: 'Final Listing of Barrens Topminnow as Endangered Under Endangered Species Act'
+title: 'Final listing of Barrens topminnow as endangered under Endangered Species Act'
 date: 2019-10-18T00:00:00.000Z
 hero:
     name: barrens-topminnows-being-released.jpg
