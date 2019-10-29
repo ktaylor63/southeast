@@ -22,7 +22,7 @@ updated: 'March 25th, 2019'
 ---
 
 - **Taxon: Fish**
-- **Range: [Kentucky](/kentucky)**
+- **Range: [Kentucky](/kentucky) (Breathitt, Clay, Harlan, Jackson, Knott, Lee, Leslie, Owsley, Perry and Wolfe counties)**
 - **Status: Listed as threatened on Nov 4, 2016**
 - [Download the Kentucky arrow darter fact sheet](/pdf/fact-sheet/kentucky-arrow-darter.pdf)
 
@@ -75,7 +75,7 @@ Habitat for the Kentucky arrow darter has been severely degraded by water pollut
 
 ## Recovery plan
 
-This species is not currently listed under the Endangered Species Act, therefore it does not have a recovery plan.
+A recovery plan is not available for the species at this time.
 
 ## Subject matter experts
 
@@ -83,7 +83,12 @@ This species is not currently listed under the Endangered Species Act, therefore
 
 ## Designated critical habitat
 
-Critical habitat is only for federally protected species, therefore, critical habitat is not designated for this species.
+The Service is designated 38 units of critical habitat, all currently occupied by the darter, consisting of approximately 248 stream miles in the 10 counties where it is found.  Of those stream miles, approximately 65 are in federal ownership, 11 are in state ownership, and 172 are privately owned.  The  critical habitat units include the stream channel within the ordinary high water line.  No lands above the ordinary high water line or adjacent uplands have been included in the critical habitat areas .  The only major change from what was proposed in October 2015 is the expansion of critical habitat Unit 6 downstream to the confluence of Middlefork Quicksand Creek and Quicksand Creek (an expansion of 1.7 stream miles), bordering Breathitt and Knott Counties.  This was done in response to new occurrence information provided on the species.
+
+Under the ESA, critical habitat identifies geographic areas that contain features essential for the darter’s conservation.  Although some of the areas within the critical habitat units  are located on private land, activities on these lands will not be affected unless they are authorized, funded, or carried out by a federal agency.  
+
+Designation of critical habitat does not affect land ownership or establish a refuge, reserve, preserve, or other conservation area.  If federal funds or authorization are involved in a project in the area, the government agency will need to consult with the Service to help landowners avoid, reduce, or mitigate potential impacts to the darter or to ensure actions do not negatively affect the fish or its critical habitat.
+
 
 ## Federal Register notices
 
