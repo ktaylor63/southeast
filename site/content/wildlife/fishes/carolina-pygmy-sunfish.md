@@ -9,12 +9,12 @@ aliases:
     - /species/fish/carolina-pygmy-sunfish
     - /species/fishes/carolina-pygmy-sunfish
 tags:
-    - 'Carolina pygmy sunfish'
+    - 'Carolina Pygmy Sunfish'
     - Fish
-    - North Carolina
-    - South Carolina
-    - South Carolina Ecological Services Field Office
-updated: 'March 25th, 2019'
+    - 'North Carolina'
+    - 'South Carolina'
+    - 'South Carolina Ecological Services Field Office'
+updated: 'November 6th, 2019'
 ---
 
 - **Taxon:** Fish
@@ -47,13 +47,17 @@ The Carolina pygmy sunfish is limited to tributaries of the Waccamaw and Santee 
 
 In the lower Waccamaw in South Carolina, the species occurs in old rice field ditches off Jericho Creek in the Samworth Wildlife Management Area near Georgetown. In the Santee River in South Carolina, the species occurs adjacent to Big Pine Tree Creek near Camden. A small number of additional populations may occur in these general areas, including in the Lumber and Cape Fear drainages in North Carolina and in additional tributaries ditches to the Waccamaw in South Carolina.
 
+{{< figure class="photo-center" src="/images/pages/carolina-pygmy-sunfish-range-2019.jpg" alt="A map showing populations in the Lumber/Waccamaw and Santee basins in central and eastern South Carolina and southern North Carolina." caption="Carolina pygmy sunfish range. Map by NCWRC." >}}
+
 ## Conservation challenges
 
 The isolation of this sunfish makes it extremely vulnerable to development, pollution and habitat alterations. Urbanization has been associated with local disappearances. Some populations may be at risk of over-harvesting by private aquarists.
 
 ## Partnerships, research and projects
 
-Survey efforts by NCWRC staff and Three Oaks Engineering consultants are helping us better understand statewide distribution and population status.
+Survey efforts by NCWRC staff, NOAA Fisheries, and Three Oaks Engineering consultants, supported by Service funds are helping us better understand distribution and population status in North Carolina and South Carolina.
+
+{{< figure class="photo-" src="/images/pages/carolina-pygmy-sunfish-protected-lands-within-the-waccamaw-river.jpg" alt="Protected lands along the Waccamaw River in South Central North Carolina." caption="Protected lands within the Waccamaw River sub-basin in NC. Map by NCWRC." >}}
 
 Riverbanks Zoo currently has a propagation and maintenance program of representative populations of Carolina Pygmy Sunfish.
 
