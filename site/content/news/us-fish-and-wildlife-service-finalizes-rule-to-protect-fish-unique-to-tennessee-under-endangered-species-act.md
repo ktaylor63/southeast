@@ -1,10 +1,10 @@
 ---
-title: 'U.S. Fish and Wildlife Service Finalizes Rule to Protect Fish Unique to Tennessee Under Endangered Species Act'
+title: 'U.S. Fish and Wildlife Service finalizes rule to protect fish unique to Tennessee under Endangered Species Act'
 date: 2019-10-18T00:00:00.000Z
 hero:
-    name: barrens-topminnows-being-released.jpg
-    alt: 'Tiny fish swim out of a plastic bag aand into a stream'
-    caption: 'Barrens topminnows being released into Short Springs. Photo, Erin Johnson, USFWS.'
+    name: barrens-topminnow.jpg
+    alt: 'A bright green irrodescent fish in a small blue net.'
+    caption: 'Barrens topminnows are small, colorful fish that live only in a few springs and creeks in central Tennessee. The U.S. Fish and Wildlife Service has proposed listing the fish as endangered. Photo by Emily Granstaff, USFWS.'
 tags:
     - 'Barrens Topminnow'
     - 'Endangered Species Act'
