@@ -70,6 +70,7 @@ These maps identify undeveloped coastal areas prone to hurricane damage where fe
 The Caribbean Ecological Services Field Office has developed blanket clearance letters to cover activities and projects that typically result in no adverse effects to federally-listed species under our jurisdiction. Blanket letters are used depending on the agency funding the project (Click on the agency name to download the letter):
 
 - [HUD & RD - reconstruction of existing projects, construction of facilities in urban areas, activities within existing Right of Way, among others](/pdf/letter/caribbean-blanket-clearance-letter-for-federally-sponsored-projects-housing-and-urban-development.pdf)
+- [USDA rural development](/pdf/letter/caribbean-blanket-clearance-letter-for-federally-sponsored-projects-usda-rural-development.pdf)
 - [FHWA & FTA - rehabilitation of facilities of existing Public Transportation System (signs, bus stop, etc.), projects in urbanized areas or vacant lots with no forested vegetation](/pdf/letter/caribbean-blanket-letter-for-federally-sponsored-projects-federal-highway-administration.pdf)
 - [FEMA – Hazard Mitigation and Public Assistance Grants Program](/pdf/letter/caribbean-blanket-clearance-letter-for-federally-sponsored-projects-hazard-mitigation-and-public-assistance-grants.pdf)
 
