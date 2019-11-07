@@ -14,7 +14,7 @@ const helpers = require('./helpers');
 
 const template = require('./template');
 
-const htmlSrc = '../../../site/content/seafwa-directory.html';
+const htmlSrc = '../../../site/content/usfws-southeast-region-leadership-directory.html';
 const dataSrc = '../../data/seafwa-directory.js';
 const dataDist = '../../../site/static/data/seafwa-directory.js';
 
