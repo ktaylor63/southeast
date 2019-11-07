@@ -14,7 +14,7 @@ tags:
     - Permits
     - Recovery
 js: /js/10a1a-permits.js
-updated: 'October 12th, 2017'
+updated: 'November 7th, 2019'
 ---
 
 ## What is the status of my permit?
