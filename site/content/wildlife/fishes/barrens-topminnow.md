@@ -19,16 +19,16 @@ hero:
     name: barrens-topminnow.jpg
     alt: 'A bright green irrodescent fish in a small blue net.'
     caption: 'Barrens topminnows are small, colorful fish that live only in a few springs and creeks in central Tennessee. The U.S. Fish and Wildlife Service has proposed listing the fish as endangered. Photo by Emily Granstaff, USFWS.'
-updated: 'September 12th, 2019'
+updated: 'October 29th, 2019'
 ---
 
 - **Taxon:** Freshwater fish
-- **Range:** Barrens Plateau, Tennessee
-- **Status:** [Proposed for listing as endangered on Jan. 4, 2018](https://www.govinfo.gov/content/pkg/FR-2018-01-04/pdf/2017-28491.pdf)
+- **Range:** Barrens Plateau, Tennessee (Cannon, Coffee, Dekalb, and Warren Counties)
+- **Status:** [Listed as endangered on Oct. 21, 2019](https://www.google.com/url?q=https://www.govinfo.gov/content/pkg/FR-2019-10-21/pdf/2019-22857.pdf&sa=D&ust=1572368566998000&usg=AFQjCNFBjlOdQ8vnpEQSRusPPljklVcS8A)
 
 {{< content-scroller tag="Barrens Topminnow" heading="Related content" >}}
 
-The Barrens topminnow was proposed for listing as an endangered species in January, 2018. Current populations are facing issues including habitat alteration; over using topminnows as bait fish; disease and predation; and other natural or manmade factors.  Due to the rapid decline of the topminnows, a Barrens Topminnow Working Group was formed in 2001.  Group members consist of governmental and non-governmental conservation organizations.  In addition to dedicating protection of existing populations of topminnows, the working group is also committed to the protection of existing populations of topminnows while restoring and enhancing other areas within the species’ historic range for future introduction.  The program is coordinated with Conservation Fisheries Inc. (CFI), the Tennessee Aquarium, Tennessee Wildlife Resource Agency, USFWS Cookeville Field Office and private landowners through the Partners Program.
+[The Service published a final rule in October 2019, adding the fish to the List of Threatened and Endangered Species](/news/2019/10/us-fish-and-wildlife-service-finalizes-rule-to-protect-fish-unique-to-tennessee-under-endangered-species-act/).  The rule takes effect in November 2019. Current populations are facing issues including habitat alteration; over using topminnows as bait fish; disease and predation; and other natural or manmade factors.  Due to the rapid decline of the topminnows, a Barrens Topminnow Working Group was formed in 2001.  Group members consist of governmental and non-governmental conservation organizations.  In addition to dedicating protection of existing populations of topminnows, the working group is also committed to the protection of existing populations of topminnows while restoring and enhancing other areas within the species’ historic range for future introduction.  The program is coordinated with Conservation Fisheries Inc. (CFI), the Tennessee Aquarium, Tennessee Wildlife Resource Agency, USFWS Cookeville Field Office and private landowners through the Partners Program.
 
 ## Appearance
 
@@ -69,7 +69,7 @@ You can help the topminnow by keeping waterways clean of garbage. Protect riverb
 
 ## Designated critical habitat
 
-Critical habitat has not been established.
+The Service determined that designation of critical habitat was prudent but not determinable at this time because specific information needed to analyze the impacts of designation was lacking. We are still in the process of assessing this information and plan to publish a proposed rule to designate critical habitat for the Barrens topminnow in the near future.
 
 ## Federal Register notices
 
