@@ -1,4 +1,21 @@
 stories:
+  - title: "Dive into Puerto Rico’s blissful waters"
+    summary: "As you descend through the water column, the underwater world surrounds you. While you might see fields of seagrass or colorful coral reefs, you will not see lines demarcating boundaries between the open ocean and safeguarded places called marine protected areas (MPAs)."
+    date: 2019-11-01
+    hero:
+      name: hawksbill-sea-turtle
+      alt: 'A large sea turtle swiming above a coral reef in deep blue water'
+      caption: 'A hawksbill turtle off Desecheo National Wildlife Refuge. (Copyright Jan P. Zegarra)'
+    url: "https://www.fws.gov/refuges/features/Dive-Into-Puerto-Rico's-Blissful-Waters.html"
+  - title: "Look out, Florida: manatees are on the move!"
+    summary: "November is Manatee Awareness Month, and the Florida Fish and Wildlife Conservation Commission (FWC) is reminding the public to slow down and look out for these large aquatic mammals. As cooler weather comes to the Sunshine State, manatees begin to migrate to warmer waters. During this time of year, many of Florida’s over 7,000 manatees will be on the move."
+    date: 2019-11-01
+    hero:
+      name: manatee-closeup-with-fish.jpg
+      alt: 'A manatee partially covered in algae looks directly into the camera surrounded by a school of fish.'
+      caption: 'Manatee. <a href="https://flic.kr/p/CmXCFB">Photo</a> by S. Whitecraft, USFWS.'
+      position: 'top center'
+    url: 'https://content.govdelivery.com/accounts/FLFFWCC/bulletins/2699124'
   - title: "'The smell will knock you off your feet': mass mussel die-offs baffle scientists"
     summary: "Each fall since 2016, wildlife biologist Jordan Richard has returned to the same portion of the Clinch River in Tennessee, braced for the worst – tens of thousands of newly dead mussel shells gleaming from the surface of the water. The mass die-off isn’t recognizable at first. But once Richard sees the first freshwater mussel, which look quite different to their marine cousins of moules frite fame, he scans the river and finds another every five to 10 seconds."
     date: 2019-10-14
