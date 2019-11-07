@@ -5,10 +5,10 @@ description: 'The spruce-fir moss spider is one of the smallest members of the p
 type: species-profile
 js: /js/species-profile.js
 hero:
-    name: searching-for-spruce-fir-moss-spider.jpg
-    alt: 'A man with a head lamp looks for spiders below a rock outcrop.'
-    caption: 'Fred Coyle searching for spruce-fir moss spiders. <a href="https://flic.kr/p/do3Jjb">Photo</a> by Gary Peeples, USFWS.'
-    position: '75% 60%'
+    name: spruce-fir-moss-spider-with-egg-sac.jpg
+    alt: 'Tiny brown spider with a white egg sac on a moist forest surface'
+    caption: 'U.S. Fish and Wildlife Service biologist Susan Cameron visited Mount Craig in July, 2019 to search for the spider. Her effort was met with success as she logged the first known occurrence of the spider on the mountain. <a href="https://flic.kr/p/2hhekhm">Photo</a> by Gary Peeples, USFWS.'
+    position: '80% 30%'
 tags:
     - Arachnid
     - 'Asheville Ecological Services Field Office'
@@ -24,7 +24,7 @@ aliases:
     - /wildlife/arachnids/spruce-fir-moss-spider
     - /species/arachnid/spruce-fir-moss-spider
     - /species/arachnids/spruce-fir-moss-spider
-updated: 'October 7th, 2019'
+updated: 'November 5th, 2019'
 ---
 
 - **Taxon:** Plant
