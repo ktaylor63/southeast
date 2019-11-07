@@ -759,14 +759,14 @@ number,status,fed_register
 35022D-0,Issued,N/A
 34778A-2,Issued,N/A
 007748-4,Issued,N/A
-65334A-2,Awaiting Input from Applicant,N/A
+65334A-2,In FO for Review,N/A
 80381A-2,Issued,N/A
 98596B-1,In FO for Review,on 30 day notice period
 36886D-0,Issued,N/A
 36931D-0,Issued,N/A
 810274-12,Issued,N/A
 88778B-1,Issued,Noticed for 30 days
-38642A-1,In FO for Review,Noticed for 30 days
+38642A-1,Issued,Noticed for 30 days
 063179-7,In FO for Review,Noticed for 30 days
 171493-3,Awaiting Input from Applicant,N/A
 011542-10,In FO for Review,on 30 day notice period
@@ -810,7 +810,7 @@ number,status,fed_register
 56515D-0,Awaiting Input from Applicant,needs to be drafted
 56579D-0,In RO for Review,N/A
 56588D-0,In RO for Review,needs to be drafted
-56968D-0,In RO for Review,N/A
+56968D-0,Awaiting Input from Applicant,N/A
 807672-18,Issued,N/A
 56749B-3,Awaiting Input from Applicant,N/A
 57429D-0,In RO for Review,N/A
@@ -819,3 +819,5 @@ number,status,fed_register
 59340D-0,In RO for Review,N/A
 59341D-0,In RO for Review,N/A
 59343D-0,In RO for Review,N/A
+121400-7,In RO for Review,N/A
+007748-5,In RO for Review,N/A
