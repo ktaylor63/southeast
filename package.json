@@ -2,6 +2,7 @@
   "name": "southeast",
   "version": "1.0.0",
   "description": "Source code the the Southeast Region website of the U.S. Fish and Wildlife Service",
+  "browserslist": ["defaults"],
   "main": "index.js",
   "scripts": {
     "test": "mocha",
