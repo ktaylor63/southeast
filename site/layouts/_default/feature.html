@@ -2,13 +2,13 @@
 <div class="inline-hero">
   <a href="{{ .Permalink }}" class="permalink">
     {{ partial "hero-image.html" . }}
-    <h2 class="feature-{{ .Section | singularize }}">{{ .Title }}</h2>
+    <h2 class="feature-{{ .Section | singularize }}">{{ .Title | markdownify }}</h2>
   </a>
 </div>
 {{ end }}
 
 <div class="hero-teaser">
-  {{ if not .Params.hero }}<h2>{{ .Title }}</h2>{{ end }}
+  {{ if not .Params.hero }}<h2>{{ .Title | markdownify }}</h2>{{ end }}
   {{ if .Params.subtitle }}<h3>{{ .Params.subtitle }}</h3>{{ end }}
   {{ if .Params.description }}<p>{{ .Params.description | markdownify }}</p>{{ else }}<p>{{ .Summary }}</p>{{ end }}
 </div>
