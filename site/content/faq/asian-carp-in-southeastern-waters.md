@@ -20,14 +20,14 @@ tags:
     - 'Lake Barkley'
     - 'Silver Carp'
     - Tennessee
-updated: 'November 7th, 2019'
+updated: 'November 8th, 2019'
 ---
 
-The spread of four species of large carp—bighead, black, grass, and silver— threatens the Southeast’s renowned aquatic biodiversity and local outdoor economies. The U.S. Fish and Wildlife Service and its federal and state partners are on the front line fighting  fighting Asian carp in southeastern waters.
+The spread of four species of large carp—bighead, black, grass, and silver— threatens the Southeast’s renowned aquatic biodiversity and local outdoor economies. The U.S. Fish and Wildlife Service and its federal and state partners are on the front line fighting Asian carp in southeastern waters.
 
 ## The asian carp problem
 
-Extensive flooding in the 1970s forced Asian carp into rivers, streams and lakes and have continued to migrate.  Large portions of the nation’s river systems are now occupied by one or more of the four species of Asian carp.  In recent years, these destructive fish have more rapidly expanded their range and numbers.  When large populations of Asian carp become established, they can pose a risk to human safety and native wildlife.
+Extensive flooding in the 1970s forced Asian carp into rivers, streams and lakes and the fish have continued to migrate.  Large portions of the nation’s river systems are now occupied by one or more species of Asian carp.  In recent years, these destructive fish have more rapidly expanded their range and numbers.  When large populations of Asian carp become established, they can pose a risk to human safety and native wildlife.
 
 {{< figure class="photo-center" src="/images/pages/silver-carp.jpg" alt="A biologist holding a fish about the size of his thigh." caption="Silver carp. Photo courtesy of the Asian Carp Regional Coordinating Committee." link="https://flic.kr/p/bFeBy3" >}}
 
@@ -37,7 +37,7 @@ In the Southeast, carp put the region’s aquatic biodiversity at risk. For exam
 
 ## A collaborative effort for controlling carp
 
-Controlling Asian carp in our nation’s waters requires the Service and its partners to remain focused, effective, and innovative.  Collaboration between federal and state agencies allows for the efficient and effective will leverage scientific expertise, data collection, new technologies and strategic planning across the various river basins.
+Controlling Asian carp in our nation’s waters requires the Service and its partners to remain focused, effective, and innovative.  Federal and state agencies will leverage scientific expertise, data collection, new technologies and strategic planning across the various river basins.  
 
 {{< figure class="photo-center" src="/images/pages/adult-black-carp.jpg" alt="A large black fish." caption="Adult black carp. Photo by Ryan Hagerty, USFWS." link="https://flic.kr/p/21TfnBf" >}}
 
@@ -53,12 +53,15 @@ The goal of the bio-acoustic fish fence, also referred to as BAFF,  is to reduce
 
 [Installation of the BAFF at Barkley Lock and Dam](https://fileshare.fws.gov/?linkid=KZi4zr6VWWXDOaOq0fT0lJF/ZlEhHYre8YDODS6ncAGbVD1e/QKTpw) began in July 2019. The system became operation in October 2019, but construction will be suspended beginning in August 2019 to accommodate river traffic for required maintenance at neighboring Kentucky Lock.  Installation will resume in October 2019, and the BAFF is expected to be operational later in fall 2019.  The field trial at Barkley Lock and Dam is the next step in determining the system’s effectiveness.
 
+{{< figure class="photo-center" src="/images/pages/baff-installation-lake-barkley.jpg" alt="Construction workers install a bio-acoustic fish fence" caption="Construction of the bio-acoustic fish fence at Barkley Lock and Dam. Photo by Kentucky Department of Fish and Wildlife Resources." >}}
+
 The BAFF project costs an estimated $7 million, which comes from the Great Lakes Restoration Initiative and leveraged financial support from the Service. The findings of the project will inform federal and state efforts to slow the spread of Asian carp and prevent their establishment in the Great Lakes.
 
 {{< youtube id="Fg6ETSk100k" title="A Battle Worth Carping About (Part 2): Fighting Back" >}}
 
 ## Photos and video
 
+- [BAFF system installation and demonstration at Barkley Dam](/data/BAFF-Barkley-event.zip)
 - [BAFF system B-roll courtesy of Kentucky Afield](https://fileshare.fws.gov/?linkid=KZi4zr6VWWXDOaOq0fT0lJF/ZlEhHYre8YDODS6ncAGbVD1e/QKTpw)
 - [BAFF installation photos on Flickr courtesy of U.S. Army Corps of Engineers](https://www.flickr.com/photos/nashvillecorps/albums/72157710050493202)
 - Electrofishing B-roll courtesy of Kentucky Department of Fish and Wildlife Resources
