@@ -12,7 +12,7 @@ tags:
     - 'National Wildlife Refuge System'
     - 'Panama City Ecological Services Field Office'
     - 'St Marks National Wildlife Refuge'
-updated: 'November 15th, 2018'
+updated: 'November 7th, 2019'
 ---
 
 **Atlanta, Georgia** &mdash; Sam Shine, for years, quietly bought up North Florida property and set about conserving it. A successful Midwestern manufacturer, Shine made a number of under-the-radar land deals that received little notice outside the Panhandle conservation community.
@@ -41,7 +41,7 @@ Shine, 80, grew up on an Indiana farm hunting, fishing and pursuing the usual ac
 
 He, along with wife Betty, founded SAMTEC, Inc. in 1976, renting two rooms behind an insurance agency. He paid himself \$100 a week.
 
-Shine targeted companies overlooked by large manufacturers for his connectors and cables. Attention to the customer, learned from his father Ira, transformed SAMTEC into a \$713 million (in 2017 revenues) manufacturing juggernaut with 5,000 employees scattered across factories and sales offices in Indiana, Asia, Europe and Latin America. A privately held company with workers given ownership stakes, SAMTEC’s website boasts a lofty 96 percent retention rate for employees.
+Shine targeted companies overlooked by large manufacturers for his connectors and cables. Attention to the customer, learned from his father Ira, transformed SAMTEC into a $713 million (in 2017 revenues) manufacturing juggernaut with 5,000 employees scattered across factories and sales offices in Indiana, Asia, Europe and Latin America. A privately held company with workers given ownership stakes, SAMTEC’s website boasts a lofty 96 percent retention rate for employees.
 
 Sam Shine created an eponymous foundation in 1995 as he turned his attention toward conservation. He largely retired a few years later, turning the corporate helm over to son John. Southern Indiana and northern Florida became his philanthropic focus.
 
