@@ -7,7 +7,7 @@ hero:
     alt: 'A green toad with dark spots in a biologist’s gloved hand'
     caption: 'Biologists at the Saratoga National Fish Hatchery in Wyoming hopped at the chance to raise the endangered Wyoming toad. Photo by USFWS.'
     position: '45% 30%'
-date: 2019-11-05T00:00:00.000Z
+date: 2019-11-06T00:00:00.000Z
 type: feature
 tags:
     - Alabama
@@ -162,9 +162,7 @@ And, yes, she has her favorites &mdash; usually, those that look her in the eye.
 
 “It just depends on the toad,” she said. “It’s as if they’re acknowledging you, whether they really are or not.”
 
-## Pick up after...  whether they really are or not.”
-
-Wilke, the Service’s branch chief of hatchery operations and applied science, acknowledges something else: Some hatcheries will continue their mission to propagate creatures that may not swim.More hatcheries may join them, too.
+Wilke, the Service’s branch chief of hatchery operations and applied science, acknowledges something else: Some hatcheries will continue their mission to propagate creatures that may not swim. More hatcheries may join them, too.
 
 “The breadth of knowledge in raising species in the U.S. Fish and Wildlife Service is massive,” he said. “We have the facilities, the people and the experience to make this work.”
 
