@@ -38,7 +38,7 @@ It’s all part of U.S. Fish and Wildlife Service plans to boost hunting and fis
 
 “Hunting and fishing have such a rich history in this country, particularly in the South, so anything we can do to boost those outdoor experiences, while helping local economies, we will gladly do,” said Leo Miranda, an avid hunter and the Service’s regional director for the South Atlantic-Gulf and Mississippi Basin regions. “And the work we do restoring habitats for deer, turkey and other game species directly benefits many at risk, threatened and endangered species.”
 
-Boosting hunting and fishing won’t come easily. The number of licensed hunters nationwide peaked in 1982 at 28.3 million, according to the Service. In 2016, only 11.5 million people hunted. (More than three times as many people fished.) Miranda and other Service officials expect the new rules to draw new hunters onto refuges and keep long-timers like Jeff Lawhon coming back for more.
+Boosting hunting and fishing won’t come easily. The number of licensed hunters nationwide peaked in 1980 at 17.4 million, according to the Service. In 2016, only 11.5 million people hunted. (More than three times as many people fished.) Miranda and other Service officials expect the new rules to draw new hunters onto refuges and keep long-timers like Jeff Lawhon coming back for more.
 
 “St. Marks is a real pretty place to hunt,” said Lawhon, 45, who lives in nearby Sopchoppy and has hunted deer and turkey on the refuge for years. “There’s a lot of marsh and palm trees and pine trees. It’s unique. You’ve got a mixture of central and south Florida in north Florida. And there’s some really big deer on that refuge.”
 
