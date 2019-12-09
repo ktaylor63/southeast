@@ -25,7 +25,7 @@ tags:
     - 'Red Wolf'
     - 'South Carolina'
     - 'South Carolina Ecological Services Field Office'
-updated: 'April 30th, 2019'
+updated: 'November 21st, 2019'
 ---
 
 - **Taxon**: Mammal
@@ -52,7 +52,7 @@ The last red wolves were found in coastal prairie and marsh habitat because this
 
 ## Range
 
-{{< figure class="photo-center" src="/images/pages/red-wolf-historic-range.jpg" alt="The historical range of the red wolf covers the southeast from Texas to New York to Florida." caption="Red wolf historical range with non-essential experimental population management area. Map by Jose Barrios, USFWS." link="https://flic.kr/p/2971AcK" >}}
+{{< figure class="photo-center" src="/images/pages/red-wolf-historic-range.jpg" alt="The historical range of the red wolf covers the southeast from Texas to New York to Florida." caption="Red wolf historical range and source population in Texas. Map by Jose Barrios, USFWS." link="https://flic.kr/p/2971AcK" >}}
 
 ## Diet
 
