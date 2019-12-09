@@ -1,4 +1,28 @@
 stories:
+  - title: "The quest to protect the bog turtle: Saving NC’s smallest turtle"
+    summary: "Bog turtles are a federally threatened species and are considered critically endangered by the International Union for the Conservation of Nature — the same classification as the black rhinoceros. The bog turtle, marked by a small yellow dot on either side of its head, is the smallest in North America. But why should anyone care about a tiny turtle that spends the bulk of its time buried in the mud?"
+    date: 2019-11-24
+    hero:
+      name: bog-turtle-tiny.jpg
+      alt: 'A tiny turtle in the palm of a hand.'
+      caption: 'A tiny bog turtle. <a href="https://flic.kr/p/jeEh2h">Photo</a> by Rosie Walunas, USFWS.'
+    url: "https://chapelboro.com/town-square/the-quest-to-protect-the-bog-turtle-saving-ncs-smallest-turtle"
+  - title: "Stranded manatee mom and calf rescued from Sea Palms pond"
+    summary: "A manatee mother and her calf spent a dangerously chilly weekend stranded in a water hazard at Sea Palms on St. Simons Island, which proved to be too much for the yearling who died in route to the Jacksonville Zoo, said Jason Lee, wildlife program manager for the state Department of Natural Resources."
+    date: 2019-11-26
+    hero:
+      name: ssi-manatee-rescue.jpg
+      alt: A dozen workers pull an adult manatee out of the water using a net
+      caption: Rescuing an adult manatee from cold waters in Georgia. Photo by GADNR.
+    url: "https://thebrunswicknews.com/breaking/stranded-manatee-mom-and-calf-rescued-from-sea-palms-pond/article_ac566655-9aec-557b-b8ed-4c630e67cbe5.html"
+  - title: "The Forest Service is about to set a giant forest fire—on purpose"
+    summary: "A man-made blaze on a remote Utah mountainside could provide valuable insights into the behavior of the powerful wildfires growing more and more common out West."
+    date: 2019-11-14
+    hero:
+      name: prescribed-fire.jpg
+      alt: 'A USFWS firefighter keeps a close eye on a prescribed fire'
+      caption: 'USFWS firefigher Brian Pippin watches over a prescribed fire at St. Marks National Wildlife Refuge. Photo by Jennifer Hinckley, USFWS.'
+    url: "https://www.theatlantic.com/science/archive/2019/10/why-scientists-are-setting-wildfires-purpose/600550/"
   - title: "Dive into Puerto Rico’s blissful waters"
     summary: "As you descend through the water column, the underwater world surrounds you. While you might see fields of seagrass or colorful coral reefs, you will not see lines demarcating boundaries between the open ocean and safeguarded places called marine protected areas (MPAs)."
     date: 2019-11-01
