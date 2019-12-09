@@ -674,7 +674,7 @@ number,status,fed_register
 21570C-1,Awaiting Input from Applicant,Noticed for 30 days
 94849B-1,Issued,Noticed for 30 days
 01937D-0,Issued,N/A
-01939D-0,Awaiting Input from Applicant,N/A
+01939D-0,Awaiting signature,N/A
 02321D-0,In RO for Review,N/A
 02332D-0,Issued,Noticed for 30 days
 02423D-0,Issued,N/A
@@ -772,7 +772,7 @@ number,status,fed_register
 011542-10,In FO for Review,on 30 day notice period
 42291D-0,Issued,Noticed for 30 days
 42305D-0,Awaiting Input from Applicant,N/A
-42496D-0,Awaiting Input from Applicant,N/A
+42496D-0,In FO for Review,N/A
 32394A-1,In FO for Review,Noticed for 30 days
 44410D-0,Issued,N/A
 125521-4,Issued,N/A
@@ -803,22 +803,37 @@ number,status,fed_register
 53895D-0,In RO for Review,N/A
 53898D-0,In RO for Review,on 30 day notice period
 54490D-0,Awaiting Input from Applicant,N/A
-54646D-0,Awaiting signature,N/A
-55283D-0,Awaiting signature,N/A
+54646D-0,Issued,N/A
+55283D-0,Issued,N/A
 016270-10,In RO for Review,on 30 day notice period
-56448D-0,In RO for Review,N/A
+56448D-0,Issued,N/A
 56515D-0,Awaiting Input from Applicant,needs to be drafted
 56579D-0,In FO for Review,N/A
 56588D-0,In RO for Review,needs to be drafted
 56968D-0,In FO for Review,N/A
 807672-18,Issued,N/A
 56749B-3,Awaiting Input from Applicant,N/A
-57429D-0,In RO for Review,N/A
+57429D-0,Issued,N/A
 59318D-0,In RO for Review,needs to be drafted
-59335D-0,In RO for Review,N/A
+59335D-0,Issued,N/A
 59340D-0,In RO for Review,N/A
 59341D-0,In RO for Review,N/A
 59343D-0,In RO for Review,N/A
-121400-7,In RO for Review,N/A
+121400-7,Issued,N/A
 007748-5,In RO for Review,N/A
 77197C-2,In RO for Review,N/A
+56303D-0,Issued,N/A
+61214D-0,Issued,N/A
+59400D-0 ,Awaiting Input from Applicant,N/A
+61222D-0,Awaiting Input from Applicant,N/A
+56746B-4,In RO for Review,needs to be drafted
+61239D-0,In RO for Review,needs to be drafted
+61241D-0,Issued,N/A
+61248D-0,Awaiting signature,N/A
+62026D-0,In RO for Review,needs to be drafted
+02200B-2,In RO for Review,N/A
+62077D-0,In RO for Review,N/A
+62081D-0,In RO for Review,N/A
+62553D-0,In RO for Review,N/A
+62555D-0,In RO for Review,N/A
+62718D-0,In RO for Review,N/A
