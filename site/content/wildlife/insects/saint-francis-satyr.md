@@ -19,7 +19,7 @@ tags:
     - 'Saint Francis’ Satyr'
     - 'South Florida Ecological Services Office'
 description: 'The Miami tiger beetle, found exclusively in pine rockland habitat in Miami-Dade County, Florida, has a shiny green exterior and protected under the Endangered Species Act as endangered.'
-updated: 'October 29th, 2019'
+updated: 'November 19th, 2019'
 ---
 
 - **Taxon:** Butterfly, *Lepidoptera*
@@ -29,6 +29,9 @@ updated: 'October 29th, 2019'
 Soon after its discovery in the 1980s, scientists believed that this small, dark brown butterfly had been collected to extinction, but it was rediscovered in 1992. Its habitat is open grassy wetlands maintained naturally by fire and beaver. The species is very dependent on disturbance  and dynamic environments. Military activities on the artillery ranges also  maintain the open wetland habitats in the absence of beaver.  Disturbance can both create new habitats but also destroy existing habitats, so finding the ideal levels is necessary to help butterfly populations. Currently all known subpopulations are found on Ft. Bragg, an active military installation in central North Carolina.
 
 {{< content-scroller tag="Saint Francis Satyr" heading="Related content" >}}
+
+- [Butterfly on a bomb range: Endangered Species Act at work](https://www.wral.com/butterfly-on-a-bomb-range-endangered-species-act-at-work/18777223/
+)
 
 ## Appearance
 
