@@ -382,7 +382,7 @@ Lower Florida Keys National Wildlife Refuge,,Comprehensive Conservation Plan,,ht
 Banks Lake National Wildlife Refuge,,Comprehensive Conservation Plan,,https://catalog.data.gov/dataset/banks-lake-national-wildlife-refuge-comprehensive-conservation-plan,2009,National Wildlife Refuge System,,
 Central Arkansas National Wildlife Refuge Complex,,Comprehensive Conservation Plan,,https://catalog.data.gov/dataset/central-arkansas-national-wildlife-refuge-complex-comprehensive-conservation-plan,2009,National Wildlife Refuge System,,
 Bond Swamp National Wildlife Refuge,,Comprehensive Conservation Plan,,https://catalog.data.gov/dataset/bond-swamp-national-wildlife-refuge-comprehensive-conservation-plan,2009,National Wildlife Refuge System,,
-"Egmont Key, Pinellas, and Passage Key National Wildlife Refuges",,Comprehensive Conservation Plan,,https://catalog.data.gov/dataset/tampa-bay-refuges-egmont-key-pinellas-and-passage-key-national-wildlife-refuges-comprehens,2010,National Wildlife Refuge System,,
+"Egmont Key, Pinellas, and Passage Key National Wildlife Refuges",,Comprehensive Conservation Plan,,https://catalog.data.gov/dataset/tampa-bay-refuges-egmont-key-pinellas-and-passage-key-national-wildlife-refuges-comprehensive-c,2010,National Wildlife Refuge System,,
 Holla Bend National Wildlife Refuge,,Comprehensive Conservation Plan,,https://catalog.data.gov/dataset/holla-bend-national-wildlife-refuge-comprehensive-conservation-plan,2010,National Wildlife Refuge System,,
 Black Bayou Lake National Wildlife Refuge,,Comprehensive Conservation Plan,,https://catalog.data.gov/dataset/black-bayou-lake-national-wildlife-refuge-comprehensive-conservation-plan,2010,National Wildlife Refuge System,,
 Cape Romain National Wildlife Refuge,,Comprehensive Conservation Plan,,https://catalog.data.gov/dataset/cape-romain-national-wildlife-refuge-comprehensive-conservation-plan,2010,National Wildlife Refuge System,,
@@ -669,7 +669,7 @@ Lower Suwannee (& Cedar Keys) National Wildlife Refuges,Dixie Mainline Trail Gui
 Lower Suwannee (& Cedar Keys) National Wildlife Refuges,Canoe Trails,General Brochure,,brochure/lower-suwannee-cedar-keys-national-wildlife-refuges-canoe-trails.pdf,,National Wildlife Refuge System,,
 Mackay Island National Wildlife Refuge,,General Brochure,TRUE,brochure/mackay-island-national-wildlife-refuge.pdf,2018,National Wildlife Refuge System,,
 Mattamuskeet National Wildlife Refuge,,General Brochure,,brochure/mattamuskeet-national-wildlife-refuge.pdf,,National Wildlife Refuge System,,
-Merritt Island National Wildlife Refuge,,General Brochure,,brochure/merritt-island-national-wildlife-refuge.pdf,,National Wildlife Refuge System,,
+Merritt Island National Wildlife Refuge,,General Brochure,TRUE,brochure/merritt-island-national-wildlife-refuge.pdf,2019,National Wildlife Refuge System,,Florida
 Mountain Longleaf National Wildlife Refuge,,General Brochure,,brochure/mountain-longleaf-national-wildlife-refuge.pdf,,National Wildlife Refuge System,,
 Sam D. Hamilton Noxubee National Wildlife Refuge,,General Brochure,,brochure/noxubee-national-wildlife-refuge.pdf,,National Wildlife Refuge System,,
 Sam D. Hamilton Noxubee National Wildlife Refuge,Trail Guide,General Brochure,,brochure/noxubee-national-wildlife-refuge-trail-guide.pdf,,National Wildlife Refuge System,,
@@ -821,7 +821,7 @@ Bayou Cocodrie National Wildlife Refuge,Bayou Cocodrie Hunt Map,Map,,map/bayou-c
 Bayou Teche National Wildlife Refuge,Hunt Map,Map,,map/bayou-teche-national-wildlife-refuge-hunt.pdf,,National Wildlife Refuge System,,
 Big Branch Marsh National Wildlife Refuge,Refuge Map,Map,,map/big-branch-marsh-national-wildlife-refuge.pdf,,National Wildlife Refuge System,,
 Bond Swamp National Wildlife Refuge,Hiking Trails,Map,,map/bond-swamp-national-wildlife-refuge-hiking-trail.pdf,,National Wildlife Refuge System,,
-Cache River National Wildlife Refuge,Hunt Map,Map,,map/cache-river-hunt-map.pdf,,National Wildlife Refuge System,,
+Cache River National Wildlife Refuge,Hunt Map,Map,,map/cache-river-hunt-map.pdf,2019,National Wildlife Refuge System,,
 Cameron Prairie National Wildlife Refuge,Fishing Map,Map,,map/cameron-prairie-national-wildlife-refuge-fishing.pdf,,National Wildlife Refuge System,,
 Cape Romain National Wildlife Refuge,Refuge Map,Map,,map/cape-romain-national-wildlife-refuge.pdf,,National Wildlife Refuge System,,
 Carolina Sandhills National Wildlife Refuge,Walking Trails,Map,,map/carolina-sandhills-national-wildlife-refuge-trails.pdf,,National Wildlife Refuge System,,
@@ -835,7 +835,6 @@ Felsenthal National Wildlife Refuge,Map and hunting season,Map,TRUE,map/felsenth
 Lacassine National Wildlife Refuge,Fishing Map,Map,,map/lacassine-national-wildlife-refuge-fish.pdf,,National Wildlife Refuge System,,
 Lake Ophelia National Wildlife Refuge,Hunt Map,Map,TRUE,map/lake-ophelia-national-wildlife-refuge.pdf,2019,National Wildlife Refuge System,,
 Lower Suwannee (& Cedar Keys) National Wildlife Refuges,Refuge Map,Map,,map/lower-suwannee-cedar-keys-national-wildlife-refuges.pdf,,National Wildlife Refuge System,,
-Merritt Island National Wildlife Refuge,Refuge Map,Map,,map/merritt-island-national-wildlife-refuge.pdf,,National Wildlife Refuge System,,
 Sam D. Hamilton Noxubee National Wildlife Refuge,Refuge Map,Map,,map/noxubee-national-wildlife-refuge.pdf,,National Wildlife Refuge System,,
 Okefenokee National Wildlife Refuge,Refuge Map,Map,,map/okefenokee-national-wildlife-refuge.pdf,,National Wildlife Refuge System,,
 Pee Dee National Wildlife Refuge,Hunt Map,Map,,map/pee-dee-national-wildlife-refuge-hunt.pdf,,National Wildlife Refuge System,,
@@ -1026,8 +1025,8 @@ Mackay Island National Wildlife Refuge,Deer hunting regulations and permit,Regul
 Mandalay National Wildlife Refuge,Hunting and Fishing Regulations true Map,Regulations,TRUE,regulations/mandalay-national-wildlife-refuge-hunt-fish.pdf,2019-2020,National Wildlife Refuge System,,Louisiana
 Mattamuskeet National Wildlife Refuge,Hunting Regulations and Map,Regulations,TRUE,regulations/mattamuskeet-national-wildlife-refuge-hunt.pdf,2019-2020,National Wildlife Refuge System,,North Carolina
 Mattamuskeet National Wildlife Refuge,Fishing Regulations and Map,Regulations,,regulations/mattamuskeet-national-wildlife-refuge-fishing.pdf,,National Wildlife Refuge System,,
-Merritt Island National Wildlife Refuge,Big game hunting regulations,Regulations,TRUE,regulations/merritt-island-national-wildlife-refuge-big-game-hunt.pdf,2018,National Wildlife Refuge System,,
-Merritt Island National Wildlife Refuge,Waterfowl hunting regulations,Regulations,TRUE,regulations/merritt-island-national-wildlife-refuge-waterfowl.pdf,2018,National Wildlife Refuge System,,
+Merritt Island National Wildlife Refuge,Big game hunting regulations,Regulations,TRUE,regulations/merritt-island-national-wildlife-refuge-big-game-hunt.pdf,2019-2020,National Wildlife Refuge System,,Florida
+Merritt Island National Wildlife Refuge,Waterfowl hunting regulations,Regulations,TRUE,regulations/merritt-island-national-wildlife-refuge-waterfowl.pdf,2019-2020,National Wildlife Refuge System,,Florida
 North Mississippi Refuges Complex,Hunting and fishing regulations,Regulations,TRUE,regulations/north-mississippi-refuges-complex.pdf,2019-2020,National Wildlife Refuge System,"Coldwater River, Dahomey, Tallahatchie",Mississippi
 Sam D. Hamilton Noxubee National Wildlife Refuge,Public use regulations,Regulations,TRUE,regulations/noxubee-national-wildlife-refuge-hunt.pdf,2019-2020,National Wildlife Refuge System,,
 Okefenokee National Wildlife Refuge,Hunting regulations,Regulations,,regulations/okefenokee-national-wildlife-refuge-hunt.pdf,,National Wildlife Refuge System,,
@@ -1074,7 +1073,6 @@ Alligator River National Wildlife Refuge,Hunting regulations,Regulations,TRUE,re
 Bald Knob National Wildlife Refuge,Public use regulations,Regulations,TRUE,regulations/bald-knob-national-wildlife-refuge-public-use.pdf,2019-2020,National Wildlife Refuge System,Central Arkansas Refuges,Arkansas
 Big Lake National Wildlife Refuge,Public use regulations,Regulations,TRUE,regulations/big-lake-national-wildlife-refuge-public-use.pdf,2019-2020,National Wildlife Refuge System,Central Arkansas Refuges,Arkansas
 Cache River National Wildlife Refuge,Public use regulations,Regulations,TRUE,regulations/cache-river-national-wildlife-refuge-public-use.pdf,2019-2020,National Wildlife Refuge System,Central Arkansas Refuges,Arkansas
-Cache River National Wildlife Refuge,Hunt map,Map,TRUE,map/cache-river-national-wildlife-refuge-hunt.pdf,2019,National Wildlife Refuge System,Central Arkansas Refuges,Arkansas
 Holla Bend National Wildlife Refuge,Public use regulations,Regulations,TRUE,regulations/holla-bend-national-wildlife-refuge-public-use.pdf,2019-2020,National Wildlife Refuge System,Central Arkansas Refuges,Arkansas
 Wapanocca National Wildlife Refuge,Public use regulations,Regulations,TRUE,regulations/wapanocca-national-wildlife-refuge-public-use.pdf,2019-2020,National Wildlife Refuge System,Central Arkansas Refuges,Arkansas
 Cedar Island National Wildlife Refuge,Hunting Regulations,Regulations,,regulations/cedar-island-national-wildlife-refuge.pdf,,National Wildlife Refuge System,,
@@ -1158,7 +1156,7 @@ Holla Bend National Wildlife Refuge,,Tearsheet,,tearsheet/holla-bend-national-wi
 Lake Ophelia National Wildlife Refuge,,Tearsheet,,tearsheet/lake-ophelia-national-wildlife-refuge.pdf,,National Wildlife Refuge System,,
 Lower Suwannee (& Cedar Keys) National Wildlife Refuges,,Tearsheet,,tearsheet/lower-suwannee-cedar-keys-national-wildlife-refuges.pdf,,National Wildlife Refuge System,,
 Mattamuskeet National Wildlife Refuge,,Tearsheet,,tearsheet/mattamuskeet-national-wildlife-refuge.pdf,,National Wildlife Refuge System,,
-Merritt Island National Wildlife Refuge,,Tearsheet,,tearsheet/merritt-island-national-wildlife-refuge.pdf,,National Wildlife Refuge System,,
+Merritt Island National Wildlife Refuge,,Tearsheet,TRUE,tearsheet/merritt-island-national-wildlife-refuge.pdf,2019,National Wildlife Refuge System,,Florida
 National Key Deer Refuge,,Tearsheet,,tearsheet/national-key-deer-refuge.pdf,,National Wildlife Refuge System,,
 Okefenokee National Wildlife Refuge,,Tearsheet,,tearsheet/okefenokee-national-wildlife-refuge.pdf,,National Wildlife Refuge System,,
 Pea Island National Wildlife Refuge,,Tearsheet,,tearsheet/pea-island-national-wildlife-refuge.pdf,,National Wildlife Refuge System,,
