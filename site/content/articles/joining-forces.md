@@ -48,7 +48,7 @@ Soldiers maneuver the eastern edge of the army base under a canopy of longleaf p
 
 “This is, logistically, a great place to see woodpeckers,” added colleague Tim Beaty, another civilian biologist at Fort Stewart, with binoculars aimed skyward. “We always find them here.”
 
-{{< figure class="photo-center" src="/images/pages/fort-stewart-larry-and-tim.jpg" alt="Two men standing on a dirt road between two stands of longleaf pine" caption="Lary Carlile and Tim Beaty discussing RCW habitat on Ft. Stewart. Photo by Dan Chapman, USFWS." >}}
+{{< figure class="photo-center" src="/images/pages/fort-stewart-larry-and-tim.jpg" alt="Two men standing on a dirt road between two stands of longleaf pine" caption="Larry Carlile and Tim Beaty discussing RCW habitat on Ft. Stewart. Photo by Dan Chapman, USFWS." >}}
 
 Beaty and Carlile are the dynamic woodpecker duo credited with growing and sustaining one of the largest woodpecker populations in the Southeast. Their Service-mandated goal for Fort Stewart was 350 “potential breeding groups” of woodpeckers. Today, there are more than 550 groups.
 
