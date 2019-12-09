@@ -52,7 +52,7 @@ Over in Oklahoma and Louisiana? Fishery biologists have become experts in the ar
 
 Mussels, birds, turtles: these creatures, and more, are living at national fish hatcheries across the nation. The U.S. Fish and Wildlife Service (Service) which operates the hatcheries, welcomes their presence. After all, preserving species is what the Service does.
 
-Last year, 14 hatcheries nationwide were involved in propagating creatures other than fish. Those hatcheries are hosts to 30 non-fish species &mdash; shelled, feathered, hopping &mdash; as well as growing more than 100 species of fish.
+Last year, 13 hatcheries nationwide were involved in propagating creatures other than fish. Those hatcheries are hosts to 30 non-fish species &mdash; shelled, feathered, hopping &mdash; as well as growing more than 100 species of fish.
 
 Statistics show that the past decade witnessed a spate of non-fish species growing in hatcheries. Among them: the [Wyoming toad](https://www.fws.gov/mountain-prairie/es/wyomingToad.php), the [Barton Springs salamander](https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=D010) and the [gopher tortoise](https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=C044).
 
