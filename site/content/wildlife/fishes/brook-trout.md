@@ -41,11 +41,11 @@ hero:
     name: eastern-brook-trout.jpg
     alt: 'A colorful green/brown and red trout covered in small red spots.'
     caption: 'A wildlife biologist holds a small eastern brook trout. Photo by Steve Droter, Chesapeake Bay Program.'
-updated: 'September 12th, 2019'
+updated: 'November 7th, 2019'
 ---
 
 - **Taxon:** Freshwater fish
-- **Range:** Native to the Easter United States
+- **Range:** Native to the Eastern United States
 - **Status:** Not listed under the Endangered Species Act
 
 The brook trout is a fish native to the eastern United States, and is often referred to as speckled trout, spotted trout, brookie, and squaretail. “Brookies” are considered an indicator species, because they help indicate the health or overall quality of the waters they inhabit. Large numbers of brook trout found in a stream indicate a healthy environment while a decline indicates deteriorating habitat and poor water quality.
