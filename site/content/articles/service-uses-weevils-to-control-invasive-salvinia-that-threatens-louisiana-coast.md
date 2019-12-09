@@ -13,7 +13,7 @@ tags:
     - 'Mottled Duck'
     - 'Salvinia Weevil'
 type: 'Bragging Rights'
-updated: 'September 6th, 2018'
+updated: 'November 13th, 2019'
 ---
 
 Giant salvinia is an invasive floating fern from Brazil that can double its surface acreage in less than one week in optimal conditions. It has been spreading and causing problems in coastal Louisiana since 1989.
@@ -22,11 +22,11 @@ Once it covers the water’s surface, this floating plant will begin to stack up
 
 {{< figure class="photo-center" src="/images/pages/giant-salvinia-covering-a-pond.jpg" alt="A pond covered in green vegetation" caption="Giant salvinia covering a pond in fresh marshes near Forked Island, May 2016. Photo by Ronny Paille, USFWS." >}}
 
-Salvinia infestations reduce habitat quality for many fresh marsh species of fish and wildlife, including the resident mottled duck and its critically important mottled duck brood rearing habitat, wintering migratory waterfowl, rails, and others.  Giant salvinia is more tolerant of salinity than water hyacinths.  As a result, salvinia is found not only in fresh marshes, but is common in intermediate marshes and even low-salinity brackish marshes.  In these intermediate and brackish marshes, salvinia also has negative effects on estuarine fisheries production.  
+Salvinia infestations reduce habitat quality for many fresh marsh species of fish and wildlife, including the resident mottled duck and its critically important mottled duck brood rearing habitat, wintering migratory waterfowl, rails, and others.  Giant salvinia is more tolerant of salinity than water hyacinths.  As a result, salvinia is found not only in fresh marshes, but is common in intermediate marshes and even low-salinity brackish marshes.  In these intermediate and brackish marshes, salvinia also has negative effects on estuarine fisheries production.
 
 The U.S. Department of Agriculture’s Animal and Plant Health Inspection Service (APHIS) has evaluated biocontrol via the salvinia weevil, which is native to South America.  This weevil feeds exclusively on the leaves, buds, and rhizomes of salvinia, and APHIS determined that the weevils are safe for release.  This weevil has been successfully used for decades in other countries to control and eradicate salvinia.
 
-{{< figure class="photo-center" src="/images/pages/adult-salvinia-weevil.jpg" alt="A tiny, blck insect walking on a green plant" caption="Adult salvinia weevil. Photo by Scott Bauer, USDA Agricultural Research Service." >}}
+{{< figure class="photo-center" src="/images/pages/adult-salvinia-weevil.jpg" alt="A tiny, black insect walking on a green plant" caption="Adult salvinia weevil. Photo by Scott Bauer, USDA Agricultural Research Service." >}}
 
 Due to the increasing acreage of salvinia infestations within privately-owned coastal marshes, the U.S. Fish and Wildlife Service’s Louisiana Ecological Services Office partnered with the Louisiana Coastal Protection and Restoration Authority to obtain $3.8 million  in funding through the Coastal Wetlands Planning, Protection and Restoration Act (CWPPRA). The funding allowed Louisiana State University (LSU) to propagate weevils and provide them for free  to landowners for 20 years, and also to fund LSU and the U.S. Geological Survey to monitor selected sites for three years.
 
@@ -44,7 +44,7 @@ Because large numbers of weevils are needed to kill salvinia, control may not be
 
 {{< figure class="photo-center" src="/images/pages/salvinia-weevil-restoration.jpg" alt="Three photos in series showing the gradual removal of giant salvinia" caption="Time series photos showing clearing of weevil-damaged giant salvinia in the Big Burns marsh. Photos courtesy of Dr. Rodrigo Diaz, LSU Entomology Dept." >}}
 
-## Contact 
+## Contact
 
 Ronny Paille, Civil Works and Coastal Restoration Biologist  
 [ronald_paille@fws.gov](mailto:ronald_paille@fws.gov), (337) 291-3117
