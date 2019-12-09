@@ -1,13 +1,13 @@
 ---
 title: 'A refuge gives up its secret'
-subtitle: 'Researchers discover bead-making operation at Lower Suwanee NWR'
+subtitle: 'Researchers discover bead-making operation at Lower Suwannee NWR'
 author: 'Mark Davis, public affairs specialist'
 date: 2019-11-12
 type: feature
 hero:
     name: raleigh-island-lidar.jpg
     alt: 'A green and blue LiDAR image showing subtle differences in elevation caused by the presence of a historic factory'
-    caption: 'An image captured by laser imagery depicts shell rings at Raleigh Island on the Lower Suwanee National Wildlife Refuge in Florida. Ten centuries ago, the island was the site of a bead-making operation. Photo by Ken Sassaman, the University of Florida.'
+    caption: 'An image captured by laser imagery depicts shell rings at Raleigh Island on the Lower Suwannee National Wildlife Refuge in Florida. Ten centuries ago, the island was the site of a bead-making operation. Photo by Ken Sassaman, the University of Florida.'
     position: '25% 5%'
 tags:
     - Archaeology
@@ -41,7 +41,7 @@ The site, Kanaski said, also hints at how people adapted to climate change and a
 
 “This,” said Kanaski, “is an incredible site.”
 
-The researchers’ findings pleased Andrew Gude, the refuge’s manager. When he came to Lower Suwanee, in 2011, he effectively rolled out a welcome mat to the university’s researchers.
+The researchers’ findings pleased Andrew Gude, the refuge’s manager. When he came to Lower Suwannee, in 2011, he effectively rolled out a welcome mat to the university’s researchers.
 
 “We encouraged them to make the refuge a natural laboratory,” he said. “And they took advantage of it.”
 
