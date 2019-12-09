@@ -31,7 +31,7 @@
     </ul>
     {{ end }}
 
-    <p>{{ if .Params.description }}{{ .Params.description }}{{ else }}{{ .Summary | markdownify }}{{ end }}
+    <p>{{ if .Params.description }}{{ .Params.description | markdownify }}{{ else }}{{ .Summary | markdownify }}{{ end }}
     <span> &nbsp;<a href="{{ .Permalink }}" aria-label="{{ .Title }}">{{ if eq .Section "news"}}Read the full story...{{ else if eq .Section "wildlife" }}Visit the species profile...{{ else if eq .Section "article" }}Read the full article...{{ else }}Learn more...{{ end }}</a></span></p>
   </div>
 </li>
