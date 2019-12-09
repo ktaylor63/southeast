@@ -1,7 +1,7 @@
 ---
 title: 'Green River National Wildlife Refuge'
 nav: 'Green River NWR'
-description: 'The U.S. Fish and Wildlife Service proposes to establish Kentucky’s second national wildlife refuge to protect high quality wildlife and fish habitats near the confluence of the Green River and Ohio River.'
+description: 'The federal government is creating a national wildlife refuged in Kentucky close to where the Green River and Ohio River meet. It will benefit wildlife and sportsmen alike.'
 hero:
     name: ohio-river-green-river-nwr.jpg
     alt: 'A river banked by trees and with smokestacks in the distance.'
@@ -16,36 +16,38 @@ tags:
 updated: 'July 24, 2019'
 ---
 
-The U.S. Fish and Wildlife Service (Service) proposes establishing a second national wildlife refuge administered in Kentucky  to protect high-quality wildlife and fish habitats near the confluence of the Green River and Ohio River.  With support and direction from Congress, the Service is proposing the Green River National Wildlife Refuge (NWR) in Henderson County, Kentucky.
+The U.S. Fish and Wildlife Service (Service) is establishing a second national wildlife refuge administered in Kentucky  to protect high-quality wildlife and fish habitats near the confluence of the Green River and Ohio Rivers.  With support and direction from Congress, the Service is establishing the Green River National Wildlife Refuge (NWR) in Henderson County, Kentucky.
+
+[Download the land protection plan](https://ecos.fws.gov/ServCat/Reference/Profile/114674).
 
 ## National Wildlife Refuge System in Kentucky
 
 The Service manages the National Wildlife Refuge System, a national network of public lands and waters devoted to the conservation of fish, wildlife, and plants and their habitats.  Since President Theodore Roosevelt designated Florida’s Pelican Island as the first wildlife refuge in 1903, the National Wildlife Refuge System has grown to include more than 560 refuges and other protected areas. They encompass 150 million acres of land and water from the Caribbean to the remote Pacific.
 
-The National Wildlife Refuge System includes Clarks River NWR near Benton, Kentucky, which is the only national wildlife refuge located solely in Kentucky.  Visitors to Clarks River NWR  enjoy wildlife-related recreation, including hunting, fishing, wildlife observation and photography, and environmental education and interpretation.
+The National Wildlife Refuge System includes [Clarks River NWR](https://www.fws.gov/refuge/Clarks_River/) near Benton, Kentucky, which is the only national wildlife refuge located solely in Kentucky.  Visitors to Clarks River NWR enjoy wildlife-related recreation, including hunting, fishing, wildlife observation and photography, and environmental education and interpretation.
 
-In 2018, Congress directed the Service to establish Kentucky’s second national wildlife refuge fully located in Henderson County.  The Service has initiated the planning process for this proposed addition to the National Wildlife Refuge System and is referring to it as the Green River National Wildlife Refuge.
+In 2018, Congress directed the Service to establish Kentucky’s second national wildlife refuge fully located in Henderson County.  The Service initiated the planning process for this addition to the National Wildlife Refuge System and referred to it as the Green River National Wildlife Refuge.
 
 ## Goals
 
-The proposed Green River NWR has numerous goals including:
+The Green River NWR has numerous goals including:
 
 - Establish a second national wildlife refuge fully located in Kentucky to support fish, wildlife, and habitat conservation;
 - Protect and manage wetlands and bottomland forest habitats to support waterfowl, migratory birds, and threatened and endangered species;
 - Provide high-quality hunting and sport fishing;
 - Provide opportunities for public use and environmental education and interpretation;
-- Collaborate with partners to protect and enhance biodiversity and  water quality and quantity within the Ohio River and Green River watersheds, benefiting both people and wildlife; and
+- Collaborate with partners to protect and enhance biodiversity and  water quality and quantity within the Ohio River and Green River watersheds, benefiting people and wildlife; and
 - Ensure healthy wildlife populations for the benefit of Kentuckians and all Americans.
 
 ## Location
 
-The Green River area in Henderson County has long been valued for its diverse system of bottomland hardwood forests, wetlands, upland bluffs, and agricultural lands that provide high-quality habitat for waterfowl, migratory birds, and sport fish. In 2001 and 2010, the Service submitted proposals to establish the Green River NWR to protect the area for wildlife, but higher national priorities shelved these proposals.
+The Green River area in Henderson County has long been valued for its diverse system of bottomland hardwood forests, wetlands, upland bluffs and agricultural lands that provide high-quality habitat for waterfowl, migratory birds and sport fish. In 2001 and 2010, the Service submitted proposals to establish the Green River NWR to protect the area for wildlife, but higher national priorities shelved these proposals.
 
 {{< figure class="photo-center" src="/images/pages/forested-area-around-green-river-nwr.jpg" alt="A forested area with vegetated understory" caption="Forested area within the proposed Conservation Partnership Area for Green River National Wildlife Refuge. Photo by Lee Andrews, USFWS." >}}
 
 ## Conservation Partnership Area
 
-The Service proposes a Conservation Partnership Area (CPA), an area within which the Service would work with willing sellers or partners to purchase or protect approximately 24,000 acres, which is the planning target for the refuge. Private landowners’ rights are not affected by the CPA or the refuge. The Service will work with willing sellers to acquire lands as opportunities and funding allow. Landowners have no obligation to sell their land or otherwise participate in the proposed refuge.
+The Service created a Conservation Partnership Area (CPA), an area within which the Service will work with willing sellers or partners to purchase or protect approximately 24,000 acres, which is the planning target for the refuge. Private landowners’ rights are not affected by the CPA or the refuge. The Service will work with willing sellers to acquire lands as opportunities and funding allow. Landowners have no obligation to sell their land or otherwise participate in the proposed refuge.
 
 ## Establishing the Refuge
 
@@ -61,11 +63,11 @@ The proposed I-69 Ohio River crossing project is likely to affect native fish an
 
 ## Planning process
 
-A [draft Land Protection Plan (LPP) and an Environmental Assessment (EA)](https://ecos.fws.gov/ServCat/Reference/Profile/112180) has been developed and made publicly available. The LPP informs landowners and interested stakeholders of the proposal to establish the refuge. The Service prepared the EA as required by the National Environmental Policy Act to analyze different strategies for land protection in the area.
+A [draft Land Protection Plan (LPP) and an Environmental Assessment (EA)](https://ecos.fws.gov/ServCat/Reference/Profile/112180) was developed and made publicly available. The LPP informed landowners and interested stakeholders of the proposal to establish the refuge. The Service prepared the EA as required by the National Environmental Policy Act to analyze different strategies for land protection in the area.
 
 {{< figure class="photo-center" src="/images/pages/land-surrounding-proposed-green-river-nwr.jpg" alt="A grassy area surrounded by mature trees." caption="Lands within the proposed Conservation Partnership Area for Green River National Wildlife Refuge. Photo by Lee Andrews, USFWS." >}}
 
-The Service is  providing the public an opportunity to review and comment on the Draft LPP and EA.  Once the public review and comment period ends, the Service will evaluate the comments and make any changes needed before developing a final plan, which the Service Director approves.
+The Service provided the public an opportunity to review and comment on the Draft LPP and EA.  At the end of the the public review and comment period, the Service evaluated the comments and made any changes needed, then developinged final plan. The Service Director approved it.
 
 ## How you can get involved
 
@@ -78,7 +80,7 @@ Please stay engaged and provide thoughtful, constructive comments as we move for
 ## More information
 
 - [Frequently asked questions: Proposed Green River National Wildlife Refuge](/pdf/fact-sheet/green-river-national-wildlife-refuge-proposal.pdf)
-- [Draft Land Protection Plan and Environmental Assessment for the Proposed Green River National Wildlife Refuge and Conservation Partnership Area](https://ecos.fws.gov/ServCat/Reference/Profile/112180)
+- [Land Protection Plan and Environmental Assessment for the Proposed Green River National Wildlife Refuge and Conservation Partnership Area](https://ecos.fws.gov/ServCat/Reference/Profile/114674)
 
 ## Contact
 
