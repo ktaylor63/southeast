@@ -11,7 +11,7 @@ tags:
     - 'Federal Energy Regulatory Commission'
     - Hydropower
     - 'Training Workshop'
-updated: 'October 8th, 2019'
+updated: 'December 2nd, 2019'
 ---
 
 ## Location
@@ -28,7 +28,7 @@ This 3-day training workshop will provide a comprehensive overview of the Federa
 
 [Registration](https://docs.google.com/forms/d/e/1FAIpQLScxRV-6RYF0J1ic6NWJQ11dwv1S0DmUkMNgaGk4REtpr1L3aQ/viewform) will be limited to 32 participants. There is no registration fee, but attendees will be responsible for their own travel costs. Priority will be given to USFWS staff from the states in the legacy Southeast Region or the new Department of the Interior unified South Atlantic-Gulf and Mississippi Basin regions (AL, AR, FL, GA, IA, KY, LA, MO, MS, NC, PR/VI, SC, TN). However, we anticipate that a number of seats will be available for participants from other agencies/partners or those from outside the region.
 
-If you are interested in participating, please [submit your registration request by December 6, 2019](https://docs.google.com/forms/d/e/1FAIpQLScxRV-6RYF0J1ic6NWJQ11dwv1S0DmUkMNgaGk4REtpr1L3aQ/viewform). We  will let respondents know whether their registration request has been accepted no later than December 18, 2019. A draft workshop agenda and logistics information (e.g., transportation and lodging options) will be provided at that time.
+If you are interested in participating, please [submit your registration request by December 13, 2019](https://docs.google.com/forms/d/e/1FAIpQLScxRV-6RYF0J1ic6NWJQ11dwv1S0DmUkMNgaGk4REtpr1L3aQ/viewform). We  will let respondents know whether their registration request has been accepted no later than December 18, 2019. A draft workshop agenda and logistics information (e.g., transportation and lodging options) will be provided at that time.
 
 ## Contact
 
