@@ -7,6 +7,7 @@ js: /js/species-profile.js
 tags:
     - Alabama
     - 'American Chaffseed'
+    - 'Bears Bluff National Fish Hatchery'
     - 'Endangered Species Act'
     - Florida
     - Georgia
