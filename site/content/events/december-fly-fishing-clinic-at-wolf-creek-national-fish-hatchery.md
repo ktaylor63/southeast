@@ -1,11 +1,11 @@
 ---
 title: 'December fly fishing clinic'
-start: 2019-12-14T10:00:00.000Z
-end: 2019-12-14T15:00:00.000Z
+start: 2019-12-12T10:00:00.000Z
+end: 2019-12-12T15:00:00.000Z
 timezone: CDT
 sessions:
-    - {name: 'Morning session: casting technique', start: 2019-12-14T10:00:00.000Z, end: 2019-12-14T12:00:00.000Z}
-    - {name: 'Afternoon session: fishing the creek', start: 2019-12-14T13:00:00.000Z, end: 2019-12-14T15:00:00.000Z}
+    - {name: 'Morning session: casting technique', start: 2019-12-12T10:00:00.000Z, end: 2019-12-12T12:00:00.000Z}
+    - {name: 'Afternoon session: fishing the creek', start: 2019-12-12T13:00:00.000Z, end: 2019-12-12T15:00:00.000Z}
 hero:
     name: wolf-creek-fly-fishing-event.jpg
     alt: 'A group of students casting rods from the shore'
