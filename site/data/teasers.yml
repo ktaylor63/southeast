@@ -1,4 +1,26 @@
 stories:
+  - title: "Military bases can help protect marsh birds"
+    summary: "A handful of military bases around the United States could play an outsized role in marsh bird conservation. “Our models provide some tangible predictions for which sites are the most important for most species but also which bases are not likely to be important for most species,” said Bryan Stevens, a research scientist at the University of Idaho and the lead author of a study published recently in the Journal of Environmental Management."
+    date: 2020-01-02
+    hero:
+      name: eastern-black-rail-christy-hand-scdnr.jpg
+      alt: 'A blackish/navy blue bird with bright red eyes and white markings on its wings'
+      caption: 'Eastern black rail. Photo by Christy Hand, SCDNR.'
+      position: '55% 20%'
+    url: "https://wildlife.org/military-bases-can-help-protect-marsh-birds/"
+  - title: "Story map: Restoring rare birds to River Creek"
+    summary: "Deep in south Georgia, bird songs welcome the break of dawn at River Creek, the Rolf and Alexandra Kauka Wildlife Management Area. But in that chorus is a more urgent call. An excited squeaking is answered by high-pitched cheeps. A red-cockaded woodpecker is calling its fledgling. And the young bird is responding, almost plaintively. These are the sounds of history being made..."
+    date: 2019-12-16
+    hero:
+      caption: 'A red-cockaded woodpecker has dinner outside its nesting cavity. <a href="https://flic.kr/p/ciG2q3">Photo</a> by USFWS.'
+      name: red-cockaded-woodpecker-dinner.jpg
+      alt: 'A woodpecker perched on a tree with a bug in its mouth'
+      position: 'top center'
+    url: "https://storymaps.arcgis.com/stories/5c32de79ec6a4618b4c250ed166c7b52"
+  - title: "Acres of Georgia coastline purchased for conservation"
+    summary: "A 16,000 acre stretch of undeveloped Georgia coastline will soon become a new wildlife management area. Purchased for an undisclosed amount by the Conservation Fund and Open Space Institute, the property sits along the Satilla River in Southeast Georgia near the city of Woodbine. "
+    date: 2019-12-06
+    url: "https://www.ajc.com/news/state--regional/acres-georgia-coastline-purchased-for-conservation/FbXknWX8T5kEabMJYQTmDL/"
   - title: "The quest to protect the bog turtle: Saving NC’s smallest turtle"
     summary: "Bog turtles are a federally threatened species and are considered critically endangered by the International Union for the Conservation of Nature — the same classification as the black rhinoceros. The bog turtle, marked by a small yellow dot on either side of its head, is the smallest in North America. But why should anyone care about a tiny turtle that spends the bulk of its time buried in the mud?"
     date: 2019-11-24
