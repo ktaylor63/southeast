@@ -7,7 +7,7 @@ date: 2020-01-08
 hero:
     name: cape-fear-council-of-the-boy-scouts-of-america.jpg
     alt: 'Boy scouts walk in a line through a young stand of pine trees.'
-    caption: 'The Cape Fear Council of the Boy Scouts of America has been helping restore longleaf pine at a camp in North Carolina. Photo by Jacob Jay, Special.'
+    caption: 'The Cape Fear Council of the Boy Scouts of America has been helping restore longleaf pine at a camp in North Carolina. Photo by Jacob Jay.'
     position: 50% 25%
 tags:
     - 'At-Risk Species'
@@ -20,17 +20,17 @@ tags:
 updated: 'January 8th, 2020'
 ---
 
-Revelry sounds. Long lines of uniformed Boy Scouts circle the flagpole. Pledges and singing follow. Out beyond this morning ritual, stately young longleaf pine trees proudly peek over swaying grasses.
+Reveille sounds. Long lines of uniformed Boy Scouts circle the flagpole. Pledges and singing follow. Out beyond this morning ritual, stately young longleaf pine trees proudly peek over swaying grasses.
 
 The [Cape Fear Council of the Boy Scouts of America](https://www.capefearcouncilbsa.org/) is restoring the longleaf pine ecosystem and awakening its rich history at Camp Bowers in eastern North Carolina. They are contributing to the goal of the [America’s Longleaf Initiative](http://www.americaslongleaf.org/) to bring back an ecosystem that once spanned from Virginia to Texas, and in North Carolina supports unique wildlife such as the Venus flytrap, which is considered at risk in the wild.
 
-{{< figure class="photo-center" src="/images/pages/boy-scouts-longleaf-pine-1.jpg" alt="Two boys handle a shovel and a blade on the end of a wooden handle to remove shrubs from a pine stand" caption="Boy Scouts working on a service project thin out a patch of loblolly pine near a stand of longleaf pine at Camp Bowers in North Carolina. Photo by Jacob Jay, Special." >}}
+{{< figure class="photo-center" src="/images/pages/boy-scouts-longleaf-pine-1.jpg" alt="Two boys handle a shovel and a blade on the end of a wooden handle to remove shrubs from a pine stand" caption="Boy Scouts working on a service project thin out a patch of loblolly pine near a stand of longleaf pine at Camp Bowers in North Carolina. Photo by Jacob Jay." >}}
 
 Camp Bowers, an expanse of land along the Cape Fear River in Bladen County about an hour northwest of Wilmington, made a bold decision to transition from loblolly pine to native longleaf pine. Moreover, they turned the endeavor into an educational opportunity. A kiosk tells the story of the tree, the ecosystem, and the wildlife dependent upon it.
 
 “The educational kiosk has been incorporated in the introductory tour that the Scouts are given upon their arrival for summer camp,” said Jacob Jay, Camp Bowers site manager. “It gives everyone a chance to understand what is going on and to learn about the plan for the restoration of the longleaf.” Thousands of Cub Scouts and Boy Scouts visit the camp annually.
 
-{{< figure class="photo-center" src="/images/pages/boy-scouts-longleaf-pine-2.jpg" alt="A dozen or more children gather around their scout leader at the edge of a pine stand" caption="Counselors use longleaf pine as a teaching tool for scouths working on merit badges such as Forestry, Fish &amp; Wildlife Management, Nature, Plant Science, Pulp &amp; Paper, Soil &amp; Water Conservation, and Sustainability. Photo by Jacob Jay, Special." >}}
+{{< figure class="photo-center" src="/images/pages/boy-scouts-longleaf-pine-2.jpg" alt="A dozen or more children gather around their scout leader at the edge of a pine stand" caption="Counselors use longleaf pine as a teaching tool for scouts working on merit badges such as Forestry, Fish &amp; Wildlife Management, Nature, Plant Science, Pulp &amp; Paper, Soil &amp; Water Conservation, and Sustainability. Photo by Jacob Jay." >}}
 
 In collaboration with the U.S. Fish and Wildlife Service’s [Partners for Fish and Wildlife Program](/our-services/partners-program/) and The Longleaf Alliance, Inc., the Cape Fear Council planted 70 acres of longleaf pine. The trees and the scouts are thriving.
 
@@ -42,11 +42,9 @@ Although there are no known endangered species on the property, only a few miles
 
 “A central theme of scouting is stewardship of the environment,” he said. “The longleaf restoration on the camp can help Scouts with merit badges, including forestry, insects, and botany.”
 
-{{< figure class="photo-center" src="/images/pages/boy-scouts-longleaf-pine-3.jpg" alt="A dozen or more children listen to an instructor at the edge of a pine stand" caption="Counselors use longleaf pine as a teaching tool for scouths working on merit badges such as Forestry, Fish &amp; Wildlife Management, Nature, Plant Science, Pulp &amp; Paper, Soil &amp; Water Conservation, and Sustainability. Photo by Jacob Jay, Special." >}}
+{{< figure class="photo-center" src="/images/pages/boy-scouts-longleaf-pine-3.jpg" alt="A dozen or more children listen to an instructor at the edge of a pine stand" caption="Counselors use longleaf pine as a teaching tool for scouts working on merit badges such as Forestry, Fish &amp; Wildlife Management, Nature, Plant Science, Pulp &amp; Paper, Soil &amp; Water Conservation, and Sustainability. Photo by Jacob Jay." >}}
 
-“Longleaf is a great tree,” said registered forester and longtime camp volunteer Dean Alsup, who spearheaded the effort. Alsup, whose father was also a local forester and supporter of the Boy
-
-Scouts, recalls a time when more of North Carolina was in longleaf. He wants every camper passing through the gates to understand the cultural significance of longleaf in North Carolina. “Longleaf works well on sandy soils. It’s a piece of North Carolina. It was a good fit for the site. I believe that it’s important for Boy Scouts to know about longleaf and its role in North Carolina as they learn about our forests and ecosystems, particularly in this part of the state.”
+“Longleaf is a great tree,” said registered forester and longtime camp volunteer Dean Alsup, who spearheaded the effort. Alsup, whose father was also a local forester and supporter of the Boy Scouts, recalls a time when more of North Carolina was in longleaf. He wants every camper passing through the gates to understand the cultural significance of longleaf in North Carolina. “Longleaf works well on sandy soils. It’s a piece of North Carolina. It was a good fit for the site. I believe that it’s important for Boy Scouts to know about longleaf and its role in North Carolina as they learn about our forests and ecosystems, particularly in this part of the state.”
 
 Alsup reached out to Partners for Fish and Wildlife to support his idea for restoring longleaf at Camp Bowers. “We couldn’t have asked for a better experience working with Partners for Fish and Wildlife. It was super great,” he said. “Partners is a great program to help re-establish longleaf pine and their staff is wonderful to work with.”
 
