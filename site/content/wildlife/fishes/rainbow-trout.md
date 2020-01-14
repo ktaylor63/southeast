@@ -18,6 +18,7 @@ tags:
     - 'Rainbow Trout'
     - Tennessee
     - 'Tennessee Ecological Services Field Office'
+    - 'Warm Springs Fish Technology Center'
     - 'Wolf Creek National Fish Hatchery'
 hero:
     name: rainbow-trout-angler.jpg
@@ -25,7 +26,7 @@ hero:
     caption: 'Beautiful rainbow trout. <a href="https://flic.kr/p/8QET9A">Photo</a> by <a href="https://www.flickr.com/photos/palmit/">Cale Bruckner</a>, <a href="https://creativecommons.org/licenses/by-nc/2.0/">CC BY-NC 2.0</a>.'
     link: 'https://flic.kr/p/8QET9A'
     position: '75% 40%'
-updated: 'September 12th, 2019'
+updated: 'January 9th, 2020'
 ---
 
 - **Taxon:** Freshwater fish

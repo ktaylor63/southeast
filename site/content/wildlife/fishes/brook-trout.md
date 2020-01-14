@@ -34,6 +34,7 @@ tags:
     - Tennessee
     - 'Tennessee Ecological Services Field Office'
     - Vermont
+    - 'Warm Springs Fish Technology Center'
     - 'West Virginia'
     - Wisconsin
     - 'Wolf Creek National Fish Hatchery'
@@ -41,7 +42,7 @@ hero:
     name: eastern-brook-trout.jpg
     alt: 'A colorful green/brown and red trout covered in small red spots.'
     caption: 'A wildlife biologist holds a small eastern brook trout. Photo by Steve Droter, Chesapeake Bay Program.'
-updated: 'November 7th, 2019'
+updated: 'January 9th, 2020'
 ---
 
 - **Taxon:** Freshwater fish

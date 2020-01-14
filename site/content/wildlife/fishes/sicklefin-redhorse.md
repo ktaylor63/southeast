@@ -21,8 +21,9 @@ tags:
     - Georgia
     - 'North Carolina'
     - 'Sicklefin Redhorse'
+    - 'Warm Springs Fish Technology Center'
     - 'Warm Springs National Fish Hatchery'
-updated: 'March 25th, 2019'
+updated: 'January 9th, 2020'
 ---
 
 - Taxa: Fish
