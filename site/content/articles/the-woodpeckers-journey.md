@@ -29,7 +29,7 @@ hero:
     name: red-cockaded-woodpecker-dinner.jpg
     alt: 'A woodpecker perched on a tree with a bug in its mouth'
     position: 'top center'
-updated: 'July 30th, 2018'
+updated: 'January 10th, 2020'
 ---
 
 {{< youtube id="20VqXVpZxW4" title="Relocating the endangered red-cockaded woodpecker to support recovery efforts" caption="Video by Nicole Vidal, USFWS." >}}
@@ -94,11 +94,11 @@ More than 1 million woodpecker clusters once populated the 90-million acre longl
 
 The bird was listed as endangered in 1970. Maybe 3,000 RCW clusters existed at the time, though few good surveys were done. The future of the woodpecker -- whose only distinguishing red markings are a few feathers mostly hidden underneath black and white feathers near a male’s cheek -- looked bleak. 
 
-But the RCW is a plucky little 7-inch bird, quite deliberate and family-oriented. He’ll spend up to three years excavating a cavity in a mature pine tree typically infected with a fungus known as red-heart disease that softens the tree’s interior and makes for a cozy home. He’ll keep pecking holes in the bark to ensure a steady flow of sticky pitch around the cavity to inhibit the approach of rat snakes and other predators. 
+But the RCW is a plucky little 7-inch bird, quite deliberate and family-oriented. He’ll spend up to three years excavating a cavity in a mature pine tree typically infected with a fungus known as red-heart disease that softens the tree’s interior and makes for a cozy home. He’ll keep pecking holes in the bark to ensure a steady flow of sticky pitch around the cavity to inhibit the approach of rat snakes and other predators.
 
 Woodpeckers are very social and forage together for insects. Male “helper” birds stick around to assist in child-rearing. They love to hang out and chat -- or “sklit” (when disturbed), “churt” (when entering a roost) and “chortle” (when insect-hunting together).
 
-The Service and friends set about saving RCWs in the early 1990s. The Southern Range Translocation Cooperative, a sort of woodpecker trading cartel where bird-poor regions seek  woodpeckers from bird-rich regions, was created in 1998. More than 1,000 birds have since been translocated. 
+The Service and friends set about saving RCWs in the early 1990s. The Southern Range Translocation Cooperative, a sort of woodpecker trading cartel where bird-poor regions seek  woodpeckers from bird-rich regions, was created in 1998. More than 1,000 birds have since been translocated.
 
 “This really is a conservation success story,” Hagedorn said. “When I first started attending the cooperative in 1998 there was way more demand for birds than there were birds available. Over the last few meetings, though, there were more birds available than people needing them.”
 
