@@ -33,14 +33,14 @@ function createContactList(contacts, title, id) {
   return `
     <ul>
       ${contacts
-    .map(contact => {
-      const type = contact.type ? `${contact.type}: ` : '';
-      const html = contact.email
-        ? `<li><strong>${type}</strong> <a href="mailto:${contact.email}?subject=${title}" aria-labelledby="project-${id}">${contact.name}</a>`
-        : `<li><strong>${type} ${contact.name}</strong></li>`;
-      return html;
-    })
-    .join('')}
+      .map(contact => {
+        const type = contact.type ? `${contact.type}: ` : '';
+        const html = contact.email
+          ? `<li><strong>${type}</strong> <a href="mailto:${contact.email}?subject=${title}" aria-labelledby="project-${id}">${contact.name}</a>`
+          : `<li><strong>${type} ${contact.name}</strong></li>`;
+        return html;
+      })
+      .join('')}
     </ul>
   `;
 }
@@ -61,13 +61,13 @@ function showResults(projects) {
       return `
       <li class='card card-text'>
         <h2 class='card-list-heading' id="project-${i}"><a href='${project.link
-  .url}'>${project.title}</a></h2>
+          .url}'>${project.title}</a></h2>
           ${dates
-    .map(date => {
-      const dateString = moment(date.dateString).format('MMMM Do, YYYY');
-      return `<p><span><strong>${date.label}</strong>: ${dateString}</span></p>`;
-    })
-    .join('')}
+          .map(date => {
+            const dateString = moment(date.dateString).format('MMMM Do, YYYY');
+            return `<p><span><strong>${date.label}</strong>: ${dateString}</span></p>`;
+          })
+          .join('')}
         ${purpose}
         ${summary}
         ${contacts}

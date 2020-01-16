@@ -23,7 +23,7 @@ const filterSoutheasternDocuments = docs => docs.filter(doc => doc.units.filter(
 const isPublic = doc => doc.fileAccess === 'Public';
 
 const createLinkedResource = res => `<li><a href="${res.url}" target="_blank" aria-label="${
-    res.fileName
+  res.fileName
   }">Download species status assessment &raquo;</a></li>`;
 
 const createListItem = doc => {

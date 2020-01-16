@@ -34,7 +34,7 @@ const createAtRiskList = species => {
 const createListedSpeciesList = (species, status) => {
   const list = species.map(
     animal => `<li><a href='${animal[1].url}'>${animal[0]} (<em>${
-        animal[1].value
+      animal[1].value
       }</em>)</a></li>`
   );
   return [`<li>${species.length} ${status}</li>`, ...list].join('');
