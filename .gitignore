@@ -1,6 +1,7 @@
 # Third Party
 node_modules
 npm-debug.log
+config.gypi
 
 # Roy's content
 blog
