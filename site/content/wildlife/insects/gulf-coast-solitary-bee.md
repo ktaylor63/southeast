@@ -44,7 +44,8 @@ Eggs, larvae, and pupae have yet to be described.
 ## Habitat
 
 This bee is a floral specialist that feeds only on the Coastal Plain honeycombhead (*Balduina angustifolia*), a member of the aster family.  Consequently, their preferred habitat must consist of both dense patches of the honeycombhead as well as the appropriate nesting substrate of deep, soft sandy soils within flight range of the plants.  This habitat is typically found on dunes behind fore dunes on barrier islands and coastal shores in close proximity to the shoreline.
-Diet
+
+## Diet
 
 The Gulf Coast solitary bee is a monolectic species, meaning it only gathers pollen and nectar from one floral host &mdash; the Coastal Plain honeycombhead.  It is possible that the bee gathers nectar from closely related plants but this has yet to be proven.
 
@@ -54,7 +55,7 @@ When the Gulf Coast solitary bee was discovered in 1993, it was found in 15 loca
 
 ## Current range
 
-Currently, the Gulf Coast solitary bee is only known from six locations across its range &mdash; a range that is estimated to be less than 100 km2.  The majority of known locations are from public lands along the Gulf Coast from Horn Island, Mississippi, east to St. Andrew’s Bay in northwest Florida.
+Currently, the Gulf Coast solitary bee is only known from six locations across its range &mdash; a range that is estimated to be less than 100 km<sup>2</sup>.  The majority of known locations are from public lands along the Gulf Coast from Horn Island, Mississippi, east to St. Andrew’s Bay in northwest Florida.
 
 {{< figure class="photo-center" src="/images/pages/gulf-coast-solitary-bee-range-map.jpg" alt="A map of the Gulf coast along Florida and Alabama showing populations on barrier islands" caption="Map of historic and current distribution of the Gulf Coast solitary bee.  [Sea level rise data derived from NOAA SLR Viewer](https://coast.noaa.gov/slr).  Map from Petition to List the Gulf Coast Solitary Bee (*Hesperapis oraria*) Under the Endangered Species Act and Concurrently Designate Critical Habitat, Center for Biological Diversity, March 27, 2019." >}}
 
