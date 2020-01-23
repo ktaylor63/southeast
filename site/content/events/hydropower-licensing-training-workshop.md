@@ -26,7 +26,7 @@ This 3-day training workshop will provide a comprehensive overview of the Federa
 
 ## Agenda
 
-A draft agenda for the training will be available soon.
+Download [the agenda](/pdf/agenda/ferc-hydropower-training-agenda.pdf).
 
 ## Logistics
 
