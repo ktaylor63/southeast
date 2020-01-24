@@ -1,4 +1,13 @@
 stories:
+  - title: "First wild eastern indigo snake found in Alabama in 60 years"
+    summary: "Traci Wood admitted holding the snake almost made her come unglued. No, she wasn’t afraid of the snake she was holding. It was the magnitude of the moment.Wood, the Habitat and Species Conservation Coordinator with the Alabama Wildlife and Freshwater Fisheries (WFF) Division, had in her hands the first wild Eastern indigo snake documented in Alabama in more than 60 years."
+    date: 2020-01-24
+    hero:
+      name: eastern-indigo-snake.jpg
+      alt: 'A deep black snake coiled up on sandy soil with young longleaf pine seedlings in the background'
+      caption: 'An Eastern indigo snake on sandy soil associated with the longleaf pine ecosystem. Photo © Houston Chandler, the Orianne Society (Used with permission).'
+      position: '25% 80%'
+    url: "https://www.outdooralabama.com/node/3479"
   - title: "Military bases can help protect marsh birds"
     summary: "A handful of military bases around the United States could play an outsized role in marsh bird conservation. “Our models provide some tangible predictions for which sites are the most important for most species but also which bases are not likely to be important for most species,” said Bryan Stevens, a research scientist at the University of Idaho and the lead author of a study published recently in the Journal of Environmental Management."
     date: 2020-01-02
