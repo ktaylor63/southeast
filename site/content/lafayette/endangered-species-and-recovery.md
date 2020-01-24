@@ -27,14 +27,18 @@ All species of plants and animals, except pest insects, are eligible for listing
 ## Survey Protocols, Guidelines and Recommendations
 
 * [Avoidance and minimization measures for piping plover and red knots for shoreline activities in Louisiana](/pdf/best-management-practice/piping-plover-and-red-knots-for-shoreline-activities-in-louisiana.pdf)
-* [Red-cockaded Woodpecker (RCW) Survey Report and Habitat Guidelines](/pdf/guidelines/red-cockaded-woodpecker-survey-report-and-habitat-guidelines.pdf)
-* [Standard Manatee Conditions](/pdf/guidelines/standard-manatee-conditions.pdf)
+* [Red-cockaded woodpecker (RCW) survey report and habitat guidelines](/pdf/guidelines/red-cockaded-woodpecker-survey-report-and-habitat-guidelines.pdf)
+* [Standard manatee conditions](/pdf/guidelines/standard-manatee-conditions.pdf)
 * [West Indian manatee area sign for land side work area](/pdf/sign/west-indian-manatee-area-sign-for-land-side-work-area.pdf)
 * [West Indian manatee area sign for vessels](/pdf/sign/west-indian-manatee-area-sign-for-vessel.pdf)
-* [Stream Obstruction Guidelines - Ringed Map Turtle](/pdf/guidelines/stream-obstruction-removal-guidelines.pdf)
-* [Water Intake Recommendations](/pdf/guidelines/water-intake-recommendations.pdf)
-* [Louisiana Black Bear Post-Delisting Fact Sheet](/pdf/fact-sheet/louisiana-black-bear-post-delisting-consultation.pdf)
-* [Atlantic Sturgeon (Gulf subspecies) Critical Habitat Physical Biological Features](/pdf/fact-sheet/gulf-sturgeon-critical-habitat-physical-biological-features.pdf)
+* [Stream obstruction guidelines - ringed nap turtle](/pdf/guidelines/stream-obstruction-removal-guidelines.pdf)
+* [Water intake recommendations](/pdf/guidelines/water-intake-recommendations.pdf)
+* [Louisiana black bear post-Ddlisting fact sheet](/pdf/fact-sheet/louisiana-black-bear-post-delisting-consultation.pdf)
+* [Atlantic sturgeon (Gulf subspecies) Critical Habitat physical biological features](/pdf/fact-sheet/gulf-sturgeon-critical-habitat-physical-biological-features.pdf)
+* [Gopher tortoise survey guidance](/pdf/methodology/gopher-tortoise-survey-handbook.pdf)
+* [Black Rail Conservation Recommendations](/pdf/best-management-practice/black-rail-conservation-recommendations.pdf)
+* [Northern Long-Eared Bat (NLEB) Conservation Recommendations](/pdf/best-management-practice/northern-long-eared-bat-conservation-recommendations.pdf)
+
 
 ## Guidance on Determining Need for Incidental Take Permit under ESA Section 10(a)(1)(B)
 
