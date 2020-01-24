@@ -58,7 +58,7 @@ tags:
     - Virginia
     - 'West Virginia'
     - Wisconsin
-updated: 'March 25th, 2019'
+updated: 'January 23rd, 2020'
 ---
 
 - **Taxon**: Bird
@@ -77,9 +77,23 @@ The eastern black rail is protected under the Migratory Bird Treaty Act of 1918 
 
 {{< content-scroller tag="Eastern Black Rail" heading="Related content" >}}
 
+## Stories from around the Web
+
+- [MSU collaborates on $3.9 million NOAA grant to help Gulf Coast birds, conserve biodiversity](https://www.msstate.edu/newsroom/article/2019/10/msu-collaborates-39-million-noaa-grant-help-gulf-coast-birds-conserve)
+- [A secretive marsh bird faces existential threat from rising seas](https://www.theguardian.com/us-news/2019/may/30/a-secretive-marsh-bird-faces-existential-threat-from-rising-seas)
+- [The Ambitious Plan to Save Chesapeake Bay’s Shrinking Saltmarshes](http://www.audubon.org/news/the-ambitious-plan-save-chesapeake-bays-shrinking-saltmarshes)
+- [Life on the Rail](http://acjv.org/life-on-the-rail/)
+- [The black rail: A bird that’s been flying under the radar since Audubon’s day](https://www.wm.edu/news/stories/2016/the-black-rail-a-bird-thats-been-flying-under-the-radar-since-audubons-day.php)
+- [Conserving Wetlands for Black Rails](https://www.birdnote.org/show/conserving-wetlands-black-rails)
+- [Wishing upon a star to see the elusive black rail...](https://www.nature.org/ourinitiatives/regions/northamerica/unitedstates/indiana/placesweprotect/nature-notes-black-rails.xml)
+- [Elusive To Impossible: The Future of the Black Rail](https://www.apalachee.org/blog/2017/6/12/elusive-to-impossible-the-future-of-the-black-rail)
+- [Secretive black rail is rapidly being squeezed out of existence](https://www.bayjournal.com/article/secretive_black_rail_is_rapidly_being_squeezed_out_of_existence)
+- [Black Rail Bird Population Sinking Fast as Rising Sea Level Drowns its Habitat](http://chestertownspy.org/2017/03/27/black-rail-bird-population-sinking-fast-as-rising-sea-level-drowns-its-habitat/)
+- [Black Rail!](https://www.fieldmuseum.org/blog/black-rail)
+
 ## Appearance
 
-Adult eastern black rails range from 10-15 centimeters in total length and have a wingspan of 22-28 cm.  They weigh 35 grams on average and are larger than California black rails.  Their plumage is also less brightly colored than California black rails.  
+Adult eastern black rails range from 10-15 centimeters in total length and have a wingspan of 22-28 cm.  They weigh 35 grams on average and are larger than California black rails.  Their plumage is also less brightly colored than California black rails.
 
 {{< figure class="photo-center" src="/images/pages/eastern-black-rail-texas-rail-banding-copyright-christy-hand-scdnr.jpg" alt="A small black bird with red eyes held by a biologist" caption="Eastern black rail banding – Texas, January 2017. Photo by Christy Hand, South Carolina Department of Natural Resources." >}}
 
@@ -117,11 +131,11 @@ Not much is known about the diet of eastern black rails but they are probably op
 
 Within the northeastern United States, historical records for the eastern black rail during the breeding season exist from Virginia to Massachusetts with most of the observations in Maryland, Delaware, and New Jersey.  The subspecies also was historically present during the breeding season at inland and coastal locations throughout the southeastern United States. Texas, Florida, South Carolina and North Carolina were considered historical strongholds for the subspecies in the Southeast.
 
-Historical literature indicates a wide range of interior states supported eastern black rail in some capacity, ranging from breeding to rare migrant records.  Those states include: Arkansas, Colorado, Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, New Mexico, Ohio, Oklahoma, and Wisconsin.  
+Historical literature indicates a wide range of interior states supported eastern black rail in some capacity, ranging from breeding to rare migrant records.  Those states include: Arkansas, Colorado, Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, New Mexico, Ohio, Oklahoma, and Wisconsin.
 
-The eastern black rail has been reported throughout the Caribbean and Central America, and birds may migrate from the coastal United States to these areas in the winter.  Historically, eastern black rails may have bred in Puerto Rico but the rail’s distribution is still poorly understood there and predation from the non-native mongoose may have contributed to the rail’s decline.  The historical resident population of eastern black rails in Jamaica is thought to be very rare and possibly extinct due to mongoose predation.  The bird is a rare resident in Belize, very rare in the Bahamas, and a rare migrant in Antigua and Bermuda.  
+The eastern black rail has been reported throughout the Caribbean and Central America, and birds may migrate from the coastal United States to these areas in the winter.  Historically, eastern black rails may have bred in Puerto Rico but the rail’s distribution is still poorly understood there and predation from the non-native mongoose may have contributed to the rail’s decline.  The historical resident population of eastern black rails in Jamaica is thought to be very rare and possibly extinct due to mongoose predation.  The bird is a rare resident in Belize, very rare in the Bahamas, and a rare migrant in Antigua and Bermuda.
 
-While historically known in Costa Rica, its current status is unknown.  There are reports as recent as 2017 of eastern black rails in Honduras but the extent of their presence is unknown.  One record of an eastern black rail (and nest) exists from Panama in 1963 but there are no recent records.  The bird has been reported as rare on the island of Hispaniola, but like many other places, there are no current records.  Early records (mid-1800s and 1903) documented eastern black rails in Guatemala, but there are no other records from the country.  
+While historically known in Costa Rica, its current status is unknown.  There are reports as recent as 2017 of eastern black rails in Honduras but the extent of their presence is unknown.  One record of an eastern black rail (and nest) exists from Panama in 1963 but there are no recent records.  The bird has been reported as rare on the island of Hispaniola, but like many other places, there are no current records.  Early records (mid-1800s and 1903) documented eastern black rails in Guatemala, but there are no other records from the country.
 
 A breeding population of eastern black rails has been speculated to exist on Cuba but recent claims of year-round birds are undocumented.
 
@@ -159,7 +173,7 @@ Numerous conservation challenges exist for the eastern black rail.  Plant commun
 
 Habitat fragmentation and conversion by humans has resulted in the decline of approximately 50 percent of the wetland habitats in the United States alone, many of which likely supported eastern black rails historically.  Alteration of natural hydrologic processes by humans has had both intentional and unintentional consequences to these habitats.
 
-Certain land management activities such as the frequency, timing, and pattern of fire can have negative as well as positive impacts for the eastern black rail.  Application of fire during critical time periods for the bird (e.g., mating, egg-laying and incubation, parental care, and when the adults are temporarily flightless [in a full molt]) could lead to mortality of eggs, chicks, juveniles, and adult birds.  Conversely, fire suppression can lead to habitat changes that negatively affect the subspecies by allowing the encroachment of woody plants.  
+Certain land management activities such as the frequency, timing, and pattern of fire can have negative as well as positive impacts for the eastern black rail.  Application of fire during critical time periods for the bird (e.g., mating, egg-laying and incubation, parental care, and when the adults are temporarily flightless [in a full molt]) could lead to mortality of eggs, chicks, juveniles, and adult birds.  Conversely, fire suppression can lead to habitat changes that negatively affect the subspecies by allowing the encroachment of woody plants.
 
 The effects of climate change vary across the range but the best available information supports projections of increased temperatures, decreased precipitation, increases in severe weather events (droughts, hurricanes, etc…), and sea-level rise – all stressors that are likely to have significant impacts on eastern black rail populations and their habitat.
 
