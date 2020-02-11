@@ -10,7 +10,7 @@ hero:
     name: wildlife-trafficking.jpg
     alt: 'Shelves upon shelves of confiscated wildlife parts from big cats including tigers and leopards.'
     caption: 'Illegal wildlife property, heads of cats. <a href="https://flic.kr/p/qFSVJ4">Photo</a> by Ryan Moehring, USFWS.'
-updated: 'June 13th, 2017'
+updated: 'February 6th, 2020'
 ---
 
 The U.S. Fish and Wildlife Service reduces threats to plants and animals through the enforcement of federal wildlife laws such as the [Bald and Golden Eagle Protection Act](http://www.fws.gov/midwest/MidwestBird/EaglePermits/bagepa.html), the [Marine Mammal Protection Act](http://www.fws.gov/international/laws-treaties-agreements/us-conservation-laws/marine-mammal-protection-act.html) and the [Endangered Species Act](/endangered-species-act/) both on America’s public lands and around the world. We also investigate wildlife crimes.
@@ -44,6 +44,10 @@ When reporting try to provide as much information as possible, such as:
 - **When** did it happen? Date and time are very important.
 
 Do not attempt to stop a crime yourself. Be safe and be a good witness. You can call anonymously — or work with officers as a confidential informant — but the sooner you contact us, the faster we can respond, gather evidence and catch the criminals.
+
+## Reward program
+
+The U.S. Fish and Wildlife Service is authorized to pay rewards for information or assistance that leads to an arrest, a criminal conviction, civil penalty assessment, or forfeiture of seized property.  Payment of rewards is the discretion of the Service and is linked to specific federal wildlife laws.  The amount of any reward we may pay is commensurate with the information or assistance received.  Please discuss the possibility of receiving a reward with the Service personnel receiving your information or assistance.
 
 ## Importing and exporting wildlife
 
