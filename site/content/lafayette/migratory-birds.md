@@ -11,7 +11,7 @@ tags:
     - Louisiana
     - 'Migratory Bird Treaty Act'
     - 'Migratory Birds'
-updated: 'September 20th, 2017'
+updated: 'January 27th, 2020'
 ---
 
 The Migratory Bird Treaty Act was passed in 1918.  That Act prohibits the taking, killing, possession, transportation, and importation of migratory birds, their eggs, parts, and nests; except when specifically authorized by the U.S. Department of the Interior.   While the Act has no provision for allowing unauthorized take, the Service realizes that some birds may be harmed or killed as a result of project implementation even when reasonable measures to protect birds are implemented.  The Service’s Office of Law Enforcement (LE) carries out its mission to protect migratory birds through investigations and enforcement, as well as by fostering relationships with individuals, companies, and industries that have taken effective steps to minimize their impacts on migratory birds, and by encouraging others to enact such programs.  As such, LE focuses its resources on investigating and prosecuting individuals and entities that take migratory birds without regard for their actions or without effort to implement Service recommendations or conservation measures.
@@ -41,9 +41,12 @@ Under the authorities of the Migratory Bird Treaty Act and the [Bald and Golden 
 - [North American Breeding Bird Survey](http://www.pwrc.usgs.gov/BBS/)
 - [National Wildlife Health Center bird die-offs](http://www.nwhc.usgs.gov/)
 
-## Reducing bird collisions
+## Bird conservation
 
 - [Reducing bird collisions with buildings and building glass best practices](/pdf/guidelines/reducing-bird-collisions-with-buildings-and-building-glass-best-practices.pdf)
+- [Guidance for time of year restrictions on colonial water birds and wading birds](/pdf/guidelines/colonial-water-birds-and-wading-birds-louisiana.pdf)
+- [Communication tower recommendations](/pdf/guidelines/communication-tower-recommendations-louisiana.pdf)
+- [Conservation measures for operation of flare stacks](/pdf/guidelines/conservation-measures-for-operation-of-flare-stacks.pdf)
 
 
 ## Contact
