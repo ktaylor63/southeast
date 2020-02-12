@@ -1,17 +1,17 @@
 ---
-title: 'Our Regional Leadership'
-description: 'Meet the people leading conservation in the Southeast Region of the U.S. Fish and Wildlife Service.'
+title: "Our Regional Leadership"
+description: "Meet the people leading conservation in the Southeast Region of the U.S. Fish and Wildlife Service."
 nav: Leadership
 weight: 2
 tags:
-    - About
-    - Leadership
+  - About
+  - Leadership
 hero:
-    name: leo-miranda-at-bon-secour-nwr.jpg
-    alt: 'Three men and a woman standing on an observation deck overlooking a pine forest on the edge of the Gulf'
-    caption: 'Regional Director Leo Miranda with Brittany Petersen, Jereme Phillips, and Steven Seibert at Bon Secour NWR. Photo by USFWS.'
-    position: '35% 45%'
-updated: 'May 31st, 2019'
+  name: leo-miranda-at-bon-secour-nwr.jpg
+  alt: "Three men and a woman standing on an observation deck overlooking a pine forest on the edge of the Gulf"
+  caption: "Regional Director Leo Miranda with Brittany Petersen, Jereme Phillips, and Steven Seibert at Bon Secour NWR. Photo by USFWS."
+  position: "35% 45%"
+updated: "February 12th, 2020"
 ---
 
 Nationally, the U.S. Fish and Wildlife Service is led by a Director, a team of Assistant Directors and eight Regional Directors. (See our [headquarters organizational chart.](http://www.fws.gov/offices/orgcht.html))
@@ -50,7 +50,7 @@ Allan has been married for 34 years with 3 adult children all of whom have marri
 
 ## Dr. Bill Uihlein
 
-### Assistant Regional Director, Science Applications
+### Assistant Regional Director, Science Applications and Migratory Birds
 
 {{< figure class="photo-right" src="/images/pages/bill-uihlein-bio.jpg" alt="A family posing for a photo in front of mountains." >}}
 
@@ -78,57 +78,17 @@ David’s favorite quote is by Thomas Jefferson: “In matters of style, swim wi
 
 {{< figure class="photo-right" src="/images/pages/catherine-phillips-bio.jpg" alt="A woman in a USFWS shirt holding a small turtle" >}}
 
-Catherine serves as the Assistant Regional Director for Ecological Services in the U.S. Fish and Wildlife Service’s Southeast Region.  She  has been with the Service since 1998 and got her start through the Career Awareness Institute at Mescalero National Fish Hatchery in New Mexico before working at Uvalde National Fish Hatchery and San Marcos Fish Technology Center in Region 2, and as Deputy Project Leader and Project Leader at the Panama City Field Office in Region 4.  Catherine especially enjoys working across Service programs and with a variety of partners in non-traditional ways and is an advocate of finding solutions to achieve mutual mission success.
+Catherine serves as the Assistant Regional Director for Ecological Services in the U.S. Fish and Wildlife Service’s Southeast Region. She has been with the Service since 1998 and got her start through the Career Awareness Institute at Mescalero National Fish Hatchery in New Mexico before working at Uvalde National Fish Hatchery and San Marcos Fish Technology Center in Region 2, and as Deputy Project Leader and Project Leader at the Panama City Field Office in Region 4. Catherine especially enjoys working across Service programs and with a variety of partners in non-traditional ways and is an advocate of finding solutions to achieve mutual mission success.
 
-Catherine grew up in a large family in San Antonio, Texas, and did not realize that careers in conservation existed prior to her first internship with the Service, but quickly fell in love with the field and the mission.  She is an advocate of continual learning and mentoring and working with diverse groups from all backgrounds to achieve innovative conservation success.  Catherine is a proud mom of a son in high school, daughter in elementary, and a son on the way in September.  She loves spending time with her family and can often be found gardening, in the water paddleboarding or snorkeling, and watching and attending college football games in the Fall.
+Catherine grew up in a large family in San Antonio, Texas, and did not realize that careers in conservation existed prior to her first internship with the Service, but quickly fell in love with the field and the mission. She is an advocate of continual learning and mentoring and working with diverse groups from all backgrounds to achieve innovative conservation success. Catherine is a proud mom of a son in high school, daughter in elementary, and a son on the way in September. She loves spending time with her family and can often be found gardening, in the water paddleboarding or snorkeling, and watching and attending college football games in the Fall.
 
-## Jackie Parrish
+## Mara Lopez
 
-### Assistant Regional Director, Budget and Administration
+### Business Manager
 
-{{< figure class="photo-right" src="/images/pages/jackie-parrish-bio.jpg" alt="A woman and her two children in front of a forrested mountain." >}}
+## Neil Gardner
 
-Jackie Parrish has served since 2003 as the Assistant Regional Director for Budget and Administration for the U.S. Fish and Wildlife Service, Southeast Region. Jackie provides support to other Regional leaders and their field stations in areas such as, budgeting and finance, contracting, safety, security, general services, human resources, information technology, and engineering.
-
-Jackie began her federal career with the U.S. Navy, serving in a number of field management positions, in areas such as construction, natural resources, health and safety, historic properties, military housing, and business functions, such as contracting, finance, and human resources. Jackie left the Navy in 1991 and joined the Navy’s civilian workforce in a similar capacity. In 1993 she was selected for an executive development program that sent her to EPA’s headquarters as the Base Closure Coordinator, followed by a position with DoD working on environmental cleanup of closing bases. In 1995, she went to Office of Management and Budget, where she worked on issues, such as the cleanup of the nuclear weapons complex and military construction. She left OMB in 1998 for a position with the Centers for Disease Control and Prevention in Atlanta as an Associate Director for Policy, Evaluation, and Legislation.
-
-Jackie spent her childhood in rural Maryland where her family was active in scouting, camping, fishing, and hunting. As a young teen her family moved to Florence, South Carolina, where Jackie first realized her passion to help others by volunteering her evenings and weekends tutoring disadvantaged, minority students to help them to pursue their academic and career goals. After high school, she attended the U.S. Naval Academy in Annapolis, Maryland, graduating in 1985 with a B.S. in Chemistry.
-
-Jackie and her children live in Suwanee, Georgia where they are active in their Church and Georgia Christian Dance Theater. She enjoys running and hiking with her children.
-
-## Dr. Kevin Reynolds
-
-### Assistant Regional Director for Gulf Restoration
-
-{{< figure class="photo-right" src="/images/pages/kevin-reynolds-bio.jpg" alt="A man wearing a ball cap." >}}
-
-Kevin Reynolds leads the Fish and Wildlife Service’s Gulf restoration efforts resulting from the _Deepwater Horizon_ oil spill in 2010. He provides leadership, direction, and coordination across Service Programs and Department bureaus for all planning, implementation and evaluation of restoration efforts funded primarily by criminal and civil settlements with BP and other responsible parties that followed the _Deepwater Horizon_ oil spill.
-
-Kevin earned a B.A. in Neuroscience from Hamilton College, and a Masters and Ph.D. in Environmental Toxicology from Clemson and Texas Tech University, respectively. His first job with the Service was in the Arizona Ecological Services Field Office, and he also worked in Headquarters prior to joining the Southeast Region in 2011. He and his wife Leah live in Johns Creek, Georgia with their three children, Kelly, Nick and Caitlin.
-
-## Laurel Barnhill
-
-### Chief, Migratory Bird Program
-
-{{< figure class="photo-right" src="/images/pages/laurel-barnhill.jpg" alt="Portrait shot of a woman with a brown pet dog." >}}
-
-Laurel Barnhill serves as the Chief of the Migratory Bird Program for the U.S. Fish and Wildlife Service-Southeast Region. She joined the Service in 2011 as Southeast Region National Wildlife Refuge System Inventory and Monitoring Coordinator. Laurel’s prior positions were as the Bird Conservation Coordinator for South Carolina Department of Natural Resources, Wildlife Biologist for the USDA Forest Service – Savannah River, and Passerine Bird Coordinator for Arkansas Game and Fish Commission.
-
-Laurel earned a M.S. in Zoology from the University of Arkansas and a B.S. in Wildlife and Fisheries Biology from the University of Vermont.
-
-## Luis Santiago
-
-### Special Agent in Charge, Office of Law Enforcement
-
-{{< figure class="photo-right" src="/images/pages/luis-santiago-bio.jpg" alt="Portrait of a man in a boat" >}}
-
-Luis has served in various position during his 30-plus years of service with the Office of Law Enforcement including: Wildlife Inspector 1986-1995; Special Agent 1995-2001; Senior Special Agent (Headquarters Office) 2001-2004; Resident Agent in Charge (first-line supervisor) 2004-2007; and Assistant Special Agent in Charge (regional management) 2007-20011.
-
-As the Special Agent in Charge (SAC) for the Southeast Region, Luis has line management authority and exercises responsibility over the region’s law enforcement program. Regional activities in enforcing the fish and wildlife laws, involves: investigation, surveillance, conducting raids, interviewing witnesses, interrogating suspects, seizures of contraband, equipment and vehicles, securing and serving search warrants, making arrests, developing evidence for orderly presentation to the United States Attorney and other legal officers, testifying in court, preparing written reports, and conducting undercover operations.
-
-Regional activities enforcing wildlife laws are conducted through a force of Special Agents handling criminal and civil investigations, and a force of Wildlife Inspectors who implement the wildlife inspection program, which interdicts illegal wildlife traffic while facilitating the legal wildlife trade.
-
-Luis is a graduate of Advanced Leadership Development Program cohort VI. He also completed the 2008 Strategic Management of Regulatory and Enforcement Agencies program offered by the JFK School of Government, Executive Education Harvard University. He is an alumni of the Harvard University, JFK School of Government, Senior Executive Fellows, May 2011.
+### Acting Special Agent in Charge, Office of Law Enforcement
 
 ## Mike Piccirilli
 
@@ -136,7 +96,7 @@ Luis is a graduate of Advanced Leadership Development Program cohort VI. He also
 
 {{< figure class="photo-right" src="/images/pages/mike-piccirilli.jpg" alt="Fisherman in waders kneeling with a trout." caption="Mike Piccirilli with a Yellowstone River cutthroat trout." >}}
 
-As Chief of the Wildlife and Sport fish Restoration Program (WSFR) Mike administers a variety of [grant programs](/our-services/grants) in the Southeast Region in cooperation with our partner state agencies. With a cumulative total of approximately $305 million annually these grant funds are used to enhance the state’s ability to manage their fish and wildlife resources for the benefit of the public.
+As Chief of the Wildlife and Sport fish Restoration Program (WSFR) Mike administers a variety of [grant programs](/our-services/grants) in the Southeast Region in cooperation with our partner state agencies. With a cumulative total of approximately \$305 million annually these grant funds are used to enhance the state’s ability to manage their fish and wildlife resources for the benefit of the public.
 
 Mike began his career with the Fish and Wildlife Service in 1991 at Erie National Wildlife Refuge. In 1997 he accepted a position in WSFR as a Biologist. In 2002 he was selected as Wildlife Branch Supervisor and as Chief of WSFR in 2004. Prior to his FWS experience, Mike worked as a Biologist for the Bureau of Reclamation (BoR) in the North Platte, Wyoming Office. There he administered agriculture and grazing leases and lease agreements to state, county and other federal agencies on BoR lands. Before working for the BoR he worked for the Army Corps of Engineers as a Park Ranger in the Nashville District, performing lakeshore management activities that included permitting private and commercial moorage facilities.
 
