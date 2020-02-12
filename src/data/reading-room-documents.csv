@@ -1,4 +1,4 @@
-office,name,type,508 Compliant,url,year,programs,keywords,state
+﻿office,name,type,508 Compliant,url,year,programs,keywords,state
 ,Robust Redhorse: Candidate Conservation Agreement with Assurances,Agreement,,agreement/candidate-conservation-agreement-with-assurances/robust-redhorse.pdf,2002,,,
 ,Spring Pygmy Sunfish: Candidate Conservation Agreement with Assurances,Agreement,,agreement/candidate-conservation-agreement-with-assurances/spring-pygmy-sunfish.pdf,2012,,,
 ,Camp Selby Burrowing Crayfish: Candidate Conservation Agreement,Agreement,,agreement/candidate-conservation-agreement/camp-selby-burrowing-crayfish.pdf,2003,,,
@@ -409,7 +409,8 @@ Desecheo National Wildlife Refuge,,Comprehensive Conservation Plan,,https://cata
 Pond Creek National Wildlife Refuge,,Comprehensive Conservation Plan,,https://catalog.data.gov/dataset/pond-creek-national-wildlife-refuge-comprehensive-conservation-plan,1999,National Wildlife Refuge System,,
 Wapanocca National Wildlife Refuge,,Comprehensive Conservation Plan,,ccp/wapanocca.pdf,2015,National WIldlife Refuge System,,
 Cat Island National Wildlife Refuge,,Comprehensive Conservation Plan,,ccp/cat-island-national-wildlife-refuge.pdf,2015,National WIldlife Refuge System,,
-Sam D. Hamilton Noxubee National Wildlife Refuge,"Habitat Management Plan, Integrated Pest Management Plan and Visitor Services Plan for ",Comprehensive Conservation Plan,,ccp/noxubee-ccp-step-down-plan.pdf,2014,,,
+Sam D. Hamilton Noxubee National Wildlife Refuge,"Habitat Management Plan, Integrated Pest Management Plan and Visitor Services Plan for 
+",Comprehensive Conservation Plan,,ccp/noxubee-ccp-step-down-plan.pdf,2014,,,
 Tennessee National Wildlife Refuge,,Comprehensive Conservation Plan,,ccp/tennessee-national-wildlife-refuge.pdf,2010,National Wildlife Refuge System,,
 Theodore Roosevelt and Holt Collier National Wildlife Refuges,,Comprehensive Conservation Plan,,ccp/theodore-roosevelt-holt-collier-nwrs.pdf,2015,National Wildlife Refuge System,"Holt Collier National Wildlife Refuge, Theodore Roosevelt National Wildlife Refuge",
 Crystal River National Wildlife Refuge,"Development of Visitor Services Facilities, Infrastructure, and Habitat Improvements at Three Sisters Springs",Environmental Assessment,,environmental-assessment/crystal-river-nwr-uplands-draft.pdf,2017,,,
@@ -517,7 +518,8 @@ Okefenokee National Wildlife Refuge,,Fact Sheet,,fact-sheet/okefenokee-national-
 Overflow National Wildlife Refuge,,Fact Sheet,,fact-sheet/overflow-national-wildlife-refuge.pdf,,National Wildlife Refuge System,,
 Panther Swamp National Wildlife Refuge,,Fact Sheet,,fact-sheet/panther-swamp-national-wildlife-refuge.pdf,,National Wildlife Refuge System,,
 Passage Key National Wildlife Refuge,,Fact Sheet,,fact-sheet/passage-key-national-wildlife-refuge-history.pdf,,National Wildlife Refuge System,,
-Passage Key National Wildlife Refuge,"Passage Key and the AmericanWildlife Conservation Movement",Fact Sheet,,fact-sheet-passage-key-nwr-history/passage-key-national-wildlife-refuge.pdf,,National Wildlife Refuge System,,
+Passage Key National Wildlife Refuge,"Passage Key and the American
+Wildlife Conservation Movement",Fact Sheet,,fact-sheet-passage-key-nwr-history/passage-key-national-wildlife-refuge.pdf,,National Wildlife Refuge System,,
 Pea Island National Wildlife Refuge,,Fact Sheet,,fact-sheet/pea-island-national-wildlife-refuge.pdf,,National Wildlife Refuge System,,
 Pee Dee National Wildlife Refuge,,Fact Sheet,,fact-sheet/pee-dee-national-wildlife-refuge.pdf,,National Wildlife Refuge System,,
 Piedmont National Wildlife Refuge,,Fact Sheet,,fact-sheet/piedmont-national-wildlife-refuge.pdf,,National Wildlife Refuge System,,
@@ -568,7 +570,8 @@ Yazoo National Wildlife Refuge,,Fact Sheet,,fact-sheet/yazoo-national-wildlife-r
 ,Bald Eagle Natural History and Sensitivity to Human Activity Information,Fact Sheet,,fact-sheet/bald-eagle-natural-history-and-sensitivity-to-human-activity-information.pdf,,Migratory Birds,,
 ,Overview of At-Risk Species,Fact Sheet,,fact-sheet/at-risk-species-overview.pdf,,,,
 ,Conserving At-Risk Wildlife and Recovering Listed Species in the Eastern United States,Fact Sheet,,fact-sheet/at-risk-species-wildlife-wins.pdf,,,,
-,"Examples of Landowner Tools forAt-Risk Species Conservation",Fact Sheet,,fact-sheet/at-risk-conservation-landowner-tools.pdf,2017,"Ecological Services, Endangered Species",,
+,"Examples of Landowner Tools for
+At-Risk Species Conservation",Fact Sheet,,fact-sheet/at-risk-conservation-landowner-tools.pdf,2017,"Ecological Services, Endangered Species",,
 ,The Biologist in Training Program: National Fish Hatcheries are outdoor classrooms,Fact Sheet,,fact-sheet/biologist-in-training.pdf,2007,Fisheries and Aquatic Conservation,Greers Ferry National Fish Hatchery,
 ,Your Family and Nature: Getting Outside is Easy and Fun,Fact Sheet,,fact-sheet/your-family-and-nature.pdf,2007,,,
 ,Monito gecko,Fact Sheet,,fact-sheet/monito-gecko.pdf,,,,
@@ -577,7 +580,8 @@ Savannah,Louisiana Pinesnake Proposed as Threatened under the Endangered Species
 Louisiana Ecological Services Field Office,Louisiana black bear post-delisting consultation,Fact Sheet,,fact-sheet/louisiana-black-bear-post-delisting-consultation.pdf,2016,,,
 ,Species Status Assessment (SSA): An Integrated Framework for Conservation,Fact Sheet,,https://www.fws.gov/endangered/improving_ESA/pdf/SSA_Fact_Sheet-August_2016.pdf,2016,,,
 Louisiana Ecological Services Field Office,Partners for Fish and Wildlife progam in Louisiana,Fact Sheet,,fact-sheet/partners-for-fish-and-wildlife-program-louisiana.pdf,2015,,,
-,"Roles relating to funds from the Deepwater Horizon Oil Spill",Fact Sheet,,fact-sheet/roles-relating-to-funds-from-the-deepwater-horizon-oil-spill.pdf,2017,Gulf Restoration,Gulf Restoration Program,
+,"Roles relating to funds from
+ the Deepwater Horizon Oil Spill",Fact Sheet,,fact-sheet/roles-relating-to-funds-from-the-deepwater-horizon-oil-spill.pdf,2017,Gulf Restoration,Gulf Restoration Program,
 ,Vision for a Healthy Gulf of Mexico Watershed,Fact Sheet,,gulf-vision-document-overview.pdf,2013,Gulf Restoration,Gulf Restoration Program,
 ,Deepwater Horizon Related Links,Fact Sheet,,fact-sheet/deepwater-horizon-related-links.pdf,2016,Gulf Restoration,Gulf Restoration Program,
 ,The Service's involvement in gulf restoration,Fact Sheet,,fact-sheet/service-involvement-in-gulf-restoration.pdf,2017,Gulf Restoration,Gulf Restoration Program,
@@ -609,7 +613,9 @@ Pocosin Lakes National Wildlife Refuge,,Fire Management Plan,,https://catalog.da
 ,Pine snake,Fire Management Species Profile,,fire/pine-snake-fire-management.pdf,,,,
 ,Little bluestem,Fire Management Species Profile,,fire/little-bluestem-fire-management.pdf,,,,
 ,Wiregrass,Fire Management Species Profile,,fire/wiregrass-fire-management.pdf,,,,
-,"12-Month Warranted Finding and Proposal to Reclassify the West Indian manatee (Trichechus manatus) From Endangered to Threatened",Frequently Asked Questions,,frequently-asked-questions/manatee-warranted-finding-to-reclassify.pdf,2017,,,
+,"12-Month Warranted Finding and Proposal
+ to Reclassify the West Indian manatee (Trichechus manatus)
+ From Endangered to Threatened",Frequently Asked Questions,,frequently-asked-questions/manatee-warranted-finding-to-reclassify.pdf,2017,,,
 ,Red Wolf Non-Essential Population Management FAQ,Frequently Asked Questions,,frequently-asked-questions/red-wolf-non-essential-population-management-july-1-2015.pdf,2015,,,
 ,Red Wolf Recovery Program Evaluation by Wildlife Management Institute,Frequently Asked Questions,,frequently-asked-questions/red-wolf-wmi-evaluation.pdf,,,,
 Ernest F. Hollings Ace Basin National Wildlife Refuge,,General Brochure,,brochure/ace-basin-national-wildlife-refuge.pdf,,National Wildlife Refuge System,,
@@ -813,7 +819,10 @@ Dahomey National Wildlife Refuge,,Inventory and Monitoring Plan,,https://catalog
 Paint Rock River National Wildlife Refuge,Land Protection Plan and Final Environmental Assessment for the Establishment of Paint Rock River National Wildlife Refuge,Land Protection Plan,,land-protection-plan/paint-rock-national-wildlife-refuge.pdf,2015,,,
 Grand Bay National Wildlife Refuge,Land Protection Plan and Final Environmental Assessment for the Expansion of Grand Bay National Wildlife Refuge,Land Protection Plan,,land-protection-plan/grand-bay-national-wildlife-refuge.pdf,2012,,,
 Cache River National Wildlife Refuge,Land Protection Plan for the Expansion of Cache River National Wildlife Refuge,Land Protection Plan,,land-protection-plan/cache-river-national-wildlife-refuge.pdf,2012,,,
-Everglades Headwaters National Wildlife Refuge and Conservation Area,"Land Protection Plan for the Establishment of the Everglades Headwaters National Wildlife Refuge and Conservation Area",Land Protection Plan,,land-protection-plan/everglades-headwaters-national-wildlife-refuge.pdf,2012,,,
+Everglades Headwaters National Wildlife Refuge and Conservation Area,"Land Protection Plan for the Establishment of the 
+Everglades Headwaters National Wildlife Refuge 
+and Conservation Area
+",Land Protection Plan,,land-protection-plan/everglades-headwaters-national-wildlife-refuge.pdf,2012,,,
 Ernest F. Hollings Ace Basin National Wildlife Refuge,The Grove Plantation Map,Map,,map/ace-basin-national-wildlife-refuge.pdf,,National Wildlife Refuge System,,
 Alligator River National Wildlife Refuge,,Map,,map/alligator-river-national-wildlife-refuge.pdf,,National Wildlife Refuge System,,
 Bayou Cocodrie National Wildlife Refuge,Bayou Cocodrie Designated Trails,Map,,map/bayou-cocodrie-national-wildlife-refuge-trails.pdf,,National Wildlife Refuge System,,
@@ -873,7 +882,12 @@ Mattamuskeet National Wildlife Refuge,Collaborative Conservation of Fish and Wil
 ,U.S. Fish and Wildlife Service Clearance to Proceed with Federally-Insured Loan and Grant Project Requests,Memo,,memo/clearance-to-proceed-with-federally-insured-loan-grant-projects.pdf,2016,Ecological Services,Panama City,
 ,Clearance to proceed with the construction of communication towers and related activities,Memo,,memo/clearance-to-proceed-with-the-construction-of-communication-towers-and-related-activities.pdf,2014,Ecological Services,Panama City,
 ,Interagency Memorandum of Agreement Regarding Oil Spill Planning and Response Activities Under the Federal Water Pollution Control Act's National Oil and Hazardous Substances Pollution Contingency Plan and the Endangered Species Act ,Memo,,memo/oil-spill-contingency.pdf,,Ecological Services,,
-,"Memorandum of understanding on the co-management of certain programs between the North Carolina Wildlife Resources Commission and U.S. Fish and Wildlife Service on Mattamuskeet National Wildlife Refuge ",Memo,,memo/signed-mou-ncwrc-usfws-lake-mattamuskeet-national-wildlife-refuge.pdf,2016,,,
+,"Memorandum of understanding on the co-management of certain programs 
+between the 
+North Carolina Wildlife Resources Commission 
+and 
+U.S. Fish and Wildlife Service 
+on Mattamuskeet National Wildlife Refuge ",Memo,,memo/signed-mou-ncwrc-usfws-lake-mattamuskeet-national-wildlife-refuge.pdf,2016,,,
 ,Gopher Tortoise Survey Handbook,Methodology,,methodology/gopher-tortoise-survey-handbook.pdf,2009,,,
 ,Freshwater mussel survey protocol for the Southeastern Atlantic Slope and Northeastern Gulf drainages in Florida and Georgia,Methodology,,methodology/freshwater-mussel-survey-protocol-for-the-southeastern-atlantic-slope-and-northeastern-gulf-drainages-in-florida-and-georgia.pdf,2008,Ecological Services,Panama City,
 ,"Materials list and assembly instructions for the Humminbird® 1197c SI Combo and the Humminbird® 1198c SI Combo control head, transducer, and external Garmin GPSMap 76 series",Methodology,,methodology/materials-list-and-assembly-instructions-for-side-scanning-sonar.pdf,,Ecological Services,Panama City,
@@ -944,7 +958,8 @@ Welaka National Fish Hatchery,Summer Newsletter,Newsletter,,newsletter/welaka-ne
 ,"Petition to List 404 Aquatic, Riparian and Wetland Species",Petition,,petition/404-aquatic.pdf,2010,,,
 ,Petition to List the Black-capped Petrel (Pterodroma hasitata),Petition,,petition/black-capped-petrel.pdf,2011,,,
 ,Petition to list the Blue Calamintha Bee (Osmia calaminthae),Petition,,petition/blue-calamintha-bee.pdf,2015,,,
-,"Petition to List the Caribbean Mayten (Maytenus cymosa)",Petition,,petition/caribbean-mayten.pdf,2011,,,
+,"Petition to List the 
+Caribbean Mayten (Maytenus cymosa)",Petition,,petition/caribbean-mayten.pdf,2011,,,
 ,Petition to List the Eastern Diamondback Rattlesnake (Crotalus adamanteus),Petition,,petition/eastern-diamondback-rattlesnake.pdf,2011,,,
 ,Petition to Emergency List the Coquí Llanero (Eleutherodactylus juanariveroi),Petition,,petition/coqui-llanero.pdf,2011,,,
 ,Petition to List the Monarch Butterfly (Danaus plexippus plexippus),Petition,,petition/monarch.pdf,2014,,,
@@ -1094,7 +1109,9 @@ Roanoke River National Wildlife Refuge,Recommendations on Utilizing the National
 ,7th Annual Gopher Tortoise CCA Report,Report,,report/7th-annual-gopher-tortoise-cca-report.pdf,2016,,,
 ,10th Annual Gopher Tortoise CCA Report,Report,,report/10th-annual-gopher-tortoise-cca-report.pdf,2019,"Endangered Species, Ecological Services",,
 ,Longleaf Pine Restoration Assessment: Conservation Outcomes and Performance Metrics,Report,,report/longleaf-pine-restoration-assessment-conservation-outcomes-and-performance-metrics.pdf,2012,,,
-,"Birding in the United States:A Demographic and Economic Analysis; Addendum to the 2011 National Survey of Fishing, Hunting, and Wildlife-Associated Recreation",Report,,report/birding-in-the-united-states-a-demographic-and-economic-analysis.pdf,2011,,,
+,"Birding in the United States:
+A Demographic and Economic Analysis
+; Addendum to the 2011 National Survey of Fishing, Hunting, and Wildlife-Associated Recreation",Report,,report/birding-in-the-united-states-a-demographic-and-economic-analysis.pdf,2011,,,
 ,"Red Wolf Recovery Team Recommendations Facilitated And Prepared By Group Solutions, Inc.",Report,,report/red-wolf-recovery-team-recommendations-facilitated-by-group-solutions-inc.pdf,2016,Red wolf recovery,Red wolf evaluation,
 ,Red Wolf (Canis rufus) Population Viability Analysis – Final Report for U.S. Fish and Wildlife Service Feasibility Study,Report,,report/red-wolf-population-viability-analysis-faust-et-al-2016.pdf,2016,Red wolf recovery,Red wolf evaluation,
 ,"Executive Summary: Workshop on Interactions of Human-Caused Mortality, Genetic Introgression, and Management among Wild Red Wolves: Developing Scientific Consensus",Report,,report/workshop-on-interactions-of-human-caused-mortality-genetic-introgression-and-management-among-wild-red-wolves.pdf,2016,Red wolf recovery,Red wolf evaluation,
@@ -1130,10 +1147,14 @@ St. Vincent National Wildlife Refuge,"Fish, Amphibian, Reptile and Mammal List",
 Ten Thousand Islands National Wildlife Refuge,Amphibian and Reptile List,Species List,,species-list/ten-thousand-islands-national-wildlife-refuge.pdf,,National Wildlife Refuge System,,
 Tennessee National Wildlife Refuge,"Amphibians, Fish, Mammals and Reptiles List",Species List,,species-list/tennessee-national-wildlife-refuge.pdf,,National Wildlife Refuge System,,
 ,Saving and Endangered Southern River,Story,,story/saving-and-endangered-southern-river.pdf,2017,,,
-,"Protecting Military Readiness and the Iconic Gopher Tortoise at the Same Time; Credit Strategy Looks to Add More Outdoor Recreation Opportunities",Story,,story/protecting-military-readiness-and-the-iconic-gopher-tortoises-at-the-same-time.pdf,2017,,,
+,"Protecting Military Readiness and the Iconic Gopher Tortoise at the Same Time; 
+Credit Strategy Looks to Add More Outdoor Recreation Opportunities",Story,,story/protecting-military-readiness-and-the-iconic-gopher-tortoises-at-the-same-time.pdf,2017,,,
 ,Range-Wide Conservation Strategy for the Gopher Tortoise,Strategy,,strategy/gopher-tortoise-conservation-strategy-v2.pdf,2017,,,
 ,Louisiana Ecological Services Five Year Strategic Work Plan (2014-2019),Strategy,,strategic-plan/louisiana-es-strategic-work-plan-2015-2019.pdf,2017,,,
-,"Department of Defense Gopher Tortoise (Gopherus polyphemus) Conservation and Crediting Strategy",Strategy,,strategy/department-of-defense-gopher-torotise-credit-strategy.pdf,2017,,,
+,"Department of Defense 
+Gopher Tortoise 
+(Gopherus polyphemus) 
+Conservation and Crediting Strategy",Strategy,,strategy/department-of-defense-gopher-torotise-credit-strategy.pdf,2017,,,
 Pee Dee National Wildlife Refuge,,Tearsheet,TRUE,tearsheet/pee-dee-national-wildlife-refuge.pdf,2019,,,North Carolina
 ,North Carolina's red wolves,Tearsheet,TRUE,tearsheet/north-carolinas-red-wolves.pdf,2019,"Ecological Services, National Wildlife Refuge System","Alligator River, Pocosin Lakes",North Carolina
 ,Black Bear Tearsheet,Tearsheet,,tearsheet/black-bear.pdf,,National Wildlife Refuge System,"Alligator River, Pocosin Lakes, Mattamuskeet",
@@ -1403,7 +1424,11 @@ Raleigh Ecological Service Field Office,,Organizational Chart,,org-chart/raleigh
 ,Southeast Region Fire Division Report,Report,,report/fire-report-2011.pdf,2011,Fire,"Prescribed Fire, Rx",
 ,Southeast Region Fire Division Report,Report,,report/fire-report-2010.pdf,2010,Fire,"Prescribed Fire, Rx",
 ,Threatened and endangered species in the Caribbean,Map,,map/map-of-listed-species-in-the-caribbean.pdf,2017,Endangered Species,"Puerto Rico, U.S. Virgin Islands",
-,"Wings: News from the Coastal North Carolina NationalWildlife Refuges Complex",Newsletter,,newsletter/wings-january-2018.pdf,2018,National Wildlife Refuge System,"Alligator River, Pea Island, Pocosin Lakes, Roanoke River, Mackay Island, Currituck",
+,"Wings: News from the Coastal
+ North Carolina National
+Wildlife Refuges Complex",Newsletter,,newsletter/wings-january-2018.pdf,2018,National Wildlife Refuge System,"Alligator River, Pea Island, Pocosin Lakes, 
+Roanoke River, Mackay Island, Currituck
+",
 ,Slenderclaw crayfish,Peer Review Plan,,peer-review/slenderclaw-crayfish-2018.pdf,2018,Ecological Services,,
 ,MacGillivray's seaside sparrow,Peer Review Plan,,peer-review/macgillivrays-seaside-sparrow-2018.pdf,2018,Ecological Services,,
 ,Eastern black rail,Peer Review Plan,,peer-review/eastern-black-rail-2018.pdf,2018,Ecological Services,,
@@ -1600,8 +1625,10 @@ Mammoth Spring National Fish Hatchery,,General Brochure,,brochure/mammoth-spring
 ,Listed species in the Caribbean,Map,,map/caribbean-listed-species-2017.pdf,2017,Endangered Species,Caribbean Ecological Services Field Office,"Puerto Rico, US Virgin Islands"
 Caribbean Ecological Services Field Office,Oficina de Servicios Ecológicos del Caribe,Fact Sheet,,fact-sheet/caribbean-ecological-services-field-office.pdf,2018,,Caribbean Ecological Services Field Office,"Puerto Rico, US Virgin Islands"
 Caribbean Ecological Services Field Office,,Fact Sheet,,fact-sheet/caribbean-ecological-services-field-office-english.pdf,2018,,Caribbean Ecological Services Field Office,"Puerto Rico, US Virgin Islands"
-,"Guajón Coquí or Puerto Rican rock or cave frog or Puerto Rican demon",Fact Sheet,,fact-sheet/coqui-guajon-english.pdf,2018,Endangered Species,Caribbean Ecological Services Field Office,Puerto Rico
-,"Guajón Coquí o Rana de rocas o cuevas de Puerto Ricoo Demonio puertorriqueño",Fact Sheet,,fact-sheet/coqui-guajon-spanish.pdf,2018,Endangered Species,Caribbean Ecological Services Field Office,Puerto Rico
+,"Guajón Coquí or Puerto Rican rock or cave frog
+ or Puerto Rican demon",Fact Sheet,,fact-sheet/coqui-guajon-english.pdf,2018,Endangered Species,Caribbean Ecological Services Field Office,Puerto Rico
+,"Guajón Coquí o Rana de rocas o cuevas de Puerto Rico
+o Demonio puertorriqueño",Fact Sheet,,fact-sheet/coqui-guajon-spanish.pdf,2018,Endangered Species,Caribbean Ecological Services Field Office,Puerto Rico
 ,Coquí dorado (spanish),Fact Sheet,,fact-sheet/coqui-dorado-spanish.pdf,2018,Endangered Species,Caribbean Ecological Services Field Office,Puerto Rico
 ,Coquí dorado (english),Fact Sheet,,fact-sheet/coqui-dorado-english.pdf,2018,Endangered Species,Caribbean Ecological Services Field Office,Puerto Rico
 ,Coquí llerano (english),Fact Sheet,,fact-sheet/coqui-llanero-english.pdf,2018,Endangered Species,Caribbean Ecological Services Field Office,Puerto Rico
@@ -1652,7 +1679,8 @@ Caribbean Ecological Services Field Office,,Fact Sheet,,fact-sheet/caribbean-eco
 ,Guabairo de Puerto Rico (spanish),Fact Sheet,TRUE,fact-sheet/puerto-rican-nightjar-spanish.pdf,2018,Endangered Species,Caribbean Ecological Services Field Office,Puerto Rico
 ,Diablito de tres cuernos (buxus vahlii),Fact Sheet,TRUE,fact-sheet/buxus-vahlii-spanish.pdf,,Endangered Species,Caribbean Ecological Services Field Office,Puerto Rico
 ,Capa rosa (Callicarpa ampla),Fact Sheet,TRUE,fact-sheet/callicarpa-ampla-spanish.pdf,,Endangered Species,Caribbean Ecological Services Field Office,Puerto Rico
-,"Chamaecrista glandulosavar. mirabilis",Fact Sheet,TRUE,fact-sheet/chamaecrista-glandulosa-var-mirabilis-spanish.pdf,,Endangered Species,Caribbean Ecological Services Field Office,Puerto Rico
+,"Chamaecrista glandulosa
+var. mirabilis",Fact Sheet,TRUE,fact-sheet/chamaecrista-glandulosa-var-mirabilis-spanish.pdf,,Endangered Species,Caribbean Ecological Services Field Office,Puerto Rico
 ,Palo de nigua (cornutia obovata),Fact Sheet,TRUE,fact-sheet/cornutia-obovata-spanish.pdf,,Endangered Species,Caribbean Ecological Services Field Office,Puerto Rico
 ,Higuera de sierra (Crescentia portoricensis),Fact Sheet,TRUE,fact-sheet/crescentia-porioricensis-spanish.pdf,,Endangered Species,Caribbean Ecological Services Field Office,Puerto Rico
 ,Cordia bellonis,Fact Sheet,TRUE,fact-sheet/cordia-bellonis-spanish.pdf,,Endangered Species,Caribbean Ecological Services Field Office,Puerto Rico
@@ -1751,7 +1779,10 @@ Caribbean Ecological Services Field Office,,Fact Sheet,,fact-sheet/caribbean-eco
 ,"Vieques, Puerto Rico - Environmental Sensitivity Index",Map,,map/environmental-sensitivity-index/vieques.pdf,,Endangered Species,"Caribbean Ecological Services Field Office, Shoreline habitats, benthic marine habitats, human-use features, sensitive biological resources","Puerto Rico, US Virgin Islands"
 ,Draft Endangered Species Act Section 4(d) Rule for the Louisiana pinesnake (Pituophis ruthveni),Environmental Assessment,,environmental-assessment/draft-louisiana-pinesnake-4d.pdf,,Endangered Species,Louisiana Ecological Services Field Office,Louisiana
 ,Stream visual assessment manual,Manual,TRUE,manual/stream-visual-assessment-manual.pdf,2018,"Fish and Aquatic Conservation, Ecological Services, Endangered Species",,"Georgia, South Carolina, North Carolina, Louisiana, Kentucky, Mississippi, Alabama, Arkansas, Tennessee, Florida, Puerto Rico, US Virgin Islands"
-,"Lophozonia tree cavities used for nestingby Slender‑billed Parakeets (Enicognathusleptorhynchus) in the central valley of southernChile: a potentially vanishing keystone resource",Publication,,https://avianres.biomedcentral.com/articles/10.1186/s40657-017-0061-x,2017,Endangered Species,"Puerto Rican Parrot, Caribbean Ecological Services Field Office",Puerto Rico
+,"Lophozonia tree cavities used for nesting
+by Slender‑billed Parakeets (Enicognathus
+leptorhynchus) in the central valley of southern
+Chile: a potentially vanishing keystone resource",Publication,,https://avianres.biomedcentral.com/articles/10.1186/s40657-017-0061-x,2017,Endangered Species,"Puerto Rican Parrot, Caribbean Ecological Services Field Office",Puerto Rico
 ,Improving reintroduction planning and implementation through quantitative SWOT analysis,Publication,,https://www.researchgate.net/publication/283337315_Improving_reintroduction_planning_and_implementation_through_quantitative_SWOT_analysis,2015,Endangered Species,"Puerto Rican Parrot, Caribbean Ecological Services Field Office",Puerto Rico
 ,Monitoring invasive mammalian predator populations sharing habitat with the Critically Endangered Puerto Rican parrot Amazona vittata,Publication,,publication/monitoring-invasive-mammalian-predator-populations-sharing-habitat-with-the-critically-endangered-puerto-rican-parrot-amazona-vittata.pdf,2005,Endangered Species,"Puerto Rican Parrot, Caribbean Ecological Services Field Office",Puerto Rico
 Caribbean Ecological Services Field Office,Blanket clearance letter,Letter,,letter/caribbean-blanket-clearence-letter.pdf,,Endangered Species,"Puerto Rican Parrot, Caribbean Ecological Services Field Office","Puerto Rico, US Virgin Islands"
@@ -1764,7 +1795,8 @@ Caribbean Ecological Services Field Office,Blanket clearance letter,Letter,,lett
 ,The importance of the Southeast Region to waterfowl populations,Fact Sheet,TRUE,fact-sheet/importance-of-southeast-to-waterfowl.pdf,2018,"Migratory Birds, Refuges",Waterfowl library,
 ,The importance of providing sanctuary on National Wildlife Refuges in the Southeast Region,Fact Sheet,TRUE,fact-sheet/importance-of-providing-sanctuary-on-national-wildlife-refuges-in-the-southeast.pdf,2018,"Migratory Birds, Refuges",Waterfowl library,
 ,News from the Coastal North Carolina National Wildlife Refuges Complex,Newsletter,TRUE,newsletter/wings-october-2018.pdf,2018,Refuges,,North Carolina
-,"Checklist of information to include when initiatingconsultations",Checklist,TRUE,checklist/south-carolina-esfo-section-7-checklist.pdf,,Endangered Species,South Carolina Ecological Services Field Office,South Carolina
+,"Checklist of information to include when initiating
+consultations",Checklist,TRUE,checklist/south-carolina-esfo-section-7-checklist.pdf,,Endangered Species,South Carolina Ecological Services Field Office,South Carolina
 South Carolina Ecological Services Field Office,Partners Program Strategic Plan,Strategic Plan,,strategic-plan/partners-for-fish-and-wildlife-program-strategic-plan-2012-2016.pdf,2011,Partners for Fish and Wildlife,South Carolina Ecological Services Field Office,South Carolina
 South Carolina Ecological Services Field Office,Coastal Program Strategic Plan,Strategic Plan,TRUE,strategic-plan/south-carolina-coastal-program-strategic-plan.pdf,2017,Coastal Program,,South Carolina
 ,Reducing bird collisions with buildings and building glass best practices,Best Management Practice,TRUE,best-management-practices/reducing-bird-collisions-with-buildings-and-building-glass-best-practices.pdf,2016,,,South Carolina
@@ -1774,10 +1806,14 @@ South Carolina Ecological Services Field Office,Coastal Program Strategic Plan,S
 ,Workbook and key to the freshwater bivalves of South Carolina,Workbook,TRUE,workbook/south-carolina-freshwater-bivalves.pdf,2008,"Endangered Species, Fish and Aquatic Conservation","Environmental education, kids, South Carolina Ecological Services Field Office",South Carolina
 ,Red-cockaded woodpecker,Recovery Plan,,https://ecos.fws.gov/docs/recovery_plan/030320_2.pdf,2003,Endangered Species,,"South Carolina, North Carolina, Florida, Georgia"
 ,U.S. Fish and Wildlife Service clearance letter for potential or proposed solar power generation projects,Letter,TRUE,letter/south-carolina-solar-power-clearance.pdf,2019,Endangered Species,"Photovoltaic, Solar, Green, Renewable energy, South Carolina Ecological Services Field Office",South Carolina
-,"South Carolina marine debris emergency response guide: comprehensive guidance document",Guidelines,,guidelines/south-carolina-marine-debris-emergency-response-guide.pdf,2018,Endangered Species,"NOAA, National Oceanic and Atmospheric Administration",South Carolina
+,"South Carolina marine debris emergency response guide:
+ comprehensive guidance document",Guidelines,,guidelines/south-carolina-marine-debris-emergency-response-guide.pdf,2018,Endangered Species,"NOAA, National Oceanic and Atmospheric Administration",South Carolina
 ,U.S. Fish and Wildlife Service clearance to proceed with communication tower projects,Letter,TRUE,letter/south-carolina-communication-tower-clearance.pdf,2019,Endangered Species,South Carolina Ecological Services Field Office,South Carolina
 ,U.S. Fish and Wildlife Service clearance for species and habitat assessments,Letter,TRUE,letter/south-carolina-clearance-for-species-and-habitat-assessments.pdf,2019,Endangered Species,South Carolina Ecological Services Field Office,South Carolina
-,"U.S.Fish and Wildlife Service Clearance to Proceed with U.S. Department of Commerce, U.S.Department of Housing and Urban Development, and U.S. Department of Agriculture Projects",Letter,TRUE,letter/south-carolina-clearance-to-proceeed-with-us-dept-of-commerce-us-dept-of-housing-and-urban-development-and-us-dept-of-agriculture-projects.pdf,2019,Endangered Species,South Carolina Ecological Services Field Office,South Carolina
+,"U.S.
+Fish and Wildlife Service Clearance to Proceed with U.S. Department of Commerce,
+ U.S.
+Department of Housing and Urban Development, and U.S. Department of Agriculture Projects",Letter,TRUE,letter/south-carolina-clearance-to-proceeed-with-us-dept-of-commerce-us-dept-of-housing-and-urban-development-and-us-dept-of-agriculture-projects.pdf,2019,Endangered Species,South Carolina Ecological Services Field Office,South Carolina
 ,"South Carolina survey windows for threatened, endangered and at-risk animals",Guidelines,TRUE,guidelines/south-carolina-survey-windows-for-animals.pdf,,Endangered Species,"South Carolina Ecological Services Field Office, Survey",South Carolina
 ,Ecological communities of South Carolina,Fact Sheet,TRUE,fact-sheet/ecological-communities-of-south-carolina.pdf,,Ecological Services,South Carolina Ecological Services Field Office,South Carolina
 ,"South Carolina survey windows for threatened, endangered and at-risk plants",Guidelines,TRUE,guidelines/south-carolina-survey-windows-for-plants.pdf,,Endangered Species,"South Carolina Ecological Services Field Office, Survey",South Carolina
@@ -1789,7 +1825,8 @@ South Carolina Ecological Services Field Office,Coastal Program Strategic Plan,S
 ,Candidate Species: Section 4 of the Endangered Species Act,Fact Sheet,TRUE,fact-sheet/candidate-species-section-4-esa.pdf,,"Endangered Species, At-Risk Species",South Carolina Ecological Services Field Office,"North Carolina, South Carolina, Florida, Georgia, Tennessee, Kentucky, Arkansas, Mississippi, Alabama, Louisiana, Puerto Rico, US Virgin Islands"
 South Carolina Ecological Services Field Office,Office work plan,Strategic Plan,TRUE,strategic-plan/south-carolina-esfo-office-work-plan.pdf,2015,Ecological Services,,South Carolina
 ,The Coastal Program in South Carolina: Protecting and restoring coastal habitat,Fact Sheet,TRUE,fact-sheet/south-carolina-coastal-program.pdf,2017,Coastal Program,South Carolina Ecological Services Field Office,South Carolina
-,"Opportunities to Reduce Bird Collisions with Communications TowersWhile Reducing Tower Lighting Costs",Guidelines,TRUE,guidelines/reducing-bird-communication-tower-collisions.pdf,2015,,"Federal Communications Commission, FCC",
+,"Opportunities to Reduce Bird Collisions with Communications Towers
+While Reducing Tower Lighting Costs",Guidelines,TRUE,guidelines/reducing-bird-communication-tower-collisions.pdf,2015,,"Federal Communications Commission, FCC",
 ,Yellow pond-lily (Cape Fear spatterduck),Fact Sheet,TRUE,fact-sheet/yellow-pond-lily.pdf,2019,Endangered Species,South Carolina Ecological Services Field Office,"South Carolina, North Carolina, Virginia"
 ,Little brown bat,Fact Sheet,TRUE,fact-sheet/little-brown-bat.pdf,2019,Endangered Species,South Carolina Ecological Services Field Office,"South
 Carolina, Georgia, Alabama, Mississippi"
@@ -1892,7 +1929,8 @@ Green River National Wildlife Refuge,,Fact Sheet,,fact-sheet/green-river-nationa
 Louisiana Ecological Services Field Office,3rd annual Louisiana black bear post-delisting monitoring report,Report,,https://ecos.fws.gov/ServCat/DownloadFile/162421,2018,"Ecological Services, Endangered Species","Louisiana black bear, recovery, delisting","Louisiana, Mississippi"
 ,Recovery lead biologists for threatened and endangered species in the Southeast Region,Data,,data/recovery-leads.pdf,2019,"Ecological Services, Endangered Species",Recovery,
 ,Strategic action plan for waterfowl management in the Southeast Region,Strategic Plan,,plan/waterfowl-strategic-action-plan-and-cover-memo-2016.pdf,2016,Migratory BIrds,,
-,"Wings, April 2019: News from the Coastal North Carolina National Wildlife Refuges Complex",Newsletter,,newsletter/wings-april-2019.pdf,2019,National Wildlife Refuge System,"Alligator River, Pea Island, Pocosin Lakes,Roanoke River, Mackay Island, and Currituck",North Carolina
+,"Wings, April 2019: News from the Coastal North Carolina National Wildlife Refuges Complex",Newsletter,,newsletter/wings-april-2019.pdf,2019,National Wildlife Refuge System,"Alligator River, Pea Island, Pocosin Lakes,
+Roanoke River, Mackay Island, and Currituck",North Carolina
 ,Magnificent ramshorn conservation,Presentation,,presentations/magnificent-ramshorn.pdf,2019,Endangered Species,Cape Fear Basin,North Carolina
 ,South Carolina species list by county with survey windows,Fact Sheet,,fact-sheet/south-carolina-species-list-by-county.pdf,2019,"Endangered Species, At-risk species",South Carolina Ecological Services Field Office,South Carolina
 ,Coastal Barriers Resources Act (CBRA) consultations flow chart,Guidelines,,https://www.fws.gov/cbra/documents/CBRA_Consultation_Flowchart_2018_02_01.pdf,2018,Coastal Program,South Carolina Ecological Services Field Office,"South Carolina, Florida, North Carolina, Georgia, Alabama, Mississippi, Louisiana"
@@ -1917,7 +1955,8 @@ Tennessee Ecological Services Field Office,Optimal survey windows for plants,Fac
 Asheville Ecological Services Field Office,,Strategic Plan,,strategic-plan/asheville-ecological-services-field-office-2012-2017.pdf,2012-2017,Ecological Services,Asheville Ecological Services Field Office,North Carolina
 ,Partners for Fish and Wildlife in North Carolina,Fact Sheet,,fact-sheet/partners-for-fish-and-wildlife-program-in-north-carolina.pdf,,"Ecological Services, Partners for Fish and Wildlife Program",Asheville Ecological Services Field Office,North Carolina
 ,Reconnecting the Rivers of Puerto Rico,Fact Sheet,TRUE,fact-sheet/reconnecting-the-rivers-of-puerto-rico.pdf,2019,Fish and Aquatic Conservation,Caribbean Ecological Services Field Office,Puerto Rico
-,"Reconectando los Ríosde Puerto Rico",Fact Sheet,TRUE,fact-sheet/reconectando-los-rios-de-puerto-rico.pdf,2019,Fish and Aquatic Conservation,Caribbean Ecological Services Field Office,Puerto Rico
+,"Reconectando los Ríos
+de Puerto Rico",Fact Sheet,TRUE,fact-sheet/reconectando-los-rios-de-puerto-rico.pdf,2019,Fish and Aquatic Conservation,Caribbean Ecological Services Field Office,Puerto Rico
 ,Avoidance and minimization measures for piping plovers and red knots for shoreline activites in Louisiana,Best Management Practice,,best-management-practice/piping-plover-and-red-knots-for-shoreline-activities-in-louisiana.pdf,2019,"Endangered Species, Ecological Services",Louisiana Ecological Services Field Office,Louisiana
 ,Red-cockaded woodpecker survey report and habitat guidelines,Guidelines,,guidelines/red-cockaded-woodpecker-survey-report-and-habitat-guidelines.pdf,2019,"Endangered Species, Ecological Services",Louisiana Ecological Services Field Office,Louisiana
 ,Standard manatee conditions for in-water activities,Guidelines,,guidelines/standard-manatee-conditions.pdf,2019,"Endangered Species, Ecological Services",Louisiana Ecological Services Field Office,Louisiana
@@ -1958,3 +1997,23 @@ Asheville Ecological Services Field Office,,Strategic Plan,,strategic-plan/ashev
 Louisiana Ecological Services Field Office,Guidance for time of year restrictions on colonial water birds and wading birds,Guidelines,TRUE,guidelines/colonial-water-birds-and-wading-birds-louisiana.pdf,2020,Migratory Birds,Louisiana Ecological Services Field Office,Louisiana
 Louisiana Ecological Services Field Office,Communication tower recommendations,Guidelines,TRUE,guidelines/communication-tower-recommendations-louisiana.pdf,2020,Migratory Birds,Louisiana Ecological Services Field Office,Louisiana
 Louisiana Ecological Services Field Office,Conservation measures for operation of flare stacks,Guidelines,TRUE,guidelines/conservation-measures-for-operation-of-flare-stacks.pdf,2020,Migratory Birds,Louisiana Ecological Services Field Office,Louisiana
+,"Lake Barkley Bio-Acoustic Fish Fence",Frequently Asked Questions,TRUE,frequently-asked-questions/lake-barkley-bio-acoustic-fish-fence.pdf,2020,"Ecological Services, Fish and Aquatic Conservation",,Kentucky
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
