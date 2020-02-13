@@ -13,10 +13,11 @@ hero:
 tags:
     - 'At-Risk Species'
     - 'Endangered Species Act'
+    - 'Ocmulgee Skullcap'
     - Recovery
     - 'South Carolina'
     - 'Southern Hognose Snake'
-updated: 'April 29th, 2019'
+updated: 'February 12th, 2020'
 ---
 
 At-risk species are plants or animals that have either been proposed for listing under the Endangered Species Act (ESA); are candidates for listing; or are species that have been petitioned for listing. The category also includes species undergoing an agency discretionary review. By working with private landowners, states, tribes, other federal agencies and non-governmental organizations, the Service has been able to conserve dozens of at-risk species and preclude the need to list them under the ESA through proactive conservation efforts.
