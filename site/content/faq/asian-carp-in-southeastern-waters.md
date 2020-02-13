@@ -61,8 +61,9 @@ The BAFF project costs an estimated \$7 million, which comes from the Great Lake
 
 ## Photos and video
 
+- [Unified method for removing Asian carp (B-roll, Kentucky Afield)](https://fileshare.fws.gov/?linkid=KZi4zr6VWWWS6KhWXl9+mIIzJgxaiVhb8YDODS6ncAGbVD1ebUtwjg)
 - [BAFF system installation and demonstration at Barkley Dam](/data/BAFF-Barkley-event.zip)
-- [BAFF system B-roll courtesy of Kentucky Afield](https://fileshare.fws.gov/?linkid=KZi4zr6VWWXDOaOq0fT0lJF/ZlEhHYre8YDODS6ncAGbVD1e/QKTpw)
+- [BAFF system (B-roll, Kentucky Afield)](https://fileshare.fws.gov/?linkid=KZi4zr6VWWXDOaOq0fT0lJF/ZlEhHYre8YDODS6ncAGbVD1e/QKTpw)
 - [BAFF installation photos on Flickr courtesy of U.S. Army Corps of Engineers](https://www.flickr.com/photos/nashvillecorps/albums/72157710050493202)
 - Electrofishing B-roll courtesy of Kentucky Department of Fish and Wildlife Resources
   - [Video #1](https://fileshare.fws.gov/?linkid=KZi4zr6VWWUk+CBv/DQHkr9X+ERn/NH+8YDODS6ncAGbVD1ejEzMGA)
