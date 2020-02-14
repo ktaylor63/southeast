@@ -20,7 +20,7 @@ tags:
   - "Lake Barkley"
   - "Silver Carp"
   - Tennessee
-updated: "November 8th, 2019"
+updated: "February 12th, 2020"
 ---
 
 The spread of four species of large carp—bighead, black, grass, and silver— threatens the Southeast’s renowned aquatic biodiversity and local outdoor economies. The U.S. Fish and Wildlife Service and its federal and state partners are on the front line fighting Asian carp in southeastern waters.
@@ -59,6 +59,10 @@ The BAFF project costs an estimated \$7 million, which comes from the Great Lake
 
 {{< youtube id="Fg6ETSk100k" title="A Battle Worth Carping About (Part 2): Fighting Back" >}}
 
+## Modified-Unified Method
+
+Kentucky is on the front lines of the war on carp. The Kentucky Department of Fish and Wildlife Resources, in February 2020, deployed the so-called Modified-Unified Method of carp removal on Kentucky Lake with the assistance of the U.S. Fish and Wildlife Service (Service). A series of boats, nets, underwater speakers and electro-fishing gear corrals the carp that have been pushed into a cove or narrow body of water. This carp-corralling method has been tested in Missouri and Illinois and proved mostly successful, removing as much as 90 percent of the fish from the targeted waters. Congress appropriated \$25 million overall to the Service in fiscal 2020 for the Unified method and other carp-removal efforts around the country. The Service and the Kentucky wildlife agency are working with the U.S. Geological Survey, the U.S. Forest Service, the Tennessee Valley Authority and the states of Tennessee, Alabama and Mississippi on this latest carp-removal method.
+
 ## Photos and video
 
 - [Unified method for removing Asian carp (B-roll, Kentucky Afield)](https://fileshare.fws.gov/?linkid=KZi4zr6VWWWS6KhWXl9+mIIzJgxaiVhb8YDODS6ncAGbVD1ebUtwjg)
@@ -73,6 +77,7 @@ The BAFF project costs an estimated \$7 million, which comes from the Great Lake
 
 ## More information
 
+- [Combating the spread of Asian carp in Southeatern waters](/pdf/fact-sheet/combating-the-spread-of-asian-carp-in-southeastern-waters.pdf)
 - [AsianCarp.us](http://asiancarp.us/)
 - [FWS statement on Asian carp control before the House Committee on Oversight and Government Reform, July 27, 2018](https://www.fws.gov/laws/Testimony/docs/72718-Brown-HOGR-Asian-Carp-Field-Hearing.pdf)
 - [Asian carp in Kentucky](https://fw.ky.gov/Fish/Pages/Asian-Carp-Information.aspx)
