@@ -1,25 +1,25 @@
 ---
-title: 'Learning to love a hairy rattleweed'
-subtitle: 'Strangely named rare plant makes a recovery comeback in Georgia'
-author: 'Dan Chapman, public affairs specialist'
+title: "Learning to love a hairy rattleweed"
+subtitle: "Strangely named rare plant makes a recovery comeback in Georgia"
+author: "Dan Chapman, public affairs specialist"
 type: feature
 date: 2020-02-18T00:00:00.000Z
 hero:
-    name: hairy-rattleweed.jpg
-    alt: 'A low-growing shrub with leaves like sand dollars'
-    caption: 'April Punsalan, a Service botanist, examines a rare hairy rattleweed plant. Photo by Daniel Chapman, USFWS.'
+  name: hairy-rattleweed.jpg
+  alt: "A low-growing shrub with leaves like sand dollars"
+  caption: "A rare hairy rattleweed plant. Photo by Daniel Chapman, USFWS."
 tags:
-    - 'At-Risk Species'
-    - 'Eastern Indigo Snake'
-    - 'Endangered Species Act'
-    - Georgia
-    - 'Georgia Ecological Services Field Office'
-    - 'Gopher Tortoise'
-    - 'Hairy Rattleweed'
-    - 'Longleaf Pine'
-    - 'Prescribed Fire'
-    - Recovery
-updated: 'February 18th, 2020'
+  - "At-Risk Species"
+  - "Eastern Indigo Snake"
+  - "Endangered Species Act"
+  - Georgia
+  - "Georgia Ecological Services Field Office"
+  - "Gopher Tortoise"
+  - "Hairy Rattleweed"
+  - "Longleaf Pine"
+  - "Prescribed Fire"
+  - Recovery
+updated: "February 18th, 2020"
 ---
 
 **Brunswick, Georgia** &mdash; It sounds like the name of a punk rocker, or an illicit drug. It lurks under power lines, along roadsides and between rows of commercial pine trees. It’s covered in tiny, cobwebby hairs. It’s got a shape only a botanist could love.
@@ -36,17 +36,17 @@ Like many conservation efforts these days, the benefits of the so-called Hairy R
 
 ## “Awesome and amazing”
 
-Hairy rattleweeds are hard to find and, once found, hard to love. A member of the bean family, it stands two-to-three feet tall with a reddish-brown stem and thick, silvery-white hairs covering all but its rounded or heart-shaped leaves. They can look scraggly, pathetic even, except when blooming yellow in the summer.
+A hairy rattleweed is hard to find and, once found, hard to love. A member of the bean family, it stands two-to-three feet tall with a reddish-brown stem and thick, silvery-white hairs covering all but its rounded or heart-shaped leaves. It can look scraggly, pathetic even, except when blooming yellow in the summer.
 
 “Of course botanists think these plant species are awesome and amazing,” said botanist April Punsalan, who’s also the Service’s rattleweed recovery expert.
 
 {{< figure class="photo-right" src="/images/pages/hairy-rattleweed-longleaf.jpg" alt="A small hairy rattleweed plant growing at the base of a you longleaf pine tree" caption="A hairy rattleweed in the habitat it loves best – a longleaf pine stand. Photo by Dan Chapman, USFWS." >}}
 
-Rattleweeds are live in only a narrow, 125-mile long swath of sandy soils west of Interstate 95. Most are tucked into pine plantations or under powerlines in between swamps and marshes. They prefer longleaf pine ecosystems with plenty of open space and sunlight and frequent fires to rid the understory of woody competition. Longleaf forests, though, have mostly disappeared under the woodman’s ax and, consequently, so have the rattleweeds.
+Rattleweeds live in only a narrow, 125-mile long swath of sandy soils west of Interstate 95. Most are tucked into pine plantations or under powerlines in between swamps and marshes. They prefer longleaf pine ecosystems with plenty of open space and sunlight and frequent fires to rid the understory of woody competition. Longleaf forests, though, have mostly disappeared under the woodman’s ax and, consequently, so have the rattleweeds.
 
 “There has been a drastic reduction in population size and plant growth and reproduction since 1986,” reads a decade-old report by state biologists. “The species is apparently on the brink of extinction.”
 
-About 90 percent of rattleweeds live on private pine plantations. Timber companies’ preference for quick-growing loblolly pine, with its dense canopy and absence of fire, isn’t conducive to hairy rattleweed propagation. Botanists, in August 2019, tallied 28 populations of hairy rattleweeds in the two counties. Only two groups, though, were considered stable or increasing. The first, alongside a sandy road and beneath a power line, held 98 plants. Georgia Power has designated the right-of-way a “special management area” and curtails mowing and herbicide spraying, particularly during the rattleweed’s flowering and fruiting period from May to November. The second, the so-called Lewis Tract, an easement held by The Nature Conservancy in Brantley County, counts between 150 and 200 plants. The nonprofit, which received a \$500,000 species recovery grant from the Service in 2008, burns the property every couple of years. Punsalan says the prescribed fire, along with selective logging to let more sun hit the ground, fuels the steady growth of the tract’s rattleweed population.
+About 90 percent of rattleweeds live on private pine plantations. Timber companies’ preference for quick-growing loblolly pine, with its dense canopy and absence of fire, isn’t conducive to hairy rattleweed propagation. Botanists, in August 2019, tallied 28 populations of hairy rattleweeds in the two counties. Only two groups, though, were considered stable or increasing. The first, alongside a sandy road and beneath a power line, held 98 plants. Georgia Power has designated the right-of-way a “special management area” and curtails mowing and herbicide spraying, particularly during the rattleweed’s flowering and fruiting period from May to November. The second, the so-called Lewis Tract, an easement held by The Nature Conservancy in Brantley County, counts between 150 and 200 plants. The nonprofit, which received a $500,000 species recovery grant from the Service in 2008, burns the property every couple of years. Punsalan says the prescribed fire, along with selective logging to let more sun hit the ground, fuels the steady growth of the tract’s rattleweed population.
 
 ## “All we need is one more”
 
@@ -54,7 +54,7 @@ She and Lee were joined by Jacob Thompson, a coastal DNR botanist, and Maria Whi
 
 “That’s the hairy rattleweed there,” Thompson said, “that brown plant.”
 
-He pointed out another. And another. This was the famed Lowalt Tract owned until recently by Rayonier, the timber and real estate company. At least 3,000 rattleweeds dot the nearly 1,700-acre property, by far the greatest assemblage of the endangered plants in the world. Thompson and others credit Rayonier for planting longleaf and burning the understory the last decade to boost rattleweed and gopher tortoise habitat. OSI bought the tract from Rayonier and held onto it until Georgia, the Service and the Knobloch Family Foundation ponied up roughly \$3.5 million.
+He pointed out another. And another. This was the famed Lowalt Tract owned until recently by Rayonier, the timber and real estate company. At least 3,000 rattleweeds dot the nearly 1,700-acre property, by far the greatest assemblage of the endangered plants in the world. Thompson and others credit Rayonier for planting longleaf and burning the understory the last decade to boost rattleweed and gopher tortoise habitat. OSI bought the tract from Rayonier and held onto it until Georgia, the Service and the Knobloch Family Foundation ponied up roughly $3.5 million.
 
 Downlisting the rattleweed from endangered to threatened, according to the Service’s recovery plan, requires four self-sustaining populations, or sites, each with a minimum of 100 plants. (Delisting requires eight populations.) The Rayonier, Lewis and Georgia Power tracts just about meet the downlisting criteria. Punsalan says a conservation victory is close at hand.
 
