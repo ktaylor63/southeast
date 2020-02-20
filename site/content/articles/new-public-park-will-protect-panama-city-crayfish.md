@@ -1,25 +1,25 @@
 ---
-title: 'New public park will protect Panama City crayfish'
-author: 'Nanciann Regalado, Media and Public Outreach Coordinator, Gulf Restoration Office'
+title: "New public park will protect Panama City crayfish"
+author: "Nanciann Regalado, Media and Public Outreach Coordinator, Gulf Restoration Office"
 date: 2020-02-18T00:00:00.000Z
 hero:
-    name: lynn-have-site-living-shoreline.jpg
-    alt: 'A beach in a cove lined with green grass and tall pine trees'
-    caption: 'Shoreline at future Lynn Haven park site. Photo by USFWS.'
+  name: lynn-have-site-living-shoreline.jpg
+  alt: "A beach in a cove lined with green grass and tall pine trees"
+  caption: "Shoreline at future Lynn Haven park site. Photo by USFWS."
 tags:
-    - 'Deepwater Horizon'
-    - 'Environmental Education'
-    - Florida
-    - Gulf
-    - 'Panama City Crayfish'
-updated: 'February 18th, 2020'
+  - "Deepwater Horizon"
+  - "Environmental Education"
+  - Florida
+  - Gulf
+  - "Panama City Crayfish"
+updated: "February 18th, 2020"
 ---
 
 **Lynn Haven, Florida** &mdash; A new public park located along the shore of North Bay and McKitchen’s Bayou in Lynn Haven will not only provide public access to waterways and recreational facilities, but will also protect rapidly disappearing habitat for the Panama City crayfish, a species the U.S. Fish and Wildlife Service recently proposed for federal listing.
 
 The park will be bought and maintained using funds from the _Deepwater Horizon_ National Resource Damage Assessment settlement.
 
-According to a 2017 Fish Species Status Assessment, this tiny animal, measuring only about two inches in length, is known to inhabit only a small portion of Bay County, Florida. The crayfish’s historic range included bodies of shallow fresh water within open pine flatwoods and wet prairies. Over half of its native habitat, however, is now developed or replaced with slash pine plantations. So it’s not surprising that for many years, the crustacean was thought to be extinct. It was not until 2000 that the crayfish was found again on what remained of its natural habitat.
+According to a 2017 Species Status Assessment, this tiny animal, measuring only about two inches in length, is known to inhabit only a small portion of Bay County, Florida. The crayfish’s historic range included bodies of shallow fresh water within open pine flatwoods and wet prairies. Over half of its native habitat, however, is now developed or replaced with slash pine plantations. So it’s not surprising that for many years, the crustacean was thought to be extinct. It was not until 2000 that the crayfish was found again on what remained of its natural habitat.
 
 {{< figure class="photo-center" src="/images/pages/lynn-haven-rendering-aerial.jpg" alt="A computer rendering of the future park when completed shot from above. The park includes several parking lots and walking trails." caption="An aerial rendering of the future park. Rendering courtesy of Meghan Mick of Wood and Partners." >}}
 
