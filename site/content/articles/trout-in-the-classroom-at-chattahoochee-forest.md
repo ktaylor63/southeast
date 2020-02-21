@@ -8,7 +8,7 @@ hero:
   name: chattahoochee-forest-nfh-trout-in-the-classroom-kelly-taylor-with-students.jpg
   alt: "A Service employee stands in front of the classroom with three students"
   caption: "Project leader Kelly Taylor with Students. Photo by Mrs. Jacquie Tallman, teacher, Union County Middle School in Blairsville, GA."
-  position: 50% 35%
+  position: 50% 25%
 tags:
   - "Chattahoochee Forest National Fish Hatchery"
   - Georgia
