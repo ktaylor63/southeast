@@ -6,8 +6,8 @@ type: feature
 author: 'Mark Davis, public affairs specialist'
 hero:
     name: white-tailed-deer-tall-grass.jpg
-    alt: 'An eight-point buck''s head emerges from tall green grass'
-    caption: 'White-tailed Deer on Seedskadee National Wildlife Refuge. <a href="https://flic.kr/p/HxXLSL">Photo</a> by Tom Koerner, USFWS.'
+    alt: 'An eight-point bucks head emerges from tall green grass'
+    caption: 'White-tailed deer on Seedskadee National Wildlife Refuge. <a href="https://flic.kr/p/HxXLSL">Photo</a> by Tom Koerner, USFWS.'
     position: '60% 40%'
 tags:
     - Arkansas
