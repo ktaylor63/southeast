@@ -4,6 +4,11 @@ subtitle: 'Program stresses food, health benefits of hunting'
 date: 2020-02-24T00:00:00.000Z
 type: feature
 author: 'Mark Davis, public affairs specialist'
+hero:
+    name: white-tailed-deer-tall-grass.jpg
+    alt: 'An eight-point buck''s head emerges from tall green grass'
+    caption: 'White-tailed Deer on Seedskadee National Wildlife Refuge. <a href="https://flic.kr/p/HxXLSL">Photo</a> by Tom Koerner, USFWS.'
+    position: '60% 40%'
 tags:
     - Arkansas
     - 'Field to Fork'
@@ -15,11 +20,13 @@ tags:
 updated: 'February 24th, 2020'
 ---
 
-t was a fine day to sit in a tree &mdash; cool, the December sun casting shadows across the leafy floor below. Mark Carter didn’t move.
+It was a fine day to sit in a tree &mdash; cool, the December sun casting shadows across the leafy floor below. Mark Carter didn’t move.
 
 The minutes passed. They became an hour. Carter and the man who’d brought him into the woods traded an occasional murmur. The shadows grew longer. Night would soon come to Georgia.
 
 Then, just about 100 yards away: a flash of tan in the dwindling light &mdash; _Odocoileus virginianus_, a white-tail deer. She flicked a glance in Carter’s direction, then lowered her head to eat. Carter raised his rifle.
+
+{{< figure class="photo-right" src="/images/pages/field-to-fork-carter-with-deer.jpg" alt="A man in orange hunting vest and camo with a doe he shot in a grassy field" caption="Mark Carter had never hunted before enrolling in Field to Fork. The metro Atlanta resident took the course late last year. On his final day, he brought home his first deer. One reason for his interest: putting fresh, additives-free food on the table. Photo courtesy of Field to Fork." >}}
 
 A single shot echoed through the woods. The doe in his sights, startled, bounded away. She didn’t go far. When Carter stood over the deer, his mentor congratulated him on a clean shot &mdash; perfect, the way he’d been shown a day earlier.
 
@@ -28,6 +35,8 @@ A single shot echoed through the woods. The doe in his sights, startled, bounded
 Carter, who lives in metro Atlanta, is one of a growing group of new sportsmen (and women) introduced to hunting courtesy of Field to Fork. A national initiative, Field to Fork is offered by a variety of organizations, including the Georgia Wildlife Federation, Quality Deer Management Association and the National Wild Turkey Federation. Based on a program started in Kentucky, Field to Fork has its headquarters in Georgia and operates in seven additional states &mdash; Michigan, Missouri, New York, New Hampshire, Pennsylvania, Texas and Virginia.
 
 The program stresses the benefits of hunting &mdash; for exercise, to manage wildlife populations, to put additive-free food on the table. A bonus: knowing that the harvested animal lived a truly wild life &mdash; free of pen or paddock, uncaged and unfettered.
+
+{{< figure class="photo-right" src="/images/pages/field-to-fork-mark-carter.jpg" alt="A red-headed man with a beard" caption="Charles Swanson Evans, Georgia's R3 manager, is a lifelong hunter. He believes Field to Fork will help get new hunters into the field. Photo by Mark Davis, USFWS." >}}
 
 Carter and a handful of other novice hunters spent the bulk of a weekend late last year getting a hands-on introduction to hunting. He considers his time well spent &mdash; a reason, too, to pass along what he learned to his sons, ages 5, 8 and 10.
 
