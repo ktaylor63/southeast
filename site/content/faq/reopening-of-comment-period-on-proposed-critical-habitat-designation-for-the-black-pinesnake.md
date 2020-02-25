@@ -4,8 +4,7 @@ date: 2018-10-10T00:00:00.000Z
 hero:
     name: black-pinesnake.jpg
     alt: 'A jet black snake with opaque white belly coiled up in the grass.'
-    link: 'https://flic.kr/p/pgE9ru'
-    caption: 'Black pinesnake. Photo by Jim Lee, The Nature Conservancy.'
+    caption: 'Black pinesnake. <a href="https://flic.kr/p/pgE9ru">Photo</a> by Jim Lee, The Nature Conservancy.'
     position: '40% 25%'
 tags:
     - Alabama
@@ -15,7 +14,7 @@ tags:
     - 'Gopher Snake'
     - 'Longleaf Pine'
     - Mississippi
-updated: 'October 9th, 2018'
+updated: 'February 24th, 2020'
 ---
 
 ## What action is the U.S. Fish and Wildlife Service taking?
