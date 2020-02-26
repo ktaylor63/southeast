@@ -4,14 +4,13 @@ date: 2018-04-05T00:00:00.000Z
 hero:
     name: louisiana-pinesnake.jpg
     alt: 'A patterned black and gray snake blends in to the strewn, dark pine needles on the forest floor.'
-    caption: 'Louisiana pinesnake. Photo by Michael Sealy, USFWS.'
-    link: 'https://flic.kr/p/nuR7pW'
+    caption: 'Louisiana pinesnake. <a href="https://flic.kr/p/nuR7pW">Photo</a> by Michael Sealy, USFWS.'
 tags:
     - 'Endangered Species Act'
     - Louisiana
     - 'Louisiana Pinesnake'
     - Texas
-updated: 'September 19th, 2018'
+updated: 'February 26th, 2020'
 ---
 
 ## What action is the U.S. Fish and Wildlife Service (Service) taking?
