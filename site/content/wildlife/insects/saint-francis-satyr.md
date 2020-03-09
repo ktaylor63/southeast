@@ -18,8 +18,8 @@ tags:
     - Insect
     - 'Saint Francis’ Satyr'
     - 'South Florida Ecological Services Office'
-description: 'The Miami tiger beetle, found exclusively in pine rockland habitat in Miami-Dade County, Florida, has a shiny green exterior and protected under the Endangered Species Act as endangered.'
-updated: 'November 19th, 2019'
+description: 'Soon after its discovery in the 1980s, scientists believed that this small, dark brown butterfly had been collected to extinction, but it was rediscovered in 1992.'
+updated: 'March 6th, 2020'
 ---
 
 - **Taxon:** Butterfly, *Lepidoptera*
