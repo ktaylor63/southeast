@@ -1,4 +1,12 @@
 stories:
+  - title: "NFWF Announces $1.1 Million in Grants from Southeast Aquatics Fund"
+    summary: "Six projects will assist in restoring aquatic habitat and improving water quality in targeted watersheds in the Southeast"
+    date: 2020-02-27
+    hero:
+      name: lagniappe-crayfish.jpg
+      alt: 'A crayfish that resembles a lobster.'
+      caption: 'Lagniappe crayfish. Photo by Chris Lukhaup, U.S. Forest Service.'
+    url: "https://www.nfwf.org/media-center/press-releases/nfwf-announces-11-million-grants-southeast-aquatics-fund"
   - title: "Saving turtles together – New national partnership begins to protect America’s turtles, end illegal trafficking"
     summary: "Whether they’re hiding them in suitcases, stuffing them into socks or (poorly) disguising them as candy, wildlife traffickers have concocted many schemes to smuggle thousands of turtles out of the United States each year. This illegal trade is fueled by a rabid demand for these reptiles, mostly in Asia, where they are used as pets, food or in traditional medicine. In combination with habitat loss and degradation, illegal trade in turtles has led to the imperilment of more than 60 percent of the world’s 356 turtle species — the highest percentage of any class of vertebrate."
     date: 2020-02-25
