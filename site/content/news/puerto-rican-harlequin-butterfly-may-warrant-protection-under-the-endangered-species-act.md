@@ -4,10 +4,10 @@ date: '2010-04-29'
 hero:
     name: puerto-rican-harlequin-butterfly.jpg
     alt: 'A bright orange butterfly perched on a yellow flower.'
-    link: 'https://flic.kr/p/9LBLnZ'
-    caption: 'Puerto Rican harlequin butterfly on a flower of sea grapes. Photo by USFWS.'
+    caption: 'Puerto Rican harlequin butterfly on a flower of sea grapes. <a href="https://flic.kr/p/9LBLnZ">Photo</a> by USFWS.'
     position: 'top right'
 tags:
+    - Caribbean Ecological Services Field Office
     - 'Puerto Rican harlequin butterfly'
     - 'Puerto Rico'
 updated: 'October 20th, 2016'
