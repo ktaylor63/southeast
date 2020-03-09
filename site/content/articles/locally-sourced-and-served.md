@@ -1,9 +1,11 @@
 ---
-title: 'Taking aim at organics'
+title: 'Locally sourced and served'
 subtitle: 'Program stresses food, health benefits of hunting'
 date: 2020-02-24T00:00:00.000Z
 type: feature
 author: 'Mark Davis, public affairs specialist'
+aliases:
+    - /articles/taking-aim-at-organics
 hero:
     name: white-tailed-deer-tall-grass.jpg
     alt: 'An eight-point bucks head emerges from tall green grass'
