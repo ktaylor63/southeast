@@ -2,7 +2,7 @@
   main.main
     h1.page-title {{ .Title }}
     {{ if .Params.subtitle }}
-    h2.page-subtitle id="{{ urlize .Params.subtitle }}" {{ .Params.subtitle}}
+    h2.page-subtitle id="{{ urlize .Params.subtitle }}" {{ .Params.subtitle | markdownify }}
     {{ end }}
 
     {{ if or (isset .Params "author") (not .Date.IsZero) }}
