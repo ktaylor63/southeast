@@ -1,4 +1,12 @@
 stories:
+  - title: "Eglin assists in successful in-captivity breeding of endangered flatwoods salamander"
+    summary: "The salamander’s range once extended across Alabama, Gerogia and Florida, but ongoing development dramatically shrank the amphibian’s habitat. The U.S. Fish and Wildlife Service declared the reticulated flatwoods salamander an endangered species in 2009."
+    date: 2020-03-13
+    hero:
+      name: reticulated-flatwoods-salamander-larva.jpg
+      alt: 'A strange looking salamander with horns.'
+      caption: 'Reticulated flatwoods salamander larva. Photo by Kevin Enge, FWC.'
+    url: "https://www.srpressgazette.com/news/20200313/eglin-assists-in-successful-in-captivity-breeding-of-endangered-flatwoods-salamander"
   - title: "NFWF Announces $1.1 Million in Grants from Southeast Aquatics Fund"
     summary: "Six projects will assist in restoring aquatic habitat and improving water quality in targeted watersheds in the Southeast"
     date: 2020-02-27
