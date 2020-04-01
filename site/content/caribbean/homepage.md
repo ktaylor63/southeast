@@ -18,6 +18,19 @@ tags:
 updated: 'September 27th, 2018'
 ---
 
+<div style="border-radius: 5px; border: 3px solid #f76552; margin: auto; display: block; padding: 1.5rem; box-shadow: 3px 3px 5px rgba(0,0,0,0.4);">
+  <p style="margin-top: 0;">Dear partners:</p>
+
+  <p>To ensure the safety of our employees and the community, we are following guidance from the Centers for Disease Control (CDC), as well as federal, state and local agencies in order to avoid the spread of Covid-19.  To facilitate your interaction with our office we are providing the following guidance:</p>
+
+  <ul>
+    <li>We encourage you to use our office online tools and other resources for information regarding endangered and threatened species.  You can access the Information for Planning and Consultation System (IPaC) to obtain resources lists, information regarding species range, and project conservation measures within a specific project area. In addition, you can obtain information and packages requirements to complete section 7 consultation under the Endangered Species Act (ESA) by accessing our webpage.</li>
+    <li>Send consultation packages in PDF format to the following email address: <a href="mailto:caribbean_es@fws.gov">caribbean_es@fws.gov</a></li>
+    <li>A list of the package minimum requirements can be reviewed at the following web address: <a href="https://www.fws.gov/southeast/pdf/fact-sheet/caribbean-ecological-services-field-office-project-evaluations.pdf">fws.gov/southeast/pdf/fact-sheet/caribbean-ecological-services-field-office-project-evaluations.pdf</a></li>
+  </ul>
+  <p>We appreciate your effort to protect endangered species and their habitat.  It is the Service’s mission to work with others to conserve, protect and enhance fish, wildlife, and plants and their habitats for the continuing benefit of our people.  Please do not hesitate to contact our office at caribbean_es@fws.gov should you have any questions.</p>
+</div>
+
 The Caribbean Ecological Services Field Office was established in 1974. We strive for ecosystem sustainability through preservation, conservation, enhancement, and restoration of habitats essential for the long-term viability of the fish, wildlife, and plants in the Caribbean.
 
 The field office emphasizes an ecosystem approach incorporating Strategic Habitat Conservation to address and prioritize habitat issues through partnerships with other federal, state and local agencies, conservation organizations, private landowners, and citizens to achieve the greatest possible benefits to fish and wildlife. We promote healthy wildlife and their habitat through a diverse group of programs: Endangered Species, Partners for Fish and Wildlife, Contaminants Program, Coastal Program and Project Evaluation.
