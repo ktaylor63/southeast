@@ -1,4 +1,12 @@
 stories:
+  - title: "Longleaf pine forests: a southern treasure"
+    summary: "Throughout the Southeast, a coordinated effort is underway to conserve and restore these rich and vital forests."
+    date: 2020-03-31
+    hero:
+      name: longleaf-pine-coastal-headwaters.jpg
+      alt: 'A blue sky partially obscured by tall green pine trees.'
+      caption: 'Longleaf pine stand located in the Coastal Headwaters forest in Alabama. <a href="https://flic.kr/p/MJXouN">Photo</a> by USDA.'
+    url: "https://www.nature.org/en-us/about-us/where-we-work/united-states/florida/stories-in-florida/longleaf/"
   - title: "Eglin assists in successful in-captivity breeding of endangered flatwoods salamander"
     summary: "The salamander’s range once extended across Alabama, Gerogia and Florida, but ongoing development dramatically shrank the amphibian’s habitat. The U.S. Fish and Wildlife Service declared the reticulated flatwoods salamander an endangered species in 2009."
     date: 2020-03-13
