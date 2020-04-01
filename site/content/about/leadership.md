@@ -82,6 +82,16 @@ Catherine serves as the Assistant Regional Director for Ecological Services in t
 
 Catherine grew up in a large family in San Antonio, Texas, and did not realize that careers in conservation existed prior to her first internship with the Service, but quickly fell in love with the field and the mission. She is an advocate of continual learning and mentoring and working with diverse groups from all backgrounds to achieve innovative conservation success. Catherine is a proud mom of a son in high school, daughter in elementary, and a son on the way in September. She loves spending time with her family and can often be found gardening, in the water paddleboarding or snorkeling, and watching and attending college football games in the Fall.
 
+## Laurel Barnhill
+
+### Chief of Staff
+
+{{< figure class="photo-right" src="/images/pages/laurel-barnhill.jpg" alt="Portrait shot of a woman with a brown pet dog." >}}
+
+Laurel Barnhill serves as the Chief of the Migratory Bird Program for the U.S. Fish and Wildlife Service-Southeast Region. She joined the Service in 2011 as Southeast Region National Wildlife Refuge System Inventory and Monitoring Coordinator. Laurel’s prior positions were as the Bird Conservation Coordinator for South Carolina Department of Natural Resources, Wildlife Biologist for the USDA Forest Service – Savannah River, and Passerine Bird Coordinator for Arkansas Game and Fish Commission.
+
+Laurel earned a M.S. in Zoology from the University of Arkansas and a B.S. in Wildlife and Fisheries Biology from the University of Vermont.
+
 ## Mara Lopez
 
 ### Business Manager
