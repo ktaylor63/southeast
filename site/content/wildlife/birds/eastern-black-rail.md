@@ -58,7 +58,7 @@ tags:
     - Virginia
     - 'West Virginia'
     - Wisconsin
-updated: 'January 23rd, 2020'
+updated: 'April 6th, 2020'
 ---
 
 - **Taxon**: Bird
@@ -195,6 +195,7 @@ A recovery plan for the eastern black rail, informed by the [Species Status Asse
 - [Advancing Black Rail Conservation Along the Atlantic Coast](http://acjv.org/black-rail/)
 - [Next Steps for a Healthy Gulf of Mexico Watershed:  Coastal Bend Landscape at a Glance](https://www.fws.gov/southeast/gulf-restoration/next-steps/focal-area/coastal-bend/)
 - [Black Rail in Coastal Louisiana](http://la.audubon.org/conversation/black-rail-coastal-louisiana)
+- [Rapid assessment of black rails in South Florida](https://ccbbirds.org/2020/04/02/rapid-assessment-of-black-rails-in-south-florida/)
 
 ## How you can help
 
