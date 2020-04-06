@@ -14,7 +14,7 @@ hero:
 tags:
     - 'Endangered Species Act'
     - Georgia
-updated: 'October 9th, 2018'
+updated: 'April 3rd, 2020'
 ---
 
 Chattahoochee Forest National Fish Hatchery is nestled deep in the heart of the North Georgia mountains, approximately 75 miles north of Atlanta. Surrounded by the 749,444 acre [Chattahoochee National Forest](https://www.fs.usda.gov/conf), the hatchery occupies a 44.8 acre tract of land straddling Mill Creek and Rock Creek, which are tributaries of the Toccoa River.
@@ -44,7 +44,7 @@ Chattahoochee Forest National Fish Hatchery services trout streams throughout no
 
 ## Public use opportunities
 
-{{< figure class="photo-right" src="/images/pages/chattahoochee-river-rodeo-flyer-2020.jpg" link="/pdf/flier/chattahoochee-river-rodeo-flyer-2020.jpg" alt="A flier of upcoming fishing events; see the events page for more details" caption="2020 fishing rodeos. Click to enlarge." >}}
+{{< figure class="photo-center" src="/images/pages/chattahoochee-forest-nfh-rodeo-2020.jpg" alt="A flier of upcoming fishing events; see the events page for more details" caption="2020 fishing rodeos." >}}
 
 The hatchery provides environmental education and public outreach opportunities to visitors, school groups, and various other organizations. The environmental education program is designed to promote a conservation ethic and to develop interest in recreational fishing opportunities.
 
