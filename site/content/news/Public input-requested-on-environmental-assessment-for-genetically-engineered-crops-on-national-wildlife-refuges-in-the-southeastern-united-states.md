@@ -11,10 +11,10 @@ tags:
     - 'Genetically Engineered Crops'
     - 'National Wildlife Refuge System'
     - 'Programmatic Environmental Assessment'
-updated: 'March 19th, 2020'
+updated: 'April 6th, 2020'
 ---
 
-The U.S. Fish and Wildlife Service (Service) has prepared a [draft Programmatic Environmental Assessment](https://ecos.fws.gov/ServCat/Reference/Profile/115747) (PEA) for the potential use of genetically engineered crops (GECs) on national wildlife refuges in the southeastern United States.
+The U.S. Fish and Wildlife Service (Service) has prepared a [draft Programmatic Environmental Assessment](https://ecos.fws.gov/ServCat/Reference/Profile/115906) (PEA) for the potential use of genetically engineered crops (GECs) on national wildlife refuges in the southeastern United States.
 
 [The National Wildlife Refuge System](https://www.fws.gov/refuges/), the public lands network managed by the Service, employs a number of wildlife management practices to deliver specific conservation objectives on each of the nation’s 568 national wildlife refuges. The use of GECs by farmers on refuges in the Southeast Region can help refuge managers meet the purposes of the refuge and provide wildlife forage for birds and other wildlife. Supporting waterfowl populations is a priority purpose for many southeastern refuges.
 

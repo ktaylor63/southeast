@@ -11,11 +11,12 @@ tags:
     - 'Genetically Engineered Crops'
     - 'National Wildlife Refuge System'
     - 'Programmatic Environmental Assessment'
+updated: 'April 6th, 2020'
 ---
 
 The U.S. Fish and Wildlife Service (Service) has extended until April 19, 2020, the period of time in which the public can comment on the proposed use of genetically engineered crops (GECs) on Southeastern National Wildlife Refuges.
 
-The public is welcome to comment on the proposal, which the Service has prepared as a [draft Programmatic Environmental Assessment](https://ecos.fws.gov/ServCat/Reference/Profile/115747) (PEA).
+The public is welcome to comment on the proposal, which the Service has prepared as a [draft Programmatic Environmental Assessment](https://ecos.fws.gov/ServCat/Reference/Profile/115906) (PEA).
 
 Comments and questions must be submitted in writing to fw4_gmcpea@fws.gov or mailed to Pamala Wingrove, Branch Chief of Planning, National Wildlife Refuge System, U.S. Fish and Wildlife Service, Southeast Region, 1875 Century Boulevard NE, Atlanta, GA, 30345.
 
