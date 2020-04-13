@@ -15,7 +15,7 @@ aliases:
 tags:
     - GIS
     - Map
-updated: 'June 6th, 2019'
+updated: 'April 8, 2020'
 ---
 
 In the Southeast region we use Geographic Information Systems (GIS) and location data to perform spatial analysis and to produce maps.  Spatial data plays a very important role in decision making.  For example, the Service uses location data on threatened and endangered species to consult with developers in order to avoid impacts to these species.  We use environmental data to create models that predict the locations of rare species or to prioritize locations for restoration. The [Southeast Region's GIS Steering Committee](#regional-gis-steering-committee) meets several times each year to facilitate data collection, sharing, and spatial analysis.  [Learn more about GIS projects in the Southeast](/gis/projects).
@@ -124,12 +124,6 @@ Phone: (404) 679-7306
 
 ### Louisiana
 
-[Matthew Snider](mailto:matthew_snider@fws.gov), Geographic Information Systems  
-[Louisiana Ecological Services Field Office](https://fws.gov/lafayette)  
-646 Cajundome Blvd., Suite 400  
-Lafayette, Louisiana 70506  
-Phone: (337) 266-8535  
-
 [Yvonne Allen](mailto:yvonne_allen@fws.gov), Geographic Information Systems, Remote Sensing  
 [Gulf Coast Plains and Ozarks Landscape Conservation Cooperative](http://gcpolcc.org/)  
 237 Parker Coliseum, LSU  
@@ -138,7 +132,7 @@ Phone: (225) 578-2203
 
 [Robert Greco](mailto:robert_greco@fws.gov), Cartographer  
 [Louisiana Ecological Services Field Office](https://fws.gov/lafayette)  
-646 Cajundome Blvd., Suite 400  
+200 Dulles Dr.  
 Lafayette, Louisiana 70506-4231  
 Phone: (337) 291-3150  
 
@@ -149,12 +143,6 @@ Lafayette LA 70506
 Phone: (337) 266-8810  
 
 ### Mississippi
-
-[Ryan Theel](mailto:ryan_theel@fws.gov), Geographic Information Systems  
-[Mississippi Ecological Services](https://fws.gov/mississippies)  
-6578 Dogwood View Parkway, Suite A  
-Jackson, MS 39213  
-Phone: (601) 321-1134  
 
 [Blaine Elliott](mailto:blaine_elliott@fws.gov), Geographic Information Systems  
 [Lower Mississippi Valley Join Venture](http://www.lmvjv.org/)  
