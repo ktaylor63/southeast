@@ -40,7 +40,7 @@ All species of plants and animals, except pest insects, are eligible for listing
 * [Northern Long-Eared Bat (NLEB) Conservation Recommendations](/pdf/best-management-practice/northern-long-eared-bat-conservation-recommendations.pdf)
 
 
-## Guidance on Determining Need for Incidental Take Permit under ESA Section 10(a)(1)(B)
+## Guidance on determining need for incidental take permit under ESA Section 10(a)(1)(B)
 
 Are you unsure whether you need an incidental take permit? Download the [questionnaire](/pdf/guidelines/questionnaire-for-potential-applicants-under-section-10.pdf) or [decision tree](/pdf/guidelines/section-10-trigger-graphic.pdf) to learn more.
 
@@ -56,7 +56,7 @@ HCPs are planning documents required as part of an application for an incidental
 * [HCP Questions and Answers](https://www.fws.gov/endangered/esa-library/pdf/Final_Addendum_QandA.pdf)
 * [HCP Fact Sheet](https://www.fws.gov/endangered/esa-library/pdf/hcp.pdf)
 
-## Incidental Take Permits
+## Incidental take permits
 
 Private landowners, corporations, state or local governments, or other non-federal landowners who wish to conduct activities on their land that might incidentally harm (or "take") a species [listed as threatened or endangered](http://ecos.fws.gov/tess_public/pub/stateListingAndOccurrenceIndividual.jsp?state=AL&s8fid=112761032792&s8fid=112762573902) must first obtain an incidental take permit from the Service.
 
@@ -82,7 +82,7 @@ A Safe Harbor Agreement (SHA) is a voluntary agreement involving private or othe
 
 In 2016, the Service removed the [Louisiana black bear](/wildlife/mammals/louisiana-black-bear) from the ESA list of threatened and endangered wildlife because it had recovered sufficiently., due to the active partnerships of private landowners, state and federal agencies, universities and non-governmental organizations. Since the Louisiana black bear was listed in 1992, voluntary landowner incentive-based habitat restoration programs and environmental regulations have not only stopped the net loss of forested lands in the Lower Mississippi River Alluvial River Valley, but have resulted in significant habitat gains. A major factor in this positive habitat trend is the success of incentive-based private land restoration programs, such as the Wetland reserve program. Since 1992, more than 148,000 acres of habitat have been permanently protected and/or restored through the WRP program. Additional private lands have been restored through the efforts of private landowners and organizations. Over 65,000 additional acres of bottomland hardwood forest have been protected and restored through the efforts of groups such as Wildlife Mississippi, Mississippi Land Trust Mississippi River Trust, Black Bear Conservation Coalition, Bear Education and Restoration Group of Mississippi and the East Texas Black Bear Task Force.
 
-### Louisiana black bear recovery and delisting resources
+### Recovery and delisting resources
 
 * [Delisting Press Release](/news/2016/03/the-teddy-bear-is-back-us-fish-and-wildlife-service-delists-louisiana-black-bear-due-to-recovery/)
 * [Federal Register Notice](https://www.regulations.gov/document?D=FWS-R4-ES-2015-0014-0075)
@@ -93,6 +93,13 @@ In 2016, the Service removed the [Louisiana black bear](/wildlife/mammals/louisi
 * [2nd Annual Post-Delisting Monitoring Report](/pdf/report/louisiana-black-bear-2nd-annual-post-delisting-monitoring-report.pdf)
 * [3nd Annual Post-Delisting Monitoring Report](https://ecos.fws.gov/ServCat/DownloadFile/162421)
 * [Combined 1993 - 2008 - 2014 LA Black Bear Breeding Habitat Map](/pdf/map/louisiana-black-bear-breeding-habitat-map.pdf)
+
+## USACE agreements for ESA review
+
+* [iPaC Agreement USACE New Orleans](/pdf/best-management-practice/ipac-agreement-usace-new-orleans.pdf)
+* [iPAC Agreement USACE Vicksburg](/pdf/best-management-practice/ipac-agreement-usace-vicksburg.pdf)
+* [SLOPES Agreement USACE New Orleans](/pdf/best-management-practice/slopes-agreement-usace-new-orleans.pdf)
+* [SLOPES Agreement USACE Vicksburg](/pdf/best-management-practice/slopes-agreement-usace-vicksburg.pdf)
 
 ## Louisiana black bear content
 
