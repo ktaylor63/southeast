@@ -13,7 +13,7 @@ tags:
     - 'Endangered Species Act'
     - 'Louisiana Black Bear'
     - Recovery
-updated: 'March 25th, 2019'
+updated: 'April 29th, 2020'
 ---
 
 One of the primary responsibilities of the U.S. Fish and Wildlife Service (Service) is to protect and recover imperiled species and the ecosystems upon which they depend. Congress defined “species” to include subspecies, varieties, and, for vertebrates, distinct population segments.
@@ -38,6 +38,9 @@ All species of plants and animals, except pest insects, are eligible for listing
 * [Gopher tortoise survey guidance](/pdf/methodology/gopher-tortoise-survey-handbook.pdf)
 * [Black Rail Conservation Recommendations](/pdf/best-management-practice/black-rail-conservation-recommendations.pdf)
 * [Northern Long-Eared Bat (NLEB) Conservation Recommendations](/pdf/best-management-practice/northern-long-eared-bat-conservation-recommendations.pdf)
+* [Fat pocketbook conditions for instream and gravel mining](/pdf/guidelines/fat-pocketbook-conditions-for-instream-sand-and-gravel-mining.pdf)
+* [Interior least tern conditions for instream sand and gravel mining](/pdf/guidelines/interior-least-tern-conditions-for-instream-sand-and-gravel-mining.pdf)
+* [Pallid sturgeon conditions for instream sand and/or gravel mining](/pdf/guidelines/pallid-sturgeon-conditions-for-instream-sand-and-or-gravel-mining.pdf)
 
 
 ## Guidance on determining need for incidental take permit under ESA Section 10(a)(1)(B)
