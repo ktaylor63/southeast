@@ -23,7 +23,7 @@ hero:
     alt: 'A mussel with fringe around its opening partially burried in the sand on the river bottom.'
     caption: 'Appalachian elktoe in the Little River Translyvania County NC. Photo by Gary Peeples, USFWS.'
     position: '25% 67%'
-updated: 'September 3rd, 2019'
+updated: 'April 28th, 2020'
 ---
 
 - **Taxon:** Mussel
@@ -54,11 +54,9 @@ The Appalachian elktoe is known only from the mountain streams of western North 
 
 ## Current range
 
-Currently, the Appalachian elktoe has a very fragmented distribution. The species still survives in scattered pockets of suitable habitat in portions of the Little Tennessee River system, Pigeon River system, Mills River, and Little River in North Carolina, and the Nolichucky River system in North Carolina and Tennessee. In the Little Tennessee River system in North Carolina, populations survive in the reach of the main stem of the Little Tennessee River, between the city of Franklin and Fontana Reservoir, in Swain and Macon Counties; and in scattered reaches of the main stem of the Tuckasegee River in Jackson and Swain Counties, from below the town of Cullowhee downstream to Bryson City. The species also occurs in the Cheoah River, from the Santeetlah Dam downstream to its confluence with the Little Tennessee River in the in Graham County.
+Currently, the Appalachian elktoe has a very fragmented distribution. The species still survives in scattered pockets of suitable habitat in portions of four river systems – the Little Tennessee, Pigeon, French Broad, and Nolichucky. In the Little Tennessee River system in North Carolina, populations survive in the reach of the main stem of the Little Tennessee River, between the city of Franklin and Fontana Reservoir, in Swain and Macon Counties; and in scattered reaches of the main stem of the Tuckasegee River in Jackson and Swain Counties, from below the town of Cullowhee downstream to Bryson City. The species also occurs in the Cheoah River, from the Santeetlah Dam downstream to its confluence with the Little Tennessee River in the in Graham County.
 
-In the Pigeon River system in North Carolina, a small population of the Appalachian elktoe occurs in small scattered sites in the West Fork Pigeon River and in the main stem of the Pigeon River, above Canton, in Haywood County. The species has been recorded from the Mills River (upper French Broad River system) in Henderson County; and, the Little River (upper French Broad River system) population of the species, in Transylvania County, North Carolina, is restricted to small scattered pockets of suitable habitat downstream of Cascade Lake.
-
-In the Nolichucky River system, the Appalachian elktoe survives in a few scattered areas of suitable habitat in the Toe River, Yancey and Mitchell Counties, North Carolina; Cane River, Yancey County, North Carolina; and the main stem of the Nolichucky River, Yancey and Mitchell Counties, North Carolina, extending downstream to the vicinity of Erwin in Unicoi County, Tennessee. It has also been found in the North Toe River, Yancey and Mitchell Counties, North Carolina, below the confluence of Crabtree Creek, and in the South Toe River, Yancey County, North Carolina. The majority of the surviving occurrences of the Appalachian elktoe appear to be small to extremely small and restricted to scattered pockets of suitable habitat.
+In the Pigeon River system in North Carolina, a small population of the Appalachian elktoe occurs in small scattered sites in the West Fork Pigeon River and in the main stem of the Pigeon River, above Canton, in Haywood County. In the French Broad River system in North Carolina, it occurs in the Little River in Transylvania County, the Mills River in Henderson County, and in the French Broad River in Buncombe, Henderson, and Transylvania counties. In the Nolichucky River system, the Appalachian elktoe survives in a few scattered areas of suitable habitat in the Toe River, Yancey and Mitchell Counties, North Carolina; Cane River, Yancey County, North Carolina; and the main stem of the Nolichucky River, Yancey and Mitchell Counties, North Carolina, extending downstream to the vicinity of Erwin in Unicoi County, Tennessee. It has also been found in the North Toe River, Yancey and Mitchell Counties, North Carolina, below the confluence of Crabtree Creek, and in the South Toe River, Yancey County, North Carolina. The majority of the surviving occurrences of the Appalachian elktoe appear to be small to extremely small and restricted to scattered pockets of suitable habitat.
 
 ## Conservation challenges
 
