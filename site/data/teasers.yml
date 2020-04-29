@@ -1,4 +1,21 @@
 stories:
+  - title: "Loggerhead nesting begins; Cumberland again has first nest"
+    summary: "TNesting season for loggerhead sea turtles is on. The first clutch of loggerhead eggs was found this morning buried in the sand on a Cumberland Island beach."
+    date: 2020-04-27
+    hero:
+      name: dawn-nesting-loggerhead-on-ossabaw-island-caleigh-quick-gadnr.jpg
+      alt: 'An adult sea turtle on the beach near the surf with the sun setting in the background'
+      caption: 'Dawn-nesting loggerhead sea turtle on Ossabaw Island. Photo by Caleigh Quick, Georgia DNR.'
+    url: "https://georgiawildlife.com/loggerhead-nesting-begins-cumberland-again-has-first-nest"
+  - title: "Conservation Champion: Omar Monsegur-Rivera, Caribbean Ecological Services Field Office"
+    summary: "The Isle of Enchantment has many treasures. Among them is our Conservation Champion for April 2020, Omar Monsegur-Rivera, a man who watches out for the diverse and numerous endangered flowering and non-flowering plants of Puerto Rico. Deeply respected and admired by his colleagues, Omar brings his passion for plants to work each day and effectively moves recovery actions forward. Through his actions, some of the rarest ferns in Puerto Rico are thriving in cultivation at Fairchild Tropical Botanic Garden. We are grateful for your dedication, Omar."
+    date: 2020-04-13
+    hero:
+      name: vernonia-proctorii.jpg
+      alt: 'A bright pink flower with broad, fuzzy green leaves.'
+      caption: '<em>Vernonia proctorii</em>. Photo by Omar Monsegur, USFWS.'
+      position: '50% 15%'
+    url: "https://saveplants.org/2020/04/13/interview-with-omar-monsegur-rivera-usfws-caribbean-ecological-services-field-office/"
   - title: "Longleaf pine forests: a southern treasure"
     summary: "Throughout the Southeast, a coordinated effort is underway to conserve and restore these rich and vital forests."
     date: 2020-03-31
