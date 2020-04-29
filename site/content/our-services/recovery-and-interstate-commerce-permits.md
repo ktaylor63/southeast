@@ -14,8 +14,22 @@ tags:
     - Permits
     - Recovery
 js: /js/10a1a-permits.js
-updated: 'November 7th, 2019'
+updated: 'April 17th, 2020'
 ---
+
+<div style="border-radius: 5px; border: 3px solid #006358; box-shadow: 5px 5px 3px rgba(0,0,0,0.3); padding: 1rem;">
+  <p style="margin-top: 0;">A note to Permit Applicants:  Due to the COVID-19 outbreak, we are making temporary changes in our procedures for receiving  10(a)(1)(A) Recovery and Interstate Commerce Permit Applications.  In addition to submitting a hardcopy of your application and payment through the mail (as usual), please also submit your Permit Application and a copy of your payment via email to: permitsr4es@fws.gov until further notice.</p>
+</div>
+
+## COVID-19 and Bat Surveys
+
+We know that many mammals are susceptible to infection by a diversity of coronaviruses, and that these viruses can be found in wildlife just as they can in people. What is not currently known is whether the novel coronavirus, SARS CoV-2, has the potential to infect, or cause illness in, North American wildlife, including bats.  To that end, the U.S. Fish and Wildlife Service is working with the U.S. Geological Survey and a team of wildlife disease experts to quickly assess the risk SARS-CoV-2 may pose to bat populations and will release recommendations as soon as evidence-based guidance becomes available.  In the meantime, consistent with universal precautions, and out of an abundance of caution to protect bat health, the Wildlife Health Office asked Refuge staff to postpone activities requiring direct contact with bats.
+
+Until we have a better understanding of the risk to bats posed by SARS-CoV-2 we recommend that people consider temporarily postponing activities requiring direct contact with wild bats.  When such activities are necessary, they should only be conducted with protective equipment to prevent possible viral transmission.  These recommendations do not apply to bat research activities that do not involve physical contact or close proximity with bats, such as acoustic monitoring or emergence counts when an appropriate distance and protection can be maintained.
+
+For more information, the USGS National Wildlife Health Center has just released a Wildlife Health Bulletin (2020-03) with information on coronaviruses in wildlife, including mention of [the assessment we are conducting and guidance for selecting protective equipment](https://www.usgs.gov/centers/nwhc/science/wildlife-health-bulletins?qt-science_center_objects=0#qt-science_center_objects).
+
+Additionally, the Center for Disease Control maintains [the latest information on COVID-19 associated risks for animals](https://www.cdc.gov/coronavirus/2019-ncov/faq.html#animals).
 
 ## What is the status of my permit?
 
