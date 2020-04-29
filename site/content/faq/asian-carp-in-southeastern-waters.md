@@ -20,7 +20,7 @@ tags:
   - "Lake Barkley"
   - "Silver Carp"
   - Tennessee
-updated: "February 21st, 2020"
+updated: "April 22nd, 2020"
 ---
 
 The spread of four species of large carp—bighead, black, grass, and silver— threatens the Southeast’s renowned aquatic biodiversity and local outdoor economies. The U.S. Fish and Wildlife Service and its federal and state partners are on the front line fighting Asian carp in southeastern waters.
@@ -55,16 +55,17 @@ The goal of the bio-acoustic fish fence, also referred to as BAFF, is to reduce 
 
 {{< figure class="photo-center" src="/images/pages/baff-installation-lake-barkley.jpg" alt="Construction workers install a bio-acoustic fish fence" caption="Construction of the bio-acoustic fish fence at Barkley Lock and Dam. Photo by Kentucky Department of Fish and Wildlife Resources." >}}
 
-The BAFF project costs an estimated \$7 million, which comes from the Great Lakes Restoration Initiative and leveraged financial support from the Service. The findings of the project will inform federal and state efforts to slow the spread of Asian carp and prevent their establishment in the Great Lakes.
+The BAFF project costs an estimated $7 million, which comes from the Great Lakes Restoration Initiative and leveraged financial support from the Service. The findings of the project will inform federal and state efforts to slow the spread of Asian carp and prevent their establishment in the Great Lakes.
 
 {{< youtube id="Fg6ETSk100k" title="A Battle Worth Carping About (Part 2): Fighting Back" >}}
 
 ## Modified Unified Method
 
-Kentucky is on the front lines of the war on carp. The Kentucky Department of Fish and Wildlife Resources, in February 2020, deployed the so-called Modified Unified Method of carp removal on Kentucky Lake with the assistance of the Service and U.S. Geological Survey as well as the U.S. Forest Service, the Tennessee Valley Authority and the states of Tennessee, Alabama and Mississippi. A series of boats, nets, underwater speakers and electro-fishing gear corrals the carp that have been pushed into a cove or narrow body of water. This carp-corralling method has been tested in Missouri and Illinois and proved mostly successful, removing as much as 90 percent of the fish from the targeted waters. Congress appropriated \$25 million overall to the Service in fiscal year 2020 for the unified method and other carp-removal efforts around the country.
+Kentucky is on the front lines of the war on carp. The Kentucky Department of Fish and Wildlife Resources, in February 2020, deployed the so-called Modified Unified Method of carp removal on Kentucky Lake with the assistance of the Service and U.S. Geological Survey as well as the U.S. Forest Service, the Tennessee Valley Authority and the states of Tennessee, Alabama and Mississippi. A series of boats, nets, underwater speakers and electro-fishing gear corrals the carp that have been pushed into a cove or narrow body of water. This carp-corralling method has been tested in Missouri and Illinois and proved mostly successful, removing as much as 90 percent of the fish from the targeted waters. Congress appropriated $25 million overall to the Service in fiscal year 2020 for the unified method and other carp-removal efforts around the country.
 
 ## Photos and video
 
+- [The New “Modified Unified” Method of Asian Carp Removal (Video courtesy of Kentucky Afield)](https://www.youtube.com/watch?v=dMyK0QDoREU)
 - [Modified unified method at Pisgah Bay (B-roll, KDFWR)](https://fileshare.fws.gov/?linkid=KZi4zr6VWWWSlm9SBeIBmZCOZq/wqYbX8YDODS6ncAGbVD1e4BVBKw)
 - [Modified unified method at Smith Bay (B-roll, Kentucky Afield)](https://fileshare.fws.gov/?linkid=KZi4zr6VWWWS6KhWXl9+mIIzJgxaiVhb8YDODS6ncAGbVD1ebUtwjg)
 - [BAFF system installation and demonstration at Barkley Dam](/data/BAFF-Barkley-event.zip)
