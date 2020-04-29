@@ -20,7 +20,7 @@ updated: 'April 29th, 2020'
 
 **Asheville, North Carolina** &mdash; A short way into an abandoned mica mine in western North Carolina’s Haywood County, U.S. Fish and Wildlife Service biologist Susan Cameron pointed to the chamber’s high ceiling, explaining that it’s where the majority of the mine’s hibernating bats used to find shelter.
 
-{{< figure class="photo-center" src="/images/pages/state-and-federal-biologists-search-for-bats-top-to-bottom-katherine-etchison-ncwrc-kristi-confortin-ncwrc-sue-cameron-usfws.jpg" alt="" caption="State and federal biologists search for bats-top to bottom Katherine Etchison, NCWRC, Kristi Confortin, NCWRC, Sue Cameron USFWS mica mine." >}}
+{{< figure class="photo-center" src="/images/pages/state-and-federal-biologists-search-for-bats-top-to-bottom-katherine-etchison-ncwrc-kristi-confortin-ncwrc-sue-cameron-usfws.jpg" alt="" caption="State and federal biologists search for bats-top to bottom Katherine Etchison, NCWRC, Kristi Confortin, NCWRC, Sue Cameron USFWS." >}}
 
 The mine sits on protected land, not far from the Blue Ridge Parkway. It’s accessed by a long, rough dirt road that sits behind a locked gate. It’s a corner of the Blue Ridge Mountains rarely trampled by humans.
 
