@@ -4,15 +4,25 @@
   {{ range  where .Site.Pages "Params.draft" true }}
   {{ if ne .Title "Draft content awaiting publication" }}
   <li class="card">
+    {{ if .Params.hero }}
     <div class='card-hero'>
       <a href="{{ .Permalink }}">
-        <img sizes="100vw" srcset="/images/hero/small/{{ .Params.hero.name }} 450w, /images/hero/medium/{{ .Params.hero.name }} 850w" src="/images/hero/small/{{ .Params.hero.name }}" alt="{{ .Params.hero.alt }}" />
+        <img sizes="100vw"
+          srcset="/images/hero/small/{{ .Params.hero.name }} 450w, /images/hero/medium/{{ .Params.hero.name }} 850w"
+          src="/images/hero/small/{{ .Params.hero.name }}" alt="{{ .Params.hero.alt }}" />
       </a>
     </div>
+    {{ end }}
     <div class='card-text'>
       <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
-      <p>{{ if not .Date.IsZero }}<span class='card-text-date'>{{ .Date.Format "January 2, 2006" }}{{ if gt .ReadingTime 0 }} | {{ .ReadingTime }} minute read{{ end }}</span>{{ end }}{{ if .Params.description }}{{ .Params.description }}{{ else }}{{ .Summary }}{{ end }}&nbsp;<a href="{{ .Permalink }}" aria-label="{{ .Title }}">{{ if eq .Section "news"}}Read the full story...{{ else if eq .Section "wildlife" }}Visit the species profile...{{ else if eq .Section "article" }}Read the full article...{{ else }}Learn more...{{ end }}</a></p>
-      {{ if .Params.hero.caption }}
+      <p>{{ if not .Date.IsZero }}<span
+          class='card-text-date'>{{ .Date.Format "January 2, 2006" }}{{ if gt .ReadingTime 0 }} | {{ .ReadingTime }}
+          minute
+          read{{ end }}</span>{{ end }}{{ if .Params.description }}{{ .Params.description }}{{ else }}{{ .Summary }}{{ end }}&nbsp;<a
+          href="{{ .Permalink }}" aria-label="{{ .Title }}">{{ if eq .Section "news"}}Read the full
+          story...{{ else if eq .Section "wildlife" }}Visit the species
+          profile...{{ else if eq .Section "article" }}Read the full article...{{ else }}Learn more...{{ end }}</a></p>
+      {{ if .Params.hero }}
       <p><small>{{ .Params.hero.caption | safeHTML }}</small></p>
       {{ end }}
     </div>

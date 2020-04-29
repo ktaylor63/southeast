@@ -13,8 +13,9 @@
 <meta name="og:type" content="website" />
 <meta name="og:url" content="{{ .Permalink }}" />
 <meta name="og:title" content="{{ .Title }}" />
-<meta name="og:description" content="{{ if .Params.description }}{{ .Params.description }}{{ else }}{{ .Summary }}{{end}}" />
-{{ if .Params.hero.name }}
+<meta name="og:description"
+  content="{{ if .Params.description }}{{ .Params.description }}{{ else }}{{ .Summary }}{{end}}" />
+{{ if .Params.hero }}
 <meta name="og:image" content="{{ .Site.Params.base }}images/hero/small/{{ .Params.hero.name }}" />
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:image" content="{{ .Site.Params.base }}images/hero/small/{{ .Params.hero.name }}" />
@@ -22,10 +23,12 @@
 {{ end }}
 <meta name="twitter:site" content="@usfwssoutheast">
 <meta name="twitter:title" content="{{ .Title }}" />
-<meta name="twitter:description" content="{{ if .Params.description }}{{.Params.description}}{{ else }}{{ .Summary }}{{end}}" />
+<meta name="twitter:description"
+  content="{{ if .Params.description }}{{.Params.description}}{{ else }}{{ .Summary }}{{end}}" />
 
 {{ $baseurl := printf "%s" .Site.Params.base }}
 {{ if in $baseurl "fws.gov/southeast" }}
-<script async id="_fed_an_ua_tag" type="text/javascript" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=DOI&subagency=USFWS"></script>
+<script async id="_fed_an_ua_tag" type="text/javascript"
+  src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=DOI&subagency=USFWS"></script>
 {{ end }}
 <script type="text/javascript" src="https://polyfill.io/v3/polyfill.min.js"></script>
