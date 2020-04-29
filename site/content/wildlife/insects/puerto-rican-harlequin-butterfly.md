@@ -15,12 +15,12 @@ aliases:
     - /species/insects/puerto-rican-harlequin-butterfly
 tags:
     - 'Endangered Species Act'
-    - Florida
+    - Puerto Rico
     - Insect
-    - 'Saint Francis’ Satyr'
-    - 'South Florida Ecological Services Office'
+    - 'Puerto Rican Harlequin Butterfly'
+    - 'Caribbean Ecological Services Office'
 description: 'One of four species of Atlantea butterflies that inhabit the Greater Antilles, only the Puerto Rican harlequin butterfly occurs in Puerto Rico.  With a small population size, no more than 50 butterflies have ever been recorded in a single survey.'
-updated: 'March 6th, 2020'
+updated: 'April 29th, 2020'
 ---
 
 Also known as Puerto Rican checkerspot and La Quebradillana.
@@ -87,11 +87,11 @@ Since 2011, the Service has been working with Puerto Rico (through the PRDNER) a
 
 ## How you can help
 
-- Promote conservation of existing Puerto Rican harlequin butterfly populations by protecting habitat integrity and connectivity among sites where it occurs; 
+- Promote conservation of existing Puerto Rican harlequin butterfly populations by protecting habitat integrity and connectivity among sites where it occurs;
 - Avoid affecting (e.g. trimming, cutting, or applying herbicides) the butterfly’s host plant, prickly bush, in areas where the butterfly is known to occur;
 - Encourage research to enhance what is currently known about the butterfly’s biology, habitat requirements, and distribution;
 - Promote public awareness through education and outreach about the benefits of Puerto Rican harlequin butterfly conservation;
-- Limit use of pesticides that may drift into known Puerto Rican harlequin butterfly habitat; and 
+- Limit use of pesticides that may drift into known Puerto Rican harlequin butterfly habitat; and
 - Promote reforestation with native trees in areas near known populations of the Puerto Rican harlequin butterfly.
 
 ## Subject matter experts
