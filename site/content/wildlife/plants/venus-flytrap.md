@@ -22,7 +22,7 @@ hero:
     name: venus-flytrap.jpg
     alt: 'A cluster of carnivorious plant heads with bright red/orange mouths.'
     caption: 'Venus flytrap. Photo by Jennifer Koches, USFWS.'
-updated: 'March 25th, 2019'
+updated: 'May 28th, 2020'
 ---
 
  - **Taxon:** Plant
@@ -35,6 +35,8 @@ The Venus flytrap, a small perennial herb, is one of the most widely recognized 
 [Download the fact sheet](/pdf/fact-sheet/venus-flytrap.pdf).
 
 {{< content-scroller tag="Venus Flytrap" heading="Related content" >}}
+
+- [Carnivores on the forest floor, North Carolina is a haven for rare venus flytraps](https://www.carolinacountry.com/departments/departments/feature-story/carnivores-on-the-forest-floor?coop=50)
 
 ## Appearance
 
