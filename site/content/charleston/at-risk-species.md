@@ -17,7 +17,7 @@ tags:
     - Recovery
     - 'South Carolina'
     - 'Southern Hognose Snake'
-updated: 'February 12th, 2020'
+updated: 'June 9th, 2020'
 ---
 
 At-risk species are plants or animals that have either been proposed for listing under the Endangered Species Act (ESA); are candidates for listing; or are species that have been petitioned for listing. The category also includes species undergoing an agency discretionary review. By working with private landowners, states, tribes, other federal agencies and non-governmental organizations, the Service has been able to conserve dozens of at-risk species and preclude the need to list them under the ESA through proactive conservation efforts.
@@ -30,13 +30,13 @@ At-risk species are plants or animals that have either been proposed for listing
 
 ## Program contacts for at-risk species in South Carolina
 
-**Whitney Beisler**, Fish and Wildlife Biologist  
-[whitney_beisler@fws.gov](mailto:whitney_beisler@fws.gov), (843) 727-4707 ext. 228  
-Lead for [eastern black rail](/wildlife/birds/eastern-black-rail) (proposed for listing October 2018), [golden-winged warbler](/pdf/fact-sheet/golden-winged-warbler.pdf), [saltmarsh sparrow](/pdf/fact-sheet/saltmarsh-sparrow.pdf), and [green salamander](/pdf/fact-sheet/green-salamander.pdf).
+**Vacant**, Fish and Wildlife Biologist  
+[mark_caldwell@fws.gov](mailto:mark_caldwell@fws.gov), (843) 727-4707 ext. 215  
+Lead for [golden-winged warbler](/pdf/fact-sheet/golden-winged-warbler.pdf), [saltmarsh sparrow](/pdf/fact-sheet/saltmarsh-sparrow.pdf), and [green salamander](/pdf/fact-sheet/green-salamander.pdf).
 
-**Melissa Chaplin**, Fish and Wildlife Biologist  
+<!-- **Melissa Chaplin**, Fish and Wildlife Biologist  
 [melissa_chaplin@fws.gov](mailto:melissa_chaplin@fws.gov), (843) 727-4707 ext. 217  
-Lead for [black-capped petrel](/wildlife/birds/black-capped-petrel) (proposed for listing October 2018).
+Lead for [black-capped petrel](/wildlife/birds/black-capped-petrel) (proposed for listing October 2018). -->
 
 **Christopher Hernandez**, Fish and Wildlife Biologist  
 [christopher_hernandez@fws.gov](mailto:christopher_hernandez@fws.gov), (843) 727-4707 ext. 213  
@@ -44,19 +44,15 @@ Lead for [frosted elfin](/pdf/fact-sheet/frosted-elfin.pdf), [monarch butterfly]
 
 **Melanie Olds**, Fish and Wildlife Biologist  
 [melanie_olds@fws.gov](mailto:melanie_olds@fws.gov), (843) 727-4707 ext. 205  
-Lead for [gopher frog](/pdf/fact-sheet/sc-gopher-frog.pdf), [Little River crayfish](/pdf/fact-sheet/little-river-crayfish.pdf) (aka Broad River spiny crayfish), [mimic crayfish](/pdf/fact-sheet/mimic-crayfish.pdf), [Newberry burrowing crayfish](/pdf/fact-sheet/newberry-burrowing-crayfish.pdf) (aka Saluda crayfish), [gopher tortoise](https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=C044), [Carolina pygmy sunfish](/pdf/fact-sheet/carolina-pygmy-sunfish.pdf), [robust redhorse](/pdf/fact-sheet/robust-redhorse.pdf), [Florida pine snake](/pdf/fact-sheet/florida-pine-snake.pdf), and [southern hognose snake](/pdf/fact-sheet/southern-hognose-snake.pdf).
+Lead for [gopher frog](/pdf/fact-sheet/sc-gopher-frog.pdf), [Little River crayfish](/pdf/fact-sheet/little-river-crayfish.pdf) (aka Broad River spiny crayfish), [mimic crayfish](/pdf/fact-sheet/mimic-crayfish.pdf), [Newberry burrowing crayfish](/pdf/fact-sheet/newberry-burrowing-crayfish.pdf) (aka Saluda crayfish), [gopher tortoise](https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=C044), [Carolina pygmy sunfish](/pdf/fact-sheet/carolina-pygmy-sunfish.pdf), [robust redhorse](/pdf/fact-sheet/robust-redhorse.pdf), [Florida pine snake](/pdf/fact-sheet/florida-pine-snake.pdf), and [eastern diamondback rattlesnake](/pdf/fact-sheet/eastern-diamondback-rattlesnake.pdf).
 
 **April Punsalan**, Botanist  
 [april_punsalan@fws.gov](mailto:april_punsalan@fws.gov), (843) 727-4707 ext. 218  
 Lead for [bog spicebush](/pdf/fact-sheet/bog-spicebush.pdf), [Boykin’s lobelia](/pdf/fact-sheet/boykins-lobelia.pdf), [Carolina birds-in-a-nest](/pdf/fact-sheet/carolina-birds-in-a-nest.pdf), [Carolina hemlock](/pdf/fact-sheet/carolina-hemlock.pdf), [ciliate-leaf tickseed](/pdf/fact-sheet/ciliate-leaf-tickseed.pdf), [Georgia lead-plant](/pdf/fact-sheet/georgia-lead-plant.pdf), [Godfrey’s stitchwort](/pdf/fact-sheet/godfreys-stitchwort.pdf), [Harper’s fimbristylis](/pdf/fact-sheet/harpers-fimbristylis.pdf), [mountain purple pitcher plant](/pdf/fact-sheet/mountain-purple-pitcher-plant.pdf), [Ocmulgee skullcap](/pdf/fact-sheet/ocmulgee-skullcap.pdf), [purpledisk honeycombhead](/pdf/fact-sheet/purpledisk-honeycombhead.pdf), [Raven’s seedbox](/pdf/fact-sheet/ravens-seedbox.pdf), [ravine sedge](/pdf/fact-sheet/impressed-nerve-sedge.pdf) (aka impressed nerve sedge), [sun-facing coneflower](/pdf/fact-sheet/sun-facing-coneflower.pdf), [Venus flytrap](/wildlife/plants/venus-flytrap), [wireleaf dropseed](/pdf/fact-sheet/wireleaf-dropseed.pdf), and [yellow pond lily](/pdf/fact-sheet/yellow-pond-lily.pdf) (aka Cape Fear spatterdock).
 
-**Paula Sisson**, Fish and Wildlife Biologist  
-[paula_sission@fws.gov](mailto:paula_sission@fws.gov), (843) 727-4707 ext. 226  
-Lead for [eastern diamondback rattlesnake](/pdf/fact-sheet/eastern-diamondback-rattlesnake.pdf).
-
 **Morgan Wolf**, Fish and Wildlife Biologist  
 [morgan_wolf@fws.gov](mailto:morgan_wolf@fws.gov), (843) 727-4707 ext. 219  
-Lead for [Chamberlain’s dwarf salamander](/pdf/fact-sheet/chamberlains-dwarf-salamander.pdf), [Atlantic pigtoe](/wildlife/mussels/atlantic-pigtoe) (proposed for listing October 2018), [brook floater](/pdf/fact-sheet/brook-floater.pdf), [tri-colored bat](/pdf/fact-sheet/tri-colored-bat.pdf), and [little brown bat](/pdf/fact-sheet/little-brown-bat.pdf).
+Lead for [Chamberlain’s dwarf salamander](/pdf/fact-sheet/chamberlains-dwarf-salamander.pdf), [tri-colored bat](/pdf/fact-sheet/tri-colored-bat.pdf), and [little brown bat](/pdf/fact-sheet/little-brown-bat.pdf).
 
 ## More information
 
