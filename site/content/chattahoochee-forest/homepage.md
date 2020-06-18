@@ -14,8 +14,21 @@ hero:
 tags:
     - 'Endangered Species Act'
     - Georgia
-updated: 'April 29th, 2020'
+updated: 'June 9th, 2020'
 ---
+
+<div style="border: 3px solid #721c24; border-radius: 5px; box-shadow: 3px 3px 5px rgba(0,0,0,0.3); padding: 1rem; margin: 1rem 0;">
+    <p>At this time, the hatchery raceway area is not open to walk-through by the public due to COVID-19. The visitor kiosk and Rock Creek are open for an enjoyable fishing experience. We encourage you to:</p>
+    <ul>
+        <li>Check local hatchery conditions on this website before visiting</li>
+        <li>Follow <a href="https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/visitors.html">current CDC safe practices by</a> maintaining a safe distance between yourself and other groups</li>
+        <li>Wash your hands often with soap and water for at least 20 seconds</li>
+        <li>Avoid touching your eyes, nose and mouth</li>
+        <li>Cover your mouth and nose when you cough or sneeze</li>
+        <li>Most importantly, stay home if you feel sick</li>
+    </ul>
+    <p>Learn more about the U.S. Fish and Wildlife Service <a href="https://fws.gov/home/public-health-update.html">Coronavirus Response</a>.</p>
+</div>
 
 Chattahoochee Forest National Fish Hatchery is nestled deep in the heart of the North Georgia mountains, approximately 75 miles north of Atlanta. Surrounded by the 749,444 acre [Chattahoochee National Forest](https://www.fs.usda.gov/conf), the hatchery occupies a 44.8 acre tract of land straddling Mill Creek and Rock Creek, which are tributaries of the Toccoa River.
 
