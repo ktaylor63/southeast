@@ -1,0 +1,27 @@
+.promo {
+  height: calc(100vh - 82px);
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+
+  .promo-image {
+    height: 100%;
+    object-fit: cover;
+    object-position: 25% 60%;
+    width: 100%;
+  }
+
+  h2 {
+    color: white;
+    left: 50%;
+    position: absolute;
+    text-align: center;
+    text-shadow: 3px 3px 3px rgba(0,0,0,0.3);
+    transform: translate(-50%, -50%);
+    top: 50%;
+  }
+
+  @media(min-width: 600px) {
+    height: 100vh;
+  }
+}
