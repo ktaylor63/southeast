@@ -69,6 +69,8 @@ The Department intends to finalize the proposed changes in time for the upcoming
 | Carolina Sandhills National Wildlife Refuge             | Open incidental take of coyote hunting on acres already open to other hunting.                                                                                                                 | South Carolina          |
 | Tennessee National Wildlife Refuge                      | Open dove, crow and opossum to hunting on acres already open to other hunting, expand season dates for squirrel and white-tailed deer hunting, and expand existing goose hunting to new acres. | Tennessee               |
 
+{{< youtube id="JdVoQg0ztDI" title="Dahomey National Wildlife Refuge - Hunt/Fish Rule" >}}
+
 ## Contacts
 
 Dan Chapman, public affairs specialist  
