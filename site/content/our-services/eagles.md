@@ -16,14 +16,14 @@ hero:
     alt: 'A brown eagle with a very sharp curved beak flying through the air.'
     link: 'https://flic.kr/p/qGpPKT'
     caption: 'Golden eagle. Photo by Tom Koerner, USFWS.'
-updated: 'December 19th, 2017'
+updated: 'June 11, 2020'
 ---
 
 > Regional Announcement: Our mailing address has changed. For all written bald eagle or golden eagle permit correspondence please use 1875 Century Boulevard,  Atlanta, GA 30345.
 
 ## National rules and regulations
 
-For information about the Bald and Golden Eagle Protection Act (Eagle Act), and permitting rules and regulations visit the [National Migratory Bird Eagle web page](https://www.fws.gov/birds/management/managed-species/bald-and-golden-eagle-information.php).  [Download a copy of the National Bald Eagle Management Guidelines](https://catalog.data.gov/dataset/national-bald-eagle-management-guidelines).  The guidelines provide recommendations on how best to avoid impacting bald eagles.
+For information about the Bald and Golden Eagle Protection Act (Eagle Act), and permitting rules and regulations visit the [National Migratory Bird Eagle web page](https://www.fws.gov/birds/management/managed-species/bald-and-golden-eagle-information.php).  [Download a copy of the National Bald Eagle Management Guidelines](https://www.fws.gov/migratorybirds/pdf/management/nationalbaldeaglenanagementguidelines.pdf).  The guidelines provide recommendations on how best to avoid impacting bald eagles.
 
 ## Southeast region bald eagle and golden eagle permitting
 
