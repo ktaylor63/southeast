@@ -1,0 +1,10 @@
+<div class="promo">
+  <a href="https://www.fws.gov/southeast/articles/focus-on-birding/">
+    <img class="promo-image" src='{{ .Get "src" }}' alt='{{ .Get "alt" }}'>
+    <h2>{{ .Get "heading" | safeHTML }}</h2>
+  </a>
+  <div class="hero-caption">
+    <img class="info-icon" src="/images/svg/info.svg" alt="Information icon" />
+    <span class='caption-content'>{{ .Get "caption" | safeHTML }}</span>
+  </div>
+</div>
