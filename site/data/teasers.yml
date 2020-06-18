@@ -1,12 +1,34 @@
 stories:
-  - title: "Loggerhead nesting begins; Cumberland again has first nest"
-    summary: "TNesting season for loggerhead sea turtles is on. The first clutch of loggerhead eggs was found this morning buried in the sand on a Cumberland Island beach."
-    date: 2020-04-27
+  - title: "Iguaca – the endangered Puerto Rican parrot"
+    date: 2020-06-10
+    url: "https://www.nfwf.org/media-center/featured-stories/iguaca-endangered-puerto-rican-parrot"
+  - title: "Governor, Cabinet approve land buys in Franklin and Wakulla for conservation"
+    date: 2020-05-28
+    url: "https://www.tallahassee.com/story/news/2020/05/28/governor-cabinet-ok-land-buys-franklin-and-wakulla-conservation/5273318002/"
+  - title: "Video: Little beach mouse from the South"
+    date: 2020-05-29
     hero:
-      name: dawn-nesting-loggerhead-on-ossabaw-island-caleigh-quick-gadnr.jpg
-      alt: 'An adult sea turtle on the beach near the surf with the sun setting in the background'
-      caption: 'Dawn-nesting loggerhead sea turtle on Ossabaw Island. Photo by Caleigh Quick, Georgia DNR.'
-    url: "https://georgiawildlife.com/loggerhead-nesting-begins-cumberland-again-has-first-nest"
+      name: perdido-key-beach-mouse.jpg
+      alt: 'A tiny white and brown mouse held by a biologist.'
+      caption: 'Perdido Key beach mouse. Photo by USFWS.'
+    url: "https://www.youtube.com/watch?v=uUFhqXepo20"
+  - title: "Carnivores on the forest floor"
+    subtitle: "North Carolina is a haven for rare venus flytraps"
+    summary: "If you asked a dozen people the origin of Venus flytraps, it’s a pretty safe bet that 11 of them would say the Amazon, the tropics or somewhere in Asia. They would be incorrect."
+    date: 2020-05-28
+    hero:
+      name: venus-flytrap.jpg
+      alt: 'A cluster of carnivorious plant heads with bright red/orange mouths.'
+      caption: 'Venus flytrap. Photo by Jennifer Koches, USFWS.'
+    url: "https://www.carolinacountry.com/departments/departments/feature-story/carnivores-on-the-forest-floor?coop=50"
+  - title: "Rare Florida grasshopper sparrows raised in captivity now reproducing in nature"
+    summary: "A desperate attempt to rescue Florida grasshopper sparrows from extinction by breeding a small population of them in captivity appears to have led to an astounding success: many of those released laboratory birds are now nesting in the wild."
+    date: 2020-05-15
+    hero:
+      name: florida-grasshopper-sparrow-with-chicks.jpg
+      alt: 'Small bird with brown and white feathering. Yellow feathering on its head.'
+      caption: 'Florida grasshopper sparrow and chicks. <a href="https://flic.kr/p/GE6idu">Photo</a> by rarespecies.org.'
+    url: "https://www.orlandosentinel.com/news/environment/os-ne-florida-rare-bird-captive-raised-reproduces-wild-20200515-yyggk527kneutcnrf6sy4lp7ea-story.html"
   - title: "Conservation Champion: Omar Monsegur-Rivera, Caribbean Ecological Services Field Office"
     summary: "The Isle of Enchantment has many treasures. Among them is our Conservation Champion for April 2020, Omar Monsegur-Rivera, a man who watches out for the diverse and numerous endangered flowering and non-flowering plants of Puerto Rico. Deeply respected and admired by his colleagues, Omar brings his passion for plants to work each day and effectively moves recovery actions forward. Through his actions, some of the rarest ferns in Puerto Rico are thriving in cultivation at Fairchild Tropical Botanic Garden. We are grateful for your dedication, Omar."
     date: 2020-04-13
