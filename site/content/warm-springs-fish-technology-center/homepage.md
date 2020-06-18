@@ -16,8 +16,21 @@ tags:
     - Georgia
     - Recovery
     - 'Warm Springs Fish Technology Center'
-updated: 'January 9th, 2020'
+updated: 'June 1st, 2020'
 ---
+
+<div style="border: 3px solid #721c24; border-radius: 5px; box-shadow: 3px 3px 5px rgba(0,0,0,0.3); padding: 1rem; margin: 1rem 0;">
+    <p>Although most hatchery lands and outdoor spaces have remained open for the public to enjoy, we encourage you to:</p>
+    <ul>
+        <li>Check local hatchery conditions on this website before visiting</li>
+        <li>Follow <a href="https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/visitors.html">current CDC safe practices by</a> maintaining a safe distance between yourself and other groups</li>
+        <li>Wash your hands often with soap and water for at least 20 seconds</li>
+        <li>Avoid touching your eyes, nose and mouth</li>
+        <li>Cover your mouth and nose when you cough or sneeze</li>
+        <li>Most importantly, stay home if you feel sick</li>
+    </ul>
+    <p>Learn more about the U.S. Fish and Wildlife Service <a href="https://fws.gov/home/public-health-update.html">Coronavirus Response</a>.</p>
+</div>
 
 U.S. Fish and Wildlife Service Fish Technology Centers (FTC) provide leadership in science-based management of aquatic resources through the development of new concepts, strategies, technologies and techniques to solve problems and develop innovative efficiencies for hatchery operations and for aquatic resource conservation.
 
