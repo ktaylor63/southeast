@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 'Puerto Rican harlequin butterfly'
 scientific: 'Atlantea tulita'
 type: species-profile
@@ -20,7 +19,7 @@ tags:
     - 'Puerto Rican Harlequin Butterfly'
     - 'Caribbean Ecological Services Office'
 description: 'One of four species of Atlantea butterflies that inhabit the Greater Antilles, only the Puerto Rican harlequin butterfly occurs in Puerto Rico.  With a small population size, no more than 50 butterflies have ever been recorded in a single survey.'
-updated: 'April 29th, 2020'
+updated: 'May 21st, 2020'
 ---
 
 Also known as Puerto Rican checkerspot and La Quebradillana.
@@ -83,7 +82,7 @@ Presently, the Puerto Rican harlequin butterfly is threatened by a combination o
 
 The Puerto Rico Department of Natural and Environmental Resources (PRDNER) has designated the Puerto Rican harlequin butterfly as Critically Endangered. It is illegal to harm, possess, transport, destroy, import or export individuals, eggs, or juveniles without previous authorization from the Secretary of the PRDNER, or to modify its habitat.
 
-Since 2011, the Service has been working with Puerto Rico (through the PRDNER) and other partners such as Fort Worth Zoo, North Carolina Zoo, Para La Naturaleza, Liga Ecologica Quebradillana to locate populations of the Puerto Rican harlequin butterfly, describe its habitat, and identify threats.  Since 2018, the Service has led a collaborative effort with these and other partners in the Puerto Rican Harlequin Butterfly Working Group, a forum were partners share new information on the species and work together to establish plans to conserve the species.  In addition, the Service provides technical assistance on projects that may benefit the Puerto Rican harlequin butterfly, increasing awareness of this rare species.
+Since 2011, the Service has been working with Puerto Rico (through the PRDNER) and other partners such as Fort Worth Zoo, North Carolina Zoo, Para La Naturaleza, Liga Ecologica Quebradillana to locate populations of the Puerto Rican harlequin butterfly, describe its habitat, and identify threats.  Since 2018, the Service has led a collaborative effort with these and other partners in the Puerto Rican Harlequin Butterfly Working Group, a forum where partners share new information on the species and work together to establish plans to conserve the species.  In addition, the Service provides technical assistance on projects that may benefit the Puerto Rican harlequin butterfly, increasing awareness of this rare species.
 
 ## How you can help
 
