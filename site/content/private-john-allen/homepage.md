@@ -20,8 +20,21 @@ office: 'Pvt. John Allen National Fish Hatchery'
 js: /js/field-station.js
 url: /private-john-allen
 type: field-station
-updated: 'August 30th, 2018'
+updated: 'June 1st, 2020'
 ---
+
+<div style="border: 3px solid #721c24; border-radius: 5px; box-shadow: 3px 3px 5px rgba(0,0,0,0.3); padding: 1rem; margin: 1rem 0;">
+    <p>Although most hatchery lands and outdoor spaces have remained open for the public to enjoy, we encourage you to:</p>
+    <ul>
+        <li>Check local hatchery conditions on this website before visiting</li>
+        <li>Follow <a href="https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/visitors.html">current CDC safe practices by</a> maintaining a safe distance between yourself and other groups</li>
+        <li>Wash your hands often with soap and water for at least 20 seconds</li>
+        <li>Avoid touching your eyes, nose and mouth</li>
+        <li>Cover your mouth and nose when you cough or sneeze</li>
+        <li>Most importantly, stay home if you feel sick</li>
+    </ul>
+    <p>Learn more about the U.S. Fish and Wildlife Service <a href="https://fws.gov/home/public-health-update.html">Coronavirus Response</a>.</p>
+</div>
 
 Private John Allen National Fish Hatchery is a warmwater hatchery established in Tupelo, Mississippi, in 1901.  The hatchery is named after the Congressional  representative who appealed to the Congress in his famous ‘hatchery speech’: “Fish will travel overland for miles to get into the water we have at Tupelo... thousands and millions of unborn fish are clamoring to this Congress today for an opportunity to be hatched at the Tupelo hatchery.”
 
@@ -48,22 +61,22 @@ Private John Allen is considered a warmwater hatchery because the species of fis
 
 ## Average annual fish production
 
-|       Species       |    Size   | Number  |
-|---------------------|-----------|---------|
-| Alligator gar       |    Fry    | 100,000 |
-| Alligator gar       | 8-10 in.  |   4,000 |
-| Paddlefish          |    Fry    |  80,000 |
-| Paddlefish          | 12-16 in. |   4,000 |
-| Gulf Coast walleye  |    Fry    |  80,000 |
-| Gulf Coast walleye  |    2 in.  |  40,000 |
-| Striped Bass        |    2 in.  | 320,000 |
-| Lake Sturgeon       | 8-10 in.  |   8,000 |
-| Channel catfish     |    Fry    |  80,000 |
-| Channel catfish     |  2-3 in.  |  40,000 |
-| Channel catfish     | 18-20 in. |   5,000 |
-| Largemouth bass     |    2 in.  |  20,000 |
-| Bluegill            |    2 in.  | 500,000 |
-| Redear sunfish      |    2 in.  | 100,000 |
+| Species            | Size      | Number  |
+| ------------------ | --------- | ------- |
+| Alligator gar      | Fry       | 100,000 |
+| Alligator gar      | 8-10 in.  | 4,000   |
+| Paddlefish         | Fry       | 80,000  |
+| Paddlefish         | 12-16 in. | 4,000   |
+| Gulf Coast walleye | Fry       | 80,000  |
+| Gulf Coast walleye | 2 in.     | 40,000  |
+| Striped Bass       | 2 in.     | 320,000 |
+| Lake Sturgeon      | 8-10 in.  | 8,000   |
+| Channel catfish    | Fry       | 80,000  |
+| Channel catfish    | 2-3 in.   | 40,000  |
+| Channel catfish    | 18-20 in. | 5,000   |
+| Largemouth bass    | 2 in.     | 20,000  |
+| Bluegill           | 2 in.     | 500,000 |
+| Redear sunfish     | 2 in.     | 100,000 |
 
 The fish stocked by the hatchery are used to reintroduce a species back to their historical range or to augment existing populations. Each year, hatchery staff assesses fish populations to make sure the populations are improving.
 
