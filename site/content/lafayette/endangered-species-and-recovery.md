@@ -13,7 +13,7 @@ tags:
     - 'Endangered Species Act'
     - 'Louisiana Black Bear'
     - Recovery
-updated: 'April 29th, 2020'
+updated: 'April 30th, 2020'
 ---
 
 One of the primary responsibilities of the U.S. Fish and Wildlife Service (Service) is to protect and recover imperiled species and the ecosystems upon which they depend. Congress defined “species” to include subspecies, varieties, and, for vertebrates, distinct population segments.
@@ -94,7 +94,8 @@ In 2016, the Service removed the [Louisiana black bear](/wildlife/mammals/louisi
 * [Post-Delisting Monitoring Plan](https://www.regulations.gov/document?D=FWS-R4-ES-2015-0014-0078)
 * [1st Annual Post-Delisting Monitoring Report](/pdf/report/louisiana-black-bear-1st-annual-post-delisting-monitoring-report.pdf)
 * [2nd Annual Post-Delisting Monitoring Report](/pdf/report/louisiana-black-bear-2nd-annual-post-delisting-monitoring-report.pdf)
-* [3nd Annual Post-Delisting Monitoring Report](https://ecos.fws.gov/ServCat/DownloadFile/162421)
+* [3rd Annual Post-Delisting Monitoring Report](https://ecos.fws.gov/ServCat/DownloadFile/162421)
+* [4th Annual Post-Delisting Monitoring Report](https://ecos.fws.gov/ServCat/DownloadFile/171268)
 * [Combined 1993 - 2008 - 2014 LA Black Bear Breeding Habitat Map](/pdf/map/louisiana-black-bear-breeding-habitat-map.pdf)
 
 ## USACE agreements for ESA review
