@@ -13,7 +13,7 @@ tags:
     - 'Endangered Species Act'
     - 'Puerto Rico'
     - 'US Virgin Islands'
-updated: 'February 20th, 2019'
+updated: 'May 12th, 2020'
 ---
 
 The Caribbean Ecological Services Field Office offers expertise in environmental planning for projects related to energy, transportation, water supply, development, flood control, communication towers, private development, recreation, streambank and shoreline protection. We work directly with federal agencies, state and local partners on infrastructure development projects to conserve natural resources in Puerto Rico and the U.S. Virgin Islands.
@@ -28,6 +28,12 @@ The Endangered Species Act (ESA) provides a means for conserving the ecosystems 
 The Fish and Wildlife Coordination Act requires consultation with the Fish and Wildlife Service and the fish and wildlife agencies of States where the "waters of any stream or other body of water are proposed or authorized, permitted or licensed to be impounded, diverted ... or otherwise controlled or modified" by any agency under a Federal permit or license (eg. Coast Guard permits, Corps of Engineers Section 10/404/103 permits, EPA Section 402 permits, FERC licenses, NRC power station licensing, NRCS water resource projects, etc).
 
 Consultation is to be undertaken for the purpose of "preventing loss of and damage to wildlife resources." Service conservation recommendations should be given equal value in the agency's decision making process.
+
+### USFWS-ESA Emergency Section 7 Consultation Best Management Practices (BMPs) for Federally Listed Species
+
+- [Best Management Practices for Federally Listed Sea Turtles in Relation to FEMA’s Federal Disaster Grant Assistance to the Puerto Rico Department of Sports and Recreation](/pdf/best-management-practice/fema-drd-public-beach-sea-turtles.pdf)
+- [Best Management Practices for Federally Listed Species in Relation to PREPAs Transmission Lines Restoration Project in Puerto Rico due to Hurricanes Maria](/pdf/best-management-practice/prepa-transmission lines.pdf)
+- [Best Management Practices for Federally Listed Species in Relation to Emergency Works on Various Roadways in Puerto Rico due to Hurricanes Irma and Maria](/pdf/best-management-practice/prhta-usfws-emergency-consultation.pdf)
 
 ### Presentations of the Section 7 consultation process in the Caribbean
 
