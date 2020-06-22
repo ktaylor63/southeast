@@ -9,7 +9,7 @@ tags:
     - Genetics
     - Georgia
     - 'Warm Springs Fish Technology Center'
-updated: 'January 9th, 2020'
+updated: 'June 22nd, 2020'
 ---
 
 Co-located at Warm Springs Fish Technology Center and Auburn University, the Conservation Genetics Lab performs cutting-edge genetics research. We study a variety of aquatic organisms ranging from sturgeon to snails. The lab provides scientific support to national fish hatcheries, and partner with other agencies to use genetic data for improving conservation efforts. We also provide genetic expertise to other U.S. Fish and Wildlife Service offices to incorporate genetics research into management efforts. Our research projects span the fields of fisheries biology, evolutionary biology, population genetics, and conservation science.
@@ -32,5 +32,5 @@ Nathan Whelan, Regional Geneticist and Lab Director
 Ashantye’ Williams, Lab Manager  
 [ashantye_williams@fws.gov](mailto:ashantye_williams@fws.gov), (334) 844-9563
 
-Nicole Garrison, Postdoctoral Researcher (Auburn University)  
-[nlg0006@auburn.edu](mailto:nlg0006@auburn.edu), (334) 844-9563
+Nicholas Gladstone, Graduate Research Assistant (Auburn University)  
+[nsg0012@auburn.edu](mailto:nsg0012@auburn.edu), (334) 844-9563
