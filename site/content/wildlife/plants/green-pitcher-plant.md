@@ -66,7 +66,7 @@ This species will be considered for delisting when a minimum of 18 viable popula
 
 [Download the 1994 revision of the recovery plan](https://ecos.fws.gov/docs/recovery_plan/941212.pdf).
 
-{{< figure class="photo-center" src="/images/pages/green-pitcher-plants-count.jpg" alt="A biologist kneels to the ground with a hand-held counter to count individual pitchers." link="https://flic.kr/p/J6kXKv" caption="Claire Ellwanger of TNC counts pitcher plants. Photo by Gary Peeples, USFWS." >}}
+{{< figure class="photo-center" src="/images/pages/green-pitcher-plants-count.jpg" alt="A biologist kneels to the ground with a hand-held counter to count individual pitchers." link="https://flic.kr/p/J6kXKv" caption="Service biologist Claire Ellwanger counts pitcher plants. Photo by Gary Peeples, USFWS." >}}
 
 ## How you can help
 
