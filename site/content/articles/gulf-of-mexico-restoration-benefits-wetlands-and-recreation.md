@@ -51,6 +51,7 @@ The Bahia Grande project restores and conserves the wetland complex in the Lagun
 Restoration in Grand Bay Mississippi focuses on protecting important lands and waters. The land acquisition and habitat management work to more effectively and efficiently restore and manage target habitats for the benefit of coastal resources within the boundaries of the Grand Bay National Wildlife Refuge, Grand Bay National Estuarine Research Reserve (NERR), and Grand Bay Savanna Coastal Preserve in Jackson County, Mississippi.
 
 “Grand Bay is a special place. It includes some of the last remaining wet pine savannas on the Gulf coast,” said Jereme Phillips, Refuge Manager, Grand Bay National Wildlife Refuge. “The expansive salt marshes provide nursery habitat for fish, crabs, shellfish, and other marine life. Pine flatwoods and freshwater wetlands support nesting and foraging habitat for birds. *Deepwater Horizon* NRDA and GEBF restoration projects are truly transforming the area thanks to our strong partnership with Grand Bay National Estuarine Research Reserve and the tremendous support of our state and federal co-trustees and the National Fish and Wildlife Foundation. Great things are happening at Grand Bay right now and it’s so exciting for us to be a part of it.”
+
 There’s good news flowing out of the myriad Gulf restoration efforts every day. Through partnership and collaboration, the Gulf will continue to be revitalized. You can learn more about these and other projects focused on wetland, coastal and nearshore habitat at the Trustee’s Gulf Spill Restoration site.
 
 {{< figure class="photo-center" src="/images/pages/salt-marsh-at-grand-bay-nwr.jpg" alt="Brown marsh grass with pine trees in the background" caption="Salt marsh at Grand Bay National Wildlife Refuge. Photo by USFWS." >}}
@@ -58,4 +59,4 @@ There’s good news flowing out of the myriad Gulf restoration efforts every day
 ## Contact
 
 Taylor Pool, Public Affairs Specialist  
-[taylor_pool@fws.gov](mailto:taylor_pool@fws.gov), (703) 358-2128
+[taylor_pool@fws.gov](mailto:taylor_pool@fws.gov), (404) 679-4096
