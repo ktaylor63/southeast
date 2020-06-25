@@ -10,7 +10,7 @@ hero:
 tags:
     - 'Friends Group'
     - Volunteers
-updated: 'May 29th, 2019'
+updated: 'June 25th, 2020'
 ---
 
 ## Friends of Wolf Creek NFH, Inc.
@@ -26,9 +26,19 @@ Contact Wolf Creek NFH to learn more or to become a member: [friendsofwolfcreekn
 
 ## Volunteer
 
-A visit to the hatchery may inspire you to learn more about volunteering with the U.S. Fish and Wildlife Service. Volunteer at the visitor center or help with fish production, one day per week, month, or become a full-time work camper.
+Wolf Creek NFH relies heavily on volunteers to maintain facilities and provide services. Here, the contributions of volunteers are equivalent to nearly six additional full time employees per year.
 
-For those living on one of the campsites, hours are estimated at 20 to 24 per person, per week.  For all others, any and all time is greatly appreciated!  In exchange for service, volunteers receive a free campsite with water, electric and sewer hookup along with wireless internet access and laundry facilities. Propane hookup available during the winter months.
+There are many opportunities to volunteer with Wolf Creek NFH--whether that’s assisting in the Visitor Center or helping with fish production, volunteering during special events, or becoming a resident work camper.
+
+### Work Camping Program
+
+We rely on work camping volunteers to staff and maintain our Center and assist in outreach activities year-round. Minimum three month commitment preferred.
+
+In exchange for 20-27 hours/person/week (summer) and 18-24 hours/person/week (winter), volunteers receive a full hook-up campsite on a large, level, gravel lot, with fire pit and picnic table, onsite laundry, and limited WiFi. Propane provided during winter.
+
+Work camping volunteer duties include: serving as point of contact for visitors--answering questions/providing assistance; leading tours and helping with field trips; caring for live education animals; performing day-to-day operation of Center gift shop; stocking brochures and handouts; cleaning Center including restrooms; performing minor maintenance; helping to plan special events, workshops and other outreach programs.
+
+Wolf Creek NFH sets in the Cumberland River valley, just below Wolf Creek Dam on Lake Cumberland. This area boasts stunning scenic views and offers plentiful wildlife observation opportunities. With Lake Cumberland, the Cumberland River, and Hatchery Creek in your backyard, it's certainly an angler's paradise. Nestled in the south central hills of Kentucky, this location proves to be central to many regional features including other federal and state lands, as well as private attractions, providing ample opportunity for day trips during your down time.
 
 ## Contact
 

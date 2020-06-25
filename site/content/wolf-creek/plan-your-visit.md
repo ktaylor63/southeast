@@ -11,7 +11,7 @@ tags:
     - Fishing
     - Kentucky
     - 'Wolf Creek National Fish Hatchery'
-updated: 'May 16th, 2019'
+updated: 'June 25th, 2020'
 ---
 
 Come face to face with the region’s underwater friends, explore karst terrain, see the inner workings of an active honey bee hive, and meet Dale, the lifelike animatronic fish biologist—all by stepping into the unique and exciting exhibit hall at the Wolf Creek National Fish Hatchery Visitor/Environmental Education Center.
@@ -40,9 +40,17 @@ Catch your limit in the upper section of the creek or explore the lower stretche
 
 The creek is stocked three to four times per week. The creek limit in the Upper Section is five fish per person per day.
 
+KY fishing license & trout permit required for individuals 16 years old and over.
+
+### Parking
+
+Anglers are encouraged to park in the main lot in front of Visitor Center. For lower access, use gravel lot off Annex Rd. (from Ray Man Rd). There is limited accessible parking at Upper Hatchery Creek (from Catch a Rainbow Ln). Handicap hang-tag or plate required.
+
 ## Kendall Campground
 
-The campground will be open for the 2019 recreation season: March 28, 2019 - November 24, 2019. To reserve a site visit [recreation.gov](https://www.recreation.gov/) or call 1-877-444-6777 To reach Kendall Campground directly call 270-343-4660. For more information about Lake Cumberland visit http://www.lrn.usace.army.mil/locations/lakes/lakecumberland.aspx.
+Kendall is a multi-use recreation area enveloping 70 acres alongside the Cumberland River on the downstream side of Wolf Creek Dam, adjacent to Wolf Creek NFH. It is the largest recreation area managed by the Army Corps of Engineers at Lake Cumberland. Because of its amenities and location, it is quite the desirable destination for camping recreation. Making reservations in advance is highly recommended.
+
+Kendall Campground, including Kendall Forest Campground (Kendall Annex), will be open for the 2020 recreation season beginning March 26 and will remain in operation through November 30, 2020. To reserve a site visit [recreation.gov](https://www.recreation.gov/), or call 1-877-444-6777. Please contact the Lake Cumberland Resource Manager's Office at (606) 679-6337 with any questions. To reach the Gatehouse, call (270) 343-4660. [Learn more about Kendall Recreation Area](https://www.lrn.usace.army.mil/Locations/Lakes/Lake-Cumberland/Campgrounds/Kendall/).
 
 ## Hiking and biking
 
