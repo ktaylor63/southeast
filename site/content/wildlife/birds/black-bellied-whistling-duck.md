@@ -11,6 +11,7 @@ hero:
     name: black-bellied-whistling-duck.jpg
     alt: 'A brown and grey duck with a black belly standing at the entrance to a large birdhouse'
     caption: 'Black-bellied whistling duck. Photo by Stacey Hayden, USFWS.'
+    position: 50% 35%
 tags:
     - Arkansas
     - Bird

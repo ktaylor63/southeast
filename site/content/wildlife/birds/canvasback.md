@@ -11,6 +11,7 @@ hero:
     name: canvasback.jpg
     alt: 'A rust colored bird preening in the water.'
     caption: 'Canvasback. Photo by Clayton Ferrell, USFWS.'
+    position: 50% 15%
 tags:
     - Alabama
     - Alaska

@@ -11,6 +11,7 @@ hero:
     name: gadwalls.jpg
     alt: 'Two splotchy brown birds swimming in a pond'
     caption: 'A pair of gadwalls. Photo by Stacey Hayden, USFWS.'
+    position: 50% 85%
 tags:
     - Alabama
     - Alaska

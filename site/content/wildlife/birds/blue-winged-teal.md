@@ -11,6 +11,7 @@ hero:
     name: blue-winged-teal.jpg
     alt: 'Three brown birds with white spots on the edge of their wings standing in water'
     caption: 'Blue-winged teals. Photo by Clayton Ferrell, USFWS.'
+    position: 50% 40%
 tags:
     - Alabama
     - Alaska
