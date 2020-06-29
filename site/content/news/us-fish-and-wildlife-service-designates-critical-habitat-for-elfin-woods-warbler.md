@@ -1,5 +1,5 @@
 ---
-title: 'U. S. Fish and Wildlife Service designates Critical Habitat for Elfin-woods warbler'
+title: 'U. S. Fish and Wildlife Service designates critical habitat for Elfin-woods warbler'
 date: 2020-06-29T00:00:00.000Z
 hero:
     name: elfin-woods-warbler.jpg

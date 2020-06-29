@@ -1,5 +1,5 @@
 ---
-title: 'Final Critical Habitat Designation for the Elfin-Woods Warbler'
+title: 'Final critical habitat designation for the Elfin-eoods warbler'
 date: 2020-06-29T00:00:00.000Z
 hero:
     name: elfin-woods-warbler.jpg

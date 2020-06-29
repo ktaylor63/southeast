@@ -1,5 +1,5 @@
 ---
-title: 'Designación Final de Hábitat Crítico para la Reinita de Bosque Enano'
+title: 'Designación final de hábitat crítico para la Reinita de bosque enano'
 date: 2020-06-29T00:00:00.000Z
 hero:
     name: elfin-woods-warbler.jpg
