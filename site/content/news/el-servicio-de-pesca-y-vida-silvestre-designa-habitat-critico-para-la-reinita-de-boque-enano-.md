@@ -6,6 +6,7 @@ hero:
     alt: 'A white breasted bird with blueish grey feathers.'
     caption: 'Elfin-woods warbler. <a href="https://flic.kr/p/9U6RfW">Photo</a> by Mike Morel, USFWS.'
 tags:
+    - 'Caribbean Ecological Services Field Office'
     - 'Critical Habitat'
     - 'Elfin-Woods Warbler'
     - 'Endangered Species Act'
