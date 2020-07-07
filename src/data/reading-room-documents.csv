@@ -321,7 +321,7 @@ Wolf Island National Wildlife Refuge,,Bird List,,bird-list/savannah-coastal-refu
 Cape Romain National Wildlife Refuge,,Bird List,,bird-list/cape-romain-national-wildlife-refuge.pdf,,,,
 Florida Panther National Wildlife Refuge,,Comprehensive Conservation Plan,,https://catalog.data.gov/dataset/florida-panther-national-wildlife-refuge-comprehensive-conservation-plan,2000,National Wildlife Refuge System,,
 Lower Suwannee and Cedar Keys National Wildlife Refuges,,Comprehensive Conservation Plan,,https://catalog.data.gov/dataset/lower-suwannee-cedar-keys-national-wildlife-refuges-comprehensive-conservation-plans,2000,National Wildlife Refuge System,,
-Arthur R. Marshall Loxahatchee National Wildlife Refuge,,Comprehensive Conservation Plan,,https://catalog.data.gov/dataset/arthur-r-marshall-loxahatchee-national-wildlife-refuge-comprehensive-conservation-plan,2000,National Wildlife Refuge System,,
+Arthur R. Marshall Loxahatchee National Wildlife Refuge,,Comprehensive Conservation Plan,,https://ecos.fws.gov/ServCat/Reference/Profile/1379,2000,National Wildlife Refuge System,,
 Ten Thousand Islands National Wildlife Refuge,,Comprehensive Conservation Plan,,https://catalog.data.gov/dataset/ten-thousand-islands-national-wildlife-refuge-comprehensive-conservation-plan,2000,National Wildlife Refuge System,,
 Sam D. Hamilton Noxubee National Wildlife Refuge,,Comprehensive Conservation Plan,,https://catalog.data.gov/dataset/sam-d-hamilton-noxubee-national-wildlife-refuge-comprehensive-conservation-plan,2014,National Wildlife Refuge System,,
 Bayou Cocodrie National Wildlife Refuge,,Comprehensive Conservation Plan,,https://catalog.data.gov/dataset/bayou-cocodrie-national-wildlife-refuge-comprehensive-conservation-plan,2004,National Wildlife Refuge System,,
@@ -622,7 +622,7 @@ Pocosin Lakes National Wildlife Refuge,,Fire Management Plan,,https://catalog.da
 Ernest F. Hollings Ace Basin National Wildlife Refuge,,General Brochure,,brochure/ace-basin-national-wildlife-refuge.pdf,,National Wildlife Refuge System,,
 ,Endangered Red Wolf Brochure,General Brochure,,brochure/red-wolf.pdf,,National Wildlife Refuge System,"Alligator River, Pocosin Lakes, Cedar Island",
 Alligator River National Wildlife Refuge,,General Brochure,,brochure/alligator-river-national-wildlife-refuge.pdf,,National Wildlife Refuge System,,
-Arthur R. Marshall Loxahatchee National Wildlife Refuge,,General Brochure,,brochure/arm-loxahatchee-national-wildlife-refuge.pdf,,National Wildlife Refuge System,,
+Arthur R. Marshall Loxahatchee National Wildlife Refuge,,General Brochure,,brochure/arm-loxahatchee-national-wildlife-refuge.pdf,2020,National Wildlife Refuge System,,
 Atchafalaya National Wildlife Refuge,,General Brochure,,brochure/atchafalaya-national-wildlife-refuge.pdf,,National Wildlife Refuge System,,
 Bald Knob National Wildlife Refuge,,General Brochure,,brochure/bald-knob-national-wildlife-refuge.pdf,,National Wildlife Refuge System,,
 Bayou Cocodrie National Wildlife Refuge,,General Brochure,,brochure/bayou-cocodrie-national-wildlife-refuge.pdf,,National Wildlife Refuge System,,
@@ -993,9 +993,7 @@ Wassaw National Wildlife Refuge,,Rack Card,,rack-card/wassaw-national-wildlife-r
 Wassaw National Wildlife Refuge,en español,Rack Card,,rack-card/wassaw-national-wildlife-refuge-spanish.pdf,,National Wildlife Refuge System,,
 Chattahoochee Forest National Fish Hatchery,,Rack Card,,rack-card/chattahoochee-national-fish-hatchery-rack-card.pdf,,National Fish Hatchery,,
 Ernest F. Hollings Ace Basin National Wildlife Refuge,Hunting and Fishing Regulations,Regulations,TRUE,regulations/ace-basin-national-wildlife-refuge.pdf,,National Wildlife Refuge System,,South Carolina
-Arthur R. Marshall Loxahatchee National Wildlife Refuge,Waterfowl Hunt Regulations,Regulations,TRUE,regulations/arm-loxahatchee-national-wildlife-refuge-waterfowl.pdf,2019-2020,National Wildlife Refuge System,,Florida
-Arthur R. Marshall Loxahatchee National Wildlife Refuge,Alligator Hunt Regulations,Regulations,TRUE,regulations/arm-loxahatchee-national-wildlife-refuge-alligator.pdf,2019-2020,National Wildlife Refuge System,,Florida
-Arthur R. Marshall Loxahatchee National Wildlife Refuge,Fishing and Boating Regulations,Regulations,,regulations/arm-loxahatchee-national-wildlife-refuge-fishing-and-boating.pdf,,National Wildlife Refuge System,,Florida
+Arthur R. Marshall Loxahatchee National Wildlife Refuge,Hunting Regulations,Regulations,TRUE,regulations/arm-loxahatchee-national-wildlife-refuge-hunting.pdf,2020-2021,National Wildlife Refuge System,,Florida
 Bayou Cocodrie National Wildlife Refuge,Public use regualations,Regulations,TRUE,regulations/lower-mississippi-river-refuge-complex.pdf,2019-2020,National Wildlife Refuge System,,Mississippi
 Bayou Sauvage National Wildlife Refuge,Hunting and Fishing Regulations,Regulations,TRUE,regulations/bayou-sauvage-national-wildlife-refuge-hunt.pdf,2019-2020,National Wildlife Refuge System,,Louisiana
 Bayou Teche National Wildlife Refuge,Hunting and Fishing Regulations,Regulations,TRUE,regulations/bayou-teche-national-wildlife-refuge-hunt-fish.pdf,2019-2020,National Wildlife Refuge System,,Louisiana
@@ -1162,7 +1160,6 @@ Pee Dee National Wildlife Refuge,,Tearsheet,TRUE,tearsheet/pee-dee-national-wild
 ,Black Bear Tearsheet,Tearsheet,,tearsheet/black-bear.pdf,,National Wildlife Refuge System,"Alligator River, Pocosin Lakes, Mattamuskeet",
 Alligator River National Wildlife Refuge,Tearsheet with Map,Tearsheet,,tearsheet/alligator-river-national-wildlife-refuge.pdf,,National Wildlife Refuge System,,
 ,North Carolina Gateway Visitor Center Tearsheet,Tearsheet,,tearsheet/north-carolina-gateway-national-wildlife-refuges.pdf,,National Wildlife Refuge System,"Alligator River, Pea Island, Pocosin Lakes, Roanoke River, Mattamuskeet, Cedar Island, Swanquarter, Currituck, Mackay Island, Great Dismal Swamp, Back Bay, Edenton National Fish Hatchery",
-Arthur R. Marshall Loxahatchee National Wildlife Refuge,,Tearsheet,TRUE,tearsheet/arthur-r-marshall-loxahatchee.pdf,2019,National Wildlife Refuge System,,
 Bayou Sauvage National Wildlife Refuge,,Tearsheet,,tearsheet/bayou-sauvage-national-wildlife-refuge.pdf,,National Wildlife Refuge System,,
 Big Branch Marsh National Wildlife Refuge,,Tearsheet,,tearsheet/big-branch-marsh-national-wildlife-refuge.pdf,,National Wildlife Refuge System,,
 Cache River National Wildlife Refuge,,Tearsheet,,tearsheet/cache-river-national-wildlife-refuge.pdf,,National Wildlife Refuge System,,
