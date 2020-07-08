@@ -16,7 +16,7 @@ hero:
     alt: 'A brown eagle with a very sharp curved beak flying through the air.'
     link: 'https://flic.kr/p/qGpPKT'
     caption: 'Golden eagle. Photo by Tom Koerner, USFWS.'
-updated: 'June 11, 2020'
+updated: 'July 8, 2020'
 ---
 
 > Regional Announcement: Our mailing address has changed. For all written bald eagle or golden eagle permit correspondence please use 1875 Century Boulevard,  Atlanta, GA 30345.
@@ -82,4 +82,4 @@ For technical assistance on a project or questions about monitoring within South
 
 For all written bald eagle or golden eagle permit correspondence please use 1875 Century Boulevard,  Atlanta, GA 30345.
 
-For questions about migratory bird and eagle permitting in Southeast – Region 4 and throughout the nation, please visit the [Permits Regional Offices website](https://www.fws.gov/migratorybirds/mbpermits/Addresses.html) to determine your regional contact.
+For questions about migratory bird and eagle permitting in Southeast – Region 4 and throughout the nation, please visit the [Permits Regional Offices website](https://www.fws.gov/birds/policies-and-regulations/permits/regional-permit-contacts.php) to determine your regional contact.
