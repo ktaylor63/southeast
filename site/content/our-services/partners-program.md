@@ -23,12 +23,14 @@ hero:
     alt: 'A hand holds a wooden walking stick with a persons blurred torso in the background'
     caption: 'A biologist in a bog. <a href="https://flic.kr/p/rpRgQq">Photo</a> by Gary Peeples, USFWS.'
     link: 'https://flic.kr/p/rpRgQq'
-updated: 'March 25th, 2019'
+updated: 'July 16, 2020'
 ---
 
 The Southeast Region Partners for Fish and Wildlife Program provides technical and financial assistance to private landowners interested in improving habitat for migratory birds, endangered, threatened and at-risk species while maintaining the their primary land management goals. This is a voluntary program in which landowners continue to manage their land for their objectives as well as for wildlife, which most of the time go-hand-in-hand.
 
 The future of healthy fish and wildlife populations in the Southeast is in the hands of private landowners, who own more than 90% of the region’s land. Many of our projects are in working landscapes such as forests, farms, and ranches, where our goal is to improve wildlife habitat while keeping those lands working. We concentrate our efforts in focus areas of conservation concern, such as imperiled habitats like longleaf pine, bottomland hardwoods, tropical forests, native prairies, marshes, rivers and streams.
+
+[Download the 2019 Partners for Fish and Wildlife Annual Report](https://www.fws.gov/partners/docs/2020-06-22-pfw-2019-annualreport.pdf).
 
 {{< content-scroller tag="Partners for Fish and Wildlife Program" heading="Related content" >}}
 

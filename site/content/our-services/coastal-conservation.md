@@ -11,12 +11,14 @@ hero:
     name: loggerhead-baby-saved.jpg
     alt: 'A biologist holding a tiny loggerhead sea turtle with a USFWS biologist in uniform in the background.'
     caption: 'A loggerhead sea turtle hatchling at Cape Romain National Wildlife Refuge. <a href="https://flic.kr/p/cECWef">Photo</a> by Keith Fuller for USFWS.'
-updated: 'April 25th, 2017'
+updated: 'July 16, 2020'
 ---
 
 From the Atlantic coast of North Carolina, south to Florida, west across the Gulf of Mexico to Louisiana, and along the coastlines of Puerto Rico and the US Virgin Islands, the coastal area in the Southeast covers more than **26,000 miles** of tidal shoreline and nearshore habitats, and more than **86 million acres** of diverse coastal habitat and natural resources. This area accounts for the largest, most diverse and most productive coastal area in the country.
 
 However, our southeastern coasts need our attention. The U.S. Geological Survey estimated that Louisiana’s coastline has been losing wetlands at a rate of 16.6 square miles a year for the past 25 years, **equal to the loss of a football field of wetlands every hour**. In addition,the U.S. Global Change Research Program predicts sea level rise and the likely increase in hurricane intensity and associated storm surge will be among the most serious consequences of climate change in the Southeast, directly impacting our coasts.
+
+[Download the 2019 Coastal Program Accomplishment Report](https://www.fws.gov/coastal/pdfs/Annual-Accomplishment-Report-(508-compliant)-2020-06-29.pdf).
 
 {{< figure class="photo-center" src="/images/pages/piping-plover-on-beach.jpg" alt="A small white bird with gray back standing on a debris strewn beach." caption="The piping plover, a species listed as threatened, calls our southeastern coastlines home. Photo by USFWS." link="https://flic.kr/p/9U6URh">}}
 
