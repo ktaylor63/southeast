@@ -14,7 +14,7 @@ tags:
     - Permits
     - Recovery
 js: /js/10a1a-permits.js
-updated: 'April 17th, 2020'
+updated: 'July 21, 2020'
 ---
 
 <div style="border-radius: 5px; border: 3px solid #006358; box-shadow: 5px 5px 3px rgba(0,0,0,0.3); padding: 1rem;">
@@ -88,11 +88,11 @@ For general information about these permits and points of contact, see our fact 
 
 ## How do I apply for a 10(a)(1)(A) Recovery or Interstate Commerce Permit?
 
-One of the first things you need to do to apply for a permit is contact your nearest <a href="/map/?search=Ecological+Services" target="_blank">USFWS Ecological Services Office</a>. U.S. Fish and Wildlife Service staff can help you determine whether your proposed project or action is likely to result in "take," whether a permit is required, or if there are other options to consider. U.S. Fish and Wildlife Service personnel can also provide technical assistance to help you design your project to avoid take.
+One of the first things you need to do to apply for a permit is contact your nearest [USFWS Ecological Services Office](https://www.fws.gov/ecological-services/map/directory.html). U.S. Fish and Wildlife Service staff can help you determine whether your proposed project or action is likely to result in "take," whether a permit is required, or if there are other options to consider. U.S. Fish and Wildlife Service personnel can also provide technical assistance to help you design your project to avoid take.
 
-When and if you decide that a permit is needed, the next thing you will need to do is complete an [application for the permit](http://www.fws.gov/forms/3-200-55.pdf). Please read the instructions on how to fill out the online forms before accessing the forms.
+When and if you decide that a permit is needed, the next thing you will need to do is complete an application for the permit. Please read the instructions on how to fill out the online forms before completing the forms.
 
-Apply for [Recovery Permits and Interstate Commerce Permits](http://www.fws.gov/forms/3-200-55.pdf). (288 KB Adobe pdf file)
+Apply for [Recovery Permits and Interstate Commerce Permits](https://www.fws.gov/endangered/permits/how-to-apply.html) using application Form 3-200-59 and Form 3-200-60, respectively.
 
 ## What happens to my permit after I mail it to the Regional Office in Atlanta?
 
