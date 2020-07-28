@@ -58,7 +58,7 @@ tags:
     - Virginia
     - 'West Virginia'
     - Wisconsin
-updated: 'April 6th, 2020'
+updated: 'July 28, 2020'
 ---
 
 - **Taxon**: Bird
@@ -205,7 +205,7 @@ A recovery plan for the eastern black rail, informed by the [Species Status Asse
 
 ## Subject matter expert
 
-- Whitney Beisler, Fish and Wildlife Biologist, South Carolina Ecological Services Field Office; (843)727-4707 ext. 228; [whitney_beisler@fws.gov](mailto:whitney_beisler@fws.gov)
+- Mark A. Caldwell, Deputy Field Supervisor, South Carolina Ecological Services Field Office; (843) 727-4707 ext. 215; [mark_caldwell@fws.gov](mailto:mark_caldwell@fws.gov)
 
 ## Designated Critical Habitat
 
