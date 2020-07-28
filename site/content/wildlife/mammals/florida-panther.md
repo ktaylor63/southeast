@@ -20,7 +20,7 @@ hero:
     alt: 'A Florida panther walking on a gravel road with a slash pine forest in the background'
     name: florida-panther.jpg
     position: 'left center'
-updated: 'March 25th, 2019'
+updated: 'July 28th, 2020'
 ---
 
 - **Taxon:** Mammal
@@ -143,7 +143,7 @@ The Florida Panther Fund was established by The Wildlife Foundation of Florida t
 
 ### Support panther research
 
-Florida panther research and management conducted by the Florida Fish and Wildlife Conservation Commission is funded almost entirely through the Florida Panther Research and Management Trust Fund. This fund receives its monies from the purchase and annual renewal of the Protect the Panther specialty license plate. Tag holders give an annual $25.00 donation into the fund when they renew their registrations. Visit the [Protect the Panther license plate website](http://www.buyaplate.com/Protect%2520The%2520Panther) to learn more.
+Florida panther research and management conducted by the Florida Fish and Wildlife Conservation Commission is funded almost entirely through the Florida Panther Research and Management Trust Fund. This fund receives its monies from the purchase and annual renewal of the Protect the Panther specialty license plate. Tag holders give an annual $25.00 donation into the fund when they renew their registrations. Visit the [Protect the Panther license plate website](https://myfloridaspecialtyplate.com/protect-the-panther.html) to learn more.
 
 ## Subject matter experts
 
