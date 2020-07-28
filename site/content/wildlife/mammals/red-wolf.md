@@ -120,21 +120,19 @@ Every quarter, the Service and its partners in red wolf recovery meet via a conf
 1. provide a forum for regular and effective coordination on current actions and collaborative efforts among all partners in red wolf recovery, and
 2. provide other interested parties and the public with updates on the status of red wolf conservation efforts.
 
-The updates the Service provides on these calls are available in the reading room.
-
 ## Community involvement
 
 On Dec.10, 2019, the Service held a joint public information session with the North Carolina  Wildlife Resources Commission regarding the red wolf recovery efforts and management of canids on the Albemarle Peninsula. The goal was to inform residents living in and around the five-county nonessential experimental population area in eastern North Carolina (Beaufort, Dare, Hyde, Tyrrell and Washington counties) about ongoing work and plans for canid management.
 
-## Prey for the Pack – Partners for Fish and Wildlife Program
+### Prey for the Pack – Partners for Fish and Wildlife Program
 
 Prey for the Pack is a new habitat improvement program through the Services’ Partners for Fish and Wildlife Program, in collaboration with the North Carolina Wildlife Federation, and is available to private landowners interested in and committed to improving wildlife habitats on their property.  The program will help provide both technical and financial support to private landowners to help promote and implement habitat improvement projects that benefit both the landowner and the wildlife that depend on the resource, specifically to promote habitat for red wolf prey species.  In exchange for financial and technical support, landowners will allow for the presence of red wolves on their private lands un-harassed.  For more information contact Joe Madison, North Carolina Red Wolf Program Manager at [joseph_madison@fws.gov](mailto:joseph_madison@fws.gov) or (252) 473-1132 ext. 245.
 
-## The Red Wolf Center – Columbia, North Carolina
+### The Red Wolf Center – Columbia, North Carolina
 
 The Red Wolf Center located just outside Columbia, North Carolina, is a public education center that houses red wolf displays and a live red wolf pair in a viewing enclosure. The Red Wolf Center is a collaborative effort between the Service, the North Carolina Wildlife Federation and National Wildlife Refuge Association.  The Red Wolf Center also offers red wolf educational talks to school and other groups. To learn more about the Red Wolf Center, schedule a tour or a presentation, or facilities hours, contact Sarah Loeffler at [sarah.Loeffler@ncwf.org](mailto:sarah.Loeffler@ncwf.org) or call 252-796-3004 ext. 234.
 
-## Report North Carolina red wolf sightings
+### Report North Carolina red wolf sightings
 
 Report suspected red wolf sightings and information to the Red Wolf Hotline at 1-855-4WOLVES (496-5837) or [redwolf@fws.gov](mailto:redwolf@fws.gov).
 
