@@ -5,10 +5,9 @@ type: species-profile
 scientific: 'Canis rufus'
 js: /js/species-profile.js
 hero:
-    name: red-wolf-at-point-defiance.jpg
-    alt: 'An adult wolf walking in an enclosure at the zoo.'
-    caption: 'Captive red wolf at Species Survival Plan facility, Point Defiance Zoo and Aquarium (Tacoma, WA). <a href="https://flic.kr/p/hJ1eXL">Photo</a> by B. Bartel, USFWS.'
-    position: 'top left'
+    name: red-wolf-collared.jpg
+    alt: 'An adult wolf wearing a transmitter collar.'
+    caption: 'A collared red wolf in the wild in North Carolina. Photo &copy; John Troth, used with permission.'
 aliases:
     - /wildlife/mammal/red-wolf
     - /species/mammal/red-wolf
@@ -25,30 +24,32 @@ tags:
     - 'Red Wolf'
     - 'South Carolina'
     - 'South Carolina Ecological Services Field Office'
-updated: 'November 21st, 2019'
+updated: 'July 28th, 2020'
 ---
 
 - **Taxon**: Mammal
 - **Range**: Eastern [North Carolina](/north-carolina)
-- **Status**: Designated an endangered species in 1967
+- **Status**: First listed as “threatened with extinction” under the Endangered Species Preservation Act of 1966 in 1967. Currently listed as an endangered species under the Endangered Species Act of 1973.
 
 {{< content-scroller tag="Red Wolf" heading="Related content" >}}
 
-The red wolf is one of the world’s most endangered wolves. Once common throughout the Eastern and South Central United States, red wolf populations were decimated by the early 20th century as a result of intensive predator control programs and the degradation and alteration of the species' habitat. When the red wolf was designated endangered in 1967, the U.S. Fish and Wildlife Service initiated efforts to conserve and recover the species. Today, about 40 red wolves roam their native habitats in eastern North Carolina as a non-essential, experimental population (NEP), and more than 200 red wolves are maintained in captive breeding facilities throughout the United States.
+## Species information
+
+The red wolf is the world’s most endangered wolf. Once common throughout the Eastern and South Central United States, red wolf populations were decimated by the early 20th century as a result of intensive predator control programs and the degradation and alteration of the species’ habitat. When the red wolf was first designated as a species “threatened with extinction” under the Endangered Species Preservation Act in 1967, the U.S. Fish and Wildlife Service initiated efforts to conserve and recover the species. Today, only about 20 red wolves roam their native habitats in eastern North Carolina as a nonessential experimental population (NEP), and approximately 245 red wolves are maintained in 43 captive breeding facilities throughout the United States. Studies are currently underway to identify the possibility of red wolf ancestry still remaining in the wild in southwestern Louisiana and southeastern Texas.
 
 [Download the species status assessment](https://ecos.fws.gov/ServCat/Reference/Profile/98417).
 
-{{< figure class="photo-center" src="/images/pages/red-wolf-straight-on-face.jpg" alt="A light brown and grey wolf with ears perked" caption="Captive red wolf at Species Survival Plan facility, Point Defiance Zoo and Aquarium (Tacoma, WA). Photo by B. Bartel, USFWS" >}}
+{{< figure class="photo-center" src="/images/pages/red-wolves-in-north-carolina.jpg" alt="Two adult wolves with brownish/redish gray fur" caption="Red wolves in North Carolina. Photo &copy; John Eppler, used with permission." >}}
 
 ## Appearance
 
-The red wolf (_Canis rufus_) is a native North American canid intermediate in size between the coyote (_Canis latrans_) and gray wolf (_Canis lupus_). Red wolves are mostly brown and buff colored with some black along their backs, often with a reddish color on their ears, head and legs. Adult red wolves range in weight from about 45 to 80 pounds. Red wolves have wide heads with broad muzzles, tall pointed ears and long, slender legs with large feet. Red wolves stand about 26 inches at their shoulder and are about 4 feet long from the tip of the nose to the tip of the tail.
+The red wolf (*Canis rufus*) is a native North American canid intermediate in size between the coyote (*Canis latrans*) and gray wolf (*Canis lupus*). Red wolves are mostly brown and buff colored with some black along their backs, often with a reddish color on their ears, head and legs. Adult red wolves range in weight from about 45 to 80 pounds. Red wolves have wide heads with broad muzzles, tall pointed ears and long, slender legs with large feet. Red wolves stand about 26 inches at their shoulder and are about 4 feet long from the tip of the nose to the tip of the tail.
 
-{{< figure class="photo-center" src="/images/pages/red-wolf-pups.jpg" alt="Two fluffy brown red wolf pups sleeping on one another" caption="Red wolf pups. Photo by Ryan Nordsven, USFWS." >}}
+{{< figure class="photo-center" src="/images/pages/red-wolf-running-wearing-collar.jpg" alt="A red wolf running at full speed in a field full of yellow flowers" caption="A collared red wolf in the wild in North Carolina. Photo &copy; Running Wild Media, used with permission." >}}
 
 ## Habitat
 
-The last red wolves were found in coastal prairie and marsh habitat because this was the last area in which the animals were allowed to remain. Any habitat area in the Southeastern United States of sufficient size, which provides adequate food, water, and cover, should be suitable habitat for the red wolf. Telemetry studies indicate that red wolf home range requirements vary from about 25 to 50 square miles.
+In the late 1970s, red wolves in the wild were found only in southeastern Texas and southwestern Louisiana in coastal prairie and marsh habitat. However, any habitat in the Southeastern United States of sufficient size, which provides adequate food, water, and cover, could be suitable for the red wolf. Telemetry studies in eastern North Carolina indicate that red wolf home range requirements vary from about 20 to 80 square miles.
 
 ## Range
 
@@ -60,7 +61,7 @@ Although the exact diet of red wolves varies depending on available prey, it usu
 
 ## Behavior
 
-Red wolves are social animals that live in close-knit packs. Typical packs consist of five to eight animals, including a breeding adult pair and their offspring of different years. Older offspring will often assist the breeding pair in pup rearing. Almost all offspring between one and two years of age will leave the pack or “disperse” to form their own pack.
+Red wolves are social animals that live in close-knit packs. Typical packs consist of five to eight animals, including a breeding adult pair and their offspring of different years. Older offspring will often assist the breeding pair in pup rearing. Almost all offspring between one and two years of age will leave the pack or disperse to form their own pack.
 
 Red wolves tend to form pair-bonds for life and mate once a year in February. Pups are typically born in April or May in well-hidden dens that may be located in hollow trees, stream banks and sand knolls. Dens have also been found in holes dug in the ground near downed logs or forest debris piles. Fewer than half of wolf pups born in the wild survive to adulthood. Survival rates are affected by disease, malnutrition and predation.
 
@@ -68,31 +69,81 @@ Wolf packs have specific territories that they actively defend against other can
 
 ## Threats
 
-Human-caused mortality (e.g., vehicle strikes, gunshots) can remove breeders from the wild wolf population. These threats, combined with habitat fragmentation from increasing development, allow coyotes to expand into the NEP area. Coyotes may directly compete with wolves for resources, as well as introduce diseases, and dilute wolf genetic lines through hybridization. This is particularly true when a pack has lost one of the adults from the breeding pair close to mating season.
+The primary threat to red wolves is human-caused mortality (e.g., gunshots, vehicle strikes), which can remove breeders from the wild red wolf population. These threats, combined with habitat fragmentation from increasing development, allow coyotes to expand into the NEP area. Coyotes can directly compete with red wolves for resources, as well as introduce diseases, and dilute red wolf genetic lines through hybridization. This is particularly true when a pack has lost one of the adults from the breeding pair close to mating season.  Additionally, portions of eastern North Carolina where the current red wolf population is located are potentially subject to sea level rise as a result of climate change, which could pose a threat to their habitat.
 
-## Red wolf recovery program review
+## Program history
 
-In 2013, the Service and North Carolina Wildlife Resources Commission (NCWRC) entered into broad agreement acknowledging growing concerns from private landowners regarding management of the NEP population in the North Carolina Albemarle Peninsula. Both agencies recognized steps were needed to improve management of the NEP, which included the need to conduct an evaluation of the Red Wolf Recovery Program and the implementation of recovery actions in the NEP’s five counties in northeastern North Carolina.
+The recovery of the red wolf began as a remarkable conservation success story. By 1972, the species was reduced to a small coastal area in southeast Texas and southwest Louisiana (see map above). From 1973-1980, the Service began trapping wild canids in the area to prevent extinction of the species and establish a captive breeding program with the intention of reintroducing the species in wild. In the early 1970’s, Point Defiance Zoo and Aquarium, in association with the Service, established a captive-breeding program using 14 red wolves. After numbers continued to decline due to human persecution and habitat loss, the red wolf was subsequently declared extinct in the wild in 1980.
 
-To that end, [in 2014 the Service contracted with the Wildlife Management Institute (WMI) to conduct an independent evaluation](/news/2014/08/eastern-north-carolina-red-wolf-population-under-review/) focused on three primary elements: supporting science, program management, and human dimensions. WMI reviewed [more than 200 documents](/reading-room?q=Red+wolf+evaluation), interviewed Service and NCWRC staff at various management levels, commissioned literature reviews of red wolf genetics and ecology, held two public meetings in the red wolf restoration area, and conducted public opinion surveys.
+In 1984, the captive breeding program was approved by the Association of Zoos and Aquariums as the Red Wolf Species Survival Plan (SSP) program, which provides oversight for maintaining a healthy and genetically diverse captive stock. By this time, there were approximately 63 individuals in the captive population and the SSP was actively growing the population through the coordinated efforts of the SSP partner facilities, making reintroduction efforts possible.
 
-In light of [the findings from the WMI evaluation](/pdf/report/wmi-red-wolf-review.pdf), the Service [expanded the review in June 2015](/news/2015/06/service-halts-red-wolf-reintroductions-pending-examination-of-recovery-program/) to include the recovery efforts beyond the program’s non-essential, experimental population in North Carolina. The objective of expanding the scope was to identify actions necessary to guide red wolf recovery on the landscape. The review was part of the Service’s continuing commitment to ensure the science is right and foster trust with stakeholders as issues regarding the recovery of the red wolf were addressed and implemented.
+Recovery efforts in the wild began in northeastern North Carolina with the establishment of a nonessential experimental population, under section 10(j) of the Endangered Species Act, on Alligator River National Wildlife Refuge (NWR) in 1987. By 2011, this reintroduction effort culminated in a known population of 89 red wolves and an estimated population as high as 130 red wolves within the five county nonessential experimental population area. This was the first time a large carnivore had been declared extinct in the wild and then reintroduced in the United States. It set the stage for several subsequent reintroduction efforts that were modeled after the Red Wolf Recovery Program, such as gray wolves in Yellowstone and central Idaho, Mexican wolves in the southwestern U.S., California condors, and black-footed ferrets. Several innovative recovery tactics were first attempted by this program, with a great deal of success, including pup fostering and coyote sterilizations.
 
-The Service took steps to involve state partners and key stakeholders in the ongoing review. [A multi-faceted recovery team was reconvened in October 2015](/news/2015/10/update-red-wolf-recovery-review-progressing-towards-recommendations/) to address current and future needs to restore red wolves in the wild. The team — comprised of representatives from federal and state agencies, university scientists, species experts, representatives from non-governmental organizations, county officials, and private landowners — reviewed the implementation of recovery actions and the science of red wolf conservation related to species taxonomy and historical range, population viability, and human dimensions.
+After reaching an estimated 130 red wolves in the wild in the late 2000s, the population has since declined dramatically. Human-caused mortality has been the leading cause of this decline. Hybridization with closely related coyotes, which is exacerbated by human-caused mortality, particularly in breeding pairs, and low red wolf population numbers also played a key role in this decline.
 
-On Sept. 12, 2016, [the Service announced significant changes for red wolf recovery](/news/2016/09/science-leads-fish-and-wildlife-service-to-significant-changes-for-red-wolf-recovery/) after completing the two year, two-step review. The Service is committed to recovering the species.
+## Current status of captive population
 
-One of the most surprising findings of the Service’s review was that genetic diversity of the captive population will decline. Higher success in maintaining genetic diversity is needed to ensure a secure captive population and persistence of the red wolf species. Additionally, more animals are needed in captivity to secure the species’ survival and to support any wild population, including the current NEPin North Carolina.
+Today, there are approximately 245 red wolves in 43 SSP facilities across the country. The captive population is at capacity. In 2016, the Service made securing the captive population a priority and set a goal of a minimum of 400 animals with 52 breeding pairs in the captive population. The Service also stated it would provide resources to the SSP and work with the SSP and other partners to expand space capacity. To date, the Service has provided $514,000 through FY18 and FY19 Recovery Challenge Grants for the construction of additional red wolf enclosures.
 
-[Visit the reading room for a list of publications and other supporting documentation used in the evaluation of the program](/reading-room?q=Red+wolf+evaluation).
+{{< figure class="photo-center" src="/images/pages/red-wolf-in-the-wild.jpg" alt="A brownish red wolf looking over it's shoulder in a field of yellow flowers" caption="Red wolf in the wild. Photo &copy; Running Wild Media, used with permission." >}}
 
-In April 2018, the Service published a new [Species Status Assessment](https://ecos.fws.gov/ServCat/Reference/Profile/98417) of the most current scientific information, and a [five-year review](https://ecos.fws.gov/docs/five_year_review/doc5714.pdf) for the red wolf.
+## Current status of wild population
 
-In the five-year review, the Service recommended no change in the endangered status of the red wolf under the Endangered Species Act, a status that has been in place since 1967.
+After peaking at an estimated population of 130 red wolves (89 radio-collared), the nonessential experimental population in eastern North Carolina declined to an estimated 20, with only 10 being confirmed via active radio-collars.  The total population is an estimate based on known radio collared red wolves, adult red wolves  with radio collars that quit functioning relatively recently that are likely still on the landscape, and an additional few un-collared adult red wolves are thought to be on the landscape based on reported sightings and remote sensing cameras. The Service is working towards collaring all red wolves with bright orange collars to help the public distinguish them.  Currently less than half of the red wolves have orange collars.
 
-Also in April, the Service said it is moving to begin work with an independent organization as directed by Congress to determine within one year whether the red wolf represents a taxonomically valid species designation.
+Due to declining population size and the mortality of one or both red wolves in established breeding pairs, there were no known red wolf pups born in the wild in 2019, which is the first time that has occurred in over 30 years.  See below for management activities implemented to attempt to create red wolf breeding pairs in eastern North Carolina.
 
-## Recovery timeline
+## Management
+
+Under Section 10(j) of the Endangered Species Act (ESA), the Service can designate reintroduced populations established outside of the species’ current range, but within its historical range, as “experimental.”  This designation allows the Service to reestablish self-sustaining populations when doing so fosters its conservation and recovery.  Management of the nonessential experimental population of red wolves in eastern North Carolina is conducted in accordance with the [10(j) rule published in 1995](https://www.federalregister.gov/documents/1995/04/13/95-9291/endangered-and-threatened-wildlife-and-plants-revision-of-the-special-rule-for-nonessential), with a permanent injunction issued by the U.S. District Court incorporated. The permanent injunction prohibits taking of red wolves either directly or by landowner authorization, without first demonstrating that the red wolf is a threat to human safety of the safety of livestock or pets.
+
+In June 2018, the Service published a [proposed revised 10(j) rule](/news/2018/06/service-proposes-new-management-rule-for-non-essential-experimental-population-of-red-wolves-in-north-carolina/). In light of a federal court ruling issued in the Eastern District of North Carolina, the U.S. Fish and Wildlife Service has extended its review of this proposed rule to adapt its management of red wolves in the state. The additional review time will provide the Service the opportunity to fully evaluate the implications of the court decision.
+
+{{< figure class="photo-center" src="/images/pages/red-wolf-current-and-proposed-nep-july-2018.jpg" alt="A map of Eastern North Carolina showing the non-essential experimental population on Alligator River NWR and the surrounding counties" caption="Red wolf current and proposed non-essential experimental population. Map by Jose Barrios, USFWS." >}}
+
+## Winter 2019-2020 management activities
+
+In 1990, the Service established an island propagation site for the red wolf at [St. Vincent National Wildlife Refuge](https://www.fws.gov/refuge/st_vincent/) (NWR), an isolated island off of the Gulf Coast of Florida.  The role of this site is to propagate red wolf pups in a somewhat controlled, but natural environment that will provide them “wild experience” as juveniles for the purpose of being strategically translocated into the nonessential experimental population in eastern North Carolina.
+
+In November 2019, there was an adult female, two sub-adults, and three pups living on St. Vincent NWR. This winter, the Service moved the sub-adult male red wolf from St. Vincent NWR to Alligator River NWR, in hopes of forming a new red wolf breeding pair with a female red wolf already residing on Alligator River NWR.
+
+Additionally, the Service moved an adult male red wolf from Alligator River NWR to Pocosin Lakes NWR to attempt to form a new red wolf breeding pair with a female already residing on Pocosin Lakes NWR.
+
+Both pairs of red wolves were placed in acclimation pens temporarily with their new perspective mates until being released on mid-February 2020.  The time in the acclimation pen is intended to give the red wolf pair time to bond to one another and for the translocated red wolf time in the new area so they are more likely to remain.  Since their release, their movements and activity patterns are routinely monitored.
+
+## Outreach and education
+
+### Partnership coordination calls
+
+Every quarter, the Service and its partners in red wolf recovery meet via a conference call to provide updates on the status of red wolf related actions. The purpose of these calls is to:
+
+1. provide a forum for regular and effective coordination on current actions and collaborative efforts among all partners in red wolf recovery, and
+2. provide other interested parties and the public with updates on the status of red wolf conservation efforts.
+
+The updates the Service provides on these calls are available in the reading room.
+
+## Community involvement
+
+On Dec.10, 2019, the Service held a joint public information session with the North Carolina  Wildlife Resources Commission regarding the red wolf recovery efforts and management of canids on the Albemarle Peninsula. The goal was to inform residents living in and around the five-county nonessential experimental population area in eastern North Carolina (Beaufort, Dare, Hyde, Tyrrell and Washington counties) about ongoing work and plans for canid management.
+
+## Prey for the Pack – Partners for Fish and Wildlife Program
+
+Prey for the Pack is a new habitat improvement program through the Services’ Partners for Fish and Wildlife Program, in collaboration with the North Carolina Wildlife Federation, and is available to private landowners interested in and committed to improving wildlife habitats on their property.  The program will help provide both technical and financial support to private landowners to help promote and implement habitat improvement projects that benefit both the landowner and the wildlife that depend on the resource, specifically to promote habitat for red wolf prey species.  In exchange for financial and technical support, landowners will allow for the presence of red wolves on their private lands un-harassed.  For more information contact Joe Madison, North Carolina Red Wolf Program Manager at [joseph_madison@fws.gov](mailto:joseph_madison@fws.gov) or (252) 473-1132 ext. 245.
+
+## The Red Wolf Center – Columbia, North Carolina
+
+The Red Wolf Center located just outside Columbia, North Carolina, is a public education center that houses red wolf displays and a live red wolf pair in a viewing enclosure. The Red Wolf Center is a collaborative effort between the Service, the North Carolina Wildlife Federation and National Wildlife Refuge Association.  The Red Wolf Center also offers red wolf educational talks to school and other groups. To learn more about the Red Wolf Center, schedule a tour or a presentation, or facilities hours, contact Sarah Loeffler at [sarah.Loeffler@ncwf.org](mailto:sarah.Loeffler@ncwf.org) or call 252-796-3004 ext. 234.
+
+## Report North Carolina red wolf sightings
+
+Report suspected red wolf sightings and information to the Red Wolf Hotline at 1-855-4WOLVES (496-5837) or [redwolf@fws.gov](mailto:redwolf@fws.gov).
+
+## Subject matter experts
+
+- Emily Weller, Red Wolf Regional Recovery Lead, [emily_weller@fws.gov](mailto:emily_weller@fws.gov), (337) 291-3090
+- Joe Madison, NC Red Wolf Program Manager, [joseph_madison@fws.gov](mailto:joseph_madison@fws.gov), (252) 473-1132 ext. 245
+
+## Recovery Timeline
 
 ### 1967
 
@@ -136,7 +187,6 @@ Also in April, the Service said it is moving to begin work with an independent o
 - Publication of a final rule in the Federal Register to introduce mated pairs of red wolves into the Great Smoky Mountains National Park
 
 ### 1992
-
 - Experimental release begins at Great Smoky Mountains National Park
 
 ### 1993
@@ -154,13 +204,9 @@ Also in April, the Service said it is moving to begin work with an independent o
 ### 2000
 
 - Adaptive management plan implemented to address red wolf/coyote hybridization within the NEP area
-
-### 2006
-
+2006
 - The size of the wild population in North Carolina peaked at an estimated 120-130 wolves
-
-### 2013
-
+2013
 - The Service recognized steps were needed to improve management of the NEP, which included the need to conduct an evaluation of the Red Wolf Recovery Program
 - Memorandum of Understanding on collaborative conservation of red wolves and other canids, including coyotes, on the North Carolina Albemarle Peninsula signed by the Service and the North Carolina Wildlife Resources Commission (NCWRC)
 
@@ -179,22 +225,14 @@ Also in April, the Service said it is moving to begin work with an independent o
 ### 2016
 
 - The recovery team continued to meet with the intent to produce a set of recommendations for consideration by the Service
-- The Service announced recovery of the red wolf in the wild is possible with significant changes that must be implemented to secure the captive
-  and wild populations.
+- The Service announced recovery of the red wolf in the wild is possible with significant changes that must be implemented to secure the captive and wild populations.
 
 ### 2018
 
 - The Service published a [Species Status Assessment](https://ecos.fws.gov/ServCat/Reference/Profile/98417) and [5-year review](https://ecos.fws.gov/docs/five_year_review/doc5714.pdf) for the red wolf. The latter recommended no change in the endangered status of the red wolf under the Endangered Species Act.
-
 - [Service proposes new management rule for non-essential, experimental population of red wolves in North Carolina](/news/2018/06/service-proposes-new-management-rule-for-non-essential-experimental-population-of-red-wolves-in-north-carolina/)
 
-{{< figure class="photo-center" src="/images/pages/red-wolf-historic-range-and-nep.jpg" alt="The historical range of the red wolf covers the southeast from Texas to New York to Florida and the non-essential experimental population management area." caption="Red wolf historical range and proposed non-essential experimental population. Map by Jose Barrios, USFWS." link="https://flic.kr/p/H4bjyg" >}}
-
-{{< figure class="photo-center" src="/images/pages/red-wolf-current-and-proposed-nep-july-2018.jpg" alt="Current 5 county non-essential experimental population management area compared to the proposal." caption="Red wolf current and proposed non-essential experimental population. Map by Jose Barrios, USFWS." link="https://flic.kr/p/2971zta" >}}
-
-## Subject matter experts
-
-- Emily Weller, Red Wolf Regional Recovery Lead, [emily_weller@fws.gov](mailto:emily_weller@fws.gov), (337) 291-3090
+[For more information on the red wolf search related documents in the reading room](/reading-room/?q=red+wolf).
 
 ## Federal Register notices
 
