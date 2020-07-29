@@ -120,6 +120,8 @@ Every quarter, the Service and its partners in red wolf recovery meet via a conf
 1. provide a forum for regular and effective coordination on current actions and collaborative efforts among all partners in red wolf recovery, and
 2. provide other interested parties and the public with updates on the status of red wolf conservation efforts.
 
+- [January 2020](/pdf/notes/red-wolf-partnership-call-2020-01-16.pdf)
+
 ## Community involvement
 
 On Dec.10, 2019, the Service held a joint public information session with the North Carolina  Wildlife Resources Commission regarding the red wolf recovery efforts and management of canids on the Albemarle Peninsula. The goal was to inform residents living in and around the five-county nonessential experimental population area in eastern North Carolina (Beaufort, Dare, Hyde, Tyrrell and Washington counties) about ongoing work and plans for canid management.
