@@ -14,7 +14,7 @@ tags:
 updated: 'August 6, 2020'
 ---
 
-The Migratory Bird Treaty Act prohibits the take (including killing, capturing, selling, trading, and transport) of protected migratory bird species without prior authorization by the Department of Interior U.S. Fish and Wildlife Service.
+The [Migratory Bird Treaty Act](https://www.fws.gov/birds/policies-and-regulations/laws-legislations/migratory-bird-treaty-act.php) prohibits the take (including killing, capturing, selling, trading, and transport) of protected migratory bird species without prior authorization by the Department of Interior U.S. Fish and Wildlife Service.
 
 The Louisiana ES Office works with project proponents to develop measures to protect nesting bald eagles, colonial water birds, and habitat that is important for birds of conservation concern to the Service.  Construction time restrictions and bird abatement plans are two measures that we use to avoid impacts to nesting migratory birds.  We have also worked with regulatory agencies in securing monetary contributions from developers to offset losses of bird nesting habitat.
 
