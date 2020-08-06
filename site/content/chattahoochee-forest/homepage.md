@@ -14,11 +14,11 @@ hero:
 tags:
     - 'Endangered Species Act'
     - Georgia
-updated: 'June 9th, 2020'
+updated: 'August 6, 2020'
 ---
 
 <div style="border: 3px solid #721c24; border-radius: 5px; box-shadow: 3px 3px 5px rgba(0,0,0,0.3); padding: 1rem; margin: 1rem 0;">
-    <p>At this time, the hatchery raceway area is not open to walk-through by the public due to COVID-19. The visitor kiosk and Rock Creek are open for an enjoyable fishing experience. We encourage you to:</p>
+    <p>The hatchery raceway, visitor kiosk and Rock Creek are open for an enjoyable fishing experience. We encourage you to:</p>
     <ul>
         <li>Check local hatchery conditions on this website before visiting</li>
         <li>Follow <a href="https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/visitors.html">current CDC safe practices by</a> maintaining a safe distance between yourself and other groups</li>
