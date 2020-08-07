@@ -1,6 +1,7 @@
 ---
 title: 'Chattahoochee Forest National Fish Hatchery'
 facebook: ChattahoocheeForestNFH
+description: 'Chattahoochee Forest National Fish Hatchery is nestled deep in the heart of the North Georgia mountains, approximately 75 miles north of Atlanta. Surrounded by the 749,444 acre Chattahoochee National Forest, the hatchery occupies a 44.8 acre tract of land straddling Mill Creek and Rock Creek, which are tributaries of the Toccoa River.'
 nav: Home
 weight: 1
 office: 'Chattahoochee Forest National Fish Hatchery'
@@ -14,8 +15,10 @@ hero:
 tags:
     - 'Endangered Species Act'
     - Georgia
-updated: 'August 6, 2020'
+updated: 'August 7th, 2020'
 ---
+
+{{< figure class="photo-right" src="/images/pages/chattahoochee-forest-nfh-stocking.jpg" alt="A service employee shoots fish out of a transport truck into a stream" caption="Project Leader Kelly Taylor stocking trout the week of August 3, 2020. Photo Kelly Taylor, USFWS." >}}
 
 <div style="border: 3px solid #721c24; border-radius: 5px; box-shadow: 3px 3px 5px rgba(0,0,0,0.3); padding: 1rem; margin: 1rem 0;">
     <p>The hatchery raceway, visitor kiosk and Rock Creek are open for an enjoyable fishing experience. We encourage you to:</p>
@@ -33,6 +36,7 @@ updated: 'August 6, 2020'
 Chattahoochee Forest National Fish Hatchery is nestled deep in the heart of the North Georgia mountains, approximately 75 miles north of Atlanta. Surrounded by the 749,444 acre [Chattahoochee National Forest](https://www.fs.usda.gov/conf), the hatchery occupies a 44.8 acre tract of land straddling Mill Creek and Rock Creek, which are tributaries of the Toccoa River.
 
 The hatchery produces about one million rainbow trout each year. These fish are stocked into tailwaters, streams and lakes of Northern Georgia in cooperation with the Georgia Department of Natural Resources, Corps of Engineers, Tennessee Valley Authority, and the U.S. Forest Service.
+
 
 [Learn more about how the U.S. Fish and Wildlife Service propagates fish.](https://fws.gov/southeast/our-services/fish-production)
 
