@@ -13,7 +13,7 @@ tags:
     - 'Endangered Species Act'
     - 'Puerto Rico'
     - 'US Virgin Islands'
-updated: 'May 12th, 2020'
+updated: 'August 10, 2020'
 ---
 
 The Caribbean Ecological Services Field Office offers expertise in environmental planning for projects related to energy, transportation, water supply, development, flood control, communication towers, private development, recreation, streambank and shoreline protection. We work directly with federal agencies, state and local partners on infrastructure development projects to conserve natural resources in Puerto Rico and the U.S. Virgin Islands.
@@ -28,6 +28,10 @@ The Endangered Species Act (ESA) provides a means for conserving the ecosystems 
 The Fish and Wildlife Coordination Act requires consultation with the Fish and Wildlife Service and the fish and wildlife agencies of States where the "waters of any stream or other body of water are proposed or authorized, permitted or licensed to be impounded, diverted ... or otherwise controlled or modified" by any agency under a Federal permit or license (eg. Coast Guard permits, Corps of Engineers Section 10/404/103 permits, EPA Section 402 permits, FERC licenses, NRC power station licensing, NRCS water resource projects, etc).
 
 Consultation is to be undertaken for the purpose of "preventing loss of and damage to wildlife resources." Service conservation recommendations should be given equal value in the agency's decision making process.
+
+### Consultation under Section 7 of the Endangered Species Act with the Caribbean Ecological Services Field Office
+
+The Caribbean Ecological Services Field Office has developed the [Consultation under Section 7 of the Endangered Species Act with the Caribbean Ecological Services Field Office Template letter](/pdf/letter/consultation-under-section-7-of-the-endangered-species-act-with-the-caribbean-ecological Services-field-office-template-letter.pdf) that can be used as an example when submitting “may affect, but not likely to adversely affect” (NLAA) determinations as part of the section 7 process of the Endangered Species Act. Should you have any questions, please contact Marelisa Rivera, Deputy Field Supervisor at [Caribbean_es@fws.gov](mailto:Caribbean_es@fws.gov).
 
 ### USFWS-ESA Emergency Section 7 Consultation Best Management Practices (BMPs) for Federally Listed Species
 
