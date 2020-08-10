@@ -21,7 +21,7 @@ tags:
     - 'South Carolina'
     - Texas
     - 'West Mims Fire'
-updated: 'July 31st, 2020'
+updated: 'August 10, 2020'
 ---
 
 **Folkston, Georgia** &mdash; The thieves, armed with machetes, travel in packs targeting unsuspecting communities with chilling precision.
@@ -87,7 +87,7 @@ Florida, in 2018, cracked down on illegal berry picking. The state agriculture d
 
 The Florida Fish and Wildlife Conservation Commission tallied 300 berry-picking incidents last year &mdash; a significant increase from 2018.
 
-Florida’s regulations will likely send more poachers expecting easy pickings north of the border into Georgia. They may be in for a rude surprise this year, though. Peach State legislators, at the end of the 2020 session in early July, approved rules similar to Florida’s to curtail illegal berry harvesting. In addition to a permit, Georgia pickers would need written permission from the landowner too. Anybody stealing more than $1,500 in berries, or lying about a landowner’s permission, would face a felony charge. The legislation awaits the governor’s signature.
+Florida’s regulations will likely send more poachers expecting easy pickings north of the border into Georgia. They may be in for a rude surprise this year, though. Peach State legislators, at the end of the 2020 session in early July, approved rules similar to Florida’s to curtail illegal berry harvesting. In addition to a permit, Georgia pickers would need written permission from the landowner too. Anybody stealing more than $1,500 in berries, or lying about a landowner’s permission, would face a felony charge. The governor signed the legislation in early August.
 
 “We had lots of illegal harvests last year on state lands. We had a lot on private lands too,” said Matt Elliott, assistant chief of wildlife conservation for Georgia’s Department of Natural Resources. “A lot of times you’ll have landowners lease out berry-picking rights, but somebody else will come at night and pick the berries.”
 
