@@ -12,10 +12,10 @@ tags:
     - Fire
     - Hurricane
     - 'Oil Spill'
-updated: 'October 24th, 2017'
+updated: 'August 11, 2020'
 ---
 
-Occasionally, federal agencies must respond to emergency situations where human life and property are in danger.  Examples include oil spills, wildland fire, and weather events such as Hurricane Harvey, Irma, and Maria.  The Endangered Species Act (ESA) and its implementing regulations recognize the need to respond immediately to emergencies and provide special procedures that allow federal agencies the latitude to complete their emergency responses in order to secure human life and property without delay, while still providing them with protections that normal compliance under the ESA would have afforded them.
+Occasionally, federal agencies must respond to emergency situations where human life and property are in danger.  Examples include oil spills, wildland fire, and weather events such as Hurricane Michael, Irma, and Maria.  The Endangered Species Act (ESA) and its implementing regulations recognize the need to respond immediately to emergencies and provide special procedures that allow federal agencies the latitude to complete their emergency responses in order to secure human life and property without delay, while still providing them with protections that normal compliance under the ESA would have afforded them.
 
 It is the U.S. Fish and Wildlife Service’s policy to assist federal agencies with their  ESA compliance issues during an emergency response, but to never delay the necessary response to secure human life and property.
 
@@ -65,8 +65,8 @@ For anything else including general questions, consultation on multi-state proje
 **Christine Willis, Regional Energy Coordinator**  
 [christine_willis@fws.gov](mailto:christine_willis@fws.gov), (404) 679-7310  
 
-**Jerry Ziewitz, Regional Consultation Coordinator**  
-[jerry_ziewitz@fws.gov](mailto:jerry_ziewitz@fws.gov), (850) 877-6513
+**Dr. Heath Rauschenberger, Regional Consultation Coordinator**  
+[heath_rauschenberger@fws.gov](mailto:heath_rauschenberger@fws.gov), 904-731-3203)  
 
 **Rob Tawes, Chief, Division of Environmental Review**  
 [robert_tawes@fws.gov](mailto:robert_tawes@fws.gov), (404) 679-7142
