@@ -16,6 +16,7 @@ hero:
     caption: 'Elfin-woods warbler. Photo by Mike Morel.'
 tags:
     - Bird
+    - 'Caribbean Ecological Services Field Office'
     - 'El Yunque National Forest'
     - 'Elfin-Woods Warbler'
     - 'Endangered Species Act'
@@ -24,7 +25,7 @@ tags:
     - Recovery
     - Reinita
     - 'Reinita De Bosque Enano'
-updated: 'March 25th, 2019'
+updated: 'August 18th, 2020'
 ---
 
 - **Taxon**: Bird

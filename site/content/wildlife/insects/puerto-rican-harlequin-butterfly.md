@@ -13,13 +13,13 @@ aliases:
     - /species/insect/puerto-rican-harlequin-butterfly
     - /species/insects/puerto-rican-harlequin-butterfly
 tags:
+    - 'Caribbean Ecological Services Field Office'
     - 'Endangered Species Act'
-    - Puerto Rico
     - Insect
     - 'Puerto Rican Harlequin Butterfly'
-    - 'Caribbean Ecological Services Office'
+    - 'Puerto Rico'
 description: 'One of four species of Atlantea butterflies that inhabit the Greater Antilles, only the Puerto Rican harlequin butterfly occurs in Puerto Rico.  With a small population size, no more than 50 butterflies have ever been recorded in a single survey.'
-updated: 'May 21st, 2020'
+updated: 'August 18th, 2020'
 ---
 
 Also known as Puerto Rican checkerspot and La Quebradillana.
