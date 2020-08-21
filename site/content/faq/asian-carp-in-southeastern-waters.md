@@ -79,7 +79,7 @@ Kentucky is on the front lines of the war on carp. The Kentucky Department of Fi
 
 ## More information
 
-- [Combating the spread of Asian carp in Southeatern waters](/pdf/fact-sheet/combating-the-spread-of-asian-carp-in-southeastern-waters.pdf)
+- [Combating the spread of Asian carp in Southeastern waters](/pdf/fact-sheet/combating-the-spread-of-asian-carp-in-southeastern-waters.pdf)
 - [AsianCarp.us](http://asiancarp.us/)
 - [FWS statement on Asian carp control before the House Committee on Oversight and Government Reform, July 27, 2018](https://www.fws.gov/laws/Testimony/docs/72718-Brown-HOGR-Asian-Carp-Field-Hearing.pdf)
 - [Asian carp in Kentucky](https://fw.ky.gov/Fish/Pages/Asian-Carp-Information.aspx)
