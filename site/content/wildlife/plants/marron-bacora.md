@@ -17,12 +17,12 @@ tags:
     - 'Marron Bacora'
     - Plant
     - 'US Virgin Islands'
-updated: 'March 27th, 2020'
+updated: 'August 24th, 2020'
 ---
 
 - **Taxon:** [Plant](/wildlife/plants)
 - **Range:** [U.S. Virgin Islands (St. John)](/us-virgin-islands) and British Virgin Islands (Tortola)
-- **Status:** Candidate species – under review
+- **Status:** [Proposed for Listing as an Endangered Species; Proposed Critical Habitat](/news/2020/08/service-proposes-to-list-rare-virgin-islands-plant-designate-critical-habitat/)
 
 Marron bacora is a rare, tropical dry forest shrub native to the Virgin Islands.  Originally described in 1813 from a specimen collected in the late 1700s, it was presumed to have gone extinct until its rediscovery in 1992.  Once thought to only exist on St. John in the U.S. Virgin Islands, marron bacora was discovered in 2018 on Tortola in the British Virgin Islands.
 
@@ -80,7 +80,9 @@ The Service is working with other federal, territory, academic and non-profit or
 
 ## Designated critical habitat
 
-If the species is listed under the ESA, critical habitat may be designated.
+With the proposed listing of this species, critical habitat is also being proposed.  Approximately 2,550 acres (97 percent federal lands; 3 percent private lands) are being proposed as critical habitat for the species on the island of St. John.  This consists of 1,706 acres in the South (1,635 acres = Virgin Islands National Park (VINP); 71 acres = private lands adjacent to VINP) and 844 acres in the North (VINP).
+
+{{< figure class="photo-center" src="/images/pages/marron-bacora-distribution.jpg" alt="A map of the Virgin Islands showing marron bacora north east and southern sections of the island" caption="Proposed critical habitat for *Solanum conocarpum* on the island of St. John, U.S. Virgin Islands." >}}
 
 ## Federal register notices
 
