@@ -10,7 +10,7 @@ hero:
 tags:
     - 'Endangered Species Act'
     - Recovery
-updated: 'March 1st, 2019'
+updated: 'August 28th, 2020'
 ---
 
 One of the primary responsibilities of the U.S. Fish and Wildlife Service (Service) is to protect and recover imperiled species and the ecosystems upon which they depend. The Endangered Species Act (ESA) is America’s strongest conservation law. Originally passed by Congress in 1973, the ESA is jointly administered by the Service and the [National Marine Fisheries Service](https://www.fisheries.noaa.gov/) (NMFS). The Service has primary responsibility for terrestrial and freshwater organisms, while the responsibilities of NMFS are mainly marine. Some marine animals like the sea turtles have shared responsibility between the Service and NMFS, while the Service has responsibility for the West Indian manatee.
@@ -21,7 +21,7 @@ The Caribbean endangered species program works to protect and recover threatened
 
 Download a complete list of threatened and endangered species in Puerto Rico and the USVI. A species list is also available for each of the municipalities in Puerto Rico and the USVI:
 
-- List of T&E species in PR and USVI ([Spanish](/pdf/fact-sheet/caribbean-listeed-species-2017.pdf) or [English](/pdf/fact-sheet/caribbean-listeed-species-2017-english.pdf))
+- List of T&E species in PR and USVI ([Spanish](/pdf/fact-sheet/caribbean-listed-species.pdf) or [English](/pdf/fact-sheet/caribbean-listed-species-english.pdf))
 - [List of species for each municipality in PR and USVI](/pdf/map/caribbean-listed-species-2017.pdf)
 
 Looking for more specific information on a species? [Check out our species profiles](/caribbean/wildlife), [fact sheets](/caribbean/library), or search the Environmental Conservation Online System with the form below:
