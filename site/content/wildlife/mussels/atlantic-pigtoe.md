@@ -21,18 +21,19 @@ hero:
     name: atlantic-pigtoe-ready-for-release.jpg
     alt: 'Seven small brownish-yellow mussels held in open hands by a biologist.'
     caption: 'Atlantic pigtoes ready for release. Photo by USFWS.'
-updated: 'March 25th, 2019'
+updated: 'September 18th, 2020'
 ---
 
 - **Taxon:** Freshwater mussel
 - **Range:** James, Chowan, Roanoke, Tar, Neuse, Cape Fear, Pee Dee, Catawba, Edisto, Savannah, Ogeechee, and Altamaha River basins in [Virginia](/tags/virginia), [North Carolina](/north-carolina), [South Carolina](/south-carolina), and [Georgia](/georgia)
 - **Status:** [Proposed for listing as threatened under the Endangered Species Act on October 11, 2018](/news/2018/10/fish-and-wildlife-service-proposes-threatened-status-for-declining-mussel/).
+- [Download the species status assessment](https://ecos.fws.gov/ServCat/Reference/Profile/105247)
 
 {{< content-scroller tag="Atlantic Pigtoe" heading="Related content" >}}
 
 ## Appearance
 
-The shell of the Atlantic pigtoe is a chunky, rhombus shape, like that of a pig's hoof/toe. There is a distinct posterior ridge. The outer surface of the shell is yellow to dark brown and parchment-like, while the inner layer is iridescent blue to salmon, white, or orange. Although larger specimens exist, the Atlantic pigtoe rarely exceeds 2 inches in length. 
+The shell of the Atlantic pigtoe is a chunky, rhombus shape, like that of a pig's hoof/toe. There is a distinct posterior ridge. The outer surface of the shell is yellow to dark brown and parchment-like, while the inner layer is iridescent blue to salmon, white, or orange. Although larger specimens exist, the Atlantic pigtoe rarely exceeds 2 inches in length.
 
 {{< figure class="photo-center" src="/images/pages/atlantic-pigtoe-close-up.jpg" alt="A close up photo of a black and brown striated mussel shell." caption="Atlantic pigtoe. Photo by NCWRC." >}}
 
