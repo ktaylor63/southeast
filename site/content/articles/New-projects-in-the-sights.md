@@ -11,7 +11,7 @@ date: '2020-06-10'
 author: 'Mark Davis, Public Affairs Specialist'
 updated: 'October 6, 2020'
 ---
-{{< figure class="photo-right" src="/images/pages/Mike-Commander-Shooting-Range-GADNR.png" alt="Areal photo of shooting range" caption="The Mike Commander Shooting Range in Albany, Georgia, is benefiting from a federal-state funding program that creates or improves shooting ranges. The project, the first in the nation using the funding program, should be complete in November. Photo courtesy of the Georgia Department of Natural Resources." >}}
+{{< figure class="photo-right" src="/images/pages/Mike-Commander-Shooting-Range-GADNR.jpg" alt="Areal photo of shooting range" caption="The Mike Commander Shooting Range in Albany, Georgia, is benefiting from a federal-state funding program that creates or improves shooting ranges. The project, the first in the nation using the funding program, should be complete in November. Photo courtesy of the Georgia Department of Natural Resources." >}}
 
 When he learned that lawmakers had approved a funding change in a segment of the Wildlife Sport Fish Restoration Act (WSFR), Randy Spencer was quick to share the news with regional partners.  
 
@@ -19,7 +19,7 @@ They didn’t hesitate to take advantage of the change, either. Now, firearms en
 
 Spencer, a WSFR grant specialist who works in the Service’s Atlanta regional office, worked with his state counterparts in acquiring funding from TARMARK, the Target Practice and Marksmanship Training Support Act. Approved last year, the act took effect this fiscal year. It authorizes the federal government to offer up to 90 percent of the cost of a shooting-range project, with participating states providing the remaining 10 percent.   
 
-This is offered through a federal law dating to 1937, when Congress passed the Pittman-Robertson  Act. It directed money from the taxes on the sale of firearms and ammunition to be set aside to fund wildlife restoration, as well as creating a 75-25 funding match.   
+This is offered through a federal law dating to 1937, when Congress passed the Pittman-Robertson Act. It directed money from the taxes on the sale of firearms and ammunition to be set aside to fund wildlife restoration, as well as creating a 75-25 funding match.   
 
 The shooting range act approved last year sweetens the deal for states by reducing the state match to 10 percent.  
 
