@@ -58,12 +58,12 @@ tags:
     - Virginia
     - 'West Virginia'
     - Wisconsin
-updated: 'July 28, 2020'
+updated: 'October 5th, 2020'
 ---
 
 - **Taxon**: Bird
 - **Range**: Spans five U.S. Fish and Wildlife Service regions (2, 3, 4, 5, and 6), including rare migrant records:  AL, AR, CO, CT, DE, FL, GA, IA, IL, IN, KS, KY (has no historic records), LA, MA, MD, MI, MN, MO, MS, NC, NE, NH, NJ, NM, NY, OH, OK, PA, RI, SC, TN, TX, VA, VT, WI, and WV; plus Puerto Rico, Canada, Brazil and several countries in the Caribbean and Central America
-- **Status**: [Proposed for listing as a threatened species under the Endangered Species Act](/news/2018/10/service-proposes-to-list-the-eastern-black-rail-as-threatened-under-the-endangered-species-act/)
+- **Status**: [Threatened](/news/2019/10/service-finalizes-listing-the-eastern-black-rail-as-threatened-under-the-endangered-species-act/) with a [Section 4(d) rule](/faq/eastern-black-rail-final-4d-rule/)
 
 A small, secretive marsh bird, the eastern black rail (*Laterallus jamaicensis jamaicensis*) was first discovered in Jamaica in 1760 and formally classified in 1789.  No new information was published on the species until 1838, when John James Audubon announced the black rail as a bird of the United States.  Audubon’s account of the “least water rail” (least water-hen, black rail) was based on specimens taken alive from meadows near Philadelphia, Pennsylvania, in 1836.  In addition to being known as the least water rail, other historic accounts refer to the bird as the little black rail, the little red-eyed crake, and the black crake.
 
@@ -131,7 +131,7 @@ Not much is known about the diet of eastern black rails but they are probably op
 
 Within the northeastern United States, historical records for the eastern black rail during the breeding season exist from Virginia to Massachusetts with most of the observations in Maryland, Delaware, and New Jersey.  The subspecies also was historically present during the breeding season at inland and coastal locations throughout the southeastern United States. Texas, Florida, South Carolina and North Carolina were considered historical strongholds for the subspecies in the Southeast.
 
-Historical literature indicates a wide range of interior states supported eastern black rail in some capacity, ranging from breeding to rare migrant records.  Those states include: Arkansas, Colorado, Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, New Mexico, Ohio, Oklahoma, and Wisconsin.
+Historical literature indicates a wide range of interior states supported eastern black rail in some capacity, ranging from breeding to rare migrant records.  Those states include: Arkansas, Colorado, Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, New Mexico, Ohio, Oklahoma, and Wisconsin. It has also been reported from Ontario, Canada.
 
 The eastern black rail has been reported throughout the Caribbean and Central America, and birds may migrate from the coastal United States to these areas in the winter.  Historically, eastern black rails may have bred in Puerto Rico but the rail’s distribution is still poorly understood there and predation from the non-native mongoose may have contributed to the rail’s decline.  The historical resident population of eastern black rails in Jamaica is thought to be very rare and possibly extinct due to mongoose predation.  The bird is a rare resident in Belize, very rare in the Bahamas, and a rare migrant in Antigua and Bermuda.
 
@@ -187,29 +187,32 @@ While human disturbance may be a conservation challenge, citizen science detecti
 
 ## Recovery plan
 
-A recovery plan for the eastern black rail, informed by the [Species Status Assessment](https://ecos.fws.gov/ServCat/DownloadFile/154242) and implemented via a Recovery Implementation Strategy, will be developed.  The foundation supporting the recovery plan is the SSA.  It includes an analysis of the species’ historic and current conditions, and also includes further analyses such as future projections of population trends under varying threat conditions, and potential management regimes.  The SSA’s format is structured around the conservation biology principles of the 3Rs: resiliency, representation and redundancy.
+A recovery plan for the eastern black rail, informed by the [Species Status Assessment](https://ecos.fws.gov/ServCat/Reference/Profile/124443) and implemented via a Recovery Implementation Strategy, will be developed.  The foundation supporting the recovery plan is the SSA.  It includes an analysis of the species’ historic and current conditions, and also includes further analyses such as future projections of population trends under varying threat conditions, and potential management regimes.  The SSA’s format is structured around the conservation biology principles of the 3Rs: resiliency, representation and redundancy.
 
 ## Partnerships, research and projects
 
 - [The Center for Conservation Biology’s eastern Black Rail Conservation and Management Working Group](http://www.ccbbirds.org/what-we-do/research/species-of-concern/blackrail/)
+- [Status and distribution of the eastern black rail along the Atlantic and Gulf Coasts of North America](https://scholarworks.wm.edu/cgi/viewcontent.cgi?article=1314&context=ccb_reports)
 - [Advancing Black Rail Conservation Along the Atlantic Coast](http://acjv.org/black-rail/)
+- [Saving the eastern black rail: An urgent conservation challenge](https://www.acjv.org/documents/Black_Rail.pdf)
 - [Next Steps for a Healthy Gulf of Mexico Watershed:  Coastal Bend Landscape at a Glance](https://www.fws.gov/southeast/gulf-restoration/next-steps/focal-area/coastal-bend/)
 - [Black Rail in Coastal Louisiana](http://la.audubon.org/conversation/black-rail-coastal-louisiana)
 - [Rapid assessment of black rails in South Florida](https://ccbbirds.org/2020/04/02/rapid-assessment-of-black-rails-in-south-florida/)
+- [Behind "Ghost Bird": Key Discoveries about the Elusive Black Rail](http://sccoastalresources.com/home/2020/9/28/behind-ghost-bird-key-discoveries-about-the-elusive-black-rail)
 
 ## How you can help
 
 - The eastern black rail benefits from programs to preserve and enhance wetlands; such programs should be encouraged for their conservation.
-- Encourage additional survey work for the subspecies and undertake efforts to protect habitats where it is found.
+- Encourage additional survey work for the subspecies and undertake efforts to protect habitats where it is found. Contact your [local Ecological Services Field Office](https://www.fws.gov/ecological-services/) for the latest eastern black rail survey protocol.
 - Support groups that are providing a forum for collaboration between researchers and stakeholders, and share information about the subspecies, identify information needs, and support conservation actions.
 
 ## Subject matter expert
 
-- Mark A. Caldwell, Deputy Field Supervisor, South Carolina Ecological Services Field Office; (843) 727-4707 ext. 215; [mark_caldwell@fws.gov](mailto:mark_caldwell@fws.gov)
+- Contact: Mark A. Caldwell, Deputy Field Supervisor, South Carolina Ecological Services Field Office; (843) 727-4707 ext. 215; [mark_caldwell@fws.gov](mailto:mark_caldwell@fws.gov)
 
 ## Designated Critical Habitat
 
-The Service is not proposing critical habitat for the eastern black rail.  Instead, the Service has deemed designation of critical habitat “not prudent”.  Designating critical habitat requires identification of specific tracts of land that contain features essential to the conservation of a species.  Identifying specific areas known to harbor the eastern black rail could subject the subspecies to an increased degree of threat from human disturbance.  Several well documented cases of trespass exist where individuals have pursued this rare and secretive marsh bird.
+The Service determined that designating critical habitat for the eastern black rail is not prudent.    Designating critical habitat requires identification of specific tracts of land that contain features essential to the conservation of a species.  Identifying specific areas known to harbor the eastern black rail could subject the subspecies to an increased degree of threat from human disturbance.  Several well documented cases of trespass exist where individuals have pursued this rare and secretive marsh bird.
 
 ## Federal Register notices
 
