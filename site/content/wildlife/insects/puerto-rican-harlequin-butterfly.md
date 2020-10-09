@@ -34,7 +34,7 @@ One of four species of *Atlantea* butterflies that inhabit the Greater Antilles,
 
 ## Appearance
 
-The Puerto Rican harlequin butterfly is a medium-sized butterfly with a wingspan of 2-2.5 inches.  As a member of the checkerspot butterfly group, it is characterized by its orange, brownish-black and beige coloration patterns with rows of deep orange dots on the wings.  Males and females are similar in color patterns and size.  The life cycle of the butterfly includes four distinct anatomical stages:  egg, larva (caterpillar with several size phases called instars), chrysalis (pupa from which the adult butterfly emerges), and imago (adult). 
+The Puerto Rican harlequin butterfly is a medium-sized butterfly with a wingspan of 2-2.5 inches.  As a member of the checkerspot butterfly group, it is characterized by its orange, brownish-black and beige coloration patterns with rows of deep orange dots on the wings.  Males and females are similar in color patterns and size.  The life cycle of the butterfly includes four distinct anatomical stages:  egg, larva (caterpillar with several size phases called instars), chrysalis (pupa from which the adult butterfly emerges), and imago (adult).
 
 {{< figure class="photo-center" src="/images/pages/puerto-rican-harlequin-butterfly-perched.jpg" alt="An orange, black and cream colored butterfly perched on the end of a green plant" caption="Puerto Rican harlequin butterfly (*Atlantea tulita*). Photo by Carlos Pacheco, USFWS." >}}
 
