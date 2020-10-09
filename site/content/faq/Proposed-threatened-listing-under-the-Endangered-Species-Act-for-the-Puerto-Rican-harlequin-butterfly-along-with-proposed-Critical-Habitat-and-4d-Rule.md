@@ -55,7 +55,10 @@ The proposed critical habitat for the butterfly is limited to occupied areas whe
 
 The critical habitat being proposed is in units, in the municipalities of Isabela, Quebradillas, Camuy, Arecibo, Utuado, Florida, Ciales, Maricao, San Germán, Sabana Grande and Yauco. The map below shows where those units are located.  
 
-INSERT MAP
+{{< figure class="photo-center" src="/images/pages/Proposed-critical-habitat-for-the-Puerto-Rican-harlequin-butterfly-in-Puerto-Rico.jpg" alt="Map showing proposed critical habitat for the Puerto Rican Harlequin butterfly" caption="Proposed critical habitat for the Puerto Rican harlequin butterfly in Puerto Rico" >}}
+
+**Ownership of the proposed critical habitat units is as follows:** 
+
 | **Unit Number/Name**   | **Occupied**  | **Landowner/Land Manager(s)**              | **Area (acres)**  |
 |------------------------|---------------|--------------------------------------------|-------------------|
 | Unit 1. IQC            | Yes           | Municipality recreational area             | 5                 |
