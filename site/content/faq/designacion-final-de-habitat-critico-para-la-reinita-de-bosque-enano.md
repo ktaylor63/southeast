@@ -11,7 +11,7 @@ tags:
     - 'Elfin-Woods Warbler'
     - 'Endangered Species Act'
     - 'Puerto Rico'
-updated: 'June 29th, 2020'
+updated: 'October 13th, 2020'
 ---
 
 ## ¿Porque el Servicio de Pesca y Vida Silvestre (Servicio) listó la reinita de bosque enano en 2016 como especie amenazada bajo la Ley Federal de Especies en Peligro de Extinción (ESA, por sus siglas en inglés)?
@@ -68,7 +68,7 @@ Los biólogos consideraron las características físicas y biológicas necesaria
 1. La Unidad 1 Maricao se amplió para incluir un área adicional como hábitat crítico. La Unidad 1 ahora cubre un total aproximado de 12,978 ha (5,252 ac). El aumento es de aproximadamente 2.8% del área propuesta para la Unidad. El cálculo de la superficie en acres para esta Unidad se actualizó.
 2. El Servicio corrigió un error en la superficie de acres de hábitat crítico en la Unidad 3 Carite. El error resultó del redondeo de números. Los cambios realizados resultaron en un aumento de no más de 1 ac (0 a 1 ha) para esta Unidad.
 3. El Servicio refinó la descripción de las características físicas y biológicas para reflejar con mayor precisión las necesidades de hábitat de la especie. No se necesitaron ajustes a los límites de la unidad como resultado de este cambio.
-4. Actualizamos las coordenadas de los cuales se generaron los mapas. La información está disponible en [regulations.gov](https://www.regulations.gov) en Docket No. FWS–R4–ES–2020–0030, y en [la Oficina de Campo de Servicios Ecológicos del Caribe](https://www.fws.gov/southeast/caribbean).
+4. Actualizamos las coordenadas de los cuales se generaron los mapas. La información está disponible en [regulations.gov](https://www.regulations.gov) en Docket No. FWS–R4–ES–2020–0030, y en [la Oficina de Campo de Servicios Ecológicos del Caribe](/caribbean).
 
 ## ¿Por qué el Servicio designó un área de hábitat crítico que actualmente está desocupada por la reinita de bosque enano?
 
