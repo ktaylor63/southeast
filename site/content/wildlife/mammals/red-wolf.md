@@ -24,7 +24,7 @@ tags:
     - 'Red Wolf'
     - 'South Carolina'
     - 'South Carolina Ecological Services Field Office'
-updated: 'July 28th, 2020'
+updated: 'October 15th, 2020'
 ---
 
 - **Taxon**: Mammal
@@ -45,7 +45,7 @@ The red wolf is the world’s most endangered wolf. Once common throughout the E
 
 The red wolf (*Canis rufus*) is a native North American canid intermediate in size between the coyote (*Canis latrans*) and gray wolf (*Canis lupus*). Red wolves are mostly brown and buff colored with some black along their backs, often with a reddish color on their ears, head and legs. Adult red wolves range in weight from about 45 to 80 pounds. Red wolves have wide heads with broad muzzles, tall pointed ears and long, slender legs with large feet. Red wolves stand about 26 inches at their shoulder and are about 4 feet long from the tip of the nose to the tip of the tail.
 
-{{< figure class="photo-center" src="/images/pages/red-wolf-running-wearing-collar.jpg" alt="A red wolf running at full speed in a field full of yellow flowers" caption="A collared red wolf in the wild in North Carolina. Photo &copy; Running Wild Media, used with permission." >}}
+{{< figure class="photo-center" src="/images/pages/red-wolf-running-wearing-collar.jpg" alt="A red wolf running at full speed in a field full of yellow flowers" caption="A collared red wolf in the wild in North Carolina. Photo &copy; Christy Frank - Running Wild Media." >}}
 
 ## Habitat
 
@@ -118,7 +118,7 @@ Both pairs of red wolves were placed in acclimation pens temporarily with their 
 Every quarter, the Service and its partners in red wolf recovery meet via a conference call to provide updates on the status of red wolf related actions. The purpose of these calls is to:
 
 1. provide a forum for regular and effective coordination on current actions and collaborative efforts among all partners in red wolf recovery, and
-2. provide other interested parties and the public with updates on the status of red wolf conservation efforts.
+2. provide other interested parties and the public with updates on the status of red wolf conservation efforts. The updates the Service provides on these calls can be found below  
 
 - [January 2020](/pdf/notes/red-wolf-partnership-call-2020-01-16.pdf)
 
