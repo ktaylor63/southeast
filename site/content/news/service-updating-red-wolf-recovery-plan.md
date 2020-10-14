@@ -9,12 +9,12 @@ tags:
     - 'Recovery Plan'
     - 'Red Wolf'
     - 'Species Status Assessment'
-updated: 'July 28th, 2020'
+updated: 'October 15th, 2020'
 ---
 
 {{< figure class="photo-right" src="/images/pages/red-wolf-robert-ondrish.jpg" alt="A white, black and brown wolf standing on a sandy road" caption="Red wolf. Photo &copy; Robert Ondrish, used with persmission." >}}
 
-The Service is updating the current Red Wolf Recovery Plan that was finalized in 1990. Updating this recovery plan is a priority for the Service. Following a review of the red wolf program in 2014 and 2015, the Service announced significant changes for red wolf recovery in its [2016 Memo of Recommended Decisions](/pdf/memo/recommended-decisions-in-response-to-red-wolf-recovery-program-evaluation.pdf). In that memo, the Service committed to completing a Species Status Assessment (SSA) for the red wolf by October 2017 and using it to guide recovery actions, including updating the Red Wolf Recovery Plan.
+The Service is updating the current Red Wolf Recovery Plan that was finalized in 1990. Through partnership, the Service is committed to working together to complete an updated recovery plan by Feb. 28, 2023. Updating this recovery plan is a priority for the Service. Following a review of the red wolf program in 2014 and 2015, the Service announced significant changes for red wolf recovery in its [2016 Memo of Recommended Decisions](/pdf/memo/recommended-decisions-in-response-to-red-wolf-recovery-program-evaluation.pdf). In that memo, the Service committed to completing a Species Status Assessment (SSA) for the red wolf by October 2017 and using it to guide recovery actions, including updating the Red Wolf Recovery Plan.
 
 The Service intended to complete a revised recovery plan in 2018. However, delays in the SSA (completed in April 2018) and then a pending taxonomic review of the red wolf (completed in March 2019) postponed work on the recovery plan.
 
