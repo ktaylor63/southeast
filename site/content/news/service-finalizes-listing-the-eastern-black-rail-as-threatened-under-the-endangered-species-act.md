@@ -69,7 +69,7 @@ The Service determined that designating critical habitat for the eastern black r
 
 The Service proposed listing the eastern black rail under the ESA on October 9, 2018. The rule finalizing the eastern black rail listing as a threatened species under the ESA and the species-specific 4(d) rule becomes effective on November 9, 2020. The rule, comments and materials the Service received, as well as supporting documentation used in preparing the rule, are available for public inspection on [regulations.gov](https://www.regulations.gov); search for Docket No. FWS–R4–ES–2018–0057. Comments, materials, and documentation can be made available by contacting:  U.S. Fish and Wildlife Service, South Carolina Ecological Services Field Office, 176 Croghan Spur Road, Suite 200, Charleston, SC 29407; telephone 843–727–4707; or facsimile 843–300–0204. Persons who use a telecommunications device for the deaf (TDD) may call the Federal Relay Service at (800) 877–8339.
 
-For more information visit the [eastern black rail species profile](/wildlife/birds/eastern-black-rail/).
+For more information visit our [Frequently Asked Questions](/faq/eastern-black-rail-final-listing-as-a-threatened-species/).
 
 ## Contact
 
