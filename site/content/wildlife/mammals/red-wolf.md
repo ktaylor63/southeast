@@ -121,6 +121,7 @@ Every quarter, the Service and its partners in red wolf recovery meet via a conf
 2. provide other interested parties and the public with updates on the status of red wolf conservation efforts. The updates the Service provides on these calls can be found below  
 
 - [January 2020](/pdf/notes/red-wolf-partnership-call-2020-01-16.pdf)
+- [July 2020](/pdf/notes/red-wolf-partnership-call-2020-07-16.pdf)
 
 ## Community involvement
 
