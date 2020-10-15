@@ -58,12 +58,12 @@ tags:
     - Virginia
     - 'West Virginia'
     - Wisconsin
-updated: 'October 5th, 2020'
+updated: 'October 15th, 2020'
 ---
 
 - **Taxon**: Bird
 - **Range**: Spans five U.S. Fish and Wildlife Service regions (2, 3, 4, 5, and 6), including rare migrant records:  AL, AR, CO, CT, DE, FL, GA, IA, IL, IN, KS, KY (has no historic records), LA, MA, MD, MI, MN, MO, MS, NC, NE, NH, NJ, NM, NY, OH, OK, PA, RI, SC, TN, TX, VA, VT, WI, and WV; plus Puerto Rico, Canada, Brazil and several countries in the Caribbean and Central America
-- **Status**: [Threatened](/news/2019/10/service-finalizes-listing-the-eastern-black-rail-as-threatened-under-the-endangered-species-act/) with a [Section 4(d) rule](/faq/eastern-black-rail-final-4d-rule/)
+- **Status**: [Threatened](/news/2020/10/service-finalizes-listing-the-eastern-black-rail-as-threatened-under-the-endangered-species-act/) with a [Section 4(d) rule](/faq/eastern-black-rail-final-4d-rule/)
 
 A small, secretive marsh bird, the eastern black rail (*Laterallus jamaicensis jamaicensis*) was first discovered in Jamaica in 1760 and formally classified in 1789.  No new information was published on the species until 1838, when John James Audubon announced the black rail as a bird of the United States.  Audubon’s account of the “least water rail” (least water-hen, black rail) was based on specimens taken alive from meadows near Philadelphia, Pennsylvania, in 1836.  In addition to being known as the least water rail, other historic accounts refer to the bird as the little black rail, the little red-eyed crake, and the black crake.
 
