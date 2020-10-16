@@ -50,7 +50,7 @@ tags:
     - Virginia
     - 'West Virginia'
     - Wisconsin
-updated: 'October 5th, 2020'
+updated: 'October 16th, 2020'
 ---
 
 The [eastern black rail](/wildlife/birds/eastern-black-rail), a small, secretive marsh bird historically known to exist in 35 states east of the Rocky Mountains, Puerto Rico, Canada, Brazil, and several countries in the Caribbean and Central America, will be listed as a threatened species under the Endangered Species Act (ESA). The final listing includes a rule that will help ensure beneficial conservation actions continue, while minimizing impacts to landowners and other stakeholders. Critical habitat designation for the eastern black rail was deemed not prudent.
