@@ -58,7 +58,7 @@ tags:
     - Virginia
     - 'West Virginia'
     - Wisconsin
-updated: 'October 15th, 2020'
+updated: 'October 16th, 2020'
 ---
 
 - **Taxon**: Bird
