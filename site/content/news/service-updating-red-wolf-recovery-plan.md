@@ -9,7 +9,7 @@ tags:
     - 'Recovery Plan'
     - 'Red Wolf'
     - 'Species Status Assessment'
-updated: 'October 15th, 2020'
+updated: 'October 19th, 2020'
 ---
 
 {{< figure class="photo-right" src="/images/pages/red-wolf-robert-ondrish.jpg" alt="A white, black and brown wolf standing on a sandy road" caption="Red wolf. Photo &copy; Robert Ondrish, used with persmission." >}}
