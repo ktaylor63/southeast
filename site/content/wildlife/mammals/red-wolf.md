@@ -24,7 +24,7 @@ tags:
     - 'Red Wolf'
     - 'South Carolina'
     - 'South Carolina Ecological Services Field Office'
-updated: 'October 15th, 2020'
+updated: 'October 19th, 2020'
 ---
 
 - **Taxon**: Mammal
@@ -118,9 +118,11 @@ Both pairs of red wolves were placed in acclimation pens temporarily with their 
 Every quarter, the Service and its partners in red wolf recovery meet via a conference call to provide updates on the status of red wolf related actions. The purpose of these calls is to:
 
 1. provide a forum for regular and effective coordination on current actions and collaborative efforts among all partners in red wolf recovery, and
-2. provide other interested parties and the public with updates on the status of red wolf conservation efforts. The updates the Service provides on these calls can be found below  
+2. provide other interested parties and the public with updates on the status of red wolf conservation efforts. 
 
-- [January 2020](/pdf/notes/red-wolf-partnership-call-2020-01-16.pdf)
+The updates the Service provides on these calls can be found below  
+
+- [January/April 2020](/pdf/notes/red-wolf-partnership-call-2020-01-16.pdf)
 - [July 2020](/pdf/notes/red-wolf-partnership-call-2020-07-16.pdf)
 
 ## Community involvement
