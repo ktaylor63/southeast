@@ -6,7 +6,7 @@ date: 2020-10-22
 hero:
     name: Fire-maintained-pine-woods-Scotswood-Plantation.jpg
     alt: 'A stand of trees in a field of tall burned grass'
-    caption: 'Fire-maintained pine woods on Scotswood Plantation. Note the scattered pond-cypress trees within the canopy. Christopher Hernandez, USFWS'
+    caption: 'Fire-maintained pine woods on Scotswood Plantation. Note the scattered pond-cypress trees within the canopy. Photo by Christopher Hernandez, USFWS'
 tags:
     - South Carolina Coastal Program 
     - South Carolina
