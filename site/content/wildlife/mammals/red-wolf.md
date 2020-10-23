@@ -1,6 +1,6 @@
 ---
 title: 'Red wolf'
-description: 'Once common throughout the Eastern and South Central United States, red wolf populations were decimated by the early 20th century as a result of intensive predator control programs and the degradation and alteration of the species’ habitat. When the red wolf was designated endangered in 1967, the U.S. Fish and Wildlife Service initiated efforts to conserve and recover the species.'
+description: 'Once common throughout the Eastern and South Central United States, red wolf populations were decimated by the early 20th century as a result of intensive predator control programs and the degradation and alteration of the species’ habitat. When the red wolf was designated endangered in 1967, the U.S. Fish and Wildlife Service initiated the Red Wolf Recovery Program in an effort to conserve and recover the species.'
 type: species-profile
 scientific: 'Canis rufus'
 js: /js/species-profile.js
