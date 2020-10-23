@@ -1,7 +1,7 @@
 ---
 title: 'South Carolina species benefit from Coastal Program partnerships'
 type: feature
-author: 'Phil Kloer, public affairs specialist'
+author: 'Jason Ayers, Ecological Services biologist'
 date: 2020-10-22T00:00:00.000Z
 hero:
     name: Fire-maintained-pine-woods-Scotswood-Plantation.jpg
@@ -44,7 +44,4 @@ Where does that lead us? Back to Scotswood Plantation. The Coastal Program and L
 
 “The habitat improvement work on Scotswood is a perfect example of how public and private partners and landowners can work together to conserve and improve habitat for priority species,” said Lord. It’s even possible that these partnerships may go one step further and result in the ultimate goal – species recovery.
 
-## Contact
 
-Phil Kloer, public affairs specialist  
-[philip_kloer@fws.gov](mailto:daniel_chapman@fws.gov), (404) 679-7299
