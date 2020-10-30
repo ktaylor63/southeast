@@ -33,11 +33,11 @@ Impenetrable titi forests can also alter the surface and subsurface hydrology of
 
 The partners have used a scalpel approach to identify and prioritize polygons of wall-to-wall titi, and mechanical remove them. This is followed by secondary removal of re-sprouting titi and frequent prescribed fire, then letting nature accelerate recovery. All woody biomass was chipped and moved off-site to further accelerate restoration and soil recovery to its historical composition, characterized by low organic content. Carnivorous plants thrive in nutrient-poor soils because they can digest bugs and out-compete other plants that must get their nutrients from soil. 
 
-{{< figure class="photo-center" src="/images/pages/rare-plants-propagated-Atlanta-Botanical-Gardens.jpg" alt="Man and woman in greenhouse full of green and red plants. Tall green shoots rise from three black pots in foreground" caption="Ron Determann of Atlanta Botanical Garden shows Service biologist Cindy Bohn some of the rare plants propagated at ABG for transplanting in Florida. Phgoto by Melody Ray-Culp, USFWS" >}}
+{{< figure class="photo-center" src="/images/pages/rare-plants-propagated-Atlanta-Botanical-Gardens.JPG" alt="Man and woman in greenhouse full of green and red plants. Tall green shoots rise from three black pots in foreground" caption="Ron Determann of Atlanta Botanical Garden shows Service biologist Cindy Bohn some of the rare plants propagated at ABG for transplanting in Florida. Phgoto by Melody Ray-Culp, USFWS" >}}
 
 The Atlanta Botanical Garden does the rare plant propagation for re-introduction. The partnership leveraged more than $7 million through the National Fish & Wildlife Foundation’s Gulf Environmental Benefit Fund, greatly expanding ongoing restoration work at coastal state parks. 
 
-{{< figure class="photo-right" src="/images/pages/moth-pollinates-orchid.jpg" alt="Black and white nightvision photo from a gam camera of a fuzzy moth approaching a white fringed orchid" caption="A moth pollinates an orchid at a Florida state park. Photo courtesy of Atlanta Botanical Gardens and Florida State Parks" >}}
+{{< figure class="photo-right" src="/images/pages/moth-pollinates-orchid.JPG" alt="Black and white nightvision photo from a gam camera of a fuzzy moth approaching a white fringed orchid" caption="A moth pollinates an orchid at a Florida state park. Photo courtesy of Atlanta Botanical Gardens and Florida State Parks" >}}
 
 In August 2016, wildlife cameras captured images of a sphinx moth pollinating a white fringed orchid at one park transplant site.
 
