@@ -42,6 +42,9 @@ All species of plants and animals, except pest insects, are eligible for listing
 * [Interior least tern conditions for instream sand and gravel mining](/pdf/guidelines/interior-least-tern-conditions-for-instream-sand-and-gravel-mining.pdf)
 * [Pallid sturgeon conditions for instream sand and/or gravel mining](/pdf/guidelines/pallid-sturgeon-conditions-for-instream-sand-and-or-gravel-mining.pdf)
 
+## Notice of funding opportunities 
+* [Candidate Species Conservation Fund (CFDA 15.660)](https://www.grants.gov/web/grants/view-opportunity.html?oppId=329585) 
+* [Endangered Species Recovery Implementation (CDFS 15.657)](https://www.grants.gov/web/grants/view-opportunity.html?oppId=329584)
 
 ## Guidance on determining need for incidental take permit under ESA Section 10(a)(1)(B)
 
