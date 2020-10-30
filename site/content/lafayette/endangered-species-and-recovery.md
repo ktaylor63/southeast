@@ -43,6 +43,7 @@ All species of plants and animals, except pest insects, are eligible for listing
 * [Pallid sturgeon conditions for instream sand and/or gravel mining](/pdf/guidelines/pallid-sturgeon-conditions-for-instream-sand-and-or-gravel-mining.pdf)
 
 ## Notice of funding opportunities 
+
 * [Candidate Species Conservation Fund (CFDA 15.660)](https://www.grants.gov/web/grants/view-opportunity.html?oppId=329585) 
 * [Endangered Species Recovery Implementation (CDFS 15.657)](https://www.grants.gov/web/grants/view-opportunity.html?oppId=329584)
 
