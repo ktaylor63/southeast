@@ -7,7 +7,7 @@ tags:
     - Moth Man
     - Halloween
     - hunt
-    - hunting
+    - Hunting
     - Florida
     - Lower Suwannee National Wildlife Refuge
     - Suwannee River
