@@ -3,9 +3,10 @@ title: 'Service finalizes listing the eastern black rail as threatened under the
 subtitle: 'Regional partnerships swing into high gear to stave off further losses and protect vital habitats across rail’s range'
 date: 2020-10-07T00:00:00.000Z
 hero:
-    name: eastern-black-rail-flying.jpg
-    alt: 'A small black bird flies over a lush green marsh'
-    caption: 'Eastern black rail in flight – Texas, April 2016. Photo © Jesse Huth, used with permission, <a href="http://www.huthavian.com">Huth Avian Services</a>.'
+    name: eastern-black-rail-copyright-tom-johnson-macaulay-library.jpg
+    alt: 'A small black bird with red eyes walks in the marsh grasses.'
+    caption: 'Eastern black rail. Photo © Tom Johnson, used with permission, The Macaulay Library at the Cornell Lab of Ornithology.'
+    position: '50% 55%'
 tags:
     - Alabama
     - Arkansas
