@@ -24,7 +24,7 @@ tags:
     - 'Red Wolf'
     - 'South Carolina'
     - 'South Carolina Ecological Services Field Office'
-updated: 'October 19th, 2020'
+updated: 'November 2nd, 2020'
 ---
 
 - **Taxon**: Mammal
@@ -122,8 +122,10 @@ Every quarter, the Service and its partners in red wolf recovery meet via a conf
 
 The updates the Service provides on these calls can be found below  
 
-- [January/April 2020](/pdf/notes/red-wolf-partnership-call-2020-01-16.pdf)
+- [January 2020](/pdf/notes/red-wolf-partnership-call-2020-01-16.pdf)
+- [April 2020](/pdf/notes/red-wolf-partnership-call-2020-04-16.pdf)
 - [July 2020](/pdf/notes/red-wolf-partnership-call-2020-07-16.pdf)
+- [October 2020](/pdf/notes/red-wolf-partnership-call-2020-10-15.pdf)
 
 ## Community involvement
 
@@ -135,7 +137,7 @@ Prey for the Pack is a new habitat improvement program through the Services’ P
 
 ### The Red Wolf Center – Columbia, North Carolina
 
-The Red Wolf Center located just outside Columbia, North Carolina, is a public education center that houses red wolf displays and a live red wolf pair in a viewing enclosure. The Red Wolf Center is a collaborative effort between the Service, the North Carolina Wildlife Federation and National Wildlife Refuge Association.  The Red Wolf Center also offers red wolf educational talks to school and other groups. To learn more about the Red Wolf Center, schedule a tour or a presentation, or facilities hours, contact Sarah Loeffler at [sarah.Loeffler@ncwf.org](mailto:sarah.Loeffler@ncwf.org) or call 252-796-3004 ext. 234.
+The Red Wolf Center located just outside Columbia, North Carolina, is a public education center that houses red wolf displays and a live red wolf pair in a viewing enclosure. The Red Wolf Center is a collaborative effort between the Service, the North Carolina Wildlife Federation and National Wildlife Refuge Association.  The Red Wolf Center also offers red wolf educational talks to school and other groups. To learn more about the Red Wolf Center, schedule a tour or a presentation, or facilities hours, contact Pocosin Lakes NWR at 252-796-3004.
 
 ### Report North Carolina red wolf sightings
 
