@@ -3,17 +3,15 @@ title: 'Not even Swamp Ape legend deters hunters from flocking to Lower Suwannee
 author: 'Dan Chapman, public affairs specialist'
 date: 2020-10-28T00:00:00.000Z
 tags:
-    - Swamp Ape
-    - Moth Man
-    - Halloween
-    - hunt
-    - Hunting
     - Florida
-    - Lower Suwannee National Wildlife Refuge
-    - Suwannee River
-    - Swanee River
-   
-updated: 'October 26th, 2020'
+    - Halloween
+    - Hunting
+    - 'Lower Suwannee National Wildlife Refuge'
+    - 'Moth Man'
+    - 'Suwannee River'
+    - 'Swamp Ape'
+    - 'Swanee River'
+updated: 'October 30th, 2020'
 ---
 **Chiefland, Florida** – If ever there was a time to get out and into the woods and hunt, this pandemic-riven season is surely it. But beware the Swamp Ape.
 
@@ -29,7 +27,7 @@ Gude is skeptical of the beast’s existence, though he remains open to the poss
 
 “There’s a trend, overall, and an uptick in hunters here at the refuge,” Gude said recently. “Hunting allows folks to go out and maintain distance from other people. You don’t want to be around anybody else anyway.”
 
-The U.S. Fish and Wildlife Service recently expanded opportunities for hunters and anglers at 147 refuges and hatcheries nationwide. The Service added 1.4 million acres the year before. More than 4 million acres, overall, has been opened to the rod and gun crowd. 
+The U.S. Fish and Wildlife Service recently expanded opportunities for hunters and anglers at 147 refuges and hatcheries nationwide. The Service added 1.4 million acres the year before. More than 4 million acres, overall, has been opened to the rod and gun crowd.
 
 In addition, more than 110 new or expanded hunting and fishing opportunities - new species, acres, and times to hunt and fish - will be offered to more closely align federal and state rules.
 
@@ -39,7 +37,7 @@ Hunting and fishing generate millions of dollars in revenue for states each year
 
 “When I first moved down here I mandated that we get as close to state rules as we can,” said Gude, who arrived at Lower Suwannee nine years ago. “We probably have the most hunting opportunities of any refuge outside of Alaska. We have 200 days of aggregate hunting - the number of waterfowl, deer, hog, turkey and small game days combined. And north Florida has a huge hunt culture. We’ve always been pretty popular here.”
 
-The refuge covers 53,000 acres of salt and freshwater wetlands, cypress swamps, hardwood forests and old pine plantations - enough varied habitats to satisfy the most discerning of hunters and fishers. Unlike most refuges created to protect wildlife, Lower Suwannee was established in 1979 to ensure the water quality of the famed Suwannee River. The fresh water mixes with the Gulf of Mexico’s salt water to create a fertile estuary that nourishes sturgeon, migratory shorebirds, wading birds, and waterfowl, while attracting commercial and recreational fishermen. 
+The refuge covers 53,000 acres of salt and freshwater wetlands, cypress swamps, hardwood forests and old pine plantations - enough varied habitats to satisfy the most discerning of hunters and fishers. Unlike most refuges created to protect wildlife, Lower Suwannee was established in 1979 to ensure the water quality of the famed Suwannee River. The fresh water mixes with the Gulf of Mexico’s salt water to create a fertile estuary that nourishes sturgeon, migratory shorebirds, wading birds, and waterfowl, while attracting commercial and recreational fishermen.
 
 The refuge straddles 20 miles of the Suwannee River (*“way down upon the Swanee River”*) and 30 miles of relatively untrammeled Big Bend coastline. It’s riddled with hiking and paddling trails, old logging roads, boardwalks, and fishing piers. The nine-mile Nature Drive offers easy access to prime hunting and fishing grounds. A week before archery season began, in late September, hunters were doing recon and hauling in deer stands.
 
