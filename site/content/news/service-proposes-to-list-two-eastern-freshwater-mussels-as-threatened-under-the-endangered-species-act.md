@@ -25,7 +25,7 @@ tags:
     - Tennessee
     - Virginia
     - 'West Virginia'
-updated: 'September 28th, 2020'
+updated: 'November 3rd, 2020'
 ---
 
 Following rigorous scientific reviews of the best available science, the U.S. Fish and Wildlife Service is proposing to list the longsolid and round hickorynut freshwater mussels, found in streams and rivers in the Eastern U.S., as threatened under the Endangered Species Act.
@@ -58,7 +58,7 @@ The purple lilliput is a small mussel up to 1.5 inches long, with a thick shell,
 
 Although this mussel has disappeared from North Carolina and Georgia, and may have disappeared from Oklahoma and Virginia, more than 100 purple lilliput populations are expected to persist, scattered across all six major river basins where it is found for the next 20-30 years. Therefore, although the purple lilliput has declined, the Service found it does not meet the threshold for threatened or endangered under the ESA.
 
-The public is invited to submit comments on the proposed listing, 4(d) rules, critical habitat designation, and the draft economic analysis throughout a 60-day comment period ending November 28, 2020. We will accept electronic or hard copy comments received or postmarked on or before November 28, 2020.  Comments submitted electronically must be received by 11:59 p.m. Eastern Time on the closing date.  We must receive requests for a public hearing, in writing, at U.S. Fish and Wildlife Service, 160 Zillicoa St., Asheville, NC 28801 by November 13, 2020.
+The public is invited to submit comments on the proposed listing, 4(d) rules, critical habitat designation, and the draft economic analysis throughout a 90-day comment period ending December 28, 2020. We will accept electronic or hard copy comments received or postmarked on or before December 28, 2020.  Comments submitted electronically must be received by 11:59 p.m. Eastern Time on the closing date.  We must receive requests for a public hearing, in writing, at U.S. Fish and Wildlife Service, 160 Zillicoa St., Asheville, NC 28801 by November 13, 2020.
 
 You may submit comments on the proposed rule or draft economic analysis by one of the following methods:
 
