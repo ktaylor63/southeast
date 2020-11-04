@@ -48,6 +48,7 @@ Under the BGEPA, the birds have habitat management guidelines similar to the pre
 - [Patuxent Wildlife Research Center](https://www.usgs.gov/centers/pwrc)
 - [USGS National Wildlife Health Center](https://www.usgs.gov/centers/nwhc)
 - [North American Breeding Bird Survey](https://www.pwrc.usgs.gov/BBS/)
+- [Standard Banding Conditions for Eastern Black Rail (*Laterallus jamaicensis jamaicensis*)](/pdf/guidelines/banding-conditions-for-eastern-black-rail.pdf)
 - [Reporting a banded bird](https://www.usgs.gov/centers/pwrc/science/bird-banding-laboratory?qt-science_center_objects=0#qt-science_center_objects)
 - [Cornell’s eBird database](https://ebird.org/home)
 - [Reducing bird collisions with buildings and building glass](/pdf/guidelines/reducing-bird-collisions-with-buildings-and-building-glass-best-practices.pdf)
