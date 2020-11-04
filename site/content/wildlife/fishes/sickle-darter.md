@@ -66,7 +66,7 @@ The historical range (prior to 2005) of the sickle darter included nine tributar
 
 Currently, the sickle darter is represented by six populations occupying portions of the Emory River system (Tennessee), Little River system (Tennessee), Sequatchie River system (Tennessee – discovered in 2014), the upper Clinch River system (Virginia), the North Fork Holston River system (Virginia), and the Middle Fork Holston River system (Virginia).  Populations within the French Broad River (North Carolina and Tennessee), South Fork Holston River (Tennessee), Powell River (Tennessee), and Watauga River systems (Tennessee) have been lost.    
 
-{{< figure class="photo-center" src="/images/pages/sickle-darter-historic-range.jpg" alt="A map comparing current and historic ranges of sickle darter" caption="Current (2005-2019) and historical distribution of the Sickle Darter in the upper Tennessee River drainage, North Carolina, Tennessee, and Virginia, based on positive collection records (1888-present). Map by USFWS, March 2020. " >}}
+{{< figure class="photo-center" src="/images/pages/sickle-darter-historic-range.jpg" alt="A map comparing current and historic ranges of sickle darter in the upper Tennessee River drainage" caption="Current (2005-2019) and historical distribution of the Sickle Darter in the upper Tennessee River drainage, North Carolina, Tennessee, and Virginia, based on positive collection records (1888-present). Map by USFWS, March 2020. " >}}
 
 ## Conservation challenges
 
