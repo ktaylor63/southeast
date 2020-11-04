@@ -1,34 +1,44 @@
 ---
 title: 'Sickle darter'
 scientific: 'Percina williamsi'
-description: 'The Carolina madtom is a small catfish, reaching a maximum length of nearly five inches and can be found in riffles, runs, and pools in medium to large streams and rivers. Ideally, it inhabits fresh waters with continuous, year-round flow and moderate gradient in both the Piedmont and Coastal Plain physiographic regions.'
+description: 'The sickle darter is a small fish native to the upper Tennessee River drainage in North Carolina, Tennessee, and Virginia.'
 type: species-profile
 js: /js/species-profile.js
 aliases:
-    - /wildlife/fish/carolina-madtom
-    - /species/fish/carolina-madtom
-    - /species/fishes/carolina-madtom
+    - /wildlife/fish/sickle-darter
+    - /species/fish/sickle-darter
+    - /species/fishes/sickle-darter
 tags:
     - 'At-Risk Species'
     - 'Endangered Species Act'
     - Fish
-    - 'Neuse River Waterdog'
+    - 'Kentucky Ecological Services Field Office'
     - 'North Carolina'
-    - 'Raleigh Ecological Services Field Office'
+    - 'Tennessee River'
+    - Tennesee
+    - Virginia
+    
 hero:
-    name: carolina-madtom.jpg
-    alt: 'A small catfish swimming above rocky substrate.'
-    caption: 'Carolina madtom. Photo by D Biggins, former USFWS.'
-    link: 'https://flic.kr/p/Tk6D1L'
+    name: sickle-darter-Crystal-Ruble-conservation-fisheries.jpg
+    alt: 'A small fish with swimming above rocky substrate. Fish is striped tail to snout brown, black and white.'
+    caption: 'Sickle darter; Photo credit – Crystal Ruble, Conservation Fisheries, Inc.'
     position: 'center left'
-updated: 'March 25th, 2019'
+updated: 'November 14th, 2020'
 ---
 
-- **Taxon:** Freshwater Fish
-- **Range:** Neuse River and Tar River basins, [North Carolina](/north-carolina)
-- **Status:** At-risk species
+- **Taxon:** Fish
+- **Range:** [North Carolina](/north-carolina), [Tennessee](/tennessee), and [Virginia](/virginia)
+- **Status:** Proposed for Listing as a Threatened Species Under the Endangered Species Act; Proposed Section 4(d) Rule
 
-{{< content-scroller tag="Carolina Madtom" heading="Related content" >}}
+{{< content-scroller tag="sickle darter" heading="Related content" >}}
+
+## Introduction 
+
+In April 2010, the U.S. Fish and Wildlife Service (Service) was petitioned to list the sickle darter, a small fish native to the upper Tennessee River drainage in North Carolina, Tennessee, and Virginia.  In 2011, the Service published a 90-day finding indicating listing may be warranted, and based on that finding, conducted a Species Status Assessment (SSA) for the fish.  An SSA compiles the best scientific and commercial data available regarding the species’ biology and any factors influencing its viability.  Based on the information provided in the peer-reviewed SSA, the Service is proposing to list the sickle darter as a threatened species throughout its historical range.   
+
+The Service is also proposing a 4(d) rule for the species.  Using the flexibility provided under Section 4(d) of the Endangered Species Act (ESA), the Service can tailor take prohibitions to those that provide conservation benefits for the species.  This targeted approach can reduce ESA conflicts by allowing some activities to continue that may benefit and not significantly harm the darter, while focusing efforts on the threats that slow the species’ recovery.  These customized protections of the ESA minimize the regulatory burden while maximizing the likelihood of recovery for threatened species. 
+
+- *Frequently asked questions*(
 
 ## Appearance
 
