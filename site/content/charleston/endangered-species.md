@@ -12,7 +12,7 @@ tags:
     - 'Endangered Species Act'
     - Recovery
     - 'South Carolina'
-updated: 'June 9th, 2020'
+updated: 'November 4th, 2020'
 ---
 
 When Congress passed the Endangered Species Act (ESA) in 1973, it recognized that our rich natural heritage is of “esthetic, ecological, educational, recreational, and scientific value to our Nation and its people.” It further expressed concern that many of our nation’s native plants and animals were in danger of becoming extinct.
@@ -46,7 +46,7 @@ Not sure whether or not you need an Incidental Take Permit (ITP)? Download the [
 
 **Mark A. Caldwell**, Deputy Field Supervisor  
 [mark_caldwell@fws.gov](mailto:mark_caldwell@fws.gov), (843) 727-4707 ext. 215  
-Lead for [eastern black rail](https://ecos.fws.gov/ecp0/profile/speciesProfile?sId=10477) and [Kirtland’s warbler](https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B03I).
+Lead for [Kirtland’s warbler](https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B03I).
 
 **Melissa Chaplin**, Fish and Wildlife Biologist  
 [melissa_chaplin@fws.gov](mailto:melissa_chaplin@fws.gov), (843) 727-4707 ext. 217  
@@ -62,7 +62,7 @@ Lead for [American chaffseed](https://ecos.fws.gov/ecp0/profile/speciesProfile?s
 
 **Lindsey C. Troutman**, Fish and Wildlife Biologist  
 [lindsey_troutman@fws.gov](mailto:lindsey_troutman@fws.gov), (843) 727-4707 ext. 228  
-Lead for [red-cockaded woodpecker](https://ecos.fws.gov/ecp0/profile/speciesProfile?sId=7614).
+Lead for [red-cockaded woodpecker](https://ecos.fws.gov/ecp0/profile/speciesProfile?sId=7614) and [eastern black rail](https://ecos.fws.gov/ecp0/profile/speciesProfile?sId=10477).
 
 **Morgan Wolf**, Fish and Wildlife Biologist  
 [morgan_wolf@fws.gov](mailto:morgan_wolf@fws.gov), (843) 727-4707 ext. 219  
