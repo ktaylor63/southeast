@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 'Red-cockaded woodpecker'
 scientific: 'Picoides borealis'
 type: species-profile
@@ -22,7 +23,7 @@ tags:
     - 'Red-Cockaded Woodpecker'
     - 'South Carolina'
     - 'South Carolina Ecological Services Field Office'
-updated: 'September 24th, 2020'
+updated: 'November 9th, 2020'
 ---
 
 - **Taxon**: Bird
@@ -159,9 +160,13 @@ Working with conservation partners, the U.S. Fish and Wildlife Service (Service)
 
 ## Recovery plan
 
-Download the [recovery plan](https://ecos.fws.gov/docs/recovery_plan/030320_2.pdf). The goal of the Service’s red-cockaded woodpecker recovery program is to conserve the species and the ecosystem upon which it depends. Red-cockaded woodpeckers have increased in number range-wide in response to recovery and management programs, from an estimated 4,694 active clusters by 1995 to at least 7,800 today.
+The Service is announcing a virtual public informational meeting and public hearing on our proposal to reclassify the red-cockaded woodpecker as a threatened species under the Endangered Species Act (ESA).  [Click here to download information on how to register and participate in the virtual public meeting/hearing to be held on December 1, 2020.](pdf/flier/directions-for-attending-RCW-public-informational-meeting-and-public-hearing.pdf) 
 
-The Service administers recovery and consultation programs for the red-cockaded woodpecker in accordance with the Endangered Species Act through 13 Ecological Services field offices in 11 states. In addition, the Service works to ensure consistent application of recovery and conservation programs on federal, state, and private lands. The Service promotes conservation, restoration, and ecologically sound management of the longleaf pine and related ecosystems.
+[Download Powerpoint presentation for the virtual public meeting/hearing] (.pdf Powerpoint presentation inserted here - this is to be uploaded shortly before the public hearing) 
+
+[Download the recovery plan](https://ecos.fws.gov/docs/recovery_plan/030320_2.pdf). The goal of the Service’s red-cockaded woodpecker recovery program is to conserve the species and the ecosystem upon which it depends. Red-cockaded woodpeckers have increased in number range-wide in response to recovery and management programs, from an estimated 4,694 active clusters by 1995 to at least 7,800 today. 
+
+The Service administers recovery and consultation programs for the red-cockaded woodpecker in accordance with the Endangered Species Act through 13 Ecological Services field offices in 11 states. In addition, the Service works to ensure consistent application of recovery and conservation programs on federal, state, and private lands. The Service promotes conservation, restoration, and ecologically sound management of the longleaf pine and related ecosystems. 
 
 ## Subject matter expert
 
