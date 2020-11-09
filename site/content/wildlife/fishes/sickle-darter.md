@@ -36,7 +36,7 @@ In April 2010, the U.S. Fish and Wildlife Service (Service) was petitioned to li
 
 The Service is also proposing a 4(d) rule for the species. Using the flexibility provided under Section 4(d) of the Endangered Species Act (ESA), the Service can tailor take prohibitions to those that provide conservation benefits for the species. This targeted approach can reduce ESA conflicts by allowing some activities to continue that may benefit and not significantly harm the darter, while focusing efforts on the threats that slow the species’ recovery. These customized protections of the ESA minimize the regulatory burden while maximizing the likelihood of recovery for threatened species.
 
-- Frequently asked questions(/pdf/frequently-asked-questions/sickle-darter.pdf)
+- [Frequently asked questions](/pdf/frequently-asked-questions/sickle-darter.pdf)
 
 {{< content-scroller tag="sickle darter" heading="Related content" >}}
 
