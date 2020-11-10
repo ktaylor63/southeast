@@ -1,9 +1,0 @@
-- var moment = require('moment');
-each result in results
- - var date = moment(result.publication_date).format('MMMM D, YYYY');
-  li.card.card-text
-    span.card-ribbon
-      span.card-type= result.type
-    span.card-date= date
-    p.card-text
-      a(href=result.html_url, target="_blank", aria-label=result.html_url)= result.title

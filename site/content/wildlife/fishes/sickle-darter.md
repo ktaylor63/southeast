@@ -14,8 +14,8 @@ tags:
     - Fish
     - 'Kentucky Ecological Services Field Office'
     - 'North Carolina'
-    - 'Tennessee River'
     - Tennesee
+    - 'Tennessee River'
     - Virginia
 hero:
     name: sickle-darter-Crystal-Ruble-conservation-fisheries.jpg
