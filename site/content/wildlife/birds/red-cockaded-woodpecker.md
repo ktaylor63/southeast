@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 'Red-cockaded woodpecker'
 scientific: 'Picoides borealis'
 type: species-profile
@@ -23,7 +22,7 @@ tags:
     - 'Red-Cockaded Woodpecker'
     - 'South Carolina'
     - 'South Carolina Ecological Services Field Office'
-updated: 'November 9th, 2020'
+updated: 'November 10th, 2020'
 ---
 
 - **Taxon**: Bird
