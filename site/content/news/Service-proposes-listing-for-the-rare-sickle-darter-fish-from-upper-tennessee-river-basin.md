@@ -11,9 +11,9 @@ tags:
     - Fish
     - 'Kentucky Ecological Services Field Office'
     - 'North Carolina'
-    - 'sickle darter'
-    - 'Tennessee River'
+    - 'Sickle Darter'
     - Tennesee
+    - 'Tennessee River'
     - Virginia
 updated: 'November 10th, 2020'
 ---
