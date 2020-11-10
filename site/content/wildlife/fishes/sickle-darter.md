@@ -27,7 +27,8 @@ updated: 'November 10th, 2020'
 
 - **Taxon:** Fish
 - **Range:** [North Carolina](/north-carolina), [Tennessee](/tennessee), and [Virginia](/virginia)
-- **Status:** Proposed for Listing as a Threatened Species Under the Endangered Species Act; Proposed Section 4(d) Rule
+- **Status:** [Proposed for Listing as a Threatened Species Under the Endangered Species Act; Proposed Section 4(d) Rule](news/2020/11/Service-proposes-listing-for-the-rare-sickle-darter-fish-from-upper-tennessee-river-basin/)
+
 
 ## Introduction
 
