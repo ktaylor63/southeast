@@ -27,7 +27,7 @@ updated: 'November 10th, 2020'
 
 - **Taxon:** Fish
 - **Range:** [North Carolina](/north-carolina), [Tennessee](/tennessee), and [Virginia](/virginia)
-- **Status:** [Proposed for Listing as a Threatened Species Under the Endangered Species Act; Proposed Section 4(d) Rule](news/2020/11/Service-proposes-listing-for-the-rare-sickle-darter-fish-from-upper-tennessee-river-basin/)
+- **Status:** [Proposed for Listing as a Threatened Species Under the Endangered Species Act; Proposed Section 4(d) Rule](/news/2020/11/Service-proposes-listing-for-the-rare-sickle-darter-fish-from-upper-tennessee-river-basin/)
 
 
 ## Introduction
@@ -36,7 +36,7 @@ In April 2010, the U.S. Fish and Wildlife Service (Service) was petitioned to li
 
 The Service is also proposing a 4(d) rule for the species. Using the flexibility provided under Section 4(d) of the Endangered Species Act (ESA), the Service can tailor take prohibitions to those that provide conservation benefits for the species. This targeted approach can reduce ESA conflicts by allowing some activities to continue that may benefit and not significantly harm the darter, while focusing efforts on the threats that slow the species’ recovery. These customized protections of the ESA minimize the regulatory burden while maximizing the likelihood of recovery for threatened species.
 
-- [Frequently asked questions](/pdf/frequently-asked-questions/sickle-darter.pdf)
+- [Frequently asked questions](/faq/proposed-listing-for-the-sickle-darter-and-proposed-4d-rule/)
 
 {{< content-scroller tag="sickle darter" heading="Related content" >}}
 
@@ -52,7 +52,7 @@ Multiple black specks typically cover the lower half of sickle darter’s bodies
 
 Sickle darters are typically found in slow flowing pools over rocky, sandy, or silty substrates in clear creeks or small rivers. In these habitats, the fish is commonly seen around boulders, woody debris piles, or beds of water willow. Sickle darters spend most of their time  in the water column, often hovering a few inches above the stream or river bottom. The prominent black stripe or series of blotches along its sides are characteristic of darters living near vegetation in flowing pools. Spawning occurs in late winter (February-March), and the species has a maximum lifespan of 3-4 years.
 
-{{< figure class="photo-left" src="/images/pages/sickle-darter-habitat-Kyler-Hecke.jpg" alt="A shallow slow moving stream" caption="Sickle darter habitat, Little River, Blount County, Tennessee; Photo credit: Dr. Brian Alford and Kyler Hecke, The University of Tennessee " >}}
+{{< figure class="photo-center" src="/images/pages/sickle-darter-habitat-Kyler-Hecke.jpg" alt="A shallow slow moving stream" caption="Sickle darter habitat, Little River, Blount County, Tennessee; Photo credit: Dr. Brian Alford and Kyler Hecke, The University of Tennessee " >}}
 
 ## Diet
 
