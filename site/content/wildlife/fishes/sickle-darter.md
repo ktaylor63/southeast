@@ -3,7 +3,6 @@ title: 'Sickle darter'
 scientific: 'Percina williamsi'
 description: 'The sickle darter is a small fish native to the upper Tennessee River drainage in North Carolina, Tennessee, and Virginia.'
 type: species-profile
-draft: true
 js: /js/species-profile.js
 aliases:
     - /wildlife/fish/sickle-darter
@@ -23,7 +22,7 @@ hero:
     alt: 'A small fish with swimming above rocky substrate. Fish is striped tail to snout brown, black and white.'
     caption: 'Sickle darter; Photo by Crystal Ruble, Conservation Fisheries, Inc.'
     position: 'center left'
-updated: 'November 14th, 2020'
+updated: 'November 10th, 2020'
 ---
 
 - **Taxon:** Fish
