@@ -22,7 +22,7 @@ hero:
     alt: 'A small fish with swimming above rocky substrate. Fish is striped tail to snout brown, black and white.'
     caption: 'Sickle darter; Photo by Crystal Ruble, Conservation Fisheries, Inc.'
     position: 'center left'
-updated: 'November 10th, 2020'
+updated: 'November 12th, 2020'
 ---
 
 - **Taxon:** Fish
