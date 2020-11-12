@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 'Red-cockaded woodpecker'
 scientific: 'Picoides borealis'
 type: species-profile
@@ -22,7 +23,7 @@ tags:
     - 'Red-Cockaded Woodpecker'
     - 'South Carolina'
     - 'South Carolina Ecological Services Field Office'
-updated: 'November 10th, 2020'
+updated: 'November 13th, 2020'
 ---
 
 - **Taxon**: Bird
@@ -159,7 +160,36 @@ Working with conservation partners, the U.S. Fish and Wildlife Service (Service)
 
 ## Recovery plan
 
-The Service is announcing a virtual public informational meeting and public hearing on our proposal to reclassify the red-cockaded woodpecker as a threatened species under the Endangered Species Act (ESA). [Click here to download information on how to register and participate in the virtual public meeting/hearing to be held on December 1, 2020.](/pdf/flier/directions-for-attending-RCW-public-informational-meeting-and-public-hearing.pdf) 
+The Service has scheduled a virtual public informational meeting and virtual public hearing on this proposed rule on December 1, 2020 from 6:00 – 9:00 p.m. Eastern Time (ET).  The meeting portion will be from 6:00 – 7:30 p.m. ET, followed by the public hearing from 7:30 – 9:00 p.m. ET. 
+
+The Service will hold the virtual public informational meeting and virtual public hearing via the Zoom online video platform and via teleconference so that participants can attend remotely.  For security purposes, *registration is required* in order to listen and view the meeting and hearing via Zoom, listen to the meeting and hearing by telephone, or provide oral public comments at the public hearing by Zoom or telephone. 
+
+### Instructions for attending the virtual meeting and hearing: 
+
+*If you have technical difficulties registering for the meeting or joining the meeting on December 1, 2020, please email [amanda.biedermann@empsi.com](mailto:amanda.biedermann@empsi.com). 
+
+**For Participants joining by Zoom Web Platform or Zoom App:
+
+**1. Please pre-register using the link provided below. 
+[https://zoom.us/meeting/register/tJUofuGorD4vG9xAC4ggdgI92963tdHufdZm](https://zoom.us/meeting/register/tJUofuGorD4vG9xAC4ggdgI92963tdHufdZm) 
+2. After registration, participants will receive a confirmation email containing information about joining the meeting. 
+3. On the day of the meeting, please join using the information contained in your confirmation email.  
+
+**For Participants joining by Phone: 
+
+**1. On the day of your meeting, call in using one of the toll-free phone numbers listed below. You will be prompted to enter your Meeting ID.  Enter your Meeting ID (see below) and press the # key.** 
+2. You will then be prompted:  “Enter your Participant ID followed by #.  Otherwise just press #.”  Phone-only participants will not receive an individualized Participant ID, so just press the # key. 
+3. You will be directly joined to the meeting.  If the meeting has not started, you will be on hold until the meeting begins. 
+
+Call-in Numbers (for higher quality, dial a number based on your current location): 
+US: +1 346 248 7799 or +1 669 900 9128 or +1 253 215 8782 or +1 312 626 6799 or +1 646 558 8656 or +1 301 715 8592  
+Meeting ID: 915 9802 5518 
+
+International numbers available: [https://zoom.us/u/aeGFkBaYbn](https://zoom.us/u/aeGFkBaYbn) 
+
+Persons with disabilities requiring reasonable accommodations to participate in the meeting and/or hearing should contact the Service (contact information below) at least 5 business days prior to the date of the meeting and hearing to help ensure availability. The deadline for those requests is 5:00 p.m. ET on November 20, 2020. 
+
+To request additional reasonable accommodation, please contact Aaron Valenta, Chief, Division of Restoration and Recovery, U.S. Fish and Wildlife Service, Southeast Regional Office; telephone 404-679-4144.  Persons who use a telecommunications device for the deaf (TDD) may call the Federal Relay Service at 800–877–8339.   
 
 [Download the recovery plan](https://ecos.fws.gov/docs/recovery_plan/030320_2.pdf). The goal of the Service’s red-cockaded woodpecker recovery program is to conserve the species and the ecosystem upon which it depends. Red-cockaded woodpeckers have increased in number range-wide in response to recovery and management programs, from an estimated 4,694 active clusters by 1995 to at least 7,800 today. 
 
