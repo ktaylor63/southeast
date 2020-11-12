@@ -159,7 +159,7 @@ Working with conservation partners, the U.S. Fish and Wildlife Service (Service)
 
 ## Recovery plan
 
-The Service is announcing a virtual public informational meeting and public hearing on our proposal to reclassify the red-cockaded woodpecker as a threatened species under the Endangered Species Act (ESA). [Click here to download information on how to register and participate in the virtual public meeting/hearing to be held on December 1, 2020.](pdf/flier/directions-for-attending-RCW-public-informational-meeting-and-public-hearing.pdf) 
+The Service is announcing a virtual public informational meeting and public hearing on our proposal to reclassify the red-cockaded woodpecker as a threatened species under the Endangered Species Act (ESA). [Click here to download information on how to register and participate in the virtual public meeting/hearing to be held on December 1, 2020.](/pdf/flier/directions-for-attending-RCW-public-informational-meeting-and-public-hearing.pdf) 
 
 [Download the recovery plan](https://ecos.fws.gov/docs/recovery_plan/030320_2.pdf). The goal of the Service’s red-cockaded woodpecker recovery program is to conserve the species and the ecosystem upon which it depends. Red-cockaded woodpeckers have increased in number range-wide in response to recovery and management programs, from an estimated 4,694 active clusters by 1995 to at least 7,800 today. 
 
