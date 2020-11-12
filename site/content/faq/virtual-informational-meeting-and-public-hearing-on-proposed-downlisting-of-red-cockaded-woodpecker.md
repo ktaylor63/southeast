@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 'Virtual informational meeting and public hearing on proposed downlisting of red-cockaded woodpecker'
 date: 2020-11-10T00:00:00.000Z
 hero:
@@ -24,15 +25,15 @@ tags:
     - 'South Carolina'
     - Virginia
 updated: 'November 12th, 2020'
------
+---
 
 ## What action is the U.S. Fish and Wildlife Service taking?
 
-The Service is announcing a public hearing on the proposed downlisting of the red-cockaded woodpecker from endangered to threatened under the Endangered Species Act (ESA). The virtual public hearing will be held via Zoom and teleconference on Tuesday, December 1, 2020 from 6-9 p.m. Eastern Time.
+The Service is announcing a public hearing on the proposed downlisting of the [red-cockaded woodpecker](/wildlife/birds/red-cockaded-woodpecker) from endangered to threatened under the Endangered Species Act (ESA). The virtual public hearing will be held via Zoom and teleconference on Tuesday, December 1, 2020 from 6-9 p.m. Eastern Time.
 
 ## Why is the Service taking this action?
 
-On Oct. 8, 2020, the Service published a rule proposing to downlist the red-cockaded woodpecker from endangered to threatened under the ESA. This action involved a 60-day public comment period, ending Dec. 7, 2020. The Service received a request from the Center for Biological Diversity to hold a public hearing on the proposed rule. 
+On Oct. 8, 2020, the Service published a [rule](/pdf/regulations/reclassification-of-the-red-cockaded-woodpecker-from-endangered-to-threatened-and-section-4d-rule.pdf) proposing to downlist the red-cockaded woodpecker from endangered to [threatened](https://www.fws.gov/endangered/esa-library/pdf/listing.pdf) under the ESA. This action involved a 60-day public comment period, ending Dec. 7, 2020. The Service received a request from the Center for Biological Diversity to hold a public hearing on the proposed rule. 
 
 ## What is the red-cockaded woodpecker?
 
@@ -76,19 +77,19 @@ After reviewing and carefully considering all public comments, the Service will 
 
 The Service will hold the virtual public informational meeting and public hearing on December 1, 2020 via the Zoom online video platform and via teleconference so that participants can attend remotely. For security purposes, registration is required in order to listen and view the meeting and hearing via Zoom, listen to the meeting and hearing by telephone, or provide oral public comments at the public hearing by Zoom or telephone. For information on how to register, or if you encounter problems joining Zoom the day of the meeting, visit the following website for detailed information: 
 
-https://www.fws.gov/southeast/wildlife/birds/red-cockaded-woodpecker/#recovery-plan-section 
+[https://www.fws.gov/southeast/wildlife/birds/red-cockaded-woodpecker/#recovery-plan-section](/wildlife/birds/red-cockaded-woodpecker/#recovery-plan-section) 
 
 Once successfully registered, registrants will receive the Zoom link and the telephone number for the virtual public informational meeting and public hearing. Interested members of the public not familiar with the Zoom platform should view the Zoom video tutorials at the link below, prior to the virtual public informational meeting and public hearing.
 
-https://support.zoom.us/hc/en-us/articles/206618765-Zoom-video-tutorials
+[https://support.zoom.us/hc/en-us/articles/206618765-Zoom-video-tutorials](https://support.zoom.us/hc/en-us/articles/206618765-Zoom-video-tutorials)
 
 The public hearing will provide interested parties an opportunity to present formal, oral comments regarding the proposed rule. While the public informational meeting will be an opportunity for dialogue with the Service, the public hearing is not; it is a forum for accepting formal verbal testimony. In the event there is a large attendance, the time allotted for oral statements may be limited. Therefore, anyone wishing to make an oral statement at the public hearing for the record is encouraged to provide a prepared written copy of their statement to us through the Federal eRulemaking Portal, or U.S. mail. There are no limits on the length of written comments submitted to us.
 
-Comments and materials we receive, as well as supporting documentation used in preparing this proposed rule, are available for public inspection on http://www.regulations.gov at Docket No. FWS–R4–ES–2019–0018.  
+Comments and materials we receive, as well as supporting documentation used in preparing this proposed rule, are available for public inspection on [http://www.regulations.gov](http://www.regulations.gov) at Docket No. FWS–R4–ES–2019–0018.  
 
 You may submit written comments by one of the following methods:
 
-1. Electronically: Go to the Federal eRulemaking Portal: http://www.regulations.gov. In the Search box, enter FWS–R4–ES–2019–0018, which is the docket number for the proposed rule. Then, click on the Search button. On the resulting page, in the Search panel on the left side of the screen, under the Document Type heading, check the Proposed Rule box to locate this document. You may submit a comment by clicking on “Comment Now!” Please ensure you have found the correct document before submitting your comments. If your comments will fit in the provided comment box, please use this feature of http://www.regulations.gov, as it is most compatible with our comment review procedures. If you attach your comments as a separate document, our preferred file format is Microsoft Word. If you attach multiple comments (such as form letters), our preferred format is a spreadsheet in Microsoft Excel.
+1. Electronically: Go to the Federal eRulemaking Portal: [http://www.regulations.gov](http://www.regulations.gov). In the Search box, enter FWS–R4–ES–2019–0018, which is the docket number for the proposed rule. Then, click on the Search button. On the resulting page, in the Search panel on the left side of the screen, under the Document Type heading, check the Proposed Rule box to locate this document. You may submit a comment by clicking on “Comment Now!” Please ensure you have found the correct document before submitting your comments. If your comments will fit in the provided comment box, please use this feature of [http://www.regulations.gov](http://www.regulations.gov), as it is most compatible with our comment review procedures. If you attach your comments as a separate document, our preferred file format is Microsoft Word. If you attach multiple comments (such as form letters), our preferred format is a spreadsheet in Microsoft Excel.
 2. By hard copy: Submit by U.S. mail to: Public Comments Processing, Attn:  FWS–R4–ES–2019–0018, U.S. Fish and Wildlife Service, MS: PRB/3W, 5275 Leesburg Pike, Falls Church, VA 22041-3803.
 
-We request that you send comments only by the methods described above. We will post all comments on http://www.regulations.gov. 
+We request that you send comments only by the methods described above. We will post all comments on [http://www.regulations.gov](http://www.regulations.gov). 
