@@ -168,14 +168,14 @@ The Service will hold the virtual public informational meeting and virtual publi
 
 *If you have technical difficulties registering for the meeting or joining the meeting on December 1, 2020, please email [amanda.biedermann@empsi.com](mailto:amanda.biedermann@empsi.com). 
 
-**For Participants joining by Zoom Web Platform or Zoom App:
+**For Participants joining by Zoom Web Platform or Zoom App:**
 
-**1. Please pre-register using the link provided below. 
+**1. Please pre-register using the link provided below.** 
 [https://zoom.us/meeting/register/tJUofuGorD4vG9xAC4ggdgI92963tdHufdZm](https://zoom.us/meeting/register/tJUofuGorD4vG9xAC4ggdgI92963tdHufdZm) 
 2. After registration, participants will receive a confirmation email containing information about joining the meeting. 
 3. On the day of the meeting, please join using the information contained in your confirmation email.  
 
-**For Participants joining by Phone: 
+**For Participants joining by Phone:** 
 
 **1. On the day of your meeting, call in using one of the toll-free phone numbers listed below. You will be prompted to enter your Meeting ID.  Enter your Meeting ID (see below) and press the # key.** 
 2. You will then be prompted:  “Enter your Participant ID followed by #.  Otherwise just press #.”  Phone-only participants will not receive an individualized Participant ID, so just press the # key. 
