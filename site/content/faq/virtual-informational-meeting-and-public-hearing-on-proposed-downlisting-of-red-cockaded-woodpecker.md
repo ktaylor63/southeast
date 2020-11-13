@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 'Virtual informational meeting and public hearing on proposed downlisting of red-cockaded woodpecker'
 date: 2020-11-10T00:00:00.000Z
 hero:
