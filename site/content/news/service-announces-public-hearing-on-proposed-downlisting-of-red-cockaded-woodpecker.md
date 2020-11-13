@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 'Service announces public hearing on proposed downlisting of red-cockaded woodpecker'
 date: 2020-11-12T00:00:00.000Z
 hero:
