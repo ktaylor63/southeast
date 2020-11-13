@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 'Red-cockaded woodpecker'
 scientific: 'Picoides borealis'
 type: species-profile
