@@ -1,6 +1,5 @@
 ---
 title: "Asian carp in Southeastern waters"
-date: 2019-07-30T00:00:00.000Z
 aliases:
   - /faq/asian-carp
 hero:
@@ -20,7 +19,7 @@ tags:
   - "Lake Barkley"
   - "Silver Carp"
   - Tennessee
-updated: "April 22nd, 2020"
+updated: "November 16th, 2020"
 ---
 
 The spread of four species of large carp—bighead, black, grass, and silver— threatens the Southeast’s renowned aquatic biodiversity and local outdoor economies. The U.S. Fish and Wildlife Service and its federal and state partners are on the front line fighting Asian carp in southeastern waters.
@@ -47,11 +46,11 @@ The [Mississippi Interstate Cooperative Resource Association](http://www.micrari
 
 Sound has shown promise as a potential barrier to Asian carp passage and is being tested at lock and dam structures on large rivers where carp abound. The Service is working with the U.S. Army Corps of Engineers, with the support of the Kentucky Department of Fish and Wildlife Resources, the Tennessee Wildlife Resources Agency, and other partners, to deploy a large-scale sound deterrent trial project at Barkley Lock and Dam in western Kentucky.
 
-{{< figure class="photo-center" src="/images/pages/baff-install-barkley-lock-and-dam.jpg" alt="Heavy machinery on a barge moves the bio-acoustic fish fence into place in a lock next to a dam" caption="Installing the bio-acoustic fish fence at Lake Barkley. Photo by KYDFW." >}}
+{{< figure class="photo-center" src="/images/pages/baff-install-barkley-lock-and-dam.jpg" alt="Heavy machinery on a barge moves the bio-acoustic fish fence into place in a lock next to a dam" caption="Installing the bio-acoustic fish fence at Lake Barkley. Photo by KDFWR." >}}
 
 The goal of the bio-acoustic fish fence, also referred to as BAFF, is to reduce the movement of Asian carp through the locks. This will help protect hundreds of river miles in the Tennessee and Cumberland rivers that remain relatively untouched by carp. The BAFF, developed by U.K.-based Fish Guidance Systems, deploys a curtain of bubbles, light and sound to deter carp from the lock entrance without encumbering commercial and recreational navigation.
 
-[Installation of the BAFF at Barkley Lock and Dam](https://fileshare.fws.gov/?linkid=KZi4zr6VWWXDOaOq0fT0lJF/ZlEhHYre8YDODS6ncAGbVD1e/QKTpw) began in July 2019. The system became operation in October 2019, but construction will be suspended beginning in August 2019 to accommodate river traffic for required maintenance at neighboring Kentucky Lock. Installation will resume in October 2019, and the BAFF is expected to be operational later in fall 2019. The field trial at Barkley Lock and Dam is the next step in determining the system’s effectiveness.
+[Installation of the BAFF at Barkley Lock and Dam](https://fileshare.fws.gov/?linkid=KZi4zr6VWWXDOaOq0fT0lJF/ZlEhHYre8YDODS6ncAGbVD1e/QKTpw) began in July 2019. The system became operation in October 2019. A three-year field trial is the next step in determining the system’s effectiveness.
 
 {{< figure class="photo-center" src="/images/pages/baff-installation-lake-barkley.jpg" alt="Construction workers install a bio-acoustic fish fence" caption="Construction of the bio-acoustic fish fence at Barkley Lock and Dam. Photo by Kentucky Department of Fish and Wildlife Resources." >}}
 
@@ -62,6 +61,8 @@ The BAFF project costs an estimated $7 million, which comes from the Great Lakes
 ## Modified Unified Method
 
 Kentucky is on the front lines of the war on carp. The Kentucky Department of Fish and Wildlife Resources, in February 2020, deployed the so-called Modified Unified Method of carp removal on Kentucky Lake with the assistance of the Service and U.S. Geological Survey as well as the U.S. Forest Service, the Tennessee Valley Authority and the states of Tennessee, Alabama and Mississippi. A series of boats, nets, underwater speakers and electro-fishing gear corrals the carp that have been pushed into a cove or narrow body of water. This carp-corralling method has been tested in Missouri and Illinois and proved mostly successful, removing as much as 90 percent of the fish from the targeted waters. Congress appropriated $25 million overall to the Service in fiscal year 2020 for the unified method and other carp-removal efforts around the country.
+
+Despite unusually warm water temperatures and the need to navigate around natural and manmade snags, Asian carp were successfully herded and removed from Kentucky Lake. Over 69,000 pounds of fish, mostly Asian carp, were harvested from two bays. With slight alterations, Kentucky Fish and Wildlife expects to routinely use this method for removal efforts in appropriate areas.
 
 ## Photos and video
 
@@ -88,8 +89,8 @@ Kentucky is on the front lines of the war on carp. The Kentucky Department of Fi
 
 ## Contact
 
-Dan Chapman, Public Affairs Specialist  
-[daniel_chapman@fws.gov](mailto:daniel_chapman@fws.gov), (404) 679-4028
+Angie Rodgers, Lower Mississippi River Fish and Wildlife Conservation Office   
+[angeline_rodgers@fws.gov ](mailto:angeline_rodgers@fws.gov)
 
 ## Related stories
 
