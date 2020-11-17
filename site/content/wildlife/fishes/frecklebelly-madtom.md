@@ -1,13 +1,14 @@
 ---
+draft: true
 title: 'Frecklebelly madtom'
-scientific: 'Fundulus julisia'
-description: 'The Barrens topminnow is a small colorful fish that grows to almost four inches long. It has an upturned mouth with a flattened head and back.  Fins are rounded with the unpaired fins set far back on the body.'
+scientific: 'Noturus munitus'
+description: 'The frecklebelly madtom is a small boldly patterned fish that grows to almost four inches long. The fish's common name comes from the distinctive spots along their undersides.' 
 type: species-profile
 js: /js/species-profile.js
 aliases:
-    - /wildlife/fish/barrens-topminnow
-    - /species/fish/barrens-topminnow
-    - /species/fishes/barrens-topminnow
+    - /wildlife/fish/frecklebelly-madtom
+    - /species/fish/frecklebelly-madtom
+    - /species/fishes/frecklebelly-madtom
 tags:
     - Alabama
     - 'Alabama Ecological Services Field Office'
@@ -24,19 +25,19 @@ tags:
     - Tennessee
 
 hero:
-    name: barrens-topminnow.jpg
-    alt: 'A bright green irrodescent fish in a small blue net.'
-    caption: 'Barrens topminnows are small, colorful fish that live only in a few springs and creeks in central Tennessee. The U.S. Fish and Wildlife Service has proposed listing the fish as endangered. Photo by Emily Granstaff, USFWS.'
-updated: 'October 29th, 2019'
+    name: frecklebelly-madtom.jpg
+    alt: 'A small fish with tan and brown markings blending into the pebble substrate.'
+    caption: 'Frecklebelly madtom. Photo by USFWS.'
+updated: 'November 17th, 2020'
 ---
 
-- **Taxon:** Freshwater fish
-- **Range:** Barrens Plateau, Tennessee (Cannon, Coffee, Dekalb, and Warren Counties)
-- **Status:** [Listed as endangered on Oct. 21, 2019](https://www.google.com/url?q=https://www.govinfo.gov/content/pkg/FR-2019-10-21/pdf/2019-22857.pdf&sa=D&ust=1572368566998000&usg=AFQjCNFBjlOdQ8vnpEQSRusPPljklVcS8A)
+- **Taxon:** Fish
+- **Range:** Inhabits the main channels and medium to larger tributaries of large river systems in Louisiana, Mississippi, Alabama, Georgia, and Tennessee. 
+- **Status:** [Proposed for Listing as a Threatened Species Under the Endangered Species Act; Proposed Section 4(d) Rule](/news/2020/11/service-proposes-to-list-population-of-frecklebelly-madtom-as-threatened-under-endangered-species-act/)
 
-{{< content-scroller tag="Barrens Topminnow" heading="Related content" >}}
+{{< content-scroller tag="Frecklebelly Madtom" heading="Related content" >}}
 
-[The Service published a final rule in October 2019, adding the fish to the List of Threatened and Endangered Species](/news/2019/10/us-fish-and-wildlife-service-finalizes-rule-to-protect-fish-unique-to-tennessee-under-endangered-species-act/).  The rule takes effect in November 2019. Current populations are facing issues including habitat alteration; over using topminnows as bait fish; disease and predation; and other natural or manmade factors.  Due to the rapid decline of the topminnows, a Barrens Topminnow Working Group was formed in 2001.  Group members consist of governmental and non-governmental conservation organizations.  In addition to dedicating protection of existing populations of topminnows, the working group is also committed to the protection of existing populations of topminnows while restoring and enhancing other areas within the species’ historic range for future introduction.  The program is coordinated with Conservation Fisheries Inc. (CFI), the Tennessee Aquarium, Tennessee Wildlife Resource Agency, USFWS Cookeville Field Office and private landowners through the Partners Program.
+XXXXXXXXXXXXXXXXXXXXXXX[The Service published a final rule in October 2019, adding the fish to the List of Threatened and Endangered Species](/news/2019/10/us-fish-and-wildlife-service-finalizes-rule-to-protect-fish-unique-to-tennessee-under-endangered-species-act/).  The rule takes effect in November 2019. Current populations are facing issues including habitat alteration; over using topminnows as bait fish; disease and predation; and other natural or manmade factors.  Due to the rapid decline of the topminnows, a Barrens Topminnow Working Group was formed in 2001.  Group members consist of governmental and non-governmental conservation organizations.  In addition to dedicating protection of existing populations of topminnows, the working group is also committed to the protection of existing populations of topminnows while restoring and enhancing other areas within the species’ historic range for future introduction.  The program is coordinated with Conservation Fisheries Inc. (CFI), the Tennessee Aquarium, Tennessee Wildlife Resource Agency, USFWS Cookeville Field Office and private landowners through the Partners Program.
 
 ## Appearance
 
