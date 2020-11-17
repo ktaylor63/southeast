@@ -1,10 +1,10 @@
 ---
+draft: true
 title: 'Frecklebelly madtom'
 scientific: 'Noturus munitus'
-description: 'The frecklebelly madtom is a small boldly patterned fish that grows to almost four inches long. The fish's common name comes from the distinctive spots along their undersides.' 
+description: 'The frecklebelly madtom is a small catfish that inhabits channels and tributaries of medium to large river systems in Louisiana, Mississippi, Alabama, Georgia, and Tennessee.' 
 type: species-profile
 js: /js/species-profile.js
-draft: true
 aliases:
     - /wildlife/fish/frecklebelly-madtom
     - /species/fish/frecklebelly-madtom
@@ -34,50 +34,68 @@ updated: 'November 17th, 2020'
 - **Range:** Inhabits the main channels and medium to larger tributaries of large river systems in Louisiana, Mississippi, Alabama, Georgia, and Tennessee. 
 - **Status:** [Proposed for Listing as a Threatened Species Under the Endangered Species Act; Proposed Section 4(d) Rule](/news/2020/11/service-proposes-to-list-population-of-frecklebelly-madtom-as-threatened-under-endangered-species-act/)
 
-{{< content-scroller tag="Frecklebelly Madtom" heading="Related content" >}}
+## Introduction
 
-XXXXXXXXXXXXXXXXXXXXXXX[The Service published a final rule in October 2019, adding the fish to the List of Threatened and Endangered Species](/news/2019/10/us-fish-and-wildlife-service-finalizes-rule-to-protect-fish-unique-to-tennessee-under-endangered-species-act/).  The rule takes effect in November 2019. Current populations are facing issues including habitat alteration; over using topminnows as bait fish; disease and predation; and other natural or manmade factors.  Due to the rapid decline of the topminnows, a Barrens Topminnow Working Group was formed in 2001.  Group members consist of governmental and non-governmental conservation organizations.  In addition to dedicating protection of existing populations of topminnows, the working group is also committed to the protection of existing populations of topminnows while restoring and enhancing other areas within the species’ historic range for future introduction.  The program is coordinated with Conservation Fisheries Inc. (CFI), the Tennessee Aquarium, Tennessee Wildlife Resource Agency, USFWS Cookeville Field Office and private landowners through the Partners Program.
+The frecklebelly madtom is a small catfish that inhabits channels and tributaries of medium to large river systems in Louisiana, Mississippi, Alabama, Georgia, and Tennessee. After a review of the best available scientific and commercial information, the U.S. Fish and Wildlife Service (Service) is proposing to list a population of the frecklebelly madtom as a threatened in the Upper Coosa River in Georgia and Tennessee as a distinct population segment (DPS).  The Service is also proposing critical habitat and a 4(d) rule for this population, the Upper Coosa River DPS of the frecklebelly madtom.
+
+## News and Events
+
+{{< content-scroller tag="Frecklebelly Madtom" heading="Related content" >}}
 
 ## Appearance
 
-The Barrens topminnow is a small colorful fish that grows to almost four inches long. It has an upturned mouth with a flattened head and back.  Fins are rounded with the unpaired fins set far back on the body. Reproductive males show an array of bright colors of blues, greens, with reddish orange spots and yellow fins.  Females, juveniles and non-reproductive males are duller in color with pale brown bodies sprinkled with darker spots on the sides.
+The frecklebelly madtom is a small, stout catfish with recorded body sizes reaching to 99mm (3.9 in). Like other members of the subgenus *Rabida*, the frecklebelly madtom is distinctively marked with dark saddles, typically four for this species. This pattern helps to distinguish the frecklebelly madtom from other madtoms with which it co-occurs. The color of the frecklebelly madtom is a mixture of light yellows with brownish patches, which provides camouflage in its preferred habitats. It exhibits a lighter color with a combination of many scattered specks or freckles on the underside, which inspired its common name. The color variation on the species’ fins can vary, but typically they are mottled or blotched.  
 
 ## Habitat
 
-Its habitat is restricted to springhead pools and slow flowing areas of spring runs on the Barrens Plateau in middle Tennessee.  They are strongly associated with abundant aquatic vegetation and will occasionally shelter under overhanging terrestrial plants and tree roots.  They have only been found in streams where the predominant source of base flow is groundwater.  Temperatures in these habitats are relatively stable, ranging from 59 to 77 degrees Fahrenheit.  Although the Barrens Plateau has several spring systems, not all of them are inhabited by the topminnow.  In times of drought, if the spring discharge is severely reduced, the topminnows will likely move further downstream into more permanent suitable habitat if available.
+Primary habitat for the frecklebelly madtom is associated with fast moving streams often associated with rivers and their tributaries, with substrate consisting of various sizes of gravel. Cover is an important habitat factor for the species, as it provides for concealment against predators, foraging habitat, and nesting habitat. Areas providing firm gravel substrates, such as small pebbles and rocks, are preferred. Muddy waterways and still streams are not desirable habitat for this species.
 
 ## Diet
 
-Barrens topminnows are a generalist feeder; they mostly feed on microcrustaceans and immature aquatic insect larvae.  They also consume small snails, ants and other insects that fall or wander into aquatic habitats.
+The primary food source for the species appears to be aquatic insects, including caddisflies, mayflies, blackflies and midges 
 
 ## Historical range
 
-The Barrens topminnow was originally found in Cannon, Coffee and Warren counties of Tennessee in three river systems, the Elk, Duck, and Caney Fork rivers.  These small streams and springs inhabited by the topminnow in each river system are separated by hundreds of miles of intervening, unsuitable, larger stream habitat. Due to the lack of connectivity between these springs, individual populations were isolated, preventing topminnows from coming into contact with one another and moving downstream. Within these systems, the topminnows were known to occur in at least 18 sites.  It is thought many more sites were occupied but weren’t surveyed due to lack of access to private land or were modified and were not compatible.
+The historical range for the species includes the Pearl River system in eastern Louisiana and southern Mississippi; the Tombigbee River in eastern Mississippi and western Alabama; the upper Alabama and Cahaba rivers in central Alabama; the Etowah River in northern Georgia; and the Conasauga River in northern Georgia and southeastern Tennessee. It is believed that this species was  more widespread in the Mobile Bay drainage in the past but was extirpated from large river habitats after the creation of numerous impoundments. 
 
 ## Current range
 
-Habitat is restricted to springhead pools and slow-flowing areas of spring runs on the Barrens Plateau in middle Tennessee.
-
-{{< figure class="photo-center" src="/images/pages/barrens-topminnows-acclimated.jpg" alt="Tiny minnow-like fish acclimating to the stream temperature by placing the plastic bag in which they were transported into the stream." caption="Barrens topminnows being acclimating to the stream. Photo, Erin Johnson, USFWS." >}}
+The frecklebelly madtom occurs within the states of Alabama, Georgia, Louisiana, Mississippi and Tennessee. It has a scattered distribution across the Mobile Basin and Pearl River drainage, with populations in the Pearl River and Bogue Chitto River in the Pearl River drainage and the Upper Tombigbee, Alabama, Cahaba, Etowah, and Conasauga river systems in the Mobile River Basin. Throughout its range, the frecklebelly madtom primarily occupies rivers within the Gulf Coastal Plain physiographic province; however, it occurs in the Ridge and Valley physiographic province in the Conasauga River and Piedmont Upland physiographic provinces in the Etowah River
 
 ## Conservation challenges
 
-There are a few conservation challenges facing the Barrens topminnow.  One challenge is the introduction of the Western mosquitofish, which eats very young Barrens topminnow. Mosquitofish are aggressive; in aquaria, they have been observed harvesting juveniles and consuming larval Barrens topminnow. Being livebearers capable of producing several broods per year, Western mosquitofish rapidly overwhelm low-density Barrens topminnow populations, especially in small springs.
+The frecklebelly madtom is sensitive to poor water quality and needs clean, flowing water to survive, thus water quality degradation is considered a threat to the species. The catfish is potentially threatened by several factors including impoundments, channelization, gravel mining, altered flow regimes, agriculture, development, climate change and logging.  
 
-Drought has also played a role in conservation challenges. As the Barrens topminnow are found in shallow pools they are very susceptible to drought conditions.  Because topminnow sites are isolated from one another they are unable to move to different locals without access streams.
+## Recovery 
+
+If listed, the Service will draft a Recovery Plan for the species. 
+
+## Partnerships, Research, and Projects 
+
+The frecklebelly madtom is recognized by Georgia and Tennessee as a species of concern.  This species is listed as endangered by the State of Georgia and threatened by the State of Tennessee. In general, protections afforded to the frecklebelly madtom by the States prohibit direct exploitation of the species.  
+
+Within the Conasauga River basin, the Natural Resource Conservation Service (NRCS) has begun a Working Lands for Wildlife (WLFW) project that provides technical and financial assistance to help landowners improve water quality, and help farmers plan and implement a variety of conservation activities, or practices that benefit aquatic species.  The frecklebelly madtom would likely benefit from water quality improvements in portions of the Conasauga River that are affected by agricultural practices implemented through the WLFW project.    
+
+The State of Georgia owns and manages approximately 12 miles of the Etowah River as part of Dawson Forest Wildlife Management Area, an area where the fish has been documented.  A  management goal of this tract of land is to promote aquatic biodiversity, providing conservation benefits for the species.  
 
 ## How you can help
 
-You can help the topminnow by keeping waterways clean of garbage. Protect riverbank zones where the topminnows live by erecting fencing to keep from degrading shore lines.  Refrain from moving other fish species, i.e the Western mosquitofish, into areas they are not known to inhabit.
+- Do not release any non-native species into the water. If live fishing bait is used from another location, do not release it into the water. 
+- Don’t dump chemicals into streams, and do report spills to state environmental protection agencies. During projects that disturb the ground, use best management practices to keep the sediment out of the streams. 
+- Plant trees and other native woody vegetation along stream banks to help restore and preserve water quality. 
+- Conserve water to allow more water to remain in streams. 
+- Use pesticides responsibly (especially around streams and lakes) to prevent runoff. 
+- Help your family find ways to reduce the amount of chemicals that you pour down the drain in your home or use on your lawn or garden. 
+- Support conservation efforts that protect these unique animals and the habitats they live in. 
+- Support local and state initiatives for watershed and water quality protection and improvement. 
 
 ## Subject matter experts
 
-- Tennessee Aquarium
-- Conservation Fisheries Inc (CFI)
+Evan Collins, [USFWS Alabama Field Office](https://www.fws.gov/daphne/), [evan_collins@fws.gov](mailto:evan_collins@fws.gov), 251-441-5837 
 
 ## Designated critical habitat
 
-The Service determined that designation of critical habitat was prudent but not determinable at this time because specific information needed to analyze the impacts of designation was lacking. We are still in the process of assessing this information and plan to publish a proposed rule to designate critical habitat for the Barrens topminnow in the near future.
+The proposed critical habitat designation for the Upper Coosa River DPS of the frecklebelly madtom consists of approximately 134 stream miles in two units in Georgia and Tennessee. Proposed critical habitat does not include riparian areas, only instream habitat to the high water mark.  Unit 1 consists of approximately, 51.5 stream miles of the Conasauga River in Whitfield and Murray counties, Georgia, continuing upstream through Bradley County to Polk County, Tennessee. Unit 2 consists of approximately, 82.5 stream miles of the Etowah River beginning in Cherokee County, Georgia,  continuing upstream through Forsyth and Dawson counties and ending in Lumpkin County, Georgia. Both units are occupied by the species and contain most of the physical or biological features essential to its conservation.  
 
 ## Federal Register notices
 
