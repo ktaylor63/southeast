@@ -8,6 +8,7 @@ hero:
 tags:
     - Alabama
     - Georgia
+    - 'Critical Habitat'
     - 'Coosa River'
     - 'Conasauga River'
     - 'Endangered Species Act'
