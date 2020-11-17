@@ -23,7 +23,6 @@ tags:
     - Louisiana 
     - Mississippi 
     - Tennessee
-
 hero:
     name: frecklebelly-madtom.jpg
     alt: 'A small fish with tan and brown markings blending into the pebble substrate.'
