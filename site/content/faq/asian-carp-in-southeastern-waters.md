@@ -85,7 +85,7 @@ Despite unusually warm water temperatures and the need to navigate around natura
 - [FWS statement on Asian carp control before the House Committee on Oversight and Government Reform, July 27, 2018](https://www.fws.gov/laws/Testimony/docs/72718-Brown-HOGR-Asian-Carp-Field-Hearing.pdf)
 - [Asian carp in Kentucky](https://fw.ky.gov/Fish/Pages/Asian-Carp-Information.aspx)
 - [Asian carp in Tennessee](https://www.tn.gov/twra/wildlife/fish/asian-carp.html)
-- [Lake Barkley: Bio-Acoustic Fish Fence Questions and Answers](/pdf/questions-and-answers/lake-barkley-bio-acoustic-fish-fence.pdf)
+- [Bio-Acoustic Fish Fence Questions and Answers](/pdf/questions-and-answers/lake-barkley-bio-acoustic-fish-fence.pdf)
 
 ## Contact
 
