@@ -1,10 +1,10 @@
 ---
-draft: true
 title: 'Frecklebelly madtom'
 scientific: 'Noturus munitus'
 description: 'The frecklebelly madtom is a small boldly patterned fish that grows to almost four inches long. The fish's common name comes from the distinctive spots along their undersides.' 
 type: species-profile
 js: /js/species-profile.js
+draft: true
 aliases:
     - /wildlife/fish/frecklebelly-madtom
     - /species/fish/frecklebelly-madtom
