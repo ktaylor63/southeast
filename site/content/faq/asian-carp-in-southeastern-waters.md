@@ -19,7 +19,7 @@ tags:
   - "Lake Barkley"
   - "Silver Carp"
   - Tennessee
-updated: "November 16th, 2020"
+updated: "November 17th, 2020"
 ---
 
 The spread of four species of large carp—bighead, black, grass, and silver— threatens the Southeast’s renowned aquatic biodiversity and local outdoor economies. The U.S. Fish and Wildlife Service and its federal and state partners are on the front line fighting Asian carp in southeastern waters.
@@ -50,7 +50,7 @@ Sound has shown promise as a potential barrier to Asian carp passage and is bein
 
 The goal of the bio-acoustic fish fence, also referred to as BAFF, is to reduce the movement of Asian carp through the locks. This will help protect hundreds of river miles in the Tennessee and Cumberland rivers that remain relatively untouched by carp. The BAFF, developed by U.K.-based Fish Guidance Systems, deploys a curtain of bubbles, light and sound to deter carp from the lock entrance without encumbering commercial and recreational navigation.
 
-[Installation of the BAFF at Barkley Lock and Dam](https://fileshare.fws.gov/?linkid=KZi4zr6VWWXDOaOq0fT0lJF/ZlEhHYre8YDODS6ncAGbVD1e/QKTpw) began in July 2019. The system became operation in October 2019. A three-year field trial is the next step in determining the system’s effectiveness.
+[Installation of the BAFF at Barkley Lock and Dam](/video/BAFF-system-b-roll-kentucky-afield.mp4/) began in July 2019. The system became operation in October 2019. A three-year field trial is the next step in determining the system’s effectiveness.
 
 {{< figure class="photo-center" src="/images/pages/baff-installation-lake-barkley.jpg" alt="Construction workers install a bio-acoustic fish fence" caption="Construction of the bio-acoustic fish fence at Barkley Lock and Dam. Photo by Kentucky Department of Fish and Wildlife Resources." >}}
 
@@ -67,14 +67,14 @@ Despite unusually warm water temperatures and the need to navigate around natura
 ## Photos and video
 
 - [The New “Modified Unified” Method of Asian Carp Removal (Video courtesy of Kentucky Afield)](https://www.youtube.com/watch?v=dMyK0QDoREU)
-- [Modified unified method at Pisgah Bay (B-roll, KDFWR)](https://fileshare.fws.gov/?linkid=KZi4zr6VWWWSlm9SBeIBmZCOZq/wqYbX8YDODS6ncAGbVD1e4BVBKw)
-- [Modified unified method at Smith Bay (B-roll, Kentucky Afield)](https://fileshare.fws.gov/?linkid=KZi4zr6VWWWS6KhWXl9+mIIzJgxaiVhb8YDODS6ncAGbVD1ebUtwjg)
+- [Modified unified method at Pisgah Bay (B-roll, KDFWR)](/video/modified-unified-method-at-pisgah-bay-credit-KDFWR.mp4/)
+- [Modified unified method at Smith Bay (B-roll, Kentucky Afield)](/video/modified-unified-method-at-smith-bay-credit-kentucky-afield.mp4/)
 - [BAFF system installation and demonstration at Barkley Dam](/data/BAFF-Barkley-event.zip)
-- [BAFF system (B-roll, Kentucky Afield)](https://fileshare.fws.gov/?linkid=KZi4zr6VWWXDOaOq0fT0lJF/ZlEhHYre8YDODS6ncAGbVD1e/QKTpw)
+- [BAFF system (B-roll, Kentucky Afield)](/video/BAFF-system-b-roll-kentucky-afield.mp4/)
 - [BAFF installation photos on Flickr courtesy of U.S. Army Corps of Engineers](https://www.flickr.com/photos/nashvillecorps/albums/72157710050493202)
 - Electrofishing B-roll courtesy of Kentucky Department of Fish and Wildlife Resources
-  - [Video #1](https://fileshare.fws.gov/?linkid=KZi4zr6VWWUk+CBv/DQHkr9X+ERn/NH+8YDODS6ncAGbVD1ejEzMGA)
-  - [Video #2](https://fileshare.fws.gov/?linkid=KZi4zr6VWWUWWiwXeHW3m4UVVqo/SBV28YDODS6ncAGbVD1eM5FtjQ)
+  - [Video #1](/video/electrofishing-asian-carp-video-1-credit-KDFWR.mp4/)
+  - [Video #2](/video/electrofishing-asian-carp-video-2-credit-KDFWR.mp4/)
 - [Asian carp image library on Flickr](https://www.flickr.com/photos/acrcc/)
 - [Additional multimedia available on AsianCarp.us](https://www.asiancarp.us/PhotosVideos.html)
 
