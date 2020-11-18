@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 'Frecklebelly madtom'
 scientific: 'Noturus munitus'
 description: 'The frecklebelly madtom is a small catfish that inhabits channels and tributaries of medium to large river systems in Louisiana, Mississippi, Alabama, Georgia, and Tennessee.' 
