@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 'Frecklebelly madtom proposed listing, 4(d) rule and critical habitat frequently asked questions'
 date: 2020-11-17
 hero:
