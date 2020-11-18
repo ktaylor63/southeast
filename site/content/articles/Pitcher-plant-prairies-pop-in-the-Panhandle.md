@@ -2,7 +2,7 @@
 title: 'Pitcher plant prairies pop in the Panhandle'
 type: feature
 author: 'Melody Ray-Culp, Fish and Wildlife Biologist'
-date: 2020-10-26T00:00:00.000Z
+date: 2020-11-18T00:00:00.000Z
 hero:
     name: trumpet-pitcher-plants-credit-atlanta-botanical-gardens.jpg
     alt: 'Yellow cone-shaped plants grow in tall grass field'
