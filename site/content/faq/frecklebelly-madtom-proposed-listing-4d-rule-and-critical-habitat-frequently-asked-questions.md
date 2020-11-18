@@ -45,7 +45,7 @@ Poor water quality resulting from land development and agriculture use poses the
 
 The Service prepared a Species Status Assessment, a comprehensive compilation of the best available scientific and commercial information, which was then peer reviewed.  We determined that listing the frecklebelly madtom as an endangered or a threatened species throughout all or a significant portion of its entire range is not warranted.  However, we found the Upper Coosa River representation unit of the frecklebelly madtom discrete and significant under the DPS policy.  After determining this, the Service then evaluated the status of the Upper Coosa River DPS and found that listing is warranted in Georgia and Tennessee.  Accordingly, we are proposing to list the Upper Coosa River DPS of the frecklebelly madtom as a threatened species. 
 
-Q: What is the proposed critical habitat designation for the frecklebelly madtom?   
+## What is the proposed critical habitat designation for the frecklebelly madtom?   
 
 The proposed critical habitat designation for the Upper Coosa River DPS of the frecklebelly madtom consists of 134 stream miles of occupied habitat in two units in Georgia and Tennessee. Proposed critical habitat does not include riparian areas, only instream habitat to the high water mark.  Unit 1 consists of 51.5 stream miles of the Conasauga River beginning from the mouth of Coahulla Creek on the border between Whitfield and Murray counties, Georgia, continuing upstream to the mouth of Graham Branch in Polk County, Tennessee.  Unit 2 consists of 82.5 stream miles of the Etowah River, beginning at its confluence with Shoal Creek in Cherokee County, Georgia, continuing upstream to 0.5 miles upstream of where the Etowah River crosses Jay Bridge Road in Lumpkin County, Georgia.  Both units are occupied by the species and contain most of the physical or biological features essential to its conservation.  
 
@@ -70,7 +70,7 @@ The designation of critical habitat helps ensure federal agencies and the public
 
 The designation will have no impact on private landowners taking actions on their land that do not require federal funding or permits.  
 
-What does a critical habitat designation do?   
+## What does a critical habitat designation do?   
 
 When an area is designated as critical habitat for a listed species, federal agencies are required to ensure that any action they fund, authorize or carry out is not likely to result in the destruction of the habitat.  This is carried out through consultation with the Service under Section 7 of the ESA. This only affects projects that require a federal permit or other actions funded or conducted by a federal agency.   
 
