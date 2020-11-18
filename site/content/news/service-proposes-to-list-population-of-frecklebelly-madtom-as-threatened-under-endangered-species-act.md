@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 'Service proposes to list population of frecklebelly madtom as threatened under Endangered Species Act'
 date: 2020-11-17
 hero:
