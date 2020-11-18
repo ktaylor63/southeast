@@ -24,3 +24,7 @@ To stem the tide, the U.S. Fish and Wildlife Service is in the midst of a multi-
 {{< content-scroller tag="Fishing" heading="Fishing stories" >}}
 
 {{< youtube id="PL9fAKAWx-U" title="Meet the Partners of Cache River National Wildlife Refuge" >}}
+
+{{< youtube id="6XjElmEAtS0" title="Hunters for the hungry" >}}
+
+[An audio transcribed version of the video is available here](https://www.youtube.com/watch?v=T7IrhM9FF8c&feature=youtu.be)
