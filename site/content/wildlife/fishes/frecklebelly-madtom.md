@@ -19,6 +19,7 @@ tags:
     - 'Etowah River'
     - 'Frecklebelly Madtom'
     - Georgia
+    - Fish
     - Louisiana 
     - Mississippi 
     - Tennessee
