@@ -11,7 +11,7 @@ aliases:
     - /species/bird/interior-least-tern
     - /species/birds/interior-least-tern
 hero:
-    name: interior-least-tern.jpg
+    name: interior-least-tern-usfws.jpg
     alt: 'Bird with white body, black head markings and pointed yellow beak sits in beach sand.'
     caption: 'Interior least tern. Photo by USFWS'
 tags:
@@ -42,7 +42,7 @@ updated: 'October 16th, 2020'
 
 - **Taxon**: Bird
 - **Range**: AR, CO, IA, IL, IN, KS, KY, LA, MS, MO, MT, NE, NM, ND, OK, SD, TN, and TX
-- **Status**: [Listed as Endangered, May 28, 1985](https://ecos.fws.gov/docs/federal_register/fr957.pdf); [Proposed for delisting in October 2019](t/news/2019/10/recovery-of-americas-smallest-tern-prompts-proposal-to-delist/)
+- **Status**: [Listed as Endangered, May 28, 1985](https://ecos.fws.gov/docs/federal_register/fr957.pdf); [Proposed for delisting in October 2019](/news/2019/10/recovery-of-americas-smallest-tern-prompts-proposal-to-delist/)
 
 ## Introduction
 
