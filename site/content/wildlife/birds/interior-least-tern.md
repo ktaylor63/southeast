@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 'Interior least tern'
 scientific: 'Sterna antillarum'
 description: 'Interior least tern is a migratory bird species, nesting along freshwater habitats of the Missouri and Mississippi rivers and their major tributaries and overwintering in the Caribbean and South America.'
