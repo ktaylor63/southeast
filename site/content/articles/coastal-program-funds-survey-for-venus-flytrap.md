@@ -1,44 +1,44 @@
 ---
 title: 'Coastal Program funds survey for Venus flytrap'
 type: feature
-author: 'Melody Ray-Culp, Fish and Wildlife Biologist'
-date: 2020-11-18T00:00:00.000Z
+author: 'Mike Wicker, Coastal Program Biologist
+Laura Hamon, NC State University PhD Student
+Misty Buchanan, Director of NC Natural Heritage Program
+Dale Suiter, Endangered Species Biologist'
+date: 2020-11-30T00:00:00.000Z
 hero:
-    name: trumpet-pitcher-plants-credit-atlanta-botanical-gardens.jpg
-    alt: 'Yellow cone-shaped plants grow in tall grass field'
-    caption: 'Trumpet pitcher plants. Photo courtesy of Atlanta Botanical Garden'
+    name: venus-flytrap-dale-suiter-usfws.jpg
+    alt: 'Cluster of three venus flytraps. Two are open revealing red interior, the other is closed showing green exterior'
+    caption: 'Wild Venus flytrap growing with a variety of plants surrounding it. Photo by Dale Suiter, USFWS.'
 tags:
-    - 'Atlanta Botanical Garden'
     - 'Coastal Program'
     - 'Endangered Species Act'
-    - Florida
-    - Georgia
-    - 'Gulf Environmental Benefit Fund'
-    - 'National Fish and Wildlfie Foundation'
-    - Orchid
-    - 'Pitcher Plant'
-    - 'Reticulated Flatwoods Salamander'
-    - Salamander
-    - Titi
-updated: 'November 18th, 2020'
+    - 'North Carolina'
+    - 'North Carolina Botanical Garden'
+    - 'Raleigh Ecological Services Field Office'
+    - 'South Carolina'
+    - 'Venus Flytrap'
+updated: 'November 30th, 2020'
 ---
 
-The U.S Fish and Wildlife’s Coastal Program is partnering with Florida State Parks and the Atlanta Botanical Garden to let the sun again shine on rare seepage slope and wetland pitcher plant prairies.
+{{< figure class="photo-right" src="/images/pages/venus-flytrap-showing-immature-stalk-and-flower-dale-suiter-usfws.jpg" alt=Venus flytrap with three open lobes. A tall stalk grows from the stem" caption="Venus flytrap plant showing an immature stalk and flower.  Photo by Dale Suiter, USFWS." >}}
 
-Over the past nine years, more than 1,500 acres of wetland communities along the Florida Panhandle have benefitted from the habitat restoration work. These native herbaceous wetland communities are inhabited by carnivorous bog plants, orchids, and other rare and at-risk plants that provide habitat for the endangered reticulated flatwoods salamander. 
+Venus flytrap (*Dionaea muscipula*) is one of the most widely known carnivorous plants in the world. In his book *Insectivorous Plants*, Charles Darwin referred to Venus flytrap as "one of the most wonderful [plants] in the world. This unique species occurs naturally only in the Coastal Plain of southeastern North Carolina and northeastern South Carolina.  
 
-As development increased, and wildfires decreased, forests out-shaded, out-competed, and outlasted the rare, sun-worshipping bog plants. Tall, dense, closed-canopy stands of woody vegetation proliferated, tipping the balance from herbaceous understory with scattered shrubs to a formidable fortress of trees, primarily titi. Titi is an invasive native shrub that thrives without fire and, eventually, blocks out pond habitats critical for salamanders.
+As of 2018, Venus flytrap plants occurred in 18 coastal counties and populations were considered extirpated, or historic, in three counties. The most recent range-wide study was conducted in 2002. Since then, many populations have been impacted or lost due to fire suppression, hydrological changes, poaching, or habitat conversion. 
+ 
+Yet some of the largest populations have come under protection and management as dedicated nature preserves. In 2019, there were approximately 124 populations in North Carolina and three in South Carolina. 
 
-Impenetrable titi forests can also alter the surface and subsurface hydrology of the coastal dune lake watershed. They diminish natural submarine groundwater discharge into the Gulf of Mexico while increasing transpiration. These critically-imperiled lakes are unique, found only in Madagascar, Australia, New Zealand, Oregon, and Walton County, Florida. Here, 15 named coastal dune lakes intermittently connect to the Gulf through “outfalls” along 26 miles of coastline. 
+In 2016, the U.S. Fish and Wildlife Service was petitioned to list the Venus flytrap. The Raleigh Field Office is currently evaluating the status of this at-risk species and will be conducting a Species Status Assessment (SSA) to determine if it warrants listing under the Endangered Species Act. To facilitate the SSA, the Raleigh Field Office’s Coastal Program established a cooperative agreement with the North Carolina Natural Heritage Program (NCNHP) to perform a range-wide status survey of the species.  
 
-{{< figure class="photo-center" src="/images/pages/rare-plants-propagated-Atlanta-Botanical-Gardens.jpg" alt="Man and woman in greenhouse full of green and red plants. Tall green shoots rise from three black pots in foreground" caption="Ron Determann of Atlanta Botanical Garden shows Service biologist Cindy Bohn some of the rare plants propagated at ABG for transplanting in Florida. Photo by Melody Ray-Culp, USFWS" >}}
+{{< figure class="photo-center" src="/images/pages/dan-hannon-ryan-martin-conducting-surveys-for-venus-flytraps-johnny-randall-ncbg.jpg" alt="Two men stand in field of tall grass and ferns looking down." caption="Dan Hannon and Ryan Martin conducting surveys for Venus flytraps. Photo by Johnny Randall, North Carolina Botanical Garden" >}}
 
-The partners have identified and prioritized polygons of wall-to-wall titi, and mechanically removed them. This is followed by secondary removal of re-sprouting titi; frequent prescribed fires; and then letting nature do its job. The woody biomass is chipped and moved off-site to further accelerate restoration and soil recovery. Carnivorous plants thrive in nutrient-poor soils because they digest bugs while other plants get their nutrients from the soil. 
+In 2019, NCNHP biologists focused surveys at known populations on public lands such as the Croatan National Forest, Camp Lejeune Marine Corps Base, Holly Shelter Game Lands, Boiling Springs Lakes Plant Conservation Program Preserve and many others. Surveys of Venus flytraps on private lands were carried out in 2020. The surveys occurred during the spring and summer when Venus flytraps are most visible due to their flowering and fruiting structures.
+  
+The NCNHP contacted all landowners and land managers prior to conducting surveys for permission. Population counts were made by walking consecutive parallel transects approximately 5 meters wide, and counting all individuals seen within 2.5 meters of the surveyor. In dense sites with limited time (i.e. Camp Lejeune) an estimate for population size was extrapolated from a subsample of transects representing approximately 10% of the total population area.  
 
-The Atlanta Botanical Garden does the rare plant propagation for re-introduction. In August 2016, wildlife cameras captured a sphinx moth pollinating a white fringed orchid at a transplant site.
+{{< figure class="photo-center" src="/images/pages/venus-flytrap-survey-team.jpg" alt="Four people, 3 women and one man, stand for a photo. A few trees and tall grass surround them." caption="Venus Flytrap Survey Team: Libby Seay, Summer Lauder, John McLaughlin and Laura Hamon. Photo by Misty Buchanan, North Carolina Natural Heritage Program." >}}
 
-{{< figure class="photo-right" src="/images/pages/moth-pollinates-orchid.jpg" alt="Black and white nightvision photo from a gam camera of a fuzzy moth approaching a white fringed orchid" caption="A moth pollinates an orchid at a Florida state park. Photo courtesy of Atlanta Botanical Gardens and Florida State Parks" >}}
+Maps of each population were created using GPS and GIS and they assimilated current monitoring data from other sources to update the element occurrence records for NCNHP and the South Carolina Heritage Trust Program. At population centers where data are sufficient, trends will be analyzed. The NCNHP will follow-up with all participating landowners and managers to share survey results and information about land protection and suggest land management options.  
 
-This partnership has leveraged more than $7 million through the National Fish & Wildlife Foundation’s Gulf Environmental Benefit Fund, greatly expanding ongoing restoration work at coastal state parks. 
-
-Wetland restoration of this nature and magnitude is not a cookie-cutter process. There are no intact seepage slope reference sites left. And there are no restoration how-to manuals. Until now.
+The Venus flytrap survey team counted or estimated more than 440,000 plants in 2019, primarily on public lands. In 2020, Venus flytrap surveys on public and private lands yielded more than 70,000 plants. Additional surveys yielded more than 250,000 plants on preserves owned by The Nature Conservancy. The final report will address the total number of populations known, the total number of plants found and threats to the species that were observed at each site.
