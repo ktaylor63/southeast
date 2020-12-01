@@ -22,7 +22,7 @@ tags:
     - 'Red-Cockaded Woodpecker'
     - 'South Carolina'
     - 'South Carolina Ecological Services Field Office'
-updated: 'November 13th, 2020'
+updated: 'December 1st, 2020'
 ---
 
 - **Taxon**: Bird
