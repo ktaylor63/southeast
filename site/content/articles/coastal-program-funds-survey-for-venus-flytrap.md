@@ -1,6 +1,7 @@
 ---
 title: 'Coastal Program funds survey for Venus flytrap'
 type: feature
+description: 'Venus flytrap is one of the most widely known carnivorous plants in the world. This unique species occurs naturally only in the Coastal Plain of southeastern North Carolina and northeastern South Carolina.'
 author: 'Mike Wicker, Coastal Program Biologist; Laura Hamon, NC State University PhD Student; Misty Buchanan, Director of NC Natural Heritage Program; Dale Suiter, Endangered Species Biologist'
 date: 2020-11-30T00:00:00.000Z
 hero:
@@ -18,9 +19,9 @@ tags:
 updated: 'November 30th, 2020'
 ---
 
-{{< figure class="photo-right" src="/images/pages/venus-flytrap-showing-immature-stalk-and-flower-dale-suiter-usfws.jpg" alt=Venus flytrap with three open lobes. A tall stalk grows from the stem" caption="Venus flytrap plant showing an immature stalk and flower.  Photo by Dale Suiter, USFWS." >}}
+{{< figure class="photo-right" src="/images/pages/venus-flytrap-showing-immature-stalk-and-flower-dale-suiter-usfws.jpg" alt="Venus flytrap with three open lobes. A tall stalk grows from the stem" caption="Venus flytrap plant showing an immature stalk and flower.  Photo by Dale Suiter, USFWS." >}}
 
-Venus flytrap (*Dionaea muscipula*) is one of the most widely known carnivorous plants in the world. In his book *Insectivorous Plants*, Charles Darwin referred to Venus flytrap as "one of the most wonderful [plants] in the world. This unique species occurs naturally only in the Coastal Plain of southeastern North Carolina and northeastern South Carolina.  
+Venus flytrap (*Dionaea muscipula*) is one of the most widely known carnivorous plants in the world. In his book *Insectivorous Plants*, Charles Darwin referred to Venus flytrap as "one of the most wonderful [plants] in the world. This unique species occurs naturally only in the Coastal Plain of southeastern North Carolina and northeastern South Carolina.
 
 As of 2018, Venus flytrap plants occurred in 18 coastal counties and populations were considered extirpated, or historic, in three counties. The most recent range-wide study was conducted in 2002. Since then, many populations have been impacted or lost due to fire suppression, hydrological changes, poaching, or habitat conversion. 
  
