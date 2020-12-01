@@ -163,6 +163,8 @@ The Service has scheduled a virtual public informational meeting and virtual pub
 
 The Service will hold the virtual public informational meeting and virtual public hearing via the Zoom online video platform and via teleconference so that participants can attend remotely.  For security purposes, *registration is required* in order to listen and view the meeting and hearing via Zoom, listen to the meeting and hearing by telephone, or provide oral public comments at the public hearing by Zoom or telephone.
 
+[Powerpoint presentation for virtual public informational meeting and virtual public hearing](/pdf/presentations/rcw-public-meeting-12012020-final-for-web.pdf)
+
 ### Instructions for attending the virtual meeting and hearing
 
 *If you have technical difficulties registering for the meeting or joining the meeting on December 1, 2020, please email [amanda.biedermann@empsi.com](mailto:amanda.biedermann@empsi.com).
