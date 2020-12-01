@@ -1,10 +1,7 @@
 ---
 title: 'Coastal Program funds survey for Venus flytrap'
 type: feature
-author: 'Mike Wicker, Coastal Program Biologist
-Laura Hamon, NC State University PhD Student
-Misty Buchanan, Director of NC Natural Heritage Program
-Dale Suiter, Endangered Species Biologist'
+author: 'Mike Wicker, Coastal Program Biologist; Laura Hamon, NC State University PhD Student; Misty Buchanan, Director of NC Natural Heritage Program; Dale Suiter, Endangered Species Biologist'
 date: 2020-11-30T00:00:00.000Z
 hero:
     name: venus-flytrap-dale-suiter-usfws.jpg
