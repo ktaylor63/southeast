@@ -1,16 +1,16 @@
 ---
 title: 'Red River National Wildlife Refuge are new land managers of Bickham Dickson Park in Shreveport'
-date: '2020-12-02'
+date: 2020-12-02T00:00:00.000Z
 hero:
     name: bickham-dickson-lake-and-pier-terri-jacobson.jpg
     alt: 'Wooden pier, about 3 feet wide with armrails, extends out into a calm lake. Three trees surround pier.'
     caption: 'Lanke and pier at Bickham Dickson Park. Photo by Terri Jacobson, USFWS.'
-    position: 'top left'
+    position: '45% 90%'
 tags:
     - Fishing
     - Louisiana
     - 'Red River National Wildlife Refuge'
-updated: 'December 2nd, 2020'
+updated: 'December 3rd, 2020'
 ---
 
 {{< figure class="photo-right" src="/images/pages/autumn-cypress-bickham-dickson-lake-terri-jacobson.jpg" alt="Cypress tree with red foliage grows out of lake." caption="Autumn cypress tree at Bickham Dickson Lake. Photo by Terri Jacobson, USFWS" >}}
