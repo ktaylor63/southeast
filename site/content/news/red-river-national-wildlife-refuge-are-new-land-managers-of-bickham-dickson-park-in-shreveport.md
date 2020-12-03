@@ -6,7 +6,7 @@ hero:
     alt: 'Wooden pier, about 3 feet wide with armrails, extends out into a calm lake. Three trees surround pier.'
     caption: 'Lanke and pier at Bickham Dickson Park. Photo by Terri Jacobson, USFWS.'
     position: 'top left'
-tags:   
+tags:
     - Fishing
     - Louisiana
     - 'Red River National Wildlife Refuge'
