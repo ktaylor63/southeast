@@ -163,6 +163,7 @@ The Service held a virtual public informational meeting and virtual public heari
 
 [Powerpoint presentation for virtual public informational meeting and virtual public hearing](/pdf/presentations/rcw-public-meeting-12012020-final-for-web.pdf)
 
+Video recording from virtual public informational meeting and virtual public hearing 
 {{< youtube id="e3ZkAQbV1Hg" title="Red-cockaded woodpecker public meeting December 1, 2020" caption="Video by USFWS." >}}
 
 
