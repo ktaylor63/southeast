@@ -14,10 +14,10 @@ tags:
     - Hunting
     - 'Wheeler National Wildlife Refuge'
     - 'White-Tailed Deer'
-updated: 'January 28th, 2019'
+updated: 'December 8th, 2020'
 ---
 
-{{< youtube id="59ZCUacPnrc" title="Hunters for the Hungry in Alabama" caption="Video by Nicole Vidal, USFWS.">}}
+{{< youtube id="6XjElmEAtS0" title="Hunters for the Hungry in Alabama" caption="Video by Nicole Vidal, USFWS.">}}
 
 Decatur, Alabama &mdash; For many Americans hunting is a vehicle for connecting with nature and the great outdoors. Just look at the numbers: a [five-year report](https://www.fws.gov/news/ShowNews.cfm?ref=new%C2%A05-year-report-shows-101.6-million-americans-participated-in-hunting-&_ID=36136) found that 101.6 million Americans participated in hunting, fishing and wildlife activities in 2016.
 
