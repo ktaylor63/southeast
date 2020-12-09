@@ -11,7 +11,7 @@ hero:
     name: loggerhead-baby-saved.jpg
     alt: 'A biologist holding a tiny loggerhead sea turtle with a USFWS biologist in uniform in the background.'
     caption: 'A loggerhead sea turtle hatchling at Cape Romain National Wildlife Refuge. <a href="https://flic.kr/p/cECWef">Photo</a> by Keith Fuller for USFWS.'
-updated: 'July 16, 2020'
+updated: 'Decamber 9th, 2020'
 ---
 
 From the Atlantic coast of North Carolina, south to Florida, west across the Gulf of Mexico to Louisiana, and along the coastlines of Puerto Rico and the US Virgin Islands, the coastal area in the Southeast covers more than **26,000 miles** of tidal shoreline and nearshore habitats, and more than **86 million acres** of diverse coastal habitat and natural resources. This area accounts for the largest, most diverse and most productive coastal area in the country.
@@ -92,19 +92,20 @@ If you would like to help conserve coastal habitats for the benefit of people an
 
 ### Regional coordinator
 
-Cindy Bohn  
+Nicole Adimey  
 U.S. Fish and Wildlife Service, Southeast Regional Office  
 1875 Century Boulevard  
 Atlanta, GA 30345  
-(404) 679-7122  
-[cynthia_bohn@fws.gov](mailto:cynthia_bohn@fws.gov?subject=Coastal+Program)  
+(404) 679-7138  
+[nicole_adimey@fws.gov](mailto:nicole_adimey@fws.gov?subject=Coastal+Program)  
 
 ### Alabama
 
 Patric Harper, Northern Gulf Program Coordinator  
 U.S. Fish and Wildlife Service, Grand Bay Coastal Resources Center  
 Moss Point, MS 39563  
-(228) 475-0765, extension 105  
+(228) 475-0765, extension 105 (desk)
+(251) 802-3154 (cell)
 [Patric_Harper@fws.gov](mailto:Patric_Harper@fws.gov?subject=Coastal+Program)  
 
 ### Florida, Georgia
@@ -113,7 +114,7 @@ Moss Point, MS 39563
 U.S. Fish and Wildlife Service, Panama City Ecological Services Field Office  
 1601 Balboa Avenue  
 Panama City, FL 34205  
-(850) 769-0552 extension 232  
+(850) 769-0552 extension 45232  
 [Melody_Ray-Culp@fws.gov](mailto:Melody_Ray-culp@fws.gov?subject=Coastal+Program)  
 
 **Northeast Florida and Georgia**: Gianfranco Basili, Northeast Florida Program  
@@ -127,14 +128,15 @@ Jacksonville, FL 32256-7517
 U.S. Fish and Wildlife Service, North Florida Ecological Services Field Office  
 7915 Baymeadows Way, Suite 200  
 Jacksonville, FL 32256-7517  
-(904) 731-3191  
+(904) 731-3056 (desk)
+(603) 289-7964 (cell)
 [katie_conrad@fws.gov](mailto:katie_conrad@fws.gov?subject=Coastal+Program)  
 
 **South Florida**: Kevin Kalasz, South Florida/Everglades Coordinator  
 U.S. Fish and Wildlife Service, National Key Deer Refuge  
 28950 Watson Blvd  
 Big Pine Key, FL 33043  
-(305) 872-2239 x231 (desk)  
+(305) 780-7514 (desk)  
 (772) 205-7140 (cell)  
 [kevin_kalasz@fws.gov](mailto:kevin_kalasz@fws.gov?subject=Coastal+Program)  
 
@@ -142,7 +144,7 @@ Big Pine Key, FL 33043
 
 Ronnie Paille  
 Lafayette Ecological Services Office  
-646 Cajundome Blvd., Suite 400  
+200 Dulles Drive 
 Lafayette LA 70506  
 (337) 291-3117  
 [ronald_paille@fws.gov](ronald_paille@fws.gov)  
@@ -152,9 +154,16 @@ Lafayette LA 70506
 Paul Necaise  
 U.S. Fish and Wildlife Service, Mississippi Ecological Services Office  
 6578 Dogwood View Parkway  
-Jackson MS 39213  
+Jackson, MS 39213  
 (228) 493-6631  
-[Paul_Necaise@fws.gov](mailto:Paul_Necaise@fws.gov?subject=Coastal+Program)  
+[Paul_Necaise@fws.gov](mailto:Paul_Necaise@fws.gov?subject=Coastal+Program)
+
+Robert Smith
+U.S. Fish and Wildlife Service, Grand Bay Coastal Resources Center
+6005 Bayou Heron Rd.
+Moss Point, MS 39562
+228-990-0559
+[Robert_Smith@fws.gov](mailto:Robert_Smith@fws.gov)
 
 ### North Carolina
 
@@ -180,5 +189,12 @@ Jason Ayers, South Carolina Coordinator
 U.S. Fish and Wildlife Service, South Carolina Ecological Services Field Office  
 176 Croghan Spur Road, Suite 200  
 Charleston, SC  29407  
-(843) 727-4707 extension 220  
-[Jason_Ayers@fws.gov](mailto:Jason_Ayers@fws.gov?subject=Coastal+Program)  
+843-300-0421  
+[Jason_Ayers@fws.gov](mailto:Jason_Ayers@fws.gov?subject=Coastal+Program)
+
+Chris Hernandez
+U.S. Fish and Wildlife Service, South Carolina Ecological Services Field Office  
+176 Croghan Spur Road, Suite 200  
+Charleston, SC  29407
+[Chris_Hernandez@fws.gov](mailto:Chris_Hernandez@fws.gov)
+
