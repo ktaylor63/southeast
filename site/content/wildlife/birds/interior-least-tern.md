@@ -36,7 +36,7 @@ tags:
     - 'South Dakota'
     - Tennessee
     - Texas
-updated: 'October 16th, 2020'
+updated: 'December 9th, 2020'
 ---
 
 - **Taxon**: Bird
@@ -81,22 +81,7 @@ The Service has proposed removing the Interior least tern from the Federal List 
 
 ## Recovery plan
 
-The Service approved the Interior Least Tern Recovery Plan on September 19, 1990.  The objective of the recovery plan was to meet the standard of recovery that leads to delisting the Interior least tern.  Recovery plans provide a road map for the public with site-specific management actions for private, Tribal, federal, and state cooperation in conserving listed species and their ecosystems.   A recovery plan provides guidance on how best to help listed species achieve recovery.  Recovery criteria are the values by which it is determined that a recovery plan objective has been reached.  
-
-Recovery criteria identified in the recovery plan were designed to assure the protection of essential habitat by removal of threats at that time and habitat enhancement, establish agreed-upon management plans, and attain a rangewide population of 7,000 birds at the levels listed below (for five major river drainages throughout the Interior least tern’s range):
-  
-1.	Adult birds in the Missouri River system will increase to 2,100, and remain stable for 10 years.
-2.	Current numbers of adult birds (2,200–2,500) on the Lower Mississippi River will remain stable for 10 years.
-3.	Adult birds in the Arkansas River system will increase to 1,600, and remain stable for 10 years.
-4.	Adult birds in the Red River system will increase to 300 and remain stable for 10 years. 
-5.	Current numbers of adult birds (500) in the Rio Grande River system will remain stable for 10 years. 
- 
-Primary recovery tasks conducted to achieve the recovery objective and drainage population targets included: 
-
-1.	Determining the distribution and population trends of the Interior least tern; 
-2.	Determining habitat requirements and status;
-3.	Protecting, enhancing, and increasing Interior least tern populations; and 
-4.	Preserving and enhancing the tern’s habitats.
+The Service approved the Interior Least Tern Recovery Plan on September 19, 1990.  The objective of the recovery plan was to meet the standard of recovery that leads to delisting the Interior least tern.  Recovery plans provide a road map for the public with site-specific management actions for private, Tribal, federal, and state cooperation in conserving listed species and their ecosystems.  A recovery plan provides guidance on how best to help listed species achieve recovery.  Recovery criteria are the values by which it is determined that a recovery plan objective has been reached. The Interior least tern recovery plan can be downloaded here at [https://ecos.fws.gov/docs/recovery_plan/900919a.pdf](https://ecos.fws.gov/docs/recovery_plan/900919a.pdf).  
 
 ## Partnerships, research and projects
 
