@@ -3,7 +3,7 @@ draft: true
 title: 'Fish and Wildlife Service helps Alabama acquire wonderful habitat for rare salamander'
 type: feature
 author: 'Dan Chapman, public affairs specialist'
-date: 2020-12-10
+date: 2020-12-10T00:00:00.000Z
 hero:
     name: red-hills-salamander.jpg
     alt: 'Purple and transluscent salamander on a forest floor'
