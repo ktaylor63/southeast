@@ -28,9 +28,9 @@ The Service awarded $9 million in endangered species recovery grants – the lar
 
 The salamander lives along a narrow band in the Red Hills region. It is found nowhere else in the world. It is rather large, up to 10 inches, but chances of finding one are slim. The sallie only comes out of its burrow at night in search of crickets, spiders and earthworms. 
 
-{{< figure class="photo-center" src="/images/pages/red-hills-salamander-on-leaves.jpg" alt="Purple and transluscent salamander on fallen orange leaves" caption="Red Hills salamander. Photo by USFWS" >}}
-
 It was listed as federally threatened in 1977 due largely to loss of habitat. A generation later, school kids in Fairhope successfully lobbied state officials to designate the salamander as the state’s official amphibian.
+
+{{< figure class="photo-center" src="/images/pages/red-hills-salamander-on-leaves.jpg" alt="Purple and transluscent salamander on fallen orange leaves" caption="Red Hills salamander. Photo by USFWS" >}}
 
 If all goes as planned, the Red Hills sallie will one day be fully recovered and removed from the threatened and endangered species list. The Service’s $9 million award, funded via Recovery Land Acquisition grants, will go a long ways toward the salamander’s survival. Alabama's Forever Wild Land Trust provided the remainder of the matching funds to seal the deal earlier this year.
 
