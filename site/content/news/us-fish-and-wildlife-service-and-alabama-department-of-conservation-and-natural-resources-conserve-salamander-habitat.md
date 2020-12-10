@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 'U.S. Fish and Wildlife Service and Alabama Department of Conservation and Natural Resources conserve salamander habitat'
 date: 2020-12-10T00:00:00.000Z
 hero:
