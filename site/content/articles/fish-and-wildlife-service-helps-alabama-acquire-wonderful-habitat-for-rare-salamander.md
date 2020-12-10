@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 'Fish and Wildlife Service helps Alabama acquire wonderful habitat for rare salamander'
 type: feature
 author: 'Dan Chapman, public affairs specialist'
