@@ -11,8 +11,8 @@ tags:
     - Hunting
     - 'Red Hills'
     - 'Red Hills Salamander'
-    - Salamander 
-updated: 'December 10th, 2020''
+    - Salamander     
+updated: 'December 10th, 2020'
 ---
 
 **MONROEVILLE, ALABAMA** -- The U.S. Fish and Wildlife Service and the Alabama Department of Conservation and Natural Resources celebrated Thursday the acquisition of nearly 5,000 acres for the federally threatened Red Hills salamander. 
