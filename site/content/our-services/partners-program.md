@@ -23,7 +23,7 @@ hero:
     alt: 'A hand holds a wooden walking stick with a persons blurred torso in the background'
     caption: 'A biologist in a bog. <a href="https://flic.kr/p/rpRgQq">Photo</a> by Gary Peeples, USFWS.'
     link: 'https://flic.kr/p/rpRgQq'
-updated: 'December 9th, 2020'
+updated: 'December 11th, 2020'
 ---
 
 The Southeast Region Partners for Fish and Wildlife Program provides technical and financial assistance to private landowners interested in improving habitat for migratory birds, endangered, threatened and at-risk species while maintaining the their primary land management goals. This is a voluntary program in which landowners continue to manage their land for their objectives as well as for wildlife, which most of the time go-hand-in-hand.
@@ -150,11 +150,11 @@ Fax: (502) 695-1024 <br>
 ### Louisiana
 
 [Andrew Dolan](mailto:Andrew_Dolan@fws.gov?subject=Partners+for+Fish+and+Wildlife+Program) <br>
-Loiusiana Ecological Services Field Office 
-200 Dulles Dr.
-Lafayette, LA 70506
-Office: (337) 291-3119
-Cell: (571) 242-5866
+Loiusiana Ecological Services Field Office <br>
+200 Dulles Drive <br>
+Lafayette, LA 70506 <br>
+Office: (337) 291-3119 <br>
+Cell: (571) 242-5866 <br>
 [fws.gov/lafayette/pfw_program.html](https://www.fws.gov/lafayette/pfw_program.html)
 
 ### Mississippi
@@ -179,7 +179,7 @@ Phone: (919) 856-4520, ext 17 <br>
 [Bret Beasley](mailto:Bret_Beasley@fws.gov?subject=Partners+for+Fish+and+Wildlife+Program) <br>
 176 Croghan Spur Road, Suite 200 <br>
 Charleston, SC 29407 <br>
-(843) 300-0433
+(843) 300-0433 <br>
 [fws.gov/charleston/partners.html](https://www.fws.gov/charleston/partners.html)
 
 ### Tennessee
@@ -196,10 +196,10 @@ Cell: (901) 545-9362
 Contact our Regional Coordinator for the Partners Program:
 
 **[Nicole Adimey](mailto:nicole_adimey@fws.gov?subject=Partners+for+Fish+and+Wildlife+Program)** <br>
-Division of Restoration and Recovery
-U.S. Fish and Wildlife Service
-1875 Century Boulevard
-Atlanta, Georgia 30345
+Division of Restoration and Recovery <br>
+U.S. Fish and Wildlife Service <br>
+1875 Century Boulevard <br>
+Atlanta, Georgia 30345 <br>
 (404) 679-7138
 
 ## Restoration work
