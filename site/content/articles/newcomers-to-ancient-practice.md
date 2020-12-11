@@ -2,7 +2,7 @@
 draft: true
 title: 'Newcomers to ancient practice'
 subtitle: 'Beginners learn how to hunt, put food on the table '
-author: 'Lanier Clegg'
+author: 'Lanier Clegg, public affairs specialist'
 date: 2020-12-11T00:00:00.000Z
 type: feature
 tags:
