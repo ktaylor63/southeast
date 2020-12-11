@@ -96,100 +96,213 @@ All participation in the Partners Program is voluntary. If a project proceeds, l
 2.  A biologist will set up an appointment to meet with you and determine what tools will best fit your needs. If a project proceeds, you will work one-on-one with a local Service biologist to develop a project plan that addresses your goals and objectives, and benefits the wildlife and plant species on your land.
 3.  To implement a project, a cooperative agreement with a minimum duration of 10 years is signed. You will be reimbursed after project completion, based on the cost-sharing formula in your agreement.
 
-## State coordinator contacts
+## State contacts
 
 ### Alabama
 
-[Rob Hurt](mailto:Rob Hurt@fws.gov?subject=Partners+for+Fish+and+Wildlife+Program) <br>
+Rob Hurt, state coordinator <br>
 Wheeler National Wildlife Refuge <br>
 2700 Refuge Headquarters Drive <br>
-Decatur, AL 35603 <br>
+Decatur, AL 35603 <br>	
 (256) 353-7243, ext 29 <br>
+[rob hurt@fws.gov](mailto:Rob Hurt@fws.gov?subject=Partners+for+Fish+and+Wildlife+Program) <br>
 [fws.gov/daphne/Partners/pfw.html](https://www.fws.gov/daphne/Partners/pfw.html)
+
+Lee (Roger) Holt <br>		
+Wheeler National Wildlife Refuge <br>
+2700 Refuge Headquarters Drive <br>
+Decatur, AL 35603 <br>	
+256-353-7243, ext 28 <br>
+[roger_holt@fws.gov](mailto:roger_holt@fws.gov?subject=Partners+for+Fish+and+Wildlife+Program)
+
+Jeffrey Drummond <br>		
+Tuscaloosa sub-office <br> 
+420 Hackberry Lane <br>
+Tuscaloosa, AL 35486 <br>	
+Office: (205) 247-3722 <br>
+Cell: (828) 707-7557 <br>
+[jeffrey_drummond@fws.gov](mailto:jeffrey_drummond@fws.gov?subject=Partners+for+Fish+and+Wildlife+Program)
 
 ### Arkansas
 
-[Jonathan Baxter](mailto:Jonathan_Baxter@fws.gov?subject=Partners+for+Fish+and+Wildlife+Program) <br>
+Jonathan Baxter, state coordinator <br>
 110 South Amity, Suite 300 <br>
 Conway, AR 72032 <br>
 Ofice: (501) 513-4477 <br>
-Cell: (501) 428-2561  
-
+Cell: (501) 428-2561 <br> 
+[jonathan baxter@fws.gov](mailto:Jonathan_Baxter@fws.gov?subject=Partners+for+Fish+and+Wildlife+Program) 
 
 ### Commonwealth of Puerto Rico and the U.S. Virgin Islands
 
-[Ivan Llerandi-Roman](mailto:Ivan_Llerandi-Roman@fws.gov?subject=Partners+for+Fish+and+Wildlife+Program) <br>
-P.O. Box 491 <br>
-Boqueron, PR 00622-0491 <br>
+Ivan Llerandi-Roman, state coordinator <br>
+Caribbean Ecological Services Field Office <br>
+PO Box 491/Road 301, Km 5.1 <br>
+Boquerón, PR 00622 <br>
 Office: (787) 851-7297, Ext. 224 <br>
-Mobile: (787) 405-3640 
+Cell: (787) 405-3640 <br>
+[Ivan Llerandi-Roman](mailto:Ivan_Llerandi-Roman@fws.gov?subject=Partners+for+Fish+and+Wildlife+Program) <br>
+
+Alexandra Galindo
+Caribbean Ecological Services Field Office <br>
+PO Box 491/Road 301, Km 5.1 <br>
+Boquerón, PR 00622 <br>
+(787) 851-7297, Ext. 223 <br>
+[alexandra_galindo@fws.gov](mailto:alexandra_galindo@fws.gov?subject=Partners+for+Fish+and+Wildlife+Program)
+
+Jaime Yrigoyen <br>
+Caribbean Ecological Services <br> 
+PO Box 0487 <br>
+Frederiksted, VI 00841 <br>
+(787) 664-3085 <br>  
+[jaime_yrigoyen@fws.gov](mailto:jaime_yrigoyen@fws.gov?subject=Partners+for+Fish+and+Wildlife+Program)
 
 ### Florida
 
-[Chad Allison](mailto:Chad_Allison@fws.gov?subject=Partners+for+Fish+and+Wildlife+Program) <br>
-(904) 731-3093
+Chad Allison, state coordinator <br>
+(904) 731-3093 <br>
+[chad allison@fws.gov](mailto:Chad_Allison@fws.gov?subject=Partners+for+Fish+and+Wildlife+Program) 
+
+Aline Morrow <br>
+Avon Park Air Force Range <br>
+475 Easy Street <br>
+Avon Park AFR, FL 33825 <br>
+(407) 572-6801 <br>
+[aline_morrow@fws.gov](aline_morrow@fws.gov?subject=Partners+for+Fish+and+Wildlife+Program)
+
+Chris Metcalf <br>
+Panama City Fish and Wildlife Conservation Office <br>
+1601 Balboa Ave <br>
+Panama City, FL 32405 <br>
+Office: (850) 769-0552, ext 45224 <br>                              
+Cell: (850) 628-3117 <br>
+[chris_metcalf@fws.gov](mailto:chris_metcalf@fws.gov?subject=Partners+for+Fish+and+Wildlife+Program)
+
+Mark "Wade" Gurely <br>
+12085 SR 29 South <br>
+Immoklaee FL 34142 <br>
+(239) 657-8009 <br>
+[mark_gurley@fws.gov](mailto:mark_gurley@fws.gov?subject=Partners+for+Fish+and+Wildlife+Program)
 
 ### Georgia
 
-[Jim Bates](mailto:Jim_Bates@fws.gov?subject=Partners+for+Fish+and+Wildlife+Program) <br> 
+Jim Bates, state coordinator <br> 
+West Georgia sub-office
 PO Box 52560 <br>
 Fort Benning, GA 31995 <br>
 Office: (706) 544-6422 <br>
 Cell: (251) 424-0717 <br> 
+[jim bates@fws.gov](mailto:Jim_Bates@fws.gov?subject=Partners+for+Fish+and+Wildlife+Program) 
 [fws.gov/athens/partners.html](https://www.fws.gov/athens/partners.html)
+
+Joseph Kirsch <br>
+Rome, Georgia <br>
+209-324-5135 <br>
+[joseph_kirsch@fws.gov](mailto:joseph_kirsch@fws.gov?subject=Partners+for+Fish+and+Wildlife+Program)
 
 ### Kentucky
 
-[J. Brent Harrel](mailto:Brent_harrel@fws.gov?subject=Partners+for+Fish+and+Wildlife+Program) <br>
-330 West Broadway, J. C. Watts Federal Bldg., RM 265 <br>
+J. Brent Harrel, state coordinator <br>
+Kentucky Ecological Services Field Office <br>
+330 West Broadway, RM 265 <br>
 Frankfort, KY 40601 <br>
-Phone: (502) 695-0468, ext 104 <br>
-Fax: (502) 695-1024 <br>
+Office: (502) 965-0468 <br> 
+Cell: (502) 229-463 <br>
+[brent_harrel@fws.gov](mailto:Brent_harrel@fws.gov?subject=Partners+for+Fish+and+Wildlife+Program) <br>
 [fws.gov/frankfort/partners.html](https://www.fws.gov/frankfort/partners.html)
+
+Hannah Devine <br>
+Kentucky Ecological Services Field Office <br>
+330 West Broadway, RM 265 <br>
+Frankfort, KY 40601 <br>
+Office: (502) 965-0468 <br>
+Cell: (502) 517-1211 <br>
+[hannah_devine@fws.gov](mailto:hannah_devine@fws.gov?subject=Partners+for+Fish+and+Wildlife+Program)
 
 ### Louisiana
 
-[Andrew Dolan](mailto:Andrew_Dolan@fws.gov?subject=Partners+for+Fish+and+Wildlife+Program) <br>
+Andrew Dolan, state coordinator <br>
 Loiusiana Ecological Services Field Office <br>
 200 Dulles Drive <br>
 Lafayette, LA 70506 <br>
 Office: (337) 291-3119 <br>
 Cell: (571) 242-5866 <br>
+[andrew_dolan@fws.gov](mailto:andrew_dolan@fws.gov?subject=Partners+for+Fish+and+Wildlife+Program) <br>
 [fws.gov/lafayette/pfw_program.html](https://www.fws.gov/lafayette/pfw_program.html)
+
+Robert Smith <br>
+Loiusiana Ecological Services Field Office <br>
+646 Cajundome Blvd, Suite #400 <br>
+Lafayette, LA 70506 <br>
+(337) 291-3134 <br>
+[robert_v_smith@fws.gov](mailto:robert_v_smith@fws.gov?subject=Partners+for+Fish+and+Wildlife+Program)
 
 ### Mississippi
 
-[Jeffrey Lee](mailto:Jeffrey_Lee@fws.gov?subject=Partners+for+Fish+and+Wildlife+Program) <br>
-Room 207 Thompson Hall Box 9690 
-Starkville, MS 39762
-(601) 201-0904 
+Jeffrey Lee, state coordinator <br>
+Room 207 Thompson Hall Box 9690 <br>
+Starkville, MS 39762 <br>
+(601) 201-0904 <br>
+[jeffrey_lee@fws.gov](mailto:jeffrey_lee@fws.gov?subject=Partners+for+Fish+and+Wildlife+Program) <br>
 [fws.gov/mississippiES/partners3.html](https://www.fws.gov/mississippiES/partners3.html)
+
+Randy Browning <br>
+113 Fairfield Drive, Ste 110 <br>
+Hattiesburg, MS  39402 <br>
+Office: (601) 264-6010 <br>
+Cell: (601) 606-2622 <br>
+[randy_browning@fws.gov](mailto:randy_browning@fws.gov?subject=Partners+for+Fish+and+Wildlife+Program)
 
 ### North Carolina
 
-[John Ann Shearer](mailto:JohnAnn_Shearer@fws.gov?subject=Partners+for+Fish+and+Wildlife+Program) <br>
-551-F Pylon Drive <br>
-P.O. Box 33726 <br>
-Raleigh, NC 27636-3726 <br>
+John Ann Shearer, state coordinator <br>
+Raleigh Ecological Services Field Office <br>
+PO Box 33726 <br>
+Raleigh, NC 27636-2736 <br>
 Phone: (919) 856-4520, ext 17 <br>
+[johnann_shearer@fws.gov](mailto:JohnAnn_Shearer@fws.gov?subject=Partners+for+Fish+and+Wildlife+Program) <br>
 [fws.gov/raleigh/pfw.html](https://www.fws.gov/raleigh/pfw.html)
+
+Laura Fogo <br>
+Asheville Ecological Services Field Office <br>
+160 Zillicoa Street, Suite B <br>
+Asheville, NC 28801 <br>
+Office: (828) 258-3939, ext 42228 <br>
+Cell: (828) 216-4971 <br>
+[laura_fogo@fws.gov](mailto:laura_fogo@fws.gov?subject=Partners+for+Fish+and+Wildlife+Program)
+
+Luke Lolies <br>
+Manteo Sub-Office <br>
+P.O. Box 1969 <br>
+Manteo, NC 27954 <br>
+(252) 256-3676 <br>
+[luke_lolies@fws.gov](mailto:luke_lolies@fws.gov?subject=Partners+for+Fish+and+Wildlife+Program)
 
 ### South Carolina
 
-[Bret Beasley](mailto:Bret_Beasley@fws.gov?subject=Partners+for+Fish+and+Wildlife+Program) <br>
+Bret Beasley, state coordinator <br>
 176 Croghan Spur Road, Suite 200 <br>
 Charleston, SC 29407 <br>
 (843) 300-0433 <br>
+[bret_beasley@fws.gov](mailto:bret_beasley@fws.gov?subject=Partners+for+Fish+and+Wildlife+Program) <br>
 [fws.gov/charleston/partners.html](https://www.fws.gov/charleston/partners.html)
 
 ### Tennessee
 
-[Timothy Watkins](mailto:Timothy_Watkins@fws.gov?subject=Partners+for+Fish+and+Wildlife+Program) <br>
+Timothy "Bryan" Watkins, state coordinator <br>
+Tennessee Ecological Services Field Office <br>
 446 Neal Street <br>
 Cookeville, TN 38501 <br>
-Office: (931) 525-4996
-Cell: (901) 545-9362 
+Office: (931) 525-4996 <br>
+Cell: (901) 545-9362 <br>
+[timothy_watkins@fws.gov](mailto:timothy_watkins@fws.gov?subject=Partners+for+Fish+and+Wildlife+Program)
 
+Dustin Boles <br>
+Tennessee Ecological Services Field Office <br>
+446 Neal Street <br>
+Cookeville, TN 38501 <br>
+Office: (931) 525-4984 <br>
+Cell: (931) 261-0117 <br>
+[dustin_boles@fws.gov](mailto:dustin_boles@fws.gov?subject=Partners+for+Fish+and+Wildlife+Program)
 
 ### For Additional Information
 
