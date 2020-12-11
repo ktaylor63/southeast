@@ -93,7 +93,7 @@ If you would like to help conserve coastal habitats for the benefit of people an
 ### Regional coordinator
 
 Nicole Adimey  
-U.S. Fish and Wildlife Service, Southeast Regional Office  
+Southeast Regional Office  
 1875 Century Boulevard  
 Atlanta, GA 30345  
 (404) 679-7138  
@@ -102,38 +102,44 @@ Atlanta, GA 30345
 ### Alabama
 
 Patric Harper, Northern Gulf Program Coordinator  
-U.S. Fish and Wildlife Service, Grand Bay Coastal Resources Center  
+Grand Bay Coastal Resources Center  
 Moss Point, MS 39563  
 (228) 475-0765, extension 105 (desk)
 (251) 802-3154 (cell)
-[Patric_Harper@fws.gov](mailto:Patric_Harper@fws.gov?subject=Coastal+Program)  
+[patric_harper@fws.gov](mailto:Patric_Harper@fws.gov?subject=Coastal+Program)  
 
-### Florida, Georgia
+### Florida
 
-**Panhandle**: Melody Ray-Culp, Panhandle Program Coordinator  
+**Florida Panhandle**: Melody Ray-Culp, Florida Panhandle Coastal Program Coordinator  
 U.S. Fish and Wildlife Service, Panama City Ecological Services Field Office  
 1601 Balboa Avenue  
 Panama City, FL 34205  
 (850) 769-0552 extension 45232  
-[Melody_Ray-Culp@fws.gov](mailto:Melody_Ray-culp@fws.gov?subject=Coastal+Program)  
+[melody_ray-culp@fws.gov](mailto:Melody_Ray-culp@fws.gov?subject=Coastal+Program)  
 
-**Northeast Florida and Georgia**: Gianfranco Basili, Northeast Florida Program  
-U.S. Fish and Wildlife Service, North Florida Ecological Services Field Office  
-7915 Baymeadows Way, Suite 200  
-Jacksonville, FL 32256-7517  
-(904) 731-3079  
-[gianfranco_basili@fws.gov](mailto:gianfranco_basili@fws.gov?subject=Coastal+Program)  
+**Northeast Florida**: Katie Conrad, Northeast Florida Coastal Program Coordinator
+North Florida Ecological Services Field Office
+7915 Baymeadows Way, Suite 200
+Jacksonville, FL 32256-7517
+(904) 731-3056 (desk) 
+(603) 289-7964 (cell) 
+[katie_conrad@fws.gov](mailto:katie_conrad@fws.gov?subject=Coastal+Program)
 
-**Tampa Bay**:  Katie Conrad, Tampa Bay Program Coordinator  
-U.S. Fish and Wildlife Service, North Florida Ecological Services Field Office  
-7915 Baymeadows Way, Suite 200  
-Jacksonville, FL 32256-7517  
-(904) 731-3056 (desk)
-(603) 289-7964 (cell)
-[katie_conrad@fws.gov](mailto:katie_conrad@fws.gov?subject=Coastal+Program)  
+**Tampa Bay**: Tiffany Lane, Tampa Bay Coastal Program Coordinator
+Fish and Wildlife Research Institute 
+100 Eighth Avenue SE 
+St Petersburg, FL
+(904) 731-3116
+[tiffany_lane@fws.gov](mailto:tiffany_lane@fws.gov?subject=Coastal+Program)
 
+**East-Central Florida**: Christine Eastwick, East-Central Florida Coastal Program Coordinator
+South Florida Ecological Services Field Office 
+1339 20th Street, Vero Beach, FL 32960
+(772) 469-4262
+[christine_eastwick@fws.gov](mailto:christine_eastwick@fws.gov?subject=Coastal+Program)
+ 
 **South Florida**: Kevin Kalasz, South Florida/Everglades Coordinator  
-U.S. Fish and Wildlife Service, National Key Deer Refuge  
+National Key Deer Refuge  
 28950 Watson Blvd  
 Big Pine Key, FL 33043  
 (305) 780-7514 (desk)  
@@ -152,49 +158,65 @@ Lafayette LA 70506
 ### Mississippi
 
 Paul Necaise  
-U.S. Fish and Wildlife Service, Mississippi Ecological Services Office  
+Mississippi Ecological Services Office  
 6578 Dogwood View Parkway  
 Jackson, MS 39213  
 (228) 493-6631  
-[Paul_Necaise@fws.gov](mailto:Paul_Necaise@fws.gov?subject=Coastal+Program)
+[paul_necaise@fws.gov](mailto:paul_necaise@fws.gov?subject=Coastal+Program)
 
-Robert Smith
-U.S. Fish and Wildlife Service, Grand Bay Coastal Resources Center
-6005 Bayou Heron Rd.
-Moss Point, MS 39562
-228-990-0559
-[Robert_Smith@fws.gov](mailto:Robert_Smith@fws.gov)
+Patric Harper, Northern Gulf Program Coordinator  
+Grand Bay Coastal Resources Center  
+Moss Point, MS 39563  
+(228) 475-0765, extension 105 (desk)
+(251) 802-3154 (cell)
+[patric_harper@fws.gov](mailto:patric_harper@fws.gov?subject=Coastal+Program)  
 
 ### North Carolina
 
-Mike Wicker, North Carolina Coordinator  
-U.S. Fish and Wildlife Service, Raleigh Ecological Services Field Office  
+Mike Wicker, North Carolina Coastal Program Coordinator  
+Raleigh Ecological Services Field Office  
 551-F Pylon Drive  
 Raleigh, NC 27636  
 (919) 856 4520 extension 22  
-[Mike_Wicker@fws.gov](mailto:Mike_Wicker@fws.gov?subject=Coastal+Program)  
+[mike_wicker@fws.gov](mailto:mike_wicker@fws.gov?subject=Coastal+Program)  
 
-### Puerto Rico, U.S. Virgin Islands
+### Puerto Rico
 
-Ivan Llerandi-Roman, Caribbean Program Coordinator  
-U.S. Fish and Wildlife Service, Caribbean Ecological Services Field Office  
+Ivan Llerandi-Roman, Caribbean Coastal Program Coordinator  
+Caribbean Ecological Services Field Office  
 P.O. Box 491  
 Boqueron, Puerto Rico 00622-0491  
 (787) 851-7297 extension 224  
 [ivan_llerandi-roman@fws.gov](mailto:ivan_llerandi-roman@fws.gov?subject=Coastal+Program)  
 
+Alexandra Galindo, Coastal Program 
+Caribbean Ecological Services Field Office
+P.O. Box 491
+Boqueron, Puerto Rico 00622-0491
+(787) 851-7297 extension 223
+[alexandra_galindo@fws.gov](mailto:alexandra_galindo@fws.gov?subject=Coastal+Program)
+
 ### South Carolina
 
-Jason Ayers, South Carolina Coordinator  
-U.S. Fish and Wildlife Service, South Carolina Ecological Services Field Office  
+Jason Ayers, South Carolina Coastal Program Coordinator  
+South Carolina Ecological Services Field Office  
 176 Croghan Spur Road, Suite 200  
 Charleston, SC  29407  
 843-300-0421  
-[Jason_Ayers@fws.gov](mailto:Jason_Ayers@fws.gov?subject=Coastal+Program)
+[jason_ayers@fws.gov](mailto:jason_ayers@fws.gov?subject=Coastal+Program)
 
 Chris Hernandez
-U.S. Fish and Wildlife Service, South Carolina Ecological Services Field Office  
+South Carolina Ecological Services Field Office  
 176 Croghan Spur Road, Suite 200  
 Charleston, SC  29407
-[Chris_Hernandez@fws.gov](mailto:Chris_Hernandez@fws.gov)
+[chris_hernandez@fws.gov](mailto:chris_hernandez@fws.gov?subject=Coastal+Program))
+
+### U.S. Virgin Islands
+
+Jaime Yrigoyen
+Caribbean Ecological Services 
+PO Box 0487, 
+Frederiksted, VI 00841
+787-664-3085
+[jaime_yrigoyen@fws.gov](mailto:jaime_yrigoyen@fws.gov)
 
