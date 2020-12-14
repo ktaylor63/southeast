@@ -279,7 +279,7 @@ Manteo, NC 27954 <br>
 
 ### South Carolina
 
-Bret Beasley, state coordinator <br>
+Bret Beasley <br>
 176 Croghan Spur Road, Suite 200 <br>
 Charleston, SC 29407 <br>
 (843) 300-0433 <br>
