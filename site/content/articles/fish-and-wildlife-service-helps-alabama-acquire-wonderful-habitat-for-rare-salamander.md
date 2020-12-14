@@ -4,9 +4,9 @@ type: feature
 author: 'Dan Chapman, public affairs specialist'
 date: 2020-12-10T00:00:00.000Z
 hero:
-    name: red-hills-salamander.jpg
-    alt: 'Purple and transluscent salamander on a forest floor'
-    caption: 'Red Hills salamander. Photo by Emmett Blankenship, USFWS'
+    name: red-hills-salamander-in-burrow-crop.jpg
+    alt: 'Salamander pokes head out of burrow in ground'
+    caption: 'Red Hills salamander. Photo by USFWS'
 tags:
     - Alabama
     - 'Endangered Species Act'
@@ -14,7 +14,7 @@ tags:
     - 'Red Hills'
     - 'Red Hills Salamander'
     - Salamander 
-updated: 'December 10th, 2020'
+updated: 'December 14th, 2020'
 ---
 
 **Monroeville, Alabama** -- The U.S. Fish and Wildlife Service and the Alabama Department of Conservation and Natural Resources celebrated Thursday the acquisition of nearly 5,000 acres for the federally threatened Red Hills salamander. 
