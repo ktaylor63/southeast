@@ -11,7 +11,7 @@ hero:
     name: loggerhead-baby-saved.jpg
     alt: 'A biologist holding a tiny loggerhead sea turtle with a USFWS biologist in uniform in the background.'
     caption: 'A loggerhead sea turtle hatchling at Cape Romain National Wildlife Refuge. <a href="https://flic.kr/p/cECWef">Photo</a> by Keith Fuller for USFWS.'
-updated: 'Decamber 11th, 2020'
+updated: 'Decamber 14th, 2020'
 ---
 
 From the Atlantic coast of North Carolina, south to Florida, west across the Gulf of Mexico to Louisiana, and along the coastlines of Puerto Rico and the US Virgin Islands, the coastal area in the Southeast covers more than **26,000 miles** of tidal shoreline and nearshore habitats, and more than **86 million acres** of diverse coastal habitat and natural resources. This area accounts for the largest, most diverse and most productive coastal area in the country.
