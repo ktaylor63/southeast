@@ -1,16 +1,20 @@
 ---
-draft: true
 title: 'Newcomers to ancient practice'
 subtitle: 'Beginners learn how to hunt, put food on the table '
 author: 'Lanier Clegg, public affairs specialist'
-date: 2020-12-11T00:00:00.000Z
+hero:
+    name: johnson-first-deer.jpg
+    alt: 'Man in camoflage shirt poses behind immobile deer.'
+    caption: 'Photo of Adam Johnson with his first deer taken during Field to Fork. Photo courtesy of QDMA.'
+    position: '63% 15%'
+date: 2020-12-14T00:00:00.000Z
 type: feature
 tags:
     - 'Field to Fork'
     - Georgia
     - Hunting
     - White-Tailed Deer
-updated: 'December 11th, 2020'
+updated: 'December 14th, 2020'
 ---
 
 Hunting has been a part of human life for thousands of years and was a necessity for early human survival. There were no grocery stores where meat could be purchased. Humans were completely self-sufficient. This tradition of self-sufficiency was part of the driving force that inspired Adam Johnson to begin exploring the sport of hunting. 
@@ -24,6 +28,8 @@ It wasn’t until he stumbled across the “Field to Fork” learn-to-hunt progr
 A chain that included his dad, who knew how to fix a car, grow food and, yes, hunt.  A metro Atlanta resident, Johnson could find a mechanic and roam the produce aisle at his local grocery store -- a “suburban skillset” -- but that was about it.  
 
 “I wanted to be able to demonstrate to myself that I could go get some necessities and I could continue doing all these things that some of my ancestors took for granted.” 
+
+{{< figure class="photo-right" src="/images/pages/zimmerman-with-sons.jpg" alt="Man smiles posing for image with 2 young boys, All have hearing protection and have a hand on the same rifle" caption="Augusto Zimmerman with his sons. Photo by Augusto Zimmerman." >}}
 
 Augusto Zimmerman is another metro Atlantan who began hunting later in his life. Zimmerman, 40, moved to the United States from Brazil in 2009 to attend graduate school.  Going to school in rural Illinois, he was exposed to hunting and became interested. It wasn’t until years later, when he came across the Netflix hunting series “MeatEater” that he decided to act on his interest.  
 
@@ -42,6 +48,8 @@ Johnson has no access to private land, so he takes full advantage to hunt public
 Other questions can be nerve-racking for the new hunter.  Should I use a crossbow? A compound bow? A rifle?  
 
 And, of course, there is cost. A compound bow can cost several hundred dollars -- a firearm easily as much, or more.   
+
+{{< figure class="photo-right" src="/images/pages/zimmerman-first-hunt.jpg" alt="2 men smail at camera with a harvested turkey" caption="Augusto Zimmerman and his mentor, David Kidd, with Zimmerman’s first turkey harvest, Spring 2020. Photo by Augusto Zimmerman." >}}
 
 For Johnson and Zimmerman, “Field to Fork” helped them decide their weapon. For Johnson, the decision was easy: He chose a rifle. Zimmerman went with a crossbow. The program did more than that, too. The novice hunters learned more about hunting basics, which boosted their confidence. The program taught them how to pick a hunting spot, how to shoot and then paired them with a mentor so that they could hunt alongside an experienced hunter. Johnson was able to successfully harvest a doe during his program. Zimmerman wasn’t as lucky and continued to wait patiently for his moment to arrive. After the program ended, it was up to the new hunters to continue and apply what they had learned. 
 
@@ -66,7 +74,6 @@ Hunting has also provided a bonding opportunity with family. Johnson’s hunting
 “To me, it’s also showing her that even as an adult, I’m not done learning,” he says. “I would like to continue learning and acquiring skills and becoming more self sufficient.” 
 
 Zimmerman has been focused on pursuing whitetails since “Field to Fork”, with great results: He recently harvested his first two mature bucks that he proudly processed himself.   
-
 He’s discovered a new quarry, too. After a few tries, he bagged a turkey this past spring. It was a fine bird, a tom, and Zimmerman thoroughly enjoyed the work it took to bring that bird home.  
 
 He is also hoping to go pheasant, quail or duck hunting, and is talking with a coworker who is an avid upland bird hunter. He hopes to go out with him one day and fulfill this new dream.  
@@ -77,6 +84,8 @@ Like Johnson, Zimmerman has bonded with family through hunting. All four of his 
 
 He was also able to take his sons, ages 5 and 6, dove hunting this year. “I wasn’t very successful,” he says, “but it was fun!” 
 
+{{< figure class="photo-center" src="/images/pages/zimmerman-with-dad.jpg" alt="Two men in camoflage and bright orange sit in a hunting blind" caption="Augusto Zimmerman’s father joins him for a hunt. Photo by Augusto Zimmerman." >}}
+
 Zimmerman was able to share what he had learned about hunting with his father as well, and the two hunted together. His father had never been hunting, so the younger Zimmerman asked one of his mentors if he could bring his dad to his property in the Athens area for a hunt. Of course, said the mentor. 
 
 That’s how, one crispy Georgia morning, father and son sat in a tree stand. Zimmerman ran through the basics with his dad, telling him that they had to be very quiet and very still. Their wait got rewarded when two does stepped into view. Zimmerman saw them and kept still, hoping not to spook the duo. Not his dad: The elder Zimmerman excitedly began tapping his son’s knee, thinking he had not seen the deer. Wrong move. The tapping spooked the deer and they ran – but it was exciting. Later, a button buck, not even a year old, wandered by. They let him pass, to let him grow a little more.  
@@ -85,13 +94,8 @@ Around 4:30 p.m., the day waning, a doe came by. It was a 120-yard shot. Zimmerm
 
 But it was more than just bringing food home. A father and son bonded in the woods, and the dad went home with a great story to share with his friends.  
 
-“It was really neat...to be able to share [with him]something that I learned later in life. It was very cool,” says Zimmerman. 
+“It was really neat...to be able to share [with him] something that I learned later in life. It was very cool,” says Zimmerman. 
 
 It’s never too late to start hunting. There are lots of educational opportunities available. Check out a wildlife agency website, be on the lookout for learn-to-hunt programs like “Field to Fork”, or ask a friend or neighbor who hunts if they would mentor you. To get started, all you need is public land, a method of harvest, and some earth-toned clothing. Learning a new skill can be uncomfortable at first and can take some time, but with perseverance and a positive attitude, it is certainly not an insurmountable task. You will make mistakes, but you will learn from them.  
 
 Learning to hunt can be a growing experience that comes with rewards and priceless memories. Are you ready? The field is waiting for you.  
-
-{{< figure class="photo-center" src="/images/pages/american-alligator-savannah-nwr.jpg" alt="An alligator resting on a log in the water" caption="Alligator at Savannah National Wildlife Refuge. Photo by James Diedrick, Creative Commons." >}}
-
-{{< figure class="photo-right" src="/images/pages/savannah-nwr-boundary-sign.jpg" alt="A national wildlife refuge boundary sign on a live oak tree covered in Spanish moss" caption="Along the Savannah River, Savannah National Wildlife Refuge. Photo by Dan Chapman, USFWS." >}}
-
