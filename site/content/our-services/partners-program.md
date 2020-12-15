@@ -23,7 +23,7 @@ hero:
     alt: 'A hand holds a wooden walking stick with a persons blurred torso in the background'
     caption: 'A biologist in a bog. <a href="https://flic.kr/p/rpRgQq">Photo</a> by Gary Peeples, USFWS.'
     link: 'https://flic.kr/p/rpRgQq'
-updated: 'December 11th, 2020'
+updated: 'December 15th, 2020'
 ---
 
 The Southeast Region Partners for Fish and Wildlife Program provides technical and financial assistance to private landowners interested in improving habitat for migratory birds, endangered, threatened and at-risk species while maintaining the their primary land management goals. This is a voluntary program in which landowners continue to manage their land for their objectives as well as for wildlife, which most of the time go-hand-in-hand.
@@ -103,22 +103,22 @@ All participation in the Partners Program is voluntary. If a project proceeds, l
 Rob Hurt, state coordinator <br>
 Wheeler National Wildlife Refuge <br>
 2700 Refuge Headquarters Drive <br>
-Decatur, AL 35603 <br>	
+Decatur, AL 35603 <br>
 (256) 353-7243, ext 29 <br>
 [rob hurt@fws.gov](mailto:Rob Hurt@fws.gov?subject=Partners+for+Fish+and+Wildlife+Program) <br>
 [fws.gov/daphne/Partners/pfw.html](https://www.fws.gov/daphne/Partners/pfw.html)
 
-Lee (Roger) Holt <br>		
+Lee (Roger) Holt <br>
 Wheeler National Wildlife Refuge <br>
 2700 Refuge Headquarters Drive <br>
-Decatur, AL 35603 <br>	
+Decatur, AL 35603 <br>
 256-353-7243, ext 28 <br>
 [roger_holt@fws.gov](mailto:roger_holt@fws.gov?subject=Partners+for+Fish+and+Wildlife+Program)
 
-Jeffrey Drummond <br>		
-Tuscaloosa sub-office <br> 
+Jeffrey Drummond <br>
+Tuscaloosa sub-office <br>
 420 Hackberry Lane <br>
-Tuscaloosa, AL 35486 <br>	
+Tuscaloosa, AL 35486 <br>
 Office: (205) 247-3722 <br>
 Cell: (828) 707-7557 <br>
 [jeffrey_drummond@fws.gov](mailto:jeffrey_drummond@fws.gov?subject=Partners+for+Fish+and+Wildlife+Program)
@@ -153,7 +153,7 @@ Jaime Yrigoyen <br>
 Caribbean Ecological Services <br> 
 PO Box 0487 <br>
 Frederiksted, VI 00841 <br>
-(787) 664-3085 <br>  
+(787) 664-3085 <br>
 [jaime_yrigoyen@fws.gov](mailto:jaime_yrigoyen@fws.gov?subject=Partners+for+Fish+and+Wildlife+Program)
 
 ### Florida
@@ -173,7 +173,7 @@ Chris Metcalf <br>
 Panama City Fish and Wildlife Conservation Office <br>
 1601 Balboa Ave <br>
 Panama City, FL 32405 <br>
-Office: (850) 769-0552, ext 45224 <br>                              
+Office: (850) 769-0552, ext 45224 <br>
 Cell: (850) 628-3117 <br>
 [chris_metcalf@fws.gov](mailto:chris_metcalf@fws.gov?subject=Partners+for+Fish+and+Wildlife+Program)
 
@@ -185,12 +185,12 @@ Immoklaee FL 34142 <br>
 
 ### Georgia
 
-Jim Bates, state coordinator <br> 
-West Georgia sub-office
+Jim Bates, state coordinator <br>
+West Georgia sub-office <br>
 PO Box 52560 <br>
 Fort Benning, GA 31995 <br>
 Office: (706) 544-6422 <br>
-Cell: (251) 424-0717 <br> 
+Cell: (251) 424-0717 <br>
 [jim bates@fws.gov](mailto:Jim_Bates@fws.gov?subject=Partners+for+Fish+and+Wildlife+Program) 
 [fws.gov/athens/partners.html](https://www.fws.gov/athens/partners.html)
 
@@ -205,7 +205,7 @@ J. Brent Harrel, state coordinator <br>
 Kentucky Ecological Services Field Office <br>
 330 West Broadway, RM 265 <br>
 Frankfort, KY 40601 <br>
-Office: (502) 965-0468 <br> 
+Office: (502) 965-0468 <br>
 Cell: (502) 229-463 <br>
 [brent_harrel@fws.gov](mailto:Brent_harrel@fws.gov?subject=Partners+for+Fish+and+Wildlife+Program) <br>
 [fws.gov/frankfort/partners.html](https://www.fws.gov/frankfort/partners.html)
@@ -279,7 +279,7 @@ Manteo, NC 27954 <br>
 
 ### South Carolina
 
-Bret Beasley, state coordinator <br>
+Bret Beasley <br>
 176 Croghan Spur Road, Suite 200 <br>
 Charleston, SC 29407 <br>
 (843) 300-0433 <br>
