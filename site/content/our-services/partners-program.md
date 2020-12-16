@@ -26,7 +26,7 @@ hero:
 updated: 'December 16th, 2020'
 ---
 
-The Southeast Region Partners for Fish and Wildlife Program provides technical and financial assistance to private landowners interested in improving habitat for migratory birds, endangered, threatened and at-risk species while maintaining the their primary land management goals. This is a voluntary program in which landowners continue to manage their land for their objectives as well as for wildlife, which most of the time go-hand-in-hand.
+The Southeast Region Partners for Fish and Wildlife Program provides technical and financial assistance to private landowners interested in improving habitat for migratory birds, endangered, threatened and at-risk species while maintaining their primary land management goals. This is a voluntary program in which landowners continue to manage their land for their objectives as well as for wildlife, which most of the time go-hand-in-hand.
 
 The future of healthy fish and wildlife populations in the Southeast is in the hands of private landowners, who own more than 90% of the region’s land. Many of our projects are in working landscapes such as forests, farms, and ranches, where our goal is to improve wildlife habitat while keeping those lands working. We concentrate our efforts in focus areas of conservation concern, such as imperiled habitats like longleaf pine, bottomland hardwoods, tropical forests, native prairies, marshes, rivers and streams.
 
@@ -177,7 +177,7 @@ Office: (850) 769-0552, ext 45224 <br>
 Cell: (850) 628-3117 <br>
 [chris_metcalf@fws.gov](mailto:chris_metcalf@fws.gov?subject=Partners+for+Fish+and+Wildlife+Program)
 
-Mark "Wade" Gurely <br>
+Wade Gurley <br>
 12085 SR 29 South <br>
 Immoklaee FL 34142 <br>
 (239) 657-8009 <br>
