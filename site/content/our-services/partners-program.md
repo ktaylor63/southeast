@@ -23,7 +23,7 @@ hero:
     alt: 'A hand holds a wooden walking stick with a persons blurred torso in the background'
     caption: 'A biologist in a bog. <a href="https://flic.kr/p/rpRgQq">Photo</a> by Gary Peeples, USFWS.'
     link: 'https://flic.kr/p/rpRgQq'
-updated: 'December 15th, 2020'
+updated: 'December 16th, 2020'
 ---
 
 The Southeast Region Partners for Fish and Wildlife Program provides technical and financial assistance to private landowners interested in improving habitat for migratory birds, endangered, threatened and at-risk species while maintaining the their primary land management goals. This is a voluntary program in which landowners continue to manage their land for their objectives as well as for wildlife, which most of the time go-hand-in-hand.
@@ -129,7 +129,7 @@ Jonathan Baxter, state coordinator <br>
 110 South Amity, Suite 300 <br>
 Conway, AR 72032 <br>
 Ofice: (501) 513-4477 <br>
-Cell: (501) 428-2561 <br> 
+Cell: (501) 428-2561 <br>
 [jonathan baxter@fws.gov](mailto:Jonathan_Baxter@fws.gov?subject=Partners+for+Fish+and+Wildlife+Program) 
 
 ### Commonwealth of Puerto Rico and the U.S. Virgin Islands
@@ -140,7 +140,7 @@ PO Box 491/Road 301, Km 5.1 <br>
 Boquerón, PR 00622 <br>
 Office: (787) 851-7297, Ext. 224 <br>
 Cell: (787) 405-3640 <br>
-[Ivan Llerandi-Roman](mailto:Ivan_Llerandi-Roman@fws.gov?subject=Partners+for+Fish+and+Wildlife+Program) <br>
+[Ivan Llerandi-Roman](mailto:Ivan_Llerandi-Roman@fws.gov?subject=Partners+for+Fish+and+Wildlife+Program)
 
 Alexandra Galindo
 Caribbean Ecological Services Field Office <br>
@@ -191,7 +191,7 @@ PO Box 52560 <br>
 Fort Benning, GA 31995 <br>
 Office: (706) 544-6422 <br>
 Cell: (251) 424-0717 <br>
-[jim bates@fws.gov](mailto:Jim_Bates@fws.gov?subject=Partners+for+Fish+and+Wildlife+Program) 
+[jim bates@fws.gov](mailto:Jim_Bates@fws.gov?subject=Partners+for+Fish+and+Wildlife+Program) <br> 
 [fws.gov/athens/partners.html](https://www.fws.gov/athens/partners.html)
 
 Joseph Kirsch <br>
