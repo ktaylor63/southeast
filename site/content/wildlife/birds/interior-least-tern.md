@@ -36,12 +36,53 @@ tags:
     - 'South Dakota'
     - Tennessee
     - Texas
-updated: 'December 9th, 2020'
+updated: 'January 4, 2021'
 ---
 
 - **Taxon**: Bird
 - **Range**: AR, CO, IA, IL, IN, KS, KY, LA, MS, MO, MT, NE, NM, ND, OK, SD, TN, and TX
 - **Status**: [Listed as Endangered, May 28, 1985](https://ecos.fws.gov/docs/federal_register/fr957.pdf); [Proposed for delisting in October 2019](/news/2019/10/recovery-of-americas-smallest-tern-prompts-proposal-to-delist/)
+
+## Virtual Announcement Event 
+
+The U.S. Fish and Wildlife Service (Service) has scheduled a virtual event announcing the final delisting of the interior least tern on Tuesday, January 12, 2021 from 10:30 a.m. to 12:00 p.m. EST. The event will be held via the Zoom online video platform and via teleconference so that participants can attend remotely.  
+
+The virtual announcement event will include an opportunity for dialogue with the Service, during which attendees will have an opportunity to ask questions relating to the final delisting of the interior least tern.   
+
+**Event Details 
+
+For security purposes, *registration is required*. To listen and view the event via Zoom, listen to the event by telephone, or provide verbal questions during the event, *you must register*. 
+
+Those not familiar with the Zoom platform should view the Zoom video tutorials [(https://support.zoom.us/hc/en-us/articles/206618765-Zoom-video-tutorials)](https://support.zoom.us/hc/en-us/articles/206618765-Zoom-video-tutorials) prior to the virtual announcement event. 
+
+If you have technical difficulties registering for the event or joining the event, please email [amanda.biedermann@empsi.com](mailto:amanda.biedermann@empsi.com). 
+
+*For Attendees Joining by Zoom Web Platform or Zoom App:  
+
+1. Please pre-register using the link provided below. 
+[https://zoom.us/webinar/register/WN_rLK76r5hSvy03F5TFsvXTg](https://zoom.us/webinar/register/WN_rLK76r5hSvy03F5TFsvXTg)  
+
+2. After registration, registrants will receive a confirmation email containing information about joining the event.  
+
+3. On the day of the event, please join the event using the information contained in your confirmation email.  
+
+*For Attendees Joining by Phone:  
+
+1. Register for the event using the registration link above. On the day of the event, call in using one of the toll-free phone numbers listed below. You will be prompted to enter your Meeting ID. Enter the Webinar ID from your confirmation email and press the # key. 
+
+US: +1 346 248 7799 or +1 253 215 8782 or +1 669 900 9128 or +1 646 558 8656 or +1 301 715 8592 or +1 312 626 6799 (for higher quality, dial a number based on your current location) 
+
+International numbers available: [https://zoom.us/u/acwWyuo13d](https://zoom.us/u/acwWyuo13d) 
+
+2. You will be directly joined to the event. If the event has not started, you will be on hold until the event begins. 
+
+**Reasonable Accommodations:  
+
+The U.S. Fish and Wildlife Service is committed to providing access to the virtual announcement event for all attendees. Closed captioning will be available during the event. Further, a full audio and video recording and transcript of the event will be posted online after the event at the following link: 
+
+[https://www.fws.gov/southeast/wildlife/birds/interior-least-tern/](https://www.fws.gov/southeast/wildlife/birds/interior-least-tern/) 
+
+Attendees will also have access to live audio during the event via their telephone or computer speakers. Persons with disabilities requiring reasonable accommodations to participate in the event should contact (Jennifer_Koches@fws.gov)[mailto:Jennifer_Koches@fws.gov] by January 5, 2021 to help ensure availability.
 
 ## Introduction
 
