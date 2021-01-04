@@ -49,7 +49,7 @@ The U.S. Fish and Wildlife Service (Service) has scheduled a virtual event annou
 
 The virtual announcement event will include an opportunity for dialogue with the Service, during which attendees will have an opportunity to ask questions relating to the final delisting of the interior least tern.   
 
-**Event Details 
+**Event Details** 
 
 For security purposes, *registration is required*. To listen and view the event via Zoom, listen to the event by telephone, or provide verbal questions during the event, *you must register*. 
 
@@ -57,7 +57,7 @@ Those not familiar with the Zoom platform should view the Zoom video tutorials [
 
 If you have technical difficulties registering for the event or joining the event, please email [amanda.biedermann@empsi.com](mailto:amanda.biedermann@empsi.com). 
 
-*For Attendees Joining by Zoom Web Platform or Zoom App:  
+*For Attendees Joining by Zoom Web Platform or Zoom App*:  
 
 1. Please pre-register using the link provided below. 
 [https://zoom.us/webinar/register/WN_rLK76r5hSvy03F5TFsvXTg](https://zoom.us/webinar/register/WN_rLK76r5hSvy03F5TFsvXTg)  
@@ -66,7 +66,7 @@ If you have technical difficulties registering for the event or joining the even
 
 3. On the day of the event, please join the event using the information contained in your confirmation email.  
 
-*For Attendees Joining by Phone:  
+*For Attendees Joining by Phone*:  
 
 1. Register for the event using the registration link above. On the day of the event, call in using one of the toll-free phone numbers listed below. You will be prompted to enter your Meeting ID. Enter the Webinar ID from your confirmation email and press the # key. 
 
@@ -76,7 +76,7 @@ International numbers available: [https://zoom.us/u/acwWyuo13d](https://zoom.us/
 
 2. You will be directly joined to the event. If the event has not started, you will be on hold until the event begins. 
 
-**Reasonable Accommodations:  
+**Reasonable Accommodations**:  
 
 The U.S. Fish and Wildlife Service is committed to providing access to the virtual announcement event for all attendees. Closed captioning will be available during the event. Further, a full audio and video recording and transcript of the event will be posted online after the event at the following link: 
 
