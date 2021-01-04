@@ -36,7 +36,7 @@ tags:
     - 'South Dakota'
     - Tennessee
     - Texas
-updated: 'January 4, 2021'
+updated: 'January 4th, 2021'
 ---
 
 - **Taxon**: Bird
@@ -82,7 +82,7 @@ The U.S. Fish and Wildlife Service is committed to providing access to the virtu
 
 [https://www.fws.gov/southeast/wildlife/birds/interior-least-tern/](https://www.fws.gov/southeast/wildlife/birds/interior-least-tern/) 
 
-Attendees will also have access to live audio during the event via their telephone or computer speakers. Persons with disabilities requiring reasonable accommodations to participate in the event should contact (Jennifer_Koches@fws.gov)[mailto:Jennifer_Koches@fws.gov] by January 5, 2021 to help ensure availability.
+Attendees will also have access to live audio during the event via their telephone or computer speakers. Persons with disabilities requiring reasonable accommodations to participate in the event should contact [Jennifer_Koches@fws.gov](mailto:Jennifer_Koches@fws.gov) by January 5, 2021 to help ensure availability.
 
 ## Introduction
 
