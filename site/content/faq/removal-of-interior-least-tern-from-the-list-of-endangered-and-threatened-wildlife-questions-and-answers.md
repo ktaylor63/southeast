@@ -7,16 +7,34 @@ hero:
     alt: 'Two small white birds with yellow beaks and black marking on head on the beach'
     caption: 'Interior least terns. Photo by USFWS'
 tags:
-    - Birds
-    - 'Endangered Species Act'
-    - Delist
-    - 'Migratory Bird Treaty Act'
-    - Recovery
     - Arkansas
+    - 'Arkansas Ecological Services Field Office'
+    - Colorado
+    - Delist
+    - 'Endangered Species Act'
+    - Illinois
+    - Indiana
+    - 'Interior Least Tern'
+    - Iowa
+    - Kansas
     - Kentucky
+    - 'Kentucky Ecological Services Field Office'
     - Louisiana
+    - 'Louisiana Ecological Services Field Office'
+    - 'Migratory Bird Treaty Act'
     - Mississippi
-    - Tennesee
+    - 'Mississippi Ecological Services Field Office'
+    - Missouri
+    - Montana
+    - Nebraska
+    - 'New Mexico'
+    - 'North Dakota'
+    - Oklahoma
+    - Recovery
+    - 'South Dakota'
+    - Tennessee
+    - 'Tennessee Ecological Services Field Office'
+    - Texas
 updated: 'January 12th, 2021'
 ---
 
