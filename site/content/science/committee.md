@@ -206,7 +206,7 @@ My primary focus at work is assessing impacts of transportation projects to at-r
 
 ### Field of Study
 
-Wildlife / Ecology.  As a Biology undergraduate, I gained some experience working with bats and birds.  I received a Masters at the Warnell School of Forestry and Natural Resources at the University of Georgia studying the foraging behavior of neotropical migrant birds in West Virginia in areas treated for Gypsy Moth. My PhD research involved studying the reproductive behaviors of Robust Redhorse (*Moxostoma robustum*), an [at-risk fish species](/finder/#/species/570547f9e7866bee4e141710) native to the southeastern United States.
+Wildlife / Ecology.  As a Biology undergraduate, I gained some experience working with bats and birds.  I received a Masters at the Warnell School of Forestry and Natural Resources at the University of Georgia studying the foraging behavior of neotropical migrant birds in West Virginia in areas treated for Gypsy Moth. My PhD research involved studying the reproductive behaviors of Robust Redhorse (*Moxostoma robustum*), an at-risk fish species native to the southeastern United States.
 
 ### What led you to the Service?
 

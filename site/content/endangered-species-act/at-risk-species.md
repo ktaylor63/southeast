@@ -7,6 +7,9 @@ aliases:
     - /candidateconservation
     - /candidaetconservation/examples.html
     - /endangered-species-act/at-risk
+    - /candidateconservation/finder/
+    - /candidateconservation/finder2/
+    - /finder
 tags:
     - 'At-Risk Species'
     - 'Endangered Species Act'
@@ -16,7 +19,7 @@ hero:
     link: 'https://flic.kr/p/eLEEwc'
     alt: 'A brownish-yellow salamander sanding on a mossy rock with large round eyes.'
     caption: 'The Pigeon Mountain salamander is no longer at-risk of needing federal protection. Photo by John P. Clare, CC BY-NC-ND 2.0.'
-updated: 'March 25th, 2019'
+updated: 'January 11th, 2021'
 ---
 
 **Update:** [Download the Draft Programmatic Candidate Conservation Agreement with Assurances for Louisiana pinesnake in Louisiana](/pdf/agreement/candidate-conservation-agreement-with-assurances/draft-programmatic-ccaa-for-louisiana-pinesnake-in-louisiana.pdf).
@@ -36,25 +39,6 @@ Learn more about the [Southeast Region's at-risk species strategy](/pdf/fact-she
 {{< figure class="photo-center" src="/images/pages/baby-gopher-tortoise.jpg" alt="A small beige turtle with dark brown spots on it's shell standing on sandy sparsly vegetated ground." caption="A baby gopher tortoise. Photo by Randy Browning, USFWS." link="https://flic.kr/p/a5Hrx2" >}}
 
 {{< content-scroller tag="At-Risk Species" heading="Related content" >}}
-
-## Online tool for tracking at-risk species
-
-We have developed a free, online tool, the [At-Risk Species Finder](/finder), that allows anyone to discover essential information about a species’ status and the lead U.S. Fish and Wildlife Service office for that species.
-
-When determining whether or not a species requires the protection of the Act, we assign a Field Office as lead for reviewing all the best scientific and commercial information on the species’ status. Field Offices will have the most information on a particular at-risk species, and all offices follow the same process to determine whether or not a species may require federal protection.
-
-Using the Finder, you can search species by:
-
-- Common and scientific name
-- State range
-- Taxon
-- Lead USFWS office or region
-- Current status
-- And more.
-
-[Access the At-Risk Species Finder](/finder).
-
-{{< figure class="photo-center" src="/images/pages/laginappe-crayfish.jpg" alt="A small, lobster-shaped crayfish with white belly and brownish red back and pincers in a sandy aquarium." caption="The lagniappe crayfish was petitioned and therefore at-risk until biologists determined it does not require protection. Photo by Chris Lukhaup, courtesy of the U.S. Forest Service." link="https://flic.kr/p/nAwV9K" >}}
 
 ## Work with us
 

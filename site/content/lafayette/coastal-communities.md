@@ -3,8 +3,7 @@ title: 'For coastal communities'
 nav: 'For Coastal Communities'
 weight: 4
 url: /lafayette/for-coastal-communities
-facebook: Louisiana-Ecological-Services-Office-364376830424514
-js: /js/state.js
+facebook: Louisiana-Ecological-Services-Office-364376830424514alab
 hero:
     name: roseate-spoonbills-louisiana.jpg
     alt: 'Small pink birds with rounded bills wade through the shallow water.'
@@ -15,7 +14,7 @@ tags:
     - Louisiana
     - 'Louisiana Ecological Services Field Office'
     - 'Private Landowners'
-updated: 'May 7th, 2018'
+updated: 'January 11th, 2021'
 ---
 
 ## Coastal program in Louisiana
@@ -140,8 +139,5 @@ Aline Morrow, Coastal Restoration Biologist
 
 Ronnie Paille, Civil Works and Coastal Restoration Biologist  
 [ronald_paille@fws.gov](mailto:ronald_paille@fws.gov), (337) 291-3117
-
-<span class="state-name">Louisiana</span>
-<span class="state-abbreviation">LA</span>
 
 [^1]: Couvillion et al, 2017.

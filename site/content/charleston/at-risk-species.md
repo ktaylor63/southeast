@@ -4,7 +4,6 @@ description: 'The South Carolina Coastal Program is a partnership driven program
 nav: 'At-risk species'
 facebook: SouthCarolinaFieldOffice
 twitter: USFWS_SC
-js: /js/at-risk-by-state.js
 hero:
     name: green-salamander-alan-cressler.jpg
     alt: 'A green and balck salamander on a rust colored log'
@@ -17,16 +16,13 @@ tags:
     - Recovery
     - 'South Carolina'
     - 'Southern Hognose Snake'
-updated: 'June 9th, 2020'
+updated: 'January 11, 2020'
 ---
 
 At-risk species are plants or animals that have either been proposed for listing under the Endangered Species Act (ESA); are candidates for listing; or are species that have been petitioned for listing. The category also includes species undergoing an agency discretionary review. By working with private landowners, states, tribes, other federal agencies and non-governmental organizations, the Service has been able to conserve dozens of at-risk species and preclude the need to list them under the ESA through proactive conservation efforts.
 
 - [South Carolina list of endangered, threatened, and at-risk species](/charleston/endangered-species)
 - [South Carolina at-risk species factsheet](/pdf/fact-sheet/south-carolina-esfo-at-risk-species.pdf)
-- [Southeast Region At-Risk Species Finder](/finder/#/species/list)
-
-<ul class="at-risk-species fade-list"></ul>
 
 ## Program contacts for at-risk species in South Carolina
 

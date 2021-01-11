@@ -1,5 +1,5 @@
 const ecos = require('./ecos');
-const atRisk = require('./at-risk');
+// const atRisk = require('./at-risk');
 const ListedSpeciesByCounty = require('./ListedSpeciesByCounty');
 
 const listedSpeciesList = document.querySelector('.listed-species');
@@ -17,6 +17,6 @@ ecos.getListedSpeciesByState('North Carolina').then(html => {
   listedSpeciesList.innerHTML = html;
 });
 
-atRisk.getAtRiskSpeciesByState('North Carolina').then(html => {
-  atRiskList.innerHTML = html;
-});
+// atRisk.getAtRiskSpeciesByState('North Carolina').then(html => {
+//   atRiskList.innerHTML = html;
+// });

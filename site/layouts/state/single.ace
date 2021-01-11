@@ -5,7 +5,6 @@
     h2#threatened-endangered-and-at-risk-species Threatened, endangered and at-risk species
     ul.threatened-species.fade-list
     ul.endangered-species.fade-list
-    ul.at-risk-species.fade-list
 
     {{ .Content }}
 

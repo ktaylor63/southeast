@@ -3,7 +3,6 @@ title: '90-Day Petition Findings'
 description: 'A 90-day finding is a formal evaluation of a claim made within a petition under the Endangered Species Act that the U.S. Fish and Wildlife Service consider modifications to the existing federal laws to protect a species. It does not list a species as protected.'
 nav: '90-Day Findings'
 weight: 2
-js: /js/90-day-findings.js
 tags:
     - '90-Day Finding'
     - 'Endangered Species Act'
@@ -35,18 +34,6 @@ A petition is a formal request filed under the ESA by an interested party. Petit
 To the extent practicable, within 90 days after receiving a petition the Service is required to make a finding as to whether the petition presents substantial scientific and commercial information indicating that the petitioned action may be warranted.
 
 {{< figure class="photo-center" src="/images/pages/bog-asphodel.jpg" alt="A bright orange a yellow flowering plant." caption="Biologists determined the once at-risk bog asphodel (narthecium americanum) did not require federal protection. Photo by Kristen on Flickr, CC BY-NC 2.0." link="https://flic.kr/p/2UDAbB" >}}
-
-## Current petitions
-
-<ul class="current-petitions fade-list">
-  <li>Loading data from the At-Risk Species Finder...</li>
-</ul>
-
-## Withdrawn petitions
-
-<ul class="withdrawn-petitions fade-list">
-  <li>Loading data from the At-Risk Species Finder...</li>
-</ul>
 
 ## Substantial vs. not substantial findings
 

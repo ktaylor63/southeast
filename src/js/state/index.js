@@ -33,8 +33,7 @@ const createAtRiskList = species => {
 
 const createListedSpeciesList = (species, status) => {
   const list = species.map(
-    animal => `<li><a href='${animal[1].url}'>${animal[0]} (<em>${
-      animal[1].value
+    animal => `<li><a href='${animal[1].url}'>${animal[0]} (<em>${animal[1].value
       }</em>)</a></li>`
   );
   return [`<li>${species.length} ${status}</li>`, ...list].join('');
@@ -64,12 +63,13 @@ xhr.get(listedUrl, (err, response, body) => {
   if (!endangered.length) removeNode(endangeredList);
 });
 
-xhr.get(atRiskUrl, (err, response, body) => {
-  const species = JSON.parse(body);
-  if (err) {
-    console.error(err);
-    return removeNode(atRiskList);
-  }
-  if (!species.length) return removeNode(atRiskList);
-  atRiskList.innerHTML = createAtRiskList(species);
-});
+// xhr.get(atRiskUrl, (err, response, body) => {
+//   const species = JSON.parse(body);
+//   console.log(response);
+//   if (err) {
+//     console.error(err);
+//     return removeNode(atRiskList);
+//   }
+//   if (!species.length) return removeNode(atRiskList);
+//   atRiskList.innerHTML = createAtRiskList(species);
+// });
