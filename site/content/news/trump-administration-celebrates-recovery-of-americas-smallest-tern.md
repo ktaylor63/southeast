@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 'Trump Administration celebrates recovery of America’s smallest tern'
 subtitle: 'Across interior least tern’s 18-state range, populations continue to grow and flourish'
 date: 2021-01-11T00:00:00.000Z
@@ -52,6 +51,8 @@ In 2005, the Corps coordinated a range-wide monitoring event that confirmed tern
 “The U.S. Army Corps of Engineers is absolutely honored to play a role in a partnership that serves as a model for the potential delisting of other species in the future,” said Major General Diana Holland, Commander of the Mississippi Valley Division, U.S. Army Corps of Engineers. “For over 30 years, we have partnered with the Service to monitor, conserve and recover this endangered species along the Lower Mississippi River. That partnership demonstrates that, through collaboration, we can protect and recover an endangered species while continuing to provide critical navigation and flood control benefits to the nation.”  
 
 “Without the commitment and partnership of the U.S. Army Corps of Engineers, the recovery of the interior least tern would not have been possible,” said Service Regional Director Leopoldo Miranda. “The Corps has implemented conservation measures over the course of decades that have improved habitat for terns along some of America’s largest rivers, such as the Missouri and the Mississippi, and these actions have been central to the tern’s recovery.” 
+
+“Today’s announcement is welcome news for conservationists in Wyoming and around the country,” said Senator John Barrasso (R-Wyo.). “After years of hard work and collaboration, the interior least tern will be officially removed from the endangered species list. Since its listing in 1985, Wyoming, Colorado, and Nebraska have worked in good faith with landowners, conservation groups, and the federal government to preserve critical habitat and recover this bird. The Platte River Recovery Implementation Plan played a critical role in this success story. It now serves as a model for future conservation efforts.”
 
 Least terns are the smallest members of the tern family and feed primarily on small fish. They are generally considered seabirds, but several species are also found along rivers, lakes or other wetlands. They nest along more than 2,800 miles of river channel habitat across the Great Plains and the Lower Mississippi Valley and winter in the Caribbean and South America. 
 
