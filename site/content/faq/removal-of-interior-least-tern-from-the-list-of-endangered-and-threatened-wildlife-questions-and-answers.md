@@ -2,7 +2,7 @@
 title: 'Removal of interior least tern from the list of endangered and threatened wildlife - Questions and answers'
 date: 2021-01-11T00:00:00.000Z
 hero:
-    name: interior-least-tern.jpg.jpg
+    name: interior-least-tern.jpg
     alt: 'Two small white birds with yellow beaks and black marking on head on the beach'
     caption: 'Interior least terns. Photo by USFWS'
 tags:
