@@ -14,7 +14,7 @@ tags:
     - 'Partners for Fish and Wildlife Program'
     - 'Wetland Reserve Program'
     - 'Wildlife Habitat Incentives Program'
-updated: 'September 20th, 2017'
+updated: 'January 13th, 2021'
 ---
 
 ## Partners for Fish and Wildlife program
@@ -65,15 +65,11 @@ In addition to the Partners for Fish and Wildlife program, several other program
 
 ### Environmental Quality Incentives Program (EQIP)
 
-Administered by the Natural Resources Conservation Service, this program helps farmers and ranchers who face serious threats to soil, water, and related natural resources. For incentive payments and cost share, 5-10-year contracts are required. Only applies to focus areas. For more information visit: www.nrcs.usda.gov/programs/eqip/
+Administered by the Natural Resources Conservation Service, this program helps farmers and ranchers who face serious threats to soil, water, and related natural resources. For incentive payments and cost share, 5-10-year contracts are required. Only applies to focus areas. For more information visit: [www.nrcs.usda.gov/programs/eqip/](www.nrcs.usda.gov/programs/eqip/)
 
-### Wetland Reserve Program (WRP)
+### Agricultural Conservation Easement Program - Wetland Reserve Easements (ACEP-WRE) 
 
-Administered by the Natural Resources Conservation Service, this program restores former wetlands. For a 30-year easement, it pays 75% of restoration cost and annual payments. For a permanent easement, pays 100% of the restoration cost and lump sum payment or annual payments. See details at: www.nrcs.usda.gov/programs/wrp/
-
-### Wildlife Habitat Incentives Program (WHIP)
-
-Administered by the Natural Resources Conservation Service this program is designed to reverse decline of farmland-associated wildlife species by helping landowners with wildlife habitat improvements. Cost share and habitat planning assistance are available. See website for details: [www.nrcs.usda.gov/programs/whip/](www.nrcs.usda.gov/programs/whip/).
+Administered by the Natural Resources Conservation Service, this program restores former wetlands. For a 30-year easement, it pays 75% of restoration cost and annual payments. For a permanent easement, pays 100% of the restoration cost and lump sum payment or annual payments. See details at: [https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/programs/easements/acep/?cid=stelprdb1242695](https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/programs/easements/acep/?cid=stelprdb1242695) 
 
 ## What next?
 
