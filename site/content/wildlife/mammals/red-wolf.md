@@ -24,7 +24,7 @@ tags:
     - 'Red Wolf'
     - 'South Carolina'
     - 'South Carolina Ecological Services Field Office'
-updated: 'November 2nd, 2020'
+updated: 'January 14th, 2021'
 ---
 
 - **Taxon**: Mammal
@@ -83,7 +83,7 @@ After reaching an estimated 130 red wolves in the wild in the late 2000s, the po
 
 ## Current status of captive population
 
-Today, there are approximately 245 red wolves in 43 SSP facilities across the country. The captive population is at capacity. In 2016, the Service made securing the captive population a priority and set a goal of a minimum of 400 animals with 52 breeding pairs in the captive population. The Service also stated it would provide resources to the SSP and work with the SSP and other partners to expand space capacity. To date, the Service has provided $514,000 through FY18 and FY19 Recovery Challenge Grants for the construction of additional red wolf enclosures.
+Today, there are approximately 245 red wolves in 43 SSP facilities across the country. The captive population is at capacity. In 2016, the Service made securing the captive population a priority and set a goal of a minimum of 400 animals with 52 breeding pairs in the captive population. The Service also stated it would provide resources to the SSP and work with the SSP and other partners to expand space capacity. To date, the Service has provided $771,000 through FY18, FY19, and FY20 Recovery Challenge Grants for the construction of additional red wolf enclosures.
 
 {{< figure class="photo-center" src="/images/pages/red-wolf-in-the-wild.jpg" alt="A brownish red wolf looking over it's shoulder in a field of yellow flowers" caption="Red wolf in the wild. Photo &copy; Running Wild Media, used with permission." >}}
 
