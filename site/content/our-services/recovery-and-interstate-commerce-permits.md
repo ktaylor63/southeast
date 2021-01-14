@@ -14,11 +14,11 @@ tags:
     - Permits
     - Recovery
 js: /js/10a1a-permits.js
-updated: 'January 11, 2021'
+updated: 'January 14th, 2021'
 ---
 
 <div style="border-radius: 5px; border: 3px solid #006358; box-shadow: 5px 5px 3px rgba(0,0,0,0.3); padding: 1rem;">
-  <p style="margin-top: 0;">A note to Permit Applicants: You can now apply electronically for recovery and interstate commerce permits at the following site:  <a href="https://fwsepermits.servicenowservices.com/fws">https://fwsepermits.servicenowservices.com/fws</a>. However, we are also still accepting mailed applications. If you choose to mail your application, due to the COVID-19 outbreak, we are making temporary changes in our procedures for receiving 10(a)(1)(A) Recovery and Interstate Commerce Permit Applications. In addition to submitting a hardcopy of your application and payment through the mail (as usual), please also submit your Permit Application and a copy of your payment via email to: <a href="mailto:permitsr4es@fws.gov">permitsr4es@fws.gov</a> until further notice.</p>
+  <p style="margin-top: 0;">A note to Permit Applicants: You can now apply electronically for recovery and interstate commerce permits at the following site:  <a href="https://fwsepermits.servicenowservices.com/fws">https://fwsepermits.servicenowservices.com/fws</a> and are strongly encouraged to do so. However, we are also still accepting mailed applications. If you choose to mail your application, due to the COVID-19 outbreak, we are making temporary changes in our procedures for receiving 10(a)(1)(A) Recovery and Interstate Commerce Permit Applications. In addition to submitting a hardcopy of your application and payment through the mail (as usual), please also submit your Permit Application and a copy of your payment via email to: <a href="mailto:permitsr4es@fws.gov">permitsr4es@fws.gov</a> until further notice.</p>
 </div>
 
 ## What is the status of my permit?
