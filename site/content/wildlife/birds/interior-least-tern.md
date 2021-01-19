@@ -36,7 +36,7 @@ tags:
     - 'South Dakota'
     - Tennessee
     - Texas
-updated: 'January 12th, 2021'
+updated: 'January 19th, 2021'
 ---
 
 - **Taxon**: Bird
@@ -53,6 +53,7 @@ Video and audio recordings of the event are available for download.
 
 * [Download video recording](https://fileshare.fws.gov/?linkid=KZi4zr6VWWUxu9o+hqexl5WWw9hK1EfO8YDODS6ncAGbVD1eDBh1JQ)
 * [Download audio recording](https://fileshare.fws.gov/?linkid=KZi4zr6VWWXeMn3DukEClq8+qyUMVd398YDODS6ncAGbVD1emW7mQw)
+* [Download transcript](/pdf/20210112-ILT-virtual-event-final-transcript.pdf)
 
 ## Introduction
 
