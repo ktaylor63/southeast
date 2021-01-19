@@ -40,5 +40,5 @@ Under the Trump Administration, since 2017, 13 species have been determined to n
 
 ## Contact
 
-- : Laury Marshall, [laury_parramore@fws.gov](mailto:laury_parramore@fws.gov), 703-703-589-6947
+- Laury Marshall, [laury_parramore@fws.gov](mailto:laury_parramore@fws.gov), 703-703-589-6947
 
