@@ -53,7 +53,7 @@ tags:
     - Virginia
     - 'West Virginia'
     - Wisconsin
-updated: 'October 5th, 2020'
+updated: 'January 22nd, 2021'
 ---
 
 The U.S. Fish and Wildlife Service (Service) under the Endangered Species Act (ESA), has broad authority to issue regulations for the conservation of threatened species.  The ESA provides a specific list of prohibitions for endangered species under section 9, but does not automatically provide these same prohibitions to threatened species.  Section 4(d) of the ESA allows the Service to establish prohibitions or exceptions to prohibitions for threatened species.
@@ -69,7 +69,7 @@ The primary goals of this 4(d) rule are to minimize incidental take of [eastern 
 ### Prohibited activities
 
 - Purposeful “take” of eastern black rail, to include capture, handling, or other activities.
-- Incidental take of an eastern black rail from the following activities:  prescribed burns (unless utilizing best management practices – BMPs*), mowing, haying, and other mechanical treatment activities in the bird’s habitat during the nesting or brooding periods; grazing activities on public lands that occur in the bird’s habitat and do not support the maintenance of dense overhead cover in at least 50% of habitat in any given calendar year within a management boundary; and long-term or permanent damage, fragmentation, or conversion of eastern black rail habitat and the contiguous wetland-upland transition zone to other habitat types (such as open water) that do not support the bird.
+- Incidental take of an eastern black rail from the following activities:  prescribed burns (unless utilizing best management practices – BMPs*); mowing, haying, and other mechanical treatment activities in the bird’s habitat during the nesting or brooding periods; grazing activities on public lands that occur in the bird’s habitat and do not support the maintenance of dense overhead cover in at least 50% of habitat in any given calendar year within a management boundary; and long-term or permanent damage, fragmentation, or conversion of eastern black rail habitat and the contiguous wetland-upland transition zone to other habitat types (such as open water) that do not support the bird.
 - Possession and other acts with unlawfully taken eastern black rails.
 - Import or export of eastern black rails.
 - Possession of unlawfully taken specimens of eastern black rails or conducting any other acts with unlawfully taken specimens of eastern black rails.
