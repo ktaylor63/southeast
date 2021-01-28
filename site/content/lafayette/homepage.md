@@ -16,12 +16,12 @@ tags:
     - 'Endangered Species Act'
     - Louisiana
     - 'Louisiana Ecological Services Field Office'
-updated: 'October 5th, 2020'
+updated: 'January 28th, 2021'
 ---
 
-<!-- <div style="border-radius: 5px; border: 3px solid #f76552; margin: auto; display: block; max-width: 600px; padding: 1.5rem; box-shadow: 3px 3px 5px rgba(0,0,0,0.4);">
+<div style="border-radius: 5px; border: 3px solid #f76552; margin: auto; display: block; max-width: 600px; padding: 1.5rem; box-shadow: 3px 3px 5px rgba(0,0,0,0.4);">
   <p style="margin: 0;">Due to the Louisiana Governor's quarantine order for the coronavirus (COVID-19), and in order to keep our staff and the public safe, we are unable to accept or respond in a timely manner to consultation request or project review/concurrence that we receive through the U.S. Mail.  Please submit your request electronically to lafayette@fws.gov or call 337-291-3100. You can also visit <a href="https://ecos.fws.gov/ipac/">ecos.fws.gov/ipac</a> and select Get Started.
-</div> -->
+</div> 
 
 The field station was established in 1972. We strive for ecosystem sustainability through preservation, conservation, enhancement, and restoration of habitats essential for the long-term viability of the fish, wildlife, and plants in Louisiana. The field office emphasizes an ecosystem approach incorporating Strategic Habitat Conservation to address and prioritize habitat issues through partnerships with other federal and state agencies, conservation organizations, private landowners, and citizens to achieve the greatest possible benefits to fish and wildlife.
 
