@@ -1,5 +1,4 @@
 ---
-draft: true
 title: South Carolina Partners for Fish and Wildlife helps longleaf pine, red-cockaded woodpecker
 author: Bret Beasley, Partners for Fish and Wildlife Biologist
 date: 2021-01-29
