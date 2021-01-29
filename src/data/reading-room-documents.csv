@@ -592,7 +592,7 @@ Louisiana Ecological Services Field Office,Partners for Fish and Wildlife progam
 ,North Carolina's National Wildlife Refuges and National Fish Hatcheries,Fact Sheet,,fact-sheet/north-carolina-national-wildlife-refuges-and-fish-hatcheries.pdf,2003,,"Alligator River, Back Bay, Cedar Island, Currituck, Edenton, Great Dismal Swamp, Mackay Island, Mattamuskeet, Pea Island, Pee Dee, Pocosin Lakes, Roanoke River, Swanquarter",
 ,Wings Over Water Festival at a Glance,Fact Sheet,,fact-sheet/wings-over-water-festival-at-a-glance.pdf,2017,,"Alligator River, Pea Island, Mackay Island, Mattamuskeet, Pocosin Lakes",
 ,Treestand safety tips,Fact Sheet,,fact-sheet/tree-stand-safety.pdf,,,Pocosin Lakes,
-,"Threatened, endangered, candidate species of Louisiana",Fact Sheet,,fact-sheet/louisiana-ecological-services-field-office-t-and-e-species.pdf,,Ecological Services,Louisiana Ecological Services Field Office,
+,"Threatened, endangered, candidate species of Louisiana",Fact Sheet,TRUE,fact-sheet/louisiana-ecological-services-field-office-t-and-e-species.pdf,2020,Ecological Services,Louisiana Ecological Services Field Office,Louisiana
 ,Red wolf recovery program,Fact Sheet,,fact-sheet/red-wolf.pdf,2018,"Ecological Services, National Wildlife Refuge","Alligator River, Pocosin Lakes, Cedar Island",
 Private John Allen National Fish Hatchery,,Fact Sheet,,fact-sheet/private-john-allen-national-fish-hatchery.pdf,,,,
 ,Hurricane recovery stocking; Hatcheries help restore fisheries and lives,Fact Sheet,,fact-sheet/hurricane-recovery-stocking.pdf,2007,Fish and Aquatic Conservation,"Private John Allen, Mammoth Spring, Wolf Creek",
@@ -685,6 +685,7 @@ Sam D. Hamilton Noxubee National Wildlife Refuge,Trail Guide,General Brochure,,b
 Southwest Louisiana National Wildlife Refuges,,General Brochure,TRUE,brochure/southwest-louisiana-national-wildlife-refuges.pdf,2019,National Wildlife Refuge System,,Louisiana
 Okefenokee National Wildlife Refuge,Swamp Island Drive Trail Guide,General Brochure,,brochure/okefenokee-national-wildlife-refuge-swamp-island-drive-trail-guide.pdf,,National Wildlife Refuge System,,
 Okefenokee National Wildlife Refuge,Swamp Walk Trail Guide,General Brochure,,brochure/okefenokee-national-wildlife-refuge-swamp-walk-trail-guide.pdf,,National Wildlife Refuge System,,
+Okefenokee National Wildlife Refuge,Canoe trail guide,General Brochure,TRUE,brochure/okefenokee-wilderness-canoe-guide.pdf,2021,National Wildlife Refuge System,,
 Okefenokee National Wildlife Refuge,,General Brochure,TRUE,brochure/okefenokee-national-wildlife-refuge.pdf,2020,National Wildlife Refuge System,,"Georgia, Florida"
 Overflow National Wildlife Refuge,,General Brochure,,brochure/overflow-national-wildlife-refuge.pdf,,National Wildlife Refuge System,,
 Pee Dee National Wildlife Refuge,,General Brochure,TRUE,brochure/pee-dee-national-wildlife-refuge.pdf,2019,National Wildlife Refuge System,,
@@ -1689,13 +1690,15 @@ var. mirabilis",Fact Sheet,TRUE,fact-sheet/chamaecrista-glandulosa-var-mirabilis
 ,Lyonia truncata var. proctorii,Fact Sheet,TRUE,fact-sheet/lyonia-truncata-var-proctorii-spanish.pdf,,Endangered Species,Caribbean Ecological Services Field Office,Puerto Rico
 ,Mitrocarpus maxwelliae,Fact Sheet,TRUE,fact-sheet/mitrocarpus-maxwelliae-spanish.pdf,,Endangered Species,Caribbean Ecological Services Field Office,Puerto Rico
 ,Mitrocarpus polycladus,Fact Sheet,TRUE,fact-sheet/mitrocarpus-polycladus-spanish.pdf,,Endangered Species,Caribbean Ecological Services Field Office,Puerto Rico
-,Palo de Rosa (Ottoschulzia rhodoxylon),Fact Sheet,TRUE,fact-sheet/ottoschulzia-rhodoxylon-spanish.pdf,,Endangered Species,Caribbean Ecological Services Field Office,Puerto Rico
+,Palo de Rosa (Ottoschulzia rhodoxylon),Fact Sheet,TRUE,fact-sheet/ottoschulzia-rhodoxylon-spanish.pdf,2021,Endangered Species,Caribbean Ecological Services Field Office,Puerto Rico
+,Palo de Rosa (Ottoschulzia rhodoxylon),Fact Sheet,TRUE,fact-sheet/ottoschulzia-rhodoxylon-english.pdf,,,,
 ,Schoepfia arenaria,Fact Sheet,TRUE,fact-sheet/schoepfia-arenaria-spanish.pdf,,Endangered Species,Caribbean Ecological Services Field Office,Puerto Rico
 ,Erubia (Solanum drymophilum),Fact Sheet,TRUE,fact-sheet/solanum-drymophilum-spanish.pdf,,Endangered Species,Caribbean Ecological Services Field Office,Puerto Rico
 ,Cabana negra (Stahlia monosperma),Fact Sheet,TRUE,fact-sheet/stahlia-monosperma-spanish.pdf,,Endangered Species,Caribbean Ecological Services Field Office,Puerto Rico
 ,Palo Colorado (Ternstroemia luquillensis),Fact Sheet,TRUE,fact-sheet/ternstroemia-luquillensis-spanish.pdf,,Endangered Species,Caribbean Ecological Services Field Office,Puerto Rico
 ,Bariaco (Trichilia triacantha),Fact Sheet,TRUE,fact-sheet/trichilia-triacantha-spanish.pdf,,Endangered Species,Caribbean Ecological Services Field Office,Puerto Rico
-,Vernonia proctorii,Fact Sheet,TRUE,fact-sheet/vernonia-proctorii-spanish.pdf,,Endangered Species,Caribbean Ecological Services Field Office,Puerto Rico
+,Vernonia proctorii,Fact Sheet,TRUE,fact-sheet/vernonia-proctorii-spanish.pdf,2021,Endangered Species,Caribbean Ecological Services Field Office,Puerto Rico
+,Vernonia proctorii,Fact Sheet,TRUE,fact-sheet/vernonia-proctorii-english.pdf,2021,Endangered Species,,
 ,Zanthoxylum thomasianum,Fact Sheet,TRUE,fact-sheet/zanthoxylum-thomasianum-spanish.pdf,,Endangered Species,Caribbean Ecological Services Field Office,Puerto Rico
 ,Higo chumbo (Harrisia portoricensis),Fact Sheet,TRUE,fact-sheet/harrisia-portoricensis-spanish.pdf,,Endangered Species,Caribbean Ecological Services Field Office,Puerto Rico
 ,Aristida chaseae,Fact Sheet,TRUE,fact-sheet/aristida-chaseae-spanish.pdf,,Endangered Species,Caribbean Ecological Services Field Office,Puerto Rico
