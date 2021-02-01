@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Our Regional Leadership"
 description: "Meet the people leading conservation in the Southeast Region of the U.S. Fish and Wildlife Service."
 nav: Leadership
@@ -38,15 +39,31 @@ Before coming to Atlanta, Mike worked in the Southwest Region where he was invol
 
 Mike got his start in natural resource management and policy development as a Knauss Sea Grant Fellow, where he worked for the Committee on Natural Resources in the U.S. House of Representatives. He is a graduate from Iowa State University and Michigan State University.
 
+## Laurel Barnhill
+
+### Chief of Staff
+
+{{< figure class="photo-right" src="/images/pages/laurel-barnhill.jpg" alt="Portrait shot of a woman with a brown pet dog." >}}
+
+Laurel Barnhill has served as the Chief of Staff since October 2019.  She joined the Service in 2011 as the National Wildlife Refuge System Inventory and Monitoring Coordinator and then as the Chief of the Migratory Bird Program.  Laurel’s prior positions were as the Bird Conservation Coordinator for South Carolina Department of Natural Resources, Wildlife Biologist for the USDA Forest Service – Savannah River, and Passerine Bird Coordinator for Arkansas Game and Fish Commission.
+
+Laurel earned a M.S. in Zoology from the University of Arkansas and a B.S. in Wildlife and Fisheries Biology from the University of Vermont.
+
 ## Allan Brown
 
 ### Assistant Regional Director, Fisheries and Aquatic Conservation
 
 {{< figure class="photo-right" src="/images/pages/allan-brown-bio.jpg" alt="A man in front of industrial tanks holding an enormous fish." >}}
 
-Allan has over thirty years experience with the Service. After graduating from Michigan State University in the spring of 1984, Allan held temporary positions at Senecaville National Fish Hatchery (NFH) Ohio and the National Fishery Center in Lamar, Pennsylvania. As a permanent employee Allan served as a biological technician and a fisheries biologist before moving to Welaka NFH. All together Allan spent 20 years at Weklaka NFH as an assistant hatchery manager, hatchery manager, and program supervisor for warmwater hatcheries for the southeast region. Most recently Allan was selected as the Assistant Regional Director for Fisheries and Aquatic Conservation in the southeast region in September of 2014.
+Allan has worked for the Fish and Wildlife Service for 36 years. After graduating from Michigan State University in the spring of 1984, Allan held temporary positions at Senecaville National Fish Hatchery (NFH) in Ohio and the National Fishery Center in Lamar, Pennsylvania. As a permanent employee, Allan served at the Jackson NFH in Wyoming and then moved to Wolf Creek NFH in Kentucky as the deputy project leader.  In 1994, he was selected as the project leader for the Welaka NFH in Florida.  Allan spent 20 years at Welaka as the hatchery manager and program supervisor for warmwater hatcheries for the Southeast Region. He was selected for his current position as the Assistant Regional Director for Fish and Aquatic Conservation in the Southeast Region in September of 2014.
 
-Allan has been married for 34 years with 3 adult children all of whom have married and three granddaughters. Allan and his wife like to travel, go boating, hiking, and keep busy taking care of two dogs.
+Allan has been married for 38 years with three adult children, all of whom are married.  He and his wife have three granddaughters and one grandson. Allan and his wife like to travel and go boating and hiking. They keep busy taking care of two wonderful, but poorly behaved labs.
+
+## Stephen Clark
+
+### Special Agent in Charge 
+
+Stephen Clark has over 26 years’ experience in natural resource law enforcement that started by patrolling the bayous as a state game warden in south Louisiana (1994-2001), serving proudly in the United States Army in Operation Desert Storm, and ultimately leading complex investigations as a Fish & Wildlife Service Special Agent (2001—Present). Additionally, Stephen served as a Fish & Wildlife Service Special Agent Pilot where he provided investigative air support across the nation.  Throughout his career, Stephen has served in several different leadership capacities including, Resident Agent in Charge in Lacombe, La. and Assistant Special Agent in Charge in Albuquerque, NM. In addition, he has served as acting Special Agent in Charge for the Branch of Investigations at Fish & Wildlife Service Headquarters, and multiple acting Regional Special Agent in Charge assignments for the Southeast and Southwest Regions.  Stephen holds a bachelor’s degree from Southeastern Louisiana University in Economics and Management. During his time away from work, Stephen enjoys spending time outdoors with his wife Nicole and two sons—Zachary and Andrew.
 
 ## Dr. Bill Uihlein
 
@@ -82,15 +99,7 @@ Catherine serves as the Assistant Regional Director for Ecological Services in t
 
 Catherine grew up in a large family in San Antonio, Texas, and did not realize that careers in conservation existed prior to her first internship with the Service, but quickly fell in love with the field and the mission. She is an advocate of continual learning and mentoring and working with diverse groups from all backgrounds to achieve innovative conservation success. Catherine is a proud mom of a son in high school, daughter in elementary, and a son on the way in September. She loves spending time with her family and can often be found gardening, in the water paddleboarding or snorkeling, and watching and attending college football games in the Fall.
 
-## Laurel Barnhill
 
-### Chief of Staff
-
-{{< figure class="photo-right" src="/images/pages/laurel-barnhill.jpg" alt="Portrait shot of a woman with a brown pet dog." >}}
-
-Laurel Barnhill serves as the Chief of the Migratory Bird Program for the U.S. Fish and Wildlife Service-Southeast Region. She joined the Service in 2011 as Southeast Region National Wildlife Refuge System Inventory and Monitoring Coordinator. Laurel’s prior positions were as the Bird Conservation Coordinator for South Carolina Department of Natural Resources, Wildlife Biologist for the USDA Forest Service – Savannah River, and Passerine Bird Coordinator for Arkansas Game and Fish Commission.
-
-Laurel earned a M.S. in Zoology from the University of Arkansas and a B.S. in Wildlife and Fisheries Biology from the University of Vermont.
 
 ## Mara Lopez
 
