@@ -24,7 +24,7 @@ But there was another CCC unit that did the unsung work of felling the oaks, dre
 
 “There was a time when they were all segregated,” Mitchell says. “I don't know much about the Black camp.”
 
-{{< figure class="photo-center" src="/images/pages/CCCpixlunch.jpg" alt="Black and white photo of around 20 black men in a line in the woods." caption="Lunch at White River National Wildlife Refuge. Photo by Civilian Conservation Corps. Originals on file at the USFWS Office of the Regional Archaeologist, Savannah." >}}
+{{< figure class="photo-center" src="/images/pages/CCCpixlunch.jpg" alt="Black and white photo of around 20 black men in a line in the woods." caption="CCC members awaiting lunch. Photo by Civilian Conservation Corps. Originals on file at the USFWS Office of the Regional Archaeologist, Savannah." >}}
 
 Richard Kanaski does. Kanaski, a U.S. Fish and Wildlife Service (Service) archaeologist, is compiling information about the little-known history of the African-American CCC enrollees throughout the South.
 
@@ -34,7 +34,7 @@ His ultimate goal: Shine a spotlight on the major, yet largely hidden role playe
 
 “It’s part of our history and we’re working to acknowledge it,” Kanaski says. “We’re adding depth to the history of the CCC and, in particular, the African-American presence. They played a major role in the development of our refuges today.”
 
-{{< figure class="photo-center" src="/images/pages/CCCpixbridgebuilding.jpg" alt="Black and white photo of five black men building a wooden bridge over floating logs" caption="Building a bridge at White River National Wildlife Refuge. Photo by Civilian Conservation Corps. Originals on file at the USFWS Office of the Regional Archaeologist, Savannah." >}}
+{{< figure class="photo-center" src="/images/pages/CCCpixbridgebuilding.jpg" alt="Black and white photo of five black men building a wooden bridge over floating logs" caption="Building a bridge at Dale Bumpers White River National Wildlife Refuge. Photo by Civilian Conservation Corps." >}}
 
 ### ‘Two wasted resources’
 
@@ -48,7 +48,7 @@ They worked on more than 40 wildlife refuges, building roads, residences, levees
 
 In Arkansas, the CCC erected 450 buildings, laid 6,400 miles of road, planted 20 million trees and strung 8,600 miles of telephone wire. At White River, the young men basically created the refuge out of whole cloth. The White CCCers built the refuge buildings and residences. The Black CCCers, stationed downriver in Jack’s Bay, mostly built fences, truck trails, fire breaks, levees, and cleared the river channels.
 
-{{< figure class="photo-center" src="/images/pages/CCCpixgrassylake.jpg" alt="Black and white photo of many black men building up a large pile or soil using hand tools" caption="Building Grassy Lake dam at White River National Wildlife Refuge. Photo by Civilian Conservation Corps. Originals on file at the USFWS Office of the Regional Archaeologist, Savannah." >}}
+{{< figure class="photo-center" src="/images/pages/CCCpixgrassylake.jpg" alt="Black and white photo of many black men building up a large pile or soil using hand tools" caption="Building Grassy Lake dam. Photo by Civilian Conservation Corps." >}}
 
 FDR established the refuge from bottomlands and farmsteads in 1935 with the mandate to protect and conserve migratory birds – mallards, Canadian geese, scaups, Gadwalls, prothonotary warblers -- and other wildlife. The Service acquired 110,000 acres along a 60-mile stretch of the White River. The CCC helped raze “undesirable” farm buildings, re-plant hardwoods and create impoundments that attracted the birds.
 
@@ -62,7 +62,7 @@ A corner of the museum is given over to an exhibit entitled, “History of CCC C
 
 Mitchell ducks into her museum office and returns with an album of old photos. Inside are pictures of Black men cutting trees, milling the wood, pushing wheelbarrows and making duck boxes from bark. Although the men helped build the refuge, Mitchell says, they weren’t working in St. Charles so they’re not part of the exhibit.
 
-{{< figure class="photo-right" src="/images/pages/CCCpixstumps.jpg" alt="Black and white photo of five black men working to remove a large tree stump" caption="Taking out a stump for a road at White River National Wildlife Refuge. Photo by Civilian Conservation Corps. Originals on file at the USFWS Office of the Regional Archaeologist, Savannah." >}}
+{{< figure class="photo-right" src="/images/pages/CCCpixstumps.jpg" alt="Black and white photo of five black men working to remove a large tree stump" caption="Clearing a tree stump to make way for a road. Photo by Civilian Conservation Corps." >}}
 
 “The White crews did most of the buildings,” Kanaski says. “The Black crews got stuck with the erosion control, earth-moving, the planting of trees and other tasks that promoted habitat restoration. The CCC, like a lot of other things at the time, was segregated.”
 
@@ -72,7 +72,7 @@ In the South, the reasoning was as twisted as the racism that ruled much of Afri
 
 Georgia was particularly opposed to African-American participation. No Blacks had been selected in Clarke County where they comprised 60 percent of the population. By July 1933, only 143 Blacks statewide had joined the corps; 3,567 Whites had. In Mississippi, only 46 African-Americans were enrolled.
 
-{{< figure class="photo-center" src="/images/pages/CCCpixroadbuilding.jpg" alt="Black and white photo of black men laying wood for a road" caption="Building a road at White River National Wildlife Refuge. Photo by Civilian Conservation Corps. Originals on file at the USFWS Office of the Regional Archaeologist, Savannah." >}}
+{{< figure class="photo-center" src="/images/pages/CCCpixroadbuilding.jpg" alt="Black and white photo of black men laying wood for a road" caption="Building a road at the refuge. Photo by Civilian Conservation Corps." >}}
 
 Calvin Gower, writing in the Journal of Negro History, said Blacks finally made inroads into the southern camps by the mid-30s. Even then, though, their jobs were restricted by race. He quotes Robert Fechner, the CCC director, as rationalizing the admission of Blacks “because of the natural adaptability of Negroes to serve as cooks."
 
@@ -82,5 +82,5 @@ In all, there were 150 segregated camps across the country. Eventually, African-
 
 Now, nearly a century later, their largely unsung, yet critically important conservation work is finally getting its due.
 
-{{< figure class="photo-center" src="/images/pages/CCCpixenrollees-crop-600.jpg" alt="Black and white photo of more than 100 young black men in uniform posing in front of a building" caption="Company 3776. Photo by Civilian Conservation Corps. Originals on file at the USFWS Office of the Regional Archaeologist, Savannah." >}}
+{{< figure class="photo-center" src="/images/pages/CCCpixenrollees-crop-600.jpg" alt="Black and white photo of more than 100 young black men in uniform posing in front of a building" caption="Company 3776. Photo by Civilian Conservation Corps." >}}
 
