@@ -137,3 +137,14 @@ Since January 2011, David has served as an Assistant Regional Director and Regio
 David’s areas of greatest professional interest include connecting wildlife habitats through landscape linkages, connecting people with nature, and compatibility and appropriate use policy.  David’s greatest passion, though, is helping others grow. He has served over the years as the regional youth programs coordinator; member of the Diversity Committee; he founded the regional Leadership Development Council; helped establish the E-4 Mentoring program; has taught several courses at the National Conservation Training Center; speaks frequently on the power of diversity; and helped coach the Advanced Leadership Development Program. 
 
 David has been a volunteer youth sports coach for more than 40 teams, ages 4 to 18, in basketball, baseball, softball, track and field, and soccer. His favorite times are spent with his wife of 25 years and their four children, doing faith-based volunteering, fishing, canoeing, hiking, camping, hunting, and other outdoor activities. 
+
+## Paul Wilkes 
+
+### Assistant Regional Director, Wildlife and Sport Fisheries Restoration
+
+{{< figure class="photo-right" src="/images/pages/paul-wilkes-bio-2021.jpg" alt="Man kneels at water's edge holding a large fish." >}}
+
+As Manager of the Wildlife and Sport Fish Restoration pProgram (WSFR) Paul administers a variety of grant programs in the Southeast Region in cooperation with the Fish and Wildlife Service’s partner state agencies.  With a cumulative total of approximately $305 million annually, these grant funds are used to enhance the state’s ability to manage their fish and wildlife resources for the benefit of the public. 
+
+Paul began his career at the Kentucky Department of Fish and Wildlife Resources as a field technician in 2012 where he worked in the Lake Fisheries Research Unit.  He then served as the Aquatic Nuisance Species Biologist before moving to Assistant Director of the Fisheries Division where he coordinated Fisheries grants and worked with local partners on boating access projects.  Prior to joining the service Paul was serving as the Acting Fisheries Director in Kentucky, working with the agency’s Commission on fisheries regulations and overseeing management of the Commonwealth’s fisheries.
+
