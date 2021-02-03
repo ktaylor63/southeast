@@ -48,7 +48,7 @@ They worked on more than 40 wildlife refuges, building roads, residences, levees
 
 In Arkansas, the CCC erected 450 buildings, laid 6,400 miles of road, planted 20 million trees and strung 8,600 miles of telephone wire. At White River, the young men basically created the refuge out of whole cloth. The White CCCers built the refuge buildings and residences. The Black CCCers, stationed downriver in Jack’s Bay, mostly built fences, truck trails, fire breaks, levees, and cleared the river channels.
 
-{{< figure class="photo-center" src="/images/pages/CCCpixgrassylake.jpg " alt="Black and white photo of many black men building up a large pile or soil using hand tools" caption="Building Grassy Lake dam at White River National Wildlife Refuge. Photo by Civilian Conservation Corps. Originals on file at the USFWS Office of the Regional Archaeologist, Savannah." >}}
+{{< figure class="photo-center" src="/images/pages/CCCpixgrassylake.jpg" alt="Black and white photo of many black men building up a large pile or soil using hand tools" caption="Building Grassy Lake dam at White River National Wildlife Refuge. Photo by Civilian Conservation Corps. Originals on file at the USFWS Office of the Regional Archaeologist, Savannah." >}}
 
 FDR established the refuge from bottomlands and farmsteads in 1935 with the mandate to protect and conserve migratory birds – mallards, Canadian geese, scaups, Gadwalls, prothonotary warblers -- and other wildlife. The Service acquired 110,000 acres along a 60-mile stretch of the White River. The CCC helped raze “undesirable” farm buildings, re-plant hardwoods and create impoundments that attracted the birds.
 
@@ -82,5 +82,5 @@ In all, there were 150 segregated camps across the country. Eventually, African-
 
 Now, nearly a century later, their largely unsung, yet critically important conservation work is finally getting its due.
 
-{{< figure class="photo-center" src="/images/pages/CCCpixenrollees-crop600.jpg" alt="Black and white photo of more than 100 young black men in uniform posing in front of a building" caption="Company 3776. Photo by Civilian Conservation Corps. Originals on file at the USFWS Office of the Regional Archaeologist, Savannah." >}}
+{{< figure class="photo-center" src="/images/pages/CCCpixenrollees-crop-600.jpg" alt="Black and white photo of more than 100 young black men in uniform posing in front of a building" caption="Company 3776. Photo by Civilian Conservation Corps. Originals on file at the USFWS Office of the Regional Archaeologist, Savannah." >}}
 
