@@ -30,7 +30,7 @@ Leopoldo “Leo” Miranda is the Southeast Regional Director of the Department 
 
 ### Deputy Regional Director
 
-{{< figure class="photo-right" src="/images/pages/michael-oetker-bio-2021.jpg" alt="Man in boat on the water holding a fish. Man wears a black cap and sunglasses" >}}
+{{< figure class="photo-right" src="/images/pages/mike-oetker-bio-2021.jpg" alt="Man in boat on the water holding a fish. Man wears a black cap and sunglasses" >}}
 
 Mike Oetker is the Deputy Regional Director of the U.S. Fish and Wildlife Service’s Southeast Region where he oversees the agency’s operations involving more than 1,300 employees spread out over 10 states and the Caribbean islands. He has been with the Service for 19 years.
 
