@@ -1,11 +1,10 @@
 ---
-draft: true
 title: 'National Refuge adds 400-plus acres in Kentucky'
 date: 2021-02-11T00:00:00.000Z
 hero:
-    name: 
-    alt: ''
-    caption: ''
+    name: green-river-nwr-forest.jpg
+    alt: 'A forest composed of many small trees and a grassy/shrub understory'
+    caption: 'A forested section of the proposed Green River National Wildlife Refuge and Conservation Partnership Area. Photo by Lee Andrews, USFWS.'
 tags:
     - 'Green River National Wildlife Refuge'
     - Kentucky
