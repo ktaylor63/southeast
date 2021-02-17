@@ -42,5 +42,8 @@ Wolf Creek NFH sets in the Cumberland River valley, just below Wolf Creek Dam on
 
 ## Contact
 
-Ashley Buffington, Environmental Education/Outreach Specialist  
-[ashley_buffington@fws.gov](mailto:ashley_buffington@fws.gov), (270) 343-3797
+Meg Redmon, Education Specialist  
+[anne_redmon@fws.gov](mailto: anne_redmon@fws.gov), (270) 343-3797
+
+Marsha Hart, Environmental Education/Outreach Specialist  
+[marsha_hart@fws.gov](mailto:marsha_hart@fws.gov), (270) 343-3797
