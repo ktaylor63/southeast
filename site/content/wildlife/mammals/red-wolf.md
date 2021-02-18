@@ -24,7 +24,7 @@ tags:
     - 'Red Wolf'
     - 'South Carolina'
     - 'South Carolina Ecological Services Field Office'
-updated: 'January 14th, 2021'
+updated: 'February 18th, 2021'
 ---
 
 - **Taxon**: Mammal
@@ -126,6 +126,7 @@ The updates the Service provides on these calls can be found below
 - [April 2020](/pdf/notes/red-wolf-partnership-call-2020-04-16.pdf)
 - [July 2020](/pdf/notes/red-wolf-partnership-call-2020-07-16.pdf)
 - [October 2020](/pdf/notes/red-wolf-partnership-call-2020-10-15.pdf)
+- [January 2021](/pdf/notes/red-wolf-partnership-call-2021-01-21.pdf)
 
 ## Community involvement
 
