@@ -11,7 +11,7 @@ hero:
   alt: "Three men and a woman standing on an observation deck overlooking a pine forest on the edge of the Gulf"
   caption: "Regional Director Leo Miranda with Brittany Petersen, Jereme Phillips, and Steven Seibert at Bon Secour NWR. Photo by USFWS."
   position: "35% 45%"
-updated: "February 17th, 2021"
+updated: "February 18th, 2021"
 ---
 
 Nationally, the U.S. Fish and Wildlife Service is led by a Director, a team of Assistant Directors and eight Regional Directors. (See our [headquarters organizational chart.](http://www.fws.gov/offices/orgcht.html))
@@ -66,13 +66,15 @@ Allan has been married for 38 years with three adult children, all of whom are m
 
 Stephen Clark has over 26 years’ experience in natural resource law enforcement that started by patrolling the bayous as a state game warden in south Louisiana (1994-2001), serving proudly in the United States Army in Operation Desert Storm, and ultimately leading complex investigations as a Fish & Wildlife Service Special Agent (2001—Present). Additionally, Stephen served as a Fish & Wildlife Service Special Agent Pilot where he provided investigative air support across the nation.  Throughout his career, Stephen has served in several different leadership capacities including, Resident Agent in Charge in Lacombe, La. and Assistant Special Agent in Charge in Albuquerque, NM. In addition, he has served as acting Special Agent in Charge for the Branch of Investigations at Fish & Wildlife Service Headquarters, and multiple acting Regional Special Agent in Charge assignments for the Southeast and Southwest Regions.  Stephen holds a bachelor’s degree from Southeastern Louisiana University in Economics and Management. During his time away from work, Stephen enjoys spending time outdoors with his wife Nicole and two sons—Zachary and Andrew.
 
-## Michelle Everson 
+## Michelle Everson
 
 ### Assistant Regional Director, Gulf Restoration
 
 {{< figure class="photo-right" src="/images/pages/michelle-everson-bio-2021.jpg" alt="Close-up of a blonde woman smiling and wearing a white collared shirt with the U.S. Fish and Wildlife Service." >}}
 
-Michelle Eversen is the Assistant Regional Director of the Gulf Restoration Program which oversees the Deepwater Horizon Natural Resource Damage Assessment Restoration (NRDAR), including coordination for the RESTORE Act, as well as all other NRDARs in South Atlantic-Gulf and Mississippi Basin Interior Regions. After working in the private sector as an environmental scientist, she began her career with the U.S. Fish and wildlife Service in 2002 as a field biologist with the Chesapeake Bay ES Field Office before moving to Headquarters into Partners for Fish and Wildlife Program where she worked on national policies and budget formulation. In 2012, Michelle joined the leadership team in the Atlanta Regional Office as the Ecological Services (ES) Program Supervisor responsible for supervising the ES Field Office Supervisors across the southeast region. On any given Sunday Michelle can be found on some body of water, be it rafting a river, paddle boarding in lagoon or sitting by an ocean all with her husband and latest rescue pup. Michelle attributes her love of nature and critters to her childhood time spent with her grandparents either on the farm in Virginia, trying to catch bullfrogs out of the pond, or in the brook in New Jersey, looking for salamanders. Michelle Eversen holds a Bachelor’s of Science degree in Biology from Virginia Tech University and Masters of Science degree in Environmental Toxicology from Clemson University.  
+Michelle Eversen is the Assistant Regional Director of the Gulf Restoration Program which oversees the Deepwater Horizon Natural Resource Damage Assessment Restoration (NRDAR), including coordination for the RESTORE Act, as well as all other NRDARs in South Atlantic-Gulf and Mississippi Basin Interior Regions.  After working in the private sector as an environmental scientist, she began her career with the U.S. Fish and Wildlife Service in 2002 as a field biologist with the Chesapeake Bay Ecological Services (ES) Field Office before moving to Headquarters into the Partners for Fish and Wildlife Program where she worked on national policies and budget formulation.   In 2012, Michelle joined the leadership team in the Atlanta Regional Office as the ES Program Supervisor responsible for supervising the ES Field Office Supervisors across the Southeast.
+
+On any given Sunday Michelle can be found on a body of water, be it rafting a river, paddle boarding in a lagoon, or sitting by an ocean, all with her husband and latest rescue pup. Michelle attributes her love of nature and critters to her childhood time spent with her grandparents either on the farm in Virginia, trying to catch bullfrogs out of the pond, or in the brook in new Jersey, looking for salamanders.  Michelle holds a Bachelor’s of Science degree in Biology from Virginia Tech University and a Master’s of Science degree in Environmental Toxicology from Clemson University.
 
 ## Mara Lopez
 
