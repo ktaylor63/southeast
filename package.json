@@ -70,7 +70,6 @@
     "xml-parser": "^1.2.1",
     "yamljs": "^0.3.0"
   },
-  "dependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/USFWS/southeast.git"
