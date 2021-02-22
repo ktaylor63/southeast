@@ -15,20 +15,21 @@ hero:
 tags:
     - 'Endangered Species Act'
     - Georgia
-updated: 'August 7th, 2020'
+updated: 'February 22nd, 2021'
 ---
 
 {{< figure class="photo-right" src="/images/pages/chattahoochee-forest-nfh-stocking.jpg" alt="A service employee shoots fish out of a transport truck into a stream" caption="Project Leader Kelly Taylor stocking trout the week of August 3, 2020. Photo Kelly Taylor, USFWS." >}}
 
 <div style="border: 3px solid #721c24; border-radius: 5px; box-shadow: 3px 3px 5px rgba(0,0,0,0.3); padding: 1rem; margin: 1rem 0;">
-    <p>The hatchery raceway, visitor kiosk and Rock Creek are open for an enjoyable fishing experience. We encourage you to:</p>
+    <p>Although most hatchery lands and outdoor spaces have remained open for the public to enjoy, we ask that you do the following:</p>
     <ul>
-        <li>Check local hatchery conditions on this website before visiting</li>
-        <li>Follow <a href="https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/visitors.html">current CDC safe practices by</a> maintaining a safe distance between yourself and other groups</li>
-        <li>Wash your hands often with soap and water for at least 20 seconds</li>
-        <li>Avoid touching your eyes, nose and mouth</li>
-        <li>Cover your mouth and nose when you cough or sneeze</li>
-        <li>Most importantly, stay home if you feel sick</li>
+        <li>Check local conditions on this website and call ahead for current information.  Operations vary based on local public health conditions.</li>
+        <li><a href="https://www.fws.gov/refuges/covid-mask-requirement.html">Face masks are required</a> in all federal buildings and on all federal lands.</li>
+        <li>Maintain a safe distance between yourself and other groups.</li>
+        <li>Wash your hands often with soap and water for at least 20 seconds.</li>
+        <li>Avoid touching your eyes, nose and mouth.</li>
+        <li>Cover your mouth and nose when you cough or sneeze.</li>
+        <li>Most importantly, stay home if you feel sick.</li>
     </ul>
     <p>Learn more about the U.S. Fish and Wildlife Service <a href="https://fws.gov/home/public-health-update.html">Coronavirus Response</a>.</p>
 </div>
