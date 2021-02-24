@@ -19,7 +19,7 @@ tags:
   - "Lake Barkley"
   - "Silver Carp"
   - Tennessee
-updated: "November 17th, 2020"
+updated: "February 24th, 2021"
 ---
 
 The spread of four species of large carp—bighead, black, grass, and silver— threatens the Southeast’s renowned aquatic biodiversity and local outdoor economies. The U.S. Fish and Wildlife Service and its federal and state partners are on the front line fighting Asian carp in southeastern waters.
@@ -46,7 +46,7 @@ The [Mississippi Interstate Cooperative Resource Association](http://www.micrari
 
 Sound has shown promise as a potential barrier to Asian carp passage and is being tested at lock and dam structures on large rivers where carp abound. The Service is working with the U.S. Army Corps of Engineers, with the support of the Kentucky Department of Fish and Wildlife Resources, the Tennessee Wildlife Resources Agency, and other partners, to deploy a large-scale sound deterrent trial project at Barkley Lock and Dam in western Kentucky.
 
-{{< figure class="photo-center" src="/images/pages/baff-install-barkley-lock-and-dam.jpg" alt="Heavy machinery on a barge moves the bio-acoustic fish fence into place in a lock next to a dam" caption="Installing the bio-acoustic fish fence at Lake Barkley. Photo by KDFWR." >}}
+{{< youtube id="PxiVe5l1mVI" title="Asian Carp Deterrence Animation" >}}
 
 The goal of the bio-acoustic fish fence, also referred to as BAFF, is to reduce the movement of Asian carp through the locks. This will help protect hundreds of river miles in the Tennessee and Cumberland rivers that remain relatively untouched by carp. The BAFF, developed by U.K.-based Fish Guidance Systems, deploys a curtain of bubbles, light and sound to deter carp from the lock entrance without encumbering commercial and recreational navigation.
 
