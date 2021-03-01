@@ -7,6 +7,7 @@ hero:
     name: sunrise-on-dauphin-island-drew-heffenden.jpg
     alt: 'A bright orange sunrise looking down a coastal beach with a silhouette recording data from the dunes with a golf cart midway between the silhouette and the surf'
     caption: 'Sunrise on Dauphin Island, Alabama Audubon staff conducts some early morning monitoring activities. Photo by Drew Heffenden, Nature Travel Specialists'
+    position: 50% 35%
 tags:
     - Alabama
     - 'Deepwater Horizon'
