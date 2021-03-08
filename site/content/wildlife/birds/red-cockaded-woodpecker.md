@@ -22,7 +22,7 @@ tags:
     - 'Red-Cockaded Woodpecker'
     - 'South Carolina'
     - 'South Carolina Ecological Services Field Office'
-updated: 'December 4th, 2020'
+updated: 'March 8th, 2021'
 ---
 
 - **Taxon**: Bird
@@ -163,9 +163,9 @@ The Service held a virtual public informational meeting and virtual public heari
 
 [Powerpoint presentation for virtual public informational meeting and virtual public hearing](/pdf/presentations/rcw-public-meeting-12012020-final-for-web.pdf)
 
-Video recording from virtual public informational meeting and virtual public hearing 
+### Video recording from virtual public informational meeting and virtual public hearing 
 {{< youtube id="e3ZkAQbV1Hg" title="Red-cockaded woodpecker public meeting December 1, 2020" caption="Video by USFWS." >}}
-
+[A transcript from the public meeting is available here](/pdf/notes/rcw-public-meeting-transcript-20211201.pdf)
 
 [Download the recovery plan](https://ecos.fws.gov/docs/recovery_plan/030320_2.pdf). The goal of the Service’s red-cockaded woodpecker recovery program is to conserve the species and the ecosystem upon which it depends. Red-cockaded woodpeckers have increased in number range-wide in response to recovery and management programs, from an estimated 4,694 active clusters by 1995 to at least 7,800 today.
 
