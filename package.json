@@ -19,6 +19,7 @@
     "prehugo:deploy": "npm run mkdist",
     "hugo:deploy": "node build/deployHugo",
     "serve": "hugo server --config config.dev.yml -p 3000 -s site --navigateToChanged",
+    "serve:build": "browser-sync start --server dist  --files 'dist'",
     "prestart": "npm run mkdist",
     "start": "run-p watch serve",
     "build": "node build/build",
@@ -77,5 +78,8 @@
   "bugs": {
     "url": "https://github.com/USFWS/southeast/issues"
   },
-  "homepage": "https://github.com/USFWS/southeast#readme"
+  "homepage": "https://github.com/USFWS/southeast#readme",
+  "dependencies": {
+    "browser-sync": "^2.26.14"
+  }
 }
