@@ -12,7 +12,7 @@ tags:
     - Fire
     - Hurricane
     - 'Oil Spill'
-updated: 'August 11, 2020'
+updated: 'March 22, 2021'
 ---
 
 Occasionally, federal agencies must respond to emergency situations where human life and property are in danger.  Examples include oil spills, wildland fire, and weather events such as Hurricane Michael, Irma, and Maria.  The Endangered Species Act (ESA) and its implementing regulations recognize the need to respond immediately to emergencies and provide special procedures that allow federal agencies the latitude to complete their emergency responses in order to secure human life and property without delay, while still providing them with protections that normal compliance under the ESA would have afforded them.
@@ -55,6 +55,9 @@ The links below are provided to assist you in understanding emergency provisions
 - [Regional Consultation Pre-authorizing of Solidifier Use in the northeast Gulf of Mexico](/pdf/guidelines/solidifiers.pdf)
 - [Deepwater Horizon Oil Spill best management practices](/pdf/best-management-practice/deepwater-horizon-appendix-e.pdf)
 - [NOAA Environmental Sensitivity Index (ESI) Maps](https://response.restoration.noaa.gov/esi)
+- [Louisiana Ecological Services Field Office Migratory Birds program](/lafayette/migratory-birds/)
+- [Louisiana Ecological Services Field Office Ecological Services program](/lafayette/endangered-species-and-recovery/)
+- [Florida’s Wildlife Contingency Plan for Oil Spill Response](https://ocean.floridamarine.org/acp/wcp/)
 
 ## Contact
 
@@ -68,5 +71,5 @@ For anything else including general questions, consultation on multi-state proje
 **Dr. Heath Rauschenberger, Regional Consultation Coordinator**  
 [heath_rauschenberger@fws.gov](mailto:heath_rauschenberger@fws.gov), 904-731-3203)  
 
-**Rob Tawes, Chief, Division of Environmental Review**  
+**Rob Tawes, Chief, Division Supervisor, Environmental Review**  
 [robert_tawes@fws.gov](mailto:robert_tawes@fws.gov), (404) 679-7142
