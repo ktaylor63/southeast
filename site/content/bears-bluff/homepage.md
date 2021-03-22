@@ -14,7 +14,7 @@ type: field-station
 tags:
     - 'National Fish Hatchery'
     - 'South Carolina'
-updated: 'February 22nd, 2021'
+updated: 'March 22, 2021'
 ---
 
 <div style="border: 3px solid #721c24; border-radius: 5px; box-shadow: 3px 3px 5px rgba(0,0,0,0.3); padding: 1rem; margin: 1rem 0;">
@@ -30,6 +30,10 @@ updated: 'February 22nd, 2021'
     </ul>
     <p>Learn more about the U.S. Fish and Wildlife Service <a href="https://fws.gov/home/public-health-update.html">Coronavirus Response</a>.</p>
 </div>
+
+## Construction
+
+**Notice:** Due to construction and maintenance of our production ponds, a large section of the walking trail will be closed until further notice. For your safety, please do not cross the construction barriers.
 
 The Bears Bluff National Fish Hatchery serves as a part of the  Warmwater Fisheries and Aquatic Conservation Program in  the South Atlantic-Gulf Region of the U.S. Fish and Wildlife Service. The coastal location of the 31-acre facility along the banks of the North Edisto River in South Carolina provides an ideal site to investigate culture techniques for a wide variety of freshwater, saltwater and anadromous (fish that migrate from saltwater to fresh) aquatic species.
 
